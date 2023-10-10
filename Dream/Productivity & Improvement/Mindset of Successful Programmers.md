@@ -1,8 +1,6 @@
 source: https://youtu.be/nogh434ykF0
 
 ---
-
-
 ## Focus on Practice not the Theory
 > Quality is better than Quantity. 
 >+ Avoid Tutorial Hell. 

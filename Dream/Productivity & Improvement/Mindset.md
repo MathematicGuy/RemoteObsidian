@@ -1,5 +1,4 @@
-## ![[Mindset of Successful Programmers]]
-
+## [[Mindset of Successful Programmers]]
 ## To Think
 > **See things in a wide Perspective. Don't forge Ideas in a frame.** 
 > + Think out of the Box

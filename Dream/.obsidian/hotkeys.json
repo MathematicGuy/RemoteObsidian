@@ -16,5 +16,24 @@
       ],
       "key": "D"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }
