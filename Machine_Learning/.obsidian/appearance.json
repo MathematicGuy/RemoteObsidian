@@ -1,0 +1,9 @@
+{
+  "accentColor": "#efd36b",
+  "translucency": true,
+  "baseFontSizeAction": true,
+  "cssTheme": "Cybertron",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "nativeMenus": true
+}

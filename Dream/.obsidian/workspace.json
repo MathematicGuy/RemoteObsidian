@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "e7cff660ad05fc91",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e4770ce76d3f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3d6ad5a8fb3f867",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb6d32c1a18a5000",
+    "type": "split",
+    "children": [
+      {
+        "id": "a715a45fe2fbd767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8c10c353524c54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d76e5e58be50a188",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74b56c8f50af4070",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ab7739a99214d6a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "53017fde76c082f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb7d114c5cee368",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4722b2d24e11e933",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a15bb59e7a28d7e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd196a193e5f7d90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7a065c47913a625",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "03d51cf18b8a7579",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a3435255934a89f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a3d6ad5a8fb3f867",
+  "lastOpenFiles": [
+    "Social.md",
+    "Pasted image 20231005162158.png",
+    "Emotion.md",
+    "Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
+    "Scott Young on the Best Way to Learn Anything.md",
+    "Study Strategies.md",
+    "Studying Less.md",
+    "How to study 2 hours a day.md",
+    "How to achieve more while studying less.md",
+    "Inattentive ADHD.md",
+    "Learn more about Myself.md",
+    "Pasted image 20230928195856.png",
+    "Articulate.md",
+    "100 Thing to do before DeadBed.md",
+    "LEARN CODE FASTER.md",
+    "Sleep.md",
+    "Pasted image 20230926193701.png",
+    "Google Sky.md",
+    "Communication Skills.md",
+    "How Your Brain Organizes Information (Part 1).md",
+    "Manipulate.md",
+    "10 Tips to Overcome temptation.md",
+    "5 Lessons About Life.md",
+    "1_Shoot for the Star.md",
+    "4 Reasons Hard Work DOES NOT Beat Talent.md",
+    "2 Hours a Day but still ACE the Exams.md",
+    "the IVY LEAGUE SECRET to STUDYING EFFECTIVELY.md",
+    "Watch This Everyday.md",
+    "Pasted image 20230909162829.png",
+    "Pasted image 20230901075612.png",
+    "Pasted image 20230901075150.png",
+    "Pasted image 20230901074907.png",
+    "Pasted image 20230901074843.png",
+    "Pasted image 20230901074835.png",
+    "Pasted image 20230901074659.png",
+    "Ultimate Past Paper Revision Strategy",
+    "Untitled.canvas",
+    "Report2.pdf",
+    "ReportFinal.pdf",
+    "Report.pdf",
+    "Mirror",
+    "image"
+  ]
+}

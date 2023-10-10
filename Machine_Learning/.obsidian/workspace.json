@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "d4e732a841033fde",
+    "type": "split",
+    "children": [
+      {
+        "id": "e507b2c37fd40f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f95b10d308770c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c4caac05eeb37b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f92db5b25d25c4de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "071da20bef53fc13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbc61dc1b0a26cb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3af4179c2ed191f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5b429f276e830688",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef264f4c5d3315f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a124e27f563919f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27e1d1b0f43efc65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "698061f4331a6cac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85f35245e27faef0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0993c9e53013bed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9f95b10d308770c",
+  "lastOpenFiles": [
+    "Regression.md",
+    "Machine Learning.md",
+    "AI RoadMap.md",
+    "AI.md",
+    "Optimization.md",
+    "Pasted image 20231006064118.png",
+    "Pasted image 20231006063728.png",
+    "Pasted image 20231006063655.png",
+    "Pasted image 20231006063107.png",
+    "Game AI.md",
+    "Untitled 1.md",
+    "Pasted image 20231005203403.png",
+    "Harvard CS50’s Artificial Intelligence with Python.md",
+    "Knowledge.md",
+    "Uncertainty.md",
+    "Pasted image 20231001093018.png",
+    "Search Problems.md",
+    "Big Tech.md",
+    "Pasted image 20230922081553.png",
+    "Pasted image 20230922081411.png",
+    "Pasted image 20230922081404.png",
+    "Pasted image 20230922081003.png",
+    "What is Neural Network.md",
+    "Neural Networks.md",
+    "How to Take Notes for Technical Things (Really).md",
+    "Elements of AI.md",
+    "Why Machine Learning.md",
+    "MLP Catagories.md",
+    "Classification.md",
+    "Classification Example Problems.md",
+    "Evaluation metrics.md",
+    "Machine Learning Problems.md",
+    "Sequence to sequence (seq2seq).md",
+    "Concept and Process.md",
+    "Code.md",
+    "Seeing Theory A visual introduction to the most useful.pdf",
+    "book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
+    "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
+    "book/1802.01528.pdf",
+    "book/Unconfirmed 721386.crdownload",
+    "book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
+    "Training/inference time",
+    "Training",
+    "Untitled",
+    "image"
+  ]
+}

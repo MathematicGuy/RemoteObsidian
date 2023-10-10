@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "099fad6463c4eff0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e6fd236c0802213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53feab7f5056c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/everyone I'm grateful for.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38352654b426acce",
+    "type": "split",
+    "children": [
+      {
+        "id": "45e62f053456f698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc53dc6bb856fb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6847846e1adde012",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hmidecode",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc8979b85ad65c46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2274cd5bb7462f92",
+    "type": "split",
+    "children": [
+      {
+        "id": "929e38a4e3e40595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f16c49227ef54ebe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Focus/everyone I'm grateful for.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce0dd87156036d4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Focus/everyone I'm grateful for.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df5e122df49d54c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc090f2b5a922763",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Focus/everyone I'm grateful for.md"
+              }
+            }
+          },
+          {
+            "id": "b5d65a47b929d094",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fd5b0d2cbcb77af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "c53feab7f5056c39",
+  "lastOpenFiles": [
+    "2023/Challenges & Guides/Github.md",
+    "_Focus/everyone I'm grateful for.md",
+    "remoteObsidian/Project Skin/_Focus.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5.pdf",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1.pdf",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1 1.pdf",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Revision.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic Note.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Công thức Xác Suất đầy đủ và Công thức Bayes..md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Test Review.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS QUIZ SUMMARY.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Project.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS PrinciplesAnnotation.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Principles Note.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Chap4-FILE SYSTEMS.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Managing Files & Directories.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Linux.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Interacting OS systems with python.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/How to use Machine Learning AI in Unity! (ML-Agents).md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Bash.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/AnotateChap1 - Introduction.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/Polymorphism (Đa Hình).md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP SUMMARY.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP Project.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP Functions.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP Java.md",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs",
+    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic",
+    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
+    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
+    "remoteObsidian/Project Skin/Images/z4584032723186_457e88676912d9ec0bc50a30ad9de29d 1.jpg",
+    "remoteObsidian/Project Skin/Images/z4584032723186_457e88676912d9ec0bc50a30ad9de29d.jpg",
+    "remoteObsidian/Project Skin/Images/wallpaperflare.com_wallpaper.jpg",
+    "remoteObsidian/Project Skin/Images/smaller.jpg",
+    "remoteObsidian/Project Skin/Images/Pasted image 20231005155331.png",
+    "remoteObsidian/Project Skin/Images/Pasted image 20231007120824.png",
+    "remoteObsidian/Project Skin/Images/Pasted image 20231004142108.png",
+    "remoteObsidian/Project Skin/Images/Pasted image 20231005123707.png",
+    "remoteObsidian/Project Skin/Images/Pasted image 20231004142035.png",
+    "remoteObsidian/Project Skin/Images/Pasted image 20231004141949.png",
+    "Personal/FocusCanvas.canvas",
+    "Club & Event/Programming Club/PC Overall.canvas",
+    "Club & Event/Programming Club/~$ Overall.canvas",
+    "Untitled 1.canvas"
+  ]
+}

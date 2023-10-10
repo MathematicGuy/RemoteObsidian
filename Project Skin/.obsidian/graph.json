@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "C",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Unity",
+      "color": {
+        "a": 1,
+        "rgb": 16770401
+      }
+    },
+    {
+      "query": "OOP",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "Data Structure & Algorithm",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.05306923625981,
+  "lineSizeMultiplier": 1.94842969307637,
+  "collapse-forces": false,
+  "centerStrength": 0.792578849721707,
+  "repelStrength": 19.0792291220557,
+  "linkStrength": 0.970238095238095,
+  "linkDistance": 287,
+  "scale": 0.13776670857541312,
+  "close": false
+}
