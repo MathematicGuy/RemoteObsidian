@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1ae8b06498f0bd17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Habit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habit.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habit.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habit.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -193,10 +179,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ae8b06498f0bd17",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
-    "_Focus.md",
     "Habit.md",
+    "_Focus.md",
     "Daily.md",
     "Todo.md",
     "Club & Event/Programming Club/Recruitment.md",
