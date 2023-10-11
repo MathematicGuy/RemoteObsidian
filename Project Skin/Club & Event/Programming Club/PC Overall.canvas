@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"47d88ecb174e150c","type":"file","file":"Club & Event/Programming Club/Programming Club.md","x":20,"y":-200,"width":400,"height":180},
+		{"id":"47d88ecb174e150c","type":"file","file":"Club & Event/Programming Club/_Programming Club.md","x":20,"y":-200,"width":400,"height":180},
 		{"id":"f4dc7485fa48f6ed","type":"file","file":"Club & Event/Programming Club/Role & Personnel.md","x":-1120,"y":-600,"width":460,"height":660},
 		{"id":"fadff659a868c00f","type":"file","file":"Club & Event/Programming Club/Goal & Plan.md","x":-1060,"y":200,"width":400,"height":120},
 		{"id":"eff8b60ee2df245c","type":"file","file":"Club & Event/Programming Club/Recruitment.md","x":-1720,"y":200,"width":400,"height":1100},
