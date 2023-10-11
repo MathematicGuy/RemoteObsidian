@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "_Focus.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "d3ee2f5dda7d87ea",
+            "id": "65c131020dbc6da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Todo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ee432b8c15c1eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Habit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hmidecode",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 606
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +205,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3ee2f5dda7d87ea",
+  "active": "65c131020dbc6da7",
   "lastOpenFiles": [
+    "Habit.md",
     "_Focus.md",
+    "Todo.md",
+    "Daily.md",
+    "Club & Event/Programming Club/Recruitment.md",
+    "Club & Event/Programming Club/Programming Club.md",
+    "Club & Event/Programming Club/PC Overall.canvas",
+    "Club & Event/Programming Club/Goal & Plan.md",
+    "Club & Event/Programming Club/Hỗ Trợ Tạo Thẻ Câu Lạc Bộ.md",
+    "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
+    "_Focus/Seven W's.md",
     "_Focus/everyone I'm grateful for.md",
     "Personal/Good for LATER.md",
     "2023/Challenges & Guides/Github.md",
@@ -219,15 +242,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Principles Note.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Chap4-FILE SYSTEMS.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Managing Files & Directories.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Linux.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Interacting OS systems with python.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/How to use Machine Learning AI in Unity! (ML-Agents).md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/Bash.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/AnotateChap1 - Introduction.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/Polymorphism (Đa Hình).md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP SUMMARY.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP Project.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
@@ -243,7 +257,6 @@
     "remoteObsidian/Project Skin/Images/Pasted image 20231004142035.png",
     "remoteObsidian/Project Skin/Images/Pasted image 20231004141949.png",
     "Personal/FocusCanvas.canvas",
-    "Club & Event/Programming Club/PC Overall.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas",
     "Untitled 1.canvas"
   ]

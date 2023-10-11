@@ -14,6 +14,6 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "tabSize": 3,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "attachmentFolderPath": "Images"
 }

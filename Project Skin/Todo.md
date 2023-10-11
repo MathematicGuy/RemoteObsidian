@@ -1,12 +1,17 @@
+#Todo_Club
+- [ ]  Get Programming Club Folder goes Public & Remote on Github (so everyone can edit) 
+- [x] Organize PDF Books
 
-- [ ] #ToGet Programming Club Folder goes Public & Remote on Github (so everyone can edit) 
-- [ ] Create a Learning/Studying system that work for me
+
+#Todo_Code
+- [ ] Learn HTML & CSS
+- [ ] Learn JS
+- [ ] My First Web Project (small & dynamic)
+
+#Todo_Personal
 - [ ] Sync my routine activities to Google Calendar
-- [ ] Reasearch *The Secrets of Top Students: Tips, Tools, and Techniques for Acing High School and College by Stefanie Weisman* 
-- [ ] Organize my Todo List into a hierachy
-- [ ] Organize PDF Books
-- [ ] Practice English
+- [ ] Create a Learning/Studying system that work for me
 - [ ] Manualing Habitica Productivity System
-- [ ] Decide to Learn German or Japanses as my 3rd Language
-- [ ] Transfer my To-Do to obsidian's To-Do
- 
+- [ ] Decide to Learn German or Japanses as my 3rd Language 
+- [ ] Organize my Todo List into a hierachy
+- [ ] Reasearch *The Secrets of Top Students: Tips, Tools, and Techniques for Acing High School and College by Stefanie Weisman* 

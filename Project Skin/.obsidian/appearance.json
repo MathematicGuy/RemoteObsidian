@@ -1,11 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "Cybertron",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "translucency": true,
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "baseFontSize": 10,
-  "nativeMenus": false
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "showViewHeader": false
 }
