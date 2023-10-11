@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": null,
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "image"
 }

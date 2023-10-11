@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4e6fd236c0802213",
+        "id": "716d5d2d82821d31",
         "type": "tabs",
         "children": [
           {
-            "id": "c53feab7f5056c39",
+            "id": "a14a959b90ba4c3c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d3ee2f5dda7d87ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/everyone I'm grateful for.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/everyone I'm grateful for.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/everyone I'm grateful for.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/everyone I'm grateful for.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -147,17 +163,25 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "80671d35c7e2d33f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -168,10 +192,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c53feab7f5056c39",
+  "active": "d3ee2f5dda7d87ea",
   "lastOpenFiles": [
-    "2023/Challenges & Guides/Github.md",
+    "_Focus.md",
     "_Focus/everyone I'm grateful for.md",
+    "Personal/Good for LATER.md",
+    "2023/Challenges & Guides/Github.md",
     "remoteObsidian/Project Skin/_Focus.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
@@ -202,8 +228,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/Polymorphism (Đa Hình).md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP SUMMARY.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP Project.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP Functions.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OOP/OOP Java.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",

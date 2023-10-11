@@ -33,5 +33,8 @@ Git-hub. ML docs
 
 
 **Connect Your Obsidian Vault with Github**
-https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github
+https://youtu.be/BTN6hJ65qk8?si=WxDU3ehO99n3dDP7 (recommended)
+Or
+https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github (quick setup)
+
 

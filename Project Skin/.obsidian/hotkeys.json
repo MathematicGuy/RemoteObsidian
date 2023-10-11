@@ -88,5 +88,13 @@
       ],
       "key": "D"
     }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 
-- [ ]  Get Programming Club Folder goes Public & Remote on Github (so everyone can edit) 
+- [ ] #ToGet Programming Club Folder goes Public & Remote on Github (so everyone can edit) 
 - [ ] Create a Learning/Studying system that work for me
 - [ ] Sync my routine activities to Google Calendar
 - [ ] Reasearch *The Secrets of Top Students: Tips, Tools, and Techniques for Acing High School and College by Stefanie Weisman* 

@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e507b2c37fd40f91",
+        "id": "a576b52dd588e109",
         "type": "tabs",
         "children": [
           {
-            "id": "d9f95b10d308770c",
+            "id": "595e98fb057d501a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -65,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "5b429f276e830688",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning.md"
+              }
             }
           },
           {
@@ -141,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -149,52 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9f95b10d308770c",
+  "active": "595e98fb057d501a",
   "lastOpenFiles": [
-    "Regression.md",
-    "Machine Learning.md",
+    "Cloud Services.md",
+    "Classification.md",
+    "Bookmarks.md",
+    "Big Tech.md",
+    "Annotation MachineLearningBook.md",
     "AI RoadMap.md",
     "AI.md",
-    "Optimization.md",
-    "Pasted image 20231006064118.png",
-    "Pasted image 20231006063728.png",
-    "Pasted image 20231006063655.png",
-    "Pasted image 20231006063107.png",
-    "Game AI.md",
-    "Untitled 1.md",
-    "Pasted image 20231005203403.png",
-    "Harvard CS50’s Artificial Intelligence with Python.md",
-    "Knowledge.md",
-    "Uncertainty.md",
-    "Pasted image 20231001093018.png",
-    "Search Problems.md",
-    "Big Tech.md",
-    "Pasted image 20230922081553.png",
-    "Pasted image 20230922081411.png",
-    "Pasted image 20230922081404.png",
-    "Pasted image 20230922081003.png",
-    "What is Neural Network.md",
-    "Neural Networks.md",
-    "How to Take Notes for Technical Things (Really).md",
-    "Elements of AI.md",
-    "Why Machine Learning.md",
+    "Reinforcement Learning.md",
     "MLP Catagories.md",
-    "Classification.md",
-    "Classification Example Problems.md",
-    "Evaluation metrics.md",
-    "Machine Learning Problems.md",
-    "Sequence to sequence (seq2seq).md",
+    "News Settler.md",
+    "Machine Learning Tools.md",
+    "Facebook's field guide to machine learning.md",
+    "Clustering.md",
+    "Datasets.md",
     "Concept and Process.md",
     "Code.md",
-    "Seeing Theory A visual introduction to the most useful.pdf",
-    "book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
+    "Annotation lab.md",
+    "Books.md",
+    "Book/Seeing Theory A visual introduction to the most useful.pdf",
+    "Unsupervised Learning.md",
+    "Image/Pasted image 20230702130719.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled",
+    "Regression.md",
+    "Machine Learning.md",
+    "Optimization.md",
+    "Image/Pasted image 20231006064118.png",
+    "Image/Pasted image 20231006063728.png",
+    "Image/Pasted image 20231006063655.png",
+    "Image/Pasted image 20231006063107.png",
+    "Game AI.md",
+    "Image/Pasted image 20231005203403.png",
+    "Harvard CS50’s Artificial Intelligence with Python.md",
+    "Image/Pasted image 20231001093018.png",
+    "Image/Pasted image 20230922081553.png",
+    "Image/Pasted image 20230922081411.png",
+    "Image/Pasted image 20230922081404.png",
+    "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/1802.01528.pdf",
     "book/Unconfirmed 721386.crdownload",
-    "book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
+    "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Training/inference time",
     "Training",
-    "Untitled",
-    "image"
+    "Image"
   ]
 }
