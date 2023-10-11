@@ -1,10 +1,10 @@
 {
   "todoPageName": "todo",
   "showChecked": true,
-  "showAllTodos": true,
+  "showAllTodos": false,
   "autoRefresh": true,
   "subGroups": false,
-  "groupBy": "page",
+  "groupBy": "tag",
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",

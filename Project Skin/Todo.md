@@ -1,14 +1,14 @@
-#Todo_Club
+#Todo/Club
 - [ ]  Get Programming Club Folder goes Public & Remote on Github (so everyone can edit) 
 - [x] Organize PDF Books
 
 
-#Todo_Code
+#Todo/Code
 - [ ] Learn HTML & CSS
 - [ ] Learn JS
 - [ ] My First Web Project (small & dynamic)
 
-#Todo_Personal
+#Todo/Personal
 - [ ] Sync my routine activities to Google Calendar
 - [ ] Create a Learning/Studying system that work for me
 - [ ] Manualing Habitica Productivity System
