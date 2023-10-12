@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "c7583527ba64e50d",
+            "id": "fa4524582ab16eb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5,
-    "collapsed": true
+    "width": 823.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,20 +192,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c7583527ba64e50d",
+  "active": "fa4524582ab16eb8",
   "lastOpenFiles": [
-    "Todo.md",
     "_Focus.md",
+    "Todo.md",
+    "_Focus/Seven W's.md",
+    "Habit.md",
     "Club & Event/Họp sth.md",
     "Club & Event/Programming Club/_Programming Club.md",
-    "Habit.md",
     "Daily.md",
     "Club & Event/Programming Club/Recruitment.md",
     "Club & Event/Programming Club/PC Overall.canvas",
     "Club & Event/Programming Club/Goal & Plan.md",
     "Club & Event/Programming Club/Hỗ Trợ Tạo Thẻ Câu Lạc Bộ.md",
     "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
-    "_Focus/Seven W's.md",
     "_Focus/everyone I'm grateful for.md",
     "Personal/Good for LATER.md",
     "2023/Challenges & Guides/Github.md",

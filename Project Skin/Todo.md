@@ -1,6 +1,6 @@
 #Todo/Club
 - [ ]  Get Programming Club Folder goes Public & Remote on Github (so everyone can edit) 
-- [x] Organize PDF Books
+
 
 
 #Todo/Code
