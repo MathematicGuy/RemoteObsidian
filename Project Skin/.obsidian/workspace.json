@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "fa4524582ab16eb8",
+            "id": "d49698689ba0ea09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habit.md",
+                "file": "WebDev/HTML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habit.md",
+                "file": "WebDev/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habit.md",
+                "file": "WebDev/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habit.md"
+                "file": "WebDev/HTML.md"
               }
             }
           },
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 451.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +194,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa4524582ab16eb8",
+  "active": "d49698689ba0ea09",
   "lastOpenFiles": [
+    "WebDev",
     "_Focus.md",
+    "WebDev/HTML.md",
+    "Habit.md",
     "Todo.md",
     "_Focus/Seven W's.md",
-    "Habit.md",
     "Club & Event/Họp sth.md",
     "Club & Event/Programming Club/_Programming Club.md",
     "Daily.md",
@@ -227,8 +231,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Project.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS PrinciplesAnnotation.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Principles Note.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Chap4-FILE SYSTEMS.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
