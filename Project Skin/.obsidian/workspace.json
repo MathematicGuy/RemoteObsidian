@@ -23,30 +23,14 @@
             }
           },
           {
-            "id": "9809b2be9f939b3b",
+            "id": "9c5ea63e0b5eb272",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/HTML.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e8e7c31b76cc67e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/HTML.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/HTML.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/HTML.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -204,13 +188,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e8e7c31b76cc67e",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
+    "WebDev/JS.md",
+    "_Focus.md",
+    "WebDev/HTML.md",
     "Images/Pasted image 20231014171626.png",
     "Images/Pasted image 20231014171615.png",
-    "WebDev/HTML.md",
     "Images/Pasted image 20231014171643.png",
-    "_Focus.md",
     "History & Politic/Israel & Palestine.md",
     "History & Politic",
     "WebDev",
