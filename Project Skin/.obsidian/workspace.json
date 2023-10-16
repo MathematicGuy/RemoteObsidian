@@ -34,9 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e8e7c31b76cc67e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9809b2be9f939b3b",
+  "active": "4e8e7c31b76cc67e",
   "lastOpenFiles": [
     "Images/Pasted image 20231014171626.png",
     "Images/Pasted image 20231014171615.png",
