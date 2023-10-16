@@ -1,10 +1,11 @@
 #Todo/Club
-- [ ]  Get Programming Club Folder goes Public & Remote on Github (so everyone can edit) 
+
 
 
 
 #Todo/Code
-- [ ] Learn HTML & CSS
+- [ ] Web Dev Map Out
+- [ ] Learn CS Frame Work
 - [ ] Learn JS
 - [ ] My First Web Project (small & dynamic)
 
