@@ -23,20 +23,12 @@
             }
           },
           {
-            "id": "9c5ea63e0b5eb272",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7475540e4be6f5c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md"
               }
             }
           },
@@ -204,6 +196,12 @@
   "active": "7475540e4be6f5c9",
   "lastOpenFiles": [
     "_Focus.md",
+    "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
+    "Personal/20 Day Try Hard.md",
+    "Personal/Good for LATER.md",
+    "Personal/Tech News.md",
+    "Todo.md",
+    "Personal/FocusCanvas.canvas",
     "WebDev/JS.md",
     "WebDev/HTML.md",
     "Images/Pasted image 20231014171626.png",
@@ -213,7 +211,6 @@
     "History & Politic",
     "WebDev",
     "Habit.md",
-    "Todo.md",
     "_Focus/Seven W's.md",
     "Club & Event/Họp sth.md",
     "Club & Event/Programming Club/_Programming Club.md",
@@ -224,7 +221,6 @@
     "Club & Event/Programming Club/Hỗ Trợ Tạo Thẻ Câu Lạc Bộ.md",
     "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
     "_Focus/everyone I'm grateful for.md",
-    "Personal/Good for LATER.md",
     "2023/Challenges & Guides/Github.md",
     "remoteObsidian/Project Skin/_Focus.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
@@ -239,9 +235,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Revision.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic Note.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Công thức Xác Suất đầy đủ và Công thức Bayes..md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Test Review.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS QUIZ SUMMARY.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Project.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
@@ -252,7 +245,6 @@
     "remoteObsidian/Project Skin/Images/Pasted image 20231005155331.png",
     "remoteObsidian/Project Skin/Images/Pasted image 20231007120824.png",
     "remoteObsidian/Project Skin/Images/Pasted image 20231004142108.png",
-    "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas",
     "Untitled 1.canvas"
   ]
