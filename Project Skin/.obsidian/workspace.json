@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9267f89e18c4435c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -88,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus.md",
+                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md"
               }
             }
           },
@@ -179,10 +194,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a14a959b90ba4c3c",
+  "active": "9267f89e18c4435c",
   "lastOpenFiles": [
-    "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
     "_Focus.md",
+    "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
+    "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
     "Personal/20 Day Try Hard.md",
     "Personal/Good for LATER.md",
     "Personal/Tech News.md",
@@ -220,7 +236,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Revision.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic Note.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Công thức Xác Suất đầy đủ và Công thức Bayes..md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
