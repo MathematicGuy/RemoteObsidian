@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7475540e4be6f5c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -193,10 +179,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7475540e4be6f5c9",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
-    "_Focus.md",
     "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
+    "_Focus.md",
     "Personal/20 Day Try Hard.md",
     "Personal/Good for LATER.md",
     "Personal/Tech News.md",
