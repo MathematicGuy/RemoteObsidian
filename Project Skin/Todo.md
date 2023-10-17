@@ -8,6 +8,7 @@
 - [ ] Learn CS Frame Work
 - [ ] Learn JS
 - [ ] My First Web Project (small & dynamic)
+- [ ] 
 
 #Todo/Personal
 - [ ] Sync my routine activities to Google Calendar
