@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "536a4863fd51fc53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/HTML.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,8 +207,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2ce9ba33c741e451",
+  "active": "536a4863fd51fc53",
   "lastOpenFiles": [
+    "Images/Pasted image 20231018114318.png",
+    "WebDev/HTML Code.md",
+    "_Focus.md",
     "WebDev/HTML.md",
     "Images/Pasted image 20231018105911.png",
     "Images/Pasted image 20231018105916.png",
@@ -207,8 +223,6 @@
     "Images/Pasted image 20231018102050.png",
     "Images/Pasted image 20231018102059.png",
     "Images/Pasted image 20231018102011.png",
-    "WebDev/HTML Code.md",
-    "_Focus.md",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Todo.md",
     "Personal/Tech News.md",

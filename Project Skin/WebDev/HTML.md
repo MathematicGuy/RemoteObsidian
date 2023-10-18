@@ -47,8 +47,24 @@ block level -> 1 line for it
 inline level -> element inside other element.
 
 
+### 8. HTML Character Entity References
+
+**3 Characters You Ahould Always Escapse**
+![[Pasted image 20231018114318.png]]
+**Summary**
++ Help avoid text issues
+	&npsp -> non-breaking space (*basically space not causing line break*)
+		place after a word to connect the following word
++ Safeguard against more limited character encoding
++ Provide characters not available on a keyboard 
+	&copy; -> copyright symbol 
 
 
+### 9. Creating Links
+```html
+<a href="http://ww..." target="_blank" title="Like our pages"> Coursera </a>
+// target = "_blank" -> open link in new tab 
+```
 
 
 ---

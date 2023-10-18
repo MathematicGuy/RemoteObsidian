@@ -2,8 +2,11 @@
 strong ->  bold
 br ->  line break
 
-ul -> unorder list (bullet point)
-ol -> order list (number point)
+**list**
+ol, ul > li 
+	ul -> unorder list (bullet point)
+	ol -> order list (number point)
+
 
 style -> change global text style
 use inside a card for local style, header for global style  
