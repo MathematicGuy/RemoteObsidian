@@ -8,7 +8,8 @@
 - [ ] Learn CS Frame Work
 - [ ] Learn JS
 - [ ] My First Web Project (small & dynamic)
-- [ ] Goal - Finish my website Portfolio 
+- [ ] Goal - Finish my website Portfolio
+- [ ] Publish my Web online using github pages.
 
 #Todo/Personal
 - [ ] Sync my routine activities to Google Calendar

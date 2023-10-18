@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "67a952ae3ec68500",
+            "id": "2ce9ba33c741e451",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
+                "file": "WebDev/HTML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
+                "file": "WebDev/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
+                "file": "WebDev/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md"
+                "file": "WebDev/HTML.md"
               }
             }
           },
@@ -194,22 +194,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "67a952ae3ec68500",
+  "active": "2ce9ba33c741e451",
   "lastOpenFiles": [
+    "WebDev/HTML.md",
+    "Images/Pasted image 20231018105911.png",
+    "Images/Pasted image 20231018105916.png",
+    "Images/Pasted image 20231018103657.png",
+    "Images/Pasted image 20231018105840.png",
+    "Images/Pasted image 20231018103034.png",
+    "Images/Pasted image 20231018103117.png",
+    "Images/Pasted image 20231018102315.png",
+    "Images/Pasted image 20231018102050.png",
+    "Images/Pasted image 20231018102059.png",
+    "Images/Pasted image 20231018102011.png",
+    "WebDev/HTML Code.md",
     "_Focus.md",
-    "Personal/Tech News.md",
-    "Todo.md",
-    "Habit.md",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
+    "Todo.md",
+    "Personal/Tech News.md",
+    "Habit.md",
     "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
     "Personal/20 Day Try Hard.md",
     "Personal/Good for LATER.md",
     "Personal/FocusCanvas.canvas",
     "WebDev/JS.md",
-    "WebDev/HTML.md",
-    "Images/Pasted image 20231014171626.png",
-    "Images/Pasted image 20231014171615.png",
-    "Images/Pasted image 20231014171643.png",
     "History & Politic/Israel & Palestine.md",
     "History & Politic",
     "WebDev",
@@ -234,18 +242,9 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Revision.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic Note.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
-    "remoteObsidian/Project Skin/Images/z4584032723186_457e88676912d9ec0bc50a30ad9de29d 1.jpg",
-    "remoteObsidian/Project Skin/Images/z4584032723186_457e88676912d9ec0bc50a30ad9de29d.jpg",
-    "remoteObsidian/Project Skin/Images/wallpaperflare.com_wallpaper.jpg",
-    "remoteObsidian/Project Skin/Images/smaller.jpg",
-    "remoteObsidian/Project Skin/Images/Pasted image 20231005155331.png",
-    "remoteObsidian/Project Skin/Images/Pasted image 20231007120824.png",
-    "remoteObsidian/Project Skin/Images/Pasted image 20231004142108.png",
     "Club & Event/Programming Club/~$ Overall.canvas",
     "Untitled 1.canvas"
   ]

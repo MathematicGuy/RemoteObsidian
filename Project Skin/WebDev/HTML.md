@@ -1,32 +1,56 @@
+### 1. What is HTML?
+**Hypertext** Markup Language
++ Hypertext mean This document link to Other documents. (Which create a gigantic web)
+![[Pasted image 20231018101934.png]]
 
-strong ->  bold
-br ->  line break
++ Hypermedia -> extension of hyper text
+![[Pasted image 20231018102011.png]]
 
-ul -> unorder list (bullet point)
-ol -> order list (number point)
++ Markup -> to mark sth up, to annotate.
+![[Pasted image 20231018102059.png]]
 
-style -> change global text style
-use inside a card for local style, header for global style  
++ Language -> HTML (a language follow an order)
+![[Pasted image 20231018102315.png]]
+	+ Annotates content
+	+ Defines document structure
+
+### 2. Relevant History of HTML
+
+
++ 1997 - not driven standards -> no format html, bunch of bug
++ 2000 - now: Tmprovement -> HTML5
+
+**2 Main Organization developed HTML5** 
+![[Pasted image 20231018103117.png]]
+standard -> pick the best out of those evolving, slowly improve. Auto update to user 
+evolving -> newest update to date
+
+
+### 3. Anatomy of an HTML Tag
+
+hr - horizontal rule (can only open, not require to close)
+id - must be unique
+![[Pasted image 20231018103657.png]]
+
+### 4. Basic HTML Document Structure
 ```html
-<body style="background-color:powderblue;">  
-  
-<h1>This is a heading</h1>  
-<p>This is a paragraph.</p>  
-  
-</body>
+<!doctype html>
+<meta charset-"utf-8"> // use to display content
 ```
+This help browsers render those pages correctly, browsers used the doctype declaration to distinguish between noncompliant and compliant pages. 
+	not complie ->  web run in *quirks mode* 
+	quirks mode -> Assumes that the HTML in the web page is NOT following the HTML standard, i.e., not in standards mode. Styles won't work correctly, etc.
 
-2 ways to add space (top right bottom left)
-+ margin -> space outside 
-+ padding -> space inside
-
-"**ul>il*3**" meaning that **inside ul** tag **give me 3 il tag**
-
-div div ul il -> il inside a ul inside a div inside a div 
+### 5. HTML Content Models
+![[Pasted image 20231018105916.png]]
+block level -> 1 line for it
+inline level -> element inside other element.
 
 
 
-Modify 2 different section using class
-![[Pasted image 20231014171643.png]]
-![[Pasted image 20231014171626.png]]
+
+
+
+---
+[[HTML Code]]
 
