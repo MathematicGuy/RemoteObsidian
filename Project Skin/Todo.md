@@ -4,10 +4,10 @@
 
 
 #Todo/Code/WebDEv
-- [ ] Web Dev Map Out
 - [ ] Learn CS Frame Work
 - [ ] Learn JS
 - [ ] My First Web Project (small & dynamic)
+	Black Jack + Slot Machine Website (with sfx)
 - [ ] Goal - Finish my website Portfolio
 - [ ] Publish my Web online using github pages.
 

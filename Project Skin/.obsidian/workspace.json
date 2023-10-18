@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "e4ca7b30eee3fe2a",
+            "id": "1c14f50e3e53a510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2491aa2f141806c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/JS.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/JS.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/JS.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/JS.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -207,12 +194,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2491aa2f141806c8",
+  "active": "1c14f50e3e53a510",
   "lastOpenFiles": [
+    "_Focus.md",
     "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
     "WebDev/JS.md",
+    "for of vs for in.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
-    "_Focus.md",
     "Images/Pasted image 20231018164201.png",
     "Images/slotMachineReelSmaller.jpg",
     "Images/Pasted image 20231018162738.png",
