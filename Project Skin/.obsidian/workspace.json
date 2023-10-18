@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e4ca7b30eee3fe2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2491aa2f141806c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/JS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus.md",
+                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md"
               }
             }
           },
@@ -180,21 +207,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a14a959b90ba4c3c",
+  "active": "e4ca7b30eee3fe2a",
   "lastOpenFiles": [
+    "WebDev/JS.md",
+    "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
+    "WebDev/SlotMachine/Slot_Machine_Design.canvas",
+    "_Focus.md",
+    "Images/Pasted image 20231018164201.png",
+    "Images/slotMachineReelSmaller.jpg",
+    "Images/Pasted image 20231018162738.png",
+    "WebDev/SlotMachine",
     "WebDev/HTML.md",
     "Images/Pasted image 20231018114318.png",
     "WebDev/HTML Code.md",
-    "_Focus.md",
     "Images/Pasted image 20231018105911.png",
     "Images/Pasted image 20231018105916.png",
     "Images/Pasted image 20231018103657.png",
     "Images/Pasted image 20231018105840.png",
     "Images/Pasted image 20231018103034.png",
     "Images/Pasted image 20231018103117.png",
-    "Images/Pasted image 20231018102315.png",
-    "Images/Pasted image 20231018102050.png",
-    "Images/Pasted image 20231018102059.png",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Todo.md",
     "Personal/Tech News.md",
@@ -203,7 +234,6 @@
     "Personal/20 Day Try Hard.md",
     "Personal/Good for LATER.md",
     "Personal/FocusCanvas.canvas",
-    "WebDev/JS.md",
     "History & Politic/Israel & Palestine.md",
     "History & Politic",
     "WebDev",
@@ -227,8 +257,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/Probability & Statistic.md",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas",
