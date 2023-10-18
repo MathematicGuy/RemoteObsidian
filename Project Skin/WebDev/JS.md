@@ -32,3 +32,10 @@ console.log(arr); // Output: [1, 2, 5]
 
 In this example, we have an array `arr` with five elements. We call the `splice()` method on the array and pass two arguments: `2` and `2`. This means that we want to remove two elements starting from index position `2`. The resulting array will be `[1, 2, 5]`.
 
+
+#### of vs in
+```js
+for (const row of rows) {}
+for (const row in rows) {}
+
+```

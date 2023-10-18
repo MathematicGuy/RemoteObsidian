@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
+                "file": "WebDev/JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
+                "file": "WebDev/JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/SlotMachine/Slot_Machine_BackEnd.md"
+                "file": "WebDev/JS.md"
               }
             }
           },
@@ -207,10 +207,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e4ca7b30eee3fe2a",
+  "active": "2491aa2f141806c8",
   "lastOpenFiles": [
-    "WebDev/JS.md",
     "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
+    "WebDev/JS.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "_Focus.md",
     "Images/Pasted image 20231018164201.png",
