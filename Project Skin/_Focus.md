@@ -10,7 +10,7 @@ I can only anser this by asking myself Đinh Nhật Thành the [[Seven W's]]
 
 1. [[Who]] am I?
 2. What do I [[Want]]?
-3. [[Why]] do I want the things I want?
+3. [[Why]] I am doing this?
 4. [[When]] I'm going to do these?
 5. [[What]] are the things I will consistently to do accomplish these?
 6. With [[Whom]] I'm going to surround myself for leverage.
