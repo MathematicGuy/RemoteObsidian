@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1c14f50e3e53a510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -194,20 +180,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c14f50e3e53a510",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
+    "WebDev/CSS.md",
+    "WebDev/HTML Code.md",
+    "WebDev/HTML.md",
     "_Focus.md",
-    "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
-    "WebDev/JS.md",
+    "WebDev/SlotMachine/SlotMachineJS.md",
     "for of vs for in.md",
+    "WebDev/JS.md",
+    "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
+    "Todo.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Images/Pasted image 20231018164201.png",
     "Images/slotMachineReelSmaller.jpg",
     "Images/Pasted image 20231018162738.png",
     "WebDev/SlotMachine",
-    "WebDev/HTML.md",
     "Images/Pasted image 20231018114318.png",
-    "WebDev/HTML Code.md",
     "Images/Pasted image 20231018105911.png",
     "Images/Pasted image 20231018105916.png",
     "Images/Pasted image 20231018103657.png",
@@ -215,7 +204,6 @@
     "Images/Pasted image 20231018103034.png",
     "Images/Pasted image 20231018103117.png",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
-    "Todo.md",
     "Personal/Tech News.md",
     "Habit.md",
     "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
@@ -236,7 +224,6 @@
     "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
     "_Focus/everyone I'm grateful for.md",
     "2023/Challenges & Guides/Github.md",
-    "remoteObsidian/Project Skin/_Focus.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
@@ -244,7 +231,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1 1.pdf",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas",
