@@ -17,5 +17,6 @@
 - [ ] Manualing Habitica Productivity System
 - [ ] Decide to Learn German or Japanses as my 3rd Language 
 - [ ] Organize my Todo List into a hierachy
+- [ ] Organize Youtube playlists
 - [ ] Reasearch *The Secrets of Top Students: Tips, Tools, and Techniques for Acing High School and College by Stefanie Weisman* 
 
