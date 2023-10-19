@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "History & Politic/Doom Day Agreements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "History & Politic/Doom Day Agreements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "History & Politic/Doom Day Agreements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "History & Politic/Doom Day Agreements.md"
               }
             }
           },
@@ -196,9 +195,11 @@
   },
   "active": "6ad26a4b4b4029a8",
   "lastOpenFiles": [
+    "History & Politic/Israel & Palestine.md",
+    "History & Politic/Doom Day Agreements.md",
+    "Todo.md",
     "_Focus.md",
     "Untitled.md",
-    "Todo.md",
     "WebDev/CSS.md",
     "WebDev/HTML Code.md",
     "WebDev/HTML.md",
@@ -225,7 +226,6 @@
     "Personal/20 Day Try Hard.md",
     "Personal/Good for LATER.md",
     "Personal/FocusCanvas.canvas",
-    "History & Politic/Israel & Palestine.md",
     "History & Politic",
     "WebDev",
     "_Focus/Seven W's.md",
@@ -237,7 +237,6 @@
     "Club & Event/Programming Club/Goal & Plan.md",
     "Club & Event/Programming Club/Hỗ Trợ Tạo Thẻ Câu Lạc Bộ.md",
     "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
-    "_Focus/everyone I'm grateful for.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
