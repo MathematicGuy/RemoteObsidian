@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/SlotMachine/SlotMachineDesign.md",
+                "file": "WebDev/CSS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/SlotMachine/SlotMachineDesign.md",
+                "file": "WebDev/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/SlotMachine/SlotMachineDesign.md",
+                "file": "WebDev/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/SlotMachine/SlotMachineDesign.md"
+                "file": "WebDev/CSS.md"
               }
             }
           },
@@ -195,17 +196,17 @@
   },
   "active": "1e48f9880eaaa870",
   "lastOpenFiles": [
+    "WebDev/HTML.md",
+    "WebDev/SlotMachine/SlotMachineDesign.md",
     "Images/Pasted image 20231020104750.png",
     "WebDev/SlotMachine/SlotMachineJS.md",
     "WebDev/SlotMachine/Slot_Machine_Engine.md",
-    "WebDev/SlotMachine/SlotMachineDesign.md",
     "_Focus.md",
     "Personal/Interest/Books.md",
     "Images/Pasted image 20231020000759.png",
     "Images/Pasted image 20231020000746.png",
     "WebDev/JS.md",
     "WebDev/HTML Code.md",
-    "WebDev/HTML.md",
     "WebDev/CSS.md",
     "History & Politic/Doom Day Agreements.md",
     "History & Politic/Israel & Palestine.md",
@@ -221,7 +222,6 @@
     "Images/Pasted image 20231018105911.png",
     "Images/Pasted image 20231018105916.png",
     "Images/Pasted image 20231018103657.png",
-    "Images/Pasted image 20231018105840.png",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Personal/Tech News.md",
     "Habit.md",
