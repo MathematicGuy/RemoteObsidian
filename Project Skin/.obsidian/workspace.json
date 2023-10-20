@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/CSS.md",
+                "file": "CSS Grid.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/CSS.md",
+                "file": "CSS Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/CSS.md",
+                "file": "CSS Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/CSS.md"
+                "file": "CSS Grid.md"
               }
             }
           },
@@ -196,8 +196,20 @@
   },
   "active": "1e48f9880eaaa870",
   "lastOpenFiles": [
-    "_Focus.md",
+    "Images/Pasted image 20231020164755.png",
     "WebDev/CSS.md",
+    "CSS Grid.md",
+    "CSS Flex Box.md",
+    "Images/Pasted image 20231020163736.png",
+    "Images/Pasted image 20231020162130.png.~tmp",
+    "Images/Pasted image 20231020162130.png",
+    "Images/Pasted image 20231020162446.png.~tmp",
+    "Images/Pasted image 20231020162446.png",
+    "Images/Pasted image 20231020162642.png",
+    "Pasted image 20231020162205.png.md",
+    "Images/Pasted image 20231020162205.png",
+    "_Focus.md",
+    "Images/Pasted image 20231020162203.png",
     "WebDev/HTML.md",
     "WebDev/SlotMachine/SlotMachineDesign.md",
     "Images/Pasted image 20231020104750.png",
@@ -215,13 +227,7 @@
     "for of vs for in.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Images/Pasted image 20231018164201.png",
-    "Images/slotMachineReelSmaller.jpg",
-    "Images/Pasted image 20231018162738.png",
     "WebDev/SlotMachine",
-    "Images/Pasted image 20231018114318.png",
-    "Images/Pasted image 20231018105911.png",
-    "Images/Pasted image 20231018105916.png",
-    "Images/Pasted image 20231018103657.png",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Personal/Tech News.md",
     "Habit.md",
@@ -233,17 +239,12 @@
     "WebDev",
     "_Focus/Seven W's.md",
     "Club & Event/Họp sth.md",
-    "Club & Event/Programming Club/_Programming Club.md",
-    "Daily.md",
-    "Club & Event/Programming Club/Recruitment.md",
     "Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1.pdf",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter1 1.pdf",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas",
