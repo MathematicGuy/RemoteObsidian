@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6ad26a4b4b4029a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History & Politic/Doom Day Agreements.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History & Politic/Doom Day Agreements.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History & Politic/Doom Day Agreements.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History & Politic/Doom Day Agreements.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -193,19 +179,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ad26a4b4b4029a8",
+  "active": "cbc53dc6bb856fb8",
   "lastOpenFiles": [
-    "History & Politic/Israel & Palestine.md",
+    "Personal/Interest/Books.md",
+    "Images/Pasted image 20231020000759.png",
+    "Images/Pasted image 20231020000746.png",
+    "WebDev/JS.md",
+    "WebDev/HTML Code.md",
+    "WebDev/HTML.md",
+    "WebDev/CSS.md",
     "History & Politic/Doom Day Agreements.md",
+    "History & Politic/Israel & Palestine.md",
     "Todo.md",
     "_Focus.md",
     "Untitled.md",
-    "WebDev/CSS.md",
-    "WebDev/HTML Code.md",
-    "WebDev/HTML.md",
     "WebDev/SlotMachine/SlotMachineJS.md",
     "for of vs for in.md",
-    "WebDev/JS.md",
     "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Images/Pasted image 20231018164201.png",
@@ -217,8 +206,6 @@
     "Images/Pasted image 20231018105916.png",
     "Images/Pasted image 20231018103657.png",
     "Images/Pasted image 20231018105840.png",
-    "Images/Pasted image 20231018103034.png",
-    "Images/Pasted image 20231018103117.png",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Personal/Tech News.md",
     "Habit.md",
@@ -235,8 +222,6 @@
     "Club & Event/Programming Club/Recruitment.md",
     "Club & Event/Programming Club/PC Overall.canvas",
     "Club & Event/Programming Club/Goal & Plan.md",
-    "Club & Event/Programming Club/Hỗ Trợ Tạo Thẻ Câu Lạc Bộ.md",
-    "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
