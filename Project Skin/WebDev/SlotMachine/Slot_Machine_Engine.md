@@ -1,5 +1,4 @@
-Slot Machine Overview
-
+Slot Machine Engine
 > slot machine reels. (or columns of the slot machine) - reel: cuộn phim/cuộn băng 
 ![[slotMachineReelSmaller.jpg]]
 

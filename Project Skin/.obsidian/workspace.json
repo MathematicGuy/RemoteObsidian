@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1e48f9880eaaa870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/SlotMachine/SlotMachineDesign.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus.md",
+                "file": "WebDev/SlotMachine/SlotMachineDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "WebDev/SlotMachine/SlotMachineDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "WebDev/SlotMachine/SlotMachineDesign.md"
               }
             }
           },
@@ -179,8 +193,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cbc53dc6bb856fb8",
+  "active": "1e48f9880eaaa870",
   "lastOpenFiles": [
+    "Images/Pasted image 20231020104750.png",
+    "WebDev/SlotMachine/SlotMachineJS.md",
+    "WebDev/SlotMachine/Slot_Machine_Engine.md",
+    "WebDev/SlotMachine/SlotMachineDesign.md",
+    "_Focus.md",
     "Personal/Interest/Books.md",
     "Images/Pasted image 20231020000759.png",
     "Images/Pasted image 20231020000746.png",
@@ -191,11 +210,8 @@
     "History & Politic/Doom Day Agreements.md",
     "History & Politic/Israel & Palestine.md",
     "Todo.md",
-    "_Focus.md",
     "Untitled.md",
-    "WebDev/SlotMachine/SlotMachineJS.md",
     "for of vs for in.md",
-    "WebDev/SlotMachine/Slot_Machine_BackEnd.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Images/Pasted image 20231018164201.png",
     "Images/slotMachineReelSmaller.jpg",
@@ -221,7 +237,6 @@
     "Daily.md",
     "Club & Event/Programming Club/Recruitment.md",
     "Club & Event/Programming Club/PC Overall.canvas",
-    "Club & Event/Programming Club/Goal & Plan.md",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
