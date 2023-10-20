@@ -1,4 +1,6 @@
-Flex-Box
 
-Flex mean follow the main axis
-Main-Axix is Horizontal axis
+### Flex Box
+
+flex ->  follow the Main Axis
+	Main Axis is Horizontal axis
+

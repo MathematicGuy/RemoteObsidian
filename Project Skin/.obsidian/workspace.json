@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/CSS.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/CSS.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/CSS.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -194,8 +193,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e48f9880eaaa870",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
+    "WebDev/CSS.md",
     "WebDev/HTML.md",
     "WebDev/SlotMachine/SlotMachineDesign.md",
     "Images/Pasted image 20231020104750.png",
@@ -207,7 +207,6 @@
     "Images/Pasted image 20231020000746.png",
     "WebDev/JS.md",
     "WebDev/HTML Code.md",
-    "WebDev/CSS.md",
     "History & Politic/Doom Day Agreements.md",
     "History & Politic/Israel & Palestine.md",
     "Todo.md",
