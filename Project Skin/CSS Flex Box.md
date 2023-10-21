@@ -1,4 +1,7 @@
-flex ->  follow the Main Axis
+note: Flexbox has no justify-items, only css grid
+
+---
+**Justify, Flex -> Follow the Main-Axis**
 	Main Axis is Horizontal axis
 
 justify-content -> Follow the **MAIN AXIS**
@@ -11,6 +14,7 @@ justify-content -> Follow the **MAIN AXIS**
 
 stretch - stretch the item as much as it  could (grew to full size)
 
+**Align -> Follow the Cross-Axis**
 align-item: flex-start -> align item to the top of the box
 ![[Pasted image 20231020163736.png]]
 
