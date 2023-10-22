@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Confusing Concept.md",
+                "file": "CSS Grid.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,12 +95,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Confusing Concept.md",
+                "file": "CSS Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Confusing Concept.md",
+                "file": "CSS Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Confusing Concept.md"
+                "file": "CSS Grid.md"
               }
             }
           },
@@ -209,33 +209,36 @@
   },
   "active": "41ab95cd56adadae",
   "lastOpenFiles": [
-    "WebDev/CSS.md",
-    "CSS Grid.md",
-    "Images/Pasted image 20231021145242.png",
+    "WebDev/WebDev_Learn/Backend.md",
+    "Images/Pasted image 20231022105840.png",
+    "Images/Pasted image 20231022110950.png",
+    "Images/Pasted image 20231022110724.png",
+    "Images/Pasted image 20231022110817.png",
+    "Images/Pasted image 20231022110721.png",
+    "Images/Pasted image 20231022110119.png",
+    "Images/Pasted image 20231022105724.png",
+    "Images/Pasted image 20231022105328.png",
+    "Images/Pasted image 20231022105349.png",
+    "Images/Pasted image 20231022104930.png",
+    "WebDev/Web.md",
+    "WebDev/WebDev_Learn/Frontend.md",
+    "WebDev/HTML Code.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "WebDev/WebDev_Learn",
+    "WebDev/SlotMachine/Slot_Machine_Engine.md",
     "CSS Confusing Concept.md",
+    "CSS Grid.md",
     "CSS Flex Box.md",
     "justify-items vs justify-content vs justify self.md",
-    "Images/evenly.png",
-    "Images/around.png",
-    "Images/between.png",
-    "Images/Pasted image 20231021142317.png",
-    "Images/Screenshot 2023-10-21 140928.png",
-    "Images/Pasted image 20231021140751.png",
-    "Images/Pasted image 20231021140800.png",
-    "Images/Pasted image 20231021140722.png",
-    "Images/Pasted image 20231021140344 1.png",
     "WebDev/CSS",
     "_Focus.md",
     "Images/Pasted image 20231020162130.png.~tmp",
     "Images/Pasted image 20231020162446.png.~tmp",
     "Pasted image 20231020162205.png.md",
-    "WebDev/HTML.md",
+    "WebDev/WebDev_Learn/HTML.md",
     "WebDev/SlotMachine/SlotMachineDesign.md",
     "WebDev/SlotMachine/SlotMachineJS.md",
-    "WebDev/SlotMachine/Slot_Machine_Engine.md",
     "Personal/Interest/Books.md",
-    "WebDev/JS.md",
-    "WebDev/HTML Code.md",
     "History & Politic/Doom Day Agreements.md",
     "History & Politic/Israel & Palestine.md",
     "Todo.md",
@@ -247,8 +250,6 @@
     "Personal/Tech News.md",
     "Habit.md",
     "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
-    "Personal/20 Day Try Hard.md",
-    "Personal/Good for LATER.md",
     "Personal/FocusCanvas.canvas",
     "History & Politic",
     "WebDev",
@@ -256,7 +257,6 @@
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5.pdf",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas",
