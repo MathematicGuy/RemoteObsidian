@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41ab95cd56adadae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Confusing Concept.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Grid.md",
+                "file": "CSS Confusing Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Grid.md",
+                "file": "CSS Confusing Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Grid.md"
+                "file": "CSS Confusing Concept.md"
               }
             }
           },
@@ -195,14 +207,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e48f9880eaaa870",
+  "active": "41ab95cd56adadae",
   "lastOpenFiles": [
+    "WebDev/CSS.md",
+    "CSS Grid.md",
     "Images/Pasted image 20231021145242.png",
     "CSS Confusing Concept.md",
     "CSS Flex Box.md",
-    "WebDev/CSS.md",
     "justify-items vs justify-content vs justify self.md",
-    "CSS Grid.md",
     "Images/evenly.png",
     "Images/around.png",
     "Images/between.png",
@@ -212,7 +224,6 @@
     "Images/Pasted image 20231021140800.png",
     "Images/Pasted image 20231021140722.png",
     "Images/Pasted image 20231021140344 1.png",
-    "Images/Pasted image 20231021140344.png",
     "WebDev/CSS",
     "_Focus.md",
     "Images/Pasted image 20231020162130.png.~tmp",
