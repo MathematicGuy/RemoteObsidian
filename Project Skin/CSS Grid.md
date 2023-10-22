@@ -1,12 +1,23 @@
 > Flexbox vs Grid
 ![[Pasted image 20231020164755.png]]
 
+>right-column is 200px and left-column is 200px
+
 ![[Pasted image 20231021105449.png]]
->right-column: 200px and left is 200px
 
+> Start at row 1 and end at row 3
+```css
+grid-row: 1 / 3; 
+```
 
-fr - fraction
-px - pixel
+>grid-area: "row-start" "col-start" "row-end" "col-end"
+```css
+(row - col) - (start - end)
+grid-area: 1 / 2 / -1 / 3;
+```
+
+fr - fraction values
+px - pixel values
 
 grid-gap: gap-size 
 	grid-column-gap
