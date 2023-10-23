@@ -8,7 +8,6 @@ value
 	" " + 2 -> "2"
 
 
-
 **function**
 let a_function = (parameter) => {
 	// code

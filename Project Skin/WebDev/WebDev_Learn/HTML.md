@@ -37,6 +37,7 @@ id - must be unique
 <!doctype html>
 <meta charset-"utf-8"> // use to display content
 ```
++ help website run faster and responsive 
 This help browsers render those pages correctly, browsers used the doctype declaration to distinguish between noncompliant and compliant pages. 
 	not complie ->  web run in *quirks mode* 
 	quirks mode -> Assumes that the HTML in the web page is NOT following the HTML standard, i.e., not in standards mode. Styles won't work correctly, etc.
