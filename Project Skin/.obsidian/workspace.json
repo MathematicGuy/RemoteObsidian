@@ -23,33 +23,15 @@
             }
           },
           {
-            "id": "ced602f7ff8b9550",
+            "id": "0d6b7695c67845aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023/Software Engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f660e89713963566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023/Software Engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023/Software Engineering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,17 +184,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f660e89713963566",
+  "active": "0d6b7695c67845aa",
   "lastOpenFiles": [
-    "WebDev/WebDev_Learn/JS.md",
-    "2023/Software Engineering.md",
     "_Focus.md",
-    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
+    "2023/Software Engineering.md",
+    "WebDev/WebDev_Learn/Frontend.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "WebDev/WebDev_Learn/Backend.md",
     "WebDev/WebDev_Learn/HTML.md",
+    "WebDev/HTML Code.md",
     "WebDev/WebDev_Learn/JS/for of vs for in.md",
+    "WebDev/WebDev_Learn/JS.md",
+    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
@@ -226,10 +207,7 @@
     "Images/Pasted image 20231023142622.png",
     "Images/Pasted image 20231023141949.png",
     "center a div.md",
-    "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/Web.md",
-    "WebDev/HTML Code.md",
-    "WebDev/WebDev_Learn/Backend.md",
     "WebDev/SlotMachine/SlotMachineJS.md",
     "Images/Pasted image 20231022105840.png",
     "Images/Pasted image 20231022110950.png",
