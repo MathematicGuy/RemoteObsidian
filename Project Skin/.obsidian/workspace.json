@@ -26,8 +26,13 @@
             "id": "0d6b7695c67845aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS COLORFUL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -81,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS COLORFUL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS COLORFUL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS COLORFUL.md"
+              }
             }
           },
           {
@@ -186,10 +196,12 @@
   },
   "active": "0d6b7695c67845aa",
   "lastOpenFiles": [
+    "WebDev/WebDev_Learn/CSS.md",
+    "CSS COLORFUL.md",
+    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "_Focus.md",
     "2023/Software Engineering.md",
     "WebDev/WebDev_Learn/Frontend.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "WebDev/WebDev_Learn/Backend.md",
     "WebDev/WebDev_Learn/HTML.md",
     "WebDev/HTML Code.md",
@@ -197,7 +209,6 @@
     "WebDev/WebDev_Learn/JS.md",
     "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "WebDev/WebDev_Learn/JS",
-    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
