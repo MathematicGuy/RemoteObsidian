@@ -14,7 +14,15 @@ let a_function = (parameter) => {
 }
 
 
-**java front end**
+### java front end
+**JS HTML**
+
++ **Concept**
+	HTML DOM (Document Object Model)
+		When a web page is loaded, the browser creates a **D**ocument **O**bject **M**odel of the page.
+
+
+**Knowledge**
 document -> connect to HTML document
 .getElementbyId("id") -> get ID of an Element/Tag
 .querySelector("class") -> select a class in HTML. Access method similiar to CSS. 
@@ -32,4 +40,17 @@ btn.addEventListener("click", () => {
 });
 ```
 
+code run after DOM all loaded
+```js
+window.addEventListener("DOMContentLoaded", () => {
+	// code run after JS File all loaded
+});
+```
 
+
+
+**Data**
+empty array
+```js
+array.length = 0;
+```

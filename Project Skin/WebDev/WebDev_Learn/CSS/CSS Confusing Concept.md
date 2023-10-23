@@ -11,7 +11,6 @@
 
 ### [[justify-items vs justify-content vs justify self]]
 
-
 ### [11 way to center a div](https://blog.hubspot.com/website/center-div-css#center-div-css)
 
 #### Center a div to the middle of the screen 

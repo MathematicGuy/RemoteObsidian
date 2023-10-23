@@ -23,38 +23,25 @@
             }
           },
           {
-            "id": "41d917ce4455a2a8",
+            "id": "ced602f7ff8b9550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Software Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f660e89713963566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "WebDev/WebDev_Learn/JS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b356a3ca87494be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Values & Units.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9190bcd5b6660c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/JS.md",
+                "file": "2023/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/JS.md",
+                "file": "2023/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/JS.md"
+                "file": "2023/Software Engineering.md"
               }
             }
           },
@@ -220,14 +206,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "41d917ce4455a2a8",
+  "active": "ced602f7ff8b9550",
   "lastOpenFiles": [
-    "CSS Values & Units.md",
     "WebDev/WebDev_Learn/JS.md",
     "_Focus.md",
+    "2023/Software Engineering.md",
+    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "WebDev/WebDev_Learn/HTML.md",
+    "WebDev/WebDev_Learn/JS/for of vs for in.md",
+    "WebDev/WebDev_Learn/JS",
+    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "WebDev/WebDev_Learn/CSS.md",
-    "CSS Confusing Concept.md",
+    "WebDev/WebDev_Learn/CSS",
+    "WebDev/WebDev_Learn/CSS/CSS Grid.md",
+    "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
+    "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
     "Todo.md",
     "Images/Pasted image 20231023142625.png",
     "Images/Pasted image 20231023142622.png",
@@ -238,7 +231,6 @@
     "WebDev/HTML Code.md",
     "WebDev/WebDev_Learn/Backend.md",
     "WebDev/SlotMachine/SlotMachineJS.md",
-    "CSS Grid.md",
     "Images/Pasted image 20231022105840.png",
     "Images/Pasted image 20231022110950.png",
     "Images/Pasted image 20231022110724.png",
@@ -248,8 +240,6 @@
     "Images/Pasted image 20231022105724.png",
     "WebDev/WebDev_Learn",
     "WebDev/SlotMachine/Slot_Machine_Engine.md",
-    "CSS Flex Box.md",
-    "justify-items vs justify-content vs justify self.md",
     "WebDev/CSS",
     "Images/Pasted image 20231020162130.png.~tmp",
     "Images/Pasted image 20231020162446.png.~tmp",
@@ -258,8 +248,6 @@
     "Personal/Interest/Books.md",
     "History & Politic/Doom Day Agreements.md",
     "History & Politic/Israel & Palestine.md",
-    "Untitled.md",
-    "for of vs for in.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "WebDev/SlotMachine",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
@@ -268,8 +256,6 @@
     "WebDev",
     "Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/Chapter01-Introduction.pdf",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/DSA/DSA Docs/Slide-DSA-Chapter5 1.pdf",
-    "remoteObsidian/Project Skin/2023/3rd Semesters/OS/OS Docs/BookOS-exercises.pdf",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas",
