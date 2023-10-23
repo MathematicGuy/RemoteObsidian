@@ -1,8 +1,8 @@
 [FrontEnd](https://youtu.be/WG5ikvJ2TKA?si=gDncUoFCRFErHz7a)
 
-+ HTML: HyperText Markup language -> Add content to webpage.
-+ CSS: Cascading Style Sheet -> Style webpage, make it look good. 
-+ JS: Java Script -> Make web interactive.
++ [[HTML]]: HyperText Markup language -> Add content to webpage.
++ [[CSS]]: Cascading Style Sheet -> Style webpage, make it look good. 
++ [[JS]]: Java Script -> Make web interactive.
 => While HTML and CSS only display things, JavaScript makes our web page interactive 
 
 JS Framwork -> ReactJS, Angular, VuaJS

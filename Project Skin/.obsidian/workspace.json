@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "1e48f9880eaaa870",
+            "id": "41d917ce4455a2a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Grid.md",
+                "file": "WebDev/WebDev_Learn/JS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbbee11440f13b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/WebDev_Learn/HTML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Grid.md",
+                "file": "WebDev/WebDev_Learn/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Grid.md",
+                "file": "WebDev/WebDev_Learn/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Grid.md"
+                "file": "WebDev/WebDev_Learn/HTML.md"
               }
             }
           },
@@ -194,9 +207,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e48f9880eaaa870",
+  "active": "dbbee11440f13b6d",
   "lastOpenFiles": [
+    "Todo.md",
+    "WebDev/WebDev_Learn/JS.md",
+    "WebDev/WebDev_Learn/Frontend.md",
+    "_Focus.md",
+    "WebDev/Web.md",
+    "WebDev/HTML Code.md",
     "WebDev/WebDev_Learn/Backend.md",
+    "WebDev/WebDev_Learn/HTML.md",
+    "WebDev/SlotMachine/SlotMachineJS.md",
+    "CSS Grid.md",
     "Images/Pasted image 20231022105840.png",
     "Images/Pasted image 20231022110950.png",
     "Images/Pasted image 20231022110724.png",
@@ -207,28 +229,20 @@
     "Images/Pasted image 20231022105328.png",
     "Images/Pasted image 20231022105349.png",
     "Images/Pasted image 20231022104930.png",
-    "WebDev/Web.md",
-    "WebDev/WebDev_Learn/Frontend.md",
-    "WebDev/HTML Code.md",
     "WebDev/WebDev_Learn/CSS.md",
     "WebDev/WebDev_Learn",
     "WebDev/SlotMachine/Slot_Machine_Engine.md",
     "CSS Confusing Concept.md",
-    "CSS Grid.md",
     "CSS Flex Box.md",
     "justify-items vs justify-content vs justify self.md",
     "WebDev/CSS",
-    "_Focus.md",
     "Images/Pasted image 20231020162130.png.~tmp",
     "Images/Pasted image 20231020162446.png.~tmp",
     "Pasted image 20231020162205.png.md",
-    "WebDev/WebDev_Learn/HTML.md",
     "WebDev/SlotMachine/SlotMachineDesign.md",
-    "WebDev/SlotMachine/SlotMachineJS.md",
     "Personal/Interest/Books.md",
     "History & Politic/Doom Day Agreements.md",
     "History & Politic/Israel & Palestine.md",
-    "Todo.md",
     "Untitled.md",
     "for of vs for in.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
