@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "41ab95cd56adadae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Grid.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "41ab95cd56adadae",
+  "active": "1e48f9880eaaa870",
   "lastOpenFiles": [
     "WebDev/WebDev_Learn/Backend.md",
     "Images/Pasted image 20231022105840.png",
