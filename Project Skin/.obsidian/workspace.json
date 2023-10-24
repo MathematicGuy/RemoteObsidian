@@ -41,7 +41,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "CSS Desgin Pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20e72551ad6729fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Artistic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6011d1231df6d1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/WebDev_Learn/JS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "WebDev/WebDev_Learn/JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "WebDev/WebDev_Learn/JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "WebDev/WebDev_Learn/JS.md"
               }
             }
           },
@@ -207,11 +233,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "27bf1e1c06745c23",
+  "active": "6011d1231df6d1e9",
   "lastOpenFiles": [
-    "2023/SQL & DataBase/DataBase.md",
     "CSS Artistic.md",
+    "CSS Desgin Pattern.md",
+    "Images/Pasted image 20231024235231.png",
+    "Images/Pasted image 20231024234203.png",
     "WebDev/WebDev_Learn/CSS.md",
+    "Todo.md",
+    "2023/SQL & DataBase/DataBase.md",
     "2023/Software Engineering.md",
     "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
@@ -231,7 +261,6 @@
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
-    "Todo.md",
     "Images/Pasted image 20231023142625.png",
     "Images/Pasted image 20231023142622.png",
     "Images/Pasted image 20231023141949.png",
@@ -240,8 +269,6 @@
     "WebDev/SlotMachine/SlotMachineJS.md",
     "Images/Pasted image 20231022105840.png",
     "Images/Pasted image 20231022110950.png",
-    "Images/Pasted image 20231022110724.png",
-    "Images/Pasted image 20231022110817.png",
     "WebDev/WebDev_Learn",
     "WebDev/SlotMachine/Slot_Machine_Engine.md",
     "WebDev/CSS",
@@ -249,8 +276,6 @@
     "Images/Pasted image 20231020162446.png.~tmp",
     "Pasted image 20231020162205.png.md",
     "WebDev/SlotMachine/SlotMachineDesign.md",
-    "Personal/Interest/Books.md",
-    "History & Politic/Doom Day Agreements.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "WebDev/SlotMachine",
     "Personal/FocusCanvas.canvas",
