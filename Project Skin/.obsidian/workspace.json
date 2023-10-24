@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27bf1e1c06745c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/SQL & DataBase/DataBase.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/SQL & DataBase/DataBase.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/SQL & DataBase/DataBase.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,7 +207,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12f96c9258416a6b",
+  "active": "27bf1e1c06745c23",
   "lastOpenFiles": [
     "2023/SQL & DataBase/DataBase.md",
     "CSS Artistic.md",

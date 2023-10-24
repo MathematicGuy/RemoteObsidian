@@ -10,6 +10,7 @@
 	Black Jack + Slot Machine Website (with sfx)
 - [ ] Goal - Finish my website Portfolio
 - [ ] Publish my Web online using github pages.
+- [ ] Ask my Mentor What will we learn by the end of the course.
 
 
 #Todo/Personal

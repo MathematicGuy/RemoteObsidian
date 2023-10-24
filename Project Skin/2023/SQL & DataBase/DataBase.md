@@ -14,3 +14,4 @@ dữ liệu đc mô tả -> siêu dữ liệu
 data base
 	data that can be transformed that help human to make decision.
 	Group of related datas
+
