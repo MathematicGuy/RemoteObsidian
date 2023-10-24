@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e0ad83b269af72d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Software Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "2023/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "2023/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Artistic.md"
+                "file": "2023/Software Engineering.md"
               }
             }
           },
@@ -194,14 +207,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0d6b7695c67845aa",
+  "active": "4e0ad83b269af72d",
   "lastOpenFiles": [
+    "CSS Artistic.md",
+    "2023/Software Engineering.md",
+    "Images/Pasted image 20231024144200.png",
+    "Types.md",
+    "Images/Pasted image 20231024141934.png",
     "Images/Pasted image 20231024113201.png",
     "WebDev/WebDev_Learn/CSS.md",
-    "CSS Artistic.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "_Focus.md",
-    "2023/Software Engineering.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/WebDev_Learn/Backend.md",
     "WebDev/WebDev_Learn/HTML.md",
@@ -225,9 +241,6 @@
     "Images/Pasted image 20231022110950.png",
     "Images/Pasted image 20231022110724.png",
     "Images/Pasted image 20231022110817.png",
-    "Images/Pasted image 20231022110721.png",
-    "Images/Pasted image 20231022110119.png",
-    "Images/Pasted image 20231022105724.png",
     "WebDev/WebDev_Learn",
     "WebDev/SlotMachine/Slot_Machine_Engine.md",
     "WebDev/CSS",
@@ -237,7 +250,6 @@
     "WebDev/SlotMachine/SlotMachineDesign.md",
     "Personal/Interest/Books.md",
     "History & Politic/Doom Day Agreements.md",
-    "History & Politic/Israel & Palestine.md",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "WebDev/SlotMachine",
     "Personal/FocusCanvas.canvas",

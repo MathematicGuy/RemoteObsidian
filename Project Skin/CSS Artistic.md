@@ -1,5 +1,7 @@
 [CSS Animation](https://www.youtube.com/watch?v=SgmNxE9lWcY)
 
+[CSS Shadow](https://getcssscan.com/css-box-shadow-examples) 
+
 ease:
 ease-in
 ease-out
