@@ -47,10 +47,14 @@ window.addEventListener("DOMContentLoaded", () => {
 });
 ```
 
-
+[replace class name](https://stackoverflow.com/questions/195951/how-can-i-change-an-elements-class-with-javascript)
+```javascript
+document.getElementById("MyElement").className = "MyClass";
+```
 
 **Data**
 empty array
 ```js
 array.length = 0;
 ```
+
