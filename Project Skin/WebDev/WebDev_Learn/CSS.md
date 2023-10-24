@@ -7,4 +7,4 @@
 
 ### [[CSS Values & Units]]
 
-### [[CSS COLORFUL]]
+### [[CSS Artistic]]
