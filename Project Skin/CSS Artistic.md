@@ -1,10 +1,9 @@
-#### Animation
+[CSS Animation](https://www.youtube.com/watch?v=SgmNxE9lWcY)
+
 ease:
 ease-in
 ease-out
 ease-in-out
-
-
 ```css
 @keyframes slideInLeft {
     0%{
@@ -15,8 +14,7 @@ ease-in-out
     }
     100%{
         transform: translateY(0px);        
-    }
-   
+    }   
 }
 
 .img-container{
@@ -31,4 +29,9 @@ ease-in-out
     animation: slideInLeft 2.2s ease-in-out both;
 }
 ```
+
+[Arrow Animation ](https://youtu.be/UTHgr6NLeEw?si=wEEHs0pSssOHk-R1&t=192)
+![[Pasted image 20231024113201.png]]
+
+
 
