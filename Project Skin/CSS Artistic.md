@@ -2,6 +2,11 @@
 
 [CSS Shadow](https://getcssscan.com/css-box-shadow-examples) 
 
+[Font Awesome Icon](https://www.w3schools.com/icons/fontawesome_icons_directional.asp)
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+```
+
 ease:
 ease-in
 ease-out

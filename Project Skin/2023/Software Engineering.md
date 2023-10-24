@@ -84,5 +84,4 @@ Quan tâm tới sự giao tiếp hơn quy trình
 + Keep it short and simple
 + keep it simple and straightforward 
 
-**OOP technology**
-
+**Quản lý dự án**
