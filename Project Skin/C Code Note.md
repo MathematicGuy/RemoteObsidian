@@ -1,3 +1,4 @@
+
 input
 ```c
 int main(){
@@ -58,3 +59,53 @@ scanf("%d", &num);
 cal(num);
 ```
 
+> 2 ways to Active a function. The first is to declare it before-hand 
+```c
+double cube(double num){
+    double result = num * num * num;
+    return result;
+} 
+
+int main(){
+	printf("Float: %f ",cube(2));
+	return 0;
+}
+```
+> Second is to make a protoype of it. And Complete it later
+```c
+double cube(double num);
+
+int main(){   
+	printf("Float: %f ",cube(2)); // output: 8
+	return 0; 
+}
+
+double cube(double num){
+    double result = num * num * num;
+    return result;
+} 
+```
+
+If Statement
+```c
+#include <stdio.h>
+int max(int a, int b, int c){
+    int result;
+    if (a > b && a >c){
+        result = a;
+    }   
+    else if (b > a && b > c){
+        result = b;
+    }
+    else{
+        result = c;
+    }
+    
+    return result;
+}
+
+int main(){
+    printf("Max num: %d", max(8, 10, 2));
+    return 0;
+}
+```

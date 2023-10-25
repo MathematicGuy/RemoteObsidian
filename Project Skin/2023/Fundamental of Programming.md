@@ -17,8 +17,8 @@ note:
 data types
 	CHAR
 	INT
-	FLOAT
-	DOUBLE
+	FLOAT (%f)
+	DOUBLE (%lf)
 	SHORT/LONG
 Doesn't support OOPs features
 Math functions (math.h library)
