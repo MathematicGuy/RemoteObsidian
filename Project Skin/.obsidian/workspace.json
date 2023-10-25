@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "12f96c9258416a6b",
+            "id": "27bf1e1c06745c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/SQL & DataBase/DataBase.md",
+                "file": "JS Frontend.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "27bf1e1c06745c23",
+            "id": "285424231b33078b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Frontend.md",
+                "file": "WebDev/WebDev_Learn/Frontend.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Frontend.md",
+                "file": "WebDev/WebDev_Learn/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Frontend.md",
+                "file": "WebDev/WebDev_Learn/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Frontend.md"
+                "file": "WebDev/WebDev_Learn/Frontend.md"
               }
             }
           },
@@ -207,13 +207,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "27bf1e1c06745c23",
+  "active": "285424231b33078b",
   "lastOpenFiles": [
-    "CSS hover effect in JS.md",
-    "JS Frontend.md",
-    "WebDev/WebDev_Learn/JS.md",
-    "2023/SQL & DataBase/DataBase.md",
     "_Focus.md",
+    "2023/SQL & DataBase/DataBase.md",
+    "JS Frontend.md",
+    "WebDev/WebDev_Learn/Frontend.md",
+    "CSS hover effect in JS.md",
+    "WebDev/WebDev_Learn/JS.md",
     "CSS Desgin Pattern.md",
     "CSS Artistic.md",
     "Images/Pasted image 20231024235231.png",
@@ -228,7 +229,6 @@
     "Types.md",
     "Images/Pasted image 20231024141934.png",
     "Images/Pasted image 20231024113201.png",
-    "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/WebDev_Learn/Backend.md",
     "WebDev/WebDev_Learn/HTML.md",
     "WebDev/HTML Code.md",
