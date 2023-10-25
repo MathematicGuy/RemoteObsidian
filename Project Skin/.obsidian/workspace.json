@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Fundamental of Programming.md",
+                "file": "C Code Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Fundamental of Programming.md",
+                "file": "C Code Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Fundamental of Programming.md",
+                "file": "C Code Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Fundamental of Programming.md"
+                "file": "C Code Note.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   },
   "active": "27bf1e1c06745c23",
   "lastOpenFiles": [
-    "Images/Pasted image 20231025134113.png",
     "2023/Fundamental of Programming.md",
+    "C Code Note.md",
+    "Images/Pasted image 20231025134113.png",
     "Images/Pasted image 20231025133341.png",
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Artistic.md",
