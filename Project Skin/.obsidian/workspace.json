@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "27bf1e1c06745c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Code Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d40c0d6237400d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Fundamental of Programming.md",
+                "file": "2023/Software Engineering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Code Note.md",
+                "file": "2023/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Code Note.md",
+                "file": "2023/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Code Note.md"
+                "file": "2023/Software Engineering.md"
               }
             }
           },
@@ -207,7 +193,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "27bf1e1c06745c23",
+  "active": "5d40c0d6237400d7",
   "lastOpenFiles": [
     "2023/Fundamental of Programming.md",
     "C Code Note.md",
