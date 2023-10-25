@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Software Engineering.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Software Engineering.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Software Engineering.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Software Engineering.md"
+                "file": "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md"
               }
             }
           },
@@ -195,13 +195,16 @@
   },
   "active": "5d40c0d6237400d7",
   "lastOpenFiles": [
+    "Center a div.md",
+    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
+    "_Focus.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "2023/Software Engineering.md",
     "2023/Fundamental of Programming.md",
     "C Code Note.md",
     "Images/Pasted image 20231025134113.png",
     "Images/Pasted image 20231025133341.png",
-    "WebDev/WebDev_Learn/CSS.md",
     "CSS Artistic.md",
-    "_Focus.md",
     "JS Frontend.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "2023/SQL & DataBase/DataBase.md",
@@ -211,9 +214,7 @@
     "Images/Pasted image 20231024235231.png",
     "Images/Pasted image 20231024234203.png",
     "Todo.md",
-    "2023/Software Engineering.md",
     "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
-    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "Images/Pasted image 20231024144200.png",
     "Types.md",
@@ -232,7 +233,6 @@
     "Images/Pasted image 20231023141949.png",
     "center a div.md",
     "WebDev/Web.md",
-    "WebDev/SlotMachine/SlotMachineJS.md",
     "WebDev/WebDev_Learn",
     "WebDev/CSS",
     "Images/Pasted image 20231020162130.png.~tmp",
