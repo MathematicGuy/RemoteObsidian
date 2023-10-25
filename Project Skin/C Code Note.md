@@ -1,3 +1,14 @@
+input
+```c
+int main(){
+	int number;
+	printf("Enter a number: ");
+	scanf("%d", &number); //take %digit as an input
+	printf("You enter number: %d\n", number);
+	
+	return 0;
+}
+```
 > Take Double input 
 ```c
 int main(){
@@ -10,3 +21,4 @@ int main(){
     return 0;
 }
 ```
+
