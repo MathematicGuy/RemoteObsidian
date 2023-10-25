@@ -22,3 +22,39 @@ int main(){
 }
 ```
 
+
+Array
+```c
+int number[] = {1,2,3,4,5,6,7,8};
+number[2] = 200;
+printf("You enter number: %d\n", number[2]);
+
+return 0;
+```
+
+Function
+```c
+int main(){
+    printf("Top\n");
+    cal();
+    printf("Bottom\n");
+    
+
+	return 0;
+}
+
+void cal(){
+	int number[] = {1,2,3,4,5,6,7,8};
+	number[2] = 200;
+	printf("You enter number: %d\n", number[2]);
+}
+```
++ Function input
+```c
+int num;
+
+printf("Enter a num: ");
+scanf("%d", &num);
+cal(num);
+```
+
