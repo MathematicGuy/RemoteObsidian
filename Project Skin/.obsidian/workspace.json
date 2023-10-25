@@ -28,28 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Frontend.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "285424231b33078b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/WebDev_Learn/Frontend.md",
+                "file": "CSS Artistic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/Frontend.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/Frontend.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/Frontend.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -207,19 +193,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "285424231b33078b",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
-    "_Focus.md",
-    "2023/SQL & DataBase/DataBase.md",
+    "CSS Artistic.md",
+    "WebDev/WebDev_Learn/CSS.md",
     "JS Frontend.md",
     "WebDev/WebDev_Learn/Frontend.md",
+    "_Focus.md",
+    "2023/SQL & DataBase/DataBase.md",
     "CSS hover effect in JS.md",
     "WebDev/WebDev_Learn/JS.md",
     "CSS Desgin Pattern.md",
-    "CSS Artistic.md",
     "Images/Pasted image 20231024235231.png",
     "Images/Pasted image 20231024234203.png",
-    "WebDev/WebDev_Learn/CSS.md",
     "Todo.md",
     "2023/Software Engineering.md",
     "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
