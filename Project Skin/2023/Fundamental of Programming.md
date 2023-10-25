@@ -23,3 +23,5 @@ data types
 Doesn't support OOPs features
 Math functions (math.h library)
 	fmod() -> returns the remainder of dividing two numbers
+
+### Basics
