@@ -1,4 +1,6 @@
 What is Database?
+
+
 Dữ Liệu: Chứa nhiều thông tin.
 + kiểu dữ liệu: ký tự, chữ
 
@@ -15,3 +17,5 @@ data base
 	data that can be transformed that help human to make decision.
 	Group of related datas
 
+constraints -> connect the same Info to each Tables in DB.
+![[Pasted image 20231026141640.png]] 
