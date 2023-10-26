@@ -21,32 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a71a93a6e718b04b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md"
-              }
-            }
-          },
-          {
-            "id": "79b86ef23608bdb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023/SQL & DataBase/DB_Note/1_IntroToDB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -204,9 +180,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a71a93a6e718b04b",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
     "2023/SQL & DataBase/DB_Note/1_IntroToDB.md",
+    "_Focus.md",
     "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "Images/Pasted image 20231026141640.png",
     "2023/SQL & DataBase/DB_Note",
@@ -214,7 +191,6 @@
     "Club & Event/Recruitment Strategies/Thi Đấu Lập Trình.md",
     "Chapter 3 - Control commands.md",
     "Chapter 4 - File and String Manipulation.md",
-    "_Focus.md",
     "2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
     "Images/Baitap-chuong1.pdf",
     "2023/3rd Semesters/OS/AnotateChap1 - Introduction.md",
