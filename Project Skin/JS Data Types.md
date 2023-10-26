@@ -1,5 +1,3 @@
-[[Frontend]]
-
 **Value**
 declare value:
 	+ const
@@ -18,7 +16,3 @@ empty array
 ```js
 array.length = 0;
 ```
-
-
-### [[JS Frontend]]
-
