@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a71a93a6e718b04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Box-sizing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -88,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus.md",
+                "file": "Box-sizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "Box-sizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "Box-sizing.md"
               }
             }
           },
@@ -179,13 +194,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a14a959b90ba4c3c",
+  "active": "a71a93a6e718b04b",
   "lastOpenFiles": [
-    "_Focus/Principles.md",
+    "CSS BOX.md",
+    "Box-sizing.md",
+    "Images/Pasted image 20231026085451.png",
+    "Images/Pasted image 20231026085426.png",
+    "Images/Pasted image 20231026084723.png",
+    "Images/Pasted image 20231026084704.png",
+    "WebDev/WebDev_Learn/CSS.md",
     "_Focus.md",
+    "_Focus/Principles.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "Center a div.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "2023/Software Engineering.md",
     "2023/Fundamental of Programming.md",
     "C Code Note.md",
@@ -206,7 +227,6 @@
     "Images/Pasted image 20231024144200.png",
     "Types.md",
     "Images/Pasted image 20231024141934.png",
-    "Images/Pasted image 20231024113201.png",
     "WebDev/WebDev_Learn/Backend.md",
     "WebDev/WebDev_Learn/HTML.md",
     "WebDev/HTML Code.md",
@@ -214,11 +234,6 @@
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
-    "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
-    "Images/Pasted image 20231023142625.png",
-    "Images/Pasted image 20231023142622.png",
-    "Images/Pasted image 20231023141949.png",
-    "center a div.md",
     "WebDev/WebDev_Learn",
     "WebDev/CSS",
     "Images/Pasted image 20231020162130.png.~tmp",
