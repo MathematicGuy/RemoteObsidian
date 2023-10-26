@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Summary.md",
+                "file": "JS Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Summary.md",
+                "file": "JS Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Summary.md",
+                "file": "JS Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Summary.md"
+                "file": "JS Basics.md"
               }
             }
           },
@@ -196,8 +196,12 @@
   },
   "active": "bfdd27ff63d96dc9",
   "lastOpenFiles": [
-    "WebDev/WebDev_Learn/JS/JS.md",
+    "Images/Pasted image 20231026220506.png",
     "JS Summary.md",
+    "JS Basics.md",
+    "Images/Pasted image 20231026220353.png",
+    "Images/Pasted image 20231026214601.png",
+    "WebDev/WebDev_Learn/JS/JS.md",
     "JS Frontend.md",
     "JS Data Types.md",
     "WebDev/WebDev_Learn/Frontend.md",
@@ -232,11 +236,7 @@
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "Center a div.md",
     "2023/Software Engineering.md",
-    "2023/Fundamental of Programming.md",
-    "C Code Note.md",
     "Images/Pasted image 20231025134113.png",
-    "Images/Pasted image 20231025133341.png",
-    "Images/Pasted image 20231024235231.png",
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn",

@@ -1,8 +1,6 @@
-## JS capability
+# JS capability
 
+### [[JS Basics]]
 
-indexOf("nan")
-slice(2,6)
-replace("ban", "123")
+### Manipulate DOM with JS
 
-can do most of the thing python can do
