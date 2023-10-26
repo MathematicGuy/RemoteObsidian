@@ -6,4 +6,3 @@ Data Types
 
 Common Strings method 
 ![[Pasted image 20231026220506.png]]
-
