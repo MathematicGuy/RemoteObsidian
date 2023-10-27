@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Happiness/Why I'm Marry to you.md",
+                "file": "Productivity & Improvement/Achive More by Doing Less.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Happiness/Why I'm Marry to you.md",
+                "file": "Productivity & Improvement/Achive More by Doing Less.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Happiness/Why I'm Marry to you.md",
+                "file": "Productivity & Improvement/Achive More by Doing Less.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Happiness/Why I'm Marry to you.md"
+                "file": "Productivity & Improvement/Achive More by Doing Less.md"
               }
             }
           },
@@ -184,8 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a8c10c353524c54",
+  "active": "5d1cae0b2def2797",
   "lastOpenFiles": [
+    "Productivity & Improvement/Productive Design.md",
+    "Productivity & Improvement/Achive More by Doing Less.md",
     "Happiness/Why I'm Marry to you.md",
     "My Life/100 Thing to do before DeadBed.md",
     "My Life/1_Shoot for the Star.md",
@@ -212,8 +215,6 @@
     "Productivity & Improvement/Memory.md",
     "Productivity & Improvement/Manipulate.md",
     "How To/How Your Brain Organizes Information (Part 1).md",
-    "Productivity & Improvement/Mindset.md",
-    "Question/Money.md",
     "How To",
     "Happiness",
     "Question",
