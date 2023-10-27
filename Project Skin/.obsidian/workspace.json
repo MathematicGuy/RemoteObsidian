@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Basics.md",
+                "file": "CSS Kernel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b3fbb59e0d12225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Kernel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Basics.md",
+                "file": "CSS Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Basics.md",
+                "file": "CSS Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Basics.md"
+                "file": "CSS Kernel.md"
               }
             }
           },
@@ -194,14 +207,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "76245cc38f917b3d",
+  "active": "6b3fbb59e0d12225",
   "lastOpenFiles": [
+    "Images/Pasted image 20231027105853.png",
+    "CSS Kernel.md",
+    "Class Selector.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "_Focus.md",
     "Images/Pasted image 20231027083356.png",
-    "CSS Basics.md",
     "Images/Pasted image 20231027084759.png",
     "Images/Pasted image 20231027093049.png",
-    "_Focus.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "CSS BOX.md",
     "WebDev/WebDev_Learn/HTML.md",
     "JS Basics.md",
@@ -232,10 +247,8 @@
     "Box-sizing.md",
     "Images/Pasted image 20231026100033.png",
     "Images/Pasted image 20231026100004.png",
-    "Images/Pasted image 20231026085451.png",
     "_Focus/Principles.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
-    "Center a div.md",
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn",

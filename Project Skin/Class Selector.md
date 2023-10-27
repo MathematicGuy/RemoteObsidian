@@ -1,4 +1,3 @@
-### Class Selector
 
 > Access id & class in CSS
 ```css
@@ -88,8 +87,17 @@ div ~ p {
 ### Pseudo-Class Selector
 Many pseudo-class selectors exist
 We cover:
-	 :link
-	:visited
+	: link
+	: visited
 	: hover
 	: active
-	:nth-child(...)
+	:nth-child(...) -> affect the n child (n represent a tag position)
+		("odd")
+		("even")
+		1,2,3,4,etc...
+> When hover -> make all odd div in odd position to have 99px font-size 
+```css
+a:hover div:nth-child(odd){
+	font-size: 99px; 
+}
+```
