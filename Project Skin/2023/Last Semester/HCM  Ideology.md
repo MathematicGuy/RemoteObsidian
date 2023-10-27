@@ -50,4 +50,13 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 Đ2: Cơ sở hình thành (nền tảng, điều kiện?)
 	vận dụng, phát triển các giá trị tư tưởng.
 	tiếp thu tinh hoa văn hóa của nhân loại (của nước ngoài)
-	
+Đ3: TT HCM là tài sản vô giá
+	Pháp tặng bộ nghiên cứu về bác do Pháp nghiên cứu (1919 -> 1969)
+		Trong quá trình cách mạng Bác Hồ đã đổi tên nhiều lần (hàng trăm lần) 
+(mãi mãi -> phạm trù thời gian ko xác định)
+Ý nói Tư tưởng HCM mãi mãi là phản ánh khát vọng của vn là độc lập tự duy. (mục đích gốc rễ)
+**Áp dụng ntn?**
+	Học tập tinh thần, áp dụng theo 1 cách khác trong thời đại mới VD: tiết kiệm
+
+
+ 
