@@ -26,8 +26,13 @@
             "id": "5ee188d7b710fd1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Full Planche Jouney.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Full Planche Jouney.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Full Planche Jouney.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Full Planche Jouney.md"
+              }
             }
           },
           {
@@ -187,6 +196,7 @@
   },
   "active": "5ee188d7b710fd1d",
   "lastOpenFiles": [
+    "Full Planche Jouney.md",
     "_Focus.md",
     "2023/Last Semester/HCM  Ideology.md",
     "Odin Project.md",
