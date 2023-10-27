@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "bfdd27ff63d96dc9",
+            "id": "76245cc38f917b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Basics.md",
+                "file": "CSS Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Basics.md",
+                "file": "CSS Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Basics.md",
+                "file": "CSS Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Basics.md"
+                "file": "CSS Basics.md"
               }
             }
           },
@@ -194,11 +194,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bfdd27ff63d96dc9",
+  "active": "76245cc38f917b3d",
   "lastOpenFiles": [
+    "Images/Pasted image 20231027083356.png",
+    "CSS Basics.md",
+    "Images/Pasted image 20231027084759.png",
+    "Images/Pasted image 20231027093049.png",
+    "_Focus.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "CSS BOX.md",
+    "WebDev/WebDev_Learn/HTML.md",
+    "JS Basics.md",
     "Images/Pasted image 20231026220506.png",
     "JS Summary.md",
-    "JS Basics.md",
     "Images/Pasted image 20231026220353.png",
     "Images/Pasted image 20231026214601.png",
     "WebDev/WebDev_Learn/JS/JS.md",
@@ -207,9 +215,6 @@
     "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/WebDev_Learn/JS/for of vs for in.md",
     "WebDev/WebDev_Learn/Backend.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "WebDev/WebDev_Learn/HTML.md",
-    "_Focus.md",
     "2023/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "Images/Pasted image 20231026141640.png",
@@ -225,18 +230,12 @@
     "2023/SQL & DataBase/DB_Document",
     "2023/CNXH-KH.md",
     "Box-sizing.md",
-    "CSS BOX.md",
     "Images/Pasted image 20231026100033.png",
     "Images/Pasted image 20231026100004.png",
     "Images/Pasted image 20231026085451.png",
-    "Images/Pasted image 20231026085426.png",
-    "Images/Pasted image 20231026084723.png",
-    "Images/Pasted image 20231026084704.png",
     "_Focus/Principles.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "Center a div.md",
-    "2023/Software Engineering.md",
-    "Images/Pasted image 20231025134113.png",
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn",
