@@ -37,5 +37,35 @@ for (let i = 0; i <= 10; i++){
     emptyArray.push(i);
 }
 console.log(emptyArray);
-
 ```
+
+Object (Dictionary in Python)
+```js
+// Object in JavaScript
+// Dictionary in Python
+
+let student = {
+    "first":"Dinh",
+     last:"Thanh",
+    age:25,
+};
+console.log(student["first"]);
+console.log(student.last);
+student.age++;
+console.log(student.age  );
+```
+
+```js
+switch(0){
+	case 0:
+		// do sth
+		break;
+	case 1:
+		// do sth
+		break;
+	default:
+		// do sth
+}
+```
+
+
