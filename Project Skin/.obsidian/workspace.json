@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Planche Jouney.md",
+                "file": "JS Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Planche Jouney.md",
+                "file": "JS Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Planche Jouney.md",
+                "file": "JS Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Planche Jouney.md"
+                "file": "JS Basics.md"
               }
             }
           },
@@ -196,6 +196,8 @@
   },
   "active": "5ee188d7b710fd1d",
   "lastOpenFiles": [
+    "JS Summary.md",
+    "WebDev/WebDev_Learn/JS/JS.md",
     "Full Planche Jouney.md",
     "_Focus.md",
     "2023/Last Semester/HCM  Ideology.md",
@@ -213,10 +215,8 @@
     "WebDev/WebDev_Learn/HTML.md",
     "JS Basics.md",
     "Images/Pasted image 20231026220506.png",
-    "JS Summary.md",
     "Images/Pasted image 20231026220353.png",
     "Images/Pasted image 20231026214601.png",
-    "WebDev/WebDev_Learn/JS/JS.md",
     "JS Frontend.md",
     "JS Data Types.md",
     "WebDev/WebDev_Learn/Frontend.md",
