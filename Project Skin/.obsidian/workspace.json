@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Basics.md",
+                "file": "OOP Quizziz.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Basics.md",
+                "file": "OOP Quizziz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Basics.md",
+                "file": "OOP Quizziz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Basics.md"
+                "file": "OOP Quizziz.md"
               }
             }
           },
@@ -196,8 +196,11 @@
   },
   "active": "5ee188d7b710fd1d",
   "lastOpenFiles": [
-    "_Focus.md",
+    "2023/3rd Semesters/OOP/OOP CMC.md",
+    "OOP Quizziz.md",
+    "2023/3rd Semesters/OOP/OOP SUMMARY.md",
     "JS Basics.md",
+    "_Focus.md",
     "JS Summary.md",
     "WebDev/WebDev_Learn/JS/JS.md",
     "Full Planche Jouney.md",
@@ -232,11 +235,8 @@
     "Chapter 4 - File and String Manipulation.md",
     "2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
     "Images/Baitap-chuong1.pdf",
-    "2023/3rd Semesters/OS/AnotateChap1 - Introduction.md",
     "2023/SQL & DataBase/Slide-DB-Chapter1.pdf",
     "2023/SQL & DataBase/DB_Document",
-    "2023/Last Semester/CNXH-KH.md",
-    "Box-sizing.md",
     "Images/Pasted image 20231026100033.png",
     "Images/Pasted image 20231026100004.png",
     "WebDev/WebDev_Learn/JS",
