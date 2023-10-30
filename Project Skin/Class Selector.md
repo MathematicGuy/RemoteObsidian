@@ -11,7 +11,7 @@
 ![[Pasted image 20231027083356.png]]*All p tag with class big will have 20px font-size* 
 
 
-> [**The Descendant Selector** matches all elements that are descendants of a specified element.]([W3Schools Tryit Editor](https://www.w3schools.com/Css/tryit.asp?filename=trycss_sel_element_element))
+> [The Descendant Selector](https://www.w3schools.com/Css/tryit.asp?filename=trycss_sel_element_element) matches all elements that are descendants of a specified element.
 ```css
 article p{
 	color: blue;
