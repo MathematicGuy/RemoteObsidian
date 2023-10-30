@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Kernel.md",
+                "file": "CSS Units.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Kernel.md",
+                "file": "CSS Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Kernel.md",
+                "file": "CSS Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Kernel.md"
+                "file": "CSS Units.md"
               }
             }
           },
@@ -197,8 +197,14 @@
   },
   "active": "4708fbbc51cd8930",
   "lastOpenFiles": [
-    "Tag and Class.md",
     "CSS Kernel.md",
+    "Images/Pasted image 20231030161136.png",
+    "Images/Pasted image 20231030161134.png",
+    "Images/Pasted image 20231030152914.png",
+    "WebDev/WebDev_Learn/HTML.md",
+    "WebDev/WebDev_Learn/JS/JS.md",
+    "JS Frontend.md",
+    "Tag and Class.md",
     "Class Selector.md",
     "[W3Schools.md",
     "WebDev/WebDev_Learn/CSS.md",
@@ -216,25 +222,18 @@
     "Images/Pasted image 20231030101730.png",
     "Images/Pasted image 20231030101727.png",
     "Images/Pasted image 20231030101552.png",
-    "Images/Pasted image 20231030100828.png",
-    "Images/Pasted image 20231030100823.png",
     "Box-sizing.md",
     "_Focus.md",
     "CSS Box Model and Layout.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
-    "Images/Pasted image 20231030083701.png",
     "OOP Quizziz.md",
     "2023/3rd Semesters/OOP/OOP CMC.md",
     "2023/3rd Semesters/OOP/OOP SUMMARY.md",
     "JS Basics.md",
     "JS Summary.md",
-    "WebDev/WebDev_Learn/JS/JS.md",
     "Full Planche Jouney.md",
-    "2023/Last Semester/HCM  Ideology.md",
-    "Odin Project.md",
     "Untitled.canvas",
     "2023/Last Semester",
-    "WebDev/WebDev_Learn/HTML.md",
     "2023/SQL & DataBase/DB_Note",
     "2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
     "Images/Baitap-chuong1.pdf",

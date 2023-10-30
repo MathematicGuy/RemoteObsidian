@@ -33,6 +33,7 @@ id - must be unique
 ![[Pasted image 20231018103657.png]]
 
 ### 4. Basic HTML Document Structure
+[meta tag]([HTML meta tag (w3schools.com)](https://www.w3schools.com/tags/tag_meta.asp))
 ```html
 <!doctype html>
 <meta charset-"utf-8"> // use to display content
@@ -41,6 +42,7 @@ id - must be unique
 This help browsers render those pages correctly, browsers used the doctype declaration to distinguish between noncompliant and compliant pages. 
 	not complie ->  web run in *quirks mode* 
 	quirks mode -> Assumes that the HTML in the web page is NOT following the HTML standard, i.e., not in standards mode. Styles won't work correctly, etc.
+
 
 ### 5. HTML Content Models
 ![[Pasted image 20231018105916.png]]
