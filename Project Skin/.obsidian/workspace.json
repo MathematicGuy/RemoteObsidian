@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "4708fbbc51cd8930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Kernel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa9a6e499e71d42b",
             "type": "leaf",
             "state": {
@@ -47,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8f2bdb03430488b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Kernel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,14 +208,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4708fbbc51cd8930",
+  "active": "d8f2bdb03430488b",
   "lastOpenFiles": [
-    "Class Selector.md",
+    "Cumulative Margin and Overflow.md",
     "CSS Kernel.md",
+    "Images/Pasted image 20231030233246.png",
+    "[CSS.md",
+    "2023/Last Semester/Software Engineering.md",
+    "_Focus.md",
+    "Class Selector.md",
     "position absolute.md",
     "position relative.md",
     "CSS Units.md",
-    "2023/Last Semester/Software Engineering.md",
     "Images/Pasted image 20231030161136.png",
     "Images/Pasted image 20231030161134.png",
     "Images/Pasted image 20231030152914.png",
@@ -228,7 +232,6 @@
     "DOM Tree & Score for Priority tag.md",
     "Conflict Resolution.md",
     "Styling Text.md",
-    "Cumulative Margin and Overflow.md",
     "Box Model.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "Images/Pasted image 20231030101801.png",
@@ -237,15 +240,11 @@
     "Images/Pasted image 20231030101739.png",
     "Images/Pasted image 20231030101730.png",
     "Images/Pasted image 20231030101727.png",
-    "Images/Pasted image 20231030101552.png",
     "Box-sizing.md",
-    "_Focus.md",
     "CSS Box Model and Layout.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "OOP Quizziz.md",
     "2023/3rd Semesters/OOP/OOP CMC.md",
-    "2023/3rd Semesters/OOP/OOP SUMMARY.md",
-    "JS Basics.md",
     "Untitled.canvas",
     "2023/Last Semester",
     "2023/SQL & DataBase/DB_Note",
