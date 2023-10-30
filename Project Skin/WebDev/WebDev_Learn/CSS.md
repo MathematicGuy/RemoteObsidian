@@ -1,9 +1,5 @@
 ### [[CSS Kernel]]
 
-
-
-### [[CSS BOX]]
-
 ### [[CSS Flex Box]]
 
 ### [[CSS Grid]]

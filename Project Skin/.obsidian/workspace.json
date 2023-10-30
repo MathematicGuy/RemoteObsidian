@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5ee188d7b710fd1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP Quizziz.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP Quizziz.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP Quizziz.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP Quizziz.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -174,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,13 +177,22 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ee188d7b710fd1d",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
-    "2023/3rd Semesters/OOP/OOP CMC.md",
+    "Box-sizing.md",
+    "CSS Kernel.md",
+    "CSS Box Model and Layout.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
+    "Images/Pasted image 20231030083701.png",
+    "Images/Pasted image 20231030083335.png",
+    "Images/Pasted image 20231030083323.png",
     "OOP Quizziz.md",
+    "2023/3rd Semesters/OOP/OOP CMC.md",
     "2023/3rd Semesters/OOP/OOP SUMMARY.md",
     "JS Basics.md",
     "_Focus.md",
@@ -208,14 +203,11 @@
     "Odin Project.md",
     "Untitled.canvas",
     "2023/Last Semester",
-    "CSS Kernel.md",
     "Images/Pasted image 20231027105853.png",
     "Class Selector.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "Images/Pasted image 20231027083356.png",
     "Images/Pasted image 20231027084759.png",
     "Images/Pasted image 20231027093049.png",
-    "CSS BOX.md",
     "WebDev/WebDev_Learn/HTML.md",
     "Images/Pasted image 20231026220506.png",
     "Images/Pasted image 20231026220353.png",
@@ -227,18 +219,13 @@
     "WebDev/WebDev_Learn/Backend.md",
     "2023/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
-    "Images/Pasted image 20231026141640.png",
     "2023/SQL & DataBase/DB_Note",
     "2023/SQL & DataBase/DB_Chapter1.md",
     "Club & Event/Recruitment Strategies/Thi Đấu Lập Trình.md",
-    "Chapter 3 - Control commands.md",
-    "Chapter 4 - File and String Manipulation.md",
     "2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
     "Images/Baitap-chuong1.pdf",
     "2023/SQL & DataBase/Slide-DB-Chapter1.pdf",
     "2023/SQL & DataBase/DB_Document",
-    "Images/Pasted image 20231026100033.png",
-    "Images/Pasted image 20231026100004.png",
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn",
