@@ -141,3 +141,5 @@ Definitions: Start and Finish Dates
 
 [How to Calculate Early Start, Late Start, Early Finish, Late Finish and Slack (Float)]([How to calculate the Critical Path with Examples 🥇 (pmcalculators.com)](https://www.pmcalculators.com/how-to-calculate-the-critical-path/))
 
+
+
