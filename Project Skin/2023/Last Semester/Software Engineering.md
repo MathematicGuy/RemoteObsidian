@@ -109,5 +109,35 @@ Client & Project Reviews
 + Peer Reviews -> document / code inspection and walkthrough from your colleges
 + Status -> regular team meeting
 
+**Project Scheduling**
+	Slit task into smallest/simplest task.
+	WBS (Work Breakdown Structure)
+1) Create WBS
+2) Task List
+3) Sequence Task
+4) Estimate Duration
+5) Estimate Duration
+6) Project Network DIagram
+7) Develop Schedule
 
+Gantt -> show project schedule of WBS elements along time axis
+
+**Critical Path and Slack Time**
++ Critical path:
+	+ A sequence of activities that take the longest time to complete.
+	+ It’s called the critical path, because it has **no slack**.
+	+ defines how long your project will take to complete
++ Non-Critical Path
+	+ Can be Slack/Late
++ Slack Path ( or float )
+	+ Refers to the amount of days or hours that various related tasks can be delayed without pushing the project back.
+
+Definitions: Start and Finish Dates
++ Forward pass: determine the critical path(s)
+	+ Compute the earliest date start & finish dates for each activities,
++ Backward pass: determine slack times
+	 + Compute latest start & finish dates for each activities,
+
+
+[How to Calculate Early Start, Late Start, Early Finish, Late Finish and Slack (Float)]([How to calculate the Critical Path with Examples 🥇 (pmcalculators.com)](https://www.pmcalculators.com/how-to-calculate-the-critical-path/))
 
