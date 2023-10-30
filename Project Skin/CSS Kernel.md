@@ -3,8 +3,7 @@ note: (become link when completed)
 
 ## CSS Basics
 + [[Tag and Class]]
-+ ### [[Class Selector]] 
-	(organize later)
++ [[Class Selector]] 
 
 ## CSS Rules Conflict Resolution and Text Styling 
 
@@ -41,16 +40,10 @@ Box with not enough space get push down.
 + To resume normal document flow, use the **clear** property
 
 #### Relative and Absolute Element Positioning
-**position: relative;**
-	make the next re-position relate to it current position or base on it current position.
-		Make current boxes ancher to its current position
--> When we set position to be relative, we've set an anchor.
-Example: **moving element 50px from top left.** 
-![[Pasted image 20231030152914.png]]
-
-> All offsets (top, bottom, left, right) are relative to the position of the nearest ancestor which has positioning set on it, other than static.
-+ Meaning: offsets (top, bottom, left, right) relative to its last re-position.
-
-**position: absolute ;**
-	if a container offset all the container within it offset either.
-![[Pasted image 20231030161136.png]]
++ [[position relative]]
++ [[position absolute]]
+**Summary**
++ Static positioning is default for all elements, except html
++ Relative positioning offsets the element relative to its normal document flow position
++ Absolute positioning is relative to closest ancestor which has positioning set to non-static value
++ Offsetting the relative container element offsets its contents as well
