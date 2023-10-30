@@ -63,6 +63,7 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 + Object diagrams
 + Package diagrams
 
+
 **Behavioral Diagrams**
 + State Machine Diagrams
 + Communication Diagrams
@@ -85,3 +86,28 @@ Quan tâm tới sự giao tiếp hơn quy trình
 + keep it simple and straightforward 
 
 **Quản lý dự án**
+>Organizing and managing resource so that project complete within a define scope, budget, time and on constraints.
+	**Managements**
+	+ Scope
+	+ Time
+	+ Cost
+	+ Quality
+	+ Human Resource
+	+ Communication
+	+ Risk
+	+ Procurement (trang thiết bị)
+
+FAIL, WHY?
++ unrealistic goals and objective management.
++ over expectation
++ chaging requirement (on development)
+
+Client & Project Reviews
+**Reviews**
++ Client -> access progress of development to comfirm or change requirement
++ Project -> proj manageer to assess status, teams to exchange info/knowedge
++ Peer Reviews -> document / code inspection and walkthrough from your colleges
++ Status -> regular team meeting
+
+
+
