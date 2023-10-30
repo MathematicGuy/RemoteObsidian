@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4708fbbc51cd8930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Kernel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus.md",
+                "file": "CSS Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "CSS Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "CSS Kernel.md"
               }
             }
           },
@@ -181,21 +195,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a14a959b90ba4c3c",
+  "active": "4708fbbc51cd8930",
   "lastOpenFiles": [
+    "Images/Pasted image 20231030101801.png",
+    "Images/Pasted image 20231030101750.png",
+    "Images/Pasted image 20231030101742.png",
+    "Images/Pasted image 20231030101739.png",
+    "Images/Pasted image 20231030101730.png",
+    "Images/Pasted image 20231030101727.png",
+    "Images/Pasted image 20231030101552.png",
+    "Images/Pasted image 20231030100828.png",
+    "Images/Pasted image 20231030100823.png",
     "Box-sizing.md",
     "CSS Kernel.md",
-    "CSS Box Model and Layout.md",
     "WebDev/WebDev_Learn/CSS.md",
+    "_Focus.md",
+    "CSS Box Model and Layout.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "Images/Pasted image 20231030083701.png",
     "Images/Pasted image 20231030083335.png",
-    "Images/Pasted image 20231030083323.png",
     "OOP Quizziz.md",
     "2023/3rd Semesters/OOP/OOP CMC.md",
     "2023/3rd Semesters/OOP/OOP SUMMARY.md",
     "JS Basics.md",
-    "_Focus.md",
     "JS Summary.md",
     "WebDev/WebDev_Learn/JS/JS.md",
     "Full Planche Jouney.md",
@@ -203,15 +225,8 @@
     "Odin Project.md",
     "Untitled.canvas",
     "2023/Last Semester",
-    "Images/Pasted image 20231027105853.png",
     "Class Selector.md",
-    "Images/Pasted image 20231027083356.png",
-    "Images/Pasted image 20231027084759.png",
-    "Images/Pasted image 20231027093049.png",
     "WebDev/WebDev_Learn/HTML.md",
-    "Images/Pasted image 20231026220506.png",
-    "Images/Pasted image 20231026220353.png",
-    "Images/Pasted image 20231026214601.png",
     "JS Frontend.md",
     "JS Data Types.md",
     "WebDev/WebDev_Learn/Frontend.md",
@@ -221,7 +236,6 @@
     "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "2023/SQL & DataBase/DB_Note",
     "2023/SQL & DataBase/DB_Chapter1.md",
-    "Club & Event/Recruitment Strategies/Thi Đấu Lập Trình.md",
     "2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
     "Images/Baitap-chuong1.pdf",
     "2023/SQL & DataBase/Slide-DB-Chapter1.pdf",
