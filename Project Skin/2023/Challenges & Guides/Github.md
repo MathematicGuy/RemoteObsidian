@@ -96,4 +96,3 @@ $ git log 5f54dfa54343c1d7aa36f41dd8f5211345433c24
 ```shell
 New-Item new.html
 ```
-	
