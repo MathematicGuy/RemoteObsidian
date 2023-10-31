@@ -36,25 +36,12 @@
             }
           },
           {
-            "id": "d8f2bdb03430488b",
+            "id": "90feaaea53acf5e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Kernel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1d1b97f4be1c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023/Challenges & Guides/Github.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Grid.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Challenges & Guides/Github.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Challenges & Guides/Github.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Challenges & Guides/Github.md"
+                "file": "WebDev/WebDev_Learn/CSS/CSS Grid.md"
               }
             }
           },
@@ -221,16 +208,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de1d1b97f4be1c14",
+  "active": "90feaaea53acf5e1",
   "lastOpenFiles": [
+    "2023/Last Semester/Software Engineering.md",
+    "Images/Pasted image 20231031142000.png",
+    "Images/Pasted image 20231031141924.png",
+    "[How.md",
+    "CSS Kernel.md",
+    "2023/Challenges & Guides/Github.md",
     "Images/Pasted image 20231031110609.png",
     "Images/Pasted image 20231031110607.png",
     "Images/Pasted image 20231031104945.png",
-    "CSS Kernel.md",
     "Cumulative Margin and Overflow.md",
     "Images/Pasted image 20231030233246.png",
     "[CSS.md",
-    "2023/Last Semester/Software Engineering.md",
     "_Focus.md",
     "Class Selector.md",
     "position absolute.md",
@@ -251,14 +242,9 @@
     "Box Model.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "Images/Pasted image 20231030101801.png",
-    "Images/Pasted image 20231030101750.png",
-    "Images/Pasted image 20231030101742.png",
-    "Images/Pasted image 20231030101739.png",
     "Box-sizing.md",
     "CSS Box Model and Layout.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
-    "OOP Quizziz.md",
-    "2023/3rd Semesters/OOP/OOP CMC.md",
     "Untitled.canvas",
     "2023/Last Semester",
     "2023/SQL & DataBase/DB_Note",
