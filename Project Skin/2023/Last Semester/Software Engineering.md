@@ -185,3 +185,5 @@ Historical Data**
 		e.g. The system must be able to use wifi to communicate all transactions with a client secure database.
 + [Non-Functional requirements](https://www.geeksforgeeks.org/non-functional-requirements-in-software-engineering/) (YC Phi Chức Năng) >  **are the constraints or the requirements imposed on the system**
 
+
+Chú thích thuật ngũ
