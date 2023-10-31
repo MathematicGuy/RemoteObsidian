@@ -34,17 +34,17 @@ $ git push -u origin main
 ```
 
 
-##### Create an alternative code file to work on without changing the main code (on master branch)
+##### Create an alternative code file to work on without changing the main branch (eg. master branch)
 **check current branch** (on progress for editing new-branch)
 ```shell
 git branch
 ```
 ![[Pasted image 20231031110609.png]]
-**Create an alternative branch**
+**Create an alternative branch (new branch)** 
 ```shell
 $ git branch my-code-version
 ```
-**Move into that branch to code**
+**Move into that branch ( to code )**
 ```shell
 $ git checkout my-code-version
 ```
@@ -53,12 +53,26 @@ or use this code to move into newly created branch
 git checkout -b new-branch
 ```
 
+**After finish modifing code, add to branch** 
+```shell
+git add . 
+git commit -m "new save file"
+```
+Then send a pull request (now wait for your changes to be accept)
+```shell
+git pull origin main 
+```
 
 **Merge back to master branch** 
 (combine branches into a single codebase)
 ```shell
 $ git merge my-code-version
 ```
+**Get the latest branch update**
+```shell
+git pull origin main (main is the branch name)
+```
+
 **Summary**
 ? How to merge man branch at once.
 ! Always want your local computer to synced up to github
@@ -67,12 +81,7 @@ $ git merge my-code-version
 
 
 
-
-git pull origin main (main is the branch name )
-
-
-
-##### re-visit old code reponsitory
+##### Reponsitory history & Revisit past Code
 ```shell
 $ git log
 ```
