@@ -12,7 +12,7 @@
     "fontSize": 100
   },
   "annotationMarkdownSettings": {
-    "annotationModeByDefault": false,
+    "annotationModeByDefault": true,
     "includePrefix": true,
     "highlightHighlightedText": true,
     "includePostfix": true

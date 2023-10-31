@@ -26,7 +26,7 @@ grid-gap: gap-size
 
 > Allow box spanning manipulation
 grid-column: span 2; // take up 2 column space
-grid-row: span 3;  // take up 3 column space
+	grid-row: span 3;  // take up 3 column space
 ```css
 display: grid;
 grid-template-columns: 200px 250px;
