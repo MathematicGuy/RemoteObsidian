@@ -29,7 +29,7 @@ background: url() no-repeat cross-axis main-axis color;
 
 #### Positioning Elements by Floating (use for article positioning)
 [float](https://www.w3schools.com/Css/css_float.asp) & [clear](https://www.w3schools.com/Css/css_float_clear.asp)
-+ The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
++ The float property is used for positioning and formatting content e.g. let an image float left to the text in a container. 
 	+ The margin never collapse
 + **clear: left/right/both;** -> nothing on its left/ right/ left & right
 **Summary**
