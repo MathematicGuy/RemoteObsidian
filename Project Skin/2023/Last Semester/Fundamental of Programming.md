@@ -82,3 +82,33 @@ int main() {
     return 0;
 }
 ```
+
+gán bit vào bên phải
+```c
+void main(){
+    int m;
+    char st[32];
+    printf("Enter a Integer: ");
+    scanf("%d", &m);
+
+    // Lấy biểu diễn nhị phân của m
+    itoa(m, st, 2);
+    printf("\n Binary of (%d)=%s", m, st);
+
+    // Gán bit thứ 5 từ bên phải của m bằng 1. Nếu 0 thì đổi thành 1, ko thì giữ nguyên.
+    m |= 16; // mask = 16
+    // lấy biểu diễn nhị phân của m sau khi gán bit số 5 bằng 1
+    itoa(m, st, 2);
+    printf("\n  Binary = %s", st);
+    getch();
+
+}
+```
+
+Expections (Ngoại lệ) - cause a program to crash, limited or lead to unexpected results.
+	1 số ngoại lệ ko thể có thông báo. 
+```c
+try() {}
+catch(){}
+```
+
