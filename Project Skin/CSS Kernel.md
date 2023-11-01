@@ -5,6 +5,8 @@ note: (become link when completed)
 + [[Tag and Class]]
 + [[Class Selector]] 
 
+
+
 ## CSS Rules Conflict Resolution and Text Styling 
 
 + ### Conflict Resolution
@@ -14,6 +16,8 @@ note: (become link when completed)
 	+ [[CSS Units]]
 	UTF-7 cannot express all type of text so we use UTF-8 
 
+
+
 ## CSS Box Model and Layout
 
 ### Box Model
@@ -22,33 +26,39 @@ note: (become link when completed)
 + [[Cumulative Margin and Overflow]] (have margin collapse)
 
 ### Styling
++ background: url() no-repeat cross-axis main-axis color; 
++ [[Element Positioning]] 
 
-#### Background
-background: url() no-repeat cross-axis main-axis color;
-	bg repeat by default
 
-#### Positioning Elements by Floating (use for article positioning)
-[float](https://www.w3schools.com/Css/css_float.asp) & [clear](https://www.w3schools.com/Css/css_float_clear.asp)
-+ The float property is used for positioning and formatting content e.g. let an image float left to the text in a container. 
-	+ The margin never collapse
-+ **clear: left/right/both;** -> nothing on its left/ right/ left & right
-**Summary**
-+ Floating elements can produce very flexible layouts
-+ Floats are taken out of normal document flow
-+ Floats don't have vertical margin collapse
-+ To resume normal document flow, use the **clear** property
-> *When clearing floats, you should match the clear to the float: If an element is floated to the left, then you should clear to the left. Your floated element will continue to float, but the cleared element will appear below it on the web page.*
-
-#### Relative and Absolute Element Positioning
-+ [[position relative]]
-+ [[position absolute]]
-**Summary**
-+ Static positioning is default for all elements, except html
-+ Relative positioning offsets the element relative to its normal document flow position
-+ Absolute positioning is relative to closest ancestor which has positioning set to non-static value
-+ Offsetting the relative container element offsets its contents as well
 
 ## Introduction to Responsive Design
 
 ### Media Query 
+note: 1px between 767px to 768px called the "breakpoint".
 ![[Pasted image 20231030233246.png]]
++ [[Reponsive Design]]
+
+
+
+## Introduction to Twitter Bootstrap
+
+**Intro to Twitter Bootstrap** (apparently most popular PJ in github)
++ mobile first
+	+ Make you to think and force you to compress only what is important to ur website.
+	+ Advantage
+		+ Plan mobile fro the start
+		+ CSS is mobile ready
+	+ Disadvantage
+		+ Too big, too bloated
+			A lot of features you will probably never use
+			+ Use selective download
+		+ You can write your own that's more targeted/smaller
+			+ Take longer time
+
+
+![[Pasted image 20231101123048.png]]
++ script.js and style.css below for overwritting what bootstrap give us 
++ bootstrap depend on jquery library so it must import later
+
+**Bootstrap Grid System Basics**
+![[Pasted image 20231101124048.png]]

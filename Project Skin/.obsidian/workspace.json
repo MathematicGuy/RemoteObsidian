@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "aa9a6e499e71d42b",
+            "id": "eb97ad9b4efb0f89",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md"
+                "file": "CSS Kernel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
+                "file": "CSS Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
+                "file": "CSS Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/SQL & DataBase/DB_Document/DB_Chapter1.md"
+                "file": "CSS Kernel.md"
               }
             }
           },
@@ -192,45 +194,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa9a6e499e71d42b",
+  "active": "eb97ad9b4efb0f89",
   "lastOpenFiles": [
-    "WebDev/WebDev_Learn/CSS/CSS Grid.md",
+    "Images/Pasted image 20231101124048.png",
+    "Reponsive Design.md",
+    "CSS Kernel.md",
+    "Images/Pasted image 20231101123048.png",
+    "Element Positioning.md",
+    "Images/Pasted image 20231030233246.png",
+    "Images/Pasted image 20231030233246.png.~tmp",
+    "_Focus.md",
+    "Images/Pasted image 20231101120609.png",
+    "Images/Pasted image 20231101120459.png",
+    "Images/Pasted image 20231101120140.png",
+    "DOM Tree & Score for Priority tag.md",
+    "Images/Pasted image 20231101105834.png",
+    "Images/Pasted image 20231101105506.png",
+    "Images/Pasted image 20231101105458.png",
+    "CSS Artistic.md",
+    "Images/Pasted image 20231101102822.png",
+    "Images/Pasted image 20231101102755.png",
+    "2023/Challenges & Guides/Github.md",
+    "WebDev/WebDev_Learn/CSS.md",
     "2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
+    "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "2023/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "2023/SQL & DataBase/SQL tips and tool.md",
     "Class Selector.md",
     "Untitled.canvas",
-    "_Focus.md",
-    "CSS Kernel.md",
-    "DOM Tree & Score for Priority tag.md",
     "CSS Units.md",
     "2023/Last Semester/Software Engineering.md",
-    "Images/Pasted image 20231031142000.png",
-    "Images/Pasted image 20231031141924.png",
     "[How.md",
-    "2023/Challenges & Guides/Github.md",
-    "Images/Pasted image 20231031110609.png",
-    "Images/Pasted image 20231031110607.png",
-    "Images/Pasted image 20231031104945.png",
     "Cumulative Margin and Overflow.md",
-    "Images/Pasted image 20231030233246.png",
     "[CSS.md",
     "position absolute.md",
     "position relative.md",
-    "Images/Pasted image 20231030161136.png",
-    "Images/Pasted image 20231030161134.png",
-    "Images/Pasted image 20231030152914.png",
     "WebDev/WebDev_Learn/HTML.md",
     "WebDev/WebDev_Learn/JS/JS.md",
     "JS Frontend.md",
     "Tag and Class.md",
     "[W3Schools.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "Conflict Resolution.md",
-    "Styling Text.md",
-    "Box Model.md",
-    "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
-    "Images/Pasted image 20231030101801.png",
     "2023/Last Semester",
     "2023/SQL & DataBase/DB_Note",
     "2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
@@ -240,7 +243,6 @@
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS",
     "WebDev/WebDev_Learn",
-    "WebDev/CSS",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",
