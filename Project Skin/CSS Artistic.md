@@ -49,4 +49,7 @@ ease-in-out
 
 
 
+**60-30-10 Color Rule**
 
+60 % color - 30 % color - 10 % color 
+![[Pasted image 20231101214754.png]]

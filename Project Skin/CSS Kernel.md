@@ -40,7 +40,8 @@ note: 1px between 767px to 768px called the "breakpoint".
 
 
 
-## Introduction to Twitter Bootstrap
+## [Introduction to Twitter Bootstrap](https://getbootstrap.com/docs/5.3/layout/grid/#example)
+> Do the **12-Column Grid Reponsive Layout** in CSS automatically for me
 
 **Intro to Twitter Bootstrap** (apparently most popular PJ in github)
 + mobile first
@@ -62,3 +63,12 @@ note: 1px between 767px to 768px called the "breakpoint".
 
 **Bootstrap Grid System Basics**
 ![[Pasted image 20231101124048.png]]
+
++ Structure Bootstrap expects for the grid-based layout
+	• Needs to be include -container (or .container-fluid)
+	• All columns must be inside .row
+	![[Pasted image 20231101211509.png]]
++ SIZE identifier identifies at which breakpoint specified column spans will be ignored and all elements will collapse (i.e., stack)
++ If no other rules apply, specifying col-xs-... will keep that layout no matter what the size of the screen.
+
+Homework: Make a website with Boostrap

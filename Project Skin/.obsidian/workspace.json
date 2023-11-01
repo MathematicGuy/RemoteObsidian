@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Last Semester/Fundamental of Programming.md",
+                "file": "CSS Artistic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Last Semester/Fundamental of Programming.md",
+                "file": "CSS Artistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Last Semester/Fundamental of Programming.md",
+                "file": "CSS Artistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Last Semester/Fundamental of Programming.md"
+                "file": "CSS Artistic.md"
               }
             }
           },
@@ -197,24 +197,25 @@
   },
   "active": "eb97ad9b4efb0f89",
   "lastOpenFiles": [
-    "_Focus.md",
+    "Images/Pasted image 20231101214754.png",
+    "CSS Kernel.md",
+    "Reponsive Design.md",
+    "Images/Pasted image 20231101211509.png",
     "2023/Last Semester/Fundamental of Programming.md",
+    "_Focus.md",
     "Images/Pasted image 20231101141639.png",
     "Images/Pasted image 20231101141618.png",
     "[ASCII.md",
     "Images/Pasted image 20231101131811.png",
     "Images/Pasted image 20231101131750.png",
     "C Code Note.md",
-    "CSS Kernel.md",
     "Images/Pasted image 20231101124048.png",
-    "Reponsive Design.md",
     "Images/Pasted image 20231101123048.png",
     "Element Positioning.md",
     "Images/Pasted image 20231030233246.png",
     "Images/Pasted image 20231030233246.png.~tmp",
     "Images/Pasted image 20231101120609.png",
     "Images/Pasted image 20231101120459.png",
-    "Images/Pasted image 20231101120140.png",
     "DOM Tree & Score for Priority tag.md",
     "CSS Artistic.md",
     "2023/Challenges & Guides/Github.md",
