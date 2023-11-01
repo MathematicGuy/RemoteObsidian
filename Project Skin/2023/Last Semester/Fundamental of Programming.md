@@ -51,4 +51,34 @@ int myNum = 15;
 printf("%d", myNum);  // Outputs 15
 ```
 > To print other types, use `%c` for `char` and `%f` for `float`:
- 
+
+![[Pasted image 20231101141639.png]]
+and -> 1 when a and b are the same. 
+	0 + 0 = 1,
+	1 + 1 = 1,
+	1 + 0 = 0 and 0 + 1 = 0
+```c
+int main() {
+    int result;
+    int num1 = 12; // binary: 1100
+    int num2 = 6;  // binary: 0110
+    result = num1 & num2;
+    // binary: 0100 (decimal: 4)
+    printf("Value after Data Type Conversion: %d\n", result);
+    return 0;
+}
+```
+
+**Bit manipulation operators**
+> ShiftRight
+```c
+int main() {
+    int num = 10; // binary: 1010
+    int shiftAmount = 1;
+	
+    int result = num << shiftAmount; // result: 1010 << 0 (Add 0 to the right of binary num)
+     // result: 10100
+    printf("Value %d after 1-bit shift is: %d\n", num, result); 
+    return 0;
+}
+```
