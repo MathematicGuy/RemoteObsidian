@@ -204,4 +204,4 @@ id | name
 3 Tables that can be use to storeed datas in facebook social media system
 + **A friend's table** which contains the list of users who are connected to particular user.
 + **A user table** that contain their detailts like name, age, gender, location and other profile infomation. 
-+ A content table  containing user provided content, such as text, image and associated with the user who uploaded it.
++ **A content table** containing user provided content, such as text, image and associated with the user who uploaded it.

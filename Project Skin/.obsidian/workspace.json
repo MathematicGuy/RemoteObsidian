@@ -29,14 +29,27 @@
               "type": "markdown",
               "state": {
                 "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57ecbd86ee2d9921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md"
+                "file": "_Focus/2023/Challenges & Guides/Github.md"
               }
             }
           },
@@ -186,7 +199,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a73ea2c46b7d6be0",
+  "active": "57ecbd86ee2d9921",
   "lastOpenFiles": [
     "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
     "_Focus.md",
