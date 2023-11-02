@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "9fa8fd64cf550912",
+            "id": "8f8148b264d09654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reponsive Design.md",
+                "file": "CSS Kernel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reponsive Design.md",
+                "file": "CSS Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reponsive Design.md",
+                "file": "CSS Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reponsive Design.md"
+                "file": "CSS Kernel.md"
               }
             }
           },
@@ -195,9 +195,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fa8fd64cf550912",
+  "active": "8f8148b264d09654",
   "lastOpenFiles": [
+    "Class Selector.md",
     "CSS Kernel.md",
+    "_Focus.md",
+    "[W3Schools.md",
+    "Tag and Class.md",
+    "Reponsive Design.md",
     "Element Positioning.md",
     "position absolute.md",
     "position relative.md",
@@ -205,12 +210,10 @@
     "Box-sizing.md",
     "CSS Units.md",
     "DOM Tree & Score for Priority tag.md",
-    "_Focus.md",
     "_Focus/Programming Knowledge.md",
     "Personal/Good for LATER.md",
     "CSS Artistic.md",
     "Images/Pasted image 20231101214754.png",
-    "Reponsive Design.md",
     "Images/Pasted image 20231101211509.png",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "Images/Pasted image 20231101141639.png",
@@ -230,11 +233,8 @@
     "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "_Focus/2023/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "_Focus/2023/SQL & DataBase/SQL tips and tool.md",
-    "Class Selector.md",
     "Untitled.canvas",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "[How.md",
-    "[CSS.md",
     "_Focus/2023/Last Semester",
     "_Focus/2023/SQL & DataBase/DB_Note",
     "_Focus/2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",

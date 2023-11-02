@@ -8,7 +8,8 @@
 
 
 > Class selector
-![[Pasted image 20231027083356.png]]*All p tag with class big will have 20px font-size* 
+![[Pasted image 20231027083356.png]]
+*All p tag with class big will have 20px font-size* 
 
 
 > [The Descendant Selector](https://www.w3schools.com/Css/tryit.asp?filename=trycss_sel_element_element) matches all elements that are descendants of a specified element.
@@ -40,17 +41,17 @@ article > p {
 ```
 
 
-[**Adjacent sibling selector**]([W3Schools Tryit Editor](https://www.w3schools.com/Css/tryit.asp?filename=trycss_sel_element_pluss))
+[**Adjacent sibling selector**](https://www.w3schools.com/Css/tryit.asp?filename=trycss_sel_element_pluss)
 ```html
 <div>
   <p>Paragraph 1 in the div.</p>
   <p>Paragraph 2 in the div.</p>
 </div>
 
-<p>Paragraph 3. After a div.</p> -> only this take affect 
+<p>Paragraph 3. After a div.</p> -> only this take affect. bc <p> after <div>
 <p>Paragraph 4. After a div.</p>
 ```
-> *The + selector is used to select **an element that is directly after** another specific element.* -> **1st p after div take effect**
+> *The + selector is used to select **an element that is directly after** another specific element.* -> **First p after div take** effect
 ```css
 div + p {
   background-color: yellow;
@@ -68,7 +69,7 @@ div + p {
 <p>Paragraph 4.</p> -> this take effect
 <p>Paragraph 4.</p> -> this take effect
 ```
-> *The general sibling selector (~) selects **all elements that are next** siblings of a specified element.* -> **all p after div take effect**
+> *The general sibling selector (~) selects **all elements that are next** siblings of a specified element.* -> **All p after div** take effect
 
 ```css
 div ~ p {
