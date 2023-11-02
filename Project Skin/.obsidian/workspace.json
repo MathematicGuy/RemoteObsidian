@@ -23,33 +23,20 @@
             }
           },
           {
-            "id": "1dbf030ae542a2bc",
+            "id": "a73ea2c46b7d6be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Comparison/Data Science Course.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af85a2dcdd65ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
-                "mode": "source",
+                "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md"
               }
             }
           },
@@ -179,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,12 +186,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3af85a2dcdd65ec6",
+  "active": "a73ea2c46b7d6be0",
   "lastOpenFiles": [
-    "Personal/Comparison/Data Science Course.md",
+    "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
     "_Focus.md",
-    "Uni DataBase.md",
+    "Images/Pasted image 20231102210535.png",
+    "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DataBase.md",
+    "_Focus/SQL & DataBase/DB HomeWork",
+    "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "_Focus/SQL & DataBase/SQL",
+    "Personal/Comparison/Data Science Course.md",
+    "Uni DataBase.md",
     "_Focus/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "Personal/Comparison",
     "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
@@ -225,10 +219,6 @@
     "position relative.md",
     "Cumulative Margin and Overflow.md",
     "Box-sizing.md",
-    "DOM Tree & Score for Priority tag.md",
-    "_Focus/Programming Knowledge.md",
-    "Personal/Good for LATER.md",
-    "CSS Artistic.md",
     "Images/Pasted image 20231101214754.png",
     "Images/Pasted image 20231101211509.png",
     "Images/Pasted image 20231101141639.png",
@@ -237,17 +227,13 @@
     "Images/Pasted image 20231101131750.png",
     "Images/Pasted image 20231101124048.png",
     "Images/Pasted image 20231101123048.png",
-    "Images/Pasted image 20231030233246.png",
     "Images/Pasted image 20231030233246.png.~tmp",
-    "Images/Pasted image 20231101120609.png",
     "Untitled.canvas",
     "_Focus/2023/Last Semester",
     "_Focus/SQL & DataBase/DB_Note",
     "Images/Baitap-chuong1.pdf",
     "2023/SQL & DataBase/Slide-DB-Chapter1.pdf",
     "_Focus/SQL & DataBase/DB_Document",
-    "WebDev/WebDev_Learn/JS",
-    "WebDev/WebDev_Learn/CSS",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",
