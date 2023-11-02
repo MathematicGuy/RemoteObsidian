@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1dbf030ae542a2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "_Focus/SQL & DataBase/DataBase.md"
               }
             }
           },
@@ -172,15 +186,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a14a959b90ba4c3c",
+  "active": "1dbf030ae542a2bc",
   "lastOpenFiles": [
+    "Personal/Comparison/Data Science Course.md",
+    "_Focus/SQL & DataBase/DB_Note/1_IntroToDB.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Personal/Comparison",
+    "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
+    "_Focus/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
+    "_Focus/2023/SQL & DataBase/DB_Chapter1.md",
+    "_Focus.md",
     "_Focus/2023/Last Semester/CNXH-KH.md",
     "CSS Kernel.md",
     "Visit the Client.md",
     "Intro to Twitter Bootstrap.md",
     "[CSS.md",
     "CSS Units.md",
-    "_Focus.md",
     "Class Selector.md",
     "[W3Schools.md",
     "Tag and Class.md",
@@ -199,28 +220,21 @@
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "Images/Pasted image 20231101141639.png",
     "Images/Pasted image 20231101141618.png",
-    "[ASCII.md",
     "Images/Pasted image 20231101131811.png",
     "Images/Pasted image 20231101131750.png",
-    "C Code Note.md",
     "Images/Pasted image 20231101124048.png",
     "Images/Pasted image 20231101123048.png",
     "Images/Pasted image 20231030233246.png",
     "Images/Pasted image 20231030233246.png.~tmp",
     "Images/Pasted image 20231101120609.png",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "_Focus/2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "Untitled.canvas",
     "_Focus/2023/Last Semester",
-    "_Focus/2023/SQL & DataBase/DB_Note",
-    "_Focus/2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
+    "_Focus/SQL & DataBase/DB_Note",
     "Images/Baitap-chuong1.pdf",
     "2023/SQL & DataBase/Slide-DB-Chapter1.pdf",
-    "_Focus/2023/SQL & DataBase/DB_Document",
+    "_Focus/SQL & DataBase/DB_Document",
     "WebDev/WebDev_Learn/JS",
     "WebDev/WebDev_Learn/CSS",
-    "WebDev/WebDev_Learn",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",
