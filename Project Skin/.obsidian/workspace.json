@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f4d9fa1af6aee326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/Last Semester/CNXH-KH.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/CNXH-KH.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/CNXH-KH.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/CNXH-KH.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -185,12 +172,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f4d9fa1af6aee326",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/CNXH-KH.md",
+    "CSS Kernel.md",
+    "Visit the Client.md",
+    "Intro to Twitter Bootstrap.md",
+    "[CSS.md",
     "CSS Units.md",
     "_Focus.md",
-    "[CSS.md",
-    "CSS Kernel.md",
     "Class Selector.md",
     "[W3Schools.md",
     "Tag and Class.md",
@@ -221,9 +211,6 @@
     "_Focus/2023/Challenges & Guides/Github.md",
     "WebDev/WebDev_Learn/CSS.md",
     "_Focus/2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
-    "WebDev/WebDev_Learn/CSS/CSS Grid.md",
-    "_Focus/2023/SQL & DataBase/DB_Note/1_IntroToDB.md",
-    "_Focus/2023/SQL & DataBase/SQL tips and tool.md",
     "Untitled.canvas",
     "_Focus/2023/Last Semester",
     "_Focus/2023/SQL & DataBase/DB_Note",
