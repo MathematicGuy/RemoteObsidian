@@ -1,7 +1,7 @@
 2em -> 2 times the current font size
 .5em -> 1/2 time the current font size
 
-[**CSS Units**]([CSS Units (w3schools.com)](https://www.w3schools.com/cssref/css_units.php))
+[**CSS Units**](https://www.w3schools.com/cssref/css_units.php)
 *relative: tương đương*
 *viewport: kích thước màn hình của thiết*
 *kt: kích thước* (chú thích viết tắt)
