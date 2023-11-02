@@ -12,7 +12,11 @@
 
 #### Relative and Absolute Element Positioning
 + [[position relative]]
+	+ Set current Position as Original position.  
 + [[position absolute]]
+	+ Offset element from all un-relative container.
+	+ Absolute position element cannot stay inside position relative element. 
+
 **Summary**
 + Static positioning is default for all elements, except html
 + Relative positioning offsets the element relative to its normal document flow position

@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "d88bed23655a0ff4",
+            "id": "9fa8fd64cf550912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/Programming Knowledge.md",
+                "file": "Reponsive Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Programming Knowledge.md",
+                "file": "Reponsive Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Programming Knowledge.md",
+                "file": "Reponsive Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Programming Knowledge.md"
+                "file": "Reponsive Design.md"
               }
             }
           },
@@ -195,14 +195,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d88bed23655a0ff4",
+  "active": "9fa8fd64cf550912",
   "lastOpenFiles": [
+    "CSS Kernel.md",
+    "Element Positioning.md",
+    "position absolute.md",
+    "position relative.md",
+    "Cumulative Margin and Overflow.md",
+    "Box-sizing.md",
+    "CSS Units.md",
+    "DOM Tree & Score for Priority tag.md",
     "_Focus.md",
     "_Focus/Programming Knowledge.md",
     "Personal/Good for LATER.md",
     "CSS Artistic.md",
     "Images/Pasted image 20231101214754.png",
-    "CSS Kernel.md",
     "Reponsive Design.md",
     "Images/Pasted image 20231101211509.png",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
@@ -214,11 +221,9 @@
     "C Code Note.md",
     "Images/Pasted image 20231101124048.png",
     "Images/Pasted image 20231101123048.png",
-    "Element Positioning.md",
     "Images/Pasted image 20231030233246.png",
     "Images/Pasted image 20231030233246.png.~tmp",
     "Images/Pasted image 20231101120609.png",
-    "DOM Tree & Score for Priority tag.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "WebDev/WebDev_Learn/CSS.md",
     "_Focus/2023/SQL & DataBase/DB_Document/DB_Chapter1.md",
@@ -227,14 +232,9 @@
     "_Focus/2023/SQL & DataBase/SQL tips and tool.md",
     "Class Selector.md",
     "Untitled.canvas",
-    "CSS Units.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "[How.md",
-    "Cumulative Margin and Overflow.md",
     "[CSS.md",
-    "position absolute.md",
-    "position relative.md",
-    "WebDev/WebDev_Learn/HTML.md",
     "_Focus/2023/Last Semester",
     "_Focus/2023/SQL & DataBase/DB_Note",
     "_Focus/2023/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",

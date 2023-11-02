@@ -4,7 +4,7 @@
 [**CSS Units**]([CSS Units (w3schools.com)](https://www.w3schools.com/cssref/css_units.php))
 *relative: tương đương*
 *viewport: kích thước màn hình của thiết*
-*kt: kích thước
+*kt: kích thước* (chú thích viết tắt)
 
 ex -> Relative to the x-height of the current font (rarely used) 
 ch -> Relative to the width of the "0" (zero)

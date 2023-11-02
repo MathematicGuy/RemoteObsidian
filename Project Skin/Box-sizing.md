@@ -16,7 +16,5 @@ Example:  (1 + 20) x 2 + 300 = 342px of total width
 + **padding and border** are **included in the width and height**
 Example:  (1 + 20) x 2 + 258 = 300px of total width
 ![[Pasted image 20231026100004.png]]
-
-
-
+> if the box is 300px, padding are 20px, border are 1px. Then the (width / height) of padding and border of two side will be 42px. Leaving the box width/height to be (258px / 58px).
 
