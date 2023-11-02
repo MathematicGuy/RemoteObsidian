@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Personal/Comparison/Data Science Course.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Personal/Comparison/Data Science Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Personal/Comparison/Data Science Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "Personal/Comparison/Data Science Course.md"
               }
             }
           },
@@ -188,9 +188,10 @@
   },
   "active": "1dbf030ae542a2bc",
   "lastOpenFiles": [
+    "Uni DataBase.md",
     "Personal/Comparison/Data Science Course.md",
-    "_Focus/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "_Focus/SQL & DataBase/DataBase.md",
+    "_Focus/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "Personal/Comparison",
     "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "_Focus/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
@@ -217,7 +218,6 @@
     "CSS Artistic.md",
     "Images/Pasted image 20231101214754.png",
     "Images/Pasted image 20231101211509.png",
-    "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "Images/Pasted image 20231101141639.png",
     "Images/Pasted image 20231101141618.png",
     "Images/Pasted image 20231101131811.png",
