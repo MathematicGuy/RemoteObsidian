@@ -58,7 +58,7 @@ git checkout -b new-branch
 git add . 
 git commit -m "new save file"
 ```
-Then send a pull request (now wait for your changes to be accept)
+Send pull request to get all lasted code update on main branch. 
 ```shell
 git pull origin main 
 ```
