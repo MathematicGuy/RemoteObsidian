@@ -90,3 +90,15 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 
 ### 1. Cs Thực tiễn
 
++ Cứu nước theo hệ Phong Kiến : lấy lại ruộng tr'c, pháp sau -> ko triệt để
++ cụ Phan Bội Châu sang Nhật, gọi nhật về đánh pháp -> fail
++ HCM : Tầm (nhìn xa, trôg rộng), Tâm , Tài
+
+1917 ấp ủ mong ước
+1923 bác đến Nga
+
+### 2. Tinh Hoa Văn Hóa Nhân Loại
+- bác tiếp thu cả vh phương đông lẫn phương tây.
+	- Trong đó có Nho giáo
+	- cách nhìn gạn đục khơi trong: tốt thì lấy, ko tốt thì phát triển nó lên hoặc loại bỏ.
+	- 
