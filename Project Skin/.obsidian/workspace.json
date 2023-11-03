@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md"
+                "file": "_Focus/2023/Challenges & Guides/Github.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "57ecbd86ee2d9921",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
     "_Focus.md",
@@ -219,7 +220,6 @@
     "position absolute.md",
     "position relative.md",
     "Cumulative Margin and Overflow.md",
-    "Box-sizing.md",
     "Images/Pasted image 20231101214754.png",
     "Images/Pasted image 20231101211509.png",
     "Images/Pasted image 20231101141639.png",

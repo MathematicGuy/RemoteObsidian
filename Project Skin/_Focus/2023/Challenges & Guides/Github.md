@@ -32,6 +32,10 @@ stage6: **Push all file to the repository**
 ```shell
 $ git push -u origin main
 ```
+or  push your own branch to origin
+```shell
+$ git push -u origin side-branch
+```
 
 
 ##### Create an alternative code file to work on without changing the main branch (eg. master branch)
@@ -62,6 +66,7 @@ Send pull request to get all lasted code update on main branch.
 ```shell
 git pull origin main 
 ```
+
 
 **Merge back to master branch** 
 (combine branches into a single codebase)
@@ -95,4 +100,11 @@ $ git log 5f54dfa54343c1d7aa36f41dd8f5211345433c24
 **create new file in windown shell** [(bc can't use touch)]([powershell - touch command not working, what should I use instead? - Stack Overflow](https://stackoverflow.com/questions/67659993/touch-command-not-working-what-should-i-use-instead))
 ```shell
 New-Item new.html
+```
+
+
+
+### [How to disconnect a local Git repository from remote master](https://stackoverflow.com/questions/29583706/how-to-disconnect-a-local-git-repository-from-remote-master)
+```shell
+git remote rm origin
 ```
