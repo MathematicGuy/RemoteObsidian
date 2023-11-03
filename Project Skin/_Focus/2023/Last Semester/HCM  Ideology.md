@@ -37,8 +37,7 @@ Sau khi mẹ mất
 	2 anh em sống vs nhau cực khó khăn đc hàng xóm giúp đỡ.
 + Đứa bé thứ 3 NguyenSinhXin (Do bố đặt tên sau khi chết)
 
-#### Chương 1: KN, Đối Tượng, Phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng HCM
-
+#### CHƯƠNG 1: KN, ĐỐI  TƯỢNG, PHƯƠNG PHÁP NGHIÊN CỨU VÀ Ý NGHĨA HỌC TẬP MÔN TƯ TƯỞNG HCM
 Tư tưởng -> Cách nhìn nhận, quan điểm về thế giới xung quanh, thứ mà mình hướng tới.
 	Có phản ánh trung thực cuộc sống khách quan?
 		Là sự phản ánh ko trung thực từ thế giới xung quanh phản lại vào bộ não của chúng ta. Mỗi ng đều có 1 tư tưởng khác nhau.
@@ -59,4 +58,35 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 	Học tập tinh thần, áp dụng theo 1 cách khác trong thời đại mới VD: tiết kiệm
 
 
+
+
+#### CHƯƠNG 2: CƠ SỞ HÌNH THÀNH TƯ TƯỞNG HCM
+
+ Có mấy yếu tố hình thành tt HCM: 3
  
++ **CƠ SỞ THỰC TIỄN**
+	>Thời thế tạo nên anh hùng
+	+ Việt nam thời chiến tranh ...
+  
+
++ **CƠ SỞ LÝ LUẬN**
+>  Bác tiếp thu giá trị truyền thông tốt đẹp của VN (cách tiếp cận: gạn đục khơi trong), ko tiến bộ -> bỏ qua, hoặc cải tạo
+
++ Tư tưởng văn khóa nhân lại
++ Giá trị nhân đạo 
+
+? Vì sao CN Mác Lenin lại có vai trò quan trọng
+	
+-> 2 Nhân tố trên là Chủ quan hay Khách quan: Thực tiễn và Lý luận là khách quan (yếu tố bên ngoài)
+
+
++ **NHÂN TỐ CHỦ QUAN HCM**
+	+ TN
+	+ P/C
+? đâu là yếu tốt quan trọng nhất
+( - ) Cở sở thực tiễn -> nếu là do thời chiến thì mọi ng cũng sẽ là anh hùng, nhưng sự thật thì chỉ 1 số người đc như thế.
+( - ) Cơ sở Lý Luận -> Trên thế giới cũng có rất nhiều ng đọc tư tưởng lý luận MacLenin, khi bác ở Nga, phan châu trinh, etc.. người đọc bản đó cùng bác nhưng chỉ bác Nhìn ra đc ý nghĩa của nó. 
+( + ) Nhân tố Chủ Quan HCM -> Phẩm Chất HCM. Khi bác đã nhìn thấy đc những thứ mà người khác ko thấy đc khi tiếp cận đến các tài liệu, tư tưởng lý luận maclenin, etc...  
+
+### 1. Cs Thực tiễn
+
