@@ -58,8 +58,6 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 	Học tập tinh thần, áp dụng theo 1 cách khác trong thời đại mới VD: tiết kiệm
 
 
-
-
 #### CHƯƠNG 2: CƠ SỞ HÌNH THÀNH TƯ TƯỞNG HCM
 
  Có mấy yếu tố hình thành tt HCM: 3
@@ -71,12 +69,10 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 
 + **CƠ SỞ LÝ LUẬN**
 >  Bác tiếp thu giá trị truyền thông tốt đẹp của VN (cách tiếp cận: gạn đục khơi trong), ko tiến bộ -> bỏ qua, hoặc cải tạo
-
 + Tư tưởng văn khóa nhân lại
 + Giá trị nhân đạo 
 
-? Vì sao CN Mác Lenin lại có vai trò quan trọng
-	
+? Vì sao CN Mác Lenin lại có vai trò quan trọng ?
 -> 2 Nhân tố trên là Chủ quan hay Khách quan: Thực tiễn và Lý luận là khách quan (yếu tố bên ngoài)
 
 
@@ -103,4 +99,3 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 	- cách nhìn gạn đục khơi trong: tốt thì lấy, ko tốt thì phát triển nó lên hoặc loại bỏ.
 	- 
 
-giai 
