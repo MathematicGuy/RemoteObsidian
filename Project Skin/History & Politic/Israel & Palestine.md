@@ -28,3 +28,17 @@ Is stories I heard about the Nakba True? What the real reason behind it.
 
 **Palestine was offer a stay, then started the war with the Isreal.** 
 ? Why started the war
+
+If the Palestian put their gun down there will not a Holocaust, and if the Isreal put their gun down there will be a Holocaust.
+
+Which part of Palestine is occupied
+	The entirety of Palestine.
+
+
+
+mandate: thi hành
+Zionist: 
+Ben Shapiro release multiple videos that inaccuracies 
+	+ 1920 Ben refer Jordan  a part of Palestine
+Arab has rejected peace everytime it bene offered to them?
+	
