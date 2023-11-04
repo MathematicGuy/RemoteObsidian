@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8683a936a415ee43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/2023/Challenges & Guides/Github.md"
               }
             }
           },
@@ -198,8 +185,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8683a936a415ee43",
+  "active": "57ecbd86ee2d9921",
   "lastOpenFiles": [
+    "Todo.md",
     "_Focus.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
@@ -211,7 +199,6 @@
     "Personal/Good for LATER.md",
     "Personal/20 Day Try Hard.md",
     "Git Requirement.md",
-    "Todo.md",
     "[W3Schools.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
