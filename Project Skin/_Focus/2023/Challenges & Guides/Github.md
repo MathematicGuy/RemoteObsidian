@@ -29,7 +29,7 @@ stage5: **connect to github repository**
 ```shell
 $ git remote add orgin http://github.com/user_name/git_name.git
 ```
-stage6: **Push all file to the repository** 
+stage6: **Push all file to the repository**  (-u mean up stream)
 ```shell
 $ git push -u origin main
 ```
@@ -104,9 +104,16 @@ New-Item new.html
 ```
 
 
+### …or push an existing repository from the command line
+```shell
+git remote add origin git@github.com:MathmatheticGuy/WedJourney-Update-0.1.git
+git branch -M main
+git push -u origin main
+```
 
 ### [How to disconnect a local Git repository from remote master](https://stackoverflow.com/questions/29583706/how-to-disconnect-a-local-git-repository-from-remote-master)
 ```shell
 git remote rm origin
 ```
+
 
