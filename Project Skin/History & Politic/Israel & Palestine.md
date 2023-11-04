@@ -41,4 +41,4 @@ Zionist:
 Ben Shapiro release multiple videos that inaccuracies 
 	+ 1920 Ben refer Jordan  a part of Palestine
 Arab has rejected peace everytime it bene offered to them?
-	
+
