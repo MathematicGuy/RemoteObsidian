@@ -28,7 +28,6 @@ Sound Of Metal
 
 Git-hub. ML docs
 	[josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software. (github.com)](https://github.com/josephmisiti/awesome-machine-learning)
-
 ![[Pasted image 20231005155331.png]]
 
 
