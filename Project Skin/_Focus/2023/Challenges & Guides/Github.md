@@ -3,8 +3,9 @@ Pull -> Commit -> Push
 	https://youtu.be/UOIPS-ewFHg?si=i_4yKMdw1Uc8ZRmi
 
 
+#### [[Github for Beginners]]
+
 ### **Git Explained**
-note: 
 
 ##### Git how to push 
 note: repository mean folder, same 
@@ -108,3 +109,4 @@ New-Item new.html
 ```shell
 git remote rm origin
 ```
+
