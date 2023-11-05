@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Github for Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Github for Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md"
+                "file": "Github for Beginners.md"
               }
             }
           },
@@ -199,10 +199,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d915f39f901d021",
+  "active": "57ecbd86ee2d9921",
   "lastOpenFiles": [
-    "Github for Beginners.md",
     "_Focus/2023/Challenges & Guides/Github.md",
+    "Github for Beginners.md",
     "History & Politic/Israel & Palestine.md",
     "Todo.md",
     "_Focus.md",

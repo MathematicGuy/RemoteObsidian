@@ -22,5 +22,5 @@ ls | findstr KeyName
 
 **Copy file data**
 ```shell
-type C:\Path\To\KeyName.pub | clip
+		type C:\Path\To\KeyName.pub | clip
 ```
