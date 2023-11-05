@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "History & Politic/Israel & Palestine.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github for Beginners.md",
+                "file": "History & Politic/Israel & Palestine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github for Beginners.md",
+                "file": "History & Politic/Israel & Palestine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github for Beginners.md"
+                "file": "History & Politic/Israel & Palestine.md"
               }
             }
           },
@@ -199,11 +199,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "57ecbd86ee2d9921",
+  "active": "3d915f39f901d021",
   "lastOpenFiles": [
-    "Images/Pasted image 20231105102455.png",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Github for Beginners.md",
+    "Images/Pasted image 20231105102455.png",
     "History & Politic/Israel & Palestine.md",
     "Todo.md",
     "_Focus.md",
@@ -240,7 +240,6 @@
     "Images/Pasted image 20231101131811.png",
     "Images/Pasted image 20231101131750.png",
     "Images/Pasted image 20231101124048.png",
-    "Images/Pasted image 20231101123048.png",
     "Images/Pasted image 20231030233246.png.~tmp",
     "Untitled.canvas",
     "_Focus/2023/Last Semester",

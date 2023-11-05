@@ -42,3 +42,20 @@ Ben Shapiro release multiple videos that inaccuracies
 	+ 1920 Ben refer Jordan  a part of Palestine
 Arab has rejected peace everytime it bene offered to them?
 
+Palestine was  a name made to insult jews (long time ago) 
+Why Palestine-The Arabs reject to co-exist with Isreal?
+Two states solution? why they not come to an agreement.
+	+ Because one side (Arabs, Palestine, etc..) said there will be no peace
+	+ No Peace, No Recognition, No Negociations.
+While Isreal has accepted all the single peace deal provided to it. Moral Equivelent?
+Plus, there has been a peace deal for a 2 state solution between Isreal an Palestine.(Arafat + Ehud Barak + Bill Clinton)
+	Massive round of violen after the peace deal. Yes it true
+Concession: nhượng bộ
+Overtures: đề nghị
+
+Fatal (Biggest Televison in West Bank) - Encourage people to kill Jews.  
+
+What going on in the West Bank? Why its a prison? Was it need to be?
+
+### [[THE TRUTH About the Israeli-Palestinian Conflict]]
+  
