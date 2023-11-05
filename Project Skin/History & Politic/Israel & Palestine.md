@@ -70,4 +70,7 @@ Plus, there has been a peace deal for a 2 state solution between Isreal an Pales
 Concession: nhượng bộ
 Overtures: đề nghị
 
-Fatal 
+[Debunked Palestine Lie](https://youtu.be/O7ByJb7QQ9U?si=HOhL1UeaxhaAlKic)
+The Peel Commision's Final Report July 1937
+![[Pasted image 20231105230046.png]]
+There has been many time palestine was proposed to have their own state.
