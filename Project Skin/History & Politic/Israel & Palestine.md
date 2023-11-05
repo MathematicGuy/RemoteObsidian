@@ -37,13 +37,30 @@ Which part of Palestine is occupied
 
 
 mandate: thi hành
-Zionist: 
+Zionist movement -> land for jews ?
+
+What going on in the West Bank? Why its a prison? Was it need to be?
+
+Why Jews are hated so much n the first place?
+
+Did Isreal Steal the land ? -> No ?
+ 
+
+### THE TRUTH About the Israeli-Palestinian Conflict
+
+(Biggest Televison in West Bank) - Encourage people to kill Jews.  
+
 Ben Shapiro release multiple videos that inaccuracies 
 	+ 1920 Ben refer Jordan  a part of Palestine
 Arab has rejected peace everytime it bene offered to them?
 
 Palestine was  a name made to insult jews (long time ago) 
+
 Why Palestine-The Arabs reject to co-exist with Isreal?
+	As far as I know the Britain give Isreal the Land that already have inhabitants. Not " A Land for people for a people without a land" 
+	+ Too much Isreal moving to Palestine states? Disagreement then war ?
+	+ 
+
 Two states solution? why they not come to an agreement.
 	+ Because one side (Arabs, Palestine, etc..) said there will be no peace
 	+ No Peace, No Recognition, No Negociations.
@@ -53,9 +70,4 @@ Plus, there has been a peace deal for a 2 state solution between Isreal an Pales
 Concession: nhượng bộ
 Overtures: đề nghị
 
-Fatal (Biggest Televison in West Bank) - Encourage people to kill Jews.  
-
-What going on in the West Bank? Why its a prison? Was it need to be?
-
-### [[THE TRUTH About the Israeli-Palestinian Conflict]]
-  
+Fatal 
