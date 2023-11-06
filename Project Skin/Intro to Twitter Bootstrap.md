@@ -17,6 +17,7 @@
 + bootstrap depend on jquery library so it must import later
 
 **Bootstrap Grid System Basics**
++ Bootstrapgrid system **using flex-box**
 ![[Pasted image 20231101124048.png]]
 
 + Structure Bootstrap expects for the grid-based layout
@@ -27,3 +28,10 @@
 + If no other rules apply, specifying col-xs-... will keep that layout no matter what the size of the screen.
 
 Homework: Make a website with Boostrap
+
+**Viewport**
+xs - extra small
+md - medium
+lg - large
+xl - extra large
+xxl - super large

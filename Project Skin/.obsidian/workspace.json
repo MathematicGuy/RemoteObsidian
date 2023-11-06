@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28759a25b8c7418b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Twitter Bootstrap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Intro to Twitter Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Intro to Twitter Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Intro to Twitter Bootstrap.md"
               }
             }
           },
@@ -186,10 +199,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3deb81851cc87ce7",
+  "active": "28759a25b8c7418b",
   "lastOpenFiles": [
-    "Grammar.md",
+    "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "Todo.md",
+    "Grammar.md",
     "History & Politic/Israel & Palestine.md",
     "Images/Pasted image 20231105230046.png",
     "THE TRUTH About the Israeli-Palestinian Conflict.md",
@@ -220,7 +234,6 @@
     "Uni DataBase.md",
     "_Focus/SQL & DataBase/DB_Note/1_IntroToDB.md",
     "Personal/Comparison",
-    "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "_Focus/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
     "Images/Pasted image 20231101214754.png",
     "Images/Pasted image 20231101211509.png",

@@ -1,5 +1,5 @@
 note: Flexbox has no justify-items, only css grid
-
++ Allow you to ultilize all the room in the container
 ---
 **Justify, Flex -> Follow the Main-Axis**
 	Main Axis is Horizontal axis
@@ -18,12 +18,11 @@ stretch - stretch the item as much as it  could (grew to full size)
 align-item: flex-start -> align item to the top of the box
 ![[Pasted image 20231020163736.png]]
 
-
 align-items -> follow **CROSS AXIS** 
-
 
 flex-grow -> make this box grow more than the rest (may fill up blank space)
 
 flex properties - (grow, shrink, basis)
 flex: 1 2 1; (growm | shrink | basis)
 
+ 
