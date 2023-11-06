@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92ee74309a4ed0d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Artistic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/Web.md",
+                "file": "CSS Artistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/Web.md",
+                "file": "CSS Artistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/Web.md"
+                "file": "CSS Artistic.md"
               }
             }
           },
@@ -186,8 +199,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "28759a25b8c7418b",
+  "active": "92ee74309a4ed0d5",
   "lastOpenFiles": [
+    "WebDev/Web.md",
     "WebDev/WebDev_Learn/HTML.md",
     "Intro to Twitter Bootstrap.md",
     "_Focus.md",
@@ -215,7 +229,6 @@
     "Personal/20 Day Try Hard.md",
     "Git Requirement.md",
     "[W3Schools.md",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Images/Pasted image 20231102210535.png",
     "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",
