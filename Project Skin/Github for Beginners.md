@@ -71,7 +71,7 @@ ssh-add ~/.ssh/your_private_key
 ```
 or
 ```bash
-ssh-add _K /.ssh/id_rsa
+ssh-add -K /.ssh/id_rsa
 ```
 
 **Check your connection**
