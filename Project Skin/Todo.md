@@ -25,6 +25,5 @@
 - [ ] Basic Docker Knowledge (learn docker in 1 hour)
 - [ ] Basic API knowledge  (API for each language)
 
-
 Ideas
 How to run App without downloading them
