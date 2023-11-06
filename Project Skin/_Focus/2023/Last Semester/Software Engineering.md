@@ -187,3 +187,7 @@ Historical Data**
 
 
 Chú thích thuật ngũ
+
+usecase -> báo cáo thực tế
+
+

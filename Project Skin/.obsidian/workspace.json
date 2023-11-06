@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f62de70602daeb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Artistic.md"
+                "file": "_Focus/2023/Last Semester/Software Engineering.md"
               }
             }
           },
@@ -199,8 +212,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "92ee74309a4ed0d5",
+  "active": "7f62de70602daeb0",
   "lastOpenFiles": [
+    "Center a div.md",
+    "CSS Artistic.md",
     "WebDev/Web.md",
     "WebDev/WebDev_Learn/HTML.md",
     "Intro to Twitter Bootstrap.md",
@@ -227,8 +242,6 @@
     "Personal/Tech News.md",
     "Personal/Good for LATER.md",
     "Personal/20 Day Try Hard.md",
-    "Git Requirement.md",
-    "[W3Schools.md",
     "Images/Pasted image 20231102210535.png",
     "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",
