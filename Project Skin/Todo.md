@@ -7,9 +7,8 @@
 
 
 #Todo/Code/WebDev
+- [ ] Learn Bootstrap 
 - [ ] Learn JS -> React
-- [ ] Bootstrap or Tail Wind
-
 
 #Todo/Personal
 - [ ] Decide to Learn German or Japanses as my 3rd Language 
