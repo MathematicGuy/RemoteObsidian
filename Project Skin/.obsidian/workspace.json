@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md",
+                "file": "WebDev/Web.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md",
+                "file": "WebDev/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md",
+                "file": "WebDev/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md"
+                "file": "WebDev/Web.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "28759a25b8c7418b",
   "lastOpenFiles": [
+    "WebDev/WebDev_Learn/HTML.md",
     "Intro to Twitter Bootstrap.md",
     "_Focus.md",
     "CSS Units.md",
@@ -215,7 +216,6 @@
     "Git Requirement.md",
     "[W3Schools.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
     "Images/Pasted image 20231102210535.png",
     "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",
