@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "28759a25b8c7418b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/Web.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "92ee74309a4ed0d5",
             "type": "leaf",
             "state": {
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "CSS Artistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "CSS Artistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+                "file": "CSS Artistic.md"
               }
             }
           },
@@ -212,14 +199,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7f62de70602daeb0",
+  "active": "92ee74309a4ed0d5",
   "lastOpenFiles": [
+    "_Focus.md",
+    "WebDev/Web.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
     "Center a div.md",
     "CSS Artistic.md",
-    "WebDev/Web.md",
     "WebDev/WebDev_Learn/HTML.md",
     "Intro to Twitter Bootstrap.md",
-    "_Focus.md",
     "CSS Units.md",
     "CSS Kernel.md",
     "Class Selector.md",
@@ -241,7 +229,6 @@
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Personal/Tech News.md",
     "Personal/Good for LATER.md",
-    "Personal/20 Day Try Hard.md",
     "Images/Pasted image 20231102210535.png",
     "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",
