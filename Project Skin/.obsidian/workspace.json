@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML Class Diagrams.md"
+                "file": "_Focus/SQL & DataBase/DataBase.md"
               }
             }
           },
@@ -188,12 +188,13 @@
   },
   "active": "7f62de70602daeb0",
   "lastOpenFiles": [
-    "Github for Beginners.md",
+    "_Focus.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "UML Class Diagrams.md",
+    "Github for Beginners.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "CSS Artistic.md",
-    "_Focus.md",
     "WebDev/Web.md",
     "Center a div.md",
     "WebDev/WebDev_Learn/HTML.md",
@@ -215,7 +216,6 @@
     "Personal/Study Method (Efficiency)/Deadline rush method (not done).md",
     "Personal/Study Method (Efficiency)/Body Clock.md",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
-    "Personal/Tech News.md",
     "Images/Pasted image 20231102210535.png",
     "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",

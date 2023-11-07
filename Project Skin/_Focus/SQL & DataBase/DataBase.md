@@ -4,7 +4,9 @@
  Khóa chính - chọn 1 trong các khóa dự tuyển làm khóa chính.
  khóa ngoài: khóa kết nối với nhiều table khác nhau.
 
-+ Query Language: 
 
+Intesection Operation
 
-
+Union Operation
++ 2 hàng phải cùng số dòng để có thể ghép đc.
++ TÍch đề các: từng phần tử bảng này nhân với từng phần tử của bảng kia
