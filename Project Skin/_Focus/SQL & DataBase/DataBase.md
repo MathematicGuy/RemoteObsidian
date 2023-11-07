@@ -10,3 +10,7 @@ Intesection Operation
 Union Operation
 + 2 hàng phải cùng số dòng để có thể ghép đc.
 + TÍch đề các: từng phần tử bảng này nhân với từng phần tử của bảng kia
+
+![[Pasted image 20231107181733.png]]
+Join là chọn giá trị trùng nhau
++ Dấu kết nối tự nhiên.
