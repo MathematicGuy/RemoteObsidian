@@ -78,6 +78,7 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 [UML Turtorial](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
 	có thể viết hộ code sau khi Thiết Kế.
 Quan tâm tới sự giao tiếp hơn quy trình
+[[UML Class Diagrams]]
 
 # Lecture 2: Project Managment Basics
 
@@ -193,3 +194,6 @@ usecase -> báo cáo thực tế
 
 Non-functional requirements (yêu cầu phi chức năng)
 	ràng buộc áp đặt lên sp' phần mềm, quá trình xây dựng phần mềm đó.
+
+
+Class -> Method (thuộc )

@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97f97d1c60adffc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github for Beginners.md",
+                "file": "UML Class Diagrams.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github for Beginners.md",
+                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github for Beginners.md",
+                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github for Beginners.md"
+                "file": "UML Class Diagrams.md"
               }
             }
           },
@@ -199,11 +186,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "97f97d1c60adffc3",
+  "active": "7f62de70602daeb0",
   "lastOpenFiles": [
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "Github for Beginners.md",
+    "UML Class Diagrams.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "CSS Artistic.md",
     "_Focus.md",
     "WebDev/Web.md",
@@ -228,7 +216,6 @@
     "Personal/Study Method (Efficiency)/Body Clock.md",
     "Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Personal/Tech News.md",
-    "Personal/Good for LATER.md",
     "Images/Pasted image 20231102210535.png",
     "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",
