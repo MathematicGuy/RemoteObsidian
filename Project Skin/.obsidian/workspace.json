@@ -23,15 +23,12 @@
             }
           },
           {
-            "id": "7f62de70602daeb0",
+            "id": "9d0942030d1ed1c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Personal/Interest/The_Secrets_of_Top_Students.md"
               }
             }
           }
@@ -86,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -103,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Personal/Interest/The_Secrets_of_Top_Students.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Personal/Interest/The_Secrets_of_Top_Students.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "Personal/Interest/The_Secrets_of_Top_Students.md"
               }
             }
           },
@@ -166,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,9 +182,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7f62de70602daeb0",
+  "active": "cbc53dc6bb856fb8",
   "lastOpenFiles": [
+    "Personal/Interest/Books",
     "_Focus.md",
+    "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
+    "Personal/Interest/The_Secrets_of_Top_Students.md",
+    "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
+    "Personal/Interest/Books.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231107181733.png",
     "Images/Pasted image 20231107181729.png",
@@ -214,9 +215,6 @@
     "THE TRUTH About the Israeli-Palestinian Conflict.md",
     "Images/Pasted image 20231105102455.png",
     "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
-    "Personal/Study Method (Efficiency)/Suk Method (base on my exp).md",
-    "Personal/Study Method (Efficiency)/Deadline rush method (not done).md",
-    "Personal/Study Method (Efficiency)/Body Clock.md",
     "Images/Pasted image 20231102210535.png",
     "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",
@@ -233,7 +231,6 @@
     "_Focus/SQL & DataBase/DB_Note",
     "Images/Baitap-chuong1.pdf",
     "2023/SQL & DataBase/Slide-DB-Chapter1.pdf",
-    "_Focus/SQL & DataBase/DB_Document",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",
