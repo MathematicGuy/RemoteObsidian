@@ -59,7 +59,7 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 + Composite Structure Diagrams
 + Deployment Diagrams
 + Component Diagrams
-+ Class diagrams
++ [[UML Class Diagrams]]
 + Object diagrams
 + Package diagrams
 
@@ -78,7 +78,7 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 [UML Turtorial](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
 	có thể viết hộ code sau khi Thiết Kế.
 Quan tâm tới sự giao tiếp hơn quy trình
-[[UML Class Diagrams]]
+
 
 # Lecture 2: Project Managment Basics
 

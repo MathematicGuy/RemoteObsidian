@@ -23,17 +23,33 @@
             }
           },
           {
-            "id": "9d0942030d1ed1c8",
+            "id": "4a5c5c384350a337",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Personal/Interest/The_Secrets_of_Top_Students.md"
+                "file": "UML Class Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a99ab4cdf08b970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML Class Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -99,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Interest/The_Secrets_of_Top_Students.md",
+                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Interest/The_Secrets_of_Top_Students.md",
+                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Interest/The_Secrets_of_Top_Students.md"
+                "file": "UML Class Diagrams.md"
               }
             }
           },
@@ -182,20 +199,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cbc53dc6bb856fb8",
+  "active": "2a99ab4cdf08b970",
   "lastOpenFiles": [
-    "Personal/Interest/Books",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "UML Class Diagrams.md",
+    "_Focus/Command N.md",
     "_Focus.md",
-    "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",
+    "Personal/Interest/Books",
+    "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "Personal/Interest/Books.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231107181733.png",
     "Images/Pasted image 20231107181729.png",
-    "UML Class Diagrams.md",
     "Github for Beginners.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "CSS Artistic.md",
     "WebDev/Web.md",
@@ -230,7 +248,6 @@
     "_Focus/2023/Last Semester",
     "_Focus/SQL & DataBase/DB_Note",
     "Images/Baitap-chuong1.pdf",
-    "2023/SQL & DataBase/Slide-DB-Chapter1.pdf",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",
