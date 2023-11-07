@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "92ee74309a4ed0d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github for Beginners.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f62de70602daeb0",
             "type": "leaf",
             "state": {
@@ -47,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97f97d1c60adffc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github for Beginners.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "92ee74309a4ed0d5",
+  "active": "97f97d1c60adffc3",
   "lastOpenFiles": [
     "_Focus/2023/Challenges & Guides/Github.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Github for Beginners.md",
     "CSS Artistic.md",
     "_Focus.md",
     "WebDev/Web.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "Center a div.md",
     "WebDev/WebDev_Learn/HTML.md",
     "Intro to Twitter Bootstrap.md",
@@ -220,7 +221,6 @@
     "History & Politic/Israel & Palestine.md",
     "Images/Pasted image 20231105230046.png",
     "THE TRUTH About the Israeli-Palestinian Conflict.md",
-    "Github for Beginners.md",
     "Images/Pasted image 20231105102455.png",
     "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
     "Personal/Study Method (Efficiency)/Suk Method (base on my exp).md",

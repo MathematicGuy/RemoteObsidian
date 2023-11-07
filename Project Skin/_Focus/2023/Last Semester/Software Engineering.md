@@ -191,3 +191,5 @@ Chú thích thuật ngũ
 usecase -> báo cáo thực tế
 
 
+Non-functional requirements (yêu cầu phi chức năng)
+	ràng buộc áp đặt lên sp' phần mềm, quá trình xây dựng phần mềm đó.
