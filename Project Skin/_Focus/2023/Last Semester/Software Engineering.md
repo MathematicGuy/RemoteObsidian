@@ -70,6 +70,7 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 + [[Use Case Diagrams]]
 + Activity Diagrams
 + Sequence Diagrams
+	Model the interaction of Obj base on a time sequence. How obj interacted with eachother in a particular usecase.
 + Timing Diagrams
 + Interaction overview Diagrams
 

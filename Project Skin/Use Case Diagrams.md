@@ -1,7 +1,10 @@
 Document: [Use Case Diagrams và 5 sai lầm thường gặp](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
-So show people:
-+ the systems in the simplest way.
+Purpose
 + Basic Flow
+1. Specify the context of a system
+2. Capture the requirements of a system
+3. Validate system architecture
+4. Drive implementation and generate test cases
 
 **Structure**
 ![[Pasted image 20231108085348.png]]

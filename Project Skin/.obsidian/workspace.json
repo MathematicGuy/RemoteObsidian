@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2a99ab4cdf08b970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Use Case Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Use Case Diagrams.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Use Case Diagrams.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Use Case Diagrams.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -186,21 +172,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a99ab4cdf08b970",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
-    "Images/Pasted image 20231108091728.png",
-    "Images/Pasted image 20231108091710.png",
-    "Use Case Diagrams.md",
-    "Images/Pasted image 20231108091205.png",
-    "Images/Pasted image 20231108091138.png",
-    "Images/Pasted image 20231108090241.png",
-    "Images/Pasted image 20231108085348.png",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "UML Class Diagrams.md",
-    "Images/Pasted image 20231108084256.png",
-    "Images/Pasted image 20231108084126.png",
-    "Images/Pasted image 20231108083606.png",
-    "Images/Pasted image 20231108083555.png",
+    "Use Case Diagrams.md",
+    "Images/Pasted image 20231108102006.png",
+    "Images/Pasted image 20231108101059.png",
+    "Images/Pasted image 20231108101057.png",
+    "Images/Pasted image 20231108100931.png",
+    "Images/Pasted image 20231108100435.png",
+    "Images/Pasted image 20231108095959.png",
+    "Images/Pasted image 20231108095808.png",
+    "Images/Pasted image 20231108095739.png",
+    "Images/Pasted image 20231108095608.png",
+    "Images/Pasted image 20231108095545.png",
+    "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus.md",
     "_Focus/Command N.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",
@@ -209,7 +195,6 @@
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "Personal/Interest/Books.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Images/Pasted image 20231107181733.png",
     "Github for Beginners.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "CSS Artistic.md",
