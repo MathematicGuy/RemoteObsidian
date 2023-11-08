@@ -110,12 +110,67 @@ int main(){
 }
 ```
 
-### Function
-Assigned
+switch statement
 ```c
+#include <stdio.h>
 
+int main() {
+    char grade = 'F';
+
+    switch (grade) {
+        case 'A': 
+            printf("pass");
+            break;
+        case 'B':
+            printf("You did alright"); 
+            break;
+        default:
+            printf("How yall doing"); 
+            break;
+    }   
+    return 0;
+}
 ```
-Itoa
-```c
 
+Basic class struture
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+struct Student {
+    char name[20];
+    char major[20];
+    int age;
+    double gpa;
+};
+
+int main() {
+    
+    struct Student student1;
+    student1.age = 22;
+    student1.gpa = 3.2;
+    strcpy(student1.name, "Harry Po'er");
+    strcpy(student1.major, "Neuron Science");
+    printf("%s\n", student1.major);   
+
+
+    struct Student student2;
+    student2.age = 18;
+    student2.gpa = 4.2;
+    strcpy(student2.name, "Meth");
+    strcpy(student2.major, "Art & History");
+    printf("%s", student2.major);   
+    return 0;
+}
+```
+
+While Loop
+```c
+int main(){
+    int index = 0;
+    while (index <= 5){
+        printf("Hello %d\n", index);
+        index++;
+    }
+}
 ```
