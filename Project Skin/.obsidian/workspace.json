@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5271436900ff1aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History & Politic/Israel & Palestine.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History & Politic/Israel & Palestine.md",
+                "file": "C Code Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History & Politic/Israel & Palestine.md",
+                "file": "C Code Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History & Politic/Israel & Palestine.md"
+                "file": "C Code Note.md"
               }
             }
           },
@@ -199,12 +186,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5271436900ff1aa1",
+  "active": "b44ef2fd338bf73c",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/Fundamental of Programming.md",
+    "C Code Note.md",
+    "History & Politic/Israel & Palestine.md",
     "Images/Pasted image 20231108191342.png",
     "_Focus/2023/3rd Semesters/CSharp/What is are Pointers.md",
-    "C Code Note.md",
-    "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "_Focus.md",
     "UML Class Diagrams.md",
     "Use Case Diagrams.md",
@@ -217,7 +205,6 @@
     "Images/Pasted image 20231108095808.png",
     "Images/Pasted image 20231108095739.png",
     "Images/Pasted image 20231108095608.png",
-    "Images/Pasted image 20231108095545.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/Command N.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",

@@ -1,5 +1,7 @@
-
 input
+printf -> in
+scanf("%c", &some_character)
+
 ```c
 int main(){
 	int number;
@@ -24,6 +26,38 @@ int main(){
 ```
 
 
+**Atoi**
+> Convert number in string format to int number 
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    char str[] = "1234";
+    int num = atoi(str);
+    printf("The string \"%s\" is converted to the integer %d.\n", str, num);
+    return 0;
+}
+```
+
+**Itoa**
+> `itoa()` is a function in C that converts an integer value to a string of characters.
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    int num = 10;
+    char buffer[10];
+    itoa(num, buffer, DECIMAL);
+    printf("The decimal number %d is converted to the string %s.\n", num, buffer);
+    itoa(num, buffer, HEX);
+    printf("The decimal number %d is converted to the hexadecimal string %s.\n", num, buffer);
+    return 0;
+}
+```
+
+
 Array
 ```c
 int number[] = {1,2,3,4,5,6,7,8};
@@ -40,7 +74,6 @@ int main(){
     cal();
     printf("Bottom\n");
     
-
 	return 0;
 }
 
