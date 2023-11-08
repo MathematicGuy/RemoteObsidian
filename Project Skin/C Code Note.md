@@ -41,22 +41,42 @@ int main() {
 ```
 
 **Itoa**
-> `itoa()` is a function in C that converts an integer value to a string of characters.
+> `itoa()` is a function in C that converts an integer value to a string of character using (DECIMAL or HEX form)
 ```c
 #include <stdio.h>
 #include <stdlib.h>
+
+#define DECIMAL 10 // use base-10 (0 to 9)
+#define HEX 88 // use base-16 that use 16 digits (0-9 and A-F)
+
 
 int main() {
     int num = 10;
     char buffer[10];
     itoa(num, buffer, DECIMAL);
     printf("The decimal number %d is converted to the string %s.\n", num, buffer);
+
     itoa(num, buffer, HEX);
     printf("The decimal number %d is converted to the hexadecimal string %s.\n", num, buffer);
     return 0;
 }
 ```
 
+**sprintf**
+> `sprintf` is a function in the C programming language that formats and stores a series of characters and values in a string
+> int sprintf(char * str, const char * format, any_string);
+> + **value** is save into **buffer** pointer 
+```c
+#include <stdio.h>
+
+int main() {
+    char buffer[100];
+    int value = 42;
+    sprintf(buffer, "The value is %d.", value);
+    printf("%s\n", buffer);
+    return 0;
+}
+```
 
 Array
 ```c
