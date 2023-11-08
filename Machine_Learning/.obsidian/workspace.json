@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "475e7559d2247ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI RoadMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "AI RoadMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "AI RoadMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "AI RoadMap.md"
               }
             }
           },
@@ -159,8 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "595e98fb057d501a",
+  "active": "475e7559d2247ff7",
   "lastOpenFiles": [
+    "Machine Learning Problems.md",
+    "Machine Learning.md",
     "Cloud Services.md",
     "Classification.md",
     "Bookmarks.md",
@@ -186,7 +201,6 @@
     "Untitled.md",
     "Untitled",
     "Regression.md",
-    "Machine Learning.md",
     "Optimization.md",
     "Image/Pasted image 20231006064118.png",
     "Image/Pasted image 20231006063728.png",
@@ -194,7 +208,6 @@
     "Image/Pasted image 20231006063107.png",
     "Game AI.md",
     "Image/Pasted image 20231005203403.png",
-    "Harvard CS50’s Artificial Intelligence with Python.md",
     "Image/Pasted image 20231001093018.png",
     "Image/Pasted image 20230922081553.png",
     "Image/Pasted image 20230922081411.png",
