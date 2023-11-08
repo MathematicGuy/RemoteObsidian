@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5271436900ff1aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History & Politic/Israel & Palestine.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Code Note.md",
+                "file": "History & Politic/Israel & Palestine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Code Note.md",
+                "file": "History & Politic/Israel & Palestine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Code Note.md"
+                "file": "History & Politic/Israel & Palestine.md"
               }
             }
           },
@@ -186,8 +199,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b44ef2fd338bf73c",
+  "active": "5271436900ff1aa1",
   "lastOpenFiles": [
+    "Images/Pasted image 20231108191342.png",
+    "_Focus/2023/3rd Semesters/CSharp/What is are Pointers.md",
+    "C Code Note.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "_Focus.md",
     "UML Class Diagrams.md",
@@ -223,9 +239,6 @@
     "Tag and Class.md",
     "Element Positioning.md",
     "Todo.md",
-    "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
-    "Grammar.md",
-    "History & Politic/Israel & Palestine.md",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",
