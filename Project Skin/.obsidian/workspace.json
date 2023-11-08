@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "4a5c5c384350a337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML Class Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2a99ab4cdf08b970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Use Case Diagrams.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Use Case Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Use Case Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML Class Diagrams.md"
+                "file": "Use Case Diagrams.md"
               }
             }
           },
@@ -201,10 +188,21 @@
   },
   "active": "2a99ab4cdf08b970",
   "lastOpenFiles": [
+    "Images/Pasted image 20231108091728.png",
+    "Images/Pasted image 20231108091710.png",
+    "Use Case Diagrams.md",
+    "Images/Pasted image 20231108091205.png",
+    "Images/Pasted image 20231108091138.png",
+    "Images/Pasted image 20231108090241.png",
+    "Images/Pasted image 20231108085348.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "UML Class Diagrams.md",
-    "_Focus/Command N.md",
+    "Images/Pasted image 20231108084256.png",
+    "Images/Pasted image 20231108084126.png",
+    "Images/Pasted image 20231108083606.png",
+    "Images/Pasted image 20231108083555.png",
     "_Focus.md",
+    "_Focus/Command N.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",
     "Personal/Interest/Books",
     "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
@@ -212,7 +210,6 @@
     "Personal/Interest/Books.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231107181733.png",
-    "Images/Pasted image 20231107181729.png",
     "Github for Beginners.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "CSS Artistic.md",
@@ -229,20 +226,10 @@
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "Grammar.md",
     "History & Politic/Israel & Palestine.md",
-    "Images/Pasted image 20231105230046.png",
-    "THE TRUTH About the Israeli-Palestinian Conflict.md",
-    "Images/Pasted image 20231105102455.png",
-    "Personal/Study Method (Efficiency)/The Secret of Top Student by Stefanie_Weisman.md",
-    "Images/Pasted image 20231102210535.png",
-    "Images/Pasted image 20231102210533.png",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",
     "_Focus/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
-    "Images/Pasted image 20231101214754.png",
-    "Images/Pasted image 20231101211509.png",
-    "Images/Pasted image 20231101141639.png",
-    "Images/Pasted image 20231101141618.png",
     "Images/Pasted image 20231030233246.png.~tmp",
     "Untitled.canvas",
     "_Focus/2023/Last Semester",

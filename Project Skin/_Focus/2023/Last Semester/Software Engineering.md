@@ -67,7 +67,7 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 **Behavioral Diagrams**
 + State Machine Diagrams
 + Communication Diagrams
-+ [Use Case Diagrams](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
++ [[Use Case Diagrams]]
 + Activity Diagrams
 + Sequence Diagrams
 + Timing Diagrams
