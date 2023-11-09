@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6465e5f8f172cae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/CNXH-KH.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS Characteristics.md",
+                "file": "_Focus/2023/Last Semester/CNXH-KH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS Characteristics.md",
+                "file": "_Focus/2023/Last Semester/CNXH-KH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS Characteristics.md"
+                "file": "_Focus/2023/Last Semester/CNXH-KH.md"
               }
             }
           },
@@ -186,12 +199,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0cac36755f8777d4",
+  "active": "6465e5f8f172cae8",
   "lastOpenFiles": [
+    "DBMS Characteristics.md",
+    "_Focus/2023/Last Semester/CNXH-KH.md",
     "Images/Pasted image 20231109091651.png",
     "Images/Pasted image 20231109091539.png",
     "_Focus/SQL & DataBase/DataBase.md",
-    "DBMS Characteristics.md",
     "Intro to Database Management system.md",
     "Images/Pasted image 20231109085522.png",
     "_Focus.md",
@@ -208,7 +222,6 @@
     "Images/Pasted image 20231108100931.png",
     "Images/Pasted image 20231108100435.png",
     "Images/Pasted image 20231108095959.png",
-    "Images/Pasted image 20231108095808.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/Command N.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",
