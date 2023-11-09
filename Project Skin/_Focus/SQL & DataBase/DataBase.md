@@ -3,7 +3,7 @@
 3) [[DB Users]]
 
 
-
+[[Relational Algebra Operations]]
 
 
 
@@ -32,3 +32,4 @@ Phép chia.
 R: lược đồ
 
 Phép so sánh bằng -> kết nối tự 
+biểu thức đại số quan hệ

@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "6465e5f8f172cae8",
+            "id": "72c433418e252e0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational Algebra Operations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e3744cf32fd2dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational Algebra Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational Algebra Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "Relational Algebra Operations.md"
               }
             }
           },
@@ -186,12 +199,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6465e5f8f172cae8",
+  "active": "72c433418e252e0d",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Relational Algebra Operations.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "Images/Pasted image 20231109143556.png",
+    "Images/Pasted image 20231109143548.png",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "_Focus/2023/Last Semester/CNXH-KH.md",
     "DB Users.md",
     "_Focus.md",
-    "_Focus/2023/Last Semester/CNXH-KH.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "DBMS Characteristics.md",
     "Images/Pasted image 20231109091651.png",
     "Images/Pasted image 20231109091539.png",
@@ -208,8 +226,6 @@
     "Images/Pasted image 20231108101059.png",
     "Images/Pasted image 20231108101057.png",
     "Images/Pasted image 20231108100931.png",
-    "Images/Pasted image 20231108100435.png",
-    "Images/Pasted image 20231108095959.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/Command N.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",
@@ -223,9 +239,6 @@
     "WebDev/Web.md",
     "Center a div.md",
     "WebDev/WebDev_Learn/HTML.md",
-    "Intro to Twitter Bootstrap.md",
-    "CSS Units.md",
-    "CSS Kernel.md",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",
