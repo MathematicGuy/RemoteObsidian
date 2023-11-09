@@ -27,3 +27,7 @@ Data Abstraction**
 + If any changed made in file -> bc the structure of data file is embedded in the application so the program also changed.
 + Structure of data files is store in DBSM catalog -> seperate from access program -> changes does not affect the program
 	program-data independence
+
++ The chracteristoc that allow program-data independence is called data abstraction
+
+**Support of Multiple Views of the Data**

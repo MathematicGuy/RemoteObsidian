@@ -25,3 +25,5 @@ Giai đoạn cao - CN cộng sản
 Tại phải phải đập tan gia cấp tư sản
 > Vì nó ko phù hợp, nó là hệ tư tưởng bóc lột
 
+
+Việc bỏ qua XHCN
