@@ -41,15 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational Algebra Operations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -199,17 +198,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e3744cf32fd2dc1",
+  "active": "a14a959b90ba4c3c",
   "lastOpenFiles": [
     "Relational Algebra Operations.md",
     "_Focus/SQL & DataBase/DataBase.md",
+    "DB Users.md",
     "_Focus/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "Images/Pasted image 20231109143556.png",
     "Images/Pasted image 20231109143548.png",
     "_Focus/2023/Last Semester/CNXH-KH.md",
-    "DB Users.md",
     "_Focus.md",
     "DBMS Characteristics.md",
     "Images/Pasted image 20231109091651.png",
