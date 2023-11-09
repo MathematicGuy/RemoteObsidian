@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Algebra Operations.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Algebra Operations.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Algebra Operations.md"
+                "file": "_Focus/SQL & DataBase/DataBase.md"
               }
             }
           },
@@ -199,14 +199,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "72c433418e252e0d",
+  "active": "3e3744cf32fd2dc1",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Relational Algebra Operations.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "_Focus/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "Images/Pasted image 20231109143556.png",
     "Images/Pasted image 20231109143548.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "_Focus/2023/Last Semester/CNXH-KH.md",
     "DB Users.md",
     "_Focus.md",
@@ -238,7 +239,6 @@
     "CSS Artistic.md",
     "WebDev/Web.md",
     "Center a div.md",
-    "WebDev/WebDev_Learn/HTML.md",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",
