@@ -8,6 +8,7 @@ What is listed in my [[Command N]]? What are the things I want to create to leav
 
 I can only anser this by asking myself Đinh Nhật Thành the [[Seven W's]]
 
+
 1. [[Who]] am I?
 2. What do I [[Want]]?
 3. [[Why]] I am doing this?

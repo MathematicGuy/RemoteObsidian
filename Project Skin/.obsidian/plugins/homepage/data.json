@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "_Focus",
+      "value": "Todo",
       "kind": "File",
       "openOnStartup": false,
       "openMode": "Replace all open notes",

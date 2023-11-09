@@ -22,9 +22,12 @@ Here are some specific courses or topics that you might want to study to become 
 - ***Introduction to computer science***
 - ***Data structures and algorithms***
 - ***Software engineering***
+
+[Coursera mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning)
 - ***Linear algebra***
 - ***Calculus***
 - ***Statistics***
+
 - ***Machine learning***
 - ***Deep learning***
 - Python
