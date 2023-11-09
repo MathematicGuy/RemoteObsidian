@@ -25,3 +25,7 @@ Definition: Collection of programs that enables users to create and maintain the
 	Ex: Book management system for renting and organizing book
 
 **User/Programmers**
+
+
+
+![[Pasted image 20231109085522.png]]

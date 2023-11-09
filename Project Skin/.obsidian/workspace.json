@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Database Management system.md",
+                "file": "DBMS Characteristics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to Database Management system.md",
+                "file": "DBMS Characteristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to Database Management system.md",
+                "file": "DBMS Characteristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to Database Management system.md"
+                "file": "DBMS Characteristics.md"
               }
             }
           },
@@ -188,9 +188,13 @@
   },
   "active": "0cac36755f8777d4",
   "lastOpenFiles": [
-    "_Focus.md",
-    "Intro to Database Management system.md",
+    "Images/Pasted image 20231109091651.png",
+    "Images/Pasted image 20231109091539.png",
     "_Focus/SQL & DataBase/DataBase.md",
+    "DBMS Characteristics.md",
+    "Intro to Database Management system.md",
+    "Images/Pasted image 20231109085522.png",
+    "_Focus.md",
     "C Code Note.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "History & Politic/Israel & Palestine.md",
@@ -205,8 +209,6 @@
     "Images/Pasted image 20231108100435.png",
     "Images/Pasted image 20231108095959.png",
     "Images/Pasted image 20231108095808.png",
-    "Images/Pasted image 20231108095739.png",
-    "Images/Pasted image 20231108095608.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/Command N.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",
@@ -224,8 +226,6 @@
     "CSS Units.md",
     "CSS Kernel.md",
     "Class Selector.md",
-    "Tag and Class.md",
-    "Element Positioning.md",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",
