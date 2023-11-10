@@ -100,13 +100,76 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 
 
 Dự án:
-1) Hình thức:
-+ Trình bày dưới dạng video (10 - 15')
-+ Cộng điểm: sáng tạo film, trình bày khác nhau phong phú.
-+ note: Không ghép/nhép tiếng.
+1) **Hình thức:**
+	+ Trình bày dưới dạng video (10 - 15')
+	+ Cộng điểm: sáng tạo film, trình bày khác nhau phong phú.
+	+ note: Không ghép/nhép tiếng.
+1) **Nội dung**
+	+ Chủ đề
+	+ Sáng tạo theo khung chương trình BGDD
+**Deadline: 1/12/2023**
++ Nộp 1 bản word
++ Video: huyentrang32@gmail.com
 
-2) Nội dụng
-	Chủ đề
-	Sáng tạo theo khung chương trình BGDD
-11/12 tuần 6. 
-Deadline: 5 tháng 12
+
+**Chủ đề: Hồ Chí Minh với bản sơ thảo lần thứ nhất luận cương những vấn đề dân tộc và thuộc địa của Lenin.**
+
+Hồ Chí Minh, người sáng lập và lãnh đạo Đảng Cộng sản Việt Nam (nay là Đảng Cộng sản Việt Nam) và là Chủ tịch nước Dân chủ Cộng hòa Xã hội chủ nghĩa Việt Nam (nay là Cộng hòa Xã hội chủ nghĩa Việt Nam), đã chịu ảnh hưởng sâu sắc từ tư tưởng của Vladimir Lenin, người sáng lập và lãnh đạo Nước Cộng hòa Xã hội chủ nghĩa Nga.
+
+Trong quá trình tìm kiếm đường lối cho cách mạng ở Việt Nam, Hồ Chí Minh đã nghiên cứu các tác phẩm của Lenin và áp dụng những nguyên lý chủ yếu của chủ nghĩa Marx - Lenin vào hoàn cảnh cụ thể của đất nước mình. Trong bản thảo lần thứ nhất về luận cương về vấn đề dân tộc và thuộc địa, Hồ Chí Minh tập trung vào việc hiểu và áp dụng lý thuyết Marx - Lenin để giải quyết vấn đề độc lập dân tộc và chống lại sự áp bức thuộc địa.
+
+Một số điểm chủ yếu trong tư duy của Hồ Chí Minh về vấn đề này có thể bao gồm:
+
+1. **Quyết tâm độc lập dân tộc:** Hồ Chí Minh hấp thụ tư tưởng về quyết tâm độc lập dân tộc từ tư tưởng Lenin. Ông nhận thức rõ ràng về tầm quan trọng của việc giành lại độc lập cho dân tộc Việt Nam.
+
+2. **Chống lại thuộc địa và áp bức:** Tư tưởng của Hồ Chí Minh xoay quanh việc chống lại cảm quan thuộc địa và áp bức của các thế lực ngoại quốc. Ông hướng dẫn những bước tiến của cách mạng Việt Nam nhằm giành lại tự do và độc lập.
+
+3. **Nền kinh tế xã hội chủ nghĩa:** Hồ Chí Minh cũng hấp thụ và áp dụng nguyên lý về nền kinh tế xã hội chủ nghĩa của Lenin vào tình hình cụ thể của Việt Nam.
+
+Bản thảo lần thứ nhất về luận cương này là một trong những tài liệu quan trọng đánh dấu sự hình thành và phát triển tư tưởng cách mạng của Hồ Chí Minh, làm nền tảng cho sự ra đời của Đảng Cộng sản Việt Nam và hành trình giải phóng dân tộc.
+
+
+2 / 2
+
+Hồ Chí Minh đã sơ thảo lần đầu tiên "Luận cương những vấn đề dân tộc và thuộc địa" dưới tác động của tư tưởng của Vladimir Lenin và Đảng Cộng sản Nga (Bolshvik) trong giai đoạn cách mạng tháng Mười Nga (1917). Bài sơ thảo này của Hồ Chí Minh được viết vào thập kỷ 1920, khi ông đang sống và làm việc ở Paris, Pháp.
+
+Bản sơ thảo này phản ánh sự ảnh hưởng sâu sắc của tư tưởng Marx - Lenin đối với Hồ Chí Minh, đặc biệt là về vấn đề dân tộc và giải pháp cho vấn đề thuộc địa. Dưới đây là một số điểm chính trong sơ thảo này:
+
+1. **Vấn đề Dân tộc:**
+    
+    - Hồ Chí Minh nhấn mạnh về quan hệ giữa giai cấp tư sản và giai cấp nông dân trong cấu trúc xã hội của các quốc gia thuộc địa.
+    - Ông thảo luận về tầm quan trọng của phong trào giải phóng dân tộc và nói rằng cách mạng dân tộc và cách mạng xã hội chủ nghĩa là hai khía cạnh không thể tách rời.
+2. **Vấn đề Thuộc địa:**
+    
+    - Hồ Chí Minh phê phán mạnh mẽ chủ nghĩa đế quốc và thực trạng áp bức thuộc địa.
+    - Ông đề xuất phương thức chiến đấu giải phóng dân tộc và phương thức xây dựng chính quyền nhân dân.
+3. **Chủ nghĩa Xã hội Chủ nghĩa:**
+    
+    - Hồ Chí Minh thể hiện niềm tin vào chủ nghĩa xã hội và nói về sự cần thiết phải liên kết cách mạng dân tộc với cách mạng xã hội.
+4. **Nhiệm vụ của Cộng sản:**
+    
+    - Ông nhấn mạnh vai trò lãnh đạo của giai cấp công nhân và Đảng Cộng sản trong cách mạng giải phóng dân tộc.
+5. **Quan hệ Quốc tế:**
+    
+    - Hồ Chí Minh đề cập đến quan hệ quốc tế và sự hỗ trợ của các nước cách mạng khác.
+
+Bản sơ thảo này của Hồ Chí Minh đã làm nền tảng cho tư tưởng cách mạng của ông và được phát triển trong các tác phẩm và diễn đạt chính trị của ông trong những năm sau đó, đặc biệt là trong cuộc chiến tranh giành độc lập cho Việt Nam.
+
+
+Việt Nam bỏ qua tư bản chủ nghĩa và tiến thẳng tới xây dựng chủ nghĩa xã hội
++ Ko theo tư bản vì nó cho phép Việt Nam có quyền tự lựa chọn của đất nước. Dù Thái Lan có kinh tế lớn hơn nhưng nó lại bị chi phối bởi các thế lực phía sau, có thể ko đem lại lựa chọn tốt nhất cho nhân dân. 
++ Bỏ qua tư bản chủ nghĩa nhưng ta chỉ bỏ qua kiến trúc thượng tầng của nó: "thể chế chính trị bóc lột". Còn lại mọi mặt tích cực của tư bản ta đều tiếp nhận.  
+
+Sau khi độc lập phải lo đc cho nhân dân. Nhân dân ko đói, phải ấm no hạnh phúc.  
+TTHCM về cm gpdt 
+1) con đg - vô sản
+2) lãnh đạo - ĐCS
+3) Lực lượng - T Dân (CN, CN, TT)
+4) Phương hướng: CĐ, ST
+5) Phương pháp: BLCM
+
+trung quốc khẳng định 20 năm nữa đg lưỡi bò sẽ là của TQ
+Chủ nghĩa tư bản như 1 con đỉa - 1 vòi nó hút nhân dân lao động ở chính quốc, 1 vòi nó hút nhân dân lao động ở thuộc địa.
+
+
+Chủ nghĩa xã hội là gì? -> xã hội do nhân dân lao động làm chủ, con người đc sống ấm no, tự do, hạnh phúc, quyền lợi của các nhân.

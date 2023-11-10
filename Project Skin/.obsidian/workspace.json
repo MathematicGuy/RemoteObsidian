@@ -23,20 +23,19 @@
             }
           },
           {
-            "id": "2601e3cb7ddd581f",
+            "id": "3eb7d6ff85d2a888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "DB_HW-Week2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -186,15 +185,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2601e3cb7ddd581f",
+  "active": "02953daaed0dfee2",
   "lastOpenFiles": [
-    "Todo.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "Todo.md",
     "DB_HW-Week2.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231110123612.png",
     "Images/Pasted image 20231110123552.png",
     "Images/Pasted image 20231110123538.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Relational Algebra Operations.md",
     "Images/venn 1.webp",
     "Images/venn.webp",
