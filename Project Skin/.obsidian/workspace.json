@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a14a959b90ba4c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e3744cf32fd2dc1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational Algebra Operations.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -62,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Todo/Code/WebDev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,11 +68,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -99,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -182,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a14a959b90ba4c3c",
+  "active": "3e3744cf32fd2dc1",
   "lastOpenFiles": [
     "Relational Algebra Operations.md",
     "_Focus.md",
