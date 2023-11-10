@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "716d5d2d82821d31",
+        "id": "f6213c8c15ea596c",
         "type": "tabs",
         "children": [
           {
-            "id": "02953daaed0dfee2",
+            "id": "25dc11ca6fc9520b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,19 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "3eb7d6ff85d2a888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW-Week2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -85,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -185,11 +171,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "02953daaed0dfee2",
+  "active": "25dc11ca6fc9520b",
   "lastOpenFiles": [
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "Todo.md",
     "DB_HW-Week2.md",
+    "History & Politic/Ben Shapire.md",
+    "History & Politic/Israel & Palestine.md",
+    "position absolute.md",
+    "Todo.md",
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231110123612.png",
     "Images/Pasted image 20231110123552.png",
@@ -212,7 +201,6 @@
     "Images/Pasted image 20231109085522.png",
     "C Code Note.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
-    "History & Politic/Israel & Palestine.md",
     "_Focus/2023/3rd Semesters/CSharp/What is are Pointers.md",
     "UML Class Diagrams.md",
     "Use Case Diagrams.md",
@@ -223,8 +211,6 @@
     "_Focus/SQL & DataBase/DB_Document/DB_Chapter1.md",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "Personal/Interest/Books.md",
-    "Github for Beginners.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",
