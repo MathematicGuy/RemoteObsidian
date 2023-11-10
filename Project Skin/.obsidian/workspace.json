@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4aa1328d6c15cb58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +178,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e3744cf32fd2dc1",
+  "active": "4aa1328d6c15cb58",
   "lastOpenFiles": [
+    "Todo.md",
     "Relational Algebra Operations.md",
     "_Focus.md",
     "_Focus/SQL & DataBase/DataBase.md",
@@ -212,7 +218,6 @@
     "_Focus/2023/Challenges & Guides/Github.md",
     "CSS Artistic.md",
     "WebDev/Web.md",
-    "Center a div.md",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",

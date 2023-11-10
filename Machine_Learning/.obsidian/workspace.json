@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI RoadMap.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -172,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "475e7559d2247ff7",
+  "active": "595e98fb057d501a",
   "lastOpenFiles": [
+    "AI RoadMap.md",
     "Machine Learning.md",
     "Machine Learning Problems.md",
     "Cloud Services.md",
@@ -181,7 +181,6 @@
     "Bookmarks.md",
     "Big Tech.md",
     "Annotation MachineLearningBook.md",
-    "AI RoadMap.md",
     "AI.md",
     "Reinforcement Learning.md",
     "MLP Catagories.md",

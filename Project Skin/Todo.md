@@ -9,7 +9,6 @@
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note)
 - [ ] Practice talking articulate with a pencil between my mouth
 
-
 #Todo/Code/WebDev
 - [ ] Learn Bootstrap 
 - [ ] Learn JS -> React

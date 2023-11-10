@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6bd0e5fa5535513e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "070ee4ff561a200c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning How To Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning How To Learn.md",
+                "file": "Productivity & Improvement/Mindset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning How To Learn.md",
+                "file": "Productivity & Improvement/Mindset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning How To Learn.md"
+                "file": "Productivity & Improvement/Mindset.md"
               }
             }
           },
@@ -197,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "070ee4ff561a200c",
+  "active": "66d4640fcd44c438",
   "lastOpenFiles": [
     "Learning How To Learn.md",
     "Productivity & Improvement/Mindset.md",
