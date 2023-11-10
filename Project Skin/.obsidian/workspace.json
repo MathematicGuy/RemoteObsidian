@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e3744cf32fd2dc1",
+            "id": "02953daaed0dfee2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "4aa1328d6c15cb58",
+            "id": "2601e3cb7ddd581f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Algebra Operations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -82,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Algebra Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Algebra Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Relational Algebra Operations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +177,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4aa1328d6c15cb58",
+  "active": "2601e3cb7ddd581f",
   "lastOpenFiles": [
-    "Images/venn 1.webp",
     "Todo.md",
-    "Relational Algebra Operations.md",
-    "Images/venn.webp",
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "DB_HW-Week2.md",
+    "Images/Pasted image 20231110123612.png",
+    "Images/Pasted image 20231110123552.png",
+    "Images/Pasted image 20231110123538.png",
     "_Focus/SQL & DataBase/DataBase.md",
+    "Relational Algebra Operations.md",
+    "Images/venn 1.webp",
+    "Images/venn.webp",
     "_Focus.md",
     "DB Users.md",
     "_Focus/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
@@ -210,13 +205,9 @@
     "C Code Note.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "History & Politic/Israel & Palestine.md",
-    "Images/Pasted image 20231108191342.png",
     "_Focus/2023/3rd Semesters/CSharp/What is are Pointers.md",
     "UML Class Diagrams.md",
     "Use Case Diagrams.md",
-    "Images/Pasted image 20231108102006.png",
-    "Images/Pasted image 20231108101059.png",
-    "Images/Pasted image 20231108101057.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/Command N.md",
     "Personal/Interest/The_Secrets_of_Top_Students.md",
@@ -226,7 +217,6 @@
     "Personal/Interest/Books.md",
     "Github for Beginners.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "CSS Artistic.md",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
     "Personal/Comparison",

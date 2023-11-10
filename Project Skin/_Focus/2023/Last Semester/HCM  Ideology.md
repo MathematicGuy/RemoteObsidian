@@ -97,5 +97,7 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 - bác tiếp thu cả vh phương đông lẫn phương tây.
 	- Trong đó có Nho giáo
 	- cách nhìn gạn đục khơi trong: tốt thì lấy, ko tốt thì phát triển nó lên hoặc loại bỏ.
-	- 
+
+
+
 

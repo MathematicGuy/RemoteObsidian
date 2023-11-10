@@ -4,7 +4,7 @@
     "Main Homepage": {
       "value": "Todo",
       "kind": "File",
-      "openOnStartup": false,
+      "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
