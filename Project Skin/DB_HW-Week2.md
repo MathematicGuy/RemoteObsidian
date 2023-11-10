@@ -11,6 +11,6 @@ Chapter 2: Relational Database Model
 Chapter 3: Relational Algebra
 3.1  Outer Join Operation (4 types of Outer Join)
 3.2  Answetr from these Query from 2.4's DB
-3.3  Represent the relational algebra for following query from COMPANY relational DB  in 2.1. While also display result of each query as applied to the database state given in 2.4
+3.3  Represent the relational algebra for following query from COMPANY relational DB in 2.1. While also display result of each query as applied to the database state given in 2.4
 
 

@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "055f0120f1764844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW-Week2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -88,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "DB_HW-Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "DB_HW-Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "DB_HW-Week2.md"
               }
             }
           },
@@ -171,15 +186,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "25dc11ca6fc9520b",
+  "active": "055f0120f1764844",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Todo.md",
     "DB_HW-Week2.md",
     "History & Politic/Ben Shapire.md",
     "History & Politic/Israel & Palestine.md",
     "position absolute.md",
-    "Todo.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231110123612.png",
     "Images/Pasted image 20231110123552.png",
     "Images/Pasted image 20231110123538.png",
