@@ -99,5 +99,14 @@ TT HCM là 1 hthống tt toàn diện nhiều vs mọi lĩnh vực.
 	- cách nhìn gạn đục khơi trong: tốt thì lấy, ko tốt thì phát triển nó lên hoặc loại bỏ.
 
 
+Dự án:
+1) Hình thức:
++ Trình bày dưới dạng video (10 - 15')
++ Cộng điểm: sáng tạo film, trình bày khác nhau phong phú.
++ note: Không ghép/nhép tiếng.
 
-
+2) Nội dụng
+	Chủ đề
+	Sáng tạo theo khung chương trình BGDD
+11/12 tuần 6. 
+Deadline: 5 tháng 12
