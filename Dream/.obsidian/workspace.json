@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bd0e5fa5535513e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "070ee4ff561a200c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning How To Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity & Improvement/Mindset.md",
+                "file": "Learning How To Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity & Improvement/Mindset.md",
+                "file": "Learning How To Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity & Improvement/Mindset.md"
+                "file": "Learning How To Learn.md"
               }
             }
           },
@@ -176,8 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a8c10c353524c54",
+  "active": "070ee4ff561a200c",
   "lastOpenFiles": [
+    "Learning How To Learn.md",
+    "Productivity & Improvement/Mindset.md",
     "My Life/Skills.md",
     "My Life/Sleep.md",
     "My Life/Styles.md",
@@ -204,8 +227,6 @@
     "Social",
     "My Life/Procrastinate (ADHD).md",
     "My Life/Report.md",
-    "Productivity & Improvement/Memory.md",
-    "Productivity & Improvement/Manipulate.md",
     "How To",
     "Happiness",
     "Question",
