@@ -2,7 +2,7 @@
 
 Summary:
 Chapter 2: Relational Database Model 
- 2.1, 2.2 Key - super key, candidata key, foreign key (khóa ngoài)
+ 2.1, 2.2 Key - super key, candidate key, foreign key (khóa ngoài)
  ![[Pasted image 20231110123538.png]]
 	2.3  foreign key + insert, constraint
 	2.4 constraint, solutions

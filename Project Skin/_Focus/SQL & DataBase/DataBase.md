@@ -1,6 +1,9 @@
 1) [[Intro to Database Management system]]
 2) [[DBMS Characteristics]]
 3) [[DB Users]]
+4) [[Three-Schema Architecture  & Data Independence]]
+5) [[DBMS Languages, Interfaces & Classification]]
+6) [[Database System Environment]]
 
 
 [[Relational Algebra Operations]]
