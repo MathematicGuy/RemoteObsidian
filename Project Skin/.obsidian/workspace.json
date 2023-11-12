@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History & Politic/Ben Shapire.md",
+                "file": "Palestine Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History & Politic/Ben Shapire.md",
+                "file": "Palestine Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History & Politic/Ben Shapire.md",
+                "file": "Palestine Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History & Politic/Ben Shapire.md"
+                "file": "Palestine Story.md"
               }
             }
           },
@@ -201,6 +201,10 @@
   },
   "active": "20f7c546612a88e5",
   "lastOpenFiles": [
+    "History & Politic/Israel & Palestine.md",
+    "Israel Story.md",
+    "Palestine Story.md",
+    "History & Politic/Ben Shapire.md",
     "HCM Ideology Group Project.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Todo.md",
@@ -221,8 +225,6 @@
     "Images/Pasted image 20231110204356.png",
     "Images/Pasted image 20231110202405.png",
     "Images/Pasted image 20231110201958.png",
-    "History & Politic/Ben Shapire.md",
-    "History & Politic/Israel & Palestine.md",
     "position absolute.md",
     "Relational Algebra Operations.md",
     "_Focus.md",
@@ -235,8 +237,6 @@
     "Intro to Database Management system.md",
     "C Code Note.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
-    "_Focus/2023/3rd Semesters/CSharp/What is are Pointers.md",
-    "UML Class Diagrams.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
