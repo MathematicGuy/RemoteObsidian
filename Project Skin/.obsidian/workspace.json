@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20f7c546612a88e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History & Politic/Ben Shapire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCM Ideology Group Project.md",
+                "file": "History & Politic/Ben Shapire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCM Ideology Group Project.md",
+                "file": "History & Politic/Ben Shapire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCM Ideology Group Project.md"
+                "file": "History & Politic/Ben Shapire.md"
               }
             }
           },
@@ -186,10 +199,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f418c2286e4c256c",
+  "active": "20f7c546612a88e5",
   "lastOpenFiles": [
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "HCM Ideology Group Project.md",
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Todo.md",
     "DBMS Languages, Interfaces & Classification.md",
     "Images/Pasted image 20231111083910.png",
