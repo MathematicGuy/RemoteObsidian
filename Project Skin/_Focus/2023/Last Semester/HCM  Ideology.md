@@ -173,3 +173,5 @@ Chủ nghĩa tư bản như 1 con đỉa - 1 vòi nó hút nhân dân lao độn
 
 
 Chủ nghĩa xã hội là gì? -> xã hội do nhân dân lao động làm chủ, con người đc sống ấm no, tự do, hạnh phúc, quyền lợi của các nhân.
+
+[[HCM Ideology Group Project]]

@@ -26,8 +26,13 @@
             "id": "f418c2286e4c256c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HCM Ideology Group Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HCM Ideology Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HCM Ideology Group Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HCM Ideology Group Project.md"
+              }
             }
           },
           {
@@ -179,6 +188,8 @@
   },
   "active": "f418c2286e4c256c",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "HCM Ideology Group Project.md",
     "Todo.md",
     "DBMS Languages, Interfaces & Classification.md",
     "Images/Pasted image 20231111083910.png",
@@ -200,7 +211,6 @@
     "History & Politic/Ben Shapire.md",
     "History & Politic/Israel & Palestine.md",
     "position absolute.md",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Relational Algebra Operations.md",
     "_Focus.md",
     "DB Users.md",
