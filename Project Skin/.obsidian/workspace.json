@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0744d832a46af143",
+        "id": "8f64d961eda8d967",
         "type": "tabs",
         "children": [
           {
-            "id": "91c323daa4f633b7",
+            "id": "9974b4e9bfda060d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "2a8f420db6e72041",
+            "id": "f418c2286e4c256c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History & Politic/Israel & Palestine.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History & Politic/Israel & Palestine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History & Politic/Israel & Palestine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History & Politic/Israel & Palestine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +177,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a8f420db6e72041",
+  "active": "f418c2286e4c256c",
   "lastOpenFiles": [
     "Todo.md",
     "DBMS Languages, Interfaces & Classification.md",
