@@ -1,6 +1,4 @@
-
 # [[AI RoadMap]]
-
 
 # [How I'd Learn AI in 2023 (if I could start over)](https://youtu.be/h2FDq3agImI?si=hL5PC0Ih3J9jlCei)
 
@@ -11,3 +9,4 @@
 + Choose a specialization in AI and share knowledge through blogging, writing articles, or creating videos.
 
 
+# [[Opportunities in AI]]

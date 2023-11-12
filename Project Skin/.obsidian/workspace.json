@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "202ef1e8d0fe4674",
+        "id": "0744d832a46af143",
         "type": "tabs",
         "children": [
           {
-            "id": "033dd9556bf5b644",
+            "id": "91c323daa4f633b7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "20500236e8256a6a",
+            "id": "2a8f420db6e72041",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +177,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "20500236e8256a6a",
+  "active": "2a8f420db6e72041",
   "lastOpenFiles": [
+    "Todo.md",
     "DBMS Languages, Interfaces & Classification.md",
     "Images/Pasted image 20231111083910.png",
     "Images/Pasted image 20231111083758.png",
@@ -199,7 +191,6 @@
     "Images/Pasted image 20231111082006.png",
     "Fundamentals of Database Systems.md",
     "DB_HW-Week2.md",
-    "Todo.md",
     "3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
     "Images/Pasted image 20231110204404.png",
     "Images/Pasted image 20231110204359.png",
