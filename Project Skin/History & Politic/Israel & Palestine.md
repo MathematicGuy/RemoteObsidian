@@ -1,7 +1,10 @@
+note:
++ a high ranking official once said to the palestine: "That is not your land", reason? context ?
++ True about Gaza
 
-True Story about Israel 
+Story about Israel 
 	https://youtu.be/dy56Q1a0Flc?si=VxZbaUwR6rlRWe8B
-+ Gaze ?
++ Gaza ?
 + The six day war (The Iron war book) - 1967 
 	Is Egypt, Jordan, Syria, Saudi Arabia attack Israel first?
 		NO, they opposed as a threat therefore Israel attack them in prior 
