@@ -12,3 +12,5 @@ Secret to CSS animation/transition
 + position: relative -> set current position as original position
 	+ sub-element position: absolite -> now this positionits stay inside its upper-element
 + mother container position: relative
+
+[[Group Project]]
