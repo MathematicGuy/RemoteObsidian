@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb7929545b45785",
+        "id": "c01baaf968f2a044",
         "type": "tabs",
         "children": [
           {
-            "id": "2240e8770c306ed1",
+            "id": "8014c8ac7cbd3736",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "d76acd9943c35884",
+            "id": "b03ee0aa3c75ed37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+              }
             }
           },
           {
@@ -177,9 +186,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d76acd9943c35884",
+  "active": "b03ee0aa3c75ed37",
   "lastOpenFiles": [
     "Todo.md",
+    "CSS Kernel.md",
+    "Tag and Class.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "WebDev/WebDev_Learn/HTML.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Github for Beginners.md",
     "Group Project.md",
@@ -211,10 +224,6 @@
     "Images/Pasted image 20231110202405.png",
     "Images/Pasted image 20231110201958.png",
     "position absolute.md",
-    "_Focus.md",
-    "DB Users.md",
-    "_Focus/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
