@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f64d961eda8d967",
+        "id": "eeb7929545b45785",
         "type": "tabs",
         "children": [
           {
-            "id": "9974b4e9bfda060d",
+            "id": "2240e8770c306ed1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,15 @@
             }
           },
           {
-            "id": "2b8e09b7d2d87e61",
+            "id": "d76acd9943c35884",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Group Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7748fabb916cd19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github for Beginners.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github for Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github for Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Github for Beginners.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,14 +177,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a7748fabb916cd19",
+  "active": "d76acd9943c35884",
   "lastOpenFiles": [
+    "Todo.md",
     "_Focus/2023/Challenges & Guides/Github.md",
+    "Github for Beginners.md",
     "Group Project.md",
     "WebDev/Web.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/WebDev_Learn/Backend.md",
-    "Todo.md",
     "Relational Algebra Operations.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW-Week2.md",
@@ -236,7 +215,6 @@
     "DB Users.md",
     "_Focus/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
