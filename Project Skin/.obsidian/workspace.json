@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational Constraint Exercise.md",
+                "file": "DB_HW2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9be4a313243b3b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Data Base Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Constraint Exercise.md",
+                "file": "DB_HW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Constraint Exercise.md",
+                "file": "DB_HW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Constraint Exercise.md"
+                "file": "DB_HW2.md"
               }
             }
           },
@@ -188,7 +201,15 @@
   },
   "active": "098e55a0062f1cdd",
   "lastOpenFiles": [
+    "Images/Pasted image 20231114000224.png",
+    "Images/Pasted image 20231113235347.png",
     "Relational Data Base Model.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "DB_HW2.md",
+    "Images/Pasted image 20231113232628.png",
+    "Summary DB_HW2.md",
+    "Images/Pasted image 20231113224220.png",
+    "Images/Pasted image 20231113224141.png",
     "Relational Constraint Exercise.md",
     "Images/Pasted image 20231113211735.png",
     "Images/Pasted image 20231113195949.png",
@@ -198,10 +219,6 @@
     "Images/Pasted image 20231113193334.png",
     "Images/Pasted image 20231113192358.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Images/Pasted image 20231113182137.png",
-    "Images/Pasted image 20231113181645.png",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "DB_HW-Week2.md",
     "CSS Kernel.md",
     "Tag and Class.md",
     "WebDev/WebDev_Learn/CSS.md",
@@ -220,9 +237,6 @@
     "Israel Story.md",
     "History & Politic/Ben Shapire.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "DBMS Languages, Interfaces & Classification.md",
-    "Images/Pasted image 20231111083910.png",
-    "Images/Pasted image 20231111083758.png",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",

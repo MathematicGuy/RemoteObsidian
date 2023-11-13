@@ -8,8 +8,8 @@
 
 [[Relational Algebra Operations]]
 #### Database Homework
-[[DB_HW-Week2]]
-
+[[Summary DB_HW2]]
+[[DB_HW2]]
 
 
 Super key - 1 or 1 tuple (tập ) có nhiều thuộc tính. Xác định duy nhất mỗi bộ trong quan hệ.
