@@ -4,7 +4,7 @@
 4) [[Three-Schema Architecture  & Data Independence]]
 5) [[DBMS Languages, Interfaces & Classification]]
 6) [[Database System Environment]]
-
+7) [[Relational Data Base Model]]
 
 [[Relational Algebra Operations]]
 #### Database Homework

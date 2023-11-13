@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "098e55a0062f1cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Data Base Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Relational Data Base Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Relational Data Base Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+                "file": "Relational Data Base Model.md"
               }
             }
           },
@@ -186,8 +199,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b03ee0aa3c75ed37",
+  "active": "098e55a0062f1cdd",
   "lastOpenFiles": [
+    "Images/Pasted image 20231113182137.png",
+    "Images/Pasted image 20231113181645.png",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Relational Data Base Model.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "DB_HW-Week2.md",
     "Todo.md",
     "CSS Kernel.md",
     "Tag and Class.md",
@@ -200,8 +219,6 @@
     "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/WebDev_Learn/Backend.md",
     "Relational Algebra Operations.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "DB_HW-Week2.md",
     "3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
     "HCM Ideology Group Project.md",
     "Palestine Story.md",
@@ -215,15 +232,11 @@
     "Images/Pasted image 20231111083643.png",
     "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
     "Images/Pasted image 20231111083226.png",
-    "Three-Schema Architecture  & Data Independence.md",
     "Images/Pasted image 20231111082006.png",
-    "Fundamentals of Database Systems.md",
     "Images/Pasted image 20231110204404.png",
     "Images/Pasted image 20231110204359.png",
     "Images/Pasted image 20231110204356.png",
     "Images/Pasted image 20231110202405.png",
-    "Images/Pasted image 20231110201958.png",
-    "position absolute.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
