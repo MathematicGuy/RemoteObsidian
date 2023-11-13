@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "f418c2286e4c256c",
+            "id": "28829c4875c826b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCM Ideology Group Project.md",
+                "file": "DB_HW-Week2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCM Ideology Group Project.md",
+                "file": "DB_HW-Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCM Ideology Group Project.md",
+                "file": "DB_HW-Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCM Ideology Group Project.md"
+                "file": "DB_HW-Week2.md"
               }
             }
           },
@@ -186,27 +186,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f418c2286e4c256c",
+  "active": "28829c4875c826b8",
   "lastOpenFiles": [
+    "3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
+    "DB_HW-Week2.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Todo.md",
+    "HCM Ideology Group Project.md",
     "Palestine Story.md",
     "History & Politic/Israel & Palestine.md",
     "Israel Story.md",
     "History & Politic/Ben Shapire.md",
-    "HCM Ideology Group Project.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "Todo.md",
     "DBMS Languages, Interfaces & Classification.md",
     "Images/Pasted image 20231111083910.png",
     "Images/Pasted image 20231111083758.png",
     "Images/Pasted image 20231111083643.png",
     "_Focus/SQL & DataBase/DB HomeWork/DB HW Chap1.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231111083226.png",
     "Three-Schema Architecture  & Data Independence.md",
     "Images/Pasted image 20231111082006.png",
     "Fundamentals of Database Systems.md",
-    "DB_HW-Week2.md",
-    "3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
     "Images/Pasted image 20231110204404.png",
     "Images/Pasted image 20231110204359.png",
     "Images/Pasted image 20231110204356.png",
