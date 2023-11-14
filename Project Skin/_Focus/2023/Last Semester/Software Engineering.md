@@ -49,3 +49,4 @@ Phát hiện các tổ chức "phòng ban"
 Nhiều - Nhiều (sơ đồ lớp)
 
 [[Software Engineering 9th Edition by Ian Sommerville - Book]]
+[[SE_HW - Car Rental Application]]
