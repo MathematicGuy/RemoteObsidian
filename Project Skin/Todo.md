@@ -12,6 +12,8 @@
 #Todo/Code/WebDev
 - [ ] Learn Bootstrap 
 - [ ] Learn JS -> React
+- [ ] Figure out how to Connect SSH and Github
+- [ ] Brain stormming Ideas for Our Team Web Project
 
 #Todo/Personal
 - [ ] Class Diagram UML  
