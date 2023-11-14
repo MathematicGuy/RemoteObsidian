@@ -14,6 +14,11 @@
 - [ ] Learn JS -> React
 
 #Todo/Personal
+- [ ] Class Diagram UML  
+- [ ] C 
+- [ ] SQL and applie it to DB HW (speed learning available)
+- [ ] Organize DB knowledge 
+
 - [ ] Decide to Learn German or Japanses as my 3rd Language 
 - [ ] Organize Youtube playlists
 - [ ] Research *The Secrets of Top Students: Tips, Tools, and Techniques for Acing High School and College by Stefanie Weisman* 

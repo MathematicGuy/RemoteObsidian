@@ -34,3 +34,8 @@ Phép so sánh bằng -> kết nối tự
 biểu thức đại số quan hệ
 
 
+**Indentify Key**
++ Có TH phải chọn 2 cái để làm khóa.
++ Xác định đc khóa dựa vào mô tả.
+ + Có thể cùng CSDL
+ + 

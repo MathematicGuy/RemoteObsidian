@@ -87,10 +87,10 @@ các cách khác nhau để thực thi các ràng buộc này
 
 **a. Insert <'Robert', 'F', 'Scott', '943775543', '1972-06-21', '2365 Newcastle
 Rd, Bellaire, TX', M, 58000, '888665555', 1> into EMPLOYEE.**
-> No Constraint Violation
+> M is not String data type -> Violate Domain Integrity
 
 **b. Insert <'ProductA', 4, 'Bellaire', 2> into PROJECT.**
-> Referential Integrity Constraint because Dnum are foreign key of PROJECT referencing the DEPT_LOCATION relation 
+> Violate Referential Integrity Constraint because Dnum are foreign key of PROJECT referencing the DEPT_LOCATION relation 
 Solve: 
 1) Rejecting the insertion
 2) Insert <2, 'Turos'> into DEPT_LOCATION 
@@ -107,7 +107,8 @@ Bug fix: fix Pno to the value that appears in the PROJECT table Pnumber column
 **e. Insert <'453453453', 'John', 'M', '1990-12-12', 'spouse'> into DEPENDENT.**
 **Delete the WORKS_ON tuples with Essn = '333445555'.**
 > No Constraint Violation
-
+`````````````````````````````````````````````````````````````````````````````````````````
+```
 **g. Delete the EMPLOYEE tuple with Ssn = '987654321'.**
 > No Constraint Violation
 

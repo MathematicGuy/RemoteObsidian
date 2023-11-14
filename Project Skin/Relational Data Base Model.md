@@ -52,7 +52,7 @@ Ordering of Tuple within a Relation
 + States that no primary key value can be null
 ![[Pasted image 20231113193507.png]]
 
-**Referential Integrity Constraint:**
+**Referential Integrity Constraint:** (ràng buộc tham chiếu)
 > When insert/update an item to a column making it unorder therefor violate
 + Specify between 2 ralations.
 + **States that a tuple in one relation that refers to another relation must refer to an existing tuple in that relation.**

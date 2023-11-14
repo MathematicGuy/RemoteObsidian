@@ -1,8 +1,13 @@
-## BÀI TẬP CHƯƠNG 2
-
+## BÀI TẬP CHƯƠNG 2-3
+note: Sửa lại bài tập chương 2-3
 Summary:
 Chapter 2: [Relational Database Model](https://youtu.be/Q45sr5p_NmQ?si=3fARpsri-_5Sd1Sz)
  2.1, 2.2 Key - super key, candidate key, foreign key (khóa ngoài)
+ > 1 Hàng có thể có 1 khóa hoặc nhiều hơn
+ > ![[Pasted image 20231114000224.png]]
+ > VD:
+ > +  ENROLL cần có 3 thuộc tính Ssn, Course#, Quarter để xác định khóa 
+ > + STUDENT chỉ cần có Ssn để làm khóa 
  
  ![[Pasted image 20231110123538.png]]
 

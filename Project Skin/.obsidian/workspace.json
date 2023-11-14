@@ -4,65 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "98b69b3cd87fb3c8",
-        "type": "tabs",
+        "id": "1784e3ce2f38055a",
+        "type": "split",
         "children": [
           {
-            "id": "bc4c28c1357dd99f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "98b69b3cd87fb3c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc4c28c1357dd99f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Todo.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "435acb1c65706815",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Summary DB_HW2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1e421911ddcdda09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DB_HW2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b699b0aa7df1487d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Relational Data Base Model.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "435acb1c65706815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE_HW - Car Rental Application.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "522f2e79a1414ffd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c9e719610c856646",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DB_HW2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "1e421911ddcdda09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car Rental Application - Elicitation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b699b0aa7df1487d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML Class Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -129,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Summary DB_HW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Summary DB_HW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML Class Diagrams.md"
+                "file": "Summary DB_HW2.md"
               }
             }
           },
@@ -212,15 +238,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b699b0aa7df1487d",
+  "active": "435acb1c65706815",
   "lastOpenFiles": [
-    "Images/Pasted image 20231114165142.png",
-    "Car Rental Application - Elicitation.md",
+    "DB_HW2.md",
+    "Summary DB_HW2.md",
+    "Relational Data Base Model.md",
     "SE_HW - Car Rental Application.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Car Rental Application - Elicitation.md",
+    "Todo.md",
     "UML Class Diagrams.md",
+    "Images/Pasted image 20231114165142.png",
     "Car Rental Application- Requirement Analysis.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Todo.md",
     "Software Engineering 9th Edition by Ian Sommerville - Book.md",
     "Lecture 2 - Project Managment Basics.md",
     "Lecture 1 - Software Engineering Overview.md",
@@ -235,12 +265,7 @@
     "Images/3.3.2.jpg",
     "Images/3.3.jpg",
     "Images/z4878988621655_8067b0c4b39bc4e8dd14c5caa560bc2b 1.jpg",
-    "DB_HW2.md",
     "Images/z4878989368110_42a31dc3a456895795a6b79baa0ac080 1.jpg",
-    "Images/z4878988871714_c439cfdce9c7dab4e081ad582893aef8 1.jpg",
-    "Summary DB_HW2.md",
-    "Relational Data Base Model.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Relational Algebra Operations.md",
     "Relational Constraint Exercise.md",
     "CSS Kernel.md",
