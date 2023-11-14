@@ -1,3 +1,9 @@
+Class Structure
++ Class Name
++ Attributes
++ Methods
+![[Pasted image 20231114165142.png]]
+
 Sign meaning
 	+ Public
 	-  Private

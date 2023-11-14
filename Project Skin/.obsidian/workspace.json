@@ -34,9 +34,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e421911ddcdda09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car Rental Application - Elicitation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b699b0aa7df1487d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML Class Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE_HW - Car Rental Application.md",
+                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE_HW - Car Rental Application.md",
+                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE_HW - Car Rental Application.md"
+                "file": "UML Class Diagrams.md"
               }
             }
           },
@@ -186,10 +212,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "435acb1c65706815",
+  "active": "b699b0aa7df1487d",
   "lastOpenFiles": [
-    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Images/Pasted image 20231114165142.png",
+    "Car Rental Application - Elicitation.md",
     "SE_HW - Car Rental Application.md",
+    "UML Class Diagrams.md",
+    "Car Rental Application- Requirement Analysis.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
     "Todo.md",
     "Software Engineering 9th Edition by Ian Sommerville - Book.md",
     "Lecture 2 - Project Managment Basics.md",
@@ -220,10 +250,6 @@
     "_Focus/2023/Challenges & Guides/Github.md",
     "Github for Beginners.md",
     "Group Project.md",
-    "WebDev/Web.md",
-    "WebDev/WebDev_Learn/Frontend.md",
-    "WebDev/WebDev_Learn/Backend.md",
-    "3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
