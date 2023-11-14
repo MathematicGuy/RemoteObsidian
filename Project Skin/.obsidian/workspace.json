@@ -4,52 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "c01baaf968f2a044",
-        "type": "tabs",
+        "id": "04771d6d42ad8baa",
+        "type": "split",
         "children": [
           {
-            "id": "8014c8ac7cbd3736",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "c01baaf968f2a044",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8014c8ac7cbd3736",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Todo.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "098e55a0062f1cdd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DB_HW2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9be4a313243b3b9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Summary DB_HW2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "098e55a0062f1cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "385e41b0d1be57d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c0a63457e1569aa4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DB_HW2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "9be4a313243b3b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Data Base Model.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -199,25 +225,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "098e55a0062f1cdd",
+  "active": "c0a63457e1569aa4",
   "lastOpenFiles": [
+    "Summary DB_HW2.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Relational Data Base Model.md",
+    "DB_HW2.md",
+    "Todo.md",
+    "Images/Pasted image 20231114071228.png",
     "Images/Pasted image 20231114000224.png",
     "Images/Pasted image 20231113235347.png",
-    "Relational Data Base Model.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "DB_HW2.md",
     "Images/Pasted image 20231113232628.png",
-    "Summary DB_HW2.md",
     "Images/Pasted image 20231113224220.png",
     "Images/Pasted image 20231113224141.png",
     "Relational Constraint Exercise.md",
     "Images/Pasted image 20231113211735.png",
     "Images/Pasted image 20231113195949.png",
     "Images/Pasted image 20231113200044.png",
-    "Todo.md",
     "Images/Pasted image 20231113193507.png",
-    "Images/Pasted image 20231113193334.png",
-    "Images/Pasted image 20231113192358.png",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "CSS Kernel.md",
     "Tag and Class.md",

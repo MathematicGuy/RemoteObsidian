@@ -45,7 +45,7 @@ Ordering of Tuple within a Relation
 + A table may have multiple candidate keys, but one of them is chosen as the primary key.
 + The primary key is the selected candidate key that uniquely identifies each record in the table.
 
-**Null Values**
+**Null Values**a
 + Specifies whether null values are permitted or not (NOT NULL).
 
 **Entity Integrity Constraint** -> Primary Key is Null 
@@ -55,8 +55,9 @@ Ordering of Tuple within a Relation
 **Referential Integrity Constraint:**
 > When insert/update an item to a column making it unorder therefor violate
 + Specify between 2 ralations.
-+ States that a tuple in one relation that refers to another relation must refer to an existing tuple in that relation.
-> Dno called a foreign.
++ **States that a tuple in one relation that refers to another relation must refer to an existing tuple in that relation.**
+
+**Dno called a foreign**
 ![[Pasted image 20231113192358.png]]
 
 **Foreign key (FK):** (a key that connect outside of the table)
