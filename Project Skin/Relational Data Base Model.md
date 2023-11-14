@@ -45,7 +45,7 @@ Ordering of Tuple within a Relation
 + A table may have multiple candidate keys, but one of them is chosen as the primary key.
 + The primary key is the selected candidate key that uniquely identifies each record in the table.
 
-**Null Values**a
+**Null Values**
 + Specifies whether null values are permitted or not (NOT NULL).
 
 **Entity Integrity Constraint** -> Primary Key is Null 
