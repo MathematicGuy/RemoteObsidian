@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad9d2b7fb4c41cd",
+        "id": "98b69b3cd87fb3c8",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a47d44a6aa674b",
+            "id": "bc4c28c1357dd99f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -172,8 +172,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d2a47d44a6aa674b",
+  "active": "bc4c28c1357dd99f",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Software Engineering 9th Edition by Ian Sommerville - Book.md",
+    "Lecture 2 - Project Managment Basics.md",
+    "Lecture 1 - Software Engineering Overview.md",
+    "JS Funcdamental.md",
+    "Images/Pasted image 20231114132026.png",
+    "WebDev/WebDev_Learn/JS/JS.md",
+    "JS Frontend.md",
+    "Todo.md",
     "Images/z4878990141543_0d8b99675beeea37d41b815865b5a796 2.jpg",
     "Images/z4878989927567_196d38410f988c3c20ffefb6634fbf36 2.jpg",
     "Images/z4878989684293_02977e1b9c58840ea701b2d433c8f8a6 2.jpg",
@@ -184,15 +193,11 @@
     "DB_HW2.md",
     "Images/z4878989368110_42a31dc3a456895795a6b79baa0ac080 1.jpg",
     "Images/z4878988871714_c439cfdce9c7dab4e081ad582893aef8 1.jpg",
-    "Images/z4878988381998_7c8b72a0f4b35245ce6c61d8fd2a30e9 1.jpg",
-    "Images/z4878988110229_aca0de58d57eb463269544c9e953f97c 1.jpg",
     "Summary DB_HW2.md",
     "Relational Data Base Model.md",
-    "Todo.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Relational Algebra Operations.md",
     "Relational Constraint Exercise.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "CSS Kernel.md",
     "Tag and Class.md",
     "WebDev/WebDev_Learn/CSS.md",
@@ -205,11 +210,6 @@
     "WebDev/WebDev_Learn/Backend.md",
     "3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
     "HCM Ideology Group Project.md",
-    "Palestine Story.md",
-    "History & Politic/Israel & Palestine.md",
-    "Israel Story.md",
-    "History & Politic/Ben Shapire.md",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",

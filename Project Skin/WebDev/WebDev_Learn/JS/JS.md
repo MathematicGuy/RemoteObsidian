@@ -1,4 +1,4 @@
-### [[JS Data Types]]
+### [[JS Funcdamental]]
 
 ### [[JS Frontend]]
 
