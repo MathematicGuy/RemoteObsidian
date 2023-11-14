@@ -107,8 +107,7 @@ Bug fix: fix Pno to the value that appears in the PROJECT table Pnumber column
 **e. Insert <'453453453', 'John', 'M', '1990-12-12', 'spouse'> into DEPENDENT.**
 **Delete the WORKS_ON tuples with Essn = '333445555'.**
 > No Constraint Violation
-`````````````````````````````````````````````````````````````````````````````````````````
-```
+
 **g. Delete the EMPLOYEE tuple with Ssn = '987654321'.**
 > No Constraint Violation
 
