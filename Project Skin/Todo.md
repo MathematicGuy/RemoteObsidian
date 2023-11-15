@@ -12,7 +12,7 @@
 	- [ ] Split Task to Member
 - [ ] 1 Tuần để học + trainning HTML/CSS/JS 
 - [ ] Mọi người cùng đi tìm chia sẻ thiết kế
-- [ ] 
+
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note)

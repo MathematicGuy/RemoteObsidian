@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7bcda6903176221",
+        "id": "222bef1d0fdc2fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "de352be91e6e1c0d",
+            "id": "aefe55bea42e8e07",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -171,7 +171,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "de352be91e6e1c0d",
+  "active": "aefe55bea42e8e07",
   "lastOpenFiles": [
     "_Focus/WebProject2023/Landing Page vs Website.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
