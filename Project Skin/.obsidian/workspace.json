@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05dd3f0b4fc44436",
+        "id": "f7bcda6903176221",
         "type": "tabs",
         "children": [
           {
-            "id": "432087aaebb784bc",
+            "id": "de352be91e6e1c0d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ebf44aca604fc558",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -176,14 +171,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ebf44aca604fc558",
+  "active": "de352be91e6e1c0d",
   "lastOpenFiles": [
+    "_Focus/WebProject2023/Landing Page vs Website.md",
+    "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "Images/Pasted image 20231115095941.png",
+    "Github for Beginners.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "Obsidian/Annotation.md",
     "Todo.md",
     "_Focus.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Personal/ShortCut/= IDEJ useful shortcut =.md",
-    "_Focus/WebProject2023/WebProjectGroup5.canvas",
-    "Github for Beginners.md",
     "Images/Pasted image 20231115161110.png",
     "Basic Concepts.md",
     "C Fundamental.md",
@@ -203,10 +201,8 @@
     "C Code Note.md",
     "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
     "_Focus/WebProject2023/Web Project Issues.md",
-    "_Focus/WebProject2023/Landing Page vs Website.md",
     "_Focus/WebProject2023",
     "Images/Pasted image 20231115105416.png",
-    "Images/Pasted image 20231115095941.png",
     "Images/Pasted image 20231115095831.png",
     "Images/Pasted image 20231115095900.png",
     "Lecture 2 - Project Managment Basics.md",
@@ -215,8 +211,6 @@
     "WebProjectPlanning.md",
     "CSS Artistic.md",
     "WebDev/WebDev_Learn/CSS.md",
-    "CSS Desgin Pattern.md",
-    "WebProjectGroup5.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
