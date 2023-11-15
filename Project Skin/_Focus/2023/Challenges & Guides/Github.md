@@ -5,8 +5,7 @@ Pull -> Commit -> Push
 
 #### [[Github for Beginners]]
 
-
-### **Git Explained**
+### Git Explained
 
 ##### Git how to push 
 
@@ -137,4 +136,14 @@ git remote rm origin
 git config --global user.name "Sukmadi"
 git config --global user.email "nhatthanhdinh482@gmail.com"
 ```
+
+### Git Branch
+See all Active Branch in a Project, Fetch and Switch Branch 
+```bash
+git remote show origin
+git fetch origin
+git switch branch_name
+```
+
+
 
