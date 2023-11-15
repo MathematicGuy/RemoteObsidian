@@ -5,6 +5,15 @@
 [Quick time Event - 3 Day Free Datacamp course](https://app.datacamp.com/learn/courses/introduction-to-sql) (Optimize your chance)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
+#Todo/Code/ProjectWebGroup5
+- [ ] Explain Git (work? how to use?)
+- [ ] Project Management
+	- [ ] Project Scheduling
+	- [ ] Split Task to Member
+- [ ] 1 Tuần để học + trainning HTML/CSS/JS 
+- [ ] Mọi người cùng đi tìm chia sẻ thiết kế
+- [ ] 
+
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note)
 - [ ] Practice talking articulate with a pencil between my mouth
@@ -14,16 +23,17 @@
 - [ ] Learn JS -> React
 - [ ] Figure out how to Connect SSH and Github
 - [ ] Brain stormming Ideas for Our Team Web Project
+  
 
 #Todo/Personal
 - [ ] Class Diagram UML  
 - [ ] C 
 - [ ] SQL and applie it to DB HW (speed learning available)
 - [ ] Organize DB knowledge 
+- [ ] Gửi câu e) nghi ngờ là sai đề tron bài tập tuần 2-3 cho cô
 
 - [ ] Decide to Learn German or Japanses as my 3rd Language 
 - [ ] Organize Youtube playlists
-- [ ] Research *The Secrets of Top Students: Tips, Tools, and Techniques for Acing High School and College by Stefanie Weisman* 
 
 
 #Todo/ProgrammingSkills

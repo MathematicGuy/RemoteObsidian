@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7751370dde789282",
+            "id": "432087aaebb784bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ebf44aca604fc558",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -89,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,43 +176,47 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7751370dde789282",
+  "active": "ebf44aca604fc558",
   "lastOpenFiles": [
-    "Summary DB_HW2.md",
-    "DB_HW2.md",
-    "Relational Data Base Model.md",
-    "SE_HW - Car Rental Application.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "Car Rental Application - Elicitation.md",
     "Todo.md",
-    "UML Class Diagrams.md",
-    "Images/Pasted image 20231114165142.png",
-    "Car Rental Application- Requirement Analysis.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
-    "Software Engineering 9th Edition by Ian Sommerville - Book.md",
-    "Lecture 2 - Project Managment Basics.md",
-    "Lecture 1 - Software Engineering Overview.md",
-    "JS Funcdamental.md",
-    "Images/Pasted image 20231114132026.png",
-    "WebDev/WebDev_Learn/JS/JS.md",
-    "JS Frontend.md",
-    "Images/z4878990141543_0d8b99675beeea37d41b815865b5a796 2.jpg",
-    "Images/z4878989927567_196d38410f988c3c20ffefb6634fbf36 2.jpg",
-    "Images/z4878989684293_02977e1b9c58840ea701b2d433c8f8a6 2.jpg",
-    "Images/z4878988381998_7c8b72a0f4b35245ce6c61d8fd2a30e9 2.jpg",
-    "Images/3.3.2.jpg",
-    "Images/3.3.jpg",
-    "Images/z4878988621655_8067b0c4b39bc4e8dd14c5caa560bc2b 1.jpg",
-    "Images/z4878989368110_42a31dc3a456895795a6b79baa0ac080 1.jpg",
-    "Relational Algebra Operations.md",
-    "Relational Constraint Exercise.md",
-    "CSS Kernel.md",
-    "Tag and Class.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "WebDev/WebDev_Learn/HTML.md",
+    "_Focus.md",
     "_Focus/2023/Challenges & Guides/Github.md",
+    "Personal/ShortCut/= IDEJ useful shortcut =.md",
+    "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Github for Beginners.md",
-    "Group Project.md",
+    "Images/Pasted image 20231115161110.png",
+    "Basic Concepts.md",
+    "C Fundamental.md",
+    "Error Types.md",
+    "Images/Pasted image 20231115135231.png",
+    "_Focus/2023/Last Semester/Fundamental of Programming.md",
+    "Personal/Programming Skill/Search Google.md",
+    "Personal/Programming Skill",
+    "Code.md",
+    "Fundamentals of a Program.md",
+    "Images/Pasted image 20231115131438.png",
+    "Images/Pasted image 20231115131355.png",
+    "Images/Pasted image 20231115115739.png",
+    "FrontEnd RoadMap.md",
+    "Images/Pasted image 20231115115637.png",
+    "WebDev/WebDev_Learn/Frontend.md",
+    "C Code Note.md",
+    "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
+    "_Focus/WebProject2023/Web Project Issues.md",
+    "_Focus/WebProject2023/Landing Page vs Website.md",
+    "_Focus/WebProject2023",
+    "Images/Pasted image 20231115105416.png",
+    "Images/Pasted image 20231115095941.png",
+    "Images/Pasted image 20231115095831.png",
+    "Images/Pasted image 20231115095900.png",
+    "Lecture 2 - Project Managment Basics.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Lecture 1 - Software Engineering Overview.md",
+    "WebProjectPlanning.md",
+    "CSS Artistic.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "CSS Desgin Pattern.md",
+    "WebProjectGroup5.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
@@ -216,10 +224,7 @@
     "Personal/Comparison",
     "_Focus/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
     "Images/Pasted image 20231030233246.png.~tmp",
-    "Untitled.canvas",
     "_Focus/2023/Last Semester",
-    "_Focus/SQL & DataBase/DB_Note",
-    "Images/Baitap-chuong1.pdf",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",

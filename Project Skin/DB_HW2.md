@@ -1,27 +1,35 @@
 **2.1 Cho lược đồ cơ sở dữ liệu quan hệ như hình dưới đây. Hãy xác định các khóa
 và khóa ngoài của các quan hệ cùng với mô tả thông tin theo giả định của bạn.**
 ![[Pasted image 20231113232628.png]]
+
 **STUDENT**
-Student_number: candidate key 
+Student_number: Primary, Candidate Key
 	student number can be unique for each student
 
+
 **COURSE**
-Course_number:  candidate key
+Course_number, {Course_name, Credit_hours, Department}: Candidate Key, Super Key
+Course_number:  Primary key
 	course number can be unique for each course
+Course_number, Credit_hours, Department: Alternate Key
 
 **PREREQUISITE**
-Prerequisite_number: candidate key
+Prerequisite_number: Primary key
 	prequisite number can be unique 
-Course_number: foreign key
+Course_number: foreign key that reference relation in COURSE 
+
 
 **SECTION**
 Section_identifier: candidate key
 	It identify section so it unique  
-Course_number: foreign key (refer from COURSE)
+Course_number: foreign key that reference relation in COURSE
 
 **GRADE_REPORT**
-Student_number: foreign key (refer from STUDENT)
+Student_number, Section_identifier: Super Key
+Student_number: foreign key that reference relation in STUDENT
 Section_identifier: foreign key (refer from SECTION )
+
+
 
 **2.2  Xem xét các quan hệ sau đây đối với cơ sở dữ liệu theo dõi việc đăng ký của sinh viên vào các khóa học và các cuốn sách được sử dụng cho mỗi khóa học:**
 ![[Pasted image 20231114000224.png]]

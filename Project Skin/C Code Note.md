@@ -343,3 +343,35 @@ int main(){
 }
 ```
 
+
+Bit-shift
+```c
+ int main() {
+     int num = 10; // binary: 1010
+     int shiftAmount = 1;
+     
+     int result = num << shiftAmount; // result: 1010 << 0 (Add 0 to the right of binary num)
+      // result: 10100
+     printf("Value %d after 1-bit shift is: %d\n", num, result); 
+     return 0;
+}
+
+void main(){
+     int m;
+     char st[32];
+     printf("Enter a Integer: ");
+     scanf("%d", &m);
+     
+     // Lấy biểu diễn nhị phân của m
+     itoa(m, st, 2);
+     printf("\n Binary of  (%d)=%s", m, st);
+     
+     // Gán bit thứ 5 từ bên phải của m bằng 1. Nếu 0 thì đổi thành 1, ko thì giữ nguyên.
+     m |= 16; // mask = 16. Thêm vào vị trí bit có giá trị 16. e.g. m |= 16/32/64/
+     // lấy biểu diễn nhị phân của m sau khi gán bit số 5 bằng 1
+     itoa(m, st, 2);
+     printf("\n  Binary = %s", st);
+     getch();
+}
+```
+

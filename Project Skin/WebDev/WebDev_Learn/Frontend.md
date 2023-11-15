@@ -1,4 +1,5 @@
 [FrontEnd](https://youtu.be/WG5ikvJ2TKA?si=gDncUoFCRFErHz7a)
+[[FrontEnd RoadMap]]
 
 + [[HTML]]: HyperText Markup language -> Add content to webpage.
 + [[CSS]]: Cascading Style Sheet -> Style webpage, make it look good. 
@@ -30,7 +31,7 @@ JS Framwork -> ReactJS, Angular, VuaJS.
 
 
 
-#### [Tool for Evaluating ur website](https://css-tricks.com/tools-for-auditing-css/)
+#### [Tool for Evaluating website](https://css-tricks.com/tools-for-auditing-css/)
 
 #### [WebGL Tutorial](https://threejs-journey.com/#faq)
 

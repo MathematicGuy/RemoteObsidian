@@ -1,6 +1,6 @@
 ### [[C Code Note]]
 
-### C
+### [[C Fundamental]]
 
 Why Learn C? It the mother of languages
 	It the fundamental, writer for major of programming language, tools and kernel like: SQL, Linux, Python intepeter, UNIX, etc...  
@@ -11,7 +11,6 @@ Runtime Dependent -> Need specific compiler for each OS system
 [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=9VE7p-he4fA)
 
 [Pointers in C / C++](https://www.youtube.com/@freecodecamp)
-
 
 Note:
 	return 1 -> failure 

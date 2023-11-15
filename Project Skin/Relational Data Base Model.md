@@ -35,10 +35,16 @@ Ordering of Tuple within a Relation
 + Superkey
 	+ specify that no 2 tuples can have the same value
 + **Every relation has at least 1 superkey** -> set of all attributes.
++ Can be the combination of Key (that doesn't have repeat value)
+Ex: There no value in SSN and ID that is repetited -> we can choose SSN and ID as super key {SSN, ID}
+![[Pasted image 20231114224334.png]]
+
+
 #### Condition
 1) Two tuples **cannot have identical values for all attributes in the key**.
 ![[Pasted image 20231113182137.png]]
-2) It is a **minimal superkey**
+2) It is a **minimal superkey** -> Candidate Key
+
 
 **Candidate Keys** (More than 1 Key)
 > Set of attributes that uniquely identify the tuples in  a relation.

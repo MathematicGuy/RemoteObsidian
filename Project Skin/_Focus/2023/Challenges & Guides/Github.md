@@ -5,9 +5,15 @@ Pull -> Commit -> Push
 
 #### [[Github for Beginners]]
 
+
 ### **Git Explained**
 
 ##### Git how to push 
+first push
+```shell
+git push --set-upstream origin main
+```
+
 note: repository mean folder, same 
 stage-1: **repo- tracks the diff (changes) to your codebase**
 ```shell
@@ -116,4 +122,10 @@ git push -u origin main
 git remote rm origin
 ```
 
+
+### Git Config 
+```shell
+git config --global user.name "Sukmadi"
+git config --global user.email "nhatthanhdinh482@gmail.com"
+```
 
