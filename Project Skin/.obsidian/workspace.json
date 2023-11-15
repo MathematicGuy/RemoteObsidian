@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "222bef1d0fdc2fa6",
+        "id": "feef3ebff53d4377",
         "type": "tabs",
         "children": [
           {
-            "id": "aefe55bea42e8e07",
+            "id": "932ba2abab85b335",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "993a11f3c6c693cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -88,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,15 +177,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aefe55bea42e8e07",
+  "active": "993a11f3c6c693cb",
   "lastOpenFiles": [
+    "Todo.md",
+    "CSS Nnote.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "CSS Kernel.md",
+    "Docker.md",
+    "Personal/Study Method (Efficiency)/Suk Method (base on my exp).md",
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "Personal/Study Method (Efficiency)/Deadline rush method (not done).md",
+    "Personal/Programming Skill/Technology.md",
+    "CSS Artistic.md",
     "_Focus/WebProject2023/Landing Page vs Website.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Images/Pasted image 20231115095941.png",
     "Github for Beginners.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Obsidian/Annotation.md",
-    "Todo.md",
     "_Focus.md",
     "Personal/ShortCut/= IDEJ useful shortcut =.md",
     "Images/Pasted image 20231115161110.png",
@@ -200,17 +214,10 @@
     "WebDev/WebDev_Learn/Frontend.md",
     "C Code Note.md",
     "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
-    "_Focus/WebProject2023/Web Project Issues.md",
     "_Focus/WebProject2023",
     "Images/Pasted image 20231115105416.png",
     "Images/Pasted image 20231115095831.png",
     "Images/Pasted image 20231115095900.png",
-    "Lecture 2 - Project Managment Basics.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
-    "Lecture 1 - Software Engineering Overview.md",
-    "WebProjectPlanning.md",
-    "CSS Artistic.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",

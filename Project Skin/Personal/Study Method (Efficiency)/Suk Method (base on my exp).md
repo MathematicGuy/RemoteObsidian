@@ -26,5 +26,15 @@ Priorities:
 	3) Summarize 3 or more important thing of the Lesson. 
 
 
+[The Secret to learning 10x FASTER - Andrew Huberman ](https://youtu.be/r8MLGFbOhYM?si=ARAB-_mwRoddzS3W)
++ After losing focus. Give myself a 10 second of Nothing, then go back to Focus.
++ Before switching to other subject, find 1 random point to look at for 1 min without thinking anything. 
 
+3) Time Limit (90' is the maximum time to maintain focus)
+4) Gap Effects
+	Study hard then doing nothing for a while
+5) NFDR (Non Sleep Deep Rest)
+	Naping, Exercise, Physical Activity.
 
+**Master Learner**
+[Julian Lin](https://www.youtube.com/@julian_wln/videos)

@@ -9,10 +9,6 @@ Pull -> Commit -> Push
 ### **Git Explained**
 
 ##### Git how to push 
-first push
-```shell
-git push --set-upstream origin main
-```
 
 note: repository mean folder, same 
 stage-1: **repo- tracks the diff (changes) to your codebase**
@@ -36,9 +32,20 @@ stage5: **connect to github repository**
 $ git remote add orgin http://github.com/user_name/git_name.git
 ```
 stage6: **Push all file to the repository**  (-u mean up stream)
++ --set-upstream: 
+	**sets up a tracking relationship between the local branch ("main") and the remote branch ("main" on "origin").**
++ -u option is a shorthand for --set-upstream.
+
+**Do this on First push**
+```shell
+git push --set-upstream origin main
+```
+or this
 ```shell
 $ git push -u origin main
 ```
+
+
 or  push your own branch to origin
 ```shell
 $ git push -u origin side-branch
@@ -59,6 +66,8 @@ $ git branch my-code-version
 ```shell
 $ git checkout my-code-version
 ```
+> The code edited in this branch doesn't related to the main branch. So you can modify code without changing your original code. (Prevent adding dumb code but can't go back)
+
 or use this code to move into newly created branch 
 ```shell
 git checkout -b new-branch

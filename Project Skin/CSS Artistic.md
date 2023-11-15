@@ -50,7 +50,7 @@ ease-in-out
 
 
 **60-30-10 Color Rule**
-
+[Color Chooser Helper](https://www.realtimecolors.com/?colors=faf8fc-160d1c-dfcfb9-261631-5eb591&fonts=Poppins-Poppins)
 60 % color - 30 % color - 10 % color 
 ![[Pasted image 20231101214754.png]]
 
