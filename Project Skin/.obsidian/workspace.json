@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c24dbb5862a87cc",
+        "id": "12abee3a929829f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c4c2ea426fb08d6b",
+            "id": "ac9d074fac5358f8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,31 +23,11 @@
             }
           },
           {
-            "id": "a15cf6146c3697e3",
+            "id": "d5d314e7aafa94ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Website Layout.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbb4624c461b9f0d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Focus/WebProject2023/WebProjectGroup5.canvas",
-                "viewState": {
-                  "x": 1578.689040185396,
-                  "y": -1243.2483558172235,
-                  "zoom": -1.0561107663668106
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -119,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Website Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Website Layout.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,77 +178,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "45da46d779a993f1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9053b3296dcfbf87",
-        "type": "window",
-        "children": [
-          {
-            "id": "6b4caa283e035778",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "607dbf6a106754b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8e678adeec0311b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "UML Class Diagrams.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1305,
-        "y": 0,
-        "width": 615,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a15cf6146c3697e3",
+  "active": "d5d314e7aafa94ce",
   "lastOpenFiles": [
-    "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "Todo.md",
+    "Website Layout.md",
+    "Images/Pasted image 20231117152552.png",
+    "Images/Pasted image 20231117152507.png",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "Images/Pasted image 20231117151611.png",
+    "Images/Pasted image 20231117151508.png",
+    "Images/Pasted image 20231117151408.png",
+    "Images/Pasted image 20231117151318.png",
+    "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "UML Class Diagrams.md",
     "Images/Pasted image 20231117131129.png",
     "Images/Pasted image 20231117131125.png",
-    "Todo.md",
-    "Website Layout.md",
     "CSS Artistic.md",
     "Selective Design Note.md",
     "Design Note.md",
     "Images/Pasted image 20231117121631.png",
     "Images/original-01be56554165a06c2281afe447dba0fe 2.jpg",
-    "Images/original-01be56554165a06c2281afe447dba0fe 1.jpg",
-    "Images/original-01be56554165a06c2281afe447dba0fe.jpg",
-    "Images/Pasted image 20231117121145.png",
-    "Images/Pasted image 20231117121126.png",
-    "Images/Pasted image 20231117121115.png",
-    "Images/Pasted image 20231117121058.png",
     "Untitled.md",
     "_Focus/WebProject2023/Web Project Issues.md",
     "Summary DB_HW2.md",

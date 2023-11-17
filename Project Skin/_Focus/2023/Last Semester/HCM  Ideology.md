@@ -209,3 +209,20 @@ Chủ nghĩa xã hội là gì? -> xã hội do nhân dân lao động làm ch�
 **Đảng Cộng Sản Việt Nam** 
 + Tiền thân tổ chức là giai cấp công nhân. Xuất phát từ nhân 
 - Lãnh Đạo 
+
+Dân chủ trực tiếp
++ nhân dân trực tiếp quyết định
++ Vd: có quyền bỏ phiếu, 
+Dân chủ gián tiếp
+
+
+> Nhân dân có quyền làm tất cả Pháp Luật không cấm
+
+A/v hãy đưa ra sáng kiến của bản thân để xây dựng NNVN trong sạch, vững mạnh.
++ Giáo dục nói chung
++ Giáo dục Tư tưởng tốt từ bé.
++ Môi trường
+	Nếu ko sẽ khó nhận đc cái đúng sai.
+	1 người có thể có kiến thức nhưng 1 nếu bị lừa thì ... (nhất là trong thế giới công nghệ cao hiện nay khi việc làm giả 1 thứ rất dễ dàng)
+
+
