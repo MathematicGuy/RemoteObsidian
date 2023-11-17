@@ -4,7 +4,6 @@
 	[Arrow Animation ](https://youtu.be/UTHgr6NLeEw?si=wEEHs0pSssOHk-R1&t=192)
 	![[Pasted image 20231024113201.png]]
 
-
 [CSS Shadow](https://getcssscan.com/css-box-shadow-examples) 
 
 [Font Awesome Icon](https://www.w3schools.com/icons/fontawesome_icons_directional.asp)
@@ -49,12 +48,14 @@ ease-in-out
 
 
 
-**60-30-10 Color Rule**
-[Color Chooser Helper](https://www.realtimecolors.com/?colors=faf8fc-160d1c-dfcfb9-261631-5eb591&fonts=Poppins-Poppins)
-60 % color - 30 % color - 10 % color 
-![[Pasted image 20231101214754.png]]
+## Design
++ **60-30-10 Color Rule**
+	[Color Chooser Helper](https://www.realtimecolors.com/?colors=faf8fc-160d1c-dfcfb9-261631-5eb591&fonts=Poppins-Poppins)
+	60 % color - 30 % color - 10 % color 
+	![[Pasted image 20231101214754.png]]
 
++ [[Website Layout]]
 
-# Cool Effect
+## Cool Effect
 + [95+ CSS Cool Effect](https://freefrontend.com/css-hover-effects/)
 + [Zig-zag border & cool hover effect](https://codepen.io/t_afif/pen/BarmdPB "Zig-zag border & cool hover effect")

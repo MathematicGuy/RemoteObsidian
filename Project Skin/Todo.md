@@ -5,16 +5,22 @@
 [Quick time Event - 3 Day Free Datacamp course](https://app.datacamp.com/learn/courses/introduction-to-sql) (Optimize your chance)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
-#Todo/Code/ProjectWebGroup5 
+#Todo/Code/ProjectWebGroup5
+- [ ] Find color template for my website
+- [ ]  Paper design my website while tham khảo trang web khác
+- [ ] Implement JS feature
+	- [ ]  Add to product cart
+
+
+#Todo/Code/ProjectWebGroup5/GroupPlanning
 - [ ] Explain Git (work? how to use?)
 - [ ] Project Management
-	- [ ] Project Scheduling
-	- [ ] Split Task to Member 
+	- [ ] Task Scheduling
+	- [ ] Split Task to each Member 
 - [ ] Mọi người cùng đi tìm chia sẻ thiết kế
 
 #Todo/Prioritise
 - [ ] Learn CSS position and how to use value
-- [ ] Design website in paper while reference other websites
 
 #Todo/Later
 - [ ] Tóm tắt Kịch bản Nhóm 
@@ -25,12 +31,10 @@
 #Todo/Code/WebDev
 - [ ] Learn Bootstrap 
 - [ ] Learn JS -> React
-- [ ] Figure out how to Connect SSH and Github
-- [ ] Brain stormming Ideas for Our Team Web Project
-  
+
 
 #Todo/Personal
-- [ ] Class Diagram UML  
+- [ ] Class Diagram UML  (for Group Project)
 - [ ] C 
 - [ ] SQL and applie it to DB HW (speed learning available)
 - [ ] Organize DB knowledge 

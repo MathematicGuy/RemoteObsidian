@@ -175,3 +175,37 @@ Chủ nghĩa tư bản như 1 con đỉa - 1 vòi nó hút nhân dân lao độn
 Chủ nghĩa xã hội là gì? -> xã hội do nhân dân lao động làm chủ, con người đc sống ấm no, tự do, hạnh phúc, quyền lợi của các nhân.
 
 [[HCM Ideology Group Project]]
+
+
+**Cấu thành tổ chức nhà nước xã hội chủ nghĩa**
++ **ĐCSVN (Đảg Cộgs VN)**
++ **NNCHXHCNVN (NhàN CộgH XãH ChủN VN)**
+	+ Hành Pháp (CPhủ)
+		+ Bộ CơQa NB
+	+ Lập Pháp (Quốc Hội)
+	+ Bộ CQNB 
++ **Tư Pháp** 
+	+ Tòa án NhânD
+	+ VKS NhânD
++ **MTTQ và các t/c CTXH**
+	+ Hội Nông Dân
+	+ Hội Phụ Nữ
+	+ Hội Công Dân Viên 
+	+ Công Đoàn 
+	+ Đoàn viên
+	+ HCCB
+
+
+**Tứ Trụ Chiều Đình**
++ **Tổng Bí Thư**
+	Nguyễn Phú Trọng
++ **Chủ Tịch Nước**
+	Võ Văn Thưởng
++ **Thủ Tưởng**
+	Phạm Minh Chính
++ **Chủ tịch Quốc Hội**
+	Vương Đình Huệ
+
+**Đảng Cộng Sản Việt Nam** 
++ Tiền thân tổ chức là giai cấp công nhân. Xuất phát từ nhân 
+- Lãnh Đạo 

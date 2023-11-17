@@ -23,35 +23,35 @@
             }
           },
           {
-            "id": "81dd4244f7691447",
+            "id": "a15cf6146c3697e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website Layout.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbb4624c461b9f0d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "_Focus/WebProject2023/WebProjectGroup5.canvas",
                 "viewState": {
-                  "x": 996.6639703775852,
-                  "y": -998.3373286245671,
-                  "zoom": -0.3027128930914339
+                  "x": 1578.689040185396,
+                  "y": -1243.2483558172235,
+                  "zoom": -1.0561107663668106
                 }
-              }
-            }
-          },
-          {
-            "id": "bd889181fb125332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Artistic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#F2FFE9",
+                "query": "tag:#FFE17B",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "Website Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "Website Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Artistic.md"
+                "file": "Website Layout.md"
               }
             }
           },
@@ -201,25 +202,84 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd889181fb125332",
+  "floating": {
+    "id": "45da46d779a993f1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9053b3296dcfbf87",
+        "type": "window",
+        "children": [
+          {
+            "id": "6b4caa283e035778",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "607dbf6a106754b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8e678adeec0311b6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "UML Class Diagrams.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1305,
+        "y": 0,
+        "width": 615,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a15cf6146c3697e3",
   "lastOpenFiles": [
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "UML Class Diagrams.md",
+    "Images/Pasted image 20231117131129.png",
+    "Images/Pasted image 20231117131125.png",
     "Todo.md",
+    "Website Layout.md",
+    "CSS Artistic.md",
+    "Selective Design Note.md",
+    "Design Note.md",
+    "Images/Pasted image 20231117121631.png",
+    "Images/original-01be56554165a06c2281afe447dba0fe 2.jpg",
+    "Images/original-01be56554165a06c2281afe447dba0fe 1.jpg",
+    "Images/original-01be56554165a06c2281afe447dba0fe.jpg",
+    "Images/Pasted image 20231117121145.png",
+    "Images/Pasted image 20231117121126.png",
+    "Images/Pasted image 20231117121115.png",
+    "Images/Pasted image 20231117121058.png",
+    "Untitled.md",
+    "_Focus/WebProject2023/Web Project Issues.md",
     "Summary DB_HW2.md",
     "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
-    "Images/Pasted image 20231117084347.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "Relational Algebra Operations.md",
-    "Images/Pasted image 20231117083629.png",
-    "Images/Pasted image 20231117083625.png",
     "WebProjectExplained.md",
-    "Images/Pasted image 20231117083510.png",
-    "Images/Pasted image 20231117083524.png",
-    "Images/Pasted image 20231117083219.png",
-    "Images/Pasted image 20231117083211.png",
-    "Images/Pasted image 20231117083157.png",
-    "Images/Pasted image 20231117083156.png",
-    "Images/Pasted image 20231117082007.png",
     "Relational Data Base Model.md",
     "DB_HW2.md",
     "Switch branch in Active Branch.md",
@@ -231,14 +291,6 @@
     "CSS Kernel.md",
     "Docker.md",
     "Personal/Study Method (Efficiency)/Suk Method (base on my exp).md",
-    "Personal/Study Method (Efficiency)/Deadline rush method (not done).md",
-    "Personal/Programming Skill/Technology.md",
-    "CSS Artistic.md",
-    "_Focus/WebProject2023/Landing Page vs Website.md",
-    "Obsidian/Annotation.md",
-    "_Focus.md",
-    "Personal/ShortCut/= IDEJ useful shortcut =.md",
-    "Basic Concepts.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
