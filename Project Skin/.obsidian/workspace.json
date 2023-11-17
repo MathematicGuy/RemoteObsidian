@@ -26,12 +26,30 @@
             "id": "d5d314e7aafa94ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Website Layout.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b264e990ddf32228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md"
+              }
             }
           },
           {
@@ -178,26 +200,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d5d314e7aafa94ce",
+  "active": "b264e990ddf32228",
   "lastOpenFiles": [
-    "Todo.md",
     "Website Layout.md",
-    "Images/Pasted image 20231117152552.png",
-    "Images/Pasted image 20231117152507.png",
+    "Images/Pasted image 20231117161614.png",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "Images/Pasted image 20231117151611.png",
-    "Images/Pasted image 20231117151508.png",
-    "Images/Pasted image 20231117151408.png",
-    "Images/Pasted image 20231117151318.png",
+    "Images/Pasted image 20231117161251.png",
+    "Images/Pasted image 20231117161151.png",
+    "Images/Pasted image 20231117160906.png",
+    "Images/Pasted image 20231117160503.png",
+    "Images/Pasted image 20231117160031.png",
+    "Images/Pasted image 20231117155948.png",
+    "Images/Pasted image 20231117155736.png",
+    "Images/Pasted image 20231117155732.png",
+    "Images/Pasted image 20231117155730.png",
+    "CSS Artistic.md",
+    "Todo.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "UML Class Diagrams.md",
-    "Images/Pasted image 20231117131129.png",
-    "Images/Pasted image 20231117131125.png",
-    "CSS Artistic.md",
     "Selective Design Note.md",
     "Design Note.md",
-    "Images/Pasted image 20231117121631.png",
-    "Images/original-01be56554165a06c2281afe447dba0fe 2.jpg",
     "Untitled.md",
     "_Focus/WebProject2023/Web Project Issues.md",
     "Summary DB_HW2.md",

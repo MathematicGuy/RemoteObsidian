@@ -36,4 +36,51 @@ Thirdly, "what do we want our design to **Achieve ?**"
 ![[Pasted image 20231117152552.png]]
 
 
+Actice **WHITE SPACE ?** 
+![[Pasted image 20231117155432.png]]
+If Ultilize Space approperly 
+	Create a Visual HIERARCHY (User focus from what to what in the screen)
+	![[Pasted image 20231117155612.png]]
++ **Prevents CLUTTER & Clams**
++ Also add **Elegant** in your design
+	![[Pasted image 20231117155736.png]]
++ Enhances visual elements
+
+
+>**Macro white space**
+ The Large expand of white space areas
+![[Pasted image 20231117155948.png]]
+**Micro white space**
+> Small space in between
+![[Pasted image 20231117160031.png]]
+ "Your vision and approach should shift to focus on micro white space"
+
+Marco white space can give
++ Minimalism
++ Modernity
++ Luxury
+Micro give feeling of  
++ Informative
++ Serious
++ Proximity
+> Active white space give article more readable. 
+![[Pasted image 20231117160503.png]]
+
+### Lessier Design Theories
+
+**Shape of Element**
+![[Pasted image 20231117160906.png]]
+> Using Shape to redirect user Focus/Attention.
+
+**-Subject-Matter**
++ **Fist punching** into a direction to **pull user attention**
++ Handing directing
+	![[Pasted image 20231117161151.png]]
+
+**Movement**
+	Many different shape direct focus direction of the user
+	![[Pasted image 20231117161251.png]]
+
+**Prevent Visual Tension**
+![[Pasted image 20231117161614.png]]
 

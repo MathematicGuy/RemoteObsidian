@@ -224,5 +224,4 @@ A/v hãy đưa ra sáng kiến của bản thân để xây dựng NNVN trong s�
 + Môi trường
 	Nếu ko sẽ khó nhận đc cái đúng sai.
 	1 người có thể có kiến thức nhưng 1 nếu bị lừa thì ... (nhất là trong thế giới công nghệ cao hiện nay khi việc làm giả 1 thứ rất dễ dàng)
-
-
+	+ Điều này không phải chứng minh khi mà Bác Hồ chính là người tạo ra môi trường và nguồn cảm hứng cho bao người việt nam, bất kể người đó có kiến thức hay ko.
