@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28d462a955335c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/WebDev_Learn/CSS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "WebDev/WebDev_Learn/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "WebDev/WebDev_Learn/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md"
+                "file": "WebDev/WebDev_Learn/CSS.md"
               }
             }
           },
@@ -187,8 +200,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c8540ec44e76b17",
+  "active": "28d462a955335c2b",
   "lastOpenFiles": [
+    "CSS Nnote.md",
+    "Images/Pasted image 20231117213117.png",
+    "WebDev/WebDev_Learn/CSS.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "Todo.md",
     "Website Layout.md",
     "Images/Pasted image 20231117161614.png",
@@ -201,7 +218,6 @@
     "Images/Pasted image 20231117155948.png",
     "Images/Pasted image 20231117155736.png",
     "Images/Pasted image 20231117155732.png",
-    "Images/Pasted image 20231117155730.png",
     "CSS Artistic.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "UML Class Diagrams.md",
@@ -217,11 +233,8 @@
     "Relational Data Base Model.md",
     "DB_HW2.md",
     "Switch branch in Active Branch.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Git Branch.md",
     "Github for Beginners.md",
-    "CSS Nnote.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "CSS Kernel.md",
     "Docker.md",
     "Personal/Study Method (Efficiency)/Suk Method (base on my exp).md",
