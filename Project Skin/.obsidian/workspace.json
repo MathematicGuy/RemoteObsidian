@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -200,11 +199,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "28d462a955335c2b",
+  "active": "63e98619815d4d3f",
   "lastOpenFiles": [
+    "WebDev/WebDev_Learn/CSS.md",
     "CSS Nnote.md",
     "Images/Pasted image 20231117213117.png",
-    "WebDev/WebDev_Learn/CSS.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Todo.md",
     "Website Layout.md",
