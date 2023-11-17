@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12abee3a929829f9",
+        "id": "e873e9723ad24cfb",
         "type": "tabs",
         "children": [
           {
-            "id": "ac9d074fac5358f8",
+            "id": "63e98619815d4d3f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "d5d314e7aafa94ce",
+            "id": "2c8540ec44e76b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website Layout.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b264e990ddf32228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/HCM  Ideology.md"
+                "file": "_Focus/2023/Challenges & Guides/Github.md"
               }
             }
           },
@@ -200,8 +187,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b264e990ddf32228",
+  "active": "2c8540ec44e76b17",
   "lastOpenFiles": [
+    "Todo.md",
     "Website Layout.md",
     "Images/Pasted image 20231117161614.png",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
@@ -215,7 +203,6 @@
     "Images/Pasted image 20231117155732.png",
     "Images/Pasted image 20231117155730.png",
     "CSS Artistic.md",
-    "Todo.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "UML Class Diagrams.md",
     "Selective Design Note.md",
