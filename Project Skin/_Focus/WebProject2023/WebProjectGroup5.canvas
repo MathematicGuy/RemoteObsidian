@@ -14,7 +14,6 @@
 		{"id":"d68bfc1e7de4f7ee","type":"file","file":"_Focus/WebProject2023/Landing Page vs Website.md","x":880,"y":-1721,"width":400,"height":290},
 		{"id":"e5744317ffd90956","type":"text","text":"   Main Page","x":340,"y":-320,"width":160,"height":50},
 		{"id":"ab66196f3076ed6b","type":"text","text":"Header","x":23,"y":-325,"width":190,"height":60},
-		{"id":"95155e7c99851f0e","type":"text","text":"Tông màu\n+ 60% Trắng Kem #F2FFE9\n+ 30% Xanh Đậm #3A4D39\n+ 10% Vàng #FFE17B\n","x":1285,"y":-1360,"width":340,"height":180},
 		{"id":"004b238e2160ad25","type":"text","text":"About ","x":-38,"y":-960,"width":156,"height":50},
 		{"id":"86f8c9b3d835d549","type":"text","text":"Login ","x":-38,"y":-839,"width":156,"height":50},
 		{"id":"e1f9ac1b54c57edd","type":"text","text":"Register ","x":-38,"y":-720,"width":156,"height":50},
@@ -27,7 +26,8 @@
 		{"id":"25d0b580cb9bfe64","type":"text","text":"Sản Phẩm Nội Địa","x":-1516,"y":-468,"width":250,"height":50},
 		{"id":"b24db40549a7b0aa","type":"text","text":"Sản Phẩm Nhập Khẩu","x":-1516,"y":-375,"width":250,"height":50},
 		{"id":"47257fddddd62120","type":"file","file":"Images/Pasted image 20231115161110.png","x":-1860,"y":-289,"width":1050,"height":308},
-		{"id":"852ad7f2fb79a62e","type":"text","text":"Shared Design","x":559,"y":-1410,"width":201,"height":50}
+		{"id":"852ad7f2fb79a62e","type":"text","text":"Shared Design","x":559,"y":-1410,"width":201,"height":50},
+		{"id":"95155e7c99851f0e","type":"text","text":"Tông màu\n+ 60% Trắng Kem #F2FFE9\n+ 30% Xanh Đậm #3A4D39\n+ 10% Vàng #FFE17B\n","x":1240,"y":-1360,"width":340,"height":180}
 	],
 	"edges":[
 		{"id":"336dfc89aafc1d5f","fromNode":"96211baba3fe0e4c","fromSide":"left","toNode":"25d0b580cb9bfe64","toSide":"right"},

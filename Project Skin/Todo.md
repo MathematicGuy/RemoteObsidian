@@ -13,7 +13,8 @@
 - [ ] Mọi người cùng đi tìm chia sẻ thiết kế
 
 #Todo/Prioritise
-
+- [ ] Learn CSS position and how to use value
+- [ ] Design website in paper while reference other websites
 
 #Todo/Later
 - [ ] Tóm tắt Kịch bản Nhóm 
