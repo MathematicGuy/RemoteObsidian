@@ -9,9 +9,10 @@
 - [ ] Explain Git (work? how to use?)
 - [ ] Project Management
 	- [ ] Project Scheduling
-	- [ ] Split Task to Member
-- [ ] 1 Tuần để học + trainning HTML/CSS/JS 
+	- [ ] Split Task to Member 
 - [ ] Mọi người cùng đi tìm chia sẻ thiết kế
+
+#Todo/Prioritise
 
 
 #Todo/Later
@@ -32,11 +33,9 @@
 - [ ] C 
 - [ ] SQL and applie it to DB HW (speed learning available)
 - [ ] Organize DB knowledge 
-- [ ] Gửi câu e) nghi ngờ là sai đề tron bài tập tuần 2-3 cho cô
-
 - [ ] Decide to Learn German or Japanses as my 3rd Language 
 - [ ] Organize Youtube playlists
-
+- [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)

@@ -21,48 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2d6514a5e6c9a692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa9de44e587c5d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summary DB_HW2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cab04c3e24a9920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebProjectExplained.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebProjectExplained.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebProjectExplained.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebProjectExplained.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -212,21 +172,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7cab04c3e24a9920",
+  "active": "585e94e40c8e1e82",
   "lastOpenFiles": [
     "Summary DB_HW2.md",
-    "DB_HW2.md",
     "Todo.md",
+    "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
+    "Images/Pasted image 20231117084347.png",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Relational Algebra Operations.md",
+    "Images/Pasted image 20231117083629.png",
+    "Images/Pasted image 20231117083625.png",
+    "WebProjectExplained.md",
+    "Images/Pasted image 20231117083510.png",
+    "Images/Pasted image 20231117083524.png",
+    "Images/Pasted image 20231117083219.png",
+    "Images/Pasted image 20231117083211.png",
+    "Images/Pasted image 20231117083157.png",
+    "Images/Pasted image 20231117083156.png",
+    "Images/Pasted image 20231117082007.png",
+    "Relational Data Base Model.md",
+    "DB_HW2.md",
     "Switch branch in Active Branch.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "Images/Pasted image 20231115224130.png",
-    "Images/Pasted image 20231115224122.png",
     "Git Branch.md",
     "Github for Beginners.md",
-    "WebProjectExplained.md",
-    "Images/Pasted image 20231115222407.png",
-    "Images/Pasted image 20231115222117.png",
-    "Images/Pasted image 20231115221050.png",
     "CSS Nnote.md",
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Kernel.md",
@@ -237,21 +206,11 @@
     "CSS Artistic.md",
     "_Focus/WebProject2023/Landing Page vs Website.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
-    "Images/Pasted image 20231115095941.png",
     "Obsidian/Annotation.md",
     "_Focus.md",
     "Personal/ShortCut/= IDEJ useful shortcut =.md",
-    "Images/Pasted image 20231115161110.png",
     "Basic Concepts.md",
-    "C Fundamental.md",
-    "Error Types.md",
-    "Images/Pasted image 20231115135231.png",
-    "_Focus/2023/Last Semester/Fundamental of Programming.md",
-    "Personal/Programming Skill/Search Google.md",
     "Personal/Programming Skill",
-    "Code.md",
-    "Images/Pasted image 20231115131438.png",
-    "Images/Pasted image 20231115131355.png",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",

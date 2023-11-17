@@ -78,3 +78,5 @@ Ex: There no value in SSN and ID that is repetited -> we can choose SSN and ID a
 > + Can delete EmplD = '1331' from WORKS_ON but not from EMPLOYEE.
 
 ### [[Relational Constraint Exercise]]
+
+
