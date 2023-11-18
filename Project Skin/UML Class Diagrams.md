@@ -38,7 +38,16 @@ Ex: Vtuber Sim couldn't exist without Vtuber
 > If the Visitor was destroyed, Lobby and Bathroom will be destroy also.
 ![[Pasted image 20231108083606.png]]
 
-#### Association
+**Association**
+> Unary Asociation
+![[Pasted image 20231118164553.png]]
+> ClassA knows about ClassB
+> ClassB knows nothing about ClassA
+
+![[Pasted image 20231118164428.png]]
+
+
+
 **Mulplicity**
 + * -> zero or more instances
 + n -> exactly n instances
