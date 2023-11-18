@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e873e9723ad24cfb",
+        "id": "62ca1262d9373f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "63e98619815d4d3f",
+            "id": "008c3cb141cfcfde",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,19 +23,15 @@
             }
           },
           {
-            "id": "2c8540ec44e76b17",
+            "id": "707b8eaca981adb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,11 +178,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63e98619815d4d3f",
+  "active": "707b8eaca981adb8",
   "lastOpenFiles": [
+    "Todo.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "WebDev/WebDev_Learn/CSS.md",
-    "Todo.md",
     "CSS Nnote.md",
     "Images/Pasted image 20231117213117.png",
     "Website Layout.md",
