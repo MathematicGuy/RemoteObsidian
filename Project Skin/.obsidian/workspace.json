@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08f06a84f1bdbc94",
+        "id": "5702d5bdca307c91",
         "type": "tabs",
         "children": [
           {
-            "id": "0c66cd803b3d00a8",
+            "id": "1076e5536fab057b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,17 +23,15 @@
             }
           },
           {
-            "id": "d53ec0942c41d1e3",
+            "id": "551d38b8cac9365a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Focus/WebProject2023/WebProjectGroup5.canvas",
-                "viewState": {
-                  "x": 1531.546902033928,
-                  "y": -663.4862429142696,
-                  "zoom": -0.6197002429977514
-                }
+                "file": "UML Class Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/WebProject2023/WebProjectGroup5.canvas",
+                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/WebProject2023/WebProjectGroup5.canvas",
+                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/WebProject2023/WebProjectGroup5.canvas"
+                "file": "UML Class Diagrams.md"
               }
             }
           },
@@ -189,11 +187,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d53ec0942c41d1e3",
+  "active": "551d38b8cac9365a",
   "lastOpenFiles": [
     "Todo.md",
-    "Product Page Design.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "Product Page Design.md",
     "Images/Pasted image 20231118131542.png",
     "_Focus/2023/Challenges & Guides/Github.md",
     "WebDev/WebDev_Learn/CSS.md",
