@@ -34,19 +34,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "28d462a955335c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -201,11 +188,11 @@
   },
   "active": "63e98619815d4d3f",
   "lastOpenFiles": [
+    "_Focus/2023/Challenges & Guides/Github.md",
     "WebDev/WebDev_Learn/CSS.md",
+    "Todo.md",
     "CSS Nnote.md",
     "Images/Pasted image 20231117213117.png",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "Todo.md",
     "Website Layout.md",
     "Images/Pasted image 20231117161614.png",
     "_Focus/2023/Last Semester/HCM  Ideology.md",

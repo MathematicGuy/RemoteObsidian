@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1746f263a9f39ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Life/Skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity & Improvement/Mindset.md",
+                "file": "My Life/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity & Improvement/Mindset.md",
+                "file": "My Life/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity & Improvement/Mindset.md"
+                "file": "My Life/Skills.md"
               }
             }
           },
@@ -176,11 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66d4640fcd44c438",
+  "active": "1746f263a9f39ace",
   "lastOpenFiles": [
-    "Learning How To Learn.md",
     "Productivity & Improvement/Mindset.md",
     "My Life/Skills.md",
+    "Learning How To Learn.md",
     "My Life/Sleep.md",
     "My Life/Styles.md",
     "My Life/1_Shoot for the Star.md",

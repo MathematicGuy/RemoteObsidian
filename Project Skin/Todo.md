@@ -32,6 +32,7 @@
 #Todo/Code/WebDev
 - [ ] Learn Bootstrap 
 - [ ] Learn JS -> React
+- [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
 
 #Todo/Personal

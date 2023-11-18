@@ -24,10 +24,11 @@ Here are some specific courses or topics that you might want to study to become 
 - ***Software engineering***
 
 [Coursera mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning)
+[Vital ML CheatSheat in 20 Paper](https://drive.google.com/file/d/1FGRe-TuvfO8y9bEz079mzvXW1SS_39KS/view?usp=sharing)
+[Dr.Trefor Bazett (Everything in general)](https://www.youtube.com/@DrTrefor/playlists)
 - ***Linear algebra***
 - ***Calculus***
 - ***Statistics***
-
 - ***Machine learning***
 - ***Deep learning***
 - Python
