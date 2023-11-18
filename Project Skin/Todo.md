@@ -28,7 +28,8 @@
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note)
 - [ ] Practice talking articulate with a pencil between my mouth
 - [ ] Learn more about Empathy
- 
+- [ ] Neo Vim Setup
+
 #Todo/Code/WebDev
 - [ ] Learn Bootstrap 
 - [ ] Learn JS -> React
