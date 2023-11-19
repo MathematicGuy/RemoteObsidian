@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ed4407ddc970588",
+        "id": "43b048b38783e781",
         "type": "tabs",
         "children": [
           {
-            "id": "16ce8e60c7119084",
+            "id": "5cf18d7299293247",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "aad4c5f826456beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML Class Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML Class Diagrams.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -187,12 +173,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aad4c5f826456beb",
+  "active": "5cf18d7299293247",
   "lastOpenFiles": [
-    "WebDev/Web.md",
-    "UML Class Diagrams.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Todo.md",
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "HCM Ideology Group Project.md",
+    "UML Class Diagrams.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "WebDev/Web.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "Images/Pasted image 20231119171726.png",
     "Lecture 1 - Software Engineering Overview.md",
     "Use Case Diagrams.md",
@@ -216,7 +205,6 @@
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Nnote.md",
     "Website Layout.md",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "CSS Artistic.md",
     "Selective Design Note.md",
     "Design Note.md",
@@ -224,8 +212,6 @@
     "_Focus/WebProject2023/Web Project Issues.md",
     "Summary DB_HW2.md",
     "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "Relational Algebra Operations.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
