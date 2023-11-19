@@ -94,3 +94,9 @@ Ex: Vtuber Sim couldn't exist without Vtuber
 	![[Pasted image 20231108101059.png]]
 	Example: Customer is a Child of User. Thus Customer inherit all attribute of User
 	![[Pasted image 20231118152313.png]]
+
+
+
+Summary
+![[Pasted image 20231119171726.png]]
+
