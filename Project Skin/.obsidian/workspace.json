@@ -26,12 +26,32 @@
             "id": "421eba8ce1aa7919",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "_Focus/WebProject2023/WebProjectGroup5.canvas",
+                "viewState": {
+                  "x": -193.0730813650377,
+                  "y": -1239.6797081012026,
+                  "zoom": -0.9530335763310847
+                }
+              }
+            }
+          },
+          {
+            "id": "958106f8d6e54af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS Types and Common Language Constructs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS Types and Common Language Constructs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS Types and Common Language Constructs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS Types and Common Language Constructs.md"
+              }
             }
           },
           {
@@ -178,8 +202,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "421eba8ce1aa7919",
+  "active": "958106f8d6e54af7",
   "lastOpenFiles": [
+    "JS Funcdamental.md",
+    "JS Types and Common Language Constructs.md",
+    "JS Basics - Codes.md",
+    "JS Basic.md",
+    "WebDev/WebDev_Learn/JS/JS.md",
+    "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Todo.md",
     "Images/Pasted image 20231118164553.png",
     "Images/Pasted image 20231118164428.png",
@@ -192,7 +222,6 @@
     "Images/Pasted image 20231118143905.png",
     "UML Class Diagrams.md",
     "Images/Pasted image 20231118143859.png",
-    "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Product Page Design.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "WebDev/WebDev_Learn/CSS.md",
@@ -212,10 +241,6 @@
     "Relational Data Base Model.md",
     "DB_HW2.md",
     "Switch branch in Active Branch.md",
-    "Git Branch.md",
-    "Github for Beginners.md",
-    "CSS Kernel.md",
-    "Docker.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",

@@ -1,4 +1,4 @@
-### [[JS Basics]]
+### [[JS Basics - Codes]]
 
 ### Manipulate DOM with JS
 
