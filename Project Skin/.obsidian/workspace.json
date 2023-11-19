@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "aad4c5f826456beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML Class Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "UML Class Diagrams.md"
               }
             }
           },
@@ -173,14 +187,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "16ce8e60c7119084",
+  "active": "aad4c5f826456beb",
   "lastOpenFiles": [
+    "Todo.md",
     "UML Class Diagrams.md",
     "Images/Pasted image 20231119171726.png",
     "Lecture 1 - Software Engineering Overview.md",
     "Use Case Diagrams.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Todo.md",
     "Images/Pasted image 20231119085334.png",
     "JS Funcdamental.md",
     "JS Types and Common Language Constructs.md",

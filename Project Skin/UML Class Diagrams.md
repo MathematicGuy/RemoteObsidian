@@ -84,7 +84,6 @@ Ex: Vtuber Sim couldn't exist without Vtuber
 > Ex: Student info change -> RegistrationManager also change it info relate to the student
 ![[Pasted image 20231108100931.png]]
 
-
 **Constraint**
 	Condition or restriction expressed as a text (like note)
 ![[Pasted image 20231108100435.png]]
