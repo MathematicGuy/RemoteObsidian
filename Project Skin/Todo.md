@@ -44,6 +44,7 @@
 - [ ] Decide to Learn German or Japanses as my 3rd Language 
 - [ ] Organize Youtube playlists
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
+- [ ] Undead Unluck chap29
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
