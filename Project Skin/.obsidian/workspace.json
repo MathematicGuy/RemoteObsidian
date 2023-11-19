@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35bf8e757979ea0e",
+        "id": "7ed4407ddc970588",
         "type": "tabs",
         "children": [
           {
-            "id": "78c5351ea069e558",
+            "id": "16ce8e60c7119084",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,19 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "fb2c3859173e5072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML Class Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -186,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "78c5351ea069e558",
+  "active": "16ce8e60c7119084",
   "lastOpenFiles": [
     "UML Class Diagrams.md",
     "Images/Pasted image 20231119171726.png",

@@ -25,7 +25,7 @@
 
 #Todo/Later
 - [ ] Tóm tắt Kịch bản Nhóm 
-- [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note)
+- [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
 - [ ] Learn more about Empathy
 - [ ] Neo Vim Setup

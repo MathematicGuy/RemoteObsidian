@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b429f276e830688",
@@ -176,6 +177,7 @@
   "lastOpenFiles": [
     "Machine Learning.md",
     "AI RoadMap.md",
+    "Why Machine Learning.md",
     "Opportunities in AI.md",
     "AI.md",
     "Machine Learning Problems.md",
@@ -202,7 +204,6 @@
     "Untitled.md",
     "Untitled",
     "Regression.md",
-    "Optimization.md",
     "Image/Pasted image 20231006064118.png",
     "Image/Pasted image 20231006063728.png",
     "Image/Pasted image 20231006063655.png",
