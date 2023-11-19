@@ -25,3 +25,45 @@ Equal ( == )
 Strict Equal ( === )
 	Ex: ('2' === 2 -> FALSE), (2 === 2 -> TRUE)
 
+**Common Language Constructs**
+```js
+// Best practice for {Y style
+// Curly brace on the same or next line...
+// Is it jsut a style?
+
+a = () => {
+	return 
+	{
+		name: "Yaakov"
+	};
+}
+
+b = () => {
+	return {
+		name: "Yaakov"
+	};
+}
+console.log(a()); // undefined. 
+console.log(b()); // Object {name: "Yaakow"}
+```
+> undefined because " return " line was scan with no curly braces " {} " behind it. So a ; automatically added behind " return " -> " return; "  
+ 
+**SUMMARY:**
++ Opening curly brace placement (NOT just style)
++ Always place semicolons at the end of statements
+
+Handling Default Values
++ If the first one is TRUE. No reason for the machine to continue.
+```js
+// Default values
+function orderChickenWith(sideDish) {
+	sideDish = sideDish || "whatever !";
+	console.log("Chicken with " + sideDish);
+}
+
+orderChickenWith("noodles");
+orderChickenWith();
+```
+> Chicken with noodles
+Chicken with whatever!
+
