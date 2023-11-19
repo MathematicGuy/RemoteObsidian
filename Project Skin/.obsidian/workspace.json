@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5702d5bdca307c91",
+        "id": "7c91662b087efd06",
         "type": "tabs",
         "children": [
           {
-            "id": "1076e5536fab057b",
+            "id": "6a868d014172eac8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "551d38b8cac9365a",
+            "id": "421eba8ce1aa7919",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML Class Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UML Class Diagrams.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +178,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "551d38b8cac9365a",
+  "active": "421eba8ce1aa7919",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20231118164553.png",
     "Images/Pasted image 20231118164428.png",
     "Images/Pasted image 20231118152313.png",
@@ -200,10 +192,8 @@
     "Images/Pasted image 20231118143905.png",
     "UML Class Diagrams.md",
     "Images/Pasted image 20231118143859.png",
-    "Todo.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Product Page Design.md",
-    "Images/Pasted image 20231118131542.png",
     "_Focus/2023/Challenges & Guides/Github.md",
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Nnote.md",
