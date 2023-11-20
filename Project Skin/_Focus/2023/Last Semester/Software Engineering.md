@@ -1,6 +1,8 @@
 [ONIX Solution Company ](https://onix-systems.com/contact-us?salesChannel=7+basic+software+development+models+which+one+to+choose) 
 
-[[SE_HW_Chap1]]
+Home Work
++ [[SE_HW_Chap1]]
++ [[Citygas UseCase]]
 
 # [[Lecture 1 - Software Engineering Overview]]
 
@@ -51,7 +53,8 @@ Phát hiện các tổ chức "phòng ban"
 
 Nhiều - Nhiều (sơ đồ lớp)
 
-[[Software Engineering 9th Edition by Ian Sommerville - Book]]
 [[SE_HW - Car Rental Application]]
 
 Chỉ chọn những Usecase chính cho Diagram
+[Usecase with Bot](https://youtu.be/TPyD9JchHKA?si=9XUDR2znkr0WJmIQ)
+

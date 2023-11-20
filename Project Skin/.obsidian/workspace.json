@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "e6a5832100271dbe",
+            "id": "447aa883587b0135",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 1 - Software Engineering Overview.md",
+                "file": "SE_HW_Chap1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1 - Software Engineering Overview.md",
+                "file": "SE_HW_Chap1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 1 - Software Engineering Overview.md",
+                "file": "SE_HW_Chap1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 1 - Software Engineering Overview.md"
+                "file": "SE_HW_Chap1.md"
               }
             }
           },
@@ -187,8 +187,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e6a5832100271dbe",
+  "active": "447aa883587b0135",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Citygas UseCase.md",
+    "SE_HW_Chap1.md",
+    "Todo.md",
+    "Images/Citygas.jpg",
+    "Lecture 1 - Software Engineering Overview.md",
     "Sequence Diagrams.md",
     "Images/Pasted image 20231120175813.png",
     "Images/Pasted image 20231120175801.png",
@@ -198,16 +204,11 @@
     "Images/Pasted image 20231120175115.png",
     "Images/Pasted image 20231120174048.png",
     "Images/Pasted image 20231120174044.png",
-    "Lecture 1 - Software Engineering Overview.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
-    "SE_HW_Chap1.md",
     "Software Engineering 9th Edition by Ian Sommerville - Book.md",
-    "Todo.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Center a div.md",
     "Objects and Functions in JS.md",
     "Images/Pasted image 20231120100956.png",
-    "Images/Pasted image 20231120100337.png",
     "JS Fundamental.md",
     "JS Types and Common Language Constructs.md",
     "WebDev/WebDev_Learn/JS/JS.md",
@@ -224,7 +225,6 @@
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Nnote.md",
     "Website Layout.md",
-    "CSS Artistic.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
