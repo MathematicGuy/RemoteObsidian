@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "20ec80bba4cf0cd2",
+            "id": "e6a5832100271dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Lecture 1 - Software Engineering Overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Lecture 1 - Software Engineering Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Lecture 1 - Software Engineering Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md"
+                "file": "Lecture 1 - Software Engineering Overview.md"
               }
             }
           },
@@ -187,15 +187,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "20ec80bba4cf0cd2",
+  "active": "e6a5832100271dbe",
   "lastOpenFiles": [
+    "Sequence Diagrams.md",
+    "Images/Pasted image 20231120175813.png",
+    "Images/Pasted image 20231120175801.png",
+    "Images/Pasted image 20231120175757.png",
+    "Images/Pasted image 20231120175354.png",
+    "Images/Pasted image 20231120175243.png",
+    "Images/Pasted image 20231120175115.png",
+    "Images/Pasted image 20231120174048.png",
+    "Images/Pasted image 20231120174044.png",
+    "Lecture 1 - Software Engineering Overview.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "SE_HW_Chap1.md",
+    "Software Engineering 9th Edition by Ian Sommerville - Book.md",
+    "Todo.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "Center a div.md",
     "Objects and Functions in JS.md",
-    "Todo.md",
     "Images/Pasted image 20231120100956.png",
     "Images/Pasted image 20231120100337.png",
-    "Images/Pasted image 20231120100206.png",
-    "Images/Pasted image 20231120100003.png",
     "JS Fundamental.md",
     "JS Types and Common Language Constructs.md",
     "WebDev/WebDev_Learn/JS/JS.md",
@@ -206,26 +218,13 @@
     "UML Class Diagrams.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "WebDev/Web.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "Images/Pasted image 20231119171726.png",
-    "Lecture 1 - Software Engineering Overview.md",
     "Use Case Diagrams.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
-    "Images/Pasted image 20231119085334.png",
     "JS Basics - Codes.md",
     "JS Basic.md",
-    "Images/Pasted image 20231118164553.png",
-    "Images/Pasted image 20231118164428.png",
-    "Images/Pasted image 20231118152313.png",
-    "Images/Pasted image 20231118152014.png",
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Nnote.md",
     "Website Layout.md",
     "CSS Artistic.md",
-    "Selective Design Note.md",
-    "Design Note.md",
-    "Untitled.md",
-    "_Focus/WebProject2023/Web Project Issues.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",

@@ -1,5 +1,7 @@
 [ONIX Solution Company ](https://onix-systems.com/contact-us?salesChannel=7+basic+software+development+models+which+one+to+choose) 
 
+[[SE_HW_Chap1]]
+
 # [[Lecture 1 - Software Engineering Overview]]
 
 
@@ -41,7 +43,8 @@ Domain Analysis
 2) Mô tả quy trình
 3) Mô tả các thành phần to các sơ đồ lớp (cấu tạo vs nhau ntn)
 	Sơ đồ lớp:
-	+ Mô tả các thành phần. Nhưng ko mô tả chức năng của phần mềm
+	+ Mô tả các thành phần. N
+	+ hưng ko mô tả chức năng của phần mềm
 
 Tìm ra các danh từ -> đó có thể là các lớp.
 Phát hiện các tổ chức "phòng ban"
@@ -50,3 +53,5 @@ Nhiều - Nhiều (sơ đồ lớp)
 
 [[Software Engineering 9th Edition by Ian Sommerville - Book]]
 [[SE_HW - Car Rental Application]]
+
+Chỉ chọn những Usecase chính cho Diagram

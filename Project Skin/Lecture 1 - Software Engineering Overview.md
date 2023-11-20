@@ -63,10 +63,10 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 
 **Behavioral Diagrams**
 + State Machine Diagrams
-+ Communication Diagrams
++ [[Communication Diagrams]]
 + [[Use Case Diagrams]]
 + Activity Diagrams
-+ Sequence Diagrams
++ [[Sequence Diagrams]]
 	Model the interaction of Obj base on a time sequence. How obj interacted with eachother in a particular usecase.
 + Timing Diagrams
 + Interaction overview Diagrams
@@ -76,3 +76,4 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 [UML Turtorial](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
 	có thể viết hộ code sau khi Thiết Kế.
 Quan tâm tới sự giao tiếp hơn quy trình
+
