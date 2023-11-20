@@ -101,3 +101,6 @@ console.log(y); // y = 5, vì b chỉ copy giá trị của a và đc đặt tro
 ```
 + **Primitives** are passed/coppied by value. var **a = 5**
 + **Object** are passed/copied by reference. var a : **{x: 5}**
+
+**Function Constructor, prototype and 'this' keyword**
+
