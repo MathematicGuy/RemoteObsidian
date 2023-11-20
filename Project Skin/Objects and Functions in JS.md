@@ -103,4 +103,26 @@ console.log(y); // y = 5, vì b chỉ copy giá trị của a và đc đặt tro
 + **Object** are passed/copied by reference. var a : **{x: 5}**
 
 **Function Constructor, prototype and 'this' keyword**
+```js
+// this refer to the current Obj
+function Square(width) {
+    this.width = width; // this width of the Obj
+    // cannot return value
+
+    this.getArea = 
+    function(){
+        return Math.pow(width, 2);
+    };
+}
+
+// prototype must be put outside 
+Square.prototype.DoubleWidth = 
+    function () {
+        return this.width * 2;
+    }
+
+var disSquare = new Square(5);
+console.log(disSquare.getArea());
+console.log(disSquare.DoubleWidth());
+```
 
