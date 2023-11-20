@@ -116,13 +116,31 @@ function Square(width) {
 }
 
 // prototype must be put outside 
-Square.prototype.DoubleWidth = 
+Square.prototype.DoubleWidth = {
     function () {
         return this.width * 2;
     }
+}
 
 var disSquare = new Square(5);
 console.log(disSquare.getArea());
 console.log(disSquare.DoubleWidth());
+```
+
+```js
+console.log(literalCircle.getArea());
+
+
+function Dog (name) {
+    this.name = name;
+}
+
+Dog.prototype.bark = function() {
+    console.log(this.name + " likes barking! Bark!");
+}
+
+// The second argument is not used in the function but it's perfectly legal to pass it in.
+var max =  new Dog("hess", "we");
+max.bark();
 ```
 
