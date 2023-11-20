@@ -1,4 +1,4 @@
-### [[JS Funcdamental]]
+### [[JS Fundamental]]
 
 ### [[JS Frontend]]
 

@@ -26,8 +26,13 @@
             "id": "d3cb4b260c01bb4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Objects and Functions in JS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Objects and Functions in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Objects and Functions in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Objects and Functions in JS.md"
+              }
             }
           },
           {
@@ -180,6 +189,14 @@
   },
   "active": "d3cb4b260c01bb4b",
   "lastOpenFiles": [
+    "Images/Pasted image 20231120100956.png",
+    "Images/Pasted image 20231120100337.png",
+    "Images/Pasted image 20231120100206.png",
+    "Images/Pasted image 20231120100003.png",
+    "JS Fundamental.md",
+    "Objects and Functions in JS.md",
+    "JS Types and Common Language Constructs.md",
+    "WebDev/WebDev_Learn/JS/JS.md",
     "Todo.md",
     "Product Page Design.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
@@ -194,19 +211,13 @@
     "Use Case Diagrams.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Images/Pasted image 20231119085334.png",
-    "JS Funcdamental.md",
-    "JS Types and Common Language Constructs.md",
     "JS Basics - Codes.md",
     "JS Basic.md",
-    "WebDev/WebDev_Learn/JS/JS.md",
     "Images/Pasted image 20231118164553.png",
     "Images/Pasted image 20231118164428.png",
     "Images/Pasted image 20231118152313.png",
     "Images/Pasted image 20231118152014.png",
     "Images/Pasted image 20231118151124.png",
-    "Images/Pasted image 20231118144018.png",
-    "Images/Pasted image 20231118144017.png",
-    "Images/Pasted image 20231118143953.png",
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Nnote.md",
     "Website Layout.md",
@@ -215,7 +226,6 @@
     "Design Note.md",
     "Untitled.md",
     "_Focus/WebProject2023/Web Project Issues.md",
-    "Summary DB_HW2.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
