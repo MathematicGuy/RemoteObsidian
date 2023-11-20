@@ -29,7 +29,7 @@ $ git commit -M main
 stage5: **connect to github repository** 
 ```shell
 $ git remote add orgin http://github.com/user_name/git_name.git
-```
+``` 
 stage6: **Push all file to the repository**  (-u mean up stream)
 + --set-upstream: 
 	**sets up a tracking relationship between the local branch ("main") and the remote branch ("main" on "origin").**
