@@ -6,18 +6,15 @@
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
 #Todo/Code/ProjectWebGroup5
-- [ ] Find color template for my website
 - [ ]  Paper design my website while tham khảo trang web khác
 - [ ] Implement JS feature
-	- [ ]  Add to product cart
+	- [ ] Add to product cart (Medium)
+	- [ ] Delete Item in Cart (Medium)
+	- [ ] Calc Total Price (Easy)
 
 
 #Todo/Code/ProjectWebGroup5/GroupPlanning
-- [ ] Explain Git (work? how to use?)
-- [ ] Project Management
-	- [ ] Task Scheduling
-	- [ ] Split Task to each Member 
-- [ ] Mọi người cùng đi tìm chia sẻ thiết kế
+- [ ] hurray, no due
 
 #Todo/Prioritise
 - [ ] Learn CSS position and how to use value
@@ -41,10 +38,7 @@
 - [ ] C 
 - [ ] SQL and applie it to DB HW (speed learning available)
 - [ ] Organize DB knowledge 
-- [ ] Decide to Learn German or Japanses as my 3rd Language 
-- [ ] Organize Youtube playlists
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
-- [ ] Undead Unluck chap29
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
@@ -55,11 +49,12 @@
 - [ ] Basic Docker Knowledge (learn docker in 1 hour)
 - [ ] Basic API knowledge  (API for each language)
 
+#Todo/Entertainment
+- [ ] Undead Unluck chap29
 
 **Ideas**
 How to run App without downloading them
 
-
-**Learning for later**
-[Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
+#Todo/AI
+- [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
 
