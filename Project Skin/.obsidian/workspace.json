@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8815d3d17ad3e18d",
+        "id": "afd5df6a1e749c20",
         "type": "tabs",
         "children": [
           {
-            "id": "b0b77754681c361e",
+            "id": "53693490d8146a51",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f9cd7678081f62b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Citygas UseCase.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Citygas UseCase.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Citygas UseCase.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Citygas UseCase.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -187,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9cd7678081f62b2",
+  "active": "53693490d8146a51",
   "lastOpenFiles": [
     "How To Identify Actor, Use Case, etc.md",
     "Citygas UseCase.md",
