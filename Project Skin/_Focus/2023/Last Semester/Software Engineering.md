@@ -2,7 +2,6 @@
 
 Home Work
 + [[SE_HW_Chap1]]
-+ [[Citygas UseCase]]
 
 # [[Lecture 1 - Software Engineering Overview]]
 

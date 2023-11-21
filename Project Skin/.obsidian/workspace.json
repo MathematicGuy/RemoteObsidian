@@ -4,39 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "42b119996ab6742e",
-        "type": "tabs",
+        "id": "9766520f179bf4f0",
+        "type": "split",
         "children": [
           {
-            "id": "c9b8406abeb248ee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "42b119996ab6742e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c9b8406abeb248ee",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Todo.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "e9aea050285d5f76",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a72054d72c5105b5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "How To Identify Actor, Use Case, etc.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "bd4bac5dd9561599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sequence Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "b38685e7fad97e3d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5fb767d7bc46548b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Citygas UseCase.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -104,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Diagrams.md",
+                "file": "Citygas UseCase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Diagrams.md",
+                "file": "Citygas UseCase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Diagrams.md"
+                "file": "Citygas UseCase.md"
               }
             }
           },
@@ -187,28 +226,31 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd4bac5dd9561599",
+  "active": "5fb767d7bc46548b",
   "lastOpenFiles": [
-    "Lecture 1 - Software Engineering Overview.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
+    "Use Case Diagrams.md",
+    "How To Identify Actor, Use Case, etc.md",
+    "Citygas UseCase.md",
+    "Lecture 1 - Software Engineering Overview.md",
+    "Images/Pasted image 20231121110940.png",
+    "Images/Pasted image 20231121110903.png",
+    "Images/Pasted image 20231121110731.png",
+    "Actor.md",
+    "Images/Pasted image 20231121110514.png",
+    "Sequence Diagrams.md",
     "Todo.md",
     "SE_HW_Chap1.md",
-    "Citygas UseCase.md",
     "Images/Citygas.jpg",
-    "Sequence Diagrams.md",
     "Images/Pasted image 20231120175813.png",
     "Images/Pasted image 20231120175801.png",
     "Images/Pasted image 20231120175757.png",
     "Images/Pasted image 20231120175354.png",
     "Images/Pasted image 20231120175243.png",
-    "Images/Pasted image 20231120175115.png",
-    "Images/Pasted image 20231120174048.png",
-    "Images/Pasted image 20231120174044.png",
     "Software Engineering 9th Edition by Ian Sommerville - Book.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Center a div.md",
     "Objects and Functions in JS.md",
-    "Images/Pasted image 20231120100956.png",
     "JS Fundamental.md",
     "JS Types and Common Language Constructs.md",
     "WebDev/WebDev_Learn/JS/JS.md",
@@ -219,12 +261,9 @@
     "UML Class Diagrams.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "WebDev/Web.md",
-    "Use Case Diagrams.md",
     "JS Basics - Codes.md",
     "JS Basic.md",
     "WebDev/WebDev_Learn/CSS.md",
-    "CSS Nnote.md",
-    "Website Layout.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",

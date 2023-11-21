@@ -1,4 +1,9 @@
-Document: [Use Case Diagrams và 5 sai lầm thường gặp](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
+Document: 
++ [Use Case Diagrams và 5 sai lầm thường gặp](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
++ [[How To Identify Actor, Use Case, etc]]
+HW
++ [[Citygas UseCase]]
+
 Purpose
 + Basic Flow
 1. Specify the context of a system
