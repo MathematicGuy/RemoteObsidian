@@ -1,6 +1,6 @@
 [ONIX Solution Company ](https://onix-systems.com/contact-us?salesChannel=7+basic+software+development+models+which+one+to+choose) 
 
-Home Work
+Home Work - [UML Tools](https://app.diagrams.net/#HMathmatheticGuy%2FUML-Diagrams%2Fmain%2FCityGas.drawio) - [[UML with Bot]]
 + [[SE_HW_Chap1]]
 
 # [[Lecture 1 - Software Engineering Overview]]
@@ -55,5 +55,5 @@ Nhiều - Nhiều (sơ đồ lớp)
 [[SE_HW - Car Rental Application]]
 
 Chỉ chọn những Usecase chính cho Diagram
-[Usecase with Bot](https://youtu.be/TPyD9JchHKA?si=9XUDR2znkr0WJmIQ)
+
 

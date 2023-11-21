@@ -42,4 +42,4 @@ biểu thức đại số quan hệ
 + Có TH phải chọn 2 cái để làm khóa.
 + Xác định đc khóa dựa vào mô tả.
  + Có thể cùng CSDL
- + 
+ 

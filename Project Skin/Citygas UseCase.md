@@ -14,4 +14,4 @@ Billing system
 **usecase:** meter reading, billing system, 
 
 
-![[Citygas.jpg]]
+![[Pasted image 20231121120258.png]]

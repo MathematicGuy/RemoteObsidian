@@ -108,7 +108,7 @@ console.log(y); // y = 5, vì b chỉ copy giá trị của a và đc đặt tro
 function Square(width) {
     this.width = width; // this width of the Obj
     // cannot return value
-
+    
     this.getArea = 
     function(){
         return Math.pow(width, 2);
@@ -130,7 +130,6 @@ console.log(disSquare.DoubleWidth());
 ```js
 console.log(literalCircle.getArea());
 
-
 function Dog (name) {
     this.name = name;
 }
@@ -143,4 +142,5 @@ Dog.prototype.bark = function() {
 var max =  new Dog("hess", "we");
 max.bark();
 ```
+
 
