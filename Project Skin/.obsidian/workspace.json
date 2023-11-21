@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bd4bac5dd9561599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequence Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Sequence Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Sequence Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Sequence Diagrams.md"
               }
             }
           },
@@ -173,14 +187,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9b8406abeb248ee",
+  "active": "bd4bac5dd9561599",
   "lastOpenFiles": [
-    "Todo.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
-    "Citygas UseCase.md",
-    "SE_HW_Chap1.md",
-    "Images/Citygas.jpg",
     "Lecture 1 - Software Engineering Overview.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Todo.md",
+    "SE_HW_Chap1.md",
+    "Citygas UseCase.md",
+    "Images/Citygas.jpg",
     "Sequence Diagrams.md",
     "Images/Pasted image 20231120175813.png",
     "Images/Pasted image 20231120175801.png",

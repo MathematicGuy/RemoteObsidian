@@ -1,5 +1,5 @@
 **1.1 Explain why professional software is not just the programs that are developed for a customer.**
-	Software engineering goes beyond just writing code. It encompasses the entire process of systematic design, development, testing, and maintenance of software systems. It involves understanding and meeting user requirements, considering software architecture, and addressing various aspects like scalability, reliability, and usability.
+	+ Because it also involves development policy, ethical aspect beside of user requirement considering software architecture, and addressing various aspects like scalability, reliability, and usability.
 
 **1.2. What is the most important difference between generic software product development and custom software development? What might this mean in practice for users of generic software products?**
 	The most crucial difference lies in the target audience. Generic software is developed for a mass market, with a broad range of users and applications in mind. Custom software, on the other hand, is tailored to meet specific needs of an individual or organization. Users of generic software might experience a lack of features specific to their requirements, while custom software users enjoy a more personalized solution.
