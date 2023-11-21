@@ -7,3 +7,5 @@
 
 ### Arrays, Closures, and Namespaces
 + [[JS Array]]
++ [[Closures]]
++ Namespace

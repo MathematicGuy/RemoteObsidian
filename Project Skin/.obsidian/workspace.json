@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "44e20349a152f7c3",
+            "id": "9fa3fc535321bda6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Closures.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Closures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Closures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Closures.md"
+              }
             }
           },
           {
@@ -178,15 +187,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "44e20349a152f7c3",
+  "active": "9fa3fc535321bda6",
   "lastOpenFiles": [
     "Todo.md",
     "JS Fundamental.md",
+    "WebDev/WebDev_Learn/JS/JS.md",
+    "Closures.md",
     "JS Array.md",
     "Arrays, Closures, and Namespaces.md",
     "_Focus/2023/3rd Semesters/OOP/Arrays.md",
     "Objects and Functions in JS.md",
-    "WebDev/WebDev_Learn/JS/JS.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "UML with Bot.md",
     "How To Identify Actor, Use Case, etc.md",
@@ -216,7 +226,6 @@
     "HCM Ideology Group Project.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "UML Class Diagrams.md",
-    "WebDev/Web.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
