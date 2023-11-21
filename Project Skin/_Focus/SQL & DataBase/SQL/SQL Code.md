@@ -237,3 +237,8 @@ notice: **When using GROUP BY use HAVING for WHERE statement. (replace WHERE as 
 ![[Pasted image 20231003143811.png]]
 
 
+IN
+> represent = sign
+```sql
+SELECT name, population FROM world WHERE name IN ('FRANCE', 'Germany', 'Italy');
+```

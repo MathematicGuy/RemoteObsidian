@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "b675a6c1c78fd941",
+            "id": "f9ce5ff7c8f73794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataCamp.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataCamp.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataCamp.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataCamp.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -200,14 +200,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b675a6c1c78fd941",
+  "active": "f9ce5ff7c8f73794",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Relational Algebra Operations.md",
+    "DataCamp.md",
     "Images/Pasted image 20231121181313.png",
     "Images/Pasted image 20231121181139.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Three-Schema Architecture  & Data Independence.md",
     "Todo.md",
-    "DataCamp.md",
     "Images/Pasted image 20231121174642.png",
     "Images/Pasted image 20231121174620.png",
     "Images/Pasted image 20231121174550.png",
@@ -231,13 +233,11 @@
     "Images/Pasted image 20231121110903.png",
     "Images/Pasted image 20231121110731.png",
     "Actor.md",
-    "Images/Pasted image 20231121110514.png",
     "Sequence Diagrams.md",
     "SE_HW_Chap1.md",
     "Software Engineering 9th Edition by Ian Sommerville - Book.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Center a div.md",
-    "JS Types and Common Language Constructs.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
