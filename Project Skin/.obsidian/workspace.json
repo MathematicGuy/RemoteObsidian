@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e1281e5b27009ad",
+            "id": "c9b8406abeb248ee",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -173,12 +173,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e1281e5b27009ad",
+  "active": "c9b8406abeb248ee",
   "lastOpenFiles": [
+    "Todo.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Citygas UseCase.md",
     "SE_HW_Chap1.md",
-    "Todo.md",
     "Images/Citygas.jpg",
     "Lecture 1 - Software Engineering Overview.md",
     "Sequence Diagrams.md",

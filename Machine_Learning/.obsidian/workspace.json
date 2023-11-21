@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "475e7559d2247ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI RoadMap.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -173,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "475e7559d2247ff7",
+  "active": "595e98fb057d501a",
   "lastOpenFiles": [
-    "Machine Learning.md",
+    "Chapter 1 - Vectors, what even are they.md",
+    "Linear Algebra.md",
+    "Image/Pasted image 20231121091256.png",
     "AI RoadMap.md",
+    "Machine Learning.md",
     "Why Machine Learning.md",
     "Opportunities in AI.md",
     "AI.md",
@@ -201,9 +191,7 @@
     "Unsupervised Learning.md",
     "Image/Pasted image 20230702130719.png",
     "Untitled 1.md",
-    "Untitled.md",
     "Untitled",
-    "Regression.md",
     "Image/Pasted image 20231006064118.png",
     "Image/Pasted image 20231006063728.png",
     "Image/Pasted image 20231006063655.png",
@@ -212,7 +200,6 @@
     "Image/Pasted image 20231001093018.png",
     "Image/Pasted image 20230922081553.png",
     "Image/Pasted image 20230922081411.png",
-    "Image/Pasted image 20230922081404.png",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/1802.01528.pdf",
