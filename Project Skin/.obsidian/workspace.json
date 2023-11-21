@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1741be2ca0f861",
+        "id": "42b119996ab6742e",
         "type": "tabs",
         "children": [
           {
-            "id": "819d098a1deb90f1",
+            "id": "6e1281e5b27009ad",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "447aa883587b0135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE_HW_Chap1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE_HW_Chap1.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE_HW_Chap1.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE_HW_Chap1.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -187,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "447aa883587b0135",
+  "active": "6e1281e5b27009ad",
   "lastOpenFiles": [
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Citygas UseCase.md",
