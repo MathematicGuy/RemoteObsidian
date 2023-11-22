@@ -34,10 +34,12 @@ Trong các cuộc nói chuyện: Nguyễn Ái Quốc cũng đã truyền đạt 
 Học từ Người cách suy nghĩ sáng tạo và linh hoạt trong giải quyết vấn đề.
 
 ### Key points
-
+1) 
 + Sau khi đọc bản luận cương 
-+ Tích cực tham gia hđ Đảng XH Pháp -> nắm vững cn Lenin, QTế CSản, CM Vô sản, phong trào giải phsong dân tộc toàn cầu.
-- Nhận thức (mới) -> đưa bác và đồng minh bầu phiếu ủng hộ QT (cs) -> co-founder of Đảng CS Pháp
++ Tích cực tham gia hđ Đảng XH Pháp -> nắm vững cn Lenin, QTế CSản, CM Vô sản, phong trào giải phóng dân tộc toàn cầu.
+- Nhận thức (mới) -> đưa bác và đồng minh bầu phiếu ủng hộ QT (cs) -> tham gia sáng lập of Đảng CS Pháp
 	đánh dấu bước ngoặc quan trọg trog cuộc đời của Bác và sự kh mạnh mẽ giữa lòng yêu nước và lập trg cm vô sản.
 
- 
+2) 
++ HCM truyền đạt bản sơ thảo 1st Luận cương về ethics and colonism of Lenin from many places, trog đó có:
+	+ Báo Thanh Niên: 
