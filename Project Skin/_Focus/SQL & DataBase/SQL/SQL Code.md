@@ -240,11 +240,15 @@ notice: **When using GROUP BY use HAVING for WHERE statement. (replace WHERE as 
 
 IN
 > represent = sign
+> Use this when there sth = to many. 
+> E.g. continent IN ('Germany', 'France', 'Viet Nam')
 ```sql
 SELECT name, population FROM world WHERE name IN ('FRANCE', 'Germany', 'Italy');
 ```
 
-string% -> % represent 0, 1 or all the rest of the string.
+string% 
+-> % represent 0, 1 or all the rest of the string. or something
+-> %a% mean sth contain a. 
 > use this when you try to search a word start with ...
 ```sql
 SELECT name FROM world WHERE name LIKE 'United%'
@@ -275,12 +279,22 @@ SELECT name, capital
 > You an use `<>` as the **NOT EQUALS** operator.
 > Ex: (name <> capital) 
 
-` NOT LIKE '%a%' `
-> exclude characters from your results.
+
+LIKE
+> contain sth. Must goes along with % symbol '%sth', 'sth%', '%sth%'
+> E.g. '%Smith' -> sth end with Smith, 
+```sql
+SELECT winner FROM nobel
+ WHERE winner LIKE 'John%'
+```
+> Show the winners with first name John
+
+NOT LIKE 
+> exclude characters from your results. The ex above exclude a
 ```sql
 SELECT name
 FROM world
-WHERE name LIKE '%a%' 
+WHERE name LIKE '%a%' // name include a
     AND name LIKE '%e%' 
     AND name LIKE '%i%' 
     AND name LIKE '%o%' 

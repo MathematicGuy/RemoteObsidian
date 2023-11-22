@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -200,8 +199,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9ce5ff7c8f73794",
+  "active": "53693490d8146a51",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Relational Algebra Operations.md",
@@ -237,7 +237,6 @@
     "SE_HW_Chap1.md",
     "Software Engineering 9th Edition by Ian Sommerville - Book.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "Center a div.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
