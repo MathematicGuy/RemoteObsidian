@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0b0ec7dc63dcc9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/2023/Last Semester/HCM  Ideology.md"
               }
             }
           },
@@ -173,9 +186,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb40a206672084a1",
+  "active": "0b0ec7dc63dcc9ab",
   "lastOpenFiles": [
     "Todo.md",
+    "_Focus/2023/Challenges & Guides/Digital Electronic.md",
+    "_Focus/2023/Challenges & Guides/Neural Network PJ.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "_Focus/assist me.md",
+    "_Focus/Command N.md",
+    "_Focus/Principles.md",
+    "_Focus/Programming Knowledge.md",
+    "_Focus/2023/3rd Semesters/DSA/Chapter 6 - Algorithm Design and Analysis Techniques.md",
     "C Code Note.md",
     "New C.md",
     "Fundamentals of a Program.md",
@@ -199,16 +220,8 @@
     "Citygas UseCase.md",
     "JS Fundamental.md",
     "WebDev/WebDev_Learn/JS/JS.md",
-    "JS Array.md",
-    "Arrays, Closures, and Namespaces.md",
-    "_Focus/2023/3rd Semesters/OOP/Arrays.md",
-    "Objects and Functions in JS.md",
-    "UML with Bot.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "Images/Citygas.jpg",
     "Images/Pasted image 20231121120258.png",
-    "Use Case Diagrams.md",
-    "Lecture 1 - Software Engineering Overview.md",
     "Images/Pasted image 20231121110940.png",
     "Images/Pasted image 20231121110903.png",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
