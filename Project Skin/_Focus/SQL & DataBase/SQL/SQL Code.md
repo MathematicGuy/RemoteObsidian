@@ -1,4 +1,5 @@
 source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
+[SQL Exercise](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
 
 work for mySQL
 ```sql
@@ -241,4 +242,48 @@ IN
 > represent = sign
 ```sql
 SELECT name, population FROM world WHERE name IN ('FRANCE', 'Germany', 'Italy');
+```
+
+string% -> % represent 0, 1 or all the rest of the string.
+> use this when you try to search a word start with ...
+```sql
+SELECT name FROM world WHERE name LIKE 'United%'
+```
+> **select all word contain United in it.**
+
+**XOR**
+> not >> or << but always ><
+```sql
+SELECT name, population, area FROM world WHERE (area > 3000000 AND population < 250000000) OR (area < 3000000 AND population > 250000000) 
+```
+
+[ROUND(f,p)](https://sqlzoo.net/wiki/ROUND)
+>returns f rounded to p decimal places
+```sql
+SELECT name, ROUND(population/1000000, 2), ROUND(gdp/1000000000, 2) FROM world WHERE continent = 'South America'
+```
+> The number of decimal places *may be negative*, this will round to the **nearest 10 (when p is -1)** or **100 (when p is -2)** **or 1000 (when p is -3)** etc..
+
+[LENGTH](https://sqlzoo.net/wiki/LENGTH)
+```sql
+SELECT name, capital
+  FROM world
+ WHERE LENGTH(name) = LENGTH(capital)
+```
+
+**<>**
+> You an use `<>` as the **NOT EQUALS** operator.
+> Ex: (name <> capital) 
+
+` NOT LIKE '%a%' `
+> exclude characters from your results.
+```sql
+SELECT name
+FROM world
+WHERE name LIKE '%a%' 
+    AND name LIKE '%e%' 
+    AND name LIKE '%i%' 
+    AND name LIKE '%o%' 
+    AND name LIKE '%u%'
+    AND name NOT LIKE '% %';
 ```
