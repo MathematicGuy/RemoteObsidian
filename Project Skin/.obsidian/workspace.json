@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational Algebra Operations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -199,21 +200,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53693490d8146a51",
+  "active": "f9ce5ff7c8f73794",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Relational Algebra Operations.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Relational Data Base Model.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Images/Pasted image 20231122103231.png",
+    "Todo.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
     "DataCamp.md",
     "Images/Pasted image 20231121181313.png",
     "Images/Pasted image 20231121181139.png",
     "Three-Schema Architecture  & Data Independence.md",
-    "Todo.md",
     "Images/Pasted image 20231121174642.png",
     "Images/Pasted image 20231121174620.png",
     "Images/Pasted image 20231121174550.png",
-    "Relational Data Base Model.md",
     "How To Identify Actor, Use Case, etc.md",
     "Citygas UseCase.md",
     "Closures.md",
@@ -231,12 +233,10 @@
     "Lecture 1 - Software Engineering Overview.md",
     "Images/Pasted image 20231121110940.png",
     "Images/Pasted image 20231121110903.png",
-    "Images/Pasted image 20231121110731.png",
     "Actor.md",
     "Sequence Diagrams.md",
     "SE_HW_Chap1.md",
     "Software Engineering 9th Edition by Ian Sommerville - Book.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",

@@ -50,7 +50,7 @@
 - [ ] Basic API knowledge  (API for each language)
 
 #Todo/Entertainment
-- [ ] Undead Unluck chap29
+- [ ] Undead Unluck chap36
 
 **Ideas**
 How to run App without downloading them

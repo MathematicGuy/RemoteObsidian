@@ -238,15 +238,23 @@ notice: **When using GROUP BY use HAVING for WHERE statement. (replace WHERE as 
 ![[Pasted image 20231003143811.png]]
 
 
-IN
-> represent = sign
-> Use this when there sth = to many. 
-> E.g. continent IN ('Germany', 'France', 'Viet Nam')
+**IN**
+> The `IN` operator **allows you to specify multiple values** in a `WHERE` clause. 
 ```sql
 SELECT name, population FROM world WHERE name IN ('FRANCE', 'Germany', 'Italy');
 ```
 
-string% 
+The expression **subject IN ('chemistry','physics')** can be used as a value - it will be **0** or **1**. 
+**Show the 1984 winners and subject ordered by subject and winner name; but list chemistry and physics last.**
+```sql
+SELECT winner, subject, subject IN ('physics','chemistry') 
+  FROM nobel
+ WHERE yr=1984 
+ ORDER BY subject IN ('physics','chemistry') ASC
+```
+![[Pasted image 20231122103231.png]]
+
+**sth%** 
 -> % represent 0, 1 or all the rest of the string. or something
 -> %a% mean sth contain a. 
 > use this when you try to search a word start with ...
@@ -275,7 +283,7 @@ SELECT name, capital
  WHERE LENGTH(name) = LENGTH(capital)
 ```
 
-**<>**
+**<>** is just **=!**
 > You an use `<>` as the **NOT EQUALS** operator.
 > Ex: (name <> capital) 
 
@@ -301,3 +309,60 @@ WHERE name LIKE '%a%' // name include a
     AND name LIKE '%u%'
     AND name NOT LIKE '% %';
 ```
+**ORDER BY**
+Ex: List the winners, year and subject where the winner starts with *Sir*. Show the the most recent first, then by name order.
+```sql
+SELECT winner, yr, subject
+FROM nobel 
+WHERE winner LIKE 'Sir%' ORDER BY yr DESC, winner;
+```
+>  + date_column DESC sorts the records in descending order based on the date (most recent first)
+> +  name_column is used for secondary sorting in ascending  order (alphabetical order).
+
+**SELECT DISTINCT**
+> Inside a table, a column often contains **many duplicate values;** and sometimes you **only want to list the different (distinct) values.**
+```sql
+(SELECT DISTINCT yr FROM nobel WHERE subject = 'Medicine')
+```
+> Select all the distinct year of medicine subject
+
+```sql
+SELECT COUNT(yr)
+FROM nobel
+WHERE yr NOT IN (SELECT DISTINCT yr FROM nobel WHERE subject = 'Medicine');
+```
+```plaintext
++-------+
+|  yr   |
++-------+
+| 2000  |
+| 2001  |
+| 2001  |
+| 2002  |
+| 2002  |
+| 2003  |
++-------+
+```
+> Count **all the year** but **Exclude all distinct year of medicine** subject 
+
+```sql
+SELECT COUNT(DISTINCT yr)
+FROM nobel
+WHERE yr NOT IN (SELECT DISTINCT yr FROM nobel WHERE subject = 'Medicine');
+```
+> Count **all distinct year** but **Exclude all distinct year of medicine** subject 
+```plaintext
++-------+
+|  yr   |
++-------+
+| 2000  |
+| 2001  |
+| 2002  |
+| 2003  |
++-------+
+```
+
+**GROUP BY**
+> **groups rows** that have the **same values into summary rows**, like "find the number of customers in each country".
++ The `GROUP BY` statement is **often used with aggregate functions** (`COUNT()`, `MAX()`, `MIN()`, `SUM()`, `AVG()`) to group the result-set by one or more columns.
+
