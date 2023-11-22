@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afd5df6a1e749c20",
+        "id": "18de1aa42b2645fb",
         "type": "tabs",
         "children": [
           {
-            "id": "53693490d8146a51",
+            "id": "ff5d4c8c3eb246cd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "015a0166fb13b74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Algebra Operations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9ce5ff7c8f73794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -200,12 +173,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9ce5ff7c8f73794",
+  "active": "ff5d4c8c3eb246cd",
   "lastOpenFiles": [
-    "Relational Algebra Operations.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Relational Data Base Model.md",
+    "Relational Algebra Operations.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Relational Data Base Model.md",
     "Images/Pasted image 20231122103231.png",
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",

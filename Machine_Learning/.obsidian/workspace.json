@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1f9bda67bc80c514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "AI.md"
               }
             }
           },
@@ -160,13 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "595e98fb057d501a",
+  "active": "1f9bda67bc80c514",
   "lastOpenFiles": [
+    "Machine Learning.md",
+    "AI RoadMap.md",
     "Chapter 1 - Vectors, what even are they.md",
     "Linear Algebra.md",
     "Image/Pasted image 20231121091256.png",
-    "AI RoadMap.md",
-    "Machine Learning.md",
     "Why Machine Learning.md",
     "Opportunities in AI.md",
     "AI.md",

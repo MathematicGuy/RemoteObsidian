@@ -56,5 +56,5 @@
 How to run App without downloading them
 
 #Todo/AI
+- [ ] [AI for everyone](https://www.coursera.org/learn/ai-for-everyone?trk_ref=articleProductCard)
 - [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
-

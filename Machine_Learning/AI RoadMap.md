@@ -1,3 +1,5 @@
+
+
 ![[Pasted image 20231005203403.png]]
 
 To become an AI engineer, you need to learn a variety of skills, including:
