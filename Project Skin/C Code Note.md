@@ -323,6 +323,91 @@ int main(){
 }
 ```
 
+```c
+#include <stdio.h>
+
+int main(){
+    // int numbers[2][3] = {
+    //     {1,2},
+    //     {3,4},
+    //     {5,6},
+    // };
+    
+    int numbers[2][3];
+    int a = sizeof(numbers[0][0]);
+    // printf(a);
+    
+    //? rows: size of the whole array / size of 1 row
+    int rows = sizeof(numbers) / sizeof(numbers[0]);
+    //? cols: size of 1 row / size of 1 element
+    int cols = sizeof(numbers[0]) / sizeof(numbers[0][0]);
+    
+    printf("rows: %d\n", rows);
+    printf("cols: %d\n", cols);
+    
+    int num = 0;
+    for (int i=0; i<rows; i++){
+        for (int j=0; j<cols; j++){
+            num++;
+            numbers[i][j] = num;
+            printf("%d\n", numbers[i][j]);
+        }
+        printf("\n");
+    }
+    
+    return 0;
+}
+```
+> rows: 2
+cols: 3
+1
+2
+3
+-
+4
+5
+6
+
+
+Array of String
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main(){
+    char cars[][10] = {"FLower", "Hue", "Plane"};
+    // must use "strcpy" to add item to string array 
+    strcpy(cars[0], "Tesla");
+    
+    for (int i = 0; i < sizeof(cars)/sizeof(cars[0]); i++){
+        printf("%s\n", cars[i]);
+    }
+    return 0;
+}
+```
+
+Swap Array
+```c
+int main(){
+    char x[] = "Lime";
+    char y[] = "Dome";
+    char temp[15];
+
+    //! swap 2 values
+    //? copy of x to temp
+    strcpy(temp, x);
+    //? copy of y to x
+    strcpy(x, y);
+    strcpy(y, temp);
+
+    printf("x = %s\n", x);
+    printf("y = %s\n", y);
+
+    return 0;
+}
+```
+
+
 **Memory Address**
 ```c
 
