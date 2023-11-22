@@ -34,8 +34,8 @@
 
 
 #Todo/Personal
+What
 - [ ] Class Diagram UML  (for Group Project)
-- [ ] C 
 - [ ] SQL and applie it to DB HW (speed learning available)
 - [ ] Organize DB knowledge 
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)

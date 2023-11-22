@@ -81,7 +81,8 @@ int main() {
 ```
 
 
-**Array**
+## **Array**
+
 ```c
 int number[] = {1,2,3,4,5,6,7,8};
 number[2] = 200;
@@ -89,6 +90,44 @@ printf("You enter number: %d\n", number[2]);
 
 return 0;
 ```
+
+**Loop through Array manually**
+```c
+for (int i = 0; i <  sizeof(prices)/sizeof(prices[0]); i++){
+    printf("\n$%.2lf", prices[i]);
+}
+```
+**Loop through Array using function**
+```c
+#include <stdio.h>
+
+//? "int size" is explicitly passed to the function,
+//? representing the size of the array 
+int arrayLength(double array[], int size){
+    //? return size of the pointer not size of the array
+    //! int length = size/sizeof(array[0]);
+    
+    int length = size/sizeof(array[0]);
+    return length; 
+}
+
+int main(){
+    double prices[] = {5.0, 10.0, 15.0, 25.0, 20.0};
+    
+    printf("Size of %d bytes", sizeof(prices));
+    printf("\nSize of 1 bytes %d", sizeof(prices[0]));
+    
+    
+    int length = arrayLength(prices, sizeof(prices));
+    
+    printf("\nList of prices:");
+    for (int i = 0; i < length; i++){
+        printf("\n$%.2lf", prices[i]);
+    }
+    return 0;
+}
+```
+
 
 
 **Function**
@@ -257,7 +296,9 @@ int main(){
 ```
 
 
-2D Arrays - Just like Matrix 
+2D Arrays 
+> an array,
+> + where each element is **an entire array, useful for matrix, grid or table of data**  
 ```c
 #include <stdio.h>
 #include <stdlib.h>
