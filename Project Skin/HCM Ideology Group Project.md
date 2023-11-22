@@ -21,13 +21,13 @@ Cũng trong năm 1917, cuộc cách mạng tháng Mười Nga bùng nổ. Một 
 
 
 Hồ Chí Minh truyền đạt tới nhân dân Việt nam bản Sơ thảo lần thứ nhất Luận cương về dân tộc và thuộc địa của Lênin ở nhiều nơi, trong đó có: 
-Trên báo Thanh Niên: Sau khi đọc bản luận cương, Nguyễn Ái Quốc đã viết bài :”Nâng cao chí khí Cách mạng” đăng trên báo Thanh Niên, số 28, ra ngày 1 tháng 5 năm 1925. Trong bài báo, Người đã giải thích những nội dung cơ bản của Luận cương, đồng thời khẳng định: “Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta”.
+Trên báo Thanh Niên: Sau khi đọc bản luận cương, Nguyễn Ái Quốc đã viết bài : ” Nâng cao chí khí Cách mạng ” đăng trên báo Thanh Niên, số 28, ra ngày 1 tháng 5 năm 1925. Trong bài báo, Người đã giải thích những nội dung cơ bản của Luận cương, đồng thời khẳng định: “ Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta ”.
 
 
 Trên báo Người cùng khổ: Sau khi về nước, Nguyễn Ái Quốc tiếp tục truyền bá bản luận cương trên báo: Người Cùng Khổ - một tờ báo của Đảng Cộng Sản Đông Dương, Người đã viết nhiều bài báo giải thích về bản Luận cương, đồng thời kêu gọi nhân dân Việt Nam đoàn kết, đấu tranh giành độc lập, tự do cho dân tộc.
 
 
-Trong các cuộc nói chuyện: Nguyễn Ái Quốc cũng đã truyền đạt bản luận cương trong các cuộc nói chuyện với đồng chí, đồng bào. Người đã giảng giải những nội dung cơ bản của bản Luận cương, đồng thời khẳng định:” Cách mạng Việt Nam là một bộ phận của Cách mạng thế giới, dưới sự lãnh đạo của giai cấp vô sản và nhân dân lao động.”
+Trong các cuộc nói chuyện: Nguyễn Ái Quốc cũng đã truyền đạt bản luận cương trong các cuộc nói chuyện với đồng chí, đồng bào. Người đã giảng giải những nội dung cơ bản của bản Luận cương, đồng thời khẳng định: ” Cách mạng Việt Nam là một bộ phận của Cách mạng thế giới, dưới sự lãnh đạo của giai cấp vô sản và nhân dân lao động. ” 
 
 ----------------------------------------------------------------------------------------------------------------------------
 **Liên Hệ bản thân**
@@ -42,4 +42,16 @@ Học từ Người cách suy nghĩ sáng tạo và linh hoạt trong giải quy
 
 2) 
 + HCM truyền đạt bản sơ thảo 1st Luận cương về ethics and colonism of Lenin from many places, trog đó có:
-	+ Báo Thanh Niên: 
+	+ Báo Thanh Niên: after đọc bản luận, NAQ viết bài "Nâng cao chí khí cách mạng" đăng trên báo Thanh Niên.   
+	+ Trog bài báo, ng explain: " Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta"
+
+3) Trên báo ng cùng Khổ
+	+ Sau khi về nước, NAQ continue truyền bá luận cương trên news paper - Người Cùng Khổ.
+	+ Continue viết nhiều bài báo explain bản luận cương, while kêu gọi nhdan VN đoàn kết, đấu tranh, giành độc lập, tự do dân tộc.
+
+4) Trong cuộc nói chuyện
+	+ truyền đạt bản lc vs đồng trí, đồng bào
+	+ giảng giải nd cơ bản của bản Luận cương, khẳng định: "CM VN là 1 bộ phận của CM thế giới, dưới sự lãnh đạo của giai cấp vô sản và nd lao động"
+
+Liên hệ bản thân
+	Qua tìm hiểu, nghiên cứu về tư tưởng của HCM, e nhìn nhận ra được giá trị của việc kiên cường tin vào những điều đúng đắn.
