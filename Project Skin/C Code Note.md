@@ -40,6 +40,7 @@ int main() {
 }
 ```
 
+
 **Itoa**
 > `itoa()` is a function in C that converts an integer value to a string of character using (DECIMAL or HEX form)
 ```c
@@ -62,6 +63,7 @@ int main() {
 }
 ```
 
+
 **sprintf**
 > `sprintf` is a function in the C programming language that formats and stores a series of characters and values in a string
 > int sprintf(char * str, const char * format, any_string);
@@ -78,7 +80,8 @@ int main() {
 }
 ```
 
-Array
+
+**Array**
 ```c
 int number[] = {1,2,3,4,5,6,7,8};
 number[2] = 200;
@@ -87,7 +90,8 @@ printf("You enter number: %d\n", number[2]);
 return 0;
 ```
 
-Function
+
+**Function**
 ```c
 int main(){
     printf("Top\n");
@@ -103,7 +107,9 @@ void cal(){
 	printf("You enter number: %d\n", number[2]);
 }
 ```
-+ Function input
+
+
+**Function Input**
 ```c
 int num;
 
@@ -139,7 +145,7 @@ double cube(double num){
 } 
 ```
 
-If Statement
+**If Statement**
 ```c
 #include <stdio.h>
 int max(int a, int b, int c){
@@ -276,7 +282,7 @@ int main(){
 }
 ```
 
-Memory Address
+**Memory Address**
 ```c
 
 //! Memory Address

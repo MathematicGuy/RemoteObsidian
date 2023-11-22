@@ -50,3 +50,8 @@ C can write all sort of application
 ### Creating a C Program (note later)
 ![[Pasted image 20231115131438.png]]
 note: Compiling a C program is a separate step from Linking a C program
+
+
+## [[New C]]
+
+## [[C Code Note]]
