@@ -79,7 +79,7 @@ SELECT * FROM employees;
 
 DELETE WHOLE TABLE
 ```sql
-		TRUNCATE TABLE table_name
+TRUNCATE TABLE table_name
 ```
 
 
