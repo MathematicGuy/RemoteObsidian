@@ -15,6 +15,6 @@
 + Gain experience by working on projects, reverse engineering code, and building a portfolio.
 + Choose a specialization in AI and share knowledge through blogging, writing articles, or creating videos.
 
-# [[Opportunities in AI]]
+# [[AI For Everyone]]
 
 

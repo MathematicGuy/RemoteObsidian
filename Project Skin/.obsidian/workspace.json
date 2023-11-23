@@ -26,8 +26,13 @@
             "id": "c82eac4ffd7394c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Club & Event/Programming Club/_Programming Club.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Club & Event/Programming Club/_Programming Club.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Club & Event/Programming Club/_Programming Club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Club & Event/Programming Club/_Programming Club.md"
+              }
             }
           },
           {

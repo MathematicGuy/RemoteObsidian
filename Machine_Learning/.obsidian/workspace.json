@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative AI (AI Sáng Tạo).md",
+                "file": "AI For Everyone.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative AI (AI Sáng Tạo).md",
+                "file": "AI For Everyone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generative AI (AI Sáng Tạo).md",
+                "file": "AI For Everyone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generative AI (AI Sáng Tạo).md"
+                "file": "AI For Everyone.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "1f9bda67bc80c514",
   "lastOpenFiles": [
+    "Image/Pasted image 20231123090322.png",
     "AI.md",
     "Generative AI (AI Sáng Tạo).md",
     "Machine Learning.md",
@@ -183,7 +184,7 @@
     "Linear Algebra.md",
     "Image/Pasted image 20231121091256.png",
     "Why Machine Learning.md",
-    "Opportunities in AI.md",
+    "AI For Everyone.md",
     "Machine Learning Problems.md",
     "Cloud Services.md",
     "Classification.md",
@@ -202,7 +203,6 @@
     "Annotation lab.md",
     "Books.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
-    "Unsupervised Learning.md",
     "Image/Pasted image 20230702130719.png",
     "Untitled",
     "Image/Pasted image 20231006064118.png",
