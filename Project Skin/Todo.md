@@ -13,8 +13,9 @@
 	- [ ] Calc Total Price (Easy)
 
 
-#Todo/Code/ProjectWebGroup5/GroupPlanning
-- [ ] hurray, no due
+#Todo/Code/GroupProjectPlanning
+- [ ] Tổng hợp kiến thức và luyện nói phần CNXH 
+- [ ] Tổng hợp kiến thức và luyện nói phần tư tưởng HCM cho thứ Bảy
 
 #Todo/Prioritise
 - [ ] Learn CSS position and how to use value
