@@ -27,3 +27,8 @@ Tại phải phải đập tan gia cấp tư sản
 
 
 Việc bỏ qua XHCN
+
+
+Nhóm 6:
+**Phân tích ND của Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH ở VN? Đề xuất phương hướng tăng hướng khối liên minh gia cấp, tầng lớp ở VN hiện nay?**
+

@@ -1,6 +1,41 @@
 source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
 [SQL Exercise](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
 
+Create Data Base
+```sql
+-- 1) Create DB
+create DATABASE myShop;
+-- 2) Select DB
+use myShop;
+-- 3) Select a Table Name
+select DB_NAME()
+-- 4) Create the table in the specified schema
+CREATE TABLE users
+(
+    id INT NOT NULL PRIMARY KEY, -- primary key column
+    full_name varchar(50) NOT NULL,
+    email varchar(50) NOT NULL
+    -- specify more columns here
+);
+GO
+-- 4) Insert
+INSERT INTO users
+(id, username, email)
+VALUES
+(   
+    1, 'Elong Mask', 'maskElon12@gmail.com' 
+),
+(   
+    2, 'Bill Stone', 'billmak122@gmail.com' 
+),
+(   
+    3, 'Alternative Man', 'alterman@gmail.com' 
+)
+GO
+-- 5)  
+```
+
+
 work for mySQL
 ```sql
 CREATE TABLE employees (
