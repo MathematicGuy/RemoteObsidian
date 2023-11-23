@@ -27,14 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI For Everyone.md",
+                "file": "What Is AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI For Everyone.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI For Everyone.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI For Everyone.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -173,18 +172,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f9bda67bc80c514",
+  "active": "595e98fb057d501a",
   "lastOpenFiles": [
-    "Image/Pasted image 20231123090322.png",
-    "AI.md",
-    "Generative AI (AI Sáng Tạo).md",
+    "AI For Everyone.md",
+    "What Is AI.md",
+    "Image/Pasted image 20231123101510.png",
     "Machine Learning.md",
+    "Image/Pasted image 20231123093222.png",
+    "Image/Pasted image 20231123093029.png",
+    "AI.md",
+    "Image/Pasted image 20231123090322.png",
+    "Generative AI (AI Sáng Tạo).md",
     "AI RoadMap.md",
     "Chapter 1 - Vectors, what even are they.md",
     "Linear Algebra.md",
     "Image/Pasted image 20231121091256.png",
     "Why Machine Learning.md",
-    "AI For Everyone.md",
     "Machine Learning Problems.md",
     "Cloud Services.md",
     "Classification.md",
@@ -201,7 +204,6 @@
     "Concept and Process.md",
     "Code.md",
     "Annotation lab.md",
-    "Books.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Image/Pasted image 20230702130719.png",
     "Untitled",
@@ -209,10 +211,6 @@
     "Image/Pasted image 20231006063728.png",
     "Image/Pasted image 20231006063655.png",
     "Image/Pasted image 20231006063107.png",
-    "Image/Pasted image 20231005203403.png",
-    "Image/Pasted image 20231001093018.png",
-    "Image/Pasted image 20230922081553.png",
-    "Image/Pasted image 20230922081411.png",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/1802.01528.pdf",

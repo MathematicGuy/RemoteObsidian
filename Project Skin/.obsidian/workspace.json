@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de2d6abbee1d145d",
+        "id": "45abea87652d85b9",
         "type": "tabs",
         "children": [
           {
-            "id": "8e5fe87057eebc04",
+            "id": "12e74f2adf4d41f2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c82eac4ffd7394c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Club & Event/Programming Club/_Programming Club.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Club & Event/Programming Club/_Programming Club.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Club & Event/Programming Club/_Programming Club.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Club & Event/Programming Club/_Programming Club.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -186,8 +172,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c82eac4ffd7394c1",
+  "active": "12e74f2adf4d41f2",
   "lastOpenFiles": [
+    "Club & Event/Programming Club/_Programming Club.md",
+    "_Focus/2023/Last Semester/CNXH-KH.md",
     "Todo.md",
     "HCM Ideology Group Project.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
@@ -218,8 +206,6 @@
     "Images/Pasted image 20231121174642.png",
     "Images/Pasted image 20231121174620.png",
     "Images/Pasted image 20231121174550.png",
-    "How To Identify Actor, Use Case, etc.md",
-    "Citygas UseCase.md",
     "Images/Citygas.jpg",
     "Images/Pasted image 20231121120258.png",
     "Images/Pasted image 20231121110940.png",
