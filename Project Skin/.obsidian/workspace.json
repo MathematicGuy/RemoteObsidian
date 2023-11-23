@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18de1aa42b2645fb",
+        "id": "de2d6abbee1d145d",
         "type": "tabs",
         "children": [
           {
-            "id": "cb40a206672084a1",
+            "id": "8e5fe87057eebc04",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "39165692862cbfd0",
+            "id": "c82eac4ffd7394c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HCM Ideology Group Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCM Ideology Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCM Ideology Group Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HCM Ideology Group Project.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,48 +177,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "0ac22c771066e69c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3edf42d3d6799393",
-        "type": "window",
-        "children": [
-          {
-            "id": "3c8c9efd1281d389",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b0ec7dc63dcc9ab",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HCM Ideology Group Project.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1029,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "39165692862cbfd0",
+  "active": "c82eac4ffd7394c1",
   "lastOpenFiles": [
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Todo.md",
+    "HCM Ideology Group Project.md",
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "_Focus/2023/Challenges & Guides/Digital Electronic.md",
     "_Focus/2023/Challenges & Guides/Neural Network PJ.md",
     "_Focus/2023/Challenges & Guides/Github.md",
@@ -257,7 +211,6 @@
     "Images/Pasted image 20231121174550.png",
     "How To Identify Actor, Use Case, etc.md",
     "Citygas UseCase.md",
-    "JS Fundamental.md",
     "Images/Citygas.jpg",
     "Images/Pasted image 20231121120258.png",
     "Images/Pasted image 20231121110940.png",

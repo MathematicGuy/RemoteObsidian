@@ -37,25 +37,25 @@ Học từ Người cách suy nghĩ sáng tạo và linh hoạt trong giải quy
 + Xã, đã, dẫn, vững, những, mẽ, giữa
 + Nguyễn, lãnh.
 
-1) 
+1) HCM và đồng minh đảng XHP bỏ phiếu ủng hộ QT CS sau khi bác đọc bản sơ thảo luận cương của 
 + Sau khi đọc bản luận cương 
 + Tích cực tham gia hđ Đảng XH Pháp -> nắm vững cn Lenin, QTế CSản, CM Vô sản, phong trào giải phóng dân tộc toàn cầu.
 - Nhận thức (mới) -> đưa bác và đồng minh bầu phiếu ủng hộ QT (cs) -> tham gia sáng lập of Đảng CS Pháp
 	đánh dấu bước ngoặc quan trọg trog cuộc đời của Bác và sự kh mạnh mẽ giữa lòng yêu nước và lập trg cm vô sản.
 
 
-2) 
+2) HCM truyền đạt bản sơ thảo lần thứ nhất vấn đề về dân tộc và thuộc địa của Lenin ở nhiều nơi, viết bài "Nâng cao chí khí cách mạng" trên báo Thanh Niên và giải thích, khẳng định nd cơ bản của luận cương
 + HCM truyền đạt bản sơ thảo 1st Luận cương về ethics and colonism of Lenin from many places, trog đó có:
 	+ Báo Thanh Niên: after đọc bản luận, NAQ viết bài "Nâng cao chí khí cách mạng" đăng trên báo Thanh Niên.   
 	+ Trog bài báo, ng explain: " Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta"
 
 
-3) Trên báo ng cùng Khổ
+3) HCM tiếp tục truyề bá tư tưởng trên báo ng cùng Khổ và nhiều bài báo khác giải thích bản luận cương, đồng thời kêu gọi nhân dân VN đoàn kết, đấu tranh giành độc lập tự do. 
 	+ Sau khi về nước, NAQ continue truyền bá luận cương trên news paper - Người Cùng Khổ.
 	+ Continue viết nhiều bài báo explain bản luận cương, while kêu gọi nhdan VN đoàn kết, đấu tranh, giành độc lập, tự do dân tộc.
 
 
-4) Trong cuộc nói chuyện
+4) HCM truyền đạt, giảng giải, khẳng định bản luận cương cho đồng chí, đồng bào
 	+ truyền đạt bản lc vs đồng trí, đồng bào
 	+ giảng giải nd cơ bản của bản Luận cương, khẳng định: "CM VN là 1 bộ phận của CM thế giới, dưới sự lãnh đạo của giai cấp vô sản và nd lao động"
 
