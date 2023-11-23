@@ -14,8 +14,8 @@
 
 #### Database Homework
 [[Summary DB_HW2]]
-[[DB_HW2]]
-
+[[DB_HW4-1]]
+[[DB_HW4-2]]
 
 Super key - 1 or 1 tuple (tập ) có nhiều thuộc tính. Xác định duy nhất mỗi bộ trong quan hệ.
 Khóa dự tuyển - siêu khóa nhỏ nhất.
