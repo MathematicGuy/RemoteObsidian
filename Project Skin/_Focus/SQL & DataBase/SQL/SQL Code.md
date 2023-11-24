@@ -72,19 +72,35 @@ RENAME TABLE employees TO workers;
 DROP TABLE employees;
 ```
 
-MODIFIED TABLE
+ALTER TABLE (Modify Table) 
+> All ALTER Command below must goes with ALTER TABLE command
 ```sql
-ALTER TABLE employees
+ALTER TABLE DEPT_LOCATIONS
+```
+
+ALTER TABLE - Change Field Name
+```sql
 ADD phone_number VARCHAR(20);
 RENAME COLUMN phone_number TO email;
 ```
 ![[Pasted image 20230814114906.png]]
-
 ```sql
 ALTER TABLE employees
 MODIFY COLUMN email VARCHAR(100);
 ```
 ![[Pasted image 20230814114948.png]]
+
+ALTER TABLE - Set Primary Key 
+```sql
+-- Assume you have a table called DEPT_LOCATIONS
+-- with columns Dnumber and Dlocation
+ADD CONSTRAINT PK_DEPT_LOCATIONS PRIMARY KEY (Dnumber, Dlocation);
+```
+ALTER  TABLE  - Change Field Data Type
+```sql
+
+ALTER COLUMN Dlocation VARCHAR(255) NOT NULL;
+```
 
 
 MOVING COLUMN AROUND
@@ -183,8 +199,28 @@ SORT TABLE
 KEY
 PRIMARY KEY -> make sure only of that data exist. Unique
 ![[Pasted image 20231003135844.png]]
-FOREIGN KEY -> Join, Link 2 Table prevent any action destroy 2 tables 
+FOREIGN KEY -> Link 2 Table prevent any action destroy the link between them. 
+> note: foreign key itself cannot have its own foreign key. 
+> + A foreign key must connect to a primmary key
+> + If cannot connect foreign key, re-check if you are connec to a primary key (caution for duplicate value, it not a primary key)
 ![[Pasted image 20231003135913.png]]
+```sql
+CREATE TABLE transaction (
+	transaction_id INT PRIMARY KEY AUTO_INCREMENT,
+	amount DECIMAL(5,2),
+	customer_id INT,
+	-- add and connect foreign key to the primary key
+	FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
+)
+```
+or you can add foreign key later with this
+```sql
+ALTER TABLE transactions
+ADD CONSTRAINT fk_customer_id
+FOREIGN KEY(customer_id)
+```
+
+
 
 ORDER BY (kind of like SORT) - can sort Date
 ```sql

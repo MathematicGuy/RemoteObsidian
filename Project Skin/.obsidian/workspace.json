@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45abea87652d85b9",
+        "id": "3945c77cbd970bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "12e74f2adf4d41f2",
+            "id": "a04cea1c6e423cdd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9d91e3f55e45ca74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e8dfd5a1c4e1a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company DB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Company DB.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Company DB.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Company DB.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -199,14 +172,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9e8dfd5a1c4e1a0f",
+  "active": "a04cea1c6e423cdd",
   "lastOpenFiles": [
-    "Todo.md",
-    "Company DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB_HW4-2.md",
-    "Relational Data Base Model.md",
     "DB_HW4-1.md",
+    "Summary DB_HW2.md",
+    "Company DB.md",
+    "Todo.md",
+    "Relational Data Base Model.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231123233148.png",
     "Images/Pasted image 20231123233130.png",
@@ -235,7 +209,6 @@
     "Fundamentals of a Program.md",
     "Closures.md",
     "CSS Kernel.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "Images/Pasted image 20231122103231.png",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",

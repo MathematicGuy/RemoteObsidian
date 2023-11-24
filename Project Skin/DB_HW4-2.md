@@ -447,32 +447,90 @@ SELECT * FROM takes;
 **4.3 Viết câu lệnh SQL biểu diễn các câu truy vấn ở bài 3.3 (Bài tập chương 3)**
 [[Company DB]]
 
-a. Đưa ra tên và địa chỉ của tất cả các nhân viên của phòng 1
+**a. Đưa ra tên và địa chỉ của tất cả các nhân viên của phòng 1**
 ```sql
-
+select Fname, Lname from EMPLOYEE where Dno = 1
 ```
 
-b. Cho biết tên và mã nhân viên của những nhân viên làm việc ở phòng
-Research.
 
-c. Cho biết tên dữ án, mã dự án của những dự án do phòng Administration
-quản lý
+**b. Cho biết tên và mã nhân viên của những nhân viên làm việc ở phòng
+Research.**
+```sql
+select Fname, Lname, Ssn from EMPLOYEE 
+where Dno = 
+(select Dnumber from DEPARTMENT where Dname = 'Research')
+```
 
-d. Đưa ra tên của tất cả nhân viên của phòng 5 làm việc hơn 10 giờ trong dự án
-ProductX.
 
-e. Liệt kê tên của tất cả nhân viên có người phụ thuộc có cùng tên với họ.
+**c. Cho biết tên dự án, mã dự án của những dự án do phòng Administration quản lý.**
+```sql
+select Pname, Pnumber from PROJECT
+where Dnum = (select Dnumber from DEPARTMENT where Dname = 'Administration');
+```
 
-f. Tìm tên của tất cả nhân viên được 'Franklin Wong' trực tiếp giám sát.
 
-g. Đối với mỗi dự án, hãy liệt kê tên dự án và tổng số giờ (của tất cả nhân viên)
-dành cho dự án đó.
+**d. Đưa ra tên của tất cả nhân viên của phòng 5 làm việc hơn 10 giờ trong dự án ProductX.**
+```sql
+select Fname, Lname from EMPLOYEE 
+where Dno = 5 
+and Ssn in 
+	(select Essn from WORKS_ON where Hours > 10)
+```
+> note: In nghĩa là thuộc. Dùng khi so sánh vs nhiều giá trị. = để so sánh 1 vs 1 giá 
 
-h. Truy xuất tên của tất cả nhân viên làm việc trong mọi dự án.
 
-i. Đưa ra tên của tất cả nhân viên không làm việc trong bất kỳ dự án nào.
+**e. Liệt kê tên của tất cả nhân viên có người phụ thuộc có cùng tên với họ. **
+```sql
+select Dependent_name from DEPENDENT 
+where Essn IN (select Ssn from EMPLOYEE) 
+```
 
-j. Đối với mỗi phòng, đưa ra tên phòng và mức lương trung bình của tất cả
-nhân viên làm việc trong phòng đó.
 
-k. Cho biết mức lương trung bình của tất cả nhân viên nữ
+**f. Tìm tên của tất cả nhân viên được 'Franklin Wong' trực tiếp giám sát.**
+```sql
+select Fname, Lname from EMPLOYEE 
+where Super_ssn = (select Ssn from EMPLOYEE where Fname = 'Franklin' and Lname = 'Wong')
+```
+
+
+**g. Đối với mỗi dự án, hãy liệt kê tên dự án và tổng số giờ (của tất cả nhân viên) dành cho dự án đó.**
+```sql
+select Pno, SUM(Hours) as total_hours
+from WORKS_ON 
+where Pno IN (select Pnumber from PROJECT) group by Pno
+```
+
+
+**h. Truy xuất tên của tất cả nhân viên làm việc trong mọi dự án.**
+```sql
+--! count total project a employee work on
+select Essn, COUNT(Pno) as total_project 
+from WORKS_ON GROUP BY Essn
+--! If total project = 6 -> select
+having COUNT(Pno) = 6
+```
+
+
+**i. Đưa ra tên của tất cả nhân viên không làm việc trong bất kỳ dự án nào.**
+```sql
+--! count total project a employee work on
+select Essn, COUNT(Pno) as total_project 
+from WORKS_ON GROUP BY Essn
+--! If total project = 6 -> select
+having COUNT(Pno) = 0
+```
+
+
+**j. Đối với mỗi phòng, đưa ra tên phòng và mức lương trung bình của tất cả nhân viên làm việc trong phòng đó.**
+```sql
+select t2.Dname, AVG(t1.Salary) 
+from EMPLOYEE as t1
+JOIN DEPARTMENT as t2 ON t1.Super_ssn = t2.Mgr_ssn GROUP BY t2.Dname;
+```
+
+
+**k. Cho biết mức lương trung bình của tất cả nhân viên nữ.**
+```sql
+select AVG(Salary) as avg_f_salary from EMPLOYEE WHERE Sex = 'F' GROUP BY Ssn
+```
+

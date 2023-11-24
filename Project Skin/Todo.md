@@ -18,6 +18,8 @@
 - [ ] Tổng hợp kiến thức và luyện nói phần tư tưởng HCM cho thứ Bảy
 
 #Todo/Prioritise
+- [ ]  Add Foreign Key
+- [ ]  3.3 HW with SQL
 - [ ] Learn CSS position and how to use value
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
 
@@ -37,7 +39,6 @@
 #Todo/Personal
 What
 - [ ] Class Diagram UML  (for Group Project)
-- [ ] SQL and applie it to DB HW (speed learning available)
 - [ ] Organize DB knowledge 
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 
