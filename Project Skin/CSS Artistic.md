@@ -1,5 +1,5 @@
 [CSS Button Design](https://stacksorted.com/buttons)
-
+[Pro Design tip Ctr C + P](https://youtube.com/shorts/ecl-eCbYFPM?si=LxhJk_4DdSs_9864)
 [CSS Animation](https://www.youtube.com/watch?v=SgmNxE9lWcY)
 	[Arrow Animation ](https://youtu.be/UTHgr6NLeEw?si=wEEHs0pSssOHk-R1&t=192)
 	![[Pasted image 20231024113201.png]]

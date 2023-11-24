@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Life/Skills.md",
+                "file": "My Life/Procrastinate (ADHD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10aafa6caea7d377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productivity & Improvement/Scott Young on the Best Way to Learn Anything.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Life/Skills.md",
+                "file": "Productivity & Improvement/Scott Young on the Best Way to Learn Anything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Life/Skills.md",
+                "file": "Productivity & Improvement/Scott Young on the Best Way to Learn Anything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Life/Skills.md"
+                "file": "Productivity & Improvement/Scott Young on the Best Way to Learn Anything.md"
               }
             }
           },
@@ -189,10 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1746f263a9f39ace",
+  "active": "10aafa6caea7d377",
   "lastOpenFiles": [
-    "Productivity & Improvement/Mindset.md",
+    "My Life/Procrastinate (ADHD).md",
     "My Life/Skills.md",
+    "Productivity & Improvement/Studying Less.md",
+    "Productivity & Improvement/Mindset.md",
     "Learning How To Learn.md",
     "My Life/Sleep.md",
     "My Life/Styles.md",
@@ -211,13 +225,11 @@
     "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
     "Productivity & Improvement/the IVY LEAGUE SECRET to STUDYING EFFECTIVELY.md",
     "Productivity & Improvement/Techno Project.md",
-    "Productivity & Improvement/Studying Less.md",
     "Productivity & Improvement/Study Strategies.md",
     "Social/Social.md",
     "Productivity & Improvement/Mindset of Successful Programmers.md",
     "Social/Extreme competition and dark side of success in China.md",
     "Social",
-    "My Life/Procrastinate (ADHD).md",
     "My Life/Report.md",
     "How To",
     "Happiness",

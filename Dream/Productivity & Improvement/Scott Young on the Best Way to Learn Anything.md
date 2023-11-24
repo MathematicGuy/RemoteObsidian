@@ -105,6 +105,7 @@ Re-phrase
 >You do Get Happy when you can do More.
 ![[Pasted image 20230825131805.png]]
 
+
 Quote:
 	" It wasn't so much that he felt great about learning public speaking but doing the Project made him rethink how we will approach any project in his life "
 -> The point is: **" The Best moment in Life is not comming from when you get a reward but because you see the possibility for your future life Expanding.**
@@ -115,4 +116,3 @@ Quote:
 Why did I ever think that I have to go to school something well and if I could learn this what other thing I could learn.
 	that I though were too hard or frustrating or difficult.
 ![[Pasted image 20230825132829.png]]
-

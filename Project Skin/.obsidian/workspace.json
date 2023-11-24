@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6d9820d1eb4887d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Artistic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "CSS Artistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "CSS Artistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML Class Diagrams.md"
+                "file": "CSS Artistic.md"
               }
             }
           },
@@ -186,10 +199,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "59f671dccbc62bc9",
+  "active": "c6d9820d1eb4887d",
   "lastOpenFiles": [
-    "UML with Bot.md",
     "UML Class Diagrams.md",
+    "UML with Bot.md",
     "DB_HW4-2.md",
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
