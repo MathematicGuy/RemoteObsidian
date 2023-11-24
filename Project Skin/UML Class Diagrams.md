@@ -94,7 +94,6 @@ Ex: Vtuber Sim couldn't exist without Vtuber
 		 1 course 0 to many projects (or 1 course can have zero or many projects )
 	+ (Course tbl) 1 - 0...* (Student tbl)
 		1 course can have one to many Student attended
-
 + House Muplicity Example
 	![[Pasted image 20231118151124.png]]
 **Composition** 
@@ -105,14 +104,17 @@ Ex: Vtuber Sim couldn't exist without Vtuber
 **Association**
 + Mortgage -> Associate with a house. But not a part of a House. A house can have a mortgage or not. (liên quan)
 
+
 #### **Realization** (solid arrow)
 + Relationship between an Interface and Obj
 ![[Pasted image 20231108095808.png]]
+
 
 #### **Dependency** (phụ thuộc)
 + An object of one class might use an object of another class in the code of a method. And the Obj changed may also inflict changes to the Class 
 > Ex: Student info change -> RegistrationManager also change it info relate to the student
 ![[Pasted image 20231108100931.png]]
+
 
 #### Diagram Sign 
 **Constraint**
