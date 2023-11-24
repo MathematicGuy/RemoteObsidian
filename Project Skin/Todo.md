@@ -18,10 +18,9 @@
 - [ ] Tổng hợp kiến thức và luyện nói phần tư tưởng HCM cho thứ Bảy
 
 #Todo/Prioritise
-- [ ]  Add Foreign Key
-- [ ]  3.3 HW with SQL
 - [ ] Learn CSS position and how to use value
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
+- [ ] Let chatGPT check my Week 4 DataBase HW
 
 #Todo/Later
 - [ ] Tóm tắt Kịch bản Nhóm 

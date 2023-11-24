@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "59f671dccbc62bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML Class Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "UML Class Diagrams.md"
               }
             }
           },
@@ -172,14 +186,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a04cea1c6e423cdd",
+  "active": "59f671dccbc62bc9",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "UML with Bot.md",
+    "UML Class Diagrams.md",
     "DB_HW4-2.md",
+    "Todo.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB_HW4-1.md",
     "Summary DB_HW2.md",
     "Company DB.md",
-    "Todo.md",
     "Relational Data Base Model.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231123233148.png",
@@ -207,8 +223,6 @@
     "C Code Note.md",
     "New C.md",
     "Fundamentals of a Program.md",
-    "Closures.md",
-    "CSS Kernel.md",
     "Images/Pasted image 20231122103231.png",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",

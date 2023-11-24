@@ -354,22 +354,28 @@ select name from instructor ORDER BY salary DESC
 ```
 ![[Pasted image 20231123233100.png]]
 
+
 **e) Tìm số lượng sinh viên đăng ký của mỗi lớp học phần vào học kỳ Thu 2017.**
 ```sql
 select COUNT(sec_id) from section where semester = 'Fall' and year = 2017
 ```
 ![[Pasted image 20231123233043.png]]
 
+
 **f) Tìm các lớp học phần có số lượng đăng ký cao nhất vào học kỳ Thu 2017.**
 note: group by: phân loại. 
 	VD: group by sec_id là phân loại dựa theo mỗi sec_id
 	![[Pasted image 20231123232914.png]]
 
-
 ```sql
-select sec_id, count(sec_id) from section where semester = 'Spring' and year = 2017 group by sec_id
+SELECT sec_id, COUNT(*) as enrollment_count
+FROM TAKES
+WHERE semester = 'Fall' AND year = 2017
+GROUP BY sec_id
+ORDER BY enrollment_count DESC;
 ```
 ![[Pasted image 20231123233005.png]]
+
 
 **g) Tạo một môn học mới với mã “CS-001”, tiêu đề “Weekly Seminar”, và 0 credits.**
 ```sql
@@ -377,6 +383,7 @@ insert into course (course_id, title, dept_name, credits)
 VALUES
     ('CS-001', 'Weekly Seminar', '', 0)
 ```
+
 
 **h) Tạo một lớp học phần (section) cho môn học đã tạo ở câu g) vào học kỳ Thu năm
 2009, với sec_id là 1.**
@@ -408,6 +415,7 @@ AND NOT EXISTS (
 );
 ```
 
+
 **j) Xóa đăng ký vào section ở câu h) của sinh viên có tên là Chavez.**
 ```sql
 DECLARE @id varchar(5);
@@ -417,6 +425,7 @@ delete from takes where ID = (@id)
 -- Verify the inserted data
 SELECT * FROM takes;
 ```
+
 
 **k) Xóa môn học CS-001. Điều gì sẽ xảy ra nếu bạn thực hiện câu lệnh xóa này mà không
 xóa các section của môn học này trước.**
@@ -431,6 +440,7 @@ delete from prereq where course_id = 'CS-001'
 delete from course where course_id = 'CS-001'
 ```
 + If I proceed this command without deleting  course_id = 'CS-001' from section, I will violate key Referential Integrity Constraint (ràng buộc tham chiếu) 
+
 
 **m) Xóa tất cả các bộ trong quan hệ takes tương ứng với bất kỳ một section nào của bất kỳ
 môn học nào có tiêu đề chứa từ “cơ sở dữ liệu” (bỏ qua trường hợp từ này khớp với tiêu
