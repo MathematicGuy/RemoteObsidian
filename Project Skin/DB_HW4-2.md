@@ -285,7 +285,7 @@ SELECT * FROM student;
 takes
 ```sql
 CREATE TABLE takes (
-    ID INT, 
+    ID varchar(5), 
     course_id varchar(30),
     sec_id varchar(30),
     semester varchar(30),
@@ -296,3 +296,183 @@ CREATE TABLE takes (
 );
 ```
 
+```sql
+INSERT INTO takes (ID, course_id, sec_id, semester, year, grade)
+VALUES
+  ('00128', 'CS-101', 1, 'Fall', 2009, 'A'),
+  ('00128', 'CS-347', 1, 'Fall', 2009, 'A-'),
+  ('12345', 'CS-101', 1, 'Fall', 2010, 'C'),
+  ('12345', 'CS-190', 2, 'Spring', 2009, 'A'),
+  ('12345', 'CS-315', 1, 'Spring', 2010, 'A'),
+  ('12345', 'CS-347', 1, 'Fall', 2010, 'A'),
+  ('19991', 'HIS-351', 1, 'Spring', 2009, 'B'),
+  ('23121', 'FIN-201', 1, 'Spring', 2009, 'C+'),
+  ('44553', 'PHY-101', 1, 'Fall', 2010, 'B-'),
+  ('45678', 'CS-101', 1, 'Fall', 2010, 'F'),
+  ('45678', 'CS-101', 1, 'Spring', 2009, 'B+'),
+  ('45678', 'CS-319', 1, 'Spring', 2009, 'B'),
+  ('54321', 'CS-101', 1, 'Fall', 2010, 'A-'),
+  ('54321', 'CS-190', 2, 'Spring', 2009, 'B+'),
+  ('55739', 'MU-199', 1, 'Spring', 2010, 'A-'),
+  ('76543', 'CS-101', 1, 'Fall', 2009, 'A'),
+  ('76543', 'CS-319', 2, 'Fall', 2009, 'A'),
+  ('76653', 'EE-181', 1, 'Spring', 2010, 'C'),
+  ('98765', 'CS-101', 1, 'Fall', 2010, 'C-'),
+  ('98765', 'CS-315', 1, 'Spring', 2009, 'B'),
+  ('98988', 'BIO-101', 1, 'Summer', 2010, 'A'),
+  ('98988', 'BIO-301', 1, 'Summer', 2010, NULL);
+
+-- Verify the inserted data
+SELECT * FROM takes;
+```
+
+**4.2 Viết các câu lệnh sau trong SQL, sử dụng lược đồ CSDL university**
+
+**a) Tìm tên của các môn học trong khoa Comp. Sci. mà có 3 tín chỉ**
+```sql
+select title from course where dept_name = 'Comp. Sci.' and credits = 3
+```
+![[Pasted image 20231123233148.png]]
+
+**b) Tìm ID của tất cả các sinh viên mà được dạy bởi giảng viên có tên Einstein; và không
+có các bộ trùng nhau trong quan hệ kết quả.**
+```sql
+select distinct ID from student where dept_name IN (select dept_name from instructor where name = 'Einstein')
+```
+![[Pasted image 20231123233130.png]]
+
+**c) Tìm lương cao nhất của giảng viên**
+```sql
+select MAX(salary) from instructor
+```
+![[Pasted image 20231123233115.png]]
+
+**d) Tìm tất cả các giảng viên có lương cao nhất (có thể có nhiều giảng viên cùng có lương
+cao nhất).**
+```sql
+select name from instructor ORDER BY salary DESC
+```
+![[Pasted image 20231123233100.png]]
+
+**e) Tìm số lượng sinh viên đăng ký của mỗi lớp học phần vào học kỳ Thu 2017.**
+```sql
+select COUNT(sec_id) from section where semester = 'Fall' and year = 2017
+```
+![[Pasted image 20231123233043.png]]
+
+**f) Tìm các lớp học phần có số lượng đăng ký cao nhất vào học kỳ Thu 2017.**
+note: group by: phân loại. 
+	VD: group by sec_id là phân loại dựa theo mỗi sec_id
+	![[Pasted image 20231123232914.png]]
+
+
+```sql
+select sec_id, count(sec_id) from section where semester = 'Spring' and year = 2017 group by sec_id
+```
+![[Pasted image 20231123233005.png]]
+
+**g) Tạo một môn học mới với mã “CS-001”, tiêu đề “Weekly Seminar”, và 0 credits.**
+```sql
+insert into course (course_id, title, dept_name, credits)
+VALUES
+    ('CS-001', 'Weekly Seminar', '', 0)
+```
+
+**h) Tạo một lớp học phần (section) cho môn học đã tạo ở câu g) vào học kỳ Thu năm
+2009, với sec_id là 1.**
+```sql
+insert into section (course_id, sec_id, semester, year, building, room_number, time_slot_id)
+VALUES
+    ('CS-001', 1,'Fall', 2009, '', '', '')  
+```
+
+
+**i) Ghi danh mọi sinh viên khoa Comp.Sci. vào section ở câu h).**
+note: Ghi danh nghĩa là ghi danh sinh viên tham gia khóa học đó. E.g. student take CS-101
+	There for insert student course enrollment to takes table 
+```sql
+-- Insert each student that take CS-101 to takes table
+insert into takes (ID, course_id, sec_id, semester, year, grade)
+select
+    s.ID, 'CS-101', 1, 'Fall', 2009, NULL
+FROM student s
+where s.dept_name = 'Comp. Sci.'
+-- Check for duplicate PRIMARY KEY VALUES
+AND NOT EXISTS (
+    select 1
+    from takes t
+    where t.id = s.id 
+    and t.course_id = 'CS-101'
+    and t.semester = 'Fall'
+    and t.year = 2009
+);
+```
+
+**j) Xóa đăng ký vào section ở câu h) của sinh viên có tên là Chavez.**
+```sql
+DECLARE @id varchar(5);
+select @id = ID from student where name = 'Chavez';
+delete from takes where ID = (@id)
+
+-- Verify the inserted data
+SELECT * FROM takes;
+```
+
+**k) Xóa môn học CS-001. Điều gì sẽ xảy ra nếu bạn thực hiện câu lệnh xóa này mà không
+xóa các section của môn học này trước.**
+```sql
+delete from course where course_id = 'CS-001'
+-- correct way to delete shoud be 
+delete from takes where course_id = 'CS-001'
+delete from section where course_id = 'CS-001'
+delete from teaches where course_id = 'CS-001'
+delete from prereq where course_id = 'CS-001'
+
+delete from course where course_id = 'CS-001'
+```
++ If I proceed this command without deleting  course_id = 'CS-001' from section, I will violate key Referential Integrity Constraint (ràng buộc tham chiếu) 
+
+**m) Xóa tất cả các bộ trong quan hệ takes tương ứng với bất kỳ một section nào của bất kỳ
+môn học nào có tiêu đề chứa từ “cơ sở dữ liệu” (bỏ qua trường hợp từ này khớp với tiêu
+đề)**
+```sql
+DECLARE @db_course_id varchar(20);
+select @db_course_id = course_id from course where title = 'cơ sở dữ liệu'
+
+delete from takes WHERE course_id = (@db_course_id) 
+
+SELECT * FROM takes;
+```
+
+**4.3 Viết câu lệnh SQL biểu diễn các câu truy vấn ở bài 3.3 (Bài tập chương 3)**
+[[Company DB]]
+
+a. Đưa ra tên và địa chỉ của tất cả các nhân viên của phòng 1
+```sql
+
+```
+
+b. Cho biết tên và mã nhân viên của những nhân viên làm việc ở phòng
+Research.
+
+c. Cho biết tên dữ án, mã dự án của những dự án do phòng Administration
+quản lý
+
+d. Đưa ra tên của tất cả nhân viên của phòng 5 làm việc hơn 10 giờ trong dự án
+ProductX.
+
+e. Liệt kê tên của tất cả nhân viên có người phụ thuộc có cùng tên với họ.
+
+f. Tìm tên của tất cả nhân viên được 'Franklin Wong' trực tiếp giám sát.
+
+g. Đối với mỗi dự án, hãy liệt kê tên dự án và tổng số giờ (của tất cả nhân viên)
+dành cho dự án đó.
+
+h. Truy xuất tên của tất cả nhân viên làm việc trong mọi dự án.
+
+i. Đưa ra tên của tất cả nhân viên không làm việc trong bất kỳ dự án nào.
+
+j. Đối với mỗi phòng, đưa ra tên phòng và mức lương trung bình của tất cả
+nhân viên làm việc trong phòng đó.
+
+k. Cho biết mức lương trung bình của tất cả nhân viên nữ
