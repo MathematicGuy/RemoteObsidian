@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "59f671dccbc62bc9",
+            "id": "a049002613d251a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML Class Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6d9820d1eb4887d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Artistic.md",
+                "file": "HCM Ideology Group Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "HCM Ideology Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "HCM Ideology Group Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Artistic.md"
+                "file": "HCM Ideology Group Project.md"
               }
             }
           },
@@ -199,12 +186,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6d9820d1eb4887d",
+  "active": "a049002613d251a3",
   "lastOpenFiles": [
+    "Todo.md",
+    "CSS Artistic.md",
     "UML Class Diagrams.md",
     "UML with Bot.md",
     "DB_HW4-2.md",
-    "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB_HW4-1.md",
     "Summary DB_HW2.md",
@@ -235,7 +223,6 @@
     "_Focus/2023/3rd Semesters/DSA/Chapter 6 - Algorithm Design and Analysis Techniques.md",
     "C Code Note.md",
     "New C.md",
-    "Fundamentals of a Program.md",
     "Images/Pasted image 20231122103231.png",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
