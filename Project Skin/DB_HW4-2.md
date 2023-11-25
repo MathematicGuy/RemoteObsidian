@@ -57,7 +57,7 @@ room_number, and time_slot_id** (the time slot when the class meets).
 	-> The combination of course_id and prereq_id uniquely identifies each prerequisite relationship.
 
 **b) Viết câu lệnh SQL tạo các bảng và nhập dữ liệu cho các bảng như sau**
-
+(Note: delete all datas in table and install foreign key)
 
 ```sql
 -- Create the table in the specified schema

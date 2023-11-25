@@ -359,7 +359,7 @@ SELECT name, capital
 > Ex: (name <> capital) 
 
 
-LIKE
+LIKE (**Use To Find Pattern**)
 > contain sth. Must goes along with % symbol '%sth', 'sth%', '%sth%'
 > E.g. '%Smith' -> sth end with Smith, 
 ```sql

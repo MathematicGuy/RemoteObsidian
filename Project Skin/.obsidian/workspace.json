@@ -26,12 +26,30 @@
             "id": "4f7c7258e32d02c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27d0997fe458823c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW4-2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DB_HW4-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DB_HW4-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DB_HW4-2.md"
+              }
             }
           },
           {
@@ -177,14 +199,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f7c7258e32d02c4",
+  "active": "27d0997fe458823c",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "SE_HW_Bank_ClassDiagram.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Images/Pasted image 20231125182243.png",
+    "SE_HW_Chap1.md",
     "Todo.md",
     "CSS Artistic.md",
     "UML Class Diagrams.md",
     "UML with Bot.md",
     "DB_HW4-2.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB_HW4-1.md",
     "Summary DB_HW2.md",
     "Company DB.md",
@@ -210,11 +237,6 @@
     "_Focus/assist me.md",
     "_Focus/Command N.md",
     "_Focus/Principles.md",
-    "_Focus/Programming Knowledge.md",
-    "_Focus/2023/3rd Semesters/DSA/Chapter 6 - Algorithm Design and Analysis Techniques.md",
-    "C Code Note.md",
-    "New C.md",
-    "Images/Pasted image 20231122103231.png",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
