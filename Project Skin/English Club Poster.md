@@ -8,5 +8,6 @@ Slogan:
 	+ Speak English
 	+ Sing 
 	+ Social Games
-	+ 
+	+ [deep chat](https://parade.com/1211650/marynliles/deep-conversation-topics/)
 1) English can fix you 
+
