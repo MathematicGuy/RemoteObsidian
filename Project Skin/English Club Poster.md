@@ -2,6 +2,11 @@
 Name: ESL (English as Second Language)
 Slogan: 
 
-1 - Recruitment, Avenger Assemble
-2 - What do you get
-3 - English can fix you 
+1) Poster DONE
+2) Content
+	+ Presentation
+	+ Speak English
+	+ Sing 
+	+ Social Games
+	+ 
+1) English can fix you 
