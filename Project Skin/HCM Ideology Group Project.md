@@ -19,7 +19,7 @@ Tómtắt: **Ban đầu khi Người đặt chân tới Pháp tìm con đường
 + 1917 trở lại Pháp học tập, hoạt động. Vì NAQ nhận thức đc phải "biết địch biết ta" mới đánh thắng được kẻ thù. Ở đó bác hòa mình vào cuộc sống của người dân lao động, đến các buổi sinh hoạt chính trị, meeting.   
 
 + Cùng năm, cuộc cách mạng tháng 10' Nga bùng nổ với người dân lao động giành thắng lợi.
-	Sớm nhận ra ý nghĩa lịch sử to lớn của cuộc cách mạng này, người kết luận: "Lần đầu tiên trong lịch sử thế giới, ở nước Nga, những người lao động đã nắm đc chính quyền". Dù chính quyền thực dân Pháp cố bưng bít, nhưng người vẫn kiên trì tìm mọi cách về cách mạng tháng 10.f
+	Sớm nhận ra ý nghĩa lịch sử to lớn của cuộc cách mạng này, người kết luận: "Lần đầu tiên trong lịch sử thế giới, ở nước Nga, những người lao động đã nắm đc chính quyền". Dù chính quyền thực dân Pháp cố bưng bít, nhưng người vẫn kiên trì tìm mọi cách về cách mạng tháng 10.
  
 + 1918 kết thúc chiến tranh thế giới lần thứ nhất, tại Versailles người gửi bản yêu sách gồm 8 điểm đòi lại quyền lợi cho dân tộc. Nhưng các bản yêu sách không được đáp ứng, các nước thắng trận thì chỉ lo phân chia quyền lợi của mình. Từ đây, người nhận thức 1 điều sâu sắc: "Trong cuộc đấu tranh giành độc lập thì phải dựa vào sức của mình để giải phóng mình, đừng hy vọng trông chờ vào sự 'ban ơn' của chính quyền tư sản. Và muốn được giải phóng, các dân tộc chỉ có thể trông cậy vào mình, trông cậy vào lực lượng bản thân mình" 
 -> Tuy nhiên nó lại có tiếng vang lớn, khẳng định đất nước An Nam, đồng thời truyền bá tinh thần yêu nước cho các tầng lớn thanh niên.
