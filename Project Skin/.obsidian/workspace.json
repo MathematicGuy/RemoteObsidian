@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63e2f31d6624dd91",
+        "id": "3e8f7c31edfff292",
         "type": "tabs",
         "children": [
           {
-            "id": "4a605849ce2c8d32",
+            "id": "14df98b735292d31",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "52cd628fb21cf23b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Curve.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Curve.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Curve.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Curve.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -186,8 +172,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "52cd628fb21cf23b",
+  "active": "14df98b735292d31",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "Todo.md",
     "Images/Pasted image 20231127180552.png",
     "Images/Pasted image 20231127180506.png",
     "CSS Artistic.md",
@@ -199,12 +187,10 @@
     "Images/Pasted image 20231127173945.png",
     "Images/Pasted image 20231127173941.png",
     "WebDev/WebDev_Learn/HTML.md",
-    "Todo.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Product Page Design.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Images/venn.webp",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Club & Event/ISE/ISE.md",
     "English Club Poster.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -224,7 +210,6 @@
     "Images/Pasted image 20231123233148.png",
     "Images/Pasted image 20231123233130.png",
     "Images/Pasted image 20231123233115.png",
-    "Images/Pasted image 20231123233114.png",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
