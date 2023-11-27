@@ -21,8 +21,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1ae6106f9c54ebaa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Focus/WebProject2023/WebProjectGroup5.canvas",
+                "viewState": {
+                  "x": 1154.3957984636475,
+                  "y": -2163.682335802019,
+                  "zoom": 0.9477519449291207
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Product Page Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Product Page Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Product Page Design.md"
               }
             }
           },
@@ -172,10 +188,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa31054fdf587c2f",
+  "active": "1ae6106f9c54ebaa",
   "lastOpenFiles": [
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "Images/venn.webp",
     "Todo.md",
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Club & Event/ISE/ISE.md",
     "English Club Poster.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -209,7 +226,6 @@
     "_Focus/2023/Challenges & Guides/Digital Electronic.md",
     "_Focus/2023/Challenges & Guides/Neural Network PJ.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "_Focus/assist me.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
