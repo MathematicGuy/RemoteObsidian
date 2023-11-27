@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Product Page Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Product Page Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Product Page Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md"
+                "file": "Product Page Design.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "725504c194cf614f",
   "lastOpenFiles": [
-    "Todo.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "Todo.md",
     "WebDev/WebDev_Learn/HTML.md",
     "Images/venn.webp",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
@@ -223,7 +224,6 @@
     "Club & Event/Programming Club/_Programming Club.md",
     "HCM Ideology Group Project.md",
     "_Focus/2023/Challenges & Guides/Digital Electronic.md",
-    "_Focus/2023/Challenges & Guides/Neural Network PJ.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
