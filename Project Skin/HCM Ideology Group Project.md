@@ -13,6 +13,24 @@ Cũng trong năm 1917, cuộc cách mạng tháng Mười Nga bùng nổ. Một 
 + Một là, các cuộc Cách Mạng ở các nước tư bản là các cuộc Cách mạng không triệt để, ở đó vẫn tồn tại chế độ người bóc lột người, đại bộ phận người dân lao động không có cuộc sống tự do, bình đẳng, ấm no hạnh phúc.
 + Hai là, muốn đấu tranh giành độc lập thì phải dựa vào sức mình, vào động lực mình để giải phóng mình.
 
+---
+Tóm tắt: **Ban đầu khi Người đặt chân tới Pháp tìm con đường giải phóng** 
+
++ 1917 trở lại pháp học tập, hoạt động. Vì phải "biết địch biết ta" mới đánh thắng được kẻ thù. Ở Pháp NTT hòa mình vào cuộc sống của người dân lao động, đến các buổi sinh hoạt chính trị, meeting và gặp những người bạn công nhân Pháp.
+
++ Cùng năm, cuộc cách mạng tháng 10' Nga bùng nổ với người dân lao động giành thắng lợi trước bọn tư sản, đế quốc đã giành mở ra 1 thời kỳ mới cho ls thế giới
+	Sớm nhận ra ý nghĩa lịch sử to lớn của cuộc cách mạng này, người kết luận: "Lần đầu tiên trong lịch sử thế giới, ở nước Nga, những người loa động đã nắm đc chính quyền". Dù chính quyền thực dân Pháp cố bưng bít, nhưng người vẫn kiên trì tìm mọi cách về cách mạng tháng 10 từ sách báo, số tài liệu ít ỏi từ bạn bè.
+
++ 1918 kết thúc chiến tranh thế giới lần thứ nhất, tại Versailles người đã gửi bản yêu sách gồm 8 điểm đòi lại quyền lợi cho dân tộc. Những bản yêu sách không được đáp ứng, các nước thắng trận chỉ lo phân chia quyền lợi của mình. Từ đây, người nhận thức 1 điều sâu sắc: "Trong cuộc đấu tranh giành độc lập thì phải dựa vào sức của mình để giải phóng mình, đừng hy vọng trông chờ vào sự 'ban ơn' của chính quyền tư sản. Và muốn được giải phóng, các dân tộc chỉ có thể trông cậy vào mình, trông cậy vào lực lượng bản thân mình" 
+
+-> Tuy nhiên nó lại có tiếng vang lớn, khẳng định đất nước An Nam, đồng thời truyền bá tinh thần yêu nước cho các tầng lớn thanh niên.
+
+-> NAQ rút ra đc 2 điều:
++ Một là, các cuộc cách mạng ở các nc tư bản không triệt để, còn tồn tại chế độ bóc lột người, đại bộ phận người dân ko có tự do, bình đẳng, hạnh phúc.
++ Hai là, muốn đấu tranh giành độc lập thì phải dựa vào sức mình để giải phóng mình.
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 **Tác động của Bản Sơ thảo luận cương đến HCM** (Thuyết trình)
 ( 1 phút ) -> ( 40 Giây )

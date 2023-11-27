@@ -63,6 +63,14 @@ Story:
 	To find your Own path.
 	
 
-
-
 [[Scott Young on the Best Way to Learn Anything]]
+
+Step 1: Pre-Learned
+	- Find/Make the Roadmap. 
+	- Plan and Learn and all the fundamental with strict dead line.
+	- Find a effective way to Learn about it,
+Step 2: The Learning process 
+	- Practicing
+	 - Eliminate distraction (Sibling, TV, Phone, etc..)
+	- Hones you technique, lern reflect and repeat.
+Step 3: Expertise awaits..

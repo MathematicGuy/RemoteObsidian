@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c11f925c09d05364",
+        "id": "77221a220d543317",
         "type": "tabs",
         "children": [
           {
-            "id": "024b1e470d39181f",
+            "id": "fa31054fdf587c2f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -172,8 +172,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "024b1e470d39181f",
+  "active": "fa31054fdf587c2f",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/HCM  Ideology.md",
+    "Todo.md",
     "Club & Event/ISE/ISE.md",
     "English Club Poster.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -183,7 +185,6 @@
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Images/Pasted image 20231125182243.png",
     "SE_HW_Chap1.md",
-    "Todo.md",
     "CSS Artistic.md",
     "UML Class Diagrams.md",
     "UML with Bot.md",
@@ -205,7 +206,6 @@
     "_Focus/SQL & DataBase/SQL/SQL Table Command.md",
     "Club & Event/Programming Club/_Programming Club.md",
     "HCM Ideology Group Project.md",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
     "_Focus/2023/Challenges & Guides/Digital Electronic.md",
     "_Focus/2023/Challenges & Guides/Neural Network PJ.md",
     "_Focus/2023/Challenges & Guides/Github.md",
