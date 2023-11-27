@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "7d96a90bd68644a6",
+            "id": "725504c194cf614f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/2023/Challenges & Guides/Github.md"
+              }
             }
           },
           {
@@ -177,10 +186,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7d96a90bd68644a6",
+  "active": "725504c194cf614f",
   "lastOpenFiles": [
     "Todo.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "WebDev/WebDev_Learn/HTML.md",
     "Images/venn.webp",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Club & Event/ISE/ISE.md",
@@ -214,7 +224,6 @@
     "HCM Ideology Group Project.md",
     "_Focus/2023/Challenges & Guides/Digital Electronic.md",
     "_Focus/2023/Challenges & Guides/Neural Network PJ.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
