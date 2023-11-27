@@ -145,5 +145,23 @@ git fetch origin
 git switch branch_name
 ```
 
+Change Last Git Msg
+```bash
+git commit --amend -m "cooler msg!"
+```
 
+**Add Files** to last commit
+```bash
+git commit --amend --no-edit
+```
+
+**Overwrite** history on remote 
+```bash
+git push origin master --force
+```
+
+**Undo** a commit with a **New** commit
+```bash
+git revert better-days
+```
 

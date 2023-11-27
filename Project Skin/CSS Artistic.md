@@ -5,6 +5,7 @@
 	![[Pasted image 20231024113201.png]]
 
 [CSS Shadow](https://getcssscan.com/css-box-shadow-examples) 
+[[CSS Curve]]
 
 [Font Awesome Icon](https://www.w3schools.com/icons/fontawesome_icons_directional.asp)
 ```html

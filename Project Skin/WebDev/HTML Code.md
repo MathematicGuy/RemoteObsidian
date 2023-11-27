@@ -32,3 +32,10 @@ div div ul il -> il inside a ul inside a div inside a div
 Modify 2 different section using class
 ![[Pasted image 20231014171643.png]]
 ![[Pasted image 20231014171626.png]]
+
+Shortcut
+![[Pasted image 20231127173945.png]]
+
+border-radius 2 times
+![[Pasted image 20231127175313.png]]
+

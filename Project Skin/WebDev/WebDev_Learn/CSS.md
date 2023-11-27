@@ -12,7 +12,7 @@
 
 ### [[CSS Desgin Pattern]]
 
-### [[CSS Nnote]]
+### [[CSS Note]]
 
 Web Maker
 	[Finsweet](https://finsweet.com/company/strategy#step-1)
