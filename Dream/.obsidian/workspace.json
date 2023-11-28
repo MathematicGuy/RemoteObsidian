@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9f8b2df8aa1768d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Going to Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
+                "file": "Going to Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
+                "file": "Going to Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md"
+                "file": "Going to Space.md"
               }
             }
           },
@@ -176,8 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "195fd80e6ff2690e",
+  "active": "d9f8b2df8aa1768d",
   "lastOpenFiles": [
+    "Going to Space.md",
+    "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
     "Learning How To Learn.md",
     "Productivity & Improvement/Mindset.md",
     "My Life/Procrastinate (ADHD).md",
@@ -198,13 +213,11 @@
     "Happiness/Food.md",
     "Happiness/Watch This Everyday.md",
     "Productivity & Improvement/Train yourself Like a Ayanokoji - Classroom of the elite  - Whiteroom Training 2.0.md",
-    "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
     "Productivity & Improvement/the IVY LEAGUE SECRET to STUDYING EFFECTIVELY.md",
     "Productivity & Improvement/Techno Project.md",
     "Productivity & Improvement/Study Strategies.md",
     "Social/Social.md",
     "Productivity & Improvement/Mindset of Successful Programmers.md",
-    "Social/Extreme competition and dark side of success in China.md",
     "Social",
     "How To",
     "Happiness",

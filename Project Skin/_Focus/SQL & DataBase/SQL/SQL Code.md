@@ -176,7 +176,7 @@ WHERE hire_date IS NULL
 ![[Pasted image 20230814121723.png]]
 
 
- UPDATE DATA 
+ UPDATE DATA (Change Field and Record Value)
  ```sql
 UPDATE employees
 SET hourly_pay = 10.25
@@ -208,16 +208,16 @@ FOREIGN KEY -> Link 2 Table prevent any action destroy the link between them.
 CREATE TABLE transaction (
 	transaction_id INT PRIMARY KEY AUTO_INCREMENT,
 	amount DECIMAL(5,2),
-	customer_id INT,
+	trans_customer_id INT,
 	-- add and connect foreign key to the primary key
-	FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
+	FOREIGN KEY (trans_customer_id) REFERENCES customers(customer_id),
 )
 ```
 or you can add foreign key later with this
 ```sql
 ALTER TABLE transactions
 ADD CONSTRAINT fk_customer_id
-FOREIGN KEY(customer_id)
+FOREIGN KEY(trans_customer_id) REFERENCES customers(customer_id)
 ```
 
 

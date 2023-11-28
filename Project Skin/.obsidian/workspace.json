@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "2a821faf3d41bd11",
+            "id": "1dab9eadc458de83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Curve.md",
+                "file": "Company DB.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Curve.md",
+                "file": "Company DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Curve.md",
+                "file": "Company DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Curve.md"
+                "file": "Company DB.md"
               }
             }
           },
@@ -199,14 +199,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a821faf3d41bd11",
+  "active": "1dab9eadc458de83",
   "lastOpenFiles": [
-    "CSS Artistic.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Company DB.md",
+    "Todo.md",
+    "DB_HW4-2.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "CSS Curve.md",
+    "CSS Artistic.md",
     "Images/Pasted image 20231127222424.png",
     "Images/Pasted image 20231127222407.png",
-    "Todo.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Images/Pasted image 20231127180552.png",
     "Images/Pasted image 20231127180506.png",
@@ -222,9 +226,6 @@
     "Images/venn.webp",
     "Club & Event/ISE/ISE.md",
     "English Club Poster.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "DB_HW4-2.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
     "SE_HW_Bank_ClassDiagram.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Images/Pasted image 20231125182243.png",
@@ -233,7 +234,6 @@
     "UML with Bot.md",
     "DB_HW4-1.md",
     "Summary DB_HW2.md",
-    "Company DB.md",
     "Relational Data Base Model.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231123233148.png",
