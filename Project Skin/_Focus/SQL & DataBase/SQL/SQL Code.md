@@ -255,22 +255,17 @@ CONCAT(b.f_name, " ", b.l_name) AS "referred_by"
 ![[Pasted image 20231003141638.png]]
 + CONCAT to merge elements together (connect string with number, etc...)
 ```sql
-select name,
-	 -- merge result with % 
-    CONCAT(
-        ROUND(
-            (
-                population /(
-                    select population
-                    from world
-                    where name = 'Germany'
-                )
-            ) * 100
-        ),
-        '%'
-    ) as percentage
-from world
-where continent = 'Europe'
+select name, 
+CONCAT(
+ROUND(
+       (population/
+           (select population 
+                   from world 
+                   where name = 'Germany'))*100
+            ),'%')
+as percentage
+from world 
+where continent = 'Europe' 
 ```
 ![[Pasted image 20231128153152.png]]
 
