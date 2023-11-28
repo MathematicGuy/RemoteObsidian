@@ -323,6 +323,13 @@ notice: **When using GROUP BY use HAVING for WHERE statement. (replace WHERE as 
 ![[Pasted image 20231003143811.png]]
 
 
+GROUP BY with ORDER BY
+```sql
+select continent, name from world group by continent order by name asc
+```
+> group first then order
+
+
 **IN**
 > The `IN` operator **allows you to specify multiple values** in a `WHERE` clause. 
 ```sql
@@ -347,6 +354,12 @@ SELECT winner, subject, subject IN ('physics','chemistry')
 SELECT name FROM world WHERE name LIKE 'United%'
 ```
 > **select all word contain United in it.**
+
++ select the first name seperate by a space ' '
+```sql
+SELECT name FROM world WHERE name LIKE '% %';
+SELECT SUBSTRING_INDEX(name, ' ', 1) AS first_name FROM world WHERE name LIKE '% %';
+```
 
 **XOR**
 > not >> or << but always ><
