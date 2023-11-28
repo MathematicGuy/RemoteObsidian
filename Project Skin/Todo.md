@@ -55,6 +55,7 @@
 
 #Todo/Entertainment
 - [ ] Undead Unluck chap36
+- [ ] AOH2 The Fall of Curtain senario
 
 **Ideas**
 How to run App without downloading them

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70df30d6b8090a29",
+        "id": "928bdcd17841465f",
         "type": "tabs",
         "children": [
           {
-            "id": "0aac74bfd1fa753b",
+            "id": "209419f81af5f46f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "675af9024682d8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company DB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64f40b9bd3af07fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -199,7 +172,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64f40b9bd3af07fb",
+  "active": "209419f81af5f46f",
   "lastOpenFiles": [
     "Images/Pasted image 20231128153152.png",
     "Company DB.md",
