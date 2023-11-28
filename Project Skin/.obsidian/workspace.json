@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9f307df486a39e",
+        "id": "70df30d6b8090a29",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d92a372944838c",
+            "id": "0aac74bfd1fa753b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "228f673c4527d914",
+            "id": "675af9024682d8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Company DB.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "1dab9eadc458de83",
+            "id": "64f40b9bd3af07fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Company DB.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Company DB.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Company DB.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Company DB.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -199,11 +199,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1dab9eadc458de83",
+  "active": "64f40b9bd3af07fb",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Images/Pasted image 20231128153152.png",
     "Company DB.md",
     "Todo.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB_HW4-2.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "_Focus/2023/Challenges & Guides/Github.md",

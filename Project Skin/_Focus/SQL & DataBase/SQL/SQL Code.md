@@ -247,15 +247,34 @@ notice:
 + UNION -> don't take Duplicates (just 1/1)
 + UNION ALL -> take all Duplicates
 
-CONCAT -> Merge 2 Column together
+CONCAT -> Connect 2 String together
  >  a.f_name -> select f_name from table a
- ```sql
+```sql
 CONCAT(b.f_name, " ", b.l_name) AS "referred_by"
 ```
 ![[Pasted image 20231003141638.png]]
++ CONCAT to merge elements together (connect string with number, etc...)
+```sql
+select name,
+	 -- merge result with % 
+    CONCAT(
+        ROUND(
+            (
+                population /(
+                    select population
+                    from world
+                    where name = 'Germany'
+                )
+            ) * 100
+        ),
+        '%'
+    ) as percentage
+from world
+where continent = 'Europe'
+```
+![[Pasted image 20231128153152.png]]
 
-
-INNER JOIN 
+**INNER JOIN** 
 -- SELF JOIN
 -- join another copy of a tbale to itself
 -- used to compare rows of the same table
