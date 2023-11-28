@@ -469,3 +469,45 @@ Change Table Name
 EXEC sp_rename 'employee_1stName', 'EMPLOYEE_2ndName';
 select * from EMPLOYEE_2ndName
 ```
+
+**ANY** (return **True** if any **subquery meet the condition**)
+```sql
+SELECT column_name(s)
+FROM table_name
+WHERE column_name operator ANY
+  (SELECT column_name
+  FROM table_name
+  WHERE condition); 
+```
+
+
+**ALL command** (act like **IF statement**)
+```sql
+SELECT ALL column_name(s)
+FROM table_name
+WHERE condition; 
+```
+**ALL with WHERE or HAVING**
+```sql
+SELECT column_name(s)
+FROM table_name
+WHERE column_name operator ALL (
+        SELECT column_name
+        FROM table_name
+        WHERE condition
+);
+```
+
+> Find the continents where all countries have a population <= 25000000. Then find the names of the countries associated with these continents. Show **name**, **continent** and **population**.
++ Think of this like a for loop with if statement
+```sql
+-- select all the continent that satisfy the condition 
+(select continent from world 
+	 -- select if the contries have population <= 25000000
+    where population = ALL (
+    select population
+    from world
+    where population <= 25000000)
+)
+```
+
