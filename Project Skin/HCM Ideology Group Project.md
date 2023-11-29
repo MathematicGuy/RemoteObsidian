@@ -21,14 +21,12 @@ Tómtắt: **Ban đầu khi Người đặt chân tới Pháp tìm con đường
 + Cùng năm, cuộc cách mạng tháng 10' Nga bùng nổ với người dân lao động giành thắng lợi.
 	Sớm nhận ra ý nghĩa lịch sử to lớn của cuộc cách mạng này, người kết luận: "Lần đầu tiên trong lịch sử thế giới, ở nước Nga, những người lao động đã nắm đc chính quyền". Dù chính quyền thực dân Pháp cố bưng bít, nhưng người vẫn kiên trì tìm mọi cách về cách mạng tháng 10.
  
-+ 1918 kết thúc chiến tranh thế giới lần thứ nhất, tại Versailles người gửi bản yêu sách gồm 8 điểm đòi lại quyền lợi cho dân tộc. Nhưng các bản yêu sách không được đáp ứng, các nước thắng trận thì chỉ lo phân chia quyền lợi của mình. Từ đây, người nhận thức 1 điều sâu sắc: "Trong cuộc đấu tranh giành độc lập thì phải dựa vào sức của mình để giải phóng mình, đừng hy vọng trông chờ vào sự 'ban ơn' của chính quyền tư sản. Và muốn được giải phóng, các dân tộc chỉ có thể trông cậy vào mình, trông cậy vào lực lượng bản thân mình" 
++ 1918 kết thúc chiến tranh thế giới lần thứ nhất, tại Versailles người gửi bản yêu sách gồm 8 điểm đòi lại quyền lợi cho dân tộc. Nhưng các bản yêu sách không được đáp ứng, các nước thắng trận thì chỉ lo phân chia quyền lợi của mình. 
 -> Tuy nhiên nó lại có tiếng vang lớn, khẳng định đất nước An Nam, đồng thời truyền bá tinh thần yêu nước cho các tầng lớn thanh niên.
 
--> NAQ rút ra đc 2 điều:
-+ Một là, các cuộc cách mạng ở các nc tư bản không triệt để, còn tồn tại chế độ bóc lột người, đại bộ phận người dân ko có tự do, bình đẳng, hạnh phúc.
-+ Hai là, muốn đấu tranh giành độc lập thì phải dựa vào sức mình để giải phóng mình.
-
-
+Trong 2 năm ngắn ngủi đó, NAQ rút ra đc 2 điều:
++ Một là, các cuộc Cách Mạng ở các nước tư bản là các cuộc Cách mạng không triệt để, ở đó vẫn tồn tại chế độ người bóc lột người, đại bộ phận người dân lao động không có cuộc sống tự do, bình đẳng, ấm no hạnh phúc.
++ Hai là, "Trong cuộc đấu tranh giành độc lập thì phải dựa vào sức của mình để giải phóng mình, đừng hy vọng trông chờ vào sự 'ban ơn' của chính quyền tư sản. Và muốn được giải phóng, các dân tộc chỉ có thể trông cậy vào mình, trông cậy vào lực lượng bản thân mình" .
 
 ---------------------------------------------------------------------------------------------------------------------------
 **Tác động của Bản Sơ thảo luận cương đến HCM** (Thuyết trình)
@@ -36,23 +34,21 @@ Tómtắt: **Ban đầu khi Người đặt chân tới Pháp tìm con đường
 
 **Sau khi đọc bản Sơ thảo Luận cương của Lênin thì Hồ Chí Minh, đồng với sự tích cực tham gia hoạt động thực tế trong Đảng Xã hội Pháp, đã nắm vững hơn về chủ nghĩa Lênin, Quốc tế Cộng sản, cách mạng vô sản, và phong trào giải phóng dân tộc toàn cầu. Nhận thức cách mạng mới này đã dẫn đưa Bác và những đồng minh trong Đảng Xã hội Pháp tại Đại hội Tua (từ ngày 25 đến 30-12-1920) bỏ phiếu ủng hộ Quốc tế Cộng sản, tham gia sáng lập Đảng Cộng sản Pháp, đánh dấu bước ngoặt quan trọng trong cuộc đời của Bác và sự kết hợp mạnh mẽ giữa lòng yêu nước và lập trường cách mạng vô sản.**
 
-
+**(23s)**
 Hồ Chí Minh truyền đạt tới nhân dân Việt nam bản Sơ thảo lần thứ nhất Luận cương về dân tộc và thuộc địa của Lênin ở nhiều nơi, trong đó có: 
-Trên báo Thanh Niên: Sau khi đọc bản luận cương, Nguyễn Ái Quốc đã viết bài : ” Nâng cao chí khí Cách mạng ” đăng trên báo Thanh Niên, số 28, ra ngày 1 tháng 5 năm 1925. Trong bài báo, Người đã giải thích những nội dung cơ bản của Luận cương, đồng thời khẳng định: “ Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta ”.
++ **Trên báo Thanh Niên:** Sau khi đọc bản luận cương, Nguyễn Ái Quốc đã viết bài : ” Nâng cao chí khí Cách mạng ” đăng trên báo Thanh Niên, số 28, ra ngày 1 tháng 5 năm 1925. Trong bài báo, Người đã giải thích những nội dung cơ bản của Luận cương, đồng thời khẳng định: “ Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta ”.
 
+**(13s)**
++ **Trên báo Người cùng khổ**: Sau khi về nước, Nguyễn Ái Quốc tiếp tục truyền bá bản luận cương trên báo: Người Cùng Khổ - một tờ báo của Đảng Cộng Sản Đông Dương, Người đã viết nhiều bài báo giải thích về bản Luận cương, đồng thời kêu gọi nhân dân Việt Nam đoàn kết, đấu tranh giành độc lập, tự do cho dân tộc.
 
-Trên báo Người cùng khổ: Sau khi về nước, Nguyễn Ái Quốc tiếp tục truyền bá bản luận cương trên báo: Người Cùng Khổ - một tờ báo của Đảng Cộng Sản Đông Dương, Người đã viết nhiều bài báo giải thích về bản Luận cương, đồng thời kêu gọi nhân dân Việt Nam đoàn kết, đấu tranh giành độc lập, tự do cho dân tộc.
-
-
-Trong các cuộc nói chuyện: Nguyễn Ái Quốc cũng đã truyền đạt bản luận cương trong các cuộc nói chuyện với đồng chí, đồng bào. Người đã giảng giải những nội dung cơ bản của bản Luận cương, đồng thời khẳng định: ” Cách mạng Việt Nam là một bộ phận của Cách mạng thế giới, dưới sự lãnh đạo của giai cấp vô sản và nhân dân lao động. ” 
+**(14s)**
++ **Trong các cuộc nói chuyện:** Nguyễn Ái Quốc cũng đã truyền đạt bản luận cương trong các cuộc nói chuyện với đồng chí, đồng bào. Người đã giảng giải những nội dung cơ bản của bản Luận cương, đồng thời khẳng định: ” Cách mạng Việt Nam là một bộ phận của Cách mạng thế giới, dưới sự lãnh đạo của giai cấp vô sản và nhân dân lao động. ” 
 
 ----------------------------------------------------------------------------------------------------------------------------
 **Liên Hệ bản thân**
 Học từ Người cách suy nghĩ sáng tạo và linh hoạt trong giải quyết vấn đề.
 
 ### Key points
-+ Xã, đã, dẫn, vững, những, mẽ, giữa
-+ Nguyễn, lãnh.
 
 1) HCM và đồng minh đảng XHP bỏ phiếu ủng hộ QT CS sau khi bác đọc bản sơ thảo luận cương của 
 + Sau khi đọc bản luận cương 
