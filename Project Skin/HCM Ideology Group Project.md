@@ -34,17 +34,20 @@ Trong 2 năm ngắn ngủi đó, NAQ rút ra đc 2 điều:
 
 **Sau khi đọc bản Sơ thảo Luận cương của Lênin thì Hồ Chí Minh, đồng với sự tích cực tham gia hoạt động thực tế trong Đảng Xã hội Pháp, đã nắm vững hơn về chủ nghĩa Lênin, Quốc tế Cộng sản, cách mạng vô sản, và phong trào giải phóng dân tộc toàn cầu. Nhận thức cách mạng mới này đã dẫn đưa Bác và những đồng minh trong Đảng Xã hội Pháp tại Đại hội Tua (từ ngày 25 đến 30-12-1920) bỏ phiếu ủng hộ Quốc tế Cộng sản, tham gia sáng lập Đảng Cộng sản Pháp, đánh dấu bước ngoặt quan trọng trong cuộc đời của Bác và sự kết hợp mạnh mẽ giữa lòng yêu nước và lập trường cách mạng vô sản.**
 
+
 **(23s)**
 Hồ Chí Minh truyền đạt tới nhân dân Việt nam bản Sơ thảo lần thứ nhất Luận cương về dân tộc và thuộc địa của Lênin ở nhiều nơi, trong đó có: 
-+ **Trên báo Thanh Niên:** Sau khi đọc bản luận cương, Nguyễn Ái Quốc đã viết bài : ” Nâng cao chí khí Cách mạng ” đăng trên báo Thanh Niên, số 28, ra ngày 1 tháng 5 năm 1925. Trong bài báo, Người đã giải thích những nội dung cơ bản của Luận cương, đồng thời khẳng định: “ Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta ”.
-
++ **Trên báo Thanh Niên:** Sau khi đọc bản luận cương, Nguyễn Ái Quốc đã viết bài : **” Nâng cao chí khí Cách mạng ”** đăng trên báo Thanh Niên, số 28, ra ngày 1 tháng 5 năm 1925. Trong bài báo, Người giải thích những nội dung cơ bản của Luận cương, đồng thời khẳng định: “ Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta ”.
+ 
 **(13s)**
-+ **Trên báo Người cùng khổ**: Sau khi về nước, Nguyễn Ái Quốc tiếp tục truyền bá bản luận cương trên báo: Người Cùng Khổ - một tờ báo của Đảng Cộng Sản Đông Dương, Người đã viết nhiều bài báo giải thích về bản Luận cương, đồng thời kêu gọi nhân dân Việt Nam đoàn kết, đấu tranh giành độc lập, tự do cho dân tộc.
++ **Trên báo Người cùng khổ**: Sau khi về nước, Nguyễn Ái Quốc **tiếp tục truyền bá bản luận cương** trên báo: Người Cùng Khổ - một tờ báo của Đảng Cộng Sản Đông Dương, Người đã viết nhiều bài báo giải thích về bản Luận cương, **đồng thời kêu gọi nhân dân Việt Nam** đoàn kết, đấu tranh giành độc lập, tự do cho dân tộc.
 
 **(14s)**
 + **Trong các cuộc nói chuyện:** Nguyễn Ái Quốc cũng đã truyền đạt bản luận cương trong các cuộc nói chuyện với đồng chí, đồng bào. Người đã giảng giải những nội dung cơ bản của bản Luận cương, đồng thời khẳng định: ” Cách mạng Việt Nam là một bộ phận của Cách mạng thế giới, dưới sự lãnh đạo của giai cấp vô sản và nhân dân lao động. ” 
 
+
 ----------------------------------------------------------------------------------------------------------------------------
+
 **Liên Hệ bản thân**
 Học từ Người cách suy nghĩ sáng tạo và linh hoạt trong giải quyết vấn đề.
 

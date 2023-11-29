@@ -15,8 +15,8 @@
 
 #Todo/Code/GroupProjectPlanning
 - [ ] Tổng hợp kiến thức và luyện nói phần CNXH 
-- [ ] Tổng hợp kiến thức và luyện nói phần tư tưởng HCM cho thứ Bảy
-
+- [ ] Ghi âm thêm 3 đoạn cuối để ghép vào phần nói.
+- [ ] Ghi âm thêm đoạn kết luận phần đọc
 
 #Todo/Prioritise
 - [ ] Learn CSS position and how to use value
