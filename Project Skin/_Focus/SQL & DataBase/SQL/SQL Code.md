@@ -1,17 +1,17 @@
 source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
 SQL Learning Tools
 	[SQL Zoo](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
-		SQL quizziz
+		SQL quizizz
 	[SQL Bolt](https://sqlbolt.com/)
 		Interactive Lesson | All within Browser
 	[Mode](https://mode.com/sql-tutorial/) 
-		Learn Answer Question using SQL
+		Learn to answer question with data using SQL
 		Level: Beginner - Intermediate - Advance
 	[MySQLTUTORIAL](https://www.mysqltutorial.org/) 
 		Make SQL Easy & Fun
-		SQL Notes | With Practical Example 
+		SQL Notes with Practical Example 
 	[SQL Murder Mystery](https://mystery.knightlab.com/)
-		Hones SQL Problems solving 
+		Hones your SQL Problems solving 
 
 ---
 Create Data Base
@@ -431,7 +431,7 @@ WHERE winner LIKE 'Sir%' ORDER BY yr DESC, winner;
 > +  name_column is used for secondary sorting in ascending  order (alphabetical order).
 
 **SELECT DISTINCT**
-> Inside a table, a column often contains **many duplicate values;** and sometimes you **only want to list the different (distinct) values.**
+> Inside a table, a column often contains **many duplicate values;** and sometimes you **only want to list the "different" values.**
 ```sql
 (SELECT DISTINCT yr FROM nobel WHERE subject = 'Medicine')
 ```
@@ -505,7 +505,6 @@ WHERE condition;
 SELECT column_name(s)
 FROM table_name
 WHERE column_name operator ALL (
-        SELECT column_name
         FROM table_name
         WHERE condition
 );
