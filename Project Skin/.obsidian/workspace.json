@@ -28,14 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key in RDBMS.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -185,10 +186,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dc873c583b98d0d7",
+  "active": "02a53db1bf21db24",
   "lastOpenFiles": [
-    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Key in RDBMS.md",
+    "Todo.md",
+    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20231129163642.png",
     "Images/Pasted image 20231129164040.png",
     "Images/Pasted image 20231129162312.png",
@@ -206,7 +208,6 @@
     "Python.md",
     "_Focus/2023/Python/Snake Game (Broadly).md",
     "HCM Ideology Group Project.md",
-    "Todo.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "Images/Pasted image 20231128153152.png",
     "Company DB.md",

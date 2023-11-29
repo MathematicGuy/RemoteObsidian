@@ -524,3 +524,14 @@ WHERE column_name operator ALL (
 )
 ```
 
++ Quizz: Three tinme bigger
+```sql
+SELECT name, continent from world x
+where (population/3) > ALL (
+      select population 
+      from world y where x.continent = y.continent
+      and x.name != y.name
+);
+```
+> "and x.name != y.name" because the
+> **Biggest contry can only Large than 3, but not more than 3 compare to itself**  
