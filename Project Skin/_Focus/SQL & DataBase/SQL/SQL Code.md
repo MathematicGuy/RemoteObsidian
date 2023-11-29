@@ -1,6 +1,19 @@
 source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
-[SQL Exercise](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
+SQL Learning Tools
+	[SQL Zoo](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
+		SQL quizziz
+	[SQL Bolt](https://sqlbolt.com/)
+		Interactive Lesson | All within Browser
+	[Mode](https://mode.com/sql-tutorial/) 
+		Learn Answer Question using SQL
+		Level: Beginner - Intermediate - Advance
+	[MySQLTUTORIAL](https://www.mysqltutorial.org/) 
+		Make SQL Easy & Fun
+		SQL Notes | With Practical Example 
+	[SQL Murder Mystery](https://mystery.knightlab.com/)
+		Hones SQL Problems solving 
 
+---
 Create Data Base
 ```sql
 -- 1) Create DB

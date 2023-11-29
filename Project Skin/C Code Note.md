@@ -407,6 +407,16 @@ int main(){
 }
 ```
 
+Array Size
+```c
+char str_ary[10][50]; // now this array can only store 10 elements max
+int i;
+for (i=0; i<12;i++){
+  printf("Nhap Chuoi %d:", i);
+  gets(str_ary[i]);
+}
+printf('String ary: ', str_ary[])
+```
 
 **Memory Address**
 ```c

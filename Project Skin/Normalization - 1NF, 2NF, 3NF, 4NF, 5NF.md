@@ -1,0 +1,32 @@
+Why Normalization? to avoid DB vurnerbility.  
+
+**First Normal Form (1NF)**  
+1) Using row order to convey infomation is not permitted
+2) Mixing data types within the same column is not permitted
+3) Having a table without a primary key is not permitted
+4) Repeating groups are not permitted
+
+**Second normal form (2NF)** 
+> Each **none-key attribute** in the table must be **dependent on the entire primary key**
+> (meaning if the primary key change, non-key attributes change)
+![[Pasted image 20231129164040.png]]
+
+**Third normal form (3NF)** 
+> Problem **Player_Rating depend on Player_Skill_Level** (non-key attribute depend on a non-nkey attribute)
+![[Pasted image 20231129160127.png]]
+Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels
+> Player and Player_Skill_Levels are 3rd normal form because the attributes depend on the key: "Player_ID", "Player_Skill_Level" (and nothing but the key)
+![[Pasted image 20231129160249.png]]
+
+**Boyce-Codd Normal Form (3.5NF)**
+> Each attribute in the table must depend on the key, the whole key and nothing but the key.
++ Multivalued dependencies in a table must be multivalued dependencies on the key.
+ 
+
+**Fourth Normal Form (4NF)**  
+![[Pasted image 20231129160902.png]]
+
+**Fifth Form** (5th form)
+> A table is in 5th Normal Form only if it is in 4NF and it cannot be decomposed into any number of smaller tables without loss of data
+![[Pasted image 20231129161614.png]]
+

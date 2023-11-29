@@ -1,4 +1,15 @@
 [Key in RDB](https://youtu.be/_UZLrD_R0T4?si=2bShIa5jkrtPB0FT)
+**Primary Key**
+A primary is a single column value used to identify a database record uniquely.
++ It has following attributes
+	- A [primary key](https://www.guru99.com/dbms-keys.html) cannot be NULL
+	- A primary key value must be unique
+	- The primary key values should rarely be changed
+	- The primary key must be given a value when a new record is inserted.
+
+**Composite Key**
+> A composite key is a primary key composed of multiple columns used to identify a record uniquely.
+![[Pasted image 20231129162312.png]]
 
 **Candidate key**
 > Is a Minimal super key. That mean no repetition Domain in Candidate key
