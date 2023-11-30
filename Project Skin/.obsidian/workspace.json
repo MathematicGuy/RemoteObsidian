@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "4c7ec17f4194c620",
+            "id": "7089007ff4062dd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOIN Table.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOIN Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOIN Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JOIN Table.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,10 +185,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4c7ec17f4194c620",
+  "active": "7089007ff4062dd8",
   "lastOpenFiles": [
     "Todo.md",
     "JOIN Table.md",
+    "Images/Pasted image 20231130195329.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20231130160422.png",
     "Images/Pasted image 20231130160420.png",
@@ -215,7 +207,6 @@
     "Key in RDBMS.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20231129163642.png",
-    "Images/Pasted image 20231129164040.png",
     "Normalization.md",
     "C Code Note.md",
     "_Focus/2023/Python/Python Hand-on DSA.md",
