@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Good for LATER.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Good for LATER.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Good for LATER.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -186,8 +185,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "27c3e1b1b3fe3fdf",
+  "active": "53fa2c7cc9450d30",
   "lastOpenFiles": [
+    "Personal/Good for LATER.md",
     "Todo.md",
     "Key in RDBMS.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
