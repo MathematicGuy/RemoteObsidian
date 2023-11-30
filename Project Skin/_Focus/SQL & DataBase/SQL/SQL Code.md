@@ -14,6 +14,9 @@ SQL Learning Tools
 		Hones your SQL Problems solving 
 
 ---
+Column - Field
+Row - Record
+
 Create Data Base
 ```sql
 -- 1) Create DB
@@ -188,8 +191,7 @@ WHERE hire_date IS NULL
 ```
 ![[Pasted image 20230814121723.png]]
 
-
- UPDATE DATA (Change Field and Record Value)
+**UPDATE DATA** (Change Field and Record Value)
  ```sql
 UPDATE employees
 SET hourly_pay = 10.25
@@ -282,9 +284,11 @@ where continent = 'Europe'
 ```
 ![[Pasted image 20231128153152.png]]
 
-**INNER JOIN** 
--- SELF JOIN
--- join another copy of a tbale to itself
+### **SQL JOIN** 
+[[JOIN Table]]
+
+**JOIN** (INNER JOIN)
+>-- join another table to itself
 -- used to compare rows of the same table
 -- helps to display a heirarchy of data
 ```sql
@@ -294,7 +298,6 @@ INNER JOIN customers AS b /*basically copy and paste the horizontally*/
 ON a.referral_id = b.customer_id
 ```
 ![[Pasted image 20231003142200.png]]
-
 ```sql
 SELECT a.customer_id, a.first_name, a.last_name,
 		CONCAT(b.f_name," ", b.l_name) AS "referred_by"
@@ -304,8 +307,47 @@ ON a.referral_id = b.customer_idff
 ```
 ![[Pasted image 20231003141924.png]]
 
+**LEFT JOIN**
+> Get all matching valid value, 
+> but left the unmatching valid only on the left and null on the right.
 
-GROUP BY
+**RIGHT JOIN**
+> Same as left join but reverse
+
+**FULL JOIN**
+> Left JOIN first
+> the RIGHT JOIN
+
+**UNION**
+> **Merge Data** from 2 tables **without duplicate.**
+> or
+> **Combine date** from 2 table **into 1 field and ignore the duplicate.**
+![[Pasted image 20231130143728.png]]
+```sql
+SELECT age
+FROM teacher
+UNION
+SELECT age
+FROM student;
+```
+
+**UNION ALL**
+> Conbine all data into 1 field.
+![[Pasted image 20231130143748.png]]
+```sql
+SELECT age
+FROM teacher
+UNION ALL
+SELECT age
+FROM student;
+```
+
+**CROSS** (CROSS JOIN) (Tổng đề các nhưng là 1 bên)
+**A x (C, D)** và **B x (C, D)**
+![[Pasted image 20231130144011.png]]
+
+
+**GROUP BY**
 = aggregate all rows by a specific column
 -- often used with aggregate functions
 ex. SUM(), MAX(), MIN(), AVG(), COUNT()

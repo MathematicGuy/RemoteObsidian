@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c67b2627fdc72543",
+        "id": "bc58f002e4f9c262",
         "type": "tabs",
         "children": [
           {
-            "id": "53fa2c7cc9450d30",
+            "id": "fb1208d20317a25a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,19 +23,20 @@
             }
           },
           {
-            "id": "27c3e1b1b3fe3fdf",
+            "id": "07452976d54a5abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Good for LATER.md",
+                "file": "JOIN Table.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "JOIN Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "JOIN Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "JOIN Table.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,10 +186,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53fa2c7cc9450d30",
+  "active": "07452976d54a5abc",
   "lastOpenFiles": [
-    "Personal/Good for LATER.md",
+    "Images/Pasted image 20231130144804.png",
+    "Images/Pasted image 20231130144753.png",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "JOIN Table.md",
+    "Images/Pasted image 20231130144011.png",
+    "Images/Pasted image 20231130143748.png",
+    "Images/Pasted image 20231130143744.png",
+    "Images/Pasted image 20231130143728.png",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
     "Todo.md",
+    "Git Requirement.md",
+    "Untitled.canvas",
+    "Personal/Good for LATER.md",
     "Key in RDBMS.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20231129163642.png",
@@ -196,20 +208,13 @@
     "Images/Pasted image 20231129162312.png",
     "Images/Pasted image 20231129161614.png",
     "Images/Pasted image 20231129160902.png",
-    "Images/Pasted image 20231129160841.png",
-    "Images/Pasted image 20231129160249.png",
-    "Images/Pasted image 20231129160247.png",
-    "Images/Pasted image 20231129160127.png",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
     "Normalization.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "C Code Note.md",
     "_Focus/2023/Python/Python Hand-on DSA.md",
     "Python.md",
     "_Focus/2023/Python/Snake Game (Broadly).md",
     "HCM Ideology Group Project.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "Images/Pasted image 20231128153152.png",
     "Company DB.md",
     "DB_HW4-2.md",
     "_Focus/2023/Challenges & Guides/Github.md",
@@ -221,9 +226,6 @@
     "WebDev/WebDev_Learn/HTML.md",
     "Product Page Design.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
-    "Club & Event/ISE/ISE.md",
-    "English Club Poster.md",
-    "SE_HW_Bank_ClassDiagram.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
