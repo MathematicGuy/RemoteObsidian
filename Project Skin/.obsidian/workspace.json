@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOIN Table.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOIN Table.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOIN Table.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,10 +193,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4c7ec17f4194c620",
+  "active": "fb1208d20317a25a",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "JOIN Table.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20231130160422.png",
     "Images/Pasted image 20231130160420.png",
     "_Focus/SQL & DataBase/SQL/SQL.md",

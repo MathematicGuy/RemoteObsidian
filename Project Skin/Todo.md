@@ -66,3 +66,5 @@ How to run App without downloading them
 - [ ] [AI for everyone](https://www.coursera.org/learn/ai-for-everyone?trk_ref=articleProductCard)
 - [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
 - [ ] [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [ ] [HUST AI and DS](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)
+	[ppts](https://drive.google.com/drive/folders/1wjiUmi5EjnzQ-umVUZJDhibCtSonI-5a)
