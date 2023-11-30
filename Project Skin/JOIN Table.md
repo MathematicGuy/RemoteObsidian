@@ -31,3 +31,8 @@ SELECT mdate,
   group by mdate, team1
   order by mdate, team1
 ```
+
+
+
+  FROM game JOIN goal ON matchid = id
+  group by mdate, team1, team2
