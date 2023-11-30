@@ -37,3 +37,4 @@ Or
 https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github (quick setup)
 
 
+[AI Prompt for Quality Code](https://pastebin.com/dLWDzE0m)
