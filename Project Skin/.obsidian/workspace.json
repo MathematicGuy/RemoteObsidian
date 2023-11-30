@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "07452976d54a5abc",
+            "id": "4c7ec17f4194c620",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,9 +164,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "5f9f6f9de97a737d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,18 +194,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "07452976d54a5abc",
+  "active": "4c7ec17f4194c620",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "Todo.md",
+    "JOIN Table.md",
+    "git push.md",
     "Images/Pasted image 20231130144804.png",
     "Images/Pasted image 20231130144753.png",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "JOIN Table.md",
     "Images/Pasted image 20231130144011.png",
     "Images/Pasted image 20231130143748.png",
     "Images/Pasted image 20231130143744.png",
     "Images/Pasted image 20231130143728.png",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "Todo.md",
     "Git Requirement.md",
     "Untitled.canvas",
     "Personal/Good for LATER.md",
@@ -207,7 +216,6 @@
     "Images/Pasted image 20231129164040.png",
     "Images/Pasted image 20231129162312.png",
     "Images/Pasted image 20231129161614.png",
-    "Images/Pasted image 20231129160902.png",
     "Normalization.md",
     "C Code Note.md",
     "_Focus/2023/Python/Python Hand-on DSA.md",

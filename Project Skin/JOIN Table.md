@@ -6,4 +6,7 @@ primary key:
 
 ![[Pasted image 20231130144753.png]]
 ![[Pasted image 20231130144804.png]]
+**
+
+
 
