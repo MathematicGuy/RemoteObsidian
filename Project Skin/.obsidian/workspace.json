@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cecd42026de1e9c0",
+        "id": "c67b2627fdc72543",
         "type": "tabs",
         "children": [
           {
-            "id": "dc873c583b98d0d7",
+            "id": "53fa2c7cc9450d30",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "02a53db1bf21db24",
+            "id": "27c3e1b1b3fe3fdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,10 +177,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "02a53db1bf21db24",
+  "active": "27c3e1b1b3fe3fdf",
   "lastOpenFiles": [
-    "Key in RDBMS.md",
     "Todo.md",
+    "Key in RDBMS.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20231129163642.png",
     "Images/Pasted image 20231129164040.png",
