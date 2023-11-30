@@ -385,6 +385,25 @@ select continent, name from world group by continent order by name asc
 > group first then order
 
 
+**[GROUP BY with SUM](https://learnsql.com/blog/case-when-with-sum/)**
+```sql
+SELECT 
+  department,
+  SUM (CASE
+    WHEN number_of_lectures > 20 THEN 1
+    ELSE 0
+  END) AS mandatory_subjects,
+  SUM (CASE
+    WHEN number_of_lectures <= 20 THEN 1
+    ELSE 0
+  END) AS elective_subjects
+FROM subject
+GROUP BY department;
+```
+
+
+
+
 **IN**
 > The `IN` operator **allows you to specify multiple values** in a `WHERE` clause. 
 ```sql
