@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb2c33ca7d1c7bf6",
+        "id": "dfe15719b9d929de",
         "type": "tabs",
         "children": [
           {
-            "id": "46ee62585cf56f6a",
+            "id": "8ce550d03a5f9d56",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -180,8 +180,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "46ee62585cf56f6a",
+  "active": "8ce550d03a5f9d56",
   "lastOpenFiles": [
+    "Todo.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Product Page Design.md",
     "WebDev/WebDev_Learn/Frontend.md",
@@ -193,7 +194,6 @@
     "CSS Desgin Pattern.md",
     "CSS Artistic.md",
     "CSS Kernel.md",
-    "Todo.md",
     "JOIN Table.md",
     "Images/Pasted image 20231130195329.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
