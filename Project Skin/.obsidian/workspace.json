@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "aea59fac3cf05dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,8 +180,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aea59fac3cf05dd6",
+  "active": "46ee62585cf56f6a",
   "lastOpenFiles": [
+    "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "Product Page Design.md",
+    "WebDev/WebDev_Learn/Frontend.md",
+    "WebDev/Web.md",
+    "Group Project.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "CSS Note.md",
+    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
+    "CSS Desgin Pattern.md",
+    "CSS Artistic.md",
+    "CSS Kernel.md",
     "Todo.md",
     "JOIN Table.md",
     "Images/Pasted image 20231130195329.png",
@@ -222,17 +219,6 @@
     "Python.md",
     "_Focus/2023/Python/Snake Game (Broadly).md",
     "HCM Ideology Group Project.md",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "Company DB.md",
-    "DB_HW4-2.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "CSS Curve.md",
-    "CSS Artistic.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "WebDev/HTML Code.md",
-    "CSS Note.md",
-    "WebDev/WebDev_Learn/HTML.md",
-    "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
