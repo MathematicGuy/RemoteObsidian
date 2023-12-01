@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfe15719b9d929de",
+        "id": "306decdf6cd178ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce550d03a5f9d56",
+            "id": "7e570542fa5a7a35",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7b3e009df65f1611",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,20 +185,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8ce550d03a5f9d56",
+  "active": "7b3e009df65f1611",
   "lastOpenFiles": [
     "Todo.md",
+    "CSS Curve.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "Github for Beginners.md",
+    "CSS Kernel.md",
+    "Element Positioning.md",
+    "WebDev/WebDev_Learn/CSS.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Product Page Design.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/Web.md",
     "Group Project.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "CSS Note.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "CSS Desgin Pattern.md",
     "CSS Artistic.md",
-    "CSS Kernel.md",
     "JOIN Table.md",
     "Images/Pasted image 20231130195329.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -216,9 +225,6 @@
     "Normalization.md",
     "C Code Note.md",
     "_Focus/2023/Python/Python Hand-on DSA.md",
-    "Python.md",
-    "_Focus/2023/Python/Snake Game (Broadly).md",
-    "HCM Ideology Group Project.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
