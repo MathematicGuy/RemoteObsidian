@@ -6,17 +6,14 @@
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
 #Todo/Code/ProjectWebGroup52
-- [ ]  Paper design my website while tham khảo trang web khác
 - [ ] Implement JS feature
 	- [ ] Add to product cart (Medium)
 	- [ ] Delete Item in Cart (Medium)
 	- [ ] Calc Total Price (Easy)
-
+- [ ] Make Import Page first then make Domestic Page later
 
 #Todo/Code/GroupProjectPlanning
-- [ ] Tổng hợp kiến thức và luyện nói phần CNXH 
-- [ ] Ghi âm thêm 3 đoạn cuối để ghép vào phần nói.
-- [ ] Ghi âm thêm đoạn kết luận phần đọc
+
 
 #Todo/Prioritise
 - [ ] Learn CSS position and how to use value
