@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc58f002e4f9c262",
+        "id": "cb2c33ca7d1c7bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1208d20317a25a",
+            "id": "46ee62585cf56f6a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "7089007ff4062dd8",
+            "id": "aea59fac3cf05dd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/WebDev_Learn/CSS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WebDev/WebDev_Learn/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WebDev/WebDev_Learn/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WebDev/WebDev_Learn/CSS.md"
+              }
             }
           },
           {
@@ -185,7 +194,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7089007ff4062dd8",
+  "active": "aea59fac3cf05dd6",
   "lastOpenFiles": [
     "Todo.md",
     "JOIN Table.md",
