@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "306decdf6cd178ad",
+        "id": "88d311fd4e6846ce",
         "type": "tabs",
         "children": [
           {
-            "id": "7e570542fa5a7a35",
+            "id": "e31032936ac5ecdb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7b3e009df65f1611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,16 +180,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b3e009df65f1611",
+  "active": "e31032936ac5ecdb",
   "lastOpenFiles": [
-    "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
     "Todo.md",
+    "WebDev/WebDev_Learn/CSS.md",
     "CSS Curve.md",
+    "CSS Artistic.md",
+    "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
+    "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Github for Beginners.md",
     "CSS Kernel.md",
     "Element Positioning.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Product Page Design.md",
     "WebDev/WebDev_Learn/Frontend.md",
@@ -212,7 +200,6 @@
     "CSS Note.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "CSS Desgin Pattern.md",
-    "CSS Artistic.md",
     "JOIN Table.md",
     "Images/Pasted image 20231130195329.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -233,7 +220,6 @@
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20231129163642.png",
     "Normalization.md",
-    "C Code Note.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
