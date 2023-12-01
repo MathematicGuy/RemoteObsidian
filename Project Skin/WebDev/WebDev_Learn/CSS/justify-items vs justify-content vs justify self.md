@@ -20,7 +20,6 @@ justify-items:flex-end;
 ![[Pasted image 20231021140722.png]]
 
 
-
 **justify-content:** 
 > Justify the THE POTISION OF ITEMS base on CURRENT BOX AXIS  
 ```css

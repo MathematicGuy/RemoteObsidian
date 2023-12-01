@@ -26,8 +26,13 @@
             "id": "7b3e009df65f1611",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WebDev/WebDev_Learn/CSS/CSS Flex Box.md"
+              }
             }
           },
           {
@@ -187,6 +196,7 @@
   },
   "active": "7b3e009df65f1611",
   "lastOpenFiles": [
+    "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
     "Todo.md",
     "CSS Curve.md",
     "_Focus/2023/Challenges & Guides/Github.md",
@@ -224,7 +234,6 @@
     "Images/Pasted image 20231129163642.png",
     "Normalization.md",
     "C Code Note.md",
-    "_Focus/2023/Python/Python Hand-on DSA.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
