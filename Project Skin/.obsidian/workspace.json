@@ -26,12 +26,30 @@
             "id": "bec6d4e92bbcd730",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Class Selector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c48630d9165e1945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Artistic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS Artistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS Artistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS Artistic.md"
+              }
             }
           },
           {
@@ -185,8 +207,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bec6d4e92bbcd730",
+  "active": "c48630d9165e1945",
   "lastOpenFiles": [
+    "Class Selector.md",
+    "CSS Kernel.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "WebDev/WebDev_Learn/HTML.md",
+    "CSS Artistic.md",
     "Todo.md",
     "Student Management Application (JAVA).canvas",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
@@ -197,7 +224,6 @@
     "Images/Pasted image 20231202082502.png",
     "Images/Pasted image 20231202082430.png",
     "Images/Pasted image 20231202082350.png",
-    "CSS Artistic.md",
     "Design Note.md",
     "JS CHEAT SHEET.md",
     "Images/Pasted image 20231202082030.png",
@@ -209,13 +235,11 @@
     "_Focus/2023/Last Semester/Software Engineering.md",
     "USER STORIES.md",
     "Lecture 1 - Software Engineering Overview.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "CSS Curve.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Github for Beginners.md",
-    "CSS Kernel.md",
     "Element Positioning.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Product Page Design.md",
@@ -223,7 +247,6 @@
     "WebDev/Web.md",
     "Group Project.md",
     "CSS Note.md",
-    "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
     "Images/Pasted image 20231130195329.png",
     "Untitled.canvas",
     "Personal/Programming Skill",

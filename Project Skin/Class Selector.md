@@ -58,7 +58,7 @@ div + p {
 }
 ```
 
-[**General Sibling Selector (~)**]([W3Schools Tryit Editor](https://www.w3schools.com/Css/tryit.asp?filename=trycss_sel_element_tilde))
+[**General Sibling Selector (~)**]([W3Schools Tryit Editor](https://www.w3schools.com/Css/tryit.asp?filename=trycss_sel_element_tilde)) (ptử anh em là phần tử cùng 1 hàng)
 ```html
 <div>
   <p>Paragraph 2.</p>

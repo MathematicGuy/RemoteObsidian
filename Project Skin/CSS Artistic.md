@@ -8,7 +8,7 @@
 
 [CSS Shadow](https://getcssscan.com/css-box-shadow-examples) 
 [[CSS Curve]]
-
+[Mouse Area Glow Effect](https://youtu.be/htGfnF1zN4g?si=R6GKHJwVR5jbzbGh)
 
 [Font Awesome Icon](https://www.w3schools.com/icons/fontawesome_icons_directional.asp)
 ```html
