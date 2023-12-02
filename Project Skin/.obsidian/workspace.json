@@ -26,8 +26,13 @@
             "id": "6a047de45c91ee6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+              }
             }
           },
           {
@@ -187,6 +196,9 @@
   },
   "active": "6a047de45c91ee6c",
   "lastOpenFiles": [
+    "USER STORIES.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Lecture 1 - Software Engineering Overview.md",
     "Todo.md",
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Curve.md",
@@ -221,10 +233,7 @@
     "Git Requirement.md",
     "Untitled.canvas",
     "Personal/Good for LATER.md",
-    "Key in RDBMS.md",
-    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20231129163642.png",
-    "Normalization.md",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
