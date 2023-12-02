@@ -2,5 +2,6 @@
 
 ### [[JS Frontend]]
 
+### [[JS CHEAT SHEET]]
 [[JS Summary]]
 

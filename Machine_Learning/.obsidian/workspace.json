@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "1f9bda67bc80c514",
+            "id": "dcd583a4410004fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What Is AI.md",
+                "file": "LLM (Large Language Model).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "LLM (Large Language Model).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "LLM (Large Language Model).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "LLM (Large Language Model).md"
               }
             }
           },
@@ -172,12 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "595e98fb057d501a",
+  "active": "dcd583a4410004fe",
   "lastOpenFiles": [
-    "AI For Everyone.md",
-    "What Is AI.md",
-    "Image/Pasted image 20231123101510.png",
     "Machine Learning.md",
+    "LLM (Large Language Model).md",
+    "What Is AI.md",
+    "AI For Everyone.md",
+    "Image/Pasted image 20231123101510.png",
     "Image/Pasted image 20231123093222.png",
     "Image/Pasted image 20231123093029.png",
     "AI.md",

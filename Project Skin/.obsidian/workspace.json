@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fe50a997a8eed1a",
+        "id": "37374f4e13f2de89",
         "type": "tabs",
         "children": [
           {
-            "id": "23576ddbd6c76f53",
+            "id": "e11e1b93f1656561",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6a047de45c91ee6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,15 +180,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a047de45c91ee6c",
+  "active": "e11e1b93f1656561",
   "lastOpenFiles": [
-    "USER STORIES.md",
+    "Web Designs.md",
+    "Images/Pasted image 20231202082533.png",
+    "Images/Pasted image 20231202082502.png",
+    "Images/Pasted image 20231202082430.png",
+    "Images/Pasted image 20231202082350.png",
+    "CSS Artistic.md",
+    "Design Note.md",
+    "JS CHEAT SHEET.md",
+    "Images/Pasted image 20231202082030.png",
+    "Images/Pasted image 20231202082019.png",
+    "Images/Pasted image 20231202081953.png",
+    "Images/Pasted image 20231202081921.png",
+    "Images/Pasted image 20231202081913.png",
+    "WebDev/WebDev_Learn/JS/JS.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
+    "USER STORIES.md",
     "Lecture 1 - Software Engineering Overview.md",
     "Todo.md",
     "WebDev/WebDev_Learn/CSS.md",
     "CSS Curve.md",
-    "CSS Artistic.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
     "_Focus/2023/Challenges & Guides/Github.md",
@@ -219,21 +218,7 @@
     "CSS Desgin Pattern.md",
     "JOIN Table.md",
     "Images/Pasted image 20231130195329.png",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Images/Pasted image 20231130160422.png",
-    "Images/Pasted image 20231130160420.png",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "git push.md",
-    "Images/Pasted image 20231130144804.png",
-    "Images/Pasted image 20231130144753.png",
-    "Images/Pasted image 20231130144011.png",
-    "Images/Pasted image 20231130143748.png",
-    "Images/Pasted image 20231130143744.png",
-    "Images/Pasted image 20231130143728.png",
-    "Git Requirement.md",
     "Untitled.canvas",
-    "Personal/Good for LATER.md",
-    "Images/Pasted image 20231129163642.png",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
