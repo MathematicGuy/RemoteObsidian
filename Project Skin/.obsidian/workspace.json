@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37374f4e13f2de89",
+        "id": "bcf4926b1398cfaa",
         "type": "tabs",
         "children": [
           {
-            "id": "e11e1b93f1656561",
+            "id": "f79e3064529d23cf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bec6d4e92bbcd730",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,13 +185,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e11e1b93f1656561",
+  "active": "bec6d4e92bbcd730",
   "lastOpenFiles": [
+    "Todo.md",
     "Student Management Application (JAVA).canvas",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
     "_Focus/This is my Life.canvas",
     "_Focus/assist me.md",
-    "Todo.md",
     "Web Designs.md",
     "Images/Pasted image 20231202082533.png",
     "Images/Pasted image 20231202082502.png",
