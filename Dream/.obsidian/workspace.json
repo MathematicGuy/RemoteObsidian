@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "195fd80e6ff2690e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d9f8b2df8aa1768d",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +178,8 @@
   },
   "active": "d9f8b2df8aa1768d",
   "lastOpenFiles": [
-    "Going to Space.md",
     "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
+    "Going to Space.md",
     "Learning How To Learn.md",
     "Productivity & Improvement/Mindset.md",
     "My Life/Procrastinate (ADHD).md",

@@ -1,1 +1,0 @@
-+ No playing game in classroom
