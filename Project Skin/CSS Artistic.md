@@ -6,9 +6,14 @@
 	[Arrow Animation ](https://youtu.be/UTHgr6NLeEw?si=wEEHs0pSssOHk-R1&t=192)
 	![[Pasted image 20231024113201.png]]
 
-[CSS Shadow](https://getcssscan.com/css-box-shadow-examples) 
-[[CSS Curve]]
-[Mouse Area Glow Effect](https://youtu.be/htGfnF1zN4g?si=R6GKHJwVR5jbzbGh)
+[CSS Shadow](https://getcssscan.com/css-box-shadow-examples)
+
+
+#### [[CSS Cool Designs]]
++ [[CSS Curve]]
++ [Mouse Area Glow Effect](https://youtu.be/htGfnF1zN4g?si=R6GKHJwVR5jbzbGh)
+
+
 
 [Font Awesome Icon](https://www.w3schools.com/icons/fontawesome_icons_directional.asp)
 ```html
