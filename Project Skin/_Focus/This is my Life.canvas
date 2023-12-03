@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"f93cc482c0ac31eb","x":-220,"y":180,"width":460,"height":50,"type":"text","text":"\" Money doesn't matter as long as your bills are paid \""},
+		{"id":"81caceb849b16dc1","x":-190,"y":260,"width":400,"height":60,"type":"text","text":"My happiness worth more than a paycheck"}
+	],
+	"edges":[]
+}
