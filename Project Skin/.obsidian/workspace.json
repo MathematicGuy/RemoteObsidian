@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aad9be6464cf5335",
+        "id": "61240bfcbd743bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "4d711f42616ed3f3",
+            "id": "79d896ac0e8c43a7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3f9ff7123c917216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML Class Diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Class Diagrams.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML Class Diagrams.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3f9ff7123c917216",
+  "active": "79d896ac0e8c43a7",
   "lastOpenFiles": [
     "Lecture 1 - Software Engineering Overview.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
