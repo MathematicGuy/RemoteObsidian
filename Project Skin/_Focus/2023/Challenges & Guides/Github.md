@@ -145,7 +145,7 @@ git fetch origin
 git switch branch_name
 ```
 
-Change Last Git Msg
+Change Last Git Msg (recommit)
 ```bash
 git commit --amend -m "cooler msg!"
 ```

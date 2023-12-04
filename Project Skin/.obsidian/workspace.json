@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/HTML.md"
+                "file": "_Focus/2023/Challenges & Guides/Github.md"
               }
             }
           },
@@ -196,6 +196,9 @@
   },
   "active": "14326ceb3aedf653",
   "lastOpenFiles": [
+    "CSS Kernel.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "WebDev/WebDev_Learn/HTML.md",
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
@@ -210,9 +213,6 @@
     "Images/Pasted image 20231203090944.png",
     "Class Selector.md",
     "Web Designs.md",
-    "CSS Kernel.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "WebDev/WebDev_Learn/HTML.md",
     "Student Management Application (JAVA).canvas",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
     "_Focus/assist me.md",
