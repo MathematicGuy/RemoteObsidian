@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf4926b1398cfaa",
+        "id": "6b974be1278d35c1",
         "type": "tabs",
         "children": [
           {
-            "id": "f79e3064529d23cf",
+            "id": "0e7b5755599c7a1e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "df950917c48408f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS DOM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS DOM.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS DOM.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS DOM.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,10 +180,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df950917c48408f3",
+  "active": "0e7b5755599c7a1e",
   "lastOpenFiles": [
-    "JS Fundamental.md",
+    "Github for Beginners.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "JS DOM.md",
+    "JS Fundamental.md",
     "WebDev/WebDev_Learn/JS/JS.md",
     "CSS Artistic.md",
     "CSS Cool Designs.md",
@@ -229,8 +217,6 @@
     "CSS Curve.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "Github for Beginners.md",
     "Element Positioning.md",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Product Page Design.md",
