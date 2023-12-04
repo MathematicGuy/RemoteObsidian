@@ -66,7 +66,7 @@ Sign meaning
 > Represents a "whole-part" relationship, where a part can exist independently of the whole.
 	![[Pasted image 20231108095959.png]]
 Ex:
-> A turtoise can leave a creep and exist on it own.
+> A turtoise can leave a creep and exist on it own. (0...1)
 ![[Pasted image 20231108084256.png]]
 
 
@@ -78,7 +78,7 @@ Ex: Vtuber Sim couldn't exist without Vtuber
 > Lobby and Bathroom cannot exist without Visitor center
 > If the Visitor was destroyed, Lobby and Bathroom will be destroy also.
 ![[Pasted image 20231108083606.png]]
-
+(1...1)
 
 #### **Mulplicity**
 + * -> zero or more instances

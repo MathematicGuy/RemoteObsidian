@@ -26,8 +26,13 @@
             "id": "3f9ff7123c917216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UML Class Diagrams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UML Class Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UML Class Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UML Class Diagrams.md"
+              }
             }
           },
           {
@@ -187,6 +196,8 @@
   },
   "active": "3f9ff7123c917216",
   "lastOpenFiles": [
+    "Lecture 1 - Software Engineering Overview.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
     "Todo.md",
     "CSS Kernel.md",
     "WebDev/WebDev_Learn/CSS.md",
@@ -218,9 +229,7 @@
     "Images/Pasted image 20231202081953.png",
     "Images/Pasted image 20231202081921.png",
     "Images/Pasted image 20231202081913.png",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "USER STORIES.md",
-    "Lecture 1 - Software Engineering Overview.md",
     "CSS Curve.md",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS/justify-items vs justify-content vs justify self.md",
