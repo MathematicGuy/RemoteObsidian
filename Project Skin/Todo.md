@@ -10,7 +10,6 @@
 	- [ ] Add to product cart (Medium)
 	- [ ] Delete Item in Cart (Medium)
 	- [ ] Calc Total Price (Easy)
-- [ ] Make Import Page first then make Domestic Page later
 
 #Todo/Code/GroupProjectPlanning
 
@@ -18,9 +17,6 @@
 #Todo/Prioritise
 - [ ] Learn CSS position and how to use value
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
-- [ ] Let ChatGPT check my Week 4 DataBase HW
-- [ ] English Club Postal for Recruiting New Members (DeadLine 29th)
-
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
