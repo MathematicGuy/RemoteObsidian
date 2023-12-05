@@ -10,3 +10,9 @@
 ## [[SQL tips and tool]]
 
 ## [[Normalization - 1NF, 2NF, 3NF, 4NF, 5NF]]
+
+
+
+---
+
+### [[SQL Revision]]

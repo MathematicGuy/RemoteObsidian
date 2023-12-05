@@ -19,7 +19,7 @@ Chapter 2: [Relational Database Model](https://youtu.be/Q45sr5p_NmQ?si=3fARpsri-
 Chapter 3: Relational Algebra   
 3.1  Outer Join Operation (4 types of Outer Join)
 [[3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4]]
-3.3  Represent the relational algebra for following query from COMPANY relational DB in 2.1. While also display result of each query as applied to the database state given in 2.4
+3.3  Represent the relational algebra for following query from COMPANY relational DB in 2.1. While also display result of each query as applied to the database state given in 2.4 
 
 note:
 + Đừng phân biệt dựa vào ngoặc.
