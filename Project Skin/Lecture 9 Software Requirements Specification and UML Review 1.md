@@ -6,5 +6,3 @@
 	They are better at assessing and plannign documentation projects and customer document needs.
 
 **Contents of the SRS**
-
-1) 
