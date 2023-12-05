@@ -7,7 +7,7 @@
 	![[Pasted image 20231024113201.png]]
 
 [CSS Shadow](https://getcssscan.com/css-box-shadow-examples)
-
+[CSS Tools](                    <img src="images/gift-wrapping-stock-photography-ribbon-clip-art-ribbon-bow-deb7cbe87e7c2adff020cf3da9b55239.png" alt="">)
 
 #### [[CSS Cool Designs]]
 + [[CSS Curve]]

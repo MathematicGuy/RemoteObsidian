@@ -140,7 +140,9 @@ Bug fix: Add 1 data with Pnumber = 5.0 in PROJECT table
 **3.1, 3.2, 3.3**
 ![[3.1.jpg]]![[3.1.2.jpg]]
 ![[3.1.3.jpg]]
-![[3.1.4.jpg]]![[3.1.5.jpg]]
+
+![[3.1.4.jpg]]
+![[3.1.5.jpg]]
 
 ![[3.1.6.jpg]]
 
