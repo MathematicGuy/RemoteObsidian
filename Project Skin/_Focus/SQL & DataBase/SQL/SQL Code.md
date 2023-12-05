@@ -595,3 +595,24 @@ where (population/3) > ALL (
 ```
 > "and x.name != y.name" because the
 > **Biggest contry can only Large than 3, but not more than 3 compare to itself**  
+
+**PROCEDURE**
+> Stored Procedure = save SQL code to a Function (yea, like function in python) 
+Advantaged:
+	+ reduce network traffic
+	+ secure, admin can grant permisson to use
+	+ increase memory usage of every connection
+```sql
+DELIMITER $$
+CREATE PROCEDURE find_customer (IN f_name VARCHAR(50),
+										  IN l_name VARCHAR(50))
+BEGIN
+	SELECT *
+	FROM customers
+	WHERE first name = f_name AND last_name = l_name;
+END
+```
+Call the Procedure
+```sql
+CALL find_customer("Larry", "Lobster");
+```
