@@ -36,6 +36,7 @@
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8)
+- [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
