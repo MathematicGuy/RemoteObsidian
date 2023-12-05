@@ -41,6 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e00e16ef7bd2ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "JOIN Table.md",
                 "mode": "source",
                 "backlinks": false,
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,11 +220,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f312f2e990e2e87b",
+  "active": "9e00e16ef7bd2ee7",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "JOIN Table.md",
     "Lecture 9 Software Requirements Specification and UML Review 1.md",
     "Todo.md",
-    "JOIN Table.md",
     "Images/Pasted image 20231205202427.png",
     "Images/Pasted image 20231205182723.png",
     "Images/Pasted image 20231205182717.png",
@@ -219,7 +233,6 @@
     "Images/Pasted image 20231205182708.png",
     "Images/Pasted image 20231205182700.png",
     "Images/Pasted image 20231205182655.png",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DataCamp.md",
     "DB_HW4-1.md",

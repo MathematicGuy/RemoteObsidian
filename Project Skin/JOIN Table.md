@@ -40,6 +40,24 @@ ORDER BY mdate, matchid
 ++ ORDER BY matchid because there might be 2 match in the same day. Using matchid we can identify which start first and which start later. 
 
 
+```sql
+select name, title from actor JOIN movie 
+where yr=1962 and
+```
+
+```sql
+select title, name from movie JOIN actor ON
+select name from actor
+where actor.id IN (select actorid from movie JOIN casting ON movieid = id where yr=1962 and ord = 1)
+```
+
+```sql
+select name, title from movie JOIN actor 
+where movie.id IN (select id from movie where yr=1962)
+and actor.id IN (select actorid from casting where ord=1)
+```
+
+
 ### Movie DB
 
 ![[Pasted image 20231205202427.png]]
