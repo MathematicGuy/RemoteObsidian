@@ -37,6 +37,7 @@
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8)
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
+- [ ] [mua dây sạc mới](https://banphimlaptopviet.vn/thanh-toan)
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)

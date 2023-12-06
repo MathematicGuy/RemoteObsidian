@@ -47,11 +47,13 @@ C can write all sort of application
 + Sometimes because of its wealth of operators and its conciseness, it makes the language difficult to read and follow
 	+ Code may cause obscure without a deeply understanding.
 
+
+
 ### Creating a C Program (note later)
 ![[Pasted image 20231115131438.png]]
 note: Compiling a C program is a separate step from Linking a C program
 
 
-## [[New C]]
+## [[C Note]]
 
 ## [[C Code Note]]
