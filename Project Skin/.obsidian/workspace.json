@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "f312f2e990e2e87b",
+            "id": "18ee9558f63436cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL JOIN.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a6697c785f70720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "DB_HW5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "DB_HW5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "DB_HW5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "DB_HW5.md"
               }
             }
           },
@@ -207,13 +194,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a6697c785f70720",
+  "active": "18ee9558f63436cf",
   "lastOpenFiles": [
-    "SQL JOIN.md",
+    "DB_HW5.md",
+    "Images/Pasted image 20231206100645.png",
+    "Images/Pasted image 20231206100634.png",
+    "Images/Pasted image 20231206100621.png",
+    "Images/Pasted image 20231206100611.png",
     "Todo.md",
-    "Images/Pasted image 20231206091223.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "DB_HW4-2.md",
+    "Summary DB_HW2.md",
     "JOIN Table.md",
+    "SQL JOIN.md",
+    "Images/Pasted image 20231206091223.png",
     "CSS Artistic.md",
     "WebDev/WebDev_Learn/CSS.md",
     "Lecture 9 Software Requirements Specification and UML Review 1.md",
@@ -222,26 +217,18 @@
     "Images/Pasted image 20231205182717.png",
     "Images/Pasted image 20231205182713.png",
     "Images/Pasted image 20231205182708.png",
-    "Images/Pasted image 20231205182700.png",
-    "Images/Pasted image 20231205182655.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "DataCamp.md",
     "DB_HW4-1.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
     "CSS Curve.md",
     "CSS Cool Designs.md",
     "CSS Note.md",
     "CSS Kernel.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Summary DB_HW2.md",
     "Relational Algebra Operations.md",
-    "DB_HW4-2.md",
     "SQL Revision.md",
-    "Images/Pasted image 20231205122759.png",
-    "Images/Pasted image 20231205121504.png",
     "Relational Data Base Model.md",
-    "DB_HW5.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "Front-end Power Learning Tools.md",
     "_Focus/This is my Life.canvas",
