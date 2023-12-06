@@ -284,7 +284,7 @@ where continent = 'Europe'
 ```
 ![[Pasted image 20231128153152.png]]
 
-### **SQL JOIN**  
+### **[[SQL JOIN]]**  
 note: JOIN doesn't have to have condition, but RIGHT/LEFT JOIN must have condition 
 [[JOIN Table]]
 

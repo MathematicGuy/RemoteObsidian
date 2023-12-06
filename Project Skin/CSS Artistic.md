@@ -8,6 +8,7 @@
 
 [CSS Shadow](https://getcssscan.com/css-box-shadow-examples)
 [CSS Tools](                    <img src="images/gift-wrapping-stock-photography-ribbon-clip-art-ribbon-bow-deb7cbe87e7c2adff020cf3da9b55239.png" alt="">)
+[CSS :has() - Select all sibling of an elements](https://youtube.com/shorts/Ue3VUsZwAJ0?si=yOcewFCFwoGDcB0O)
 
 #### [[CSS Cool Designs]]
 + [[CSS Curve]]
