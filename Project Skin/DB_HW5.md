@@ -3,7 +3,7 @@
 *instructor & course*
 ![[Pasted image 20231206100611.png]]
 
-
+![[Pasted image 20231206100611.png]]
 
 *prereq, department & teaches*
 ![[Pasted image 20231206100621.png]]
@@ -29,7 +29,9 @@ Với những giảng viên chưa dạy bất kỳ lớp học phần nào thì 
 họ là 0.**
 
 ```sql
-
+select instructor.ID , instructor.name, COUNT(course_id) as teaches_courses
+from instructor LEFT OUTER JOIN teaches ON instructor.ID = teaches.ID
+GROUP BY instructor.ID, instructor.name
 ```
 
 
@@ -38,7 +40,9 @@ ngoài.**
 
 
 ```sql
-
+select instructor.ID, count(course_id) AS teaches from teaches, instructor 
+where instructor.ID = teaches.ID
+GROUP BY instructor.ID  
 ```
 
 **c) Hiển thị danh sách tất cả các lớp học phần vào mùa xuân 2010, cùng với tên của giảng

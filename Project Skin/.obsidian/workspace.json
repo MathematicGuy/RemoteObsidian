@@ -34,6 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "763c65a4e9dfe319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -196,13 +209,14 @@
   },
   "active": "18ee9558f63436cf",
   "lastOpenFiles": [
+    "Todo.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW5.md",
     "Images/Pasted image 20231206100645.png",
     "Images/Pasted image 20231206100634.png",
     "Images/Pasted image 20231206100621.png",
     "Images/Pasted image 20231206100611.png",
-    "Todo.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "DB_HW4-2.md",
     "Summary DB_HW2.md",
@@ -217,7 +231,6 @@
     "Images/Pasted image 20231205182717.png",
     "Images/Pasted image 20231205182713.png",
     "Images/Pasted image 20231205182708.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "DataCamp.md",
     "DB_HW4-1.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
