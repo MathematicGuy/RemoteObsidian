@@ -517,3 +517,8 @@ void main(){
 }
 ```
 
+**FILE**
+gets();  
+	read all line
+scanf();
+	read all line until space (stop scanning when there a space)

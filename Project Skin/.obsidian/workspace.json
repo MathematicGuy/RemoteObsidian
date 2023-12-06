@@ -26,8 +26,13 @@
             "id": "3ae53a80730ccc3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C Code Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C Code Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C Code Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C Code Note.md"
+              }
             }
           },
           {
@@ -187,6 +196,7 @@
   },
   "active": "3ae53a80730ccc3a",
   "lastOpenFiles": [
+    "Fundamentals of a Program.md",
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB_HW5.md",
