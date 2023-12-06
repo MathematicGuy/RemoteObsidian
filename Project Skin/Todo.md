@@ -12,7 +12,8 @@
 	- [ ] Calc Total Price (Easy)
 
 #Todo/Code/GroupProjectPlanning
-
+- [ ] Luyện nói phần 5 
+	(Khái quát phương hướng cơ bản tăng cường liên minh GC- tầng lớp trong thời kỳ quá độ lên CNXH ở Việt Nam.)
 
 #Todo/Prioritise
 - [ ] Learn CSS position and how to use value

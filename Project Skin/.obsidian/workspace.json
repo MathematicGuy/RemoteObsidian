@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Note.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Note.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Note.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,11 +193,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e405cf6358c08b88",
+  "active": "f205583340e4ee7d",
   "lastOpenFiles": [
+    "C Note.md",
     "Images/DatatypesInC.jpg",
     "Fundamentals of a Program.md",
-    "C Note.md",
     "Todo.md",
     "New C.md",
     "C Code Note.md",
@@ -222,7 +221,6 @@
     "Images/Pasted image 20231205182723.png",
     "Images/Pasted image 20231205182717.png",
     "Images/Pasted image 20231205182713.png",
-    "Images/Pasted image 20231205182708.png",
     "DataCamp.md",
     "DB_HW4-1.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
