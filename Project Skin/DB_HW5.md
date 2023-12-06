@@ -5,6 +5,7 @@
 
 ![[Pasted image 20231206100611.png]]
 
+
 *prereq, department & teaches*
 ![[Pasted image 20231206100621.png]]
 
@@ -54,7 +55,9 @@ COALESCE (A1, A2, ..., An) trả về Ai khác
 
 
 ```sql
-
+select ID, COUNT(ID) from teaches 
+JOIN section ON section.course_id = teaches.course_id   
+WHERE section.year=2010 and section.semester='Spring' GROUP BY ID;
 ```
 
 

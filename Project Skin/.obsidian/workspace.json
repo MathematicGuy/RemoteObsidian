@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32b8968c834267a9",
+        "id": "84a0f0f341d218c3",
         "type": "tabs",
         "children": [
           {
-            "id": "443e5674ad696d37",
+            "id": "f205583340e4ee7d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,29 +23,11 @@
             }
           },
           {
-            "id": "18ee9558f63436cf",
+            "id": "3ae53a80730ccc3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "763c65a4e9dfe319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -116,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DB_HW5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,12 +185,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "18ee9558f63436cf",
+  "active": "3ae53a80730ccc3a",
   "lastOpenFiles": [
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW5.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231206100645.png",
     "Images/Pasted image 20231206100634.png",
     "Images/Pasted image 20231206100621.png",
