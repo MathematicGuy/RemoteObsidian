@@ -12,11 +12,8 @@
 	- [ ] Calc Total Price (Easy)
 
 #Todo/Code/GroupProjectPlanning
-- [ ] Luyện nói phần 5 
-	(Khái quát phương hướng cơ bản tăng cường liên minh GC- tầng lớp trong thời kỳ quá độ lên CNXH ở Việt Nam.)
 
 #Todo/Prioritise
-- [ ] Learn CSS position and how to use value
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
 
 #Todo/Later
@@ -27,7 +24,6 @@
 
 
 #Todo/Code/WebDev
-- [ ] Learn Bootstrap 
 - [ ] Learn JS -> React
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
@@ -38,7 +34,6 @@
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8)
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-- [ ] [mua dây sạc mới](https://banphimlaptopviet.vn/thanh-toan)
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
@@ -52,15 +47,14 @@
 
 #Todo/Entertainment
 - [ ] Undead Unluck chap36
-- [ ] AOH2 The Fall of Curtain senario
 
 **Ideas**
 How to run App without downloading them
 
-
 #Todo/AI
 - [ ] [AI for everyone](https://www.coursera.org/learn/ai-for-everyone?trk_ref=articleProductCard)
 - [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
+- [ ] [Linear Algebra - Beginner Level - Imperial College of London](https://www.coursera.org/learn/linear-algebra-machine-learning) 
 - [ ] [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [ ] [HUST AI and DS](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)
 	[ppts](https://drive.google.com/drive/folders/1wjiUmi5EjnzQ-umVUZJDhibCtSonI-5a)
