@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9f8b2df8aa1768d",
+            "id": "f97a94154b04eb24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Going to Space.md",
+                "file": "How To/How to Study when you Tired after school.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Going to Space.md",
+                "file": "How To/How to Study when you Tired after school.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Going to Space.md",
+                "file": "How To/How to Study when you Tired after school.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Going to Space.md"
+                "file": "How To/How to Study when you Tired after school.md"
               }
             }
           },
@@ -176,10 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9f8b2df8aa1768d",
+  "active": "f97a94154b04eb24",
   "lastOpenFiles": [
-    "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
+    "How To/How to Study when you Tired after school.md",
     "Going to Space.md",
+    "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
     "Learning How To Learn.md",
     "Productivity & Improvement/Mindset.md",
     "My Life/Procrastinate (ADHD).md",
@@ -204,7 +204,6 @@
     "Productivity & Improvement/Techno Project.md",
     "Productivity & Improvement/Study Strategies.md",
     "Social/Social.md",
-    "Productivity & Improvement/Mindset of Successful Programmers.md",
     "Social",
     "How To",
     "Happiness",

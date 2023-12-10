@@ -2,20 +2,11 @@
 
 *instructor & course*
 ![[Pasted image 20231206100611.png]]
-
 ![[Pasted image 20231206100611.png]]
-
-
 *prereq, department & teaches*
 ![[Pasted image 20231206100621.png]]
-
-
-
 *section, student*
 ![[Pasted image 20231206100634.png]]
-
-
-
 *takes*
 ![[Pasted image 20231206100645.png]]
 

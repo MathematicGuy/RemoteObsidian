@@ -10,11 +10,14 @@
 	- [ ] Add to product cart (Medium)
 	- [ ] Delete Item in Cart (Medium)
 	- [ ] Calc Total Price (Easy)
+- [ ] Header disappered when scroll down
 
 #Todo/Code/GroupProjectPlanning
 
+
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
+
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)

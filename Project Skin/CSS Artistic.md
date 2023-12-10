@@ -7,12 +7,13 @@
 	![[Pasted image 20231024113201.png]]
 
 [CSS Shadow](https://getcssscan.com/css-box-shadow-examples)
-[CSS Tools](                    <img src="images/gift-wrapping-stock-photography-ribbon-clip-art-ribbon-bow-deb7cbe87e7c2adff020cf3da9b55239.png" alt="">)
+CSS Tools
 [CSS :has() - Select all sibling of an elements](https://youtube.com/shorts/Ue3VUsZwAJ0?si=yOcewFCFwoGDcB0O)
 
-#### [[CSS Cool Designs]]
+#### CSS Cool Designs
 + [[CSS Curve]]
 + [Mouse Area Glow Effect](https://youtu.be/htGfnF1zN4g?si=R6GKHJwVR5jbzbGh)
++ [Full-width bg inside a container](https://youtube.com/shorts/81pnuZFarRw?si=L_5x5aSgeKJKQTka)
 
 
 
