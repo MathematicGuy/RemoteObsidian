@@ -66,6 +66,7 @@ Chỉ chọn những Usecase chính cho Diagram
 ### [[USER STORIES]]
 
 
-# [[Lecture 9 Software Requirements Specification and UML Review 1]]
+# [[Lecture 9 Software Requirements Specification and UML Review 1 + 2]]
+
 
 
