@@ -27,3 +27,12 @@
 	+ Cấu Trúc dữ liệu.
 	+ Thuật Toán.
 Khác Cao Đẳng -> Chuyên về Thực Hành
+
+### Feeling Shitty about myself and Not doing anything
+Reason: **self-destruction, self-blamming, etc...**
+	make me feel even shittier when I'm already shitty.
+Solution: **Affirmation**
+	Help me starting to believe, feeling positive, energetic, more likely to doing stuffs.
+ 
+ >**" Why made your-self worst when you can be a god "**  
+ 

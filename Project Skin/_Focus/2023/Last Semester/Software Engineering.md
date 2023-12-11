@@ -1,8 +1,14 @@
 [ONIX Solution Company ](https://onix-systems.com/contact-us?salesChannel=7+basic+software+development+models+which+one+to+choose) 
 
+Tools: 
++ [PlantUML - UML Design with Code](https://plantuml.com/)
+
 Home Work - [UML Tools](https://app.diagrams.net/#HMathmatheticGuy%2FUML-Diagrams%2Fmain%2FCityGas.drawio) - [[UML with Bot]]
 + [[SE_HW_Chap1]]
 + [[SE_HW_Bank_ClassDiagram]]
++ [[SE_GroupProject]]
+
+
 # [[Lecture 1 - Software Engineering Overview]]
 
 
@@ -61,3 +67,5 @@ Chỉ chọn những Usecase chính cho Diagram
 
 
 # [[Lecture 9 Software Requirements Specification and UML Review 1]]
+
+

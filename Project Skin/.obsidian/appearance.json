@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "translucency": true,
-  "monospaceFontFamily": "FiraCode Nerd Font Mono",
-  "textFontFamily": "",
+  "monospaceFontFamily": "Hurmit Nerd Font Mono",
+  "textFontFamily": "Hurmit Nerd Font,FiraCode Nerd Font",
   "interfaceFontFamily": "",
   "baseFontSize": 15,
   "nativeMenus": false,
