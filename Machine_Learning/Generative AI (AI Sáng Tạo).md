@@ -32,3 +32,22 @@ Cách Hoạt động (Quy trình Sáng tạo và Đánh giá)
     - The trained generator can then be used to create entirely new images that resemble the training data.
 **Real-World Example:**
 		Deepfake videos. Use GAN to manipulate and generate highly realistic videos by swapping faces or altering the content of existing videos. 
+
+
+### Review
+
+1. Collect the Trainning Data -> from input
+2. Encode Trainning Data -> encode to vector number 
+3. Train and Create a Probability Distribution
+4. Extra Learning & Filtering: Reinforcement Learning or Unsupervised Learning
+5. Collect and Encode User Input  -> Recollect quality data for Encode 
+6. Generate Content -> Generate content from vector number
+7. Decode and Output Generated Content -> Decode from vector number to human language
+
+### ETHICS AND AI
+1. Ethics of replacing human labor with automation: Is it ethical to replace humans with AI
+2. Buying or selling AI-generated content: Is it ethical to buy or sell AI-generated content trained on works created by humans.
+3. Using Ai for decision-making: Can we trust AI machines to safely replace humans
+4. Ethics of using autonomous machines: Can we trust AI machines to saftly replace human
+Example: In war: how can AI distinct a enemy and a civilian
+>A big unanswered question in AI is: If things go wrong, who do we hold responsible? The user? The creator? The AI itself?

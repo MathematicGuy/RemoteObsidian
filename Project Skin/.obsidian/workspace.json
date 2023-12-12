@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aaab206c1abe320c",
+            "id": "7556d0cd8e256b74",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "52be5cf2db0a6b35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,12 +185,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aaab206c1abe320c",
+  "active": "52be5cf2db0a6b35",
   "lastOpenFiles": [
+    "Todo.md",
     "SE_GroupProject.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Todo.md",
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40.png",
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40 1.png",
     "Use Case Diagrams.md",

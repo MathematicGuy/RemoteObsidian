@@ -22,19 +22,18 @@
             }
           },
           {
-            "id": "dcd583a4410004fe",
+            "id": "ec31abb08e60a3be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM (Large Language Model).md",
+                "file": "Generative AI (AI Sáng Tạo).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM (Large Language Model).md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM (Large Language Model).md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM (Large Language Model).md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -173,8 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcd583a4410004fe",
+  "active": "595e98fb057d501a",
   "lastOpenFiles": [
+    "Why Machine Learning.md",
+    "Generative AI (AI Sáng Tạo).md",
     "Machine Learning.md",
     "LLM (Large Language Model).md",
     "What Is AI.md",
@@ -184,12 +185,10 @@
     "Image/Pasted image 20231123093029.png",
     "AI.md",
     "Image/Pasted image 20231123090322.png",
-    "Generative AI (AI Sáng Tạo).md",
     "AI RoadMap.md",
     "Chapter 1 - Vectors, what even are they.md",
     "Linear Algebra.md",
     "Image/Pasted image 20231121091256.png",
-    "Why Machine Learning.md",
     "Machine Learning Problems.md",
     "Cloud Services.md",
     "Classification.md",
