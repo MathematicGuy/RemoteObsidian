@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b744d09dba250b9d",
+        "id": "2d6e6d8b93cd1900",
         "type": "tabs",
         "children": [
           {
-            "id": "7556d0cd8e256b74",
+            "id": "4c5a358ba65c1c09",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,48 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ee5d0a812de94644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b446daab90ef9d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7c5fff1b3ea229e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -129,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW5.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW5.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_HW5.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -220,17 +179,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b446daab90ef9d45",
+  "active": "4c5a358ba65c1c09",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Summary DB_HW2.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "DB_HW5.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
     "Todo.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB Users.md",
     "Company DB.md",
-    "Summary DB_HW2.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "SE_GroupProject.md",
