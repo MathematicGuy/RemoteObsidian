@@ -2,7 +2,6 @@
 
 *instructor & course*
 ![[Pasted image 20231206100611.png]]
-![[Pasted image 20231206100611.png]]
 *prereq, department & teaches*
 ![[Pasted image 20231206100621.png]]
 *section, student*
@@ -101,50 +100,72 @@ SELECT * FROM grade_points;
 
 **a) Tìm tổng điểm mà sinh viên có ID là 12345 đạt được trong tất cả các lớp học phần mà
 sinh viên đó đã học.**
+
++ (total_point = 48.)
 ```sql
-SELECT
-    takes.ID,
-    SUM(grade_points.point * course.credits) AS total_points
+-- total_point = (course) point * (course) credits
+SELECT 
+    --step0 get letter grade
+	takes.ID,
+    --step4 get total_point: result of all course's point   
+	SUM(point * credits) AS total_point 
 FROM
     takes
 JOIN
-    grade_points ON takes.grade = grade_points.grade
+    --step2 Conversion: convert letter grade to grade point
+	grade_points ON takes.grade = grade_points.grade 
 JOIN
-    course ON takes.course_id = course.course_id
+    --step3 get Course Credits: connect to course to inherit credits field
+	course ON course.course_id = takes.course_id 
 WHERE
-    takes.ID = '12345'
-GROUP BY
-    takes.ID;
-
+    --step1: get ID = 12345 from takes
+	takes.ID = 12345
+    --step5 Group by for aggregation: Group all course's points of students ID = 12345  
+GROUP BY takes.ID
 ```
+
 **b) Tìm điểm trung bình (GPA) của sinh viên trên, tức là lấy tổng điểm chia cho tổng số
 tín chỉ của các môn học liên quan.**
 ```sql
-SELECT
-    takes.ID,
-    SUM(grade_points.point * course.credits) / SUM(course.credits) AS GPA
+SELECT 
+    --step0 get letter grade
+	takes.ID,
+    --step4 get total_point: total_point / total course cred   
+	(SUM(point*credits)/SUM(credits)) as avg_score
 FROM
     takes
 JOIN
-    grade_points ON takes.grade = grade_points.grade
+    --step2 Conversion: convert letter grade to grade point
+	grade_points ON takes.grade = grade_points.grade 
 JOIN
-    course ON takes.course_id = course.course_id
-GROUP BY
-    takes.ID;
+    --step3 get Course Credits: connect to course to inherit credits field
+	course ON course.course_id = takes.course_id 
+JOIN 
+    student ON student.ID = takes.ID
+WHERE
+    --step1: get ID = 12345 from takes
+	takes.ID = 12345
+    --step5 Group by for aggregation: Group all course's points of students ID = 12345  
+GROUP BY takes.ID
 ```
 **c) Tìm ID và điểm trung bình của mỗi sinh viên.**
 ```sql
-SELECT
-    takes.ID,
-    AVG(grade_points.point * course.credits) AS average_points
+SELECT 
+    --step0 get letter grade
+	takes.ID,
+    --step4 get total_point: total_point / total course cred   
+	(SUM(point*credits)/SUM(credits)) as avg_score
 FROM
     takes
 JOIN
-    grade_points ON takes.grade = grade_points.grade
+    --step2 Conversion: convert letter grade to grade point
+	grade_points ON takes.grade = grade_points.grade 
 JOIN
-    course ON takes.course_id = course.course_id
-GROUP BY
-    takes.ID;
+    --step3 get Course Credits: connect to course to inherit credits field
+	course ON course.course_id = takes.course_id 
+JOIN 
+    student ON student.ID = takes.ID
+GROUP BY takes.ID
 ```
 **d) Tăng lương 10% cho mỗi giảng viên trong khoa Comp.Sci.**
 ```sql
