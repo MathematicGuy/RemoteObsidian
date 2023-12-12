@@ -37,3 +37,5 @@ Responsitory architecture
 + Xây dựng kho -> xây dựng kho con
 	Ko tiếp xúc trực tiếp vs nhau.
 Ý tưởng: tạo ra 1 kho dữ liệu và các kho con kế thừa nó và khai thác dữ liệu về nó.
+
+
