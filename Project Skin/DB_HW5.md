@@ -179,25 +179,25 @@ WHERE
 **e) Xóa tất cả các môn học chưa bao giờ được đưa ra để xếp lớp (nghĩa là không xuất
 hiện trong quan hệ section).**
 ```sql
+--delete all distinct course_id from course that not exist in section
 DELETE FROM
-    course
-WHERE
-    course.course_id NOT IN (SELECT DISTINCT course_id FROM section);
+	course  
+WHERE 
+	course_id NOT IN (select distinct course_id from section); 
 ```
 **f) Chèn mọi sinh viên có thuộc tính tot_cred lớn hơn 100 làm giảng viên hướng dẫn
 trong cùng khoa với mức lương là 10.000 USD**
 ```sql
-INSERT INTO
-    instructor (ID, name, dept_name, salary)
-SELECT
+INSERT INTO instructor(ID, name, dept_name, salary)
+select
     ID,
     name,
     dept_name,
     10000
-FROM
+from
     student
-WHERE
-    tot_cred > 100;
+where
+    student.tot_cred > 100
 ```
 
 **5.3 Viết câu lệnh định nghĩa khung nhìn student_grades(ID, GPA) cho điểm trung bình
