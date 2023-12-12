@@ -14,7 +14,8 @@ how much times you use Engish everyday?
 
 
 Câu hỏi mà ứng viên hỏi ngược lại.
-
++ CLB có những sự kiện gì?
++ 
 
 ACTIVITIES: 
 + Nối Từ - giới hạn động từ/danh từ
