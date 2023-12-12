@@ -15,11 +15,12 @@ how much times you use Engish everyday?
 
 Câu hỏi mà ứng viên hỏi ngược lại.
 
-activities: 
 
+ACTIVITIES: 
 + Nối Từ - giới hạn động từ/danh từ
 + interview -> make influent. 
 + 2 true 1 lie
 
 
 +  ma sói  
+ 
