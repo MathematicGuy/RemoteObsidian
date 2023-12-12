@@ -4,7 +4,7 @@
   "theme": "obsidian",
   "translucency": true,
   "monospaceFontFamily": "Hurmit Nerd Font Mono",
-  "textFontFamily": "Hurmit Nerd Font,FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font,Hurmit Nerd Font",
   "interfaceFontFamily": "",
   "baseFontSize": 15,
   "nativeMenus": false,

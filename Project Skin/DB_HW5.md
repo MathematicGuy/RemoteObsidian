@@ -46,9 +46,14 @@ COALESCE (A1, A2, ..., An) trả về Ai khác
 
 
 ```sql
-select ID, COUNT(ID) from teaches 
-JOIN section ON section.course_id = teaches.course_id   
-WHERE section.year=2010 and section.semester='Spring' GROUP BY ID;
+SELECT instructor.name, COALESCE(tid.course_id, '_') 
+FROM instructor 
+LEFT OUTER JOIN (
+    SELECT teaches.ID, section.course_id 
+    FROM teaches
+    LEFT OUTER JOIN section ON teaches.course_id = section.course_id 
+    WHERE section.year = 2010 AND section.semester = 'Spring'
+) AS tid ON instructor.ID = tid.ID;
 ```
 
 
@@ -57,15 +62,10 @@ dụng truy vấn con vô hướng. Với các khoa không có giảng viên th�
 là 0.**
 
 ```sql
-SELECT
-    department.dept_name,
-    COALESCE(COUNT(instructor.ID), 0) AS num_instructors
-FROM
-    department
-LEFT JOIN
-    instructor ON department.dept_name = instructor.dept_name
-GROUP BY
-    department.dept_name;
+SELECT COALESCE(instructor.dept_name, '0') AS dept_name, COUNT(instructor.name) AS instr_name
+FROM department
+LEFT OUTER JOIN instructor ON department.dept_name = instructor.dept_name
+GROUP BY instructor.dept_name;
 ```
 
 + ! 5.2. Giả sử cho một quan hệ grade_points(grade, point), cung cấp sự chuyển đổi từ điểm chữ (grade) trong quan hệ takes thành điểm số (point); ví dụ: điểm “A” có thể được chỉ định tương ứng với 4 điểm, điểm “A−” tương ứng với 3,7 điểm, điểm “B+” tương ứng với 3,3 điểm, điểm “B” tương ứng với 3 điểm, v.v. Điểm số mà một sinh viên đạt được khi tham gia một lớp học phần (section) được xác định bằng số tín chỉ của khóa học nhân với số điểm mà sinh viên đạt được.

@@ -14,6 +14,7 @@ SQL Learning Tools
 		Hones your SQL Problems solving 
 
 ---
+Priority single collin in SQL: ' ' not " "
 Column - Field
 Row - Record
 
@@ -349,6 +350,8 @@ FROM student;
 
 
 **GROUP BY**
+*note: GROUP BY is unnescessary if already using WHERE*  
+
 = aggregate all rows by a specific column
 -- often used with aggregate functions
 ex. SUM(), MAX(), MIN(), AVG(), COUNT()
@@ -617,3 +620,18 @@ Call the Procedure
 ```sql
 CALL find_customer("Larry", "Lobster");
 ```
+
+**COALESCE**
++ **Retrieve the first non-null expression among its arguments**.
+	It is particularly handy when you have multiple columns or values and want to retrieve the first non-null one.
++ **and return NULL if all values are NULL.**
+
+```sql
+SELECT FirstName, COALESCE(MiddleName, '') AS MiddleName, LastName
+FROM Employee;
+```
+>In this example, if `MiddleName` is null, the `COALESCE` function will return an empty string (`''`). **This ensures that you always get a non-null value for the middle name in your result set.**
+| FirstName | MiddleName | LastName |
+|-----------|------------|----------|
+| John      |            | Doe      |
+-> **COALESCE provides a Robust way to handle NULL values in more controlled manner.** 
