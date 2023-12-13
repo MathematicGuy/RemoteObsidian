@@ -15,7 +15,12 @@ SQL Learning Tools
 	[Data View - DB for Obsidian](https://youtu.be/i_q4cXhhaqg?si=LMJowSWcQ55Ea_rY) 
 		Dynamic Data Query in Obsidian
 
+sql tables:
++ [[Company DB]]
++ [[DB Users]]
++ [[Std_ManagementDB]]
 ---
+
 Priority single collin in SQL: ' ' not " "
 Column - Field
 Row - Record
