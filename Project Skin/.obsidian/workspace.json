@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d29a0aea18fa0862",
+        "id": "fe01e3cbf307604b",
         "type": "tabs",
         "children": [
           {
-            "id": "01d65dc901559ec4",
+            "id": "adaa3c793c4d2219",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -180,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01d65dc901559ec4",
+  "active": "adaa3c793c4d2219",
   "lastOpenFiles": [
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
