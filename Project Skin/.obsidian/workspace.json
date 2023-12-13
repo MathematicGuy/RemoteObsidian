@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "4cfa38cf190b6e34",
+            "id": "f726b97b6626f641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f83e392825a290e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Software Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "Software Architecture.md"
               }
             }
           },
@@ -207,12 +194,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f83e392825a290e4",
+  "active": "f726b97b6626f641",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/DataBase.md",
-    "DataCamp.md",
+    "Images/Pasted image 20231214013601.png",
+    "Grammar.md",
+    "Images/Pasted image 20231214013544.png",
+    "Software Architecture.md",
+    "Images/Pasted image 20231214013524.png",
     "Todo.md",
+    "Software Technology.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "DataCamp.md",
     "DB_HW5.md",
     "Club & Event/ISE/ISE Planning.md",
     "Club & Event/ISE/Planning.md",
@@ -234,17 +227,11 @@
     "How To Identify Actor, Use Case, etc.md",
     "DB_HW4-2.md",
     "DB_HW4-1.md",
-    "CSS Artistic.md",
-    "CSS Cool Designs.md",
     "Images/Pasted image 20231203090944.png",
-    "Advice for AI.md",
-    "C Note.md",
     "Images/DatatypesInC.jpg",
     "Images/Pasted image 20231206100645.png",
     "Images/Pasted image 20231206100634.png",
     "Images/Pasted image 20231206100621.png",
-    "Images/Pasted image 20231206100611.png",
-    "Images/Pasted image 20231206091223.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
