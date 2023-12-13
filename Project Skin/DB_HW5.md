@@ -223,22 +223,23 @@ set salary = case
 end
 ```
 
-
 ```sql
 CREATE VIEW student_grades AS
-SELECT
+SELECT 
     takes.ID,
+    --COUNT(field) = 0 mean there NULL value in field
     CASE
         WHEN COUNT(takes.grade) = 0 THEN NULL
-        ELSE SUM(grade_points.point * course.credits) / SUM(course.credits)
+        ELSE SUM(grade_points.point*course.credits)/SUM(course.credits)
     END AS GPA
-FROM
-    takes
-LEFT JOIN
-    grade_points ON takes.grade = grade_points.grade
-LEFT JOIN
+FROM takes
+LEFT OUTER JOIN
+    grade_points ON takes.grade = grade_points.grade 
+LEFT OUTER JOIN 
     course ON takes.course_id = course.course_id
-GROUP BY
+GROUP BY 
     takes.ID;
-select * from student_grades;
 ```
+
+
+

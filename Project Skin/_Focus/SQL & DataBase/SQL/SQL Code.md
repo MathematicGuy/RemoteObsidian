@@ -608,8 +608,10 @@ Advantaged:
 	+ increase memory usage of every connection
 ```sql
 DELIMITER $$
-CREATE PROCEDURE find_customer (IN f_name VARCHAR(50),
-										  IN l_name VARCHAR(50))
+CREATE PROCEDURE find_customer (
+	IN f_name VARCHAR(50),
+	IN l_name VARCHAR(50)
+)
 BEGIN
 	SELECT *
 	FROM customers
