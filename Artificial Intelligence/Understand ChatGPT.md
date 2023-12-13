@@ -1,3 +1,4 @@
+article: [ai brains storm](https://www.thepromptwarrior.com/p/use-ai-brainstorm-better-faster)
 
 _Why I'm using chatGPT
 	- To get what I want more efficiency

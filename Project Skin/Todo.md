@@ -50,6 +50,7 @@
 
 #Todo/Entertainment
 - [ ] Undead Unluck chap36
+- [ ] Phỏng vấn anh Dominic về Muah.ai
 
 **Ideas**
 How to run App without downloading them
