@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe01e3cbf307604b",
+        "id": "b0421e7994e0203a",
         "type": "tabs",
         "children": [
           {
-            "id": "adaa3c793c4d2219",
+            "id": "0b84aa8c60e785a8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4cfa38cf190b6e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f83e392825a290e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -180,8 +207,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "adaa3c793c4d2219",
+  "active": "f83e392825a290e4",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/DataBase.md",
+    "DataCamp.md",
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB_HW5.md",
@@ -190,7 +219,6 @@
     "Summary DB_HW2.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "DB Users.md",
     "Company DB.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
@@ -212,7 +240,6 @@
     "Advice for AI.md",
     "C Note.md",
     "Images/DatatypesInC.jpg",
-    "Fundamentals of a Program.md",
     "Images/Pasted image 20231206100645.png",
     "Images/Pasted image 20231206100634.png",
     "Images/Pasted image 20231206100621.png",

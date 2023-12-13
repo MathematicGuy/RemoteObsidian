@@ -12,6 +12,7 @@
 [[Relational Algebra Operations]]
 	[[SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions]]
 
+
 #### Database Homework
 [[Summary DB_HW2]]
 [[DB_HW4-1]]

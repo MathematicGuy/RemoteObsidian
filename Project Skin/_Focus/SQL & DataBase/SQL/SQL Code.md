@@ -12,6 +12,8 @@ SQL Learning Tools
 		SQL Notes with Practical Example 
 	[SQL Murder Mystery](https://mystery.knightlab.com/)
 		Hones your SQL Problems solving 
+	[Data View - DB for Obsidian](https://youtu.be/i_q4cXhhaqg?si=LMJowSWcQ55Ea_rY) 
+		Dynamic Data Query in Obsidian
 
 ---
 Priority single collin in SQL: ' ' not " "
