@@ -14,8 +14,9 @@ SQL Learning Tools
 		Hones your SQL Problems solving 
 	[Data View - DB for Obsidian](https://youtu.be/i_q4cXhhaqg?si=LMJowSWcQ55Ea_rY) 
 		Dynamic Data Query in Obsidian
+	[DrawSQL - DB View and Design](https://drawsql.app/teams/3-bowls-of-rice/diagrams/student-score-management-db) 
 
-sql tables:
+SQL tables:
 + [[Company DB]]
 + [[DB Users]]
 + [[Std_ManagementDB]]
@@ -238,7 +239,7 @@ CREATE TABLE transaction (
 ```
 or you can add foreign key later with this
 ```sql
-ALTER TABLE transactions
+	ALTER TABLE transactions
 ADD CONSTRAINT fk_customer_id
 FOREIGN KEY(trans_customer_id) REFERENCES customers(customer_id)
 ```

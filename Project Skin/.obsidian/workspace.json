@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9852e5b13d4bb037",
+        "id": "5fb830cd4e0bc6f9",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3893f389e5f861",
+            "id": "a1dff9a0af897a3d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -180,16 +180,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ef3893f389e5f861",
+  "active": "a1dff9a0af897a3d",
   "lastOpenFiles": [
-    "Std_ManagementDB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Todo.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
+    "Std_ManagementDB.md",
     "Software Architecture.md",
     "Images/Pasted image 20231214013601.png",
     "Grammar.md",
     "Images/Pasted image 20231214013544.png",
     "Images/Pasted image 20231214013524.png",
-    "Todo.md",
     "Software Technology.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DataCamp.md",
@@ -201,8 +203,6 @@
     "_Focus/2023/Last Semester/Software Engineering.md",
     "DB Users.md",
     "Company DB.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "SE_GroupProject.md",
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40.png",
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40 1.png",

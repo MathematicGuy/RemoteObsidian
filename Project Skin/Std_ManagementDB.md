@@ -1,3 +1,5 @@
+[Table Schema Design](https://drawsql.app/teams/3-bowls-of-rice/diagrams/student-score-management-db) 
+
 SELECT
 note: COALESCE(field, '') use to define all field NULL value and replace it with value inside ''  
 ```sql
@@ -14,41 +16,43 @@ ON Students.studentID = Scores.studentID;
 
 CREATE
 ```sql
+-- Create Students table
 CREATE TABLE Students (
-  studentID INT PRIMARY KEY,
-  name VARCHAR(255),
-  class VARCHAR(10),
-  contactInfo VARCHAR(255)
+    studentID NCHAR(1) PRIMARY KEY NOT NULL,
+    name NVARCHAR(255) NULL,
+    class NVARCHAR(5) NULL,
+    contactInfo NVARCHAR(255) NULL
 );
-```
 
-```sql
+-- Create Scores table
 CREATE TABLE Scores (
-  scoreID INT PRIMARY KEY,
-  studentID INT,
-  subject VARCHAR(255),
-  scoreValue INT,
-  FOREIGN KEY (studentID) REFERENCES Students(studentID)
+    scoreID NCHAR(1) PRIMARY KEY NOT NULL,
+    studentID NCHAR(1) NOT NULL,
+    subject NVARCHAR(50) NULL,
+    scoreValue INT NULL,
+    FOREIGN KEY (studentID) REFERENCES Students (studentID)
 );
 ```
 
 
 INSERT
 ```sql
-INSERT INTO Students (studentID, name, class, contactInfo) VALUES
-  (1, 'John Doe', 'A101', 'john@example.com'),
-  (2, 'Jane Smith', 'B203', 'jane@example.com'),
-  (3, 'Michael Brown', 'C304', 'michael@example.com'),
-  (4, 'Emily Johnson', 'D405', 'emily@example.com'),
-  (5, 'Daniel Williams', 'E506', 'daniel@example.com');
-```
+-- Insert values into Students table
+INSERT INTO Students (studentID, name, class, contactInfo)
+VALUES 
+    ('1', 'John Doe', 'DS101', 'john.doe@example.com'),
+    ('2', 'Jane Smith', 'DS102', 'jane.smith@example.com'),
+    ('3', 'Bob Johnson', 'DS103', 'bob.johnson@example.com'),
+    ('4', 'Alice Williams', 'DS104', 'alice.williams@example.com'),
+    ('5', 'Charlie Brown', 'DS105', 'charlie.brown@example.com');
 
-```sql
-INSERT INTO Scores (scoreID, studentID, subject, scoreValue) VALUES
-  (1, 1, 'Math', 85),
-  (2, 1, 'English', 92),
-  (3, 2, 'Math', 78),
-  (4, 3, 'Physics', 88),
-  (5, 3, 'Chemistry', 95);
+-- Insert values into Scores table
+INSERT INTO Scores (scoreID, studentID, subject, scoreValue)
+VALUES 
+    ('A', '1', 'Math', 85),
+    ('B', '2', 'English', 92),
+    ('C', '3', 'Science', 78),
+    ('D', '4', 'History', 88),
+    ('E', '5', 'Programming', 95);
 ```
 
