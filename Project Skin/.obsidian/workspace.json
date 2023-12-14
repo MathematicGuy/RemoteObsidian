@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0421e7994e0203a",
+        "id": "9852e5b13d4bb037",
         "type": "tabs",
         "children": [
           {
-            "id": "0b84aa8c60e785a8",
+            "id": "ef3893f389e5f861",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f726b97b6626f641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Architecture.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d45c56f178ee9fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Std_ManagementDB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -207,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f726b97b6626f641",
+  "active": "ef3893f389e5f861",
   "lastOpenFiles": [
     "Std_ManagementDB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
