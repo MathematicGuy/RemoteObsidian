@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9f796920c0e5d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-R Diagram.md",
+                "file": "DB_HW5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-R Diagram.md",
+                "file": "DB_HW5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-R Diagram.md"
+                "file": "DB_HW5.md"
               }
             }
           },
@@ -194,15 +207,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5db69342d8a0df09",
+  "active": "d9f796920c0e5d11",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/DataBase.md",
     "E-R Diagram.md",
+    "DB_HW5.md",
     "Todo.md",
+    "Images/Pasted image 20231214142927.png",
+    "Images/Pasted image 20231214142919.png",
+    "Images/Pasted image 20231214142859.png",
+    "Images/Pasted image 20231214142835.png",
+    "Company DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "DB Users.md",
+    "Std_ManagementDB.md",
+    "DB_HW4-1.md",
+    "DB_HW4-2.md",
+    "Summary DB_HW2.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
-    "Std_ManagementDB.md",
     "Software Architecture.md",
     "Images/Pasted image 20231214013601.png",
     "Grammar.md",
@@ -210,14 +233,10 @@
     "Images/Pasted image 20231214013524.png",
     "Software Technology.md",
     "DataCamp.md",
-    "DB_HW5.md",
     "Club & Event/ISE/ISE Planning.md",
     "Club & Event/ISE/Planning.md",
-    "Summary DB_HW2.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "DB Users.md",
-    "Company DB.md",
     "SE_GroupProject.md",
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40.png",
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40 1.png",
@@ -225,13 +244,6 @@
     "UML Class Diagrams.md",
     "Images/Pasted image 20231211090848.png",
     "Personal/Good for LATER.md",
-    "Citygas UseCase.md",
-    "How To Identify Actor, Use Case, etc.md",
-    "DB_HW4-2.md",
-    "Images/Pasted image 20231203090944.png",
-    "Images/DatatypesInC.jpg",
-    "Images/Pasted image 20231206100645.png",
-    "Images/Pasted image 20231206100634.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
