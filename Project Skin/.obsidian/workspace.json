@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fb830cd4e0bc6f9",
+        "id": "a2795830387ad92b",
         "type": "tabs",
         "children": [
           {
-            "id": "a1dff9a0af897a3d",
+            "id": "7471c79d152cceba",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5db69342d8a0df09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-R Diagram.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9f796920c0e5d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW5.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW5.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_HW5.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -207,11 +180,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d9f796920c0e5d11",
+  "active": "7471c79d152cceba",
   "lastOpenFiles": [
     "E-R Diagram.md",
     "DB_HW5.md",
     "Todo.md",
+    "Images/Pasted image 20231214145528.png",
     "Images/Pasted image 20231214142927.png",
     "Images/Pasted image 20231214142919.png",
     "Images/Pasted image 20231214142859.png",
@@ -242,7 +216,6 @@
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40 1.png",
     "Use Case Diagrams.md",
     "UML Class Diagrams.md",
-    "Images/Pasted image 20231211090848.png",
     "Personal/Good for LATER.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
