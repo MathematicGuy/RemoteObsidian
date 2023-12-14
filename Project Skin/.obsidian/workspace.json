@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2795830387ad92b",
+        "id": "de73fdada2eb046d",
         "type": "tabs",
         "children": [
           {
-            "id": "7471c79d152cceba",
+            "id": "6480a73e78801aca",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -180,11 +180,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7471c79d152cceba",
+  "active": "6480a73e78801aca",
   "lastOpenFiles": [
+    "Todo.md",
     "E-R Diagram.md",
     "DB_HW5.md",
-    "Todo.md",
+    "Sequence Diagrams.md",
+    "Error Types.md",
+    "Error.md",
     "Images/Pasted image 20231214145528.png",
     "Images/Pasted image 20231214142927.png",
     "Images/Pasted image 20231214142919.png",
@@ -215,8 +218,6 @@
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40.png",
     "Images/XP0n2iCm34Ltdq9apnLAjb9ebuGUGDXAQaYi8ij3RrydYAIGeOjj_VVn0tLPKRGiivjfL506YTDB8KGXhv6JS-YL1PwP1313gRT5moShBMkOjvTp5NhC17UUOjgdve499u91Iw2aS4iZouBhxyrHwicp11ZgIVadlr8YGINewSsYXip2HJUhGDjUJBkFVxpMEeiDdCq7CtL7ATJTVG40 1.png",
     "Use Case Diagrams.md",
-    "UML Class Diagrams.md",
-    "Personal/Good for LATER.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
