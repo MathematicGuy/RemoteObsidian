@@ -8,6 +8,7 @@
 7) [[Relational Data Base Model]]
 	[[Key in RDBMS]]
 
+8) [[E-R Diagram]]
 
 [[Relational Algebra Operations]]
 	[[SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions]]
