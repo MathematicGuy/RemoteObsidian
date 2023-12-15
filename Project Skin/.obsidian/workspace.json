@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9857260407f2522d",
+        "id": "962fe5329f3128a6",
         "type": "tabs",
         "children": [
           {
-            "id": "92cb95327f134192",
+            "id": "6fb912b72eaa9600",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,42 +23,11 @@
             }
           },
           {
-            "id": "2fdf6ab350b3141d",
+            "id": "975ed1b2f0630c1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ban Chủ Nhiệm.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35ea83ffb3763ec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Club & Event/How to be a Club Leader.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ee38a328bfd154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Club & Event/Programming Club/Goal & Plan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -129,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ban Chủ Nhiệm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ban Chủ Nhiệm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ban Chủ Nhiệm.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,8 +185,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2fdf6ab350b3141d",
+  "active": "975ed1b2f0630c1b",
   "lastOpenFiles": [
+    "Todo.md",
+    "Club & Event/Programming Club/Goal & Plan.md",
+    "Club & Event/How to be a Club Leader.md",
+    "Ban Chủ Nhiệm.md",
     "Club & Event/Programming Club/Role & Personnel.md",
     "Ban Đánh Giá.md",
     "Ban Tổ chức sự kiện.md",
@@ -231,10 +200,6 @@
     "Ban Chuyên Môn.md",
     "Thư Ký.md",
     "Ban Phó Chủ Nhiệm.md",
-    "Ban Chủ Nhiệm.md",
-    "Club & Event/How to be a Club Leader.md",
-    "Club & Event/Programming Club/Goal & Plan.md",
-    "Todo.md",
     "System Design.md",
     "Club & Event/Programming Club/_Programming Club.md",
     "Club & Event/Họp sth.md",
