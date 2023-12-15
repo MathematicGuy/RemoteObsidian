@@ -82,3 +82,5 @@ div{
 
 
 
+[Center using CSS Grid](https://youtube.com/shorts/oy2iUDT0mf8?si=XDf7fjJzQe0cYFVM)
+![[Pasted image 20231215145517.png]]

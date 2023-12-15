@@ -26,8 +26,13 @@
             "id": "975ed1b2f0630c1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Center a div.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Center a div.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Center a div.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Center a div.md"
+              }
             }
           },
           {
@@ -187,6 +196,7 @@
   },
   "active": "975ed1b2f0630c1b",
   "lastOpenFiles": [
+    "Images/Pasted image 20231215145517.png",
     "Todo.md",
     "Club & Event/Programming Club/Goal & Plan.md",
     "Club & Event/How to be a Club Leader.md",
@@ -222,7 +232,6 @@
     "Images/Pasted image 20231214142927.png",
     "Company DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "DB Users.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
