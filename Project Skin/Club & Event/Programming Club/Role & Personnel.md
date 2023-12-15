@@ -1,9 +1,11 @@
 Các vai trò đóng trò trụ cột của câu bộ. Quan trọng trong việc đi tới sự thành công của 1 CLB. 
 
-note: viết rõ mỗi ban sẽ làm gì và gửi vào Nhóm Riêng Zalo
+**Vai Trò cần có và Ưu tiên người có Phẩm Chất**
+
 1. **Ban Chủ Nhiệm**: Người đứng đầu câu lạc bộ, chịu trách nhiệm tổ chức hoạt động, quản lý và đại diện cho câu lạc bộ.
-    
-2. **Ban Phó Chủ Nhiệm**: Hỗ trợ Chủ Nhiệm và thay thế khi cần thiết.
+	**Đặc điểm quan trọng**: tư duy lãnh đạo, *khả năg tổ chức tốt, khả năng đại diện cho CLB* 
+	**Phẩm chất:** có nhiệt huyết, ý thức trách nhiệm và khả năg giao tiếp tốt. Biết nhìn nhận vấn đề.    
+1. **Ban Phó Chủ Nhiệm**: Hỗ trợ Chủ Nhiệm và thay thế khi cần thiết.
     
 3. **Ban Thư Ký**: Ghi chép biên bản cuộc họp, quản lý tài liệu của câu lạc bộ và thực hiện công việc liên quan đến việc giao tiếp.
     

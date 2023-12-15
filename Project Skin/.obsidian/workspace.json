@@ -28,7 +28,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design.md",
+                "file": "Club & Event/Programming Club/Role & Personnel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35ea83ffb3763ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Club & Event/How to be a Club Leader.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1ee38a328bfd154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Club & Event/Programming Club/Goal & Plan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design.md",
+                "file": "Club & Event/Programming Club/Goal & Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design.md",
+                "file": "Club & Event/Programming Club/Goal & Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design.md"
+                "file": "Club & Event/Programming Club/Goal & Plan.md"
               }
             }
           },
@@ -194,11 +220,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2fdf6ab350b3141d",
+  "active": "b1ee38a328bfd154",
   "lastOpenFiles": [
-    "Todo.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Club & Event/How to be a Club Leader.md",
+    "Club & Event/Programming Club/Role & Personnel.md",
     "System Design.md",
+    "Todo.md",
+    "Club & Event/Programming Club/Goal & Plan.md",
+    "Club & Event/Programming Club/_Programming Club.md",
+    "Club & Event/Họp sth.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Architecture.md",
     "Images/Pasted image 20231215095116.png",
     "Images/Pasted image 20231215092403.png",
@@ -227,11 +258,6 @@
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "Grammar.md",
     "Software Technology.md",
-    "DataCamp.md",
-    "Club & Event/ISE/ISE Planning.md",
-    "Club & Event/ISE/Planning.md",
-    "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
-    "SE_GroupProject.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
