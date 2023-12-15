@@ -41,6 +41,7 @@
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 - [ ] Personalise my Gmail (Filter trash and label good reading resources)
 - [ ] Hủy Github Co-pilot trươ'c hạn (10/1/2024)
+- [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
