@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Club & Event/Programming Club/Role & Personnel.md",
+                "file": "Ban Chủ Nhiệm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Club & Event/Programming Club/Goal & Plan.md",
+                "file": "Ban Chủ Nhiệm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Club & Event/Programming Club/Goal & Plan.md",
+                "file": "Ban Chủ Nhiệm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Club & Event/Programming Club/Goal & Plan.md"
+                "file": "Ban Chủ Nhiệm.md"
               }
             }
           },
@@ -220,13 +220,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b1ee38a328bfd154",
+  "active": "2fdf6ab350b3141d",
   "lastOpenFiles": [
-    "Club & Event/How to be a Club Leader.md",
     "Club & Event/Programming Club/Role & Personnel.md",
-    "System Design.md",
-    "Todo.md",
+    "Ban Đánh Giá.md",
+    "Ban Tổ chức sự kiện.md",
+    "Ban Kế Toán.md",
+    "Ban Phát Triển Dự Án.md",
+    "Ban Truyền Thông.md",
+    "Ban Chuyên Môn.md",
+    "Thư Ký.md",
+    "Ban Phó Chủ Nhiệm.md",
+    "Ban Chủ Nhiệm.md",
+    "Club & Event/How to be a Club Leader.md",
     "Club & Event/Programming Club/Goal & Plan.md",
+    "Todo.md",
+    "System Design.md",
     "Club & Event/Programming Club/_Programming Club.md",
     "Club & Event/Họp sth.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
@@ -249,15 +258,6 @@
     "Company DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "DB Users.md",
-    "Std_ManagementDB.md",
-    "DB_HW4-1.md",
-    "DB_HW4-2.md",
-    "Summary DB_HW2.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
-    "Grammar.md",
-    "Software Technology.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

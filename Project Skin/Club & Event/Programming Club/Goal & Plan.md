@@ -8,7 +8,7 @@ Tình Hình và Thiếu Sót Hiện Tại của CLB
 + Thiếu Tương Tác Bên Ngoài lẫn Mạng Xã Hội
 	-> Khiến cho các thành viên Thiếu cởi mở theo
 	Sol: Giao tiếp nhiều hơn vs các thành viên + Tìm hiểu mỗi thành viên có gì  
-+ 
+
 
 **Cập nhật nhân lực mới**
 
