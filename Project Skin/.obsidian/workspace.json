@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "962fe5329f3128a6",
+        "id": "9596903c374d5037",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb912b72eaa9600",
+            "id": "1f8d1bac408f7dc4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "975ed1b2f0630c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Center a div.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Center a div.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Center a div.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Center a div.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "975ed1b2f0630c1b",
+  "active": "1f8d1bac408f7dc4",
   "lastOpenFiles": [
     "Images/Pasted image 20231215145517.png",
     "Todo.md",
