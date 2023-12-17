@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9596903c374d5037",
+        "id": "319690e25a159d41",
         "type": "tabs",
         "children": [
           {
-            "id": "1f8d1bac408f7dc4",
+            "id": "dc5d8184153611b0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "a85f5c5ad4068dea",
+            "id": "b2bf03a29732b99d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,12 +185,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a85f5c5ad4068dea",
+  "active": "b2bf03a29732b99d",
   "lastOpenFiles": [
+    "Todo.md",
     "Personal/Language Learning/German.md",
     "German Vocabulary.md",
     "Vocabulary.md",
-    "Todo.md",
     "Images/Pasted image 20231215145517.png",
     "Club & Event/Programming Club/Goal & Plan.md",
     "Club & Event/How to be a Club Leader.md",
