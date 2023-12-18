@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "319690e25a159d41",
+        "id": "246f1ccf5fac222a",
         "type": "tabs",
         "children": [
           {
-            "id": "dc5d8184153611b0",
+            "id": "06b9dd9ef97d5d60",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "b2bf03a29732b99d",
+            "id": "5384af9841b0281c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS Desgin Pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS Desgin Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS Desgin Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS Desgin Pattern.md"
+              }
             }
           },
           {
@@ -185,9 +194,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b2bf03a29732b99d",
+  "active": "5384af9841b0281c",
   "lastOpenFiles": [
     "Todo.md",
+    "Website Layout.md",
+    "CSS Artistic.md",
     "Personal/Language Learning/German.md",
     "German Vocabulary.md",
     "Vocabulary.md",
@@ -220,8 +231,6 @@
     "E-R Diagram.md",
     "DB_HW5.md",
     "Sequence Diagrams.md",
-    "Error Types.md",
-    "Error.md",
     "Images/Pasted image 20231214145528.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
