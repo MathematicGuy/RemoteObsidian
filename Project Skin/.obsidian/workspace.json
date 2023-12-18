@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Desgin Pattern.md",
+                "file": "CSS Artistic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Desgin Pattern.md",
+                "file": "CSS Artistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Desgin Pattern.md",
+                "file": "CSS Artistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Desgin Pattern.md"
+                "file": "CSS Artistic.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "5384af9841b0281c",
   "lastOpenFiles": [
+    "CSS Desgin Pattern.md",
     "Todo.md",
     "Website Layout.md",
     "CSS Artistic.md",
@@ -230,7 +231,6 @@
     "Images/Pasted image 20231215091152.png",
     "E-R Diagram.md",
     "DB_HW5.md",
-    "Sequence Diagrams.md",
     "Images/Pasted image 20231214145528.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",

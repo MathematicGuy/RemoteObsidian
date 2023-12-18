@@ -14,7 +14,7 @@ CSS Tools
 + [[CSS Curve]]
 + [Mouse Area Glow Effect](https://youtu.be/htGfnF1zN4g?si=R6GKHJwVR5jbzbGh)
 + [Full-width bg inside a container](https://youtube.com/shorts/81pnuZFarRw?si=L_5x5aSgeKJKQTka)
-
++ [Responsive absolute div](https://copyprogramming.com/howto/how-to-make-an-absolute-positioned-circle-responsive-or-other-routes) 
 
 
 [Font Awesome Icon](https://www.w3schools.com/icons/fontawesome_icons_directional.asp)
