@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e931d6f2c35868d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movie_DB.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movie_DB.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movie_DB.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -194,11 +207,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6c1910d38ba0a06a",
+  "active": "e931d6f2c35868d3",
   "lastOpenFiles": [
+    "Movie_DB.md",
+    "Images/Pasted image 20231219160115.png",
     "Images/Nomnom_Updated_1.svg",
     "Todo.md",
-    "Movie_DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "JOIN Table.md",
     "DB Users.md",
@@ -230,8 +244,6 @@
     "Images/Pasted image 20231215092215.png",
     "Images/Pasted image 20231215091904.png",
     "Images/Pasted image 20231215091857.png",
-    "Images/Pasted image 20231215091152.png",
-    "Images/Pasted image 20231214145528.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

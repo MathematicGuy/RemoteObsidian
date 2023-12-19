@@ -14,4 +14,4 @@
 
 
 
-![[Nomnom_Updated_1.svg]]
+![[Nomnom_Updated_1.svg]]![[Pasted image 20231219160115.png]]
