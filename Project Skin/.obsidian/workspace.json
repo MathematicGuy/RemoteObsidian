@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "246f1ccf5fac222a",
+        "id": "d3d4ae4eaa0495c6",
         "type": "tabs",
         "children": [
           {
-            "id": "06b9dd9ef97d5d60",
+            "id": "dd7d69c06439fb9c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5384af9841b0281c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Artistic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Artistic.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Artistic.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5384af9841b0281c",
+  "active": "dd7d69c06439fb9c",
   "lastOpenFiles": [
     "CSS Desgin Pattern.md",
     "Todo.md",
