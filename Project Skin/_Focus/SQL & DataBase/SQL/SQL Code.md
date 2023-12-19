@@ -20,6 +20,8 @@ SQL tables:
 + [[Company DB]]
 + [[DB Users]]
 + [[Std_ManagementDB]]
++ [[Movie_DB]]
+
 ---
 
 Priority single collin in SQL: ' ' not " "
