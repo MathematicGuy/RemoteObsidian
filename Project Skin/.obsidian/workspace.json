@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6c1910d38ba0a06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movie_DB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e931d6f2c35868d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -207,13 +180,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e931d6f2c35868d3",
+  "active": "dd7d69c06439fb9c",
   "lastOpenFiles": [
+    "German Vocabulary.md",
     "Movie_DB.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20231219160115.png",
     "Images/Nomnom_Updated_1.svg",
     "Todo.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "JOIN Table.md",
     "DB Users.md",
     "Company DB.md",
@@ -221,7 +195,6 @@
     "Website Layout.md",
     "CSS Artistic.md",
     "Personal/Language Learning/German.md",
-    "German Vocabulary.md",
     "Vocabulary.md",
     "Images/Pasted image 20231215145517.png",
     "Club & Event/Programming Club/Goal & Plan.md",

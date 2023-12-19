@@ -1,4 +1,6 @@
 **Chapter 1**
+notice: Nounce is capitalize
+
 Und and
 Oder or
 Nein no
@@ -28,8 +30,9 @@ ein -> a (male)
 Vater father
 Mutter mother
 
-Mann husband
+Mann husband/Men
 Frau wive
+
 
 Bruder brother
 Schwester sister
@@ -40,3 +43,9 @@ Sohn son
 Du you
 Bist are
 	Du(you) bist(are) mein Frau(wive) You are my wive
+
+
+**Chapter 2**
+der Junge  the boy
+die frau  the woman
+der Mann  the man
