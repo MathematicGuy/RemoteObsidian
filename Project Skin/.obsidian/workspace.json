@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "6142ed711540dfbc",
+            "id": "4b561938ac33d998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB_HW4-1.md",
+                "file": "E-R Diagram.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -209,12 +209,16 @@
   },
   "active": "b996f3f2b02f25a5",
   "lastOpenFiles": [
+    "Images/Pasted image 20231221113341.png",
     "Todo.md",
-    "DB_HW4-1.md",
+    "E-R Diagram.md",
+    "Images/Pasted image 20231221111347.png",
     "DB_HW6.md",
+    "Images/Pasted image 20231221111309.png",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "DB_HW4-1.md",
     "Images/Pasted image 20231221080331.png",
     "Images/Pasted image 20231221080253.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "_Focus/2023/3rd Semesters/CSharp/Chapter 1 - Introduction programming language C Sharp.md",
     "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
@@ -238,13 +242,9 @@
     "Ban Chủ Nhiệm.md",
     "Club & Event/Programming Club/Role & Personnel.md",
     "Ban Đánh Giá.md",
-    "Ban Tổ chức sự kiện.md",
-    "Ban Kế Toán.md",
     "Images/Pasted image 20231215095116.png",
     "Images/Pasted image 20231215092403.png",
     "Images/Pasted image 20231215092317.png",
-    "Images/Pasted image 20231215092303.png",
-    "Images/Pasted image 20231215092215.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
