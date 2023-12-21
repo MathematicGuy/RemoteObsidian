@@ -103,24 +103,40 @@ Case that HAS_PHONE will be redundant
 
 ![[Pasted image 20231221113341.png]]
 
-**Strong Entity**
-AIRPORT(Airport_code, City, State, Name)
-CAN_LAND(Airport_code, Type_name)
-AIRPLANE_TYPE(Type_name, Max_seats, Company)
-AIRPLANE(Airplane_id, Type, Total_no_of_seats)
+**AIRPORT**(Airport_code, City, State, Name)
+	PK: Airport_code
+**CAN_LAND**(Airport_code, Type_name)
+	PK: Airport_code, Type_name
 
-FLIGHT_LEG(Ariport_code, Leg_no, Number, Scheduled_dep_time, Scheduled_arr_time)
+**AIRPLANE_TYPE**(Type_name, Max_seats, Company)
+	PK: Type_name
+**AIRPLANE**(Airplane_id, Type, Total_no_of_seats)
+	PK: Airplane_id, Type
+	FK: Type reference to Type_name in AIRPLANE_TYPE
+
+**FLIGHT_LEG**(Ariport_code, Leg_no, Number)
 	PK: Ariport_code, Leg_no, Number
-LEG_INSTANCE(Airport_code, Leg_no, Arr_time, Dep_time, Airplane_id, )
 
+**DEPARTURE_AIRPORT**(Scheduled_dep_time, Airport_code, Leg_no, Number)
+	PK: Airport_code, Leg_no, Number
+**ARRIVES_AIRPORT**(Scheduled_arr_time, Airport_code, Leg_no, Number)
+	PK: Airport_code, Leg_no, Number
 
-FLIGHT(Number, Airline, Weekdays)
+**LEG_INSTANCE**(Airport_code, Leg_no, Number, Date, Airplane_id)
+	PK: Airport_code, Leg_no, Number, Date, Airplane_id 
+
+**DEPARTS**(Airport_code, Leg_no, Dept_time)
+	PK: Airport_code, Dept_time
+**ARRIVES**(Airport_code, Leg_no, Arr_time)
+	PK: Airport_code, Arr_time
+**SEAT**(Seat_no, Airport_code, Leg_no, Number, Date, Airplane_id )
+	PK: Seat_no, Airport_code, Leg_no, Number, Date, Airplane_id) 
+**RESERVATION**(Customer_name, Cphone, Airport_code, Leg_no, Number, Date, Airplane_id)
+	PK: Airport_code, Leg_no, Number, Date, Airplane_id 
+
+**FLIGHT**(Number, Airline, Weekdays)
 	PK: Number
-FARE(Number, Restriction, Amount, Code)
+**FARE**(Number, Restriction, Amount, Code)
 	PK: Number, Code
-	
 
-
-
-kiểm tra hàm có 2 thuộc tínht trở lên
-- [ ] AB -> a thừa hay b thừa you
+**Requirements and Constraints created the ER diagram**
