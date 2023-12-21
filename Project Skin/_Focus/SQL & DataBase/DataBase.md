@@ -20,6 +20,7 @@
 [[DB_HW4-2]]
 [[DB_HW5]]
 	[chatGPT answer](https://chat.openai.com/share/71c56bcd-f768-4120-abcb-a2f87f5ff094)
+[[DB_HW6]]
 
 Super key - 1 or 1 tuple (tập ) có nhiều thuộc tính. Xác định duy nhất mỗi bộ trong quan hệ.
 Khóa dự tuyển - siêu khóa nhỏ nhất.
