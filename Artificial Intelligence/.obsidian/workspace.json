@@ -20,6 +20,38 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2a1c409e8ec5509c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845fe36388f832bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf4372b02fa8d93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -151,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -161,10 +194,11 @@
   },
   "active": "595e98fb057d501a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Prompt Engineering.md",
     "Machine Learning.md",
     "Understand ChatGPT.md",
     "My Research.md",
-    "Prompt Engineering.md",
     "Generative AI (AI Sáng Tạo).md",
     "Grammary.md",
     "Why Machine Learning.md",
@@ -191,7 +225,6 @@
     "News Settler.md",
     "Machine Learning Tools.md",
     "Facebook's field guide to machine learning.md",
-    "Clustering.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Image/Pasted image 20230702130719.png",
     "Untitled",

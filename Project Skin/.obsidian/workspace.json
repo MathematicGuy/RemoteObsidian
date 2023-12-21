@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3d4ae4eaa0495c6",
+        "id": "eb8c045c52f97548",
         "type": "tabs",
         "children": [
           {
-            "id": "dd7d69c06439fb9c",
+            "id": "840040631cad5f83",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b996f3f2b02f25a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,14 +185,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd7d69c06439fb9c",
+  "active": "b996f3f2b02f25a5",
   "lastOpenFiles": [
+    "Todo.md",
+    "_Focus/2023/Last Semester/Fundamental of Programming.md",
+    "_Focus/2023/3rd Semesters/CSharp/Chapter 1 - Introduction programming language C Sharp.md",
+    "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
+    "C Note.md",
     "German Vocabulary.md",
     "Movie_DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20231219160115.png",
     "Images/Nomnom_Updated_1.svg",
-    "Todo.md",
     "JOIN Table.md",
     "DB Users.md",
     "Company DB.md",
@@ -207,9 +216,6 @@
     "Ban Phát Triển Dự Án.md",
     "Ban Truyền Thông.md",
     "Ban Chuyên Môn.md",
-    "Thư Ký.md",
-    "Ban Phó Chủ Nhiệm.md",
-    "System Design.md",
     "Images/Pasted image 20231215095116.png",
     "Images/Pasted image 20231215092403.png",
     "Images/Pasted image 20231215092317.png",
