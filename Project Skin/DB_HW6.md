@@ -120,3 +120,7 @@ FARE(Number, Restriction, Amount, Code)
 	PK: Number, Code
 	
 
+
+
+kiểm tra hàm có 2 thuộc tínht trở lên
+- [ ] AB -> a thừa hay b thừa you
