@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "794c30f7a0c67884",
+        "id": "fd4bc5fd57e18670",
         "type": "tabs",
         "children": [
           {
-            "id": "4c18cf12fde0628f",
+            "id": "44e48004593c8daa",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2fc75bd4f0bc3847",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -185,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2fc75bd4f0bc3847",
+  "active": "44e48004593c8daa",
   "lastOpenFiles": [
     "Todo.md",
     "DB_HW6.md",
