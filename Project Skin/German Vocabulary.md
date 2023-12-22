@@ -1,4 +1,6 @@
-**Chapter 1**
+### **Unit 1**
+
+**Lesson 1**
 notice: Nounce is capitalize
 
 Und and
@@ -10,7 +12,7 @@ Tschuss Bye
 Danke thank
 	Danke Schon thank you (danke shun)
 
-**Chapter 2**
+**Lesson 2**
 Mein my
 Brot bread
 Kaffee coffee
@@ -20,7 +22,7 @@ Bier Bear
 Tee Tea
 Bitte please
 
-**Chapter 3**
+**Lesson 3**
 Meine -> my (female)
 Mein -> my (male)
 
@@ -44,8 +46,31 @@ Du you
 Bist are
 	Du(you) bist(are) mein Frau(wive) You are my wive
 
+Klug smart
 
-**Chapter 2**
+**Lesson 4**
 der Junge  the boy
 die frau  the woman
 der Mann  the man
+
+
+### **Unit 2**
+
+**Lesson 1**
+eine Eule the owl
+eine Maus the mouse
+eine Katze the cat (cat wa see as famale ??)
+	mouse & owl & cat are see as feminine.
+(not ein Katze)
+ein Elefant the 
+
+Wo who
+
+**Lesson 2**
+gut good
+geht (saying sth is good?)
+
+es geht I'm all right 
+	danke, es geht
+gutten tag good afternoon
+Wie geht's How are you
