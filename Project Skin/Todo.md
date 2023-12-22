@@ -43,7 +43,8 @@
 - [ ] Hủy Github Co-pilot trươ'c hạn (10/1/2024)
 - [ ] Hủy Dualingo trươ'c hạn (23/1/2024)
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
-- [ ] Lấy Tablet trước khi về 
+- [ ] Thông báo Luật Lệ mới cho CLB tr'c năm mới 
+
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)

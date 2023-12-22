@@ -129,14 +129,46 @@ Case that HAS_PHONE will be redundant
 	PK: Airport_code, Dept_time
 **ARRIVES**(Airport_code, Leg_no, Arr_time)
 	PK: Airport_code, Arr_time
-**SEAT**(Seat_no, Airport_code, Leg_no, Number, Date, Airplane_id )
-	PK: Seat_no, Airport_code, Leg_no, Number, Date, Airplane_id) 
 **RESERVATION**(Customer_name, Cphone, Airport_code, Leg_no, Number, Date, Airplane_id)
 	PK: Airport_code, Leg_no, Number, Date, Airplane_id 
+**SEAT**(Seat_no, Airport_code, Leg_no, Number, Date, Airplane_id )
+	PK: Seat_no, Airport_code, Leg_no, Number, Date, Airplane_id) 
 
 **FLIGHT**(Number, Airline, Weekdays)
 	PK: Number
 **FARE**(Number, Restriction, Amount, Code)
 	PK: Number, Code
 
-**Requirements and Constraints created the ER diagram**
+**Requirements and Constraints created in the ER diagram**
+
+**Many-to-1** Relationship
++ FLIGHT_LEG N-< DEPARTURE_AIRPORT >-1 AIRPORT
++ FLIGHT_LEG N-< ARRIVAL_AIRPORT >-1 AIRPORT
+	Weak Entity, depend on AIRPORT and FLIGHT primary key
+	+ Airport_code, Number 
+
++ AIRPLANE N-< TYPE >-1 AIRPLANE_TYPE
+
++ FLIGHT_LEG N-< LEGS >-1 FLIGHT
+
++ LEG_INSTANCE N-< INSTANCE_OF >-1 FLIGHT_LEG
+
++ LEG_INSTANCE N-< ASSIGNED >-1 AIRPLANE
+
++ LEG_INSTANCE N-< DEPARTS >-1 AIRPORT
+
++ LEG_INSTANCE N-< ARRIVES >-1 AIRPORT
+
+ + SEAT N-< RESERVATION >-1 LEG_INSTANCE
+	Weak Entity, depend on LEG_INSTANCE primary_key: 
+	+ Airport_code, Leg_no, Number, Date, Airplane_id
+
++ FARE N-< FARES >-1 FLIGHT
+	Weak Entity, depend on FLIGHT primary_key:
+	+ Number
+
+**Many-to-Many** Relationship
++ AIRPORT m-< CAN_LAND  >-n AIRPLANE_TYPE
++ AIRPLANE m-< CAN_LAND  >-n AIRPLANE_TYPE
+
+
