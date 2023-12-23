@@ -95,6 +95,7 @@ Wie geht's how are you
 Natürlich of course
 Bis Spater see you later
 
+
 Morgen morning
 Guten morgen good morning
 
