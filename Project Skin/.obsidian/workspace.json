@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fa8c6e510b505bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -103,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,8 +179,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa8c6e510b505bc4",
+  "active": "44e48004593c8daa",
   "lastOpenFiles": [
+    "German Vocabulary.md",
     "Todo.md",
     "DB_HW6.md",
     "C Note.md",
@@ -211,7 +197,6 @@
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "_Focus/2023/3rd Semesters/CSharp/Chapter 1 - Introduction programming language C Sharp.md",
     "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
-    "German Vocabulary.md",
     "Movie_DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20231219160115.png",

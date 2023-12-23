@@ -62,9 +62,17 @@ eine Maus the mouse
 eine Katze the cat (cat wa see as famale ??)
 	mouse & owl & cat are see as feminine.
 (not ein Katze)
-ein Elefant the 
+
+**see as Musculine Animal**
+ein Elefant the  elephant
+ein bar the bear
+ein Hund the dog
 
 Wo who
++ ? Wo is used when you want to know where someone or something is. 
+	example: Wo ist die Katze? (where's the cat?)
++ ? Woher is used when you want to know where someone or something comes from. 
+	example: Woher kommst du? (Where do you come from?)
 
 **Lesson 2**
 gut good
@@ -72,5 +80,19 @@ geht (saying sth is good?)
 
 es geht I'm all right 
 	danke, es geht
-gutten tag good afternoon
+Gutten tag good afternoon
 Wie geht's How are you
+Bis bald see you soon
+
+
+Auf Wiedersehen good bye
+
+Abend evening
+Guten Abend good morning
+
+Natürlich of course
+Bis Spater see you later
+
+Kein Problem no problem
+
+Es tut mir leid! I'm sorry (ét tút mi )
