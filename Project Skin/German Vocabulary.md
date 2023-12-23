@@ -84,7 +84,7 @@ Gutten tag good afternoon
 Wie geht's How are you
 	not es geht
 Bis bald see you soon
-
+schon beautiful
 
 Auf Wiedersehen good bye
 
