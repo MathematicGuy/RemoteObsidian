@@ -82,17 +82,35 @@ es geht I'm all right
 	danke, es geht
 Gutten tag good afternoon
 Wie geht's How are you
+	not es geht
 Bis bald see you soon
 
 
 Auf Wiedersehen good bye
 
 Abend evening
-Guten Abend good morning
+Guten Abend good Evening
+Wie geht's how are you
 
 Natürlich of course
 Bis Spater see you later
 
+Morgen morning
+Guten morgen good morning
+
+tag day
+Guten tag good day
+
+Super great
+Prost cheers
+
 Kein Problem no problem
 
-Es tut mir leid! I'm sorry (ét tút mi )
+
+Es tut mir leid! I'm sorry (ét tút mi like)
+
+Danke auf wiedersehen
+
+
+auf wiedersehen i'm sorry
+guten tag good day
