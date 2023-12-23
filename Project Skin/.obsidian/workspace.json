@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4bc5fd57e18670",
+        "id": "f8ae8ef1670ffda6",
         "type": "tabs",
         "children": [
           {
-            "id": "44e48004593c8daa",
+            "id": "fcf1cc7f81373302",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "80b977315ca77078",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -88,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,10 +185,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "44e48004593c8daa",
+  "active": "80b977315ca77078",
   "lastOpenFiles": [
-    "German Vocabulary.md",
     "Todo.md",
+    "German Vocabulary.md",
     "DB_HW6.md",
     "C Note.md",
     "C Code Note.md",
