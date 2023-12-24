@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "cd363642a5ccc465",
+            "id": "d2cb7fc5d1e78cdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DB_HW6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DB_HW6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DB_HW6.md"
+              }
             }
           },
           {
@@ -185,8 +194,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cd363642a5ccc465",
+  "active": "d2cb7fc5d1e78cdb",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Movie_DB.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "Todo.md",
     "German Vocabulary.md",
     "DB_HW6.md",
@@ -196,15 +208,12 @@
     "Images/Pasted image 20231221113341.png",
     "Images/Pasted image 20231221111347.png",
     "Images/Pasted image 20231221111309.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW4-1.md",
     "Images/Pasted image 20231221080331.png",
     "Images/Pasted image 20231221080253.png",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "_Focus/2023/3rd Semesters/CSharp/Chapter 1 - Introduction programming language C Sharp.md",
     "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
-    "Movie_DB.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20231219160115.png",
     "Images/Nomnom_Updated_1.svg",
     "JOIN Table.md",

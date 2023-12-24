@@ -172,3 +172,21 @@ Case that HAS_PHONE will be redundant
 + AIRPLANE m-< CAN_LAND  >-n AIRPLANE_TYPE
 
 
+## Movie DB
+
+Movie(movie_id, title, yr, length, name, id, plot), 
+	actor, director - many to one Movie
+	plot - cốt chuyện
+	id - for both actor and director (employee_id)
+	name - employee name 
+Firm(studio, genre)
+	studio (the company)
+Quotes(actor, movie_name, quote)
+	quote - 0-to-Many
+Actor(id, name, birth, role)
+	birth(mm/dd/yyyy)
+	Appear in 1 or many movie
+Director(id, name, birth, direct_movie) kế thừa atttibute của 
+	Can also be a Actor
+	Appear in 1 or many movie
+FirmStudio(studio, address) (weak  ?)
