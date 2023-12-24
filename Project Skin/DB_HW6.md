@@ -179,6 +179,8 @@ Movie(movie_id, title, yr, length, name, id, plot),
 	plot - cốt chuyện
 	id - for both actor and director (employee_id)
 	name - employee name 
+
+
 Firm(studio, genre)
 	studio (the company)
 Quotes(actor, movie_name, quote)
