@@ -110,7 +110,7 @@ Kein Problem no problem
 
 Es tut mir leid! I'm sorry (ét tút mi like)
 
-Danke auf wiedersehen
+Danke auf wiedersehen thank you, goodbye
 
 
 auf wiedersehen i'm sorry
