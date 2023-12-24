@@ -28,15 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "DB_HW6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,12 +193,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7484d11bd3ab048a",
+  "active": "6f072cd7da770d59",
   "lastOpenFiles": [
-    "Todo.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "German Vocabulary.md",
     "DB_HW6.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Todo.md",
+    "German Vocabulary.md",
     "DB_HW5.md",
     "DB_HW4-1.md",
     "DB_HW4-2.md",

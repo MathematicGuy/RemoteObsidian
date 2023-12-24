@@ -192,3 +192,4 @@ Director(id, name, birth, direct_movie) kế thừa atttibute của
 	Can also be a Actor
 	Appear in 1 or many movie
 FirmStudio(studio, address) (weak  ?)
+
