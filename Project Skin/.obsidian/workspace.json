@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ae8ef1670ffda6",
+        "id": "bfc298f5cb09cc19",
         "type": "tabs",
         "children": [
           {
-            "id": "fcf1cc7f81373302",
+            "id": "7659cf5d0035eb1d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "80b977315ca77078",
+            "id": "cd363642a5ccc465",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,7 +185,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80b977315ca77078",
+  "active": "cd363642a5ccc465",
   "lastOpenFiles": [
     "Todo.md",
     "German Vocabulary.md",
