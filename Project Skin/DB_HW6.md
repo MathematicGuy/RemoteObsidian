@@ -47,35 +47,34 @@ reasons:
 note: M - N or N - M as Many Many relationship
 
 1. **BANK - BANK_BRANCH:**
-	Bank (1..n)-<>-(1..1) BANK_BRANCH
+	BANK (1..n)-< BRANCHES >-(1..1) BANK_BRANCH
 	
-	 + Explain: 1 bank can have many branches, bank_branch is a weak entity with on-to-many relationship with bank, therefor 1 bankbranch can only belong to 1 bank.
+	 + Explain: 1 bank can have many branches, bank_branch is a weak entity with one-to-many relationship with bank, therefor 1 bank branch can only belong to 1 bank. 
+	 + BANK_BRANCH have total participation with BANK so there at least 1 BANK for 1 BANK_BRANCH to exist.
 1. **BANK_BRANCH - ACCOUNT:**
-	BANK_BRANCH (0..n)-<>-(1..1) ACCOUNT
+	BANK_BRANCH (0..n)-< ACCTS >-(1..1) ACCOUNT
 	
 	+ Explain: BANK_BRANCH to ACCOUNT is a one-to-many relationship. So 1 BANK_BRANCH can have 0 to many accounts, and 1 account belong to 1 BANK_BRANCH 
 1. **BANK_BRANCH - LOANS:**
-	BANK_BRANCH (0..n)-<>-(1..1) LOANS
+	BANK_BRANCH (0..n)-< LOANS >-(1..1) LOAN
 	
 	+ Explain: BANK_BRANCH to LOANS is a one-to-many relationship. So 1 BANK_BRANCH can have 0 to many loans, and 1 account belong to 1 BANK_BRANCH.
 1. **CUSTOMER - ACCOUNT:**
-	CUSTOMER (0..n)-<>-(1..n) ACCOUNT 
+	CUSTOMER (0..n)-< A_C >-(1..n) ACCOUNT 
 	
 	+ Explain: CUSTOMER to ACCOUNT is a one-to-many relationship. So 1 CUSTOMER can have 0 to many accounts, and 1 account belong to 1 CUSTOMER 
 1. **CUSTOMER - LOANS:**
-	CUSTOMER (0..n)-<>-(1..n) LOANS
+	CUSTOMER (0..n)-< A_L >-(1..n) LOANS
 	
 	+ Explain:  CUSTOMER to LOANS is a one-to-many relationship. So 1 CUSTOMER can have 0 to many loans, and 1 account belong to 1 CUSTOMER 
 **e) Liệt kê ngắn gọn các yêu cầu của người dùng dẫn đến thiết kế lược đồ ER này.**
 
 Customer Request:
 + Choose Type of Account (Normal Account or Loans Account)
-
-A_C (Normal Account)
-+ Withdraw money from a BRANK_BRANCH
-L_C (Loan Account)
-+ Take a Loans from a Bank from a BRANK_BRANCH
-
++ A_C (Normal Account)
+	+ Withdraw money from a BRANK_BRANCH
++ L_C (Loan Account)
+	+ Take a Loans from a Bank from a BRANK_BRANCH
 + Withdraw Money or Take Loans from a BANK_BRANCH from many differents address 
 
 **f) Giả sử mỗi khách hàng phải có ít nhất một tài khoản nhưng bị hạn chế tối đa hai khoản vay cùng một lúc và một chi nhánh ngân hàng không thể có nhiều hơn 1.000 khoản vay. Điều này hiển thị như thế nào trên các ràng buộc (tối thiểu, tối đa)?**
@@ -95,7 +94,7 @@ note: only modify what the contents given.
 **Hãy chỉ ra các ràng buộc về tỷ số lực lượng (tối thiểu, tối đa) của các liên kết trên lược đồ này. Nêu rõ các giả định bổ sung nào bạn đưa ra (nếu có). Trong những điều kiện nào thì mối quan hệ HAS_PHONE sẽ dư thừa trong ví dụ này?**
 ![[Pasted image 20231221111309.png]]
 
-Assuming: 
+**Assuming:** 
 1) 1 EMPLOYEE can WORKS_IN 0..2 DEPARTMENT
 2) 1 DEPARTMENT can have 1..20 EMPLOYEEs
 
