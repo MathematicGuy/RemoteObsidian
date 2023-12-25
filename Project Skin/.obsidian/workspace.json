@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW6.md",
+                "file": "SE_HW_Chap6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW6.md",
+                "file": "SE_HW_Chap6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_HW6.md"
+                "file": "SE_HW_Chap6.md"
               }
             }
           },
@@ -207,12 +207,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "632e23c0f1ffd184",
+  "active": "19aed10c607fd3cb",
   "lastOpenFiles": [
-    "SE_HW_Chap6.md",
     "DB_HW6.md",
-    "DataBase Design and E-R Model.md",
     "Todo.md",
+    "SE_HW_Chap6.md",
+    "DataBase Design and E-R Model.md",
     "Images/Pasted image 20231225161521.png",
     "Software Architecture.md",
     "_Focus/2023/Last Semester/Software Engineering.md",

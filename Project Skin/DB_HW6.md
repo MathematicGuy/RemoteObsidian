@@ -194,8 +194,9 @@ DEPARTMENT (5..10)-< CONTAINS >-(1..1) PHONE
 Một hoặc Nhiều: Total participation
 Có hoặc Không: Partial participation
 
-Film(title, year, duration, plot, emp_id, name, )
+Film(title, year, duration, plot, emp_id, name, birth, company_id, address,, company_name )
 	PK: title, year
+
 
 ![[Pasted image 20231225123729.png]]
 + **Mỗi bộ phim có một hoặc nhiều đạo diễn và một hoặc nhiều diễn viên xuất hiện trong đó.**
