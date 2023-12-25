@@ -7,7 +7,7 @@ Home Work - [UML Tools](https://app.diagrams.net/#HMathmatheticGuy%2FUML-Diagram
 + [[SE_HW_Chap1]]
 + [[SE_HW_Bank_ClassDiagram]]
 + [[SE_GroupProject]]
-
++ [[SE_HW_Chap6]]
 
 # [[Lecture 1 - Software Engineering Overview]]
 

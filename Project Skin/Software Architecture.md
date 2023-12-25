@@ -63,17 +63,6 @@ Cached can be added later
 1 Client, 1 Server, 1 Database 
 ![[Pasted image 20231215095116.png]]
 
-
-
-
-
-
-
-
-
-
-
-
 ### Mirco Service v/s Monolithic Service
 Micro service: divide each service account for 1 problem
 	If 1 thing breakdown -> only that service break down
@@ -85,4 +74,5 @@ Monolithic: hold all service
 Serverless Architecture
 	+ Function as a service (FAAS) is a software design pattern where our function is hosted by a 3rd party like MS Azure, Firebase cloud, AWS, etc..
 ![[Pasted image 20231214013601.png]]
+
 
