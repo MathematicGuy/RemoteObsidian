@@ -2,6 +2,8 @@
 
 ### [[C Fundamental]]
 
+### [[C Group Project]]
+
 Why Learn C? It the mother of languages
 	It the fundamental, writer for major of programming language, tools and kernel like: SQL, Linux, Python intepeter, UNIX, etc...  
 > Also inspiring the syntaxs for JS, Java, C++, C, c#, php, perl 

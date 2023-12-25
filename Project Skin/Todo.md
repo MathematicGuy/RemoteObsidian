@@ -14,7 +14,7 @@
 
 #Todo/Code/GroupProjectPlanning
 - [ ] Activity Diagram Hand Design
-
+- [ ] Dự Án C
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
@@ -40,7 +40,7 @@
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 - [ ] Personalise my Gmail (Filter trash and label good reading resources)
 - [ ] Hủy Github Co-pilot trươ'c hạn (10/1/2024)
-- [ ] Hủy Dualingo trươ'c hạn (23/1/2024)
+- [ ] Hủy Dualingo trươ'c hạn (7/1/2024)
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
 - [ ] Thông báo Luật Lệ mới cho CLB tr'c năm mới 
 
