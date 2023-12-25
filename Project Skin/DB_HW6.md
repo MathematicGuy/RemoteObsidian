@@ -191,7 +191,10 @@ DEPARTMENT (5..10)-< CONTAINS >-(1..1) PHONE
 
 ## Movie DB
 
-Movie(title, yr, length, name, id, plot), 
+Một hoặc Nhiều: Total participation
+Có hoặc Không: Partial participation
+
+Movie(company_id, emp_id, title, yr, length, name, plot), 
 
 Firm(studio, genre)
 	studio (the company)
@@ -205,18 +208,21 @@ Director(id, name, birth, direct_movie) kế thừa atttibute của
 	Appear in 1 or many movie
 FirmStudio(studio, address) 
 
-> **Mỗi bộ phim có một hoặc nhiều đạo diễn và một hoặc nhiều diễn viên xuất hiện trong đó.**
-+ employee vs film có mqh many-to-many qua Work_In
-> Mỗi câu trích dẫn **có thể không có hoặc có nhiều** câu trích dẫn và câu trích dẫn được nói bởi 1 diễn viên cụ thể trong film. (partial participation)
-
-
-Một hoặc Nhiều: Total participation
-Có hoặc Không: Partial participation
-
-
+![[Pasted image 20231225123729.png]]
++ **Mỗi bộ phim có một hoặc nhiều đạo diễn và một hoặc nhiều diễn viên xuất hiện trong đó.**
+	employee: Mỗi diễn viên đều có một vai trong phim. Đạo diễn có thể là diễn viên trong bộ phim của họ. 
+-> employee vs film có mqh one-to-many qua Work_In
+	Mỗi câu trích dẫn **có thể không có hoặc có nhiều** câu trích dẫn và câu trích dẫn **được nói bởi 1 diễn viên** cụ thể trong film. 
+-> Mỗi nhân viên có thể có 1 câu trích dẫn hoặc không.  Và mỗi câu trích dẫn phải đi vs 1 emp_id
+Quote (1..1)-< Actor_Quote >-(0..n) employee.
+Quote(emp_id, quote_id, content)
+	Do Quote là thực thể yếu nên quote_id và content có thể NULL.
+![[Pasted image 20231225125439.png]]
 
 Một công ty sản xuất sản xuất một hoặc nhiều bộ phim.
 ![[Pasted image 20231225113619.png]]
 
-Mỗi diễn viên đều có một vai trong phim. Đạo diễn 1 hoặc nhiều bộ phim và có thể là diễn viên trong bộ phim của họ. 
-+ 1 employee can be in many film and 1 film can have many employee as Director or Actor
+Mỗi Hãng được phân theo 1 hoặc nhiều thể loại (Genre không phải weak entity vì thuộc tính của weak entity có thể null -> tạo ra vấn đề hãng phân ko có thể loại )
+-> total participation
+![[Pasted image 20231225131824.png]]
+
