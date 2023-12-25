@@ -99,14 +99,13 @@ Bis Spater see you later
 Morgen morning
 Guten morgen good morning
 
-tag day
-Guten tag good day
+tag day/afternoon
+Guten tag good day/afternoon
 
 Super great
 Prost cheers
 
 Kein Problem no problem
-
 
 Es tut mir leid! I'm sorry (ét tút mi like)
 

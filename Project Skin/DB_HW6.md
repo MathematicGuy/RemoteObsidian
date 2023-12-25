@@ -30,74 +30,91 @@ Strong Entity in E-R Diagram: CUSTOMER, BANK, ACCOUNT, LOAN
 
 Thực Thể yếu trong lược đồ: 
 BANK_BRANCH(Code, Addr, Branch_no)
-	PK: Code, Branch_no
-Code: foreign key that reference relation in BANK 
+	Partial Key: Branch_no
+Indetifying relationship: Branches
 
 **c) Khóa thành phần và liên kết xác định của kiểu thực thể yếu chỉ định những ràng buộc nào trong lược đồ này?**
 
 Partial Key: Branch_no.
-Constraint Relation between Bank and Bank_branch is One-to-Many 
-Cardinality: 
+Constraint Relation between Bank and Bank_branch throught BRANCHES is One-to-Many 
 + BRANCHES: BANK 1-to-Many BANK_BRANCH 
-+ ACCTS: BANK_BRANCH 1-to-Many ACCTS
-+ LOANS: BANK_BRANCH 1-to-Many LOANS
+reasons: 
+1) The Weak Entity must have total participation in the identifying relationship set, Branches.
+2) the identifying reationshop between Bank & Bank_Branches must be **one to many** (example above).
 
 **d) Liệt kê tên của tất cả các kiểu liên kết và chỉ định ràng buộc (tối thiểu, tối đa) cho mỗi sự tham gia của một kiểu thực thể trong một kiểu liên kết. Hãy giải thích cho sự lựa chọn của bạn.**
 
-For M - N or N - M as Many Many relationship
+note: M - N or N - M as Many Many relationship
 
 1. **BANK - BANK_BRANCH:**
-    - One-to-Many relationship: One BANK can have many BANK_BRANCHes.
-   
-2. **BANK_BRANCH - ACCOUNT:**
-    - One-to-Many relationship: One BANK_BRANCH can have many ACCOUNTs.
-
-3. **BANK_BRANCH - LOAN:**
-    - One-to-Many relationship: One BANK_BRANCH can have many LOANs.
-
-4. **CUSTOMER - ACCOUNT:**
-    - Many-to-Many relationship: Many CUSTOMERs can be associated with many ACCOUNTs through the A_C (Association) table.
-
-5. **CUSTOMER - LOAN:**
-    - Many-to-Many relationship: Many CUSTOMERs can be associated with many LOANs through the L_C (Association) table.
-
+	Bank (1..n)-<>-(1..1) BANK_BRANCH
+	
+	 + Explain: 1 bank can have many branches, bank_branch is a weak entity with on-to-many relationship with bank, therefor 1 bankbranch can only belong to 1 bank.
+1. **BANK_BRANCH - ACCOUNT:**
+	BANK_BRANCH (0..n)-<>-(1..1) ACCOUNT
+	
+	+ Explain: BANK_BRANCH to ACCOUNT is a one-to-many relationship. So 1 BANK_BRANCH can have 0 to many accounts, and 1 account belong to 1 BANK_BRANCH 
+1. **BANK_BRANCH - LOANS:**
+	BANK_BRANCH (0..n)-<>-(1..1) LOANS
+	
+	+ Explain: BANK_BRANCH to LOANS is a one-to-many relationship. So 1 BANK_BRANCH can have 0 to many loans, and 1 account belong to 1 BANK_BRANCH.
+1. **CUSTOMER - ACCOUNT:**
+	CUSTOMER (0..n)-<>-(1..n) ACCOUNT 
+	
+	+ Explain: CUSTOMER to ACCOUNT is a one-to-many relationship. So 1 CUSTOMER can have 0 to many accounts, and 1 account belong to 1 CUSTOMER 
+1. **CUSTOMER - LOANS:**
+	CUSTOMER (0..n)-<>-(1..n) LOANS
+	
+	+ Explain:  CUSTOMER to LOANS is a one-to-many relationship. So 1 CUSTOMER can have 0 to many loans, and 1 account belong to 1 CUSTOMER 
 **e) Liệt kê ngắn gọn các yêu cầu của người dùng dẫn đến thiết kế lược đồ ER này.**
 
 Customer Request:
-+ Choose Type of Account (Normal Account or Loan Account)
++ Choose Type of Account (Normal Account or Loans Account)
 
 A_C (Normal Account)
 + Withdraw money from a BRANK_BRANCH
 L_C (Loan Account)
-+ Take a Loan from a Bank from a BRANK_BRANCH
++ Take a Loans from a Bank from a BRANK_BRANCH
 
-+ Withdraw Money or Take Loan from a BANK_BRANCH from many differents address 
++ Withdraw Money or Take Loans from a BANK_BRANCH from many differents address 
 
 **f) Giả sử mỗi khách hàng phải có ít nhất một tài khoản nhưng bị hạn chế tối đa hai khoản vay cùng một lúc và một chi nhánh ngân hàng không thể có nhiều hơn 1.000 khoản vay. Điều này hiển thị như thế nào trên các ràng buộc (tối thiểu, tối đa)?**
 
 "Suppose **each customer** must have **at least one account** but is **limited to a maximum of two loan accounts at a time**, and a **bank branch cannot have more than 1,000 loan accounts**" this express as
+note: only modify what the contents given.  
 
-+ CUSTOMER N-< L_C >-1..N ACCOUNT
-	"1 Customer can have 1 to many account"
-+ LOAN 0...1000-< LOANS >-1 BANK_BRANCH
-	1 Customer can "Loan 1000 maximum Loans" from an Bank Branch
++ CUSTOMER (1..N)-< A_C >-(1..N) ACCOUNT
+	"1 Customer can have 1 to many account and reverse"
+ + ACCOUNT (1..2)-< L_C >-(1..n) LOANS 
+	 1 account can take loans 2 times -< L_C >- 1 Loans 
++ LOAN (1..1)-< LOANS >-(0..1000) BANK_BRANCH
+	can only Loan "0 to 1000 maximum Loans" at a time from an Bank Branch
  
 **6.2 Xét lược đồ E-R trong hình sau. Giả sử một nhân viên có thể làm việc ở tối đa hai phòng ban hoặc có thể không được phân công vào bất kỳ phòng ban nào. Giả sử mỗi phòng ban phải có một và có thể có tối đa ba số điện thoại.**
 
 **Hãy chỉ ra các ràng buộc về tỷ số lực lượng (tối thiểu, tối đa) của các liên kết trên lược đồ này. Nêu rõ các giả định bổ sung nào bạn đưa ra (nếu có). Trong những điều kiện nào thì mối quan hệ HAS_PHONE sẽ dư thừa trong ví dụ này?**
 ![[Pasted image 20231221111309.png]]
 
+Assuming: 
+1) 1 EMPLOYEE can WORKS_IN 0..2 DEPARTMENT
+2) 1 DEPARTMENT can have 1..20 EMPLOYEEs
+
+3) 1 EMPLOYEE can HAS 0..2 PHONE, 1 PHONE can be use by at least 1..5 persons
+5) 1 DEPARTMENT can CONTAINS 1..10 PHONE, and 1 PHONE only belong 1 only 1 DEPARTMENT
+
 **Relationship**
-+ EMPLOYEE 1-< WORKS_IN >-0..2 DEPARTMENT
-+ DEPARTMENT 1-< CONTAINS >-1..3 PHONE
-**Additional Assumptions:** 
-EMPLOYEE 1-< HAS_PHONE >-1..3 PHONE
++ EMPLOYEE (0..2)-< WORKS_IN >-(1..20) DEPARTMENT
++ EMPLOYEE (1..2)-< HAS_PHONE >-(1..5) PHONE
++ DEPARTMENT (1..2)-< CONTAINS >-(1..1) PHONE
+
 
 Case that HAS_PHONE will be redundant 
-+ EMPLOYEE 1-< HAS_PHONE >-4..N PHONE
-+ EMPLOYEE 1-< HAS_PHONE >-M PHONE
-	 EMPLOYEE has more than 3 PHONE 
-
+EMPLOYEE (0..2)-< WORKS_IN >-(1..20) DEPARTMENT
+	assume that there're 2 employees work in the department 
+EMPLOYEE (1..2)-< HAS_PHONE >-(1..5) PHONE
+	1 employee can has 2 phone maximum. Making 4 phone being uses 
+DEPARTMENT (5..10)-< CONTAINS >-(1..1) PHONE
+	DEPARTMENT have 5 to 10 phone while there 4 phones can be uses maximum making 1 phone redundant.
 
 **6.3 Hãy xem xét lược đồ E-R trong hình sau, biểu thị một lược đồ đơn giản hóa cho hệ thống đặt chỗ hàng không. Hãy nêu các yêu cầu và ràng buộc đã tạo ra lược đồ này. Cố gắng trình bày các yêu cầu và đặc tả ràng buộc của bạn càng chính xác càng tốt.**
 
@@ -174,12 +191,7 @@ Case that HAS_PHONE will be redundant
 
 ## Movie DB
 
-Movie(movie_id, title, yr, length, name, id, plot), 
-	actor, director - many to one Movie
-	plot - cốt chuyện
-	id - for both actor and director (employee_id)
-	name - employee name 
-
+Movie(title, yr, length, name, id, plot), 
 
 Firm(studio, genre)
 	studio (the company)
@@ -191,5 +203,20 @@ Actor(id, name, birth, role)
 Director(id, name, birth, direct_movie) kế thừa atttibute của 
 	Can also be a Actor
 	Appear in 1 or many movie
-FirmStudio(studio, address) (weak  ?)
+FirmStudio(studio, address) 
 
+> **Mỗi bộ phim có một hoặc nhiều đạo diễn và một hoặc nhiều diễn viên xuất hiện trong đó.**
++ employee vs film có mqh many-to-many qua Work_In
+> Mỗi câu trích dẫn **có thể không có hoặc có nhiều** câu trích dẫn và câu trích dẫn được nói bởi 1 diễn viên cụ thể trong film. (partial participation)
+
+
+Một hoặc Nhiều: Total participation
+Có hoặc Không: Partial participation
+
+
+
+Một công ty sản xuất sản xuất một hoặc nhiều bộ phim.
+![[Pasted image 20231225113619.png]]
+
+Mỗi diễn viên đều có một vai trong phim. Đạo diễn 1 hoặc nhiều bộ phim và có thể là diễn viên trong bộ phim của họ. 
++ 1 employee can be in many film and 1 film can have many employee as Director or Actor

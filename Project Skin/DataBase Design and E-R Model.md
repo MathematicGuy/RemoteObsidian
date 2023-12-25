@@ -90,3 +90,21 @@ PK: SSN
 ORDER
 FK: CustomerID
 ```
+
+Participation
+	Total (1-Many) có từ 1 đến nhiều
+	Partial (0-Many) khôg có or có nhiều
+
+##### Redundancy of Schemas (page 66)
+**Many-to-One and One-to-Many** represented by
+	Adding an extra attribute to the "many" side, containing the primary key of the "one" side
+Ex: ![[Pasted image 20231225090324.png]]
+ >Instead of creating a schema for relationship set inst_dept, add an attribute dept_name to the schema arising from entity set instructor
+
+WEAK ENTITY
+1) W/Entity must have total participation in the identifying relationship set, branches.
+2) the identifying reationshop between Strong Entity & Weak Entity must be **one to many** (example above).
+
+MIN-MAX relationship representation
+ + CUSTOMER (1..2)-< L_C >-(1..n) LOAN 
+	 1 CUSTOMER can take loan 2 times -< L_C >- 1 CUSTOMER  can have many LOAN

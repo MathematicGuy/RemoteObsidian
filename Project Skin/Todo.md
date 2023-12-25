@@ -13,9 +13,8 @@
 - [ ] Header disappered when scroll down
 
 #Todo/Code/GroupProjectPlanning
-- [ ] Redo Data Base Design
-- [ ] Sequence + Activity Diagram Hand Design
-- [ ] System Design Schema
+- [ ] Activity Diagram Hand Design
+
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
