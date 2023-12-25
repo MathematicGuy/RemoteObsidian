@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "632e23c0f1ffd184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE_HW_Chap6.md",
+                "file": "DB_HW6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE_HW_Chap6.md",
+                "file": "DB_HW6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE_HW_Chap6.md"
+                "file": "DB_HW6.md"
               }
             }
           },
@@ -194,21 +207,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "19aed10c607fd3cb",
+  "active": "632e23c0f1ffd184",
   "lastOpenFiles": [
+    "SE_HW_Chap6.md",
+    "DB_HW6.md",
+    "DataBase Design and E-R Model.md",
+    "Todo.md",
     "Images/Pasted image 20231225161521.png",
     "Software Architecture.md",
-    "SE_HW_Chap6.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Todo.md",
     "C Group Project.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "C Note.md",
-    "DataBase Design and E-R Model.md",
     "German Vocabulary.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "_Focus/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",
-    "DB_HW6.md",
     "Images/Pasted image 20231225131824.png",
     "Images/Pasted image 20231225125439.png",
     "Images/Pasted image 20231225124913.png",
@@ -225,7 +238,6 @@
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Movie_DB.md",
     "C Code Note.md",
-    "Images/Pasted image 20231221113341.png",
     "_Focus/2023/3rd Semesters/CSharp/Chapter 1 - Introduction programming language C Sharp.md",
     "_Focus/2023/3rd Semesters/OOP/Cs CMC.md",
     "JOIN Table.md",

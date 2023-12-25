@@ -194,19 +194,8 @@ DEPARTMENT (5..10)-< CONTAINS >-(1..1) PHONE
 Một hoặc Nhiều: Total participation
 Có hoặc Không: Partial participation
 
-Movie(company_id, emp_id, title, yr, length, name, plot), 
-
-Firm(studio, genre)
-	studio (the company)
-Quotes(actor, movie_name, quote)
-	quote - 0-to-Many
-Actor(id, name, birth, role)
-	birth(mm/dd/yyyy)
-	Appear in 1 or many movie
-Director(id, name, birth, direct_movie) kế thừa atttibute của 
-	Can also be a Actor
-	Appear in 1 or many movie
-FirmStudio(studio, address) 
+Film(title, year, duration, plot, emp_id, name, )
+	PK: title, year
 
 ![[Pasted image 20231225123729.png]]
 + **Mỗi bộ phim có một hoặc nhiều đạo diễn và một hoặc nhiều diễn viên xuất hiện trong đó.**

@@ -14,3 +14,11 @@ Hình chữ nhật - Yêu Cầu (Request)
 (nhiều) n  nhánh hợp lại 1 nhánh
 > n công việc cầ thực hiện để cho 1 nhánh hoạt động
 
+
+5 - 
+
+2 -
+
+7 -
+
+9 - 
