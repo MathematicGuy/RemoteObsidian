@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9d206846ada3bbd",
+        "id": "690067cbc11cf116",
         "type": "tabs",
         "children": [
           {
-            "id": "7b49edca3afddd27",
+            "id": "0ba69aa34e2cfd84",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "215584f3ae4743f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -196,7 +182,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "215584f3ae4743f4",
+  "active": "0ba69aa34e2cfd84",
   "lastOpenFiles": [
     "Todo.md",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
