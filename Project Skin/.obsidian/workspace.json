@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "690067cbc11cf116",
+        "id": "46fb1aee9d52c1a8",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba69aa34e2cfd84",
+            "id": "bd7ca6b0acd7edf5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -182,7 +182,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0ba69aa34e2cfd84",
+  "active": "bd7ca6b0acd7edf5",
   "lastOpenFiles": [
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Todo.md",
