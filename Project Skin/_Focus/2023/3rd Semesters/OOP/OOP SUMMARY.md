@@ -21,6 +21,8 @@ p2 - SET UP
 		call get/set function
 		super() -> inherit from its parent class
 
+
+
 (inherit, extends from Person)
 	TeachingAssistant 
 	Lecturer 

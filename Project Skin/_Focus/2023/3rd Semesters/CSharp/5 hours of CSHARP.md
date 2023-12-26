@@ -1789,6 +1789,52 @@ public static void CountUp()
 }
 ```
 
+### Interface
+> Allow to implement 1 function and use it in many different ways 
+```cs
+// Define an interface named IShape
+public interface IShape
+{
+    double CalculateArea(); // Method signature for calculating the area
+}
+
+// Implement the interface in a class
+public class Circle : IShape
+{
+    public double Radius { get; set; }
+
+    // Implement the CalculateArea method from the IShape interface
+    public double CalculateArea()
+    {
+        return Math.PI * Math.Pow(Radius, 2);
+    }
+}
+
+// Another class implementing the same interface
+public class Rectangle : IShape
+{
+    public double Width { get; set; }
+    public double Height { get; set; }
+
+    // Implement the CalculateArea method differently
+    public double CalculateArea()
+    {
+        return Width * Height;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Circle circle = new Circle { Radius = 5 };
+        Rectangle rectangle = new Rectangle { Width = 4, Height = 6 };
+
+        Console.WriteLine($"Circle Area: {circle.CalculateArea()}");
+        Console.WriteLine($"Rectangle Area: {rectangle.CalculateArea()}");
+    }
+}
+```
 
 
 
