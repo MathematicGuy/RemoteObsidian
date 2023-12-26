@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2ef85477c9c5095",
+        "id": "1033100f30dbbdd9",
         "type": "tabs",
         "children": [
           {
-            "id": "2336045d9aaccb94",
+            "id": "5ccdd81b2878cedb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "89e9019af51e66d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -194,9 +180,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "89e9019af51e66d1",
+  "active": "5ccdd81b2878cedb",
   "lastOpenFiles": [
     "German Vocabulary.md",
+    "C Group Project.md",
     "Todo.md",
     "DB_HW6.md",
     "DataBase Design and E-R Model.md",
@@ -208,7 +195,6 @@
     "Images/Pasted image 20231225161521.png",
     "Software Architecture.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "C Group Project.md",
     "_Focus/2023/Last Semester/Fundamental of Programming.md",
     "C Note.md",
     "_Focus/2023/3rd Semesters/Statistic/XSTK 1.7 Phân biệt lấy CÓ or KHÔNG HOÀN LẠI, CÙNG LÚC or LẦN LƯỢT.md",

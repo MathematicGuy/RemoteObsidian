@@ -11,6 +11,7 @@ Hallo hello
 Tschuss Bye
 Danke thank
 	Danke Schon thank you (danke shun)
+grob tall/big
 
 **Lesson 2**
 Mein my
@@ -110,5 +111,21 @@ Kein Problem no problem
 
 Es tut mir leid! I'm sorry (ét tút mi like)
 
-
 guten tag good day
+
+
+### Unit 3: Order Food
+
+das the
+
+mit with
+kase cheese
+heiB hot (hot)
+lecker delicious
+
+ei the egg
+mineralwasser mineral water
+
+Hier here
+
+die milk (female)
