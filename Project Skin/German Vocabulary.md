@@ -86,7 +86,8 @@ Wie geht's How are you
 Bis bald see you soon
 schon beautiful
 
-Auf Wiedersehen good bye
+Auf Wiedersehen goodbye
+Danke auf wiedersehen thank you, goodbye
 
 Abend evening
 Guten Abend good Evening
@@ -109,8 +110,5 @@ Kein Problem no problem
 
 Es tut mir leid! I'm sorry (ét tút mi like)
 
-Danke auf wiedersehen thank you, goodbye
 
-
-auf wiedersehen i'm sorry
 guten tag good day

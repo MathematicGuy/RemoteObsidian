@@ -26,8 +26,13 @@
             "id": "89e9019af51e66d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "German Vocabulary.md"
+              }
             }
           },
           {
