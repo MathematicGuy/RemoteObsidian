@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d8ede2780c3e506d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -196,11 +182,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8ede2780c3e506d",
+  "active": "0ba69aa34e2cfd84",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/Software Engineering.md",
     "Todo.md",
     "Software Technology.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Architecture.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
