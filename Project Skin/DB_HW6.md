@@ -189,6 +189,7 @@ DEPARTMENT (5..10)-< CONTAINS >-(1..1) PHONE
 
 
 ## Movie DB
+Link Thuyết Trình: https://www.canva.com/design/DAF38x875-M/IRhyGydFenRs4GDpYghOmA/edit?utm_content=DAF38x875-M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Một hoặc Nhiều: Total participation
 Có hoặc Không: Partial participation
@@ -197,21 +198,25 @@ Film(title, year, duration, plot, emp_id, name, birth, company_id, address,, com
 	PK: title, year
 
 
-![[Pasted image 20231225123729.png]]
-+ **Mỗi bộ phim có một hoặc nhiều đạo diễn và một hoặc nhiều diễn viên xuất hiện trong đó.**
-	employee: Mỗi diễn viên đều có một vai trong phim. Đạo diễn có thể là diễn viên trong bộ phim của họ. 
--> employee vs film có mqh one-to-many qua Work_In
-	Mỗi câu trích dẫn **có thể không có hoặc có nhiều** câu trích dẫn và câu trích dẫn **được nói bởi 1 diễn viên** cụ thể trong film. 
--> Mỗi nhân viên có thể có 1 câu trích dẫn hoặc không.  Và mỗi câu trích dẫn phải đi vs 1 emp_id
-Quote (1..1)-< Actor_Quote >-(0..n) employee.
-Quote(emp_id, quote_id, content)
-	Do Quote là thực thể yếu nên quote_id và content có thể NULL.
-![[Pasted image 20231225125439.png]]
+![[Pasted image 20231225234659.png]]
+Giải thích các mối quan hệ
 
-Một công ty sản xuất sản xuất một hoặc nhiều bộ phim.
-![[Pasted image 20231225113619.png]]
+- Movie quan hệ với Quote: Movie_Quote: là liên kết yếu, chức năng: Lấy Pimary key từ Movie để liên  với Quote. Mỗi bộ phim không có hoặc nhiều câu trích dẫn.
+ 
+- Quote quan hệ employee: Actor_quote: Là một quan hệ thêm thuộc tính emp_id vào bảng Quote. Mỗi câu trích dẫn sẽ được nói bởi một diễn viên cụ thể, một diễn viên có thể nói nhiều câu trích dẫn.
+   
+- Employee: là một class của lớp thực thể Director và Actor. Mục đích tạo lớp này là trong trường hợp actor có thể làm director hoặc ngược lại.
+   
+- Employee quan hệ với Movie: Work_in: Là một quan hệ kết nối 3 thuộc tính của employee vào bảng Movie. Thể hiện sự liên kết giữa mỗi nhân viên (đạo diễn, diễn viên) với mỗi bộ phim. 
+ 
+- Employee quan hệ với Movie: Director: mỗi một bộ phim đều có ít nhất một hoặc nhiều đạo diễn.
+   
+- Employee quan hệ với Movie: Actor: mỗi bộ phim đều có ít nhất một hoặc nhiều diễn viên. Và quan hệ này có một thuộc tính thêm là Role để gán vai trò cho diễn viên này.
+  
+- Firm quan hệ với Production_Company: Firm’s Company: Mỗi hãng đều có một công ty.
+   
+- Production_Company quan hệ với Movie: Product: công ty sản xuất một hoặc nhiều bộ phim. Và nhiều bộ phim có thể được sản xuất bởi một công ty.
 
-Mỗi Hãng được phân theo 1 hoặc nhiều thể loại (Genre không phải weak entity vì thuộc tính của weak entity có thể null -> tạo ra vấn đề hãng phân ko có thể loại )
--> total participation
-![[Pasted image 20231225131824.png]]
+- Genre: là bảng chứa cố định số lượng các thể loại để kết nối tới Hãng.
 
+Genre quan hệ với Firm: Firm_genre: Mội hãng có ít nhất một hoặc nhiều thể loại.
