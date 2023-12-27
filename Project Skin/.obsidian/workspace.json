@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1aeb63e2b7490fa2",
+        "id": "9872a7e095e59e06",
         "type": "tabs",
         "children": [
           {
-            "id": "a7ae4257c3c8e377",
+            "id": "716ff0008dffe5f4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4e7113100c0798b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA Project SetUp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA Project SetUp.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA Project SetUp.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA Project SetUp.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,10 +183,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e7113100c0798b7",
+  "active": "716ff0008dffe5f4",
   "lastOpenFiles": [
-    "JAVA Project SetUp.md",
     "Todo.md",
+    "JAVA Project SetUp.md",
+    "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
     "Relational Algebra Operations.md",
     "ExamReview.md",
     "_Focus/2023/3rd Semesters/DSA/Linked List.md",
@@ -232,7 +219,6 @@
     "Movie_DB.md",
     "Std_ManagementDB.md",
     "Company DB.md",
-    "DB Users.md",
     "Images/Pasted image 20231225123729.png",
     "Images/Pasted image 20231225234659.png",
     "_Focus/This is my Life.canvas",

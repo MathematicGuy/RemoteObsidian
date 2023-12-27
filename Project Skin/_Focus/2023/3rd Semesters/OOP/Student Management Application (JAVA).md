@@ -12,7 +12,6 @@ Lesson learned: if it not work -> try again form the start.
 Part-1: 
 	+ How to Create and Use SQL DB on phpMyAdmin with Netbean (java) (download file -> add to library -> connect DB with NetBean)
 	+ Basic Design input, output with Swing
-
 + Think Simple before going Complecated.
 
 degsin UI
