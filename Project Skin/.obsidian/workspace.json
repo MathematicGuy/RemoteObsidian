@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46fb1aee9d52c1a8",
+        "id": "8ca4a77d96f72e36",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7ca6b0acd7edf5",
+            "id": "08b411f3f1286869",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "67a693f1355b6290",
+            "id": "721b0361ec443d4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Group Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Group Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C Group Project.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,9 +187,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "67a693f1355b6290",
+  "active": "721b0361ec443d4b",
   "lastOpenFiles": [
     "Todo.md",
+    "German Vocabulary.md",
+    "C Group Project.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Technology.md",
     "Software Architecture.md",
@@ -217,8 +210,6 @@
     "Company DB.md",
     "DB Users.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "C Group Project.md",
-    "German Vocabulary.md",
     "DB_HW6.md",
     "DataBase Design and E-R Model.md",
     "DB_HW5.md",

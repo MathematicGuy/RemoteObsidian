@@ -129,3 +129,24 @@ mineralwasser mineral water
 Hier here
 
 die milk (female)
+
+der Kellner the waiter
+Restaurant restaurant
+die Speisekarte the menu
+das Salz the salt
+
+Entschuldigung excuse me
+kalt cold
+heiB hot
+"Schlampe, das Huhn ist kalt" - b__ch the chiken is cold
+
+das Essen the food
+
+Die Pizza the pizza (see as feminine)
+Die Wurst the sausage
+"Hier is die wurst"
+
+Schnitzel - thin slice of meat (both in English and German)
+Zu too
+"zu groB" too big
+die Rechnung the check
