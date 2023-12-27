@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to Study when you Tired after school.md",
+                "file": "My Life/1_Shoot for the Star.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How to Study when you Tired after school.md",
+                "file": "My Life/1_Shoot for the Star.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How to Study when you Tired after school.md",
+                "file": "My Life/1_Shoot for the Star.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How to Study when you Tired after school.md"
+                "file": "My Life/1_Shoot for the Star.md"
               }
             }
           },
@@ -151,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -177,12 +179,12 @@
   },
   "active": "f97a94154b04eb24",
   "lastOpenFiles": [
+    "How To/How to Study when you Tired after school.md",
     "My Life/1_Shoot for the Star.md",
     "My Life/Styles.md",
     "My Life/Sleep.md",
     "My Life/Skills.md",
     "My Life/Report.md",
-    "How To/How to Study when you Tired after school.md",
     "Going to Space.md",
     "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
     "Learning How To Learn.md",

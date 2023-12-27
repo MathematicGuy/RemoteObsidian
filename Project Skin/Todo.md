@@ -35,7 +35,7 @@
 #Todo/Personal
 - [ ] Organize DB knowledge 
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8)
+	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
 	- [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 - [ ] Personalise my Gmail (Filter trash and label good reading resources)
@@ -44,7 +44,7 @@
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
 - [ ] Thông báo Luật Lệ mới cho CLB tr'c năm mới 
 - [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
-- [ ] Ôn lại Relational Algebra 
+- [ ] Ôn lại Relational Algebra/[ER Diagram](https://voer.edu.vn/m/mo-hinh-thuc-the-lien-ket/d9108d21)
 
 
 #Todo/ProgrammingSkills

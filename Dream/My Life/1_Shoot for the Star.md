@@ -1,4 +1,4 @@
-
+"... what someone has to lack in order to see a certain style beautiful..."
 ## Plan
 + Spend 30' to reflect my day. How can I make it better?
 + *Take an half or an hours to improve my studying speed.* 

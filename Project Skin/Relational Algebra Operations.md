@@ -59,3 +59,31 @@ We have this
 ![[Pasted image 20231117083524.png]]
 
 
+### Aggregation
+Example Schemas
+![[Pasted image 20231227092833.png]]
+
+MAX
+![[Pasted image 20231227092619.png]]
+![[Pasted image 20231227092608.png]]
+answer of calculate the max assets of each bcity(group by bcity) from branch (table)
+![[Pasted image 20231227092628.png]]
+select bcity, max(assets) from branch group by bcity
+
+### Deletion
+
+![[Pasted image 20231227092821.png]] 
+
+### Insertion
+
+![[Pasted image 20231227093943.png]]
+{(200)} là cột mới thêm vào.
+
+### [Update](https://youtu.be/JoKZG4nWm6o?si=HOZeUfA7otrOXkFt)
+
+
+### [View](https://youtu.be/uF0-C3iHBUs?si=IZjQY0BYcYl58KuL)
+
+
+
+

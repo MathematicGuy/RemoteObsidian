@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "721b0361ec443d4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -187,9 +182,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "721b0361ec443d4b",
+  "active": "08b411f3f1286869",
   "lastOpenFiles": [
+    "ExamReview.md",
+    "_Focus/2023/3rd Semesters/DSA/Linked List.md",
     "Todo.md",
+    "Images/De_kiemtra1tiet.jpg",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Relational Algebra Operations.md",
+    "Images/Pasted image 20231227093943.png",
+    "Images/Pasted image 20231227093941.png",
+    "Images/Pasted image 20231227092833.png",
+    "Images/Pasted image 20231227092821.png",
+    "Images/Pasted image 20231227092628.png",
+    "Images/Pasted image 20231227092619.png",
+    "Images/Pasted image 20231227092608.png",
+    "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
     "German Vocabulary.md",
     "C Group Project.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
@@ -209,22 +217,9 @@
     "Std_ManagementDB.md",
     "Company DB.md",
     "DB Users.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW6.md",
-    "DataBase Design and E-R Model.md",
-    "DB_HW5.md",
     "Images/Pasted image 20231225123729.png",
     "Images/Pasted image 20231225234659.png",
-    "SE_HW_Chap6.md",
-    "Images/Pasted image 20231225161521.png",
-    "_Focus/2023/Last Semester/Fundamental of Programming.md",
-    "Images/Pasted image 20231225131824.png",
-    "Images/Pasted image 20231225125439.png",
-    "Images/Pasted image 20231225124913.png",
-    "Images/Pasted image 20231225112204.png",
-    "Images/Pasted image 20231225113619.png",
-    "Images/Pasted image 20231225113558.png",
-    "Images/Pasted image 20231225112132.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

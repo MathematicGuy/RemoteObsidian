@@ -1,13 +1,14 @@
-	
 (Tuyến tính vì nằm liên tiếp, liền kề nhau)
 (Mỗi Node chỉ tới 1 Node khác, trừ Node cuối)
-> 	Is a **linear data structure**. **Each element contain in** a Seperate Obj called **a Node**
+> Is a **linear data structure**. **Each element contain in** a Seperate Obj called **a Node**
  
 + Head: First element.
 + Tail: Point to nowhere
 + Node: Being pointed and pointed to another node.
 	A Node Include a Link to another Node
 ![[Pasted image 20230801121913.png]]
++ Insertion/Deletion take O(1) while Traverse take O(n) 
+
 
 **There're 2 Form**  
 + **Single Linked List** (Chỉ tới Node sau nó)
@@ -16,12 +17,8 @@
 	Each node store a **reference to the node Before & After** its.
 
 
-
-
 **Delete, Sort, Append like List**
 Khi Xóa, Thêm, các Nodes thay Trỏ hướng tới và Dịch List sang trái để duy trì thứ tự (index start from 0, 1, 2, etc...)
-
-
 
 Pre-pend: add to head
 append: add to tail
