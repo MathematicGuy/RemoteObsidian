@@ -36,7 +36,7 @@
 - [ ] Organize DB knowledge 
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
-	- [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
+- [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 - [ ] Personalise my Gmail (Filter trash and label good reading resources)
 - [ ] Hủy Github Co-pilot trươ'c hạn (10/1/2024)
