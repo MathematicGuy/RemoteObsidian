@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational DB Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational DB Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational DB Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "Relational DB Design.md"
               }
             }
           },
@@ -199,6 +199,8 @@
   },
   "active": "85613ba9bc81a55e",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Relational DB Design.md",
     "Todo.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
@@ -208,7 +210,6 @@
     "ExamReview.md",
     "_Focus/2023/3rd Semesters/DSA/Linked List.md",
     "Images/De_kiemtra1tiet.jpg",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231227093943.png",
     "Images/Pasted image 20231227093941.png",
     "Images/Pasted image 20231227092833.png",
@@ -232,7 +233,6 @@
     "_Focus/2023/3rd Semesters/CSharp/CSharp Fundamental.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Movie_DB.md",
-    "Std_ManagementDB.md",
     "Images/Pasted image 20231225123729.png",
     "Images/Pasted image 20231225234659.png",
     "_Focus/This is my Life.canvas",

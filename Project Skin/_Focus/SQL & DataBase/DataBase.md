@@ -9,6 +9,7 @@
 	[[Key in RDBMS]]
 
 8) [[DataBase Design and E-R Model]]
+9) [[Relational DB Design]] 
 
 [[Relational Algebra Operations]]
 
