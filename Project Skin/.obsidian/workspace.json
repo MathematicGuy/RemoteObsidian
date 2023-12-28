@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9872a7e095e59e06",
+        "id": "14c2f0cb0f719992",
         "type": "tabs",
         "children": [
           {
-            "id": "716ff0008dffe5f4",
+            "id": "8cea87fb923d511a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fb88949902ad06b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Language Learning/German.md"
               }
             }
           },
@@ -183,7 +197,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "716ff0008dffe5f4",
+  "active": "fb88949902ad06b4",
   "lastOpenFiles": [
     "Todo.md",
     "JAVA Project SetUp.md",
