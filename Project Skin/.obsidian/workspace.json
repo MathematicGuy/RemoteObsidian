@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German.md",
+                "file": "German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German.md",
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German.md",
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German.md"
+                "file": "German Vocabulary.md"
               }
             }
           },
@@ -199,6 +199,7 @@
   },
   "active": "fb88949902ad06b4",
   "lastOpenFiles": [
+    "Personal/Language Learning/German.md",
     "Todo.md",
     "JAVA Project SetUp.md",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
@@ -232,7 +233,6 @@
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Movie_DB.md",
     "Std_ManagementDB.md",
-    "Company DB.md",
     "Images/Pasted image 20231225123729.png",
     "Images/Pasted image 20231225234659.png",
     "_Focus/This is my Life.canvas",

@@ -150,3 +150,5 @@ Schnitzel - thin slice of meat (both in English and German)
 Zu too
 "zu groB" too big
 die Rechnung the check
+
+
