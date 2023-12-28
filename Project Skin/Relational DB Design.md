@@ -1,3 +1,8 @@
+source: [Lec 1: Introduction to DBMS | Database Management System - YouTube](https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
+
+### **Learn all lecture and note here**
+
+
 ![[Pasted image 20231228140354.png]]
 Lý thuyết phụ thuộc hàm
 + bao đóng của tập thuộc tính
