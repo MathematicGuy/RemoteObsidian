@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0bebe77cfaecbfbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational DB Design.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Relational DB Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Relational DB Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Relational DB Design.md"
               }
             }
           },
@@ -183,15 +197,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9953e04ce2d1bb97",
+  "active": "0bebe77cfaecbfbc",
   "lastOpenFiles": [
+    "Images/Pasted image 20231228173853.png",
+    "Images/Pasted image 20231228173418.png",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "German Vocabulary.md",
+    "Todo.md",
     "Images/Pasted image 20231228143943.png",
     "Images/Pasted image 20231228140328.png",
     "Relational DB Design.md",
     "Images/Pasted image 20231228140354.png",
-    "Todo.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "German Vocabulary.md",
     "Personal/Language Learning/German.md",
     "JAVA Project SetUp.md",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
@@ -204,8 +220,6 @@
     "Images/Pasted image 20231227092833.png",
     "Images/Pasted image 20231227092821.png",
     "Images/Pasted image 20231227092628.png",
-    "Images/Pasted image 20231227092619.png",
-    "Images/Pasted image 20231227092608.png",
     "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
     "C Group Project.md",
     "_Focus/2023/Last Semester/Software Engineering.md",

@@ -6,6 +6,7 @@ notice: Nounce is capitalize
 Und and
 Oder or
 Nein no
+	nicht not
 Ja yes
 Hallo hello
 Tschuss Bye
@@ -44,6 +45,7 @@ Tochter Daughter
 Sohn son
 
 Du you
+	deiner your
 Bist are
 	Du(you) bist(are) mein Frau(wive) You are my wive
 
@@ -151,4 +153,8 @@ Zu too
 "zu groB" too big
 die Rechnung the check
 
-
+note: find German vocab rule
+the + food = das
+the + drink = der - der mineralwasser
+	Ex: das brot, das restaurant ist hier, etc..
+gender in food: die (female) - das (male)

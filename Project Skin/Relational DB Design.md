@@ -25,3 +25,10 @@ Tách
 + 4 cột (do có 4 thuộc tính) - SAIP
 
 Bằng nhau trên F thì bằng nhau trên thuộc tính A 
+
+
+### Functional Dependency
+![[Pasted image 20231228173418.png]]
+	If I have value of X, I can determint Y
+	![[Pasted image 20231228173853.png]]
+
