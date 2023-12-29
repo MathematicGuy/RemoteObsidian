@@ -69,6 +69,7 @@ How to run App without downloading them
 [[Advice for AI]]
 
 #Todo/AI
+- [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
 - [ ] [AI for everyone](https://www.coursera.org/learn/ai-for-everyone?trk_ref=articleProductCard)
 - [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
 - [ ] [Linear Algebra - Beginner Level - Imperial College of London](https://www.coursera.org/learn/linear-algebra-machine-learning) 
