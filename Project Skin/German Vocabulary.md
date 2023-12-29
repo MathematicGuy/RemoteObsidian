@@ -12,7 +12,8 @@ Hallo hello
 Tschuss Bye
 Danke thank
 	Danke Schon thank you (danke shun)
-grob tall/big
+Grob tall/big
+Klein small
 
 **Lesson 2**
 Mein my
@@ -158,3 +159,37 @@ the + food = das
 the + drink = der - der mineralwasser
 	Ex: das brot, das restaurant ist hier, etc..
 gender in food: die (female) - das (male)
+
+##### Country
+replace C letter with K for country name. 
++ Wunderbar wonderful
++ Klein small
+Deutschland
+Österreich Austria
+	Wein Viena
+Franchreich Franch
+
+Woher Where 
+kommst come from
++ Woher kommst - where are you from
+du you
+	Woder kommst du - Where do you come from
+
+Stadt city
+In in
+Laut loud
+Teuer expensive
+Aufregend exciting
+Aus from
+Auch also
+Wie what
+es like
++ ist es in - is it like 
+
+Vocab Practice
++ Wie ist es in Wien
+	What is it like in Vienna
++ Hallo, ich bin Anna. Ich komme auch aus Frankreinch
+	Hello, I am Anna. I also come from Frank
+Auch Aus - also from 
++ Woher kommst du

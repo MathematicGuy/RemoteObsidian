@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "60f41d54e1f4f7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "German Vocabulary.md"
               }
             }
           },
@@ -183,13 +197,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0e0ee5ff928c9ef7",
+  "active": "60f41d54e1f4f7d5",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20231228173853.png",
     "Images/Pasted image 20231228173418.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "German Vocabulary.md",
-    "Todo.md",
     "Images/Pasted image 20231228143943.png",
     "Images/Pasted image 20231228140328.png",
     "Relational DB Design.md",
@@ -205,7 +219,6 @@
     "Images/Pasted image 20231227093941.png",
     "Images/Pasted image 20231227092833.png",
     "Images/Pasted image 20231227092821.png",
-    "Images/Pasted image 20231227092628.png",
     "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
     "C Group Project.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
