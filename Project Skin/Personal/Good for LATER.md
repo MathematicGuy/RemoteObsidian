@@ -38,3 +38,6 @@ https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github (quick
 
 
 [AI Prompt for Quality Code](https://pastebin.com/dLWDzE0m)
+
+[libgen.is](http://libgen.is/)
+	download all books website

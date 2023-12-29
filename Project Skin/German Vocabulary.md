@@ -193,3 +193,12 @@ Vocab Practice
 	Hello, I am Anna. I also come from Frank
 Auch Aus - also from 
 + Woher kommst du
+
+Exercise
+Jetz now
+braucht needs
+Arzt docter
+Er he
+da druben overthere
+Schell quick
+Hilfe help

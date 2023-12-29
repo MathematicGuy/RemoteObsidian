@@ -46,6 +46,7 @@
 - [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
 - [ ] Ôn lại Relational Algebra/[ER Diagram](https://voer.edu.vn/m/mo-hinh-thuc-the-lien-ket/d9108d21)
 - [ ] Phân cấp con người (dựa trên nhận thức)
+- [ ] Speak German with Bard AI
 
 
 #Todo/ProgrammingSkills
