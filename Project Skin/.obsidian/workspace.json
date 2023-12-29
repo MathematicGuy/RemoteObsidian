@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2018bb7bdb3a29a4",
+        "id": "1f94498bf31c112d",
         "type": "tabs",
         "children": [
           {
-            "id": "9953e04ce2d1bb97",
+            "id": "0e0ee5ff928c9ef7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0bebe77cfaecbfbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational DB Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational DB Design.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0bebe77cfaecbfbc",
+  "active": "0e0ee5ff928c9ef7",
   "lastOpenFiles": [
     "Images/Pasted image 20231228173853.png",
     "Images/Pasted image 20231228173418.png",
