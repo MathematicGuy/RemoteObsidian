@@ -171,6 +171,7 @@ Franchreich Franch
 
 Woher Where 
 kommst come from
++ Ich komme
 + Woher kommst - where are you from
 du you
 	Woder kommst du - Where do you come from
@@ -186,10 +187,10 @@ Wie what
 es like
 + ist es in - is it like 
 
-Vocab Practice
+Vocab Practice.
 + Wie ist es in Wien
 	What is it like in Vienna
-+ Hallo, ich bin Anna. Ich komme auch aus Frankreinch
++ Hallo, ich bin Anna. Ich komme auch aus Frankreinch.
 	Hello, I am Anna. I also come from Frank
 Auch Aus - also from 
 + Woher kommst du
