@@ -176,16 +176,18 @@ kommst come from
 du you
 	Woder kommst du - Where do you come from
 
+**CITY ATTRIBUTE**
 Stadt city
 In in
-Laut loud
-Teuer expensive
+	Laut loud
+Teuer expensive/pricy
 Aufregend exciting
 Aus from
 Auch also
 Wie what
 es like
 + ist es in - is it like 
++ wie ist es in - what is it like in
 
 Vocab Practice.
 + Wie ist es in Wien
@@ -203,3 +205,4 @@ Er he
 da druben overthere
 Schell quick
 Hilfe help
+laut loud
