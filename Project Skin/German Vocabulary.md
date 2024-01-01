@@ -73,8 +73,9 @@ ein bar the bear
 ein Hund the dog
 
 Wo who
-+ ? Wo is used when you want to know where someone or something is. 
-	example: Wo ist die Katze? (where's the cat?)
++ ? Wo is used when you want to know where someone or something is. (include country)
+	- example: Wo ist die Katze? (where's the cat?)
+	- Wo ist kanada
 + ? Woher is used when you want to know where someone or something comes from. 
 	example: Woher kommst du? (Where do you come from?)
 
@@ -133,7 +134,9 @@ Hier here
 
 die milk (female)
 
-der Kellner the waiter
+der Kellner (he) waiter
+die Kellnerin (she) waitress
+
 Restaurant restaurant
 die Speisekarte the menu
 das Salz the salt
@@ -206,3 +209,13 @@ da druben overthere
 Schell quick
 Hilfe help
 laut loud
+
+Unit 4: 
+sie she
+er he
+Schauspielerin actor (sau spi la rin)
+
+der/die - professor/professorin
+deiner youristis
+Was what (sound like what too)
+Beruf profession

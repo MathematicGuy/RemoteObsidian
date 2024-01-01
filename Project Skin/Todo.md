@@ -10,11 +10,9 @@
 	- [ ] Add to product cart (Medium)
 	- [ ] Delete Item in Cart (Medium)
 	- [ ] Calc Total Price (Easy)
-- [ ] Header disappered when scroll down
 
 #Todo/Code/GroupProjectPlanning
 - [ ] Activity Diagram Hand Design
-- [ ] Dự Án C
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
@@ -24,8 +22,6 @@
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
 - [ ] Learn more about Empathy
-- [ ] Neo Vim Setup
-
 
 #Todo/Code/WebDev
 - [ ] Learn JS -> React
@@ -34,11 +30,8 @@
 
 #Todo/Personal
 - [ ] Organize DB knowledge 
-- [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
-- [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-- [ ] Personalise my Gmail (Filter trash and label good reading resources)
+- [ ] Personalise my Gmail ( Filter trash and label good Reading Resources )
 - [ ] Hủy Github Co-pilot trươ'c hạn (10/1/2024)
 - [ ] Hủy Dualingo trươ'c hạn (7/1/2024)
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
@@ -46,7 +39,6 @@
 - [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
 - [ ] Ôn lại Relational Algebra/[ER Diagram](https://voer.edu.vn/m/mo-hinh-thuc-the-lien-ket/d9108d21)
 - [ ] Phân cấp con người (dựa trên nhận thức)
-- [ ] Speak German with Bard AI
 
 
 #Todo/ProgrammingSkills
@@ -61,10 +53,10 @@
 
 #Todo/Entertainment
 - [ ] Undead Unluck chap36
-- [ ] Phỏng vấn anh Dominic về Muah.ai
 - [ ] Night has Come - Werewolf game movie
-**Ideas**
-How to run App without downloading them
+- [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
+- [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 
 [[Advice for AI]]
 
