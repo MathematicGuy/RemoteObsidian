@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55d36f7817c2dc1b",
+        "id": "5b9c6715fa9808f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b264cabea14c3f9d",
+            "id": "6e952c11c9cf9074",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8a35c992e35e7698",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b264cabea14c3f9d",
+  "active": "8a35c992e35e7698",
   "lastOpenFiles": [
     "Todo.md",
     "German Vocabulary.md",
