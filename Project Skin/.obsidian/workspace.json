@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83ad9a67effae39c",
+        "id": "12eed67cc0226ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "be258bb1fab98376",
+            "id": "7014b07d92ddea5c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "f68494a22f17fa50",
+            "id": "754fe0e79f46a30c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f68494a22f17fa50",
+  "active": "754fe0e79f46a30c",
   "lastOpenFiles": [
+    "Todo.md",
     "Normalization.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
-    "Todo.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Unit Test.md",
     "System Design.md",
