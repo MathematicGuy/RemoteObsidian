@@ -1,7 +1,16 @@
-input
-printf -> in
-scanf("%c", &some_character)
+**Format Specifier**
+- `%d` or `%i`: Integer
+- `%f`: Floating point number
+- `%lf`: Double
+- `%c`: Character
+- `%s`: String (an array of characters. Example: char[100])
+- `%p`: Pointer
+- `%u`: Unsigned integer
+- `%x` or `%X`: Unsigned hexadecimal integer
+- `%o`: Unsigned octal integer
+- `%%`: A literal '%' character
 
+**scanf**
 ```c
 int main(){
 	int number;
@@ -12,7 +21,7 @@ int main(){
 	return 0;
 }
 ```
-> Take Double input 
+> Double input example 
 ```c
 int main(){
     char celebrityF[20]; 
@@ -25,6 +34,39 @@ int main(){
 }
 ```
 
+
+**Input Stream** or buffer ( !important ) 
+![[Pasted image 20240102082022.png]]
+> The `scanf` function reads input until it encounters a whitespace character (like a space, tab, or newline). When you enter a number and press Enter, `scanf` reads the number but leaves the newline character in the input buffer.
+notice: all number are numeric value and the rest are all  characters
+	meaning any unidentify value such as a space, empty line except numbers is a character.
+```c
+int d;
+int b;
+char c;
+// this work just fine
+scanf("%d", &d);
+scanf("%d", &b); // take a number like normal
+```
+![[Pasted image 20240102084141.png]]
+
+```c
+// but this is not
+scanf("%d", &d);
+scanf("%c", &c); // this will take the left over line (an empty line) as char
+```
+> This output 34 straight away even thought I justr input 1.
+In your code, when you use `scanf` to **read an integer,** **it leaves a newline character in the input buffer.** Then, when you use `scanf` again to read a character, it **immediately reads that leftover newline **character instead of waiting for you to enter a new character.
+![[Pasted image 20240102083954.png]]
+Solution
+```c
+// but this is not
+scanf("%d", &d);
+getchar(); // get the empty line
+scanf("%c", &c); // this will take ln (an empty line) as char
+```
+
+#### [[common errors when using scanf]]
 
 **Atoi**
 > Convert number in string format to int number 
@@ -183,6 +225,7 @@ double cube(double num){
     return result;
 } 
 ```
+
 
 **If Statement**
 ```c
@@ -522,3 +565,20 @@ gets();
 	read all line
 scanf();
 	read all line until space (stop scanning when there a space)
+
+![[Pasted image 20240102070722.png]]
++ the big holder haldThePizza must be the same type as the convert data type: double in this example
+to only type casting 1 value - cho vào trog ngoặc: (double) (slices) / people
+
+### ASCII
+behind every letter is a number behind it 
+![[Pasted image 20240102072758.png]]
+128 in bits -> 'A' in char form and 65 in numeric form
+
+
+operator: + - * /
+operand: 12345678..
+precedence: * / (priority)
+associaticity
+![[Pasted image 20240102074246.png]]
+

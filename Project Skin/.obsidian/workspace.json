@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9c6715fa9808f0",
+        "id": "722ba5a218626d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "6e952c11c9cf9074",
+            "id": "c8fa441d1556c6a9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8a35c992e35e7698",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -188,8 +183,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8a35c992e35e7698",
+  "active": "c8fa441d1556c6a9",
   "lastOpenFiles": [
+    "common errors when using scanf.md",
+    "Images/Pasted image 20240102090916.png",
+    "C Code Note.md",
+    "Images/Pasted image 20240102084141.png",
+    "Images/Pasted image 20240102083954.png",
+    "Images/Pasted image 20240102082022.png",
+    "Images/Pasted image 20240102074246.png",
+    "Images/Pasted image 20240102072758.png",
+    "Images/Pasted image 20240102070722.png",
     "Todo.md",
     "German Vocabulary.md",
     "Personal/Good for LATER.md",
@@ -197,20 +201,13 @@
     "Images/Pasted image 20231228173418.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231228143943.png",
-    "Images/Pasted image 20231228140328.png",
     "Relational DB Design.md",
-    "Images/Pasted image 20231228140354.png",
     "Personal/Language Learning/German.md",
     "JAVA Project SetUp.md",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
     "Relational Algebra Operations.md",
     "ExamReview.md",
     "_Focus/2023/3rd Semesters/DSA/Linked List.md",
-    "Images/De_kiemtra1tiet.jpg",
-    "Images/Pasted image 20231227093943.png",
-    "Images/Pasted image 20231227093941.png",
-    "Images/Pasted image 20231227092833.png",
-    "Images/Pasted image 20231227092821.png",
     "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
     "C Group Project.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
@@ -223,9 +220,6 @@
     "_Focus/2023/3rd Semesters/OOP/OOP CMC.md",
     "_Focus/2023/3rd Semesters/CSharp/Code Note.md",
     "_Focus/2023/3rd Semesters/CSharp/CSharp Data Structure.md",
-    "Code.md",
-    "_Focus/2023/3rd Semesters/CSharp/CSharp Fundamental.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

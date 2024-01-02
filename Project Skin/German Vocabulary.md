@@ -46,7 +46,8 @@ Tochter Daughter
 Sohn son
 
 Du you
-	deiner your
+	deiner your (female)
+	dein male
 Bist are
 	Du(you) bist(are) mein Frau(wive) You are my wive
 
@@ -200,7 +201,7 @@ Vocab Practice.
 Auch Aus - also from 
 + Woher kommst du
 
-Exercise
+**Exercise**
 Jetz now
 braucht needs
 Arzt docter
@@ -209,13 +210,32 @@ da druben overthere
 Schell quick
 Hilfe help
 laut loud
+Mögen like
+für for
+Kasse cash register
 
 Unit 4: 
 sie she
 er he
-Schauspielerin actor (sau spi la rin)
+Schauspielerin actor (sau spi la rin) (female)
+Schauspieler actor (male)
 
-der/die - professor/professorin
-deiner youristis
+der/die - professor/professorin : professor
+Deiner your
 Was what (sound like what too)
 Beruf profession
+
+the docter 
++ Die Ärztin  (female)
++ Er Arzt (male)
+Der Doktor (??)
+Student student
+Studentin colleger student
+Freundin friend
+Lehrer (lecturer in English)  teacher
+Arbeit work/job
+
+aber but
+stressig stressful
+	aber stressig but stressing
+interessant insteresting
