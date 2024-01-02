@@ -10,6 +10,8 @@
 - `%o`: Unsigned octal integer
 - `%%`: A literal '%' character
 
+### [[C Data Type]]
+
 **scanf**
 ```c
 int main(){

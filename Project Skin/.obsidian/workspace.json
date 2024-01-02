@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "722ba5a218626d2e",
+        "id": "03969af65c13d422",
         "type": "tabs",
         "children": [
           {
-            "id": "c8fa441d1556c6a9",
+            "id": "70ddfd30f2721b68",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bf98d8a75331d971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Data Type.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "C Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "C Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "C Data Type.md"
               }
             }
           },
@@ -183,18 +197,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8fa441d1556c6a9",
+  "active": "bf98d8a75331d971",
   "lastOpenFiles": [
+    "C Code Note.md",
+    "Todo.md",
+    "C Data Type.md",
+    "Data Type.md",
     "common errors when using scanf.md",
     "Images/Pasted image 20240102090916.png",
-    "C Code Note.md",
     "Images/Pasted image 20240102084141.png",
     "Images/Pasted image 20240102083954.png",
     "Images/Pasted image 20240102082022.png",
     "Images/Pasted image 20240102074246.png",
     "Images/Pasted image 20240102072758.png",
     "Images/Pasted image 20240102070722.png",
-    "Todo.md",
     "German Vocabulary.md",
     "Personal/Good for LATER.md",
     "Images/Pasted image 20231228173853.png",
@@ -219,7 +235,6 @@
     "_Focus/2023/3rd Semesters/OOP/OOP SUMMARY.md",
     "_Focus/2023/3rd Semesters/OOP/OOP CMC.md",
     "_Focus/2023/3rd Semesters/CSharp/Code Note.md",
-    "_Focus/2023/3rd Semesters/CSharp/CSharp Data Structure.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
