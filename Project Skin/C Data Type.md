@@ -38,9 +38,6 @@ int *m = &l; // pointer to an integer
 int n[5] = {1, 2, 3, 4, 5}; // array of integers
 ```
 
-
-
-
 7. Structure types
 ```c
 struct person {
