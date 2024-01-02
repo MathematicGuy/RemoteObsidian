@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03969af65c13d422",
+        "id": "79c96337333ce3bb",
         "type": "tabs",
         "children": [
           {
-            "id": "70ddfd30f2721b68",
+            "id": "72ff531fec379cb6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "bf98d8a75331d971",
+            "id": "4b404ac6d301de0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Data Type.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "915287dbb611793c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Test.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Test.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit Test.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit Test.md"
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
               }
             }
           },
@@ -210,15 +197,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "915287dbb611793c",
+  "active": "4b404ac6d301de0b",
   "lastOpenFiles": [
+    "Todo.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Unit Test.md",
     "System Design.md",
     "Lecture 2 - Project Managment Basics.md",
     "C Data Type.md",
     "C Code Note.md",
-    "Todo.md",
     "Data Type.md",
     "common errors when using scanf.md",
     "Images/Pasted image 20240102090916.png",
