@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79c96337333ce3bb",
+        "id": "83ad9a67effae39c",
         "type": "tabs",
         "children": [
           {
-            "id": "72ff531fec379cb6",
+            "id": "be258bb1fab98376",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "4b404ac6d301de0b",
+            "id": "f68494a22f17fa50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4b404ac6d301de0b",
+  "active": "f68494a22f17fa50",
   "lastOpenFiles": [
     "Todo.md",
     "_Focus/2023/Last Semester/Software Engineering.md",

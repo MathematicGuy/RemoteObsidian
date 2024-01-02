@@ -11,7 +11,7 @@ Why Normalization? to avoid DB vurnerbility.
 > (meaning if the primary key change, non-key attributes change)
 ![[Pasted image 20231129164040.png]]
 
-**Third normal form (3NF)** 
+**Third normal form (3NF)** (depend on 1 key ?)
 > Problem **Player_Rating depend on Player_Skill_Level** (non-key attribute depend on a non-nkey attribute)
 ![[Pasted image 20231129160127.png]]
 Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels
@@ -21,7 +21,7 @@ Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels
 **Boyce-Codd Normal Form (3.5NF)**
 > Each attribute in the table must depend on the key, the whole key and nothing but the key.
 + Multivalued dependencies in a table must be multivalued dependencies on the key.
- 
+
 
 **Fourth Normal Form (4NF)**  
 ![[Pasted image 20231129160902.png]]
