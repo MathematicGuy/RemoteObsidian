@@ -174,6 +174,7 @@ int main(){
 
 
 
+
 **Function**
 ```c
 int main(){
@@ -317,6 +318,25 @@ int main(){
     }
 }
 ```
+continue - Skipping while loop 
+> skip the rest of the loop when i is 5
+```c
+#include <stdio.h>
+
+int main() {
+    int i = 0;
+
+    while (i < 10) {
+        i++;
+        if (i == 5) {
+            continue; // skip the rest of the loop when i is 5
+        }
+        printf("%d\n", i);
+    }
+
+    return 0;
+}
+```
 
 Guessing Game using While Loop
 ```c
@@ -339,7 +359,6 @@ int main(){
     return 0;
 }
 ```
-
 
 2D Arrays 
 > an array,
