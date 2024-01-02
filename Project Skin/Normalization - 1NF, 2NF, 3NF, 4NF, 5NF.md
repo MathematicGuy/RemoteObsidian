@@ -18,7 +18,7 @@ Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels
 > Player and Player_Skill_Levels are 3rd normal form because the attributes depend on the key: "Player_ID", "Player_Skill_Level" (and nothing but the key)
 ![[Pasted image 20231129160249.png]]
 
-**Boyce-Codd Normal Form (3.5NF)**
+**Boyce-Codd Normal Form (BCNF - 3.5NF)**
 > Each attribute in the table must depend on the key, the whole key and nothing but the key.
 + Multivalued dependencies in a table must be multivalued dependencies on the key.
 
