@@ -26,8 +26,13 @@
             "id": "06df30dd26c60033",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Binary Division.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Binary Division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Binary Division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Binary Division.md"
+              }
             }
           },
           {
@@ -190,6 +199,9 @@
   },
   "active": "06df30dd26c60033",
   "lastOpenFiles": [
+    "Images/Pasted image 20240103085827.png",
+    "Images/Pasted image 20240103085555.png",
+    "Binary Division.md",
     "Todo.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
@@ -214,7 +226,6 @@
     "Images/Pasted image 20231228173853.png",
     "Images/Pasted image 20231228173418.png",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Images/Pasted image 20231228143943.png",
     "Relational DB Design.md",
     "JAVA Project SetUp.md",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
@@ -224,8 +235,6 @@
     "SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions.md",
     "C Group Project.md",
     "Software Technology.md",
-    "Software Architecture.md",
-    "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
