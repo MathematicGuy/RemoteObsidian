@@ -12,7 +12,9 @@
 
 ### [[C Data Type]]
 
-[[C String Manipulation]]
+### [[C String Manipulation]]
+
+## [[C Exam]]
 
 **scanf**
 ```c
