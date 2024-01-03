@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f86c5fb5593b4a29",
+        "id": "063affa6f6629af1",
         "type": "tabs",
         "children": [
           {
-            "id": "644848ef0ffcc402",
+            "id": "bbab7b9eff46c49f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "06df30dd26c60033",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,11 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "644848ef0ffcc402",
+  "active": "06df30dd26c60033",
   "lastOpenFiles": [
+    "Todo.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
-    "Todo.md",
     "Normalization.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
