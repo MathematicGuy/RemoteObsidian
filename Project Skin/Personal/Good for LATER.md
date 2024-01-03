@@ -41,3 +41,8 @@ https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github (quick
 
 [libgen.is](http://libgen.is/)
 	download all books website
+
+github co-pilot
+![[Pasted image 20240103103816.png]]
+warning for vague infomation
+![[Pasted image 20240103102446.png]]
