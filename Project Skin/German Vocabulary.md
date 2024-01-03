@@ -239,3 +239,14 @@ aber but
 stressig stressful
 	aber stressig but stressing
 interessant insteresting
+
+**Exercise**
+Schule school
+Schüler student
+Er heißt his name
+spricht speak
+sprachen language
+
+
+was ist dein beruf 
+	what is your profession?
