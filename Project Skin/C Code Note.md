@@ -12,6 +12,8 @@
 
 ### [[C Data Type]]
 
+[[C String Manipulation]]
+
 **scanf**
 ```c
 int main(){
