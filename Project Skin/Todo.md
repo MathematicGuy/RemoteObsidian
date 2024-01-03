@@ -15,7 +15,9 @@
 - [ ] Activity Diagram Hand Design
 
 #Todo/Prioritise
-- [ ] Nhắn cho Nhi thông báo về Luật mới của CLB
+- [ ] Remake 2 pages của Food Website (copy product page)
+- [ ] Learn C Array and Pointer
+- [ ] Data Base Concept and HW
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
 
 

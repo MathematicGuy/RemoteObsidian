@@ -233,9 +233,10 @@ Student student
 Studentin colleger student
 Freundin friend
 Lehrer (lecturer in English)  teacher
+	Lehrerin (she) teacher
 Arbeit work/job
 
-aber but
+aber but (aba)
 stressig stressful
 	aber stressig but stressing
 interessant insteresting
@@ -247,6 +248,29 @@ Er heißt his name
 spricht speak
 sprachen language
 
-
 was ist dein beruf 
 	what is your profession?
+
+
+koche cook
+	ich koche
+kochst (you) cook
+	du kochst
+
+schwimme swim
+nie never
+male paint
+	ich male nie - I never paint
+manchmal sometime
+	ich koche manchmal
+
+**Rule** (I to you - replace e with st)
++ you add est to behind
+	schwimmst
+	malst
++ I - add e to behind
+	schwimme
+	male
++ er/sie - add t to behind
+	schwimmt
+	malt
