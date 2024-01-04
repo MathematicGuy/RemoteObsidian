@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a9cc2e3caeec1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "file": "DB_HW7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "file": "DB_HW7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
+                "file": "DB_HW7.md"
               }
             }
           },
@@ -198,8 +211,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db6259300285bd33",
+  "active": "8a9cc2e3caeec1ba",
   "lastOpenFiles": [
+    "Images/Pasted image 20240104144016.png",
+    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+    "DB_HW7.md",
+    "Images/Pasted image 20240104142234.png",
+    "_Focus/SQL & DataBase/DataBase.md",
     "C Code Note.md",
     "common value errors.md",
     "C Data Type.md",
@@ -218,7 +236,6 @@
     "Images/Pasted image 20240103085827.png",
     "Images/Pasted image 20240103085555.png",
     "Normalization.md",
-    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Unit Test.md",
     "System Design.md",
@@ -228,14 +245,10 @@
     "Images/Pasted image 20240102084141.png",
     "Images/Pasted image 20240102083954.png",
     "Images/Pasted image 20240102082022.png",
-    "Images/Pasted image 20240102074246.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Relational DB Design.md",
     "JAVA Project SetUp.md",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
     "Relational Algebra Operations.md",
-    "ExamReview.md",
-    "_Focus/2023/3rd Semesters/DSA/Linked List.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

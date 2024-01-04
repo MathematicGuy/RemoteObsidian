@@ -50,5 +50,3 @@ F(c) -> F tối thiểu
 | 002        | Jane  | Computer Science |
 | 003        | Alice | Data Science     |
 
-
-.
