@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Code Note.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Code Note.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Code Note.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Code Note.md"
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
               }
             }
           },
@@ -194,13 +194,14 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "db6259300285bd33",
   "lastOpenFiles": [
-    "common value errors.md",
     "C Code Note.md",
+    "common value errors.md",
     "C Data Type.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Todo.md",
