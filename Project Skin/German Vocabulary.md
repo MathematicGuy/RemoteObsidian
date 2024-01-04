@@ -274,3 +274,9 @@ manchmal sometime
 + er/sie - add t to behind
 	schwimmt
 	malt
+
+spiele play
+	spielt plays (he/she plays)
+Klavier piano
+	ich spiele sehr gut Klavier
+Schach chess (...come last)
