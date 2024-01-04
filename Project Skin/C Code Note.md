@@ -10,6 +10,8 @@
 - `%o`: Unsigned octal integer
 - `%%`: A literal '%' character
 
+### [[common value errors]]
+
 ### [[C Data Type]]
 
 ### [[C String Manipulation]]
