@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Data Type.md",
+                "file": "Pointer types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Data Type.md",
+                "file": "Pointer types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Data Type.md",
+                "file": "Pointer types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Data Type.md"
+                "file": "Pointer types.md"
               }
             }
           },
@@ -200,7 +200,13 @@
   },
   "active": "219c01282bee0b42",
   "lastOpenFiles": [
+    "Images/Pasted image 20240105102116.png",
+    "Images/Pasted image 20240105102030.png",
     "C Data Type.md",
+    "Pointer types.md",
+    "Images/Pasted image 20240105100756.png",
+    "Images/Pasted image 20240105100813.png",
+    "Images/Pasted image 20240105100039.png",
     "C Code Note.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
@@ -221,20 +227,15 @@
     "Images/Pasted image 20240103103632.png",
     "Images/Pasted image 20240103102446.png",
     "Images/Pasted image 20240103085827.png",
-    "Images/Pasted image 20240103085555.png",
     "Normalization.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Unit Test.md",
     "System Design.md",
     "Lecture 2 - Project Managment Basics.md",
     "Data Type.md",
-    "Images/Pasted image 20240102090916.png",
-    "Images/Pasted image 20240102084141.png",
-    "Images/Pasted image 20240102083954.png",
     "Relational DB Design.md",
     "JAVA Project SetUp.md",
     "_Focus/2023/3rd Semesters/OOP/Student Management Application (JAVA).md",
-    "Relational Algebra Operations.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

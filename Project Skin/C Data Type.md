@@ -1,5 +1,6 @@
 
-1. Integer types
+1. Integer types 
++ int is 4 bytes on 64-bit GCC. (but 2 bytes back in the old day)
 ```c
 int a = 10; // integer
 short b = 5; // short integer
@@ -27,7 +28,7 @@ signed char k = 'C'; // signed character
 void function(void); // function with no return value and no parameters
 ```
 
-5. Pointer types 
+5. [[Pointer types]] 
 > A value just happened to be an address 
 > toán tử quy chiếu: đến vị trí đó và lấy giá trị ở đó về.
 ```c
