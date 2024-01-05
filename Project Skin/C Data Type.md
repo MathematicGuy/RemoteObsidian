@@ -27,7 +27,9 @@ signed char k = 'C'; // signed character
 void function(void); // function with no return value and no parameters
 ```
 
-5. Pointer types
+5. Pointer types 
+> A value just happened to be an address 
+> toán tử quy chiếu: đến vị trí đó và lấy giá trị ở đó về.
 ```c
 int l = 10;
 int *m = &l; // pointer to an integer (). *m mean pointer pointed to | &l mean the memory address of l => m pointer pointed to l memory address
@@ -38,6 +40,7 @@ int *m = &l; // pointer to an integer (). *m mean pointer pointed to | &l mean t
 **misunderstood/misconception**
 + if * p = &slice but &p != & slices because p have it own memory address, * p just stored the value in &slice. 
 
+static memory - variable that goes on to the stack that is always in  scope for the function that is runnning it.
 5. Array types
 **Important Note:** The last character of the array ist /0 (null)
 ```c
