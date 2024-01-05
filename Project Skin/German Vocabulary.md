@@ -121,7 +121,7 @@ guten tag good day
 
 ### Unit 3: Order Food
 
-das the
+das the (No gender/non-binary)
 
 mit with
 kase cheese
@@ -173,7 +173,11 @@ Deutschland
 	Wein Viena
 Franchreich Franch
 
-Woher Where 
+**We use wo to ask where someone is - 3 ways to say Where in German**
++ Woher  **we use woher to ask where someone is coming from (direction toward the speaker)**
++ "Wo" is used to ask about a static location
++ Wohin **to ask where someone is going (direction away from the speaker)** 
+
 kommst come from
 + Ich komme
 + Woher kommst - where are you from
@@ -280,3 +284,8 @@ spiele play
 Klavier piano
 	ich spiele sehr gut Klavier
 Schach chess (...come last)
+Immer always
+
+**Exercise**
++ Wirklich really
+	+ Geld money
