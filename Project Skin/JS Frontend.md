@@ -40,3 +40,5 @@ document.getElementById("MyElement").className = "MyClass";
 
 [Change HTML Element's class in JS](https://stackoverflow.com/questions/195951/how-can-i-change-an-elements-class-with-javascript) 
 
+## jQuery
++ JS library
