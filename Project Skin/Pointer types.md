@@ -12,6 +12,7 @@ note:
 **UNDERSTANDING** 
 + a stack with too many function can causes stackoverflow
 ![[Pasted image 20240105100813.png]]
++ If I try to allocate a short next to eachother. They will be 2 bytes apart since short take up 2 bytes of memory. That mean, 4 bytes apart if I use int, 1 Bytes apart if I use char, etc...
 
 
 **HEAP - Dynamic Memory Allocation**
@@ -44,3 +45,4 @@ free(p); // Deallocates the memory previously allocated by malloc, calloc, or re
 ![[Pasted image 20240105102030.png]]
 + the 1st p is allocate point p at memory address 200 (200 as example starting address) and the 2nd at memory address 400;
 + After that we pointed the value at that 2 addresses with 10 and 20.
+
