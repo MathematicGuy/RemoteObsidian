@@ -65,7 +65,7 @@ UML - Unified Modeling Language (Ngôn ngữ mô hình kí hiệu thống nhất
 + State Machine Diagrams
 + [[Communication Diagrams]]
 + [[Use Case Diagrams]]
-+ Activity Diagrams
++ [Activity Diagrams](https://iviettech.vn/blog/1066-activity-diagram-ban-ve-hoat-dong.html)
 + [[Sequence Diagrams]]
 	Model the interaction of Obj base on a time sequence. How obj interacted with eachother in a particular usecase.
 + Timing Diagrams
