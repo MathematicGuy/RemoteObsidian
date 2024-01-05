@@ -251,7 +251,7 @@ Schüler student
 Er heißt his name
 spricht speak
 sprachen language
-
+ich heiB my name is
 was ist dein beruf 
 	what is your profession?
 
@@ -275,17 +275,20 @@ manchmal sometime
 + I - add e to behind
 	schwimme
 	male
-+ er/sie - add t to behind
-	schwimmt
++ e/sie - add t to behind (he/she/my)
+	schwimmt 
 	malt
 
 spiele play
-	spielt plays (he/she plays)
+	spielst plays (he/she plays)
 Klavier piano
 	ich spiele sehr gut Klavier
 Schach chess (...come last)
 Immer always
+oft often
 
 **Exercise**
 + Wirklich really
 	+ Geld money
+
+mein beruf ist insteressant, auch stressig. Ich bin Schauspielerin
