@@ -73,3 +73,11 @@ inline level -> element inside other element.
 ---
 [[HTML Code]]
 
+
+
+responsive 
+phải truyền dữ liệu qua form
+VD: trang login, register thì khi nhấn submit. Dữ liệu sẽ từ trang login và register bắn sang trang khác hiện thị. 
+login và register phải có validate -> thẻ nhập trống hay ko, validate 2 dạng nguyên hoặc âm. (chốnng số ) ]
+
+được phép dùng thư viện bootstrap + 

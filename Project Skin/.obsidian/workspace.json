@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1456381a5775b6dc",
+        "id": "6d8d0a403283d9d9",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac86ad9620fae18",
+            "id": "9115b65b0849ae76",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "219c01282bee0b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointer types.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5582e4f2fe62c1ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS Frontend.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Frontend.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Frontend.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Frontend.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -211,11 +184,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5582e4f2fe62c1ac",
+  "active": "9115b65b0849ae76",
   "lastOpenFiles": [
+    "JS Frontend.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "Pointer types.md",
+    "Todo.md",
     "WebDev/WebDev_Learn/JS/JS.md",
     "WebDev/WebDev_Learn/HTML.md",
-    "Pointer types.md",
     "Images/Pasted image 20240105102116.png",
     "Images/Pasted image 20240105102030.png",
     "C Data Type.md",
@@ -225,14 +201,12 @@
     "C Code Note.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
-    "Todo.md",
     "Images/Pasted image 20240104144016.png",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "DB_HW7.md",
     "Images/Pasted image 20240104142234.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "common value errors.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "common errors when using scanf.md",
     "C String Manipulation.md",
     "C Exam.md",
@@ -248,7 +222,6 @@
     "Lecture 2 - Project Managment Basics.md",
     "Data Type.md",
     "Relational DB Design.md",
-    "JAVA Project SetUp.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
