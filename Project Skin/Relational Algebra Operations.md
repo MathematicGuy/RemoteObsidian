@@ -69,6 +69,7 @@ MAX
 answer of calculate the max assets of each bcity(group by bcity) from branch (table)
 ![[Pasted image 20231227092628.png]]
 select bcity, max(assets) from branch group by bcity
+**the G stand for group by**
 
 ### Deletion
 
