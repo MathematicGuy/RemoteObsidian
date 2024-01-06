@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "50314add36dca436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key in RDBMS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Key in RDBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Key in RDBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Key in RDBMS.md"
               }
             }
           },
@@ -184,9 +198,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f6c80182d517b05",
+  "active": "50314add36dca436",
   "lastOpenFiles": [
     "Todo.md",
+    "DB_HW5.md",
+    "Key in RDBMS.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Relational Algebra Operations.md",
+    "Relational Constraint Exercise.md",
     "Game.md",
     "Activity Diagrams.md",
     "Lecture 1 - Software Engineering Overview.md",
@@ -210,18 +229,13 @@
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "DB_HW7.md",
     "Images/Pasted image 20240104142234.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "common value errors.md",
     "common errors when using scanf.md",
     "C String Manipulation.md",
     "C Exam.md",
-    "Binary Division.md",
-    "Personal/Good for LATER.md",
     "Images/Pasted image 20240103103816.png",
     "Images/Pasted image 20240103103632.png",
     "Images/Pasted image 20240103102446.png",
-    "Normalization.md",
-    "Unit Test.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

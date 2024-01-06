@@ -41,7 +41,8 @@
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
 - [ ] Thông báo Luật Lệ mới cho CLB tr'c năm mới 
 - [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
-- [ ] Ôn lại Relational Algebra/[ER Diagram](https://voer.edu.vn/m/mo-hinh-thuc-the-lien-ket/d9108d21)
++ [ ] Hỏi cô Anh Lê đề cương ôn tập vs thi vào phần nào. 
+
 - [ ] Phân cấp con người (dựa trên nhận thức)
 
 
