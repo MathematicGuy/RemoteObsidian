@@ -53,3 +53,5 @@ Ex:
 **Foreign Key**
 > This Intigrity constraint -> The Insertion in one Table is depending on the values to be validated in the other table.
 ![[Pasted image 20231114231048.png]]
+
+

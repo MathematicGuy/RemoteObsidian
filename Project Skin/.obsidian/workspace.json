@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce50ee89bc65f650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Key in RDBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Key in RDBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "Key in RDBMS.md"
               }
             }
           },
@@ -211,8 +198,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce50ee89bc65f650",
+  "active": "50314add36dca436",
   "lastOpenFiles": [
+    "German Vocabulary.md",
     "Key in RDBMS.md",
     "Todo.md",
     "DB_HW5.md",
@@ -224,7 +212,6 @@
     "Lecture 1 - Software Engineering Overview.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Technology.md",
-    "German Vocabulary.md",
     "JS Frontend.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Pointer types.md",
