@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce50ee89bc65f650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key in RDBMS.md",
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key in RDBMS.md",
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key in RDBMS.md"
+                "file": "German Vocabulary.md"
               }
             }
           },
@@ -198,11 +211,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50314add36dca436",
+  "active": "ce50ee89bc65f650",
   "lastOpenFiles": [
+    "Key in RDBMS.md",
     "Todo.md",
     "DB_HW5.md",
-    "Key in RDBMS.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Relational Algebra Operations.md",
     "Relational Constraint Exercise.md",

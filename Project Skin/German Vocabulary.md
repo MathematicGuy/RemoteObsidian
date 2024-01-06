@@ -290,5 +290,28 @@ oft often
 **Exercise**
 + Wirklich really
 	+ Geld money
++ would like  mochte
++ order bestellen
++ TV Fernseher
++ need brauche
 
 mein beruf ist insteressant, auch stressig. Ich bin Schauspielerin
+
+Exercise: Zum Bahnhof - to the rail station 
++ fährt driving
++ da here 
++ Wir we
+	Wir sind da - we are here
++ mochtest - would you like
++ Ahnung idea
+	Keine Ahnung  no idea
+los start
+	fährt los - start driving
+	+ wieder again
+
+Der Vegetatier Excercise
++ Fleisch meat
+	Speisekarte ist Fleisch - the speisekarte ist meat
++ Heben Sie - do you have
++ are sind (are in plural form)
+	bist (are in singular form) Ex: bist du - are you
