@@ -1,4 +1,7 @@
-EMPLOYEE
+![[Pasted image 20240106152016.png]]
+![[Pasted image 20240106152027.png]]
+
+**EMPLOYEE**
 ```sql
 use database_name
 

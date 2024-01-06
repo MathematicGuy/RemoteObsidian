@@ -5,7 +5,7 @@ và khóa ngoài của các quan hệ cùng với mô tả thông tin theo giả
 **STUDENT**
 Student_number: Primary, Candidate Key
 	student number can be unique for each student
-
+**
 
 **COURSE**
 Course_number, {Course_name, Credit_hours, Department}: Candidate Key, Super Key
