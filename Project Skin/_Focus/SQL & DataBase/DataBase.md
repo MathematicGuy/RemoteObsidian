@@ -54,3 +54,5 @@ biểu thức đại số quan hệ
 [[DataCamp]]
 
 
+![[Pasted image 20240106194621.png]]
+

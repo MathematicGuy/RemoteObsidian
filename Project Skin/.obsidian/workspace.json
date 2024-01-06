@@ -26,12 +26,30 @@
             "id": "0f65fd3fcc9672f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "985e65b1c459bc8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Algebra Operations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relational Algebra Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Relational Algebra Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Relational Algebra Operations.md"
+              }
             }
           },
           {
@@ -189,13 +211,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f65fd3fcc9672f2",
+  "active": "985e65b1c459bc8d",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/DataBase.md",
+    "DBMS Languages, Interfaces & Classification.md",
+    "Relational Data Base Model.md",
+    "Relational Constraint Exercise.md",
+    "Images/Pasted image 20240106194621.png",
+    "DB_HW5.md",
+    "DB_HW4-2.md",
     "Todo.md",
     "DB_HW4-1.md",
     "Company DB.md",
-    "DB_HW4-2.md",
-    "DB_HW5.md",
     "Key in RDBMS.md",
     "Images/Pasted image 20240106152027.png",
     "Images/Pasted image 20240106152016.png",
@@ -203,10 +230,8 @@
     "DB_HW6.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "German Vocabulary.md",
     "Relational Algebra Operations.md",
-    "Relational Constraint Exercise.md",
     "Game.md",
     "Activity Diagrams.md",
     "Lecture 1 - Software Engineering Overview.md",
@@ -219,13 +244,11 @@
     "WebDev/WebDev_Learn/HTML.md",
     "Images/Pasted image 20240105102116.png",
     "Images/Pasted image 20240105102030.png",
-    "C Data Type.md",
     "Images/Pasted image 20240105100756.png",
     "Images/Pasted image 20240105100813.png",
     "Images/Pasted image 20240105100039.png",
     "Images/Pasted image 20240104144016.png",
     "Images/Pasted image 20240104142234.png",
-    "Images/Pasted image 20240103103816.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

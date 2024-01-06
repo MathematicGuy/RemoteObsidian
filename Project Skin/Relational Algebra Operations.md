@@ -34,7 +34,7 @@ JOIN vs Natural JOIN
 
 
 **DIVISON Operation ( ÷ )** (2 table chia cho nhau)
--> Get the elements which equal to 
+-> Get the elements which equal to  
 **Ex: To retrieve the Employee ID (EID) who working on all
 projects.**
 + notice to **use DIVISON if there** the keyword: **"all"** 
