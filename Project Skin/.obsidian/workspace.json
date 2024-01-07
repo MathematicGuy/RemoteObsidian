@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40991508b9e11b03",
+        "id": "e919ed2054337848",
         "type": "tabs",
         "children": [
           {
-            "id": "fec8c29e4ead1417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Software Design Pattern.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf6886e2931cb60b",
+            "id": "10bf57da9820af98",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -33,6 +20,14 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "c8ef014b18ab9870",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,8 +189,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf6886e2931cb60b",
+  "active": "c8ef014b18ab9870",
   "lastOpenFiles": [
+    "Todo.md",
     "10 Software Design Pattern.md",
     "Images/Pasted image 20240107113232.png",
     "Lecture 1 - Software Engineering Overview.md",
@@ -207,7 +199,6 @@
     "Software Technology.md",
     "Software Architecture.md",
     "Images/Pasted image 20231227092619.png",
-    "Todo.md",
     "Relational Algebra Operations.md",
     "![[Pasted image 20231227092619.png]].md",
     "_Focus/SQL & DataBase/DataBase.md",
