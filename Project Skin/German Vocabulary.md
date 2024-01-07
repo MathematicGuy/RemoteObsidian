@@ -320,6 +320,7 @@ Der Vegetatier Excercise
 Unit 5:
 Bahnof train station
 Markt market
++ supermarkt
 die Bibliothek the library
 dir Kirche the church
 in der Nähe  - near by
@@ -327,3 +328,14 @@ in der Nähe  - near by
 da drüben
 alt old
 (die) Apotheke pharmacy 
+billig cheap (bilig)
+elegant elegant
+Café caffee shop
+die Bäckerei the backery 
+
+links on the left
+rechts on the right
+
+Kino movie theater
+delautomatn
+weit weig far away
