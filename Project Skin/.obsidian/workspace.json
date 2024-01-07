@@ -11,9 +11,12 @@
             "id": "fec8c29e4ead1417",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20231227092619.png"
+                "file": "10 Software Design Pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -197,8 +200,15 @@
   },
   "active": "bf6886e2931cb60b",
   "lastOpenFiles": [
-    "Relational Algebra Operations.md",
+    "10 Software Design Pattern.md",
+    "Images/Pasted image 20240107113232.png",
+    "Lecture 1 - Software Engineering Overview.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Software Technology.md",
+    "Software Architecture.md",
     "Images/Pasted image 20231227092619.png",
+    "Todo.md",
+    "Relational Algebra Operations.md",
     "![[Pasted image 20231227092619.png]].md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DBMS Languages, Interfaces & Classification.md",
@@ -207,7 +217,6 @@
     "Images/Pasted image 20240106194621.png",
     "DB_HW5.md",
     "DB_HW4-2.md",
-    "Todo.md",
     "DB_HW4-1.md",
     "Company DB.md",
     "Key in RDBMS.md",
@@ -220,18 +229,12 @@
     "German Vocabulary.md",
     "Game.md",
     "Activity Diagrams.md",
-    "Lecture 1 - Software Engineering Overview.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
-    "Software Technology.md",
     "JS Frontend.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "Pointer types.md",
     "Images/Pasted image 20240105102116.png",
     "Images/Pasted image 20240105102030.png",
     "Images/Pasted image 20240105100756.png",
     "Images/Pasted image 20240105100813.png",
     "Images/Pasted image 20240105100039.png",
-    "Images/Pasted image 20240104144016.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

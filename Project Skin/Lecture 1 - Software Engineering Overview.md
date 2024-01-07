@@ -14,22 +14,7 @@ Các cách tiếp cận dự án:
 	Phân tích thiết kế rồi mới tiến hành code, kiểm thử. Viết tài liệu cẩn thận
 
 [7 Mô hình](https://onix-systems.com/blog/7-basic-software-development-models-which-one-to-choose)
-[10 Software Design Pattern Video](https://youtu.be/WnMQ8HlmeXc?si=F1NlKaYwZ6Y4FUaE) 
-+ thác nước 
-	- ưu điểm: làm từng bước 1, tuần tự 
-	- điểm yếu: chỉ làm theo mẫu, kiến trúc thấp. (khách hàng không góp ý)
-+ chữ V -( cứ 1 bước kiểm thử 1 lần (phân tích/kiểm thử, code/kiểm thử, v..v.. )
-mô hình bản mẫu ( xây dựng dựa theo bản mẫu, làm từng bước cùng vs khách hàng, làm demo)
-	+ demo giao diện trên photoshop
-	+ xây dựng tương đối, các chức năng chưa hoàn hảo
-	- không có phân tích bản mẫu, kiến trúc không cao (Vì góp ý mới sửa)
-+ xoắn ốc = thác nước + chữ V
-	+ Xác định nhu cầu
-	+ Lập kế hoạch
-	+ Làm mẫu
-	+ Khích lệ (làm ra mô hình đó)
-	+ làm bài bản nhưng có làm mẫu trước từng bước rồi đưa khách hàng.
-
+[[10 Software Design Pattern]] 
 
 [Kiểm thử](https://www.indeed.com/career-advice/career-development/phases-of-testing)
 [Kiểm thử Trắng và Đen](https://www.practitest.com/resource-center/article/black-box-vs-white-box-testing/#:~:text=The%20Black%20Box%20Test%20is,into%20consideration%20its%20internal%20functioning.)
