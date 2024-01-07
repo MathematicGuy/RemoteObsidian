@@ -315,3 +315,15 @@ Der Vegetatier Excercise
 + Heben Sie - do you have
 + are sind (are in plural form)
 	bist (are in singular form) Ex: bist du - are you
+
+
+Unit 5:
+Bahnof train station
+Markt market
+die Bibliothek the library
+dir Kirche the church
+in der Nähe  - near by
+	die Bibliothek ist in der Nähe
+da drüben
+alt old
+(die) Apotheke pharmacy 
