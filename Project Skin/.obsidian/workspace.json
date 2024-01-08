@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e919ed2054337848",
+        "id": "00552b87f2c71815",
         "type": "tabs",
         "children": [
           {
-            "id": "10bf57da9820af98",
+            "id": "ce778ee7bd0687f8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e2572ee6cef20617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C String Manipulation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C String Manipulation.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C String Manipulation.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C String Manipulation.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2572ee6cef20617",
+  "active": "ce778ee7bd0687f8",
   "lastOpenFiles": [
     "C Code Note.md",
     "German Vocabulary.md",
