@@ -319,6 +319,8 @@ Der Vegetatier Excercise
 
 Unit 5:
 Bahnof train station
+U Bahnstation subway station
+
 Markt market
 + supermarkt
 die Bibliothek the library
@@ -326,7 +328,10 @@ dir Kirche the church
 in der Nähe  - near by
 	die Bibliothek ist in der Nähe
 da drüben
-alt old
+
+Alt old
+Neu new
+
 (die) Apotheke pharmacy 
 billig cheap (bilig)
 elegant elegant
@@ -339,3 +344,17 @@ rechts on the right
 Kino movie theater
 delautomatn
 weit weig far away
+
+Geldautomat movie theater 
+
+Excercise: Vacation Clothes (Urlaub skleidung )
+Urlaub vacation
+Kaufhaus department store
+Sieht see
+Für for
+Urlaub vacation
+brauche need
+Elegante elegant
+Schude shoes
+Hut hat
+großer big (object)

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB_HW7.md",
+                "file": "C Code Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW7.md",
+                "file": "C Code Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW7.md",
+                "file": "C Code Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_HW7.md"
+                "file": "C Code Note.md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "e2572ee6cef20617",
   "lastOpenFiles": [
+    "German Vocabulary.md",
+    "DB_HW7.md",
     "Images/Pasted image 20240108000733.png",
     "Images/Pasted image 20240108000638.png",
     "Images/Pasted image 20240108000612.png",
@@ -210,10 +212,7 @@
     "Images/Pasted image 20240107235918.png",
     "Images/Pasted image 20240107235911.png",
     "Images/Pasted image 20240107235907.png",
-    "Images/Pasted image 20240107235903.png",
-    "DB_HW7.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "German Vocabulary.md",
     "Todo.md",
     "Software Architecture.md",
     "10 Software Design Pattern.md",
