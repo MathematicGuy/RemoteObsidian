@@ -14,3 +14,13 @@ int main() {
 }
 ```
  
+
+Copy string to an array
+```c
+#include <string.h>
+
+char str1[100] = "Hello, ";
+char str2[] = "World!";
+strcat(str1, str2);
+printf("%s\n", str1); // This will print "Hello, World!"
+```

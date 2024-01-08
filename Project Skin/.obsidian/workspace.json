@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Code Note.md",
+                "file": "C String Manipulation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Code Note.md",
+                "file": "C String Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Code Note.md",
+                "file": "C String Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Code Note.md"
+                "file": "C String Manipulation.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "e2572ee6cef20617",
   "lastOpenFiles": [
+    "C Code Note.md",
     "German Vocabulary.md",
     "DB_HW7.md",
     "Images/Pasted image 20240108000733.png",
