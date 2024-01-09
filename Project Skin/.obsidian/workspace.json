@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational DB Design.md"
+                "file": "German Vocabulary.md"
               }
             }
           },
@@ -200,9 +200,9 @@
   },
   "active": "b5b0414723947ca3",
   "lastOpenFiles": [
+    "Relational DB Design.md",
     "Images/Pasted image 20240109113556.png",
     "Untitled.md",
-    "Relational DB Design.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Todo.md",
     "German Vocabulary.md",
@@ -218,7 +218,6 @@
     "Images/Pasted image 20240108000150.png",
     "Images/Pasted image 20240107235918.png",
     "Images/Pasted image 20240107235911.png",
-    "Images/Pasted image 20240107235907.png",
     "Software Architecture.md",
     "10 Software Design Pattern.md",
     "Lecture 1 - Software Engineering Overview.md",

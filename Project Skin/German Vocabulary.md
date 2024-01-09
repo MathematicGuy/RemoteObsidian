@@ -345,7 +345,7 @@ links on the left
 rechts on the right
 
 Kino movie theater
-delautomatn ATM
+Geldautomat ATM
 Hotel Hotel (non-binary, Das hotel)
 Park park (male - Der Park)
 
