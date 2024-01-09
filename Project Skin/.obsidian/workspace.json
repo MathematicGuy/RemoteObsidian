@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00552b87f2c71815",
+        "id": "3e67cc39d463abee",
         "type": "tabs",
         "children": [
           {
-            "id": "ce778ee7bd0687f8",
+            "id": "b0a8e81cbfba02da",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1a49a3df087ded1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational DB Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational DB Design.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a49a3df087ded1e",
+  "active": "b0a8e81cbfba02da",
   "lastOpenFiles": [
     "_Focus/SQL & DataBase/DataBase.md",
     "German Vocabulary.md",
