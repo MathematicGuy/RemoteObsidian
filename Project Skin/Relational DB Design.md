@@ -35,10 +35,13 @@ Chuẩn hóa là gì:
 [Dạng chuẩn hóa 1NF, 2NF, 3NF](https://youtu.be/TKYd6gKF2Cc?si=xS5_Ztw9-xkAEUbq)
 
 F = { AB -> C, B -> C }
++ Chỉ 1 khóa cho 1 thuộc tính ko 
 B -> C: Phụ thuộc hàm nguyên tố: 
-AB -> C: Không phải hàm nguyên tố
+AB -> C: Không phải hàm nguyên tố. Vì đã có B -> C rồi nên AB thừa.
+
 
 ### 1NF (First Normal Form)
+
 
 
 ### 2NF
@@ -52,3 +55,8 @@ VD: DiemDA, TenDA chỉ phụ thuộc vào MaDA nên sẽ chia ra 2 bảng DUAN(
 
 ### 3NF 
 +Trong bảng chỉ có 1 khóa
+
+
+### BCNF
++ Là 3NF.
++ Vế trái bắt buộc là 1 Siêu Khóa.
