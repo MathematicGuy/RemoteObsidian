@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f97a94154b04eb24",
+            "id": "517e9ca6c6ec6002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Life/1_Shoot for the Star.md",
+                "file": "Happiness/Quote.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Life/1_Shoot for the Star.md",
+                "file": "Happiness/Quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Life/1_Shoot for the Star.md",
+                "file": "Happiness/Quote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Life/1_Shoot for the Star.md"
+                "file": "Happiness/Quote.md"
               }
             }
           },
@@ -177,10 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f97a94154b04eb24",
+  "active": "517e9ca6c6ec6002",
   "lastOpenFiles": [
-    "How To/How to Study when you Tired after school.md",
+    "Happiness/Quote.md",
     "My Life/1_Shoot for the Star.md",
+    "How To/How to Study when you Tired after school.md",
     "My Life/Styles.md",
     "My Life/Sleep.md",
     "My Life/Skills.md",
@@ -205,7 +206,6 @@
     "Productivity & Improvement/Train yourself Like a Ayanokoji - Classroom of the elite  - Whiteroom Training 2.0.md",
     "Productivity & Improvement/the IVY LEAGUE SECRET to STUDYING EFFECTIVELY.md",
     "Productivity & Improvement/Techno Project.md",
-    "Productivity & Improvement/Study Strategies.md",
     "Social",
     "How To",
     "Happiness",

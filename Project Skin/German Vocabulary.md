@@ -318,21 +318,24 @@ Der Vegetatier Excercise
 
 
 Unit 5:
-Bahnof train station
+	Bahnof train station
 U Bahnstation subway station
 
-Markt market
+Markt market (Male - Der)
 + supermarkt
-die Bibliothek the library
-dir Kirche the church
-in der Nähe  - near by
+
+die - female
++ Bibliothek the library
++ Kirche church 
+
+Nähe Near (in der Nähe - in near by)
 	die Bibliothek ist in der Nähe
 da drüben
 
 Alt old
 Neu new
 
-(die) Apotheke pharmacy 
+(die) Apotheke pharmacy (female) 
 billig cheap (bilig)
 elegant elegant
 Café caffee shop
@@ -342,7 +345,10 @@ links on the left
 rechts on the right
 
 Kino movie theater
-delautomatn
+delautomatn ATM
+Hotel Hotel (non-binary, Das hotel)
+Park park (male - Der Park)
+
 weit weig far away
 
 Geldautomat movie theater 
@@ -358,3 +364,4 @@ Elegante elegant
 Schude shoes
 Hut hat
 großer big (object)
+
