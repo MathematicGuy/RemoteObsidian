@@ -32,9 +32,13 @@ Chuẩn hóa là gì:
 > Đây là một kỹ thuật thiết kế bảng trong cơ sở dữ liệu, chia các bảng lớn thành các bảng nhỏ hơn và liên kết chúng bằng các mối quan hệ. 
 + Các dạng chuẩn hóa cao hơn sẽ có hết các tiêu chí của chuẩn hóa trước.
 
+[Dạng chuẩn hóa 1NF, 2NF, 3NF](https://youtu.be/TKYd6gKF2Cc?si=xS5_Ztw9-xkAEUbq)
+
+F = { AB -> C, B -> C }
+B -> C: Phụ thuộc hàm nguyên tố: 
+AB -> C: Không phải hàm nguyên tố
 
 ### 1NF (First Normal Form)
-
 
 
 ### 2NF
