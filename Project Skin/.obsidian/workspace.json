@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b5b0414723947ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational DB Design.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Relational DB Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Relational DB Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Relational DB Design.md"
               }
             }
           },
@@ -184,11 +198,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0a8e81cbfba02da",
+  "active": "b5b0414723947ca3",
   "lastOpenFiles": [
+    "Images/Pasted image 20240109113556.png",
+    "Untitled.md",
+    "Relational DB Design.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "German Vocabulary.md",
     "Todo.md",
+    "German Vocabulary.md",
     "Personal/Language Learning/German.md",
     "C Code Note.md",
     "DB_HW7.md",
@@ -219,9 +236,6 @@
     "Key in RDBMS.md",
     "DB_HW6.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "Game.md",
-    "Activity Diagrams.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

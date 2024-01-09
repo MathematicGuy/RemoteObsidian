@@ -27,19 +27,24 @@ mỗi dòng tương đương vs 1 quan hệ
 mỗi cột tương đương vs 1 thuộc tính
 
 
-### Testing for Lossless-join Decomposition
-![[Pasted image 20231228143943.png]]
-
-Lập ma trận 
-Tách
-+ R thành 2 lược đồ con (2 dòng) - S->A, SI -> P
-+ 4 cột (do có 4 thuộc tính) - SAIP
-
-Bằng nhau trên F thì bằng nhau trên thuộc tính A 
+## Normalization
+Chuẩn hóa là gì: 
+> Đây là một kỹ thuật thiết kế bảng trong cơ sở dữ liệu, chia các bảng lớn thành các bảng nhỏ hơn và liên kết chúng bằng các mối quan hệ. 
++ Các dạng chuẩn hóa cao hơn sẽ có hết các tiêu chí của chuẩn hóa trước.
 
 
-### Functional Dependency
-![[Pasted image 20231228173418.png]]
-	If I have value of X, I can determint Y
-	![[Pasted image 20231228173853.png]]
+### 1NF (First Normal Form)
 
+
+
+### 2NF
++ Trong bảng có thể có 2 khóa. Và có thể bắc cầu sang 1 bảng khác.
++ Cái nào phụ thuộc vào cái gì thì chia nó ra.
+
+VD: DiemDA, TenDA chỉ phụ thuộc vào MaDA nên sẽ chia ra 2 bảng DUAN(MaDA, TenDA, DDiemDA) và NV_DA(MaNV, MaDA, Sogio) .
++ Tuy nhiên nó sẽ tạo ra việc MADA là thuộc tính có tính chất bắc cầi 
+![[Pasted image 20240109113556.png]]
+
+
+### 3NF 
++Trong bảng chỉ có 1 khóa
