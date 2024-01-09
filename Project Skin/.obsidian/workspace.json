@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e67cc39d463abee",
+        "id": "53953c084a485f43",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a8e81cbfba02da",
+            "id": "4c2fd0aa69c23695",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "b5b0414723947ca3",
+            "id": "3898bd566aeaed8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "_Focus/SQL & DataBase/DataBase.md"
               }
             }
           },
@@ -198,13 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5b0414723947ca3",
+  "active": "3898bd566aeaed8c",
   "lastOpenFiles": [
+    "Todo.md",
     "Relational DB Design.md",
     "Images/Pasted image 20240109113556.png",
     "Untitled.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Todo.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
     "C Code Note.md",
