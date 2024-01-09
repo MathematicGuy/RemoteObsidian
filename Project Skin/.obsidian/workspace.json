@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational DB Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational DB Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Relational DB Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "Relational DB Design.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "1a49a3df087ded1e",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/DataBase.md",
     "German Vocabulary.md",
     "Todo.md",
     "Personal/Language Learning/German.md",
@@ -215,7 +216,6 @@
     "Images/Pasted image 20240107235918.png",
     "Images/Pasted image 20240107235911.png",
     "Images/Pasted image 20240107235907.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Software Architecture.md",
     "10 Software Design Pattern.md",
     "Lecture 1 - Software Engineering Overview.md",
