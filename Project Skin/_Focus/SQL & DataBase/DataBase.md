@@ -13,7 +13,6 @@
 
 [[Relational Algebra Operations]]
 
-
 #### Database Homework
 [[Summary DB_HW2]]
 [[DB_HW4-1]]

@@ -1,5 +1,6 @@
 source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
-SQL Learning Tools
+
+**SQL Learning Tools**
 	[SQL Zoo](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
 		SQL quizizz
 	[SQL Bolt](https://sqlbolt.com/)
@@ -16,7 +17,7 @@ SQL Learning Tools
 		Dynamic Data Query in Obsidian
 	[DrawSQL - DB View and Design](https://drawsql.app/teams/3-bowls-of-rice/diagrams/student-score-management-db) 
 
-SQL tables:
+**SQL tables:**
 + [[Company DB]]
 + [[DB Users]]
 + [[Std_ManagementDB]]

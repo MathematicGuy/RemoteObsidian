@@ -67,7 +67,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "DB_HW5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "329899808a3406be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational DB Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "DB_HW5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "DB_HW5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "DB_HW5.md"
               }
             }
           },
@@ -240,16 +253,25 @@
   "active": "dc5a642ef1624a43",
   "lastOpenFiles": [
     "DataBase Design and E-R Model.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "Company DB.md",
-    "DB_HW4-2.md",
-    "DB_HW4-1.md",
+    "DB_HW5.md",
     "C Code Note.md",
+    "Relational DB Design.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW6.md",
-    "C Data Type.md",
-    "Movie_DB.md",
-    "DB_HW7.md",
     "Todo.md",
+    "DB_HW4-2.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Company DB.md",
+    "DB Users.md",
+    "Movie_DB.md",
+    "Std_ManagementDB.md",
+    "DBMS Languages, Interfaces & Classification.md",
+    "Relational Data Base Model.md",
+    "Relational Constraint Exercise.md",
+    "DataCamp.md",
+    "DB_HW4-1.md",
+    "C Data Type.md",
+    "DB_HW7.md",
     "Pointer in C.md",
     "Images/Pasted image 20240110180516.png",
     "Images/Pasted image 20240110180512.png",
@@ -259,22 +281,13 @@
     "Number Systems.md",
     "C File Handling.md",
     "common value errors.md",
-    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20240110094449.png",
-    "Review 2NF vs 3NF vs BCNF.md",
     "Images/Pasted image 20240110085643.png",
     "Images/Pasted image 20240110085105.png",
     "Images/Pasted image 20240110084552.png",
     "Images/Pasted image 20240110084517.png",
     "Images/Pasted image 20231129160249.png",
     "Images/Pasted image 20240110083421.png",
-    "Relational DB Design.md",
-    "Untitled.md",
-    "German Vocabulary.md",
-    "Personal/Language Learning/German.md",
-    "Software Architecture.md",
-    "10 Software Design Pattern.md",
-    "Lecture 1 - Software Engineering Overview.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
