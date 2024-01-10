@@ -199,6 +199,7 @@ Film(title, year, duration, plot, emp_id, name, birth, company_id, address,, com
 
 
 ![[Pasted image 20231225234659.png]]
+
 Giải thích các mối quan hệ
 
 - Movie quan hệ với Quote: Movie_Quote: là liên kết yếu, chức năng: Lấy Pimary key từ Movie để liên  với Quote. Mỗi bộ phim không có hoặc nhiều câu trích dẫn.
