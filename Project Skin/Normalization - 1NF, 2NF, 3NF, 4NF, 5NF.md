@@ -41,7 +41,6 @@ Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels
 + 3NF đảm bảo rằng một bảng không có sự dư thừa và bất thường bằng cách **loại bỏ các phụ thuộc bắc cầu.
 + Một mối quan hệ ở dạng 3NF nếu nó ở dạng chuẩn thứ hai (2NF) và không có thuộc tính không chính phụ thuộc bắc cầu vào khóa chính 1
 
-
 **Boyce-Codd Normal Form (BCNF - 3.5NF)**
 > Each attribute in the table must depend on the key, the whole key and nothing but the key.
 + ? - **Objective:** Remove dependencies on non-prime attributes.
@@ -57,7 +56,15 @@ Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels
 + Overcome a loop hole in 3NF: 
 ![[Pasted image 20240110085643.png]]
 note that: the key mean "every candidate key"
- 
+![[Pasted image 20240110094449.png]]
+
+
+### [Review: 2NF vs 3NF vs BCNF](https://chat.openai.com/share/442b423f-e413-4ef1-bde5-fb77773c45cc)
+
+
+
+
+
 **Fourth Normal Form (4NF)**  
 ![[Pasted image 20231129160902.png]]
 
