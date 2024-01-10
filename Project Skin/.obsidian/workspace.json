@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02f689f1ad943494",
+        "id": "001acc06a08c5f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "0470fc39ef805f48",
+            "id": "bbc9825fb2352ff0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "97a496cb4e91dc4e",
+            "id": "3474465bac986984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md"
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
               }
             }
           },
@@ -198,11 +198,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97a496cb4e91dc4e",
+  "active": "3474465bac986984",
   "lastOpenFiles": [
     "Todo.md",
-    "Relational DB Design.md",
+    "Images/Pasted image 20240110085643.png",
+    "Images/Pasted image 20240110085105.png",
+    "Images/Pasted image 20240110084552.png",
+    "Images/Pasted image 20240110084517.png",
+    "Images/Pasted image 20231129160249.png",
+    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+    "Images/Pasted image 20240110083421.png",
+    "Images/Pasted image 20240110082954.png",
     "_Focus/SQL & DataBase/DataBase.md",
+    "Relational DB Design.md",
     "Images/Pasted image 20240109113556.png",
     "Untitled.md",
     "German Vocabulary.md",
@@ -211,13 +219,6 @@
     "DB_HW7.md",
     "Images/Pasted image 20240108000733.png",
     "Images/Pasted image 20240108000638.png",
-    "Images/Pasted image 20240108000612.png",
-    "Images/Pasted image 20240108000453.png",
-    "Images/Pasted image 20240108000442.png",
-    "Images/Pasted image 20240108000202.png",
-    "Images/Pasted image 20240108000150.png",
-    "Images/Pasted image 20240107235918.png",
-    "Images/Pasted image 20240107235911.png",
     "Software Architecture.md",
     "10 Software Design Pattern.md",
     "Lecture 1 - Software Engineering Overview.md",
@@ -234,7 +235,6 @@
     "Company DB.md",
     "Key in RDBMS.md",
     "DB_HW6.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
