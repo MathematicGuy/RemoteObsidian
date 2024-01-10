@@ -62,9 +62,6 @@ note that: the key mean "every candidate key"
 ### [Review: 2NF vs 3NF vs BCNF](https://chat.openai.com/share/442b423f-e413-4ef1-bde5-fb77773c45cc)
 
 
-
-
-
 **Fourth Normal Form (4NF)**  
 ![[Pasted image 20231129160902.png]]
 

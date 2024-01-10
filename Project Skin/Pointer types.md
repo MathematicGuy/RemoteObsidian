@@ -46,3 +46,4 @@ free(p); // Deallocates the memory previously allocated by malloc, calloc, or re
 + the 1st p is allocate point p at memory address 200 (200 as example starting address) and the 2nd at memory address 400;
 + After that we pointed the value at that 2 addresses with 10 and 20.
 
+

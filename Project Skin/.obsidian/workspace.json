@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "file": "Pointer types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "file": "Pointer types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "file": "Pointer types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
+                "file": "Pointer types.md"
               }
             }
           },
@@ -200,9 +200,9 @@
   },
   "active": "3474465bac986984",
   "lastOpenFiles": [
+    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20240110094449.png",
     "Review 2NF vs 3NF vs BCNF.md",
-    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Todo.md",
     "Images/Pasted image 20240110085643.png",
     "Images/Pasted image 20240110085105.png",
@@ -220,7 +220,6 @@
     "C Code Note.md",
     "DB_HW7.md",
     "Images/Pasted image 20240108000733.png",
-    "Images/Pasted image 20240108000638.png",
     "Software Architecture.md",
     "10 Software Design Pattern.md",
     "Lecture 1 - Software Engineering Overview.md",
