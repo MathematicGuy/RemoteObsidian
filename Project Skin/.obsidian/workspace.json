@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointer types.md",
+                "file": "Number Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer types.md",
+                "file": "Number Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer types.md",
+                "file": "Number Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer types.md"
+                "file": "Number Systems.md"
               }
             }
           },
@@ -198,8 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3474465bac986984",
+  "active": "b5d65a47b929d094",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "Number Systems.md",
+    "Pointer types.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20240110094449.png",
     "Review 2NF vs 3NF vs BCNF.md",
@@ -233,8 +236,6 @@
     "DB_HW5.md",
     "DB_HW4-2.md",
     "DB_HW4-1.md",
-    "Company DB.md",
-    "Key in RDBMS.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
