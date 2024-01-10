@@ -14,3 +14,7 @@ p = &a mean pointer p hold the address of a
 Reason to have more than 1 type of pointer:
 (Pointer type, void pointer, pointer arithmetic)
 > for Dereference and to access and modify value.
+
+p -> pointer
+&p -> pointer address 
+and * p -> pointer value

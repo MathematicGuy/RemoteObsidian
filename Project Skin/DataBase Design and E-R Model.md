@@ -108,3 +108,5 @@ WEAK ENTITY
 MIN-MAX relationship representation
  + CUSTOMER (1..2)-< L_C >-(1..n) LOAN 
 	 1 CUSTOMER can take loan 2 times -< L_C >- 1 CUSTOMER  can have many LOAN
+
++ ? A **multivalued attribute** is an attribute that can hold multiple values for a given entity
