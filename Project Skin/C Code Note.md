@@ -115,6 +115,31 @@ int main() {
 }
 ```
 
+decimalToBinary()
+```c
+void decimalToBinary(int n){
+    int store[1000]; // store binary chars. static so it won't be destroyed after the functon call
+    int i = 0;
+        
+    // Step1: Convert num to binary
+    while (n > 0)
+    {
+        i++; // result i = 5. But store[0] leave empty
+        int binaryN = n % 2;
+        n /= 2;
+
+        store[i] = binaryN;
+        // caution - if put i++ at the end i will be 1 more than the actual number of digits. result in i = 6;        
+    }
+
+    printf("Binary:\n");
+    // print store array in reverse to get the binary format
+    //? why value at pos 6 is trash value ?
+    for (int j = i; j > 0 ; j--){
+        printf("%d - %d\n", j, store[j]);
+    }
+}
+```
 
 **sprintf**
 > `sprintf` is a function in the C programming language that formats and stores a series of characters and values in a string
