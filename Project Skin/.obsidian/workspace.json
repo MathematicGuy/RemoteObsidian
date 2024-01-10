@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53953c084a485f43",
+        "id": "02f689f1ad943494",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2fd0aa69c23695",
+            "id": "0470fc39ef805f48",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "3898bd566aeaed8c",
+            "id": "97a496cb4e91dc4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,13 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3898bd566aeaed8c",
+  "active": "97a496cb4e91dc4e",
   "lastOpenFiles": [
     "Todo.md",
     "Relational DB Design.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240109113556.png",
     "Untitled.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
     "C Code Note.md",

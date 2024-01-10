@@ -365,3 +365,5 @@ Schude shoes
 Hut hat
 großer big (object)
 
+Exercise Die Reservierung - The Reservation
+Geburtstag birthday
