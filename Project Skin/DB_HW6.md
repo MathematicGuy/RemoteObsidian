@@ -117,6 +117,7 @@ DEPARTMENT (5..10)-< CONTAINS >-(1..1) PHONE
 
 **6.3 Hãy xem xét lược đồ E-R trong hình sau, biểu thị một lược đồ đơn giản hóa cho hệ thống đặt chỗ hàng không. Hãy nêu các yêu cầu và ràng buộc đã tạo ra lược đồ này. Cố gắng trình bày các yêu cầu và đặc tả ràng buộc của bạn càng chính xác càng tốt.**
 
+
 ![[Pasted image 20231221113341.png]]
 
 **AIRPORT**(Airport_code, City, State, Name)

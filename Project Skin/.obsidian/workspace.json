@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational DB Design.md",
+                "file": "DB_HW6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase Design and E-R Model.md",
+                "file": "DB_HW6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase Design and E-R Model.md",
+                "file": "DB_HW6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase Design and E-R Model.md"
+                "file": "DB_HW6.md"
               }
             }
           },
@@ -250,12 +250,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8105855567797b3e",
+  "active": "329899808a3406be",
   "lastOpenFiles": [
     "Relational DB Design.md",
+    "C Code Note.md",
     "DB_HW5.md",
     "DataBase Design and E-R Model.md",
-    "C Code Note.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW6.md",
     "Todo.md",
