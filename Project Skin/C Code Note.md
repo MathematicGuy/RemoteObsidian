@@ -18,6 +18,8 @@
 
 ## [[C Exam]]
 
+### [[C File Handling]]
+
 **scanf**
 ```c
 int main(){
@@ -597,6 +599,22 @@ scanf();
 + the big holder haldThePizza must be the same type as the convert data type: double in this example
 to only type casting 1 value - cho vào trog ngoặc: (double) (slices) / people
 
+### Calculate Binary with Recursion
+```c
+#include <stdio.h>
+
+void printBinary(int num) {
+    if (num > 1) {
+        printBinary(num / 2);
+    }
+    printf("%d", num % 2);
+}
+
+int main() {
+    printBinary(44);
+}
+```
+
 ### ASCII
 behind every letter is a number behind it 
 ![[Pasted image 20240102072758.png]]
@@ -608,4 +626,5 @@ operand: 12345678..
 precedence: * / (priority)
 associaticity
 ![[Pasted image 20240102074246.png]]
+
 
