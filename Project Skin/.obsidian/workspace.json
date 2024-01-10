@@ -26,8 +26,13 @@
             "id": "87208e5d27630bd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pointer in C.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pointer in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pointer in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pointer in C.md"
+              }
             }
           },
           {
@@ -191,14 +200,18 @@
   },
   "active": "87208e5d27630bd7",
   "lastOpenFiles": [
+    "Images/Pasted image 20240110180516.png",
+    "Images/Pasted image 20240110180512.png",
+    "Images/Pasted image 20240110175703.png",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "Pointer in C.md",
+    "Pointer types.md",
     "Todo.md",
     "C Code Note.md",
     "Number Systems.md",
     "C Data Type.md",
     "C File Handling.md",
     "common value errors.md",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
-    "Pointer types.md",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20240110094449.png",
     "Review 2NF vs 3NF vs BCNF.md",
@@ -211,12 +224,10 @@
     "Images/Pasted image 20240110082954.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "Relational DB Design.md",
-    "Images/Pasted image 20240109113556.png",
     "Untitled.md",
     "German Vocabulary.md",
     "Personal/Language Learning/German.md",
     "DB_HW7.md",
-    "Images/Pasted image 20240108000733.png",
     "Software Architecture.md",
     "10 Software Design Pattern.md",
     "Lecture 1 - Software Engineering Overview.md",
@@ -225,8 +236,6 @@
     "Relational Algebra Operations.md",
     "![[Pasted image 20231227092619.png]].md",
     "DBMS Languages, Interfaces & Classification.md",
-    "Relational Data Base Model.md",
-    "Relational Constraint Exercise.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

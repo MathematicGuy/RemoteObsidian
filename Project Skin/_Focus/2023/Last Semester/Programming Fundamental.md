@@ -1,4 +1,6 @@
-## [[Number Systems]]
+### [[Number Systems]]
+
+### [[Pointer in C]]
 
 ### [[C Code Note]]
 
