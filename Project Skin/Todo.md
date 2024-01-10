@@ -37,13 +37,11 @@ hie **My Learning**
 - [ ] Organize DB knowledge 
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 - [ ] Personalise my Gmail ( Filter trash and label good Reading Resources )
-- [ ] Hủy Github Co-pilot trươ'c hạn (10/1/2024)
-- [ ] Hủy Dualingo trươ'c hạn (7/1/2024)
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
 - [ ] Thông báo Luật Lệ mới cho CLB tr'c năm mới 
 - [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
+- [ ] Sau khi Học xong DB. Hỏi các bạn cách làm bài tập 
 + [ ] Hỏi cô Anh Lê đề cương ôn tập vs thi vào phần nào. 
-
 - [ ] Phân cấp con người (dựa trên nhận thức)
 
 
