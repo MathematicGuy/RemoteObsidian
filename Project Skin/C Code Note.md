@@ -20,6 +20,9 @@
 
 ### [[C File Handling]]
 
+0 - false
+1 - true
+
 **scanf**
 ```c
 int main(){
@@ -672,3 +675,21 @@ for (int i = 0; i < arrayLength; i++){
   printf("pointer head value %d at %d\n", *(head + i), head+i);
 }
 ```
+   
+**Check 3rd bit and set 0 if it is 1.** 
+```c
+// Check 3rd bit and set 0 if it is 1. 
+// Ex: 1 = 0001 (1 << 2) shift the bit two places to the left: 0001 -> 0100 which is 4 in decimal
+// n & (1 << 2). On the right side we have 1 as the 3rd bit. 
+// AND: 00 -> 0, 01 -> 0, 10 -> 0, 11 -> 1. So if n 3rd bit is 1, the result of n & (1 << 2) will be 1
+m = n;
+if (n & (1 << 2)) {
+  //! change the 3rd bit to 0 using AND. Ex: 1111 & 1011 = 1011; 1000 & 1011 = 1000.
+  m &= ~(1 << 2); 
+}
+printf("m: %d\n", m);
+
+// printf("m: %d\n", m &= ~(1 << 2));
+```
+
+
