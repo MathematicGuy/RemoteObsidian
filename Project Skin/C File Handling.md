@@ -1,9 +1,25 @@
+fgets() use to read file
 ```c
-while((c=fgetc(fp))!=EOF)
-	printf("%c",c);
+char buffer[256];
+FILE* file = fopen("file.txt", "r");
+if (file != NULL) {
+    while (fgets(buffer, sizeof(buffer), file) != NULL) {
+        printf("%s", buffer);
+    }
+    fclose(file);
+}
 ```
 > Printf until the end of file
 
+
+fprintf() use to print to file
+```c
+FILE* file = fopen("file.txt", "w");
+if (file != NULL) {
+    fprintf(file, "Hello, %s!\n", "world");
+    fclose(file);
+}
+```
 
 
 ```c

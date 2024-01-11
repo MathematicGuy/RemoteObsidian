@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b981ca68b2c6f50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C File Handling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "C File Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "C File Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "C File Handling.md"
               }
             }
           },
@@ -184,14 +198,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b52e3f9d29a74dee",
+  "active": "b981ca68b2c6f50d",
   "lastOpenFiles": [
+    "C Code Note.md",
+    "C String Manipulation.md",
+    "C Data Type.md",
+    "German Vocabulary.md",
+    "Personal/Language Learning/German.md",
+    "Todo.md",
     "DB_HW5.md",
     "Images/Pasted image 20231221113341.png",
     "DB_HW6.md",
     "Images/Pasted image 20240111153420.png",
     "Images/Pasted image 20240111152429.png",
-    "Todo.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240111143525.png",
     "Relational Algebra Operations.md",
@@ -199,9 +218,7 @@
     "Relational Data Base Model.md",
     "Relational Constraint Exercise.md",
     "bitShift_bitWise.md",
-    "C Code Note.md",
     "What I do today.md",
-    "C Data Type.md",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
     "DataBase Design and E-R Model.md",
     "DB_HW4-2.md",
@@ -213,8 +230,6 @@
     "DBMS Languages, Interfaces & Classification.md",
     "DataCamp.md",
     "DB_HW4-1.md",
-    "DB_HW7.md",
-    "Pointer in C.md",
     "Images/Pasted image 20240110180516.png",
     "Images/Pasted image 20240110180512.png",
     "Images/Pasted image 20240110175703.png",

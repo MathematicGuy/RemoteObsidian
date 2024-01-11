@@ -1,3 +1,9 @@
+### Variable Type
+
++ Local variable: within a scope function
++ Static: is Local variable, but last until the program ended. ( through the lifetime of the program )
++ Global: Can be access anywhere in the program
+
 
 1. Integer types 
 + int is 4 bytes on 64-bit GCC. (but 2 bytes back in the old day)
