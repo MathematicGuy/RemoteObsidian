@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW5.md",
+                "file": "DB_HW6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW5.md",
+                "file": "DB_HW6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_HW5.md"
+                "file": "DB_HW6.md"
               }
             }
           },
@@ -224,10 +224,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37e9757c9c32bd77",
+  "active": "3f9e500801f0e82b",
   "lastOpenFiles": [
     "DB_HW5.md",
+    "Images/Pasted image 20231221113341.png",
     "DB_HW6.md",
+    "Images/Pasted image 20240111153420.png",
+    "Images/Pasted image 20240111152429.png",
     "Todo.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240111143525.png",
@@ -258,9 +261,6 @@
     "Images/Pasted image 20240110094449.png",
     "Images/Pasted image 20240110085643.png",
     "Images/Pasted image 20240110085105.png",
-    "Images/Pasted image 20240110084552.png",
-    "Images/Pasted image 20240110084517.png",
-    "Images/Pasted image 20231129160249.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

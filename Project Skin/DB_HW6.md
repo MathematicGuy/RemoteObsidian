@@ -82,7 +82,7 @@ Customer Request:
 "Suppose **each customer** must have **at least one account** but is **limited to a maximum of two loan accounts at a time**, and a **bank branch cannot have more than 1,000 loan accounts**" this express as
 note: only modify what the contents given.  
 
-+ CUSTOMER (1..N)-< A_C >-(1..N) ACCOUNT
++ CUSTOMER (0..N)-< A_C >-(1..N) ACCOUNT
 	"1 Customer can have 1 to many account and reverse"
  + ACCOUNT (1..2)-< L_C >-(1..n) LOANS 
 	 1 account can take loans 2 times -< L_C >- 1 Loans 
@@ -108,6 +108,7 @@ note: only modify what the contents given.
 + EMPLOYEE (1..2)-< HAS_PHONE >-(1..5) PHONE
 + DEPARTMENT (1..2)-< CONTAINS >-(1..1) PHONE
 
+![[Pasted image 20240111152429.png]]
 
 Case that HAS_PHONE will be redundant 
 EMPLOYEE (0..2)-< WORKS_IN >-(1..20) DEPARTMENT
@@ -118,13 +119,11 @@ DEPARTMENT (5..10)-< CONTAINS >-(1..1) PHONE
 	DEPARTMENT have 5 to 10 phone while there 4 phones can be uses maximum making 1 phone redundant.
 
 **6.3 Hãy xem xét lược đồ E-R trong hình sau, biểu thị một lược đồ đơn giản hóa cho hệ thống đặt chỗ hàng không. Hãy nêu các yêu cầu và ràng buộc đã tạo ra lược đồ này. Cố gắng trình bày các yêu cầu và đặc tả ràng buộc của bạn càng chính xác càng tốt.**
+![[Pasted image 20240111153420.png]]
 
-
-![[Pasted image 20231221113341.png]]
-
-**AIRPORT**(Airport_code, City, State, Name)
+**AIRPORT**(**Airport_code**, City, State, Name)
 	PK: Airport_code
-**CAN_LAND**(Airport_code, Type_name)
+**CAN_LAND**(Airport_code, Type _name)
 	PK: Airport_code, Type_name
 
 **AIRPLANE_TYPE**(Type_name, Max_seats, Company)
