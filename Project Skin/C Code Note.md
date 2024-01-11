@@ -653,3 +653,22 @@ associaticity
 ![[Pasted image 20240102074246.png]]
 
 
+array memory allocation
+```C
+int arrayLength;
+printf("Nhap so luong phan tu: ");
+scanf("%d", &arrayLength);
+
+// allocate memory for each element in the array (base on the array length)
+short *head = (short*)malloc(n * sizeof(short));
+if (head == NULL){
+  printf("Error: cannot allocate memory for array\n");
+}
+nhap_danhsach(head, arrayLength);
+
+
+//! Ex4
+for (int i = 0; i < arrayLength; i++){
+  printf("pointer head value %d at %d\n", *(head + i), head+i);
+}
+```

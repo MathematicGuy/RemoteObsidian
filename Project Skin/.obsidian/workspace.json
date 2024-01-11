@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
+                "file": "C Code Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
+                "file": "C Code Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
+                "file": "C Code Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/Programming Fundamental.md"
+                "file": "C Code Note.md"
               }
             }
           },
@@ -213,10 +213,10 @@
   },
   "active": "b13d3d35f031b8cb",
   "lastOpenFiles": [
-    "bitShift_bitWise.md",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
-    "C Code Note.md",
     "C Data Type.md",
+    "C Code Note.md",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "bitShift_bitWise.md",
     "DataBase Design and E-R Model.md",
     "Todo.md",
     "DB_HW6.md",
