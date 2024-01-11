@@ -88,7 +88,9 @@ note: only modify what the contents given.
 	 1 account can take loans 2 times -< L_C >- 1 Loans 
 + LOAN (1..1)-< LOANS >-(0..1000) BANK_BRANCH
 	can only Loan "0 to 1000 maximum Loans" at a time from an Bank Branch
- 
+
+![[Pasted image 20240111143525.png]]
+
 **6.2 Xét lược đồ E-R trong hình sau. Giả sử một nhân viên có thể làm việc ở tối đa hai phòng ban hoặc có thể không được phân công vào bất kỳ phòng ban nào. Giả sử mỗi phòng ban phải có một và có thể có tối đa ba số điện thoại.**
 
 **Hãy chỉ ra các ràng buộc về tỷ số lực lượng (tối thiểu, tối đa) của các liên kết trên lược đồ này. Nêu rõ các giả định bổ sung nào bạn đưa ra (nếu có). Trong những điều kiện nào thì mối quan hệ HAS_PHONE sẽ dư thừa trong ví dụ này?**
@@ -198,13 +200,12 @@ Có hoặc Không: Partial participation
 Film(title, year, duration, plot, emp_id, name, birth, company_id, address,, company_name )
 	PK: title, year
 
-
 ![[Pasted image 20231225234659.png]]
 
 Giải thích các mối quan hệ
 
 - Movie quan hệ với Quote: Movie_Quote: là liên kết yếu, chức năng: Lấy Pimary key từ Movie để liên  với Quote. Mỗi bộ phim không có hoặc nhiều câu trích dẫn.
- 
+
 - Quote quan hệ employee: Actor_quote: Là một quan hệ thêm thuộc tính emp_id vào bảng Quote. Mỗi câu trích dẫn sẽ được nói bởi một diễn viên cụ thể, một diễn viên có thể nói nhiều câu trích dẫn.
    
 - Employee: là một class của lớp thực thể Director và Actor. Mục đích tạo lớp này là trong trường hợp actor có thể làm director hoặc ngược lại.
