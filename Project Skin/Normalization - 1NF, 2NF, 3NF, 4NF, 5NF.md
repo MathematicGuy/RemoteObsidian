@@ -34,8 +34,7 @@ Why Normalization? to avoid DB vurnerbility.
 các thuộc tính không khóa phụ thuộc hết và 1 khóa
 > Problem **Player_Rating depend on Player_Skill_Level** (non-key attribute depend on a non-key attribute)
 ![[Pasted image 20231129160127.png]]
-Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels
-> Player_rating and Player_Skill_Levels are 3rd normal form because the attributes depend on the key: "Player_ID", "Player_Skill_Level" (and nothing but the key)
+Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels> Player_rating and Player_Skill_Levels are 3rd normal form because the attributes depend on the key: "Player_ID", "Player_Skill_Level" (and nothing but the key)
 ![[Pasted image 20240110083421.png]]
 **Dạng Chuẩn 3 NF:**
 + 3NF đảm bảo rằng một bảng không có sự dư thừa và bất thường bằng cách **loại bỏ các phụ thuộc bắc cầu.
