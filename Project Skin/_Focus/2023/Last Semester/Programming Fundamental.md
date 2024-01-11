@@ -2,6 +2,8 @@
 
 ### [[Pointer in C]]
 
+## [[bitShift_bitWise]]
+
 ### [[C Code Note]]
 
 ### [[C Fundamental]]

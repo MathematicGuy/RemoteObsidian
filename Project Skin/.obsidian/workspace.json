@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "f5aef25bf9b7da02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4e7d2e69d41c9740",
             "type": "leaf",
             "state": {
@@ -49,38 +36,12 @@
             }
           },
           {
-            "id": "8105855567797b3e",
+            "id": "b13d3d35f031b8cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase Design and E-R Model.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc5a642ef1624a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "329899808a3406be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW6.md",
+                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW6.md",
+                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW6.md",
+                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_HW6.md"
+                "file": "_Focus/2023/Last Semester/Programming Fundamental.md"
               }
             }
           },
@@ -250,15 +211,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "329899808a3406be",
+  "active": "b13d3d35f031b8cb",
   "lastOpenFiles": [
-    "Relational DB Design.md",
+    "bitShift_bitWise.md",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "C Code Note.md",
-    "DB_HW5.md",
+    "C Data Type.md",
     "DataBase Design and E-R Model.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "DB_HW6.md",
     "Todo.md",
+    "DB_HW6.md",
+    "DB_HW5.md",
+    "Relational DB Design.md",
+    "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW4-2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Company DB.md",
@@ -270,17 +234,14 @@
     "Relational Constraint Exercise.md",
     "DataCamp.md",
     "DB_HW4-1.md",
-    "C Data Type.md",
     "DB_HW7.md",
     "Pointer in C.md",
     "Images/Pasted image 20240110180516.png",
     "Images/Pasted image 20240110180512.png",
     "Images/Pasted image 20240110175703.png",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "Pointer types.md",
     "Number Systems.md",
     "C File Handling.md",
-    "common value errors.md",
     "Images/Pasted image 20240110094449.png",
     "Images/Pasted image 20240110085643.png",
     "Images/Pasted image 20240110085105.png",
