@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C File Handling.md",
+                "file": "Pointer in C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C File Handling.md",
+                "file": "Pointer in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C File Handling.md",
+                "file": "Pointer in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C File Handling.md"
+                "file": "Pointer in C.md"
               }
             }
           },
@@ -200,10 +200,14 @@
   },
   "active": "b981ca68b2c6f50d",
   "lastOpenFiles": [
+    "Pointer types.md",
+    "Pointer in C.md",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "C Code Note.md",
+    "C File Handling.md",
+    "German Vocabulary.md",
     "C String Manipulation.md",
     "C Data Type.md",
-    "German Vocabulary.md",
     "Personal/Language Learning/German.md",
     "Todo.md",
     "DB_HW5.md",
@@ -219,7 +223,6 @@
     "Relational Constraint Exercise.md",
     "bitShift_bitWise.md",
     "What I do today.md",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "DataBase Design and E-R Model.md",
     "DB_HW4-2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -227,9 +230,6 @@
     "DB Users.md",
     "Movie_DB.md",
     "Std_ManagementDB.md",
-    "DBMS Languages, Interfaces & Classification.md",
-    "DataCamp.md",
-    "DB_HW4-1.md",
     "Images/Pasted image 20240110180516.png",
     "Images/Pasted image 20240110180512.png",
     "Images/Pasted image 20240110175703.png",

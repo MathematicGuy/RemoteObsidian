@@ -367,3 +367,18 @@ großer big (object)
 
 Exercise Die Reservierung - The Reservation
 Geburtstag birthday
+
+
+
+
+## Chapter 2:
+
+### Unit 1
+
+Kanzler Chancellor
+
+
+Sind Sie are you 
+Frau QuynhAnh Mrs Quynh Anh
+Herr Schmitt Mr Schmitt
++ Frau QuynhAnh und Herr Schmitt
