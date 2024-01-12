@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "Pointer types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "Pointer types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "Pointer types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer in C.md"
+                "file": "Pointer types.md"
               }
             }
           },
@@ -200,23 +200,33 @@
   },
   "active": "b981ca68b2c6f50d",
   "lastOpenFiles": [
-    "Pointer types.md",
-    "Pointer in C.md",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "Images/Pasted image 20240112103350.png",
+    "C String Manipulation.md",
     "C Code Note.md",
+    "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
+    "Chapter 4 - File and String Manipulation.md",
+    "Pointer types.md",
+    "Images/Pasted image 20240112102626.png",
+    "Images/Pasted image 20240112100558.png",
+    "Images/Pasted image 20240112101041.png",
+    "]].md",
+    "Images/Pasted image 20240112100435.png",
+    "Pointer in C.md",
+    "Images/Pasted image 20240112092927.png",
+    "Images/Pasted image 20240112085807.png",
+    "Images/Pasted image 20240112085139.png",
+    "Images/Pasted image 20240112084811.png",
+    "Images/Pasted image 20240112084801.png",
+    "Images/Pasted image 20240112084641.png",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "C File Handling.md",
     "German Vocabulary.md",
-    "C String Manipulation.md",
     "C Data Type.md",
     "Personal/Language Learning/German.md",
     "Todo.md",
     "DB_HW5.md",
-    "Images/Pasted image 20231221113341.png",
     "DB_HW6.md",
-    "Images/Pasted image 20240111153420.png",
-    "Images/Pasted image 20240111152429.png",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Images/Pasted image 20240111143525.png",
     "Relational Algebra Operations.md",
     "Relational DB Design.md",
     "Relational Data Base Model.md",
@@ -226,16 +236,6 @@
     "DataBase Design and E-R Model.md",
     "DB_HW4-2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Company DB.md",
-    "DB Users.md",
-    "Movie_DB.md",
-    "Std_ManagementDB.md",
-    "Images/Pasted image 20240110180516.png",
-    "Images/Pasted image 20240110180512.png",
-    "Images/Pasted image 20240110175703.png",
-    "Images/Pasted image 20240110094449.png",
-    "Images/Pasted image 20240110085643.png",
-    "Images/Pasted image 20240110085105.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

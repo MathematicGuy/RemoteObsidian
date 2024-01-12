@@ -41,3 +41,19 @@ Reason to have more than 1 type of pointer:
 p -> pointer
 &p -> pointer address 
 and * p -> pointer value
+
+value with the same name (a) with difference memory address
+![[Pasted image 20240112084641.png]]
+![[Pasted image 20240112084811.png]]
++ what happened?  
+ ![[Pasted image 20240112085139.png]]
+> When a function is called, it goes into a stack frame. Therefor it memory address is also difference from the one in main. 
+
+![[Pasted image 20240112085807.png]]
+when a argument get passed to the function. Increment(a) mean the value a will be copied to the variable x or in other word: int x = a
++ pointer as function argument: if the **argument is * p instead of x**
+	 with the same principle but with **&a as input** we get `int *p = &a`
+Using this, result at a address will be 11. (no need to return value in function)
+
+Pointer to Array
+![[Pasted image 20240112092927.png]]

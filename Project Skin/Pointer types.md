@@ -22,6 +22,44 @@ note:
 int *p = malloc(4 * sizeof(int)); // Allocates memory for 4 integers
 ```
 + If `malloc` can't allocate the requested memory, it returns `NULL`.   
++ ? When to use malloc() ? -> when I want to dynamically declare varibles size or array size  
++ In this example, I don't know how long the array will be when the user input it. So I use malloc to allocate it element's memory dynamically with n element store side by side having int as their data type.
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    int *arr;
+    int n, i;
+
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
+	
+    // Allocate memory for 'n' elements
+    arr = (int*)malloc(n * sizeof(int));
+    if(arr == NULL) {
+        printf("Memory allocation failed\n");
+        return -1;
+    }
+
+    // Initialize the array elements
+    for(i = 0; i < n; i++) {
+        arr[i] = i+1;
+    }
+
+    // Print the array elements
+    for(i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
+    }
+
+    // Don't forget to free the allocated memory
+    free(arr);
+
+    return 0;
+}
+```
+> 
+
 
 2. **calloc**: This function works like `malloc`, but it also initializes the allocated memory to zero. It takes two arguments: the number of elements and the size of each element. Here's how you can use it:
 ```c
@@ -46,4 +84,34 @@ free(p); // Deallocates the memory previously allocated by malloc, calloc, or re
 + the 1st p is allocate point p at memory address 200 (200 as example starting address) and the 2nd at memory address 400;
 + After that we pointed the value at that 2 addresses with 10 and 20.
 
+![[Pasted image 20240112100435.png]]
+The intepreter don't see `int a[]` as an array, but as an pointer `int *A`.
++ Which mean sizeof() calc size of the pointer not the entire array
++ ? The `sizeof` operator can give the size of an array in bytes, but when used on a pointer, it gives the size of the pointer, not the size of what it points to. That's why you cannot use `sizeof(A)/sizeof(A[0])` inside the function to get the size of the array. **It would give the size of the pointer `A` divided by the size of an `int`**, which is not the size of the array.
+
+Since `*A` output 1 variable so there no way we can't calc the size of the whole array.
+-> So we need to pass  array size to SumOfElements() from main 
+![[Pasted image 20240112100558.png]]
+
+## Character arrays and pointers
+![[Pasted image 20240112102626.png]]
++ ! The last variable of the string is null (n**ull use as end-of-the-array identifier** to **prevent the pointer to read all char on the array and return garbage value for unidentify momory block**. Ex: 5, 6, 7 is unidentify memory block)
+The actual size of the String always 1 more than its total size, **bc the last element is null**
++ that why JOHN take 4 char but C total char is 5.
+![[Pasted image 20240112103350.png]]
++ c2 can = to c1 because c2 is a pointer, but c1 cannot = to c2 bc it is an array thus c1 = c2 is Invalid.
++ `c[2] = *(c + 2) = l` and `c[0] = *c = H`
++ if `c[0] = *c = A` then c1 array will be "Aello"
++ ! The pointer c2 is not copying the `c1[]` array. But taking it 1st memory address `200` . So to access all of the array element I just need to point the pointer to each of c1 element. `c[n]`  with max n as the length of the array 
+
+
+
++ ! Array always be view as a pointer in a function argument.
+
+> Printf each char of C array until reach the null variable. 
+```c
+while(C[i] != '\0'){
+	// code
+}
+```
 
