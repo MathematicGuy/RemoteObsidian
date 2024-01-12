@@ -377,8 +377,28 @@ Geburtstag birthday
 
 Kanzler Chancellor
 
+Herr Mr.
+Sie Ms.
 
 Sind Sie are you 
 Frau QuynhAnh Mrs Quynh Anh
 Herr Schmitt Mr Schmitt
 + Frau QuynhAnh und Herr Schmitt
+
+Freut mich nice to meet you
+	 Freut mich sehr nice to meet you
+Ich heiBe my name
+	 Ich heiße Dinh Nhat Thanh
+Wie heißen Sie what is your name
+
+Woher kommen sie where are you come from
+heißen Sie mz name is
+	heißben sie? your name is ?
+
+spreche speak 
++ Ich Spreche
++ Spreche Die
+	 Sprechen Die Deutsch do you speak German
+	 Ich Spreche kein Englisch I don't speak English
+	 Sprechen Sie Englisch do you speak English
+	
