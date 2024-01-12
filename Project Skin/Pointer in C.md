@@ -91,11 +91,15 @@ print(C);
 
 
 ## Pointers and multi-dimensional arrays
-1 Dimensional Array
++ ? (D as Dimension)
++ ? MA as memory address
+1 D Array 
 ![[Pasted image 20240112120750.png]]
 
-2 Dimensional Array
-
-
-
-
+2D Array
+![[Pasted image 20240112200833.png]]
++ ! remember array alway start from 0. 
+`B[2][3]` is see as two 1D array. With the first array as `B[0]` and the second as `B[1]` 
++ ! Therefor `int p* = B;` will not return `B[2][3]` but just `B[0]` since the pointer always pointed to the 1st memory address of the array.
++ ? Each int take 4 bytes. So 1 array take 12 bytes. Thus if B[0] MA is 400 -> B[1]  MA will be 412
++ !  `int (p*)[3] = B;`  will return `B[2][3]`

@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "977614128e8bb52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pointer in C.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Pointer in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Pointer in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Pointer in C.md"
               }
             }
           },
@@ -184,8 +198,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00e47534302485f3",
+  "active": "977614128e8bb52c",
   "lastOpenFiles": [
+    "Images/Pasted image 20240112200833.png",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "C Code Note.md",
+    "Todo.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW4-2.md",
     "Summary DB_HW2.md",
@@ -194,7 +212,6 @@
     "DB_HW4-1.md",
     "DB_HW5.md",
     "Pointer in C.md",
-    "C Code Note.md",
     "German Vocabulary.md",
     "Images/Pasted image 20240112120750.png",
     "common errors when using scanf.md",
@@ -213,15 +230,12 @@
     "Images/Pasted image 20240112085807.png",
     "Images/Pasted image 20240112085139.png",
     "Images/Pasted image 20240112084811.png",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "C File Handling.md",
     "C Data Type.md",
     "Personal/Language Learning/German.md",
-    "Todo.md",
     "DB_HW6.md",
     "Relational DB Design.md",
     "Relational Data Base Model.md",
-    "Relational Constraint Exercise.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
