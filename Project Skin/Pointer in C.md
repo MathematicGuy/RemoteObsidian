@@ -1,5 +1,3 @@
-### [[Pointer types]]
-
 ## Dereferencing pointer (con trỏ hội thảo) 
 + ? Dereferencing a pointer means getting the value that is stored in the memory location pointed by the pointer. The dereference operator `*` is used to do this in C.
 	+  `*p = 99;` - Here, `p` is a pointer to `x`. `*p` dereferences the pointer, meaning it accesses the value stored at the memory location `p` is pointing to (which is `x`). So `*p = 99;` changes the value of `x` to 99.
@@ -57,3 +55,47 @@ Using this, result at a address will be 11. (no need to return value in function
 
 Pointer to Array
 ![[Pasted image 20240112092927.png]]
+
+## Character arrays and pointers
+![[Pasted image 20240112102626.png]]
++ ! The last variable of the string is null (n**ull use as end-of-the-array identifier** to **prevent the pointer to read all char on the array and return garbage value for unidentify momory block**. Ex: 5, 6, 7 is unidentify memory block)
+The actual size of the String always 1 more than its total size, **bc the last element is null**
++ that why JOHN take 4 char but C total char is 5.
+![[Pasted image 20240112103350.png]]
++ c2 can = to c1 because c2 is a pointer, but c1 cannot = to c2 bc it is an array thus c1 = c2 is Invalid.
++ `c[2] = *(c + 2) = l` and `c[0] = *c = H`
++ if `c[0] = *c = A` then c1 array will be "Aello"
++ ! The pointer c2 is not copying the `c1[]` array. But taking it 1st memory address `200` . So to access all of the array element I just need to point the pointer to each of c1 element. `c[n]`  with max n as the length of the array 
+
+
+
++ ! Array always be view as a pointer in a function argument.
+
+> Printf each char of C array until reach the null variable. 
+```c
+while(C[i] != '\0'){
+	// code
+}
+```
+
+```c
+char C[20] = "Hello" // string gets stored in the space for array
+char *C = "Hello"; // string gets store as compile time constant (String literal)  
+C[0] = "A"; // this make the program crash
+print(C);
+```
++ `char *C = "Hello";`   this in Read-Only Memory. So cannot be modify, else the program will crash 
+
+
+### [[Pointer types]]
+
+
+## Pointers and multi-dimensional arrays
+1 Dimensional Array
+![[Pasted image 20240112120750.png]]
+
+2 Dimensional Array
+
+
+
+

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointer types.md",
+                "file": "Pointer in C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer types.md",
+                "file": "Pointer in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer types.md",
+                "file": "Pointer in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer types.md"
+                "file": "Pointer in C.md"
               }
             }
           },
@@ -200,24 +200,26 @@
   },
   "active": "b981ca68b2c6f50d",
   "lastOpenFiles": [
+    "Images/Pasted image 20240112120750.png",
+    "C Code Note.md",
+    "common errors when using scanf.md",
+    "Pointer in C.md",
+    "common value errors.md",
+    "Pointer types.md",
     "Images/Pasted image 20240112103350.png",
     "C String Manipulation.md",
-    "C Code Note.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "Chapter 4 - File and String Manipulation.md",
-    "Pointer types.md",
     "Images/Pasted image 20240112102626.png",
     "Images/Pasted image 20240112100558.png",
     "Images/Pasted image 20240112101041.png",
     "]].md",
     "Images/Pasted image 20240112100435.png",
-    "Pointer in C.md",
     "Images/Pasted image 20240112092927.png",
     "Images/Pasted image 20240112085807.png",
     "Images/Pasted image 20240112085139.png",
     "Images/Pasted image 20240112084811.png",
     "Images/Pasted image 20240112084801.png",
-    "Images/Pasted image 20240112084641.png",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
     "C File Handling.md",
     "German Vocabulary.md",
@@ -234,8 +236,6 @@
     "bitShift_bitWise.md",
     "What I do today.md",
     "DataBase Design and E-R Model.md",
-    "DB_HW4-2.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

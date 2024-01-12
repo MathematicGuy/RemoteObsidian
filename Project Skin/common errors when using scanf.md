@@ -60,3 +60,19 @@ int main(){
 >In this code, `fgets` reads up to 99 characters from the standard input (`stdin`) and stores them in `d` and `a`. It stops reading if it encounters a newline character (`\n`) or end-of-file. The remaining character in the array is reserved for the null character (`\0`), which marks the end of the string. This allows you to read strings that contain spaces.
 
 5. **Not Using Address-of Operator**: When reading a value with `scanf`, you need to provide the address of the variable where you want to store the value. **Forgetting the address-of operator** (`&`) is a common mistake.
+
+
+## Character arrays and pointers errors
+In C, strings can be stored in two ways: as character arrays or as string literals. The difference between these two lies in where they are stored and whether they can be modified.
+
++ ! **Strings as Character Arrays**: When you declare a string as a character array, it gets stored in an area of memory known as the stack. This memory is writable, so you can modify the string. Here's an example:
+```c
+char str[] = "Hello"; // this store in stack so it can be modify
+```
+> In this case, `str` is an array of characters. The string "Hello" is copied into the array at initialization. You can modify this string because it's stored in the stack.
+
++ ! **Strings as String Literals (Compile Time Constants)**: When you declare a string as a string literal, it gets stored in a read-only part of memory (often called the data segment). This memory is not writable, so you cannot modify the string. Here's an example:
+```c
+char *str = "Hello";
+```
+> In this case, `str` is a pointer to the first character of the string. The string "Hello" is a string literal stored in read-only memory, and `str` points to it. If you try to modify this string, you'll get a segmentation fault because you're trying to write to read-only memory.
