@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a129ca8f1bc3abe9",
+        "id": "e345ec2ab3e41a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "b52e3f9d29a74dee",
+            "id": "00e47534302485f3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b981ca68b2c6f50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointer in C.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer in C.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,11 +184,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b981ca68b2c6f50d",
+  "active": "00e47534302485f3",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/DataBase.md",
+    "DB_HW4-2.md",
+    "Summary DB_HW2.md",
+    "Relational Algebra Operations.md",
+    "Company DB.md",
+    "DB_HW4-1.md",
+    "DB_HW5.md",
+    "Pointer in C.md",
     "C Code Note.md",
     "German Vocabulary.md",
-    "Pointer in C.md",
     "Images/Pasted image 20240112120750.png",
     "common errors when using scanf.md",
     "common value errors.md",
@@ -225,16 +218,10 @@
     "C Data Type.md",
     "Personal/Language Learning/German.md",
     "Todo.md",
-    "DB_HW5.md",
     "DB_HW6.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "Relational Algebra Operations.md",
     "Relational DB Design.md",
     "Relational Data Base Model.md",
     "Relational Constraint Exercise.md",
-    "bitShift_bitWise.md",
-    "What I do today.md",
-    "DataBase Design and E-R Model.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
