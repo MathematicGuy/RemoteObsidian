@@ -113,7 +113,7 @@ void main(){
 ```
 
 Expections (Ngoại lệ) - cause a program to crash, limited or lead to unexpected results.
-	1 số ngoại lệ ko thể có thông báo. 
+	 1 số ngoại lệ ko thể có thông báo. 
 ```c
 try() {}
 catch(){}

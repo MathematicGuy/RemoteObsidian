@@ -26,8 +26,13 @@
             "id": "85065ee110109eba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pointer in C.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pointer in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pointer in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pointer in C.md"
+              }
             }
           },
           {
@@ -191,12 +200,12 @@
   },
   "active": "85065ee110109eba",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "Todo.md",
     "Images/Pasted image 20240113074136.png",
     "German Vocabulary.md",
     "Pointer in C.md",
     "Images/Pasted image 20240112200833.png",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "C Code Note.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW4-2.md",

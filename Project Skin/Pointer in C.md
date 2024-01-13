@@ -125,3 +125,19 @@ so `*(*p + 0)` will be 2, `*(*p + 1)` will be 3 and `*(*(p+1) + 0)` will be 4
 	 So, in the end, `arr` is a pointer to a pointer to an integer (`int **`). The first level of indirection (the first `*`) is used for the rows of the array, and the second level of indirection (the second `*`) is used for the columns. You can access the elements of the 2D array with `arr[i][j]`, where `i` is the row index and `j` is the column index.
 	
 	 However, there's a problem with your code. You're declaring `arr` as a variable-length array (VLA) pointer with `int (*arr)[cols];`, but then you're trying to use it as a dynamically allocated 2D array. These are two different ways to create a 2D array, and they're not compatible with each other. You should remove the line `int (*arr)[cols];` and the following lines related to `B`, as they're not needed for a dynamically allocated 2D array.
+
+
+
+
+
+
+
+
+
+
+
+
+### Pointer Errors
+Dangling pointer (con trỏ bị treo)
+> happend when an undeclare pointer pointed to a value 
+Ex: declare * ptr then delete * ptr, and then pointed * ptr to a value -> Dangling pointer
