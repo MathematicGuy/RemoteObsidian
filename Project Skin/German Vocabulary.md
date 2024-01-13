@@ -399,6 +399,24 @@ spreche speak
 + Ich Spreche
 + Spreche Die
 	 Sprechen Die Deutsch do you speak German
-	 Ich Spreche kein Englisch I don't speak English
+	 Ich Spreche kein Englisch I don't speak Englisch/Chinese/Espanõl
 	 Sprechen Sie Englisch do you speak English
-	
+
+(der) Schüler student
+	bist du schüler are you a student
+(die) Polizistin police officer
+	 sind Sie Polizist
+
+lebst do you live/live/are you live
+	 Wo Lebst Du? where do you live?
+	 ich lebst du in Vietnam
+	 Wo lebst du Minh
++ leben (goes with he (er) and she (sie))
+	 wo leben sie where do you live
+
+(der) Künstler Artist
+Russland Russia
+Anwältin lawyer ( well tin)
+	 Du bist Anwältin are you an lawyer
++ Anwalt (sie/er)
+Schweden Sweden

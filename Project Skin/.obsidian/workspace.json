@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer in C.md"
+                "file": "German Vocabulary.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "977614128e8bb52c",
   "lastOpenFiles": [
+    "Pointer in C.md",
     "Images/Pasted image 20240112200833.png",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
     "C Code Note.md",
@@ -211,7 +212,6 @@
     "Company DB.md",
     "DB_HW4-1.md",
     "DB_HW5.md",
-    "Pointer in C.md",
     "German Vocabulary.md",
     "Images/Pasted image 20240112120750.png",
     "common errors when using scanf.md",
@@ -229,7 +229,6 @@
     "Images/Pasted image 20240112092927.png",
     "Images/Pasted image 20240112085807.png",
     "Images/Pasted image 20240112085139.png",
-    "Images/Pasted image 20240112084811.png",
     "C File Handling.md",
     "C Data Type.md",
     "Personal/Language Learning/German.md",
