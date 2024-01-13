@@ -99,7 +99,7 @@ print(C);
 2D Array
 ![[Pasted image 20240112200833.png]]
 + ! remember array alway start from 0.  
-+ ! Caution:  `int *p[3] = B;` **is not**     `int *(p)[3] = B;` 
++ ! Caution:  `int *p[3] = B;` **is not**     `int (*p)[3] = B;` 
 	+ Because `p[3] = *(p + 3) thus *p[3] would be *(p + 3)[3] -> third element of the third array pointer pointed to` This would cause an error if that element isn't exist.  
 	+  `int *(p)[3] = B;` mean select the 3rd element of the 1st array p pointed to. Simple as that
 
@@ -112,3 +112,16 @@ print(C);
 Having `B[0]` acted as the entire 1D array, we can access it variable like normal like this:
 `B[0][n] as n are the element position in the array: 1,2,3 `
 so `*(*p + 0)` will be 2, `*(*p + 1)` will be 3 and `*(*(p+1) + 0)` will be 4 
+
+
+
++ ! Row ist represent as a integer pointer but column are represent as an integer
+	 In the context of a dynamically allocated 2D array in C, the rows are represented as pointers to integers (`int *`), and the columns are represented as integers (`int`).
+	
+	 When you allocate memory for the 2D array, you first allocate memory for the rows with `malloc(rows * sizeof(int *))`. This creates an array of `rows` number of pointers to integers. Each of these pointers will then point to an array of integers, which will be the columns of the 2D array.
+	
+	 Then, for each row, you allocate memory for the columns with `malloc(cols * sizeof(int))`. This creates an array of `cols` number of integers.
+	
+	 So, in the end, `arr` is a pointer to a pointer to an integer (`int **`). The first level of indirection (the first `*`) is used for the rows of the array, and the second level of indirection (the second `*`) is used for the columns. You can access the elements of the 2D array with `arr[i][j]`, where `i` is the row index and `j` is the column index.
+	
+	 However, there's a problem with your code. You're declaring `arr` as a variable-length array (VLA) pointer with `int (*arr)[cols];`, but then you're trying to use it as a dynamically allocated 2D array. These are two different ways to create a 2D array, and they're not compatible with each other. You should remove the line `int (*arr)[cols];` and the following lines related to `B`, as they're not needed for a dynamically allocated 2D array.
