@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d3a601783565508",
+        "id": "99731653ca81e517",
         "type": "tabs",
         "children": [
           {
-            "id": "930045e252b4d269",
+            "id": "1d46a053a029f188",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "85065ee110109eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointer in C.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer in C.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer in C.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,13 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85065ee110109eba",
+  "active": "1d46a053a029f188",
   "lastOpenFiles": [
+    "Pointer in C.md",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
     "Todo.md",
     "Images/Pasted image 20240113074136.png",
     "German Vocabulary.md",
-    "Pointer in C.md",
     "Images/Pasted image 20240112200833.png",
     "C Code Note.md",
     "_Focus/SQL & DataBase/DataBase.md",
