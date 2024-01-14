@@ -21,6 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9db2e0cd61c08d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Code Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -186,14 +199,14 @@
   },
   "active": "7501b80b55d38b15",
   "lastOpenFiles": [
-    "Images/Pasted image 20240114085354.png",
+    "C Code Note.md",
     "Todo.md",
+    "Images/Pasted image 20240114085354.png",
     "Pointer in C.md",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
     "Images/Pasted image 20240113074136.png",
     "German Vocabulary.md",
     "Images/Pasted image 20240112200833.png",
-    "C Code Note.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW4-2.md",
     "Summary DB_HW2.md",
@@ -215,7 +228,6 @@
     "]].md",
     "Images/Pasted image 20240112100435.png",
     "Images/Pasted image 20240112092927.png",
-    "Images/Pasted image 20240112085807.png",
     "C File Handling.md",
     "C Data Type.md",
     "Personal/Language Learning/German.md",

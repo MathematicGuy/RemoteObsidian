@@ -6,11 +6,10 @@
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
-#Todo/Code/ProjectWebGroup52
-- [ ] Implement JS feature
-	- [ ] Add to product cart (Medium)
-	- [ ] Delete Item in Cart (Medium)
-	- [ ] Calc Total Price (Easy)
+#Todo/GoalsThisWeek
+- [ ] Replace Game with Guitar/Music
+- [ ] Planning Strategies for my Exams
+- [ ] Make 1 Unpopular Decision   
 
 #Todo/Code/GroupProjectPlanning
 - [ ] Activity Diagram Hand Design

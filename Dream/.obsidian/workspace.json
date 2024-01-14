@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65fa8bfc3c006048",
+        "id": "e970e7349ec72b78",
         "type": "tabs",
         "children": [
           {
-            "id": "517e9ca6c6ec6002",
+            "id": "e565f43904c98649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Happiness/Quote.md",
+                "file": "How To/How to Learn Fast.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Happiness/Quote.md",
+                "file": "How To/How to Learn Fast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Happiness/Quote.md",
+                "file": "How To/How to Learn Fast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Happiness/Quote.md"
+                "file": "How To/How to Learn Fast.md"
               }
             }
           },
@@ -177,9 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "517e9ca6c6ec6002",
+  "active": "e565f43904c98649",
   "lastOpenFiles": [
     "Happiness/Quote.md",
+    "How To/How to Learn Fast.md",
     "My Life/1_Shoot for the Star.md",
     "How To/How to Study when you Tired after school.md",
     "My Life/Styles.md",
@@ -205,7 +206,6 @@
     "Happiness/Watch This Everyday.md",
     "Productivity & Improvement/Train yourself Like a Ayanokoji - Classroom of the elite  - Whiteroom Training 2.0.md",
     "Productivity & Improvement/the IVY LEAGUE SECRET to STUDYING EFFECTIVELY.md",
-    "Productivity & Improvement/Techno Project.md",
     "Social",
     "How To",
     "Happiness",
