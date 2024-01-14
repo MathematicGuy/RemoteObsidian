@@ -49,9 +49,12 @@ value with the same name (a) with difference memory address
 
 ![[Pasted image 20240112085807.png]]
 when a argument get passed to the function. Increment(a) mean the value a will be copied to the variable x or in other word: int x = a
-+ pointer as function argument: if the **argument is * p instead of x**
++ Pointer as function argument: if the **argument is * p instead of x**
 	 with the same principle but with **&a as input** we get `int *p = &a`
+	 ![[Pasted image 20240114085354.png]]
 Using this, result at a address will be 11. (no need to return value in function)
++ ! Take notice that a is not a pointer. So what the function doing is p pointer pointed to a address. Like scanf("%d", &a), p is modifying the value at &a.
++ ! Applied the same principle, if we want to modify `*p` pointer when calling `Increment(&p)` the argument would be `void Increment(int **p)`
 
 Pointer to Array
 ![[Pasted image 20240112092927.png]]

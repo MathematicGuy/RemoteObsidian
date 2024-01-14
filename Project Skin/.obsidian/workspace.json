@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2566a9509b7b834d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pointer in C.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Pointer in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Pointer in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Pointer in C.md"
               }
             }
           },
@@ -184,11 +198,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d46a053a029f188",
+  "active": "2566a9509b7b834d",
   "lastOpenFiles": [
+    "Images/Pasted image 20240114085354.png",
+    "Todo.md",
     "Pointer in C.md",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
-    "Todo.md",
     "Images/Pasted image 20240113074136.png",
     "German Vocabulary.md",
     "Images/Pasted image 20240112200833.png",
