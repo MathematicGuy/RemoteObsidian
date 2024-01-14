@@ -11,8 +11,8 @@
 - [ ] Planning Strategies for my Exams
 - [ ] Make 1 Unpopular Decision   
 
+
 #Todo/Code/GroupProjectPlanning
-- [ ] Activity Diagram Hand Design
 
 #Todo/Prioritise
 - [ ] Remake 2 pages của Food Website (copy product page)
@@ -62,7 +62,8 @@
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] [[Game]]
-
+- [ ] Guitar App
+	- [Yousician]([Yousician - Holiday Sale](https://account.yousician.com/sale))
 [[Advice for AI]]
 
 #Todo/AI
