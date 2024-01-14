@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Data Type.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Data Type.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Data Type.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,8 +197,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7798e5a5894e4fa0",
+  "active": "2ad5305375ba241c",
   "lastOpenFiles": [
+    "C Data Type.md",
     "C Code Note.md",
     "Todo.md",
     "Images/Pasted image 20240114085354.png",
@@ -230,7 +230,6 @@
     "Images/Pasted image 20240112100435.png",
     "Images/Pasted image 20240112092927.png",
     "C File Handling.md",
-    "C Data Type.md",
     "Personal/Language Learning/German.md",
     "DB_HW6.md",
     "Relational DB Design.md",
