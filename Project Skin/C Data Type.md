@@ -31,7 +31,7 @@ signed char k = 'C'; // signed character
 
 4. Void type
 ```c
-void function(void); // function with no return value and no parameters
+void function(void); // function with x`no return value and no parameters
 ```
 
 5. [[Pointer types]] 

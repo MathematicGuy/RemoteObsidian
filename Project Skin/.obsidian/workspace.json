@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a1507d296b7155",
+        "id": "97159caa8cc59ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "7501b80b55d38b15",
+            "id": "2ad5305375ba241c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,19 +23,20 @@
             }
           },
           {
-            "id": "9db2e0cd61c08d33",
+            "id": "7798e5a5894e4fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Code Note.md",
+                "file": "C Data Type.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "C Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "C Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "C Data Type.md"
               }
             }
           },
@@ -197,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7501b80b55d38b15",
+  "active": "7798e5a5894e4fa0",
   "lastOpenFiles": [
     "C Code Note.md",
     "Todo.md",
