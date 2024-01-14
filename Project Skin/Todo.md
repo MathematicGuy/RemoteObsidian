@@ -12,6 +12,7 @@
 - [ ] Make 1 Unpopular Decision   
 - [ ] Tắm trươ'c khi lên trọ + Tắm cho Rúc
 - [ ] Mua giấy nhớ để học Deutsch
+- [ ] Sáng dậy nấu cơm vs thịt kho
 
 #Todo/Code/GroupProjectPlanning
 
