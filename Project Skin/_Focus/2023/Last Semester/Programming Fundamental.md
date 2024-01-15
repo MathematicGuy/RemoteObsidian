@@ -4,9 +4,13 @@
 
 ## [[bitShift_bitWise]]
 
+### [[Dynamic Memory Allocation]]
+
+### [[Struct in C]]
+
 ### [[C Code Note]]
 
-### [[C Fundamental]]
+### [[C Fundamental Deep Dive]]
 
 ### [[C Group Project]]
 

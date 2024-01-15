@@ -278,6 +278,7 @@ manchmal sometime
 + e/sie - add t to behind (he/she/my)
 	schwimmt 
 	malt
+	 komme (Kommen Sie aus Viet Nam)
 
 spiele play
 	spielst plays (he/she plays)
@@ -381,6 +382,8 @@ Herr Mr.
 Sie Ms.
 
 Sind Sie are you 
+	 sind si (goes with gender pronounce before it like Frau, Herr)
++ Bist du - are you in 1 person
 Frau QuynhAnh Mrs Quynh Anh
 Herr Schmitt Mr Schmitt
 + Frau QuynhAnh und Herr Schmitt

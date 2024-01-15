@@ -130,17 +130,37 @@ so `*(*p + 0)` will be 2, `*(*p + 1)` will be 3 and `*(*(p+1) + 0)` will be 4
 	 However, there's a problem with your code. You're declaring `arr` as a variable-length array (VLA) pointer with `int (*arr)[cols];`, but then you're trying to use it as a dynamically allocated 2D array. These are two different ways to create a 2D array, and they're not compatible with each other. You should remove the line `int (*arr)[cols];` and the following lines related to `B`, as they're not needed for a dynamically allocated 2D array.
 
 
+#### 3D Array
+we have the construction of 2D array
+![[Pasted image 20240115085714.png]]
+So it pretty easy to imagine out 3D array 
+![[Pasted image 20240115085906.png]]
+For easy understanding: 2D array are still normal: `C[0][0]`
++ But the 1st element of the array for 3D array will be: `C[0][0][0]`
++ Applied this principle fpr every elements in the arary, we'll have the 2nd element of the 1st array ist: `C[0][0][1]` .
++ ! For the 3D array, the first block `C[0]` (represent the 3D and each array), the 2nd block `c[0][0]` the first 2 element inside the 1st array, the 3 block represent the element inside that 2D array.
++ ! Yes the 3D array wrap the 2D array (2D array sit inside the 3D array)
++ ! `int C[3][2][2]` mean declare an 3D array, with 3 array containing another 2 sub-array with each sub-array container 2 elements. (Basically like a container in HTML)![[Pasted image 20240115091649.png]]
+=> The first block `[]` represent 3D array for n block. the other 2 block `[][]` still present as 2D array like normal.
 
+As for 2D arary we have `(*p)[n]`**(pointer to array of n integer)** if we want to represent with pointer , in 3D array we can write it like this: still the pointer replace the 1st block.
+![[Pasted image 20240115090618.png]]
+Then applied the same principle, for the additional block we just use 2D array + k (k as the total array)
+and add * from the outside to get it value.
+![[Pasted image 20240115090821.png]]
 
+![[Pasted image 20240115091115.png]]
+![[Pasted image 20240115091105.png]]
+for `*(c[0][1] + 1)` we have 4, for `*(c[1][0] + 1)` we have 6
 
-
-
-
-
-
-
+**3D array as a Function**
++ ! remember: what don't be written or declare will be consider as 0. Ex ; `A[2] = A[2][0][0]`
+![[Pasted image 20240115092244.png]]
++ ! Conclusion: n-D array is just n array wrap inside n array. 
 
 ### Pointer Errors
-Dangling pointer (con trỏ bị treo)
+Dangling pointer (con trỏ bị treo - xảy ra khi cố dùng con trỏ đã xóa  rồi hoặc ko tồn tại.
 > happend when an undeclare pointer pointed to a value 
 Ex: declare * ptr then delete * ptr, and then pointed * ptr to a value -> Dangling pointer
+
+
