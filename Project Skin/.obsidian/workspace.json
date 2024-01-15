@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "7798e5a5894e4fa0",
+            "id": "dcd7c7a2dde661f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Code Note.md",
+                "file": "Struct in C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "dcd7c7a2dde661f2",
+            "id": "9556af3a6e9d9a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Struct in C.md",
+                "file": "C Data Type.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Struct in C.md",
+                "file": "C Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Struct in C.md",
+                "file": "C Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Struct in C.md"
+                "file": "C Data Type.md"
               }
             }
           },
@@ -211,10 +211,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcd7c7a2dde661f2",
+  "active": "9556af3a6e9d9a7c",
   "lastOpenFiles": [
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "C Code Note.md",
+    "C String Manipulation.md",
+    "common errors when using scanf.md",
     "Struct in C.md",
+    "Todo.md",
+    "common value errors.md",
+    "Data Type.md",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
     "Number Systems.md",
     "Pointer in C.md",
     "Images/Pasted image 20240115092244.png",
@@ -229,10 +235,8 @@
     "Dynamic Memory Allocation.md",
     "C Fundamental Deep Dive.md",
     "Fundamentals of a Program.md",
-    "C Code Note.md",
     "C Data Type.md",
     "German Vocabulary.md",
-    "Todo.md",
     "Images/Pasted image 20240114085354.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW4-2.md",
@@ -241,14 +245,10 @@
     "Company DB.md",
     "DB_HW4-1.md",
     "DB_HW5.md",
-    "common errors when using scanf.md",
-    "common value errors.md",
     "Pointer types.md",
-    "C String Manipulation.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "Chapter 4 - File and String Manipulation.md",
     "]].md",
-    "C File Handling.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

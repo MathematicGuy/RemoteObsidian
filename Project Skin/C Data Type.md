@@ -14,6 +14,7 @@ long c = 1000L; // long integer
 long long d = 5000LL; // long long integer
 unsigned int e = 20; // unsigned integer
 ```
++ ! use unsigned int/float/short when you want to check the positive input value desire ranges.
 
 2. Floating-point types
 ```c
