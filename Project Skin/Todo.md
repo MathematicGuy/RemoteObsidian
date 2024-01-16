@@ -7,15 +7,15 @@
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
 #Todo/GoalsThisWeek
-- [x] Replace Game with Guitar/Music
-- [ ] Planning Strategies for my Exams
-- [x] Make 1 Unpopular Decision   
 - [ ] Mua giấy nhớ để học Deutsch
-
++ [ ] Make Another Unpopular decision
+- [ ] Redo most of my HW
+- [ ] [Study Along](https://www.youtube.com/watch?v=lQrEgZuS0po&t=3637s)
+- [ ] [Study Along 2](https://www.youtube.com/watch?v=XGtEuNJy1qE&feature=youtu.be)
+- [ ] Prepare for Software Engineer
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
-
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
