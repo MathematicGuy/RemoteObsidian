@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C File Handling.md",
+                "file": "C String Manipulation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C File Handling.md",
+                "file": "C String Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C File Handling.md",
+                "file": "C String Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C File Handling.md"
+                "file": "C String Manipulation.md"
               }
             }
           },
@@ -200,9 +200,10 @@
   },
   "active": "fad5e9426abfa580",
   "lastOpenFiles": [
+    "C Code Note.md",
+    "C File Handling.md",
     "Todo.md",
     "C Data Type.md",
-    "C Code Note.md",
     "C String Manipulation.md",
     "common errors when using scanf.md",
     "Struct in C.md",
@@ -235,7 +236,6 @@
     "Pointer types.md",
     "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
     "Chapter 4 - File and String Manipulation.md",
-    "]].md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
