@@ -41,15 +41,19 @@ git push --set-upstream origin main
 ```
 or this
 ```shell
-$ git push -u origin main
+git push -u origin main
 ```
 
 
 or  push your own branch to origin
 ```shell
-$ git push -u origin side-branch
+git push -u origin side-branch
 ```
 
+to view all available branch
+```shell
+git branch -a
+```
 
 ##### Create an alternative code file to work on without changing the main branch (eg. master branch)
 **check current branch** (on progress for editing new-branch)
