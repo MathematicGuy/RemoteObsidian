@@ -175,8 +175,11 @@ Franchreich Franch
 
 **We use wo to ask where someone is - 3 ways to say Where in German**
 + Woher  **we use woher to ask where someone is coming from (direction toward the speaker)**
-+ "Wo" is used to ask about a static location
+	 woher gehst du (where are you going)
++ "Wo" is used to ask about a static location (wo lebst du)
+	 wo bist du, Dinh (where are you, Dinh)
 + Wohin **to ask where someone is going (direction away from the speaker)** 
+	 Wohin fahren wir (where are we going) 
 
 kommst come from
 + Ich komme
@@ -272,6 +275,7 @@ manchmal sometime
 + you add est to behind
 	schwimmst
 	malst
+	 malst du ( do you paint)
 + I - add e to behind
 	schwimme
 	male
