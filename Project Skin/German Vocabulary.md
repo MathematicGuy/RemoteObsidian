@@ -417,9 +417,10 @@ lebst do you live/live/are you live
 + leben (goes with he (er) and she (sie))
 	 wo leben sie where do you live
 
-(der) Künstler Artist
 Russland Russia
 Anwältin lawyer ( well tin)
 	 Du bist Anwältin are you an lawyer
 + Anwalt (sie/er)
 Schweden Sweden
+
+Freut Mich Sehr nice to meet you

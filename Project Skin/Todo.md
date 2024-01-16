@@ -7,18 +7,13 @@
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
 #Todo/GoalsThisWeek
-- [ ] Replace Game with Guitar/Music
+- [x] Replace Game with Guitar/Music
 - [ ] Planning Strategies for my Exams
-- [ ] Make 1 Unpopular Decision   
+- [x] Make 1 Unpopular Decision   
 - [ ] Mua giấy nhớ để học Deutsch
 
-#Todo/Code/GroupProjectPlanning
 
 #Todo/Prioritise
-- [ ] Remake 2 pages của Food Website (copy product page)
-- [ ] Learn C Array and Pointer
-- [ ] Normalization for evening Database lecture
-- [ ] Data Base Concept and HW
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
 
 
@@ -37,12 +32,8 @@
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 - [ ] Personalise my Gmail ( Filter trash and label good Reading Resources )
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
-- [ ] Thông báo Luật Lệ mới cho CLB tr'c năm mới 
 - [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
-- [ ] Sau khi Học xong DB. Hỏi các bạn cách làm bài tập 
-+ [ ] Hỏi cô Anh Lê đề cương ôn tập vs thi vào phần nào. 
 - [ ] Phân cấp con người (dựa trên nhận thức)
-
 
 
 #Todo/ProgrammingSkills
@@ -53,7 +44,6 @@
 - [ ] Basic Knowledge of Linux
 - [ ] Basic Docker Knowledge (learn docker in 1 hour)
 - [ ] Basic API knowledge  (API for each language)
-
 
 #Todo/Entertainment
 - [ ] Undead Unluck chap36
@@ -72,7 +62,6 @@
 - [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
 - [ ] [Linear Algebra - Beginner Level - Imperial College of London](https://www.coursera.org/learn/linear-algebra-machine-learning) 
 - [ ] [Probability and Statistic for ML](https://www.facebook.com/groups/dsmlvietnam/permalink/335898699190258/)
-
 - [ ] [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [ ] [HUST AI and DS](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)
 	[ppts](https://drive.google.com/drive/folders/1wjiUmi5EjnzQ-umVUZJDhibCtSonI-5a)
