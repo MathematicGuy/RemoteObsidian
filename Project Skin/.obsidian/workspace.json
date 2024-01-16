@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2a31426885eef3",
+        "id": "dc0249055beadb92",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e62ad12f64b539",
+            "id": "78f31f9c6c07a3ec",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fad5e9426abfa580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C String Manipulation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "902fa632a9353aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Data Type.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Data Type.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Data Type.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Data Type.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -211,13 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "902fa632a9353aaf",
+  "active": "78f31f9c6c07a3ec",
   "lastOpenFiles": [
+    "C Data Type.md",
     "C Code Note.md",
     "C String Manipulation.md",
     "C File Handling.md",
     "Todo.md",
-    "C Data Type.md",
     "common errors when using scanf.md",
     "Struct in C.md",
     "common value errors.md",
