@@ -50,7 +50,7 @@ int *m = &l; // pointer to an integer (). *m mean pointer pointed to | &l mean t
 
 static memory - variable that goes on to the stack that is always in  scope for the function that is runnning it.
 5. Array types
-**Important Note:** The last character of the array ist /0 (null)
+**Important Note:** The last character of the array ist /0 (null) (Actual length -> 6)
 ```c
 int n[5] = {1, 2, 3, 4, 5}; // array of integers. 
 ```
