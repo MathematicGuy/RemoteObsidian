@@ -25,7 +25,7 @@ source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
 
 ---
 
-Priority single collin in SQL: ' ' not " "
+Priority single collin in SQL: '  ' not " "
 Column - Field
 Row - Record
 
