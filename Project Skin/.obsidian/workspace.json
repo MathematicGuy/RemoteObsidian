@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d604d6758ee31cb",
+        "id": "d3127740e02fdd88",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a014fe0446daf3",
+            "id": "82827fce4181d8f6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "cdaccba9fb732383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdaccba9fb732383",
+  "active": "82827fce4181d8f6",
   "lastOpenFiles": [
     "Images/Pasted image 20231030161134.png",
     "Todo.md",
