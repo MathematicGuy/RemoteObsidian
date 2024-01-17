@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cdaccba9fb732383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md"
               }
             }
           },
@@ -184,9 +198,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6a014fe0446daf3",
+  "active": "cdaccba9fb732383",
   "lastOpenFiles": [
+    "Images/Pasted image 20240117095155.png",
+    "Images/Pasted image 20240117095146.png",
+    "Images/Pasted image 20240117094614.png",
     "Todo.md",
+    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
+    "WebDev/WebDev_Learn/HTML.md",
     "German Vocabulary.md",
     "C Data Type.md",
     "C Code Note.md",
@@ -207,11 +226,9 @@
     "Images/Pasted image 20240115090821.png",
     "Images/Pasted image 20240115090618.png",
     "Images/Pasted image 20240115085906.png",
-    "Images/Pasted image 20240115085714.png",
     "Dynamic Memory Allocation.md",
     "C Fundamental Deep Dive.md",
     "Fundamentals of a Program.md",
-    "Images/Pasted image 20240114085354.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "DB_HW4-2.md",
     "Summary DB_HW2.md",
@@ -219,9 +236,6 @@
     "Company DB.md",
     "DB_HW4-1.md",
     "DB_HW5.md",
-    "Pointer types.md",
-    "Lecture 9 Software Requirements Specification and UML Review 1 + 2.md",
-    "Chapter 4 - File and String Manipulation.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

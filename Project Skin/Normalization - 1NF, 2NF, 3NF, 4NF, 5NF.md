@@ -40,7 +40,7 @@ Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels> Player
 + 3NF đảm bảo rằng một bảng không có sự dư thừa và bất thường bằng cách **loại bỏ các phụ thuộc bắc cầu.
 + Một mối quan hệ ở dạng 3NF nếu nó ở dạng chuẩn thứ hai (2NF) và không có thuộc tính không chính phụ thuộc bắc cầu vào khóa chính 1
 
-**Boyce-Codd Normal Form (BCNF - 3.5NF)**
+**[Boyce-Codd Normal Form (BCNF - 3.5NF)](https://youtu.be/NNjUhvvwOrk?si=34Vtp5BJWbqzBaFd)**
 > Each attribute in the table must depend on the key, the whole key and nothing but the key.
 + ? - **Objective:** Remove dependencies on non-prime attributes.
 + ? **Example:** Let's say you have a table with columns (Employee_ID, Project_ID, Task). If the combination of Employee_ID and Project_ID determines the Task and there are no other dependencies, it's in BCNF. However, if there's another non-prime attribute dependent on a subset of the primary key, further normalization may be needed.
@@ -56,6 +56,16 @@ Sol: Seperate each one. Use a Foreign Key to conenct Player_Skill_Levels> Player
 ![[Pasted image 20240110085643.png]]
 note that: the key mean "every candidate key"
 ![[Pasted image 20240110094449.png]]
+
+### BCNF Examples
+The Ex below is not in BCNF
+![[Pasted image 20240117094614.png]]
++ Professor depend on std_id and subj 
++ This is where we have a problem bc: **prime attr depend on a non-prime attr**
+**How to make the table satisfy BCNF?** We have to break the table
+![[Pasted image 20240117095146.png]]
+![[Pasted image 20240117095155.png]]
+
 
 
 ### [Review: 2NF vs 3NF vs BCNF](https://chat.openai.com/share/442b423f-e413-4ef1-bde5-fb77773c45cc)
