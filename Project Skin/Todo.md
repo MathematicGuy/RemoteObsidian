@@ -55,6 +55,8 @@
 - [ ] Guitar App
 	- [Yousician]([Yousician - Holiday Sale](https://account.yousician.com/sale))
 [[Advice for AI]]
+- [ ] Can a virus be store in an github responsitory.
+
 
 #Todo/AI
 - [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
