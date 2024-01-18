@@ -595,7 +595,7 @@ WHERE column_name operator ALL (
     where population = ALL (
     select population
     from world
-    where population <= 25000000)
+    having population <= 25000000)
 )
 ```
 
