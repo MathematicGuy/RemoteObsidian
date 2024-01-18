@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3127740e02fdd88",
+        "id": "4f9f9ae82596250d",
         "type": "tabs",
         "children": [
           {
-            "id": "82827fce4181d8f6",
+            "id": "ad3a5beb1d127863",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,61 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f9a3fc47068740d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Algebra Operations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27936a6287f27c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07eb49df02ef939b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56a515c7da20c1e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company DB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Company DB.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Company DB.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Company DB.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -237,8 +184,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56a515c7da20c1e3",
+  "active": "ad3a5beb1d127863",
   "lastOpenFiles": [
+    "Company DB.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "DB_HW4-1.md",
@@ -246,7 +194,6 @@
     "Relational DB Design.md",
     "Summary DB_HW2.md",
     "Todo.md",
-    "Company DB.md",
     "Command N.md",
     "DB_HW4-2.md",
     "_Focus/SQL & DataBase/DataBase.md",

@@ -16,6 +16,7 @@
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
+- [ ] Invite Nam to nhom Du An Thay Huy
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
@@ -56,7 +57,6 @@
 	- [Yousician]([Yousician - Holiday Sale](https://account.yousician.com/sale))
 [[Advice for AI]]
 - [ ] Can a virus be store in an github responsitory.
-
 
 #Todo/AI
 - [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
