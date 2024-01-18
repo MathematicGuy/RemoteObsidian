@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9f9ae82596250d",
+        "id": "f8439c5c1f32c06a",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3a5beb1d127863",
+            "id": "20612bee451c74de",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4b3055d7293f8524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66ad20bb8c67bbab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB_HW4-2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_HW4-2.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_HW4-2.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_HW4-2.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -211,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66ad20bb8c67bbab",
+  "active": "20612bee451c74de",
   "lastOpenFiles": [
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
