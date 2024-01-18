@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9acd23884051589f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "558288a57e590de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanture Time song.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Advanture Time song.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Advanture Time song.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Advanture Time song.md"
               }
             }
           },
@@ -184,13 +211,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20612bee451c74de",
+  "active": "558288a57e590de9",
   "lastOpenFiles": [
+    "Images/Pasted image 20240118155952.png",
+    "Images/Pasted image 20240118155930.png",
+    "Guitar.md",
+    "Advanture Time song.md",
+    "Sad MEME song.md",
+    "Images/Pasted image 20240118155714.png",
+    "Images/Pasted image 20240118155705.png",
+    "Images/Pasted image 20240118155653.png",
+    "Images/Pasted image 20240118155642.png",
+    "Images/Pasted image 20240118155632.png",
+    "Images/Pasted image 20240118155623.png",
+    "Images/Pasted image 20240118155616.png",
+    "Images/Pasted image 20240118155603.png",
+    "jONE CENA theme song.md",
+    "Images/Pasted image 20240118154412.png",
+    "German Vocabulary.md",
+    "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "DB_HW4-2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Todo.md",
     "Company DB.md",
     "DB_HW4-1.md",
     "Relational Algebra Operations.md",
@@ -198,30 +241,14 @@
     "Summary DB_HW2.md",
     "Command N.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Images/Pasted image 20231030161134.png",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
-    "Images/Pasted image 20240117095155.png",
-    "Images/Pasted image 20240117095146.png",
-    "Images/Pasted image 20240117094614.png",
     "WebDev/WebDev_Learn/HTML.md",
-    "German Vocabulary.md",
     "C Data Type.md",
     "C Code Note.md",
     "C String Manipulation.md",
     "C File Handling.md",
     "common errors when using scanf.md",
     "Struct in C.md",
-    "common value errors.md",
-    "Data Type.md",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
-    "Number Systems.md",
-    "Pointer in C.md",
-    "Images/Pasted image 20240115092244.png",
-    "Images/Pasted image 20240115091649.png",
-    "Images/Pasted image 20240115091115.png",
-    "Images/Pasted image 20240115091105.png",
-    "Images/Pasted image 20240115091047.png",
-    "Images/Pasted image 20240115090821.png",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

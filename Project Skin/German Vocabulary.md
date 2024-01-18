@@ -390,6 +390,7 @@ Sind Sie are you
 + Bist du - are you in 1 person
 Frau QuynhAnh Mrs Quynh Anh
 Herr Schmitt Mr Schmitt
++ Woher kommen sie Herr Thanh
 + Frau QuynhAnh und Herr Schmitt
 
 Freut mich nice to meet you
@@ -399,15 +400,15 @@ Ich heiBe my name
 Wie heißen Sie what is your name
 
 Woher kommen sie where are you come from
-heißen Sie mz name is
-	heißben sie? your name is ?
+heißen Sie my name is (heißen goes with Sie, Sie as you)
+	heißen sie? your name is ?
 
 spreche speak 
 + Ich Spreche
 + Spreche Die
 	 Sprechen Die Deutsch do you speak German
 	 Ich Spreche kein Englisch I don't speak Englisch/Chinese/Espanõl
-	 Sprechen Sie Englisch do you speak English
+	 Sprechen Sie Englisch do you speak English (n goes with sie)
 
 (der) Schüler student
 	bist du schüler are you a student
@@ -422,9 +423,13 @@ lebst do you live/live/are you live
 	 wo leben sie where do you live
 
 Russland Russia
-Anwältin lawyer ( well tin)
+Anwältin lawyer ( well tin) - female
 	 Du bist Anwältin are you an lawyer
 + Anwalt (sie/er)
 Schweden Sweden
 
 Freut Mich Sehr nice to meet you
+
++ Die Künstler malt eine Kirche in Russland. Die Kirche ist groß, schön und alt. Sie malt malt ein hotel in Schweden 
+	The  artist (female) painted a church in Russia. The Church ist big, beautiful and old. She also paint a hotel in Schweden
+
