@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4b3055d7293f8524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66ad20bb8c67bbab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB_HW4-2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "DB_HW4-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "DB_HW4-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "DB_HW4-2.md"
               }
             }
           },
@@ -184,18 +211,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad3a5beb1d127863",
+  "active": "66ad20bb8c67bbab",
   "lastOpenFiles": [
-    "Company DB.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
+    "DB_HW4-2.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Todo.md",
+    "Company DB.md",
     "DB_HW4-1.md",
     "Relational Algebra Operations.md",
     "Relational DB Design.md",
     "Summary DB_HW2.md",
-    "Todo.md",
     "Command N.md",
-    "DB_HW4-2.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20231030161134.png",
     "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
@@ -221,7 +249,6 @@
     "Images/Pasted image 20240115091105.png",
     "Images/Pasted image 20240115091047.png",
     "Images/Pasted image 20240115090821.png",
-    "Dynamic Memory Allocation.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
