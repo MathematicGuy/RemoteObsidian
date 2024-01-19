@@ -8,11 +8,8 @@
 
 #Todo/GoalsThisWeek
 - [ ] Mua giấy nhớ để học Deutsch
-+ [ ] Make Another Unpopular decision
-- [ ] Redo most of my HW
-- [ ] [Study Along](https://www.youtube.com/watch?v=lQrEgZuS0po&t=3637s)
-- [ ] [Study Along 2](https://www.youtube.com/watch?v=XGtEuNJy1qE&feature=youtu.be)
 - [ ] Prepare for Software Engineer
+- [ ] Tối nay làm lại đề 7 tr'c khi đi ngủ.
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
