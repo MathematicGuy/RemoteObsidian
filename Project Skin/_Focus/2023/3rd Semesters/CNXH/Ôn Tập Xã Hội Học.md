@@ -1,30 +1,27 @@
-học thues
+Học thuyết duy vật lịch sử
 
+#### C.Mac and Ph.Angghen  
+Sáng kiến vĩ đại của 
++ Chủ nghĩa duy vật lịch sử  (trog triết học mac-)
++ 
+Trong CNXH KH:
++ Học thuyết ...của giai cấp côg  nhân
+
+
+#### Lenin
+Bộ phận cấu thành Chủ nghĩa mac lenin
+	+ CNXH Khoa hoc
+		+ lịch sử thế 
+		+ Tiền đề: 
+			+ thuyết tiến hóa of Darwin
+			+  tiền đề KHTN: học thuyết tế bào
+	+ Triết học maclenin
+	+ Chủ nghĩa mac 
++ Chủ nghĩa xã hội khoa học thành hiện thực 
 
 
 bác hồ: 2 / 1948
-stalin:  1924 - 1958
-
-không phải -> thuyết tương đối đặc biệt
-khôgn tưởng đến khao học -> các 
-
-C.Mac và AngGhen 
-->triết học lenin ->  duy vạt lịch sử 
-+ lenin -> Thặng dư  
-phát kiến vĩ đại -> lịch 
-
-Khoa học -> công nhân
-KHTN -> darwin
-
-Tiền đề cho CNXH KH là KT cổ điển Anh
+stalin:  1924 - 
+Tình ảnh nước anh -> giúp chuyển biến th/giới quan duy tâm sang duy vật.
 
 
-ăng ghen
-	CNXH KH ko tưởng mac 
-	phát kiến -> thặng dư
-	trong maclenin -> lịch sử
-	mac lenin -> ko có biện chứng
-	CNXHKH- > newton
-
-
-ko phải 1 in 3 phát kiến lenin -> phản
