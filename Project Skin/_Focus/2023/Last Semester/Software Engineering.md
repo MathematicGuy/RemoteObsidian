@@ -14,6 +14,7 @@ Home Work - [UML Tools](https://app.diagrams.net/#HMathmatheticGuy%2FUML-Diagram
 # [[Lecture 2 - Project Managment Basics]]
 
 # [[System Design]]
+
 Chú thích thuật ngũ
 usecase -> báo cáo thực tế
 

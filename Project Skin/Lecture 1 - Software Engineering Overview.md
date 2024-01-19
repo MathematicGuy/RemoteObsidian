@@ -1,7 +1,7 @@
 SDLC ( software developement lifecycle)
 (vòng tuần hoàn thiết kế phần mềm)
 
-Bản chất phần mềm là thay đổi. (do nhu cầu con )
+Bản chất phần mềm là thay đổi. (do nhu cầu con ng)
 
 Cấu trúc phầm mềm
 + Có chuẩn hóa (1 quy tắc chung, định nghĩa chung) -> quan trọng
@@ -12,6 +12,9 @@ Kĩ năng xây dựng hệ thống, giao tiếp chiếm phần lớp trong các 
 Các cách tiếp cận dự án:
 + Cẩn thận
 	Phân tích thiết kế rồi mới tiến hành code, kiểm thử. Viết tài liệu cẩn thận
+
+
+
 
 [7 Mô hình](https://onix-systems.com/blog/7-basic-software-development-models-which-one-to-choose)
 [[10 Software Design Pattern]] 
