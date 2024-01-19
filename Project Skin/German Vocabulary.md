@@ -378,6 +378,11 @@ Geburtstag birthday
 
 ## Chapter 2:
 
+**GUIDE BOOK**
+du - use for friends and family members. (use for closly people) Indicate friendliness
+Sie - use to show respect (like cô, chú in Vietnamese) for oder people, strangers or an authority figure - Indicate Respect
+
+
 ### Unit 1
 
 Kanzler Chancellor
@@ -433,3 +438,23 @@ Freut Mich Sehr nice to meet you
 + Die Künstler malt eine Kirche in Russland. Die Kirche ist groß, schön und alt. Sie malt malt ein hotel in Schweden 
 	The  artist (female) painted a church in Russia. The Church ist big, beautiful and old. She also paint a hotel in Schweden
 
+Marktplatz - market place
+wirklich - really 
+	 wirklich gut - really well
+**Counting**
+1 - **eins** 
+2 - **zwei**
+3 - **drei**
+4 - **vier**
+5 - **fünf**
+6 - **sechs**
+7 - **sieben**
+8 - **acht**
+9 - **neun**
+10 - **zehn**
+
+kostet - cost
+viel - much
+	 Wie viel kostet der tee - how much does the tee cost ?
+Döner - Doner kebab
+Vielen Dank thank you very much 
