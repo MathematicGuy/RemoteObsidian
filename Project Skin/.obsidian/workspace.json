@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8439c5c1f32c06a",
+        "id": "366f17a5cd754419",
         "type": "tabs",
         "children": [
           {
-            "id": "20612bee451c74de",
+            "id": "ad69b4d906f61e4a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "558aaebd40b3e2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History & Politic/Wars.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History & Politic/Wars.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History & Politic/Wars.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History & Politic/Wars.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "558aaebd40b3e2db",
+  "active": "ad69b4d906f61e4a",
   "lastOpenFiles": [
     "History & Politic/Wars.md",
     "Todo.md",
