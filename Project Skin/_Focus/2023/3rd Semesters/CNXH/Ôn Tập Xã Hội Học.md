@@ -1,3 +1,6 @@
+học thues
+
+
 
 bác hồ: 2 / 1948
 stalin:  1924 - 1958

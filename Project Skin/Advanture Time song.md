@@ -7,6 +7,7 @@ And do so as we please
 
 To a cliff under a tree
 Where we can gaze upon the water
+**CHANGE**
 ![[Pasted image 20240119190348.png]]
 
 As an everlasting dream
@@ -38,4 +39,7 @@ And the butterflies and bees
 ![[Pasted image 20240119191014.png]]
 
 
-repeat
+![[Pasted image 20240119193539.png]]
+![[Pasted image 20240119193700.png]]
+
+

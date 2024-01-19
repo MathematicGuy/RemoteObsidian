@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "366f17a5cd754419",
+        "id": "04ba1c30940dc86e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad69b4d906f61e4a",
+            "id": "720dba24f36a8517",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "a73a07a46ce85cef",
+            "id": "ef847b7adfaef9f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanture Time song.md",
+                "file": "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanture Time song.md",
+                "file": "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanture Time song.md",
+                "file": "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanture Time song.md"
+                "file": "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md"
               }
             }
           },
@@ -197,8 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a73a07a46ce85cef",
+  "active": "ef847b7adfaef9f2",
   "lastOpenFiles": [
+    "Todo.md",
+    "Images/Pasted image 20240119193700.png",
+    "Images/Pasted image 20240119193539.png",
     "Images/Pasted image 20240119191014.png",
     "Images/Pasted image 20240119190919.png",
     "Images/Pasted image 20240119190833.png",
@@ -207,7 +210,6 @@
     "Images/Pasted image 20240119190442.png",
     "Images/Pasted image 20240119190348.png",
     "Guitar.md",
-    "Todo.md",
     "CSS Artistic.md",
     "Cool Music Website.md",
     "WebDev/WebDev_Learn/CSS.md",
@@ -220,10 +222,7 @@
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Advanture Time song.md",
     "Images/Pasted image 20240118155952.png",
-    "Images/Pasted image 20240118155930.png",
     "Sad MEME song.md",
-    "Images/Pasted image 20240118155714.png",
-    "Images/Pasted image 20240118155705.png",
     "jONE CENA theme song.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
