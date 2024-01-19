@@ -454,7 +454,17 @@ wirklich - really
 10 - **zehn**
 
 kostet - cost
+marktplatz - market place
 viel - much
 	 Wie viel kostet der tee - how much does the tee cost ?
 Döner - Doner kebab
+Kartoffeln - potato
+Sandwich sandwich
+	 Kostel ein Sandwich wirklich sieben Euro? Das ist teuer. Zwei Orangen und ein Wasser, bitte.
+	 - Does an Sandwich really cost 7 Euros? That is expensive. Ten orange and a water please. 
+Erdbeeren strawberries
+
 Vielen Dank thank you very much 
+gern geschehen you're welcome
+
+Wie alt bist du? how old are you?
