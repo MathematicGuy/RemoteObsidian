@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a73a07a46ce85cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanture Time song.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Advanture Time song.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Advanture Time song.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Advanture Time song.md"
               }
             }
           },
@@ -183,12 +197,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad69b4d906f61e4a",
+  "active": "a73a07a46ce85cef",
   "lastOpenFiles": [
+    "Images/Pasted image 20240119191014.png",
+    "Images/Pasted image 20240119190919.png",
+    "Images/Pasted image 20240119190833.png",
+    "Images/Pasted image 20240119190824.png",
+    "Images/Pasted image 20240119190619.png",
+    "Images/Pasted image 20240119190442.png",
+    "Images/Pasted image 20240119190348.png",
+    "Guitar.md",
+    "Todo.md",
     "CSS Artistic.md",
     "Cool Music Website.md",
     "WebDev/WebDev_Learn/CSS.md",
-    "Todo.md",
     "History & Politic/Wars.md",
     "Lecture 1 - Software Engineering Overview.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
@@ -199,16 +221,9 @@
     "Advanture Time song.md",
     "Images/Pasted image 20240118155952.png",
     "Images/Pasted image 20240118155930.png",
-    "Guitar.md",
     "Sad MEME song.md",
     "Images/Pasted image 20240118155714.png",
     "Images/Pasted image 20240118155705.png",
-    "Images/Pasted image 20240118155653.png",
-    "Images/Pasted image 20240118155642.png",
-    "Images/Pasted image 20240118155632.png",
-    "Images/Pasted image 20240118155623.png",
-    "Images/Pasted image 20240118155616.png",
-    "Images/Pasted image 20240118155603.png",
     "jONE CENA theme song.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
@@ -220,7 +235,6 @@
     "Summary DB_HW2.md",
     "Command N.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
