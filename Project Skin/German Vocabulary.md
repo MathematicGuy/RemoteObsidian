@@ -468,3 +468,23 @@ Vielen Dank thank you very much
 gern geschehen you're welcome
 
 Wie alt bist du? how old are you?
+
+Wie ist das Wetter how is the weather
+Sonnig sunny
+Heute today
+Bewölkt cloudy 
+	 Ist es heute bewölkt is it cloudy today
+	 Anna, ist es Heute Bewölkt
+	 Ist es heute sonnig oder bewölkt
+Herbst fall (der)
+	 Ist is kalt in Herbst
+Regenschirm umbrella (der)
+	 Wo ist der Regenschirm
+Regnet ranning
+	 Es ranning - it is ranning
+Windig Windy 
+	 Der heute ist es nitch heiße, aber es ist Regnerisch und Windig 
+Schelecht bad
+	 Das Wetter heute
+	  ist schlechtd
+	
