@@ -33,6 +33,7 @@
 - [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
 - [ ] Phân cấp con người (dựa trên nhận thức)
 - [ ] [Fun Personality Test](https://www.idrlabs.com/tests.php)
+	- [Personality Style Test](https://www.idrlabs.com/personality-style/test.php)
 	- [Existential Compass Test](https://www.idrlabs.com/existential-compass/test.php)
 	- [Pace of Life Test](https://www.idrlabs.com/pace-of-life/test.php)
 	- [Ignorangt Adult Test](https://www.idrlabs.com/ignorant-adult/test.php)
