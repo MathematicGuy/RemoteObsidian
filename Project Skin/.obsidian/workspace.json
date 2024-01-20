@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04ba1c30940dc86e",
+        "id": "afd09de2eebc08b3",
         "type": "tabs",
         "children": [
           {
-            "id": "720dba24f36a8517",
+            "id": "b758b5d8479d18d2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -183,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "720dba24f36a8517",
+  "active": "b758b5d8479d18d2",
   "lastOpenFiles": [
     "German Vocabulary.md",
     "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
