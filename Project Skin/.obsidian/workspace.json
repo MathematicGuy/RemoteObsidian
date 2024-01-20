@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ef847b7adfaef9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,8 +183,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef847b7adfaef9f2",
+  "active": "720dba24f36a8517",
   "lastOpenFiles": [
+    "German Vocabulary.md",
     "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
     "Todo.md",
     "Images/Pasted image 20240119193700.png",
@@ -218,7 +205,6 @@
     "Lecture 1 - Software Engineering Overview.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Technology.md",
-    "German Vocabulary.md",
     "DB_HW5.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Advanture Time song.md",
