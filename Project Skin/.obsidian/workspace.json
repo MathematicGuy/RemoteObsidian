@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "41bb47b05a19eff3",
+            "id": "0cbb43ccbe6a6888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Software Technology Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Software Technology Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Software Technology Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "Software Technology Review.md"
               }
             }
           },
@@ -197,8 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41bb47b05a19eff3",
+  "active": "0cbb43ccbe6a6888",
   "lastOpenFiles": [
+    "Software Technology.md",
+    "Software Technology Review.md",
     "Todo.md",
     "German Vocabulary.md",
     "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
@@ -218,7 +220,6 @@
     "History & Politic/Wars.md",
     "Lecture 1 - Software Engineering Overview.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Software Technology.md",
     "DB_HW5.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Advanture Time song.md",
@@ -234,7 +235,6 @@
     "Relational DB Design.md",
     "Summary DB_HW2.md",
     "Command N.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
