@@ -503,7 +503,10 @@ Wasserflasche
 Frühling (der) The Spring
 	 Es ist immer schön in Frühling
 Neblig foggy
-Wanderst hike (Wanderst du/sie - er/frau Wandert - ich Wandere )
+Wanderst hike (Wanderst du/sie - er/frau/schwester Wandert - ich Wandere )
 	 Wanderst du Anna - are you hike Anna
 	 Wanderst du immer im Frühling 
 + Wandern Sie
+Sonnencreme - sunscreen (die)
+	 wo ist die sonnencreme
+	
