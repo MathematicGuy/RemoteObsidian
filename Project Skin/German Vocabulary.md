@@ -384,6 +384,7 @@ Sie - use to show respect (like cô, chú in Vietnamese) for oder people, strang
 
 
 ### Unit 1
++ ! note: **im** is short for **in the** 
 
 Kanzler Chancellor
 
@@ -487,4 +488,22 @@ Windig Windy
 Schelecht bad
 	 Das Wetter heute
 	  ist schlechtd
-	
+der Schal the scraf
+Schneit snowing
+	 Es ist Sonnig oder Schneit es
+
+Jetzt now
+	 Es ist jetzt schön - it is now beautiful
+	 Es ist jetzt bewölkt
+Stark hard
+	 Ja, Es regnet stark - yes, it is rainning hard
+
+
+Wasserflasche
+Frühling (der) The Spring
+	 Es ist immer schön in Frühling
+Neblig foggy
+Wanderst hike (Wanderst du/sie - er/frau Wandert - ich Wandere )
+	 Wanderst du Anna - are you hike Anna
+	 Wanderst du immer im Frühling 
++ Wandern Sie
