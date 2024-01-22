@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Technology Review.md",
+                "file": "German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Technology Review.md",
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Technology Review.md",
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Technology Review.md"
+                "file": "German Vocabulary.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "39d89e058f80793a",
   "lastOpenFiles": [
-    "Todo.md",
     "Software Technology Review.md",
+    "Todo.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Technology.md",
     "Sequence Diagrams.md",

@@ -455,6 +455,7 @@ wirklich - really
 10 - **zehn**
 
 kostet - cost
+	 Wie viel kostet die sonnencreme
 marktplatz - market place
 viel - much
 	 Wie viel kostet der tee - how much does the tee cost ?
@@ -477,10 +478,16 @@ Bewölkt cloudy
 	 Ist es heute bewölkt is it cloudy today
 	 Anna, ist es Heute Bewölkt
 	 Ist es heute sonnig oder bewölkt
+
+**Weather**
 Herbst fall (der)
 	 Ist is kalt in Herbst
+Winter winter
+Sommer summer
+
 Regenschirm umbrella (der)
 	 Wo ist der Regenschirm
+	 Wie viel kostet ein Regenschirm
 Regnet ranning
 	 Es ranning - it is ranning
 Windig Windy 
@@ -498,7 +505,6 @@ Jetzt now
 Stark hard
 	 Ja, Es regnet stark - yes, it is rainning hard
 
-
 Wasserflasche
 Frühling (der) The Spring
 	 Es ist immer schön in Frühling
@@ -507,6 +513,6 @@ Wanderst hike (Wanderst du/sie - er/frau/schwester Wandert - ich Wandere )
 	 Wanderst du Anna - are you hike Anna
 	 Wanderst du immer im Frühling 
 + Wandern Sie
++ Wo Wandert der hund in Frühling - Where does the dog wander in spring?
 Sonnencreme - sunscreen (die)
 	 wo ist die sonnencreme
-	
