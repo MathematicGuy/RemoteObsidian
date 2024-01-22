@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a43102658796f8e1",
+        "id": "3b01a4f6928d90cb",
         "type": "tabs",
         "children": [
           {
-            "id": "b44ae56cc29d48ca",
+            "id": "7c8ecfc3bbbd7cee",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "6809ba82b2ab2660",
+            "id": "df607bd25d79889d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6809ba82b2ab2660",
+  "active": "df607bd25d79889d",
   "lastOpenFiles": [
     "Todo.md",
     "German Vocabulary.md",
