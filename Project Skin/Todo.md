@@ -8,8 +8,8 @@
 
 #Todo/GoalsThisWeek
 - [ ] Mua giấy nhớ để học Deutsch
-- [ ] Prepare for Software Engineer
-- [ ] Tối nay làm lại đề 7 tr'c khi đi ngủ.
+- [ ] Organize Obsidian after the Semester End
+
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 

@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "39d89e058f80793a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Technology Review.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Software Technology Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Software Technology Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Software Technology Review.md"
               }
             }
           },
@@ -183,12 +197,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "365ab75b71136a91",
+  "active": "39d89e058f80793a",
   "lastOpenFiles": [
+    "Todo.md",
+    "Software Technology Review.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Technology.md",
     "Sequence Diagrams.md",
-    "Software Technology Review.md",
     "Images/Pasted image 20240122031218.png",
     "Images/Pasted image 20240122024938.png",
     "Images/Pasted image 20240122031211.png",
@@ -199,7 +214,6 @@
     "Images/Pasted image 20240122024550.png",
     "Images/Pasted image 20240122024526.png",
     "Images/Pasted image 20240122024455.png",
-    "Todo.md",
     "German Vocabulary.md",
     "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
     "Guitar.md",

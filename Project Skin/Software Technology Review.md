@@ -55,6 +55,7 @@ kiểm thử
 Mô hình thác nước: làm việc tuần tự từng bước 1
 	 dễ áp dụng, thiếu linh hoạt
 	 -> thích hợp cho các dự án có yêu cầu ổn định và ko cần chỉnh sửa nhiều.
+	 Do lập hết kế hoạch tr'c nên khó dự đoán đúng tr'c đc từ đầu.
 Mô hình lặp: chia công việc lớn ra thành các bước nhỏ và lặp lại các bước cho từng giai đoạn. Sau khi giai đoạn đó hoàn thiện mới chuyển sang giai đoạn kế tiếp
 	 Phù hợp cho các dự án cần đánh giá liên tục
 	rủi ro thấp và cảii thiện chất lg sp.
