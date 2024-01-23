@@ -516,3 +516,5 @@ Wanderst hike (Wanderst du/sie - er/frau/schwester Wandert - ich Wandere )
 + Wo Wandert der hund in Frühling - Where does the dog wander in spring?
 Sonnencreme - sunscreen (die)
 	 wo ist die sonnencreme
+
+**Excercise Der Basketballspieler**
