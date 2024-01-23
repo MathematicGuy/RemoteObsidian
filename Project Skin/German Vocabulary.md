@@ -443,6 +443,7 @@ Marktplatz - market place
 wirklich - really 
 	 wirklich gut - really well
 **Counting**
+0 - null
 1 - **eins** 
 2 - **zwei**
 3 - **drei**
@@ -475,7 +476,7 @@ Wie ist das Wetter how is the weather
 Sonnig sunny
 Heute today
 Bewölkt cloudy 
-	 Ist es heute bewölkt is it cloudy today
+	 Ist es heute bewölkt is it cloudy today (es mean it)
 	 Anna, ist es Heute Bewölkt
 	 Ist es heute sonnig oder bewölkt
 
@@ -492,7 +493,7 @@ Regnet ranning
 	 Es ranning - it is ranning
 Windig Windy 
 	 Der heute ist es nitch heiße, aber es ist Regnerisch und Windig 
-Schelecht bad
+Schlecht bad
 	 Das Wetter heute
 	  ist schlechtd
 der Schal the scraf
@@ -518,3 +519,20 @@ Sonnencreme - sunscreen (die)
 	 wo ist die sonnencreme
 
 **Excercise Der Basketballspieler**
+- ! vocab
+	 
+- ! sentence
+	Ist das nicht - isn't it
+	Dein Lieblingsbasketballspieler - your favouraite basketball player
+	 Er ist es - it is him
+	 Sprich mit ihm - talk with him
+	 nervös nervous
+	 Nitch so laut - not so lout
+	 Wie aufregend - how exciting
+	 Sag einfach „hallo”! - just say hello
+	 muss - have to/must
+	 ich mus hier weg - I must/have_to get out of here
+	 Wer who
++ ? notice: Es mean it, Das mean the
+
+**analyze later**: Das Wetter im Herbst ist sehr schön. Es ist manchmal sonnig, manchmal bewölkt, aber nie zu kalt oder zu heiß. (practice to write the same phrase like this. Make a connector section / vocab section)
