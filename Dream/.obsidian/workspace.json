@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to Learn Fast.md",
+                "file": "Question Mark/Why & What.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 260.5
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How to Learn Fast.md",
+                "file": "Question Mark/Why & What.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How to Learn Fast.md",
+                "file": "Question Mark/Why & What.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How to Learn Fast.md"
+                "file": "Question Mark/Why & What.md"
               }
             }
           },
@@ -179,8 +179,12 @@
   },
   "active": "e565f43904c98649",
   "lastOpenFiles": [
-    "Happiness/Quote.md",
+    "How To/How to have Self-Control.md",
+    "Question Mark/Why & What.md",
     "How To/How to Learn Fast.md",
+    "Why/Why.md",
+    "Why",
+    "Happiness/Quote.md",
     "My Life/1_Shoot for the Star.md",
     "How To/How to Study when you Tired after school.md",
     "My Life/Styles.md",
@@ -203,13 +207,10 @@
     "Happiness/Save for my GF.md",
     "Happiness/Plane.md",
     "Happiness/Food.md",
-    "Happiness/Watch This Everyday.md",
-    "Productivity & Improvement/Train yourself Like a Ayanokoji - Classroom of the elite  - Whiteroom Training 2.0.md",
-    "Productivity & Improvement/the IVY LEAGUE SECRET to STUDYING EFFECTIVELY.md",
     "Social",
     "How To",
     "Happiness",
-    "Question",
+    "Question Mark",
     "Productivity & Improvement",
     "My Life",
     "Image/Pasted image 20230810195015.png",
@@ -224,7 +225,6 @@
     "Ultimate Past Paper Revision Strategy",
     "Untitled.canvas",
     "Report2.pdf",
-    "ReportFinal.pdf",
-    "Report.pdf"
+    "ReportFinal.pdf"
   ]
 }

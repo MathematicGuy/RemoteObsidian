@@ -1,4 +1,8 @@
-### Intro
+### [[HCM Ideology Group Project]]
+
+### [[HCM Ideology Revision]]
+
+## Intro
 
 5 học phần lý luận chính trị bắt buộc
 	**Triết học Mác – Lê nin: 3 tín chỉ;**
