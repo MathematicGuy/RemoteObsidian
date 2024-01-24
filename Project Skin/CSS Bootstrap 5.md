@@ -131,3 +131,84 @@ max-width of 100% (responsive)
 
 ### Grid
 
+```html
+    <!-- Basic Grid -->
+    <div class="container-lg my-5">
+        <h2>Basic Grid</h2>
+        <div class="row">
+            <div class="col">
+                <div class="p-5 bg-primary text-light">col1</div>
+            </div>
+            <div class="col">
+                <div class="p-5 bg-primary text-light">col2</div>
+            </div>
+            <div class="col">
+                <div class="p-5 bg-primary text-light">col3</div>
+            </div>
+            <div class="col">
+                <div class="p-5 bg-primary text-light">col4</div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Column Width -->
+    <div class="container-lg my-5">
+        <h2>column width</h2>
+        <div class="row">
+            <!-- from sm to up: 4, lg to up: 6 -->
+            <!-- basically sm-4 mean min-screen: sm it will take up 4 space -->
+            <div class="col-lg-6">
+                <div class="p-5 bg-primary text-light">take 6 grid at lg screen</div>
+            </div>
+
+            <div class="col-3">
+                <div class="p-5 bg-primary text-light">col2</div>
+            </div>
+
+            <div class="col-3">
+                <div class="p-5 bg-primary text-light">col3</div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Responsive Column -->
+    <div class="container-lg my-5">
+        <h2>responsive column</h2>
+        <div class="row">
+            <!-- from sm to up: 4, lg to up: 6 -->
+            <!-- basically sm-4 mean min-screen: sm it will take up 4 space -->
+            <div class="col-sm-4 col-lg-8">
+                <div class="p-5 bg-primary text-light">take 4 grid at small and 6 grid at large</div>
+            </div>
+
+            <div class="col-sm-4 col-lg-2">
+                <div class="p-5 bg-primary text-light">col2</div>
+            </div>
+
+            <div class="col-sm-4 col-lg-2">
+                <div class="p-5 bg-primary text-light">col3</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Justifying columns -->
+    <div class="container-lg my-5">
+        <h2>justifying columns</h2>
+        <!-- justify-content-center/between/around/etc.. -->
+        <div class="row justify-content-between">
+            <div class="col-md-3">
+                <div class="p-5 bg-primary text-light">col1</div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="p-5 bg-primary text-light">col1</div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="p-5 bg-primary text-light">col1</div>
+            </div>
+        </div>
+    </div>
+```
+
