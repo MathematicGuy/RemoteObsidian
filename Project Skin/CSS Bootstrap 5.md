@@ -59,3 +59,40 @@
   <a href="#" class="btn btn-danger">btn 4</a>
 </div>
 ```
+
+
+### Modify block
+Margin - Border - Box-Shadow - Font-weight
+![[Pasted image 20240124153754.png]]
+```html
+<!-- margin and padding -->
+<h2>Inline Margin and Padding</h2>
+<div class="bg-primary my-5 px-2">margin in y direction, padding in x direction</div>
+<div class="bg-primary my-1 px-5">margin in y direction, padding in x direction</div>
+
+<h2>Direction Margin and Padding</h2>
+<div class="bg-primary mt-3 pb-5">margin top and padding bottom</div>
+<div class="bg-primary pt-5 m-3">padding top and margin 3</div>
+<div class="bg-primary m-2 ps-5 me-5">margin, padding start and margin end - 5</div>
+
+<!-- borders -->
+<div class="m-3 p-3 border border-info">default border</div>
+<div class="m-3 p-3 border-primary border-top border-start border-end">border at start (left), top, end (right)</div>
+<div class="m-3 p-3 border-start border-success border-5">Thick</div>
+<div class="m-3 p-3 rounded border border-danger border-5">rounded</div>
+<div class="m-3 p-3 rounded-pill border border-danger border-5">rounded</div>
+
+
+<!-- box shadow -->
+<div class="m-3 p-3 border shadow-md">rounded</div>
+
+
+<!-- font-weight -->
+<section class="m-4">
+  <p class="fw-bold">Bold Text</p>
+  <p class="fw-bolder ms-5">Bolder Text</p>
+  <p>normaltext</p>
+  <div class="fst-italic ms-5">italic text</div>
+  <div class="fst-italic fw-light">italic text</div>    
+</section>
+```
