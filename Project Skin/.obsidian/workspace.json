@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "ca1708f275577fe8",
+            "id": "0798553afd96fe74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS Bootstrap 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS Bootstrap 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS Bootstrap 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS Bootstrap 5.md"
+              }
             }
           },
           {
@@ -188,16 +197,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca1708f275577fe8",
+  "active": "0798553afd96fe74",
   "lastOpenFiles": [
     "Todo.md",
+    "CSS Desgin Pattern.md",
+    "CSS Note.md",
+    "CSS Artistic.md",
     "CSS Bootstrap 5.md",
     "Final Web Exam Revision.md",
     "Images/Pasted image 20240124153754.png",
     "Images/Pasted image 20240124141822.png",
     "Images/Pasted image 20240124141749.png",
     "Images/Pasted image 20240124135629.png",
-    "CSS Artistic.md",
     "WebDev/WebDev_Learn/CSS.md",
     "WebDev/Web.md",
     "German Vocabulary.md",
@@ -224,7 +235,6 @@
     "Advanture Time song.md",
     "Sad MEME song.md",
     "jONE CENA theme song.md",
-    "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
