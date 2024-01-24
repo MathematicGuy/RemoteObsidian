@@ -457,6 +457,7 @@ wirklich - really
 
 kostet - cost
 	 Wie viel kostet die sonnencreme
+	 Der sonn
 marktplatz - market place
 viel - much
 	 Wie viel kostet der tee - how much does the tee cost ?
@@ -496,7 +497,7 @@ Windig Windy
 Schlecht bad
 	 Das Wetter heute
 	  ist schlechtd
-der Schal the scraf
+der Schal the scraf 
 Schneit snowing
 	 Es ist Sonnig oder Schneit es
 
@@ -536,3 +537,8 @@ Sonnencreme - sunscreen (die)
 + ? notice: Es mean it, Das mean the
 
 **analyze later**: Das Wetter im Herbst ist sehr schön. Es ist manchmal sonnig, manchmal bewölkt, aber nie zu kalt oder zu heiß. (practice to write the same phrase like this. Make a connector section / vocab section)
+
+Hast du - do you have
+	 Hast du einen Mann
+Onkel uncle
+Freund boyfriend

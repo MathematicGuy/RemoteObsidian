@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6c242369c81d9a70",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -188,13 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c242369c81d9a70",
+  "active": "f631ffd766f89bc0",
   "lastOpenFiles": [
+    "German Vocabulary.md",
     "Todo.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "HCM Ideology Group Project.md",
     "HCM Ideology Revision.md",
-    "German Vocabulary.md",
     "Software Technology Review.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Technology.md",
