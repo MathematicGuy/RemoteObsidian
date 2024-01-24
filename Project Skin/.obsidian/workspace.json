@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
+                "file": "CSS Bootstrap 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
+                "file": "CSS Bootstrap 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md",
+                "file": "CSS Bootstrap 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS.md"
+                "file": "CSS Bootstrap 5.md"
               }
             }
           },
@@ -199,6 +199,12 @@
   },
   "active": "c3b40ec1263fab64",
   "lastOpenFiles": [
+    "Images/Pasted image 20240124141822.png",
+    "Images/Pasted image 20240124141749.png",
+    "CSS Bootstrap 5.md",
+    "Images/Pasted image 20240124135629.png",
+    "CSS Artistic.md",
+    "WebDev/WebDev_Learn/CSS.md",
     "Todo.md",
     "Final Web Exam Revision.md",
     "WebDev/Web.md",
@@ -218,13 +224,9 @@
     "Images/Pasted image 20240122024715.png",
     "Images/Pasted image 20240122024648.png",
     "Images/Pasted image 20240122024550.png",
-    "Images/Pasted image 20240122024526.png",
-    "Images/Pasted image 20240122024455.png",
     "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
     "Guitar.md",
-    "CSS Artistic.md",
     "Cool Music Website.md",
-    "WebDev/WebDev_Learn/CSS.md",
     "History & Politic/Wars.md",
     "Lecture 1 - Software Engineering Overview.md",
     "DB_HW5.md",
@@ -233,8 +235,6 @@
     "Sad MEME song.md",
     "jONE CENA theme song.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "DB_HW4-2.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
