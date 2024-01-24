@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66d2bb72dd2be6f8",
+        "id": "d998c9589d7470ed",
         "type": "tabs",
         "children": [
           {
-            "id": "03e50814f57bc432",
+            "id": "cb3a51c4effefd72",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "fd335c8d3544e704",
+            "id": "ca1708f275577fe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Bootstrap 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Bootstrap 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Bootstrap 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS Bootstrap 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd335c8d3544e704",
+  "active": "ca1708f275577fe8",
   "lastOpenFiles": [
-    "CSS Bootstrap 5.md",
     "Todo.md",
+    "CSS Bootstrap 5.md",
     "Final Web Exam Revision.md",
     "Images/Pasted image 20240124153754.png",
     "Images/Pasted image 20240124141822.png",
