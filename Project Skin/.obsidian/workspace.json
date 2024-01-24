@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "104d1f4095e3f24f",
+        "id": "66d2bb72dd2be6f8",
         "type": "tabs",
         "children": [
           {
-            "id": "657fc38997feaac9",
+            "id": "03e50814f57bc432",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b2b2464f2125b77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Bootstrap 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Bootstrap 5.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Bootstrap 5.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Bootstrap 5.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2b2464f2125b77b",
+  "active": "03e50814f57bc432",
   "lastOpenFiles": [
     "Final Web Exam Revision.md",
     "Todo.md",
