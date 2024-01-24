@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a77650d66adeb8b",
+        "id": "410c9e4db39c677e",
         "type": "tabs",
         "children": [
           {
-            "id": "f631ffd766f89bc0",
+            "id": "416d806ffc7ef65a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "2b6d48df1ef83182",
+            "id": "c3b40ec1263fab64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Web Exam Revision.md",
+                "file": "WebDev/WebDev_Learn/CSS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Web Exam Revision.md",
+                "file": "WebDev/WebDev_Learn/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Web Exam Revision.md",
+                "file": "WebDev/WebDev_Learn/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Web Exam Revision.md"
+                "file": "WebDev/WebDev_Learn/CSS.md"
               }
             }
           },
@@ -197,11 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b6d48df1ef83182",
+  "active": "c3b40ec1263fab64",
   "lastOpenFiles": [
-    "WebDev/Web.md",
-    "Final Web Exam Revision.md",
     "Todo.md",
+    "Final Web Exam Revision.md",
+    "WebDev/Web.md",
     "German Vocabulary.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
     "HCM Ideology Group Project.md",
