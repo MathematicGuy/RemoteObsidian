@@ -26,8 +26,13 @@
             "id": "b2b2464f2125b77b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS Bootstrap 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS Bootstrap 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS Bootstrap 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS Bootstrap 5.md"
+              }
             }
           },
           {
@@ -190,6 +199,7 @@
   },
   "active": "b2b2464f2125b77b",
   "lastOpenFiles": [
+    "Final Web Exam Revision.md",
     "Todo.md",
     "Images/Pasted image 20240124153754.png",
     "CSS Bootstrap 5.md",
@@ -198,7 +208,6 @@
     "Images/Pasted image 20240124135629.png",
     "CSS Artistic.md",
     "WebDev/WebDev_Learn/CSS.md",
-    "Final Web Exam Revision.md",
     "WebDev/Web.md",
     "German Vocabulary.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",

@@ -96,3 +96,38 @@ Margin - Border - Box-Shadow - Font-weight
   <div class="fst-italic fw-light">italic text</div>    
 </section>
 ```
+
+
+### Container
+
+fluid : make div responsive
+max-width of 100% (responsive)
++ container-lg :  until it reached large
++ container-md: until it reached medium
+```html
+<div class="container my-5">
+  <h1>normal container</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur consectetur quod hic cumque voluptas, fuga ab ratione ipsa totam cupiditate sunt ipsam voluptate necessitatibus mollitia dolorem sequi exercitationem minus laboriosam?</p>
+</div>
+
+<div class="container-fluid my-5">
+  <h1>normal container</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur consectetur quod hic cumque voluptas, fuga ab ratione ipsa totam cupiditate sunt ipsam voluptate necessitatibus mollitia dolorem sequi exercitationem minus laboriosam?</p>
+</div>
+
+
+<div class="container-lg my-5">
+  <h1>100% width util lg screen, then container</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias laborum et vitae ducimus consequatur! Dolorum harum natus ipsum quaerat, recusandae enim minima quam exercitationem tempora fugit animi molestias culpa saepe!</p>
+</div>
+
+
+<div class="container-md my-5">
+  <h1>100% width util lg screen, then container</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias laborum et vitae ducimus consequatur! Dolorum harum natus ipsum quaerat, recusandae enim minima quam exercitationem tempora fugit animi molestias culpa saepe!</p>
+</div>
+
+```
+
+### Grid
+
