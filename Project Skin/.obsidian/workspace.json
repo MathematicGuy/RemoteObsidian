@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c777bbdd27fc36f1",
+        "id": "9f3bc2390fa28a54",
         "type": "tabs",
         "children": [
           {
-            "id": "e946cf7b89c47cff",
+            "id": "bb0f4bd489ba0ae2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "65ddea40d90f8928",
+            "id": "3f753ce41d99bfeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Center a div.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Center a div.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Center a div.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Center a div.md"
+              }
             }
           },
           {
@@ -188,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65ddea40d90f8928",
+  "active": "3f753ce41d99bfeb",
   "lastOpenFiles": [
     "Todo.md",
     "CSS Bootstrap 5.md",
