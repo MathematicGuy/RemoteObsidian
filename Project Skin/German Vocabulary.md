@@ -541,4 +541,16 @@ Sonnencreme - sunscreen (die)
 Hast du - do you have
 	 Hast du einen Mann
 Onkel uncle
+Tante aunt
+Opa grandpa
+Oma grandma
+
 Freund boyfriend
+Freundin girl friend
+
+hat has
+	Mein opa hat eine sohn - my grandpa has a son
+	 Hat deine Oma einen Mann - Does your grandma has a husband
+liebt
+	 liebe dein bruder deinenn hund
+	 Deine Touchter liebt meinen Sohn	

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d998c9589d7470ed",
+        "id": "c777bbdd27fc36f1",
         "type": "tabs",
         "children": [
           {
-            "id": "cb3a51c4effefd72",
+            "id": "e946cf7b89c47cff",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "0798553afd96fe74",
+            "id": "65ddea40d90f8928",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Bootstrap 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Bootstrap 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Bootstrap 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS Bootstrap 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,13 +188,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0798553afd96fe74",
+  "active": "65ddea40d90f8928",
   "lastOpenFiles": [
     "Todo.md",
+    "CSS Bootstrap 5.md",
     "CSS Desgin Pattern.md",
     "CSS Note.md",
     "CSS Artistic.md",
-    "CSS Bootstrap 5.md",
     "Final Web Exam Revision.md",
     "Images/Pasted image 20240124153754.png",
     "Images/Pasted image 20240124141822.png",
