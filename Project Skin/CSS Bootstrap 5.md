@@ -212,3 +212,5 @@ max-width of 100% (responsive)
     </div>
 ```
 
+Json
+![[Pasted image 20240125161535.png]]

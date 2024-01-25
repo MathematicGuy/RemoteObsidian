@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8027af4dd70db586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Bootstrap 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Center a div.md",
+                "file": "CSS Bootstrap 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Center a div.md",
+                "file": "CSS Bootstrap 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Center a div.md"
+                "file": "CSS Bootstrap 5.md"
               }
             }
           },
@@ -197,8 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f753ce41d99bfeb",
+  "active": "8027af4dd70db586",
   "lastOpenFiles": [
+    "Images/Pasted image 20240125161535.png",
+    "Center a div.md",
     "Todo.md",
     "CSS Bootstrap 5.md",
     "CSS Desgin Pattern.md",
@@ -233,8 +248,6 @@
     "DB_HW5.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Advanture Time song.md",
-    "Sad MEME song.md",
-    "jONE CENA theme song.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
