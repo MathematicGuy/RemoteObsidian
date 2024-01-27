@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73f69b69b43407ee",
+        "id": "b90844ab04379163",
         "type": "tabs",
         "children": [
           {
-            "id": "72e0246b1830feea",
+            "id": "e0cd0bc00b2cbcc9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -183,11 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72e0246b1830feea",
+  "active": "e0cd0bc00b2cbcc9",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20240125161535.png",
     "Center a div.md",
-    "Todo.md",
     "CSS Bootstrap 5.md",
     "CSS Desgin Pattern.md",
     "CSS Note.md",
@@ -212,7 +212,6 @@
     "Images/Pasted image 20240122031211.png",
     "Images/Pasted image 20240122024906.png",
     "Images/Pasted image 20240122024846.png",
-    "Images/Pasted image 20240122024715.png",
     "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
     "Guitar.md",
     "Cool Music Website.md",
