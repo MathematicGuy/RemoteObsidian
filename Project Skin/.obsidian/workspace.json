@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b90844ab04379163",
+        "id": "e94e3938eb44ccd0",
         "type": "tabs",
         "children": [
           {
-            "id": "e0cd0bc00b2cbcc9",
+            "id": "e5d3805a52cb5fb5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "a4aca24b2d2d2af2",
+            "id": "85a0fb45609380b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "American - China Chip Wars and the Potential for VN people.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "American - China Chip Wars and the Potential for VN people.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "American - China Chip Wars and the Potential for VN people.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "American - China Chip Wars and the Potential for VN people.md"
               }
             }
           },
@@ -197,8 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4aca24b2d2d2af2",
+  "active": "85a0fb45609380b2",
   "lastOpenFiles": [
+    "Chip.md",
+    "American - China Chip Wars and the Potential for VN people.md",
     "Todo.md",
     "German Vocabulary.md",
     "Images/Pasted image 20240125161535.png",
@@ -233,7 +235,6 @@
     "Lecture 1 - Software Engineering Overview.md",
     "DB_HW5.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Advanture Time song.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
