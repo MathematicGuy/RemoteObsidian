@@ -67,6 +67,7 @@ eine Maus the mouse
 eine Katze the cat (cat wa see as famale ??)
 	mouse & owl & cat are see as feminine.
 (not ein Katze)
+Fisch fish (der fisch)
 
 **see as Musculine Animal**
 ein Elefant the  elephant
@@ -491,7 +492,8 @@ Regenschirm umbrella (der)
 	 Wo ist der Regenschirm
 	 Wie viel kostet ein Regenschirm
 Regnet ranning
-	 Es ranning - it is ranning
+	 Es regnet - it's ranning
+	 Regnet es sehr stark? - is it rainning hard?
 Windig Windy 
 	 Der heute ist es nitch heiße, aber es ist Regnerisch und Windig 
 Schlecht bad
@@ -507,7 +509,7 @@ Jetzt now
 Stark hard
 	 Ja, Es regnet stark - yes, it is rainning hard
 
-Wasserflasche
+Wasserflasche (female - deine wasserflasche)
 Frühling (der) The Spring
 	 Es ist immer schön in Frühling
 Neblig foggy
@@ -540,6 +542,9 @@ Sonnencreme - sunscreen (die)
 
 Hast du - do you have
 	 Hast du einen Mann
+	 Habe kein not have
+	 hat has
+(same principle with e - ich | t - er | st - du | en - Frau, Herr)
 Onkel uncle
 Tante aunt
 Opa grandpa
@@ -547,10 +552,18 @@ Oma grandma
 
 Freund boyfriend
 Freundin girl friend
+Mitbewohnerin roomate
+	 Mein Mitbewohnerin kommst aus Amerika 
 
 hat has
 	Mein opa hat eine sohn - my grandpa has a son
 	 Hat deine Oma einen Mann - Does your grandma has a husband
-liebt
-	 liebe dein bruder deinenn hund
+Liebe Love
+	liebe dein bruder deinenn hund
 	 Deine Touchter liebt meinen Sohn	
+
+**Es system** ( es - it is,  es - it)
+es - it (present simple) 
+	 es ist jetzt bewölkt - it ist cloudy now 
+es - it is (present continuous)
+	 es bewölkt
