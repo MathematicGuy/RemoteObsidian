@@ -498,8 +498,7 @@ Windig Windy
 	 Der heute ist es nitch heiße, aber es ist Regnerisch und Windig 
 Schlecht bad
 	 Das Wetter heute
-	  ist schlechtd
-der Schal the scraf 
+	  ist schlecht
 Schneit snowing
 	 Es ist Sonnig oder Schneit es
 
@@ -563,7 +562,11 @@ Liebe Love
 	 Deine Touchter liebt meinen Sohn	
 
 **Es system** ( es - it is,  es - it)
-es - it (present simple) 
-	 es ist jetzt bewölkt - it ist cloudy now 
-es - it is (present continuous)
-	 es bewölkt
+1. **"Es ist" (It is):**
+    - Used when you want to explicitly say "it is" followed by a specific adjective or description.
+        - Ex: "Es ist kalt" (It is cold).
+2. **"Es" (It):**
+    - Used as a pronoun for a general or unspecified subject.
+    - Also used as a placeholder subject in sentences where the real subject is delayed or less important.
+        - Ex: Oh nein, es schneit sehr stark - Oh no, it is snowing very heavily.
+	        The use of "es" helps to convey the idea that an unspecified "it" (the weather) is causing the snowfall.
