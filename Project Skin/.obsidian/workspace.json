@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e94e3938eb44ccd0",
+        "id": "4753def807f07da3",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d3805a52cb5fb5",
+            "id": "d2dcd79a52b4c29e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "85a0fb45609380b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanture Time song.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanture Time song.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanture Time song.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanture Time song.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85a0fb45609380b2",
+  "active": "d2dcd79a52b4c29e",
   "lastOpenFiles": [
     "American - China Chip Wars and the Potential for VN people.md",
     "Chip.md",
