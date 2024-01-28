@@ -6,7 +6,7 @@
   "monospaceFontFamily": "Hurmit Nerd Font Mono",
   "textFontFamily": "Cabin Sketch",
   "interfaceFontFamily": "",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "nativeMenus": false,
   "baseFontSizeAction": true,
   "showViewHeader": false
