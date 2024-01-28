@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a089a40a9415ec4e",
+            "id": "18e428bd659341d2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "18e428bd659341d2",
+            "id": "fad4f8fb2345cb1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Like my Father.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Like my Father.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Like my Father.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Like my Father.md"
+              }
             }
           },
           {
@@ -188,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18e428bd659341d2",
+  "active": "fad4f8fb2345cb1a",
   "lastOpenFiles": [
     "Todo.md",
     "Like my Father.md",
