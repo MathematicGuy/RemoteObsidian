@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4753def807f07da3",
+        "id": "114e652e73b846aa",
         "type": "tabs",
         "children": [
           {
-            "id": "d2dcd79a52b4c29e",
+            "id": "a089a40a9415ec4e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "4a4a82915bad8d79",
+            "id": "3badfd1f366dc05c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a4a82915bad8d79",
+  "active": "3badfd1f366dc05c",
   "lastOpenFiles": [
     "Todo.md",
     "German Vocabulary.md",
