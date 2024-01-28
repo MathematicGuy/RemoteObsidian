@@ -214,7 +214,7 @@ Jetz now
 braucht needs
 Arzt docter
 Er he
-da druben overthere
+da ben overthere
 Schell quick
 Hilfe help
 laut loud
@@ -334,8 +334,6 @@ die - female
 + Bibliothek the library
 + Kirche church 
 
-Nähe Near (in der Nähe - in near by)
-	die Bibliothek ist in der Nähe
 da drüben
 
 Alt old
@@ -355,7 +353,9 @@ Geldautomat ATM
 Hotel Hotel (non-binary, Das hotel)
 Park park (male - Der Park)
 
-weit weig far away
+weit weg far away
+Nähe Near (in der Nähe - in near by)
+	die Bibliothek ist in der Nähe
 
 Geldautomat movie theater 
 
@@ -445,7 +445,7 @@ wirklich - really
 	 wirklich gut - really well
 **Counting**
 0 - null
-1 - **eins** 
+1 - **eins** (einhundert)
 2 - **zwei**
 3 - **drei**
 4 - **vier**
@@ -453,8 +453,20 @@ wirklich - really
 6 - **sechs**
 7 - **sieben**
 8 - **acht**
-9 - **neun**
+9 - **neun** (neun hundert)
 10 - **zehn**
+
+**Number system** (wie auf Englisch)
+11 - elf
+12 - zwölf
+**Teen** (zehn)
++ dreizehn - thirdteen
+**Hundred** (Hundert)
++ einhundert
++ dreihundert
+**Ty** (eg. thirty) (zig/ßig)
+20 - zwanzig
+30 - drei-
 
 kostet - cost
 	 Wie viel kostet die sonnencreme
@@ -570,3 +582,30 @@ Liebe Love
     - Also used as a placeholder subject in sentences where the real subject is delayed or less important.
         - Ex: Oh nein, es schneit sehr stark - Oh no, it is snowing very heavily.
 	        The use of "es" helps to convey the idea that an unspecified "it" (the weather) is causing the snowfall.
+
+#### Excercise Zwei Flugtickets, bitte
++ Flughafen - airport
++ Schalter - counter (the counter with a waiter)
+	 Er spricht mit der Frau am Schalter - He speak with the woman at the counter
++ Kann - can
+	Kann ich helfen - can I help
++ nach - to
+	Ein Flugtickets nach Paris, Bitte
++ Eltern - parents
+	wo sind dein Eltern - wo are your parent
++ Jahre alt - years old
+	ich bin nicht sieben jahre alt - I am not seven years old
+	Wie alt bist du - how old are you?
++ hundert  - hundred
+	zwei hundred - two hundred
++ muss - must
++ reisen - travel
+	ich muss weit weg reisen - I must travel far away
++ Richtig - correct
++ Perfekt - perfect
++ Mathe - math
+Phrase
+	Hier bist du - here are you
++ machst du - are you doing
+	Was machst du - what are you doing ?
++ Wie viel kostet ein flugtickets - How much a plane ticket cost
