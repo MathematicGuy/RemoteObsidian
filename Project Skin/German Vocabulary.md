@@ -423,7 +423,7 @@ spreche speak
 	 sind Sie Polizist
 
 lebst do you live/live/are you live
-	 Wo Lebst Du? where do you live?
+	 Wo Lebst Du? where do you live?land
 	 ich lebst du in Vietnam
 	 Wo lebst du Minh
 + leben (goes with he (er) and she (sie))
@@ -474,12 +474,21 @@ kostet - cost
 marktplatz - market place
 viel - much
 	 Wie viel kostet der tee - how much does the tee cost ?
+Kilogramm kilogram
+
 Döner - Doner kebab
-Kartoffeln - potato
+Kartoffel - potato
+	zehn kilogramm Karoffel - ten kilogram of potato
 Sandwich sandwich
 	 Kostel ein Sandwich wirklich sieben Euro? Das ist teuer. Zwei Orangen und ein Wasser, bitte.
 	 - Does an Sandwich really cost 7 Euros? That is expensive. Ten orange and a water please. 
 Erdbeeren strawberries
+
+###### Excercise: Wo ist Beas Freundin
+Zusammen  together 
+Hair haare
+Gitarre guitar
+Sitze seats
 
 Vielen Dank thank you very much 
 gern geschehen you're welcome
@@ -531,6 +540,7 @@ Wanderst hike (Wanderst du/sie - er/frau/schwester Wandert - ich Wandere )
 + Wo Wandert der hund in Frühling - Where does the dog wander in spring?
 Sonnencreme - sunscreen (die)
 	 wo ist die sonnencreme
+Schnecke - snail (~)
 
 **Excercise Der Basketballspieler**
 - ! vocab
@@ -557,6 +567,7 @@ Hast du - do you have
 	 hat has
 (same principle with e - ich | t - er | st - du | en - Frau, Herr)
 Onkel uncle
+	einen Onkel
 Tante aunt
 Opa grandpa
 Oma grandma
@@ -573,15 +584,14 @@ Liebe Love
 	liebe dein bruder deinenn hund
 	 Deine Touchter liebt meinen Sohn	
 
-**Es system** ( es - it is,  es - it)
+**Es system** - es or es ist ( es - it is,  es - it)
 1. **"Es ist" (It is):**
     - Used when you want to explicitly say "it is" followed by a specific adjective or description.
         - Ex: "Es ist kalt" (It is cold).
 2. **"Es" (It):**
     - Used as a pronoun for a general or unspecified subject.
     - Also used as a placeholder subject in sentences where the real subject is delayed or less important.
-        - Ex: Oh nein, es schneit sehr stark - Oh no, it is snowing very heavily.
-	        The use of "es" helps to convey the idea that an unspecified "it" (the weather) is causing the snowfall.
+		+ Example: "Es schneit stark." The verb "schneit" already implies the action of snowing, so you don't need the auxiliary verb "ist" in this context.
 
 #### Excercise Zwei Flugtickets, bitte
 + Flughafen - airport
@@ -604,8 +614,37 @@ Liebe Love
 + Richtig - correct
 + Perfekt - perfect
 + Mathe - math
+
+
 Phrase
 	Hier bist du - here are you
 + machst du - are you doing
 	Was machst du - what are you doing ?
 + Wie viel kostet ein flugtickets - How much a plane ticket cost
+
+##### Einen vs Ein vs Eine
+Einen (musculine)
+	ich habe einen
++ ! Notice: use with gender identifier situation
+	+ Ali, dein Onkel liebt deinen Opa.
+Ein (neutral - trung tính) 
+Eine (feminen)
+
+liebt dein bruder deinen hund - does your brother love your dog
+
+
+#### Unit 3: Talk about language, talk about hobbies
+
+Türkish turkish
+Polnisch polish
+Französisch french
+
+Perfekt perfect  
+Toll great
+Schwer difficult
+Einfach easy
+	Ist Deutsch Einfach oder Schwer
+Ihr her
+Sein his
+nicht not
+	deutsch ist nicht schwer - german is not hard

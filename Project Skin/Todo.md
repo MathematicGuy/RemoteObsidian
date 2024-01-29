@@ -9,7 +9,7 @@
 #Todo/GoalsThisWeek
 - [ ] Mua giấy nhớ để học Deutsch
 - [ ] Organize Obsidian after the Semester End
-
+- [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
