@@ -1,7 +1,7 @@
 ### **Unit 1**
 
 **Lesson 1**
-notice: Nounce is capitalize
++ ! Nounce must be capitalize
 
 Und and
 Oder or
@@ -174,12 +174,13 @@ Deutschland
 	Wein Viena
 Franchreich Franch
 
-**We use wo to ask where someone is - 3 ways to say Where in German**
-+ Woher  **we use woher to ask where someone is coming from (direction toward the speaker)**
+#WhatTheDifferent  Woher, Wo and Wohin
+We use wo to ask where someone is - 3 ways to say Where in German
++ "Woher"  **we use woher to ask where someone is coming from (direction toward the speaker)**
 	 woher gehst du (where are you going)
 + "Wo" is used to ask about a static location (wo lebst du)
 	 wo bist du, Dinh (where are you, Dinh)
-+ Wohin **to ask where someone is going (direction away from the speaker)** 
++ "Wohin" **to ask where someone is going (direction away from the speaker)** 
 	 Wohin fahren wir (where are we going) 
 
 kommst come from
@@ -236,7 +237,7 @@ Beruf profession
 the docter 
 + Die Ärztin  (female)
 + Er Arzt (male)
-Der Doktor (??)
+Der Doktor (doktor and Artzt is both correct)
 Student student
 Studentin colleger student
 Freundin friend
@@ -376,13 +377,9 @@ Geburtstag birthday
 
 
 
-
-## Chapter 2:
-
-**GUIDE BOOK**
-du - use for friends and family members. (use for closly people) Indicate friendliness
-Sie - use to show respect (like cô, chú in Vietnamese) for oder people, strangers or an authority figure - Indicate Respect
-
+#WhatTheDifferent  Du v/s Sie
++ Du - use for friends and family members. (use for closly people) Indicate friendliness
++ Sie - use to show respect (like cô, chú in Vietnamese) for oder people, strangers or an authority figure - Indicate Respect
 
 ### Unit 1
 + ! note: **im** is short for **in the** 
@@ -584,7 +581,7 @@ Liebe Love
 	liebe dein bruder deinenn hund
 	 Deine Touchter liebt meinen Sohn	
 
-**Es system** - es or es ist ( es - it is,  es - it)
+#WhatTheDifferent **Es system** - es or es ist ( es - it is,  es - it)
 1. **"Es ist" (It is):**
     - Used when you want to explicitly say "it is" followed by a specific adjective or description.
         - Ex: "Es ist kalt" (It is cold).
@@ -654,7 +651,7 @@ nicht not
 	deutsch ist nicht schwer - german is not hard
 Nur only
 Welche  which 
-Sprachen language
+Sprache language
 + ! don't mistake with Spreche (speak)
 	Welche Sprechen sprichst du, Harvard?
 + Sprechen (pronoun like: spra hen)
@@ -672,4 +669,15 @@ viel much - viele many (diffrent word, same intention)
 	Er spricht viele Sprachen - he speak many language
 + ? Spricht goes with Er
 + ? Sprechen/Sprecht/Sprechst goes with Ich, du, 
- 
+
+Mutterspreche mothertongue
+	Was ist dein mutterspreche, Max
+		mutter -> mother, sprache -> language
+		mutterspreche -> mother language
+	Ich lebe im München aus Deutschland, aber mein muttersprache ist  Vietnamesisch
+
+#WhatTheDifferent Spricht v/s Sprechen
++ "Spricht" is the 3rd person singular form, usually used with "er" (he), "sie" (she) or "es" (it).
+	Ex: Er spricht Polnisch (He speak Poland)
++ "Spreche" is the 1st person singular form, typically used with "ich" (I), For instance:
+	Ex: Ich spreche Englisch (I speak English)
