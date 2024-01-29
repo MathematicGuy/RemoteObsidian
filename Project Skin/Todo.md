@@ -8,11 +8,13 @@
 
 #Todo/GoalsThisWeek
 - [ ] Mua giấy nhớ để học Deutsch
-- [ ] Organize Obsidian after the Semester End
+- [ ] Organize Obsidian 
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
+
 
 #Todo/Prioritise
 - [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
+- [ ] Becareful (for subcription) when Receive Money to pay Rent )
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
@@ -20,8 +22,8 @@
 - [ ] Learn more about Empathy
 - [ ] Strategy for Learning German word, phrase and sentences
 
+
 #Todo/Code/WebDev
-- [ ] Learn JS -> React
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
 
@@ -73,6 +75,7 @@
 	- [Light/Dark Triad Test](https://www.idrlabs.com/light-triad-dark-triad/test.php) - measure your dark (antisocial) and light (prosocial) traits, respectively
 	- [Life Stages Test](https://www.idrlabs.com/developmental-stage/test.php) - What Development steps are u ?
 
+
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
 - [ ] [[Git Requirement]] (learn basics on Youtube)
@@ -82,15 +85,13 @@
 - [ ] Basic Docker Knowledge (learn docker in 1 hour)
 - [ ] Basic API knowledge  (API for each language)
 
+
 #Todo/Entertainment
 - [ ] Undead Unluck chap36
-- [ ] Night has Come - Werewolf game movie
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] [[Game]]
-- [ ] Guitar App
-	- [Yousician]([Yousician - Holiday Sale](https://account.yousician.com/sale))
 [[Advice for AI]]
 - [ ] Can a virus be store in an github responsitory.
 

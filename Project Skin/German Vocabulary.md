@@ -215,7 +215,7 @@ braucht needs
 Arzt docter
 Er he
 da ben overthere
-Schell quick
+Schnell quick
 Hilfe help
 laut loud
 Mögen like
@@ -638,8 +638,12 @@ liebt dein bruder deinen hund - does your brother love your dog
 Türkish turkish
 Polnisch polish
 Französisch french
+Spanisch spanish
+Russisch russian
+	Spricht dein Vater Russisch - do you father speak Russian
 
 Perfekt perfect  
+	Sprechst du perfekt Polnisch
 Toll great
 Schwer difficult
 Einfach easy
@@ -648,3 +652,24 @@ Ihr her
 Sein his
 nicht not
 	deutsch ist nicht schwer - german is not hard
+Nur only
+Welche  which 
+Sprachen language
++ ! don't mistake with Spreche (speak)
+	Welche Sprechen sprichst du, Harvard?
++ Sprechen (pronoun like: spra hen)
+Lerne study 
+	Learnst du Türkisch
+	Sie Lernt sprache schell
+Schnell quickly/quick
+	Du sprichst zu schnell
++ ? Only Verb are affect with t/st/en/en
+Bisschen little
+	Ich spreche ein Bisschen Türkisch - I speak a little Turkish
+Spricht speak
+viel much - viele many (diffrent word, same intention)
+	Ich spreche viele Sprachen - I speak many  languages
+	Er spricht viele Sprachen - he speak many language
++ ? Spricht goes with Er
++ ? Sprechen/Sprecht/Sprechst goes with Ich, du, 
+ 
