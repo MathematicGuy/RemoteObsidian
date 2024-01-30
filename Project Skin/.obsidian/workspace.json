@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "302023752afdf2f7",
+            "id": "1834d1fb70748da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Interest/Cooking.md",
+                "file": "How to Plan Team Coding Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Interest/Cooking.md",
+                "file": "How to Plan Team Coding Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Interest/Cooking.md",
+                "file": "How to Plan Team Coding Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Interest/Cooking.md"
+                "file": "How to Plan Team Coding Project.md"
               }
             }
           },
@@ -197,9 +197,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "302023752afdf2f7",
+  "active": "1834d1fb70748da1",
   "lastOpenFiles": [
+    "Second Year Graduate Project.md",
+    "How to Plan Team Coding Project.md",
+    "How to Working on a Dev Team.md",
+    "Images/Pasted image 20240130091020.png",
+    "Images/Pasted image 20240130091007.png",
+    "Images/Pasted image 20240130090953.png",
+    "Images/Pasted image 20240130090607.png",
+    "Images/Pasted image 20240130090416.png",
     "Todo.md",
+    "Personal/Interest/Cooking.md",
     "German Vocabulary.md",
     "Untitled.canvas",
     "Like my Father.md",
@@ -208,20 +217,15 @@
     "Images/Pasted image 20240128181451.png",
     "Images/Pasted image 20240128181347.png",
     "Images/Pasted image 20240128181302.png",
-    "Images/Pasted image 20240128181155.png",
     "Guitar.md",
     "American - China Chip Wars and the Potential for VN people.md",
     "Chip.md",
-    "Images/Pasted image 20240125161535.png",
     "Center a div.md",
     "CSS Bootstrap 5.md",
     "CSS Desgin Pattern.md",
     "CSS Note.md",
     "CSS Artistic.md",
     "Final Web Exam Revision.md",
-    "Images/Pasted image 20240124153754.png",
-    "Images/Pasted image 20240124141822.png",
-    "Images/Pasted image 20240124141749.png",
     "WebDev/WebDev_Learn/CSS.md",
     "WebDev/Web.md",
     "_Focus/2023/Last Semester/HCM  Ideology.md",
@@ -232,9 +236,6 @@
     "Software Technology.md",
     "Sequence Diagrams.md",
     "_Focus/2023/3rd Semesters/CNXH/Ôn Tập Xã Hội Học.md",
-    "Cool Music Website.md",
-    "History & Politic/Wars.md",
-    "Lecture 1 - Software Engineering Overview.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
