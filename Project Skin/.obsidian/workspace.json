@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "1834d1fb70748da1",
+            "id": "675d0e0e903490c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "How to Plan Team Coding Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "How to Plan Team Coding Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "How to Plan Team Coding Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "How to Plan Team Coding Project.md"
               }
             }
           },
@@ -197,19 +197,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1834d1fb70748da1",
+  "active": "675d0e0e903490c8",
   "lastOpenFiles": [
-    "Personal/Language Learning/German.md",
-    "German Vocabulary.md",
-    "How to Plan Team Coding Project.md",
     "Second Year Graduate Project.md",
+    "Project Ideas.md",
+    "Todo.md",
+    "German Vocabulary.md",
+    "Personal/Language Learning/German.md",
+    "How to Plan Team Coding Project.md",
     "How to Working on a Dev Team.md",
     "Images/Pasted image 20240130091020.png",
     "Images/Pasted image 20240130091007.png",
     "Images/Pasted image 20240130090953.png",
     "Images/Pasted image 20240130090607.png",
     "Images/Pasted image 20240130090416.png",
-    "Todo.md",
     "Personal/Interest/Cooking.md",
     "Untitled.canvas",
     "Like my Father.md",
@@ -235,7 +236,6 @@
     "Software Technology Review.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
     "Software Technology.md",
-    "Sequence Diagrams.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
