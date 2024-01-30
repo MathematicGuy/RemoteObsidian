@@ -691,3 +691,4 @@ Mein Deutsch und mein Englisch sind toll, aber mein Polnisch ist schlecht. Sprec
 -> In the sentence "Mein Deutsch und mein Englisch" referring to 2 entities (plural), hence the use of "sind"
 + If we are talking about just 1 language, we would use "bist":
 	Mein Deutsch ist toll...
+Weshalb - That's why/ Which is why
