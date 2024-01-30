@@ -515,8 +515,9 @@ Regnet ranning
 Windig Windy 
 	 Der heute ist es nitch heiße, aber es ist Regnerisch und Windig 
 Schlecht bad
-	 Das Wetter heute
-	  ist schlecht
+	Das Wetter heute
+	ist schlecht
+	Mein Deutsch undtr mein Englisch sind  
 Schneit snowing
 	 Es ist Sonnig oder Schneit es
 
@@ -681,3 +682,6 @@ Mutterspreche mothertongue
 	Ex: Er spricht Polnisch (He speak Poland)
 + "Spreche" is the 1st person singular form, typically used with "ich" (I), For instance:
 	Ex: Ich spreche Englisch (I speak English)
+
+
+#WhatTheDifferent  Sind v/s Bist 
