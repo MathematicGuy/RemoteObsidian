@@ -6,6 +6,9 @@ CLI Resume
 Git
 	https://youtube.com/shorts/u70t1g0B-pA?si=Z0OMyBVRBLan8Swy
 
+Clerk (Easy user authentication. Free  for  < 5000 users )
+	https://dashboard.clerk.com/apps/app_2bgHxu84aJ7L05cFICKmVznMIRJ/instances/ins_2bgHxxB8N360eLTWTcWee37DDbH
+
 JS Project
 	https://youtube.com/shorts/u70t1g0B-pA?si=Z0OMyBVRBLan8Swy
 
