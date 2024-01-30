@@ -685,3 +685,9 @@ Mutterspreche mothertongue
 
 
 #WhatTheDifferent  Sind v/s Bist 
+Mein Deutsch und mein Englisch sind toll, aber mein Polnisch ist schlecht. Sprechen Sie Polnisch?
++ "Bist" use with second person singular (du)
++ "Sind" use with the 1st & 3rd person plural (wir, sie, Sie) 
+-> In the sentence "Mein Deutsch und mein Englisch" referring to 2 entities (plural), hence the use of "sind"
++ If we are talking about just 1 language, we would use "bist":
+	Mein Deutsch ist toll...
