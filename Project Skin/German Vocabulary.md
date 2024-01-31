@@ -692,3 +692,28 @@ Mein Deutsch und mein Englisch sind toll, aber mein Polnisch ist schlecht. Sprec
 + If we are talking about just 1 language, we would use "bist":
 	Mein Deutsch ist toll...
 Weshalb - That's why/ Which is why
+
+machst do/are doing
+	Was machst du - what are you doing
+Surfe surf
+Urlaub vacation
+Jogge/joggt joggst jogging
+	Ich jogge jeden morgen - I jogging everyday 
+Jeden every
+	Meine Eule malt jeden tag
+Tag day
+	ich surfe jeden tag im Urlaub - I surf every day on vacation
+Frühstückt breakfast
+	Wo Frühstückt 
+Basketball Basketball
+Volleyball Vollezball
+	Es tut mir leid, dein arzt spielt volleyball
+Singe/Singt/Singst sing
+	Ich singe gern - I like to sing
+	Er singe sehr laut
+Gern like to/ do like to
+	Singst du gern - do you like to sing
+	Lerne du gern - do you like to learn
+	Was machst du gern - what do you like to do <-> Ich singe gern, und du
+Fotografiere - Photograph (-e/t/st/en)
+	Die Künslterin Fotogrfiere gern in München - The Artist likes to take photo in Munchen
