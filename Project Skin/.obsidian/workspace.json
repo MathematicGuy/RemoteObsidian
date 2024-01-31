@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86fa5bf81c4f57bd",
+        "id": "4d6ab3cc188e2d95",
         "type": "tabs",
         "children": [
           {
-            "id": "406d68504e69acc5",
+            "id": "b981823534c7bafc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "e5dd65caeb08be5d",
+            "id": "8300754a27c965ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md"
+                "file": "German Vocabulary.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5dd65caeb08be5d",
+  "active": "8300754a27c965ac",
   "lastOpenFiles": [
-    "Software Technology.md",
     "Todo.md",
+    "Software Technology.md",
     "Personal/Good for LATER.md",
     "German Vocabulary.md",
     "How to Plan Team Coding Project.md",
