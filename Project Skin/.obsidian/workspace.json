@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laguage Learning Tips.md",
+                "file": "German Technology Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laguage Learning Tips.md",
+                "file": "German Technology Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laguage Learning Tips.md",
+                "file": "German Technology Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laguage Learning Tips.md"
+                "file": "German Technology Vocabulary.md"
               }
             }
           },
@@ -200,17 +200,18 @@
   },
   "active": "8300754a27c965ac",
   "lastOpenFiles": [
-    "Emoji.md",
+    "German.md",
+    "German Technology Vocabulary.md",
+    "German Vocabulary.md",
+    "Personal/Language Learning/Language Learning.md",
     "Laguage Learning Tips.md",
+    "Emoji.md",
     "Todo.md",
     "Personal/Good for LATER.md",
-    "Personal/Language Learning/Language Learning.md",
-    "German.md",
     "German Grammar.md",
     "German Grammar Drill.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
-    "German Vocabulary.md",
     "Software Technology.md",
     "How to Plan Team Coding Project.md",
     "Images/Pasted image 20240130213520.png",
@@ -236,7 +237,6 @@
     "CSS Bootstrap 5.md",
     "CSS Desgin Pattern.md",
     "CSS Note.md",
-    "CSS Artistic.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
