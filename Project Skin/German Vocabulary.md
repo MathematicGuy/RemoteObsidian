@@ -254,23 +254,23 @@ interessant insteresting
 Schule school
 Schüler student
 Er heißt his name
-spricht speak
-sprachen language
-ich heiB my name is
-was ist dein beruf 
+Spricht speak
+Sprachen language
+Ich heiB my name is
+Was ist dein beruf 
 	what is your profession?
 
 
-koche cook
+Koche cook
 	ich koche
-kochst (you) cook
+Kochst (you) cook
 	du kochst
 
-schwimme swim
-nie never
-male paint
+Schwimme swim
+Nie never
+Male paint
 	ich male nie - I never paint
-manchmal sometime
+Manchmal sometime
 	ich koche manchmal
 
 **Rule** (I to you - replace e with st)
@@ -480,6 +480,7 @@ Sandwich sandwich
 	 Kostel ein Sandwich wirklich sieben Euro? Das ist teuer. Zwei Orangen und ein Wasser, bitte.
 	 - Does an Sandwich really cost 7 Euros? That is expensive. Ten orange and a water please. 
 Erdbeeren strawberries
+	acht kilogramm Erdbeeren
 
 ###### Excercise: Wo ist Beas Freundin
 Zusammen  together 
@@ -664,18 +665,18 @@ Schnell quickly/quick
 + ? Only Verb are affect with t/st/en/en
 Bisschen little
 	Ich spreche ein Bisschen Türkisch - I speak a little Turkish
-Spricht speak
+Spricht speak (Du, sie, er, Ihr, Herr)
 viel much - viele many (diffrent word, same intention)
 	Ich spreche viele Sprachen - I speak many  languages
 	Er spricht viele Sprachen - he speak many language
 + ? Spricht goes with Er
 + ? Sprechen/Sprecht/Sprechst goes with Ich, du, 
 
-Mutterspreche mothertongue
+Mutterspreche mothertongue (deine)
 	Was ist dein mutterspreche, Max
 		mutter -> mother, sprache -> language
 		mutterspreche -> mother language
-	Ich lebe im München aus Deutschland, aber mein muttersprache ist  Vietnamesisch
+	Ich lebe im München aus Deutschland, aber meine muttersprache ist  Vietnamesisch
 
 #WhatTheDifferent Spricht v/s Sprechen
 + "Spricht" is the 3rd person singular form, usually used with "er" (he), "sie" (she) or "es" (it).
@@ -703,7 +704,7 @@ Jeden every
 	Meine Eule malt jeden tag
 Tag day
 	ich surfe jeden tag im Urlaub - I surf every day on vacation
-Frühstückt breakfast
+Frühstücke breakfast (e,st,t,en)
 	Wo Frühstückt 
 Basketball Basketball
 Volleyball Vollezball
@@ -717,3 +718,5 @@ Gern like to/ do like to
 	Was machst du gern - what do you like to do <-> Ich singe gern, und du
 Fotografiere - Photograph (-e/t/st/en)
 	Die Künslterin Fotogrfiere gern in München - The Artist likes to take photo in Munchen
+
+Warum why
