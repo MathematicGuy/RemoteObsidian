@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Laguage Learning Tips.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Laguage Learning Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Laguage Learning Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "Laguage Learning Tips.md"
               }
             }
           },
@@ -176,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,12 +200,19 @@
   },
   "active": "8300754a27c965ac",
   "lastOpenFiles": [
+    "Emoji.md",
+    "Laguage Learning Tips.md",
     "Todo.md",
-    "Software Technology.md",
     "Personal/Good for LATER.md",
+    "Personal/Language Learning/Language Learning.md",
+    "German.md",
+    "German Grammar.md",
+    "German Grammar Drill.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
     "German Vocabulary.md",
+    "Software Technology.md",
     "How to Plan Team Coding Project.md",
-    "Personal/Language Learning/German.md",
     "Images/Pasted image 20240130213520.png",
     "Images/Pasted image 20240130213505.png",
     "Images/Pasted image 20240130213434.png",
@@ -229,13 +237,6 @@
     "CSS Desgin Pattern.md",
     "CSS Note.md",
     "CSS Artistic.md",
-    "Final Web Exam Revision.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "WebDev/Web.md",
-    "_Focus/2023/Last Semester/HCM  Ideology.md",
-    "HCM Ideology Group Project.md",
-    "HCM Ideology Revision.md",
-    "Software Technology Review.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",

@@ -26,7 +26,6 @@ Cool Programmer Layout
 Create Artificial Life From Simple Rules - Particle Life
 	https://youtu.be/0Kx4Y9TVMGg?si=U45c6MRiWDpS9oD_
 
-
 Sound Of Metal
 
 Git-hub. ML docs
@@ -39,13 +38,9 @@ https://youtu.be/BTN6hJ65qk8?si=WxDU3ehO99n3dDP7 (recommended)
 Or
 https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github (quick setup)
 
-
 [AI Prompt for Quality Code](https://pastebin.com/dLWDzE0m)
 
 [libgen.is](http://libgen.is/)
 	download all books website
 
-github co-pilot
-![[Pasted image 20240103103816.png]]
-warning for vague infomation
-![[Pasted image 20240103102446.png]]
+
