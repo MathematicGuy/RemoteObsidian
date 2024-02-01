@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6ab3cc188e2d95",
+        "id": "f7300f3d4cbc1dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "b981823534c7bafc",
+            "id": "e5a1d569a0acf8db",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8300754a27c965ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Technology Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Technology Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Technology Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Technology Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8300754a27c965ac",
+  "active": "e5a1d569a0acf8db",
   "lastOpenFiles": [
     "German.md",
     "German Technology Vocabulary.md",
