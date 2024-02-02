@@ -19,7 +19,7 @@
 + implementieren implementation
 + entwickeln develop
 + testen test
-+ optimieren optimize
++ optimieren optimizeii
 + debuggen debug
 + konfigurieren configure
 + analysieren analyze

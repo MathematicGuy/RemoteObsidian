@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question Mark/Why & What.md",
+                "file": "How To/How to Think Like an Artist.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Question Mark/Why & What.md",
+                "file": "How To/How to Think Like an Artist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Question Mark/Why & What.md",
+                "file": "How To/How to Think Like an Artist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Question Mark/Why & What.md"
+                "file": "How To/How to Think Like an Artist.md"
               }
             }
           },
@@ -179,8 +180,10 @@
   },
   "active": "e565f43904c98649",
   "lastOpenFiles": [
-    "How To/How to have Self-Control.md",
+    "Image/Pasted image 20240202205048.png",
     "Question Mark/Why & What.md",
+    "How To/How to Think Like an Artist.md",
+    "How To/How to have Self-Control.md",
     "How To/How to Learn Fast.md",
     "Why/Why.md",
     "Why",
@@ -205,8 +208,6 @@
     "My Life/100 Thing to do before DeadBed.md",
     "Image/books.png",
     "Happiness/Save for my GF.md",
-    "Happiness/Plane.md",
-    "Happiness/Food.md",
     "Social",
     "How To",
     "Happiness",

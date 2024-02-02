@@ -1,11 +1,7 @@
 
-Daily & Habit: [Tasks | Habitica](https://habitica.com/)
 
-#todo/habit
-- [ ] Practice speaking English
-- [ ] Sleep & Wake up on time [~11h to (~5h30 - 6h) ] 
 
-#todo/habit/calisthenics
+#habit/calisthenics
 - [ ] Calisthenics Workout
 	- [x] Warm-Up
 		- Muscle Stretch 

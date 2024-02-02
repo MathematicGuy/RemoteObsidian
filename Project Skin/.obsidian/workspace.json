@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "133643c4f57ae318",
+            "id": "b5c10326166e2821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar.md",
+                "file": "Habit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,13 +82,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guitar.md",
+                "file": "Habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guitar.md",
+                "file": "Habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitar.md"
+                "file": "Habit.md"
               }
             }
           },
@@ -198,9 +196,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "133643c4f57ae318",
+  "active": "b5c10326166e2821",
   "lastOpenFiles": [
-    "Là Anh.md",
+    "Todo.md",
+    "Habit.md",
+    "_Focus.md",
+    "FrontEnd/Class Selector.md",
+    "Personal/Interest/Full Planche Jouney.md",
+    "Code/OOP Quizziz.md",
+    "FrontEnd/Intro to Twitter Bootstrap.md",
+    "BackEnd/Visit the Client.md",
+    "Code/Git Requirement.md",
+    "FrontEnd/Element Positioning.md",
+    "BackEnd/Use Case Diagrams.md",
+    "BackEnd/Key in RDBMS.md",
+    "BackEnd/DBMS Characteristics.md",
+    "BackEnd/Group Project.md",
+    "BackEnd/DB Users.md",
+    "Personal/Language Learning/Vocabulary 1.md",
+    "BackEnd/Three-Schema Architecture  & Data Independence.md",
+    "History & Politic/HCM Ideology Group Project.md",
+    "BackEnd/DBMS Languages, Interfaces & Classification.md",
+    "History & Politic/Palestine Story.md",
+    "History & Politic/Israel Story.md",
+    "Code/Token.md",
+    "Code/Vim.md",
+    "FrontEnd/FrontEnd RoadMap.md",
+    "Code/Basic Concepts.md",
+    "Code/C Fundamental Deep Dive.md",
+    "FrontEnd",
+    "BackEnd",
+    "Code/Student Management Application (JAVA).canvas",
+    "Code",
+    "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
+    "Personal/Interest/Music",
     "Images/openBm.png",
     "Images/bigA.png",
     "Images/Pasted image 20240202132332.png",
@@ -209,46 +238,16 @@
     "Images/Pasted image 20240202131645.png",
     "Images/Pasted image 20240202131755.png",
     "Images/Pasted image 20240202131638.png",
-    "Guitar.md",
-    "Todo.md",
-    "German Vocabulary.md",
-    "German.md",
-    "German Technology Vocabulary.md",
-    "Personal/Language Learning/Language Learning.md",
-    "Laguage Learning Tips.md",
-    "Emoji.md",
-    "Personal/Good for LATER.md",
-    "German Grammar.md",
-    "German Grammar Drill.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "Software Technology.md",
-    "How to Plan Team Coding Project.md",
     "Images/Pasted image 20240130213520.png",
     "Images/Pasted image 20240130213505.png",
-    "Second Year Graduate Project.md",
-    "Project Ideas.md",
-    "How to Working on a Dev Team.md",
-    "Personal/Interest/Cooking.md",
     "Untitled.canvas",
-    "Like my Father.md",
-    "American - China Chip Wars and the Potential for VN people.md",
-    "Chip.md",
-    "Center a div.md",
-    "CSS Bootstrap 5.md",
     "_Focus/This is my Life.canvas",
-    "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
-    "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "_Focus/SQL & DataBase/DB HomeWork",
     "_Focus/SQL & DataBase/SQL",
-    "Personal/Comparison",
-    "_Focus/SQL & DataBase/DB_Document/SlideDBChapter1.pdf",
-    "Images/Pasted image 20231030233246.png.~tmp",
-    "_Focus/2023/Last Semester",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",

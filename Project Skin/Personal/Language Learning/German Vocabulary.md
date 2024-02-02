@@ -13,7 +13,7 @@ Tschuss Bye
 Danke thank
 	Danke Schon thank you (danke shun)
 Grob tall/big
-Klein small
+Klein smallL
 
 **Lesson 2**
 Mein my

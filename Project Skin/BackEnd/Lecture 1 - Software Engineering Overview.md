@@ -17,7 +17,7 @@ Các cách tiếp cận dự án:
 
 
 [7 Mô hình](https://onix-systems.com/blog/7-basic-software-development-models-which-one-to-choose)
-[[10 Software Design Pattern]] 
+[[10 Software Design Pattern 1]] 
 
 [Kiểm thử](https://www.indeed.com/career-advice/career-development/phases-of-testing)
 [Kiểm thử Trắng và Đen](https://www.practitest.com/resource-center/article/black-box-vs-white-box-testing/#:~:text=The%20Black%20Box%20Test%20is,into%20consideration%20its%20internal%20functioning.)
