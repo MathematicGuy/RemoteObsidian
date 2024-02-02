@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "019d169de4c6a4c1",
+            "id": "133643c4f57ae318",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Guitar.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Guitar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocabulary.md",
+                "file": "Guitar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocabulary.md"
+                "file": "Guitar.md"
               }
             }
           },
@@ -198,12 +198,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "019d169de4c6a4c1",
+  "active": "133643c4f57ae318",
   "lastOpenFiles": [
+    "Là Anh.md",
+    "Images/openBm.png",
+    "Images/bigA.png",
+    "Images/Pasted image 20240202132332.png",
+    "Images/bigG.png",
+    "Images/D.png",
+    "Images/Pasted image 20240202131645.png",
+    "Images/Pasted image 20240202131755.png",
+    "Images/Pasted image 20240202131638.png",
+    "Guitar.md",
     "Todo.md",
+    "German Vocabulary.md",
     "German.md",
     "German Technology Vocabulary.md",
-    "German Vocabulary.md",
     "Personal/Language Learning/Language Learning.md",
     "Laguage Learning Tips.md",
     "Emoji.md",
@@ -216,27 +226,16 @@
     "How to Plan Team Coding Project.md",
     "Images/Pasted image 20240130213520.png",
     "Images/Pasted image 20240130213505.png",
-    "Images/Pasted image 20240130213434.png",
     "Second Year Graduate Project.md",
     "Project Ideas.md",
     "How to Working on a Dev Team.md",
-    "Images/Pasted image 20240130091020.png",
-    "Images/Pasted image 20240130091007.png",
-    "Images/Pasted image 20240130090953.png",
-    "Images/Pasted image 20240130090607.png",
-    "Images/Pasted image 20240130090416.png",
     "Personal/Interest/Cooking.md",
     "Untitled.canvas",
     "Like my Father.md",
-    "Images/Pasted image 20240128181635.png",
-    "Images/Pasted image 20240128181551.png",
-    "Guitar.md",
     "American - China Chip Wars and the Potential for VN people.md",
     "Chip.md",
     "Center a div.md",
     "CSS Bootstrap 5.md",
-    "CSS Desgin Pattern.md",
-    "CSS Note.md",
     "_Focus/This is my Life.canvas",
     "Student Management Application (JAVA).canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
