@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to Think Like an Artist.md",
+                "file": "How To/How to Lose Your Passion.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How to Think Like an Artist.md",
+                "file": "How To/How to Lose Your Passion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How to Think Like an Artist.md",
+                "file": "How To/How to Lose Your Passion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How to Think Like an Artist.md"
+                "file": "How To/How to Lose Your Passion.md"
               }
             }
           },
@@ -180,9 +179,10 @@
   },
   "active": "e565f43904c98649",
   "lastOpenFiles": [
+    "How To/How to Think Like an Artist.md",
+    "How To/How to Lose Your Passion.md",
     "Image/Pasted image 20240202205048.png",
     "Question Mark/Why & What.md",
-    "How To/How to Think Like an Artist.md",
     "How To/How to have Self-Control.md",
     "How To/How to Learn Fast.md",
     "Why/Why.md",
@@ -222,7 +222,6 @@
     "Image/Pasted image 20230901075612.png",
     "Image/Pasted image 20230901075150.png",
     "Image/Pasted image 20230901074907.png",
-    "Image/Pasted image 20230901074843.png",
     "Ultimate Past Paper Revision Strategy",
     "Untitled.canvas",
     "Report2.pdf",
