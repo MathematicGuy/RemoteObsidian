@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habit.md",
+                "file": "Personal/Interest/Music/Là Anh.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habit.md",
+                "file": "Personal/Interest/Music/Là Anh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habit.md",
+                "file": "Personal/Interest/Music/Là Anh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habit.md"
+                "file": "Personal/Interest/Music/Là Anh.md"
               }
             }
           },
@@ -198,8 +199,9 @@
   },
   "active": "b5c10326166e2821",
   "lastOpenFiles": [
-    "Todo.md",
+    "Images/Pasted image 20240202223837.png",
     "Habit.md",
+    "Todo.md",
     "_Focus.md",
     "FrontEnd/Class Selector.md",
     "Personal/Interest/Full Planche Jouney.md",
@@ -223,7 +225,6 @@
     "Code/Vim.md",
     "FrontEnd/FrontEnd RoadMap.md",
     "Code/Basic Concepts.md",
-    "Code/C Fundamental Deep Dive.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
