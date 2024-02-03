@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7300f3d4cbc1dbb",
+        "id": "eb5281b2cf041748",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a1d569a0acf8db",
+            "id": "777e2ad17f9a2c3c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b5c10326166e2821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Interest/Music/Là Anh.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Interest/Music/Là Anh.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Interest/Music/Là Anh.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Interest/Music/Là Anh.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5c10326166e2821",
+  "active": "777e2ad17f9a2c3c",
   "lastOpenFiles": [
     "Images/Pasted image 20240203102514.png",
     "Images/Pasted image 20240203102137.png",
