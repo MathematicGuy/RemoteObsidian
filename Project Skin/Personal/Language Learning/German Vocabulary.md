@@ -101,7 +101,9 @@ Guten Abend good Evening
 Wie geht's how are you
 
 Natürlich of course
-Bis Spater see you later
+Bis Später see you later
++ Bis until
++ Später later
 
 
 Morgen morning
@@ -643,7 +645,7 @@ Russisch russian
 
 Perfekt perfect  
 	Sprechst du perfekt Polnisch
-Toll great
+Toll great (lowest level of great)
 Schwer difficult
 Einfach easy
 	Ist Deutsch Einfach oder Schwer
@@ -725,9 +727,12 @@ Tim, du malst im Urlaub - Tim you paint on vacation
 	Question form Tim, malst du im Urlaub - Tim you paint on vacation ?
 
 Anna frühstückt nicht gern mit Max. Max fotografiert immer das Essen.
+(Anna doesn't like having eating breakfast with Max. Max always take photos of the food)
 
 Am on
 Wochenende weekend
 	Sie joggen immer am wochenede - She always jog on the weekend
 
 Aber ich spiele nicht so gern - I not like playing that much
+Isst eat
+	meine Mutter isst Käse - My mother eat cheese

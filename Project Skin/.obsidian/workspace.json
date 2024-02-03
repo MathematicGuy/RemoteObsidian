@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Nominative Case.md",
+                "file": "German Word Order.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,16 +36,11 @@
             }
           },
           {
-            "id": "b461851c7068ddf1",
+            "id": "39796225a48f2e2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Nominative Case.md",
+                "file": "German Word Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Nominative Case.md",
+                "file": "German Word Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Nominative Case.md"
+                "file": "German Word Order.md"
               }
             }
           },
@@ -212,19 +207,24 @@
   },
   "active": "28c8502151cad842",
   "lastOpenFiles": [
-    "Images/Pasted image 20240204010613.png",
     "Personal/Language Learning/German Grammar.md",
     "German Nominative Case.md",
-    "German Noun Gender1.md",
-    "Todo.md",
+    "German Word Order.md",
     "Personal/Language Learning/German Vocabulary.md",
+    "Images/Pasted image 20240204024725.png",
+    "Images/Pasted image 20240204024335.png",
+    "Images/Pasted image 20240204024042.png",
+    "Images/Pasted image 20240204023619.png",
+    "Images/Pasted image 20240204023548.png",
+    "Images/Pasted image 20240204023504.png",
+    "Images/Pasted image 20240204023502.png",
+    "Images/Pasted image 20240204023143.png",
+    "Images/Pasted image 20240204022239.png",
+    "Images/Pasted image 20240204022100.png",
+    "Todo.md",
+    "German Noun Gender1.md",
     "Workout Goals.md",
-    "Images/Pasted image 20240203230134.png",
-    "Images/Pasted image 20240203102514.png",
-    "Images/Pasted image 20240203102137.png",
-    "Images/Pasted image 20240202223837.png",
     "Personal/Interest/Music/Là Anh.md",
-    "Images/Pasted image 20240202232917.png",
     "Habit.md",
     "_Focus.md",
     "FrontEnd/Class Selector.md",
@@ -242,18 +242,12 @@
     "Personal/Language Learning/Vocabulary 1.md",
     "BackEnd/Three-Schema Architecture  & Data Independence.md",
     "History & Politic/HCM Ideology Group Project.md",
-    "BackEnd/DBMS Languages, Interfaces & Classification.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
     "Code",
     "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "Personal/Interest/Music",
-    "Images/openBm.png",
-    "Images/bigA.png",
-    "Images/Pasted image 20240202132332.png",
-    "Images/bigG.png",
-    "Images/D.png",
     "Untitled.canvas",
     "_Focus/This is my Life.canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
