@@ -384,7 +384,7 @@ Geburtstag birthday
 ### Unit 1
 + ! note: **im** is short for **in the** 
 
-Kanzler Chancellor
+Kanzler Chancellor (Die)
 
 Herr Mr.
 Sie Ms.
@@ -694,7 +694,7 @@ Mein Deutsch und mein Englisch sind toll, aber mein Polnisch ist schlecht. Sprec
 	Mein Deutsch ist toll...
 Weshalb - That's why/ Which is why
 
-machst do/are doing
+Machst do/are doing
 	Was machst du - what are you doing
 Surfe surf
 Urlaub vacation
@@ -718,8 +718,16 @@ Gern like to/ do like to
 	Was machst du gern - what do you like to do <-> Ich singe gern, und du
 Fotografiere - Photograph (-e/t/st/en)
 	Die Künslterin Fotogrfiere gern in München - The Artist likes to take photo in Munchen
-
 Warum why
+	Warum ist die Salad so lecker
 
 Tim, du malst im Urlaub - Tim you paint on vacation
 	Question form Tim, malst du im Urlaub - Tim you paint on vacation ?
+
+Anna frühstückt nicht gern mit Max. Max fotografiert immer das Essen.
+
+Am on
+Wochenende weekend
+	Sie joggen immer am wochenede - She always jog on the weekend
+
+Aber ich spiele nicht so gern - I not like playing that much
