@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "29ad883324ec558e",
+            "id": "28c8502151cad842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workout Goals.md",
+                "file": "Personal/Language Learning/German Grammar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b461851c7068ddf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workout Goals.md",
+                "file": "Personal/Language Learning/German Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workout Goals.md",
+                "file": "Personal/Language Learning/German Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workout Goals.md"
+                "file": "Personal/Language Learning/German Grammar.md"
               }
             }
           },
@@ -197,12 +210,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29ad883324ec558e",
+  "active": "28c8502151cad842",
   "lastOpenFiles": [
-    "Images/Pasted image 20240203230134.png",
-    "Workout Goals.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
+    "Personal/Language Learning/German Grammar.md",
+    "Workout Goals.md",
+    "Images/Pasted image 20240203230134.png",
     "Images/Pasted image 20240203102514.png",
     "Images/Pasted image 20240203102137.png",
     "Images/Pasted image 20240202223837.png",
@@ -240,7 +254,6 @@
     "Images/Pasted image 20240202132332.png",
     "Images/bigG.png",
     "Images/D.png",
-    "Images/Pasted image 20240202131645.png",
     "Untitled.canvas",
     "_Focus/This is my Life.canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
