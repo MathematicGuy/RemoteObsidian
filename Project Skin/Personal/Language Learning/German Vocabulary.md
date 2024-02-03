@@ -704,7 +704,7 @@ Jeden every
 	Meine Eule malt jeden tag
 Tag day
 	ich surfe jeden tag im Urlaub - I surf every day on vacation
-Frühstücke breakfast (e,st,t,en)
+Frühstücke breakfast (ending: -e,-st,-t,-en)
 	Wo Frühstückt 
 Basketball Basketball
 Volleyball Vollezball
@@ -720,3 +720,6 @@ Fotografiere - Photograph (-e/t/st/en)
 	Die Künslterin Fotogrfiere gern in München - The Artist likes to take photo in Munchen
 
 Warum why
+
+Tim, du malst im Urlaub - Tim you paint on vacation
+	Question form Tim, malst du im Urlaub - Tim you paint on vacation ?
