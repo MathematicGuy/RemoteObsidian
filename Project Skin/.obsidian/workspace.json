@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German Grammar.md",
+                "file": "German Nominative Case.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Grammar.md",
+                "file": "German Nominative Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Grammar.md",
+                "file": "German Nominative Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Grammar.md"
+                "file": "German Nominative Case.md"
               }
             }
           },
@@ -212,9 +212,12 @@
   },
   "active": "28c8502151cad842",
   "lastOpenFiles": [
+    "Images/Pasted image 20240204010613.png",
+    "Personal/Language Learning/German Grammar.md",
+    "German Nominative Case.md",
+    "German Noun Gender1.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "Personal/Language Learning/German Grammar.md",
     "Workout Goals.md",
     "Images/Pasted image 20240203230134.png",
     "Images/Pasted image 20240203102514.png",
@@ -240,9 +243,6 @@
     "BackEnd/Three-Schema Architecture  & Data Independence.md",
     "History & Politic/HCM Ideology Group Project.md",
     "BackEnd/DBMS Languages, Interfaces & Classification.md",
-    "History & Politic/Palestine Story.md",
-    "History & Politic/Israel Story.md",
-    "Code/Token.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
