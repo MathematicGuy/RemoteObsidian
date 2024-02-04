@@ -7,6 +7,7 @@
 	der Buddhismus
 - ner
 	der Ordner (folder)
+der Markt
 
 **Feminine - common Ending**
 - ade - die Limonade (lemonade)  
@@ -35,7 +36,7 @@ die Buche (the beech,  cây sồi)
 + ium - das Studium (studies, studying)
 + lein - das Fräulein (miss/girl/young/woman)
 + ment - das Parliament (parliament), das Medikament (drug, medicine)
-+ o - das Konto (account), das Lotto (lottery)
++ o - das Konto (account), das Lotto (lottery), das Kino (the movie theater / cinema)
 + um or tum - das Parfum (perfume), das Datum (Date)
 or Starting with -Ge : das Gehalt (salary), das Gebäude (building)
 **Usually NEUTER**

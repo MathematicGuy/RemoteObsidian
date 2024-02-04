@@ -1,7 +1,13 @@
-### **Unit 1**
+### **Unit 1: Order in a cafe, describe your family**
 
 **Lesson 1**
-+ ! Nounce must be capitalize
++ ! Noun must be capitalize
++ $ Key Phrase
+	  Kaffee oder Tea
+	  Brot und Wasser
+	  Tee und Brot, bitte
+	  Danke, Tchüss
+	  Tchüss
 
 Und and
 Oder or
@@ -38,7 +44,6 @@ Mutter mother
 Mann husband/Men
 Frau wive
 
-
 Bruder brother
 Schwester sister
 
@@ -58,10 +63,18 @@ der Junge  the boy
 die frau  the woman
 der Mann  the man
 
++ @  **Capitals**: in German, you capitalize all nouns 
++ @ Gender Nouns: eine for  feminine  and ein for musculine word
+	Eine Mutter / Bruder
+	Ein Vater / Schwester
 
-### **Unit 2**
 
-**Lesson 1**
+### **Unit 2: Use adjectives, greet people** (tính từ)
++ $ Adjective: jung, klug, nett, schön, nett, groß, etc..
+	der Hund ist schön
+	Ja, die Katze ist klug und nett
+	nein, meine Eule ist kein groß
+
 eine Eule the owl
 eine Maus the mouse
 eine Katze the cat (cat wa see as famale ??)
@@ -81,7 +94,6 @@ Wo who
 + ? Woher is used when you want to know where someone or something comes from. 
 	example: Woher kommst du? (Where do you come from?)
 
-**Lesson 2**
 gut good
 geht (saying sth is good?)
 
@@ -121,11 +133,21 @@ Kein Problem no problem
 	er / Ihr keinen
 
 Es tut mir leid! I'm sorry (ét tút mi like)
-
 guten tag good day
 
++ @ A bit about Gender: der for musculine, die for feminine
++ @ **Tip** : Lots of German words have a silent "h"
+	es g*eh*t 
+	auf Wiederse*he*n
+	S*oh*n 
 
-### Unit 3: Order Food
+### Unit 3: Order in a restaurant, say where you're from
++ $ Key Phrase: Order in a Restaurant
+	Entschuldigung, wo ist die Kellner
+	Die Rechnung  bitte
+	Hier ist die Speisekarte (end with e -> feminine)
+	ist der Wurst lecker
+	Der Huhn ist kalt
 
 das the (No gender/non-binary)
 
@@ -170,23 +192,23 @@ the + drink = der - der mineralwasser
 	Ex: das brot, das restaurant ist hier, etc..
 gender in food: die (female) - das (male)
 
-##### Country
-replace C letter with K for country name. 
-+ Wunderbar wonderful
-+ Klein small
-Deutschland
-Österreich Austria
-	Wein Viena
-Franchreich Franch
 
-#WhatTheDifferent  Woher, Wo and Wohin
-We use wo to ask where someone is - 3 ways to say Where in German
-+ "Woher"  **we use woher to ask where someone is coming from (direction toward the speaker)**
-	 woher gehst du (where are you going)
-+ "Wo" is used to ask about a static location (wo lebst du)
-	 wo bist du, Dinh (where are you, Dinh)
-+ "Wohin" **to ask where someone is going (direction away from the speaker)** 
-	 Wohin fahren wir (where are we going) 
++ $ Key Phrase: Say where are you from
+	**Woher kommst du ?**  (Where are you come from)
+	Ich kommen aus Vietnam
+	
+	**Kommst du aus Taiwan ?**  (Are you come from Taiwan)
+	ich kommen aus Japan
++ $ Country (replace C letter with K for country name)	
+	Deutschland
+	Österreich Austria
+	Wein Viena
+	Franchreich Franch
+
+Wunderbar wonderful
+Klein small
+
+
 
 kommst come from
 + Ich komme
@@ -228,7 +250,27 @@ Mögen like
 für for
 Kasse cash register
 
-Unit 4: 
++ @ All the genders: Das and Ein for Neuter noun. With das mean the, ein mean a
+	das sandwich (the sandwich) 
+	ein sandwich (a sandwich)
+
+#WhatTheDifferent **Woher, Wo and Wohin**
+We use wo to ask where someone is - 3 ways to say Where in German
++ "Woher"  **we use woher to ask where someone is coming from (direction toward the speaker)**
+	 woher gehst du (where are you going)
++ "Wo" is used to ask about a static location (wo lebst du)
+	 wo bist du, Dinh (where are you, Dinh)
++ "Wohin" **to ask where someone is going (direction away from the speaker)** 
+	 Wohin fahren wir (where are we going) 
+
++ @ Ask Question: **Switch the position** of the **subject** and the **verb**
+	Russland ist groß 
+	Ist Russland groß ?
+### Unit 4: Talk about work, use the present tense
++ $ Key Phrase: Talk About Work
+	Tim Herson, was ist dein beruf -> ich bin Programmierer/Programmiererin
+	Bist du Künstler ?
+
 sie she
 er he
 Schauspielerin actor (sau spi la rin) (female)
@@ -328,9 +370,35 @@ Der Vegetatier Excercise
 + are sind (are in plural form)
 	bist (are in singular form) Ex: bist du - are you
 
++ ? Dein and Deine is the same as Ein and Eine
++ @ Different strokes for different folks
++ @ Verbs have different endings depending on the subject of the sentence.
 
-Unit 5:
-	Bahnof train station
+| Subject | Verb (wandern) |
+| ---- | ---- |
+| Ich | Wandere |
+| Du | Wanderst |
+| Er / Sie / Es | Wandert |
+| Sie  / Wir | Wandern |
+| Ihr | Wandert |
++ Ihr : Herr
++ Wir: We
++ Sie : "You" in plural
++ sie : "She" in singular and "They" in plural
+#### Unit 5: Ask for directions
++ $ Key Phrase
+	Links - left
+	Recht - Right
+	
+	Entschuldigung, wo ist das Kino 
+	-> das Kino ist Recht (the movie theater is on the right)
+	-> das Kino ist da drüben
+	Ist die Markt ist in der Nähe
+	-> nein, der Markt ist in weit weg
+	Wo ist der Park
+	-> Der Park ist links
+
+Bahnof train station
 U Bahnstation subway station
 
 Markt market (Male - Der)
@@ -379,14 +447,26 @@ großer big (object)
 
 Exercise Die Reservierung - The Reservation
 Geburtstag birthday
-
+	Alles Gute zum Geburtstag
+	+ Alles - everything
+	+ Gute - good
+	+ zum - for the
 
 
 #WhatTheDifferent  Du v/s Sie
 + Du - use for friends and family members. (use for closly people) Indicate friendliness
 + Sie - use to show respect (like cô, chú in Vietnamese) for oder people, strangers or an authority figure - Indicate Respect
 
-### Unit 1
++ @ The, the and the (in different gender) : der and ein change form depending on that gender.
+
+| Gender | Noun |
+| ---- | ---- |
+| masculine | der Bahnhof<br>ein Bahnhof |
+| feminine | die Bäckerei<br>eine Bäckerei |
+| neuter | das Kino<br>ein Kino |
+## Section 2: Explorer
+
+### Unit 1: Speak formally, shop at a market
 + ! note: **im** is short for **in the** 
 
 Kanzler Chancellor (Die)
@@ -468,7 +548,7 @@ wirklich - really
 + dreihundert
 **Ty** (eg. thirty) (zig/ßig)
 20 - zwanzig
-30 - drei-
+30 - drei
 
 kostet - cost
 	 Wie viel kostet die sonnencreme
@@ -498,6 +578,9 @@ gern geschehen you're welcome
 	gern - géhen
 
 Wie alt bist du? how old are you?
+
+### Unit 2: Describe the weather, use the accusative case
+
 
 Wie ist das Wetter how is the weather
 Sonnig sunny
@@ -638,7 +721,7 @@ Eine (feminen)
 
 liebt dein bruder deinen hund - does your brother love your dog
 
-#### Unit 3: Talk about language, talk about hobbies
+### Unit 3: Talk about language, talk about hobbies
 
 Türkish turkish
 Polnisch polish
@@ -742,7 +825,7 @@ Aber ich spiele nicht so gern - I not like playing that much
 Isst eat
 	meine Mutter isst Käse - My mother eat cheese
 
-### Unit 4:
+### Unit 4: Use modals, describe a new apartment
 
 Schwimmbad swimming pool
 Möchte would like (Möchte ich, Möchtest du, etc..)

@@ -2,7 +2,6 @@
 [Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
 [Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 
 [HTML-CSS-JS for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/3)  (Finish this course to take Data Science course)
-[Quick time Event - 3 Day Free Datacamp course](https://app.datacamp.com/learn/courses/introduction-to-sql) (Optimize your chance)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
@@ -20,13 +19,10 @@
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
-- [ ] Learn more about Empathy
-- [ ] Strategy for Learning German word, phrase and sentences
 
 
 #Todo/Code/WebDev
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
-
 
 #Todo/Personal
 - [ ] Organize DB knowledge 
