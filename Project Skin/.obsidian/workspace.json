@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "babc8f9cb5b30a3f",
+        "id": "546ed296010ab99c",
         "type": "tabs",
         "children": [
           {
-            "id": "39796225a48f2e2d",
+            "id": "4da8321134d13e40",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "beed2c8729c4e0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,11 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "beed2c8729c4e0ae",
+  "active": "4da8321134d13e40",
   "lastOpenFiles": [
+    "German Noun Gender1.md",
+    "Personal/Language Learning/German Grammar.md",
     "Personal/Language Learning/German Vocabulary.md",
     "German Nominative Case.md",
-    "Personal/Language Learning/German Grammar.md",
     "Todo.md",
     "Personal/Interest/Music/Là Anh.md",
     "German Word Order.md",
@@ -215,7 +202,6 @@
     "Images/Pasted image 20240204023143.png",
     "Images/Pasted image 20240204022239.png",
     "Images/Pasted image 20240204022100.png",
-    "German Noun Gender1.md",
     "Workout Goals.md",
     "Habit.md",
     "_Focus.md",

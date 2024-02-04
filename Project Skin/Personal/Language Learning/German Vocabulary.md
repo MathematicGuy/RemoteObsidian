@@ -494,7 +494,8 @@ Gitarre guitar
 Sitze seats
 
 Vielen Dank thank you very much 
-gern geschehen you're welcome
+gern geschehen you're welcome 
+	gern - géhen
 
 Wie alt bist du? how old are you?
 
@@ -746,7 +747,7 @@ Isst eat
 Schwimmbad swimming pool
 Möchte would like (Möchte ich, Möchtest du, etc..)
 Ins to the
-gehen go
+gehen go (géhen)
 	Möchtest du mit Oma und Opa ins Restaurant gehen
 	(Would you like to go to the restaurant with Grandma and Grandpa?)
 hast have
@@ -781,9 +782,28 @@ Schade too bad
 Ich freue mich - I look forward to it
 Wann When
 	Wann hast du Zeit - when do you free
+	Bis Wann until when (Bis - Until, Wann - When)
 Nachmittag - this afternoon
 	Ja, heute Nachmittag ist gut - yes, this afternoon is good
 
 I would like to play soccer, but I don't have time
 	Ich Möchte fußball spielen, aber ich habe keine Zeith
 + ! Need Explain for Tail ending en,e,est 
+
+Eintrittskarte admission ticket (I từ  rít carter)
+	Die Eintrittskarte ist teuer
++ I would like to go to the Cinema. How much is the admission ticket
+	+ int - to the
+	+ gehen - go
+	+ Kino - cinema / movie theater
+	+ möchte - want (to like, would like)  (Moster)
+		Ich Möchte ins Kino Gehen. Wie viel ist die Eintrittskarte 
+
+Geöffnet - open (ger  net)
+	Das restaurant ist Geöffnet, aber die Kellnerin hat keine Zeit
+	( The restaurant is open, but the waitress have no time)
+	Bis wann ist das Restaurant geöffnet ?
+	(Until when is the restaurant open)
+
+Von - from
+	Das spiel ist von zwei bis vier - the game is from 2 until 4.
