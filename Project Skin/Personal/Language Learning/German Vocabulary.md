@@ -786,4 +786,4 @@ Nachmittag - this afternoon
 
 I would like to play soccer, but I don't have time
 	Ich Möchte fußball spielen, aber ich habe keine Zeith
-	
++ ! Need Explain for Tail ending en,e,est 
