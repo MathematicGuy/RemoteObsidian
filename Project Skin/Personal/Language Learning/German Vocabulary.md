@@ -573,6 +573,7 @@ Tante aunt
 Opa grandpa
 Oma grandma
 
++ ! einen come often before Freund/Freundin
 Freund boyfriend
 Freundin girl friend
 Mitbewohnerin roomate
@@ -632,7 +633,6 @@ Ein (neutral - trung tính)
 Eine (feminen)
 
 liebt dein bruder deinen hund - does your brother love your dog
-
 
 #### Unit 3: Talk about language, talk about hobbies
 
@@ -702,6 +702,7 @@ Surfe surf
 Urlaub vacation
 Jogge/joggt joggst jogging
 	Ich jogge jeden morgen - I jogging everyday 
++ Joggen jogging
 Jeden every
 	Meine Eule malt jeden tag
 Tag day
@@ -736,3 +737,35 @@ Wochenende weekend
 Aber ich spiele nicht so gern - I not like playing that much
 Isst eat
 	meine Mutter isst Käse - My mother eat cheese
+
+### Unit 4:
+
+Schwimmbad swimming pool
+Möchte would like (Möchte ich, Möchtest du, etc..)
+Ins to the
+gehen go
+	Möchtest du mit Oma und Opa ins Restaurant gehen
+	(Would you like to go to the restaurant with Grandma and Grandpa?)
+hast have
+
++ ! In English, we say I’d like to go to the movies. In German, that **second verb goes to the end**
+	![](https://d1btvuu4dwu627.cloudfront.net/7eea16a2572cb8a758f911276f810830/d7e4da34dc7305f43e43ae2b0b895aea/images/14baf5a1c8d343e8b053316031909a4f.svg)
+Möchtest du ins Kino gehen?
++ 1st verb: **Möchtest** - would you like 
++ 2nd verb: **Gehen** - go
+Would you like to go to the movies?
+
+
+Das Geht that work
+	Geht - right, correct
+	Das - that 
+Zeit time
+	Hast du Zeit - do you have time
+Ich kann nicht - I can't
+Spiel game
+	Das spiel is heute - the game is today
+Konzert concert
+	Das Konzert ist toll - the concert is great
+Samstag Saturday
+	Am Samstag this Saturday
+Sonntag Sunday
