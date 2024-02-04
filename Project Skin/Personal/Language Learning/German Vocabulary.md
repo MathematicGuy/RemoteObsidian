@@ -116,6 +116,9 @@ Super great
 Prost cheers
 
 Kein Problem no problem
+	ich keine
+	du keinst
+	er / Ihr keinen
 
 Es tut mir leid! I'm sorry (ét tút mi like)
 
@@ -769,3 +772,18 @@ Konzert concert
 Samstag Saturday
 	Am Samstag this Saturday
 Sonntag Sunday
+Um at
+	um eins - at one
+Schade too bad
+	Wirklich Schade - really too bad
+	Schade, ich kann nicht
+	Schade, ich habe um sechs keine Zeit - Too bad, I don't have time at six
+Ich freue mich - I look forward to it
+Wann When
+	Wann hast du Zeit - when do you free
+Nachmittag - this afternoon
+	Ja, heute Nachmittag ist gut - yes, this afternoon is good
+
+I would like to play soccer, but I don't have time
+	Ich Möchte fußball spielen, aber ich habe keine Zeith
+	
