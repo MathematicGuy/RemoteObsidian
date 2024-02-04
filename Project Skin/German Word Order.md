@@ -61,6 +61,8 @@ Weil / Denn - Because (Weil is more commonly used)
 ![[Pasted image 20240204023143.png]]
 + Because weil is a CONNECTIVE and ist is a VERB. SO ist will be Kick to the Back of the sentence. (hence the phrase "Boot" words)
 ![[Pasted image 20240204023504.png]]
+ **Subordinate Conjunction with Several Verbs**  
+ + ? **Just Boot the 1st Verb** and everything stay the same. (Boot mean kick) 
 ![[Pasted image 20240204023548.png]]
 ![[Pasted image 20240204023619.png]]![[Pasted image 20240204024042.png]]
 ![[Pasted image 20240204024335.png]]
