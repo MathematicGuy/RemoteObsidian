@@ -36,10 +36,11 @@ compare()
 > 				var undefined
 Example: 
 ![[Pasted image 20231114132026.png]]
-> Basically var x = 5 is called first, then var x = 2 is called later thus chagin x = 5 to x = 2. Hence why x = 2 in the console. 
+> Basically var x = 5 is called later but  x is still equal to 2.
+> This is because x is declared as 5 and saved inside "Function A" and not modified the Global x value from 2 to 5 (x outside the function).
+
 
 **Detail Example**
-
 > B() scan within itself but find no a. So B() scan outside and found a from Global scope. Therefor a = "Global Scope"
 ```js
 var a = "Global scope";

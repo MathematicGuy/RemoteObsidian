@@ -1,4 +1,4 @@
-## [[JS Basic]]
+## JS Basic
 + #### [[JS Basics - Codes]]
 
 ## [[JS Types and Common Language Constructs]]
@@ -7,7 +7,8 @@
 
 ### Arrays, Closures, and Namespaces
 + [[JS Array]]
-+ [[Closures]]
++ [[JS Closures]]
 + Namespace
 
 ### [[JS DOM]]
+
