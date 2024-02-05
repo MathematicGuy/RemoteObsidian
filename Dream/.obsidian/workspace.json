@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to Lose Your Passion.md",
+                "file": "Question Mark/Money.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How to Lose Your Passion.md",
+                "file": "Question Mark/Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How to Lose Your Passion.md",
+                "file": "Question Mark/Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How to Lose Your Passion.md"
+                "file": "Question Mark/Money.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "e565f43904c98649",
   "lastOpenFiles": [
-    "How To/How to Think Like an Artist.md",
     "How To/How to Lose Your Passion.md",
+    "How To/How to Think Like an Artist.md",
     "Image/Pasted image 20240202205048.png",
     "Question Mark/Why & What.md",
     "How To/How to have Self-Control.md",

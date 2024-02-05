@@ -833,7 +833,7 @@ Isst eat
 	-> ja, aber ich kein nicht. Ich habe kein geld
 	(yes, but I can not. I have no money)
 
-Schwimmbad swimming pool
+das Schwimmbad - the swimming pool
 Möchte would like (Möchte ich, Möchtest du, etc..)
 Ins to the
 gehen go (géhen)
@@ -936,6 +936,7 @@ Use `nicht` before an `adjective` to say `It isn't so`
 
 ```
 
+
 ```ad-tip
 Der or den ?
 
@@ -943,9 +944,10 @@ Der or den ?
 + Magst du **den** Tisch ? (Do you like the table) 
 + Ich habe **keinen** Teppich (I don't have a carpet)
 
-That's **just for musculine singular nouns** though ! **Others stay the same**
+That's **just for Musculine Singular Nouns** though! Others stay the same
 + Ich brauche **die** Lampe nicht (I don't need the lamp)
 + Magst du **das** Bücherregal ? (Don't you like the bookcase)
++ Ich habe keine Zeit (keine because Zeit is feminine Noun)
 ```
 
 

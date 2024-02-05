@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Sentences Position.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Sentences Position.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Sentences Position.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Sentences Position.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -199,22 +199,22 @@
   },
   "active": "5a224c73e2197bad",
   "lastOpenFiles": [
+    "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "German Sentences Position.md",
     "Images/Pasted image 20240205184242.png",
     "Images/Pasted image 20240205184141.png",
     "Images/Pasted image 20240205184138.png",
     "Images/Pasted image 20240205183725.png",
     "Images/Pasted image 20240205183701.png",
     "Personal/Language Learning/German Grammar.md",
-    "German Sentences Position.md",
     "Personal/Language Learning/German.md",
-    "Todo.md",
     "WebDev/WebDev_Learn/JS/JS Fundamental.md",
     "BackEnd/JS Closures.md",
     "JS Basic.md",
     "FrontEnd/JS Basic.md",
     "WebDev/WebDev_Learn/JS/JS Basics - Codes.md",
     "WebDev/WebDev_Learn/JS/JS.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Gefällt.md",
     "German Noun Gender.md",
     "German Nominative Case.md",
@@ -225,7 +225,6 @@
     "Images/Pasted image 20240204024042.png",
     "Images/Pasted image 20240204023619.png",
     "Images/Pasted image 20240204023548.png",
-    "Images/Pasted image 20240204023504.png",
     "Workout Goals.md",
     "Habit.md",
     "_Focus.md",
