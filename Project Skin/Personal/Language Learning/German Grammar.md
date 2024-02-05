@@ -4,5 +4,6 @@
 + ! Learn Gender along with Noun 
 
 [[German Word Order]]
+	[[German Sentences Position]]
 
 [[German Nominative Case]]

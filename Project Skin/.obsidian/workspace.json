@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German.md",
+                "file": "German Sentences Position.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German.md",
+                "file": "German Sentences Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German.md",
+                "file": "German Sentences Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German.md"
+                "file": "German Sentences Position.md"
               }
             }
           },
@@ -199,6 +199,14 @@
   },
   "active": "5a224c73e2197bad",
   "lastOpenFiles": [
+    "Images/Pasted image 20240205184242.png",
+    "Images/Pasted image 20240205184141.png",
+    "Images/Pasted image 20240205184138.png",
+    "Images/Pasted image 20240205183725.png",
+    "Images/Pasted image 20240205183701.png",
+    "Personal/Language Learning/German Grammar.md",
+    "German Sentences Position.md",
+    "Personal/Language Learning/German.md",
     "Todo.md",
     "WebDev/WebDev_Learn/JS/JS Fundamental.md",
     "BackEnd/JS Closures.md",
@@ -206,7 +214,6 @@
     "FrontEnd/JS Basic.md",
     "WebDev/WebDev_Learn/JS/JS Basics - Codes.md",
     "WebDev/WebDev_Learn/JS/JS.md",
-    "Personal/Language Learning/German Grammar.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Gefällt.md",
     "German Noun Gender.md",
@@ -219,10 +226,6 @@
     "Images/Pasted image 20240204023619.png",
     "Images/Pasted image 20240204023548.png",
     "Images/Pasted image 20240204023504.png",
-    "Images/Pasted image 20240204023502.png",
-    "Images/Pasted image 20240204023143.png",
-    "Images/Pasted image 20240204022239.png",
-    "Images/Pasted image 20240204022100.png",
     "Workout Goals.md",
     "Habit.md",
     "_Focus.md",
@@ -232,9 +235,6 @@
     "FrontEnd/Intro to Twitter Bootstrap.md",
     "BackEnd/Visit the Client.md",
     "Code/Git Requirement.md",
-    "FrontEnd/Element Positioning.md",
-    "BackEnd/Use Case Diagrams.md",
-    "BackEnd/Key in RDBMS.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
