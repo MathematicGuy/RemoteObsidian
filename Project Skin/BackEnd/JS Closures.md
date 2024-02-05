@@ -51,6 +51,7 @@ let A = () => {
   console.log("a: message = " + a);
 
   B();
+  
 }
 
 let B = () => {
