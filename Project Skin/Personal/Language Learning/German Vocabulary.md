@@ -1,3 +1,4 @@
+Adjective: word use to describe people or thing (e.g: red, big, tiny, fluffy, etc..)
 ### **Unit 1: Order in a cafe, describe your family**
 
 **Lesson 1**
@@ -121,7 +122,7 @@ Bis Später see you later
 Morgen morning
 Guten morgen good morning
 
-tag day/afternoon
+tag day
 Guten tag good day/afternoon
 
 Super great
@@ -203,7 +204,7 @@ gender in food: die (female) - das (male)
 	Deutschland
 	Österreich Austria
 	Wein Viena
-	Franchreich Franch
+	Frankreich France
 
 Wunderbar wonderful
 Klein small
@@ -827,6 +828,11 @@ Isst eat
 
 ### Unit 4: Use modals, describe a new apartment
 
++ $ Use Modals
+	Möchtest du ins Schwimmbad gehen
+	-> ja, aber ich kein nicht. Ich habe kein geld
+	(yes, but I can not. I have no money)
+
 Schwimmbad swimming pool
 Möchte would like (Möchte ich, Möchtest du, etc..)
 Ins to the
@@ -849,7 +855,7 @@ Das Geht that work
 Zeit time
 	Hast du Zeit - do you have time
 Ich kann nicht - I can't
-Spiel game
+das Spiel the game
 	Das spiel is heute - the game is today
 Konzert concert
 	Das Konzert ist toll - the concert is great
@@ -866,8 +872,9 @@ Ich freue mich - I look forward to it
 Wann When
 	Wann hast du Zeit - when do you free
 	Bis Wann until when (Bis - Until, Wann - When)
-Nachmittag - this afternoon
+Nachmittag - afternoon
 	Ja, heute Nachmittag ist gut - yes, this afternoon is good
++ Heute Nachmittag - this 
 
 I would like to play soccer, but I don't have time
 	Ich Möchte fußball spielen, aber ich habe keine Zeith
@@ -875,12 +882,12 @@ I would like to play soccer, but I don't have time
 
 Eintrittskarte admission ticket (I từ  rít carter)
 	Die Eintrittskarte ist teuer
-+ I would like to go to the Cinema. How much is the admission ticket
-	+ int - to the
++ I would like to go to the Cinema. How much is the admission ticket ?
+	+ Ins - to the (Inst ... gehen - to go to the ... )
 	+ gehen - go
 	+ Kino - cinema / movie theater
 	+ möchte - want (to like, would like)  (Moster)
-		Ich Möchte ins Kino Gehen. Wie viel ist die Eintrittskarte 
+		Ich Möchte ins Kino Gehen. Wie viel ist die Eintrittskarte ?
 
 Geöffnet - open (ger  net)
 	Das restaurant ist Geöffnet, aber die Kellnerin hat keine Zeit
@@ -890,3 +897,60 @@ Geöffnet - open (ger  net)
 
 Von - from
 	Das spiel ist von zwei bis vier - the game is from 2 until 4.
+
+ + $ Describe a new aprtment
+Noun
+	Wohnung apartment
+	 der Stuhl  chair
+	 die Tisch  table
+	 das Bett 
+Adjective 
+	Hässlich ugly 
+	Magst like
+	Dunkel dark
+	Bequem comfortable
+Adverb
+	Mag den - like the 
+Magst du die Wohnung (do you like the apartment)
+-> Ja, die Wohnung ist cool und groß
+Die Wohnung heben ein Stuhl und eine Tisch
+-> Der Stuhl ist zu Dunkel und hässlich
+
+[[Gefällt]] - to like / to please
+	To express "Jemandem gefällt etwas" - **someone like something**
+	 + Gefällt es dir
+	 + Das Kleid gefällt meiner Schwester (My sister like the dress)
+
+```ad-summary
+Say **"it isn't so"**. In English we say: **I don't like** the table. 
+**In German nicht goes to the end**. (I like the table don't)
++ $ to **Describe someone don't like something**
+	+ Mein Schwester mag den Stuhl **nicht** (My sister don't like the table)
+	+ Meine Freundin kommt aus Italien, daher gefällt ihr der Stuhl nicht
+		my girlfriend come from Italien, so she doesn't like the chair
+
+Use `nicht` before an `adjective` to say `It isn't so`
++ $ to **Describe something you don't like**
+	+ Das Bett ist nicht bequem
+	+ Der Stahl ist zu Hässlich
+
+```
+
+```ad-tip
+Der or den ?
+
+**Der, ein etc..change** when **the noun is at the receiving end of the verb**
++ Magst du **den** Tisch ? (Do you like the table) 
++ Ich habe **keinen** Teppich (I don't have a carpet)
+
+That's **just for musculine singular nouns** though ! **Others stay the same**
++ Ich brauche **die** Lampe nicht (I don't need the lamp)
++ Magst du **das** Bücherregal ? (Don't you like the bookcase)
+```
+
+
+#### Stories: Abendessen mit der Familie
++ @  German Logic: Eat in Evenning
+	Abend - Evenning
+	Essen - Food
+	Abendessen - Dinner (Eat in the evening)
