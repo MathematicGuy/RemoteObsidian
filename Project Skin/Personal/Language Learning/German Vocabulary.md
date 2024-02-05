@@ -954,3 +954,7 @@ That's **just for musculine singular nouns** though ! **Others stay the same**
 	Abend - Evenning
 	Essen - Food
 	Abendessen - Dinner (Eat in the evening)
++ $ Vocabs
+	so viel - so much  
+	um wie viel Uhr - at what time
+	auf dem Tisch - on the table 
