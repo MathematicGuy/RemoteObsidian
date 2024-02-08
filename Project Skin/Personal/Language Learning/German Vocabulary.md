@@ -336,6 +336,7 @@ Manchmal sometime
 
 spiele play
 	spielst plays (he/she plays)
+	Ich spiel am Sonntag Fußball
 Klavier piano
 	ich spiele sehr gut Klavier
 Schach chess (...come last)
@@ -839,24 +840,28 @@ Ins to the
 gehen go (géhen)
 	Möchtest du mit Oma und Opa ins Restaurant gehen
 	(Would you like to go to the restaurant with Grandma and Grandpa?)
+	Möchtest du am Sonntag ins Schwimmbad gehen
 hast have
 
 + ! In English, we say I’d like to go to the movies. In German, that **second verb goes to the end**
 	![](https://d1btvuu4dwu627.cloudfront.net/7eea16a2572cb8a758f911276f810830/d7e4da34dc7305f43e43ae2b0b895aea/images/14baf5a1c8d343e8b053316031909a4f.svg)
-Möchtest du ins Kino gehen?
+Möchtest du ins Kino gehen? - Would you like to go to the movies?
 + 1st verb: **Möchtest** - would you like 
 + 2nd verb: **Gehen** - go
-Would you like to go to the movies?
-
+Ich habe Zeit am Samstag. Möchtest du gern ins Kino gehen ?
+	 I have time on Saturday. Would you like to go the Movie Theater?
++ gehen ist the 2nd verb so it goes to the end
 
 Das Geht that work
 	Geht - right, correct
 	Das - that 
 Zeit time
 	Hast du Zeit - do you have time
+	Schade, ich habe um Sechs keine Zeit
 Ich kann nicht - I can't
 das Spiel the game
 	Das spiel is heute - the game is today
+	Ich Möchte um zwei basketball spielen - I would like to play basketball at two
 Konzert concert
 	Das Konzert ist toll - the concert is great
 Samstag Saturday
@@ -864,14 +869,16 @@ Samstag Saturday
 Sonntag Sunday
 Um at
 	um eins - at one
+	um vier - at four
 Schade too bad
 	Wirklich Schade - really too bad
 	Schade, ich kann nicht
-	Schade, ich habe um sechs keine Zeit - Too bad, I don't have time at six
+	[[Schade, ich habe um sechs keine Zeit]] - Too bad, I don't have time at six
 Ich freue mich - I look forward to it
 Wann When
 	Wann hast du Zeit - when do you free
 	Bis Wann until when (Bis - Until, Wann - When)
+	Wann du Fußball spielst?    - when do you play football ?
 Nachmittag - afternoon
 	Ja, heute Nachmittag ist gut - yes, this afternoon is good
 + Heute Nachmittag - this 
@@ -960,3 +967,23 @@ That's **just for Musculine Singular Nouns** though! Others stay the same
 	so viel - so much  
 	um wie viel Uhr - at what time
 	auf dem Tisch - on the table 
+
+Samtag saturday
+Sonntag  Sunday
+
+Wohnung apartment
+Schalafzimmer bed room
+Badezimmer bath room
+Wohnzimmer living room
+
+
+Tisch table
+Stuhl chair 
+Dunkel dark
+Hell Bright
+Hässlich ugly
+
+Lampe lamp
+
+
+Das Schlafzimmer ist wunderbar, aber ich 
