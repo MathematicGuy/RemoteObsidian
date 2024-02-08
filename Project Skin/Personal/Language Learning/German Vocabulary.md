@@ -827,6 +827,9 @@ Aber ich spiele nicht so gern - I not like playing that much
 Isst eat
 	meine Mutter isst Käse - My mother eat cheese
 
+#### Conjugation
+![[Pasted image 20240208124850.png]]
+
 ### Unit 4: Use modals, describe a new apartment
 
 + $ Use Modals
@@ -984,6 +987,4 @@ Hell Bright
 Hässlich ugly
 
 Lampe lamp
-
-
 Das Schlafzimmer ist wunderbar, aber ich 
