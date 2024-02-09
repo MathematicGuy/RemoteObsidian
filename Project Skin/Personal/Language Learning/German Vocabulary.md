@@ -345,11 +345,11 @@ oft often
 
 **Exercise**
 + Wirklich really
-	+ Geld money
+	+ das Geld the money
 + would like  mochte
 + order bestellen
 + TV Fernseher
-+ need brauche
++ Brauche need
 
 mein beruf ist insteressant, auch stressig. Ich bin Schauspielerin
 
@@ -655,6 +655,7 @@ Hast du - do you have
 	 Hast du einen Mann
 	 Habe kein not have
 	 hat has
+	 Hast du einen Stuhl
 (same principle with e - ich | t - er | st - du | en - Frau, Herr)
 Onkel uncle
 	einen Onkel
@@ -667,6 +668,7 @@ Freund boyfriend
 Freundin girl friend
 Mitbewohnerin roomate
 	 Mein Mitbewohnerin kommst aus Amerika 
+	 Meine Mitbewohnerin brauchen einen Tisch
 
 hat has
 	Mein opa hat eine sohn - my grandpa has a son
@@ -861,6 +863,7 @@ Das Geht that work
 Zeit time
 	Hast du Zeit - do you have time
 	Schade, ich habe um Sechs keine Zeit
+	Wann hat Frau Merkel Zeit
 Ich kann nicht - I can't
 das Spiel the game
 	Das spiel is heute - the game is today
@@ -917,7 +920,7 @@ Noun
 	 das Bett 
 Adjective 
 	Hässlich ugly 
-	Magst like
+	Mag like
 	Dunkel dark
 	Bequem comfortable
 Adverb
@@ -982,10 +985,37 @@ Wohnzimmer living room
 
 
 Tisch table
-Stuhl chair 
+Der Stuhl - the chair
+	Der Mann hebt den Stuhl - The Men lift the chair (den used for maculine noun in the nominative case)
 Dunkel dark
-Hell Bright
+Hell bright
 Hässlich ugly
+Brauche need (e / st / en/ / t)
+	Du brauchst eine Lampe 
+Sauber clean
 
 Lampe lamp
 Das Schlafzimmer ist wunderbar, aber ich 
+Schreibtisch Desk 
+	Tisch table ~ desk
+	Schreib - write
+
+
++ ! see -en tail like -s in english. Use to express noun's plural form
+
+
+
+### Unit 5: 
+das Kaufhaus - the department store
+
+Monstag monday
+Dienstag tuesday
+Jobinterview - job interview
+Nervös Nervous 
+
+Kleidung Clothes
+Neue new
+	Neue Kleidung - new clothes
+
+für for
+	Mein jobinterview ist am Dienstag, ich brauche neue Kleidung - my job interview is on Tuesday, I need new clothes
