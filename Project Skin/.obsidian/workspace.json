@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e967e282d274f32f",
+        "id": "0de64098be26c4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ff82e8a475242c",
+            "id": "071759019ada7df6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "edfa6f81f0ec056c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edfa6f81f0ec056c",
+  "active": "071759019ada7df6",
   "lastOpenFiles": [
     "Images/Pasted image 20240208124850.png",
     "Todo.md",
