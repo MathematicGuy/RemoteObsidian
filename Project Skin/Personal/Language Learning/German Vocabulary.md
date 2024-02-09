@@ -904,7 +904,8 @@ Geöffnet - open (ger  net)
 	( The restaurant is open, but the waitress have no time)
 	Bis wann ist das Restaurant geöffnet ?
 	(Until when is the restaurant open)
-
+	Die Bibliothek ist von fünf bis acht geöffnet
+	(The Library ist open from five until eight)
 Von - from
 	Das spiel ist von zwei bis vier - the game is from 2 until 4.
 

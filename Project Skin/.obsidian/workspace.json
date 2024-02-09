@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0de64098be26c4ce",
+        "id": "e57f6d9def071ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "071759019ada7df6",
+            "id": "9e463d0c6fdded7a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "119bbd31dea17990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -183,10 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "071759019ada7df6",
+  "active": "119bbd31dea17990",
   "lastOpenFiles": [
-    "Images/Pasted image 20240208124850.png",
     "Todo.md",
+    "Images/Pasted image 20240208124850.png",
     "Schade, ich habe um sechs keine Zeit.md",
     "Personal/Language Learning/German Vocabulary.md",
     "German Sentences Position.md",
@@ -212,7 +226,6 @@
     "Images/Pasted image 20240204024335.png",
     "Images/Pasted image 20240204024042.png",
     "Images/Pasted image 20240204023619.png",
-    "Images/Pasted image 20240204023548.png",
     "Workout Goals.md",
     "Habit.md",
     "_Focus.md",
