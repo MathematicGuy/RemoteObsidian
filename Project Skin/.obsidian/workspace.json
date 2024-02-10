@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e57f6d9def071ed9",
+        "id": "c5fdae680a223ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "9e463d0c6fdded7a",
+            "id": "cd0117efc223e1f3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,29 +23,11 @@
             }
           },
           {
-            "id": "119bbd31dea17990",
+            "id": "74fc05586afda3b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a28813a601269a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Noun Gender.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -116,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "119bbd31dea17990",
+  "active": "74fc05586afda3b2",
   "lastOpenFiles": [
-    "German Noun Gender.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "German Noun Gender.md",
     "Images/Pasted image 20240208124850.png",
     "Schade, ich habe um sechs keine Zeit.md",
     "German Sentences Position.md",
