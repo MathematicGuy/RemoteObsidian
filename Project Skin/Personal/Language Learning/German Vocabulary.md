@@ -646,7 +646,7 @@ Schnecke - snail (~)
 	 Sag einfach „hallo”! - just say hello
 	 muss - have to/must
 	 ich mus hier weg - I must/have_to get out of here
-	 Wer who
+	 Wer who ( speal as )
 + ? notice: Es mean it, Das mean the
 
 **analyze later**: Das Wetter im Herbst ist sehr schön. Es ist manchmal sonnig, manchmal bewölkt, aber nie zu kalt oder zu heiß. (practice to write the same phrase like this. Make a connector section / vocab section)
@@ -916,7 +916,7 @@ Von - from
 Noun
 	Wohnung apartment
 	 der Stuhl  chair
-	 die Tisch  table
+	 dereee Tisch  table
 	 das Bett 
 Adjective 
 	Hässlich ugly 
@@ -980,6 +980,7 @@ Sonntag  Sunday
 
 Wohnung apartment
 Schalafzimmer bed room
+
 Badezimmer bath room
 Wohnzimmer living room
 
@@ -993,8 +994,9 @@ Hässlich ugly
 Brauche need (e / st / en/ / t)
 	Du brauchst eine Lampe 
 Sauber clean
+Das Bett - the bed
 
-Lampe lamp
+Die Lampe - the lamp
 Das Schlafzimmer ist wunderbar, aber ich 
 Schreibtisch Desk 
 	Tisch table ~ desk

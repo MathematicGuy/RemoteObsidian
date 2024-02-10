@@ -26,8 +26,13 @@
             "id": "74fc05586afda3b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md"
+              }
             }
           },
           {
@@ -190,6 +199,7 @@
   },
   "active": "74fc05586afda3b2",
   "lastOpenFiles": [
+    "2nd Year Project.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "German Noun Gender.md",
