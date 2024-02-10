@@ -885,6 +885,7 @@ Wann When
 	Wann hast du Zeit - when do you free
 	Bis Wann until when (Bis - Until, Wann - When)
 	Wann du Fußball spielst?    - when do you play football ?
+
 Nachmittag - afternoon
 	Ja, heute Nachmittag ist gut - yes, this afternoon is good
 + Heute Nachmittag - this 
@@ -1021,3 +1022,24 @@ Neue new
 
 für for
 	Mein jobinterview ist am Dienstag, ich brauche neue Kleidung - my job interview is on Tuesday, I need new clothes
+
+Bluse - Blouse (áo cánh) 
+![[licensed-image.jpg]]
+Aufgeregt - excited
+Schrank - wardrobe
+	Ich bin aufgeregt, aber ich brauche  ein Schrank for meine neue Kleidung (I am excited, but I need a wardrobe for my new clothes)
+Kaufen - Buy
+Muss have to / must
+	Was musst du kaufen - what do you have to buy
+	Musst du neue Kleidung Kaufen - Do you have to buy new clothes?
+
+Geht - is going / going
+	Meine Mutter geht ins Kaufhaus - my mother is going to the department store
+
+Das Hemd - the shirt 
+Das Kleid - the dress
+Das Sakko - the Jacket
+Such (e/ t / st / en) - is looking for
+	Was suchen Sie
+	Minh, suchst du ein Kleid
+Das Schal - the scraf 
