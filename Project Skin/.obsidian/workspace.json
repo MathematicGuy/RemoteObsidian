@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "022f811f2051062a",
+        "id": "0a5a145bf625175b",
         "type": "tabs",
         "children": [
           {
-            "id": "c0989420868c9738",
+            "id": "8d81d8ea66e72230",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,48 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7f7413099cb177bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "789590ccd015fa47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Year Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96b71975fb143b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calisthenics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calisthenics.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calisthenics.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calisthenics.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -223,13 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96b71975fb143b6d",
+  "active": "8d81d8ea66e72230",
   "lastOpenFiles": [
     "Calisthenics.md",
-    "2nd Year Project.md",
-    "Personal/Language Learning/German Vocabulary.md",
-    "Images/licensed-image.jpg",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "2nd Year Project.md",
+    "Images/licensed-image.jpg",
     "WebDev/WebDev_Learn/JS/JS Basics - Codes.md",
     "WebDev/WebDev_Learn/JS/JS Summary.md",
     "WebDev/WebDev_Learn/JS/JS.md",

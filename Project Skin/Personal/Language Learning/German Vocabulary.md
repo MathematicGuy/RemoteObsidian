@@ -88,7 +88,7 @@ ein Elefant the  elephant
 ein bar the bear
 ein Hund the dog
 
-Wo who
+Wo where
 + ? Wo is used when you want to know where someone or something is. (include country)
 	- example: Wo ist die Katze? (where's the cat?)
 	- Wo ist kanada
@@ -622,6 +622,7 @@ Stark hard
 Wasserflasche (female - deine wasserflasche)
 Frühling (der) The Spring
 	 Es ist immer schön in Frühling
+	 Ich spiele im Fühling Fußball
 Neblig foggy
 Wanderst hike (Wanderst du/sie - er/frau/schwester Wandert - ich Wandere )
 	 Wanderst du Anna - are you hike Anna
@@ -1026,7 +1027,7 @@ für for
 Bluse - Blouse (áo cánh) 
 ![[licensed-image.jpg]]
 Aufgeregt - excited
-Schrank - wardrobe
+dein Schrank - wardrobe / closet
 	Ich bin aufgeregt, aber ich brauche  ein Schrank for meine neue Kleidung (I am excited, but I need a wardrobe for my new clothes)
 Kaufen - Buy
 Muss have to / must
@@ -1043,3 +1044,22 @@ Such (e/ t / st / en) - is looking for
 	Was suchen Sie
 	Minh, suchst du ein Kleid
 Das Schal - the scraf 
+Das T-Shirt the T-Shirt
+Passt fit
+	ich Passt Sakko Größe S
+Größe size
+Welche which
+	Frau Elsa, welche Größe suchen Sie ?
+		welche Größe suchen sie  - what size are you looking for 
+
+Die Schuhe
+der Aufzug - the elevator
+
+Die Toiletten - the toilet
+Schick Stylist
+Dein Pullover - the Sweater
+	Dein Pullover ist hässlich
+	Haben sie einen pullover in Größe S
+Jean - jean
+	Die Jean sind für meinen Mann
+Bücherregal - bookshelf
