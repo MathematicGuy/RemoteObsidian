@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "413dc880e16859cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -188,8 +183,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "413dc880e16859cf",
+  "active": "abc0d7ba67d5fa82",
   "lastOpenFiles": [
+    "Economic.md",
     "Todo.md",
     "Calisthenics.md",
     "Personal/Language Learning/German Vocabulary.md",
@@ -225,7 +221,6 @@
     "_Focus.md",
     "FrontEnd/Class Selector.md",
     "Personal/Interest/Full Planche Jouney.md",
-    "Code/OOP Quizziz.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
