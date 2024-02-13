@@ -443,7 +443,9 @@ Für for
 Urlaub vacation
 brauche need
 Elegante elegant
-Schude shoes
+Die Schude - the shoes
+	Die Schude sind zu groß - the shoes are too big
+	Meine Schude sind neu und toll
 Hut hat
 großer big (object)
 
@@ -1009,6 +1011,12 @@ Schreibtisch Desk
 + ! see -en tail like -s in english. Use to express noun's plural form
 
 
+#Excercise
++ Room zimmer
++ Hospital Krankenhaus
++ Sad traurig
+- Plants planzen
+
 
 ### Unit 5: 
 das Kaufhaus - the department store
@@ -1065,6 +1073,7 @@ Die Schuhe
 der Aufzug - the elevator
 
 Die Toiletten - the toilet
+	Wo sind sie toilet - where is the toilet
 Schick Stylist
 Dein Pullover - the Sweater
 	Dein Pullover ist hässlich
@@ -1072,3 +1081,5 @@ Dein Pullover - the Sweater
 Jean - jean
 	Die Jean sind für meinen Mann
 Bücherregal - bookshelf
+
+Anna, du musst neue Kleidung für das Konzert. Aber du kaufen Kleidung nicht . Ich habe zwei
