@@ -1072,4 +1072,3 @@ Dein Pullover - the Sweater
 Jean - jean
 	Die Jean sind für meinen Mann
 Bücherregal - bookshelf
-
