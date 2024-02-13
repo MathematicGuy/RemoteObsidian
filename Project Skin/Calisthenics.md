@@ -65,7 +65,7 @@
 
 #### 4. Pseudo Planche Push-ups:  
       
-    
+	
 
 - Normal push-up position, but lean forward further, placing more weight on hands.
     
