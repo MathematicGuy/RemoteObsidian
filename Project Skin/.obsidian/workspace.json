@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "German Word Order.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "German Word Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "German Word Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "German Word Order.md"
               }
             }
           },
@@ -199,9 +199,10 @@
   },
   "active": "0965d2909473d92d",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Grammar.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "Calisthenics.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Economic.md",
     "2nd Year Project.md",
     "Images/licensed-image.jpg",
@@ -217,7 +218,6 @@
     "Images/Pasted image 20240205184138.png",
     "Images/Pasted image 20240205183725.png",
     "Images/Pasted image 20240205183701.png",
-    "Personal/Language Learning/German Grammar.md",
     "Personal/Language Learning/German.md",
     "WebDev/WebDev_Learn/JS/JS Fundamental.md",
     "BackEnd/JS Closures.md",
