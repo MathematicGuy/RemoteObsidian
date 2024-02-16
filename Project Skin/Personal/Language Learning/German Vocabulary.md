@@ -271,7 +271,7 @@ We use wo to ask where someone is - 3 ways to say Where in German
 + $ Key Phrase: Talk About Work
 	Tim Herson, was ist dein beruf -> ich bin Programmierer/Programmiererin
 	Bist du Künstler ?
-
+Scah
 sie she
 er he
 Schauspielerin actor (sau spi la rin) (female)
@@ -552,7 +552,8 @@ wirklich - really
 + dreihundert
 **Ty** (eg. thirty) (zig/ßig)
 20 - zwanzig
-30 - drei
+30 - dreißig
+	Zwei Fahrkarten kosten dreißig euro
 
 kostet - cost
 	 Wie viel kostet die sonnencreme
@@ -1084,4 +1085,9 @@ Bücherregal - bookshelf
 
 Anna, du musst neue Kleidung für das Konzert. Aber du kaufen Kleidung nicht . Ich habe zwei
 
+
+die Hin- und Rückfahrt - the round-trip ticket
+	Eine Hin und Rückfahrt kostet dreißig euro
+die Fahrkarten - the ticket
+	Eine Fahrkarte nach Ho Chi Minh, bitte
 
