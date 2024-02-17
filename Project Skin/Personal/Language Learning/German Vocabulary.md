@@ -808,7 +808,7 @@ Basketball Basketball
 Volleyball Vollezball
 	Es tut mir leid, dein arzt spielt volleyball
 Singe/Singt/Singst sing
-	Ich singe gern - I like to sing
+F	Ich singe gern - I like to sing
 	Er singe sehr laut
 Gern like to/ do like to
 	Singst du gern - do you like to sing
@@ -1088,6 +1088,15 @@ Anna, du musst neue Kleidung für das Konzert. Aber du kaufen Kleidung nicht . I
 
 die Hin- und Rückfahrt - the round-trip ticket
 	Eine Hin und Rückfahrt kostet dreißig euro
-die Fahrkarten - the ticket
+die Fahrkarte - the ticket
 	Eine Fahrkarte nach Ho Chi Minh, bitte
+
+Die Kreditkarter - the credit 
+Zentrum - center
+Reise - trip / travel
+Reisezentrum - travel 
+Stornieren - train door
+	Oma, Möchtest du deine Fahrkarte nach Rome Stornieren - granma, would you liek to cancell your ticket to Rome
+Fällt - Cancelled
+	Die zug Fällt aus - the train is cancelled
 
