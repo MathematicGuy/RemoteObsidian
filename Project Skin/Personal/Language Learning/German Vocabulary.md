@@ -1099,4 +1099,5 @@ Stornieren - train door
 	Oma, Möchtest du deine Fahrkarte nach Rome Stornieren - granma, would you liek to cancell your ticket to Rome
 Fällt - Cancelled
 	Die zug Fällt aus - the train is cancelled
+	Der Zug Fällt aus, ich Möchte meine Fahrkarte Stornieren
 
