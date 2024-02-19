@@ -549,6 +549,14 @@ WHERE yr NOT IN (SELECT DISTINCT yr FROM nobel WHERE subject = 'Medicine');
 +-------+
 ```
 
+Select Only Year from Date data type
+```sql
+select distinct Year(birth_date)
+from patients
+order by birth_date asc;
+```
+
+
 **GROUP BY**
 > **groups rows** that have the **same values into summary rows**, like "find the number of customers in each country".
 + The `GROUP BY` statement is **often used with aggregate functions** (`COUNT()`, `MAX()`, `MIN()`, `SUM()`, `AVG()`) to group the result-set by one or more columns.
