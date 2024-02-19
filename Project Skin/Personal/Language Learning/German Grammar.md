@@ -7,3 +7,5 @@
 	[[German Sentences Position]]
 
 [[German Nominative Case]]
+
+[[German Accusative Case]]
