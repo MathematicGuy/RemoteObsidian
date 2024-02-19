@@ -240,7 +240,7 @@ CREATE TABLE transaction (
 	-- add and connect foreign key to the primary key
 	FOREIGN KEY (trans_customer_id) REFERENCES customers(customer_id),
 )
-```x
+```
 or you can **add foreign key later with this**
 ```sql
 ALTER TABLE transactions
@@ -248,7 +248,16 @@ ADD CONSTRAINT fk_customer_id
 FOREIGN KEY(trans_customer_id) REFERENCES customers(customer_id)
 ```
 
-
+SELF-REFERENCING FOREIGN KEY
+	Foreign key that reference the Primary Key of it's Table
+```sql
+CREATE TABLE Employees (
+    employee_id INT PRIMARY KEY,
+    employee_name VARCHAR(50),
+    manager_id INT,  -- This references the employee_id of the employee's manager
+    FOREIGN KEY (manager_id) REFERENCES Employees(employee_id)
+);
+```
 
 ORDER BY (kind of like SORT) - can sort Date
 ```sql
