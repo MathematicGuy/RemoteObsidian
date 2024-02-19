@@ -1101,3 +1101,20 @@ Fällt - Cancelled
 	Die zug Fällt aus - the train is cancelled
 	Der Zug Fällt aus, ich Möchte meine Fahrkarte Stornieren
 
+Zugtür - train door
+	Die Zugtür ist Hiten recht/links - the train door is in the back to the right/left
+
+Speisewagen - dining car
+	Ist der Speisewagen geöffnet - is the dinning car open
+
+Sitz - seat
+Hiten - in the back / back
+	Nein, der Speisewagen ist nicht hiten
+
+Frei - free
+	Ja, Die Essen ist frei
+	Nein, der Sitz ist nicht frei
+
+Nächste - next / closet (literally pronounce as Next in German)
+	Wo ist der Nächste Station
+	Die Nächste Station ist Ha Noi
