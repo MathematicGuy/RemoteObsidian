@@ -230,7 +230,7 @@ PRIMARY KEY -> make sure only of that data exist. Unique
 FOREIGN KEY -> Link 2 Table prevent any action destroy the link between them. 
 > note: foreign key itself cannot have its own foreign key. 
 > + A foreign key must connect to a primmary key
-> + If cannot connect foreign key, re-check if you are connec to a primary key (caution for duplicate value, it not a primary key)
+> + If cannot connect foreign key, re-check if you are connect to a primary key (caution for duplicate value, it not a primary key)
 ![[Pasted image 20231003135913.png]]
 ```sql
 CREATE TABLE transaction (
@@ -240,7 +240,7 @@ CREATE TABLE transaction (
 	-- add and connect foreign key to the primary key
 	FOREIGN KEY (trans_customer_id) REFERENCES customers(customer_id),
 )
-```
+```x
 or you can **add foreign key later with this**
 ```sql
 ALTER TABLE transactions
