@@ -23,15 +23,33 @@
             }
           },
           {
-            "id": "b6a01f347886bafc",
+            "id": "4745060a6a4e1bb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Table Command.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed224334bbae727b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+              }
             }
           },
           {
@@ -188,14 +210,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6a01f347886bafc",
+  "active": "ed224334bbae727b",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Table Command.md",
     "Todo.md",
+    "jobDB.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
     "SDA Review.md",
     "System Administration Database.md",
     "BackEnd/SQL Revision.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
     "Personal/Language Learning/German Vocabulary.md",
     "German Accusative Case.md",
     "Images/Pasted image 20240219080359.png",
@@ -224,8 +248,6 @@
     "Images/Pasted image 20240205184141.png",
     "Personal/Language Learning/German.md",
     "WebDev/WebDev_Learn/JS/JS Fundamental.md",
-    "BackEnd/JS Closures.md",
-    "JS Basic.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
