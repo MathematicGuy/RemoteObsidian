@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6dc354583172df3",
+        "id": "bde0cc0436f0d054",
         "type": "tabs",
         "children": [
           {
-            "id": "c2735c0ef4c51a9b",
+            "id": "590a4eea28cb1efc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -183,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2735c0ef4c51a9b",
+  "active": "590a4eea28cb1efc",
   "lastOpenFiles": [
     "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
