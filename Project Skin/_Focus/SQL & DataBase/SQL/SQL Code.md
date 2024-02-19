@@ -161,7 +161,7 @@ DELETE WHOLE TABLE
 ```sql
 TRUNCATE TABLE table_name
 ```
-
++ Replace `table_name` with the name of your table. This statement will remove all records from the table.
 
 ![[Pasted image 20230814120418.png]]
 
@@ -241,9 +241,9 @@ CREATE TABLE transaction (
 	FOREIGN KEY (trans_customer_id) REFERENCES customers(customer_id),
 )
 ```
-or you can add foreign key later with this
+or you can **add foreign key later with this**
 ```sql
-	ALTER TABLE transactions
+ALTER TABLE transactions
 ADD CONSTRAINT fk_customer_id
 FOREIGN KEY(trans_customer_id) REFERENCES customers(customer_id)
 ```
@@ -303,8 +303,8 @@ note: JOIN doesn't have to have condition, but RIGHT/LEFT JOIN must have conditi
 
 **JOIN** (INNER JOIN)
 >-- join another table to itself
--- used to compare rows of the same table
--- helps to display a heirarchy of data
+>-- used to compare rows of the same table
+>-- helps to display a heirarchy of data
 ```sql
 SELECT *
 FROM customers AS a
