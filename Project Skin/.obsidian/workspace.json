@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bde0cc0436f0d054",
+        "id": "7fe5de461149e6fb",
         "type": "tabs",
         "children": [
           {
-            "id": "590a4eea28cb1efc",
+            "id": "8a287a7bb6c6818b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "940221a5a135ed24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackEnd/SQL Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39367b1ada52f045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Year Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Year Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2nd Year Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -210,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39367b1ada52f045",
+  "active": "8a287a7bb6c6818b",
   "lastOpenFiles": [
     "BackEnd/SQL Revision.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
