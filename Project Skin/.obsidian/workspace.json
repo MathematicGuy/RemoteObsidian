@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7532182ae754efe3",
+        "id": "92597e1bba14e34d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d1780a602817bd8",
+            "id": "3b645236c9c7c618",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "00973d5f428a2dc5",
+            "id": "b6a01f347886bafc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDA Review.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDA Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDA Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SDA Review.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00973d5f428a2dc5",
+  "active": "b6a01f347886bafc",
   "lastOpenFiles": [
+    "Todo.md",
     "SDA Review.md",
     "System Administration Database.md",
-    "Todo.md",
     "BackEnd/SQL Revision.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
