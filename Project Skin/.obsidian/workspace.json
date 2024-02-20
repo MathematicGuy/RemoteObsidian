@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db89a54608644d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Year Web Programming & Development.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "2nd Year Web Programming & Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "2nd Year Web Programming & Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "2nd Year Web Programming & Development.md"
               }
             }
           },
@@ -197,8 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b179424200a92d4",
+  "active": "db89a54608644d00",
   "lastOpenFiles": [
+    "2nd Year Web Programming & Development.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "CI_CD.md",
     "Power Bi.md",
@@ -215,7 +230,6 @@
     "SDA Review.md",
     "System Administration Database.md",
     "BackEnd/SQL Revision.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "German Accusative Case.md",
     "Images/Pasted image 20240219080359.png",
     "Images/Pasted image 20240219080136.png",
@@ -232,7 +246,6 @@
     "Economic.md",
     "Images/licensed-image.jpg",
     "WebDev/WebDev_Learn/JS/JS Basics - Codes.md",
-    "WebDev/WebDev_Learn/JS/JS Summary.md",
     "Images/Pasted image 20240208124850.png",
     "Images/Pasted image 20240205184242.png",
     "FrontEnd",
