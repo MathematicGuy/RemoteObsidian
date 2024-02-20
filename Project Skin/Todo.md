@@ -11,6 +11,9 @@
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
+
+- [ ] DB Homework (estimate finished time 1h20' )
+
 - [ ] [[Shopping this week]]
 
 + Evil is Distraction - Consider the simplicity of this insight 
