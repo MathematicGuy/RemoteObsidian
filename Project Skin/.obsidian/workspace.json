@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9d34bd8201b443",
+        "id": "41dd9254bb69a800",
         "type": "tabs",
         "children": [
           {
-            "id": "4ccbb96ff461d66b",
+            "id": "c0bb8a2ae0cab81a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,15 @@
             }
           },
           {
-            "id": "33e903de936aa9ee",
+            "id": "de026c9947345158",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceacd7308c2d48a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Years Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Years Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Years Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2nd Years Project.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,17 +188,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ceacd7308c2d48a4",
+  "active": "de026c9947345158",
   "lastOpenFiles": [
+    "Todo.md",
+    "2nd Years Project.md",
+    "Science Research Note.md",
     "2nd Yrs Mid-Term Project.md",
     "Shopping this week.md",
-    "Science Research Note.md",
     "2nd Yrs Science Research Project.md",
-    "2nd Years Project.md",
     "IT Project Management.md",
     "IT_PM Part 1.md",
     "IT_PM My Project.md",
-    "Todo.md",
     "Images/Pasted image 20240220162413.png",
     "IT_PM Project LifeCycle.md",
     "IT_PM INTRO.md",
