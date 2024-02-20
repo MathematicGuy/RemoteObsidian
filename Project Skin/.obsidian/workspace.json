@@ -23,15 +23,35 @@
             }
           },
           {
-            "id": "e1d0700fb1b39e8e",
+            "id": "6ce72f35272f2b5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Years Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c985984fb4bb958f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT_PM My Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT_PM My Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT_PM My Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT_PM My Project.md"
+              }
             }
           },
           {
@@ -188,11 +212,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1d0700fb1b39e8e",
+  "active": "c985984fb4bb958f",
   "lastOpenFiles": [
-    "Todo.md",
-    "End Year Project - Project 6.md",
+    "Images/Pasted image 20240220162413.png",
     "2nd Years Project.md",
+    "Todo.md",
+    "IT_PM My Project.md",
+    "IT Project Management.md",
+    "IT_PM Project LifeCycle.md",
+    "IT_PM Part 1.md",
+    "IT_PM INTRO.md",
+    "Code/Project Ideas.md",
+    "End Year Project - Project 6.md",
     "2nd Yrs Mid-Term Project.md",
     "2nd Yrs Science Research Project.md",
     "2nd Year Web Programming & Development.md",
@@ -210,19 +241,12 @@
     "SDA Review.md",
     "System Administration Database.md",
     "BackEnd/SQL Revision.md",
-    "German Accusative Case.md",
     "Images/Pasted image 20240219080359.png",
     "Images/Pasted image 20240219080136.png",
     "Images/Pasted image 20240219075852.png",
     "Images/Pasted image 20240219075849.png",
     "Images/Pasted image 20240219075627.png",
     "Images/Pasted image 20240219075222.png",
-    "Personal/Language Learning/German Grammar.md",
-    "The Greatness Guide.md",
-    "Personal/Interest/Books.md",
-    "Personal/Good for LATER.md",
-    "Document/Good Read.md",
-    "Calisthenics.md",
     "Images/licensed-image.jpg",
     "Images/Pasted image 20240208124850.png",
     "Images/Pasted image 20240205184242.png",
