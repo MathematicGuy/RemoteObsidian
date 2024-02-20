@@ -1,9 +1,13 @@
 **My Learning**
-[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
+.[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
 [Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 
 [HTML-CSS-JS for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/3)  (Finish this course to take Data Science course)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
+
+#Todo/PriorityProject
+- [ ] **End Year Project - Project 6**. Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
+- [ ] **Science Reasearch Project**. 
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
@@ -11,11 +15,6 @@
 + Evil is Distraction - Consider the simplicity of this insight 
 	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.
 Hemisync
-
-
-#Todo/Prioritise
-- [ ] [Productive Time](https://www.facebook.com/hyystudies/posts/pfbid0dwxYNp9f5uxYxYWWA1RbbxRKicGmQrowp9EVRnawZTA7h89sK51y2hSoYUeYBfxjl) 
-- [ ] Build a Simple [Weather Apps](https://webdesign.tutsplus.com/build-a-simple-weather-app-with-vanilla-javascript--cms-33893t)
 
 
 #Todo/Later
@@ -27,11 +26,9 @@ Hemisync
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
 #Todo/Personal
-- [ ] Organize DB knowledge 
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 - [ ] Personalise my Gmail ( Filter trash and label good Reading Resources )
 - [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
-- [ ] Ôn thi Công nghệ phần mềm (sơ đồ thác nước, UML, v..v.. | use case, activity, sequence, 1 số pp kiểm thử/unit_test)
 - [ ] Phân cấp con người (dựa trên nhận thức)
 - [ ] [Fun Personality Test](https://www.idrlabs.com/tests.php)
 	- [Personality Style Test](https://www.idrlabs.com/personality-style/test.php)

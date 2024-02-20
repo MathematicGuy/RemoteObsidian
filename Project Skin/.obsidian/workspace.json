@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c14e8708d9ca1b",
+        "id": "3c1f08a858f6674a",
         "type": "tabs",
         "children": [
           {
-            "id": "3319be63e43113cc",
+            "id": "96e229653e6d72b0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,15 @@
             }
           },
           {
-            "id": "1b179424200a92d4",
+            "id": "e1d0700fb1b39e8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db89a54608644d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Year Web Programming & Development.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year Web Programming & Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Year Web Programming & Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2nd Year Web Programming & Development.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,19 +188,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db89a54608644d00",
+  "active": "e1d0700fb1b39e8e",
   "lastOpenFiles": [
+    "Todo.md",
+    "End Year Project - Project 6.md",
+    "2nd Years Project.md",
+    "2nd Yrs Mid-Term Project.md",
+    "2nd Yrs Science Research Project.md",
     "2nd Year Web Programming & Development.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "Todo.md",
     "CI_CD.md",
     "Power Bi.md",
     "Personal/Comparison/Data Science Course.md",
     "BackEnd/Uni DataBase.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240219191105.png",
-    "2nd Years Mid Term Project.md",
-    "2nd Year Project.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "jobDB.md",
     "_Focus/SQL & DataBase/SQL/SQL Table Command.md",
@@ -243,9 +223,7 @@
     "Personal/Good for LATER.md",
     "Document/Good Read.md",
     "Calisthenics.md",
-    "Economic.md",
     "Images/licensed-image.jpg",
-    "WebDev/WebDev_Learn/JS/JS Basics - Codes.md",
     "Images/Pasted image 20240208124850.png",
     "Images/Pasted image 20240205184242.png",
     "FrontEnd",
