@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "85416c62326022a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Yrs Science Research Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21244af2465faf2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Years Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "2nd Years Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "2nd Years Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "2nd Years Project.md"
               }
             }
           },
@@ -183,9 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13cf3d37f0848e80",
+  "active": "21244af2465faf2b",
   "lastOpenFiles": [
     "2nd Yrs Science Research Project.md",
+    "Webinar Snippet -  Grading code with ChatGPT-4.md",
+    "Images/Pasted image 20240220230620.png",
     "2nd Years Project.md",
     "Todo.md",
     "Science Research Note.md",
@@ -211,8 +240,6 @@
     "jobDB.md",
     "_Focus/SQL & DataBase/SQL/SQL Table Command.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
-    "SDA Review.md",
-    "System Administration Database.md",
     "Images/Pasted image 20240219080359.png",
     "Images/Pasted image 20240219080136.png",
     "Images/Pasted image 20240219075852.png",
@@ -220,7 +247,6 @@
     "Images/Pasted image 20240219075627.png",
     "Images/Pasted image 20240219075222.png",
     "Images/licensed-image.jpg",
-    "Images/Pasted image 20240208124850.png",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",

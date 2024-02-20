@@ -11,7 +11,7 @@
 
 [[Science Research Note]]
 
-
+[[Webinar Snippet -  Grading code with ChatGPT-4]]
 
 **Đề tài nhóm 1.** Xây dựng Web quản lý học liệu và hỗ trợ đánh giá tự động mã bài lập trình dựa trên phân tích mã nguồn
 + Cần kỹ năng gì?
