@@ -11,6 +11,10 @@ Frontend (HTML, CSS, JavaScript) to create the exam interface.
 
 Backend (Node.js, Python/Flask, Django, etc.) to handle server-side logic, user sessions, and database interactions.
 
+Similiar Project: 
++ https://www.codegrade.com/
+
+
 **Simplified User Workflow**
 
 1. **Exam Setup:**

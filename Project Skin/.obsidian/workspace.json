@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41dd9254bb69a800",
+        "id": "4d985e5a4de8147b",
         "type": "tabs",
         "children": [
           {
-            "id": "c0bb8a2ae0cab81a",
+            "id": "13cf3d37f0848e80",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "de026c9947345158",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -188,14 +183,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de026c9947345158",
+  "active": "13cf3d37f0848e80",
   "lastOpenFiles": [
-    "Todo.md",
+    "2nd Yrs Science Research Project.md",
     "2nd Years Project.md",
+    "Todo.md",
     "Science Research Note.md",
     "2nd Yrs Mid-Term Project.md",
     "Shopping this week.md",
-    "2nd Yrs Science Research Project.md",
     "IT Project Management.md",
     "IT_PM Part 1.md",
     "IT_PM My Project.md",
