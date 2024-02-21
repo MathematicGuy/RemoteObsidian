@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Yrs Science Research Project.md",
+                "file": "Science Research Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Years Project.md",
+                "file": "Science Research Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Years Project.md",
+                "file": "Science Research Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Years Project.md",
+                "file": "Science Research Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2nd Years Project.md"
+                "file": "Science Research Note.md"
               }
             }
           },
@@ -210,12 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21244af2465faf2b",
+  "active": "85416c62326022a1",
   "lastOpenFiles": [
     "2nd Yrs Science Research Project.md",
+    "Science Research Planning.md",
+    "SR BE.md",
+    "SR FE.md",
+    "2nd Years Project.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "Images/Pasted image 20240220230620.png",
-    "2nd Years Project.md",
     "Todo.md",
     "Science Research Note.md",
     "2nd Yrs Mid-Term Project.md",
@@ -238,8 +241,6 @@
     "Images/Pasted image 20240219191105.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "jobDB.md",
-    "_Focus/SQL & DataBase/SQL/SQL Table Command.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
     "Images/Pasted image 20240219080359.png",
     "Images/Pasted image 20240219080136.png",
     "Images/Pasted image 20240219075852.png",

@@ -1,0 +1,1 @@
+1) How to use chat GPT to grading code (using simple Interface eg. terminal)
