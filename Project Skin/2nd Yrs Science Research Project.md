@@ -9,6 +9,7 @@
 8. BI, báo cáo thông minh(PowerBI, Tableau...)
 9. *AI, LLM...*
 
+
 [[Science Research Note]]
 [[Science Research Planning]]
 

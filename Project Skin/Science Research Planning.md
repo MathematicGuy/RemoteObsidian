@@ -5,4 +5,5 @@ Nhóm 1: Xuân, Quang Huy, Nhật Minh
 Nhóm 2: Thành, Minh Hải
 	Lập câu hỏi dựa trên các yêu cầu khách hàng
 
- - [ ] Lập  
+- [ ] List Questions for Thay Huy
+- [ ] Find Roadmap Maker. How to make Project Roadmap

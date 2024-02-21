@@ -101,6 +101,13 @@ RENAME TABLE employees TO workers;
 DROP TABLE employees;
 ```
 
+DROP KEY
+drop employees FK that reference to department PK
+```sql
+ALTER TABLE employees DROP CONSTRAINT fk_department_id;
+```
+
+
 ALTER TABLE (Modify Table) 
 > All ALTER Command below must goes with ALTER TABLE command
 ```sql
@@ -285,9 +292,10 @@ notice:
 + UNION ALL -> take all Duplicates
 
 CONCAT -> Connect 2 String together
++ ! Use ' ' for space not " "
  >  a.f_name -> select f_name from table a
 ```sql
-CONCAT(b.f_name, " ", b.l_name) AS "referred_by"
+CONCAT(b.f_name, ' ', b.l_name) AS "referred_by"
 ```
 ![[Pasted image 20231003141638.png]]
 + CONCAT to merge elements together (connect string with number, etc...)

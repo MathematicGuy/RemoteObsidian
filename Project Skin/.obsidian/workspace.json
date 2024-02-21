@@ -23,12 +23,27 @@
             }
           },
           {
-            "id": "85416c62326022a1",
+            "id": "21244af2465faf2b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Yrs Science Research Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "826d132367789335",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science Research Note.md",
+                "file": "IT_PM My Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +51,20 @@
             }
           },
           {
-            "id": "21244af2465faf2b",
+            "id": "95fedcbf2273af8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Years Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df6ac8bf10c56310",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Note.md",
+                "file": "Science Research Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Note.md",
+                "file": "Science Research Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science Research Note.md"
+                "file": "Science Research Planning.md"
               }
             }
           },
@@ -210,22 +238,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85416c62326022a1",
+  "active": "df6ac8bf10c56310",
   "lastOpenFiles": [
     "2nd Yrs Science Research Project.md",
+    "Todo.md",
+    "2nd Years Project.md",
+    "IT_PM My Project.md",
+    "IT Project Management.md",
+    "Science Research User Requirement.md",
     "Science Research Planning.md",
+    "Science Research Note.md",
+    "SDA HW1.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Images/hw2.jpg",
+    "Images/DB_Schema.jpg",
+    "Images/hw1.jpg",
+    "System Administration Database.md",
     "SR BE.md",
     "SR FE.md",
-    "2nd Years Project.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "Images/Pasted image 20240220230620.png",
-    "Todo.md",
-    "Science Research Note.md",
     "2nd Yrs Mid-Term Project.md",
     "Shopping this week.md",
-    "IT Project Management.md",
     "IT_PM Part 1.md",
-    "IT_PM My Project.md",
     "Images/Pasted image 20240220162413.png",
     "IT_PM Project LifeCycle.md",
     "IT_PM INTRO.md",
@@ -236,18 +271,11 @@
     "CI_CD.md",
     "Power Bi.md",
     "Personal/Comparison/Data Science Course.md",
-    "BackEnd/Uni DataBase.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240219191105.png",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "jobDB.md",
     "Images/Pasted image 20240219080359.png",
     "Images/Pasted image 20240219080136.png",
     "Images/Pasted image 20240219075852.png",
     "Images/Pasted image 20240219075849.png",
-    "Images/Pasted image 20240219075627.png",
-    "Images/Pasted image 20240219075222.png",
-    "Images/licensed-image.jpg",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
