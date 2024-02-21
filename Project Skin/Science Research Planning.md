@@ -12,3 +12,4 @@ Nhóm 2: Thành, Minh Hải
 - [ ] Giai đoạn khó khăn đang gặp: Project Initiation and Planning phases.
 
 - [ ] Xây dựng từ đâu
+- [ ] Áp dụng Agile vào ự án

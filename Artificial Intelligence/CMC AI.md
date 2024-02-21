@@ -17,6 +17,6 @@ Higher Tech - Higher Risk
 
 
 Công nghệ phải theo đúng Trách Nhiệm và Luật
-(6)
+
 
 Big Data 
