@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b439c1b0bbc7383",
+        "id": "95899b4b5d9ca9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "2587fadc9475f1bc",
+            "id": "82285b0cfd47d987",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "fe942ff213b4e726",
+            "id": "179bd9aa9bb2aa53",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,9 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe942ff213b4e726",
+  "active": "179bd9aa9bb2aa53",
   "lastOpenFiles": [
     "Todo.md",
+    "IT_PM INTRO.md",
+    "IT Project Management.md",
     "AI - Artificial Intelligent.md",
     "2nd Yrs Science Research Project.md",
     "BackEnd/Advice for AI.md",
@@ -199,7 +201,6 @@
     "Science Research Planning.md",
     "Images/Pasted image 20240221123247.png",
     "Images/Pasted image 20240221123244.png",
-    "IT Project Management.md",
     "IT_PM My Project.md",
     "2nd Years Project.md",
     "End Year Project - Project 6.md",
@@ -219,7 +220,6 @@
     "IT_PM Part 1.md",
     "Images/Pasted image 20240220162413.png",
     "IT_PM Project LifeCycle.md",
-    "IT_PM INTRO.md",
     "Code/Project Ideas.md",
     "2nd Year Web Programming & Development.md",
     "Personal/Language Learning/German Vocabulary.md",

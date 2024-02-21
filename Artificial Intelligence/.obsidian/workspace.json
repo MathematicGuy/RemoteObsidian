@@ -32,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "870cf82a44648248",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CMC AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CMC AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CMC AI.md"
+              }
             }
           },
           {
@@ -179,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "870cf82a44648248",
+  "active": "2c7145aa7a4280dc",
   "lastOpenFiles": [
     "CMC AI.md",
     "Machine Learning.md",
