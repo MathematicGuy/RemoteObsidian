@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "595e98fb057d501a",
+            "id": "845fe36388f832bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,38 +22,27 @@
             }
           },
           {
-            "id": "2a1c409e8ec5509c",
+            "id": "2c7145aa7a4280dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Engineering.md",
+                "file": "CMC AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "845fe36388f832bc",
+            "id": "870cf82a44648248",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "cf4372b02fa8d93f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +155,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -192,11 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "595e98fb057d501a",
+  "active": "870cf82a44648248",
   "lastOpenFiles": [
+    "CMC AI.md",
+    "Machine Learning.md",
+    "AI RoadMap.md",
+    "AI.md",
     "Untitled.md",
     "Prompt Engineering.md",
-    "Machine Learning.md",
     "Understand ChatGPT.md",
     "My Research.md",
     "Generative AI (AI Sáng Tạo).md",
@@ -208,9 +198,7 @@
     "Image/Pasted image 20231123101510.png",
     "Image/Pasted image 20231123093222.png",
     "Image/Pasted image 20231123093029.png",
-    "AI.md",
     "Image/Pasted image 20231123090322.png",
-    "AI RoadMap.md",
     "Chapter 1 - Vectors, what even are they.md",
     "Linear Algebra.md",
     "Image/Pasted image 20231121091256.png",
@@ -224,7 +212,6 @@
     "MLP Catagories.md",
     "News Settler.md",
     "Machine Learning Tools.md",
-    "Facebook's field guide to machine learning.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Image/Pasted image 20230702130719.png",
     "Untitled",

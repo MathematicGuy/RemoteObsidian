@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d985e5a4de8147b",
+        "id": "1b439c1b0bbc7383",
         "type": "tabs",
         "children": [
           {
-            "id": "13cf3d37f0848e80",
+            "id": "2587fadc9475f1bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,61 +23,15 @@
             }
           },
           {
-            "id": "21244af2465faf2b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Yrs Science Research Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "826d132367789335",
+            "id": "fe942ff213b4e726",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM My Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95fedcbf2273af8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Years Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df6ac8bf10c56310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research Planning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science Research Planning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -238,16 +188,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df6ac8bf10c56310",
+  "active": "fe942ff213b4e726",
   "lastOpenFiles": [
-    "2nd Yrs Science Research Project.md",
     "Todo.md",
-    "2nd Years Project.md",
-    "IT_PM My Project.md",
-    "IT Project Management.md",
-    "Science Research User Requirement.md",
-    "Science Research Planning.md",
+    "AI - Artificial Intelligent.md",
+    "2nd Yrs Science Research Project.md",
+    "BackEnd/Advice for AI.md",
     "Science Research Note.md",
+    "Project Management Tutorial - 11 Years of Experience in 45 Minutes.md",
+    "Science Research Planning.md",
+    "Images/Pasted image 20240221123247.png",
+    "Images/Pasted image 20240221123244.png",
+    "IT Project Management.md",
+    "IT_PM My Project.md",
+    "2nd Years Project.md",
+    "End Year Project - Project 6.md",
+    "Science Research User Requirement.md",
     "SDA HW1.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/hw2.jpg",
@@ -265,17 +221,11 @@
     "IT_PM Project LifeCycle.md",
     "IT_PM INTRO.md",
     "Code/Project Ideas.md",
-    "End Year Project - Project 6.md",
     "2nd Year Web Programming & Development.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "CI_CD.md",
-    "Power Bi.md",
-    "Personal/Comparison/Data Science Course.md",
     "Images/Pasted image 20240219191105.png",
     "Images/Pasted image 20240219080359.png",
     "Images/Pasted image 20240219080136.png",
-    "Images/Pasted image 20240219075852.png",
-    "Images/Pasted image 20240219075849.png",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",

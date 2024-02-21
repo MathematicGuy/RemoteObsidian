@@ -7,3 +7,8 @@ Nhóm 2: Thành, Minh Hải
 
 - [ ] List Questions for Thay Huy
 - [ ] Find Roadmap Maker. How to make Project Roadmap
++ [ ] Phân Vai Trò cho các Thành Viên
++ [ ] Tìm các khóa học cho những kĩ năng cần thiết với từng giai đoạn trong dự án (Lưu lại trên google docs)
+- [ ] Giai đoạn khó khăn đang gặp: Project Initiation and Planning phases.
+
+- [ ] Xây dựng từ đâu

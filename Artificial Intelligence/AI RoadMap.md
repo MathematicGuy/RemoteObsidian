@@ -10,7 +10,6 @@ To become an AI engineer, you need to learn a variety of skills, including:
 
 - **Machine learning:** Machine learning is the **core of AI**, so AI engineers need to have a deep *understanding of machine learning concepts and algorithms.*
 
-
 - **Deep learning:** Deep learning is a subset of machine learning that is used to **train artificial neural networks**. AI engineers need to have a good *understanding of deep learning concepts and algorithms.*
 
 - **Programming languages:** AI engineers need to be **proficient in programming language**s such as *Python, Java, and C++*. These languages are used to **develop and deploy AI systems.**
