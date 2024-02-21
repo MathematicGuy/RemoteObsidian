@@ -6,7 +6,6 @@ Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng 
 
 Building a code exam system that supports automatic scoring using chatGPT in conjunction with reviewers.
 
-
 Frontend (HTML, CSS, JavaScript) to create the exam interface.
 
 Backend (Node.js, Python/Flask, Django, etc.) to handle server-side logic, user sessions, and database interactions.
@@ -105,6 +104,8 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 - **Resource Allocation:** Budget, team member roles, hardware/software needs,
 	Assign Role
 	Any Payment ?
+
++ monitor 
 
 - **Risk Assessment:** Identify potential roadblocks (technical, timeline, etc.) and devise mitigation plans.
 	Find out potential Risks from team, code, phrase, etc..

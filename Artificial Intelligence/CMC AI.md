@@ -20,3 +20,29 @@ Công nghệ phải theo đúng Trách Nhiệm và Luật
 
 
 Big Data 
+
+
+Fuzzy logic (logic mờ) 
+Fuzzy Rule (luật chung chung / mờ / ko rõ ràng)
+
+
+Luật mờ <- Luật <- Tri Thức <- Xác Suất + Thống kê
+
+
+Mục tiêu của AI là chế tạo Mô Hình (Model) 
+	Tri thức + Giải Thuật
+
+
+AI - (since 1978)
+
+Chuyển đổi số là gì?
+
+Tác tử là một hệ thống có khả năng nhận thức môi trường xung quanh và thực hiện hành động để đạt được mục tiêu cụ thể.
+Dưới đây là một số đặc điểm chính của tác tử:
+
+**1. Khả năng nhận thức:** Tác tử có thể thu thập thông tin về môi trường thông qua các cảm biến. Thông tin này có thể bao gồm vị trí, trạng thái của môi trường, và các đối tượng khác trong môi trường.
+**2. Khả năng hành động:** Tác tử có thể thực hiện các hành động để thay đổi môi trường hoặc di chuyển trong môi trường.
+**3. Khả năng lập kế hoạch:** Tác tử có thể lập kế hoạch cho các hành động của mình để đạt được mục tiêu cụ thể.
+**4. Khả năng học tập:** Tác tử có thể học hỏi từ kinh nghiệm và cải thiện hiệu suất của mình theo thời gian.
+
+Xây dựng hthong hỏi đáp hỗ trợ học tập dựa trên tri thức.

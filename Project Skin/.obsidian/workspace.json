@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de17fa2761dfc280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science Research Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Science Research Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Science Research Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science Research Planning.md"
+                "file": "Science Research Note.md"
               }
             }
           },
@@ -197,17 +210,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "179bd9aa9bb2aa53",
+  "active": "de17fa2761dfc280",
   "lastOpenFiles": [
+    "Science Research Planning.md",
+    "Science Research Note.md",
+    "2nd Yrs Science Research Project.md",
     "Todo.md",
     "IT_PM INTRO.md",
     "IT Project Management.md",
     "AI - Artificial Intelligent.md",
-    "2nd Yrs Science Research Project.md",
     "BackEnd/Advice for AI.md",
-    "Science Research Note.md",
     "Project Management Tutorial - 11 Years of Experience in 45 Minutes.md",
-    "Science Research Planning.md",
     "Images/Pasted image 20240221123247.png",
     "Images/Pasted image 20240221123244.png",
     "IT_PM My Project.md",
