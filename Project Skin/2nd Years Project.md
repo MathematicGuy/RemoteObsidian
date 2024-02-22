@@ -8,7 +8,7 @@
 ```ad-todo
 Bài tập 1. Viết code và giải thích từng bước với Visual Studio 2022 hoặc 2019:
 a. Xây dựng 1 web API trên dotnet core với hàm tính diện tích và chu vi của hình tròn biến bán kính, khi thực hiện kiểm tra bán kính phải > 0 , nếu đúng thì trả lại diện tích và chu vi của hình tròn, trái lại trả về giá trị báo lỗi.
-b. Kiểm tra web API với Postman
+b. Kiểm tra web API với [Postman](https://web.postman.co/workspace/My-Workspace~d0358b5b-6217-431b-8be2-7c363f68d9ed/quickstart)
 c. Viết tài liệu kỹ thuật hướng dẫn lập trình để gọi web API.
 d. Viết 1 trang HTML, có 1 HTML form với 1 label, 1 textbox để nhập bán kính, 1 button để Tính diện tích, 1 button để tính chu vi, 2 trường text để hiển thị diện tích và chu vi hình tròn.
 	d.1. Trang HTML form có kiểm tra validation

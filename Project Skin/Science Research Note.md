@@ -89,8 +89,7 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 	Define features: Must have, Nice to Have
 
 
-- **Stakeholder Identification:** List out individuals or groups impacted by the project (users, managers, other teams, etc.).
-	Understand my team
+- **[[Stakeholder Identification]]:** List out individuals or groups impacted by the project (users, managers, other teams, etc.).
 
 
 + ! **2. Planning**
@@ -103,7 +102,7 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 
 - **Resource Allocation:** Budget, team member roles, hardware/software needs,
 	Assign Role
-	Any Payment ?
+	Any Payme
 
 + monitor 
 
@@ -112,3 +111,13 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 
 - **Timeline & Milestones:** Create a schedule with key deadlines and deliverables
 	Key Dealine + Milestones
+
+Technology:
+- **Git + GitHub:** Handles version control and basic collaboration. **(Gantt Chart)**
+- **Discord:** For day-to-day team communication.
+- **Trello:** To manage tasks and see who's working on what. **(Kanban Chart)**
+
+- **Good README Files:** Emphasize clear documentation from the start.
+
+
+Linh muốn hủy vì ko muốn mất tiền

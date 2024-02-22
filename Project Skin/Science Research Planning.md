@@ -12,4 +12,8 @@ Nhóm 2: Thành, Minh Hải
 - [ ] Giai đoạn khó khăn đang gặp: Project Initiation and Planning phases.
 
 - [ ] Xây dựng từ đâu
-- [ ] Áp dụng Agile vào ự án
+- [ ] Áp dụng Agile vào dự án
+- [ ] Local Fine-tune tools for cost reduction  
+	Is there any similar fine-tune
+- [ ] ASAP.NET for WebAPP (C#) hay Web thông thường
+- [ ] FE - Flutter or Bootstrap

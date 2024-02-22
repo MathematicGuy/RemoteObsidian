@@ -44,3 +44,7 @@ https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github (quick
 	download all books website
 
 
+Check if a website is online:
+```bash
+Invoke-WebRequest -Uri http://www.figma.com/figjam -Method Head
+```
