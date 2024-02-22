@@ -9,6 +9,7 @@
 - [ ] **End Year Project - Project 6**. Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
 - [ ] **Science Reasearch Project**. 
 - [ ] Learn Github Team Management 
+- [ ] (Maybe) Set-up Discord Channel 
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)

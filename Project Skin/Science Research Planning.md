@@ -17,3 +17,6 @@ Nhóm 2: Thành, Minh Hải
 	Is there any similar fine-tune
 - [ ] ASAP.NET for WebAPP (C#) hay Web thông thường
 - [ ] FE - Flutter or Bootstrap
+
+- [ ] Use Discord as main communicate media
+

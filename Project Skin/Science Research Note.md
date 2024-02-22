@@ -115,9 +115,9 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 Technology:
 - **Git + GitHub:** Handles version control and basic collaboration. **(Gantt Chart)**
 - **Discord:** For day-to-day team communication.
+	
 - **Trello:** To manage tasks and see who's working on what. **(Kanban Chart)**
 
 - **Good README Files:** Emphasize clear documentation from the start.
 
 
-Linh muốn hủy vì ko muốn mất tiền

@@ -34,9 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5791f3fce617bccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science Research Planning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Note.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Note.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science Research Note.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,13 +209,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "313114c4b98d2876",
+  "active": "6a8c9a490af54d22",
   "lastOpenFiles": [
+    "Science Research Planning.md",
+    "Science Research Note.md",
     "Stakeholder Identification.md",
     "Personal/Good for LATER.md",
-    "Science Research Note.md",
     "Todo.md",
-    "Science Research Planning.md",
     "2nd Yrs Science Research Project.md",
     "2nd Years Project.md",
     "How to be a Git Expert.md",
