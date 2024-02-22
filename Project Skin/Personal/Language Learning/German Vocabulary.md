@@ -1033,7 +1033,7 @@ Neue new
 für for
 	Mein jobinterview ist am Dienstag, ich brauche neue Kleidung - my job interview is on Tuesday, I need new clothes
 
-Bluse - Blouse (áo cánh) 
+die Bluse - Blouse (áo cánh) 
 ![[licensed-image.jpg]]
 	Musst du einen Bluse kaufen
 
@@ -1057,7 +1057,7 @@ Geht - is going / going
 Das Hemd - the shirt 
 Das Kleid - the dress
 Das Sakko - the Jacket
-Such (e/ t / st / en) - is looking for
+Such (e/ t / st / en) - am looking for (3 words, include the word For)
 	Was suchen Sie
 	Minh, suchst du ein Kleid
 Das Schal - the scraf 

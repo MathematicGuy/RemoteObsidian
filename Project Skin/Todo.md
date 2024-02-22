@@ -11,12 +11,11 @@
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
-
-- [ ] DB Homework (estimate finished time 1h20' )
-
 - [ ] [[Shopping this week]]
+- [ ] Organize Study Tab 
+- [ ] Find AI Course (Utilize ChatGPT)
 
-+ Evil is Distraction - Consider the simplicity of this insight 
+ Evil is Distraction - Consider the simplicity of this insight 
 	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.
 Hemisync
 
