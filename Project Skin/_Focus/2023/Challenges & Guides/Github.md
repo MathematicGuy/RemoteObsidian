@@ -5,12 +5,17 @@ Pull -> Commit -> Push
 
 #### [[Github for Beginners]]
 
-#### [[How to be a Git Expert]]
+#### [[How to be a Git Expert]] (Appending)
+
+#### [[How GIT works under the HOOD]] (Appending)
+
+#### [[Git for Professionals]] (Later)
 
 ### Git Explained
 
-##### Git how to push 
 
+##### Git how to push 
++ ! Press 'q' to exit preview stages in terminal
 note: repository mean folder, same 
 stage-1: **repo- tracks the diff (changes) to your codebase**
 ```shell
