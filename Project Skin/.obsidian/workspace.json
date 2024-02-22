@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a174c29fb373f4e",
+        "id": "64669468c2d81780",
         "type": "tabs",
         "children": [
           {
-            "id": "8508a216c6555e0f",
+            "id": "6a8c9a490af54d22",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "fe77d66ea50fd6d0",
+            "id": "95ace784947a5190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "How to be a Git Expert.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "How to be a Git Expert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "How to be a Git Expert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "How to be a Git Expert.md"
               }
             }
           },
@@ -197,10 +197,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe77d66ea50fd6d0",
+  "active": "95ace784947a5190",
   "lastOpenFiles": [
-    "Personal/Language Learning/German Vocabulary.md",
+    "Images/Pasted image 20240222114044.png",
+    "Images/Pasted image 20240222113811.png",
+    "Images/Pasted image 20240222113018.png",
+    "Images/Pasted image 20240222111615.png",
+    "Images/Pasted image 20240222111108.png",
+    "Images/Pasted image 20240222110906.png",
+    "Images/Pasted image 20240222110456.png",
+    "Images/Pasted image 20240222104741.png",
+    "Images/Pasted image 20240222104637.png",
+    "Images/Pasted image 20240222104304.png",
+    "Images/Pasted image 20240222104240.png",
+    "How to be a Git Expert.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Science Research Planning.md",
     "Science Research Note.md",
     "2nd Yrs Science Research Project.md",
@@ -209,32 +222,19 @@
     "AI - Artificial Intelligent.md",
     "BackEnd/Advice for AI.md",
     "Project Management Tutorial - 11 Years of Experience in 45 Minutes.md",
-    "Images/Pasted image 20240221123247.png",
-    "Images/Pasted image 20240221123244.png",
     "IT_PM My Project.md",
     "2nd Years Project.md",
     "End Year Project - Project 6.md",
     "Science Research User Requirement.md",
     "SDA HW1.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Images/hw2.jpg",
-    "Images/DB_Schema.jpg",
-    "Images/hw1.jpg",
     "System Administration Database.md",
     "SR BE.md",
     "SR FE.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
-    "Images/Pasted image 20240220230620.png",
     "2nd Yrs Mid-Term Project.md",
     "Shopping this week.md",
     "IT_PM Part 1.md",
-    "Images/Pasted image 20240220162413.png",
-    "IT_PM Project LifeCycle.md",
-    "Code/Project Ideas.md",
-    "2nd Year Web Programming & Development.md",
-    "Images/Pasted image 20240219191105.png",
-    "Images/Pasted image 20240219080359.png",
-    "Images/Pasted image 20240219080136.png",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",

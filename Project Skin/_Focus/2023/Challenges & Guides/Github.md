@@ -5,6 +5,8 @@ Pull -> Commit -> Push
 
 #### [[Github for Beginners]]
 
+#### [[How to be a Git Expert]]
+
 ### Git Explained
 
 ##### Git how to push 

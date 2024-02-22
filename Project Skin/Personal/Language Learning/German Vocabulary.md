@@ -1118,3 +1118,5 @@ Nächste - next / closet (literally pronounce as Next in German)
 	Wo ist der Nächste Station
 	Die Nächste Station ist Ha Noi
 
+
+Differentiate Mag and gern (both mean like)
