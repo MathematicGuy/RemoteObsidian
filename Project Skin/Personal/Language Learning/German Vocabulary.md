@@ -437,8 +437,7 @@ Geldautomat movie theater
 
 Excercise: Vacation Clothes (Urlaub skleidung )
 Urlaub vacation
-Kaufhaus department store
-Sieht see
+das Kaufhaus department store
 Für for
 Urlaub vacation
 brauche need
@@ -655,7 +654,7 @@ Schnecke - snail (~)
 
 **analyze later**: Das Wetter im Herbst ist sehr schön. Es ist manchmal sonnig, manchmal bewölkt, aber nie zu kalt oder zu heiß. (practice to write the same phrase like this. Make a connector section / vocab section)
 
-Hast du - do you have
+Hast du - do you have (not Have To - muss)
 	 Hast du einen Mann
 	 Habe kein not have
 	 hat has
@@ -1020,7 +1019,7 @@ Schreibtisch Desk
 
 
 ### Unit 5: 
-das Kaufhaus - the department store
+das Kaufhaus - the deparftment store
 
 Monstag monday
 Dienstag tuesday
