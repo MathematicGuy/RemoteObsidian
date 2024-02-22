@@ -6,17 +6,9 @@ Nhóm 2: Thành, Minh Hải
 	Lập câu hỏi dựa trên các yêu cầu khách hàng
 
 
-+ [ ] Phân Vai Trò cho các Thành Viên
-
-+ [ ] Tìm các khóa học cho những kĩ năng cần thiết với từng giai đoạn trong dự án (Lưu lại trên google docs)
-
-
-- [ ] Local Fine-tune tools for cost reduction  
-	Is there any similar fine-tune
-
-- [ ] ASAP.NET for WebAPP (C#) hay Web thông thường
-
-- [ ] FE - Flutter or Bootstrap
+Cần Lập Đầu Bài
+rồi Giải Đầu bài
+sau đó Phân tích hệ thống
 
 
 Question:
@@ -32,7 +24,6 @@ Question:
 	+ Game Dev: Unity, Unreal Engine
 
 + Thầy có 1 số tài nguyên nghiên cứu liên quan cho dự án này ko ạ?
-
 
 
 

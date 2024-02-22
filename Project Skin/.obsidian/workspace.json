@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mentor dựng khung web.md",
+                "file": "Science Research Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mentor dựng khung web.md",
+                "file": "Science Research Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mentor dựng khung web.md",
+                "file": "Science Research Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mentor dựng khung web.md"
+                "file": "Science Research Notes.md"
               }
             }
           },
@@ -199,6 +199,7 @@
   },
   "active": "50f70bef621c5829",
   "lastOpenFiles": [
+    "2nd Yrs Science Research Project.md",
     "Stakeholder Identification.md",
     "mentor dựng khung web.md",
     "Todo.md",
@@ -208,7 +209,6 @@
     "Tech Team Position.md",
     "FE.md",
     "BE.md",
-    "2nd Yrs Science Research Project.md",
     "Science Research Notes.md",
     "Science Research Planning.md",
     "Simplified User Workflow.md",
