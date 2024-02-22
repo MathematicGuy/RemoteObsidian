@@ -8,18 +8,19 @@
 7. Mobile(Flutter) 
 8. BI, báo cáo thông minh(PowerBI, Tableau...)
 9. *AI, LLM...*
+note: big old project
+	Xây dựng 1 web cho phép quản lý học liệu, đồ án môn học, tìm kiếm, hỏi đáp sử dụng LLM, tư vấn môn học, đánh giá code tự động
 
 
-
-[[Science Research Note]]
 [[Science Research Planning]]
+[[Science Research Notes]]
 
 [[Webinar Snippet -  Grading code with ChatGPT-4]]
 
 [[SR FE]]
+	JS, Jquery
 [[SR BE]]
+	dotnet
 
 **Đề tài nhóm 1.** Xây dựng Web quản lý học liệu và hỗ trợ đánh giá tự động mã bài lập trình dựa trên phân tích mã nguồn
-+ Cần kỹ năng gì?
-
 

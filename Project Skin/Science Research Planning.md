@@ -1,22 +1,95 @@
-Nhóm 1: Xuân, Quang Huy, Nhật Minh 
-	Tìm Hiểu các Dự Án tương tự.
-	-> Phân tích yêu cầu khách hàng từ các dự án đó.
+**Đinh Nhật Thành**
 
-Nhóm 2: Thành, Minh Hải
-	Lập câu hỏi dựa trên các yêu cầu khách hàng
+**Role: Backend System, Frontend**
 
-- [ ] List Questions for Thay Huy
-- [ ] Find Roadmap Maker. How to make Project Roadmap
-+ [ ] Phân Vai Trò cho các Thành Viên
-+ [ ] Tìm các khóa học cho những kĩ năng cần thiết với từng giai đoạn trong dự án (Lưu lại trên google docs)
-- [ ] Giai đoạn khó khăn đang gặp: Project Initiation and Planning phases.
+Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
 
-- [ ] Xây dựng từ đâu
-- [ ] Áp dụng Agile vào dự án
-- [ ] Local Fine-tune tools for cost reduction  
-	Is there any similar fine-tune
-- [ ] ASAP.NET for WebAPP (C#) hay Web thông thường
-- [ ] FE - Flutter or Bootstrap
+Building a code exam system that supports automatic scoring using chatGPT in conjunction with reviewers.
 
-- [ ] Use Discord as main communicate media
+Frontend (HTML, CSS, JavaScript) to create the exam interface.
+
+Backend (Node.js, Python/Flask, Django, etc.) to handle server-side logic, user sessions, and database interactions.
+
+Similiar Project: 
++ https://www.codegrade.com/
+
+[[Science Research User Requirement]]
+
+
+
+### [[Simplified User Workflow]]
+
+    
+
+
+demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
+
+
+**Behind the Scenes: Technical Aspects**
+
+- **Server-Side Logic:** Handles question/answer storage, submission tracking, and routing code submissions to ChatGPT for analysis.
+
+- **Test Case Execution:** Automated test cases (provided by the instructor) verify if submitted code produces the expected outputs.
+
+- **NLP Prompts:** The core challenge and creativity of this system lie in how you prompt ChatGPT to analyze code. Example types of prompts:
+	
+    - "Does this code function correctly? If not, explain the error."
+    - "Suggest two ways to improve this code's readability."
+    - "Is this code bot generated"
+
+
+**Caveats** (lưu ý)
+
+- **Complexity:** A full-fledged system like this is a significant project. Start with a smaller proof-of-concept then iterate.
+- **ChatGPT Evolves:** OpenAI may shift their models, requiring prompt adjustment and system tweaking.
+- **Security:** Take meticulous precautions preventing exam content leaks and cheating attempts.
+
+
+
+### Project Phrase
+Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
+
++ ! **1. Project Initiation**
+
+- **Problem Definition:** Clearly outline the problem the project intends to solve. **What pain points does it address, and for whom?** (giải quyết những điểm khó khăn nào, cho ai?)
+	Outline what we don't understand and problems we have 
+
+- **Goals & Objectives:** Define specific, measurable achievements that indicate project success.
+	Identifying Goals of each Phrase
+
+- **Scope:** What features are essential (must-haves) vs. those that would be nice, but not critical (nice-to-haves).
+	Define features: Must have, Nice to Have
+
+
+- **[[Stakeholder Identification]]:** List out individuals or groups impacted by the project (users, managers, other teams, etc.).
+
+
++ ! **2. Planning**
+
+- **Requirements Gathering:** Detail the specific functions the software must perform. User interviews, surveys, and observation can be vital here.
+
+- **Technical Design:** Choose technologies, architecture patterns, and outline the overall structure of the system.
+	+ Programming Language, Design pattern (Agile, Water Fall, etc..), Software Architecture (Use Case, Activity Diagram, User Flow, etc..)
+	+ Project Folder Design, Work Flow, etc.. 
+
+- **Resource Allocation:** Budget, team member roles, hardware/software needs,
+	Assign Role
+	Any Payme
+
++ monitor 
+
+- **Risk Assessment:** Identify potential roadblocks (technical, timeline, etc.) and devise mitigation plans.
+	Find out potential Risks from team, code, phrase, etc..
+
+- **Timeline & Milestones:** Create a schedule with key deadlines and deliverables
+	Key Dealine + Milestones
+
+Technology:
+- **Git + GitHub:** Handles version control and basic collaboration. **(Gantt Chart)**
+- **Discord:** For day-to-day team communication.
+	
+- **Trello:** To manage tasks and see who's working on what. **(Kanban Chart)**
+
+- **Good README Files:** Emphasize clear documentation from the start.
+
 

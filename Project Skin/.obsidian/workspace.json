@@ -23,32 +23,20 @@
             }
           },
           {
-            "id": "313114c4b98d2876",
+            "id": "50f70bef621c5829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science Research Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5791f3fce617bccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research Planning.md",
+                "file": "mentor dựng khung web.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "mentor dựng khung web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "mentor dựng khung web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "mentor dựng khung web.md"
               }
             }
           },
@@ -209,14 +197,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a8c9a490af54d22",
+  "active": "50f70bef621c5829",
   "lastOpenFiles": [
-    "Science Research Planning.md",
-    "Science Research Note.md",
     "Stakeholder Identification.md",
-    "Personal/Good for LATER.md",
+    "mentor dựng khung web.md",
     "Todo.md",
+    "SR FE.md",
+    "Science Research User Requirement.md",
+    "BA.md",
+    "Tech Team Position.md",
+    "FE.md",
+    "BE.md",
     "2nd Yrs Science Research Project.md",
+    "Science Research Notes.md",
+    "Science Research Planning.md",
+    "Simplified User Workflow.md",
+    "Personal/Good for LATER.md",
     "2nd Years Project.md",
     "How to be a Git Expert.md",
     "_Focus/2023/Challenges & Guides/Github.md",
@@ -239,14 +235,6 @@
     "BackEnd/Advice for AI.md",
     "Project Management Tutorial - 11 Years of Experience in 45 Minutes.md",
     "IT_PM My Project.md",
-    "End Year Project - Project 6.md",
-    "Science Research User Requirement.md",
-    "SDA HW1.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "System Administration Database.md",
-    "SR BE.md",
-    "SR FE.md",
-    "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
