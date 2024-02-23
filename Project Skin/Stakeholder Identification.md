@@ -1,6 +1,7 @@
-Thành (Lead, [[FE]]) - dinhnhatthanh248@gmail.com
+Thành ([[Lead]], [[FE]]) - dinhnhatthanh248@gmail.com
+	Monitor Personel & Project. Connect 
 
-Minh Hải (FE) - abuhmhai@gmail.com
+Minh Hải ([[FE]]) - abuhmhai@gmail.com
 
 Xuân ([[BA]], [[Tester]]) - nxuan2k4@gmail.com 
 

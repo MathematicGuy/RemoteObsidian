@@ -5,11 +5,10 @@
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
-#Todo/PriorityProject
-- [ ] **End Year Project - Project 6**. Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
-- [ ] **Science Reasearch Project**. 
+#Todo/Priority
+
 - [ ] Learn Github Team Management 
-- [ ] Lập Github resp và folder để các bạn làm phần FE
+
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
@@ -17,6 +16,7 @@
 
 - [ ] Organize Study Tab 
 - [ ] Find AI Course (Utilize ChatGPT)
+- [ ] Finish SRS
 
  Evil is Distraction - Consider the simplicity of this insight 
 	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.

@@ -1,14 +1,18 @@
-Design Demo:
+[Design Demo](https://www.youtube.com/watch?v=8BLTo0_yJi4)
+
+**Design Target:** Building a code exam system that supports automatic scoring using chatGPT in conjunction with reviewers. 
+
+Question to Asked: 
++ Give me the step to Design `[design_target]`
 
 
-Technology & Frame Work
+**Technology & Frame Work**
++ Tailwind CSS, React.JS or JS and JQuery
 
+**Design**
++ (Team Meeting)
+	Colors (main, secondary)
+	Alternative Design (Hải)
 
-Design
+**Design Requirements** 
 
-
-Design Requirement
-
-
-Customer Need
-về Front end thì em định gọi các bạn dùg Flutter để dễ dàng mở rộng.Để bắt đầu sớm thì nhóm e chia 2 bên 1 FE vs BE. Thì bên FE có thể bắt đầu luon vs 1 bên nghiên cứu fine-tune chatGPT để làm demo ạ

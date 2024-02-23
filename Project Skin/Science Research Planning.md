@@ -1,25 +1,15 @@
-**Đinh Nhật Thành**
-
-**Role: Backend System, Frontend**
-
-Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
+**Target:** Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
 
 Building a code exam system that supports automatic scoring using chatGPT in conjunction with reviewers.
 
-Frontend (HTML, CSS, JavaScript) to create the exam interface.
-
-Backend (Node.js, Python/Flask, Django, etc.) to handle server-side logic, user sessions, and database interactions.
-
+---
 Similiar Project: 
 + https://www.codegrade.com/
 
 [[Science Research User Requirement]]
-
-
++ Todo: Lập 1 kênh đê các bạn báo cáo tình hình. 
 
 ### [[Simplified User Workflow]]
-
-    
 
 
 demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
@@ -41,9 +31,10 @@ demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
 **Caveats** (lưu ý)
 
 - **Complexity:** A full-fledged system like this is a significant project. Start with a smaller proof-of-concept then iterate.
-- **ChatGPT Evolves:** OpenAI may shift their models, requiring prompt adjustment and system tweaking.
-- **Security:** Take meticulous precautions preventing exam content leaks and cheating attempts.
 
+- **ChatGPT Evolves:** OpenAI may shift their models, requiring prompt adjustment and system tweaking.
+
+- **Security:** Take meticulous precautions preventing exam content leaks and cheating attempts.
 
 
 ### Project Phrase
@@ -57,8 +48,10 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 - **Goals & Objectives:** Define specific, measurable achievements that indicate project success.
 	Identifying Goals of each Phrase
 
-- **Scope:** What features are essential (must-haves) vs. those that would be nice, but not critical (nice-to-haves).
+
+- **Scope:** **What features are essential (must-haves) vs. those that would be nice**, but not critical (nice-to-haves).
 	Define features: Must have, Nice to Have
+(Huy + Nhật)
 
 
 - **[[Stakeholder Identification]]:** List out individuals or groups impacted by the project (users, managers, other teams, etc.).
@@ -76,20 +69,26 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 	Assign Role
 	Any Payme
 
-+ monitor 
-
 - **Risk Assessment:** Identify potential roadblocks (technical, timeline, etc.) and devise mitigation plans.
 	Find out potential Risks from team, code, phrase, etc..
 
 - **Timeline & Milestones:** Create a schedule with key deadlines and deliverables
 	Key Dealine + Milestones
 
-Technology:
-- **Git + GitHub:** Handles version control and basic collaboration. **(Gantt Chart)**
+
+**Project Management Tool**  
+- **Git + GitHub:** Handles version control and basic collaboration. **(Trello but better)**
+	
 - **Discord:** For day-to-day team communication.
 	
-- **Trello:** To manage tasks and see who's working on what. **(Kanban Chart)**
-
+- **Trello:** To manage tasks and see who's working on what. **(temporary)**
+	
 - **Good README Files:** Emphasize clear documentation from the start.
+
+**Technology & Framework**
++ FE
+	HTML, Tailwind CSS, React.js
++ BE
+	ASP.Net 
 
 
