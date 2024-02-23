@@ -14,6 +14,7 @@
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
 - [ ] [[Shopping this week]]
+
 - [ ] Organize Study Tab 
 - [ ] Find AI Course (Utilize ChatGPT)
 

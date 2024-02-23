@@ -1055,7 +1055,7 @@ Geht - is going / going
 	Meine Mutter geht ins Kaufhaus - my mother is going to the department store
 
 Das Hemd - the shirt 
-Das Kleid - the dress
+Das Kleid - the dress (die in plural, ein)
 Das Sakko - the Jacket
 Such (e/ t / st / en) - am looking for (3 words, include the word For)
 	Was suchen Sie
@@ -1080,6 +1080,7 @@ Dein Pullover - the Sweater
 	Haben sie einen pullover in Größe S
 Jean - jean
 	Die Jean sind für meinen Mann
+	+ **Meinen** because **the sentence is a Accusative Case**. The direct object of the verb reveives the action of the verd.
 Bücherregal - bookshelf
 
 Anna, du musst neue Kleidung für das Konzert. Aber du kaufen Kleidung nicht . Ich habe zwei
