@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64669468c2d81780",
+        "id": "90407c76094fc599",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8c9a490af54d22",
+            "id": "046ed2ebac3b4ffc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "a0a5b21990b7d67f",
+            "id": "1aca90cfd5b62e5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "_Focus/2024/2024 1st_Semester/Information Safety.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,25 +36,12 @@
             }
           },
           {
-            "id": "4aa0884a79323de5",
+            "id": "611a619745d7b9ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SR FE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "036aa19ab55c8136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research Planning.md",
+                "file": "Science Research Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Science Research Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Science Research Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science Research Planning.md"
+                "file": "Science Research Notes.md"
               }
             }
           },
@@ -201,12 +189,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -218,21 +205,41 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036aa19ab55c8136",
+  "active": "611a619745d7b9ef",
   "lastOpenFiles": [
-    "SR FE.md",
-    "Science Research Planning.md",
-    "Todo.md",
-    "Science Research User Requirement.md",
-    "2nd Yrs Science Research Project.md",
+    "CodeGrade Demo.md",
+    "_Focus/2024/2024 1st_Semester/Information Safety.md",
     "Science Research Notes.md",
-    "Stakeholder Identification.md",
+    "Admin RS demo.md",
+    "2nd Yrs Science Research Project.md",
+    "Todo.md",
+    "Images/Pasted image 20240223175844.png",
+    "Images/Pasted image 20240223175843.png",
+    "Images/Pasted image 20240223175834.png",
+    "Images/Pasted image 20240223175754.png",
+    "Images/Pasted image 20240223175730.png",
+    "Images/Pasted image 20240223175700.png",
+    "Images/Pasted image 20240223175513.png",
+    "Images/Pasted image 20240223175427.png",
+    "Images/Pasted image 20240223175412.png",
+    "Images/Pasted image 20240223175303.png",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Essenttial Items to prepare before designing a website.md",
+    "Requirement Specifications Terms.md",
     "Lead.md",
+    "Obsidian/Obsidian Hotkeys - Favorites and best practices.md",
+    "_Focus/2024/Untitled.md",
+    "_Focus/2024/2024 1st_Semester",
+    "_Focus/2024",
+    "Science Research Planning.md",
+    "Science Research User Requirement.md",
+    "SR FE.md",
+    "Stakeholder Identification.md",
     "German Accusative Case.md",
     "Personal/Language Learning/German Vocabulary.md",
     "mentor dựng khung web.md",
@@ -242,25 +249,6 @@
     "BE.md",
     "Simplified User Workflow.md",
     "Personal/Good for LATER.md",
-    "2nd Years Project.md",
-    "How to be a Git Expert.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "Git for Professionals.md",
-    "How GIT works under the HOOD.md",
-    "Images/Pasted image 20240222140851.png",
-    "Images/Pasted image 20240222140802.png",
-    "Images/Pasted image 20240222140134.png",
-    "Images/Pasted image 20240222135621.png",
-    "Images/Pasted image 20240222134309.png",
-    "Images/Pasted image 20240222134001.png",
-    "Images/Pasted image 20240222133950.png",
-    "Images/Pasted image 20240222133756.png",
-    "Images/Pasted image 20240222132710.png",
-    "Images/Pasted image 20240222114044.png",
-    "IT_PM INTRO.md",
-    "IT Project Management.md",
-    "AI - Artificial Intelligent.md",
-    "BackEnd/Advice for AI.md",
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
@@ -273,8 +261,6 @@
     "Personal/Programming Skill",
     "_Focus/WebProject2023",
     "Personal/Interest/Books",
-    "_Focus/SQL & DataBase/DB HomeWork",
-    "_Focus/SQL & DataBase/SQL",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",

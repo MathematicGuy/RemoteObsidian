@@ -5,27 +5,25 @@ Nhóm 1: Xuân, Quang Huy, Nhật Minh
 Nhóm 2: Thành, Minh Hải
 	Lập câu hỏi dựa trên các yêu cầu khách hàng
 
-
 Cần Lập Đầu Bài
 rồi Giải Đầu bài
 sau đó Phân tích hệ thống
 
+---
+#### [[Requirement Specifications Terms]]
++ [[Admin RS demo]] 
 
-Question:
-+ Can you outline a high-level roadmap for this project, including key phases (research, prototyping, UI, testing, etc.) and potential timeline milestones?
+[[CodeGrade Demo]]
 
-
-+ Roadmap cho dự án này đặt biệt là trong nghiên cứu và fine-tune ChatGPT 3.5. Những cột mốc (trong Nghiên cứu, Demo, UI, testing) và Deadline chính của dự án.
-
-+ Thầy đề xuất các ngôn ngữ lập trình và Frame work nào phù hợp cho loại dự án có tích hợp ChatGPT, phát triển giao diện web và khả năng mở rộng không?
-> Frame work: 
-	+ Web Dev: Flutter, React, Vue.js, ASP.NET
-	+ Python: Django
-	+ Game Dev: Unity, Unreal Engine
-
-+ Thầy có 1 số tài nguyên nghiên cứu liên quan cho dự án này ko ạ?
+#### [[Essenttial Items to prepare before designing a website]]
 
 
 
-**Consider later Question:** 
+---
+
+**Question:**
++ **Can you outline a high-level roadmap for this project, including key phases (research, prototyping, UI, testing, etc.) and potential timeline milestones?
+
 + How can we identify and mitigate potential biases in ChatGPT's code scoring, and ensure the system promotes fairness in assessment?
+
+/git
