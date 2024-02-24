@@ -1,3 +1,59 @@
+Overview
+
+**user: guest**
++ Register (Create instructor/student Account)
+(Add later: acocunt register to be instructor need to be verify by admin)
+
++ ! notice: Assignment contain 1 to many exercise.
+**user: instructor**
++ Login
+
++ ! Assignment contain many Questions. Like a Folder contain many Files. 
++ Manage Question
+	+ Create Question
+	+ View Question (from Question Bank)
+	+ Edit Question
+	+ Delete Question
+(Questions can be added to a Assignments later)
+
++ Manage Assignments
+	+ Create Assignment
+	+ Publish Assignments (to Draft)
+	+ View Assignment
+		+ View Draft Assignments (View assignments waiting to be Publish)
+		+ View Opened Assignments
+		+ View Closed Assignments
+		+ View Finalized Assignment
+		
+	+ Finalized Assignments (Finalize Scored Assignment)
+	+ Score Assignment
+
+
+**user: student**
++ Login
++ View Assignment 
+	+ View Public Assignments
+	+ View Enrolled Assignment
+	+ View Ongoing Assignment
+	+ View Finalized Assignment
+
+
++ Join Assignment (from Public Assignments)
++ Atempt Assigment (from Ongoing Assignments)
++ Submit Assignment 
+
+
+**user: admin**
++ Manage User
+	+ View Account
+	+ Disable/Enable Account
+	+ Delete Account
+	+ Save Account
+
+
+
+### Screen Flow: 
+
 Welcome Screen
 	![[Pasted image 20240224095216.png]]
 
@@ -53,3 +109,7 @@ Navbar
 + Opened Assignments
 + Closed Assignments
 + Finalized  Assignments
+
+
+
+
