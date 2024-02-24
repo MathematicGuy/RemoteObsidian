@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90407c76094fc599",
+        "id": "6cae3ca91dcc4e07",
         "type": "tabs",
         "children": [
           {
-            "id": "046ed2ebac3b4ffc",
+            "id": "53281a973b903b81",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,15 @@
             }
           },
           {
-            "id": "1aca90cfd5b62e5c",
+            "id": "54b56d573597daf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Information Safety.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "611a619745d7b9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science Research Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,14 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "611a619745d7b9ef",
+  "active": "54b56d573597daf7",
   "lastOpenFiles": [
+    "Todo.md",
+    "Science Research Notes.md",
     "CodeGrade Demo.md",
     "_Focus/2024/2024 1st_Semester/Information Safety.md",
-    "Science Research Notes.md",
     "Admin RS demo.md",
     "2nd Yrs Science Research Project.md",
-    "Todo.md",
     "Images/Pasted image 20240223175844.png",
     "Images/Pasted image 20240223175843.png",
     "Images/Pasted image 20240223175834.png",
