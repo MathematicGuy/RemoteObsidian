@@ -26,8 +26,13 @@
             "id": "54b56d573597daf7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CodeGrade Demo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CodeGrade Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CodeGrade Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CodeGrade Demo.md"
+              }
             }
           },
           {
@@ -190,22 +199,23 @@
   },
   "active": "54b56d573597daf7",
   "lastOpenFiles": [
+    "Images/Pasted image 20240224101031.png",
+    "Images/Pasted image 20240224101016.png",
+    "Images/Pasted image 20240224100719.png",
+    "Images/Pasted image 20240224100603.png",
+    "Images/Pasted image 20240224100536.png",
+    "Images/Pasted image 20240224100527.png",
+    "Images/Pasted image 20240224100455.png",
+    "Images/Pasted image 20240224100232.png",
+    "Images/Pasted image 20240224100133.png",
+    "Images/Pasted image 20240224100114.png",
+    "Images/Pasted image 20240224095917 1.png",
     "Todo.md",
     "Science Research Notes.md",
     "CodeGrade Demo.md",
     "_Focus/2024/2024 1st_Semester/Information Safety.md",
     "Admin RS demo.md",
     "2nd Yrs Science Research Project.md",
-    "Images/Pasted image 20240223175844.png",
-    "Images/Pasted image 20240223175843.png",
-    "Images/Pasted image 20240223175834.png",
-    "Images/Pasted image 20240223175754.png",
-    "Images/Pasted image 20240223175730.png",
-    "Images/Pasted image 20240223175700.png",
-    "Images/Pasted image 20240223175513.png",
-    "Images/Pasted image 20240223175427.png",
-    "Images/Pasted image 20240223175412.png",
-    "Images/Pasted image 20240223175303.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Essenttial Items to prepare before designing a website.md",
     "Requirement Specifications Terms.md",
