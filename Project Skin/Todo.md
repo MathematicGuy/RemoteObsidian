@@ -8,7 +8,7 @@
 #Todo/Priority
 
 - [ ] Learn Github Team Management 
-
+- [ ] Buy Whey
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
