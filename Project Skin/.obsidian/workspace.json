@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb2886d0f87bc379",
+        "id": "4b4a076c08e9e82c",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc6af5c7427a16c",
+            "id": "732693ebf14cd3cc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "928833298de0900d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodeGrade Demo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeGrade Demo.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeGrade Demo.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeGrade Demo.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "928833298de0900d",
+  "active": "732693ebf14cd3cc",
   "lastOpenFiles": [
     "Todo.md",
     "CodeGrade Demo.md",
