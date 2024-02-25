@@ -25,8 +25,8 @@ Overview
 		+ View Closed Assignments
 		+ View Finalized Assignment
 		
+	+ Score Assignment along with ChatGPT
 	+ Finalized Assignments (Finalize Scored Assignment)
-	+ Score Assignment
 
 
 **user: student**
@@ -38,7 +38,7 @@ Overview
 	+ View Finalized Assignment
 
 
-+ Join Assignment (from Public Assignments)
+	+ Join Assignment (from Public Assignments)
 + Atempt Assigment (from Ongoing Assignments)
 + Submit Assignment 
 
