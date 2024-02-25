@@ -1,11 +1,12 @@
-Overview
+**Overview**
 
+#### User Description
 **user: guest**
 + Register (Create instructor/student Account)
 (Add later: acocunt register to be instructor need to be verify by admin)
 
 + ! notice: Assignment contain 1 to many exercise.
-**user: instructor**
+**user: instructor** (Thành, Minh Nhật, Minh Hải, Quang Huy)
 + Login
 
 + ! Assignment contain many Questions. Like a Folder contain many Files. 
@@ -29,7 +30,7 @@ Overview
 	+ Finalized Assignments (Finalize Scored Assignment)
 
 
-**user: student**
+**user: student** (Xuân)
 + Login
 + View Assignment 
 	+ View Public Assignments
@@ -43,12 +44,13 @@ Overview
 + Submit Assignment 
 
 
-**user: admin**
+**user: admin** (Thành)
 + Manage User
 	+ View Account
 	+ Disable/Enable Account
 	+ Delete Account
 	+ Save Account
+
 
 
 
@@ -107,9 +109,11 @@ Navbar
 		![[Pasted image 20240224101016.png]]
 		Transfer Assignment 
 + Opened Assignments
-+ Closed Assignments
+	![[Pasted image 20240225140653.png]]
++ Closed Assignments (same Design)
+	![[Pasted image 20240225140653.png]]
 + Finalized  Assignments
-
+	![[Pasted image 20240225140745.png]]
 
 
 

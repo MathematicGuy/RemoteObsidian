@@ -6,17 +6,16 @@
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
 #Todo/Priority
-
-- [ ] Learn Github Team Management 
+- [ ] 
+- [ ] Research CI/CD
 - [ ] Buy Whey
 
 #Todo/GoalsThisWeek
-- [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
-- [ ] Install zoxide
-
 - [ ] Organize Study Tab 
+- [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
+- [ ] Learn Github Team Management 
 - [ ] Find AI Course (Utilize ChatGPT)
-- [ ] Finish SRS
+
 
  Evil is Distraction - Consider the simplicity of this insight 
 	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.
@@ -26,7 +25,7 @@ Hemisync
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
-
+- [ ] Install zoxide
 
 #Todo/Code/WebDev
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
