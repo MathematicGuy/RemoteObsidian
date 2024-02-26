@@ -1,5 +1,5 @@
 **My Learning**
-.[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
+[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
 [Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 
 [HTML-CSS-JS for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/3)  (Finish this course to take Data Science course)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
@@ -16,11 +16,9 @@
 - [ ] Learn Github Team Management 
 - [ ] Find AI Course (Utilize ChatGPT)
 
-
  Evil is Distraction - Consider the simplicity of this insight 
 	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.
 Hemisync
-
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)

@@ -9,7 +9,7 @@
 **user: instructor** (Thành, Minh Nhật, Minh Hải, Quang Huy)
 + Login
 
-+ ! Assignment contain many Questions. Like a Folder contain many Files. 
+	+ ! Assignment contain many Questions. Like a Folder contain many Files. 
 + Manage Question
 	+ Create Question
 	+ View Question (from Question Bank)
