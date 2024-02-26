@@ -26,11 +26,30 @@
             "id": "b26120d2b1fdfc23",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SDA HW1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14b953876c96759e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Driff.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SDA HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SDA HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SDA HW1.md"
               }
             }
           },
@@ -190,9 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adc8936cd3a71b45",
+  "active": "b26120d2b1fdfc23",
   "lastOpenFiles": [
     "System Administration Database.md",
+    "Todo.md",
+    "Driff.md",
     "Images/Pasted image 20240226144851.png",
     "SDA Review.md",
     "Science Research Notes.md",
@@ -202,7 +223,6 @@
     "Learn Web API.md",
     "Science Research Planning.md",
     "Web API Note.md",
-    "Todo.md",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "CSharp Revision.md",
     "_Focus/2023/3rd Semesters/CSharp/CSharp Fundamental.md",
