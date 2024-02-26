@@ -7,13 +7,19 @@
 
 #Todo/Priority
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
-- [ ] Research CI/CD
-- [ ] Buy Whey
+	- [ ] Intermedia C#
+	- [ ] API, Razor, etc.. 
+- [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week
+
 
 #Todo/GoalsThisWeek
 - [ ] Organize Study Tab 
+- [ ] Buy Whey
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
-- [ ] Learn Github Team Management 
+- [ ] Guide Xuan what do study
+
+- [ ] Research CI/CD
+- [ ] Learn Github Project Management 
 - [ ] Find AI Course (Utilize ChatGPT)
 
  Evil is Distraction - Consider the simplicity of this insight 
