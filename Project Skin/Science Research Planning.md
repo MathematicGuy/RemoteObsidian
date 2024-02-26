@@ -3,11 +3,14 @@
 Building a code exam system that supports automatic scoring using chatGPT in conjunction with reviewers.
 
 ---
+**
 Similiar Project: 
 + https://www.codegrade.com/
 
 [[Science Research User Requirement]]
-+ Todo: Lập 1 kênh đê các bạn báo cáo tình hình. 
++ Todo: Lập 1 kênh đê các bạn báo cáo tình hình
+
+[[Science Research - Recommended Languages]]
 
 ### [[Simplified User Workflow]]
 
@@ -37,8 +40,18 @@ demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
 - **Security:** Take meticulous precautions preventing exam content leaks and cheating attempts.
 
 
+
+
+
+
+
+
+
+
+
 ### Project Phrase
 Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
+
 
 + ! **1. Project Initiation**
 
@@ -67,7 +80,7 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 
 - **Resource Allocation:** Budget, team member roles, hardware/software needs,
 	Assign Role
-	Any Payme
+	Any Paymement
 
 - **[[Science Research Project - Risk Assessment]]:** Identify potential roadblocks (technical, timeline, etc.) and devise mitigation plans.
 	Find out potential Risks from team, code, phrase, etc..
@@ -90,5 +103,7 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 	HTML, Tailwind CSS, React.js
 + BE
 	ASP.Net 
+
+
 
 

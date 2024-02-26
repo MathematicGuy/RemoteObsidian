@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ff30208dc4fe75bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science Research - Recommended Languages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d0a28df14c03d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stakeholder Identification.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Stakeholder Identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Stakeholder Identification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Stakeholder Identification.md"
               }
             }
           },
@@ -182,12 +209,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9185d2fc646360dd",
+  "active": "9d0a28df14c03d3b",
   "lastOpenFiles": [
-    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
-    "how to write technical document.md",
-    "Learn Web API.md",
+    "Images/Pasted image 20240226230438.png",
+    "Science Research - Recommended Languages.md",
+    "Stakeholder Identification.md",
+    "Science Research Planning.md",
+    "2nd Yrs Science Research Project.md",
+    "Simplified User Workflow.md",
     "Todo.md",
+    "how to write technical document.md",
+    "CI_CD.md",
+    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
+    "Learn Web API.md",
     "Document/Good Read.md",
     "_Focus/2023/3rd Semesters/CSharp/Code Note.md",
     "Code.md",
@@ -200,22 +234,15 @@
     "SDA Review.md",
     "Science Research Notes.md",
     "Images/Pasted image 20240226135031.png",
-    "2nd Yrs Science Research Project.md",
     "Science Research Project - Risk Assessment.md",
-    "Science Research Planning.md",
     "CSharp Revision.md",
     "_Focus/2023/3rd Semesters/CSharp/CSharp Fundamental.md",
     "_Focus/2023/Challenges & Guides/24 Hours Coding Challenge.md",
     "WebDev/Web.md",
-    "introduction-to-postman-course-main/course-notes.md",
     "Images/Pasted image 20240226104453.png",
     "Images/Pasted image 20240226104132.png",
     "Images/Pasted image 20240226104005.png",
-    "Final Web Exam Revision.md",
-    "introduction-to-postman-course-main/README.md",
-    "introduction-to-postman-course-main/simple-books-api.md",
     "introduction-to-postman-course-main",
-    "course-notes.md",
     "Images/Pasted image 20240225140745.png",
     "Images/Pasted image 20240225140630.png",
     "Images/Pasted image 20240225140653.png",

@@ -6,11 +6,11 @@
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
 #Todo/Priority
+- [ ] Tạo ý tưởng Thiết Kế cùng Hải 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] Intermedia C#
 	- [ ] API, Razor, etc.. 
 - [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week
-
 
 #Todo/GoalsThisWeek
 - [ ] Organize Study Tab 

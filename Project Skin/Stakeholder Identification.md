@@ -3,11 +3,15 @@ Thành ([[Lead]], [[FE]]) - dinhnhatthanh248@gmail.com
 
 Minh Hải ([[FE]]) - abuhmhai@gmail.com
 
+
 Xuân ([[BA]], [[Tester]]) - nxuan2k4@gmail.com 
+	Decent knowledge about Software Engineering. Organize team knowledge and connection. 
 
 Quang Huy ([[BE]]) - nqhuy.dev2001@gmail.com
 
-Minh Nhật (??) - nhatluu52351412@gmail.com
+Minh Nhật (BE) - nhatluu52351412@gmail.com
+	Good skills in general. Good at DB, Coding and more
+
 
 Gmail
 	dinhnhatthanh248@gmail.com
@@ -26,3 +30,6 @@ Gmail
 + **chị Ngọc**, kỹ sư của công ty IMT, Pitech lab sẽ hỗ trợ vận hành nhóm.
 	
 + **chị Thùy**, giáo viên dạy ở FPT Poly sẽ giúp đỡ các em về dùng Figma vẽ UI
+
+Vừa rồi t có Quang Huy vs Nhật có nhận phần làm DB ấy. Nên h t vs cậu   
+![[Pasted image 20240226230438.png]]

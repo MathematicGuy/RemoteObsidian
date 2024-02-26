@@ -1,6 +1,7 @@
 ![[Pasted image 20240219191105.png]]
-CI (Continuous Integration)
-	**>** Test Run to see if the New Code can be integrated, compatible and running with the old code.
+
+### CI (Continuous Integration)
+> Test Run to see if the New Code can be integrated, compatible and running with the old code.
 **Purpose**: To make sure new code changes work well with the existing codebase and don't cause problems.
 
 **How it works:** When you add new code (think of this as changing parts of your website or app), CI will automatically:
@@ -8,7 +9,8 @@ CI (Continuous Integration)
 	+ Build your project to make sure all the pieces fit together.	
 + ? Like an Rocket testing in a simulation to see if it fly.    
 
-CD (Continuous Delivery)
+
+### CD (Continuous Delivery)
 **Purpose:** To get your finished code changes ready for release (putting it where people 
 can use it. eg. github) 	
 
@@ -39,3 +41,5 @@ CI/CD is a team of helpers that make sure new code works great and gets to every
     - **Deliver the website:** The pipeline sends the package to a special place where everyone can access the website or app.
 
 
+- **CI (Continuous Integration):** The practice of automating code merging and testing as developers make changes.
+- **CD (Continuous Delivery/Deployment):** The practice of automating the steps to get new code versions into production environments.
