@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDA HW1.md",
+                "file": "Web API Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Driff.md",
+                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDA HW1.md",
+                "file": "Web API Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDA HW1.md",
+                "file": "Web API Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDA HW1.md"
+                "file": "Web API Note.md"
               }
             }
           },
@@ -211,7 +211,12 @@
   },
   "active": "b26120d2b1fdfc23",
   "lastOpenFiles": [
+    "Learn Web API.md",
+    "Web API Note.md",
+    "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "System Administration Database.md",
+    "SDA HW1.md",
+    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "Todo.md",
     "Driff.md",
     "Images/Pasted image 20240226144851.png",
@@ -220,10 +225,7 @@
     "Images/Pasted image 20240226135031.png",
     "2nd Yrs Science Research Project.md",
     "Science Research Project - Risk Assessment.md",
-    "Learn Web API.md",
     "Science Research Planning.md",
-    "Web API Note.md",
-    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "CSharp Revision.md",
     "_Focus/2023/3rd Semesters/CSharp/CSharp Fundamental.md",
     "_Focus/2023/Challenges & Guides/24 Hours Coding Challenge.md",
@@ -241,11 +243,9 @@
     "CodeGrade Demo.md",
     "Admin RS demo.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "Art.md",
     "Images/Pasted image 20240225140745.png",
     "Images/Pasted image 20240225140630.png",
     "Images/Pasted image 20240225140653.png",
-    "Shopping this week.md",
     "Images/Pasted image 20240224101031.png",
     "Images/Pasted image 20240224101016.png",
     "_Focus/2024/2024 1st_Semester",
