@@ -27,9 +27,11 @@
 Hemisync
 
 #Todo/Later
+- [ ] Manipulate my Emotion (Rage/Hunger) to do hardthing
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
 - [ ] Install zoxide
+
 
 #Todo/Code/WebDev
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
