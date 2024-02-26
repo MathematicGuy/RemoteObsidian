@@ -12,7 +12,7 @@ Adjective: word use to describe people or thing (e.g: red, big, tiny, fluffy, et
 
 Und and
 Oder or
-Nein no
+Nein no8
 	nicht not
 Ja yes
 Hallo hello
@@ -208,7 +208,7 @@ gender in food: die (female) - das (male)
 
 Wunderbar wonderful
 Klein small
-
+In in (the same in German)
 
 
 kommst come from
@@ -531,8 +531,11 @@ wirklich - really
 **Counting**
 0 - null
 1 - **eins** (einhundert)
+	kostet
 2 - **zwei**
+	kosten zwei
 3 - **drei**
+	kosten drei
 4 - **vier**
 5 - **fünf**
 6 - **sechs**
@@ -553,6 +556,7 @@ wirklich - really
 20 - zwanzig
 30 - dreißig
 	Zwei Fahrkarten kosten dreißig euro
+	Er braucht zwei Fahrkarte diese wochenender (literaly wo-chen-ender)
 
 kostet - cost
 	 Wie viel kostet die sonnencreme
@@ -748,6 +752,7 @@ Sein his
 nicht not
 	deutsch ist nicht schwer - german is not hard
 Nur only
+	Zwei Fahrkarte kostet nur zwanzig euro
 Welche  which 
 Sprache language
 + ! don't mistake with Spreche (speak)
@@ -1120,4 +1125,9 @@ Nächste - next / closet (literally pronounce as Next in German)
 	Die Nächste Station ist Ha Noi
 
 
-Differentiate Mag and gern (both mean like)
++ ? Differentiate Mag and gern (both mean like)
+
+Genau exactly
+	ja, genau - yes exactly
+Uhr - o'clock
+Spät - late (Später - later)
