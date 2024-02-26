@@ -21,6 +21,14 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b26120d2b1fdfc23",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -184,14 +192,22 @@
   },
   "active": "adc8936cd3a71b45",
   "lastOpenFiles": [
+    "System Administration Database.md",
+    "Images/Pasted image 20240226144851.png",
+    "SDA Review.md",
+    "Science Research Notes.md",
+    "Images/Pasted image 20240226135031.png",
+    "2nd Yrs Science Research Project.md",
+    "Science Research Project - Risk Assessment.md",
+    "Learn Web API.md",
+    "Science Research Planning.md",
+    "Web API Note.md",
+    "Todo.md",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "CSharp Revision.md",
     "_Focus/2023/3rd Semesters/CSharp/CSharp Fundamental.md",
     "_Focus/2023/Challenges & Guides/24 Hours Coding Challenge.md",
-    "Learn Web API.md",
-    "Web API Note.md",
     "WebDev/Web.md",
-    "Todo.md",
     "introduction-to-postman-course-main/course-notes.md",
     "Images/Pasted image 20240226104453.png",
     "Images/Pasted image 20240226104132.png",
@@ -212,15 +228,6 @@
     "Shopping this week.md",
     "Images/Pasted image 20240224101031.png",
     "Images/Pasted image 20240224101016.png",
-    "Images/Pasted image 20240224100719.png",
-    "Images/Pasted image 20240224100603.png",
-    "Science Research Notes.md",
-    "_Focus/2024/2024 1st_Semester/Information Safety.md",
-    "2nd Yrs Science Research Project.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Essenttial Items to prepare before designing a website.md",
-    "Requirement Specifications Terms.md",
-    "Lead.md",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
     "FrontEnd",

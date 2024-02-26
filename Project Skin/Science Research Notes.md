@@ -26,4 +26,4 @@ sau đó Phân tích hệ thống
 
 + How can we identify and mitigate potential biases in ChatGPT's code scoring, and ensure the system promotes fairness in assessment?
 
-/git
+![[Pasted image 20240226135031.png]]

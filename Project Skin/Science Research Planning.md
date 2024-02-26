@@ -69,7 +69,7 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 	Assign Role
 	Any Payme
 
-- **Risk Assessment:** Identify potential roadblocks (technical, timeline, etc.) and devise mitigation plans.
+- **[[Science Research Project - Risk Assessment]]:** Identify potential roadblocks (technical, timeline, etc.) and devise mitigation plans.
 	Find out potential Risks from team, code, phrase, etc..
 
 - **Timeline & Milestones:** Create a schedule with key deadlines and deliverables
