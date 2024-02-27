@@ -2,6 +2,11 @@
 > Đưa ra các Thiết Kế rồi thảo luận
 Languages: HTML, CSS, Tailwind CSS, JS, JQuery 
 
+**Core Design Concept**
+Color: 70/20/10 - **one neutral color, one rich color, and one accent color**
+
+
+
 
 **Reviewer Interface & Functionality**
 + Java Script
@@ -25,6 +30,9 @@ Languages: HTML, CSS, Tailwind CSS, JS, JQuery
 + Reference
 	![[Pasted image 20240227105049.png]]
 
+Setting 
+
+
 **Student UI requirement**
 + Dashboard (view Enrolled Assignment)
 + Public Assignment
@@ -41,11 +49,12 @@ Languages: HTML, CSS, Tailwind CSS, JS, JQuery
 		+ Click to see who had submitted
 
 
-+ Create Assignment
-+ Draft Assignment
-+ Publish Assignment
-+ Opended Assignment
-+ Closed Assignment
++ **Create Assignment**
++ **Draft Assignment**
++ **Publish Assignment**
++ **Opended Assignment**
++ **Closed Assignment**
+
 + Finalized Assignment
 + Export Score (in csv, txt, xlsx) 
 + Score Assignment parallel with ChatGPT result

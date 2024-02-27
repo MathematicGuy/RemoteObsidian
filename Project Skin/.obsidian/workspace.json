@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "ff30208dc4fe75bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research - Design and Recommended Languages.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d2ea00d7ac97d54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Yrs Science Research Project.md",
+                "file": "Science Research - Design and Recommended Languages.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -209,19 +196,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff30208dc4fe75bc",
+  "active": "6d2ea00d7ac97d54",
   "lastOpenFiles": [
+    "Science Research - Design and Recommended Languages.md",
+    "Science Research Planning.md",
+    "2nd Yrs Science Research Project.md",
+    "Webinar Snippet -  Grading code with ChatGPT-4.md",
+    "Todo.md",
     "Images/Pasted image 20240227105139.png",
     "Images/Pasted image 20240227105121.png",
     "Images/Pasted image 20240227105049.png",
-    "Science Research Planning.md",
-    "Science Research - Design and Recommended Languages.md",
-    "2nd Yrs Science Research Project.md",
     "Images/Pasted image 20240227103305.png",
     "Stakeholder Identification.md",
     "Images/Pasted image 20240226230438.png",
     "Simplified User Workflow.md",
-    "Todo.md",
     "how to write technical document.md",
     "CI_CD.md",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
@@ -230,7 +218,6 @@
     "_Focus/2023/3rd Semesters/CSharp/Code Note.md",
     "Code.md",
     "Web API Note.md",
-    "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "System Administration Database.md",
     "SDA HW1.md",
     "Driff.md",
@@ -247,7 +234,6 @@
     "Images/Pasted image 20240226104132.png",
     "Images/Pasted image 20240226104005.png",
     "introduction-to-postman-course-main",
-    "Images/Pasted image 20240225140745.png",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
     "FrontEnd",
