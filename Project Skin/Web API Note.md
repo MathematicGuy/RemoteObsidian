@@ -38,3 +38,5 @@ Where the link `https://localhost:7192/api/Home` is what you got provided. And `
     }
 
 ```
+
+API connect to a json file online and return data inside it.

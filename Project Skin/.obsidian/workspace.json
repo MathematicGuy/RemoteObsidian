@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "eb5f396b09c1fe0e",
+            "id": "c0d6770049a57a42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon Reviewer WebApp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pokemon Reviewer WebApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pokemon Reviewer WebApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pokemon Reviewer WebApp.md"
+              }
             }
           },
           {
@@ -187,9 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5f396b09c1fe0e",
+  "active": "c0d6770049a57a42",
   "lastOpenFiles": [
+    "Images/Pasted image 20240227204906.png",
+    "Web API Note.md",
+    "Pokemon Reviewer WebApp.md",
+    "_Focus/2023/Python/API.md",
     "Todo.md",
+    "Web API Project.md",
+    "Stakeholder Identification.md",
     "IT Project Management.md",
     "SR Front-End Requirement.md",
     "IT_PM My Project.md",
@@ -205,7 +220,6 @@
     "Images/Pasted image 20240227165423.png",
     "Images/Pasted image 20240227165417.png",
     "BA.md",
-    "Stakeholder Identification.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "Images/Pasted image 20240227105139.png",
     "Images/Pasted image 20240227105121.png",
@@ -218,11 +232,6 @@
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "Learn Web API.md",
     "Document/Good Read.md",
-    "_Focus/2023/3rd Semesters/CSharp/Code Note.md",
-    "Code.md",
-    "Web API Note.md",
-    "System Administration Database.md",
-    "SDA HW1.md",
     "Images/Pasted image 20240226144851.png",
     "Images/Pasted image 20240226135031.png",
     "introduction-to-postman-course-main",
