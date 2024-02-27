@@ -1,10 +1,9 @@
-> Đưa ra các Thiết Kế rồi thảo luận
+> **29/2: Cả 2 Đưa ra các Thiết Kế rồi thảo luận**
 Languages: HTML, CSS, Tailwind CSS, JS, JQuery 
-> Understand UI/UX
+> 
 
 **Core Design Concept**
 Color: 70/20/10 - **one neutral color, one rich color, and one accent color**
-
 
 
 **Reviewer Interface & Functionality**
@@ -18,17 +17,15 @@ Color: 70/20/10 - **one neutral color, one rich color, and one accent color**
 + **Atomic CSS Approach:** While some find this different, it can promote better code organization and scalability.
 
 
-
 ### Requirement (1st Step)
 
 **Home UI requirement**
 + Sign-In/Sign-Up 
-	if not Sign-up can press Sign-up link below Sign-In
-+ forgot password
+	If not Sign-up can press Sign-up link below Sign-In
++ Forgot password
 
 + Reference
 	![[Pasted image 20240227105049.png]]
-
 Setting 
 
 
@@ -59,8 +56,7 @@ Setting
 + Score Assignment parallel with ChatGPT result
 	+ Can view ChatGPT code score & review side by side (can be fold)
 
-+ Setting (Manage profile, functionalities(change theme, Compact view, Normal, etc..) 
-
++ Setting (Manage profile, functionalities(change theme, Compact view, Normal, etc..)
 + Reference
 	![[Pasted image 20240227105139.png]]
 

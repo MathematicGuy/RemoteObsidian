@@ -11,7 +11,7 @@
 	- [ ] Intermedia C#
 	- [ ] API, Razor, etc.. 
 - [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week
-
+- [ ] Understand UI/UX
 
 #Todo/GoalsThisWeek
 - [ ] Organize Study Tab 
