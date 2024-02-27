@@ -1,6 +1,7 @@
+### Front-End (Thành, Nhật, Hải)
+> Đưa ra các Thiết Kế rồi thảo luận
+Languages: HTML, CSS, Tailwind CSS, JS, JQuery 
 
-
-### Front-End (Thành, Nhật, )
 
 **Reviewer Interface & Functionality**
 + Java Script
@@ -12,25 +13,66 @@
 + **Responsive Design:** Tailwind has built-in responsiveness, making it easy to create mobile-friendly websites.
 + **Atomic CSS Approach:** While some find this different, it can promote better code organization and scalability.
 
-### Requirement
-
-Sign-In/Sign-Up Screen
 
 
-Student UI
+### Requirement (1st Step)
+
+**Home UI requirement**
++ Sign-In/Sign-Up 
+	if not Sign-up can press Sign-up link below Sign-In
++ forgot password
+
++ Reference
+	![[Pasted image 20240227105049.png]]
+
+**Student UI requirement**
 + Dashboard (view Enrolled Assignment)
++ Public Assignment
++ ....
 
++ Reference
+	![[Pasted image 20240227105121.png]]
 
-Teacher UI
+**Teacher UI Requirement**
 + Dashboard (view Submited Assignment)
++ View Assignment 
+	+ Show Assignment Start & Due Date 
+	+ Show total students had submitted assignment
+		+ Click to see who had submitted
 
 
-Admin UI
++ Create Assignment
++ Draft Assignment
++ Publish Assignment
++ Opended Assignment
++ Closed Assignment
++ Finalized Assignment
++ Export Score (in csv, txt, xlsx) 
++ Score Assignment parallel with ChatGPT result
+	+ Can view ChatGPT code score & review side by side (can be fold)
 
++ Setting (Manage profile, functionalities(change theme, Compact view, Normal, etc..) 
+
++ Reference
+	![[Pasted image 20240227105139.png]]
+
+**Admin UI Requirement**
++ Seperate Table for each type of user
++ View
+	+ User basic info
+	+ Can view user detail info
+
++ Disable/Enable User Account
++ Verify User Account
++ Bot management (Modify Bot, Fine-Tune Bot)
+
++ Reference
+	![[Pasted image 20240227103305.png]]
 
 
 
 ## Back-End
+
 
 #### **Core System** (Huy, Nhật)
 - ASP.NET Core (C#): Run very fast (Top 5 languages)
@@ -45,12 +87,11 @@ Admin UI
 [ASP.NET Web API with SQL Server](https://youtu.be/ifgZdY3T0Gs?si=Kh4XtZk2prKN2W-n)
 
 
-Visual Studio
-
 
 #### **Automatic Scoring with ChatGPT**
 + Python
 (How to applied python for a ASAP.NET webapp)
+
 
 
 #### **Additional Considerations**

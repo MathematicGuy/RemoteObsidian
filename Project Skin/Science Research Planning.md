@@ -10,7 +10,7 @@ Similiar Project:
 [[Science Research User Requirement]]
 + Todo: Lập 1 kênh đê các bạn báo cáo tình hình
 
-[[Science Research - Recommended Languages]]
+[[Science Research - Design and Recommended Languages]]
 
 ### [[Simplified User Workflow]]
 
