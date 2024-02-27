@@ -31,5 +31,6 @@ Gmail
 	
 + **chị Thùy**, giáo viên dạy ở FPT Poly sẽ giúp đỡ các em về dùng Figma vẽ UI
 
-Vừa rồi t có Quang Huy vs Nhật có nhận phần làm DB ấy. Nên h t vs cậu   
+
 ![[Pasted image 20240226230438.png]]
+https://youtu.be/YUPg41kG_kw?si=oy5qRICa3QyUHuzS

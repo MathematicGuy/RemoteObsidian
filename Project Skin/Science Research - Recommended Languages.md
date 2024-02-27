@@ -1,6 +1,6 @@
 
 
-### Front-End
+### Front-End (Thành, Nhật, )
 
 **Reviewer Interface & Functionality**
 + Java Script
@@ -12,7 +12,20 @@
 + **Responsive Design:** Tailwind has built-in responsiveness, making it easy to create mobile-friendly websites.
 + **Atomic CSS Approach:** While some find this different, it can promote better code organization and scalability.
 
+### Requirement
 
+Sign-In/Sign-Up Screen
+
+
+Student UI
++ Dashboard (view Enrolled Assignment)
+
+
+Teacher UI
++ Dashboard (view Submited Assignment)
+
+
+Admin UI
 
 
 
@@ -22,7 +35,6 @@
 #### **Core System** (Huy, Nhật)
 - ASP.NET Core (C#): Run very fast (Top 5 languages)
 - C# -> KN DB, Web API
-
 
 
 #### **Database** (Huy)

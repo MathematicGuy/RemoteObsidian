@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d0a28df14c03d3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stakeholder Identification.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stakeholder Identification.md",
+                "file": "Science Research - Recommended Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stakeholder Identification.md",
+                "file": "Science Research - Recommended Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stakeholder Identification.md"
+                "file": "Science Research - Recommended Languages.md"
               }
             }
           },
@@ -209,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d0a28df14c03d3b",
+  "active": "ff30208dc4fe75bc",
   "lastOpenFiles": [
-    "Images/Pasted image 20240226230438.png",
-    "Science Research - Recommended Languages.md",
     "Stakeholder Identification.md",
+    "Science Research - Recommended Languages.md",
+    "Images/Pasted image 20240226230438.png",
     "Science Research Planning.md",
     "2nd Yrs Science Research Project.md",
     "Simplified User Workflow.md",
@@ -247,7 +234,6 @@
     "Images/Pasted image 20240225140630.png",
     "Images/Pasted image 20240225140653.png",
     "Images/Pasted image 20240224101031.png",
-    "Images/Pasted image 20240224101016.png",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
     "FrontEnd",
