@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd5cec2ee61b0c4e",
+        "id": "fad0f88f7ecffec4",
         "type": "tabs",
         "children": [
           {
-            "id": "9185d2fc646360dd",
+            "id": "50a07a0b5d49aed5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,48 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2ae1db2125deb72a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM Part 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea70c9789ed05c22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SR Front-End.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6c098336705ff28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM Part 1.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM Part 1.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM Part 1.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -222,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ae1db2125deb72a",
+  "active": "50a07a0b5d49aed5",
   "lastOpenFiles": [
     "Todo.md",
     "BA.md",
