@@ -12,6 +12,7 @@ Similiar Project:
 
 [[Science Research - Design and Recommended Languages]]
 
+
 ### [[Simplified User Workflow]]
 
 
@@ -38,6 +39,8 @@ demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
 - **ChatGPT Evolves:** OpenAI may shift their models, requiring prompt adjustment and system tweaking.
 
 - **Security:** Take meticulous precautions preventing exam content leaks and cheating attempts.
+
+
 
 
 

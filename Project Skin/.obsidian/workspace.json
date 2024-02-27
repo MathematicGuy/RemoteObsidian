@@ -23,12 +23,38 @@
             }
           },
           {
-            "id": "6d2ea00d7ac97d54",
+            "id": "2ae1db2125deb72a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science Research - Design and Recommended Languages.md",
+                "file": "IT_PM Part 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea70c9789ed05c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SR Front-End.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6c098336705ff28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BA.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research - Design and Recommended Languages.md",
+                "file": "IT_PM Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research - Design and Recommended Languages.md",
+                "file": "IT_PM Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science Research - Design and Recommended Languages.md"
+                "file": "IT_PM Part 1.md"
               }
             }
           },
@@ -196,18 +222,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d2ea00d7ac97d54",
+  "active": "2ae1db2125deb72a",
   "lastOpenFiles": [
-    "Science Research - Design and Recommended Languages.md",
+    "Todo.md",
+    "BA.md",
+    "SR Front-End.md",
+    "IT_PM Part 1.md",
+    "Stakeholder Identification.md",
+    "IT Project Management.md",
+    "IT_PM My Project.md",
     "Science Research Planning.md",
+    "Science Research - Design and Recommended Languages.md",
     "2nd Yrs Science Research Project.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
-    "Todo.md",
     "Images/Pasted image 20240227105139.png",
     "Images/Pasted image 20240227105121.png",
     "Images/Pasted image 20240227105049.png",
     "Images/Pasted image 20240227103305.png",
-    "Stakeholder Identification.md",
     "Images/Pasted image 20240226230438.png",
     "Simplified User Workflow.md",
     "how to write technical document.md",
@@ -226,10 +257,6 @@
     "Science Research Notes.md",
     "Images/Pasted image 20240226135031.png",
     "Science Research Project - Risk Assessment.md",
-    "CSharp Revision.md",
-    "_Focus/2023/3rd Semesters/CSharp/CSharp Fundamental.md",
-    "_Focus/2023/Challenges & Guides/24 Hours Coding Challenge.md",
-    "WebDev/Web.md",
     "Images/Pasted image 20240226104453.png",
     "Images/Pasted image 20240226104132.png",
     "Images/Pasted image 20240226104005.png",
