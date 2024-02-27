@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
+                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
+                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
+                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How to Maintaining Other SKills while Focusing on Main Skill.md"
+                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md"
               }
             }
           },
@@ -179,11 +180,13 @@
   },
   "active": "60386fbb5a4893d9",
   "lastOpenFiles": [
+    "Image/Pasted image 20240227195721.png",
+    "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
+    "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
     "Image/Pasted image 20240222101341.png",
     "Image/Pasted image 20240222101233.png",
     "Image/Pasted image 20240222101142.png",
     "Image/Pasted image 20240222100845.png",
-    "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
     "Image/Pasted image 20240222100823.png",
     "Image/Pasted image 20240222100728.png",
     "Question Mark/Money.md",
@@ -211,7 +214,6 @@
     "My Life/Procrastinate (ADHD).md",
     "Productivity & Improvement/Studying Less.md",
     "Leadership.md",
-    "Productivity & Improvement/Achive More by Doing Less.md",
     "Image/books.png",
     "Social",
     "How To",
@@ -221,7 +223,6 @@
     "My Life",
     "Image/Pasted image 20230810195015.png",
     "Image/Pasted image 20231005162158.png",
-    "Image/Pasted image 20230928195856.png",
     "Ultimate Past Paper Revision Strategy",
     "Untitled.canvas",
     "Report2.pdf",

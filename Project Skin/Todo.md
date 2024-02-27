@@ -10,21 +10,25 @@
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] Intermedia C#
 	- [ ] API, Razor, etc.. 
-- [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week
+- [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week (Deepwork on the Weekend)
 - [ ] Understand UI/UX
+- [ ] Remove the habit of writing unescessary thing without understanding them. Negate the system they put in to me. Do the right thing, live the right life.
+
 
 #Todo/GoalsThisWeek
 - [ ] Organize Study Tab 
 - [ ] Buy Whey
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
 
-- [ ] Research CI/CD
-- [ ] Learn Github Project Management 
-- [ ] Find AI Course (Utilize ChatGPT)
-
  Evil is Distraction - Consider the simplicity of this insight 
 	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.
 Hemisync
+
+
+#Todo/GoalsThisMonth
+- [ ] Research CI/CD
+- [ ] Learn Github Project Management 
+- [ ] Find AI Course (Utilize ChatGPT)
 
 
 #Todo/Later
@@ -36,6 +40,7 @@ Hemisync
 
 #Todo/Code/WebDev
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
+
 
 #Todo/Personal
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
@@ -101,6 +106,7 @@ Hemisync
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 [[Advice for AI]]
 - [ ] Workout
+
 
 #Todo/AI
 - [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
