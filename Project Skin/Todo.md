@@ -12,11 +12,11 @@
 	- [ ] API, Razor, etc.. 
 - [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week
 
+
 #Todo/GoalsThisWeek
 - [ ] Organize Study Tab 
 - [ ] Buy Whey
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
-- [ ] Guide Xuan what do study
 
 - [ ] Research CI/CD
 - [ ] Learn Github Project Management 
@@ -25,6 +25,7 @@
  Evil is Distraction - Consider the simplicity of this insight 
 	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.
 Hemisync
+
 
 #Todo/Later
 - [ ] Manipulate my Emotion (Rage/Hunger) to do hardthing
