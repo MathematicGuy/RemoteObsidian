@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
+                "file": "Happiness/Identify my Weakness.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
+                "file": "Happiness/Identify my Weakness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
+                "file": "Happiness/Identify my Weakness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md"
+                "file": "Happiness/Identify my Weakness.md"
               }
             }
           },
@@ -180,9 +179,10 @@
   },
   "active": "60386fbb5a4893d9",
   "lastOpenFiles": [
+    "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
+    "Happiness/Identify my Weakness.md",
     "Image/Pasted image 20240227195721.png",
     "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
-    "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
     "Image/Pasted image 20240222101341.png",
     "Image/Pasted image 20240222101233.png",
     "Image/Pasted image 20240222101142.png",
@@ -222,7 +222,6 @@
     "Productivity & Improvement",
     "My Life",
     "Image/Pasted image 20230810195015.png",
-    "Image/Pasted image 20231005162158.png",
     "Ultimate Past Paper Revision Strategy",
     "Untitled.canvas",
     "Report2.pdf",

@@ -3,7 +3,6 @@ To output function result to Web API, we do this
 Where the link `https://localhost:7192/api/Home` is what you got provided. And `/GetProductList` let you run function inside it
 ![[Pasted image 20240226104132.png]]
 
-
 ```cs
     [ApiController]
     [Route("api/[controller]")]
@@ -47,3 +46,5 @@ API connect to a json file online and return data inside it.
 2) Goes to Solution Explorer -> appsetting.json
 	create "ConnectionStrings" and paste the Connection String you get into DefaultConnection 
 	![[Pasted image 20240228211301.png]]
+
+
