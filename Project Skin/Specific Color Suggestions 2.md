@@ -33,3 +33,27 @@
 
 - RealTimeColors will help with harmonious adjustments as you edit colors slightly.
 - Consider a tiny bit of warm gray in your background instead of pure white for some templates.
+
+**Template 4: Neon Glow**
+
+- --background: #17171F; /* Dark, near-black */
+- --text: #E0E0E2; /* Light, desaturated */
+- --primary: #00FFC2; /* Vibrant teal/cyan */
+- --secondary: #FF9EC4; /* Electric pink */
+- --accent: #9F4BFF; /* Cool purple */
+
+**Template 5: Dark Matrix**
+
+- --background: #0F140D; /* Deep, inky green */
+- --text: #87FF87; /* Classic "Matrix" green text */
+- --primary: #348F34; /* Muted, darker green */
+- --secondary: #1E591E; /* Even darker, subtle green */
+- --accent: #CCFF5C; /* Acid green highlights */
+
+**Template 6: Retro Terminal**
+
+- --background: #000000; /* Pure black */
+- --text: #83F52C; /* Old-school terminal green */
+- --primary: #5DF55D; /* Slightly lighter green */
+- --secondary: #37D137; /* More saturated green variation */
+- --accent: #FF9000; /* Amber/orange for accents */

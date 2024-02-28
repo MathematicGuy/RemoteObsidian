@@ -1,3 +1,17 @@
+[[Potential Question]]
+
+## AI definition
+
+Artificial intelligence (AI) refers to the ability of computers or machines to exhibit behaviors that mimic human intelligence. This broadly includes capabilities like:
+
+- **Learning:** Acquiring knowledge and skills through data without being explicitly programmed.
+- **Reasoning:** Using logic and rules to draw conclusions from information.
+- **Problem-solving:** Finding solutions to complex or unfamiliar situations.
+- **Natural Language Processing (NLP):** Understanding and interacting with human language.
+- **Computer Vision:** Extracting information from Images and Videos.
+- **Robotics:** Integrating sensors and actuators for physical interaction with the world.
+
+
 
 Understanding Requirement -> Planning -> Design -> Development/Coding ->  Testing -> Deployment -> Maintanance 
 
@@ -15,29 +29,25 @@ ChatGPT -> suy đoán suy diễn chứ ko chỉ lấy thông tin có xác suất
 
 Higher Tech - Higher Risk
 
-
 Công nghệ phải theo đúng Trách Nhiệm và Luật
 
-
 Big Data 
-
 
 Fuzzy logic (logic mờ) 
 Fuzzy Rule (luật chung chung / mờ / ko rõ ràng)
 
-
 Luật mờ <- Luật <- Tri Thức <- Xác Suất + Thống kê
-
 
 Mục tiêu của AI là chế tạo Mô Hình (Model) 
 	Tri thức + Giải Thuật
 
 
+Get question about 2 Object (What are the 2 relation between the 2)
 AI - (since 1978)
 
 Chuyển đổi số là gì?
 
-Tác tử là một hệ thống có khả năng nhận thức môi trường xung quanh và thực hiện hành động để đạt được mục tiêu cụ thể.
+Agent (Tác tử) là một hệ thống có khả năng nhận thức môi trường xung quanh và thực hiện hành động để đạt được mục tiêu cụ thể.
 Dưới đây là một số đặc điểm chính của tác tử:
 
 **1. Khả năng nhận thức:** Tác tử có thể thu thập thông tin về môi trường thông qua các cảm biến. Thông tin này có thể bao gồm vị trí, trạng thái của môi trường, và các đối tượng khác trong môi trường.
@@ -46,3 +56,5 @@ Dưới đây là một số đặc điểm chính của tác tử:
 **4. Khả năng học tập:** Tác tử có thể học hỏi từ kinh nghiệm và cải thiện hiệu suất của mình theo thời gian.
 
 Xây dựng hthong hỏi đáp hỗ trợ học tập dựa trên tri thức.
+
+

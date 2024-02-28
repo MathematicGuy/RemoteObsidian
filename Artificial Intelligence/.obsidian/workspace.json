@@ -34,18 +34,19 @@
             }
           },
           {
-            "id": "a8c899164ccb5405",
+            "id": "48fd951f6774e0b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Search Problems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "CMC AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "CMC AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "CMC AI.md"
               }
             }
           },
@@ -186,12 +187,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "845fe36388f832bc",
+  "active": "2c7145aa7a4280dc",
   "lastOpenFiles": [
-    "AI RoadMap.md",
-    "CMC AI.md",
-    "AI.md",
+    "Search Problems.md",
+    "Harvard CS50’s Artificial Intelligence with Python.md",
     "Machine Learning.md",
+    "CMC AI.md",
+    "Potential Question.md",
+    "AI RoadMap.md",
+    "AI.md",
     "Untitled.md",
     "Prompt Engineering.md",
     "Understand ChatGPT.md",
@@ -216,9 +220,6 @@
     "Big Tech.md",
     "Annotation MachineLearningBook.md",
     "Reinforcement Learning.md",
-    "MLP Catagories.md",
-    "News Settler.md",
-    "Machine Learning Tools.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Image/Pasted image 20230702130719.png",
     "Untitled",
