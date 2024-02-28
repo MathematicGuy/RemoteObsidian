@@ -4,120 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1d990df860c6e629",
-        "type": "split",
+        "id": "ed50a21d76876599",
+        "type": "tabs",
         "children": [
           {
-            "id": "ed50a21d76876599",
-            "type": "tabs",
-            "dimension": 59.84126984126984,
-            "children": [
-              {
-                "id": "aa6c1eb92cab385f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SDA HW2.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "5e9b1412f2de5806",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              {
-                "id": "91583e0df4e484fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "187760e711607fca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "System Administration Database.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ec17ad0a63a78b61",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Stakeholder Identification.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 3
+              "pinned": true
+            }
           },
           {
-            "id": "5c22810b048d04d0",
-            "type": "tabs",
-            "dimension": 40.15873015873016,
-            "children": [
-              {
-                "id": "5e9b1412f2de5806",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Todo.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "bf4c659df4700372",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SDA HW2.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5f3a997c928a6b17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "System Administration Database.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "32a667d0fb5c0851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web API Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Administration Database.md",
+                "file": "Web API Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Administration Database.md",
+                "file": "Web API Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Administration Database.md"
+                "file": "Web API Note.md"
               }
             }
           },
@@ -278,13 +197,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f3a997c928a6b17",
+  "active": "32a667d0fb5c0851",
   "lastOpenFiles": [
-    "Stakeholder Identification.md",
+    "Images/Pasted image 20240228211301.png",
+    "Images/Pasted image 20240228211219.png",
+    "Images/Pasted image 20240228211215.png",
+    "Images/Pasted image 20240228211206.png",
+    "Todo.md",
     "SDA HW2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "System Administration Database.md",
     "SDA HW1.md",
+    "System Administration Database.md",
+    "Stakeholder Identification.md",
     "BackEnd/JOIN Tables.md",
     "Images/2.jpg",
     "Images/1.jpg",
@@ -292,7 +216,6 @@
     "Specific Color Suggestions 2.md",
     "SR Color.md",
     "SR Front-End Requirement.md",
-    "Todo.md",
     "SR FE.md",
     "2nd Yrs Science Research Project.md",
     "Pokemon Reviewer WebApp.md",
@@ -308,14 +231,10 @@
     "Code/ExamReview.md",
     "BackEnd/DB_HW5.md",
     "BackEnd/Summary DB_HW2.md",
-    "BackEnd/3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
     "Images/Pasted image 20240227204906.png",
     "Images/Pasted image 20240227165500.png",
     "Images/Pasted image 20240227165423.png",
     "Images/Pasted image 20240227165417.png",
-    "Images/Pasted image 20240227105139.png",
-    "Images/Pasted image 20240227105121.png",
-    "Images/Pasted image 20240227105049.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",

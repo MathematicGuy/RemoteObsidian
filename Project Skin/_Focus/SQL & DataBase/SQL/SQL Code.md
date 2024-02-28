@@ -76,6 +76,7 @@ CREATE TABLE employees (
 );
 ```
 
+
 work for phpMyAdmin
 > Need " reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP " to run.
 ```sql
@@ -439,8 +440,6 @@ SELECT
 FROM subject
 GROUP BY department;
 ```
-
-
 
 
 **IN**
