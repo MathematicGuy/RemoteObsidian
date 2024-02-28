@@ -34,9 +34,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e17d4779f6232667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transition Time Suggestion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f942bc8e521f36dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackEnd/Summary DB_HW2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#8d5fda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "BackEnd/Summary DB_HW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "BackEnd/Summary DB_HW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md"
+                "file": "BackEnd/Summary DB_HW2.md"
               }
             }
           },
@@ -196,23 +223,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3447105d38fb6770",
+  "active": "f942bc8e521f36dc",
   "lastOpenFiles": [
-    "Web API Project.md",
-    "Personal/Language Learning/German Vocabulary.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Transition Time Suggestion.md",
+    "SR Color.md",
+    "Specific Color Suggestions 2.md",
+    "Specific Color Suggestions 1.md",
     "Pokemon Reviewer WebApp.md",
-    "Images/Pasted image 20240227204906.png",
-    "Web API Note.md",
-    "_Focus/2023/Python/API.md",
     "Todo.md",
-    "Stakeholder Identification.md",
-    "IT Project Management.md",
     "SR Front-End Requirement.md",
-    "IT_PM My Project.md",
-    "IT_PM Part 1.md",
     "Science Research - Design and Recommended Languages.md",
     "Science Research Planning.md",
     "2nd Yrs Science Research Project.md",
+    "Web API Project.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Images/Pasted image 20240227204906.png",
+    "Web API Note.md",
+    "_Focus/2023/Python/API.md",
+    "Stakeholder Identification.md",
+    "IT Project Management.md",
+    "IT_PM My Project.md",
+    "IT_PM Part 1.md",
     "My AI List.md",
     "IT_PM INTRO.md",
     "Personal/Good for LATER.md",
@@ -228,11 +260,6 @@
     "Images/Pasted image 20240227103305.png",
     "Images/Pasted image 20240226230438.png",
     "Simplified User Workflow.md",
-    "how to write technical document.md",
-    "CI_CD.md",
-    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
-    "Learn Web API.md",
-    "Document/Good Read.md",
     "Images/Pasted image 20240226144851.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

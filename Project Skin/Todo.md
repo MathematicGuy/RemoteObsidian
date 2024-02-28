@@ -6,13 +6,21 @@
 - [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 
 #Todo/Priority
-- [ ] Tạo ý tưởng Thiết Kế cùng Hải 
+- [ ] Truyền lại có Hải cách lấy màu cho thiết kế.
+	1) Xin ý kiến từ Gemini/ChatGPT 4.0
+	2) Từ những màu mà nó cho, chuyển đổi những gợi ý màu đó thành Color Template cho trang web qua RealTimeColor.
+	3) Áp dụng color template đó vào trang web
+
+
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] Intermedia C#
 	- [ ] API, Razor, etc.. 
+
 - [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week (Deepwork on the Weekend)
 - [ ] Understand UI/UX
+
 - [ ] Remove the habit of writing unescessary thing without understanding them. Negate the system they put in to me. Do the right thing, live the right life.
+- [ ] Relize My Job as a **Tech Lead** is to f**ind a way to do it**. And **Transfer the Work Pattern** to m**y team. And not Doing all of it**.
 
 
 #Todo/GoalsThisWeek

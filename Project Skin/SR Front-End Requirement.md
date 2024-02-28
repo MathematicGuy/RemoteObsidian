@@ -3,7 +3,8 @@ Languages: HTML, CSS, Tailwind CSS, JS, JQuery
 > 
 
 **Core Design Concept**
-Color: 70/20/10 - **one neutral color, one rich color, and one accent color**
+[[SR Color]]: 70/20/10 - **one neutral color, one rich color, and one accent color**
+
 
 
 **Reviewer Interface & Functionality**
