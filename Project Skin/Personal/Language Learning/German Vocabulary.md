@@ -1129,5 +1129,23 @@ Nächste - next / closet (literally pronounce as Next in German)
 
 Genau exactly
 	ja, genau - yes exactly
-Uhr - o'clock
-Spät - late (Später - later)
+Uhr  o'clock
+Spät  late (Später - later)
+
+(eine) Verspätung
+Gibt - is
+	Oh nein, es gibt eine Verspätung
+Achtung - attention 
+	achtung bitte - attention please
+Um  around
+	Der zug kommt um viel Uhr
+Gleis  Track
+	Wo ist Gleis acht - where is track eight
+	Der zug ist auf Gleis ein - the train is on track one
+>Achtung, Der zug von Berlin nach München hat eine Verspätung. Er kommt zweizig Minuten zu spät aus Gleis zwei 
+	Attention, the train from Berlin to München has a delayed. He arrives on platform two twenty minutes late.
+
+ICE - (Intercity Express) is a high-speed rail system in Germany
+Es schneit und es jetzt gibt eine Verspätung
+	It's snowing and now there's a delay
+
