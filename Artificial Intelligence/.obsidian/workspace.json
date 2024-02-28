@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search Problems.md",
+                "file": "Algorithm Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f053c2f4b24609e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harvard CS50’s Artificial Intelligence with Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMC AI.md",
+                "file": "Algorithm Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMC AI.md",
+                "file": "Algorithm Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMC AI.md"
+                "file": "Algorithm Problem.md"
               }
             }
           },
@@ -187,12 +199,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c7145aa7a4280dc",
+  "active": "48fd951f6774e0b3",
   "lastOpenFiles": [
-    "Search Problems.md",
-    "Harvard CS50’s Artificial Intelligence with Python.md",
-    "Machine Learning.md",
+    "Image/Pasted image 20240228153725.png",
     "CMC AI.md",
+    "Machine Learning.md",
+    "Harvard CS50’s Artificial Intelligence with Python.md",
+    "Algorithm Problem.md",
+    "Search Problems.md",
     "Potential Question.md",
     "AI RoadMap.md",
     "AI.md",
@@ -218,8 +232,6 @@
     "Classification.md",
     "Bookmarks.md",
     "Big Tech.md",
-    "Annotation MachineLearningBook.md",
-    "Reinforcement Learning.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Image/Pasted image 20230702130719.png",
     "Untitled",

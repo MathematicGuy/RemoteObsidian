@@ -1,6 +1,6 @@
 > **29/2: Cả 2 Đưa ra các Thiết Kế rồi thảo luận**
 Languages: HTML, CSS, Tailwind CSS, JS, JQuery 
-> 
+
 
 **Core Design Concept**
 [[SR Color]]: 70/20/10 - **one neutral color, one rich color, and one accent color**
@@ -72,3 +72,8 @@ Setting
 
 + Reference
 	![[Pasted image 20240227103305.png]]
+
+
+note: ASAP.NET có 2 file HTML và CSS.
++ 1 file HTML template. Mọi thứ có trong HTML template có trong HMTL thường. 
++ 1 file HTML thường. Mọi thiết kế trong file này ko liên quan tới bất kì file HTML nào khác.

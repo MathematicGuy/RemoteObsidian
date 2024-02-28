@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e949c2bd3daaa6c",
+        "id": "5c22810b048d04d0",
         "type": "tabs",
         "children": [
           {
-            "id": "91d4df8367350a2e",
+            "id": "5e9b1412f2de5806",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d392a6c5078cd809",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -188,8 +183,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d392a6c5078cd809",
+  "active": "5e9b1412f2de5806",
   "lastOpenFiles": [
+    "SR FE.md",
+    "2nd Yrs Science Research Project.md",
     "Todo.md",
     "Pokemon Reviewer WebApp.md",
     "Specific Color Suggestions 2.md",
@@ -197,9 +194,7 @@
     "SR Color.md",
     "Specific Color Suggestions 1.md",
     "SR Front-End Requirement.md",
-    "SR FE.md",
     "Science Research Planning.md",
-    "2nd Yrs Science Research Project.md",
     "Science Research Notes.md",
     "Transition Time Suggestion.md",
     "BackEnd/Company DB.md",

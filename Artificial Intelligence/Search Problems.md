@@ -144,3 +144,4 @@ Path Finding Algorithm can apply to every Algorithm that want to find the Best v
 > Only move n moves ahead. 
 ![[Pasted image 20230908082840.png]]
 
+[[Algorithm Problem]]
