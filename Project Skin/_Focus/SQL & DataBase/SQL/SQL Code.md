@@ -315,8 +315,14 @@ where continent = 'Europe'
 ![[Pasted image 20231128153152.png]]
 
 ### **[[SQL JOIN]]**  
+[[JOIN Tables]]
 note: JOIN doesn't have to have condition, but RIGHT/LEFT JOIN must have condition 
-[[JOIN Table]]
++ ? Why using Join but not CASESIAN product
+```sql
+select * from jobs, regions
+```
+
+
 
 **JOIN** (INNER JOIN)
 >-- join another table to itself

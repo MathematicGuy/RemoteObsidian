@@ -11,49 +11,73 @@
 - Primary: #35549D (Slightly darker, a touch more desaturated blue)
 - Secondary: #9587C4 (Lighter, with a hint of purple for interest)
 - Accent: #5B71BE (More distinctly purple-leaning, still related)
+```css
+:root[data-theme="light"] {
+  --text: #040610;
+  --background: #F8F8F2;
+  --primary: #35549D;
+  --secondary: #9587C4;
+  --accent: #5B71BE;
+}
+:root[data-theme="dark"] {
+  --text: #eff1fb;
+  --background: #0d0d07;
+  --primary: #6282cb;
+  --secondary: #493b78;
+  --accent: #4157a4;
+}
+```
 ![[Pasted image 20240228110114.png]]
 
-**Template 2: Neutral Base, Elevated Green**
+**Similiar to template 1**
+```css
+:root[data-theme="light"] {
+  --text: #050315;
+  --background: #fbfbfe;
+  --primary: #2f27ce;
+  --secondary: #dedcff;
+  --accent: #433bff;
+}
+:root[data-theme="dark"] {
+  --text: #ebe9fc;
+  --background: #010104;
+  --primary: #3a31d8;
+  --secondary: #020024;
+  --accent: #0600c2;
+}
+```
+1)
+```css
+:root[data-theme="light"] {
+  --text: #050315;
+  --background: #fbfbfe;
+  --primary: #2f27ce;
+  --secondary: #dedcff;
+  --accent: #433bff;
+}
+:root[data-theme="dark"] {
+  --text: #ebe9fc;
+  --background: #010104;
+  --primary: #3a31d8;
+  --secondary: #020024;
+  --accent: #0600c2;
+}
+```
+2)
+```css
+:root[data-theme="light"] {
+  --text: #041819;
+  --background: #f2fbfd;
+  --primary: #36d4de;
+  --secondary: #9f8eec;
+  --accent: #a15ee4;
+}
+:root[data-theme="dark"] {
+  --text: #e5fafb;
+  --background: #020b0d;
+  --primary: #21beca;
+  --secondary: #241371;
+  --accent: #5e1ba1;
+}
+```
 
-- Background: #FAF9F6 (Keep the soft white)
-- Text/Main Content: #040610
-- Primary: #218838 (Darker, more classic green)
-- Secondary: #00796B (Slightly less saturated green)
-- Accent: #A5C462 (A warmer, yellow-leaning green for contrast)
-
-**Template 3: Teal with Refined Orange**
-
-- Background: #F8F8F2
-- Text/Main Content: #040610
-- Primary: #305690 (Slightly cooler, more dignified teal)
-- Secondary: #7D88AA (Desaturated teal, hints of gray)
-- Accent: #E3916E (Softer orange, less harsh)
-
-**How to Tweak Further**
-
-- RealTimeColors will help with harmonious adjustments as you edit colors slightly.
-- Consider a tiny bit of warm gray in your background instead of pure white for some templates.
-
-**Template 4: Neon Glow**
-
-- --background: #17171F; /* Dark, near-black */
-- --text: #E0E0E2; /* Light, desaturated */
-- --primary: #00FFC2; /* Vibrant teal/cyan */
-- --secondary: #FF9EC4; /* Electric pink */
-- --accent: #9F4BFF; /* Cool purple */
-
-**Template 5: Dark Matrix**
-
-- --background: #0F140D; /* Deep, inky green */
-- --text: #87FF87; /* Classic "Matrix" green text */
-- --primary: #348F34; /* Muted, darker green */
-- --secondary: #1E591E; /* Even darker, subtle green */
-- --accent: #CCFF5C; /* Acid green highlights */
-
-**Template 6: Retro Terminal**
-
-- --background: #000000; /* Pure black */
-- --text: #83F52C; /* Old-school terminal green */
-- --primary: #5DF55D; /* Slightly lighter green */
-- --secondary: #37D137; /* More saturated green variation */
-- --accent: #FF9000; /* Amber/orange for accents */

@@ -5,8 +5,9 @@ Research activities:
 + Application domains: OCV, Recommender System 
 
 [[SDA HW1]]
+[[SDA HW2]]
 
-#### [[SDA Review]]
+#### [[SDA Review]] (System Database Administator)
 
 breaching data: in-structure data
 
@@ -52,3 +53,4 @@ Redis (DBSM dạng key-value) - (recommended)
 
 Document Oriented -> MongoDB
 GraphDB 
+
