@@ -1,15 +1,14 @@
-**My Learning**
-[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
-[Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 
-[HTML-CSS-JS for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/3)  (Finish this course to take Data Science course)
-[Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
-- [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
+#note
+- [ ] [producthunt](https://www.producthunt.com/golden-kitty-awards/hall-of-fame?year=2023#ai-product)
+	Find the product I need (AI, Security, Productivity, etc..)
 
 #Todo/Priority
 - [ ] Truyền lại có Hải cách lấy màu cho thiết kế.
 	1) Xin ý kiến từ Gemini/ChatGPT 4.0
 	2) Từ những màu mà nó cho, chuyển đổi những gợi ý màu đó thành Color Template cho trang web qua RealTimeColor.
 	3) Áp dụng color template đó vào trang web
+
+- [ ] Finish SR Project requirement 
 
 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
@@ -46,7 +45,12 @@ Hemisync
 - [ ] Install zoxide
 
 
-#Todo/Code/WebDev
+**My Learning**
+[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
+[Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 
+[HTML-CSS-JS for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/3)  (Finish this course to take Data Science course)
+[Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
+- [ ]  [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
 

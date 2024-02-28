@@ -36,25 +36,12 @@
             }
           },
           {
-            "id": "e17d4779f6232667",
+            "id": "af127eebc78dbe9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transition Time Suggestion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f942bc8e521f36dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackEnd/Summary DB_HW2.md",
+                "file": "Specific Color Suggestions 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#8d5fda",
+                "query": "tag:#5B71BE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Summary DB_HW2.md",
+                "file": "Specific Color Suggestions 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Summary DB_HW2.md",
+                "file": "Specific Color Suggestions 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Summary DB_HW2.md"
+                "file": "Specific Color Suggestions 2.md"
               }
             }
           },
@@ -223,43 +210,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f942bc8e521f36dc",
+  "active": "af127eebc78dbe9c",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/DataBase.md",
-    "Transition Time Suggestion.md",
+    "Images/Pasted image 20240228110114.png",
     "SR Color.md",
-    "Specific Color Suggestions 2.md",
     "Specific Color Suggestions 1.md",
-    "Pokemon Reviewer WebApp.md",
-    "Todo.md",
     "SR Front-End Requirement.md",
-    "Science Research - Design and Recommended Languages.md",
+    "Pokemon Reviewer WebApp.md",
+    "SR FE.md",
     "Science Research Planning.md",
     "2nd Yrs Science Research Project.md",
+    "Science Research Notes.md",
+    "Todo.md",
+    "Transition Time Suggestion.md",
+    "BackEnd/Company DB.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "BackEnd/Std_ManagementDB.md",
+    "SDA HW1.md",
+    "System Administration Database.md",
+    "Code/Movie_DB.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Code/ExamReview.md",
+    "BackEnd/DB_HW5.md",
+    "BackEnd/Summary DB_HW2.md",
+    "BackEnd/3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
+    "Specific Color Suggestions 2.md",
+    "Science Research - Design and Recommended Languages.md",
     "Web API Project.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240227204906.png",
-    "Web API Note.md",
-    "_Focus/2023/Python/API.md",
-    "Stakeholder Identification.md",
-    "IT Project Management.md",
-    "IT_PM My Project.md",
-    "IT_PM Part 1.md",
-    "My AI List.md",
-    "IT_PM INTRO.md",
-    "Personal/Good for LATER.md",
-    "IT_PM Project LifeCycle.md",
     "Images/Pasted image 20240227165500.png",
     "Images/Pasted image 20240227165423.png",
     "Images/Pasted image 20240227165417.png",
-    "BA.md",
-    "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "Images/Pasted image 20240227105139.png",
     "Images/Pasted image 20240227105121.png",
     "Images/Pasted image 20240227105049.png",
     "Images/Pasted image 20240227103305.png",
     "Images/Pasted image 20240226230438.png",
-    "Simplified User Workflow.md",
     "Images/Pasted image 20240226144851.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

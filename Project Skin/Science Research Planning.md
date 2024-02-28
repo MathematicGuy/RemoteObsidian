@@ -3,6 +3,10 @@
 Building a code exam system that supports automatic scoring using chatGPT in conjunction with reviewers.
 
 ---
+- [ ] Find a way to help Xuan become the Chief so I can get more Reasearch Time. (Long Term Project + Team Benefit)
+	+ Convert my Main Ideas and Strategies to Xuan
+	+ Give Xuan the Why and Motive to do this.
+
 
 Similiar Project: 
 + https://www.codegrade.com/
@@ -11,6 +15,7 @@ Similiar Project:
 + Todo: Lập 1 kênh đê các bạn báo cáo tình hình
 
 [[Science Research - Design and Recommended Languages]]
+
 
 
 ### [[Simplified User Workflow]]
@@ -39,6 +44,8 @@ demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
 - **ChatGPT Evolves:** OpenAI may shift their models, requiring prompt adjustment and system tweaking.
 
 - **Security:** Take meticulous precautions preventing exam content leaks and cheating attempts.
+
+
 
 
 

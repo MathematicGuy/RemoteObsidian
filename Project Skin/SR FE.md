@@ -2,9 +2,6 @@
 
 **Design Target:** Building a code exam system that supports automatic scoring using chatGPT in conjunction with reviewers. 
 
-Question to Asked: 
-+ Give me the step to Design `[design_target]`
-
 
 **Technology & Frame Work**
 + Tailwind CSS, React.JS or JS and JQuery
@@ -14,5 +11,4 @@ Question to Asked:
 	Colors (main, secondary)
 	Alternative Design (Hải)
 
-**Design Requirements** 
-
+### [[SR Front-End Requirement]]

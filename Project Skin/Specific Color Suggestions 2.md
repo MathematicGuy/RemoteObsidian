@@ -11,6 +11,7 @@
 - Primary: #35549D (Slightly darker, a touch more desaturated blue)
 - Secondary: #9587C4 (Lighter, with a hint of purple for interest)
 - Accent: #5B71BE (More distinctly purple-leaning, still related)
+![[Pasted image 20240228110114.png]]
 
 **Template 2: Neutral Base, Elevated Green**
 

@@ -6,7 +6,6 @@ Languages: HTML, CSS, Tailwind CSS, JS, JQuery
 [[SR Color]]: 70/20/10 - **one neutral color, one rich color, and one accent color**
 
 
-
 **Reviewer Interface & Functionality**
 + Java Script
 	+ React: popular and efficiency
