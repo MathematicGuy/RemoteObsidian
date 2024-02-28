@@ -91,6 +91,7 @@ select department_id as 'Department Number', COUNT(department_id) as 'Number of 
 ```
 7) x
 ```sql
+select 3
 ```  
 8) x
 ```sql

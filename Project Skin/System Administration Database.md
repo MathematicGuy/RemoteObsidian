@@ -7,7 +7,9 @@ Research activities:
 [[SDA HW1]]
 [[SDA HW2]]
 
+note: bài có thể vào: thiết kế DB, tối_ưu/chuẩn_hóa DB, giải thích các câu truy vấn. 
 #### [[SDA Review]] (System Database Administator)
+
 
 breaching data: in-structure data
 
