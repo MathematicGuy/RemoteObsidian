@@ -32,3 +32,11 @@ public class Reviewer
 ```
 M-M (always have a JOIN)
 (Require some magic (blackbox). But careful too many magic is not good)
+
+
+#### Nuget package
++ Microsoft.EntityFrameworkCore 
++ Microsoft.EntityFrameworkCore.Design
++ Microsoft.EntityFrameworkCore.SqlServer
++ Microsoft.EntityFrameworkCore.Tools
++ Swashbuckle.AspNetCore
