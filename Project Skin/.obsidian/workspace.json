@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "fa4e9d7ed257c77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pokemon Reviewer WebApp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "128776d2e6b0b584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "SR Project WebApp Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "SR Project WebApp Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "SR Project WebApp Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md"
+                "file": "SR Project WebApp Design.md"
               }
             }
           },
@@ -210,12 +197,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa4e9d7ed257c77b",
+  "active": "128776d2e6b0b584",
   "lastOpenFiles": [
+    "SR Front-End Requirement.md",
+    "SR Project WebApp Design.md",
+    "Specific Color Suggestions 2.md",
+    "SR Color.md",
+    "SR FE.md",
+    "2nd Yrs Science Research Project.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Todo.md",
     "Pokemon Reviewer WebApp.md",
     "pokemon_review table.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Web API Note.md",
     "Images/Pasted image 20240228211301.png",
@@ -230,11 +223,6 @@
     "Images/2.jpg",
     "Images/1.jpg",
     "SDA Review.md",
-    "Specific Color Suggestions 2.md",
-    "SR Color.md",
-    "SR Front-End Requirement.md",
-    "SR FE.md",
-    "2nd Yrs Science Research Project.md",
     "Images/Pasted image 20240228110114.png",
     "Specific Color Suggestions 1.md",
     "Science Research Planning.md",
@@ -244,7 +232,6 @@
     "BackEnd/Std_ManagementDB.md",
     "Code/Movie_DB.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Code/ExamReview.md",
     "Images/Pasted image 20240227204906.png",
     "Images/Pasted image 20240227165500.png",
     "Images/Pasted image 20240227165423.png",

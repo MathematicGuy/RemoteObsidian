@@ -77,3 +77,6 @@ Setting
 note: ASAP.NET có 2 file HTML và CSS.
 + 1 file HTML template. Mọi thứ có trong HTML template có trong HMTL thường. 
 + 1 file HTML thường. Mọi thiết kế trong file này ko liên quan tới bất kì file HTML nào khác.
+
+
+## [[SR Project WebApp Design]] 
