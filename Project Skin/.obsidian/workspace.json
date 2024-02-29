@@ -26,12 +26,30 @@
             "id": "221cadbe0a6bb6f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SR Front-End Requirement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bca35027852ffed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science Research Planning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science Research Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Science Research Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Science Research Planning.md"
+              }
             }
           },
           {
@@ -188,17 +210,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "221cadbe0a6bb6f4",
+  "active": "bca35027852ffed7",
   "lastOpenFiles": [
+    "SR Front-End Requirement.md",
+    "Stakeholder Identification.md",
+    "CodeGrade Demo.md",
     "Todo.md",
+    "Science Research Notes.md",
+    "Admin RS demo.md",
+    "Requirement Specifications Terms.md",
+    "2nd Yrs Science Research Project.md",
+    "SR FE.md",
     "Images/Pasted image 20240229133740.png",
     "Images/Pasted image 20240229133514.png",
-    "SR Front-End Requirement.md",
     "SR Project WebApp Design.md",
     "Specific Color Suggestions 2.md",
     "SR Color.md",
-    "SR FE.md",
-    "2nd Yrs Science Research Project.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Pokemon Reviewer WebApp.md",
     "pokemon_review table.md",
@@ -211,7 +238,6 @@
     "SDA HW2.md",
     "SDA HW1.md",
     "System Administration Database.md",
-    "Stakeholder Identification.md",
     "BackEnd/JOIN Tables.md",
     "Images/2.jpg",
     "Images/1.jpg",
@@ -219,11 +245,8 @@
     "Images/Pasted image 20240228110114.png",
     "Specific Color Suggestions 1.md",
     "Science Research Planning.md",
-    "Science Research Notes.md",
     "Transition Time Suggestion.md",
     "BackEnd/Company DB.md",
-    "BackEnd/Std_ManagementDB.md",
-    "Code/Movie_DB.md",
     "Images/Pasted image 20240227204906.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

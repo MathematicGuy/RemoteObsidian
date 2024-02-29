@@ -16,6 +16,7 @@ Similiar Project:
 
 [[Science Research - Design and Recommended Languages]]
 
+Hải làm Activity Diagram dựa trên Screen Flow Diagram + Youtube Demo Video
 
 
 ### [[Simplified User Workflow]]
@@ -58,6 +59,10 @@ demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
 
 
 
+
+
+..
+..
 
 ### Project Phrase
 Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.

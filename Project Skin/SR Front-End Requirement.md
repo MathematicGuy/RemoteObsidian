@@ -67,7 +67,7 @@ Setting
 	+ Can view user detail info
 
 + Disable/Enable User Account
-+ Verify User Account
++ Verify User Account (good to have)
 + Bot management (Modify Bot, Fine-Tune Bot)
 
 + Reference
@@ -80,3 +80,4 @@ note: ASAP.NET có 2 file HTML và CSS.
 
 
 ## [[SR Project WebApp Design]] 
+

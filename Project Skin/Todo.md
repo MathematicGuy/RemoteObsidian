@@ -9,7 +9,7 @@
 	3) Áp dụng color template đó vào trang web
 
 - [ ] Finish SR Project requirement 
-
+- [ ] Nộp đơn Đăng kí Nghiên cứu khoa học của cả nhóm cho thầy Huy
 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] Intermedia C#
