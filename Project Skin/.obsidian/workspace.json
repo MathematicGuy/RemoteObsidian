@@ -26,8 +26,13 @@
             "id": "e0ce48ce8fd48480",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web API Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web API Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web API Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web API Note.md"
+              }
             }
           },
           {
@@ -190,6 +199,8 @@
   },
   "active": "e0ce48ce8fd48480",
   "lastOpenFiles": [
+    "Images/Pasted image 20240229133740.png",
+    "Images/Pasted image 20240229133514.png",
     "Todo.md",
     "SR Front-End Requirement.md",
     "SR Project WebApp Design.md",
@@ -222,10 +233,8 @@
     "BackEnd/Company DB.md",
     "BackEnd/Std_ManagementDB.md",
     "Code/Movie_DB.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240227204906.png",
     "Images/Pasted image 20240227165500.png",
-    "Images/Pasted image 20240227165423.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
