@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d386be20ee5a073e",
+        "id": "68085bc5953d1e4e",
         "type": "tabs",
         "children": [
           {
-            "id": "c47814665d55c0c0",
+            "id": "2841ac9a697d98a5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "e0ce48ce8fd48480",
+            "id": "221cadbe0a6bb6f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web API Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web API Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web API Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web API Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0ce48ce8fd48480",
+  "active": "221cadbe0a6bb6f4",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20240229133740.png",
     "Images/Pasted image 20240229133514.png",
-    "Todo.md",
     "SR Front-End Requirement.md",
     "SR Project WebApp Design.md",
     "Specific Color Suggestions 2.md",
@@ -234,7 +225,6 @@
     "BackEnd/Std_ManagementDB.md",
     "Code/Movie_DB.md",
     "Images/Pasted image 20240227204906.png",
-    "Images/Pasted image 20240227165500.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",

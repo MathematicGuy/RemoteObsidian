@@ -7,6 +7,7 @@ Where the link `https://localhost:7192/api/Home` is what you got provided. And `
 
 **Run on Swagger**
 ![[Pasted image 20240229133514.png]]
+localhost: "https://localhost:7192/"
 ```cs
     [ApiController]
     [Route("api/[controller]")]
