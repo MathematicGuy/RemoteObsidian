@@ -679,3 +679,33 @@ FROM Employee;
 |-----------|------------|----------|
 | John      |            | Doe      |
 -> **COALESCE provides a Robust way to handle NULL values in more controlled manner.** 
+
+
+
+**Create 1 table by joinning 2 tables**
+> Đây là quy trình chung để thêm một bảng mới, vốn là kết quả từ hoạt động JOIN, vào cơ sở dữ liệu:
+
+**1. Tạo bảng tạm thời (Temporary Table):**
+
+- Thực hiện câu query JOIN của bạn.
+- Dùng `SELECT ... INTO temp_table FROM ...` để lưu kết quả trực tiếp vào một bảng tạm thời. Bảng này chỉ tồn tại trong phiên làm việc hiện tại.
+
+**Ví dụ:**
+```sql
+SELECT customers.customer_name, orders.order_date
+INTO temp_customer_orders -- Tên bảng tạm thời
+FROM customers
+INNER JOIN orders ON customers.customer_id = orders.customer_id;
+```
+
+
+**2. Chuyển bảng tạm thời thành bảng vĩnh viễn:**
+
+- Sử dụng `CREATE TABLE AS` để tạo một bảng mới dựa trên cấu trúc của bảng tạm thời.
+- Bảng mới này sẽ tồn tại kể cả sau khi bạn đóng phiên làm việc.
+
+**Ví dụ:**
+```sql
+CREATE TABLE customer_orders AS
+SELECT * FROM temp_customer_orders; -- Sao chép dữ liệu 
+```

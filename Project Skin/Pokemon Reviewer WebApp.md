@@ -1,5 +1,8 @@
 Data Base 
+[[pokemon_review table]]
 ![[Pasted image 20240227204906.png]]
+
+
 
 1-1 Relationship
 ```cs
