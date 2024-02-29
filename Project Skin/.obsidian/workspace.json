@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68085bc5953d1e4e",
+        "id": "e8d6c3cf3c76ecd4",
         "type": "tabs",
         "children": [
           {
-            "id": "2841ac9a697d98a5",
+            "id": "fc732290549ba54e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "221cadbe0a6bb6f4",
+            "id": "1a82cf2924cae243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SR Front-End Requirement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bca35027852ffed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research Planning.md",
+                "file": "Stakeholder Identification.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Stakeholder Identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Stakeholder Identification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science Research Planning.md"
+                "file": "Stakeholder Identification.md"
               }
             }
           },
@@ -210,12 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bca35027852ffed7",
+  "active": "1a82cf2924cae243",
   "lastOpenFiles": [
+    "Todo.md",
     "SR Front-End Requirement.md",
     "Stakeholder Identification.md",
     "CodeGrade Demo.md",
-    "Todo.md",
     "Science Research Notes.md",
     "Admin RS demo.md",
     "Requirement Specifications Terms.md",
