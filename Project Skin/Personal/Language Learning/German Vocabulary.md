@@ -1090,7 +1090,6 @@ Bücherregal - bookshelf
 
 Anna, du musst neue Kleidung für das Konzert. Aber du kaufen Kleidung nicht . Ich habe zwei
 
-
 die Hin- und Rückfahrt - the round-trip ticket
 	Eine Hin und Rückfahrt kostet dreißig euro
 die Fahrkarte - the ticket
@@ -1100,7 +1099,7 @@ Die Kreditkarter - the credit
 Zentrum - center
 Reise - trip / travel
 Reisezentrum - travel 
-Stornieren - train door
+Stornieren/Fällt - cancelled
 	Oma, Möchtest du deine Fahrkarte nach Rome Stornieren - granma, would you liek to cancell your ticket to Rome
 Fällt - Cancelled
 	Die zug Fällt aus - the train is cancelled
@@ -1113,8 +1112,8 @@ Speisewagen - dining car
 	Ist der Speisewagen geöffnet - is the dinning car open
 
 Sitz - seat
-Hiten - in the back / back
-	Nein, der Speisewagen ist nicht hiten
+Hinten - in the back / back
+	Nein, der Speisewagen ist nicht hinten
 
 Frei - free
 	Ja, Die Essen ist frei
@@ -1148,4 +1147,14 @@ Gleis  Track
 ICE - (Intercity Express) is a high-speed rail system in Germany
 Es schneit und es jetzt gibt eine Verspätung
 	It's snowing and now there's a delay
+Können - can
+	Können Sie meinen kaufen Caffee - can you buy me a coffee (explain later)
 
+Zahle (t/st/en) - pay
+	Karl, Zahlst du mit Kreditkarte - karl, do you paying with a creadit card
+	Ja, Sie können im Reisezentrum zahlen
+	Sie können hier oder im Reisezentrum zehlen - you can pay here or in the travel center
+
+Fällt vs Stornieren
+	oh nein, mein zug nach München fällt aus 
++ ? why `aus` to the last place of the sentence 
