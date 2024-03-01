@@ -173,6 +173,14 @@ Console.WriteLine("Last Name: " + lastName);
 ```
 
 
+String Implicit/Explicit
+Explicit: Convert higher memory varible (double) into lower (int)
+```cs
+int speed = 23;
+double moreSpeed = (double) speed;
+```
+Inplicit: automatically convert int to double
+
 
 #### String.Format()
 > Link: [String.Format Method (System) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.string.format?view=net-7.0#control-spacing)

@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "906f388f67bf48c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md"
               }
             }
           },
@@ -183,10 +197,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15305d192e4e05d6",
+  "active": "906f388f67bf48c4",
   "lastOpenFiles": [
-    "Personal/Language Learning/German Vocabulary.md",
+    "Code/C Data Type.md",
     "Todo.md",
+    "Personal/Good for LATER.md",
+    "My AI List.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Science Research Notes.md",
     "Admin RS demo.md",
     "Requirement Specifications Terms.md",
@@ -214,9 +231,6 @@
     "Images/Pasted image 20240228211215.png",
     "Images/Pasted image 20240228211206.png",
     "SDA HW2.md",
-    "SDA HW1.md",
-    "System Administration Database.md",
-    "BackEnd/JOIN Tables.md",
     "Images/2.jpg",
     "Images/1.jpg",
     "Images/Pasted image 20240228110114.png",
