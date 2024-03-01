@@ -40,7 +40,8 @@ FROM employees
 select last_name, department_name
 from employees
 JOIN departments ON employees.department_id = departments.department_id
-where last_name LIKE '%a%';
+where last_name LIKE '%a%'
+COLLATE Latin1_General_100_BIN2; --make the query only search for lowercase a
 ```
 ![[Pasted image 20240301114804.png]]
 ATLANTA -> SEATTLE
@@ -104,3 +105,22 @@ from employees as e
     JOIN jobs ON e.job_id = jobs.job_id
 where e.hire_date < me.hire_date;
 ```
+
+
+## Conclusion: lession learned
+How to use case when
+```sql
+SELECT last_name, department_name, location_id,
+    CASE WHEN (salary - min_salary) > 0 THEN 'commission' -- if true  
+    ELSE 'no_commission' -- if false
+    END AS commission -- column name
+
+-- Join the "employees" table with the "jobs" table on the job_id column
+-- and with the "departments" table on the department_id column.
+FROM employees
+    JOIN jobs ON employees.job_id = jobs.job_id
+```
+
++ WHERE always be used after from and from join. Just before GROUP BY
++ HAVING is like WHERE but after GROUP BY
+

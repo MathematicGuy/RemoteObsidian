@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDA HW2.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDA HW2.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDA HW2.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -210,14 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0393394f54f5c3b8",
+  "active": "cac63ab1fc0b2ac3",
   "lastOpenFiles": [
-    "System Administration Database.md",
-    "Admin RS demo.md",
-    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+    "Todo.md",
     "SDA HW2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Todo.md",
+    "Images/Pasted image 20240301173916.png",
+    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+    "System Administration Database.md",
+    "Admin RS demo.md",
     "Images/Pasted image 20240301114848.png",
     "Images/Pasted image 20240301114846.png",
     "Images/Pasted image 20240301114837.png",
@@ -227,7 +228,6 @@
     "Images/Pasted image 20240301114804.png",
     "Images/Pasted image 20240301114759.png",
     "Images/Pasted image 20240301114752.png",
-    "Images/Pasted image 20240301114746.png",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "Code/C Data Type.md",
     "Personal/Good for LATER.md",
@@ -247,7 +247,6 @@
     "SR FE.md",
     "SR Project WebApp Design.md",
     "Specific Color Suggestions 2.md",
-    "SR Color.md",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",

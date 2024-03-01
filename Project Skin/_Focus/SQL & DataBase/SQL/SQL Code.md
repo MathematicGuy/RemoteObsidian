@@ -30,6 +30,27 @@ Priority single collin in SQL: '  ' not " "
 Column - Field
 Row - Record
 
+### USEFUL SQL RULES
+- **Order of Operations:** SQL follows an order of operations, similar to mathematical expressions:
+    
+    1. FROM and JOINS
+    2. WHERE
+    3. GROUP BY
+    4. HAVING
+    5. SELECT
+    6. ORDER BY
++ **WHERE vs. HAVING: Key Differences**
+    
+    - **WHERE:** Filters individual rows _before_ grouping takes place.
+    - **HAVING:** Filters groups of rows _after_ grouping and aggregate functions have been applied.
++ Query are read from Bottom to Top
++ Number field group by another field are group by as sum.
++ To get number output we have to add a `.0`
+```sql
+Select (309 + 517 + 304 + 282) / 6366.0; --without .0 nothing will appear
+```
+
+
 Create Data Base
 ```sql
 -- 1) Create DB
@@ -685,11 +706,9 @@ FROM Employee;
 **Create 1 table by joinning 2 tables**
 > Đây là quy trình chung để thêm một bảng mới, vốn là kết quả từ hoạt động JOIN, vào cơ sở dữ liệu:
 
-**1. Tạo bảng tạm thời (Temporary Table):**
-
-- Thực hiện câu query JOIN của bạn.
-- Dùng `SELECT ... INTO temp_table FROM ...` để lưu kết quả trực tiếp vào một bảng tạm thời. Bảng này chỉ tồn tại trong phiên làm việc hiện tại.
-
++ **1. Tạo bảng tạm thời (Temporary Table):**
+	- Thực hiện câu query JOIN của bạn.
+	- Dùng `SELECT ... INTO temp_table FROM ...` để lưu kết quả trực tiếp vào một bảng tạm thời. Bảng này chỉ tồn tại trong phiên làm việc hiện tại.
 **Ví dụ:**
 ```sql
 SELECT customers.customer_name, orders.order_date
@@ -699,13 +718,105 @@ INNER JOIN orders ON customers.customer_id = orders.customer_id;
 ```
 
 
-**2. Chuyển bảng tạm thời thành bảng vĩnh viễn:**
++ **2. Chuyển bảng tạm thời thành bảng vĩnh viễn:**
 
-- Sử dụng `CREATE TABLE AS` để tạo một bảng mới dựa trên cấu trúc của bảng tạm thời.
-- Bảng mới này sẽ tồn tại kể cả sau khi bạn đóng phiên làm việc.
-
+	- Sử dụng `CREATE TABLE AS` để tạo một bảng mới dựa trên cấu trúc của bảng tạm thời.
+	- Bảng mới này sẽ tồn tại kể cả sau khi bạn đóng phiên làm việc.
 **Ví dụ:**
 ```sql
 CREATE TABLE customer_orders AS
 SELECT * FROM temp_customer_orders; -- Sao chép dữ liệu 
+```
+
+SAVE query as a temporary table and use it to calculate later
+```sql
+-- Find the scores of high-scoring titles
+WITH high_scoring_titles AS (
+    SELECT title, MAX(score) as max_score
+    FROM hacker_news
+    GROUP BY title
+    HAVING MAX(score) > 200
+)
+-- Calculate the percentage
+SELECT SUM(max_score) / (SELECT SUM(score) FROM hacker_news) * 100 as percentage
+FROM high_scoring_titles;
+```
+
+
+**Extract Date and Time in SQL****
+**For `strftime(__, timestamp)`:
+
+- `%Y` returns the year (YYYY)
+- `%m` returns the month (01-12)
+- `%d` returns the day of the month (1-31)
+- `%H` returns 24-hour clock (00-23)
+- `%M` returns the minute (00-59)
+- `%S` returns the seconds (00-59)
+
+if `timestamp` format is `YYYY-MM-DD HH:MM:SS`.
+```sql
+select timestamp, strftime('%H:%M:%S', timestamp) 
+from hacker_news 
+group by 1 limit 10;
+```
+
+
+
+
+**Select only from letter** 
++ ? Select all letter both Uppercase and Lowercase
+```sql
+select * from employees
+where last_name LIKE '%[a-z]%'
+```
+
++ ? select only Lowercase or Uppercase 
+```sql
+select * from employees
+where last_name LIKE '%[a-z]%'
+COLLATE Latin1_General_100_BIN2;
+
+-- uppercase only
+select * from employees
+where last_name LIKE '%[A-Z]%'
+COLLATE Latin1_General_100_BIN2;
+
+-- only uppercase 'G'
+select * from employees
+where last_name LIKE '%G%'
+COLLATE Latin1_General_100_BIN2;
+```
+
+
+
+
+### Select field by number (Easier way to select collumn)
+```sql
+select strftime('%H', timestamp) as 'time_stamp',
+  avg(score),
+  count(*) as 'total story'
+from hacker_news 
+group by 1
+order by 2 desc -- make the time_stamp column not group all together since they're number'
+```
+Line 1: GROUP BY 1
++ Purpose: This line groups the results of the query based on the value calculated in the first SELECT clause.
+    
++ "1": In this context, the number '1' refers to the first column in the SELECT statement, which is the extracted hour from the timestamp (strftime('%H', timestamp) as 'time stamp').
+	
++  Effect: The query will calculate average scores and total stories for each unique hour found within the timestamp column.
+
+Line 2: ORDER BY 2 DESC
++ Purpose: This line sorts the results of the query.
+	
++ "2": The '2' refers to the second column in the SELECT statement, which is the average score (avg(score)).
+ DESC: This indicates the sorting will be in descending order (highest average scores first).
+```sql
+select strftime('%H', timestamp) as 'time_stamp',
+  ROUND(AVG(score), 2) as 'avg score',
+  count(*) as 'total story'
+from hacker_news 
+where 1 IS NOT NULL -- only take the un-NULL value
+group by 1 
+order by 2 desc -- make the time_stamp column not group all 
 ```
