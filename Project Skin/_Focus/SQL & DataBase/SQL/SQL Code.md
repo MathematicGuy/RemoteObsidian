@@ -466,7 +466,6 @@ SELECT winner, subject, subject IN ('physics','chemistry')
 ```sql
 SELECT name FROM world WHERE name LIKE 'United%'
 ```
-> **select all word contain United in it.**
 
 + select the first name seperate by a space ' '
 ```sql

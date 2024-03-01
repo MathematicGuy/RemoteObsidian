@@ -33,5 +33,12 @@ Don't always try to protect everything. Find the best way of the situation.
 + Vulnerble to Ddot
 all side asked and can't recognize who the real one and what to answer. 
 	Denial of service
-
 Thông tin đc thay đổi qua cấp độ entropy
+
++ ! Everything connect to WWW -> become dependent -> need security to achieve freedom
+Deepfake.
+
+Công nghệ có thể thô sơ, nhưng tư duy thì pải đột phá.
+
+
+Denial of service: camouflage attack

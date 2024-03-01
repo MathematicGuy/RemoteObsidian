@@ -54,21 +54,53 @@ select last_name, departments.department_id, department_name from employees
 ```
 ![[Pasted image 20240301114815.png]]
 ```sql
-
+select e.last_name as 'e last_name', e.phone_number as 'e phone_number', me.last_name as 'me last_name', me.phone_number as 'me phone_number'
+from employees as e
+    JOIN employees as me ON e.manager_id = me.employee_id 
+    JOIN jobs ON e.job_id = jobs.job_id
 ```
 ![[Pasted image 20240301114821.png]]
 ```sql
-
+select e.last_name as 'Employees', e.phone_number as 'em_phone', me.last_name as 'Manager', me.phone_number as 'ma_phone'
+from employees as e
+    -- LEFT/RIGHT JOIN take NULL value. INNER JOIN only take value != NULL
+    -- we 'e' with 'me' so I use Left JOIN to extract all value from employees 
+    -- Get the last names of employees who do not have a manager.
+    LEFT JOIN employees as me ON e.manager_id = me.employee_id 
+    JOIN jobs ON e.job_id = jobs.job_id
 ```
 ![[Pasted image 20240301114830.png]]
++ ? something wrong but I don't know
 ```sql
+select e1.last_name, e2.last_name, departments.department_id 
+from employees as e1
+LEFT JOIN departments  ON e1.department_id = departments.department_id
+LEFT JOIN employees as e2 ON  e1.department_id = e2.department_id;
 
 ```
 ![[Pasted image 20240301114837.png]]
++ ! remove 1 zero for each grade.
 ```sql
+select (employees.first_name + ' ' + employees.last_name) as 'name', jobs.job_title, departments.department_name, employees.salary,
+--- if else statement
+CASE 
+    WHEN (employees.salary) >= 5000 THEN 'A'
+    WHEN 5000 >= (employees.salary) and (employees.salary) >= 3000 THEN 'B'
+    ELSE 'C'
+END AS Grade
+--- end of if else statement
 
+--- connect fields from other table
+FROM employees
+    JOIN jobs on employees.job_id = jobs.job_id
+    JOIN departments on employees.department_id =  departments.department_id ;
 ```
 ![[Pasted image 20240301114848.png]]
 ```sql
-
+select (e.first_name + ' ' + e.last_name) as 'name', e.hire_date
+from employees as e
+    -- display the employee name along with their manager
+    LEFT JOIN employees as me ON e.manager_id = me.employee_id 
+    JOIN jobs ON e.job_id = jobs.job_id
+where e.hire_date < me.hire_date;
 ```
