@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
+                "file": "SDA HW2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3331516df8f23bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
+                "file": "SDA HW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
+                "file": "SDA HW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md"
+                "file": "SDA HW2.md"
               }
             }
           },
@@ -199,6 +212,20 @@
   },
   "active": "906f388f67bf48c4",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "SDA HW2.md",
+    "Images/Pasted image 20240301114848.png",
+    "Images/Pasted image 20240301114846.png",
+    "Images/Pasted image 20240301114837.png",
+    "Images/Pasted image 20240301114830.png",
+    "Images/Pasted image 20240301114821.png",
+    "Images/Pasted image 20240301114815.png",
+    "Images/Pasted image 20240301114804.png",
+    "Images/Pasted image 20240301114759.png",
+    "Images/Pasted image 20240301114752.png",
+    "Images/Pasted image 20240301114746.png",
+    "System Administration Database.md",
+    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "Code/C Data Type.md",
     "Todo.md",
     "Personal/Good for LATER.md",
@@ -217,24 +244,10 @@
     "SR Front-End Requirement.md",
     "CodeGrade Demo.md",
     "SR FE.md",
-    "Images/Pasted image 20240229133740.png",
-    "Images/Pasted image 20240229133514.png",
     "SR Project WebApp Design.md",
     "Specific Color Suggestions 2.md",
     "SR Color.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Pokemon Reviewer WebApp.md",
-    "pokemon_review table.md",
-    "Web API Note.md",
-    "Images/Pasted image 20240228211301.png",
-    "Images/Pasted image 20240228211219.png",
-    "Images/Pasted image 20240228211215.png",
-    "Images/Pasted image 20240228211206.png",
-    "SDA HW2.md",
-    "Images/2.jpg",
-    "Images/1.jpg",
-    "Images/Pasted image 20240228110114.png",
-    "Images/Pasted image 20240227204906.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",

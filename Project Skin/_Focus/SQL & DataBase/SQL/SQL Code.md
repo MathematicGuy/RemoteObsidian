@@ -458,9 +458,10 @@ SELECT winner, subject, subject IN ('physics','chemistry')
 ```
 ![[Pasted image 20231122103231.png]]
 
-**sth%** 
--> % represent 0, 1 or all the rest of the string. or something
--> %a% mean sth contain a. 
+**sth%** - **%sth%**
++ ? % represent 0, 1 or all the rest of the string. Or something
+**Select only a:**
++ ?  %a% mean sth contain a. 
 > use this when you try to search a word start with ...
 ```sql
 SELECT name FROM world WHERE name LIKE 'United%'
