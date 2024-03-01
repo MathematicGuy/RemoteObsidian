@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "348542fb56414943",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -188,8 +183,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "348542fb56414943",
+  "active": "15305d192e4e05d6",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "Science Research Notes.md",
     "Admin RS demo.md",
@@ -212,7 +208,6 @@
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Pokemon Reviewer WebApp.md",
     "pokemon_review table.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Web API Note.md",
     "Images/Pasted image 20240228211301.png",
     "Images/Pasted image 20240228211219.png",

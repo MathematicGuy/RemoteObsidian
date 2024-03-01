@@ -544,6 +544,7 @@ wirklich - really
 9 - **neun** (neun hundert)
 10 - **zehn**
 
+
 **Number system** (wie auf Englisch)
 11 - elf
 12 - zwölf
@@ -561,6 +562,8 @@ wirklich - really
 kostet - cost
 	 Wie viel kostet die sonnencreme
 	 Der sonn
++ Kosten - plural
++ Kostet - singular
 marktplatz - market place
 viel - much
 	 Wie viel kostet der tee - how much does the tee cost ?
@@ -1108,7 +1111,7 @@ Fällt - Cancelled
 Zugtür - train door
 	Die Zugtür ist Hiten recht/links - the train door is in the back to the right/left
 
-Speisewagen - dining car
+Der Speisewagen - dining car
 	Ist der Speisewagen geöffnet - is the dinning car open
 
 Sitz - seat
@@ -1140,7 +1143,7 @@ Um  around
 	Der zug kommt um viel Uhr
 Gleis  Track
 	Wo ist Gleis acht - where is track eight
-	Der zug ist auf Gleis ein - the train is on track one
+	Der zug ist auf Gleis eins - the train is on track one
 >Achtung, Der zug von Berlin nach München hat eine Verspätung. Er kommt zweizig Minuten zu spät aus Gleis zwei 
 	Attention, the train from Berlin to München has a delayed. He arrives on platform two twenty minutes late.
 
@@ -1158,3 +1161,5 @@ Zahle (t/st/en) - pay
 Fällt vs Stornieren
 	oh nein, mein zug nach München fällt aus 
 + ? why `aus` to the last place of the sentence 
+
+Abfahrt - departure
