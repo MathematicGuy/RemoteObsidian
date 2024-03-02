@@ -1,12 +1,27 @@
 ## Tower of Hanoi
+[[Recursion]]
+![[Pasted image 20240302095842.png]]
 
-Điều kiện đặt  Vòng vào cột -> Trống hoặc lớn hơn. Ưu tiên vòng bé tr'c
-3, A, B, C
-2, A, B, C (C)
-1, A, B, C (C, B)
-Đặt vòng bé lên vòng to 
+![[Pasted image 20240302101632.png]]
+**from_rod**
+![[Pasted image 20240302101929.png]]
+**to_rod**
+![[Pasted image 20240302102037.png]]
+**aux_rod**
+![[Pasted image 20240302101941.png]]
 
-xét cái bé nhất
+
+![[Pasted image 20240302100011.png]]
+![[Pasted image 20240302101448.png]]
+towerOfHanoi(4, A, C, B) mean move the 4th plate to C. and all the remaining to B
++ ? Notice the **left function are the current position**. The **right function are the move we make**.  
++ If there only 1 plate then move it to C.
+
+towerOfHanoi(3, B, C, A) mean switch all the plate from B and C. (all the plate from C goes to C and all the plate from C goes to B) 
+![[Pasted image 20240302103729.png]]
+
+
+![[Pasted image 20240302101430.png]]
 Iterative Rule
 + A to B, or reverse
 + B to C, or reverse
@@ -25,7 +40,7 @@ else
 	chuyen(n-1, B, A, C),
 }
 
-
+ 
 ## 8 Queens
 Line Queens near the rear to limited its Power.
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9037fb4b1049cdc5",
+        "id": "eda32cdbf7c4e445",
         "type": "tabs",
         "children": [
           {
-            "id": "1545770ce1300c69",
+            "id": "7c382bd8bc94762e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "150a844733c4afc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md"
               }
             }
           },
@@ -183,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1545770ce1300c69",
+  "active": "150a844733c4afc4",
   "lastOpenFiles": [
     "Todo.md",
     "SDA HW2.md",
