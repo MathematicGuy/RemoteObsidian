@@ -1,5 +1,6 @@
 [[Potential Question]]
 
+[[AI Movie]]
 ## AI definition
 
 Artificial intelligence (AI) refers to the ability of computers or machines to exhibit behaviors that mimic human intelligence. This broadly includes capabilities like:

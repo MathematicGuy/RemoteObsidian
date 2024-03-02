@@ -19,7 +19,7 @@
 - [ ] Understand UI/UX
 
 - [ ] Remove the habit of writing unescessary thing without understanding them. Negate the system they put in to me. Do the right thing, live the right life.
-- [ ] Relize My Job as a **Tech Lead** is to f**ind a way to do it**. And **Transfer the Work Pattern** to m**y team. And not Doing all of it**.
+- [ ] Relize My Job as a **Tech Lead** is to f**ind a way to do it**. And **Transfer the Work Pattern** to m**y team. And not Doing all of it**
 
 
 #Todo/GoalsThisWeek

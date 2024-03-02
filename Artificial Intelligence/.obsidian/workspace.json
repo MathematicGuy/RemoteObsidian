@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMC AI.md",
+                "file": "AI Movie.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,21 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f053c2f4b24609e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harvard CS50’s Artificial Intelligence with Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm Problem.md",
+                "file": "AI Movie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm Problem.md",
+                "file": "AI Movie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm Problem.md"
+                "file": "AI Movie.md"
               }
             }
           },
@@ -199,8 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48fd951f6774e0b3",
+  "active": "2c7145aa7a4280dc",
   "lastOpenFiles": [
+    "CMC AI.md",
+    "AI Movie.md",
+    "Algorithm Problem.md",
+    "Harvard CS50’s Artificial Intelligence with Python.md",
     "Image/Pasted image 20240302103729.png",
     "Image/Pasted image 20240302102037.png",
     "Image/Pasted image 20240302101941.png",
@@ -211,11 +203,8 @@
     "Image/Pasted image 20240302100011.png",
     "Image/Pasted image 20240302095842.png",
     "Recursion.md",
-    "Algorithm Problem.md",
     "Image/Pasted image 20240228153725.png",
-    "CMC AI.md",
     "Machine Learning.md",
-    "Harvard CS50’s Artificial Intelligence with Python.md",
     "Search Problems.md",
     "Potential Question.md",
     "AI RoadMap.md",
@@ -230,7 +219,6 @@
     "LLM (Large Language Model).md",
     "What Is AI.md",
     "AI For Everyone.md",
-    "Image/Pasted image 20231123101510.png",
     "Chapter 1 - Vectors, what even are they.md",
     "Linear Algebra.md",
     "Machine Learning Problems.md",

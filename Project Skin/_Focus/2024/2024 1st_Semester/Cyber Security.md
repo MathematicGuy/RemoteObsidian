@@ -40,5 +40,13 @@ Deepfake.
 
 Công nghệ có thể thô sơ, nhưng tư duy thì pải đột phá.
 
-
 Denial of service: camouflage attack
+
+Movie: The Imitation Game
++ "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."
++ Sometime you must lose some batlte to win the whole war.
++ There're thing that you can't brute force, you must find the pattern and relationships.
++ Don't immediatly done anything you see as right. Check for it consequents first.
++ Don't give lies to someone expected to. (???) 
++ ! "Deceive others by allowing them to believe they've deceived you."
+Movie also about Alan Turing: Codebreaker
