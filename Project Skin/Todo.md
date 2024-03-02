@@ -3,13 +3,9 @@
 	Find the product I need (AI, Security, Productivity, etc..)
 
 #Todo/Priority
-- [ ] Truyền lại có Hải cách lấy màu cho thiết kế.
-	1) Xin ý kiến từ Gemini/ChatGPT 4.0
-	2) Từ những màu mà nó cho, chuyển đổi những gợi ý màu đó thành Color Template cho trang web qua RealTimeColor.
-	3) Áp dụng color template đó vào trang web
-
+- [ ] Thiết kê Page cho WebApp dự án SR
 - [ ] Finish SR Project requirement 
-- [ ] Nộp đơn Đăng kí Nghiên cứu khoa học của cả nhóm cho thầy Huy
+- [ ] Activity Diagram dựa trên description
 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] Intermedia C#

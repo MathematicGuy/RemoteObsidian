@@ -556,7 +556,6 @@ wirklich - really
 **Ty** (eg. thirty) (zig/ßig)
 20 - zwanzig
 30 - dreißig
-	Zwei Fahrkarten kosten dreißig euro
 	Er braucht zwei Fahrkarte diese wochenender (literaly wo-chen-ender)
 
 kostet - cost
@@ -1097,6 +1096,8 @@ die Hin- und Rückfahrt - the round-trip ticket
 	Eine Hin und Rückfahrt kostet dreißig euro
 die Fahrkarte - the ticket
 	Eine Fahrkarte nach Ho Chi Minh, bitte
+	Entschuldigung, Wie viel kostet vier Farhkarten 
++ Zweiwig fahrkarten (plural form)
 
 Die Kreditkarter - the credit 
 Zentrum - center
@@ -1163,3 +1164,6 @@ Fällt vs Stornieren
 + ? why `aus` to the last place of the sentence 
 
 Abfahrt - departure
+
+![[Pasted image 20240303000209.png]]
+Kapput broken

@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "150a844733c4afc4",
+            "id": "69cb06fd8f56c5a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "file": "2nd Yrs Science Research Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede0385e6b3d7c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -197,10 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "150a844733c4afc4",
+  "active": "ede0385e6b3d7c7e",
   "lastOpenFiles": [
+    "Images/Pasted image 20240303000209.png",
     "Todo.md",
+    "2nd Yrs Science Research Project.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+    "Science Research Planning.md",
+    "Science Research Notes.md",
+    "Stakeholder Identification.md",
     "SDA HW2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20240301173916.png",
@@ -220,15 +238,11 @@
     "Personal/Good for LATER.md",
     "My AI List.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "Science Research Notes.md",
     "Requirement Specifications Terms.md",
-    "2nd Yrs Science Research Project.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
-    "Science Research Planning.md",
     "Science Research User Requirement.md",
     "Simplified User Workflow.md",
     "Science Research - Design and Recommended Languages.md",
-    "Stakeholder Identification.md",
     "SR Front-End Requirement.md",
     "CodeGrade Demo.md",
     "SR FE.md",
