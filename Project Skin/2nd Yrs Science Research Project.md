@@ -24,3 +24,20 @@ note: big old project
 
 **Đề tài nhóm 1.** Xây dựng Web quản lý học liệu và hỗ trợ đánh giá tự động mã bài lập trình dựa trên phân tích mã nguồn
 
++ Quản lý học liệu bao gồm:  tìm kiếm + phân loại học liệu và gắn thẻ (tag) + đánh giá độ giống nhau của 2 văn bản ( ví dụ giống > 80% thì ko cho đăng)
+
++ "Học liệu" bao gồm các loại học liệu (bài giảng, đồ án, video, bài tập học sinh, tài liệu tham khảo, v...v..) 
+	+ Nhóm học liệu thứ 1st: (giáo viên) Bài Giảng PDF, Docs hoặc Video, tài liệu tham khảo, v..v.. 
+	+ Nhóm học liện thứ 2nd: (học sinh) Báo cáo môn học, code. Kết quả báo cáo dự án môn học, SRS, SWR, v..v.. 
+
+
+**Important Requirement 1**
++ Phân tích độ trùng của 2 học liệu (đánh giá độ đánh cắp, trùng nhau)
+	quá giống nhau -> Không cho đăng 
++ Chỉ quét đồ án, báo cáo môn học (ko phải bài tập code)
+
+
+**Important Requirement 2**
++ Code: đánh giá và chấm điểm code. 
+
+Good to have: thống kê báo cáo dùng Power BI
