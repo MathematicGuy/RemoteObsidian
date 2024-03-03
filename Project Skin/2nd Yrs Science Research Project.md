@@ -12,6 +12,7 @@ note: big old project
 	Xây dựng 1 web cho phép quản lý học liệu, đồ án môn học, tìm kiếm, hỏi đáp sử dụng LLM, tư vấn môn học, đánh giá code tự động
 
 
+
 [[Science Research Planning]]
 [[Science Research Notes]]
 
