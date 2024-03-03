@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0ced3ba56e308ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrontEnd/Docker.md",
+                "file": "WebDev/WebDev_Learn/Frontend.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Docker.md",
+                "file": "WebDev/WebDev_Learn/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Docker.md",
+                "file": "WebDev/WebDev_Learn/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Docker.md"
+                "file": "WebDev/WebDev_Learn/Frontend.md"
               }
             }
           },
@@ -210,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0ced3ba56e308ae",
+  "active": "2497546f26c3095c",
   "lastOpenFiles": [
     "Pokemon Reviewer WebApp.md",
     "FrontEnd/Docker.md",
