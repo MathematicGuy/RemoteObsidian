@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c10db6cdebcf5d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common German Mistake.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Common German Mistake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Common German Mistake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "Common German Mistake.md"
               }
             }
           },
@@ -210,8 +223,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ede0385e6b3d7c7e",
+  "active": "c10db6cdebcf5d85",
   "lastOpenFiles": [
+    "Images/Pasted image 20240303082605.png",
+    "Images/Pasted image 20240303082151.png",
+    "Images/Pasted image 20240303080619.png",
+    "Images/Pasted image 20240303080548.png",
+    "Personal/Language Learning/German Grammar.md",
+    "Common German Mistake.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240303000209.png",
     "Todo.md",
     "2nd Yrs Science Research Project.md",
@@ -229,15 +249,10 @@
     "Images/Pasted image 20240301114837.png",
     "Images/Pasted image 20240301114830.png",
     "Images/Pasted image 20240301114821.png",
-    "Images/Pasted image 20240301114815.png",
-    "Images/Pasted image 20240301114804.png",
-    "Images/Pasted image 20240301114759.png",
-    "Images/Pasted image 20240301114752.png",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "Code/C Data Type.md",
     "Personal/Good for LATER.md",
     "My AI List.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Requirement Specifications Terms.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "Science Research User Requirement.md",
@@ -246,8 +261,6 @@
     "SR Front-End Requirement.md",
     "CodeGrade Demo.md",
     "SR FE.md",
-    "SR Project WebApp Design.md",
-    "Specific Color Suggestions 2.md",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
