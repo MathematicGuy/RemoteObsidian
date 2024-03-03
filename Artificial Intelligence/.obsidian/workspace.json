@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "2c7145aa7a4280dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Movie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "48fd951f6774e0b3",
             "type": "leaf",
             "state": {
@@ -44,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd554ff0d85d1bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Movie.md",
+                "file": "AI Learning Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Movie.md",
+                "file": "AI Learning Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Movie.md"
+                "file": "AI Learning Plan.md"
               }
             }
           },
@@ -187,11 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c7145aa7a4280dc",
+  "active": "bd554ff0d85d1bd3",
   "lastOpenFiles": [
-    "CMC AI.md",
-    "AI Movie.md",
+    "AI Learning Plan.md",
     "Algorithm Problem.md",
+    "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
+    "Machine Learning.md",
+    "AI Movie.md",
+    "CMC AI.md",
     "Harvard CS50’s Artificial Intelligence with Python.md",
     "Image/Pasted image 20240302103729.png",
     "Image/Pasted image 20240302102037.png",
@@ -204,12 +207,10 @@
     "Image/Pasted image 20240302095842.png",
     "Recursion.md",
     "Image/Pasted image 20240228153725.png",
-    "Machine Learning.md",
     "Search Problems.md",
     "Potential Question.md",
     "AI RoadMap.md",
     "AI.md",
-    "Untitled.md",
     "Prompt Engineering.md",
     "Understand ChatGPT.md",
     "My Research.md",
@@ -224,14 +225,12 @@
     "Machine Learning Problems.md",
     "Cloud Services.md",
     "Classification.md",
-    "Bookmarks.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/1802.01528.pdf",
     "book/Unconfirmed 721386.crdownload",
-    "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Training/inference time",
     "Training",
     "Image"

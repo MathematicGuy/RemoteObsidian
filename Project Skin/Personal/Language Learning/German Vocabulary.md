@@ -1105,6 +1105,7 @@ Reise - trip / travel
 Reisezentrum - travel 
 Stornieren/Fällt - cancelled
 	Oma, Möchtest du deine Fahrkarte nach Rome Stornieren - granma, would you liek to cancell your ticket to Rome
+	Ja, ich möchte meine fahrkarte stornieren - yes, i would like to cancelled my ticket
 Fällt - Cancelled
 	Die zug Fällt aus - the train is cancelled
 	Der Zug Fällt aus, ich Möchte meine Fahrkarte Stornieren
@@ -1151,8 +1152,9 @@ Gleis  Track
 ICE - (Intercity Express) is a high-speed rail system in Germany
 Es schneit und es jetzt gibt eine Verspätung
 	It's snowing and now there's a delay
-Können - can
-	Können Sie meinen kaufen Caffee - can you buy me a coffee (explain later)
+Können - can/able to
+	+ Können Sie meinen kaufen Caffee - can you buy me a coffee (explain later) Sie können hier zahlen
+	+ Ja, Sie können im Reisezentrum zahlen - (because there're 2 verb. SO the 2nd verb go to the end)
 
 Zahle (t/st/en) - pay
 	Karl, Zahlst du mit Kreditkarte - karl, do you paying with a creadit card
@@ -1164,6 +1166,13 @@ Fällt vs Stornieren
 + ? why `aus` to the last place of the sentence 
 
 Abfahrt - departure
-
-![[Pasted image 20240303000209.png]]
 Kapput broken
+Keine Ahnung - no idea
+helfen help
+Werkstatt auto repair shop
+Auto car
+Halb half
+	Genau, die abfahrt ist um halb acht
+
+Kommt der Zug um vier oder um fünf Uhr? (check for word structure)
+	Der zug kommt um halb fünf
