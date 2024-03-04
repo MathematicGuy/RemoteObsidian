@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f2cb7a9a49f585a",
+        "id": "67240cebffd8154f",
         "type": "tabs",
         "children": [
           {
-            "id": "e3cef27f3d4e36e6",
+            "id": "7005635c02e9c8e3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d8462f08d70a06ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3cef27f3d4e36e6",
+  "active": "d8462f08d70a06ac",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20240304095729.png",
     "Images/Pasted image 20240304093532.png",
     "Images/Pasted image 20240304093450.png",
@@ -193,7 +199,6 @@
     "Web API Project.md",
     "Circle Calculator WebApp documentation.md",
     "Web API Note.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240303000209.png",
     "WebDev/WebDev_Learn/Frontend.md",
@@ -213,7 +218,6 @@
     "Science Research Planning.md",
     "SDA HW2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Images/Pasted image 20240301173916.png",
     "System Administration Database.md",
     "Admin RS demo.md",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",

@@ -13,7 +13,7 @@
 # [[Building AI Project]] 
 
 
-# [[Building AI in your company]] 
+# [[Numpy]] 
 
 
 # [[AI and Society]] 
