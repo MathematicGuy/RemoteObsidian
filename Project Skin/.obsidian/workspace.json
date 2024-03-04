@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87c7bea8034a749f",
+        "id": "2f2cb7a9a49f585a",
         "type": "tabs",
         "children": [
           {
-            "id": "969559fb9f198512",
+            "id": "e3cef27f3d4e36e6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "229e05e125ac2ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circle Calculator WebApp documentation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circle Calculator WebApp documentation.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circle Calculator WebApp documentation.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circle Calculator WebApp documentation.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "229e05e125ac2ea2",
+  "active": "e3cef27f3d4e36e6",
   "lastOpenFiles": [
     "Images/Pasted image 20240304095729.png",
     "Images/Pasted image 20240304093532.png",
