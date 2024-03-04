@@ -83,16 +83,16 @@ LEFT JOIN employees as e2 ON  e1.department_id = e2.department_id;
 + ! remove 1 zero for each grade.
 ```sql
 select (employees.first_name + ' ' + employees.last_name) as 'name', jobs.job_title, departments.department_name, employees.salary,
---- if else statement
+--- if else statement. Statement from CASE to END is scan from top to bottom. Not bottom up like the main query line. 
 CASE 
     WHEN (employees.salary) >= 5000 THEN 'A'
-    WHEN 5000 >= (employees.salary) and (employees.salary) >= 3000 THEN 'B'
+    WHEN (employees.salary) >= 3000 THEN 'B' 
     ELSE 'C'
 END AS Grade
 --- end of if else statement
 
 --- connect fields from other table
-FROM employees
+FROM employees 
     JOIN jobs on employees.job_id = jobs.job_id
     JOIN departments on employees.department_id =  departments.department_id ;
 ```
@@ -107,7 +107,7 @@ where e.hire_date < me.hire_date;
 ```
 
 
-## Conclusion: lession learned
+## Conclusion: lesson learned
 How to use case when
 ```sql
 SELECT last_name, department_name, location_id,
