@@ -1,6 +1,9 @@
 **URL API**
 > https://localhost:7192/api/Home/
 
+**WebAPI**
+>https://win9081.site4now.net:8172/MsDeploy.axd?site=sukmadi-001-site1
+
 **Phương thức HTTP**
 > https://localhost:7192/api/Home/Calculate?banKinh=10
 
