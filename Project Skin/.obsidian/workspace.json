@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86e3bca29b5ba592",
+        "id": "87c7bea8034a749f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a831423aefa4f2",
+            "id": "969559fb9f198512",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "1fb2dde8e5bc592a",
+            "id": "229e05e125ac2ea2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1fb2dde8e5bc592a",
+  "active": "229e05e125ac2ea2",
   "lastOpenFiles": [
-    "Images/Pasted image 20240303000209.png",
-    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Images/Pasted image 20240303000209.png",
     "WebDev/WebDev_Learn/Frontend.md",
     "Pokemon Reviewer WebApp.md",
     "FrontEnd/Docker.md",
