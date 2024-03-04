@@ -488,11 +488,37 @@ SELECT winner, subject, subject IN ('physics','chemistry')
 SELECT name FROM world WHERE name LIKE 'United%'
 ```
 
+**SUBSTRING**
+```sql
+SUBSTRING(string, position, number_of_characters) = 'a'
+```
++ The string from which to extract the substring.
++ The position to start extraction. The position of the first character is 1.
++ The number of characters to extract.
+```sql
+SELECT (me.last_name + ' ' + me.first_name) as 'Employee',
+        (e.last_name + ' ' + e.first_name) as 'Employee',
+        e.department_id, e.salary from employees as e 
+JOIN employees as me ON e.manager_id = me.employee_id
+WHERE SUBSTRING(e.last_name, 2, 1) = 'a'
+COLLATE Latin1_General_100_BIN2;
+```
+
 + select the first name seperate by a space ' '
 ```sql
 SELECT name FROM world WHERE name LIKE '% %';
 SELECT SUBSTRING_INDEX(name, ' ', 1) AS first_name FROM world WHERE name LIKE '% %';
 ```
++ select the employee last name that have second letter as a
+```sql
+SELECT  (me.last_name + ' ' + me.first_name) as 'Employee',
+        (e.last_name + ' ' + e.first_name) as 'Employee',
+        e.department_id, e.salary from employees as e 
+JOIN employees as me ON e.manager_id = me.employee_id
+WHERE SUBSTRING(e.last_name, 2, 1) = 'a'
+COLLATE Latin1_General_100_BIN2;
+```
+
 
 **XOR**
 > not >> or << but always ><

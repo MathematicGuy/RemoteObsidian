@@ -124,3 +124,40 @@ FROM employees
 + WHERE always be used after from and from join. Just before GROUP BY
 + HAVING is like WHERE but after GROUP BY
 
+![[Pasted image 20240304151405.png]]
+
+![[Pasted image 20240304152514.png]]
+```sql
+select manager_id, sum(salary)  as 'total e salary' from employees 
+WHERE manager_id is not NULL
+group by manager_id
+```
+![[Pasted image 20240304152539.png]]
+```sql
+select me.employee_id as 'me_id', (me.last_name + ' ' + me.first_name) as 'Name',
+COUNT(e.employee_id) as 'e working under', me.department_id as 'me department_id'
+from employees as e
+    JOIN employees as me ON e.manager_id = me.employee_id 
+group by me.employee_id, me.last_name, me.first_name, me.department_id
+```
+![[Pasted image 20240304152555.png]]
+```sql
+SELECT (me.last_name + ' ' + me.first_name) as 'Employee',
+        (e.last_name + ' ' + e.first_name) as 'Employee',
+        e.department_id, e.salary from employees as e 
+JOIN employees as me ON e.manager_id = me.employee_id
+WHERE SUBSTRING(e.last_name, 2, 1) = 'a'
+COLLATE Latin1_General_100_BIN2;
+```
+![[Pasted image 20240304152611.png]]
+```sql
+
+```
+![[Pasted image 20240304152618.png]]
+```sql
+
+```
+![[Pasted image 20240304152635.png]]
+```sql
+
+```

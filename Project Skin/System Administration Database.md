@@ -56,3 +56,5 @@ Redis (DBSM dạng key-value) - (recommended)
 Document Oriented -> MongoDB
 GraphDB 
 
+### Isolation
+

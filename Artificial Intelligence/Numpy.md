@@ -1,3 +1,4 @@
+### [Introduct to Numpy arrays](https://www.coursera.org/learn/machine-learning-linear-algebra/ungradedLab/07f5W/introduction-to-numpy-arrays/lab?path=%2Fnotebooks%2FC1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
 
 What if you wanted to create an array with five evenly spaced values in the interval from 0 to 100?
 ```python
@@ -5,8 +6,6 @@ lin_spaced_arr = np.linspace(0, 100, 5)
 print(lin_spaced_arr)
 ```
 [  0.  25.  50.  75. 100.]
-
-
 
 ## Create Matrix through List
 

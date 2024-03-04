@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "daf174fb94f7a1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear system as Matrix using Numpy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numpy.md",
+                "file": "Linear system as Matrix using Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numpy.md",
+                "file": "Linear system as Matrix using Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numpy.md"
+                "file": "Linear system as Matrix using Numpy.md"
               }
             }
           },
@@ -187,12 +199,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41e4acaed9d0c9a0",
+  "active": "daf174fb94f7a1b1",
   "lastOpenFiles": [
+    "introduction to numpy array.md",
+    "Linear system as Matrix using Numpy.md",
     "Numpy.md",
+    "Machine Learning.md",
+    "Introduct to Numpy arrays.md",
     "Mathematic  for Machine Learning.md",
     "Learning Note.md",
-    "Machine Learning.md",
     "Image/Pasted image 20240304130756.png",
     "Image/Pasted image 20240304130713.png",
     "Image/Pasted image 20240304130321.png",
@@ -223,9 +238,6 @@
     "LLM (Large Language Model).md",
     "What Is AI.md",
     "AI For Everyone.md",
-    "Chapter 1 - Vectors, what even are they.md",
-    "Linear Algebra.md",
-    "Machine Learning Problems.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
