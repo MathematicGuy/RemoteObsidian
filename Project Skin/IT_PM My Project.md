@@ -97,3 +97,27 @@ Kỹ thuật triển khai (Post Sales part)
 #### How to Fail a Project
 ![[Pasted image 20240220162413.png]]
 
+
+1 người làm 3 ghế / ngày.
+Time: 5 ngày
+Scope: 60 ghế
+-> 1 ngày cần 60 / 5 = 12 (Ghế)
+vậy cần (tổng ghế cần làm 1 ngày / ghế 1 người) = 12 / 3 = 4 người 
+
+Thời gian triển khai công tác:
+NOC, SOC (hệ thống bảo mật)
++ Network Operations Centers (NOCs) are responsible for maintaining a company's computer system's technical infrastructure.
++ While Security Operations Centers (SOCs) are responsible for protecting the organization against cyber threats.
+
+### **Quy trình lấy requirement**
+**Action**
+(1) [Trao đổi với Client/Programmer] -> Detail requirement
+-> Phê duyệt -> Thiết kế.
+				 -X-> Trao đổi lại với khách hàng. 
+
+![[Pasted image 20240305143954.png]]
+
+**Quy trình quản lý thời gian**
+
+Chia nhân lực tốt 
+

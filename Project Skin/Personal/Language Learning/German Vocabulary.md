@@ -314,6 +314,7 @@ Koche cook
 Kochst (you) cook
 	du kochst
 
+
 Schwimme swim
 Nie never
 Male paint
@@ -1178,3 +1179,14 @@ Halb half
 
 Kommt der Zug um vier oder um fünf Uhr? (check for word structure)
 	Der zug kommt um halb fünf
+
+Hunger hungry
+	Oh, habe du Hunger - oh, are you hungry
+Griechisch greek
+Lieber prefer
++ Ich möchte lieber - I would prefer
+	Ich möchte liebe Schinizel essen - would prefer to eat Schnitzel
+
+Ich möchte später italienisch essen - I would like to eat Italian food later
+
+Ich möchte später einen Salatz essen 
