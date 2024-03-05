@@ -4,8 +4,7 @@
 
 #Todo/Priority
 - [ ] Thiết kê Page cho WebApp dự án SR
-- [ ] Finish SR Project requirement 
-- [ ] Activity Diagram dựa trên description
+- [ ] xin ý kiến từ thầy Huy và Anh Thắng về tài liệu học tập tạo ra các 
 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] Intermedia C#
