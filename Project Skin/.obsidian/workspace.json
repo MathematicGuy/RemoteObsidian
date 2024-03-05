@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25c76baacdfbc23f",
+        "id": "2317da9005093bb9",
         "type": "tabs",
         "children": [
           {
-            "id": "8296da7ed9300da1",
+            "id": "b9df31de7f5c6abd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,46 +23,15 @@
             }
           },
           {
-            "id": "9b186004ed34054d",
+            "id": "9399c2dd68fb1975",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM My Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edad8b947fbc1382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Yrs Science Research Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dee40294ddbb604b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Yrs Science Research Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Yrs Science Research Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Yrs Science Research Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2nd Yrs Science Research Project.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,12 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edad8b947fbc1382",
+  "active": "9399c2dd68fb1975",
   "lastOpenFiles": [
-    "IT Project Management.md",
+    "Todo.md",
     "IT_PM My Project.md",
-    "IT_PM Part 1.md",
     "2nd Yrs Science Research Project.md",
+    "Circle Calculator WebApp documentation.md",
+    "IT Project Management.md",
+    "IT_PM Part 1.md",
     "Science Research Notes.md",
     "IT_PM INTRO.md",
     "Requirement Specifications Terms.md",
@@ -243,10 +210,8 @@
     "Science Research User Requirement.md",
     "Science Research - Design and Recommended Languages.md",
     "Simplified User Workflow.md",
-    "Todo.md",
     "Images/Pasted image 20240305143954.png",
     "Personal/Language Learning/German Vocabulary.md",
-    "Circle Calculator WebApp documentation.md",
     "Web API Project.md",
     "Web API Note.md",
     "System Administration Database.md",
