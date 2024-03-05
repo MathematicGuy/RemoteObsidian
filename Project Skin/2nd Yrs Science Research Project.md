@@ -40,10 +40,6 @@ note: big old project
 
 **Important Requirement 2**
 + Code: đánh giá và chấm điểm code. 
-
-
 Good to have: thống kê báo cáo dùng Power BI
-
-
 
 

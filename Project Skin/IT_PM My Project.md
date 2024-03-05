@@ -119,5 +119,33 @@ NOC, SOC (hệ thống bảo mật)
 
 **Quy trình quản lý thời gian**
 
-Chia nhân lực tốt 
+Chia nhân lực tốt. 
 
+Ước lượng thời gian hoạt động.
+
+Phát triển lịch trình dự án. 
+
+Kiểm soát lịch trình dự án.
+
+**Task to Gantt Chart**
+Task list
+PiC (person in chart)
+PoC (Point of Contact)
+
+Root Cause -> khi gặp vấn đề thì cấp thiết nhất là phải chuẩn đoán vấn đề gốc.
+
+Làm Biểu đồ thời gian song song vs tiến độ công việc.
+
+
+Best Case
+	
+Worst Case
+
+
+BA (Very Important)
+- Hiểu nghiệp vụ nhân sự.
+- Lấy yêu cầu chính xác.
+- Vietsub nhu cầu nghiệp vụ đến Lập trình viên
+	Cầu nối giữa khách hàng đến Dev
+
+Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give intruction to Dev team.

@@ -22,14 +22,6 @@ Quy Trình (các quy trình để đảm bảo thỏa mãn các quy định)
 
 
 
-
-
-
-
-
-
-
-
 **Risk**
 **Communicate** 
 **Quality** 
@@ -71,9 +63,6 @@ Phân tích (phản ảnh lại từ dự án)
 
 
 
-
-
-
 ### Project Scope and Planning
 Phân biệt những việc cần làm và không cần làm
 Timeline
@@ -92,8 +81,9 @@ Quality
 
 Methodology phương pháp (Agile, Scrum)
 DevOps (Hiểu hệ thống và công nghệ) - developer, operation
-+ quản trị hệ thống 
-+ quản lý đội Dev vs System được.
++ ? Người vận hành hệ thống
+	+ Quản trị hệ thống 
+	+ Quản lý đội Dev vs hệ thống được.
 
 Project Scope sử dụng WBS
 Ví dụ cho 1 quán caffee
@@ -120,7 +110,6 @@ Collect requirement
 Thu thập nhu cầu, điều kiện.
 Scope definition
 Định nghĩa dự án. Dùng WBS
-
 + ! Cả team họp để hiểu ý của nhau. 
 
 + ! 1 dự án không thành công chủ yếu đến từ xác định Scope sai, Planning sai. Dẫn đến dự án pải thay đổi giữa chừng và thất bại.

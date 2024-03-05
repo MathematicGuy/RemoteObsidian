@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dee40294ddbb604b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Yrs Science Research Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM My Project.md",
+                "file": "2nd Yrs Science Research Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM My Project.md",
+                "file": "2nd Yrs Science Research Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM My Project.md"
+                "file": "2nd Yrs Science Research Project.md"
               }
             }
           },
@@ -210,16 +223,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b186004ed34054d",
+  "active": "edad8b947fbc1382",
   "lastOpenFiles": [
-    "2nd Yrs Science Research Project.md",
-    "IT_PM My Project.md",
-    "Images/Pasted image 20240305143954.png",
     "IT Project Management.md",
-    "IT_PM INTRO.md",
+    "IT_PM My Project.md",
     "IT_PM Part 1.md",
-    "Personal/Language Learning/German Vocabulary.md",
+    "2nd Yrs Science Research Project.md",
+    "Science Research Notes.md",
+    "IT_PM INTRO.md",
+    "Requirement Specifications Terms.md",
+    "Admin RS demo.md",
+    "CodeGrade Demo.md",
+    "Essenttial Items to prepare before designing a website.md",
+    "Webinar Snippet -  Grading code with ChatGPT-4.md",
+    "SR BE.md",
+    "SR FE.md",
+    "SR Front-End Requirement.md",
+    "Science Research Planning.md",
+    "Science Research User Requirement.md",
+    "Science Research - Design and Recommended Languages.md",
+    "Simplified User Workflow.md",
     "Todo.md",
+    "Images/Pasted image 20240305143954.png",
+    "Personal/Language Learning/German Vocabulary.md",
     "Circle Calculator WebApp documentation.md",
     "Web API Project.md",
     "Web API Note.md",
@@ -234,19 +260,7 @@
     "Images/Pasted image 20240304152514.png",
     "Images/Pasted image 20240304152433.png",
     "Images/Pasted image 20240304151405.png",
-    "SDA HW1.md",
     "Images/Pasted image 20240304095729.png",
-    "WebDev/WebDev_Learn/Frontend.md",
-    "Pokemon Reviewer WebApp.md",
-    "FrontEnd/Docker.md",
-    "CI_CD.md",
-    "Science Research Notes.md",
-    "Stakeholder Identification.md",
-    "Personal/Language Learning/German Grammar.md",
-    "Common German Mistake.md",
-    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "Science Research Planning.md",
-    "Admin RS demo.md",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
