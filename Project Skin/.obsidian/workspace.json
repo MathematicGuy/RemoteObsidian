@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c324ce0f28633011",
+        "id": "25c76baacdfbc23f",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6e0b29c29fea78",
+            "id": "8296da7ed9300da1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c6cf900db7e53e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -183,14 +197,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c6e0b29c29fea78",
+  "active": "c6cf900db7e53e83",
   "lastOpenFiles": [
+    "Todo.md",
     "Circle Calculator WebApp documentation.md",
     "Web API Project.md",
     "Web API Note.md",
     "System Administration Database.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Todo.md",
     "SDA HW2.md",
     "Images/Pasted image 20240304152635.png",
     "Images/Pasted image 20240304152618.png",
