@@ -581,7 +581,7 @@ Erdbeeren strawberries
 Zusammen  together 
 Hair haare
 Gitarre guitar
-Sitze seats
+Sitz seats
 
 Vielen Dank thank you very much 
 gern geschehen you're welcome 
@@ -1075,6 +1075,7 @@ Größe size
 Welche which
 	Frau Elsa, welche Größe suchen Sie ?
 		welche Größe suchen sie  - what size are you looking for 
+	Herr Mille, welche Größe suchen Sie
 
 Die Schuhe
 der Aufzug - the elevator
@@ -1135,6 +1136,7 @@ Genau exactly
 	ja, genau - yes exactly
 Uhr  o'clock
 Spät  late (Später - later)
+	du kommst immer zu spät
 
 (eine) Verspätung
 Gibt - is

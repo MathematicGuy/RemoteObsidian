@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "6715f16c76c6c8d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematic  for Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41e4acaed9d0c9a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Numpy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "daf174fb94f7a1b1",
             "type": "leaf",
             "state": {
@@ -56,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eca3944595994b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solving linear systems 3 variables with numpy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear system as Matrix using Numpy.md",
+                "file": "Solving linear systems 3 variables with numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear system as Matrix using Numpy.md",
+                "file": "Solving linear systems 3 variables with numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear system as Matrix using Numpy.md"
+                "file": "Solving linear systems 3 variables with numpy.md"
               }
             }
           },
@@ -199,25 +187,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daf174fb94f7a1b1",
+  "active": "eca3944595994b89",
   "lastOpenFiles": [
-    "introduction to numpy array.md",
+    "Mathematic  for Machine Learning.md",
+    "Solving linear systems 3 variables with numpy.md",
+    "Image/Pasted image 20240305014744.png",
+    "Image/Pasted image 20240305013637.png",
+    "Image/Pasted image 20240305013129.png",
+    "Image/Pasted image 20240305013038.png",
+    "Image/Pasted image 20240305012840.png",
+    "Machine Learning.md",
+    "Image/Pasted image 20240305005822.png",
+    "Image/Pasted image 20240305005714.png",
+    "Image/Pasted image 20240305005652.png",
+    "Image/Pasted image 20240305005506.png",
+    "Image/Pasted image 20240305005002.png",
     "Linear system as Matrix using Numpy.md",
     "Numpy.md",
-    "Machine Learning.md",
+    "introduction to numpy array.md",
     "Introduct to Numpy arrays.md",
-    "Mathematic  for Machine Learning.md",
     "Learning Note.md",
-    "Image/Pasted image 20240304130756.png",
-    "Image/Pasted image 20240304130713.png",
-    "Image/Pasted image 20240304130321.png",
-    "Image/Pasted image 20240304130213.png",
-    "Image/Pasted image 20240304130118.png",
-    "Image/Pasted image 20240304125744.png",
-    "Image/Pasted image 20240304125538.png",
-    "Image/Pasted image 20240304125328.png",
-    "Image/Pasted image 20240304125155.png",
-    "Image/Pasted image 20240304125142.png",
     "Algorithm Problem.md",
     "AI Learning Plan.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
@@ -237,7 +226,6 @@
     "Why Machine Learning.md",
     "LLM (Large Language Model).md",
     "What Is AI.md",
-    "AI For Everyone.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

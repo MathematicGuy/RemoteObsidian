@@ -24,7 +24,7 @@ feature x: 2,4
 Complete: Non-singular
 all rest: singular
 ![[Pasted image 20240304114630.png]]
-3 different type -> non-singular and a complete system
+3 different type so it non-singular and a complete system
 all with more than 1 black -> redundant
 black dog and white dog -> contracdictory (still -> singular)
 	just 1 dog with 2 type, and 1 bird
@@ -89,8 +89,8 @@ print(lin_spaced_arr)
 **Determinant (định thức)** - từ 1 cth => đc nhiều coth 
 ![[Pasted image 20240304125155.png]]
 
-Singular - 0
-Non-Singular - 1
+Singular - 0 (singular are 0) - Because it just itself, and by minus it = 0
+Non-Singular - 1. 2 different rows value minus eachother cannot be 0. 
 ![[Pasted image 20240304125328.png]]
 Therefore we can pointed out
 ![[Pasted image 20240304125538.png]]
@@ -121,6 +121,67 @@ Subtract the other way around
 Assignment (Solved)
 = 0 -> Singular. Otherwise non-singular
 ![[Pasted image 20240304130713.png]]
++ Singular Matrix have Dependent Row (Determinant = 0)
++ Non-Singular Matrix have Linearly Independent rows. (Determinant = 6)
+
 example answer for the 1st one. 
 ![[Pasted image 20240304130756.png]]
 
+![[Pasted image 20240305014744.png]]
+This is dependant because the 1st rows is just the 3rd row - the 2nd row then * 2  
+> 3rd - 2nd = (2a, 2b, 2c) then divided by 2 we have a, b, c which is the first row.
+ 
+
+Divide coefficient of a in both equation. the 1st divided to t, the 2nd divided to 4
+![[Pasted image 20240305001911.png]]
+
+![[Pasted image 20240305002539.png]]
+Can freely choose X to find a and b
+![[Pasted image 20240305002555.png]]
+
+![[Pasted image 20240305002803.png]]
+
+
+
+![[Pasted image 20240305002849.png]]
+System is Dependant -> Singular 
+(Các hàng tự suy ra được nhau -> infinite solution)
+
+### Elimination method
+*Gaussian Elimination*
+(at the 3rd system. THat not a - b + 2c that a + b + 2c. It just a visual blunder)
++ Isolate a mean there are only 1 line with a in the system. The same with Isolate b by remove the other b from the 3rd row.
+![[Pasted image 20240305003027.png]]
+
+![[Pasted image 20240305004343.png]]
+
+![[Pasted image 20240305004447.png]]
+And that how we get the Point 3 plane crossed.
+![[Pasted image 20240305005002.png]]
+
+Matrix row-reduction (ma trận bậc thang rút gọn)
++ ? The Intermediate System are the System after Gaussian Elimination Process.
+![[Pasted image 20240305005506.png]]
+> Row echelon form - hình thức cấp bậc hàng
+
+![[Pasted image 20240305005652.png]]
+
+
+For 0. The Row Echelon form is itself
+![[Pasted image 20240305005714.png]]
+
++ Can have all 1 or 0 at the diagnol. 
++ Below the diagnol everything are 0. above 0 are 0
+![[Pasted image 20240305005822.png]]
+
+
+Row operations that preserve singularity
++ By switching the rows you're subtracting are now subtract the other row.
+![[Pasted image 20240305012840.png]]
+
+![[Pasted image 20240305013038.png]]
+
+
+![[Pasted image 20240305013129.png]]
+
+[[Solving linear systems 3 variables with numpy]]

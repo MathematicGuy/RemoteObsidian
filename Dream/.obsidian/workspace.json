@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f485397d889f31c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reason why you not understand what they understand.md",
+                "file": "Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reason why you not understand what they understand.md",
+                "file": "Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reason why you not understand what they understand.md"
+                "file": "Goals.md"
               }
             }
           },
@@ -177,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60386fbb5a4893d9",
+  "active": "5f485397d889f31c",
   "lastOpenFiles": [
-    "Happiness/Identify my Weakness.md",
     "Reason why you not understand what they understand.md",
+    "Goals.md",
+    "Happiness/Identify my Weakness.md",
     "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
     "Image/Pasted image 20240227195721.png",
     "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
@@ -213,7 +227,6 @@
     "Learning How To Learn.md",
     "Productivity & Improvement/Mindset.md",
     "My Life/Procrastinate (ADHD).md",
-    "Productivity & Improvement/Studying Less.md",
     "Image/books.png",
     "Social",
     "How To",
