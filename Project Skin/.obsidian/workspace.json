@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98f76cee1e7b5422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Yrs Mid-Final Term Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turtorial Resources.md",
+                "file": "2nd Yrs Mid-Final Term Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turtorial Resources.md",
+                "file": "2nd Yrs Mid-Final Term Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turtorial Resources.md"
+                "file": "2nd Yrs Mid-Final Term Project.md"
               }
             }
           },
@@ -197,11 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9399c2dd68fb1975",
+  "active": "98f76cee1e7b5422",
   "lastOpenFiles": [
-    "2nd Yrs Mid-Term Project.md",
-    "WebDev/WebDev_Learn/Backend.md",
     "Turtorial Resources.md",
+    "2nd Yrs Mid-Final Term Project.md",
+    "WebDev/WebDev_Learn/Backend.md",
     "Why Web APIs are Essential.md",
     "Images/Pasted image 20240305205013.png",
     "What is Unit & How can it help.md",
