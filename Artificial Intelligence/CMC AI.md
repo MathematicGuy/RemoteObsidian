@@ -59,3 +59,4 @@ Dưới đây là một số đặc điểm chính của tác tử:
 Xây dựng hthong hỏi đáp hỗ trợ học tập dựa trên tri thức.
 
 
+Cho 1 Ma Trận kích thước. Trong đó đặt các số 0 hoặc 1. Hãy kiểm tra có tồn tại đg đi giữa 2 ô (x1, y1) -> (x2, y2) hay không. Đường đi đc hiểu là gồm 1 dãy các ô liên tiếp kề cạnh mà chỉ chứa số 0.

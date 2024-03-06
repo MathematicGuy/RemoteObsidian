@@ -361,7 +361,11 @@ System 4
 ### Calculate Row Echelon form to get System Rank  
 + ? Is there any simplier way to calc the rank ? Yes, by using Row Echelon form Matrix
 ![[Pasted image 20240306110029.png]]
-+ The last matrix divive to it-self
+1) Divide all to if coeffient
+2) Subtract the 1st equ from the 2nd equ to get the 3rd equ
+3) Repalce the 2nd equ with  the 3rd equ .
++ Because -0.95 is the only number beside 0 so divide all to -0.95.  
+
 
 **Singular Matrix**
 ![[Pasted image 20240306110206.png]]
@@ -386,11 +390,13 @@ From the total 1 in diagnol -> the Rank of the system
 ![[Pasted image 20240306111142.png]]
 
 + ? The stars represent numbers that could be zero or non-zero, it doesn't matter.
++ ? Pivot: the number of the rows. Like 2 in the 1st row
++ ! Every number above the pivot must be zero
 ![[Pasted image 20240306111815.png]]
 
 ![[Pasted image 20240306111949.png]]
 
-+ $ Another way is to substract other rows to row 1. (Row 3 - Row 1) and (Row 2 - Row 1)
++ $ Another way is to **Substract Other Rows to Row 1.** (Row 3 - Row 1) and (Row 2 - Row 1)
 ![[Pasted image 20240306112035.png]]
 
 ![[Pasted image 20240306112235.png]]
@@ -399,3 +405,38 @@ Another example for Singular matrix (parallel)
 ![[Pasted image 20240306112306.png]]
 
 ![[Pasted image 20240306113509.png]]
+1) subtract to the 1st equ
+2) Singular matrixes -> subtract 2nd & 3rd tow the 1st row then subtract the 3rd row to the second row until it reach 1. 
+
+
+![[Pasted image 20240306171144.png]]
+
+
+![[Pasted image 20240306171232.png]]
++ One the 3rd Step, if there're any non-zero number above it multiply that number with the pivot below it then subtract the multiplied row to that row
+	Ex: If the 1st row have a 5 above row2 pivot.
+	(5 * row2) then - row1
+**Another Example**
+![[Pasted image 20240306171726.png]]
++ ? Function you can use: 
+	Subtract the 1st row to the row below it. (Ex: 1st row - 2nd row)
+	Multiply a value to a row (below the 1st row) and adding it to the 1st row.
++ $ Goal: **Making all value above the pivot (1) become zero**. And **All the value below it**
+
+
+![[Pasted image 20240306172024.png]]
+Using a studied method before. I can ignore all the constant (1, -2, -1) and replace them with 0. 
+
+#### Gaussian Elimination Algorithm
+
+Augmented matrix (turn function into matrix)
+![[Pasted image 20240306172655.png]]
+
+**1st Part: Reduce the matrix using Gaussian Elimination like normal**
++ Divided all to the coefficient of R1.
++ From the 1st Row * n to Subtract to the 1st row. To Convert the current row into 0
++ 
+
+**2nd Part: Back Substitution** 
+R2 - R3
+R1 - R3
