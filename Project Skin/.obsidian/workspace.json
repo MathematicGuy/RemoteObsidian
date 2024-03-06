@@ -26,8 +26,13 @@
             "id": "2a9713ecadd090ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md"
+              }
             }
           },
           {
@@ -190,6 +199,7 @@
   },
   "active": "2a9713ecadd090ec",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "Personal/Good for LATER.md",
     "Get all wifi password.md",
@@ -217,7 +227,6 @@
     "Essenttial Items to prepare before designing a website.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
     "SR BE.md",
-    "SR FE.md",
     "Images/Pasted image 20240305143954.png",
     "Images/Pasted image 20240304152635.png",
     "Images/Pasted image 20240304152618.png",

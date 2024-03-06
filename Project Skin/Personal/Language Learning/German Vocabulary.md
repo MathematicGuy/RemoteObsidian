@@ -158,7 +158,7 @@ heiB hot (hot)
 lecker delicious
 
 ei the egg
-mineralwasser mineral water
+ein mineralwasser mineral water
 
 Hier here
 
@@ -1190,3 +1190,33 @@ Lieber prefer
 Ich möchte später italienisch essen - I would like to eat Italian food later
 
 Ich möchte später einen Salatz essen 
+Ein Wasser für den Hund, und für Sie.
+
+Rotwein red wine
+Trinken Drink
+Apfelschorle - sparkling apple juice
+Glas glass
+Mich me
+	Für mich ein Glas Rotwein - for me a glass of red wine
+	Für mich ein Glas Milch - for me a glass of milk
+
+die Suppe the soup  
+	Ich suche eine Suppe und ein Fleisch
+Guten Appetit - Enjoy your meal
+Ich essen gern pizza - I like to eat pizza
+Bestellen order
+	Was möchten Sie Bestellen
+
+Zucker Sugar
+Eis ice cream
+	Ich möchte den Obstsalat mit Eis - I would like the fruit salat with ice cream
+Ein Nachtisch dessert
+	Möchtst du einen Nachtisch
+Apfelkuchen apple cake
+	Am Wochenende esse Ich oft Apfelkuchen - I often eat apple pie on the weekend
+Ohne without
+	Ink trinke Kaffe ohne Milch 
+	+ ? Ich möchte ein Wasser ohne Zucker trinken - I would like to drink water without sugar (Why use ein in this sentence?)
+Obstsalat - fruit salad
+süß sweet
+	Ist der Nachtisch mit Sechs Kilo Zucker zu süß
