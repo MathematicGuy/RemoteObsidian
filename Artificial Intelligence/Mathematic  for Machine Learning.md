@@ -4,7 +4,23 @@
 
 ![[Pasted image 20240304110252.png]]
 
-windturbi
+### Matrix Presentation
+```
+[ 4 -3  1 | -10]
+[ 2  1  3 |  0 ]
+[-1  2 -5 |  17]
+```
++ **Coeficients:** The numbers before the variables (x, y, z) are called coefficients. They tell you how much each variable contributes to the result on the right side of the equation.
+	
+	- For example, in the first equation `4x - 3y + z = -10`, the coefficient of `x` is 4, meaning that for every change of 1 in the value of `x`, the left side of the equation changes by 4.
+	
+- **Constants:** The numbers on the **right side of the equations (-10, 0, 17) are the constants**. They represent the target values that each equation must equal.
+    
+- **Variables:** The letters (x, y, z) are the variables (the unknowns) we are trying to solve for. Our goal is to find a combination of values for x, y, and z that satisfy all three equations simultaneously
+	
+- **Augmented Column:** The vertical line with the constants on the right side creates the Augmented Matrix. It separates the coefficients of the variables from the constants in the equations.
+
+
 ![[Pasted image 20240304110413.png]]
 w are the same
 y are different
@@ -121,8 +137,8 @@ Subtract the other way around
 Assignment (Solved)
 = 0 -> Singular. Otherwise non-singular
 ![[Pasted image 20240304130713.png]]
-+ Singular Matrix have Dependent Row (Determinant = 0)
-+ Non-Singular Matrix have Linearly Independent rows. (Determinant = 6)
++ **Singular Matrix (det(A) = 0)** have Dependent Row (Determinant = 0)
++ **Non-Singular Matrix (det(A) ≠ 0).** have Linearly Independent rows. (Determinant = 6)
 
 example answer for the 1st one. 
 ![[Pasted image 20240304130756.png]]
@@ -184,4 +200,84 @@ Row operations that preserve singularity
 
 ![[Pasted image 20240305013129.png]]
 
-[[Solving linear systems 3 variables with numpy]]
+## Chapter Summary
+
+### Singular and Non-singular in Matrixes
+
+**Singular Matrix**
+
+- **Definition:** **A square matrix** (meaning it has the same number of rows and columns) is considered singular if its determinant (a specific value calculated from its elements) is equal to zero (det(A) = 0).
+- **Properties:** (0 is still zero no matter what)
+    - **Non-invertible:** A singular matrix does not have an inverse. The inverse of a matrix allows you to "undo" its multiplication with another matrix. Because of a determinant of zero, the inverse operation cannot be defined for singular matrices.
+    - **Dependent Rows/Columns:** A singular matrix often indicates that its rows or columns are linearly dependent. This means one row (or column) can be expressed as a linear combination of the other rows (or columns).
+
+
+**Non-Singular Matrix**
+
+- **Definition:** A square matrix is non-singular if its determinant is not equal to zero (det(A) ≠ 0).
+	
+- **Properties:**
+	- **Invertible:** A non-singular matrix has an inverse. This allows you to solve systems of linear equations using techniques like Gaussian elimination or Cramer's rule.
+	
+    - **Independent Rows/Columns:** The rows and columns of a non-singular matrix are typically linearly independent. This means no row (or column) can be created from a linear combination of the others.
+	
+- **Geometric Interpretation (if applicable):** In 2D, a non-singular matrix represents a transformation that scales or rotates a shape without collapsing it. In 3D, it represents a transformation that scales, rotates, or reflects a shape without collapsing it into a lower dimension.
+
+```ad-conclusion
+**How They Affect Systems of Linear Equations**
+
+- **Singular Matrix:** If the coefficient matrix in a system of linear equations is singular, then:
+    - There might be no solution (inconsistent system).
+    - There might be infinitely many solutions (dependent system).
+- **Non-Singular Matrix:** If the coefficient matrix is non-singular, then there exists a unique solution to the system of linear equations.
+```
+### Solution and Determinant of a Matrix
+
+> Given Matrix A
+```
+4x - 3y + z  = -10
+2x + y  + 3z = 0
+-x + 2y - 5z = 17
+```
+
+**Solution of a Matrix**
+
+- **Meaning:** A solution to a system of linear equations represented by a matrix is a set of values for the **variables that satisfy all the equations simultaneously.**
+	
+- **Existence:** A system of equations may have:
+    - **A unique solution** (a single set of values for the variables)
+    - **Infinitely many solutions** (2 lines coincide/at the same position)
+    - **No solution** (parallel)
+- **Finding Solutions:** Methods like Gaussian elimination, Cramer's rule, and matrix inversion are used to find the solution(s) to a system of equations.
+	
++  Solution of Matrix A : `[1, 4, -2]`  
+
+
+**Determinant of a Matrix**
+
+- **Meaning:** The determinant of a square matrix is a single scalar value calculated from the elements of the matrix. It has several geometric and algebraic interpretations.
+	
+- **Geometric Significance:**
+    - The magnitude of the determinant indicates the scaling factor by which the matrix transforms areas (2D) or volumes (3D).
+    - A zero determinant means the matrix collapses space into a lower dimension.
+	
+- **Algebraic Significance:**
+    - **Matrix Invertibility:** A matrix is invertible (has an inverse) only if its determinant is non-zero.
+    - **Linear Independence:** A system of equations has a unique solution if and only if the determinant of its coefficient matrix is non-zero.
+	
++ Determinant of matrix A: -60.00
+
+**Key Differences**
+
+| Feature     | Solution                                                              | Determinant                                                         |
+| ----------- | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| What is it? | A set of values for the variables that satisfy the equations          | A single scalar value calculated from matrix elements               |
+| Represents  | The point(s) where lines/planes/hyperplanes intersect (if they exist) | Geometric scaling factor, matrix invertibility, linear independence |
+| How to find | Gaussian elimination, Cramer's Rule, matrix inversion                 | Specific formulas based on matrix dimensions                        |
+**In Summary**
+
+- The solution of a matrix tells you _if_ and _where_ the equations represented by the matrix intersect.
+	![[Pasted image 20240304120838.png]]
+- The determinant of a matrix tells you about the properties of the transformation the matrix represents and if a unique solution even exists.
+
+

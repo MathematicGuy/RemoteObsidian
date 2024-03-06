@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2317da9005093bb9",
+        "id": "67ef9050200d4a06",
         "type": "tabs",
         "children": [
           {
-            "id": "b9df31de7f5c6abd",
+            "id": "cea49903366db20c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,19 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "9399c2dd68fb1975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turtorial Resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -196,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9df31de7f5c6abd",
+  "active": "cea49903366db20c",
   "lastOpenFiles": [
     "Turtorial Resources.md",
     "2nd Yrs Mid-Final Term Project.md",

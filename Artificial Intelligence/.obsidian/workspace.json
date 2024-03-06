@@ -27,26 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear system as Matrix using Numpy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eca3944595994b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solving linear systems 3 variables with numpy.md",
+                "file": "Mathematic  for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solving linear systems 3 variables with numpy.md",
+                "file": "Mathematic  for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solving linear systems 3 variables with numpy.md",
+                "file": "Mathematic  for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solving linear systems 3 variables with numpy.md"
+                "file": "Mathematic  for Machine Learning.md"
               }
             }
           },
@@ -187,10 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eca3944595994b89",
+  "active": "daf174fb94f7a1b1",
   "lastOpenFiles": [
-    "Mathematic  for Machine Learning.md",
     "Solving linear systems 3 variables with numpy.md",
+    "Mathematic  for Machine Learning.md",
+    "Linear system as Matrix using Numpy.md",
     "Image/Pasted image 20240305014744.png",
     "Image/Pasted image 20240305013637.png",
     "Image/Pasted image 20240305013129.png",
@@ -202,7 +191,6 @@
     "Image/Pasted image 20240305005652.png",
     "Image/Pasted image 20240305005506.png",
     "Image/Pasted image 20240305005002.png",
-    "Linear system as Matrix using Numpy.md",
     "Numpy.md",
     "introduction to numpy array.md",
     "Introduct to Numpy arrays.md",
