@@ -51,5 +51,4 @@ Invoke-WebRequest -Uri http://www.figma.com/figjam -Method Head
 
 [[My AI List]]
 
-
 [Create QR Code using Excel](https://www.instagram.com/reel/C2U6a34reJE/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 

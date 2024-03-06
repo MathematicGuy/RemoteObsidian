@@ -1,8 +1,16 @@
+**Interactive tool**
+[3x3 Matrix](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/ZR44d/interactive-tool-system-of-equations-as-planes-3x3) 
+[Linear System with 2 varible](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/0u0Uy/interactive-tool-graphical-representation-of-linear-systems-with-2-variables)
+[Linear Systems with 3 variables](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/ma7Rv/interactive-tool-graphical-representation-of-linear-systems-with-3-variables)
+
+---
+
 + obscure: mơ hồ
 
 ![[Pasted image 20240304110152.png]]
 
 ![[Pasted image 20240304110252.png]]
+
 
 ### Matrix Presentation
 ```
@@ -175,6 +183,7 @@ System is Dependant -> Singular
 And that how we get the Point 3 plane crossed.
 ![[Pasted image 20240305005002.png]]
 
+## Solving system of Linear equations: Elimination 
 Matrix row-reduction (ma trận bậc thang rút gọn)
 + ? The Intermediate System are the System after Gaussian Elimination Process.
 ![[Pasted image 20240305005506.png]]
@@ -204,17 +213,17 @@ Row operations that preserve singularity
 
 ### Singular and Non-singular in Matrixes
 
-**Singular Matrix**
+#### **Singular Matrix**
 
-- **Definition:** **A square matrix** (meaning it has the same number of rows and columns) is considered singular if its determinant (a specific value calculated from its elements) is equal to zero (det(A) = 0).
+- ? **Definition:** **A square matrix** (meaning it has the same number of rows and columns) is considered singular if its determinant (a specific value calculated from its elements) is equal to zero (det(A) = 0).
 - **Properties:** (0 is still zero no matter what)
     - **Non-invertible:** A singular matrix does not have an inverse. The inverse of a matrix allows you to "undo" its multiplication with another matrix. Because of a determinant of zero, the inverse operation cannot be defined for singular matrices.
     - **Dependent Rows/Columns:** A singular matrix often indicates that its rows or columns are linearly dependent. This means one row (or column) can be expressed as a linear combination of the other rows (or columns).
 
 
-**Non-Singular Matrix**
+#### **Non-Singular Matrix**
 
-- **Definition:** A square matrix is non-singular if its determinant is not equal to zero (det(A) ≠ 0).
+- ? **Definition:** A square matrix is non-singular if its determinant is not equal to zero (det(A) ≠ 0).
 	
 - **Properties:**
 	- **Invertible:** A non-singular matrix has an inverse. This allows you to solve systems of linear equations using techniques like Gaussian elimination or Cramer's rule.
@@ -223,7 +232,7 @@ Row operations that preserve singularity
 	
 - **Geometric Interpretation (if applicable):** In 2D, a non-singular matrix represents a transformation that scales or rotates a shape without collapsing it. In 3D, it represents a transformation that scales, rotates, or reflects a shape without collapsing it into a lower dimension.
 
-```ad-conclusion
+```ad-summary
 **How They Affect Systems of Linear Equations**
 
 - **Singular Matrix:** If the coefficient matrix in a system of linear equations is singular, then:
@@ -233,16 +242,9 @@ Row operations that preserve singularity
 ```
 ### Solution and Determinant of a Matrix
 
-> Given Matrix A
-```
-4x - 3y + z  = -10
-2x + y  + 3z = 0
--x + 2y - 5z = 17
-```
+#### **Solution of a Matrix**
 
-**Solution of a Matrix**
-
-- **Meaning:** A solution to a system of linear equations represented by a matrix is a set of values for the **variables that satisfy all the equations simultaneously.**
+- ? **Meaning:** A solution to a system of linear equations represented by a matrix is a set of values for the **variables that satisfy all the equations simultaneously.**
 	
 - **Existence:** A system of equations may have:
     - **A unique solution** (a single set of values for the variables)
@@ -250,12 +252,19 @@ Row operations that preserve singularity
     - **No solution** (parallel)
 - **Finding Solutions:** Methods like Gaussian elimination, Cramer's rule, and matrix inversion are used to find the solution(s) to a system of equations.
 	
-+  Solution of Matrix A : `[1, 4, -2]`  
+
+Given Matrix A
+```
+4x - 3y + z  = -10
+2x + y  + 3z = 0
+-x + 2y - 5z = 17
+```
+> Solution of Matrix A : `[1, 4, -2]`  
 
 
-**Determinant of a Matrix**
+#### **Determinant of a Matrix**
 
-- **Meaning:** The determinant of a square matrix is a single scalar value calculated from the elements of the matrix. It has several geometric and algebraic interpretations.
+- ? **Meaning:** The determinant of a square matrix is a single scalar value calculated from the elements of the matrix. It has several geometric and algebraic interpretations.
 	
 - **Geometric Significance:**
     - The magnitude of the determinant indicates the scaling factor by which the matrix transforms areas (2D) or volumes (3D).
@@ -264,20 +273,129 @@ Row operations that preserve singularity
 - **Algebraic Significance:**
     - **Matrix Invertibility:** A matrix is invertible (has an inverse) only if its determinant is non-zero.
     - **Linear Independence:** A system of equations has a unique solution if and only if the determinant of its coefficient matrix is non-zero.
-	
-+ Determinant of matrix A: -60.00
 
-**Key Differences**
+ 
+##### **Example 1: Scaling**
+
+- **Matrix:**
+```
+    A = [[2 0]
+         [0 3]]
+```
+- **Determinant:** det(A) = (2 * 3) - (0 * 0) = 6
+- **Transformation:** Imagine this **matrix acting on a unit square**. It stretches the square along the x-axis by a factor of 2 and along the y-axis by a factor of 3. The determinant, 6, r**epresents the total scaling of the area (2 * 3 = 6).**
+- **Unique Solutions:** Because the determinant is **non-zero**, we know any system of equations represented by this **matrix would have a unique solution.**
+
+##### **Example 2: Reflection**
+
+- **Matrix:**
+```
+	B = [[-1 0]
+		 [ 0 1]]
+```
+- **Determinant:** det(B) = (-1 * 1) - (0 * 0) = -1
+- **Transformation:** This matrix **represents a reflection across the y-axis**. The negative determinant indicates this reflection involved. The magnitude, 1, tells us the area is unchanged.
+- **Unique Solutions:** Again, the **non-zero determinant ensures a unique solution** for any system of equations using this matrix.
+
+##### **Example 3: Collapse (Zero Determinant)**
+
+- **Matrix:**
+```
+	C = [[2 4]
+		 [1 2]] 
+```
+- **Determinant:** det(C) = (2 * 2) - (4 * 1) = 0
+- **Transformation:** This **matrix would collapse a square into a line**. This happens because the rows are multiples of each other (linearly dependent).
+- **Solutions:** A system of equations represented by this matrix might have **no solutions (if the lines are parallel) or infinitely many solutions (if the lines overlap).**
+
+#### **Key Differences**
+(Solution: where they crosses)
+(Determinant: How they scale)
 
 | Feature     | Solution                                                              | Determinant                                                         |
 | ----------- | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | What is it? | A set of values for the variables that satisfy the equations          | A single scalar value calculated from matrix elements               |
 | Represents  | The point(s) where lines/planes/hyperplanes intersect (if they exist) | Geometric scaling factor, matrix invertibility, linear independence |
 | How to find | Gaussian elimination, Cramer's Rule, matrix inversion                 | Specific formulas based on matrix dimensions                        |
+
+```ad-summary
 **In Summary**
 
 - The solution of a matrix tells you _if_ and _where_ the equations represented by the matrix intersect.
 	![[Pasted image 20240304120838.png]]
 - The determinant of a matrix tells you about the properties of the transformation the matrix represents and if a unique solution even exists.
+```
 
 
+## Row Echelon form and rank
+**Purpose**
+![[Pasted image 20240306103048.png]]
+**Soi**
+![[Pasted image 20240306103035.png]]
+
+The 2nd system have the 2nd equation similiar to the first one so its just 1 equation in total. 
+> So it just 1 piece of information -> rank 1
+
+The 1st System have 2 equation thus bring new piece of information. 2 Pieces total -> rank 2
+The 3rd system literally give nothing since a and b can be anything. Because it multiply to 0
+> ![[Pasted image 20240306103238.png]]![[Pasted image 20240306103858.png]]![[Pasted image 20240306104016.png]]
+>1) The set of solution are a point -> space = 0
+	if a information bring new info to the table -> no redundancy
+>2) The set of solution are a line -> space = 1
+>3) The set of solution are a plane since every point on the map are valid -> space = 2 (both 2D + 3D) 
+
++ ? equ ~ equation
++ ? PoI ~ Piece of Information
+
+System 1: 
+	All 3 equ show new PoI -> 3PoI -> rank 3
+System 2 
+	Have the 2nd equ as the average of (1st + 3rd) equation: (1st + 3rd) / 2
+	-> 2 PoI -> rank 2
+System 3 
+	The 1st equ tell you everything about the other 2 equ -> 1 PoI -> Rank 1
+System 4
+	All 3 Euq tell me nothing about a, b and c -> no PoI
+![[Pasted image 20240306105743.png]]
+
+### Calculate Row Echelon form to get System Rank  
++ ? Is there any simplier way to calc the rank ? Yes, by using Row Echelon form Matrix
+![[Pasted image 20240306110029.png]]
++ The last matrix divive to it-self
+
+**Singular Matrix**
+![[Pasted image 20240306110206.png]]
+No problem with being cannot 0/0. You can take 1 previous form as the final asnwer.
+```text
+[1  0.2]
+[0   0 ]
+```
+
++ ? The **Goal using Echelon form** is to **shorten all 2 equation and see how many information each equation give.** If any row (equation) contain all 0 -> obviously there is no information there. If there 1 or any number -> the row have 1 Information there
+From the total 1 in diagnol -> the Rank of the system 
+![[Pasted image 20240306110348.png]]
+
+```ad-info
+**Relationship Between Gaussian Elimination and Row Echelon**
+- **Gaussian elimination is the tool we use to achieve row echelon form.** Not the entire Row echelon. Think of it as the process of systematically organizing the matrix.
+--- 
+- **Row echelon form is the desired outcome of Gaussian elimination.** It provides a clear and efficient way to solve for the unknowns in a system of equations.
+```
+
+
+![[Pasted image 20240306111142.png]]
+
++ ? The stars represent numbers that could be zero or non-zero, it doesn't matter.
+![[Pasted image 20240306111815.png]]
+
+![[Pasted image 20240306111949.png]]
+
++ $ Another way is to substract other rows to row 1. (Row 3 - Row 1) and (Row 2 - Row 1)
+![[Pasted image 20240306112035.png]]
+
+![[Pasted image 20240306112235.png]]
+
+Another example for Singular matrix (parallel)
+![[Pasted image 20240306112306.png]]
+
+![[Pasted image 20240306113509.png]]

@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematic  for Machine Learning.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -175,22 +174,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daf174fb94f7a1b1",
+  "active": "845fe36388f832bc",
   "lastOpenFiles": [
-    "Solving linear systems 3 variables with numpy.md",
+    "Image/Pasted image 20240306112406.png",
     "Mathematic  for Machine Learning.md",
+    "Image/Pasted image 20240306112606.png",
+    "Image/Pasted image 20240306113509.png",
+    "Image/Pasted image 20240306113444.png",
+    "Image/Pasted image 20240306112306.png",
+    "Image/Pasted image 20240306112227.png",
+    "Image/Pasted image 20240306112235.png",
+    "Image/Pasted image 20240306112035.png",
+    "Image/Pasted image 20240306111949.png",
+    "Image/Pasted image 20240306111815.png",
+    "Solving linear systems 3 variables with numpy.md",
     "Linear system as Matrix using Numpy.md",
-    "Image/Pasted image 20240305014744.png",
-    "Image/Pasted image 20240305013637.png",
-    "Image/Pasted image 20240305013129.png",
-    "Image/Pasted image 20240305013038.png",
-    "Image/Pasted image 20240305012840.png",
     "Machine Learning.md",
-    "Image/Pasted image 20240305005822.png",
-    "Image/Pasted image 20240305005714.png",
-    "Image/Pasted image 20240305005652.png",
-    "Image/Pasted image 20240305005506.png",
-    "Image/Pasted image 20240305005002.png",
     "Numpy.md",
     "introduction to numpy array.md",
     "Introduct to Numpy arrays.md",
@@ -213,7 +212,6 @@
     "Grammary.md",
     "Why Machine Learning.md",
     "LLM (Large Language Model).md",
-    "What Is AI.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
