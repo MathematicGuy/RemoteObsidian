@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26d31cf1e0b78d00",
+        "id": "481ca820c6b3e7be",
         "type": "tabs",
         "children": [
           {
-            "id": "8237d7114b04f16f",
+            "id": "39aaed561f849773",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "2a9713ecadd090ec",
+            "id": "9efd6f4d0bc30d48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a9713ecadd090ec",
+  "active": "9efd6f4d0bc30d48",
   "lastOpenFiles": [
-    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Personal/Good for LATER.md",
     "Get all wifi password.md",
     "Turtorial Resources.md",

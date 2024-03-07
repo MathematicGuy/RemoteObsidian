@@ -389,6 +389,8 @@ From the total 1 in diagnol -> the Rank of the system
 
 ![[Pasted image 20240306111142.png]]
 
+
+**What Row Echelon Form look like in general** (0 below and 0 above)
 + ? The stars represent numbers that could be zero or non-zero, it doesn't matter.
 + ? Pivot: the number of the rows. Like 2 in the 1st row
 + ! Every number above the pivot must be zero
@@ -432,6 +434,7 @@ Using a studied method before. I can ignore all the constant (1, -2, -1) and rep
 Augmented matrix (turn function into matrix)
 ![[Pasted image 20240306172655.png]]
 
+[Row Echelon Form note](https://www.geeksforgeeks.org/row-echelon-form/)
 **1st Part: Reduce the matrix using Gaussian Elimination like normal**
 + Divided all to the coefficient of R1.
 + From the 1st Row * n to Subtract to the 1st row. To Convert the current row into 0
@@ -440,3 +443,16 @@ Augmented matrix (turn function into matrix)
 **2nd Part: Back Substitution** 
 R2 - R3
 R1 - R3
+
+
+![[Pasted image 20240307061600.png]]
++ ? Row full of zeroes in row echelon form
++ ? Constant in that row is zero
+	**Infinitely many solutions**
+
+![[Pasted image 20240307062001.png]]
++ ? Row full of zeroes in row echelon form
++ ? Constant in that row is not zero
+	**No solutions**
+
++ ? [[what does it mean to say - The solution for this system has 0 degrees of freedom.]]
