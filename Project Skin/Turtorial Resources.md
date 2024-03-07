@@ -1,5 +1,6 @@
 ## [[Why Web APIs are Essential]] 
-![[architecture.png]]
+![[Pasted image 20240307150331.png]]
+
 
 - **Tách biệt mối quan tâm:** API Web tách biệt giao diện người dùng của bạn (Ứng dụng web mà người dùng nhìn thấy) khỏi phần phụ trợ của bạn (cơ sở dữ liệu và logic). Điều này mang lại lợi ích:
     

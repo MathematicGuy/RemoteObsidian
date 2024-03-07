@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "051d8a7e7bc0c063",
+            "id": "314b2b2827000033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Web API Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Web API Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Web API Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "Web API Note.md"
               }
             }
           },
@@ -197,12 +197,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "051d8a7e7bc0c063",
+  "active": "314b2b2827000033",
   "lastOpenFiles": [
-    "Personal/Language Learning/German Vocabulary.md",
-    "Web API Note.md",
+    "Images/Pasted image 20240307150905.png",
     "Turtorial Resources.md",
+    "Web API Note.md",
+    "Images/Pasted image 20240307150331.png",
+    "Images/Pasted image 20240307144756.png",
+    "Images/ApplicationDbContext.cs",
+    "Images/Pasted image 20240307144422.png",
+    "Images/Pasted image 20240307143851.png",
+    "Images/Untitled.png",
+    "Learn Web API.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Personal/Good for LATER.md",
     "Get all wifi password.md",
     "2nd Yrs Mid-Final Term Project.md",
@@ -211,7 +219,6 @@
     "Images/Pasted image 20240305205013.png",
     "What is Unit & How can it help.md",
     "Images/architecture.png",
-    "Learn Web API.md",
     "Stakeholder Identification.md",
     "2nd Yrs Science Research Project.md",
     "Intergrate ChatGPT with WebApp.md",
@@ -226,15 +233,9 @@
     "CodeGrade Demo.md",
     "Essenttial Items to prepare before designing a website.md",
     "Webinar Snippet -  Grading code with ChatGPT-4.md",
-    "SR BE.md",
     "Images/Pasted image 20240305143954.png",
     "Images/Pasted image 20240304152635.png",
     "Images/Pasted image 20240304152618.png",
-    "Images/Pasted image 20240304152611.png",
-    "Images/Pasted image 20240304152555.png",
-    "Images/Pasted image 20240304152539.png",
-    "Images/Pasted image 20240304152514.png",
-    "Images/Pasted image 20240304152433.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
@@ -248,7 +249,6 @@
     "_Focus/This is my Life.canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
     "Personal/Programming Skill",
-    "_Focus/WebProject2023",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",
