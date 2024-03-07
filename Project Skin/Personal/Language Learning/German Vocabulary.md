@@ -403,6 +403,7 @@ Der Vegetatier Excercise
 
 Bahnof train station
 U Bahnstation subway station
+Die Station
 
 Markt market (Male - Der)
 + supermarkt
@@ -559,6 +560,12 @@ wirklich - really
 30 - dreißig
 	Er braucht zwei Fahrkarte diese wochenender (literaly wo-chen-ender)
 
+**Number Combination**
+fünfunddreißig Euro - Thirty five Euro
+	fünf-und-dreißig 
+fünfundzwanzig Euro - twenty five
+Achtundfünf - eighty eight1
+
 kostet - cost
 	 Wie viel kostet die sonnencreme
 	 Der sonn
@@ -579,7 +586,7 @@ Erdbeeren strawberries
 	acht kilogramm Erdbeeren
 
 ###### Excercise: Wo ist Beas Freundin
-Zusammen  together 
+Zusammen together 
 Hair haare
 Gitarre guitar
 Sitz seats
@@ -1112,7 +1119,7 @@ Fällt - Cancelled
 	Die zug Fällt aus - the train is cancelled
 	Der Zug Fällt aus, ich Möchte meine Fahrkarte Stornieren
 
-Zugtür - train door
+Die Zugtür - train door
 	Die Zugtür ist Hiten recht/links - the train door is in the back to the right/left
 
 Der Speisewagen - dining car
@@ -1182,6 +1189,7 @@ Kommt der Zug um vier oder um fünf Uhr? (check for word structure)
 
 Hunger hungry
 	Oh, habe du Hunger - oh, are you hungry
+	Ich habe Hunger (I have hungry) -> I am Hungry
 Griechisch greek
 Lieber prefer
 + Ich möchte lieber - I would prefer
@@ -1206,6 +1214,7 @@ Guten Appetit - Enjoy your meal
 Ich essen gern pizza - I like to eat pizza
 Bestellen order
 	Was möchten Sie Bestellen
+	Ich möchte ein Mineralwasser Bestellen - I would like to order an mineral water 
 
 Zucker Sugar
 Eis ice cream
@@ -1220,3 +1229,27 @@ Ohne without
 Obstsalat - fruit salad
 süß sweet
 	Ist der Nachtisch mit Sechs Kilo Zucker zu süß
+
+Getrennt separately (noun)
+	Zahlen Sie Getrennt - Are you paying separately
+
+Bar - cash (and Geld mean money)
+	Möchten Sie bar zahlen
+Zusammen - together
+	+ Hier ist die Rechnung, Zahlen Sie Zusammen - are you paying together
+	+ Das macht Zusammen Fünfundzwanzig Euro 
+		  That's a total of twenty-five euros
+	
+
+--- 
++ ! New Technique: Write German on Google Translate and paste the English translation here. Save time from re-writing what I already know. (Bc I have translate German in my head already)
+
+Italienisch / Griechisch (Italian / Greek)
+	Mochtest du Italienisch order Griechisch Essen 
+	Ich später Italienisch Essen - I would like to eat Italian food later
+
+Exercise
+Pommes french fry
+Gesund Healthy
+Schule School
+	In der Schule - in the 

@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "9efd6f4d0bc30d48",
+            "id": "051d8a7e7bc0c063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turtorial Resources.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turtorial Resources.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turtorial Resources.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turtorial Resources.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -197,13 +197,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9efd6f4d0bc30d48",
+  "active": "051d8a7e7bc0c063",
   "lastOpenFiles": [
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
+    "Web API Note.md",
+    "Turtorial Resources.md",
+    "Todo.md",
     "Personal/Good for LATER.md",
     "Get all wifi password.md",
-    "Turtorial Resources.md",
     "2nd Yrs Mid-Final Term Project.md",
     "WebDev/WebDev_Learn/Backend.md",
     "Why Web APIs are Essential.md",
@@ -211,7 +212,6 @@
     "What is Unit & How can it help.md",
     "Images/architecture.png",
     "Learn Web API.md",
-    "Web API Note.md",
     "Stakeholder Identification.md",
     "2nd Yrs Science Research Project.md",
     "Intergrate ChatGPT with WebApp.md",
