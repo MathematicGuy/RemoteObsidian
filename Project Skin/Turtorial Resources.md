@@ -6,10 +6,11 @@
      - **Phát triển độc lập:** Nhóm frontend và backend có thể làm việc song song.
      - **Khả năng mở rộng:** Mỗi phần có thể được điều chỉnh tỷ lệ độc lập tùy theo nhu cầu.
      - **Khả năng sử dụng lại:** API của bạn có thể phân phối dữ liệu đến các ứng dụng khác, không chỉ ứng dụng web của riêng bạn.
+	 
 - **Giao tiếp có cấu trúc:** API xác định "hợp đồng". Frontend và backend thống nhất về định dạng của yêu cầu và dữ liệu, đảm bảo tương tác suôn sẻ.
     
 - **Bảo mật:** Ứng dụng web của bạn không truy cập trực tiếp vào cơ sở dữ liệu. API cho phép bạn kiểm soát dữ liệu nào được hiển thị và cách truy cập dữ liệu đó.
-    
+
 
 **API: Cầu dữ liệu của bạn**
 
