@@ -34,7 +34,7 @@ ASP.NET is a framework using C#.
 + ? **Models:** This folder contains the model classes for your application. Model classes represent the data that your application works with. Your project has one model file, `ErrorViewModel.cs`.
 	Can be use to store Object which read and write data to the DB. 
 ![[Pasted image 20240307150905.png]]
-f
+
 
 + ? **Data (Optional):** This folder can be used to store data files or database access logic. Your project has a subfolder named `Migrations` which is likely used for database migrations with Entity Framework Core (a popular ORM for .NET).
 ![[Pasted image 20240307144422.png]]

@@ -47,23 +47,6 @@ demo: https://youtu.be/bIHyktT_GGs?si=Xg7Bfoe-NDHPN0ZS
 - **Security:** Take meticulous precautions preventing exam content leaks and cheating attempts.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-..
-..
-
 ### Project Phrase
 Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 
