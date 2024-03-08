@@ -50,3 +50,7 @@ Movie: The Imitation Game
 + Don't give lies to someone expected to. (???) 
 + ! "Deceive others by allowing them to believe they've deceived you."
 Movie also about Alan Turing: Codebreaker
+
+
+## Chapter 2: Symmetric Encryption
+

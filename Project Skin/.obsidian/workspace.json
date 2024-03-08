@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a256e958ea1faa74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md"
               }
             }
           },
@@ -183,13 +197,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e99556cbffefa07",
+  "active": "a256e958ea1faa74",
   "lastOpenFiles": [
+    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Turtorial Resources.md",
     "2nd Yrs Science Research Project.md",
     "Intergrate ChatGPT with WebApp.md",
-    "Todo.md",
     "Science Research - Design and Recommended Languages.md",
     "Science Research Planning.md",
     "SR Front-End Requirement.md",
