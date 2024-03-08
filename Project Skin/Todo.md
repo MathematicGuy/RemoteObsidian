@@ -4,7 +4,7 @@
 
 #Todo/Priority
 - [ ] Thiết kê Page cho WebApp dự án SR
-
+- [ ] Tr'c H học chúc các bạn ngày 8/
 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] https://www.youtube.com/watch?v=BfEjDD8mWYg

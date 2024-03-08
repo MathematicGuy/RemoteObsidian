@@ -1112,10 +1112,10 @@ Die Kreditkarter - the credit
 Zentrum - center
 Reise - trip / travel
 Reisezentrum - travel 
-Stornieren/Fällt - cancelled
+Stornieren - Cancelled **(Intentionally)**
 	Oma, Möchtest du deine Fahrkarte nach Rome Stornieren - granma, would you liek to cancell your ticket to Rome
 	Ja, ich möchte meine fahrkarte stornieren - yes, i would like to cancelled my ticket
-Fällt - Cancelled
+Fällt - Cancelled **(Accidentally or Without Planning)**
 	Die zug Fällt aus - the train is cancelled
 	Der Zug Fällt aus, ich Möchte meine Fahrkarte Stornieren
 

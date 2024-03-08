@@ -1,0 +1,2 @@
+- [ ] Study and Understand Numpy
+- [ ] Understand Echelon form in a deeper way

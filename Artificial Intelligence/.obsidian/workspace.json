@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "845fe36388f832bc",
+            "id": "d0f2d8d9d1f07212",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "To do List.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,22 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search Problems.md",
+                "file": "Mathematic  for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4565ab0372256f92",
+            "id": "6bafb2309e0df12b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Machine Learning.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematic  for Machine Learning.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -187,11 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4565ab0372256f92",
+  "active": "6bafb2309e0df12b",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
     "Mathematic  for Machine Learning.md",
+    "Machine Learning.md",
+    "To do List.md",
+    "Search Problems.md",
+    "Row Echelon Form Algorithm.md",
+    "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
     "Image/Pasted image 20240307062001.png",
     "Image/Pasted image 20240307061600.png",
     "Image/Pasted image 20240306172655.png",
@@ -201,7 +206,6 @@
     "Image/Pasted image 20240306171231.png",
     "Image/Pasted image 20240306171144.png",
     "CMC AI.md",
-    "Search Problems.md",
     "Harvard CS50’s Artificial Intelligence with Python.md",
     "Image/Pasted image 20240306112406.png",
     "Image/Pasted image 20240306112606.png",
@@ -224,8 +228,6 @@
     "My Research.md",
     "Generative AI (AI Sáng Tạo).md",
     "Grammary.md",
-    "Why Machine Learning.md",
-    "LLM (Large Language Model).md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

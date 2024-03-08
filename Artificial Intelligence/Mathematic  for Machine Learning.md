@@ -435,6 +435,7 @@ Augmented matrix (turn function into matrix)
 ![[Pasted image 20240306172655.png]]
 
 [Row Echelon Form note](https://www.geeksforgeeks.org/row-echelon-form/)
+[Row Echelon Form Algorithm](https://www.coursera.org/learn/machine-learning-linear-algebra/programming/XGw1g/gaussian-elimination/lab?path=%2Fnotebooks%2FC1W2_Assignment.ipynb)
 **1st Part: Reduce the matrix using Gaussian Elimination like normal**
 + Divided all to the coefficient of R1.
 + From the 1st Row * n to Subtract to the 1st row. To Convert the current row into 0
@@ -456,3 +457,4 @@ R1 - R3
 	**No solutions**
 
 + ? [[what does it mean to say - The solution for this system has 0 degrees of freedom.]]
+

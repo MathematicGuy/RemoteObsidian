@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a86bf8e1627b199",
+        "id": "19fe2353a526a134",
         "type": "tabs",
         "children": [
           {
-            "id": "5d15657af8c107a5",
+            "id": "6e99556cbffefa07",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6b97d2409ed560d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turtorial Resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turtorial Resources.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turtorial Resources.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turtorial Resources.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,13 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b97d2409ed560d7",
+  "active": "6e99556cbffefa07",
   "lastOpenFiles": [
-    "2nd Yrs Science Research Project.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Turtorial Resources.md",
+    "2nd Yrs Science Research Project.md",
     "Intergrate ChatGPT with WebApp.md",
     "Todo.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Science Research - Design and Recommended Languages.md",
     "Science Research Planning.md",
     "SR Front-End Requirement.md",
