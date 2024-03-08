@@ -54,3 +54,5 @@ Movie also about Alan Turing: Codebreaker
 
 ## Chapter 2: Symmetric Encryption
 
+Có bản tin -> khóa
+(khóa -> bản )
