@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "481ca820c6b3e7be",
+        "id": "93c9233fff953563",
         "type": "tabs",
         "children": [
           {
-            "id": "39aaed561f849773",
+            "id": "70a9cde7122930d0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "314b2b2827000033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web API Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35ef4dac41612ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science Research Planning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science Research Planning.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science Research Planning.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -210,12 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35ef4dac41612ae7",
+  "active": "70a9cde7122930d0",
   "lastOpenFiles": [
     "Science Research - Design and Recommended Languages.md",
+    "Science Research Planning.md",
     "SR Front-End Requirement.md",
     "SR Project WebApp Design.md",
-    "Science Research Planning.md",
     "Simplified User Workflow.md",
     "2nd Yrs Science Research Project.md",
     "SR FE.md",
