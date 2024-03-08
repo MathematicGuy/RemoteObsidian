@@ -56,3 +56,5 @@ Movie also about Alan Turing: Codebreaker
 
 Có bản tin -> khóa
 (khóa -> bản )
+
+Đại số -> dùng kí hiệu (x,y,z,...) để đại diện cho 1 thứ gì đấy
