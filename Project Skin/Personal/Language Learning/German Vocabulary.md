@@ -1200,9 +1200,17 @@ Ich möchte später italienisch essen - I would like to eat Italian food later
 Ich möchte später einen Salatz essen 
 Ein Wasser für den Hund, und für Sie.
 
-Rotwein red wine
+Der Rotwein red wine
 Trinken Drink
-Apfelschorle - sparkling apple juice
+Die Apfelschorle - sp
+
+
+
+
+
+
+
+arkling apple juice
 Glas glass
 Mich me
 	Für mich ein Glas Rotwein - for me a glass of red wine
@@ -1253,3 +1261,7 @@ Pommes french fry
 Gesund Healthy
 Schule School
 	In der Schule - in the 
+
+Möchtest du lieber - would you prefer
+	Möchtest du lieber jetz oder später essen
+

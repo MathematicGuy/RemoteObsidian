@@ -6,14 +6,18 @@
 - [ ] Thiết kê Page cho WebApp dự án SR
 - [ ] xin ý kiến từ thầy Huy và Anh Thắng về tài liệu học tập tạo ra các 
 
+
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
+	- [ ] https://www.youtube.com/watch?v=BfEjDD8mWYg
 	- [ ] Intermedia C#
 	- [ ] API, Razor, etc.. 
 
 - [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week (Deepwork on the Weekend)
+
 - [ ] Understand UI/UX
 
 - [ ] Remove the habit of writing unescessary thing without understanding them. Negate the system they put in to me. Do the right thing, live the right life.
+
 - [ ] Relize My Job as a **Tech Lead** is to f**ind a way to do it**. And **Transfer the Work Pattern** to m**y team. And not Doing all of it**
 
 
