@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6b97d2409ed560d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Turtorial Resources.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Turtorial Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Turtorial Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Turtorial Resources.md"
               }
             }
           },
@@ -183,8 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d15657af8c107a5",
+  "active": "6b97d2409ed560d7",
   "lastOpenFiles": [
+    "2nd Yrs Science Research Project.md",
+    "Turtorial Resources.md",
+    "Intergrate ChatGPT with WebApp.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Science Research - Design and Recommended Languages.md",
@@ -192,12 +209,10 @@
     "SR Front-End Requirement.md",
     "SR Project WebApp Design.md",
     "Simplified User Workflow.md",
-    "2nd Yrs Science Research Project.md",
     "SR FE.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "Web API Note.md",
     "Images/Pasted image 20240307150905.png",
-    "Turtorial Resources.md",
     "Images/Pasted image 20240307150331.png",
     "Images/Pasted image 20240307144756.png",
     "Images/ApplicationDbContext.cs",
@@ -214,7 +229,6 @@
     "What is Unit & How can it help.md",
     "Images/architecture.png",
     "Stakeholder Identification.md",
-    "Intergrate ChatGPT with WebApp.md",
     "IT_PM My Project.md",
     "Circle Calculator WebApp documentation.md",
     "IT Project Management.md",

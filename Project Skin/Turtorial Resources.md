@@ -58,7 +58,7 @@ Về mặt kỹ thuật, bạn có thể xây dựng một ứng dụng web mà 
 **Login Page:** https://youtu.be/wzaoQiS_9dI?si=s-sUDK9qJWi6_CtP
 
 **Scoring Section** 
-+ [[Intergrate ChatGPT with WebApp]]
++ [Integrate OpenAI ChatGPT with Web API](https://youtu.be/EHPPg5HGVxU?si=xb2xxcGU0ThzrnS2)
 	search youtube for "How to intergrate ChatGPT to ASAP.NET Core" (chatGPT to evaluating code)
 + [Unit test to scoring code](https://youtube.com/playlist?list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&si=NRktX-ZqPMc6CGIH) 
 	[[What is Unit & How can it help]]

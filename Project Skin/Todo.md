@@ -4,7 +4,6 @@
 
 #Todo/Priority
 - [ ] Thiết kê Page cho WebApp dự án SR
-- [ ] xin ý kiến từ thầy Huy và Anh Thắng về tài liệu học tập tạo ra các 
 
 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
