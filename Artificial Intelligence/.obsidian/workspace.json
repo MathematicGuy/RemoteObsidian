@@ -32,23 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6bafb2309e0df12b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Mathematic  for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Mathematic  for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "Mathematic  for Machine Learning.md"
               }
             }
           },
@@ -189,11 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bafb2309e0df12b",
+  "active": "33552dd5d5e33256",
   "lastOpenFiles": [
+    "AI Movie.md",
+    "To do List.md",
     "Mathematic  for Machine Learning.md",
     "Machine Learning.md",
-    "To do List.md",
     "Search Problems.md",
     "Row Echelon Form Algorithm.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
@@ -218,7 +205,6 @@
     "Algorithm Problem.md",
     "AI Learning Plan.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "AI Movie.md",
     "Recursion.md",
     "Potential Question.md",
     "AI RoadMap.md",

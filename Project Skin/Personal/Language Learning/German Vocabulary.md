@@ -903,7 +903,6 @@ Wann When
 	Wann hast du Zeit - when do you free
 	Bis Wann until when (Bis - Until, Wann - When)
 	Wann du Fußball spielst?    - when do you play football ?
-	Wann gehen wir ? - where are we going
 
 Nachmittag - afternoon
 	Ja, heute Nachmittag ist gut - yes, this afternoon is good

@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "a256e958ea1faa74",
+            "id": "c2948c0d0b83bd21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -197,9 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a256e958ea1faa74",
+  "active": "c2948c0d0b83bd21",
   "lastOpenFiles": [
     "Todo.md",
+    "Web API Note.md",
+    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Turtorial Resources.md",
     "2nd Yrs Science Research Project.md",
@@ -211,7 +213,6 @@
     "Simplified User Workflow.md",
     "SR FE.md",
     "WebDev/WebDev_Learn/Frontend.md",
-    "Web API Note.md",
     "Images/Pasted image 20240307150905.png",
     "Images/Pasted image 20240307150331.png",
     "Images/Pasted image 20240307144756.png",
@@ -233,7 +234,6 @@
     "Circle Calculator WebApp documentation.md",
     "IT Project Management.md",
     "IT_PM Part 1.md",
-    "Science Research Notes.md",
     "Images/Pasted image 20240305143954.png",
     "Images/Pasted image 20240304152635.png",
     "introduction-to-postman-course-main",
