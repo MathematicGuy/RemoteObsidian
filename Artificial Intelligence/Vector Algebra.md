@@ -58,3 +58,10 @@ All the dot product inverse of u is < 0. And same direction as u is > 0
 	- **Scalars**: The dot product outputs a single scalar value, not a new vector.
 	- **Dimensionality:** The two vectors in a dot product calculation must have the same dimensions.
 
+Cross Multiplication
+![[Pasted image 20240311140229.png]]
+
+![[Pasted image 20240311134917.png]]
+
+
+

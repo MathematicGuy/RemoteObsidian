@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57f23c6214072265",
+        "id": "374e7f0efc6b039e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6032a19ac8ea070",
+            "id": "5db376368ec3a52b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "4185bb8c83693d18",
+            "id": "f554d862837ff63e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebAPI Bugs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebAPI Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebAPI Bugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WebAPI Bugs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4185bb8c83693d18",
+  "active": "f554d862837ff63e",
   "lastOpenFiles": [
+    "Todo.md",
     "Web API Note.md",
     "WebAPI Bugs.md",
-    "Todo.md",
     "Mindset Archive.md",
     "Personal/Language Learning/German Vocabulary.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",

@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "8f6b3402ca3cd917",
+            "id": "5b1dc3d283f123b9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,9 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f6b3402ca3cd917",
+  "active": "5b1dc3d283f123b9",
   "lastOpenFiles": [
     "Vector Algebra.md",
+    "Mathematic  for Machine Learning.md",
+    "Image/Pasted image 20240311140229.png",
+    "Image/Pasted image 20240311134917.png",
+    "Machine Learning.md",
     "Image/Pasted image 20240311091902.png",
     "Image/Pasted image 20240311091701.png",
     "Image/Pasted image 20240311090531.png",
@@ -200,11 +204,7 @@
     "Image/Pasted image 20240311090022.png",
     "Image/Pasted image 20240311085851.png",
     "Image/Pasted image 20240311085747.png",
-    "Image/Pasted image 20240311085630.png",
-    "Image/Pasted image 20240311085600.png",
-    "Mathematic  for Machine Learning.md",
     "AI RoadMap.md",
-    "Machine Learning.md",
     "AI Movie.md",
     "To do List.md",
     "Search Problems.md",
