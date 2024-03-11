@@ -58,3 +58,19 @@ GraphDB
 
 ### Isolation
 
+
+### Trigger
+How to delete an Admin user. 
+(Ex: Manager who have relation with many other employees)
++ ! Errors: Cannot delete because it have many Dependened 
++ ? Purpose: Remove or Swap a high rank member from the Database.
+ROLL BACK -> return to before executed state.
++ ? Why not Remove Contraint, because it may create errors that make the Employee become the Manager.
+
+INSTEAD OF DELETE -> run this instead of DELETE.
+
++ 'ON UPDATE CASCADE' -> (often use)
+	Automatically Update all the related data.
+		Ex: Update Manager_department_id to 5 instead of 1 -> All Employees_ department_id automatically update t 5.
++ 'ON DELETE CASCADE' -> (Limited Usages)
+
