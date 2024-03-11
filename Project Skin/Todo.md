@@ -4,43 +4,26 @@
 
 #Todo/Priority
 - [ ] Thiết kê Page cho WebApp dự án SR
-- [ ] Tr'c H học chúc các bạn ngày 8/
-
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] https://www.youtube.com/watch?v=BfEjDD8mWYg
 	- [ ] Intermedia C#
 	- [ ] API, Razor, etc.. 
-
 - [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week (Deepwork on the Weekend)
-
-- [ ] Understand UI/UX
-
-- [ ] Remove the habit of writing unescessary thing without understanding them. Negate the system they put in to me. Do the right thing, live the right life.
-
-- [ ] Relize My Job as a **Tech Lead** is to f**ind a way to do it**. And **Transfer the Work Pattern** to m**y team. And not Doing all of it**
 
 
 #Todo/GoalsThisWeek
-- [ ] Organize Study Tab 
-- [ ] Buy Whey
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
-
- Evil is Distraction - Consider the simplicity of this insight 
-	Anything that pulls you away from what truly matters can be seen as a distraction. Stay focused on your priorities, and be mindful of what might lead you astray.
-Hemisync
+- [ ] Try out Hemisync
 
 
 #Todo/GoalsThisMonth
-- [ ] Research CI/CD
 - [ ] Learn Github Project Management 
-- [ ] Find AI Course (Utilize ChatGPT)
 
 
 #Todo/Later
-- [ ] Manipulate my Emotion (Rage/Hunger) to do hardthing
+- [ ] Manipulate my Emotion (Rage/Hunger) to do hard thing
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
-- [ ] Install zoxide
 
 
 **My Learning**

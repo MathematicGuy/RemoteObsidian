@@ -1228,7 +1228,7 @@ Eis ice cream
 	Ich möchte den Obstsalat mit Eis - I would like the fruit salat with ice cream
 Ein Nachtisch dessert
 	Möchtst du einen Nachtisch
-Apfelkuchen apple cake
+Die/eine Apfelkuchen - the/an apple cake
 	Am Wochenende esse Ich oft Apfelkuchen - I often eat apple pie on the weekend
 Ohne without
 	Ink trinke Kaffe ohne Milch 
@@ -1264,3 +1264,6 @@ Schule School
 Möchtest du lieber - would you prefer
 	Möchtest du lieber jetz oder später essen
 
+Ordering takeout - gọi món mang về
+
+#dev_vs_der

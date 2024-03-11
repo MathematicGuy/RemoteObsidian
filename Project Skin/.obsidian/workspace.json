@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "857f8ee864fdaa9f",
+        "id": "57f23c6214072265",
         "type": "tabs",
         "children": [
           {
-            "id": "647fe7941bad75cc",
+            "id": "d6032a19ac8ea070",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#F8F8F2",
+                "query": "dev_vs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,12 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "647fe7941bad75cc",
+  "active": "d6032a19ac8ea070",
   "lastOpenFiles": [
+    "Mindset Archive.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Web API Note.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Turtorial Resources.md",
     "2nd Yrs Science Research Project.md",
     "Intergrate ChatGPT with WebApp.md",
@@ -219,7 +220,6 @@
     "IT_PM My Project.md",
     "Circle Calculator WebApp documentation.md",
     "IT Project Management.md",
-    "IT_PM Part 1.md",
     "Images/Pasted image 20240305143954.png",
     "Images/Pasted image 20240304152635.png",
     "introduction-to-postman-course-main",

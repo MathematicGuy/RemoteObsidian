@@ -328,7 +328,7 @@ Given Matrix A
 
 
 ## Row Echelon form and rank
-**Purpose**
+**Purpose of Row Echelon**
 ![[Pasted image 20240306103048.png]]
 **Soi**
 ![[Pasted image 20240306103035.png]]
@@ -458,3 +458,5 @@ R1 - R3
 
 + ? [[what does it mean to say - The solution for this system has 0 degrees of freedom.]]
 
+
+### [[Vector Algebra]]

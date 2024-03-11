@@ -27,22 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Vector Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "22e6967101b8addb",
+            "id": "8f6b3402ca3cd917",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Machine Learning.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI RoadMap.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI RoadMap.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -187,27 +189,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22e6967101b8addb",
+  "active": "8f6b3402ca3cd917",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "Image/Pasted image 20240311091902.png",
+    "Image/Pasted image 20240311091701.png",
+    "Image/Pasted image 20240311090531.png",
+    "Image/Pasted image 20240311090529.png",
+    "Image/Pasted image 20240311090122.png",
+    "Image/Pasted image 20240311090022.png",
+    "Image/Pasted image 20240311085851.png",
+    "Image/Pasted image 20240311085747.png",
+    "Image/Pasted image 20240311085630.png",
+    "Image/Pasted image 20240311085600.png",
     "Mathematic  for Machine Learning.md",
+    "AI RoadMap.md",
+    "Machine Learning.md",
     "AI Movie.md",
     "To do List.md",
-    "Machine Learning.md",
     "Search Problems.md",
     "Row Echelon Form Algorithm.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
-    "Image/Pasted image 20240307062001.png",
-    "Image/Pasted image 20240307061600.png",
-    "Image/Pasted image 20240306172655.png",
-    "Image/Pasted image 20240306172024.png",
-    "Image/Pasted image 20240306171726.png",
-    "Image/Pasted image 20240306171232.png",
-    "Image/Pasted image 20240306171231.png",
-    "Image/Pasted image 20240306171144.png",
     "CMC AI.md",
     "Harvard CS50’s Artificial Intelligence with Python.md",
-    "Image/Pasted image 20240306112406.png",
-    "Image/Pasted image 20240306112606.png",
     "Solving linear systems 3 variables with numpy.md",
     "Linear system as Matrix using Numpy.md",
     "Numpy.md",
@@ -219,13 +223,10 @@
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Recursion.md",
     "Potential Question.md",
-    "AI RoadMap.md",
     "AI.md",
     "Prompt Engineering.md",
     "Understand ChatGPT.md",
     "My Research.md",
-    "Generative AI (AI Sáng Tạo).md",
-    "Grammary.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
