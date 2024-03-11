@@ -1,3 +1,5 @@
+[[WebAPI Bugs]]
+
 ## Connect the Data Base
 1) Get the Connection String from the DB properties
 	![[Pasted image 20240228211219.png]]

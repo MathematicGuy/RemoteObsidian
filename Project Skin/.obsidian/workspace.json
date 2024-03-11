@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4185bb8c83693d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebAPI Bugs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "WebAPI Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "WebAPI Bugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "WebAPI Bugs.md"
               }
             }
           },
@@ -183,12 +197,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6032a19ac8ea070",
+  "active": "4185bb8c83693d18",
   "lastOpenFiles": [
-    "Mindset Archive.md",
-    "Todo.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Web API Note.md",
+    "WebAPI Bugs.md",
+    "Todo.md",
+    "Mindset Archive.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Turtorial Resources.md",
     "2nd Yrs Science Research Project.md",
@@ -219,7 +234,6 @@
     "Stakeholder Identification.md",
     "IT_PM My Project.md",
     "Circle Calculator WebApp documentation.md",
-    "IT Project Management.md",
     "Images/Pasted image 20240305143954.png",
     "Images/Pasted image 20240304152635.png",
     "introduction-to-postman-course-main",
