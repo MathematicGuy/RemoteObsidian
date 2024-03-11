@@ -8,6 +8,14 @@
 	![[Pasted image 20240228211301.png]]
 
 
+### Why ASP.NET
+![[Pasted image 20240311202751.png]]
+
+![[Pasted image 20240311203404.png]]
+
+
+
+
 ## Learn ASP.NET
 ASP.NET is a framework using C#.
 • ASP.NET Core is Full Stack
