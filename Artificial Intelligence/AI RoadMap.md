@@ -1,3 +1,4 @@
+[Google Cloud](https://cloud.google.com/learn/training/)
 
 
 ![[Pasted image 20231005203403.png]]
@@ -9,6 +10,7 @@ To become an AI engineer, you need to learn a variety of skills, including:
 - **Mathematics:** AI engineers need to have a **strong understanding of mathematics,** including *linear algebra, calculus, and statistics.*
 
 - **Machine learning:** Machine learning is the **core of AI**, so AI engineers need to have a deep *understanding of machine learning concepts and algorithms.*
+	[Course](https://www.cloudskillsboost.google/paths/17/course_templates/8)
 
 - **Deep learning:** Deep learning is a subset of machine learning that is used to **train artificial neural networks**. AI engineers need to have a good *understanding of deep learning concepts and algorithms.*
 
