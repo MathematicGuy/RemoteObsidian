@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1334fb7417e8829",
+        "id": "405d2840a6dc2b27",
         "type": "tabs",
         "children": [
           {
-            "id": "3426a3be951a0892",
+            "id": "1c7ea831713cb254",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c35883cb213c4961",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,12 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3426a3be951a0892",
+  "active": "c35883cb213c4961",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20240311203404.png",
     "Images/Pasted image 20240311202751.png",
     "Mindset Archive.md",
-    "Todo.md",
     "ASAP.NET Note.md",
     "WebAPI Bugs.md",
     "Personal/Language Learning/German Vocabulary.md",
@@ -221,7 +226,6 @@
     "Images/architecture.png",
     "Stakeholder Identification.md",
     "IT_PM My Project.md",
-    "Images/Pasted image 20240305143954.png",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
     "_Focus/2024",
