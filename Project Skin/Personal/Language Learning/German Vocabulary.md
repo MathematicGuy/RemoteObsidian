@@ -1207,8 +1207,6 @@ Die Apfelschorle - sp
 
 
 
-
-
 arkling apple juice
 Glas glass
 Mich me
@@ -1233,19 +1231,23 @@ Die/eine Apfelkuchen - the/an apple cake
 Ohne without
 	Ink trinke Kaffe ohne Milch 
 	+ ? Ich möchte ein Wasser ohne Zucker trinken - I would like to drink water without sugar (Why use ein in this sentence?)
+	+ Das Eis kostet ohne Zucker fünfundacht dollar 
 Obstsalat - fruit salad
 süß sweet
 	Ist der Nachtisch mit Sechs Kilo Zucker zu süß
 
 Getrennt separately (noun)
 	Zahlen Sie Getrennt - Are you paying separately
+	Zahlen Sie Zusammen oder Getrennt - Are you paying together or seperately 
 
 Bar - cash (and Geld mean money)
 	Möchten Sie bar zahlen
 Zusammen - together
 	+ Hier ist die Rechnung, Zahlen Sie Zusammen - are you paying together
 	+ Das macht Zusammen Fünfundzwanzig Euro 
-		  That's a total of twenty-five euros
+		  That's a total of twenty-five euros 
+		  That come to twenty-five euros together
+
 	
 
 --- 
@@ -1266,4 +1268,6 @@ Möchtest du lieber - would you prefer
 
 Ordering takeout - gọi món mang về
 
-#dev_vs_der
+#den_vs_der
+
+
