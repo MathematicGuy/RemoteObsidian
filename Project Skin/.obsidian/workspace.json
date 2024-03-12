@@ -41,15 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI_CD.md",
+                "file": "Science Research User Requirement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Yrs Mid-Final Term Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Yrs Mid-Final Term Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2nd Yrs Mid-Final Term Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -210,11 +209,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d6b34a32630ef37",
+  "active": "1c7ea831713cb254",
   "lastOpenFiles": [
-    "Todo.md",
+    "Science Research User Requirement.md",
+    "Science Research Planning.md",
+    "Simplified User Workflow.md",
+    "2nd Yrs Science Research Project.md",
+    "Science Research Notes.md",
+    "Admin RS demo.md",
+    "Essenttial Items to prepare before designing a website.md",
+    "Requirement Specifications Terms.md",
+    "CodeGrade Demo.md",
+    "SR FE.md",
+    "SR Front-End Requirement.md",
     "CI_CD.md",
     "2nd Yrs Mid-Final Term Project.md",
+    "Todo.md",
     "German Nominative Case.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Personal/Language Learning/German Grammar.md",
@@ -229,15 +239,6 @@
     "WebAPI Bugs.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Turtorial Resources.md",
-    "2nd Yrs Science Research Project.md",
-    "Intergrate ChatGPT with WebApp.md",
-    "Science Research - Design and Recommended Languages.md",
-    "Science Research Planning.md",
-    "SR Front-End Requirement.md",
-    "SR Project WebApp Design.md",
-    "Simplified User Workflow.md",
-    "SR FE.md",
-    "WebDev/WebDev_Learn/Frontend.md",
     "Images/Pasted image 20240307150905.png",
     "Images/Pasted image 20240307150331.png",
     "Images/Pasted image 20240307144756.png",
@@ -245,8 +246,6 @@
     "Images/Pasted image 20240307144422.png",
     "Images/Pasted image 20240307143851.png",
     "Images/Untitled.png",
-    "Learn Web API.md",
-    "Personal/Good for LATER.md",
     "Images/Pasted image 20240305205013.png",
     "Images/architecture.png",
     "introduction-to-postman-course-main",

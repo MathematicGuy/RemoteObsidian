@@ -9,7 +9,7 @@
 	+ Build your project to make sure all the pieces fit together.	
 + ? Like an Rocket testing in a simulation to see if it fly.    
 
-
+- [ ] 2
 ### CD (Continuous Delivery)
 **Purpose:** To get your finished code changes ready for release (putting it where people 
 can use it. eg. github) 	

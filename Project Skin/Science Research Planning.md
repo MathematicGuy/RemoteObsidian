@@ -68,23 +68,28 @@ Thử Plan, Build 1 Dự Án Nhỏ để làm Demo.
 - **[[Stakeholder Identification]]:** List out individuals or groups impacted by the project (users, managers, other teams, etc.).
 
 
+
 + ! **2. Planning**
 
 - **Requirements Gathering:** Detail the specific functions the software must perform. User interviews, surveys, and observation can be vital here.
+
 
 - **Technical Design:** Choose technologies, architecture patterns, and outline the overall structure of the system.
 	+ Programming Language, Design pattern (Agile, Water Fall, etc..), Software Architecture (Use Case, Activity Diagram, User Flow, etc..)
 	+ Project Folder Design, Work Flow, etc.. 
 
+
 - **Resource Allocation:** Budget, team member roles, hardware/software needs,
 	Assign Role
 	Any Paymement
+
 
 - **[[Science Research Project - Risk Assessment]]:** Identify potential roadblocks (technical, timeline, etc.) and devise mitigation plans.
 	Find out potential Risks from team, code, phrase, etc..
 
 - **Timeline & Milestones:** Create a schedule with key deadlines and deliverables
 	Key Dealine + Milestones
+
 
 
 **Project Management Tool**  
