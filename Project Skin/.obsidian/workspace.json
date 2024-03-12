@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI_CD.md",
+                "file": "2nd Yrs Mid-Final Term Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI_CD.md",
+                "file": "2nd Yrs Mid-Final Term Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI_CD.md"
+                "file": "2nd Yrs Mid-Final Term Project.md"
               }
             }
           },
@@ -210,12 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c9ff71b62ee4d22",
+  "active": "0d6b34a32630ef37",
   "lastOpenFiles": [
-    "2nd Yrs Mid-Final Term Project.md",
-    "CI_CD.md",
-    "German Nominative Case.md",
     "Todo.md",
+    "CI_CD.md",
+    "2nd Yrs Mid-Final Term Project.md",
+    "German Nominative Case.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Personal/Language Learning/German Grammar.md",
     "ASAP.NET Note.md",
