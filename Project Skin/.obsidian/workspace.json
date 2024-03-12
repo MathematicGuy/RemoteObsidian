@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "0d6b34a32630ef37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2nd Yrs Mid-Final Term Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46c978f6172b374c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT_PM Part 1.md",
+                "file": "Making of Gannt Chart.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM Part 1.md",
+                "file": "Making of Gannt Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM Part 1.md",
+                "file": "Making of Gannt Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM Part 1.md"
+                "file": "Making of Gannt Chart.md"
               }
             }
           },
@@ -212,16 +199,17 @@
   },
   "active": "46c978f6172b374c",
   "lastOpenFiles": [
-    "IT_PM Part 1.md",
     "IT Project Management.md",
+    "Making of Gannt Chart.md",
+    "IT_PM Part 1.md",
+    "Todo.md",
+    "2nd Yrs Mid-Final Term Project.md",
     "Code/Project Ideas.md",
     "FrontEnd/WebProjectExplained.md",
     "Framework & Languages.md",
-    "Todo.md",
     "Images/Pasted image 20240312125957.png",
     "Images/Pasted image 20240312125001.png",
     "Personal/Programming Skill/Technology.md",
-    "2nd Yrs Mid-Final Term Project.md",
     "Science Research User Requirement.md",
     "Science Research Planning.md",
     "Simplified User Workflow.md",
@@ -239,7 +227,6 @@
     "Personal/Language Learning/German Grammar.md",
     "ASAP.NET Note.md",
     "Connect WebApp DB.md",
-    "ASP.NET Introduction.md",
     "Images/Pasted image 20240311203404.png",
     "Images/Pasted image 20240311202751.png",
     "Images/Pasted image 20240307150905.png",
