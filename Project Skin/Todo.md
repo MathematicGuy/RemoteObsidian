@@ -3,12 +3,15 @@
 	Find the product I need (AI, Security, Productivity, etc..)
 
 #Todo/Priority
-- [ ] Thiết kê Page cho WebApp dự án SR
+- [ ] Design 
+- [ ] 
+
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] https://www.youtube.com/watch?v=BfEjDD8mWYg
 	- [ ] Intermedia C#
 	- [ ] API, Razor, etc.. 
 - [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week (Deepwork on the Weekend)
+
 
 
 #Todo/GoalsThisWeek

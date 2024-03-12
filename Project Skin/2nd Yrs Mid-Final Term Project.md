@@ -11,3 +11,7 @@ CI / CD:
 
 
 Project 6. Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
+
+
+Mongo DB: https://youtu.be/8Nx7cdwT86c?si=Hb3q97EcRippC4FX
+Discover Next.js
