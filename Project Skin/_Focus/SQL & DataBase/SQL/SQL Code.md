@@ -712,6 +712,42 @@ Call the Procedure
 CALL find_customer("Larry", "Lobster");
 ```
 
+
+**PROCEDURE IN VSCode SQL**
+Create a procedure output the avg employees salary from an department (department_id)
++ ! Prodecure Query have 2 Component
+**main query**
+```sql
+SELECT AVG(salary) as avg_salary FROM employees WHERE department_id = @deparment_id;
+```
+**procedure template** (think this like a function) 
++ ? Procedure can be ALTER just like a table. (sometime ALTER can be use to run the query)
++ Or use both CREATE and ALTER
+```sql
+CREATE OR ALTER PROCEDURE get_customer_salary (@deparment_id INT)
+AS BEGIN
+	-- put your SQL query here
+END
+```
+like python
+```python
+func hello(name):
+	print('hello', name)
+```
+
+Final Result
++ ! The Procedure should be the 1st query. If there're any query above it add Go 
+```sql
+GO
+
+CREATE PROCEDURE get_customer_salary (@deparment_id INT)
+AS BEGIN
+    SELECT AVG(salary) as avg_salary FROM employees WHERE department_id = @deparment_id;
+END
+
+get_customer_salary 8; -- OR EXEC get_customer_salary 8;
+```
+
 **COALESCE**
 + **Retrieve the first non-null expression among its arguments**.
 	It is particularly handy when you have multiple columns or values and want to retrieve the first non-null one.
