@@ -21,6 +21,8 @@ get_customer_salary 8; -- OR EXEC get_customer_salary 8;
 ```sql
 
 ```
+Before
+![[Pasted image 20240313223910.png]]
 
 
 4. Design a stored procedure that updates department details (department id and department name) and, if necessary, reassigns employees to a new department in a single transaction. Ensure the procedure handles errors and rolls back the transaction if any step fails.
