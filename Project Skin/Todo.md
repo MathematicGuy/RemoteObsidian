@@ -3,8 +3,8 @@
 	Find the product I need (AI, Security, Productivity, etc..)
 
 #Todo/Priority
-- [ ] Design 
-- [ ] 
+- [ ] Design 1 page
+- [ ] Hỏi An về Phần Front End (Cuối tuần có học không ?)
 
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 	- [ ] https://www.youtube.com/watch?v=BfEjDD8mWYg

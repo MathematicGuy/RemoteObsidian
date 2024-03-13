@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a12fd65afa915c57",
+        "id": "5b2e9c78fab69cb8",
         "type": "tabs",
         "children": [
           {
-            "id": "5d37b1ecf4338ac0",
+            "id": "d11a6b08aedaf606",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "77078b8d828bfa4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice Procedure and Trigger.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1514b3ba7e88672c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Procedure and Trigger.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -210,8 +183,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77078b8d828bfa4f",
+  "active": "d11a6b08aedaf606",
   "lastOpenFiles": [
+    "Mindset Archive.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Todo.md",
     "Practice Procedure and Trigger.md",
@@ -240,7 +214,6 @@
     "CodeGrade Demo.md",
     "SR FE.md",
     "SR Front-End Requirement.md",
-    "CI_CD.md",
     "Images/Pasted image 20240311203404.png",
     "Images/Pasted image 20240311202751.png",
     "Images/Pasted image 20240307150905.png",
