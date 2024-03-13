@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "405d2840a6dc2b27",
+        "id": "0cddc3524221a2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7ea831713cb254",
+            "id": "a873669d23eb56a3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "46c978f6172b374c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Making of Gannt Chart.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Making of Gannt Chart.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Making of Gannt Chart.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Making of Gannt Chart.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46c978f6172b374c",
+  "active": "a873669d23eb56a3",
   "lastOpenFiles": [
     "IT Project Management.md",
     "Making of Gannt Chart.md",
