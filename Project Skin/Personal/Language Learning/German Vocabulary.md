@@ -369,6 +369,7 @@ los start
 Der Vegetatier Excercise
 + Fleisch meat
 	Speisekarte ist Fleisch - the speisekarte ist meat
+	Danke, aber ich essen kein fleisch 
 + Heben Sie - do you have
 + are sind (are in plural form)
 	bist (are in singular form) Ex: bist du - are you
@@ -1206,8 +1207,8 @@ Die Apfelschorle - sp
 
 
 
-
-arkling apple juice
+Hunger hungry (spell as : hung ger)
+Apfelkuchen sparkling apple juice
 Glas glass
 Mich me
 	Für mich ein Glas Rotwein - for me a glass of red wine
@@ -1222,6 +1223,7 @@ Bestellen order
 	Ich möchte ein Mineralwasser Bestellen - I would like to order an mineral water 
 
 Zucker Sugar
+	Ich essen keinen zucker
 Eis ice cream
 	Ich möchte den Obstsalat mit Eis - I would like the fruit salat with ice cream
 Ein Nachtisch dessert
@@ -1271,3 +1273,8 @@ Ordering takeout - gọi món mang về
 #den_vs_der
 
 
+**Exercise**
+Pommes french fries
+Warten Sie wait 
+es gibt Fisch there is fish
+Mittagessen lunch

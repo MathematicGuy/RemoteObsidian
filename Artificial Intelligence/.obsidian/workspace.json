@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Vector Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Vector Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "Vector Algebra.md"
               }
             }
           },
@@ -189,13 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b1dc3d283f123b9",
+  "active": "33552dd5d5e33256",
   "lastOpenFiles": [
+    "Machine Learning.md",
     "Vector Algebra.md",
     "Mathematic  for Machine Learning.md",
     "Image/Pasted image 20240311140229.png",
     "Image/Pasted image 20240311134917.png",
-    "Machine Learning.md",
     "Image/Pasted image 20240311091902.png",
     "Image/Pasted image 20240311091701.png",
     "Image/Pasted image 20240311090531.png",

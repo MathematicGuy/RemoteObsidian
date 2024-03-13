@@ -64,4 +64,11 @@ Cross Multiplication
 ![[Pasted image 20240311134917.png]]
 
 
+#### Vector Norm
+> Also referred to as the magnitude of a vector, captures the **size or length** of a vector
 
+- **Non-negativity:** The norm of any vector is always a non-negative real number. A vector's norm is zero only if the vector is the zero vector itself.
+	
+- **Homogeneity:** Scaling a vector by a constant factor results in its norm being scaled by the same factor. Norm(c * v) = |c| * Norm(v), where c is a scalar and v is a vector.
+	
+- **Triangle Inequality:** The norm of the sum of two vectors is less than or equal to the sum of the individual norms. Norm(u + v) <= Norm(u) + Norm(v).
