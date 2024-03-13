@@ -8,12 +8,12 @@
 
 2. Write a stored procedure that receives the department id as the input and displays the average salary of the employees working at that department.
 ```sql
-CREATE PROCEDURE get_customer_salary (@deparment_id INT)
-AS BEGIN
-    SELECT AVG(salary) as avg_salary FROM employees WHERE department_id = @deparment_id;
-END
-
-get_customer_salary 8; -- OR EXEC get_customer_salary 8;
+	CREATE PROCEDURE get_customer_salary (@deparment_id INT)
+	AS BEGIN
+	    SELECT AVG(salary) as avg_salary FROM employees WHERE department_id = @deparment_id;
+	END
+	
+	get_customer_salary 8; -- OR EXEC get_customer_salary 8;
 ```
 
    
