@@ -38,6 +38,12 @@ Vector Transpose **(Turn ow to Column)**
 ![[Pasted image 20240311085630.png]]
 
 
+
+#### Distance Between Vector
+	![[Pasted image 20240313132925.png]]
+#### Magnitude of 2 Vectors
+
+
 ### Geometric Dot Product (Tích Vô )
 ![[Pasted image 20240311085747.png]]
 
@@ -59,16 +65,82 @@ All the dot product inverse of u is < 0. And same direction as u is > 0
 	- **Dimensionality:** The two vectors in a dot product calculation must have the same dimensions.
 
 Cross Multiplication
+> The product of 2 matrix can be use to get the 
+![[Pasted image 20240313084303.png]]
+	You only look at where the two fundamental vectors 1, 0, and 0, 1 go, and those are your columns of the matrix.
+(Reverse 0 1 to 1 0)
 ![[Pasted image 20240311140229.png]]
 
 ![[Pasted image 20240311134917.png]]
 
 
-#### Vector Norm
-> Also referred to as the magnitude of a vector, captures the **size or length** of a vector
+![[Pasted image 20240313090859.png]]
 
-- **Non-negativity:** The norm of any vector is always a non-negative real number. A vector's norm is zero only if the vector is the zero vector itself.
+![[Pasted image 20240313090926.png]]
+
+
+ Is there a way to Transform the 1st to the 3rd
+	![[Pasted image 20240313091036.png]]
+
+
+![[Pasted image 20240313092050.png]]
+
+Work exactly like the above. 
+For each product of Row(m) * Each Product of Column(n) then Add it up together.
+Ex: 3.1 + 1.1 + 4.-2 = 2
+![[Pasted image 20240313092859.png]]
+
+
+#### Identity Matrix (ma trận đơn )
+> The identity matrix is the matrix that when multiplied by any other matrix it gives the same matrix
+	![[Pasted image 20240313093349.png]]
+
+
+#### Inverse 
+![[Pasted image 20240313093519.png]]
+ 
+![[Pasted image 20240313093541.png]]
+
+
+![[Pasted image 20240313093628.png]]
+
+![[Pasted image 20240313094044.png]]
+Can calculate det -> No Inverse exist 
+
+![[Pasted image 20240313100304.png]]
+![[Pasted image 20240313100317.png]]
+
+Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line & cannot be an inverse matrix (Matrix require at least 2 lines to formed)  
+
+
+### Neural networks and matrices
+**Spam Filter**
+	use classifier
+
++ **Identifying Important Words:** In order to build a spam filter, we **need to identify certain words that are commonly associated with spam emails, such as "lottery" and "win"**. 
 	
-- **Homogeneity:** Scaling a vector by a constant factor results in its norm being scaled by the same factor. Norm(c * v) = |c| * Norm(v), where c is a scalar and v is a vector.
++ **Calculating Sentence Scores:** Once we have the scores for each word, we can calculate the score of a sentence by adding up the scores of the words it contains. 
+![[Pasted image 20240313102716.png]]
+
++ Linear algebra helps us assign scores to these important words. We can assign a score to each word based on its relevance to spam. 
 	
-- **Triangle Inequality:** The norm of the sum of two vectors is less than or equal to the sum of the individual norms. Norm(u + v) <= Norm(u) + Norm(v).
++ Setting a Threshold: Linear algebra also helps us set a threshold value. This threshold determines the minimum score required for an email to be classified as spam
+![[Pasted image 20240313102813.png]]
+
+
++ ? Classification: Finally, linear algebra allows us to classify emails based on their scores. If the score of an email is above the threshold, it is classified as spam. Otherwise, it is classified as non-spam
+![[Pasted image 20240313102931.png]]
+
+![[Pasted image 20240313103042.png]]
+
+![[Pasted image 20240313103054.png]]
+
+Check if the Equation is Neg - or Pos + using Threshold
+![[Pasted image 20240313103219.png]]
+
+
+![[Pasted image 20240313130652.png]]
+
+![[Pasted image 20240313131005.png]]
+
+

@@ -60,3 +60,50 @@ Xây dựng hthong hỏi đáp hỗ trợ học tập dựa trên tri thức.
 
 
 Cho 1 Ma Trận kích thước. Trong đó đặt các số 0 hoặc 1. Hãy kiểm tra có tồn tại đg đi giữa 2 ô (x1, y1) -> (x2, y2) hay không. Đường đi đc hiểu là gồm 1 dãy các ô liên tiếp kề cạnh mà chỉ chứa số 0.
+
+```ad-summary
++ AI
++ Application
++ DFS, BFS -> give Examples, Explainations, Code
+```
+
+## Machine Learning Algorithm (4 unit)
+
+SVM (1965 -> 1995)
+DL (2006)
+Decision Tree 
+K-Nearest Neighbor
+![[1 WZJHcQdUyAddQz_8VS1lvQ.png]]
+
+
+Random Forest
+![[1 i0o8mjFfCn-uD79-F1Cqkw.png]]
+
+
+Deep Learning
+![[images.jpg]]
+
+
+
+Nghiên cứu khoa học -> Find sth Interesting -> Better than the Original
+
+
+PCA (Principal Component Analysis)
+	Phân tích thành phần chính
+	{Preprocessing data}
+
+Unprovised Learning -> phân nhóm, rửa và xử lý dữ liệu
+Các loại Learning: Dạy, Dạy 1 ít, Ko Dạy
+
+## Google Collab
+
+Data Clustering -> lọc dữ liệu ra từng cụm có điểm tương đồng
++ Find hidden data
++ Relation between data
++ Detect Abnormally/Outlier
+
+K-Means (one of the most Importance Algorithm)
+Means: trọng tâm
+1) Lựa chọn K trọng tâm
+2) Point close to the Means, go with the Means
+
