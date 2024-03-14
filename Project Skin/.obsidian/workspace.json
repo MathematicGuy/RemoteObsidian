@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b2e9c78fab69cb8",
+        "id": "d36a01272cf7da13",
         "type": "tabs",
         "children": [
           {
-            "id": "d11a6b08aedaf606",
+            "id": "7a5b904b4f8a551c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "706405cef2e25330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,16 +183,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "706405cef2e25330",
+  "active": "7a5b904b4f8a551c",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Todo.md",
-    "Practice Procedure and Trigger.md",
     "Personal/Language Learning/German Vocabulary.md",
+    "Practice Procedure and Trigger.md",
     "Images/Pasted image 20240313223910.png",
     "Images/Pasted image 20240313223906.png",
     "Images/Pasted image 20240313223809.png",
     "Images/Pasted image 20240313223631.png",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Mindset Archive.md",
     "Images/Pasted image 20240313170209.png",
     "SDA HW2.md",

@@ -28,7 +28,7 @@ source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
 
 Priority single collin in SQL: '  ' not " "
 Column - Field
-Row - Record
+Row - Recordw
 
 ### USEFUL SQL RULES
 - **Order of Operations:** SQL follows an order of operations, similar to mathematical expressions:
