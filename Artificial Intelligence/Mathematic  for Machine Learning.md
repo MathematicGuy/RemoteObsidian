@@ -3,6 +3,9 @@
 [Linear System with 2 varible](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/0u0Uy/interactive-tool-graphical-representation-of-linear-systems-with-2-variables)
 [Linear Systems with 3 variables](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/ma7Rv/interactive-tool-graphical-representation-of-linear-systems-with-3-variables)
 
+**Comunity**
+[Deeplearning.ai](https://community.deeplearning.ai/)
+
 ---
 
 + obscure: mơ hồ

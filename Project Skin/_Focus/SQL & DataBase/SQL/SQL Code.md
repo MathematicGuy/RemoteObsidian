@@ -39,6 +39,7 @@ Row - Recordw
     4. HAVING
     5. SELECT
     6. ORDER BY
+
 + **WHERE vs. HAVING: Key Differences**
     
     - **WHERE:** Filters individual rows _before_ grouping takes place.
@@ -366,12 +367,42 @@ ON a.referral_id = b.customer_idff
 ```
 ![[Pasted image 20231003141924.png]]
 
+Example Table
+![[Pasted image 20240314090233.png]]
 **LEFT JOIN**
 > Get all matching valid value, 
 > but left the unmatching valid only on the left and null on the right.
+```sql
+SELECT Employees.EmployeeID, Employees.Name, Departments.DepartmentName
+FROM Employees
+LEFT JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID;
+```
++------------+---------+--------------+
+| EmployeeID | Name    | DepartmentName |
++------------+---------+--------------+
+| 1          | Alice   | Sales         |
+| 2          | Bob     | Marketing     |
+| 3          | Charlie | Sales         |
+| 4          | David   | NULL          |
++------------+---------+--------------+
+
 
 **RIGHT JOIN**
 > Same as left join but reverse
+```sql
+SELECT Employees.EmployeeID, Employees.Name, Departments.DepartmentName
+FROM Employees
+RIGHT JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID;
+```
++------------+---------+--------------+
+| EmployeeID | Name    | DepartmentName |
++------------+---------+--------------+
+| 1          | Alice   | Sales         |
+| 2          | Bob     | Marketing     |
+| 3          | Charlie | Sales         |
+| NULL       | NULL    | HR            |
++------------+---------+--------------+
+
 
 **FULL JOIN**
 > Left JOIN first

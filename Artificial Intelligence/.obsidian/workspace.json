@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bea8c86230dee379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaconda Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a2bd5bf91b18d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup Anaconda Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Algebra.md",
+                "file": "Setup Anaconda Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Algebra.md",
+                "file": "Setup Anaconda Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector Algebra.md"
+                "file": "Setup Anaconda Guide.md"
               }
             }
           },
@@ -173,8 +197,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e77f9ff2f40fa36e",
+  "active": "24a2bd5bf91b18d8",
   "lastOpenFiles": [
+    "Image/Pasted image 20240314111040.png",
+    "Image/Pasted image 20240314110918.png",
+    "Image/Pasted image 20240314110857.png",
+    "Image/Pasted image 20240314110730.png",
+    "Image/Pasted image 20240314110702.png",
+    "Image/Pasted image 20240314110643.png",
+    "Anaconda.md",
+    "Setup Anaconda Guide.md",
+    "Anaconda Command.md",
+    "Vector Algebra.md",
     "Mathematic  for Machine Learning.md",
     "Machine Learning.md",
     "CMC AI.md",
@@ -186,18 +220,12 @@
     "Image/neural-network.webp",
     "Image/1 i0o8mjFfCn-uD79-F1Cqkw.png",
     "Image/1 WZJHcQdUyAddQz_8VS1lvQ.png",
-    "Image/k-nearest-neighbor-algorithm-for-machine-learning2.png",
-    "Vector Algebra.md",
     "Classification.md",
     "Reinforcement Learning.md",
     "Transfer Learning.md",
     "Unsupervised Learning.md",
     "Supervised Learning.md",
-    "Image/0 2_qzcm2gSe9l67aI.png",
-    "Image/Pasted image 20240313132925.png",
-    "Image/Pasted image 20240313131005.png",
     "To do List.md",
-    "Image/Pasted image 20240313130652.png",
     "AI RoadMap.md",
     "AI Movie.md",
     "Search Problems.md",
@@ -207,10 +235,6 @@
     "Solving linear systems 3 variables with numpy.md",
     "Linear system as Matrix using Numpy.md",
     "Numpy.md",
-    "introduction to numpy array.md",
-    "Introduct to Numpy arrays.md",
-    "Learning Note.md",
-    "Algorithm Problem.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
