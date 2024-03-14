@@ -14,7 +14,6 @@ note: big old project
 
 [[Turtorial Resources]]
 
-
 [[Science Research Planning]]
 [[Science Research Notes]]
 

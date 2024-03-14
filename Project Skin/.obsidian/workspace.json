@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "64c1bafe3563042d",
+            "id": "b56f606f4ac139db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoNguyenDuongTest.md",
+                "file": "SR Front-End Requirement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "baa068705a4aff6b",
+            "id": "5f338d32fb8fe447",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stakeholder Identification.md",
+                "file": "2nd Yrs Science Research Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stakeholder Identification.md",
+                "file": "2nd Yrs Science Research Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stakeholder Identification.md",
+                "file": "2nd Yrs Science Research Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stakeholder Identification.md"
+                "file": "2nd Yrs Science Research Project.md"
               }
             }
           },
@@ -223,10 +223,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "baa068705a4aff6b",
+  "active": "5f338d32fb8fe447",
   "lastOpenFiles": [
-    "SoNguyenDuongTest.md",
     "Circle Calculator WebApp documentation.md",
+    "SR Front-End Requirement.md",
+    "SR FE.md",
+    "2nd Yrs Science Research Project.md",
+    "FE.md",
+    "FrontEnd/Design Note.md",
+    "Stakeholder Identification.md",
+    "SoNguyenDuongTest.md",
     "Todo.md",
     "Images/Pasted image 20240314144103.png",
     "Images/Pasted image 20240314143535.png",
@@ -250,15 +256,10 @@
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "BackEnd/SQL Revision.md",
     "System Administration Database.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "SDA HW1.md",
-    "Personal/Language Learning/German Vocabulary.md",
-    "Practice Procedure and Trigger.md",
     "Images/Pasted image 20240313223910.png",
     "Images/Pasted image 20240313223906.png",
     "Images/Pasted image 20240313223809.png",
     "Images/Pasted image 20240313223631.png",
-    "Mindset Archive.md",
     "Images/Pasted image 20240313170209.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
