@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d36a01272cf7da13",
+        "id": "131243f9140c98a3",
         "type": "tabs",
         "children": [
           {
-            "id": "f904d7d68212a794",
+            "id": "e5efd10360b5f0db",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5806b66e7e6a4659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP.NET Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Introduction.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Introduction.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Introduction.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5806b66e7e6a4659",
+  "active": "e5efd10360b5f0db",
   "lastOpenFiles": [
     "ASAP.NET Note.md",
     "Learn Web API.md",
