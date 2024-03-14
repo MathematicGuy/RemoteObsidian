@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "131243f9140c98a3",
+        "id": "c073c2a539e8f44c",
         "type": "tabs",
         "children": [
           {
-            "id": "e5efd10360b5f0db",
+            "id": "3e5ef751dac53106",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -183,8 +183,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5efd10360b5f0db",
+  "active": "3e5ef751dac53106",
   "lastOpenFiles": [
+    "Images/Pasted image 20240314144103.png",
+    "SoNguyenDuongTest.md",
+    "Images/Pasted image 20240314143535.png",
+    "Circle Calculator WebApp documentation.md",
+    "Images/Pasted image 20240314143318.png",
+    "Images/Pasted image 20240314143231.png",
+    "Web API Project.md",
+    "Todo.md",
     "ASAP.NET Note.md",
     "Learn Web API.md",
     "Why Web APIs are Essential.md",
@@ -192,7 +200,6 @@
     "Connect WebApp DB.md",
     "Learn ASP.NET.md",
     "File Structure.md",
-    "Todo.md",
     "Images/Pasted image 20240314090233.png",
     "SDA HW2.md",
     "_Focus/SQL & DataBase/DataBase.md",
@@ -213,14 +220,7 @@
     "Images/Pasted image 20240313223631.png",
     "Mindset Archive.md",
     "Images/Pasted image 20240313170209.png",
-    "Schade, ich habe um sechs keine Zeit.md",
-    "IT Project Management.md",
-    "Making of Gannt Chart.md",
-    "IT_PM Part 1.md",
     "Images/Pasted image 20240312125957.png",
-    "Images/Pasted image 20240312125001.png",
-    "Images/Pasted image 20240311203404.png",
-    "Images/Pasted image 20240311202751.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

@@ -114,3 +114,11 @@ public ActionResult<CircleData> Calculate(double banKinh)
 > https://localhost:7192/api/Home/Calculate?banKinh=222
 ![[Pasted image 20240304090703.png]]
 
+
+![[Pasted image 20240314144103.png]]
+
+server: https://win9081.site4now.net:8172/msdeploy.axd?site=sukmadi-001-site1
+
+site-path: sukmadi-001-site1
+Destination-ULR: http://sukmadi-001-site1.ktempurl.com/
+	pass: 60-dayfreetrial
