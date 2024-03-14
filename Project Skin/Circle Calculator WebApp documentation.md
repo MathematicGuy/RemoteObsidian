@@ -121,4 +121,8 @@ server: https://win9081.site4now.net:8172/msdeploy.axd?site=sukmadi-001-site1
 
 site-path: sukmadi-001-site1
 Destination-ULR: http://sukmadi-001-site1.ktempurl.com/
+	username: 11165828
 	pass: 60-dayfreetrial
+
+
+http://sukmadi-001-site1.ktempurl.com/
