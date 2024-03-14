@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "baa068705a4aff6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stakeholder Identification.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoNguyenDuongTest.md",
+                "file": "Stakeholder Identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoNguyenDuongTest.md",
+                "file": "Stakeholder Identification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoNguyenDuongTest.md"
+                "file": "Stakeholder Identification.md"
               }
             }
           },
@@ -210,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64c1bafe3563042d",
+  "active": "baa068705a4aff6b",
   "lastOpenFiles": [
-    "Circle Calculator WebApp documentation.md",
     "SoNguyenDuongTest.md",
+    "Circle Calculator WebApp documentation.md",
     "Todo.md",
     "Images/Pasted image 20240314144103.png",
     "Images/Pasted image 20240314143535.png",
