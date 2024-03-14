@@ -17,3 +17,4 @@ ASP.NET is a framework using C#.
 ![[Pasted image 20240307150331.png]]
 
 
+Migration -> Create new Database & new Table
