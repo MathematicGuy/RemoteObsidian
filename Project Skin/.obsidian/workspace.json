@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5806b66e7e6a4659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn Web API.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Learn Web API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Learn Web API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Learn Web API.md"
               }
             }
           },
@@ -183,8 +197,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f904d7d68212a794",
+  "active": "5806b66e7e6a4659",
   "lastOpenFiles": [
+    "Why Web APIs are Essential.md",
+    "Learn Web API.md",
+    "ASAP.NET Note.md",
+    "ASP.NET Introduction.md",
+    "Connect WebApp DB.md",
+    "Learn ASP.NET.md",
+    "File Structure.md",
+    "Todo.md",
     "Images/Pasted image 20240314090233.png",
     "SDA HW2.md",
     "_Focus/SQL & DataBase/DataBase.md",
@@ -197,7 +219,6 @@
     "System Administration Database.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "SDA HW1.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Practice Procedure and Trigger.md",
     "Images/Pasted image 20240313223910.png",
@@ -210,17 +231,10 @@
     "IT Project Management.md",
     "Making of Gannt Chart.md",
     "IT_PM Part 1.md",
-    "2nd Yrs Mid-Final Term Project.md",
-    "Code/Project Ideas.md",
-    "FrontEnd/WebProjectExplained.md",
-    "Framework & Languages.md",
     "Images/Pasted image 20240312125957.png",
     "Images/Pasted image 20240312125001.png",
-    "Personal/Programming Skill/Technology.md",
-    "Science Research User Requirement.md",
     "Images/Pasted image 20240311203404.png",
     "Images/Pasted image 20240311202751.png",
-    "Images/Pasted image 20240307150905.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
