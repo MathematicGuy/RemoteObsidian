@@ -1132,6 +1132,7 @@ Hinten - in the back / back
 Frei - free
 	Ja, Die Essen ist frei
 	Nein, der Sitz ist nicht frei
+	Ist das Taxi frei - is the taxi available
 
 Nächste - next / closet (literally pronounce as Next in German)
 	Wo ist der Nächste Station
@@ -1201,8 +1202,10 @@ Ich möchte später einen Salatz essen
 Ein Wasser für den Hund, und für Sie.
 
 Der Rotwein red wine
+	Möchtest du ein rotwein trinken
 Trinken Drink
-Die Apfelschorle - sp
+	Sie trinkt ein Bier am Samstag
+Die Apfelschorle - sparkling apple juice
 
 
 
@@ -1278,3 +1281,27 @@ Pommes french fries
 Warten Sie wait 
 es gibt Fisch there is fish
 Mittagessen lunch
+**Exercise End**
+
+
+Bushaltestellen bus station
+Geradeaus Straight ahead
+Circa Approximately
+zu fuß on foot
+	gehen Sie geradeaus circa zwanzig minuten
+Stadtzentrum
+Sehen see
+Warten wait here
+	Warten Sie, Bus Nummer Dreizehn ist da drüben 
+Park park
+Dann Links to the left
+	Gehen sie rechts und dann links
+
+Ich möchte lieber schnitzel essen
+Fahren Sie mit Bus Nummer elf - take bus number eleven
+Wiederholen repeat
+Sie können fuß gehen - you can walk by foot
+Dauert lasts/take  
+	Die Taxifahrt dauert zehn minuten - The taxi ride takes ten minutes
+
+Fluss river
