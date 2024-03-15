@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "20232e1e2b2271f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoNguyenDuongTest.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SoNguyenDuongTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SoNguyenDuongTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SoNguyenDuongTest.md"
               }
             }
           },
@@ -183,8 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ec01e47a37cb727",
+  "active": "20232e1e2b2271f5",
   "lastOpenFiles": [
+    "Web API Project.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Todo.md",
     "Circle Calculator WebApp documentation.md",
     "SR Front-End Requirement.md",
     "SR FE.md",
@@ -193,12 +210,10 @@
     "FrontEnd/Design Note.md",
     "Stakeholder Identification.md",
     "SoNguyenDuongTest.md",
-    "Todo.md",
     "Images/Pasted image 20240314144103.png",
     "Images/Pasted image 20240314143535.png",
     "Images/Pasted image 20240314143318.png",
     "Images/Pasted image 20240314143231.png",
-    "Web API Project.md",
     "ASAP.NET Note.md",
     "Learn Web API.md",
     "Why Web APIs are Essential.md",
@@ -215,7 +230,6 @@
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "_Focus/SQL & DataBase/SQL/SQL tips and tool.md",
     "BackEnd/SQL Revision.md",
-    "System Administration Database.md",
     "Images/Pasted image 20240313223910.png",
     "Images/Pasted image 20240313223906.png",
     "Images/Pasted image 20240313223809.png",

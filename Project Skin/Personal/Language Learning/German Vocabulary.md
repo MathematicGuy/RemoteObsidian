@@ -1278,7 +1278,7 @@ Ordering takeout - gọi món mang về
 
 **Exercise**
 Pommes french fries
-Warten Sie wait 
+Warten Sie (please) wait (use Sie to show repspect for the waiting person)  
 es gibt Fisch there is fish
 Mittagessen lunch
 **Exercise End**
@@ -1295,7 +1295,7 @@ Warten wait here
 	Warten Sie, Bus Nummer Dreizehn ist da drüben 
 Park park
 Dann Links to the left
-	Gehen sie rechts und dann links
+	Gehen sie rechts und dann links - go right then go left 
 
 Ich möchte lieber schnitzel essen
 Fahren Sie mit Bus Nummer elf - take bus number eleven
@@ -1305,3 +1305,12 @@ Dauert lasts/take
 	Die Taxifahrt dauert zehn minuten - The taxi ride takes ten minutes
 
 Fluss river
+
+Zum - to hotel
+	Wir brauchen (plural) ein taxi zum Hotel
+
+Gehst go
+	Warum gehst du links und nicht rechts? - Why are you going to the left and not to the right?
+
+Alles Guten - take care
+	Viele Dank, alles guten

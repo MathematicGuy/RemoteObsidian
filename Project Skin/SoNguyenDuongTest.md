@@ -31,6 +31,8 @@ curl "https://localhost:7289/Circle/TinhTongLuyThua?n=2"
 
 
 
+
+
 **Hosting Info:**
 server: https://win9081.site4now.net:8172/msdeploy.axd?site=sukmadi-001-site1
 
@@ -40,3 +42,8 @@ Destination-ULR: http://sukmadi-001-site1.ktempurl.com/
 	pass: 60-dayfreetrial
 
 connection link: http://sukmadi-001-site1.ktempurl.com/
+harvarddream1432
+
+
+
+
