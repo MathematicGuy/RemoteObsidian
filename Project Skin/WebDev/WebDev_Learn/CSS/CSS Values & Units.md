@@ -19,7 +19,9 @@ CSS units are used to specify the size, position, and other properties of HTML e
 **Relative units** are based on the size or resolution of the device on which the web page is being displayed. Some common relative CSS units include:
 
 - **Percentage (%)**: Percentage values are relative to the size of the element's parent element. For example, a width value of 50% would make the element half as wide as its parent element.
+	
 - **Ems (em)**: Ems are relative to the font size of the element. For example, a font-size value of 2em would make the element's font twice as large as the font size of its parent element.
+	
 - **Rems (rem)**: Rems are similar to ems, but they are relative to the font size of the root element of the document. This means that rems are more consistent across different devices and browsers.
 
 In addition to the units listed above, there are also a number of specialized CSS units, such as those used for gradients, shadows, and transformations.

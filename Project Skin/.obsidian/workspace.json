@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d85dbe3ee8a1cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoNguyenDuongTest.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoNguyenDuongTest.md",
+                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoNguyenDuongTest.md"
+                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md"
               }
             }
           },
@@ -197,14 +210,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20232e1e2b2271f5",
+  "active": "0d85dbe3ee8a1cbb",
   "lastOpenFiles": [
+    "WebDev/WebDev_Learn/HTML.md",
+    "WebDev/WebDev_Learn/Frontend.md",
+    "WebDev/WebDev_Learn/CSS.md",
+    "FrontEnd/CSS Artistic.md",
+    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
+    "FrontEnd/CSS Note.md",
+    "FrontEnd/CSS Desgin Pattern.md",
+    "WebDev/WebDev_Learn/CSS/CSS Grid.md",
+    "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
+    "FrontEnd/Center a div.md",
+    "SoNguyenDuongTest.md",
     "Images/Pasted image 20240315114403.png",
     "Turtorial Resources.md",
     "Images/Pasted image 20240315095947.png",
     "Images/Pasted image 20240315095838.png",
     "Images/Pasted image 20240315095636.png",
-    "SoNguyenDuongTest.md",
     "Web API Project.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
@@ -223,18 +246,8 @@
     "Learn Web API.md",
     "Why Web APIs are Essential.md",
     "ASP.NET Introduction.md",
-    "Connect WebApp DB.md",
-    "Learn ASP.NET.md",
-    "File Structure.md",
     "Images/Pasted image 20240314090233.png",
-    "SDA HW2.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "BackEnd/Relational Algebra Operations.md",
-    "Code/Relational DB Design.md",
-    "BackEnd/Key in RDBMS.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
     "Images/Pasted image 20240313223910.png",
-    "Images/Pasted image 20240313223906.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
