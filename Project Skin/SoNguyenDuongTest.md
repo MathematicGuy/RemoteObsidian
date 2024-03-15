@@ -34,20 +34,22 @@ curl "https://localhost:7289/Circle/TinhTongLuyThua?n=2"
 
 
 **Hosting Info:**
+
+
+
+FREEASAP:
 server: https://win9081.site4now.net:8172/msdeploy.axd?site=sukmadi-001-site1
 
 site-path: sukmadi-001-site1
 Destination-ULR: http://sukmadi-001-site1.ktempurl.com/
 	username: 11165828
 	pass: 60-dayfreetrial
+	![[Pasted image 20240315114403.png]]
+
 
 connection link: http://sukmadi-001-site1.ktempurl.com/
-harvarddream1432
-
-
-
-FREEASAP:
-pass: javis212
+pass: harvarddream1432
+another pass: javis212
 
 Somme
 infinity&beyond2024
