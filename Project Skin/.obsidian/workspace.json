@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fea3615a9bffc142",
+        "id": "023ca9f2e1dcca9c",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec01e47a37cb727",
+            "id": "927ce8ee1e8be4c6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,61 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "20232e1e2b2271f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SoNguyenDuongTest.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eadee0d5c4ece81e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e7fc1d0a99d32ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publish Web API.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7addce41c3768911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Json.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Json.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Json.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Json.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -236,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7addce41c3768911",
+  "active": "927ce8ee1e8be4c6",
   "lastOpenFiles": [
     "WebDev/WebDev_Learn/JS/JS.md",
     "Json.md",
