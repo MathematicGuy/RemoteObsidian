@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "0d85dbe3ee8a1cbb",
+            "id": "eadee0d5c4ece81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/WebDev_Learn/CSS/CSS Values & Units.md"
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md"
               }
             }
           },
@@ -210,19 +210,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d85dbe3ee8a1cbb",
+  "active": "eadee0d5c4ece81e",
   "lastOpenFiles": [
+    "SoNguyenDuongTest.md",
+    "cyebwr.md",
+    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "WebDev/WebDev_Learn/HTML.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "WebDev/WebDev_Learn/CSS.md",
     "FrontEnd/CSS Artistic.md",
-    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "FrontEnd/CSS Note.md",
     "FrontEnd/CSS Desgin Pattern.md",
     "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
     "FrontEnd/Center a div.md",
-    "SoNguyenDuongTest.md",
     "Images/Pasted image 20240315114403.png",
     "Turtorial Resources.md",
     "Images/Pasted image 20240315095947.png",
@@ -245,7 +246,6 @@
     "ASAP.NET Note.md",
     "Learn Web API.md",
     "Why Web APIs are Essential.md",
-    "ASP.NET Introduction.md",
     "Images/Pasted image 20240314090233.png",
     "Images/Pasted image 20240313223910.png",
     "Images/ApplicationDbContext.cs",

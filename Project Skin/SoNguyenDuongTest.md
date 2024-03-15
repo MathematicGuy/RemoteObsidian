@@ -31,10 +31,7 @@ curl "https://localhost:7289/Circle/TinhTongLuyThua?n=2"
 
 
 
-
-
 **Hosting Info:**
-
 
 
 FREEASAP:
