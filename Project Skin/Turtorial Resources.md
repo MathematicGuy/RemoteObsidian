@@ -1,4 +1,15 @@
 ## [[Why Web APIs are Essential]] 
+
+MVC Seperate UI, Data and Control logic so each developer can focus on each individual.
+![[Pasted image 20240315095636.png]]
+V - VIEW: for UI, where it take user input and interaction
+M - MODEL: brain that manage bussines logic
+C - Controller: media between the V and M.
+![[Pasted image 20240315095838.png]]
+
+![[Pasted image 20240315095947.png]]
+
+
 ![[Pasted image 20240307150331.png]]
 
 
@@ -62,3 +73,4 @@ Về mặt kỹ thuật, bạn có thể xây dựng một ứng dụng web mà 
 	search youtube for "How to intergrate ChatGPT to ASAP.NET Core" (chatGPT to evaluating code)
 + [Unit test to scoring code](https://youtube.com/playlist?list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&si=NRktX-ZqPMc6CGIH) 
 	[[What is Unit & How can it help]]
+
