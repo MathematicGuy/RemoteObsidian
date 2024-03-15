@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cd2ac10cba61ac2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Json.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Json.md"
               }
             }
           },
@@ -183,9 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "927ce8ee1e8be4c6",
+  "active": "cd2ac10cba61ac2a",
   "lastOpenFiles": [
     "WebDev/WebDev_Learn/JS/JS.md",
+    "Todo.md",
     "Json.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
@@ -210,7 +225,6 @@
     "Images/Pasted image 20240315095636.png",
     "Web API Project.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "Todo.md",
     "Circle Calculator WebApp documentation.md",
     "SR Front-End Requirement.md",
     "SR FE.md",
