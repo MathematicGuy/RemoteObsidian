@@ -47,6 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e7fc1d0a99d32ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publish Web API.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -212,7 +225,11 @@
   },
   "active": "eadee0d5c4ece81e",
   "lastOpenFiles": [
+    "Publish Web API.md",
+    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "SoNguyenDuongTest.md",
+    "Learn Web API.md",
+    "WebDev/Web.md",
     "cyebwr.md",
     "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "WebDev/WebDev_Learn/HTML.md",
@@ -238,14 +255,10 @@
     "2nd Yrs Science Research Project.md",
     "FE.md",
     "FrontEnd/Design Note.md",
-    "Stakeholder Identification.md",
     "Images/Pasted image 20240314144103.png",
     "Images/Pasted image 20240314143535.png",
     "Images/Pasted image 20240314143318.png",
     "Images/Pasted image 20240314143231.png",
-    "ASAP.NET Note.md",
-    "Learn Web API.md",
-    "Why Web APIs are Essential.md",
     "Images/Pasted image 20240314090233.png",
     "Images/Pasted image 20240313223910.png",
     "Images/ApplicationDbContext.cs",
