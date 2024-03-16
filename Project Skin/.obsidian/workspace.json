@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "cd2ac10cba61ac2a",
+            "id": "c9a3b6124b4b26ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a44f10ccdc6705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "CI_CD.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "CI_CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "CI_CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "CI_CD.md"
               }
             }
           },
@@ -210,18 +197,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53a44f10ccdc6705",
+  "active": "c9a3b6124b4b26ad",
   "lastOpenFiles": [
+    "Images/Pasted image 20240316232425.png",
+    "Images/Pasted image 20240316232321.png",
+    "Images/Pasted image 20240316232311.png",
+    "Images/Pasted image 20240316231047.png",
+    "Todo.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "CI_CD.md",
     "Personal/Language Learning/German Vocabulary.md",
+    "CI_CD.md",
     "2nd Yrs Science Research Project.md",
     "Json.md",
     "Personal/Interest/Music/Là Anh.md",
     "Images/Pasted image 20240316114044.png",
     "Personal/Interest/Music/jONE CENA theme song.md",
     "WebDev/WebDev_Learn/JS/JS.md",
-    "Todo.md",
     "WebDev/WebDev_Learn/Frontend.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Publish Web API.md",
@@ -239,15 +230,11 @@
     "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
     "FrontEnd/Center a div.md",
     "Images/Pasted image 20240315114403.png",
-    "Turtorial Resources.md",
     "Images/Pasted image 20240315095947.png",
     "Images/Pasted image 20240315095838.png",
     "Images/Pasted image 20240315095636.png",
     "Images/Pasted image 20240314144103.png",
     "Images/Pasted image 20240314143535.png",
-    "Images/Pasted image 20240314143318.png",
-    "Images/Pasted image 20240314143231.png",
-    "Images/Pasted image 20240314090233.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

@@ -42,10 +42,21 @@ CI/CD is a team of helpers that make sure new code works great and gets to every
     - **Package the website:** The pipeline puts all the pieces of the website together in a neat package, ready to be used.
     - **Deliver the website:** The pipeline sends the package to a special place where everyone can access the website or app.
 
-
 - **CI (Continuous Integration):** The practice of automating code merging and testing as developers make changes.
 - **CD (Continuous Delivery/Deployment):** The practice of automating the steps to get new code versions into production environments.
 
 - [ ] What is CI/CD ? 
 - [ ] How to CI/CD ?
 - [ ] Integrate CI/CD ?
+
+
+### Azure Repos
+![[Pasted image 20240316231047.png]]
+
+![[Pasted image 20240316232311.png]]
+
+![[Pasted image 20240316232321.png]]
+![[Pasted image 20240316232425.png]]
+Test and Build
+Build and Push Image with docker 
+
