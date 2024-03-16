@@ -1,9 +1,11 @@
-+
-![[bigG.png]]
-![[bigA.png]]
-![[openBm.png]]
-![[bigG.png]]
 
+![[Pasted image 20240316114044.png]]
+
+![[bigA.png]]
+
+![[openBm.png]]
+
+![[bigG.png]]
 
 ![[Pasted image 20240203102137.png]]
 
