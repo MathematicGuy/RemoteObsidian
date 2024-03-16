@@ -66,3 +66,7 @@
 **Organization and Planning:**
 - [x]  **Task Delegation:** Assign tasks based on each member's strengths and skillsets.
 - [ ] **Prioritization:** Help your team focus on the most critical tasks first, especially with limited time.
+
+
+Empathy - put mzslef into other shoes to understand them
+Sympathz - understand how they feel without care about how they feel
