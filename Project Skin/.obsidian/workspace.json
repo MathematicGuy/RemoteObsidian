@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32b0a95032abcd6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SR Front-End Requirement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lead.md",
+                "file": "SR Front-End Requirement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lead.md",
+                "file": "SR Front-End Requirement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lead.md"
+                "file": "SR Front-End Requirement.md"
               }
             }
           },
@@ -197,10 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a92ad590ede78139",
+  "active": "32b0a95032abcd6c",
   "lastOpenFiles": [
-    "Todo.md",
+    "Images/Pasted image 20240317013456.png",
+    "SR FE.md",
+    "SR Front-End Requirement.md",
+    "2nd Yrs Science Research Project.md",
     "Lead.md",
+    "Todo.md",
     "Stakeholder Identification.md",
     "CI_CD.md",
     "Images/Pasted image 20240316232425.png",
@@ -209,7 +226,6 @@
     "Images/Pasted image 20240316231047.png",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "2nd Yrs Science Research Project.md",
     "Json.md",
     "Personal/Interest/Music/Là Anh.md",
     "Images/Pasted image 20240316114044.png",
@@ -227,9 +243,6 @@
     "WebDev/WebDev_Learn/CSS.md",
     "FrontEnd/CSS Artistic.md",
     "FrontEnd/CSS Note.md",
-    "FrontEnd/CSS Desgin Pattern.md",
-    "WebDev/WebDev_Learn/CSS/CSS Grid.md",
-    "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
     "Images/Pasted image 20240315114403.png",
     "Images/Pasted image 20240315095947.png",
     "Images/Pasted image 20240315095838.png",
