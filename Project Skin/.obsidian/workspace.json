@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/2023/Challenges & Guides/Github.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "53a44f10ccdc6705",
   "lastOpenFiles": [
+    "_Focus/2023/Challenges & Guides/Github.md",
     "CI_CD.md",
     "2nd Yrs Science Research Project.md",
     "Json.md",
@@ -242,7 +243,6 @@
     "Images/Pasted image 20240315095838.png",
     "Images/Pasted image 20240315095636.png",
     "Web API Project.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240314144103.png",
     "Images/Pasted image 20240314143535.png",
     "Images/Pasted image 20240314143318.png",

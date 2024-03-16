@@ -1277,10 +1277,10 @@ Ordering takeout - gọi món mang về
 
 
 **Exercise**
-Pommes french fries
-Warten Sie (please) wait (use Sie to show repspect for the waiting person)  
-es gibt Fisch there is fish
-Mittagessen lunch
+	Pommes french fries
+	Warten Sie (please) wait (use Sie to show repspect for the waiting person)  
+	es gibt Fisch there is fish
+	Mittagessen lunch
 **Exercise End**
 
 
@@ -1314,3 +1314,6 @@ Gehst go
 
 Alles Guten - take care
 	Viele Dank, alles guten
+
+Besuchen visit
+	
