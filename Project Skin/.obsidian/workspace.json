@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "023ca9f2e1dcca9c",
+        "id": "ea5a1e7e7dde7918",
         "type": "tabs",
         "children": [
           {
-            "id": "927ce8ee1e8be4c6",
+            "id": "90bcbc67e0a98f5e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c9a3b6124b4b26ad",
+            "id": "a92ad590ede78139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI_CD.md",
+                "file": "Lead.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI_CD.md",
+                "file": "Lead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI_CD.md",
+                "file": "Lead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI_CD.md"
+                "file": "Lead.md"
               }
             }
           },
@@ -197,16 +197,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9a3b6124b4b26ad",
+  "active": "a92ad590ede78139",
   "lastOpenFiles": [
+    "Todo.md",
+    "Lead.md",
+    "Stakeholder Identification.md",
+    "CI_CD.md",
     "Images/Pasted image 20240316232425.png",
     "Images/Pasted image 20240316232321.png",
     "Images/Pasted image 20240316232311.png",
     "Images/Pasted image 20240316231047.png",
-    "Todo.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "CI_CD.md",
     "2nd Yrs Science Research Project.md",
     "Json.md",
     "Personal/Interest/Music/Là Anh.md",
@@ -228,13 +230,11 @@
     "FrontEnd/CSS Desgin Pattern.md",
     "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
-    "FrontEnd/Center a div.md",
     "Images/Pasted image 20240315114403.png",
     "Images/Pasted image 20240315095947.png",
     "Images/Pasted image 20240315095838.png",
     "Images/Pasted image 20240315095636.png",
     "Images/Pasted image 20240314144103.png",
-    "Images/Pasted image 20240314143535.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
