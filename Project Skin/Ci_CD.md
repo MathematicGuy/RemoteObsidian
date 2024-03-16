@@ -9,7 +9,6 @@
 	+ Build your project to make sure all the pieces fit together.	
 + ? Like an Rocket testing in a simulation to see if it fly.    
 
-- [ ] 2
 ### CD (Continuous Delivery)
 **Purpose:** To get your finished code changes ready for release (putting it where people 
 can use it. eg. github) 	
@@ -34,8 +33,10 @@ CI/CD is a team of helpers that make sure new code works great and gets to every
 
 ### Project: Deploy CI/CD for ASP.NET Core applications to Azure DevOps
 
-- **ASP.NET Core:** Think of this as a special set of building blocks used to make websites and apps that run on computers.
+- **ASP.NET Core:** Tool used to make websites and apps that run on computers.
+
 - **Azure DevOps:** A special place in the cloud where people who build these websites and apps work together. It has tools to help them build, test, and share their creations.
+
 - **CI/CD Pipeline:** A super helpful robot that lives in Azure DevOps. It can do these things automatically:
     - **Check if new code works:** Every time a builder adds new code (like changing a website's color), the pipeline makes sure it doesn't break anything.
     - **Package the website:** The pipeline puts all the pieces of the website together in a neat package, ready to be used.
@@ -44,3 +45,7 @@ CI/CD is a team of helpers that make sure new code works great and gets to every
 
 - **CI (Continuous Integration):** The practice of automating code merging and testing as developers make changes.
 - **CD (Continuous Delivery/Deployment):** The practice of automating the steps to get new code versions into production environments.
+
+- [ ] What is CI/CD ? 
+- [ ] How to CI/CD ?
+- [ ] Integrate CI/CD ?

@@ -10,6 +10,8 @@
 9. *AI, LLM...*
 note: big old project
 	Xây dựng 1 web cho phép quản lý học liệu, đồ án môn học, tìm kiếm, hỏi đáp sử dụng LLM, tư vấn môn học, đánh giá code tự động
+https://incongruous-sunday-71f.notion.site/Use-case-30f0130f08684d7688eb9f9a4f702799
+
 
 
 [[Turtorial Resources]]
