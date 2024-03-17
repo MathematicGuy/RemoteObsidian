@@ -40,8 +40,7 @@ Row - Recordw
     5. SELECT
     6. ORDER BY
 
-+ **WHERE vs. HAVING: Key Differences**
-    
++ **WHERE vs. HAVING: Key Differences**    
     - **WHERE:** Filters individual rows _before_ grouping takes place.
     - **HAVING:** Filters groups of rows _after_ grouping and aggregate functions have been applied.
 + Query are read from Bottom to Top
@@ -50,6 +49,8 @@ Row - Recordw
 ```sql
 Select (309 + 517 + 304 + 282) / 6366.0; --without .0 nothing will appear
 ```
++ ! Cannot use Aggregate functions in WHERE clause. (The example below will cause Error)
+	Ex: select * from employees where salary > AVG(salary) GROUP BY employee_id
 
 
 Create Data Base

@@ -2,24 +2,39 @@
 
 1. Find those employees whose salaries are higher than the average for all departments
 ```sql
-
+select * from employees where 
+    salary > (select AVG(salary) from employees)
 ```
 
 
 2. Write a stored procedure that receives the department id as the input and displays the average salary of the employees working at that department.
 ```sql
-	CREATE PROCEDURE get_customer_salary (@deparment_id INT)
-	AS BEGIN
-	    SELECT AVG(salary) as avg_salary FROM employees WHERE department_id = @deparment_id;
-	END
-	
-	get_customer_salary 8; -- OR EXEC get_customer_salary 8;
+CREATE PROCEDURE get_customer_salary (@deparment_id INT)
+AS BEGIN
+	 SELECT AVG(salary) as avg_salary FROM employees WHERE department_id = @deparment_id;
+END
+
+get_customer_salary 8; -- OR EXEC get_customer_salary 8;
 ```
 
    
 3. Create a stored procedure that takes the department ID and the employee ID as parameters, enabling the transfer of employees from one department to another. If an employee's salary is lower than the minimum salary of the destination department, the procedure will adjust the employee's salary to match the minimum salary of that department
 ```sql
+CREATE OR ALTER PROCEDURE get_department_avg_salary
+(
+    @department_id INT
+)
+AS 
+BEGIN
 
+    SELECT AVG(salary) AS avg_salary FROM employees WHERE department_id = @department_id;
+END;
+
+	DECLARE @avg_salary DECIMAL(10, 2) -- Variable to store the result
+
+EXEC get_department_avg_salary 8, @avg_salary = @avg_salary OUTPUT;
+
+SELECT @avg_salary AS avg_salary
 ```
 Before
 ![[Pasted image 20240313223910.png]]

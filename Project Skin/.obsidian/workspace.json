@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI_CD.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fcc6ba931fce305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Procedure and Trigger.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI_CD.md",
+                "file": "Practice Procedure and Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI_CD.md",
+                "file": "Practice Procedure and Trigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI_CD.md"
+                "file": "Practice Procedure and Trigger.md"
               }
             }
           },
@@ -197,8 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03bc2d634253e5cf",
+  "active": "1fcc6ba931fce305",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Practice Procedure and Trigger.md",
+    "Todo.md",
+    "System Administration Database.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "CI_CD.md",
     "Images/Pasted image 20240317174745.png",
     "Images/Pasted image 20240317174705.png",
     "Circle Calculator WebApp documentation.md",
@@ -206,19 +225,16 @@
     "_Focus/2023/Challenges & Guides/Github.md",
     "Git for Professionals.md",
     "How GIT works under the HOOD.md",
-    "Todo.md",
     "Images/Pasted image 20240317013456.png",
     "SR FE.md",
     "SR Front-End Requirement.md",
     "2nd Yrs Science Research Project.md",
     "Lead.md",
     "Stakeholder Identification.md",
-    "CI_CD.md",
     "Images/Pasted image 20240316232425.png",
     "Images/Pasted image 20240316232321.png",
     "Images/Pasted image 20240316232311.png",
     "Images/Pasted image 20240316231047.png",
-    "Personal/Language Learning/German Vocabulary.md",
     "Json.md",
     "Personal/Interest/Music/Là Anh.md",
     "Images/Pasted image 20240316114044.png",
@@ -230,11 +246,8 @@
     "SoNguyenDuongTest.md",
     "Learn Web API.md",
     "WebDev/Web.md",
-    "cyebwr.md",
-    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
     "Images/Pasted image 20240315114403.png",
     "Images/Pasted image 20240315095947.png",
-    "Images/Pasted image 20240315095838.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

@@ -389,7 +389,7 @@ Der Vegetatier Excercise
 + Wir: We
 + Sie : "You" in plural
 + sie : "She" in singular and "They" in plural
-#### Unit 5: Ask for directions
+### Unit 5: Ask for directions
 + $ Key Phrase
 	Links - left
 	Recht - Right
@@ -401,6 +401,18 @@ Der Vegetatier Excercise
 	-> nein, der Markt ist in weit weg
 	Wo ist der Park
 	-> Der Park ist links
+
+```ad-tip
+**If you ins-ist** (in the)
+	The word ins is short for in das!
+Gehst du heute ins Restaurant? / Nein, ich gehe heute auf eine party 
+```
+
+```ad-tip
+**Pow! And another kick!**
+	Nouns receiving the action in the sentence get kicked to the end, including after time phrases!
+	
+```
 
 Bahnof train station
 U Bahnstation subway station
@@ -1187,6 +1199,7 @@ Halb half
 
 Kommt der Zug um vier oder um fünf Uhr? (check for word structure)
 	Der zug kommt um halb fünf
+### Unit 6: Guidebook
 
 Hunger hungry
 	Oh, habe du Hunger - oh, are you hungry
@@ -1317,4 +1330,26 @@ Alles Guten - take care
 
 Besuchen visit
 
-Geburtstag
+Geburtstag - birthday
+Mache - have
+	Ich mache - I have
+Mai - May
+	Wir machen am dritten Mai vier eine Party - we are having a party on the third of Maz
+Meine Maus hat im Mai Geburtstag - My Mouse's birthday is in May
+Am zweiten April hat meine Freundin Geburtstag. Das ist heute - On the second of April is mz friend birthday 
+Dritten - third 
+	Dritten April - the third of April
+Vierten - Forth
+Wir machen am vierten Mai eine Party, kommst du? - we are having a party on the fourth of May, are you comming. 
+ 
+### Unit 7
+Eine Party - a party
+Picknick picnic
+Du machst morgen eine Party und ich kann kommen! - you are having a party and I can come
+Kannst du morgen kommen
+Ich mache eine party kannst du kommen
+Zehnten - ten
+	Wir machen am zehnten Juli eine Party.
+März 
+	Hat deine Mutter am zehnten März Geburtstag?
+Siebten - seventh
