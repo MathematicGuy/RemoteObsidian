@@ -68,9 +68,49 @@ EXEC tranfer_employee @emp_id = 107,
 	Create a temporaly department_id and transfer all the employee to that department then Update current department_id.
 + **Fail Scenario:** new department_id = old department_id
 ```sql
+SET IDENTITY_INSERT departments ON;
+GO
 
+CREATE OR ALTER PROCEDURE modifyDep(@oldDep_id INT, @newDep_id INT, @dep_name nvarchar(30))
+AS BEGIN 
+    BEGIN TRANSACTION;
+    BEGIN TRY
+        -- get location_id from the old department
+        DECLARE @location_id INT;
+        select @location_id = departments.location_id from departments WHERE department_id = @oldDep_id;
+
+        -- insert new dep if not inserted already
+        IF @newDep_id NOT IN (select department_id from departments)
+        BEGIN
+            INSERT INTO departments (department_id, department_name, location_id)
+            VALUES (@newDep_id, @dep_name, @location_id);
+        END
+
+        -- transfer emp from dep X to dep Y
+        UPDATE employees SET department_id = @newDep_id WHERE department_id = @oldDep_id 
+
+        -- delete the old Dep
+        DELETE FROM departments WHERE department_id = @oldDep_id
+        
+        COMMIT TRANSACTION;
+    END TRY
+    
+    BEGIN CATCH
+        -- An error occurred, so rollback the transaction
+        ROLLBACK TRANSACTION;
+
+        -- Re-throw the error
+        RAISERROR('Duplicate Department_id. Can not Execute', 16, 1)
+    END CATCH
+END
+GO
+
+EXEC modifyDep @oldDep_id = 1, @newDep_id = 66, @dep_name = 'Administration'
+SELECT * from departments
+SET IDENTITY_INSERT departments OFF; -- turn back On auto-increament 
+GO
 ```
-![[Pasted image 20240318030825.png]]
+
 
 5. Write a trigger that checks for dependencies before allowing the deletion of a manager. In this case, ensure that all employees under their supervision are reassigned before allowing the deletion.
 ```sql
