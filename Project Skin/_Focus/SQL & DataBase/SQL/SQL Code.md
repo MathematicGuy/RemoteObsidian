@@ -98,6 +98,7 @@ CREATE TABLE employees (
 	hire_date date,
 );
 ```
++ ? **DECIMAL(10, 2)**: means that you're declaring a decimal number that can have a **total of 8 digits**, with **2 of these digits after the decimal point**.
 
 
 work for phpMyAdmin
@@ -778,9 +779,40 @@ AS BEGIN
 END
 
 get_customer_salary 8; -- OR EXEC get_customer_salary 8;
+GO -- Remeber to add Go at the end to run the query
 ```
 
-**COALESCE**
+**PROCEDURE Example**
++ ? Create the Procedure to Update employee salary and department_id
+```sql
+CREATE OR ALTER PROCEDURE Gehalt_und_AbteulungsID_aktualisieren (@emp_id INT)
+AS BEGIN
+    DECLARE @emp_salary DECIMAL(8, 2);
+    select @emp_salary = salary
+    from employees
+    where department_id = 2    
+    
+    IF (@emp_salary != 4800) 
+    BEGIN
+        UPDATE employees SET department_id = 6 WHERE employee_id = 107
+        UPDATE employees SET salary = 4800 WHERE employee_id = 107
+    END
+END
+```
++ ? Test the PROCEDURE
+```sql
+use jobDB; -- use jobDB database
+-- Update salary from 4800 to 9000 to test the procedure
+UPDATE employees SET salary = 9000 WHERE employee_id = 107; 
+-- select table before the procedure was trigger 
+select employee_id, salary, department_id as 'dep2 salary' from employees where employee_id = 107
+-- Trigger the procedure
+EXEC Gehalt_und_AbteulungsID_aktualisieren 107;
+Go
+```
+
+
+**COALESCE** (Liên kết)
 + **Retrieve the first non-null expression among its arguments**.
 	It is particularly handy when you have multiple columns or values and want to retrieve the first non-null one.
 + **and return NULL if all values are NULL.**
@@ -855,8 +887,6 @@ group by 1 limit 10;
 ```
 
 
-
-
 **Select only from letter** 
 + ? Select all letter both Uppercase and Lowercase
 ```sql
@@ -880,8 +910,6 @@ select * from employees
 where last_name LIKE '%G%'
 COLLATE Latin1_General_100_BIN2;
 ```
-
-
 
 
 ### Select field by number (Easier way to select collumn)
@@ -914,3 +942,6 @@ where 1 IS NOT NULL -- only take the un-NULL value
 group by 1 
 order by 2 desc -- make the time_stamp column not group all 
 ```
+
+
+
