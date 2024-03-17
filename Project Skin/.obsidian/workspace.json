@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circle Calculator WebApp documentation.md",
+                "file": "CI_CD.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circle Calculator WebApp documentation.md",
+                "file": "CI_CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circle Calculator WebApp documentation.md",
+                "file": "CI_CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circle Calculator WebApp documentation.md"
+                "file": "CI_CD.md"
               }
             }
           },
@@ -199,6 +199,13 @@
   },
   "active": "03bc2d634253e5cf",
   "lastOpenFiles": [
+    "Images/Pasted image 20240317174745.png",
+    "Images/Pasted image 20240317174705.png",
+    "Circle Calculator WebApp documentation.md",
+    "How to be a Git Expert.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "Git for Professionals.md",
+    "How GIT works under the HOOD.md",
     "Todo.md",
     "Images/Pasted image 20240317013456.png",
     "SR FE.md",
@@ -211,7 +218,6 @@
     "Images/Pasted image 20240316232321.png",
     "Images/Pasted image 20240316232311.png",
     "Images/Pasted image 20240316231047.png",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Json.md",
     "Personal/Interest/Music/Là Anh.md",
@@ -226,14 +232,9 @@
     "WebDev/Web.md",
     "cyebwr.md",
     "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
-    "WebDev/WebDev_Learn/HTML.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "FrontEnd/CSS Artistic.md",
-    "FrontEnd/CSS Note.md",
     "Images/Pasted image 20240315114403.png",
     "Images/Pasted image 20240315095947.png",
     "Images/Pasted image 20240315095838.png",
-    "Images/Pasted image 20240315095636.png",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

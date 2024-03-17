@@ -60,3 +60,6 @@ CI/CD is a team of helpers that make sure new code works great and gets to every
 Test and Build
 Build and Push Image with docker 
 
+![[Pasted image 20240317174705.png]]
+But nowaday we use Docket Images
+![[Pasted image 20240317174745.png]]
