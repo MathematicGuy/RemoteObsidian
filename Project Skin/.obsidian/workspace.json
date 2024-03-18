@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22c8a8fffcecaa95",
+        "id": "8137a9970969c819",
         "type": "tabs",
         "children": [
           {
-            "id": "d2091f85904041b3",
+            "id": "32deb613521849e4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,46 +23,15 @@
             }
           },
           {
-            "id": "a8525f60944ec86a",
+            "id": "e6b58b7c8d0e59f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc8725e4f550c6f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice Procedure and Trigger.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aaaf9e09e83faf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circle Calculator WebApp documentation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Practice Procedure and Trigger.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,12 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc8725e4f550c6f7",
+  "active": "e6b58b7c8d0e59f0",
   "lastOpenFiles": [
+    "Todo.md",
     "Circle Calculator WebApp documentation.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Practice Procedure and Trigger.md",
-    "Todo.md",
     "Images/Pasted image 20240318094657.png",
     "Images/Pasted image 20240318094636.png",
     "Personal/Language Learning/German Vocabulary.md",
