@@ -78,23 +78,33 @@ AS BEGIN
         -- get location_id from the old department
         DECLARE @location_id INT;
         select @location_id = departments.location_id from departments WHERE department_id = @oldDep_id;
-
-        -- insert new dep if not inserted already
-        IF @newDep_id NOT IN (select department_id from departments)
-        BEGIN
-            INSERT INTO departments (department_id, department_name, location_id)
-            VALUES (@newDep_id, @dep_name, @location_id);
-        END
-
-        -- transfer emp from dep X to dep Y
-        UPDATE employees SET department_id = @newDep_id WHERE department_id = @oldDep_id 
-
-        -- delete the old Dep
-        DELETE FROM departments WHERE department_id = @oldDep_id
         
-        COMMIT TRANSACTION;
+        -- insert new dep if not inserted already
+        IF @newDep_id NOT IN (SELECT department_id FROM departments)
+            BEGIN
+                -- Insert the new department
+                INSERT INTO departments (department_id, department_name, location_id)
+                VALUES (@newDep_id, @dep_name, @location_id);
+
+                -- Transfer employees from the old department to the new one
+                UPDATE employees 
+                SET department_id = @newDep_id 
+                WHERE department_id = @oldDep_id;
+
+                -- Delete the old department
+                DELETE FROM departments 
+                WHERE department_id = @oldDep_id;
+            END
+        ELSE
+            BEGIN
+                -- If the new department already exists, rename it
+                UPDATE departments 
+                SET department_name = @dep_name 
+                WHERE department_id = @newDep_id;
+            END
+    COMMIT TRANSACTION;
     END TRY
-    
+
     BEGIN CATCH
         -- An error occurred, so rollback the transaction
         ROLLBACK TRANSACTION;
