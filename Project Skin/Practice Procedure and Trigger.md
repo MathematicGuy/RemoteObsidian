@@ -68,16 +68,31 @@ EXEC tranfer_employee @emp_id = 107,
 	Create a temporaly department_id and transfer all the employee to that department then Update current department_id.
 + **Fail Scenario:** new department_id = old department_id
 ```sql
-SET IDENTITY_INSERT departments ON;
-GO
+/*
+? This script is used to modify department details in the jobDB database.
+? It includes a stored procedure called modifyDep which 
+?    takes three parameters: @oldDep_id, @newDep_id, and @dep_name. 
+
+? The procedure works as follows:
+*    1. It retrieves the location_id of the old department.
+*    2. Checks if the new department id already exists in the departments table.
+*    3. If the new department id does not exist, it inserts a new department with the new department id, department name, and the location id of the old department. It then transfers all employees from the old department to the new one and deletes the old department.
+*    4. If the new department id already exists, it simply updates the department name of the existing department.
+
+* In case of any errors during the transaction, it rolls back the transaction and raises an error.
+
+? Finally, the script executes the modifyDep procedure with sample parameters and selects all records from the departments table.
+*/
 
 CREATE OR ALTER PROCEDURE modifyDep(@oldDep_id INT, @newDep_id INT, @dep_name nvarchar(30))
 AS BEGIN 
+
     BEGIN TRANSACTION;
+    -- Begin Try Catch. Any Errors within Try goes to Catch
     BEGIN TRY
         -- get location_id from the old department
         DECLARE @location_id INT;
-        select @location_id = departments.location_id from departments WHERE department_id = @oldDep_id;
+        SELECT @location_id = departments.location_id from departments WHERE department_id = @oldDep_id;
         
         -- insert new dep if not inserted already
         IF @newDep_id NOT IN (SELECT department_id FROM departments)
@@ -89,11 +104,11 @@ AS BEGIN
                 -- Transfer employees from the old department to the new one
                 UPDATE employees 
                 SET department_id = @newDep_id 
-                WHERE department_id = @oldDep_id;
+                WHERE department_id = @oldDep_id
 
                 -- Delete the old department
                 DELETE FROM departments 
-                WHERE department_id = @oldDep_id;
+                WHERE department_id = @oldDep_id
             END
         ELSE
             BEGIN
@@ -102,7 +117,8 @@ AS BEGIN
                 SET department_name = @dep_name 
                 WHERE department_id = @newDep_id;
             END
-    COMMIT TRANSACTION;
+    -- pernamently save progress. The opposite of ROLLBACK
+    COMMIT TRANSACTION; 
     END TRY
 
     BEGIN CATCH
@@ -114,17 +130,58 @@ AS BEGIN
     END CATCH
 END
 GO
-
-EXEC modifyDep @oldDep_id = 1, @newDep_id = 66, @dep_name = 'Administration'
-SELECT * from departments
-SET IDENTITY_INSERT departments OFF; -- turn back On auto-increament 
-GO
 ```
 
 
 5. Write a trigger that checks for dependencies before allowing the deletion of a manager. In this case, ensure that all employees under their supervision are reassigned before allowing the deletion.
 ```sql
+/*
+    FILEPATH: /d:/CMC_UNI/1st Year/1st Year - Final Semester/DataBase/SQL/procedure.sql
 
+    DESCRIPTION:
+    This code creates a trigger named 'prevent_manager_deletion_without_reassignment' on the 'employees' table.
+    The trigger is fired after a row is deleted from the 'employees' table.
+    It checks if there are any employees who report to the manager being deleted.
+    If there are employees who still report to the manager, it raises an error and rolls back the transaction.
+
+    USAGE:
+    - This trigger is designed to prevent the deletion of managers without reassigning their employees.
+    - It ensures data integrity by enforcing the constraint that all employees must have a valid manager.
+
+    TABLES USED:
+    - employees: The main table that stores employee information.
+
+    TRIGGER LOGIC:
+    1. The trigger is fired after a row is deleted from the 'employees' table.
+    2. It checks if there are any employees who report to the manager being deleted.
+    3. If there are employees who still report to the manager, it raises an error and rolls back the transaction.
+
+    EXAMPLE:
+    - Suppose we have an 'employees' table with the following data:
+        employee_id | manager_id
+        ------------|-----------
+        1           | NULL
+        2           | 1
+        3           | 1
+        4           | 2
+
+    - If we try to delete the manager with 'employee_id' = 1, the trigger will raise an error because employees with 'employee_id' = 2 and 3 still report to this manager.
+*/
+
+CREATE OR ALTER TRIGGER prevent_manager_deletion_without_reassignment
+ON employees -- Assuming you have a separate 'managers' table
+AFTER DELETE
+AS
+BEGIN
+    IF EXISTS (SELECT 1 
+               FROM employees 
+               WHERE manager_id IN (SELECT employee_id from deleted)) 
+    BEGIN
+        RAISERROR('Cannot delete manager. Employees still report to this manager.', 16, 1);
+        ROLLBACK TRANSACTION; 
+    END;
+END;
+GO
 ```
 
 

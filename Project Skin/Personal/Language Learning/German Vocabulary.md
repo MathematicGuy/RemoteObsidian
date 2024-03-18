@@ -1353,3 +1353,15 @@ Zehnten - ten
 März 
 	Hat deine Mutter am zehnten März Geburtstag?
 Siebten - seventh
+
+die Einladung - the invitation
+Zur - to the
+	Muss ich zur Party kommen?
+Auf jeden Fall - definitly
+	Nina und Max, möchtet ihr kommen?
+Tim und Kurt, macht ihr ein Picknick?
++ macht - are doing
+Anna und Maria, möchtet ihr ins Restaurant gehen?
+	Ihr: plural form of "you". 
+	Er: singular form of "he"
+

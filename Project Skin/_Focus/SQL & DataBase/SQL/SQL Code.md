@@ -180,6 +180,16 @@ MODIFY COLUMN phone_number
 VARCHAR(20) FIRST;
 ```
 
+ALTER TABLE ADD COLUMN (FIELD)
+```sql
+ALTER TABLE jobs
+ADD hours_salary INT NULL;
+```
+
+DELETE ROW
+```sql
+DELETE FROM employees WHERE employee_id = 201;
+```
 
 DROP COLUMN ( *Delete Column* )
 ```sql
@@ -943,5 +953,90 @@ group by 1
 order by 2 desc -- make the time_stamp column not group all 
 ```
 
+**TRIGGER**
++ ? Trigger function: Automatically Trigger a Query after an Event
+	Example: increate salary automatically when hourly_pay was increase. (don't need to update salary manually anymore)
+1) Name Trigger function 
+2) BEFORE/AFTER (INSERT/UPDATE/DELETE)
+3) FOR (What/How Many) Row ?
+4) Trigger a Query 
+-> Trigger applied changes into table before an operation (UPDATE/INSERT/DELETE) FOR N number of row.
 
+**Before**
+	![[Pasted image 20240318094657.png]]
 
+**After**
+	![[Pasted image 20240318094636.png]]\
+
+### Update Column A value for each value in Column B
+> Insert new Column hours_salary -> Update hours_salary alongside with employees salary.
+
++ ? Update hours_salary by salary of an Employee
+**SQL on MS SQLServer**
+```sql
+CREATE TRIGGER update_hours_salary 
+ON employees
+AFTER UPDATE 
+AS 
+BEGIN
+    UPDATE employees
+    -- 70 hours work week for a year = 3360 hours
+    SET hours_salary = salary / (12*4*70)
+    WHERE employee_id IN (SELECT employee_id from inserted)
+END;
+```
+
+Create Procedure
++ ? Update salary by @emp_id
+```sql
+--? update salary by @emp_id
+CREATE OR ALTER PROCEDURE translate_salary(@emp_id INT)
+AS BEGIN
+    DECLARE @salary DECIMAL(8, 2)
+    SELECT @salary = salary from employees WHERE employee_id = @emp_id;
+    UPDATE employees SET salary = @salary WHERE employee_id = @emp_id
+END
+GO
+```
+
++ ? Repeat a procedure n time for each element in table
++ ? For each @emp_id execute translate_salary procedure
+1) For Loop
+```sql
+DECLARE @emp_id INT;
+DECLARE emp_cursor CURSOR FOR 
+SELECT employee_id FROM employees;
+
+OPEN emp_cursor;
+FETCH NEXT FROM emp_cursor INTO @emp_id;
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+    --? Excecute 'translate_salary' Procedure for each @emp_id
+    EXEC translate_salary @emp_id;
+    FETCH NEXT FROM emp_cursor INTO @emp_id;
+END;
+
+CLOSE emp_cursor;
+DEALLOCATE emp_cursor;
+GO
+SELECT * from employees
+```
+2) While Loop
+```sql
+DECLARE @emp_id INT;
+DECLARE @max_emp_id INT;
+
+SELECT @max_emp_id = MAX(employee_id) FROM employees;
+SET @emp_id = 1;  -- Or the minimum employee_id
+
+WHILE @emp_id <= @max_emp_id
+BEGIN
+    -- Call your procedure and pass in the current @emp_id
+    EXECUTE translate_salary @emp_id;
+
+    SET @emp_id = @emp_id + 1;
+END
+
+SELECT * from employees
+```
