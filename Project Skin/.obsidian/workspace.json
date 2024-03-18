@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6aaaf9e09e83faf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circle Calculator WebApp documentation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Practice Procedure and Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Practice Procedure and Trigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "Practice Procedure and Trigger.md"
               }
             }
           },
@@ -210,11 +223,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8525f60944ec86a",
+  "active": "cc8725e4f550c6f7",
   "lastOpenFiles": [
-    "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Todo.md",
+    "Circle Calculator WebApp documentation.md",
+    "Practice Procedure and Trigger.md",
     "Images/Pasted image 20240318094657.png",
     "Images/Pasted image 20240318094636.png",
     "Personal/Language Learning/German Vocabulary.md",
@@ -228,7 +242,6 @@
     "CI_CD.md",
     "Images/Pasted image 20240317174745.png",
     "Images/Pasted image 20240317174705.png",
-    "Circle Calculator WebApp documentation.md",
     "How to be a Git Expert.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Git for Professionals.md",

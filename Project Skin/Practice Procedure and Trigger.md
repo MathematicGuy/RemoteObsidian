@@ -28,26 +28,30 @@ CREATE OR ALTER PROCEDURE tranfer_employee
 )
 AS
 BEGIN
-    DECLARE @min_salary DECIMAL(10, 2);
-    DECLARE @emp_salary DECIMAL(10, 2);
-    --? Get the Minimum Salary of the selected department
-    select @min_salary = MIN(salary)
-    from employees
-    where department_id = 2
-    --? Get the Selected Employee Salary 
-    select @emp_salary = salary
-    from employees
-    WHERE employee_id = 107
-    --? If the employee's salary is lower than 
-    --? the minimum salary of the destination department, adjust the salary
-    UPDATE employees
-SET department_id = 2
-WHERE 107 = employee_id
-    IF (@min_salary > @emp_salary) BEGIN
-        UPDATE employees
-SET salary = @min_salary
-WHERE 107 = employee_id
-    END
+	DECLARE @min_salary DECIMAL(10, 2);
+	DECLARE @emp_salary DECIMAL(10, 2);
+	
+	--? Get the Minimum Salary of the selected department
+	select @min_salary = MIN(salary)
+	from employees
+	where department_id = 2
+	
+	--? Get the Selected Employee Salary 
+	select @emp_salary = salary
+	from employees
+	WHERE employee_id = 107
+	
+	--? If the employee's salary is lower than 
+	--? the minimum salary of the destination department, adjust the salary
+	UPDATE employees
+    
+	SET department_id = 2
+	WHERE 107 = employee_id
+		IF (@min_salary > @emp_salary) BEGIN
+			UPDATE employees
+			SET salary = @min_salary
+			WHERE 107 = employee_id
+		END
 END 
 -- Go mean run all the Query before me
 GO -- always add GO at the end of a procedure. Else it will not run/ 
