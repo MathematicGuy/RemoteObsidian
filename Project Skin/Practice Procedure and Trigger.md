@@ -66,11 +66,11 @@ EXEC tranfer_employee @emp_id = 107,
 
 
 4. Design a stored procedure that updates department details (department id and department name) and, if necessary, reassigns employees to a new department in a single transaction. Ensure the procedure handles errors and rolls back the transaction if any step fails.
-   
+
 + **Summary:** procedure update department id or name or both. And reassignment employees to a new department if needed
 + **Method:** 
 	Create a temporaly department_id and transfer all the employee to that department then Update current department_id.
-+ **Fail Scenario:** new department_id = old department_id
++ **Else Scenario:** new department_id = old department_id -> Change dep_name only
 ```sql
 /*
 ? This script is used to modify department details in the jobDB database.
@@ -87,6 +87,8 @@ EXEC tranfer_employee @emp_id = 107,
 
 ? Finally, the script executes the modifyDep procedure with sample parameters and selects all records from the departments table.
 */
+SET IDENTITY_INSERT departments ON;
+GO
 
 CREATE OR ALTER PROCEDURE modifyDep(@oldDep_id INT, @newDep_id INT, @dep_name nvarchar(30))
 AS BEGIN 
@@ -134,6 +136,11 @@ AS BEGIN
     END CATCH
 END
 GO
+
+EXEC modifyDep @oldDep_id = 1, @newDep_id = 1, @dep_name = 'Administration'
+SELECT * from departments
+SET IDENTITY_INSERT departments OFF; -- turn back On auto-increament
+GO
 ```
 
 
@@ -178,11 +185,11 @@ AFTER DELETE
 AS
 BEGIN
     IF EXISTS (SELECT 1 
-               FROM employees 
-               WHERE manager_id IN (SELECT employee_id from deleted)) 
+		FROM employees 
+		WHERE manager_id IN (SELECT employee_id from deleted)) 
     BEGIN
-        RAISERROR('Cannot delete manager. Employees still report to this manager.', 16, 1);
-        ROLLBACK TRANSACTION; 
+		RAISERROR('Cannot delete manager. Employees still report to this manager.', 16, 1);
+		ROLLBACK TRANSACTION; 
     END;
 END;
 GO
@@ -191,4 +198,8 @@ GO
 
 6. Create a trigger to reassign employees before department deletion: Write a trigger that automatically reassigns employees to another department when their current department is deleted. The trigger should ensure that all employees in the department being deleted are reassigned to a valid department
 ```sql
+
 ```
+
+
+
