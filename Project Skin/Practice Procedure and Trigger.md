@@ -146,53 +146,7 @@ GO
 
 5. Create a trigger to log deleted employee information: Write a trigger that logs information about the deleted employee into a separate table before the deletion occurs. Include details such as the employee's ID, name, department, and deletion timestamp
 ```sql
-/*
-    FILEPATH: /d:/CMC_UNI/1st Year/1st Year - Final Semester/DataBase/SQL/procedure.sql
 
-    DESCRIPTION:
-    This code creates a trigger named 'prevent_manager_deletion_without_reassignment' on the 'employees' table.
-    The trigger is fired after a row is deleted from the 'employees' table.
-    It checks if there are any employees who report to the manager being deleted.
-    If there are employees who still report to the manager, it raises an error and rolls back the transaction.
-
-    USAGE:
-    - This trigger is designed to prevent the deletion of managers without reassigning their employees.
-    - It ensures data integrity by enforcing the constraint that all employees must have a valid manager.
-
-    TABLES USED:
-    - employees: The main table that stores employee information.
-
-    TRIGGER LOGIC:
-    1. The trigger is fired after a row is deleted from the 'employees' table.
-    2. It checks if there are any employees who report to the manager being deleted.
-    3. If there are employees who still report to the manager, it raises an error and rolls back the transaction.
-
-    EXAMPLE:
-    - Suppose we have an 'employees' table with the following data:
-        employee_id | manager_id
-        ------------|-----------
-        1           | NULL
-        2           | 1
-        3           | 1
-        4           | 2
-
-    - If we try to delete the manager with 'employee_id' = 1, the trigger will raise an error because employees with 'employee_id' = 2 and 3 still report to this manager.
-*/
-
-CREATE OR ALTER TRIGGER prevent_manager_deletion_without_reassignment
-ON employees -- Assuming you have a separate 'managers' table
-AFTER DELETE
-AS
-BEGIN
-    IF EXISTS (SELECT 1 
-		FROM employees 
-		WHERE manager_id IN (SELECT employee_id from deleted)) 
-    BEGIN
-		RAISERROR('Cannot delete manager. Employees still report to this manager.', 16, 1);
-		ROLLBACK TRANSACTION; 
-    END;
-END;
-GO
 ```
 
 
