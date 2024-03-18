@@ -187,6 +187,4 @@ GO
 
 6. Create a trigger to reassign employees before department deletion: Write a trigger that automatically reassigns employees to another department when their current department is deleted. The trigger should ensure that all employees in the department being deleted are reassigned to a valid department
 ```sql
-
 ```
-
