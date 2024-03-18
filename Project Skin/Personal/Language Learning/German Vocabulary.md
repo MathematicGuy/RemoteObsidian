@@ -1365,3 +1365,11 @@ Anna und Maria, möchtet ihr ins Restaurant gehen?
 	Ihr: plural form of "you". 
 	Er: singular form of "he"
 
+Geschenk gift
+Könnt can
+	
+Ich bin im Restaurant, kommt ihr, Maria und Duo? - I'm at the restaurant, are you comming Maria and Duo
+Feiere - are celebrating 
+	Nina und Peter, wo feiert ihr den Geburtstag? - Nina and Peter, where are you celebrating the birthday?
+	(Ich - Feiere, Sie - Feieren, Wir - feiern )
+Hause - home
