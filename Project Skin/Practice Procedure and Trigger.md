@@ -144,7 +144,7 @@ GO
 ```
 
 
-5. Write a trigger that checks for dependencies before allowing the deletion of a manager. In this case, ensure that all employees under their supervision are reassigned before allowing the deletion.
+5. Create a trigger to log deleted employee information: Write a trigger that logs information about the deleted employee into a separate table before the deletion occurs. Include details such as the employee's ID, name, department, and deletion timestamp
 ```sql
 /*
     FILEPATH: /d:/CMC_UNI/1st Year/1st Year - Final Semester/DataBase/SQL/procedure.sql
@@ -196,7 +196,14 @@ GO
 ```
 
 
-6. Create a trigger to reassign employees before department deletion: Write a trigger that automatically reassigns employees to another department when their current department is deleted. The trigger should ensure that all employees in the department being deleted are reassigned to a valid department
+6. Write a trigger that checks for dependencies before allowing the deletion of a
+manager. In this case, ensure that all employees under their supervision are reassigned
+before allowing the deletion.
+```sql
+
+```
+
+7. Create a trigger to reassign employees before department deletion: Write a trigger that automatically reassigns employees to another department when their current department is deleted. The trigger should ensure that all employees in the department being deleted are reassigned to a valid department
 ```sql
 
 ```
