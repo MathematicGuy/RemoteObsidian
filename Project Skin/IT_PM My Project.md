@@ -154,7 +154,6 @@ Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give int
 ### SCOPE
 ![[Pasted image 20240319141158.png]]
 
-
 ![[Pasted image 20240319141223.png]]
 
 ![[Pasted image 20240319141255.png]]

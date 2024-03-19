@@ -26,8 +26,13 @@
             "id": "88cbb724106433c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SDLC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SDLC.md"
+              }
             }
           },
           {
@@ -190,14 +199,15 @@
   },
   "active": "88cbb724106433c9",
   "lastOpenFiles": [
-    "Todo.md",
+    "IT_PM INTRO.md",
+    "SDLC.md",
+    "IT Project Management.md",
     "IT_PM My Project.md",
+    "Todo.md",
     "Images/Pasted image 20240319162528.png",
     "Images/Pasted image 20240319162525.png",
-    "IT Project Management.md",
     "IT_PM Part 1.md",
     "2nd Yrs Mid-Final Term Project.md",
-    "IT_PM INTRO.md",
     "PJM 2024.md",
     "Vertex AI.md",
     "Practice Procedure and Trigger.md",

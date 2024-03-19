@@ -47,3 +47,4 @@ Design (UI/UX) -> Hiểu hệ thống người dùng, Backend )
 Leader Manager
 Specialist )
 
+[[SDLC]]
