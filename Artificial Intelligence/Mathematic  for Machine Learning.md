@@ -6,6 +6,8 @@
 **Comunity**
 [Deeplearning.ai](https://community.deeplearning.ai/)
 
+[[Mathematic for Machine Learning - Assignment]]
+
 ---
 
 + obscure: mơ hồ
@@ -411,7 +413,7 @@ Another example for Singular matrix (parallel)
 
 ![[Pasted image 20240306113509.png]]
 1) subtract to the 1st equ
-2) Singular matrixes -> subtract 2nd & 3rd tow the 1st row then subtract the 3rd row to the second row until it reach 1. 
+2) Singular matrixes -> subtract 2nd & 3rd row. the 1st row then subtract the 3rd row to the second row until it reach 1. 
 
 
 ![[Pasted image 20240306171144.png]]
@@ -460,6 +462,8 @@ R1 - R3
 	**No solutions**
 
 + ? [[what does it mean to say - The solution for this system has 0 degrees of freedom.]]
-
+	"0 degrees of freedom" means a unique solution exists.
+	While 1 mean y determine x. Ex: y = 2x
+		And 2 mean infinity solution
 
 ### [[Vector Algebra]]

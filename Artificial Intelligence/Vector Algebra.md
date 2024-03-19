@@ -21,7 +21,6 @@ Scaling vector a scalar of 3
 ![[Pasted image 20240311085118.png]]
 reverse direction if negative
 ![[Pasted image 20240311085141.png]]
-
 Using Lamda as a Scaler
 ![[Pasted image 20240311085239.png]]
 
@@ -91,7 +90,7 @@ Ex: 3.1 + 1.1 + 4.-2 = 2
 ![[Pasted image 20240313092859.png]]
 
 
-#### Identity Matrix (ma trận đơn )
+#### Identity Matrix (ma trận đơn)
 > The identity matrix is the matrix that when multiplied by any other matrix it gives the same matrix
 	![[Pasted image 20240313093349.png]]
 
@@ -106,17 +105,14 @@ Ex: 3.1 + 1.1 + 4.-2 = 2
 
 ![[Pasted image 20240313094044.png]]
 Can calculate det -> No Inverse exist 
-
-![[Pasted image 20240313100304.png]]
-![[Pasted image 20240313100317.png]]
+	![[Pasted image 20240313100304.png]]
+	![[Pasted image 20240313100317.png]]
 
 Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line & cannot be an inverse matrix (Matrix require at least 2 lines to formed)  
-
 
 ### Neural networks and matrices
 **Spam Filter**
 	use classifier
-
 + **Identifying Important Words:** In order to build a spam filter, we **need to identify certain words that are commonly associated with spam emails, such as "lottery" and "win"**. 
 	
 + **Calculating Sentence Scores:** Once we have the scores for each word, we can calculate the score of a sentence by adding up the scores of the words it contains. 

@@ -25,38 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Algebra.md",
+                "file": "Mathematic  for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bea8c86230dee379",
+            "id": "706f810eef02538b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda Command.md",
+                "file": "Mathematic for Machine Learning - Assignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24a2bd5bf91b18d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setup Anaconda Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b049e1d9aff112d6",
+            "id": "198df39db44b4f67",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -68,21 +56,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7c71ccf014108343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beautiful of Math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,13 +199,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b049e1d9aff112d6",
+  "active": "198df39db44b4f67",
   "lastOpenFiles": [
+    "Mathematic for Machine Learning - Assignment.md",
+    "Image/Pasted image 20240319110217.png",
+    "Anaconda Command.md",
+    "Mathematic  for Machine Learning.md",
+    "Vector Algebra.md",
+    "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
+    "Linear system as Matrix using Numpy.md",
+    "CMC AI.md",
+    "Beautiful of Math.md",
+    "Setup Anaconda Guide.md",
+    "Machine Learning.md",
     "Image/Pasted image 20240314235647.png",
     "Image/Pasted image 20240314235630.png",
-    "Beautiful of Math.md",
-    "Machine Learning.md",
-    "Setup Anaconda Guide.md",
     "Image/Pasted image 20240314111040.png",
     "Image/Pasted image 20240314110918.png",
     "Image/Pasted image 20240314110857.png",
@@ -237,16 +221,10 @@
     "Image/Pasted image 20240314110702.png",
     "Image/Pasted image 20240314110643.png",
     "Anaconda.md",
-    "Anaconda Command.md",
-    "Vector Algebra.md",
-    "Mathematic  for Machine Learning.md",
-    "CMC AI.md",
     "Machine Learning Problems.md",
     "Clustering.md",
     "MLP Catagories.md",
     "Image/images.jpg",
-    "Image/deep-learning-example.png",
-    "Image/neural-network.webp",
     "Classification.md",
     "Reinforcement Learning.md",
     "Transfer Learning.md",
@@ -257,10 +235,7 @@
     "AI Movie.md",
     "Search Problems.md",
     "Row Echelon Form Algorithm.md",
-    "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
     "Harvard CS50’s Artificial Intelligence with Python.md",
-    "Solving linear systems 3 variables with numpy.md",
-    "Linear system as Matrix using Numpy.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
