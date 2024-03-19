@@ -10,7 +10,10 @@ CI / CD:
 2) https://youtu.be/R8_veQiYBjI?si=Ni1y936cQuLQiPy3
 
 
-Project 6. Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.
+Project 6. Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người 
+
+
+Đánh giá.
 
 
 Mongo DB: https://youtu.be/8Nx7cdwT86c?si=Hb3q97EcRippC4FX

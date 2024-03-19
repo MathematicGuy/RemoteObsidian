@@ -148,13 +148,30 @@ GO
 	+ create deletedEmployee 
 	+ trigger before -> insert 'deleted employee' to deletedEmployee with timestamp
 ```sql
+CREATE OR ALTER TRIGGER delete_empls 
+ON employees
+AFTER DELETE
+AS BEGIN
+    SET IDENTITY_INSERT deletedEmployee ON -- turn ON auto-increment for deletedEmployee table
+    INSERT INTO deletedEmployee (employee_id, first_name, last_name, department_id)
+        SELECT employee_id, first_name, last_name, department_id
+        FROM deleted;
+    SET IDENTITY_INSERT deletedEmployee OFF; -- turn OFF auto-increment for deletedEmployee table
 
+    UPDATE deletedEmployee SET deletion_time = GETDATE() 
+    -- where employee_id == deleted employee_id  
+    WHERE employee_id IN (SELECT employee_id FROM deleted)
+    
+END;
+
+
+delete from employees where employee_id = 302
+select * from employees
+select * from deletedEmployee;
 ```
+![[Pasted image 20240319124346.png]]
 
-
-6. Write a trigger that checks for dependencies before allowing the deletion of a
-manager. In this case, ensure that all employees under their supervision are reassigned
-before allowing the deletion.
+6. Write a trigger that checks for dependencies before allowing the deletion of a manager. In this case, ensure that all employees under their supervision are reassigned before allowing the deletion.
 ```sql
 
 ```
@@ -166,3 +183,30 @@ before allowing the deletion.
 
 
 
+```sql
+CREATE OR ALTER TRIGGER trg_delete_employee 
+ON employees 
+INSTEAD OF DELETE
+AS
+	DECLARE @id INT
+	DECLARE @count INT
+	SELECT @id = employee_id FROM deleted
+	-- check for dependency (kiểm tra sự phụ thuộc của manager với employees)
+	SELECT @count = COUNT(*) FROM employees WHERE manager_id = @id
+	IF(@count > 0) 
+	BEGIN
+		UPDATE employees SET manager_id = 
+		(
+			SELECT TOP(1) manager_id FROM employees
+			WHERE manager_id <> @id
+		)
+		WHERE manager_id = @id
+	END
+	INSERT INTO DeletedEmployee SELECT * FROM deleted
+	--UPDATE DeletedEmployee SET deleted_date = GETDATE() WHERE employee_id = (SELECT employee_id FROM deleted)
+	DELETE FROM employees WHERE  employee_id = @id
+GO
+
+SELECT * FROM employees
+DELETE FROM employees WHERE employee_id = 103
+```

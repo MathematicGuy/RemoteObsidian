@@ -44,7 +44,7 @@ Giao tiếp vs Khách hàng
 
 4) Find Solution
 
-5) ( Vendor, Constructor, Hosting ) Management
+5) (Vendor, Constructor, Hosting) Management
 
 6) Risk Management
 + Origin: Team Internal 
@@ -149,3 +149,13 @@ BA (Very Important)
 	Cầu nối giữa khách hàng đến Dev
 
 Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give intruction to Dev team.
+
+
+### SCOPE
+![[Pasted image 20240319141158.png]]
+
+
+![[Pasted image 20240319141223.png]]
+
+![[Pasted image 20240319141255.png]]
+

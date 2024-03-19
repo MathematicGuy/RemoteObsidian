@@ -4,52 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "92c562b44e2e06e0",
-        "type": "tabs",
+        "id": "8587b514c6df5a85",
+        "type": "split",
         "children": [
           {
-            "id": "cb3285a7bfeb2684",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "92c562b44e2e06e0",
+            "type": "tabs",
+            "dimension": 84.10174880763115,
+            "children": [
+              {
+                "id": "cb3285a7bfeb2684",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Todo.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "92c053c628e1d740",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "IT Project Management.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "54ff6408568dce3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2nd Yrs Mid-Final Term Project.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "4341b63d23e33a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice Procedure and Trigger.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "a6ed33dbe3465f1a",
+            "type": "tabs",
+            "dimension": 15.89825119236884,
+            "children": [
+              {
+                "id": "8afec36fad95ce4c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PJM 2024.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "367556dc3985c631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -117,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
+                "file": "IT Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
+                "file": "IT Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Procedure and Trigger.md"
+                "file": "IT Project Management.md"
               }
             }
           },
@@ -210,11 +238,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4341b63d23e33a64",
+  "active": "92c053c628e1d740",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Practice Procedure and Trigger.md",
+    "IT_PM My Project.md",
+    "PJM 2024.md",
     "Todo.md",
+    "2nd Yrs Mid-Final Term Project.md",
+    "Vertex AI.md",
+    "Practice Procedure and Trigger.md",
+    "Man.md",
+    "IT Project Management.md",
+    "Making of Gannt Chart.md",
+    "IT_PM Project LifeCycle.md",
+    "Images/Pasted image 20240319141255.png",
+    "Images/Pasted image 20240319141223.png",
+    "Images/Pasted image 20240319141158.png",
+    "Images/Untitled.jpg",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Images/Pasted image 20240319124346.png",
     "Personal/Language Learning/German Vocabulary.md",
     "Circle Calculator WebApp documentation.md",
     "Images/Pasted image 20240318094657.png",
@@ -223,30 +264,18 @@
     "Images/Pasted image 20240318014344.png",
     "![[]].md",
     "Images/Pasted image 20240318014618.png",
-    "Images/Pasted image 20240318014550.png",
-    "Images/Pasted image 20240313223910.png",
     "System Administration Database.md",
     "CI_CD.md",
-    "Images/Pasted image 20240317174745.png",
-    "Images/Pasted image 20240317174705.png",
     "How to be a Git Expert.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Git for Professionals.md",
     "How GIT works under the HOOD.md",
-    "Images/Pasted image 20240317013456.png",
     "SR FE.md",
     "SR Front-End Requirement.md",
     "2nd Yrs Science Research Project.md",
     "Lead.md",
     "Stakeholder Identification.md",
     "Json.md",
-    "Personal/Interest/Music/Là Anh.md",
-    "Personal/Interest/Music/jONE CENA theme song.md",
-    "WebDev/WebDev_Learn/JS/JS.md",
-    "WebDev/WebDev_Learn/Frontend.md",
-    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "Publish Web API.md",
-    "SoNguyenDuongTest.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

@@ -189,6 +189,11 @@ ALTER TABLE ADD COLUMN (FIELD)
 ALTER TABLE jobs
 ADD hours_salary INT NULL;
 ```
+COLUMN DATATYPE to NULL(able)
+```sql
+-- Alter the table to make deletion_timestamp nullable
+ALTER TABLE deletedEmployee ALTER COLUMN deletion_timestamp datetime NULL;
+```
 
 DELETE ROW
 ```sql
