@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8137a9970969c819",
+        "id": "92c562b44e2e06e0",
         "type": "tabs",
         "children": [
           {
-            "id": "33e9d1cc1d7bc4b8",
+            "id": "cb3285a7bfeb2684",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4341b63d23e33a64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,13 +188,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33e9d1cc1d7bc4b8",
+  "active": "4341b63d23e33a64",
   "lastOpenFiles": [
     "Todo.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Practice Procedure and Trigger.md",
     "Circle Calculator WebApp documentation.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20240318094657.png",
     "Images/Pasted image 20240318094636.png",
     "Images/Pasted image 20240318030825.png",
