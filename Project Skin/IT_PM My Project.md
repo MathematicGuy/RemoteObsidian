@@ -150,7 +150,7 @@ BA (Very Important)
 
 Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give intruction to Dev team.
 
-
+![[Pasted image 20240319162528.png]]
 ### SCOPE
 ![[Pasted image 20240319141158.png]]
 
