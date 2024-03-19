@@ -125,6 +125,10 @@ RENAME Table or DROP the TABLE
 RENAME TABLE employees TO workers;
 DROP TABLE employees;
 ```
+RENAME in 1 line
+```sql
+EXEC sp_rename 'deletedEmployee', 'delEmps';
+```
 
 DROP KEY
 drop employees FK that reference to department PK

@@ -26,8 +26,26 @@
             "id": "4341b63d23e33a64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Practice Procedure and Trigger.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "367556dc3985c631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Practice Procedure and Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Practice Procedure and Trigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Practice Procedure and Trigger.md"
+              }
             }
           },
           {
@@ -190,10 +212,10 @@
   },
   "active": "4341b63d23e33a64",
   "lastOpenFiles": [
-    "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Practice Procedure and Trigger.md",
+    "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Circle Calculator WebApp documentation.md",
     "Images/Pasted image 20240318094657.png",
     "Images/Pasted image 20240318094636.png",

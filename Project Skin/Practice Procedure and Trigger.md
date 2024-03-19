@@ -17,7 +17,7 @@ END
 get_customer_salary 8; -- OR EXEC get_customer_salary 8;
 ```
 
-   
+
 3. Create a stored procedure that takes the department ID and the employee ID as parameters, enabling the transfer of employees from one department to another. If an employee's salary is lower than the minimum salary of the destination department, the procedure will adjust the employee's salary to match the minimum salary of that department
 ```sql
 CREATE OR ALTER PROCEDURE tranfer_employee
@@ -145,6 +145,8 @@ GO
 
 
 5. Create a trigger to log deleted employee information: Write a trigger that logs information about the deleted employee into a separate table before the deletion occurs. Include details such as the employee's ID, name, department, and deletion timestamp
+	+ create deletedEmployee 
+	+ trigger before -> insert 'deleted employee' to deletedEmployee with timestamp
 ```sql
 
 ```
