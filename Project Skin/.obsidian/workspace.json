@@ -33,7 +33,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "IT Project Management.md",
+                    "file": "IT_PM Part 1.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Project Management.md",
+                "file": "IT_PM Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Project Management.md",
+                "file": "IT_PM Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Project Management.md"
+                "file": "IT_PM Part 1.md"
               }
             }
           },
@@ -240,14 +240,16 @@
   },
   "active": "92c053c628e1d740",
   "lastOpenFiles": [
+    "2nd Yrs Mid-Final Term Project.md",
+    "IT_PM Part 1.md",
+    "Todo.md",
+    "IT Project Management.md",
+    "IT_PM INTRO.md",
     "IT_PM My Project.md",
     "PJM 2024.md",
-    "Todo.md",
-    "2nd Yrs Mid-Final Term Project.md",
     "Vertex AI.md",
     "Practice Procedure and Trigger.md",
     "Man.md",
-    "IT Project Management.md",
     "Making of Gannt Chart.md",
     "IT_PM Project LifeCycle.md",
     "Images/Pasted image 20240319141255.png",
@@ -274,8 +276,6 @@
     "SR Front-End Requirement.md",
     "2nd Yrs Science Research Project.md",
     "Lead.md",
-    "Stakeholder Identification.md",
-    "Json.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
