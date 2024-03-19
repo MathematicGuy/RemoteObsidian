@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDLC.md",
+                "file": "PM Documentation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDLC.md",
+                "file": "PM Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDLC.md",
+                "file": "PM Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDLC.md"
+                "file": "PM Documentation.md"
               }
             }
           },
@@ -199,19 +199,22 @@
   },
   "active": "88cbb724106433c9",
   "lastOpenFiles": [
+    "Images/Pasted image 20240319182939.png",
+    "IT Project Management.md",
+    "Images/mobile-web.png",
+    "PM Documentation.md",
+    "IT_PM My Project.md",
+    "IT_PM Part 1.md",
+    "Man.md",
     "IT_PM INTRO.md",
     "SDLC.md",
-    "IT Project Management.md",
-    "IT_PM My Project.md",
     "Todo.md",
     "Images/Pasted image 20240319162528.png",
     "Images/Pasted image 20240319162525.png",
-    "IT_PM Part 1.md",
     "2nd Yrs Mid-Final Term Project.md",
     "PJM 2024.md",
     "Vertex AI.md",
     "Practice Procedure and Trigger.md",
-    "Man.md",
     "Making of Gannt Chart.md",
     "IT_PM Project LifeCycle.md",
     "Images/Pasted image 20240319141255.png",
@@ -224,7 +227,6 @@
     "Circle Calculator WebApp documentation.md",
     "Images/Pasted image 20240318094657.png",
     "Images/Pasted image 20240318094636.png",
-    "Images/Pasted image 20240318030825.png",
     "![[]].md",
     "System Administration Database.md",
     "CI_CD.md",
@@ -233,8 +235,6 @@
     "Git for Professionals.md",
     "How GIT works under the HOOD.md",
     "SR FE.md",
-    "SR Front-End Requirement.md",
-    "2nd Yrs Science Research Project.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
