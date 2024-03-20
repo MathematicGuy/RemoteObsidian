@@ -171,41 +171,51 @@ select * from deletedEmployee;
 ```
 ![[Pasted image 20240319124346.png]]
 
+
 6. Write a trigger that checks for dependencies before allowing the deletion of a manager. In this case, ensure that all employees under their supervision are reassigned before allowing the deletion.
 + Check Dependencies: Employee - Manager
 	1) Employee depend on that SManager 
 + Reassigned 
 ```sql
-CREATE OR ALTER TRIGGER smart_delete_manager
+--? Use INSTEAD OF DELETE (like BEFORE DELETE but easier to understand) (Instead of just delete we do this and that and finally delete)
+CREATE OR ALTER TRIGGER smart_mgrs_deletion 
 on employees
-INSTEAD OF DELETE -- equal to BEFORE in MySQL
-as begin
-    -- get @old_mgr_id from deleted
+Instead OF DELETE
+as BEGIN
     DECLARE @old_mgr_id INT;
     DECLARE @new_mgr_id INT;
-    -- Get manager_id from deleted using manager's employee_id.
-    -- If use @old_mgr_id = manager_id it mean we are deleting the manager's manager. Not just the manager
+    --? get @old_mgr_id & @new_mgr_id
     SELECT @old_mgr_id = employee_id from deleted; 
 
-    -- check if the deleted employee have any dependency
-    
-    -- Check if more than 1 employee depend on @old_mgr_id
-    -- COUNT the time that @old_mgr_id appear more than 1
-    IF (SELECT COUNT(*) from employees where manager_id = @old_mgr_id) > 1
-    BEGIN 
-        -- select a manager_id != @old_mgr_id
-        select TOP(1) @new_mgr_id = manager_id from employees WHERE manager_id <> @old_mgr_id
-        UPDATE employees SET manager_id = @new_mgr_id where manager_id = @old_mgr_id
+--? 1. Check the manager dependancies. If more than 0 employees depend on that 1 manager_id
+    IF (SELECT COUNT(*) from employees where employee_id = @old_mgr_id) > 0
+    BEGIN
+    --? Reassign the emlpoyee's manager before deletion.
+        --? UPDATE empls old manager -> @new_mgr_id. 
+        --? Get @new_mgr_id
+        SELECT TOP(1) @new_mgr_id = manager_id from employees WHERE manager_id <> @old_mgr_id  
+        UPDATE employees SET manager_id = @new_mgr_id WHERE manager_id = @old_mgr_id
+        --? employee's manager_id = @new_mgr_id
     END
-    
-    DELETE FROM employees WHERE employee_id = @old_mgr_id
+    --? Delete. Left outside of If because if there're no problem then just delete 
+    DELETE from employees WHERE employee_id = @old_mgr_id  
 END
-go
+GO
+
+delete from employees WHERE employee_id = 108
 select * from employees
--- DELETE from employees WHERE employee_id = 301
 select * from deletedEmployee
--- deleted 201 -> 202, 301 to 100
+
+--! Common errors might occurs? 
+--? Delete the manager's manager: 
+    -- when do this
+        -- SELECT @old_mgr_id = manager_id from deleted; 
+     
+--? Delete manager's manager while still reassigning employees to another manager 
+    -- DELETE from employees WHERE manager_id = @old_mgr_id  
+
 ```
+
 
 7. Create a trigger to reassign employees before department deletion: Write a trigger that automatically reassigns employees to another department when their current department is deleted. The trigger should ensure that all employees in the department being deleted are reassigned to a valid department
 ```sql

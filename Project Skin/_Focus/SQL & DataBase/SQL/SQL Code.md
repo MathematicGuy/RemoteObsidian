@@ -52,8 +52,38 @@ Select (309 + 517 + 304 + 282) / 6366.0; --without .0 nothing will appear
 + ! Cannot use Aggregate functions in WHERE clause. (The example below will cause Error)
 	Ex: select * from employees where salary > AVG(salary) GROUP BY employee_id
 
+## SQL Problem Solving Procedure
++ A not so simple example below (sorry)
+**Problem description:** Write a trigger that checks for dependencies before allowing the deletion of a manager. In this case, ensure that all employees under their supervision are reassigned before allowing the deletion.
+	
+1) Before going into that problem. Understand your Material
+```sql
+use jobDB -- check DB
+GO
+select * from employees -- check Table related to the problem 
+```
+	
+2) Sketch out your Plan & Ideas 
+```sql
+--? Use INSTEAD OF DELETE (like BEFORE DELETE but easier to understand) (Instead of just delete we do this and that and finally delete)
+--? 1. Check the manager dependancies. If there any employees depend on that 1 manager_id
+    --? Reassign the emlpoyee's manager before deletion.
+        --? UPDATE empls @old_mgr_id -> @new_mgr_id (Need @old_mgr_id & @new_mgr_id)
+--? Delete manager_id
+```
+	
+3) See the problem as a whole -> Reorganize and Solve the problem
+```sql
+--? Use INSTEAD OF DELETE (like BEFORE DELETE but easier to understand) (Instead of just delete we do this and that and finally delete)
+--? 1. DECLARE (@old_mgr_id & @new_mgr_id)
+--? 2. Check the manager dependancies. If there any employees depend on that 1 manager_id
+    --? 3. Reassign the employee's manager before deletion.
+        --? UPDATE empls @old_mgr_id -> @new_mgr_id 
+--? Delete manager_id
+```
 
-Create Data Base
+
+**Create Data Base**
 ```sql
 -- 1) Create DB
 create DATABASE myShop;
