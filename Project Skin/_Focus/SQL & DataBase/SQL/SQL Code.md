@@ -1092,3 +1092,36 @@ END
 SELECT * from employees
 ```
 
+### VIEW
+> Provide view extracting from the real DB and view for people that don't fully have permission.
+View save Select into a new table. Allow you to make the table to have only what I'm want.
++ Can we use Trigger on View
+> Use to view data from tables
+
+
+
+### INDEX
+If I have a table with 1 mil data. -> Divided into 3 Tables. Or Pages in SQL
+**Sequential Index**: An index where the keys are arranged in a logical order (e.g., an index on an auto-incrementing ID column). These are generally the default
+	
+**Non-Sequential Index:** An index where the keys don't have an inherent order (e.g., an index on a name column or a randomly generated number).
+
+**Why Use Indexes?**
+- **Speed:** Indexes dramatically improve the speed of data retrieval, especially in large tables. Queries that would otherwise need a full table scan can often be satisfied directly from the index.
+	
+- **Optimization:** The database query optimizer relies heavily on indexes to choose the most efficient way to execute your queries.
+
+**CREATE INDEX**
+```sql
+CREATE INDEX index_new ON employees (employee_id, department_id, hours_salary);
+-- To view the created index, you can use the following command:
+EXEC sp_helpindex 'index_new';
+```
+**SEARCH INDEX**
+```sql
+select * from employees
+
+SELECT employee_id, manager_id, department_id,hours_salary, salary
+FROM employees WITH (INDEX(index_new))
+WHERE employee_id = '120';
+```

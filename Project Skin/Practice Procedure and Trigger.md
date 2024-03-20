@@ -223,3 +223,4 @@ select * from deletedEmployee
 ```
 **BEFORE**
 ![[Pasted image 20240320000910.png]]
+EXAM -> **Trigger, Procedure**
