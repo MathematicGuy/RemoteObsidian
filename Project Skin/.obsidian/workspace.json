@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PM Project CPM.md",
+                "file": "Man.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PM Project CPM.md",
+                "file": "Man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PM Project CPM.md",
+                "file": "Man.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PM Project CPM.md"
+                "file": "Man.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "68a265a8a9ca0565",
   "lastOpenFiles": [
-    "Man.md",
     "PM Project CPM.md",
+    "Man.md",
     "IT Project Management.md",
     "PM Documentation.md",
     "Todo.md",

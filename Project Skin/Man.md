@@ -52,3 +52,9 @@ Cost:
 	Web Hosting: 1M / Day
 
 EAC (Estimate At Completion)
+
+**My Job:** 
+- [ ] Determine what to do next -> Thành
+- [ ] CPM -> An (Tìm hiểu về CPM )
+- [ ] WBS + Gantt -> Đức, Hải, An
+	- [ ] Các thành viên ghi chú và gắn đường link giải thích từng phần công việc
