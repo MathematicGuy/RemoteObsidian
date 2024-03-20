@@ -44,7 +44,7 @@ Deadline: 1 week
 	+ work breakdown structure (WBS) 
 		![[Untitled.jpg]]
 + work progress Milestone
-+ CPM (Critical Path Method -> làm sau)
++ [[PM Project CPM]] (Critical Path Method -> làm sau)
 + Gantt
 
 Cost: 

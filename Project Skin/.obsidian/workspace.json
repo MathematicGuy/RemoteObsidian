@@ -8,18 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f048c8f4fb6ef3f5",
+            "id": "2b990cb65ae08183",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Todo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "68a265a8a9ca0565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PM Project CPM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "PM Project CPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "PM Project CPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "PM Project CPM.md"
               }
             }
           },
@@ -180,19 +197,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f048c8f4fb6ef3f5",
+  "active": "68a265a8a9ca0565",
   "lastOpenFiles": [
+    "Man.md",
+    "PM Project CPM.md",
+    "IT Project Management.md",
+    "PM Documentation.md",
+    "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Practice Procedure and Trigger.md",
-    "Todo.md",
     "Images/Pasted image 20240320000910.png",
     "Images/Pasted image 20240319182939.png",
-    "PM Documentation.md",
-    "IT Project Management.md",
     "Images/mobile-web.png",
     "IT_PM My Project.md",
     "IT_PM Part 1.md",
-    "Man.md",
     "IT_PM INTRO.md",
     "SDLC.md",
     "Images/Pasted image 20240319162528.png",
