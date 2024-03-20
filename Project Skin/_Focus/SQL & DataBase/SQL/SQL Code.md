@@ -120,6 +120,12 @@ SELECT * FROM employees
 ```
 ![[Pasted image 20230814105526.png]]
 
+SELECT TOP(1)
+```sql
+select TOP(1) @new_mgr_id = manager_id from employees WHERE manager_id <> @mgr_id;
+```
+
+
 RENAME Table or DROP the TABLE 
 ```sql
 RENAME TABLE employees TO workers;
@@ -971,10 +977,16 @@ order by 2 desc -- make the time_stamp column not group all
 4) Trigger a Query 
 -> Trigger applied changes into table before an operation (UPDATE/INSERT/DELETE) FOR N number of row.
 
-**Before**
+
++ SHOW TRIGGER
+
+
+
+**TRIGGER Example**
++ **BEFORE**
 	![[Pasted image 20240318094657.png]]
 
-**After**
++ **AFTER**
 	![[Pasted image 20240318094636.png]]\
 
 ### Update Column A value for each value in Column B
@@ -1049,3 +1061,4 @@ END
 
 SELECT * from employees
 ```
+

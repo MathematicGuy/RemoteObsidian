@@ -172,41 +172,44 @@ select * from deletedEmployee;
 ![[Pasted image 20240319124346.png]]
 
 6. Write a trigger that checks for dependencies before allowing the deletion of a manager. In this case, ensure that all employees under their supervision are reassigned before allowing the deletion.
++ Check Dependencies: Employee - Manager
+	1) Employee depend on that SManager 
++ Reassigned 
 ```sql
+CREATE OR ALTER TRIGGER smart_delete_manager
+on employees
+INSTEAD OF DELETE -- equal to BEFORE in MySQL
+as begin
+    -- get @old_mgr_id from deleted
+    DECLARE @old_mgr_id INT;
+    DECLARE @new_mgr_id INT;
+    -- Get manager_id from deleted using manager's employee_id.
+    -- If use @old_mgr_id = manager_id it mean we are deleting the manager's manager. Not just the manager
+    SELECT @old_mgr_id = employee_id from deleted; 
 
+    -- check if the deleted employee have any dependency
+    
+    -- Check if more than 1 employee depend on @old_mgr_id
+    -- COUNT the time that @old_mgr_id appear more than 1
+    IF (SELECT COUNT(*) from employees where manager_id = @old_mgr_id) > 1
+    BEGIN 
+        -- select a manager_id != @old_mgr_id
+        select TOP(1) @new_mgr_id = manager_id from employees WHERE manager_id <> @old_mgr_id
+        UPDATE employees SET manager_id = @new_mgr_id where manager_id = @old_mgr_id
+    END
+    
+    DELETE FROM employees WHERE employee_id = @old_mgr_id
+END
+go
+select * from employees
+-- DELETE from employees WHERE employee_id = 301
+select * from deletedEmployee
+-- deleted 201 -> 202, 301 to 100
 ```
 
 7. Create a trigger to reassign employees before department deletion: Write a trigger that automatically reassigns employees to another department when their current department is deleted. The trigger should ensure that all employees in the department being deleted are reassigned to a valid department
 ```sql
 
 ```
-
-
-
-```sql
-CREATE OR ALTER TRIGGER trg_delete_employee 
-ON employees 
-INSTEAD OF DELETE
-AS
-	DECLARE @id INT
-	DECLARE @count INT
-	SELECT @id = employee_id FROM deleted
-	-- check for dependency (kiểm tra sự phụ thuộc của manager với employees)
-	SELECT @count = COUNT(*) FROM employees WHERE manager_id = @id
-	IF(@count > 0) 
-	BEGIN
-		UPDATE employees SET manager_id = 
-		(
-			SELECT TOP(1) manager_id FROM employees
-			WHERE manager_id <> @id
-		)
-		WHERE manager_id = @id
-	END
-	INSERT INTO DeletedEmployee SELECT * FROM deleted
-	--UPDATE DeletedEmployee SET deleted_date = GETDATE() WHERE employee_id = (SELECT employee_id FROM deleted)
-	DELETE FROM employees WHERE  employee_id = @id
-GO
-
-SELECT * FROM employees
-DELETE FROM employees WHERE employee_id = 103
-```
+**BEFORE**
+![[Pasted image 20240320000910.png]]

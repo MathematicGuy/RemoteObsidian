@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "88cbb724106433c9",
+            "id": "53261907a1b8dfde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PM Documentation.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e7ebf2bdd09a335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Procedure and Trigger.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PM Documentation.md",
+                "file": "Practice Procedure and Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PM Documentation.md",
+                "file": "Practice Procedure and Trigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PM Documentation.md"
+                "file": "Practice Procedure and Trigger.md"
               }
             }
           },
@@ -197,36 +210,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88cbb724106433c9",
+  "active": "7e7ebf2bdd09a335",
   "lastOpenFiles": [
+    "Images/Pasted image 20240320000910.png",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Todo.md",
+    "Practice Procedure and Trigger.md",
     "Images/Pasted image 20240319182939.png",
+    "PM Documentation.md",
     "IT Project Management.md",
     "Images/mobile-web.png",
-    "PM Documentation.md",
     "IT_PM My Project.md",
     "IT_PM Part 1.md",
     "Man.md",
     "IT_PM INTRO.md",
     "SDLC.md",
-    "Todo.md",
     "Images/Pasted image 20240319162528.png",
     "Images/Pasted image 20240319162525.png",
     "2nd Yrs Mid-Final Term Project.md",
     "PJM 2024.md",
     "Vertex AI.md",
-    "Practice Procedure and Trigger.md",
     "Making of Gannt Chart.md",
     "IT_PM Project LifeCycle.md",
     "Images/Pasted image 20240319141255.png",
     "Images/Pasted image 20240319141223.png",
     "Images/Pasted image 20240319141158.png",
     "Images/Untitled.jpg",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20240319124346.png",
     "Personal/Language Learning/German Vocabulary.md",
     "Circle Calculator WebApp documentation.md",
     "Images/Pasted image 20240318094657.png",
-    "Images/Pasted image 20240318094636.png",
     "![[]].md",
     "System Administration Database.md",
     "CI_CD.md",
