@@ -1264,9 +1264,7 @@ Zusammen - together
 	+ Hier ist die Rechnung, Zahlen Sie Zusammen - are you paying together
 	+ Das macht Zusammen Fünfundzwanzig Euro 
 		  That's a total of twenty-five euros 
-		  That come to twenty-five euros together
-
-	
+		  That come to twenty-five euros together	
 
 --- 
 + ! New Technique: Write German on Google Translate and paste the English translation here. Save time from re-writing what I already know. (Bc I have translate German in my head already)
@@ -1297,7 +1295,7 @@ Ordering takeout - gọi món mang về
 **Exercise End**
 
 
-Bushaltestellen bus station
+Die Bushaltestellen bus station
 Geradeaus Straight ahead
 Circa Approximately
 zu fuß on foot
@@ -1329,6 +1327,8 @@ Alles Guten - take care
 	Viele Dank, alles guten
 
 Besuchen visit
+Zoo
+	Wir möchten besuchen den zoo
 
 Geburtstag - birthday
 Mache - have
@@ -1341,7 +1341,13 @@ Dritten - third
 	Dritten April - the third of April
 Vierten - Forth
 Wir machen am vierten Mai eine Party, kommst du? - we are having a party on the fourth of May, are you comming. 
- 
+
+**Exercise**
+tired müde
+windows Fenster
+Done fertig
+Hours Studen
+
 ### Unit 7
 Eine Party - a party
 Picknick picnic
@@ -1373,3 +1379,22 @@ Feiere - are celebrating
 	Nina und Peter, wo feiert ihr den Geburtstag? - Nina and Peter, where are you celebrating the birthday?
 	(Ich - Feiere, Sie - Feieren, Wir - feiern )
 Hause - home
+
+
+Hast du im April oder im Mai Geburtstag?
+	Is your birthday in April or in May
+
+Danke ich kann am siebten Juli kommen
+
+wir feiern deinen geburtstag im restaurant
+
+Ersten - first of
+	Ersten April - first of April
+Meine Mutter hat am ersten März Geburtstag.
+	My mother's birthday is on the first of March
+
+Fahren Sie mit Bus Nummer Dreizehn
+	take bus number thirdteen
+Fahren Sie mit Bus Nummer fünfzehn
+
+Wie viel kostet die taxifahrt bis zum hotel
