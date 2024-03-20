@@ -25,40 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "K-Means.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "706f810eef02538b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematic for Machine Learning - Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "198df39db44b4f67",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "K-Means.md"
               }
             }
           },
@@ -199,43 +173,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "198df39db44b4f67",
+  "active": "e77f9ff2f40fa36e",
   "lastOpenFiles": [
+    "CMC AI INTRO.md",
+    "CMC Machine Learning Algorithm.md",
+    "K-Means.md",
+    "Image/Pasted image 20240320133314.png",
+    "Image/Pasted image 20240320133308.png",
+    "Image/Pasted image 20240320132114.png",
+    "Machine Learning Algorithm.md",
+    "CMC AI.md",
+    "AI Intro and Definition.md",
+    "Mathematic  for Machine Learning.md",
     "Mathematic for Machine Learning - Assignment.md",
+    "Machine Learning.md",
     "Image/Pasted image 20240319110217.png",
     "Anaconda Command.md",
-    "Mathematic  for Machine Learning.md",
     "Vector Algebra.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
     "Linear system as Matrix using Numpy.md",
-    "CMC AI.md",
     "Beautiful of Math.md",
     "Setup Anaconda Guide.md",
-    "Machine Learning.md",
     "Image/Pasted image 20240314235647.png",
     "Image/Pasted image 20240314235630.png",
     "Image/Pasted image 20240314111040.png",
     "Image/Pasted image 20240314110918.png",
     "Image/Pasted image 20240314110857.png",
     "Image/Pasted image 20240314110730.png",
-    "Image/Pasted image 20240314110702.png",
-    "Image/Pasted image 20240314110643.png",
     "Anaconda.md",
     "Machine Learning Problems.md",
     "Clustering.md",
     "MLP Catagories.md",
-    "Image/images.jpg",
     "Classification.md",
     "Reinforcement Learning.md",
     "Transfer Learning.md",
     "Unsupervised Learning.md",
     "Supervised Learning.md",
     "To do List.md",
-    "AI RoadMap.md",
-    "AI Movie.md",
-    "Search Problems.md",
-    "Row Echelon Form Algorithm.md",
-    "Harvard CS50’s Artificial Intelligence with Python.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
