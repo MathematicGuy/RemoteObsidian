@@ -26,8 +26,13 @@
             "id": "0f8f09833c5eb351",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DotNet_Entity Framework.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DotNet_Entity Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DotNet_Entity Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DotNet_Entity Framework.md"
+              }
             }
           },
           {
@@ -191,7 +200,12 @@
   "active": "0f8f09833c5eb351",
   "lastOpenFiles": [
     "Todo.md",
+    "DotNet_Entity Framework.md",
     "ASAP.NET Note.md",
+    "Entity Framework.md",
+    "Net_Form_Entity Framework.md",
+    ".Net_Form_Entity Framework.md",
+    "ASP.NET Introduction.md",
     "Learn Web API.md",
     "REST.md",
     "Personal/Language Learning/German Vocabulary.md",
@@ -221,11 +235,6 @@
     "Images/Untitled.jpg",
     "Images/Pasted image 20240319124346.png",
     "Circle Calculator WebApp documentation.md",
-    "![[]].md",
-    "System Administration Database.md",
-    "CI_CD.md",
-    "How to be a Git Expert.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
