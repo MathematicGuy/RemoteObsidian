@@ -48,3 +48,13 @@ Entity Framework Core, migrations được sử dụng để: **Quản lý thay 
 
 
 EF don't support MongolDB
+
+
+```cs
+<connectionStrings>
+	<add name="StudentDBConnectionString"
+		 connectionString="Server=macbookM5\SQLEXPRESS;Database=StudentDB;User Id=sa;Password=cmcuni;"
+		 providerName="System.Data.SqlClient" />
+</connectionStrings>
+	
+```
