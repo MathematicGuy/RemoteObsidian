@@ -1,5 +1,7 @@
 ![[Untitled.png]]
 
+.cshtml -> Razor syntax: HTLM + C#
+
 + ? **C# files:** These files contain the source code written in C#. They define the classes, methods, and other logic of your application. In your project, you have:
 	- `HomeController.cs`: This file defines the `HomeController` class, which likely contains methods that handle HTTP requests for your web pages.
 		

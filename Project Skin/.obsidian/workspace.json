@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Web API.md",
+                "file": "File Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Web API.md",
+                "file": "File Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Web API.md",
+                "file": "File Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Web API.md"
+                "file": "File Structure.md"
               }
             }
           },
@@ -199,6 +199,9 @@
   },
   "active": "bf79e377c93ec62e",
   "lastOpenFiles": [
+    "ASAP.NET Note.md",
+    "Learn Web API.md",
+    "REST.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Practice Procedure and Trigger.md",
@@ -232,9 +235,6 @@
     "CI_CD.md",
     "How to be a Git Expert.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "Git for Professionals.md",
-    "How GIT works under the HOOD.md",
-    "SR FE.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
