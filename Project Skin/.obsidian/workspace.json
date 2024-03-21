@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "469084fd56d37caf",
+        "id": "f2f5171fe8ed84bd",
         "type": "tabs",
         "children": [
           {
-            "id": "8627bdddb90162a9",
+            "id": "7216221eead24c56",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "bf79e377c93ec62e",
+            "id": "0f8f09833c5eb351",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Structure.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "File Structure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,12 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf79e377c93ec62e",
+  "active": "0f8f09833c5eb351",
   "lastOpenFiles": [
+    "Todo.md",
     "ASAP.NET Note.md",
     "Learn Web API.md",
     "REST.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
