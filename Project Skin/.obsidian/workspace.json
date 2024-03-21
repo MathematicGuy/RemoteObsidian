@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "5b69860563ae7e9f",
+            "id": "bf79e377c93ec62e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Learn Web API.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Learn Web API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Learn Web API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "Learn Web API.md"
               }
             }
           },
@@ -197,11 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b69860563ae7e9f",
+  "active": "bf79e377c93ec62e",
   "lastOpenFiles": [
+    "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Todo.md",
     "PM Project CPM.md",
     "Man.md",
     "IT Project Management.md",
@@ -225,7 +226,6 @@
     "Images/Pasted image 20240319141158.png",
     "Images/Untitled.jpg",
     "Images/Pasted image 20240319124346.png",
-    "Personal/Language Learning/German Vocabulary.md",
     "Circle Calculator WebApp documentation.md",
     "![[]].md",
     "System Administration Database.md",

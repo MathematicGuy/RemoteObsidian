@@ -119,8 +119,9 @@ Bis Später see you later
 + Später later
 
 
-Morgen morning
+Morgen morning/tomorrow
 Guten morgen good morning
+	Möchtest du morgen Apfelkuchen mit Eis essen
 
 tag day
 Guten tag good day/afternoon
@@ -1398,3 +1399,22 @@ Fahren Sie mit Bus Nummer Dreizehn
 Fahren Sie mit Bus Nummer fünfzehn
 
 Wie viel kostet die taxifahrt bis zum hotel
+
+Hast du am ersten März Geburtstag?
+	Is your birthday on the 1st of March
+
+Was machst - what are you doing
+Was machst du am ersten März
+	What are you doing on the first of March?
+Was machst du morgen?
+	What are you doing tomorrow
+
+Wer who
+Wer hat heute Geburtstag
+	Whose birthday is today
+
+Am ersten März hat Herr Goethe Geburtstag. Er geht wandern und trinkt später ein Bier mit Frau Goethe.
+	On the first of March is Mr.Goethe birthday. He go hiking and drink bear with Ms.Goethe\
+
+
+Ich möchte mascht ein Party  
