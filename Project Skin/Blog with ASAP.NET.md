@@ -159,3 +159,34 @@ HTML, CSS, JS and a little of C# for Razor syntax
 
 ![[Pasted image 20240322140244.png]]
 
+## Tags Controller
+> Admin Functionality To Add A Tag
+
+The Folder from View reflect the controller from Controllers folder
+![[Pasted image 20240322172915.png]]
+
+
+**Connect link to a Tag** 
+> using asap. 				
+> + asp-controller="AdminTags" -> connect to the controller
+> + asp-action="Add" -> Action of that controller
+```cs
+<li class="nav-item dropdown">
+	 <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		  Admin
+	 </a>
+	 <ul class="dropdown-menu">
+		  <li><a class="dropdown-item" 
+				asp-area="" 
+				asp-controller="AdminTags"
+				asp-action="Add">Add Tag</a>
+			</li>
+	 </ul>
+</li>
+```
+
+
+### Submit Forms and Data Binding
+
+> Read Incomming Request using Model Binding
+
