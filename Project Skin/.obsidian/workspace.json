@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07ff16a186a077d4",
+        "id": "87e104676181d72e",
         "type": "tabs",
         "children": [
           {
-            "id": "bf4ca40d3b63540b",
+            "id": "0c04a6abef8281ce",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ff9a7af8ff450b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog with ASAP.NET.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Blog with ASAP.NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Blog with ASAP.NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Blog with ASAP.NET.md"
               }
             }
           },
@@ -183,9 +197,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf4ca40d3b63540b",
+  "active": "ff9a7af8ff450b56",
   "lastOpenFiles": [
+    "Images/Pasted image 20240322104747.png",
+    "Web API Project.md",
+    "Blog with ASAP.NET.md",
     "Todo.md",
+    "Hosting.md",
     "DotNet_Entity Framework.md",
     "ASAP.NET Note.md",
     "Entity Framework.md",
@@ -212,15 +230,11 @@
     "Images/Pasted image 20240319162525.png",
     "2nd Yrs Mid-Final Term Project.md",
     "PJM 2024.md",
-    "Vertex AI.md",
-    "Making of Gannt Chart.md",
-    "IT_PM Project LifeCycle.md",
     "Images/Pasted image 20240319141255.png",
     "Images/Pasted image 20240319141223.png",
     "Images/Pasted image 20240319141158.png",
     "Images/Untitled.jpg",
     "Images/Pasted image 20240319124346.png",
-    "Circle Calculator WebApp documentation.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
