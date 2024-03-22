@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f5171fe8ed84bd",
+        "id": "07ff16a186a077d4",
         "type": "tabs",
         "children": [
           {
-            "id": "7216221eead24c56",
+            "id": "bf4ca40d3b63540b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0f8f09833c5eb351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DotNet_Entity Framework.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet_Entity Framework.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet_Entity Framework.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet_Entity Framework.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -197,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f8f09833c5eb351",
+  "active": "bf4ca40d3b63540b",
   "lastOpenFiles": [
     "Todo.md",
     "DotNet_Entity Framework.md",
