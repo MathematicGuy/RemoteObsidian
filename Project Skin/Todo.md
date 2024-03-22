@@ -6,6 +6,7 @@
 - [ ] Can I surpass a whole team. And Making The Project Alone.
 - [ ] Challenge: Push myself to the limit and learn ASAP.NET by building my dream blog. Then try to finish the project myself -> Duplicate the website -> 1 for this final semester Project and 1 for my own blog (posting mein stuff)
 
+- [ ] Is there a Service that help me to auto-complete my own word/sentence (there is in Macbook but is there in Windown 11)
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
