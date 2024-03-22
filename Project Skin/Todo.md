@@ -2,15 +2,9 @@
 	Find the product I need (AI, Security, Productivity, etc..)
 
 #Todo/Priority
-- [ ] Design 1 page
-- [ ] Hỏi An về Phần Front End (Cuối tuần có học không ?)
-
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
-	- [ ] https://www.youtube.com/watch?v=BfEjDD8mWYg
-	- [ ] Intermedia C#
-	- [ ] API, Razor, etc.. 
-- [ ] Finish Part 1 - 3 of [Build Web Apps with ASP.NET](https://www.codecademy.com/enrolled/paths/build-web-apps-with-asp-net) this week (Deepwork on the Weekend)
-
+- [ ] Can I surpass a whole team. And Making The Project Alone.
+- [ ] Challenge: Push myself to the limit and learn ASAP.NET by building my dream blog. Then try to finish the project myself.
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)

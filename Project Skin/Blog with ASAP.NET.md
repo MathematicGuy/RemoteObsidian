@@ -1,3 +1,7 @@
+Strategy divide the video into each sections
+	Listen super super carefully & Take Note for each section.
++ ! bug maybe cause if I missheard or misunderstood any part.
+
 **What we'll Learn & Achieve**
 
 + CRUD Operations
@@ -22,4 +26,7 @@
 	+ Manage Users
 + Features included:
 	tag, manage blog (CRUD on blog) and user (CRUD on user)
-	
+
+launchSetting.json
+	contain my connection setting
+
