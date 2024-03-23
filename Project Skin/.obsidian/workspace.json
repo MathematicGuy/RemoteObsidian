@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e314913d251d9af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Good for LATER.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Personal/Good for LATER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Personal/Good for LATER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog with ASAP.NET.md"
+                "file": "Personal/Good for LATER.md"
               }
             }
           },
@@ -197,13 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff9a7af8ff450b56",
+  "active": "e314913d251d9af6",
   "lastOpenFiles": [
+    "Images/432450160_795999162548007_2262674713157060908_n.jpg",
+    "Blog with ASAP.NET.md",
     "Images/Pasted image 20240323110223.png",
     "Images/Pasted image 20240323110221.png",
     "Images/Pasted image 20240323104131.png",
     "Todo.md",
-    "Blog with ASAP.NET.md",
     "Docker tips & bugs.md",
     "History & Politic/American - China Chip Wars and the Potential for VN people.md",
     "Images/Pasted image 20240322172915.png",
@@ -217,7 +231,6 @@
     "Images/Pasted image 20240322134627.png",
     "Blog WebApp Project Overview.md",
     "Images/Pasted image 20240322132355.png",
-    "Images/Pasted image 20240322131155.png",
     "Web API Project.md",
     "Hosting.md",
     "DotNet_Entity Framework.md",
