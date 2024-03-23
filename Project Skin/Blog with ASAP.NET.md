@@ -170,7 +170,7 @@ The Folder from View reflect the controller from Controllers folder
 > using asap. 				
 > + asp-controller="AdminTags" -> connect to the controller
 > + asp-action="Add" -> Action of that controller
-```cs
+```html
 <li class="nav-item dropdown">
 	 <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 		  Admin
@@ -187,6 +187,37 @@ The Folder from View reflect the controller from Controllers folder
 
 
 ### Submit Forms and Data Binding
-
 > Read Incomming Request using Model Binding
+use asp-for=""
+1) Create a View Model  
+![[Pasted image 20240323104131.png]]
+Use as a Tag to get data from HTML
+```cs
+public class AddTagRequest
+{
+  public string Name { get; set; } 
+  public string DisplayName { get; set; }
+}
+```
+2) Add and Connect Tag to the View Model 
+**Connet the ViewModel**
+```cs
+@model MyBlog.Web.Models.ViewModels.AddTagRequest  
+```
+**Get input data to ViewModel property**
+```html
+<div class="mb-3">
+	<label class="form-label">Name</label>
+	<input type="text" class="form-control" value="" id="name" asp-for="Name"/>
+</div>
+
+<div class="mb-3">
+	<label class="form-label">Display Name</label>
+	<input type="text" class="form-control" value="" id="displayName" asp-for="DisplayName"/>
+</div>
+```
+
+
+### Saving Data to Database
+![[Pasted image 20240323110223.png]]
 
