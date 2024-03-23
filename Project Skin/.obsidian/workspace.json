@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Good for LATER.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Good for LATER.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Good for LATER.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Good for LATER.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "e314913d251d9af6",
   "lastOpenFiles": [
+    "Personal/Good for LATER.md",
     "Images/432450160_795999162548007_2262674713157060908_n.jpg",
     "Blog with ASAP.NET.md",
     "Images/Pasted image 20240323110223.png",
@@ -230,7 +231,6 @@
     "Images/Pasted image 20240322140005.png",
     "Images/Pasted image 20240322134627.png",
     "Blog WebApp Project Overview.md",
-    "Images/Pasted image 20240322132355.png",
     "Web API Project.md",
     "Hosting.md",
     "DotNet_Entity Framework.md",
