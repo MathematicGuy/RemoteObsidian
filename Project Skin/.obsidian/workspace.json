@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87e104676181d72e",
+        "id": "ca23c58b87b31175",
         "type": "tabs",
         "children": [
           {
-            "id": "0c04a6abef8281ce",
+            "id": "7bfd958ea22c3e41",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,46 +23,15 @@
             }
           },
           {
-            "id": "ff9a7af8ff450b56",
+            "id": "ecf8082f60127870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e296c2160c4bd016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Conparison.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5f848873deacc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/DataBase.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Conparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Conparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology Conparison.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e296c2160c4bd016",
+  "active": "ecf8082f60127870",
   "lastOpenFiles": [
-    "Blog with ASAP.NET.md",
     "Todo.md",
+    "Blog with ASAP.NET.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Personal/Comparison/Data Science Course.md",
     "Technology Conparison.md",
