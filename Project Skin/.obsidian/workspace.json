@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67963305089aa0dd",
+            "id": "2afd208273ffa3c8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,25 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2afd208273ffa3c8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2e7e2e5ea08e6ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -196,8 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2e7e2e5ea08e6ed",
+  "active": "2afd208273ffa3c8",
   "lastOpenFiles": [
+    "IT Project Management.md",
+    "Man.md",
+    "Making of Gannt Chart.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "BackEnd/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
@@ -231,9 +221,6 @@
     ".Net_Form_Entity Framework.md",
     "ASP.NET Introduction.md",
     "Learn Web API.md",
-    "REST.md",
-    "Practice Procedure and Trigger.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
