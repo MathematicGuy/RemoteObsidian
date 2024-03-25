@@ -26,8 +26,13 @@
             "id": "3d16c52baa4add0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learn Web API.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learn Web API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learn Web API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learn Web API.md"
+              }
             }
           },
           {
@@ -190,6 +199,15 @@
   },
   "active": "3d16c52baa4add0c",
   "lastOpenFiles": [
+    "Publish Web API.md",
+    "Learn Web API.md",
+    "Why Web APIs are Essential.md",
+    "REST Syntax.md",
+    "CSharp Revision.md",
+    "Web MVC Model.md",
+    "File Structure.md",
+    "ASP.NET Introduction.md",
+    "WebDev/Web.md",
     "Todo.md",
     "IT Project Management.md",
     "Man.md",
@@ -217,15 +235,6 @@
     "Images/Pasted image 20240322140005.png",
     "Images/Pasted image 20240322134627.png",
     "Blog WebApp Project Overview.md",
-    "Web API Project.md",
-    "Hosting.md",
-    "DotNet_Entity Framework.md",
-    "ASAP.NET Note.md",
-    "Entity Framework.md",
-    "Net_Form_Entity Framework.md",
-    ".Net_Form_Entity Framework.md",
-    "ASP.NET Introduction.md",
-    "Learn Web API.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
