@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8bd30a85f953650",
+            "id": "67963305089aa0dd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,15 @@
             }
           },
           {
-            "id": "9825b60ddf995cf7",
+            "id": "2afd208273ffa3c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2e7e2e5ea08e6ed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,7 +39,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,14 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9825b60ddf995cf7",
+  "active": "a2e7e2e5ea08e6ed",
   "lastOpenFiles": [
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "BackEnd/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Blog with ASAP.NET.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Personal/Comparison/Data Science Course.md",
     "Technology Conparison.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Personal/Good for LATER.md",
     "Images/432450160_795999162548007_2262674713157060908_n.jpg",
     "Images/Pasted image 20240323110223.png",
@@ -225,7 +234,6 @@
     "REST.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "PM Project CPM.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

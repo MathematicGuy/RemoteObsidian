@@ -465,7 +465,7 @@ Hut hat
 großer big (object)
 
 Exercise Die Reservierung - The Reservation
-Geburtstag birthday
+eine/einen Geburtstag birthday
 	Alles Gute zum Geburtstag
 	+ Alles - everything
 	+ Gute - good
@@ -1373,12 +1373,16 @@ Anna und Maria, möchtet ihr ins Restaurant gehen?
 	Er: singular form of "he"
 
 Geschenk gift
+	Kannst du morgen ein Geschenk kaufen
 Könnt can
-	
+	Könnt Ihr - can you guy (plural form)
+	Könnst du - can you
+
 Ich bin im Restaurant, kommt ihr, Maria und Duo? - I'm at the restaurant, are you comming Maria and Duo
 Feiere - are celebrating 
 	Nina und Peter, wo feiert ihr den Geburtstag? - Nina and Peter, where are you celebrating the birthday?
 	(Ich - Feiere, Sie - Feieren, Wir - feiern )
+	Wo Feiert Ihr heute geburtstag - where are you celebrating your birthday
 Hause - home
 
 
