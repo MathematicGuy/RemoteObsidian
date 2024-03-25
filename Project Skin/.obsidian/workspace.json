@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7850d0068560ee30",
+        "id": "d36292f57b77e3d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2afd208273ffa3c8",
+            "id": "2c43599f923b7365",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3d16c52baa4add0c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,12 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2afd208273ffa3c8",
+  "active": "3d16c52baa4add0c",
   "lastOpenFiles": [
+    "Todo.md",
     "IT Project Management.md",
     "Man.md",
     "Making of Gannt Chart.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "BackEnd/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Blog with ASAP.NET.md",
