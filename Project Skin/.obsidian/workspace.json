@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d36292f57b77e3d9",
+        "id": "8a96ca67c717be83",
         "type": "tabs",
         "children": [
           {
-            "id": "2c43599f923b7365",
+            "id": "74aa04430ff7beaf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3d16c52baa4add0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn Web API.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f9c243e4c5dadd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice Procedure and Trigger.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Procedure and Trigger.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -210,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f9c243e4c5dadd0",
+  "active": "74aa04430ff7beaf",
   "lastOpenFiles": [
     "Learn Web API.md",
     "Publish Web API.md",
