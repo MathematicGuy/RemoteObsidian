@@ -358,9 +358,9 @@ SELECT * FROM transactions
 ORDER BY amount;
 ```
 ![[Pasted image 20231003140555.png]]
+d
 
-
-UNION -> merge
+UNION -> Merge
 	To Join **2 Table** together. They must **Have The Same Number Of Column**
 ```sql
 SELECT f_name, l_name FROM employees;
