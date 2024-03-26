@@ -26,8 +26,13 @@
             "id": "7b262d25283249eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chap IV - IT project Cost management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chap IV - IT project Cost management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chap IV - IT project Cost management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chap IV - IT project Cost management.md"
+              }
             }
           },
           {
@@ -191,8 +200,9 @@
   "active": "7b262d25283249eb",
   "lastOpenFiles": [
     "Todo.md",
-    "Images/Pasted image 20240326111458.png",
+    "Chap IV - IT project Cost management.md",
     "IT Project Management.md",
+    "Images/Pasted image 20240326111458.png",
     "2nd Yrs Mid-Final Term Project.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "Learn Web API.md",
