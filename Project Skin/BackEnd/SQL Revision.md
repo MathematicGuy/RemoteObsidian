@@ -137,3 +137,9 @@ COUNT( * ) -> Count by 1 for everyrow that exist in the table
 COUNT(Student.id) -> COunt by 1 for every student id that exist in the table
 
 
++ ! MAX() is different from COUNT()
+	notice when to count and when to get the highest number
+
++ ! = ANY vs LIKE
+	LIKE -> usually use for matching string pattern 
+	= ANY -> retrieve any value matching with it (Works best for exact matches.) 
