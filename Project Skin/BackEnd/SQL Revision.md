@@ -125,3 +125,15 @@ note: Using **Aggragation function automatically group** the answer
 
 Using Count and Distinct at the same time. (Applied 2 aggragate function) 
 ![[Pasted image 20231205121504.png]]
+
+
+## Trigger and Procedure Exam
++ ! NULL value or not using JOIN.
+Becaful when using JOIN. Pay attention if the column require NULL value (LEFT/RIGHT JOIN) or Not (INNER JOIN).
+
+
++ ! Be Specific when using Count
+COUNT( * ) -> Count by 1 for everyrow that exist in the table
+COUNT(Student.id) -> COunt by 1 for every student id that exist in the table
+
+

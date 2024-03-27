@@ -628,7 +628,8 @@ SELECT name, capital
  WHERE LENGTH(name) = LENGTH(capital)
 ```
 
-**<>** is just **=!**
+**<>** is just **=!** 
++ ! Only applied to check if **ONE value** is false or not
 > You an use `<>` as the **NOT EQUALS** operator.
 > Ex: (name <> capital) 
 
