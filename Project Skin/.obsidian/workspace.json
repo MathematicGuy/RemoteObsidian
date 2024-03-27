@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a568f1ba3cd1b7da",
+        "id": "899480b2c2bc9f77",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a7f63a452ebcf9",
+            "id": "0840d55663335f02",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "bf507c8ee6972238",
+            "id": "3f10d6feb0152fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My AI Project.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My AI Project.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My AI Project.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My AI Project.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -197,14 +197,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf507c8ee6972238",
+  "active": "3f10d6feb0152fac",
   "lastOpenFiles": [
+    "Untitled.md",
     "Todo.md",
+    "Practice Procedure and Trigger.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "My AI Project.md",
     "Turtorial Resources.md",
     "2nd Yrs Science Research Project.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Practice Procedure and Trigger.md",
     "BackEnd/SQL Revision.md",
     "SQL Bugs.md",
     "Chap IV - IT project Cost management.md",
@@ -225,7 +226,6 @@
     "Making of Gannt Chart.md",
     "Personal/Language Learning/German Vocabulary.md",
     "BackEnd/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
-    "Blog with ASAP.NET.md",
     "Images/432450160_795999162548007_2262674713157060908_n.jpg",
     "Images/Pasted image 20240323110223.png",
     "Images/Pasted image 20240323110221.png",
