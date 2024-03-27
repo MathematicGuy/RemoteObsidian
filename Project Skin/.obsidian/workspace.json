@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "SQL Bugs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "SQL Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "SQL Bugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "SQL Bugs.md"
               }
             }
           },
@@ -212,6 +212,8 @@
   },
   "active": "2b0d16665d7e1e35",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "SQL Bugs.md",
     "BackEnd/SQL Revision.md",
     "Todo.md",
     "Chap IV - IT project Cost management.md",
@@ -241,8 +243,6 @@
     "Images/Pasted image 20240323110223.png",
     "Images/Pasted image 20240323110221.png",
     "Images/Pasted image 20240323104131.png",
-    "Docker tips & bugs.md",
-    "History & Politic/American - China Chip Wars and the Potential for VN people.md",
     "Images/Pasted image 20240322172915.png",
     "Images/Pasted image 20240322140244.png",
     "Images/Pasted image 20240322140232.png",

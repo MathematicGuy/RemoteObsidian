@@ -24,6 +24,8 @@ source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
 + [[Movie_DB]]
 + [[jobDB]]
 
+[[SQL Bugs]]
+
 ---
 
 Priority single collin in SQL: '  ' not " "
