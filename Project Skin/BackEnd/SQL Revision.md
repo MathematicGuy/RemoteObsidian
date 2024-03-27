@@ -143,3 +143,6 @@ COUNT(Student.id) -> COunt by 1 for every student id that exist in the table
 + ! = ANY vs LIKE
 	LIKE -> usually use for matching string pattern 
 	= ANY -> retrieve any value matching with it (Works best for exact matches.) 
+
+
++ ! add "SET IDENTITY_INSERT departments ON;" before INSERT
