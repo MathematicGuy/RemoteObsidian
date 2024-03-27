@@ -26,8 +26,13 @@
             "id": "ef2a10f56eb531be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Turtorial Resources.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Turtorial Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Turtorial Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Turtorial Resources.md"
+              }
             }
           },
           {
@@ -190,6 +199,7 @@
   },
   "active": "ef2a10f56eb531be",
   "lastOpenFiles": [
+    "2nd Yrs Science Research Project.md",
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Practice Procedure and Trigger.md",
@@ -216,7 +226,6 @@
     "Blog with ASAP.NET.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Personal/Comparison/Data Science Course.md",
-    "Technology Conparison.md",
     "Images/432450160_795999162548007_2262674713157060908_n.jpg",
     "Images/Pasted image 20240323110223.png",
     "Images/Pasted image 20240323110221.png",
