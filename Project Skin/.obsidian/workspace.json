@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53d4b57c1fb6b574",
+        "id": "2ea26d23661570a3",
         "type": "tabs",
         "children": [
           {
-            "id": "1619169cc07732cc",
+            "id": "41309eebd0bdf23a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,46 +23,15 @@
             }
           },
           {
-            "id": "3ed76558f516a6bd",
+            "id": "b309b949129210de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackEnd/SQL Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0d16665d7e1e35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e729712c264974f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice Procedure and Trigger.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Procedure and Trigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Practice Procedure and Trigger.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,12 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e729712c264974f6",
+  "active": "b309b949129210de",
   "lastOpenFiles": [
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "BackEnd/SQL Revision.md",
     "Todo.md",
     "Practice Procedure and Trigger.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "BackEnd/SQL Revision.md",
     "SQL Bugs.md",
     "Chap IV - IT project Cost management.md",
     "IT Project Management.md",
