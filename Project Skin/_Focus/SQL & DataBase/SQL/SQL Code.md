@@ -1,4 +1,4 @@
-source: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
+csource: https://youtu.be/5OdVJbNCSso?si=d81elQsUp3hp_XQr
 
 **SQL Learning Tools**
 	[SQL Zoo](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
@@ -108,7 +108,7 @@ INSERT INTO users
 VALUES
 (   
     1, 'Elong Mask', 'maskElon12@gmail.com' 
-),
+	),
 (   
     2, 'Bill Stone', 'billmak122@gmail.com' 
 ),
