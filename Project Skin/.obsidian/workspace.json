@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bf507c8ee6972238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My AI Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "My AI Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "My AI Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "My AI Project.md"
               }
             }
           },
@@ -183,11 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2a7f63a452ebcf9",
+  "active": "bf507c8ee6972238",
   "lastOpenFiles": [
+    "Todo.md",
+    "My AI Project.md",
     "Turtorial Resources.md",
     "2nd Yrs Science Research Project.md",
-    "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Practice Procedure and Trigger.md",
     "BackEnd/SQL Revision.md",
@@ -211,7 +226,6 @@
     "Personal/Language Learning/German Vocabulary.md",
     "BackEnd/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Blog with ASAP.NET.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Images/432450160_795999162548007_2262674713157060908_n.jpg",
     "Images/Pasted image 20240323110223.png",
     "Images/Pasted image 20240323110221.png",

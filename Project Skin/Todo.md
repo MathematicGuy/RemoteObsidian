@@ -15,7 +15,7 @@
 
 #Todo/GoalsThisMonth
 - [ ] Learn Github Project Management 
-- [ ] Stock Prediction
+- [ ] [[My AI Project]]
 
 #Todo/Later
 - [ ] Manipulate my Emotion (Rage/Hunger) to do hard thing
