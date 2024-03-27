@@ -34,12 +34,11 @@ Row - Recordw
 
 ### USEFUL SQL RULES
 - **Order of Operations:** SQL follows an order of operations, similar to mathematical expressions:
-    
-    1. FROM and JOINS
-    2. WHERE
-    3. GROUP BY
-    4. HAVING
-    5. SELECT
+    1. SELECT
+    2. FROM and JOINS
+    3. WHERE
+    4. GROUP BY
+    5. HAVING
     6. ORDER BY
 
 + **WHERE vs. HAVING: Key Differences**    
@@ -642,6 +641,7 @@ LIKE (**Use To Find Pattern**)
 ```sql
 SELECT winner FROM nobel
  WHERE winner LIKE 'John%'
+
 ```
 > Show the winners with first name John
 

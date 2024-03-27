@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea26d23661570a3",
+        "id": "2b5a7b6aeefb86f9",
         "type": "tabs",
         "children": [
           {
-            "id": "41309eebd0bdf23a",
+            "id": "82bc572e3c866872",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "b309b949129210de",
+            "id": "ef2a10f56eb531be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b309b949129210de",
+  "active": "ef2a10f56eb531be",
   "lastOpenFiles": [
     "Todo.md",
-    "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Practice Procedure and Trigger.md",
     "BackEnd/SQL Revision.md",
     "SQL Bugs.md",
     "Chap IV - IT project Cost management.md",
