@@ -21,7 +21,7 @@
 - [ ] Manipulate my Emotion (Rage/Hunger) to do hard thing
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
-
+- [ ] Share my Stories to my uncle Hung. When I finish this year
 
 **My Learning**
 [Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
