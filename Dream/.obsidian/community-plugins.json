@@ -1,5 +1,7 @@
 [
   "table-editor-obsidian",
   "oz-image-plugin",
-  "calendar"
+  "calendar",
+  "highlightr-plugin",
+  "make-md"
 ]

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "320ea591dafef242",
+        "id": "c1d8f3ff444915a9",
         "type": "tabs",
         "children": [
           {
-            "id": "60386fbb5a4893d9",
+            "id": "35c98b41a4985e4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reason why you not understand what they understand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f485397d889f31c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Happiness/Save for my GF.md",
+                "file": "How to Have a Better Day.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "583a9f610f8f0754",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Happiness/Save for my GF.md",
+                "file": "How to Have a Better Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Happiness/Save for my GF.md",
+                "file": "How to Have a Better Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Happiness/Save for my GF.md"
+                "file": "How to Have a Better Day.md"
               }
             }
           },
@@ -190,12 +186,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f485397d889f31c",
+  "active": "35c98b41a4985e4b",
   "lastOpenFiles": [
+    "Best video about Trauma and What could have been.md",
+    "My Life/My Life.md",
+    "How to Have a Better Day.md",
+    "How To/How To.md",
+    "Spaces/Home",
+    "Spaces",
+    "Happiness/Save for my GF.md",
+    "Reason why you not understand what they understand.md",
     "How To/Focus/Fasting for Optimal Focus.md",
     "Goals.md",
     "How To/Focus",
-    "Reason why you not understand what they understand.md",
     "Happiness/Identify my Weakness.md",
     "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
     "Image/Pasted image 20240227195721.png",
@@ -223,11 +226,6 @@
     "How To/How to Study when you Tired after school.md",
     "My Life/Styles.md",
     "My Life/Sleep.md",
-    "My Life/Skills.md",
-    "My Life/Report.md",
-    "Going to Space.md",
-    "Learning How To Learn.md",
-    "Productivity & Improvement/Mindset.md",
     "Image/books.png",
     "Social",
     "How To",
@@ -236,8 +234,6 @@
     "Productivity & Improvement",
     "My Life",
     "Image/Pasted image 20230810195015.png",
-    "Ultimate Past Paper Revision Strategy",
-    "Untitled.canvas",
-    "Report2.pdf"
+    "Untitled.canvas"
   ]
 }

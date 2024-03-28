@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f490364e8c7c0cd7",
+        "id": "1e3ff578721afa41",
         "type": "tabs",
         "children": [
           {
-            "id": "8974c903f85f6b82",
+            "id": "c70f870f3949c2af",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "452d8d7a5aca844d",
+            "id": "67e54f5c35850fc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leadership.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,13 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "452d8d7a5aca844d",
+  "active": "67e54f5c35850fc5",
   "lastOpenFiles": [
+    "Todo.md",
+    "My AI Project.md",
     "Images/Pasted image 20240328093040.png",
     "Images/Pasted image 20240328092715.png",
     "Leadership.md",
     "Images/Pasted image 20240328092755.png",
-    "Todo.md",
     "Images/Pasted image 20240328091317.png",
     "Images/Pasted image 20240328090811.png",
     "Images/Pasted image 20240328090534.png",
@@ -211,11 +203,9 @@
     "Images/Pasted image 20240328090214.png",
     "Images/Pasted image 20240328090154.png",
     "Images/Pasted image 20240328090014.png",
-    "Images/Pasted image 20240327181930.png",
     "AnswerExam1.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "My AI Project.md",
     "Turtorial Resources.md",
     "2nd Yrs Science Research Project.md",
     "BackEnd/SQL Revision.md",

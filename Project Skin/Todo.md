@@ -15,7 +15,6 @@
 
 #Todo/GoalsThisMonth
 - [ ] Learn Github Project Management 
-- [ ] [[My AI Project]]
 
 #Todo/Later
 - [ ] Manipulate my Emotion (Rage/Hunger) to do hard thing

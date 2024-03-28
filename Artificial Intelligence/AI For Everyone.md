@@ -10,7 +10,7 @@
 + ## Intuitive explanation of Deep Learning
 
 
-# [[Building AI Project]] 
+# [[My AI Project]] 
 
 
 # [[Numpy]] 

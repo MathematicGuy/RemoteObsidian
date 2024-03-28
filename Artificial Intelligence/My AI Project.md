@@ -1,3 +1,4 @@
+
 Project Name
 Goal
 	Do what?
@@ -11,10 +12,13 @@ Output:
 
 
 **Application of AI**
-Nhận dạng + Thống kê cảm xúc khuôn mặt
+**Very Practical:** Nhận dạng + Thống kê cảm xúc khuôn mặt
 	Phân loại cảm xúc.
+	Thống kê cảm xúc trên sơ đồ graph 
+-> Từ đó đưa ra đánh giá và chiến thuật cải thiện việc giảng dạy trên lớp.
 Input: video 2-4s
-Output: 
+Cons 
+Pros
 
 
 **DBSCAN**

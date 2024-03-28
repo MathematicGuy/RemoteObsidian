@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-Means.md",
+                "file": "Mathematic  for Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0517663381fa7517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application of Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d3e75e4b985dfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essence of linear algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K-Means.md",
+                "file": "Essence of linear algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K-Means.md",
+                "file": "Essence of linear algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K-Means.md"
+                "file": "Essence of linear algebra.md"
               }
             }
           },
@@ -173,33 +197,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e77f9ff2f40fa36e",
+  "active": "6d3e75e4b985dfa5",
   "lastOpenFiles": [
+    "Essence of linear algebra.md",
+    "Application of Matrix.md",
+    "Mathematic  for Machine Learning.md",
+    "Image/Pasted image 20240328141835.png",
+    "Image/Pasted image 20240328140212.png",
+    "Image/Pasted image 20240328135451.png",
+    "Image/Pasted image 20240328135251.png",
+    "Image/Pasted image 20240328135153.png",
+    "Image/Pasted image 20240328134513.png",
+    "Vector Algebra.md",
+    "Linear Algebra.md",
+    "Linear system as Matrix using Numpy.md",
+    "K-Means from Scratch.md",
+    "Machine Learning.md",
+    "My AI Project.md",
+    "CMC AI.md",
     "CMC AI INTRO.md",
     "CMC Machine Learning Algorithm.md",
-    "K-Means.md",
     "Image/Pasted image 20240320133314.png",
     "Image/Pasted image 20240320133308.png",
     "Image/Pasted image 20240320132114.png",
     "Machine Learning Algorithm.md",
-    "CMC AI.md",
     "AI Intro and Definition.md",
-    "Mathematic  for Machine Learning.md",
     "Mathematic for Machine Learning - Assignment.md",
-    "Machine Learning.md",
     "Image/Pasted image 20240319110217.png",
     "Anaconda Command.md",
-    "Vector Algebra.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
-    "Linear system as Matrix using Numpy.md",
     "Beautiful of Math.md",
     "Setup Anaconda Guide.md",
-    "Image/Pasted image 20240314235647.png",
-    "Image/Pasted image 20240314235630.png",
-    "Image/Pasted image 20240314111040.png",
-    "Image/Pasted image 20240314110918.png",
-    "Image/Pasted image 20240314110857.png",
-    "Image/Pasted image 20240314110730.png",
     "Anaconda.md",
     "Machine Learning Problems.md",
     "Clustering.md",
@@ -207,9 +235,6 @@
     "Classification.md",
     "Reinforcement Learning.md",
     "Transfer Learning.md",
-    "Unsupervised Learning.md",
-    "Supervised Learning.md",
-    "To do List.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",

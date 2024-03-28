@@ -201,7 +201,7 @@ For 0. The Row Echelon form is itself
 ![[Pasted image 20240305005714.png]]
 
 + Can have all 1 or 0 at the diagnol. 
-+ Below the diagnol everything are 0. above 0 are 0
++ Below the diagnol everything are 0. Above 0 are 0.
 ![[Pasted image 20240305005822.png]]
 
 
@@ -214,6 +214,7 @@ Row operations that preserve singularity
 
 ![[Pasted image 20240305013129.png]]
 
+adding row to row doesn't change the determinant
 ## Chapter Summary
 
 ### Singular and Non-singular in Matrixes
@@ -225,7 +226,7 @@ Row operations that preserve singularity
     - **Non-invertible:** A singular matrix does not have an inverse. The inverse of a matrix allows you to "undo" its multiplication with another matrix. Because of a determinant of zero, the inverse operation cannot be defined for singular matrices.
     - **Dependent Rows/Columns:** A singular matrix often indicates that its rows or columns are linearly dependent. This means one row (or column) can be expressed as a linear combination of the other rows (or columns).
 
-
+ 
 #### **Non-Singular Matrix**
 
 - ? **Definition:** A square matrix is non-singular if its determinant is not equal to zero (det(A) ≠ 0).
@@ -467,3 +468,5 @@ R1 - R3
 		And 2 mean infinity solution
 
 ### [[Vector Algebra]]
+
+

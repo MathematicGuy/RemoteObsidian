@@ -3,7 +3,7 @@ DL (2006)
 Decision Tree 
 K-Nearest Neighbor
 ![[1 WZJHcQdUyAddQz_8VS1lvQ.png]]
-[[K-Means]]
+[[K-Means from Scratch]]
 
 Random Forest
 ![[1 i0o8mjFfCn-uD79-F1Cqkw.png]]
