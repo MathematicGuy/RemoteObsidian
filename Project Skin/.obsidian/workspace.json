@@ -26,8 +26,13 @@
             "id": "67e54f5c35850fc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quote - Great - Mindset Archive.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -77,13 +82,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -99,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quote - Great - Mindset Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quote - Great - Mindset Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quote - Great - Mindset Archive.md"
+              }
             }
           },
           {
@@ -190,6 +197,8 @@
   },
   "active": "67e54f5c35850fc5",
   "lastOpenFiles": [
+    "Document/Good Read.md",
+    "The Greatness Guide.md",
     "Todo.md",
     "My AI Project.md",
     "Images/Pasted image 20240328093040.png",
@@ -224,7 +233,6 @@
     "ASP.NET Introduction.md",
     "WebDev/Web.md",
     "Man.md",
-    "Making of Gannt Chart.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

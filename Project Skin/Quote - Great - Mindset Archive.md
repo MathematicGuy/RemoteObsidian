@@ -8,3 +8,7 @@ Evil is Distraction - Consider the simplicity of this insight
 
 
 We lost ourselves in our pursuit of great we failed to do good." - Viktor
+
+
+courage isnt the absence of fear, its acting in spite of it
+	Friene anime
