@@ -33,6 +33,8 @@ launchSetting.json
 
 ### [[Blog WebApp Project Overview]]
 
+[[Blog WebApp Bugs and Notice]]
+
 
 ## Project Document
 
@@ -258,3 +260,4 @@ public IActionResult Add(AddTagRequest addTagRequest)
 
 ### Read Records From Database
 + ! Remember: Http command are like execute SQL query in 1 Word.
+

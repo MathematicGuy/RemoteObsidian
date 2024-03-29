@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Blog WebApp Bugs and Notice.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd46b923e5e95c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Blog WebApp Bugs and Notice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Blog WebApp Bugs and Notice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog with ASAP.NET.md"
+                "file": "Blog WebApp Bugs and Notice.md"
               }
             }
           },
@@ -198,8 +211,11 @@
   },
   "active": "d7215b83168c6634",
   "lastOpenFiles": [
-    "Images/Pasted image 20240329074436.png",
     "Todo.md",
+    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+    "Blog WebApp Bugs and Notice.md",
+    "Blog with ASAP.NET.md",
+    "Images/Pasted image 20240329074436.png",
     "Document/Good Read.md",
     "The Greatness Guide.md",
     "My AI Project.md",
@@ -213,7 +229,6 @@
     "Images/Pasted image 20240328090405.png",
     "Images/Pasted image 20240328090214.png",
     "Images/Pasted image 20240328090154.png",
-    "Images/Pasted image 20240328090014.png",
     "AnswerExam1.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -232,8 +247,6 @@
     "CSharp Revision.md",
     "Web MVC Model.md",
     "File Structure.md",
-    "ASP.NET Introduction.md",
-    "WebDev/Web.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
