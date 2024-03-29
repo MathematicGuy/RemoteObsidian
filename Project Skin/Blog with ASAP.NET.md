@@ -1,6 +1,7 @@
 Strategy divide the video into each sections
 	Listen super super carefully & Take Note for each section.
 + ! bug maybe cause if I missheard or misunderstood any part.
++ note: Using Bot to rate my documentation and refine it after I finished.
 
 **What we'll Learn & Achieve**
 
@@ -189,9 +190,9 @@ The Folder from View reflect the controller from Controllers folder
 ### Submit Forms and Data Binding
 > Read Incomming Request using Model Binding
 use asp-for=""
-1) Create a View Model  
+1) Create a View Model name "AddTagRequest.cs"
 ![[Pasted image 20240323104131.png]]
-Use as a Tag to get data from HTML
+Create Tag to get data from HTML
 ```cs
 public class AddTagRequest
 {
@@ -199,12 +200,12 @@ public class AddTagRequest
   public string DisplayName { get; set; }
 }
 ```
-2) Add and Connect Tag to the View Model 
-**Connet the ViewModel**
+2) Make a HTML page name "Add" and get input data using View Model's tags  
+**Connet the ViewModel to the HTML file**
 ```cs
 @model MyBlog.Web.Models.ViewModels.AddTagRequest  
 ```
-**Get input data to ViewModel property**
+**Get input data using View Model's tags**  
 ```html
 <div class="mb-3">
 	<label class="form-label">Name</label>
@@ -216,8 +217,36 @@ public class AddTagRequest
 	<input type="text" class="form-control" value="" id="displayName" asp-for="DisplayName"/>
 </div>
 ```
+3) Create Add Action in "AdminTagsController"  to transfer data from INPUT to Web API
+```cs
+[HttpGet]
+public IActionResult Add()
+{
+	return View();
+}
 
+// POST: /AdminTags/Add
+[HttpPost]
+[ActionName("Add")] // if they're not the same Cs still recognized which Add to use (context: compare Add above and Add below)
+public IActionResult Add(AddTagRequest addTagRequest)
+{
+	// Mapping AddTagRequest to Tag 
+	var tag = new Tag
+	{
+		 Name = addTagRequest.Name,
+		 DisplayName = addTagRequest.DisplayName,
+	};
+
+	 // get data from tag
+	bloggieDbContext.Tags.Add(tag);
+	// crucial to save changes
+	bloggieDbContext.SaveChanges();
+
+	return View("Add");
+}
+```
 
 ### Saving Data to Database
 ![[Pasted image 20240323110223.png]]
+
 
