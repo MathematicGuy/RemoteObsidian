@@ -167,7 +167,8 @@ The Folder from View reflect the controller from Controllers folder
 ![[Pasted image 20240322172915.png]]
 
 
-**Connect link to a Tag** 
+
+**TAG DROPDOWN: Connect link to a Tag** 
 > using asap. 				
 > + asp-controller="AdminTags" -> connect to the controller
 > + asp-action="Add" -> Action of that controller
