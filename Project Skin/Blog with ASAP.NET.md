@@ -217,17 +217,22 @@ public class AddTagRequest
 	<input type="text" class="form-control" value="" id="displayName" asp-for="DisplayName"/>
 </div>
 ```
-3) Create Add Action in "AdminTagsController"  to transfer data from INPUT to Web API
+3) Get Data from Web to the Database (BloggieDbContext) 
+**Create Action Add to View Add.cshtml page**
 ```cs
 [HttpGet]
 public IActionResult Add()
 {
 	return View();
 }
-
+```
++ Use Action HttpsPost to Create/Update datas 
++ Create new Tag to store input datas 
+```cs
 // POST: /AdminTags/Add
 [HttpPost]
 [ActionName("Add")] // if they're not the same Cs still recognized which Add to use (context: compare Add above and Add below)
+
 public IActionResult Add(AddTagRequest addTagRequest)
 {
 	// Mapping AddTagRequest to Tag 
@@ -236,7 +241,9 @@ public IActionResult Add(AddTagRequest addTagRequest)
 		 Name = addTagRequest.Name,
 		 DisplayName = addTagRequest.DisplayName,
 	};
-
+```
++ Add Tag (input datas) to bloggieDbContext 
+```cs
 	 // get data from tag
 	bloggieDbContext.Tags.Add(tag);
 	// crucial to save changes
@@ -245,8 +252,8 @@ public IActionResult Add(AddTagRequest addTagRequest)
 	return View("Add");
 }
 ```
-
-### Saving Data to Database
+> the code above **Saving Data to Database**
 ![[Pasted image 20240323110223.png]]
 
-
+### Read Records From Database
++ ! Remember: Http command are like execute SQL query in 1 Word.
