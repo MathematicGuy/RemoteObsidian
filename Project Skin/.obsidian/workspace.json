@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4cf9f1fbd2497053",
+        "id": "302176a42e1e8821",
         "type": "tabs",
         "children": [
           {
-            "id": "edb76141d7be6f9a",
+            "id": "ed6b998b6c9a3433",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9250ef2121a5cdc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LS - What will I learned overview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LS - What will I learned overview.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LS - What will I learned overview.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LS - What will I learned overview.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -196,11 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9250ef2121a5cdc6",
+  "active": "ed6b998b6c9a3433",
   "lastOpenFiles": [
+    "History & Politic/Politic.md",
+    "LS - What will I learned overview.md",
     "Images/Pasted image 20240330111539.png",
     "Leadership.md",
-    "LS - What will I learned overview.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Blog WebApp Bugs and Notice.md",
@@ -219,7 +206,6 @@
     "Images/Pasted image 20240328090534.png",
     "Images/Pasted image 20240328090405.png",
     "Images/Pasted image 20240328090214.png",
-    "Images/Pasted image 20240328090154.png",
     "AnswerExam1.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
