@@ -125,7 +125,7 @@
 
 ## Week 6
 > Critical, pragmatic, and popular perspectives on leadership
-	Phê bình, thực dụng và góc nhìn nổi tiếng trong lãnh đjđjajo
+	Phê bình, thực dụng và góc nhìn nổi tiếng trong lãnh 
 
 ### Topics:
 
@@ -145,4 +145,4 @@
 2. Evaluate a pragmatic perspective on leadership and explain how its current practices might be leading to unexpected behaviours in employees
     Đánh giá một góc nhìn thực dụng trên sự lãnh đạo và giải thích các phong tục hiện tại có thể dẫn đến hành động ko ngờ tới của nhân viên. 
 3. Assess the gap between serious and populist theories of leadership and critically analyse and predict how leadership might need adapt to counter future challenges
-	Đánh giá khoảng cách nghiêm trọng và lý thuyết nổi tiếng của lãnh đạo và phân tích biện luận và dự đoán lãnh đạo có thể thích ứng để chống lại tương lai thách thức. 
+	Đánh giá khoảng trống giữa nghiêm trọng và lý thuyết nổi tiếng của lãnh đạo và phân tích biện luận và dự đoán lãnh đạo có thể thích ứng để chống lại tương lai thách thức. 
