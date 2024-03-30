@@ -1,4 +1,7 @@
-Adjective: word use to describe people or thing (e.g: red, big, tiny, fluffy, etc..)
+German word order: Important context goes first, Verb goes after.
+	Wir sehen ins Kino ein Film
+
+
 ### **Unit 1: Order in a cafe, describe your family**
 
 **Lesson 1**
@@ -1427,3 +1430,14 @@ Wir möchten zusammen surfen gehen - we would like to surfing together
 Sehen - watch
 I like soccer would you like to watch a soccer game - Ich mag Fußball, Möchtest du fußball spiel sehen
 Ihr - plural from -> Mia und Markus, spielt Ihr Tennis
+
+
+Der Film - the movie
+Geige - violin
+Gitarre - guitar
+Herr Baum spielt ein instrument für die drei freunde 
+Tim und Ali, Spielt Ihr Geige oder Klavier 
+	Ihr -> plural (Tim and Ali ist 2 persons) 
+	Spielt bc of Ihr
+
+

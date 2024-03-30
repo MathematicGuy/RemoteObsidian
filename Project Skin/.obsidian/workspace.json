@@ -23,33 +23,19 @@
             }
           },
           {
-            "id": "1f86c9e6d88addba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course map.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e2dd823b47206e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course map.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course map.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course map.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -209,11 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f86c9e6d88addba",
+  "active": "5d1d399550cab731",
   "lastOpenFiles": [
-    "Leadership.md",
-    "Course map.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
+    "Course map.md",
+    "Leadership.md",
     "My Vlog.md",
     "Images/Pasted image 20240330170428.png",
     "Images/Pasted image 20240330111539.png",
@@ -223,7 +210,6 @@
     "Ideal not Ideas.md",
     "Images/Pasted image 20240330134207.png",
     "Ideas for Website.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Blog WebApp Bugs and Notice.md",
     "Personal/Language Learning/German.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
