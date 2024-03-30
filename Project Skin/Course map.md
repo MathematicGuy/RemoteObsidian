@@ -91,9 +91,9 @@
 1. Critique the relationship between charisma and the practice of transformational leadership, and identify and analyze darker and lighter elements of transformational leadership
     Phê bình mqh giữa cuốn hút và sự thực tiễn của lãnh đạo chuyển đổi đồng thời nhận dạng và phân tích yếu tố tối và sáng trong lãnh đạo chuyển đổi 
 2. Examine the relationship between transformational leadership and organizational culture, and analyze how globalism and multiculturalism are impacting on the nature of this relationship
-    Xem xét mqh giữua lãnh đạo chuyển đổi và tổ chức văn hóa và phphân tích chủ nghĩa toàn cầu hóa và chủ nghĩa đa văn hóa đang tác động tới bản chất của của mqh. 
+    Xem xét mqh giữa lãnh đạo chuyển đổi và tổ chức văn hóa và phphân tích chủ nghĩa toàn cầu hóa và chủ nghĩa đa văn hóa đang tác động tới bản chất của của mqh. 
 3. Define authentic leadership from psychological and philosophical perspectives, explain its dimentions and practices, and critically analyze its relationship with organizational purpose
-	Định nghĩa lãnh đạo đích thực
+	Định nghĩa lãnh đạo đích thực từ góc nhìn tâm lý và triêt lý, giải thích các khía cạnh của nó và tập quán và phân tích sâu các mqh của nó với mục tiêu tổ chức 
 
 
 ---

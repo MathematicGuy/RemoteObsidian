@@ -5,9 +5,8 @@ Claim: tuyên bố
 Examine: xác nhận, kiểm tra
 Behavioural: hành vi
 Practices: thực tiễn, phương pháp
-Claim: tuyên bố
++ ? Practices: tập tuán (Cultural practice - tập quán văn )
 Contingency: dự phòng
-Practices: tập tuán (Cultural practice - tập quán văn )
 
 
 ----

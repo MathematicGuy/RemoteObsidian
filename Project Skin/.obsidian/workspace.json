@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "0e2dd823b47206e2",
+            "id": "1f86c9e6d88addba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "1f86c9e6d88addba",
+            "id": "0e2dd823b47206e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,22 +47,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1ef76f19c3c3ae88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Course map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Course map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Course map.md"
               }
             }
           },
@@ -222,12 +209,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ef76f19c3c3ae88",
+  "active": "1f86c9e6d88addba",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Leadership.md",
     "Course map.md",
     "Todo.md",
-    "Leadership.md",
+    "My Vlog.md",
     "Images/Pasted image 20240330170428.png",
     "Images/Pasted image 20240330111539.png",
     "LS - What will I learned overview.md",
