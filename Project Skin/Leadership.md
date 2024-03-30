@@ -8,11 +8,12 @@ Practices: thực tiễn, phương pháp
 + ? Practices: tập tuán (Cultural practice - tập quán văn )
 Contingency: dự phòng
 Synthesize: tổng hợp
+Impediments: trở ngại
 
 ----
 
 ### Why ?  
-Because of AI soon will be ours Servent, each human responsibility are to become a Leader.
+Because of AI soon will be ours Servent, it each human responsibility to become a Leader.
 **What kind of Leader ?**
 + Ethical fact (not a psychopath)
 + Resoure/interaction/social management skills
@@ -33,7 +34,7 @@ Because of AI soon will be ours Servent, each human responsibility are to become
 
 
 ## [[Course map]]
-
++ Advises: [[Briefly describe what makes them a good leader]]
 
 ### Week 0: Important of Leadership
 Fixed mindset - grown mindset
