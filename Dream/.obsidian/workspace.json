@@ -10,13 +10,15 @@
           {
             "id": "35c98b41a4985e4b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Have a Better Day.md",
+                "file": "My Dream.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Have a Better Day.md",
+                "file": "My Dream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Have a Better Day.md",
+                "file": "My Dream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Have a Better Day.md"
+                "file": "My Dream.md"
               }
             }
           },
@@ -187,18 +189,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "583a9f610f8f0754",
+  "active": "35c98b41a4985e4b",
   "lastOpenFiles": [
-    "Best video about Trauma and What could have been.md",
-    "My Life/My Life.md",
+    "My Dream.md",
+    "Happiness/Happiness.md",
+    "Spaces/Home/Home.md",
+    "Goals.md",
     "How to Have a Better Day.md",
+    "How To/Learning How To Learn.md",
+    "Question Mark/Reason why you not understand what they understand.md",
+    "My Life/Leadership.md",
+    "Happiness/Best video about Trauma and What could have been.md",
+    "Vault.md",
+    "My Life/My Life.md",
     "How To/How To.md",
     "Spaces/Home",
     "Spaces",
     "Happiness/Save for my GF.md",
-    "Reason why you not understand what they understand.md",
     "How To/Focus/Fasting for Optimal Focus.md",
-    "Goals.md",
     "How To/Focus",
     "Happiness/Identify my Weakness.md",
     "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
@@ -220,13 +228,7 @@
     "Question Mark/Why & What.md",
     "How To/How to have Self-Control.md",
     "How To/How to Learn Fast.md",
-    "Why/Why.md",
     "Why",
-    "Happiness/Quote.md",
-    "My Life/1_Shoot for the Star.md",
-    "How To/How to Study when you Tired after school.md",
-    "My Life/Styles.md",
-    "My Life/Sleep.md",
     "Image/books.png",
     "Social",
     "How To",

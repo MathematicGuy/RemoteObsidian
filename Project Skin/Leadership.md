@@ -1,6 +1,14 @@
 note:
-+ Contemporary (Adj): something occuring at the same time (đại cương -> t/c tổng quan (kiến thức))
- 
+Contemporary (Adj): something occuring at the same time
+	(đại cương -> t/c tổng quan (kiến thức))
+Claim: tuyên bố
+Examine: xác nhận, kiểm tra
+Behavioural: hành vi
+Practices: thực tiễn, phương pháp
+Claim: tuyên bố
+Contingency: dự phòng
+Practices: tập tuán (Cultural practice - tập quán văn )
+
 
 ----
 
@@ -14,9 +22,9 @@ Because of AI soon will be ours Servent, each human responsibility are to become
 + Adapability
 + ! Leader adapt their Styles to the environment. Leadership are always messy
 
-### [[LS - What will I learned overview]]
+
+### LS - What will I learned overview
 + Critically evaluate the similarities and differences between traditional and contemporary theories of leadership and identify the practices of established leadership theories, such as transformational leadership, servant leadership, etc.
-	
 	
 + Examine how the interruptive complexities and challenges of day-to-day organisational life might require agile shifts between different leadership styles
 	Xem xét sự gián đoạn phức tạp và thử thách hàng ngày trong cuộc sống 1 tổ chức có thể yêu cầu sự linh hoạt giữa các phong cách lãnh đạo 
@@ -25,8 +33,8 @@ Because of AI soon will be ours Servent, each human responsibility are to become
 	Phân tích hình thái sau công nghiệp của người tham gia và tự tổ chức và tín đồ có thể cho phép hoặc vô hiệu chức năng làm nhóm hiệu quả. 
 
 
+## [[Course map]]
 
-## Course map
 
 ### Week 0: Important of Leadership
 Fixed mindset - grown mindset

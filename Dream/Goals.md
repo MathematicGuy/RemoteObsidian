@@ -1,4 +1,5 @@
 
+
 My goals this Semester is to take full control of myself. 
 
 These are the vower I shall die for to so I can live my life at the fullest. This moment from now if I don't give it all I 100% will be regret for the next few years.
