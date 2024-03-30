@@ -17,3 +17,6 @@ Toresterone are your energy bar and doing hard thing are your magic.
 	 Use too much magic then you might get down.
 		 This incenerate all your enegy but increase your capacity overall, 
 	Use too little magic then your energy will descend down. 
+
+Arbitrary: độc đoán (ý kiến đến từ bản thân thay vì hệ thống xã )
+Inherent value: giá trị vốn 

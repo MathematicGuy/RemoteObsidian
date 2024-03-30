@@ -10,8 +10,6 @@
 
 #Todo/GoalsThisWeek
 - [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
-- [x] Eat Less. Delay Coffee 90' - 120' to improve energy and focus 
-- [ ] Late Night Workout
 
 #Todo/GoalsThisMonth
 - [ ] Learn Github Project Management 

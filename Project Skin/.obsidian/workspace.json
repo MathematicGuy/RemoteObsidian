@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "302176a42e1e8821",
+        "id": "14c7bd52f7952e66",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6b998b6c9a3433",
+            "id": "5d1d399550cab731",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -182,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed6b998b6c9a3433",
+  "active": "5d1d399550cab731",
   "lastOpenFiles": [
     "History & Politic/Politic.md",
     "LS - What will I learned overview.md",

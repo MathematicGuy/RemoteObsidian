@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -186,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35c98b41a4985e4b",
+  "active": "583a9f610f8f0754",
   "lastOpenFiles": [
     "Best video about Trauma and What could have been.md",
     "My Life/My Life.md",
