@@ -100,15 +100,16 @@
 
 ## Week 5
 > Leadership and ambiguity
+	Lãnh đạo và mơ hồ
 
 ### Topics:
 
 - Action-inquiry and leadership transformation
-    
+	Truy vấn hành động và chuyển đổi lãnh đạo 
 - Adaptive leadership practices
-    
+	Thực hành lãnh đạo thích ứng
 - Models of complexity
-    
+    Sự phức tạp của Mô hình 
 
 ### Learning outcomes:
 
