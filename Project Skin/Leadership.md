@@ -7,7 +7,7 @@ Behavioural: hành vi
 Practices: thực tiễn, phương pháp
 + ? Practices: tập tuán (Cultural practice - tập quán văn )
 Contingency: dự phòng
-
+Synthesize: tổng hợp
 
 ----
 

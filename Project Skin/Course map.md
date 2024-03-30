@@ -114,33 +114,35 @@
 ### Learning outcomes:
 
 1. Explain action-inquiry, identify the differences between single, double and triple-loop learning, and identify, and evaluate and critically analyse the different “character types” of leadership
-    
+    Giải thích hành động truy vấn, xác định sự khác biệt giữa vòng lặp học đơn, đôi, tam và xác định "loại tính cách" của lãnh đạo
 2. Examine the practices of adaptive leadership and how they differ from the practices of authority, and critically analyse the risky and adaptive process of leadership activity in positions of authority or when lacking authority
-    
+    Xem xét tập quán của lãnh đạo thích nghi và nó khác với tập quán của thực tiễn lãnh đạo và phân tích sâu rủi ro và quá trình thích ứng của hoạt động lãnh đạo trong vị trí cầm quyền hoặc khi thiếu thẩm quyền   
 3. Synthesize various models of complexity, explain the similarities and differences between them, and argue how leadership might shift in relation to such environmental challenges
+	Tổng hợp đa dạng các mô hình phức tạp khác , giải thích sự tương đồng và khác biệt giữa chúng, và tranh cãi viêc lãnh đạo có thể thay đổi liên quan đến những thách thức môi trường như vậy.
 
 
 ---
 
 ## Week 6
 > Critical, pragmatic, and popular perspectives on leadership
+	Phê bình, thực dụng và góc nhìn nổi tiếng trong lãnh đjđjajo
 
 ### Topics:
 
 - Critical management studies
-    
+    học quản lý sâu
 - The dark side of leadership
-    
+    mặt tối của lãnh đạo
 - Populism and complexity
-    
+    nổi tiếng giáo và sự phức p
 - The future is adaptability
-    
+    Tương lai là sự Thích Nghi
 
 ### Learning outcomes:
 
 1. Apply a critical perspective to leadership, followership, teamwork and culture
-    
+    Áp dựng góc nhìn phản biện để lãnh đạo người theo sau, làm việc nhóm và văn hóa.
 2. Evaluate a pragmatic perspective on leadership and explain how its current practices might be leading to unexpected behaviours in employees
-    
+    Đánh giá một góc nhìn thực dụng trên sự lãnh đạo và giải thích các phong tục hiện tại có thể dẫn đến hành động ko ngờ tới của nhân viên. 
 3. Assess the gap between serious and populist theories of leadership and critically analyse and predict how leadership might need adapt to counter future challenges
-
+	Đánh giá khoảng cách nghiêm trọng và lý thuyết nổi tiếng của lãnh đạo và phân tích biện luận và dự đoán lãnh đạo có thể thích ứng để chống lại tương lai thách thức. 
