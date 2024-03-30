@@ -46,5 +46,5 @@ Movie: The Imitation Game
 + Sometime you must lose some batlte to win the whole war.
 + There're thing that you can't brute force, you must find the pattern and relationships.
 + Don't immediatly done anything you see as right. Check for it consequents first.
-+ Don't give lies to someone expected've deceived you."
++ " Don't give lies to someone expected've deceived you "
 

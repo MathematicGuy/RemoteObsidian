@@ -1087,11 +1087,11 @@ Das Kleid - the dress (die in plural, ein)
 Das Sakko - the Jacket
 Such (e/ t / st / en) - am looking for (3 words, include the word For)
 	Was suchen Sie
-	Minh, suchst du ein Kleid
+	Minh, suchst du ein Kleid - Minh, are you looking for a Dress
 Das Schal - the scraf 
 Das T-Shirt the T-Shirt
 Passt fit
-	ich Passt Sakko Größe S
+	Ich Passt Sakko Größe S
 Größe size
 Welche which
 	Frau Elsa, welche Größe suchen Sie ?
@@ -1109,7 +1109,7 @@ Dein Pullover - the Sweater
 	Haben sie einen pullover in Größe S
 Jean - jean
 	Die Jean sind für meinen Mann
-	+ **Meinen** because **the sentence is a Accusative Case**. The direct object of the verb reveives the action of the verd.
+	+ **Meinen** because **the sentence is a Accusative Case**. The direct object of the verb reveives the action of the verb.
 Bücherregal - bookshelf
 
 Anna, du musst neue Kleidung für das Konzert. Aber du kaufen Kleidung nicht . Ich habe zwei
@@ -1418,8 +1418,12 @@ Wer hat heute Geburtstag
 	Whose birthday is today
 
 Am ersten März hat Herr Goethe Geburtstag. Er geht wandern und trinkt später ein Bier mit Frau Goethe.
-	On the first of March is Mr.Goethe birthday. He go hiking and drink bear with Ms.Goethe\
+	On the first of March is Mr.Goethe birthday. He go hiking and drink bear with Ms.Goethe
 Ich möchte mascht ein Party  
 
+Geige - the violin
 
-März 
+Wir möchten zusammen surfen gehen - we would like to surfing together
+Sehen - watch
+I like soccer would you like to watch a soccer game - Ich mag Fußball, Möchtest du fußball spiel sehen
+Ihr - plural from -> Mia und Markus, spielt Ihr Tennis
