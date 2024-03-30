@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a37a98de0a51942b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History & Politic/Politic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "History & Politic/Politic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "History & Politic/Politic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "History & Politic/Politic.md"
               }
             }
           },
@@ -182,13 +196,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d1d399550cab731",
+  "active": "a37a98de0a51942b",
   "lastOpenFiles": [
+    "Code/Ideas and Politic.md",
+    "Ideal not Ideas.md",
+    "Images/Pasted image 20240330134207.png",
     "History & Politic/Politic.md",
+    "Ideas for Website.md",
+    "Todo.md",
     "LS - What will I learned overview.md",
     "Images/Pasted image 20240330111539.png",
     "Leadership.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Blog WebApp Bugs and Notice.md",
     "Personal/Language Learning/German.md",
@@ -205,7 +223,6 @@
     "Images/Pasted image 20240328090811.png",
     "Images/Pasted image 20240328090534.png",
     "Images/Pasted image 20240328090405.png",
-    "Images/Pasted image 20240328090214.png",
     "AnswerExam1.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
@@ -216,10 +233,6 @@
     "Chap IV - IT project Cost management.md",
     "IT Project Management.md",
     "2nd Yrs Mid-Final Term Project.md",
-    "_Focus/SQL & DataBase/SQL/SQL.md",
-    "Learn Web API.md",
-    "Publish Web API.md",
-    "Why Web APIs are Essential.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

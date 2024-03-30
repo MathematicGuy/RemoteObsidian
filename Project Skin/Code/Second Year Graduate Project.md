@@ -2,4 +2,4 @@
 
 [[How to Plan Team Coding Project]]
 
-[[Project Ideas]]
+[[Ideas and Politic]]
