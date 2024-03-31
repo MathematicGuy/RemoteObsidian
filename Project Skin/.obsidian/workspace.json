@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14c7bd52f7952e66",
+        "id": "2bec3d90a3e0412f",
         "type": "tabs",
         "children": [
           {
-            "id": "5d1d399550cab731",
+            "id": "7d9ee5cb3f556074",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0e2dd823b47206e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 0 -  Important of Leadership.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 0 -  Important of Leadership.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 0 -  Important of Leadership.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 0 -  Important of Leadership.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -196,13 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e2dd823b47206e2",
+  "active": "7d9ee5cb3f556074",
   "lastOpenFiles": [
+    "Leadership.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Week 0 -  Important of Leadership.md",
     "Images/Pasted image 20240331043315.png",
     "Images/Pasted image 20240331043306.png",
     "Images/Pasted image 20240331043242.png",
-    "Leadership.md",
-    "Week 0 -  Important of Leadership.md",
     "Images/Pasted image 20240331033143.png",
     "Images/Pasted image 20240331033023.png",
     "Images/Pasted image 20240331032932.png",
@@ -210,9 +197,7 @@
     "Images/Pasted image 20240331032248.png",
     "Images/Pasted image 20240331032232.png",
     "Images/Pasted image 20240331032231.png",
-    "Images/Pasted image 20240331032225.png",
     "Briefly describe what makes them a good leader.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "Course map.md",
     "My Vlog.md",

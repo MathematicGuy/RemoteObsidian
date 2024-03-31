@@ -84,7 +84,7 @@ eine Maus the mouse
 eine Katze the cat (cat wa see as famale ??)
 	mouse & owl & cat are see as feminine.
 (not ein Katze)
-Fisch fish (der fisch)
+Der Fisch the fish 
 
 **see as Musculine Animal**
 ein Elefant the  elephant
@@ -567,14 +567,15 @@ wirklich - really
 **Number system** (wie auf Englisch)
 11 - elf
 12 - zwölf
+15 - fünfzehn
 **Teen** (zehn)
 + dreizehn - thirdteen
 **Hundred** (Hundert)
 + einhundert
 + dreihundert
 **Ty** (eg. thirty) (zig/ßig)
-20 - zwanzig
-30 - dreißig
+20 - zwanzig30 - dreißig
+
 	Er braucht zwei Fahrkarte diese wochenender (literaly wo-chen-ender)
 
 **Number Combination**
@@ -1316,10 +1317,10 @@ Ich möchte lieber schnitzel essen
 Fahren Sie mit Bus Nummer elf - take bus number eleven
 Wiederholen repeat
 Sie können fuß gehen - you can walk by foot
-Dauert lasts/take  
+	Dauert lasts/take  
 	Die Taxifahrt dauert zehn minuten - The taxi ride takes ten minutes
 
-Fluss river
+Den Fluss river (Neuter/Neutral)
 
 Zum - to hotel
 	Wir brauchen (plural) ein taxi zum Hotel
@@ -1440,4 +1441,12 @@ Tim und Ali, Spielt Ihr Geige oder Klavier
 	Ihr -> plural (Tim and Ali ist 2 persons) 
 	Spielt bc of Ihr
 
+Kunstmuseum - art 
+	Der Kunstmuseum ist sehr groß
+Fuß - foot (in football)
+Die TaxiFahrt dauert circa vierzehn Minuten
+	dauert - lasts/take
+	circa - approximatly
+	Taxifahrt - taxi ride
 
+Die/Meine Straße - the/my street

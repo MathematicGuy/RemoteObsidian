@@ -1,4 +1,4 @@
-Fixed mindset - grown mindset
+- [ ] Fixed mindset - grown mindset
 Know thyself - I have multiple version of me
 	adapting in diff situation
 	commonsense: 
@@ -81,6 +81,7 @@ There're no hard fact and rule.
 courteous that other people want to talk to and want to spend time with
 + Conscientiousness - loyal and commited to the 
 + Integrity - trustworthy, strong sense  ethics
++ ? While there are lots of extroverted leaders, but extroversion has never been proven to correlate with good leadership. Review/revisit the _LeadershipTraits video_
 
 ```ad-seealso
 **Four dimensions of Emotional Intelligence**
