@@ -1,21 +1,20 @@
-- [ ] [producthunt](https://www.producthunt.com/golden-kitty-awards/hall-of-fame?year=2023#ai-product)
-	Find the product I need (AI, Security, Productivity, etc..)
-
 #Todo/Priority
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
-- [ ] Can I surpass a whole team. And Making The Project Alone.
 - [ ] Challenge: Push myself to the limit and learn ASAP.NET by building my dream blog. Then try to finish the project myself -> Duplicate the website -> 1 for this final semester Project and 1 for my own blog (posting mein stuff)
-
 - [ ] Is there a Service that help me to auto-complete my own word/sentence (there is in Macbook but is there in Windown 11)
 
+
 #Todo/GoalsThisWeek
-- [ ] Read [Leader Mindset](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24543948071915566/)
+
+
+
 
 #Todo/GoalsThisMonth
-- [ ] Learn Github Project Management 
+
+
+
 
 #Todo/Later
-- [ ] Manipulate my Emotion (Rage/Hunger) to do hard thing
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
 - [ ] Share my Stories to my uncle Hung. When I finish this year
@@ -31,9 +30,6 @@
 
 #Todo/Personal
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-- [ ] Personalise my Gmail ( Filter trash and label good Reading Resources )
-- [ ] [Wolf Cut](https://youtube.com/shorts/7ZDdE--7bno?si=0qgxA-ephSxHNFEF)
-- [ ] Phân cấp con người (dựa trên nhận thức)
 
 
 #Todo/ProgrammingSkills
@@ -47,12 +43,10 @@
 
 
 #Todo/Entertainment
-- [ ] Undead Unluck chap36
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 [[Advice for AI]]
-- [ ] Workout
 
 
 #Todo/AI
