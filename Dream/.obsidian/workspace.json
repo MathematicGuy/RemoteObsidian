@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "08cd71ab8ef119ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Dream.md",
+                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Dream.md",
+                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Dream.md"
+                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md"
               }
             }
           },
@@ -189,8 +202,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35c98b41a4985e4b",
+  "active": "08cd71ab8ef119ff",
   "lastOpenFiles": [
+    "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
     "My Dream.md",
     "Happiness/Happiness.md",
     "Spaces/Home/Home.md",
@@ -227,7 +241,6 @@
     "Image/Pasted image 20240202205048.png",
     "Question Mark/Why & What.md",
     "How To/How to have Self-Control.md",
-    "How To/How to Learn Fast.md",
     "Why",
     "Image/books.png",
     "Social",

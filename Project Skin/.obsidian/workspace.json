@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bec3d90a3e0412f",
+        "id": "5df5ee8bcd38b560",
         "type": "tabs",
         "children": [
           {
-            "id": "7d9ee5cb3f556074",
+            "id": "4fa603e2372d695a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -182,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d9ee5cb3f556074",
+  "active": "4fa603e2372d695a",
   "lastOpenFiles": [
     "Leadership.md",
     "Personal/Language Learning/German Vocabulary.md",
