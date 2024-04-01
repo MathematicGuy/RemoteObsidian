@@ -1450,3 +1450,5 @@ Die TaxiFahrt dauert circa vierzehn Minuten
 	Taxifahrt - taxi ride
 
 Die/Meine Straße - the/my street
+Willst - do you want to
+Höre listening

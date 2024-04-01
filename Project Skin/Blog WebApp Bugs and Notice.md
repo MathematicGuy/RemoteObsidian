@@ -100,3 +100,26 @@ public IActionResult AddTag(AddTagRequest addTagRequest)
 </div>
 ```
 
+
+### Delete read only id : 0000000000000000000000
++ ? Id -> 00000000 bug solve (Cause: Delete Action get id from Add View Form. Not route id)
+```cs
+// Delete BlogPost by id
+[HttpPost]
+// Delete - remove tag from bloggieDbContext
+public async Task<IActionResult> Delete(EditBlogPostRequest editBlogPostRequest)
+{
+	// use find for get existing tag
+	// Talk to the repository
+	var deletedBlogPost = await blogPostRepository.DeleteAsync(editBlogPostRequest.Id);
+	if (deletedBlogPost != null)
+	{
+		 // Show success notification
+		 return RedirectToAction("List");
+	}
+	// show fail notification
+	TempData["ErrorMessage"] = "Failed to delete tag. Please try again.";
+
+	return RedirectToAction("List", new { id = editBlogPostRequest.Id });
+}
+```

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01413d0ed2e9d6b5",
+        "id": "44727dc0d733ddc3",
         "type": "tabs",
         "children": [
           {
-            "id": "5118dcadb51ae4f1",
+            "id": "08bb7472c30765be",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "765aa174beb93d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c27207d1f52a7791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc1fd1d73d55a1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog WebApp Bugs and Notice.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Blog WebApp Bugs and Notice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Blog WebApp Bugs and Notice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Blog WebApp Bugs and Notice.md"
               }
             }
           },
@@ -190,12 +230,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5118dcadb51ae4f1",
+  "active": "bc1fd1d73d55a1ea",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Vocabulary.md",
+    "WebAPI Bugs.md",
+    "Blog WebApp Bugs and Notice.md",
+    "Web MVC Model.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Todo.md",
     "Spaces",
     "Blog with ASAP.NET.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "Todo.md",
     "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "Images/Pasted image 20240401094221.png",
     "_Focus/2023/3rd Semesters/OOP/5 hours of JAVA.md",
@@ -209,7 +254,6 @@
     "Images/Pasted image 20240401080127.png",
     "Personal/Good for LATER.md",
     "Leadership.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Week 0 -  Important of Leadership.md",
     "Images/Pasted image 20240331043315.png",
     "Briefly describe what makes them a good leader.md",
@@ -220,14 +264,11 @@
     "Code/Ideas and Politic.md",
     "Ideal not Ideas.md",
     "Ideas for Website.md",
-    "Blog WebApp Bugs and Notice.md",
     "Personal/Language Learning/German.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Document/Good Read.md",
     "The Greatness Guide.md",
     "My AI Project.md",
-    "AnswerExam1.md",
-    "Practice Procedure and Trigger.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
@@ -241,7 +282,6 @@
     "Untitled.canvas",
     "_Focus/This is my Life.canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
-    "Personal/Programming Skill",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/PC Overall.canvas",
