@@ -625,6 +625,15 @@ static double Remainder(double x, double y)
 
 #### Method Overloading
 > Method declare as static at local class. And public at foreign class.
++ ! Parameter of 2 method must be different
+```cs
+C#
+
+public IActionResult Details(int id) { ... }
+
+[ActionName("Details")]
+public IActionResult Details(string name) { ... }
+```
 
 ###### Local Overloading 
 > Put Method outside Main. 
@@ -696,6 +705,9 @@ class Program
     }
 }
 ```
+
+
+
 
 #### Params keyword (need review)
 > Overloading but better. Use for Loop that take in various of input. Like an Array, Dictionary, etc..
