@@ -519,14 +519,45 @@ return RedirectToAction("List", new { id = editTagRequest.Id });
 ![[Pasted image 20240401085241.png]]
 
 #### Repository Pattern
-> **Act as a middle man**
+> **Act as a middle man**. 
+> Reference example: 
+> + **Like in Math**. You save **all your fomular into a Notebook (responsitory)**. So each time you encounter an problem that require the same fomula to solve, you could bring all that juicy fomula from the Notebook (responsitory) out and solve the problem.     
+> + Like in Code: act like a Library that responsible for talking to the Db.
 ![[Pasted image 20240401090131.png]]
 
 
-**Advantage**: 
-+ If u need to do any changes, you only need to do it in only 1 place.
-+ All within the responsitory. No other Class can call the Db
+**Advantage**:  
++  If u need to do any changes, you only need to do it in only 1 place
++  The Job talking to the Db is all within the responsitory -> very Clean & Tight. better than having `s*x`
 ![[Pasted image 20240401090142.png]]
+ 
 
-**Process of making Repositories**
+**Problem & Process of making Repositories**
++ ! Problem: we have to rewrite code that talk to the Db repeatedly -> Want to group all those code together into a file and called it like a function. 
++ $ Solution: Making a **Responsitory** which **include all the code** responsible for **talking to the Db**.
++ ? How this Process work:
+	+  1) Make a Interface to hold the function name and definition. (hold unique function)
+	+  2) Make a Responsitory to inherit the Interface function (allow implement interface's function as many time as we want)
+	+ 3) Replace those duplicated code from the Controller with Reponsity function we just make.
 ![[Pasted image 20240401090314.png]]
+For example, instead of repeating 2 lines 
+```cs
+await bloggieDbContext.Tags.AddAsync(tag);
+await bloggieDbContext.SaveChangesAsync();
+```
+We just need to call AddAsync(tag). 
+![[Pasted image 20240401094221.png]]
+```cs
+[HttpPost]
+public async Task<IActionResult> AddTag(AddTagRequest addTagRequest)
+{
+	var tag = new Tag
+	{
+		 Name = addTagRequest.Name,
+		 DisplayName = addTagRequest.DisplayName,
+	};
+
+	await tagResponsitory.AddAsync(tag);
+	return View("Add");
+}
+```
