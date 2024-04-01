@@ -561,3 +561,7 @@ public async Task<IActionResult> AddTag(AddTagRequest addTagRequest)
 	return View("Add");
 }
 ```
+That the core concept.
+
+
+### Implement CRUD Operation
