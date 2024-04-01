@@ -261,3 +261,20 @@ public IActionResult Add(AddTagRequest addTagRequest)
 ### Read Records From Database
 + ! Remember: Http command are like execute SQL query in 1 Word.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ ! Notice: we have to get editTagRequest 
