@@ -514,3 +514,19 @@ return RedirectToAction("List", new { id = editTagRequest.Id });
 
 ### 04 - Asynchronous Programming and Repository Pattern
 
+#### Asynchronous Programming
++ ? Async Make WebApp go Vrooooooooooooommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+![[Pasted image 20240401085241.png]]
+
+#### Repository Pattern
+> **Act as a middle man**
+![[Pasted image 20240401090131.png]]
+
+
+**Advantage**: 
++ If u need to do any changes, you only need to do it in only 1 place.
++ All within the responsitory. No other Class can call the Db
+![[Pasted image 20240401090142.png]]
+
+**Process of making Repositories**
+![[Pasted image 20240401090314.png]]
