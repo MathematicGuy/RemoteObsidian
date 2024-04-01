@@ -34,19 +34,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ffed82a6c085359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -211,11 +198,12 @@
   },
   "active": "27e980d689d4a7b4",
   "lastOpenFiles": [
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
+    "Blog with ASAP.NET.md",
     "Images/Pasted image 20240401094221.png",
     "Todo.md",
-    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
     "_Focus/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-    "Blog with ASAP.NET.md",
     "Images/Pasted image 20240401090314.png",
     "Images/Pasted image 20240401085922.png",
     "Images/Pasted image 20240401090142.png",
@@ -229,7 +217,6 @@
     "Personal/Language Learning/German Vocabulary.md",
     "Week 0 -  Important of Leadership.md",
     "Images/Pasted image 20240331043315.png",
-    "Images/Pasted image 20240331043306.png",
     "Briefly describe what makes them a good leader.md",
     "Course map.md",
     "My Vlog.md",
