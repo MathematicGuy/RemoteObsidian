@@ -29,7 +29,7 @@
 
 
 #Todo/Personal
-- [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
+- [ ] Defined Idiot Time Index
 
 
 #Todo/ProgrammingSkills
@@ -47,6 +47,7 @@
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 [[Advice for AI]]
+- [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 
 
 #Todo/AI

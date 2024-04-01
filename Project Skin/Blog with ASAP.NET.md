@@ -562,6 +562,229 @@ public async Task<IActionResult> AddTag(AddTagRequest addTagRequest)
 }
 ```
 That the core concept.
+"Document Later Down in here"
+
+
+
+
 
 
 ### Implement CRUD Operation
+
+
+##### Overview
+
+1) **Controller (`AdminBlogPostsController`)**
+	- **`Add (HttpGet)` Action:**
+		- Fetches all tags from the database.
+		- Creates an `AddBlogPostRequest` model and populates the `Tags` property for display in the view.
+		- Renders the `Add` view, passing the model.
+
+2) **View (`Add.cshtml`)**
+    - Presents an HTML form to collect blog post information.
+    - Includes a dropdown (`<select>`) to allow selecting a single tag, populated by the `Tags` provided by the model.
+
+3) **Form Submission (`Add (HttpPost)` Action)**
+    - When the form is submitted, the selected tag and other blog post data is included in the `AddBlogPostsRequest` object and sent to the controller.
+    - Currently, the `Add (HttpPost)` action just redirects back to the form (you'd implement adding the blog post to the database here).
+
+
+##### Visual Summary
+Create Page to Post Blog (AdminBlogPosts Controller with Add View)
++  AdminBlogPosts Controller  
++  Add Page
++  AddBlogPostsRequest Model -> Hold Blog's input data    
+
+Inside Add Page -> hold all user's input data
+	+ Allow user to choose Multiple Tags 
+		+ Allow to choose a tag
+		+ Allow to choose multiple tag (save each selected tag to a list)
+
+
+1) Create the Controller for Add page
+```cs
+// Add tags to View 
+[HttpGet]
+public async Task<IActionResult> Add()
+{
+	return View(); 
+}
+```
+2) Create Add View (.cshtml Page)
+```html
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h1 class="display-4">Admin Function</h1>
+    </div>
+</div>
+```
+3) Create BlogPostRequest Model to store data in and out of the Db
++  Include all BlogPost attributes beside Id and list of Tags from Tag Table
+	+  SelectedTag use to get selected Tags so we can add it to a Tag List for BlogPost
+```cs
+public class AddBlogPostsRequest
+{
+  public string Heading { get; set; }
+  public string PageTitle { get; set; }
+  public string Content { get; set; }
+  public string ShortDescription { get; set; }
+  public string FeatureImageIRL { get; set; }
+  public string UrlHandle { get; set; }
+  public DateTime PublishedDate { get; set; }
+  public string Author { get; set; }
+  public bool Visible { get; set; }
+  
+  // Display Tags. Allow to Display tag in a Drop Down List
+  public IEnumerable<SelectListItem> Tags { get; set; }
+  // Collect Tags. Allow to Collect Tags from the Drop Down List
+  public string SelectedTag { get; set; }
+}   
+```
+ 4) Connect to the Model and Display Model's data
+ + Display tag: Get List Item of Tag from Tags Attribute in AddBlogPostsRequest Model. 
+```html
+@model MyBlog.Web.Models.ViewModels.AddBlogPostsRequest;
+@{ }
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h1 class="display-4">Admin Function</h1>
+    </div>
+</div>
+
+<div class="container py-5">
+    <form method="post">
+        <div class="mb-3">
+            <label class="form-label">
+                Heading
+            </label>    
+            <input type="text" class="form-control" id="heading" asp-for="Heading"/>
+        </div>
+	
+        <div class="mb-3">
+            <label class="form-label">
+                Page Title
+            </label>
+            <input type="text" class="form-control" id="pageTitle" asp-for="PageTitle"/>
+        </div>
+	
+        <div class="mb-3">
+            <label class="form-label">
+                Content
+            </label>
+            <textarea class="form-control" id="content" asp-for="Content"> </textarea>
+        </div>
+	
+        <div class="mb-3">
+            <label class="form-label">
+                Short Description
+            </label>
+            <input type="text" class="form-control" id="shortDescription" asp-for="ShortDescription" />
+        </div>
+	
+        <div class="mb-3">
+            <label class="form-label">
+                FeatureImageIRL
+            </label>
+            <input type="text" class="form-control" id="featureImageIRL" asp-for="FeatureImageIRL" />
+        </div>
+	
+        <div class="mb-3">
+            <label class="form-label">
+                URL Handle
+            </label>
+            <input type="text" class="form-control" id="urlHandle" asp-for="UrlHandle" />
+        </div>
+	
+        <div class="mb-3">
+            <label class="form-label">
+                Published Date
+            </label>
+            <input type="date" class="form-control" id="publishedDate" asp-for="PublishedDate" />
+        </div>
+	
+        <div class="mb-3">
+            <label class="form-label">
+                Author
+            </label>
+            <input type="text" class="form-control" id="author" asp-for="Author" />
+        </div>
+	
+        <div class="form-check mb-3">
+            <input class="form-check-input" type="checkbox" id="visible" asp-for="Visible">
+            <label class="form-check-label">
+                Is Visible ?
+            </label>
+        </div>
+	
+        <!-- Display Tags -->
+        <div class="mb-3">            
+            <label class="form-label">Tags</label>   
+            <!-- Dropdown -->
+            <select class="form-select" 
+            asp-items="@Model.Tags" 
+            asp-for="SelectedTag"></select> 
+        </div>
+	
+        <div class="mb-3">
+            <button type="submit" class="btn btn-dark">
+                Save
+            </button>
+        </div>
+    </form>
+</div>
+```
+
+**Controller** 
++ ? Talk to the Db using responsitory (give 'talk to Db' function ) 
+```cs
+private readonly ITagResponsitory tagResponsitory;
+
+public AdminBlogPostsController(ITagResponsitory tagResponsitory)
+{
+	this.tagResponsitory = tagResponsitory;
+}
+```
+
++ ? Select all Tag from tagResponsitory and Save it to Tags List Item in AddBlogPostsRequest Model
+```cs
+// Add tags to View 
+[HttpGet]
+public async Task<IActionResult> Add()
+{
+// get tags from Db using function in repository
+var tags = await tagResponsitory.GetAllAsync();
+
+var model = new AddBlogPostsRequest
+{
+	 // Select from Tag Domain Model to Tags in AddBlogPostsRequest Model 
+	 Tags = tags.Select(x => new SelectListItem { Text = x.Name, Value = x.Id.ToString() })
+};
+
+// return Tags (list item of tag) to Add View
+return View(model); 
+}
+```
++ ? Bc we use post method form. So we must use [HttpPost] to call Add Action.
+```cs
+// addBlogPostsRequest store input from Add View
+[HttpPost]
+public async Task<IActionResult> Add(AddBlogPostsRequest addBlogPostsRequest)
+{
+	// redirect to Add action above
+	return RedirectToAction("Add");
+}
+```
+
+**Closer Look**
+> After Tags List Item have been filled using tagResponsitory in the Controller. It will be display here. 
+```html
+<!-- Display Tags -->
+<div class="mb-3">            
+	<label class="form-label">Tags</label>   
+	<select class="form-select" 
+	asp-items="@Model.Tags" 
+	asp-for="SelectedTag"></select> 
+</div>
+```
+
