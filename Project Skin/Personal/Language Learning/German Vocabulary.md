@@ -1459,3 +1459,14 @@ Höre listening
 der Wald the forest
 Hexe witch
 	Die Hexe kocht gern
+Campe camp
+	Ich campe oft in Wald
+Wollt - do you want 
+Duo und Markus, wollt ihr zusammen Jazz hören?
+
+Ich will nächste Woche grillen
++ Wochen (week) - wochenhender (weekend)
++ grillen - grill
++ nächste - next
+
+Ich habe nicht Wochen Zeit - i dont have time next week
