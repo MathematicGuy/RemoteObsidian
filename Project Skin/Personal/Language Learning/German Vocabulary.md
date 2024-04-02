@@ -1456,7 +1456,7 @@ Die/Meine Straße - the/my street
 Willst - do you want to
 Höre listening
 
-der Wald the forest
+Der Wald the forest
 Hexe witch
 	Die Hexe kocht gern
 Campe camp
