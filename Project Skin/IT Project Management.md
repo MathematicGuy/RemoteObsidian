@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f935
+---
 [[IT_PM INTRO]]
 
 [[IT_PM Part 1]]

@@ -915,10 +915,11 @@ return RedirectToAction("Add");
 ```
 
 ```html
-						<td>
-                             @foreach (var tag in blogPost.Tags)
-                             {
-                                 <span class="badge badge-primary m-2">@tag.DisplayName</span>
-                             }
-                        </td> 
+<td>
+	@foreach (var tag in blogPost.Tags)
+	{
+		<span class="badge badge-primary m-2">@tag.DisplayName</span>
+	}
+</td> 
 ```
+
