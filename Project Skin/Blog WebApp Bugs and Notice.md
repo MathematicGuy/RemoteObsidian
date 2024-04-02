@@ -101,7 +101,37 @@ public IActionResult AddTag(AddTagRequest addTagRequest)
 ```
 
 
-### Delete read only id : 0000000000000000000000
+### Delete read only id = '00000000000000000000'
+**Id was missing inside the form** 
++ ? To tell the server _which_ blog post to delete, the ID needs to be sent within the body of the DELETE request. Forms provide a standard way to do this.
+```html
+<div class="container py-5">
+    @if (Model != null)
+    {
+        <form method="post">
+            <div class="mb-3">
+                <label class="form-label">
+                    Id
+                </label>
+                <input type="text" class="form-control" id="Id" asp-for="Id" readonly/>
+            </div>
+
+
+            <div class="mb-3">
+                <label class="form-label">
+                    Heading
+                </label>
+                <input type="text" class="form-control" id="heading" asp-for="Heading" />
+            </div>
+	
+				..a..lot..of..code..
+	}
+	 else{
+        <div>No Model Exist !</div>
+    }
+<div class="container py-5">
+```
+
 + ? Id -> 00000000 bug solve (Cause: Delete Action get id from Add View Form. Not route id)
 ```cs
 // Delete BlogPost by id
