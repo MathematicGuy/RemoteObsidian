@@ -68,4 +68,3 @@ banner: Images/Pasted image 20240402135259.png
 #Calithenic
 - [ ] Tuck hold
 - [ ] Psudo Planche
--

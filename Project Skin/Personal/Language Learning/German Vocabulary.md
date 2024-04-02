@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f5ef-fe0f
+---
 German word order: Important context goes first, Verb goes after.
 	Wir sehen ins Kino ein Film
 
@@ -1454,3 +1457,5 @@ Willst - do you want to
 Höre listening
 
 der Wald the forest
+Hexe witch
+	Die Hexe kocht gern
