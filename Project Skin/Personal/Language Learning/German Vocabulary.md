@@ -1452,3 +1452,5 @@ Die TaxiFahrt dauert circa vierzehn Minuten
 Die/Meine Straße - the/my street
 Willst - do you want to
 Höre listening
+
+der Wald the forest

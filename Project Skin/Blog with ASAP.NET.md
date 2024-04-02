@@ -924,5 +924,200 @@ return RedirectToAction("Add");
 ```
 
 
+## Introduction WYSIWIG and Image Upload
+
+#### WYSIWIG - what you see is what you get
+[Froala](https://froala.com/wysiwyg-editor/docs/overview/)
+![[Pasted image 20240402074919.png]]
+
+Call API to store image to 3rd hosting party
+![[Pasted image 20240402074941.png]]
+
+![[Pasted image 20240402122420.png]]
+> Insert to the Head of the `_Layout.cshtml` file
++ ? Locally Links: not work yet
+```html
+<link href="../Froala/css/froala_editor.pkgd.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="../Froala/js/froala_editor.pkgd.min.js"></script>
+```
+Or
++ ? Remotely Link: Work perfectly (remember to replace @lastestversion with the real version like `froala=editor@4.0.10`)
+```html
+<link href='https://cdn.jsdelivr.net/npm/froala-editor@4.0.10/css/froala_editor.pkgd.min.css' rel='stylesheet' type='text/css' /><script type='text/javascript' src='https://cdn.jsdelivr.net/npm/froala-editor@4.0.10/js/froala_editor.pkgd.min.js'></script>
+```
+
++ ? Call tag by Id to use Froala
+```cs
+@section Scripts {
+    <script>
+        var editor = new FroalaEditor('#content');
+    </script>
+}
+```
+
+#### Image Upload
+Create a API. Upload Image from the Editor. 
+Create a RestAPI. Call API to our page. Use Upload func to Ipload
+![[Pasted image 20240402123035.png]]
+
+Use Cloudinary to Host Image Online
+
+
+```cs
+using CloudinaryDotNet;
+      
+Account account = new Account(
+  "ddvgrzrie",
+  "333314161181714",
+  "0QyFH10nw-Xy9y9oEWx2kATMAG0");
+
+Cloudinary cloudinary = new Cloudinary(account);
+```
+
+
+
+#### Image Upload (using API)
++ ! Utimate Goal: Automatically the process of Uploading & Retrieving image URL (using GET and POST method for API)
+	+ ? (POST) Upload Image pushed to Cloudinary API -> Image URL Send back to the Db
+	+ ? (GET) Automatically save image ULR to FeatureImageUrl (as text) 
+
+In this part we will GET (retrieve) image from the API and POST (upload) image to Cloudinary
 ![[Pasted image 20240402152855.png]]
-()
+To perform this operation
+
+
+###### Create POST Method and Image Repository
++ ? In this part, we want to Connect to Cloudinary and test POST method 
+
+0) Download Cloudinary to NuGet Package
+![[Pasted image 20240402201303.png]]
+
+1) Follow clean code architecture, we create an Interface for CloudinaryImageRepository
+```cs
+public interface IImageRepository
+{
+  // get and return the Image Url to the Cloud
+  Task<string> UploadAsync(IFormFile file);
+}
+```
+
+2) Before we connect Cloudinary we would need to setting ours account in appsettings.json for verifying purposed
+![[Pasted image 20240402202802.png]]
+```cs
+// Cloudinary settings
+"Cloudinary": {
+  "CloudName": "ddvgrzrie",
+  "ApiKey": "333314161181714",
+  "ApiSecret": "0QyFH10nw-Xy9y9oEWx2kATMAG0"
+}
+```
+and Inject dependency in Program.cs file. So that CloudinaryImageRepository can talk to the Db
+```cs
+// handle dependency injection
+builder.Services.AddScoped<IImageRepository, CloudinaryImageRepository>();
+```
+
+3) Now we can Configure ours Cloudinary Account and Connection. To verify ours API Account and Connection purpose 
+```cs
+using CloudinaryDotNet;
+using CloudinaryDotNet.Actions;
+
+
+namespace MyBlog.Web.Repository
+{
+	public class CloudinaryImageRepository : IImageRepository
+	{
+	  private readonly IConfiguration configuration;
+	  private readonly Account account;
+	
+	  // config connection to Cloudinary
+	  public CloudinaryImageRepository(IConfiguration configuration)
+	  {
+			this.configuration = configuration;
+			account = new Account(
+				 configuration["Cloudinary:CloudName"],
+				 configuration["Cloudinary:ApiKey"],
+				 configuration["Cloudinary:ApiSecret"]);
+	  }
+	}
+
+```
+
+3) This is where we Upload the image file (from the parameter). Upload it to Cloudinary and return it Url
+	1) Use client as a 'account setting' holder 
+	2) Store Image data to uploadParamas 
+		+ File (hold file Name as file Description and Open file)
+		+ Display file Name 
+	3) Upload the image File to client (which will be save in ours Cloudinary API Library)
+	4) Check if uploadResult is Null or not. If not then return the image connection URL 
+```cs
+// Upload Image to Cloudinary and return the Image URL
+public async Task<string> UploadAsync(IFormFile file)
+{
+	var client = new Cloudinary(account);
+
+	// uploadParams - image name and file
+	var uploadParams = new ImageUploadParams()
+	{
+		 File = new FileDescription(file.FileName, file.OpenReadStream()),
+		 DisplayName = file.FileName,
+	};
+
+	var uploadResult = await client.UploadAsync(uploadParams);
+	
+	// return imageURL (uploadResult) as string after successfully Uploaded
+	if (uploadResult != null && uploadResult.StatusCode == System.Net.HttpStatusCode.OK)
+	{
+		 return uploadResult.SecureUri.ToString();
+	}
+	else
+	{
+		 return null;
+	}
+}
+```
+
+
+4) Finally, from ImagesController we call imageRepository Upload function to Upload Image file and get Image URL in return. 
++ ! Yes, this part can be consider WebAPI 
+```cs
+[Route("api/[controller]")]
+[ApiController]
+public class ImagesController : ControllerBase
+{
+  // allow the ImageRepository to be used in the ImagesController
+  private readonly IImageRepository imageRepository;
+
+  // constructor for the ImageController
+  public ImagesController(IImageRepository imageRepository)
+  {
+		this.imageRepository = imageRepository;
+  }
+
+  [HttpPost]
+  public async Task<IActionResult> UploadAsync(IFormFile file)
+  {
+		// call imageRepository to upload the image
+		var imageURL = await imageRepository.UploadAsync(file);
+		
+		// return error msg if null and reutrn the image URL if true
+		if (imageURL == null)
+		{
+			 return Problem("Something went wrong", null, (int) HttpStatusCode.InternalServerError);
+		}
+
+		return new JsonResult(new { link = imageURL});
+  }
+  // use a Post command to post it to a Image Hosting Service
+}
+```
+
+5) Testing if everything worked with POSTMAN
+Test result:
++ Image Uploaded to Cloudinary Library
+![[Pasted image 20240402210759.png]]
++ Image Url return
+![[Pasted image 20240402210339.png]]
++ Use Get Method to check if the image Url is working -> Image return   
+![[Pasted image 20240402210723.png]]]]
+
