@@ -153,3 +153,17 @@ public async Task<IActionResult> Delete(EditBlogPostRequest editBlogPostRequest)
 	return RedirectToAction("List", new { id = editBlogPostRequest.Id });
 }
 ```
+
+
+## Introduction WYSIWIG and Image Upload
+WYSIWIG - what you see is what you get
+![[Pasted image 20240402074919.png]]
+
+Call API to store image to 3rd hosting party
+![[Pasted image 20240402074941.png]]
+
+
+
+
+
+
