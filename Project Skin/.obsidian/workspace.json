@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6d95d2d59e8cadd4",
+        "id": "af30b2cc6c5f663b",
         "type": "tabs",
         "children": [
           {
-            "id": "a1485d5fcec7c856",
+            "id": "33d2025436a438fe",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "757b41737091c597",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +195,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a1485d5fcec7c856",
+  "active": "757b41737091c597",
   "lastOpenFiles": [
+    "Todo.md",
+    "Tech Team Position.md",
+    "_Focus/2023/3rd Semesters/OOP/Note.md",
+    "My AI List.md",
     "Blog with ASAP.NET.md",
     "Personal/Language Learning/German Vocabulary.md",
-    "Todo.md",
     "Blog WebApp Bugs and Notice.md",
     "Images/Pasted image 20240402210759.png",
     "Images/Pasted image 20240402210653.png",
@@ -224,8 +234,6 @@
     "LS - What will I learned overview.md",
     "History & Politic/Politic.md",
     "Code/Ideas and Politic.md",
-    "Ideal not Ideas.md",
-    "Ideas for Website.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",

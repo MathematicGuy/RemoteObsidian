@@ -8,8 +8,8 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] Is there a Service that help me to auto-complete my own word/sentence (there is in Macbook but is there in Windown 11)
 
 
-#Todo/GoalsThisWeek
 
+#Todo/GoalsThisWeek
 
 
 

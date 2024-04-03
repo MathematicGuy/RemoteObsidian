@@ -1,0 +1,1 @@
+[sociopath](https://youtube.com/shorts/qDQm8uJmcho?si=t6WfY7unPhher88k)

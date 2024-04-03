@@ -32,8 +32,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1f71cc26a7883d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What I need to learn for Emotion Detector Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Intro and Definition.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Intro and Definition.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Intro and Definition.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -174,8 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33552dd5d5e33256",
+  "active": "398e0fd66f39ca06",
   "lastOpenFiles": [
+    "My AI Project.md",
+    "What I need to learn for Emotion Detector Project.md",
+    "AI Intro and Definition.md",
     "CMC AI.md",
     "Potential Question.md",
     "Essence of linear algebra.md",
@@ -192,14 +208,12 @@
     "Linear Algebra.md",
     "Linear system as Matrix using Numpy.md",
     "K-Means from Scratch.md",
-    "My AI Project.md",
     "CMC AI INTRO.md",
     "CMC Machine Learning Algorithm.md",
     "Image/Pasted image 20240320133314.png",
     "Image/Pasted image 20240320133308.png",
     "Image/Pasted image 20240320132114.png",
     "Machine Learning Algorithm.md",
-    "AI Intro and Definition.md",
     "Mathematic for Machine Learning - Assignment.md",
     "Image/Pasted image 20240319110217.png",
     "Anaconda Command.md",
@@ -211,7 +225,6 @@
     "Clustering.md",
     "MLP Catagories.md",
     "Classification.md",
-    "Reinforcement Learning.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",

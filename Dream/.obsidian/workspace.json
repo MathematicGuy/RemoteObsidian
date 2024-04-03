@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1d8f3ff444915a9",
+        "id": "9e893a0e3a659a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "35c98b41a4985e4b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Dream.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "08cd71ab8ef119ff",
+            "id": "09a960702b8dcb8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HOW TO SET SYSTEMS INSTEAD OF GOALS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,15 +179,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08cd71ab8ef119ff",
+  "active": "09a960702b8dcb8b",
   "lastOpenFiles": [
+    "My Dream.md",
+    "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
+    "Untitled.md",
     "Image/Pasted image 20240401021252.png",
     "Image/Pasted image 20240401021247.png",
     "Image/Pasted image 20240401020708.png",
     "Image/Pasted image 20240401020556.png",
     "Image/Pasted image 20240401020505.png",
-    "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
-    "My Dream.md",
     "Happiness/Happiness.md",
     "Spaces/Home/Home.md",
     "Goals.md",
@@ -235,7 +213,6 @@
     "Image/Pasted image 20240222101233.png",
     "Image/Pasted image 20240222101142.png",
     "Image/Pasted image 20240222100845.png",
-    "Image/Pasted image 20240222100823.png",
     "Question Mark/Money.md",
     "Productivity & Improvement/Scott Young on the Best Way to Learn Anything.md",
     "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
