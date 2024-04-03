@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a86251abd75728ed",
+        "id": "6d95d2d59e8cadd4",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac7be1f45348159",
+            "id": "a1485d5fcec7c856",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "13ba2956a50b9c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,11 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3ac7be1f45348159",
+  "active": "a1485d5fcec7c856",
   "lastOpenFiles": [
+    "Blog with ASAP.NET.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
-    "Blog with ASAP.NET.md",
     "Blog WebApp Bugs and Notice.md",
     "Images/Pasted image 20240402210759.png",
     "Images/Pasted image 20240402210653.png",

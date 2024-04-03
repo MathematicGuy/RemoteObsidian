@@ -1468,5 +1468,29 @@ Ich will nächste Woche grillen
 + Wochen (week) - wochenhender (weekend)
 + grillen - grill
 + nächste - next
-
 Ich habe nicht Wochen Zeit - i dont have time next week
+Schon already
+
+Lust - want to / in the mood
+	ich habe keine Lust - I don't in the mood / I don't want to
+
+Mittwoch - Wednesday
++ Was machst du am Mittwoch - what are u doing on Wednesday
+
+Pläne - plans
+Wir haben heute keine Pläne 
+	We have no plan today
+
+Lerne study
+Leider unfortunatly
+Leider, Mein freundin keine Zeit zum lernen - unfortunatly, my girlfriend doesn't have time to learn 
+Mein partner hat leider schon Pläne - my partner unfortunatly already have a plan
+
+Arbeiten - (job related) work/are working
+Ich kann nitcht, ich muss im Cafe arbeiten
+
+I don't want to and I have to work
+	Ich habe keine Lust und Ich muss arbeiten
+
+Lernt dein Freund oder geht er heute Schwimmen
+	Is your boyfriend studying or he going to swimming

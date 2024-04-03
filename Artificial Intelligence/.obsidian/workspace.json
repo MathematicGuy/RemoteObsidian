@@ -13,50 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMC AI.md",
+                "file": "AI Intro and Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e77f9ff2f40fa36e",
+            "id": "398e0fd66f39ca06",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Machine Learning.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0517663381fa7517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Application of Matrix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3e75e4b985dfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essence of linear algebra.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essence of linear algebra.md",
+                "file": "AI Intro and Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essence of linear algebra.md",
+                "file": "AI Intro and Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essence of linear algebra.md"
+                "file": "AI Intro and Definition.md"
               }
             }
           },
@@ -197,11 +174,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d3e75e4b985dfa5",
+  "active": "33552dd5d5e33256",
   "lastOpenFiles": [
+    "CMC AI.md",
+    "Potential Question.md",
     "Essence of linear algebra.md",
     "Application of Matrix.md",
     "Mathematic  for Machine Learning.md",
+    "Machine Learning.md",
     "Image/Pasted image 20240328141835.png",
     "Image/Pasted image 20240328140212.png",
     "Image/Pasted image 20240328135451.png",
@@ -212,9 +192,7 @@
     "Linear Algebra.md",
     "Linear system as Matrix using Numpy.md",
     "K-Means from Scratch.md",
-    "Machine Learning.md",
     "My AI Project.md",
-    "CMC AI.md",
     "CMC AI INTRO.md",
     "CMC Machine Learning Algorithm.md",
     "Image/Pasted image 20240320133314.png",
@@ -234,7 +212,6 @@
     "MLP Catagories.md",
     "Classification.md",
     "Reinforcement Learning.md",
-    "Transfer Learning.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",

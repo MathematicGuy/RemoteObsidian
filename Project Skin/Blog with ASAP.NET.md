@@ -1,3 +1,7 @@
+---
+sticker: emoji//1f4d4
+banner: Images/Pasted image 20230816200720.png
+---
 Strategy divide the video into each sections
 	Listen super super carefully & Take Note for each section.
 + ! bug maybe cause if I missheard or misunderstood any part.
@@ -1120,4 +1124,96 @@ Test result:
 ![[Pasted image 20240402210339.png]]
 + Use Get Method to check if the image Url is working -> Image return   
 ![[Pasted image 20240402210723.png]]]]
+
+###### Upload and Display Image
+> As we previously successfully test POST method. In this part we will implement it into ours Blog for Upload and Display.
+
+1) Create a HTML div to Upload and Display Image.
+```html
+<div class="mb-3">
+	 <!-- Upload Image -->
+	 <label class="form-label">Featured Image Upload</label>
+	 <input type="file" id="featuredImageUpload" class="form-control" />
+	 <!-- set style to none so img would be invisible before it have the image Url form the API-->
+	 <img src="" id="featuredImageDisplay" style="display:none; width="300px;" />
+</div>
+```
+
+2) Now we Write a Script to fetch data Image and use POST method to upload it to Cloudinary API Library. Then return its Url and Display it in FeaturedImageDisplay 
+```ad-summary
+ Scripts Summary:
+ FE: Uploaded Image Url save to Featured Image Url input
+ BE: fetch our API endpoint 'api/images' and Upload it to CLoudinary API Library using POST method
+
+ 1) To automate the Upload and POST image process we first get the featuredUploadElement element
+	 and featuredImageUrlElement to store images Url
+ 2) Then use EventListener to activte 'uploadFeaturedImage' function if
+	 listen to any changes in featuredUploadElement
+ 3) uploadFeaturedImage will responsible for
+	  + Get upload image info
+	  + talking to the API to upload the image
+			+ save image data as 'file' type
+			+ fetch ours API endpoint '/api/images' and use POST method
+	  + Send back the result to console to check if successed
+```
+
+```js
+@section Scripts {
+    <script>
+        // use Froala TextEditor format for #content element
+        var editor = new FroalaEditor('#content');
+        // get input image data in featuredUploadElement
+        const featuredUploadElement = document.getElementById('featuredImageUpload');
+        // save image Url in featuredImageUrlElement
+        const featuredImageUrlElement = document.getElementById('featuredImageURL');
+        // Display image with Url in featuredImageUrlElement
+        const featuredImageDisplayElement = document.getElementById('featuredImageDisplay');
+
+        // e - represent changes event triggered by the file input
+        async function uploadFeaturedImage(e) {
+            console.log(e.target.files[0]);
+
+            // Save image data type file to data
+            let data = new FormData();
+            data.append('file', e.target.files[0]);
+
+            // fetch API end point '/api/images' then upload image using POST method (like we did in Postman)
+            await fetch('/api/images', {
+                method: 'POST',
+                headers: {
+                    'Accept': '*/*',
+                },
+                body: data
+                // listen to response and get result
+            }).then(response => response.json())
+                .then(result => {
+                    // save Image link to featuredImageUrlElement
+                    featuredImageUrlElement.value = result.link;
+                    if (featuredImageUrlElement.value != null) {
+                        // attach img Url from the API to featuredImageDisplayElement
+                        featuredImageDisplayElement.src = featuredImageUrlElement.value;
+                        // change Display style to Block to make it appear
+                        featuredImageDisplayElement.style.display = "block";
+                    }
+                    console.log(result);
+                });
+        }
+
+		 // Display Image if featuredImageUrlElement existed  
+        if (featuredImageUrlElement.value != null) {
+            // attach img Url from the API to featuredImageDisplayElement
+            featuredImageDisplayElement.src = featuredImageUrlElement.value;
+            // change Display style to Block to make it appear
+            featuredImageDisplayElement.style.display = "block";
+        }
+        else{
+            featuredImageDisplayElement.style.display = "none";
+        }
+
+        // When the value of the input changes (i.e., the user selects a file)
+        // The uploadFeaturedImage function is automatically executed.
+        featuredUploadElement.addEventListener('change', uploadFeaturedImage);
+    </script>
+}
+```
 
