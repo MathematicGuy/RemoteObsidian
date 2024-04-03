@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "af30b2cc6c5f663b",
+        "id": "90df771062cffa14",
         "type": "tabs",
         "children": [
           {
-            "id": "33d2025436a438fe",
+            "id": "43731116b89a09e9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "757b41737091c597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog with ASAP.NET.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -204,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "757b41737091c597",
+  "active": "43731116b89a09e9",
   "lastOpenFiles": [
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS.md",

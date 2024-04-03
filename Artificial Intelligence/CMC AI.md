@@ -6,3 +6,4 @@
 ## [[Machine Learning Algorithm]] (4 unit)
 
 
+[[CMC - Neural Network & Deep Learning]]
