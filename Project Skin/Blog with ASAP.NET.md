@@ -1217,3 +1217,13 @@ Test result:
 }
 ```
 
+##### Display Image in WYSIWYG
+> Tell Froala to use CloudinaryImageController
+
+
+### Display BlogPost and Tag
+1 Seeding some Blogs to the Db
+Home page -> show all the Blog in the app
+Routing to show all detail of the BlogPost
+Then we add tags as a Catafories
+
