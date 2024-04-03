@@ -1227,3 +1227,85 @@ Home page -> show all the Blog in the app
 Routing to show all detail of the BlogPost
 Then we add tags as a Catafories
 
+```html
+     <div class="row align-items-center g-5 py-5">
+         <!-- Blog Name and Title -->
+         <div class="col-12 col-lg-6">
+             <h1 action="display-5 fw-bold lh-1 mb-3">My Blog - SukmaBlog</h1>
+             <p class="lead"> 
+                 Freestyles Blogpost - Everything from Constroversal Topic 
+                 to Lowkey Opinion and something A Slice of Life
+             </p>
+         </div>
+         <div class="col-12 col-lg-6"></div>
+     </div>
+```
+
+BlogPost Model
+```cs
+public Guid Id { get; set; }
+public string Heading { get; set; }
+public string PageTitle { get; set; }
+public string Content { get; set; }
+public string ShortDescription { get; set; }
+public string FeaturedImageUrl { get; set; }
+public string UrlHandle { get; set; }
+public DateTime PublishedDate { get; set; }
+public string Author { get; set; }
+public bool Visible { get; set; }
+
+// Navigation Property
+public ICollection<Tag> Tags { get; set; }
+```
+
+
+Design Concept
+```html
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            @if (Model != null && Model.Any())
+            {
+                foreach (var blogPost in Model)
+                {
+                    <article class="blog-post mb-5">
+                        <header class="blog-post-header">
+                            <h1 class="blog-post-title">@blogPost.Heading</h1>
+                            <div class="blog-post-meta text-muted">
+                                <span>Published on @blogPost.PublishedDate.ToString("MMMM dd, yyyy")</span>
+                                <span> by @blogPost.Author</span>
+                            </div>
+                        </header>
+
+                        <div class="blog-post-image">
+                            <img src="@blogPost.FeaturedImageUrl" alt="@blogPost.Heading" class="img-fluid" />
+                        </div>
+
+                        <!-- Read in Detail -->
+                        <div class="blog-post-content">
+                            <p>@blogPost.ShortDescription</p>
+                            <a href="/blog/@blogPost.UrlHandle" class="btn btn-primary">Read More</a>
+                        </div>
+
+                        <footer class="blog-post-footer">
+                            @if (blogPost.Tags != null && blogPost.Tags.Any())
+                            {
+                                <div class="blog-post-tags">
+                                    Tags:
+                                    @foreach (var tag in blogPost.Tags)
+                                    {
+                                        <a href="/blog/tag/@tag.Name" class="badge bg-secondary">@tag.Name</a>
+                                    }
+                                </div>
+                            }
+                        </footer>
+
+                    </article>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+```
