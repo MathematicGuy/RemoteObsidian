@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33552dd5d5e33256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Intro and Definition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "398e0fd66f39ca06",
             "type": "leaf",
             "pinned": true,
@@ -34,43 +22,19 @@
             }
           },
           {
-            "id": "1f71cc26a7883d02",
+            "id": "4040e33d88940c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMC AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c568122367c058ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMC - Neural Network & Deep Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1625953430a70c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Application of Matrix.md",
+                "file": "GPT - Visual intro to Transformers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMC - Neural Network & Deep Learning.md",
+                "file": "GPT - Visual intro to Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMC - Neural Network & Deep Learning.md",
+                "file": "GPT - Visual intro to Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMC - Neural Network & Deep Learning.md"
+                "file": "GPT - Visual intro to Transformers.md"
               }
             }
           },
@@ -211,17 +175,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c568122367c058ed",
+  "active": "4040e33d88940c64",
   "lastOpenFiles": [
-    "CMC AI.md",
+    "Image/Pasted image 20240403222715.png",
+    "Image/Pasted image 20240403222703.png",
     "Machine Learning.md",
+    "GPT - Visual intro to Transformers.md",
     "AI Intro and Definition.md",
     "Application of Matrix.md",
+    "CMC - Neural Network & Deep Learning.md",
+    "CMC AI.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Vector Algebra.md",
     "Machine Learning Algorithm.md",
     "Beautiful of Math.md",
-    "CMC - Neural Network & Deep Learning.md",
     "What I need to learn for Emotion Detector Project.md",
     "My AI Project.md",
     "Potential Question.md",
@@ -242,13 +209,11 @@
     "Image/Pasted image 20240320133308.png",
     "Image/Pasted image 20240320132114.png",
     "Mathematic for Machine Learning - Assignment.md",
-    "Image/Pasted image 20240319110217.png",
     "Anaconda Command.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
     "Setup Anaconda Guide.md",
     "Anaconda.md",
     "Machine Learning Problems.md",
-    "Clustering.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
