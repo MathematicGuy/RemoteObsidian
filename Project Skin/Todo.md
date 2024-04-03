@@ -32,7 +32,7 @@ banner: Images/Pasted image 20240402135259.png
 
 #Todo/Personal
 - [ ] Defined Idiot Time Index
-
+- [ ] Improve Blog Try Catch. If user missing any input then goes back and retype  
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
