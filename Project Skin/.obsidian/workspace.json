@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "90df771062cffa14",
+        "id": "7cd226bdc66ee4f7",
         "type": "tabs",
         "children": [
           {
-            "id": "43731116b89a09e9",
+            "id": "e90ad7ef6350e384",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,51 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f1d36d3187f33da7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BlogPost Design Concept.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbfb96dc8d2c8092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SoNguyenDuongTest.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b4fe109ba7ba115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Administration Database.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Administration Database.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Administration Database.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Administration Database.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -230,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6b4fe109ba7ba115",
+  "active": "e90ad7ef6350e384",
   "lastOpenFiles": [
     "SoNguyenDuongTest.md",
     "Web API Project.md",
