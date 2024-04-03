@@ -76,6 +76,38 @@ INSTEAD OF DELETE -> run this instead of DELETE.
 + 'ON DELETE CASCADE' -> (Limited Usages)
 
 
+password: gy3yvYUUyQzK151x
+
 
 Test
 Nộp 
+
+
+```cs
+dotnet add package MongoDB.Driver
+```
+
+```cs
+
+using MongoDB.Driver;
+using MongoDB.Bson;
+
+const string connectionUri = "mongodb+srv://dinhnhatthanh248:gy3yvYUUyQzK151x@new.qlstmml.mongodb.net/?retryWrites=true&w=majority&appName=New";
+
+var settings = MongoClientSettings.FromConnectionString(connectionUri);
+
+// Set the ServerApi field of the settings object to set the version of the Stable API on the client
+settings.ServerApi = new ServerApi(ServerApiVersion.V1);
+
+// Create a new client and connect to the server
+var client = new MongoClient(settings);
+
+// Send a ping to confirm a successful connection
+try {
+  var result = client.GetDatabase("admin").RunCommand<BsonDocument>(new BsonDocument("ping", 1));
+  Console.WriteLine("Pinged your deployment. You successfully connected to MongoDB!");
+} catch (Exception ex) {
+  Console.WriteLine(ex);
+}
+
+```
