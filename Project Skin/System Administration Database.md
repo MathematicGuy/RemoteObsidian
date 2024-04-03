@@ -75,3 +75,7 @@ INSTEAD OF DELETE -> run this instead of DELETE.
 		Ex: Update Manager_department_id to 5 instead of 1 -> All Employees_ department_id automatically update t 5.
 + 'ON DELETE CASCADE' -> (Limited Usages)
 
+
+
+Test
+Nộp 

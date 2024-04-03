@@ -56,6 +56,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1625953430a70c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application of Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -202,14 +214,18 @@
   "active": "c568122367c058ed",
   "lastOpenFiles": [
     "CMC AI.md",
+    "Machine Learning.md",
+    "AI Intro and Definition.md",
+    "Application of Matrix.md",
+    "Book/Seeing Theory A visual introduction to the most useful.pdf",
+    "Vector Algebra.md",
+    "Machine Learning Algorithm.md",
+    "Beautiful of Math.md",
     "CMC - Neural Network & Deep Learning.md",
     "What I need to learn for Emotion Detector Project.md",
-    "Machine Learning.md",
     "My AI Project.md",
-    "AI Intro and Definition.md",
     "Potential Question.md",
     "Essence of linear algebra.md",
-    "Application of Matrix.md",
     "Mathematic  for Machine Learning.md",
     "Image/Pasted image 20240328141835.png",
     "Image/Pasted image 20240328140212.png",
@@ -217,7 +233,6 @@
     "Image/Pasted image 20240328135251.png",
     "Image/Pasted image 20240328135153.png",
     "Image/Pasted image 20240328134513.png",
-    "Vector Algebra.md",
     "Linear Algebra.md",
     "Linear system as Matrix using Numpy.md",
     "K-Means from Scratch.md",
@@ -226,19 +241,15 @@
     "Image/Pasted image 20240320133314.png",
     "Image/Pasted image 20240320133308.png",
     "Image/Pasted image 20240320132114.png",
-    "Machine Learning Algorithm.md",
     "Mathematic for Machine Learning - Assignment.md",
     "Image/Pasted image 20240319110217.png",
     "Anaconda Command.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
-    "Beautiful of Math.md",
     "Setup Anaconda Guide.md",
     "Anaconda.md",
     "Machine Learning Problems.md",
     "Clustering.md",
-    "MLP Catagories.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

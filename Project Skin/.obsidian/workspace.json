@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "24e6b11ffbffa70d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f1d36d3187f33da7",
             "type": "leaf",
             "state": {
@@ -47,9 +34,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbfb96dc8d2c8092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoNguyenDuongTest.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b4fe109ba7ba115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Administration Database.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlogPost Design Concept.md",
+                "file": "System Administration Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlogPost Design Concept.md",
+                "file": "System Administration Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlogPost Design Concept.md"
+                "file": "System Administration Database.md"
               }
             }
           },
@@ -217,12 +230,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1d36d3187f33da7",
+  "active": "6b4fe109ba7ba115",
   "lastOpenFiles": [
-    "Images/Pasted image 20240403135427.png",
+    "SoNguyenDuongTest.md",
+    "Web API Project.md",
+    "Todo.md",
+    "Publish Web API.md",
+    "Hosting.md",
     "Blog with ASAP.NET.md",
     "BlogPost Design Concept.md",
-    "Todo.md",
+    "Images/Pasted image 20240402210653.png",
+    "Images/Pasted image 20240403135427.png",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
@@ -236,7 +254,6 @@
     "Personal/Language Learning/German Vocabulary.md",
     "Blog WebApp Bugs and Notice.md",
     "Images/Pasted image 20240402210759.png",
-    "Images/Pasted image 20240402210653.png",
     "Images/Pasted image 20240402210723.png",
     "Images/Pasted image 20240402210339.png",
     "Images/Pasted image 20240402202802.png",
@@ -247,15 +264,11 @@
     "Images/Pasted image 20240402152855.png",
     "IT Project Management.md",
     "Obsidient System.md",
-    "Images/Pasted image 20240402135516.png",
     "Making of Gannt Chart.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "WebAPI Bugs.md",
     "Web MVC Model.md",
     "Spaces",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "_Focus/2023/3rd Semesters/CSharp/5 hours of CSHARP.md",
-    "_Focus/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
     "_Focus/2024/2024 1st_Semester",
