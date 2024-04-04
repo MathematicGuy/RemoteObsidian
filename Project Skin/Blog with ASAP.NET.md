@@ -1243,7 +1243,7 @@ Then we add tags as a Catafories
 
 BlogPost Model
 ```cs
-public Guid Id { get; set; }
+public Guid Id {* *get; set; }
 public string Heading { get; set; }
 public string PageTitle { get; set; }
 public string Content { get; set; }
@@ -1260,3 +1260,5 @@ public ICollection<Tag> Tags { get; set; }
 
 
 ###### [[BlogPost Design Concept]]
+
+Link youtube turtorial : how to connect BlogwebMVC  
