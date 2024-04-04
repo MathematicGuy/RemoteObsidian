@@ -69,3 +69,7 @@ banner: Images/Pasted image 20240402135259.png
 #Calithenic
 - [ ] Tuck hold
 - [ ] Psudo Planche
+
+
+
+	Mình tên là Đinh Nhật Thành, mình được tiếp xúc với lập trình web từ hồi cấp 2 và từ đó bắt đầu phát triển niềm đam mê với lập trình cho đến khi vào Đại học. Phương châm học tập của mình là luôn nỗ lực tìm hiểu ngọn nguồn của vấn đề và luôn hướng tới sự tối ưu trong học tập và nghiên cứu. Vì vậy, từ lâu mình đã nghĩ về việc xã hội sẽ tốt đẹp hơn biết bao nếu mọi người có thể tập trung vào những điều thực sự quan trọng như suy nghĩ và sáng tạo mà không cần phải lãng phí thời gian ghi chép và ghi nhớ. Khi khám phá ra trí tuệ nhân tạo, những thắc mắc của mình gần như đã được giải đáp. Ví dụ, trong ghi chú, một người có thể thoải mái nhìn vào các từ khóa do máy tạo ra và ghi lại những suy nghĩ sáng tạo. do chính mình tạo ra và nhờ máy tổng hợp những kiến thức đã ghi lại nên để học, máy có thể sắp xếp nhiều lời giải theo cách hiểu riêng của mỗi người. Sau khi tìm hiểu về SIC thông qua các tài liệu giảng dạy chi tiết về AI, IoT, BigData, các lộ trình học tập thực tế và đổi mới, hệ thống giảng dạy tập trung vào tính sáng tạo và ý tưởng thực tiễn hơn là lý thuyết. Mình nhận thấy SIC là nơi mình có thể tin tưởng để học hỏi, phát triển và cống hiến. Bằng việc tham gia chương trình SAMSUNG INNOVATION CAMPUS, mình hy vọng sẽ nâng cao hơn nữa các kỹ năng và kiến thức của mình trong lĩnh vực trí tuệ nhân tạo và áp dụng chúng vào các vấn đề trong thế giới thực.

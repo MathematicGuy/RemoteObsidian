@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "77aac8dbc7928056",
+        "id": "ed1ba34610f88f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "0afabb10800cc1c2",
+            "id": "96192f0e974ca955",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -188,11 +190,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0afabb10800cc1c2",
+  "active": "96192f0e974ca955",
   "lastOpenFiles": [
+    "_Focus/2023/Challenges & Guides/Github.md",
+    "My AI List.md",
+    "Personal/Good for LATER.md",
+    "Todo.md",
     "SoNguyenDuongTest.md",
     "Web API Project.md",
-    "Todo.md",
     "Publish Web API.md",
     "Hosting.md",
     "Blog with ASAP.NET.md",
@@ -208,7 +213,6 @@
     "WebDev/WebDev_Learn/CSS/CSS Grid.md",
     "Tech Team Position.md",
     "_Focus/2023/3rd Semesters/OOP/Note.md",
-    "My AI List.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Blog WebApp Bugs and Notice.md",
     "Images/Pasted image 20240402210759.png",
@@ -224,8 +228,6 @@
     "Obsidient System.md",
     "Making of Gannt Chart.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "WebAPI Bugs.md",
-    "Web MVC Model.md",
     "Spaces",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
