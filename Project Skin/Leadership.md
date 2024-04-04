@@ -12,6 +12,7 @@ Impediments: trở ngại
 Unilateral: đơn phương
 
 ----
+![[unnamed.webp]]
 
 ### Why ?  
 Because of AI soon will be ours Servent, it each human responsibility to become a Leader.
