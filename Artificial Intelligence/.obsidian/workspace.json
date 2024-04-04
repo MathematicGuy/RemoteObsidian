@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPT - Visual intro to Transformers.md",
+                "file": "AI Quizz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "AI Quizz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "AI Quizz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "AI Quizz.md"
               }
             }
           },
@@ -174,12 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "398e0fd66f39ca06",
+  "active": "4040e33d88940c64",
   "lastOpenFiles": [
+    "Machine Learning.md",
     "Image/Pasted image 20240403222715.png",
     "Image/Pasted image 20240403222703.png",
-    "Machine Learning.md",
-    "GPT - Visual intro to Transformers.md",
+    "AI Quizz.md",
     "AI Intro and Definition.md",
     "Application of Matrix.md",
     "CMC - Neural Network & Deep Learning.md",
@@ -206,7 +207,6 @@
     "CMC Machine Learning Algorithm.md",
     "Image/Pasted image 20240320133314.png",
     "Image/Pasted image 20240320133308.png",
-    "Image/Pasted image 20240320132114.png",
     "Mathematic for Machine Learning - Assignment.md",
     "Anaconda Command.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",

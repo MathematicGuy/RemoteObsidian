@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed1ba34610f88f5c",
+        "id": "9d0ff0968de02ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "96192f0e974ca955",
+            "id": "919ffe7e198e28a8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96192f0e974ca955",
+  "active": "919ffe7e198e28a8",
   "lastOpenFiles": [
     "_Focus/2023/Challenges & Guides/Github.md",
     "My AI List.md",

@@ -7,7 +7,7 @@
 **Machine Learning require Traditional Programming** 
 + 1.0 -> Do as its told. to finish A. 
 + 2.0 -> Given a pattern to learn to finish A.
-[[Software 1.0]]                       [[Software 2.0]]                       [[GPT - Visual intro to Transformers]]
+[[Software 1.0]]                       [[Software 2.0]]                       [[AI Quizz]]
 
 ![[Pasted image 20230617232436.png]]
 -> Turn input into number. Let the Machine Learning figure out the pattern in those number.
