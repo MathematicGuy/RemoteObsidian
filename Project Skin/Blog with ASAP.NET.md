@@ -103,7 +103,7 @@ public class BloggieDbContext : DbContext
   // Overwrite DbContextOptions with BloggieDbContext
   public BloggieDbContext(DbContextOptions<BloggieDbContext> options) : base(options)
   {
-  
+   
   }
 
   // BlogPost as DbSet
@@ -148,6 +148,7 @@ Add-Migration "Initial Migration"
 
 Update
 	Update all the table and column from Migration Folder to the Database (in the connection string)  
+
 
 ## Section 3: Introduction to MVC: Model View Controllers
 ![[Pasted image 20240322140005.png]]
