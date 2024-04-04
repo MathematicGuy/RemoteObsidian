@@ -1,3 +1,6 @@
+---
+tags: ""
+---
 - [ ] Fixed mindset - grown mindset
 Know thyself - I have multiple version of me
 	adapting in diff situation

@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Personal/Language Learning\" file:\"German\"",
+      "color": {
+        "a": 1,
+        "rgb": 11337728
+      }
+    },
+    {
+      "query": "path:\"_Focus/SQL & DataBase\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.059326171875000014,
-  "close": true
+  "scale": 0.189422770328452,
+  "close": false
 }

@@ -5,7 +5,7 @@ Claim: tuyên bố
 Examine: xác nhận, kiểm tra
 Behavioural: hành vi
 Practices: thực tiễn, phương pháp
-+ ? Practices: tập tuán (Cultural practice - tập quán văn )
++ ? Practices: tập quán (Cultural practice - tập quán văn )
 Contingency: dự phòng
 Synthesize: tổng hợp
 Impediments: trở ngại
@@ -37,8 +37,11 @@ Because of AI soon will be ours Servent, it each human responsibility to become 
 ## [[Course map]]
 + Advises: [[Briefly describe what makes them a good leader]]
 
-### [[Week 0 -  Important of Leadership]]
+### [[Week 1 - The Leadership Challenge]]
 + contemplative: chiêm nghiệm
 + largely solitary: chủ yếu là đơn độc
 + fragmented: rời 
 + meta-narative: siêu tường thuật
+
+
+### [[Week 2 - The Practices of Individual Leadership]]
