@@ -31,7 +31,7 @@ load("myScript.js") // run all js file
 ```
 
 #### CRUD Operation
-
++ ? coll: table name
 CREATE
 ```json
 db.coll.insertOne({name: "Max"})
@@ -49,7 +49,7 @@ db.coll.find().pretty()
 db.coll.find({name: "Max", age: 32}) // implicit logical "AND".
 db.coll.find({date: ISODate("2020-09-25T13:57:17.180Z")})
 db.coll.find({name: "Max", age: 32}).explain("executionStats") // or "queryPlanner" or "allPlansExecution"
-db.coll.distinct("name")
+db.coll.distinct("name")w
 
 // Count
 db.coll.countDocuments({age: 32}) // alias for an aggregation pipeline - accurate count
@@ -158,7 +158,6 @@ db.coll.deleteMany({name: "Max"}, {"writeConcern": {"w": "majority", "wtimeout":
 db.coll.deleteMany({}) // WARNING! Deletes all the docs but not the collection itself and its index definitions
 db.coll.findOneAndDelete({"name": "Max"})
 ```
-
 
 
 #### Databases and Collections

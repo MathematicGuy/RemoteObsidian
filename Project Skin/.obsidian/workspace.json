@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8f650d6f083c79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL.md",
+                "file": "MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL.md",
+                "file": "MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL.md"
+                "file": "MongoDB.md"
               }
             }
           },
@@ -203,12 +216,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "972d632b926b7224",
+  "active": "c8f650d6f083c79a",
   "lastOpenFiles": [
+    "NoSQL.md",
     "Todo.md",
     "System Administration Database.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "NoSQL.md",
     "Cyber Security Project.md",
     "RSA Algorithm.md",
     "Images/Pasted image 20240405144704.png",
