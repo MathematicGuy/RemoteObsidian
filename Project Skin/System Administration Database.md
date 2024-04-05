@@ -4,7 +4,7 @@ Research activities:
 + Specialie: ML
 + Application domains: OCV, Recommender System 
 Non Relational SQL
-+ [[MongolDB]]
++ [[MongoDB]]
 
 [[SDA HW1]]
 [[SDA HW2]]

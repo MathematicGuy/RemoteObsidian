@@ -1262,4 +1262,10 @@ public ICollection<Tag> Tags { get; set; }
 
 ###### [[BlogPost Design Concept]]
 
+**Publish WebMVC (Db include)**  
 Link youtube turtorial : how to connect BlogwebMVC  
+
+#### Authentication and Authorization
+
+Authentication -> able to use certain of features or not
+
