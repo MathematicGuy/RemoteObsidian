@@ -22,3 +22,9 @@ These leftover num called coprime with 14 (shared no common factor)
 p, q -> 2 prime number (often super large)
 d -> private key = 11
 e -> public key = 5 (% to phi(n) and N)
+
+
+Encrypt
+4^11 (mod 14) = 4194304 / 14 (mod 14) = 299593
+299593 - 299593.142857143 = 0.1428571430
+0.1428571430 * 14  = 2.000000002
