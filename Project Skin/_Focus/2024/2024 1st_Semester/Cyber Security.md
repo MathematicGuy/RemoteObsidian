@@ -48,3 +48,4 @@ Movie: The Imitation Game
 + Don't immediatly done anything you see as right. Check for it consequents first.
 + " Don't give lies to someone expected've deceived you "
 
+[[RSA Algorithm]]
