@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDB.md",
+                "file": "NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MongoDB.md",
+                "file": "NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB.md"
+                "file": "NoSQL.md"
               }
             }
           },
@@ -216,10 +216,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8f650d6f083c79a",
+  "active": "972d632b926b7224",
   "lastOpenFiles": [
-    "NoSQL.md",
     "Todo.md",
+    "MongoDB.md",
+    "NoSQL.md",
     "System Administration Database.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Cyber Security Project.md",
@@ -227,7 +228,6 @@
     "Images/Pasted image 20240405144704.png",
     "Images/Pasted image 20240405143531.png",
     "Images/Pasted image 20240405143420.png",
-    "MongoDB.md",
     "Images/Pasted image 20240405080249.png",
     "Images/Pasted image 20240405080200.png",
     "Images/Pasted image 20240405080118.png",

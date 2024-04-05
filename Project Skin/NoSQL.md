@@ -15,3 +15,10 @@ cons: duplicate, abnormal data
 - **projects** (proj)
 	1 (proj) - M (tas)
 - **tasks** (tas)
+
+VD: 
+SQL có 1 bảng riêng cho từng thể loại film
+-> 1 người ko thể tự nhiên có 1 thể loại film
+
+NoSQL có thể thêm tùy ý vô số lần. 1 người có thể gán thêm hàng trăm thể loại film thì ko bị ràng buộc.
++ Tra cứu tệ. Tra theo ràng buộc 
