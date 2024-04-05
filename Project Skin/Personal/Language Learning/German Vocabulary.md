@@ -1494,3 +1494,5 @@ I don't want to and I have to work
 
 Lernt dein Freund oder geht er heute Schwimmen
 	Is your boyfriend studying or he going to swimming
+
+

@@ -10,7 +10,7 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #Todo/GoalsThisWeek
-
+- [ ] Take 5-10 minutes to summarize what I have learned when studied any subject. 
 
 
 #Todo/GoalsThisMonth

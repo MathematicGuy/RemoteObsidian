@@ -10,6 +10,9 @@ Contingency: dự phòng
 Synthesize: tổng hợp
 Impediments: trở ngại
 Unilateral: đơn phương
+Positional power: vị trí quyền lực  
+Locus of control: địa điểm kiểm 
+continuum: liên 
 
 ----
 ![[unnamed.webp]]
@@ -46,3 +49,4 @@ Because of AI soon will be ours Servent, it each human responsibility to become 
 
 
 ### [[Week 2 - The Practices of Individual Leadership]]
+

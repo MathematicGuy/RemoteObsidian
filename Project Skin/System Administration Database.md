@@ -3,12 +3,18 @@
 Research activities: 
 + Specialie: ML
 + Application domains: OCV, Recommender System 
+Non Relational SQL
++ [[MongolDB]]
 
 [[SDA HW1]]
 [[SDA HW2]]
 [[Practice Procedure and Trigger]]
 
-note: bài có thể vào: thiết kế DB, tối_ưu/chuẩn_hóa DB, giải thích các câu truy vấn. 
+
+note: bài có thể vào: thiết kế DB, tối_ưu/chuẩn_hóa DB, giải thích các câu 
+truy vấn. 
+
+
 #### [[SDA Review]] (System Database Administator)
 
 

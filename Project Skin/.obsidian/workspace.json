@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a0d17a29e7698d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongolDB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "MongolDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "MongolDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "MongolDB.md"
               }
             }
           },
@@ -189,19 +203,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c858ac8933b04992",
+  "active": "a0d17a29e7698d92",
   "lastOpenFiles": [
-    "Blog with ASAP.NET.md",
-    "Todo.md",
-    "Leadership.md",
-    "Images/unnamed.webp",
+    "Images/Pasted image 20240405080249.png",
+    "Images/Pasted image 20240405080200.png",
+    "Images/Pasted image 20240405080118.png",
+    "MongolDB.md",
+    "Images/Pasted image 20240405080142.png",
     "Week 2 - The Practices of Individual Leadership.md",
+    "Leadership.md",
+    "Personal/Leadership/Leadership.md",
+    "Todo.md",
+    "System Administration Database.md",
+    "Non Relational SQL.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Images/Pasted image 20240405071354.png",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Blog with ASAP.NET.md",
+    "Images/unnamed.webp",
     "Images/Pasted image 20240404202050.png",
     "Images/Pasted image 20240404201956.png",
     "Images/Pasted image 20240404201859.png",
     "Images/Pasted image 20240404201824.png",
     "Week 1 - The Leadership Challenge.md",
-    "Personal/Leadership/Leadership.md",
     "Personal/Leadership",
     "Personal/Language Learning/Language Learning.md",
     "_Focus.md",
@@ -215,18 +239,9 @@
     "Hosting.md",
     "BlogPost Design Concept.md",
     "Images/Pasted image 20240402210653.png",
-    "Images/Pasted image 20240403135427.png",
     "WebDev/WebDev_Learn/CSS/CSS Flex Box.md",
     "WebDev/WebDev_Learn/CSS.md",
     "WebDev/WebDev_Learn/CSS/CSS Confusing Concept.md",
-    "FrontEnd/CSS Note.md",
-    "FrontEnd/CSS Desgin Pattern.md",
-    "WebDev/WebDev_Learn/CSS/CSS Values & Units.md",
-    "WebDev/WebDev_Learn/CSS/CSS Grid.md",
-    "Tech Team Position.md",
-    "Images/Pasted image 20240402210759.png",
-    "Images/Pasted image 20240402210723.png",
-    "Images/Pasted image 20240402210339.png",
     "Spaces",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
