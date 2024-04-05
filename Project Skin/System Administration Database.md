@@ -17,6 +17,7 @@ truy vấn.
 
 #### [[SDA Review]] (System Database Administator)
 
+[[NoSQL]]
 
 breaching data: in-structure data
 
