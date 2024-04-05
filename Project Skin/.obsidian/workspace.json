@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "303ff99665a04851",
+        "id": "16e5e30eab313736",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6a25062c82b534",
+            "id": "1085151c56f68292",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,20 +23,14 @@
             }
           },
           {
-            "id": "0e2e2f6f96940a23",
+            "id": "88c6d9c3e1b81214",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog with ASAP.NET.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,7 +197,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0e2e2f6f96940a23",
+  "active": "1085151c56f68292",
   "lastOpenFiles": [
     "Todo.md",
     "MongoDB.md",
