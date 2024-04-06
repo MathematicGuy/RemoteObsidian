@@ -6,6 +6,7 @@ quản lý bộ phận và dự án được thiết kế để tối ưu hóa �
 trong một tổ chức.
 
 Các **tính năng chính có thể bao gồm:**
+
 • Quản lý thông tin cá nhân: Lưu trữ chi tiết nhân viên
 hồ sơ.
 

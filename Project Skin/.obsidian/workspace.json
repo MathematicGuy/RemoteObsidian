@@ -34,6 +34,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d25ddcdde6f847e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df44d6926bc05225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDA HW1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -205,12 +231,18 @@
   },
   "active": "ab92a9b7c12f7618",
   "lastOpenFiles": [
-    "System Administration Database.md",
     "Todo.md",
+    "SDA HW1.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "SAD Project.md",
+    "System Administration Database.md",
+    "SDA Review.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "SDA HW2.md",
+    "Images/Pasted image 20240406143152.png",
     "Images/Pasted image 20240406135248.png",
     "Images/Pasted image 20240406132542.png",
     "Leadership.md",
-    "SAD Project.md",
     "LeaderDiary.md",
     "Personal/Language Learning/German Vocabulary.md",
     "MongoDB.md",
@@ -229,7 +261,6 @@
     "Personal/Leadership/Leadership.md",
     "Non Relational SQL.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Images/Pasted image 20240405071354.png",
     "Blog with ASAP.NET.md",
     "Week 1 - The Leadership Challenge.md",
     "Personal/Leadership",
@@ -237,10 +268,6 @@
     "_Focus.md",
     "Seven W's.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "My AI List.md",
-    "Personal/Good for LATER.md",
-    "SoNguyenDuongTest.md",
-    "Web API Project.md",
     "Spaces",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
