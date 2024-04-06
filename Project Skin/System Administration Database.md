@@ -9,15 +9,15 @@ Non Relational SQL
 [[SDA HW1]]
 [[SDA HW2]]
 [[Practice Procedure and Trigger]]
-
+[[SAD Project]]
 
 note: bài có thể vào: thiết kế DB, tối_ưu/chuẩn_hóa DB, giải thích các câu 
 truy vấn. 
 
-
 #### [[SDA Review]] (System Database Administator)
 
-[[NoSQL]]
+#### [[NoSQL]]
+
 
 breaching data: in-structure data
 
@@ -64,9 +64,6 @@ Redis (DBSM dạng key-value) - (recommended)
 Document Oriented -> MongoDB
 GraphDB 
 
-### Isolation
-
-
 ### Trigger
 How to delete an Admin user. 
 (Ex: Manager who have relation with many other employees)
@@ -84,18 +81,11 @@ INSTEAD OF DELETE -> run this instead of DELETE.
 
 
 password: gy3yvYUUyQzK151x
-
-
-Test
-Nộp 
-
-
 ```cs
 dotnet add package MongoDB.Driver
 ```
 
 ```cs
-
 using MongoDB.Driver;
 using MongoDB.Bson;
 
@@ -116,5 +106,4 @@ try {
 } catch (Exception ex) {
   Console.WriteLine(ex);
 }
-
 ```

@@ -15,6 +15,8 @@ Locus of control: địa điểm kiểm
 continuum: liên 
 
 ----
+[[LeaderDiary]]
+
 ![[unnamed.webp]]
 
 ### Why ?  
