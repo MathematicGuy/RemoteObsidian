@@ -1269,3 +1269,6 @@ Link youtube turtorial : how to connect BlogwebMVC
 
 Authentication -> able to use certain of features or not
 
+
+Migration
+![[Pasted image 20240406132542.png]]
