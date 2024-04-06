@@ -519,6 +519,8 @@ heißen Sie my name is (heißen goes with Sie, Sie as you)
 
 spreche speak 
 + Ich Spreche
++ Du sprichst
++ Er/Ihr Sprichst
 + Spreche Die
 	 Sprechen Die Deutsch do you speak German
 	 Ich Spreche kein Englisch I don't speak Englisch/Chinese/Espanõl
@@ -1286,6 +1288,7 @@ Pommes french fry
 Gesund Healthy
 Schule School
 	In der Schule - in the 
+	Wann bis du ins Schule gehen
 
 Möchtest du lieber - would you prefer
 	Möchtest du lieber jetz oder später essen
@@ -1293,14 +1296,13 @@ Möchtest du lieber - would you prefer
 Ordering takeout - gọi món mang về
 
 #den_vs_der
-
-
 **Exercise**
 	Pommes french fries
 	Warten Sie (please) wait (use Sie to show repspect for the waiting person)  
 	es gibt Fisch there is fish
 	Mittagessen lunch
 **Exercise End**
+
 
 
 Die Bushaltestellen bus station
@@ -1495,4 +1497,8 @@ I don't want to and I have to work
 Lernt dein Freund oder geht er heute Schwimmen
 	Is your boyfriend studying or he going to swimming
 
+Hast du - is your / do you have
 
+Leise - quite
+Nichts - nothing (from nitch - not)
+Klassenzimmer - classroom

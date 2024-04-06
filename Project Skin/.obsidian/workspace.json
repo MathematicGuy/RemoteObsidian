@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f650d6f083c79a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -218,9 +205,10 @@
   },
   "active": "972d632b926b7224",
   "lastOpenFiles": [
-    "Todo.md",
     "MongoDB.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "NoSQL.md",
+    "Todo.md",
     "System Administration Database.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Cyber Security Project.md",
@@ -238,7 +226,6 @@
     "Non Relational SQL.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240405071354.png",
-    "Personal/Language Learning/German Vocabulary.md",
     "Blog with ASAP.NET.md",
     "Images/unnamed.webp",
     "Images/Pasted image 20240404202050.png",
