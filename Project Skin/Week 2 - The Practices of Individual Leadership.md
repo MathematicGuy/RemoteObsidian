@@ -35,10 +35,54 @@ Contingency factor
 Env factor
 repetitive -> empl dont need to involve much
 
+### Type of Power
 
 + ? Understand Power and How to use Power to influence others. 
-**Organization power**: Karma is importance. It allow anyone to be in a position of power.
+Legitimate power -> Organization power: Karma is importance. It allow anyone to be in a position of power.
 	One people do it. influence 2 peoples to do it -> an group of people follow and do it as well.
-**Positional power**: delegate down through a chain of command and tell people what to do.
+Positional power: delegate down through a chain of command and tell people what to do.
 
-Legitimate power: build up by urself. 
+
+**Legitimate power**: power you build up by urself (with time and influences)
+
+**Reward Power** (Use reward to create more power)
+Only choose the Right level of reward -> too much can make one person try to reach what they can't. (Bad for org)
+
+**Coercive power** (sức mạnh cưỡng chế)
+people don't like
+Might useful to do a quick sharp shock of coercive power to maintain discipline and enforce some rules.
++ ! Don't make threats you don't intend to follow through with.
+	If don't -> lose respect
+(vd: deadline is near and ur team are far behind -> if you don't finished this by tomorrow then u will get whitelisted)
++ ! If you use it make sure you're consistant 
+	If you choose to be Fire then goes with it from start to end. Don't switch to Water until that.
+
+**Connection Power**
+```ad-note
+So people will potentially do what you ask them to do because they know that your relational network is powerful and they don't want to upset other people in that relational network.
+
+So you have this set of relationships with more influential people in the organization
+```
+
+Like in politic, they form an coallision
+-> likely to made your ideas happened
+
+Build a coallision around a ideas -> then u can work on it. Turn the idea into a product.
+
+**Information Power**
+> Hold information desire by other to help them to do their job.
+ 
+Dangerous -> don't focus on ur self. but other peoples -> less KPI  
+
+**Expert Power**
+Build level of trust. but know that u have it (performance)
+Explain and connect people from difference silo what happen on the other side.
+
+**Referent Power** (emotion appel)
+Loyalty -> will to do it more than you regulary do
++ ? Helpfull where there isn't a formal leadership structure.
+
+### Formal and informal leadership networks
++ ! Who have Power, Where have power, Why they have it.
+
+Reciprocity (có đi có lại) is when you create obligations, develop alliances and using to achieve organizational objectives. Someone does something for you. You do something for them.

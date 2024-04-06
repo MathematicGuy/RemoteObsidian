@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b755e15f7ea91d27",
+        "id": "38eca5d8c9aa6366",
         "type": "tabs",
         "children": [
           {
-            "id": "1d83b27aa41efe30",
+            "id": "6d8dad5caecd16b1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6ef662fbdc33d6ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,16 +194,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1d83b27aa41efe30",
+  "active": "6ef662fbdc33d6ff",
   "lastOpenFiles": [
+    "Todo.md",
+    "Leadership.md",
     "System Administration Database.md",
     "SAD Project.md",
-    "Leadership.md",
     "LeaderDiary.md",
     "Personal/Language Learning/German Vocabulary.md",
     "MongoDB.md",
     "NoSQL.md",
-    "Todo.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Cyber Security Project.md",
     "RSA Algorithm.md",
