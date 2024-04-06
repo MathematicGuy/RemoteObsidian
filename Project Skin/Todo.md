@@ -10,8 +10,12 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #Todo/GoalsThisWeek
-- [ ] Take 5-10 minutes to summarize what I have learned when studied any subject. 
 
+THING I WANT TO ACHIEVE THIS WEEKEND
++ [ ] The Math AI Course
++ [ ] Blog Web App (I should Finish this Tonigh)
++ [ ] Database Features Sketch (Finish This First)
++ [ ] Basic Insert, Delete Procedure
 
 #Todo/GoalsThisMonth
 
