@@ -1272,3 +1272,6 @@ Authentication -> able to use certain of features or not
 
 Migration
 ![[Pasted image 20240406132542.png]]
++ Update-Database -Context "AuthDbContext"
++ If not using -Context this is the error
+	![[Pasted image 20240406135248.png]]

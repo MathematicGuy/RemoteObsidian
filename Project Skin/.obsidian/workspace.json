@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38eca5d8c9aa6366",
+        "id": "e573914d755ce4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "6d8dad5caecd16b1",
+            "id": "399f5b245581b480",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "6ef662fbdc33d6ff",
+            "id": "ab92a9b7c12f7618",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "SAD Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "SAD Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "SAD Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog with ASAP.NET.md"
+                "file": "SAD Project.md"
               }
             }
           },
@@ -203,12 +203,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ef662fbdc33d6ff",
+  "active": "ab92a9b7c12f7618",
   "lastOpenFiles": [
-    "Images/Pasted image 20240406132542.png",
-    "Todo.md",
-    "Leadership.md",
     "System Administration Database.md",
+    "Todo.md",
+    "Images/Pasted image 20240406135248.png",
+    "Images/Pasted image 20240406132542.png",
+    "Leadership.md",
     "SAD Project.md",
     "LeaderDiary.md",
     "Personal/Language Learning/German Vocabulary.md",
@@ -230,8 +231,6 @@
     "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240405071354.png",
     "Blog with ASAP.NET.md",
-    "Images/unnamed.webp",
-    "Images/Pasted image 20240404202050.png",
     "Week 1 - The Leadership Challenge.md",
     "Personal/Leadership",
     "Personal/Language Learning/Language Learning.md",

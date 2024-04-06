@@ -32,6 +32,7 @@ vắng mặt và yêu cầu nghỉ phép.
 **both**
 + Sketch out project plan
 
+
 2) **Data Modelling**
 + Design ER -> Implemented in SQL
 + Migrate SQL -> NoSQL (An)
@@ -43,6 +44,7 @@ vắng mặt và yêu cầu nghỉ phép.
 3) **Querying and Data Manipulation** (An + Thành)
 + Construct wireframes for the system's
 	Basic System Functionalities (Hệ thống làm gì)
+
 
 (Triển khai bằng SQL query)
 **Demonstrate functionalities with SQL:**
@@ -64,9 +66,41 @@ Analyze and Articulate
 	+ **Evaluation Process**
 		+ Which factors important the most (Yếu tố quan trọng nhất)
 		+ Trade off (Better This but Worsten That) (Đánh Đổi - có thể đánh đổi cái gì để tối ưu hệ thống) - Như viết nhanh hơn, chấp nhận đọc chậm hơn 
-		+ 
 
 
 5) **Presentation, Questions and Answer**
 + Present on Canvas 
 + Do some Prep (May Have) Questions to prepare for the real Presentation
+
+scratch
+- **Employee**
+    - employee_id (Primary Key)
+    - name
+    - contact_info
+    - skills
+    - job_title
+    - hire_date
+- **Department**
+    - department_id (Primary Key)
+    - department_name
+    - department_goals
+- **Project**
+    - project_id (Primary Key)
+    - project_name
+    - start_date
+    - end_date
+    - description
+    - status
+
+- **Timekeeping**
+    - attendance_id (Primary Key)
+    - employee_id (Foreign Key)
+    - date
+    - hours_worked
+
+- **Leave**
+    - leave_id (Primary Key)
+    - employee_id (Foreign Key)
+    - start_date
+    - end_date
+    - leave_type
