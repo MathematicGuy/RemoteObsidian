@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dce38e79451071e",
+        "id": "cf60a15b49f455c9",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc8684c1ca8d70d",
+            "id": "a7d4959c34d7580e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1cc8684c1ca8d70d",
+  "active": "a7d4959c34d7580e",
   "lastOpenFiles": [
     "Todo.md",
     "Blog with ASAP.NET.md",

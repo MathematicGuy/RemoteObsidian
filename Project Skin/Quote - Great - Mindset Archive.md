@@ -12,3 +12,7 @@ We lost ourselves in our pursuit of great we failed to do good." - Viktor
 
 courage isnt the absence of fear, its acting in spite of it
 	Friene anime
+
++ ! You not where you want to be, you feel like your suppose to be somewhere else. Say you could snap your finger and be where you wanted to be, I bet you still feel this way, not in the right place. You so hung up in where you rather be, you forget to make the most of where you are.
++ ? What you trying to say.
++ ! take a break from worrying about what you can't control. Live a little
