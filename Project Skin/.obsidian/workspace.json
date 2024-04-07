@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22d7b90760d666c1",
+        "id": "0dce38e79451071e",
         "type": "tabs",
         "children": [
           {
-            "id": "0fcaf5d682efa7fe",
+            "id": "1cc8684c1ca8d70d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "25581bbb06102967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog with ASAP.NET.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,9 +189,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25581bbb06102967",
+  "active": "1cc8684c1ca8d70d",
   "lastOpenFiles": [
     "Todo.md",
+    "Blog with ASAP.NET.md",
     "SAD Project.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "SDA HW1.md",
@@ -235,7 +222,6 @@
     "Personal/Leadership/Leadership.md",
     "Non Relational SQL.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "Blog with ASAP.NET.md",
     "Week 1 - The Leadership Challenge.md",
     "Personal/Leadership",
     "Personal/Language Learning/Language Learning.md",
