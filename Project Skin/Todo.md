@@ -55,7 +55,7 @@ THING I WANT TO ACHIEVE THIS WEEKEND
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 [[Advice for AI]]
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-
+- [ ] Movie Boiling Point
 
 #Todo/AI
 - [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
