@@ -1275,3 +1275,4 @@ Migration
 + Update-Database -Context "AuthDbContext"
 + If not using -Context this is the error
 	![[Pasted image 20240406135248.png]]
++ ! The DbContext Migrate data must be Correct fro Update-Database to happened. **If DbContext was fix in any period of time. Re-Update the Database**
