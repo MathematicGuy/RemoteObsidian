@@ -1360,7 +1360,7 @@ Hours Studen
 
 ### Unit 7
 Eine Party - a party
-Picknick picnic
+das Picknick the picnic
 Du machst morgen eine Party und ich kann kommen! - you are having a party and I can come
 Kannst du morgen kommen
 Ich mache eine party kannst du kommen

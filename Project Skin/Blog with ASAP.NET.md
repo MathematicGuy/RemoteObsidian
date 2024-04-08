@@ -6,6 +6,10 @@ Strategy divide the video into each sections
 	Listen super super carefully & Take Note for each section.
 + ! bug maybe cause if I missheard or misunderstood any part.
 + note: Using Bot to rate my documentation and refine it after I finished.
++ ! If there a Bug remember these things:
+	+ Check if it a Real Bug. Or because I think it a Bug
+	+ Eliminate distraction. Delete side function and focus on what causing the bug. (if there're 1 bug in 1 large function then delete all other function and focus just on the bug if neccesary)
+	+ If it a Technical but that I can search -> Search. If it a personal bug, pray to myself and try my best.
 
 **What we'll Learn & Achieve**
 
@@ -22,7 +26,7 @@ Strategy divide the video into each sections
 	+ then invoke API using JS
 	+ Use asynchronous throught out the course
 + Use 3rd party Text Editor to create content for our blog application
-+ AUthentication& Authorization using Microsoft Identity
++ Authentication & Authorization using Microsoft Identity
 	+ Register
 	+ Login
 	+ Role Based Authorization
@@ -1265,14 +1269,164 @@ public ICollection<Tag> Tags { get; set; }
 **Publish WebMVC (Db include)**  
 Link youtube turtorial : how to connect BlogwebMVC  
 
-#### Authentication and Authorization
+#### Authentication and Authorization (using Microsoft.AspNetCore.Identity)
+> Identity library give all funcs for Authen and Autho
+
+0) Create Roles and give superAdmin all roles permission
+**Create AuthDbModel using IdentityDbContext library**
+> Ensure to select AuthDbContext Db to avoid conflict with BloggieDbContext and bc more than 2 DbContext
+```cs
+    public class AuthDbContext : IdentityDbContext
+    {   
+        public AuthDbContext(DbContextOptions<AuthDbContext> options) : base(options) {}
+```
+Next, 
+```cs
+
+```
+
+1) Create a new Connection connect to a new unexist Table for Migration and to ensure security
+Ex: 
+```cs
+"BloggieAuthDbConnectionString": "Data Source=macbookM5\\SQLEXPRESS;Initial Catalog=BloggieAuthDb;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False"
+```
+
+
 
 Authentication -> able to use certain of features or not
-
-
 Migration
 ![[Pasted image 20240406132542.png]]
-+ Update-Database -Context "AuthDbContext"
++ Update-Database -Context "AuthDbContext" (result img below)
+	![[Pasted image 20240408084404.png]]
 + If not using -Context this is the error
 	![[Pasted image 20240406135248.png]]
-+ ! The DbContext Migrate data must be Correct fro Update-Database to happened. **If DbContext was fix in any period of time. Re-Update the Database**
++ ! The DbContext Migrate data must be Correct from Update-Database to happened. **If DbContext was fix in any period of time. Re-Update the Database**
+ 
+2) Create Sign Up and Login, Logout button in the header.
+```html
+<div class="d-flex align-item-center">
+  <!-- Check User signed In or Not -->
+  @if (signInManager.IsSignedIn(User))
+  {
+		// Display the User Name if Logged In
+		<div class="btn me-3 text-light">
+			 @User?.Identity?.Name 
+		</div>
+
+		<a class="btn me-3 text-light"
+			asp-area=""
+			asp-controller="Account"
+			asp-action="Logout">
+			Logout
+		</a>
+  }
+  else
+  {
+		<a class="btn me-3 bg-light text-dark"
+			 asp-area=""
+			 asp-controller="Account"
+			 asp-action="Register">
+			 Register
+		</a>
+
+		<a class="btn me-3 text-light"
+			 asp-area=""
+			 asp-controller="Account"
+			 asp-action="Login">
+			 Login
+		</a>                        
+  }
+</div>
+```
+
+3) In the Controller we will now need Action for Sign In, Login and Logout
++ We will use [HttpGet] method to redirect.
+	+ Sign In and Login -> its Own View (page) and Redirect back to Home when run successful
+	+ Logout -> Home View
+
+First we, Use 
+```cs
+ public class AccountController : Controller
+ {
+		private readonly UserManager<IdentityUser> userManager;
+		private readonly SignInManager<IdentityUser> signInManager;
+		
+		public AccountController(UserManager<IdentityUser> userManager,
+			SignInManager<IdentityUser> signInManager)
+		{
+			this.userManager = userManager;
+			this.signInManager = signInManager;
+		}
+```
+
+Secondly, we create AccountController.cs and create Sign In, Log In page along with it
+```cs
+	  [HttpGet]
+	  public IActionResult Register() 
+	  {
+			return View();
+	  }
+	
+	  // Create Post method for Register
+	  [HttpPost]
+	  public async Task<IActionResult> Register(RegisterViewModel registerViewModel)
+	  {
+			var identityUser = new IdentityUser
+			{
+				 UserName = registerViewModel.UserName,
+				 Email = registerViewModel.Email,
+			};
+	
+			// store the password. for privacy reasons
+			// CreateAsync come from IdentityUser
+			var identityResult = await userManager.CreateAsync(identityUser, registerViewModel.Password);
+			if (identityResult.Succeeded)
+			{
+				 // Assign this user the "User" role (newly created user)
+				 var roleIdentityResult = await userManager.AddToRoleAsync(identityUser, "User");
+				 if (roleIdentityResult.Succeeded)
+				 {
+					  // Show success notification
+					  return RedirectToAction("Register");
+				 }
+			}
+	
+			// Show error notification
+			return View();
+	  }
+	
+	  [HttpGet]
+	  public IActionResult Login()
+	  {
+			return View();   
+	  }
+	
+	
+	  [HttpPost]
+	  public async Task<IActionResult> Login(LoginViewModel loginViewModel)
+	  {
+	
+			// check if the input password is the same as the password in Db
+			var signInResult = await signInManager.PasswordSignInAsync(
+				 loginViewModel.UserName, loginViewModel.Password, false, false);
+	
+			if (signInResult != null && signInResult.Succeeded)
+			{
+				 // Show success notification
+				 return RedirectToAction("Index", "Home"); 
+			}   
+	
+			// Show error notification
+			return View();
+	  }
+	
+	  [HttpGet]
+	  public async Task<IActionResult> Logout()
+	  {
+			// Applied Logout fuction from SignInManager
+			await signInManager.SignOutAsync();
+			return RedirectToAction("Index", "Home");
+	  }
+	}
+}
+```

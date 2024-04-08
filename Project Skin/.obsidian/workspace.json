@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "29a6680d27ef3da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog with ASAP.NET.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Blog with ASAP.NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Blog with ASAP.NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Blog with ASAP.NET.md"
               }
             }
           },
@@ -189,8 +203,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7d4959c34d7580e",
+  "active": "29a6680d27ef3da2",
   "lastOpenFiles": [
+    "Images/Pasted image 20240408084404.png",
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "Blog with ASAP.NET.md",
     "SAD Project.md",
@@ -205,7 +221,6 @@
     "Images/Pasted image 20240406132542.png",
     "Leadership.md",
     "LeaderDiary.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "MongoDB.md",
     "NoSQL.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
@@ -227,7 +242,6 @@
     "Personal/Language Learning/Language Learning.md",
     "_Focus.md",
     "Seven W's.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Spaces",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",
