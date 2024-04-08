@@ -19,6 +19,11 @@ THING I WANT TO ACHIEVE THIS WEEK
 Next Week
 + [ ] Advanced Create, Insert, Delete 
 
+**Daily Plan**
+- [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section
+- [ ] Work Out ~ 30'
+- [ ] Hygine and Shower ~ 35'
+
 
 #Todo/GoalsThisMonth
 - [ ] Try not to Argue with my self on doing This and That. Focus on how to enjoy and make the Best of what I got. Not Self Blamming.
