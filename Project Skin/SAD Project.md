@@ -20,7 +20,12 @@ Các tính năng bổ sung có thể được bao gồm là:
 • Quản lý chấm công và nghỉ phép: Theo dõi giờ làm việc,
 vắng mặt và yêu cầu nghỉ phép.
 
+### Document Form
 
+
+
+
+### Planning
 1) **Project Initiation**
 **Do it from Scratch**
 + Choose Main Topic -> Business Problem 
@@ -73,35 +78,3 @@ Analyze and Articulate
 + Present on Canvas 
 + Do some Prep (May Have) Questions to prepare for the real Presentation
 
-scratch
-- **Employee**
-    - employee_id (Primary Key)
-    - name
-    - contact_info
-    - skills
-    - job_title
-    - hire_date
-- **Department**
-    - department_id (Primary Key)
-    - department_name
-    - department_goals
-- **Project**
-    - project_id (Primary Key)
-    - project_name
-    - start_date
-    - end_date
-    - description
-    - status
-
-- **Timekeeping**
-    - attendance_id (Primary Key)
-    - employee_id (Foreign Key)
-    - date
-    - hours_worked
-
-- **Leave**
-    - leave_id (Primary Key)
-    - employee_id (Foreign Key)
-    - start_date
-    - end_date
-    - leave_type
