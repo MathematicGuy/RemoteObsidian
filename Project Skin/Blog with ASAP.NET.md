@@ -1274,27 +1274,136 @@ Link youtube turtorial : how to connect BlogwebMVC
 
 0) Create Roles and give superAdmin all roles permission
 **Create AuthDbModel using IdentityDbContext library**
-> Ensure to select AuthDbContext Db to avoid conflict with BloggieDbContext and bc more than 2 DbContext
+> Select AuthDbContext Db to avoid conflict with BloggieDbContext and bc more than 2 DbContext
 ```cs
     public class AuthDbContext : IdentityDbContext
     {   
         public AuthDbContext(DbContextOptions<AuthDbContext> options) : base(options) {}
 ```
-Next, 
+Next, Create Roles and Add it to Identity Role
 ```cs
+protected override void OnModelCreating(ModelBuilder builder)
+{
+    base.OnModelCreating(builder);
 
+    // Seed Roles (User, Admin, SuperAdmin)
+    var adminRoleId = "73a13894-0991-4aa4-81fa-cc7bd36fe248";
+    var superAdminRoleId = "42d0062d-ff45-4aec-beb8-5f68fc8195a8";
+    var userRoleId = "4499da9c-da78-4aa5-84f4-449857beeb33";
+
+    var roles = new List<IdentityRole>
+    {
+        new IdentityRole
+        {
+            Name="Admin",
+            NormalizedName="Admin",
+            Id = adminRoleId,
+            ConcurrencyStamp = adminRoleId,
+        },
+
+        new IdentityRole
+        {
+            Name="superAdmin",
+            NormalizedName="superAdmin",
+            Id = superAdminRoleId,
+            ConcurrencyStamp = superAdminRoleId,
+        },
+
+        new IdentityRole
+        {
+            Name="User",
+            NormalizedName="User",
+            Id = userRoleId,
+            ConcurrencyStamp = userRoleId,
+        }
+
+    };
+    builder.Entity<IdentityRole>().HasData(roles);
+```
+Finally, create and add all roles to SuperAdmin User
+```cs
+        var superAdminId = "c3675926-f9cf-4afe-9bb9-343750eb1680";
+        // Seed SuperAdmin User
+        var superAdminUser = new IdentityUser
+        {
+            UserName = "superadmin@myblog.com",
+            Email = "superadmin@myblog.com".ToUpper(),
+            NormalizedUserName = "superadmin@myblog.com".ToUpper(),
+            Id = superAdminId,
+        };
+
+        superAdminUser.PasswordHash = new PasswordHasher<IdentityUser>()
+            .HashPassword(superAdminUser, "sukurmom");
+
+        builder.Entity<IdentityUser>().HasData(superAdminUser);
+
+        // Add all roles to SuperAdmin User (Admin, SuperAdmin, User)
+        // IdentityUserRole need a Key of type <string>
+        var superAdminRoles = new List<IdentityUserRole<string>>
+        {
+            new IdentityUserRole<string>
+            {
+                RoleId = adminRoleId,
+                UserId = superAdminId,
+            },
+
+            new IdentityUserRole<string>
+            {
+                RoleId = superAdminRoleId,
+                UserId = superAdminId,
+            },
+
+            new IdentityUserRole<string>
+            {
+                RoleId = userRoleId,
+                UserId = superAdminId,
+            },
+        };
+
+        builder.Entity<IdentityUserRole<string>>().HasData(superAdminRoles);
+    }
+}
 ```
 
-1) Create a new Connection connect to a new unexist Table for Migration and to ensure security
+
+1) Setup AuthDb Connection, Identity Framwork and Migration.    
+Create a new Connection connect to a new unexist Table for Migration and to ensure security
 Ex: 
 ```cs
 "BloggieAuthDbConnectionString": "Data Source=macbookM5\\SQLEXPRESS;Initial Catalog=BloggieAuthDb;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False"
 ```
+Get AuthDb Connection string and applied Identity Framework to my Program
+```cs
+// Authentication DbContext
+builder.Services.AddDbContext<AuthDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BloggieAuthDbConnectionString")));
 
-
-
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<AuthDbContext>();
+```
+Set up Sign In password requirement 
+```cs
+builder.Services.Configure<IdentityOptions>(options =>
+{
+    // Default settings password requirements
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireNonAlphanumeric = true;
+    options.Password.RequireUppercase = true;
+    options.Password.RequiredLength = 6; // at least 6 chars
+    options.Password.RequiredUniqueChars = 1; 
+});
+```
+Then Call Authy and Autho functions
+```cs
+// Allow to use Authentication
+app.UseAuthentication();
+app.UseAuthorization();
+```
 Authentication -> able to use certain of features or not
-Migration
+
+Setting finished, Let Migration using Add-Migrate and Update-Database command. 
++ ! Add name and -Context when Add-Migrate and Update-Database
 ![[Pasted image 20240406132542.png]]
 + Update-Database -Context "AuthDbContext" (result img below)
 	![[Pasted image 20240408084404.png]]
@@ -1430,3 +1539,192 @@ Secondly, we create AccountController.cs and create Sign In, Log In page along w
 	}
 }
 ```
+
+
+4) Create ViewModel and View
+Create ViewModels to create communication between View and Controllers. 
+Login
+```cs
+ public class LoginViewModel
+ {
+	  public string UserName { get; set; }
+	  public string Password { get; set; }
+ }
+```
+Register
+```cs
+ public class RegisterViewModel
+ {
+	  // 3 info: user, email, password
+	  public string UserName { get; set; }
+	  public string Email { get; set; }
+	  public string Password { get; set; }
+ }
+```
+
+
+Login Page
+```cs
+@model MyBlog.Web.Models.ViewModels.LoginViewModel
+
+<link rel="stylesheet" href="~/css/login.css" asp-append-version="true"/>
+<script src="https://kit.fontawesome.com/122dcd2f11.js" crossorigin="anonymous"></script>
+
+<section class="vh-100">
+    <div class="container py-5 h-100">
+        <div class="row d-flex align-items-center justify-content-center h-100">
+            <div class="col-md-8 col-lg-7 col-xl-6">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
+                     class="img-fluid" alt="Phone image">
+            </div>
+
+            <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
+                <form method="post" class="justify-content-center">
+                    <!-- Email input -->
+                    <div class="form-outline mb-4">
+                        <label class="form-label" for="form1Example13">User Name</label>
+                        <input type="text" id="username" class="form-control" asp-for="UserName" />
+                    </div>
+
+                    <!-- Password input -->
+                    <div class="form-outline mb-4">
+                        <label class="form-label" for="form1Example23">Password</label>
+                        <input type="password" id="password" class="form-control" asp-for="Password" />
+
+                    </div>
+
+                    <div class="d-flex justify-content-around align-items-center mb-4">
+                        <!-- Checkbox -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="form1Example3" checked />
+                            <label class="form-check-label" for="form1Example3"> Remember me </label>
+                        </div>
+                        <a href="#!">Forgot password?</a>
+                    </div>
+
+                    <!-- Submit button -->
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary btn-lg btn-block" 
+                        asp-area=""
+                        asp-controller="Account"
+                        asp-action="Login">Login</button>
+                    </div>
+
+                    <div class="divider d-flex align-items-center my-4">
+                        <p class="text-center fw-bold mx-3 mb-0 text-muted">OR</p>
+                    </div>
+
+                    <div class="d-flex flex-row align-items-center justify-content-lg-center">
+                        <button type="button" class="btn btn-primary btn-floating mx-1 px-3">
+                            <i class="fab fa-facebook-f"></i>
+                        </button>
+
+                        <button type="button" class="btn btn-primary btn-floating mx-1">
+                            <i class="fab fa-twitter"></i>
+                        </button>
+
+                        <button type="button" class="btn btn-primary btn-floating mx-1">
+                            <i class="fa-brands fa-github"></i>
+                        </button>
+                    </div>
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+```
+
+Register Page
+```cs
+@model MyBlog.Web.Models.ViewModels.LoginViewModel
+
+
+@{
+}
+
+<link rel="stylesheet" href="~/css/login.css" asp-append-version="true"/>
+<script src="https://kit.fontawesome.com/122dcd2f11.js" crossorigin="anonymous"></script>
+
+<section class="vh-100">
+    <div class="container py-5 h-100">
+        <div class="row d-flex align-items-center justify-content-center h-100">
+            <div class="col-md-8 col-lg-7 col-xl-6">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
+                     class="img-fluid" alt="Phone image">
+            </div>
+
+            <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
+                <form method="post" class="justify-content-center">
+                    <!-- Email input -->
+                    <div class="form-outline mb-4">
+                        <label class="form-label" for="form1Example13">User Name</label>
+                        <input type="text" id="username" class="form-control" asp-for="UserName" />
+                    </div>
+
+                    <!-- Password input -->
+                    <div class="form-outline mb-4">
+                        <label class="form-label" for="form1Example23">Password</label>
+                        <input type="password" id="password" class="form-control" asp-for="Password" />
+
+                    </div>
+
+                    <div class="d-flex justify-content-around align-items-center mb-4">
+                        <!-- Checkbox -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="form1Example3" checked />
+                            <label class="form-check-label" for="form1Example3"> Remember me </label>
+                        </div>
+                        <a href="#!">Forgot password?</a>
+                    </div>
+
+                    <!-- Submit button -->
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary btn-lg btn-block" 
+                        asp-area=""
+                        asp-controller="Account"
+                        asp-action="Login">Login</button>
+                    </div>
+
+                    <div class="divider d-flex align-items-center my-4">
+                        <p class="text-center fw-bold mx-3 mb-0 text-muted">OR</p>
+                    </div>
+
+                    <div class="d-flex flex-row align-items-center justify-content-lg-center">
+                        <button type="button" class="btn btn-primary btn-floating mx-1 px-3">
+                            <i class="fab fa-facebook-f"></i>
+                        </button>
+
+                        <button type="button" class="btn btn-primary btn-floating mx-1">
+                            <i class="fab fa-twitter"></i>
+                        </button>
+
+                        <button type="button" class="btn btn-primary btn-floating mx-1">
+                            <i class="fa-brands fa-github"></i>
+                        </button>
+                    </div>
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+```
+
+
+#### Authorization
+> The process of determining whether a user has access to a particular functionality.
++ Allow user to access to some special pages or not
+![[Pasted image 20240408095721.png]]
+Add [Authorize] to AdminTagsController 
+```cs
+[Authorize (Roles = "Admin")]
+[HttpGet]
+public IActionResult Add()
+{
+	return View();
+}
+```
+
+Authorize User's Role 
+![[Pasted image 20240408100756.png]]
