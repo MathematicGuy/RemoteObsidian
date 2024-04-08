@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf60a15b49f455c9",
+        "id": "d01ba928d52c1f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d4959c34d7580e",
+            "id": "c13f0d44191cfcb1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "29a6680d27ef3da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog with ASAP.NET.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog with ASAP.NET.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,14 +189,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "29a6680d27ef3da2",
+  "active": "c13f0d44191cfcb1",
   "lastOpenFiles": [
+    "Blog with ASAP.NET.md",
+    "Images/Pasted image 20240408110313.png",
     "Images/Pasted image 20240408100756.png",
     "Images/Pasted image 20240408095721.png",
     "Images/Pasted image 20240408084404.png",
     "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
-    "Blog with ASAP.NET.md",
     "SAD Project.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "SDA HW1.md",
@@ -231,8 +218,6 @@
     "Images/Pasted image 20240405144704.png",
     "Images/Pasted image 20240405143531.png",
     "Images/Pasted image 20240405143420.png",
-    "Images/Pasted image 20240405080249.png",
-    "Images/Pasted image 20240405080200.png",
     "Week 2 - The Practices of Individual Leadership.md",
     "Personal/Leadership/Leadership.md",
     "Non Relational SQL.md",

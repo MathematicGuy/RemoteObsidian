@@ -1728,3 +1728,8 @@ public IActionResult Add()
 
 Authorize User's Role 
 ![[Pasted image 20240408100756.png]]
+
+
+### Adding Like and Comment Function
+![[Pasted image 20240408110313.png]]
+
