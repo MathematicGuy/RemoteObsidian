@@ -20,8 +20,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "358b2f1e150e74ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1W2_Assignment_2024_03_28_01_48_45.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87a2b49f9584d8c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "Note.md"
               }
             }
           },
@@ -162,10 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "398e0fd66f39ca06",
+  "active": "87a2b49f9584d8c6",
   "lastOpenFiles": [
-    "AI Quizz.md",
+    "C1W2_Assignment_2024_03_28_01_48_45.md",
+    "Mathematic  for Machine Learning.md",
+    "Note.md",
+    "Mathematic for Machine Learning - Assignment.md",
     "Machine Learning.md",
+    "Image/Pasted image 20240408194554.png",
+    "Linear Algebra.md",
+    "AI Quizz.md",
     "Image/Pasted image 20240403222715.png",
     "Image/Pasted image 20240403222703.png",
     "AI Intro and Definition.md",
@@ -180,26 +211,21 @@
     "My AI Project.md",
     "Potential Question.md",
     "Essence of linear algebra.md",
-    "Mathematic  for Machine Learning.md",
     "Image/Pasted image 20240328141835.png",
     "Image/Pasted image 20240328140212.png",
     "Image/Pasted image 20240328135451.png",
     "Image/Pasted image 20240328135251.png",
     "Image/Pasted image 20240328135153.png",
     "Image/Pasted image 20240328134513.png",
-    "Linear Algebra.md",
     "Linear system as Matrix using Numpy.md",
     "K-Means from Scratch.md",
     "CMC AI INTRO.md",
     "CMC Machine Learning Algorithm.md",
     "Image/Pasted image 20240320133314.png",
-    "Image/Pasted image 20240320133308.png",
-    "Mathematic for Machine Learning - Assignment.md",
     "Anaconda Command.md",
     "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
     "Setup Anaconda Guide.md",
     "Anaconda.md",
-    "Machine Learning Problems.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

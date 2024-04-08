@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05d879ccc3fa2f01",
+        "id": "5bfb3fa4524de650",
         "type": "tabs",
         "children": [
           {
-            "id": "e5573418ea75da67",
+            "id": "07f4680db96b4095",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9c0d9b5d1555a579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAD Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,13 +189,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9c0d9b5d1555a579",
+  "active": "07f4680db96b4095",
   "lastOpenFiles": [
+    "Blog with ASAP.NET.md",
+    "SAD Project.md",
+    "MongoDB.md",
+    "NoSQL.md",
     "System Administration Database.md",
     "Todo.md",
     "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
-    "SAD Project.md",
-    "Blog with ASAP.NET.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240408110313.png",
     "Images/Pasted image 20240408100756.png",
@@ -225,8 +213,6 @@
     "Images/Pasted image 20240406132542.png",
     "Leadership.md",
     "LeaderDiary.md",
-    "MongoDB.md",
-    "NoSQL.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Cyber Security Project.md",
     "RSA Algorithm.md",
