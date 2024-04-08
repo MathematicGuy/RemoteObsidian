@@ -1516,15 +1516,18 @@ Secondly, we create AccountController.cs and create Sign In, Log In page along w
 	  {
 	
 			// check if the input password is the same as the password in Db
-			var signInResult = await signInManager.PasswordSignInAsync(
-				 loginViewModel.UserName, loginViewModel.Password, false, false);
+          if (loginViewModel.UserName != null && loginViewModel.Password != null)
+          {
+              var signInResult = await signInManager.PasswordSignInAsync(
+                  loginViewModel.UserName, loginViewModel.Password, false, false);
+
 	
-			if (signInResult != null && signInResult.Succeeded)
-			{
-				 // Show success notification
-				 return RedirectToAction("Index", "Home"); 
-			}   
-	
+				if (signInResult != null && signInResult.Succeeded)
+				{
+					 // Show success notification
+					 return RedirectToAction("Index", "Home"); 
+				}   
+			}
 			// Show error notification
 			return View();
 	  }
@@ -1639,9 +1642,7 @@ Register Page
 ```cs
 @model MyBlog.Web.Models.ViewModels.LoginViewModel
 
-
-@{
-}
+@{}
 
 <link rel="stylesheet" href="~/css/login.css" asp-append-version="true"/>
 <script src="https://kit.fontawesome.com/122dcd2f11.js" crossorigin="anonymous"></script>
@@ -1716,7 +1717,7 @@ Register Page
 > The process of determining whether a user has access to a particular functionality.
 + Allow user to access to some special pages or not
 ![[Pasted image 20240408095721.png]]
-Add [Authorize] to AdminTagsController 
+Add [Authorize] to limit the Action only to user with Admin Roles.
 ```cs
 [Authorize (Roles = "Admin")]
 [HttpGet]
@@ -1725,9 +1726,88 @@ public IActionResult Add()
 	return View();
 }
 ```
+Add [Authorize] to limit the Controller (Controller's Actions) only to user with Admin Roles.
+```cs
+[Authorize (Roles = "Admin")]
+public class AdminTagsController : Controller {}
+
+[Authorize(Roles = "Admin")]
+public class AdminBlogPostsController : Controller {}
+```
+
+**Inside AccountController add AccessDenied View** to inform user who trying to login any Admin page without permission
+```cs
+[HttpGet]
+public IActionResult AccessDenied()
+{
+	return View();
+}
+```
+AccessDenied Page
+```html
+<div class="container my-5">
+    <h2> You not the Admin, Why are you Here? You Get... </h2>
+    <img src="~/img/person-get-fuckin-deserve-love.png" class="d-block img-fluid mb-3" />
+</div>
+```
+
+**Redirect Admin User to AddTag Page** (improve UX experience)
++ First, add ReturnUrl property to LoginViewModel
++ Second, Add a input to get user searched Url 
+```html
+<!-- ReturnUrl save the Url Admin trying access -->
+<!-- for this Url: https://localhost:7210/AdminTags/Add   
+		 AdminTags/Add will be save to ReturnUrl -->
+<input type="hidden" asp-for="ReturnUrl" />
+```
+
+ >Redirect User to ReturnUrl Page
+```cs
+[HttpGet]
+public IActionResult Login(string ReturnUrl)
+{
+	// Create ReturnUrl to redirect user to the page they were trying to access
+	// Ex: https://localhost:7210/AdminTags/Add -> /AdminTags/Add
+	var model = new LoginViewModel
+	{
+		 ReturnUrl = ReturnUrl,
+	};
+	return View(model);   
+}
+	  
+[HttpPost]
+public async Task<IActionResult> Login(LoginViewModel loginViewModel)
+{
+  // check if the input password is the same as the password in Db
+  if (loginViewModel.UserName != null && loginViewModel.Password != null)
+  {
+		var signInResult = await signInManager.PasswordSignInAsync(
+			 loginViewModel.UserName, loginViewModel.Password, false, false);
+
+
+		if (signInResult != null && signInResult.Succeeded)
+		{
+			 if (!string.IsNullOrWhiteSpace(loginViewModel.ReturnUrl))
+			 {
+				  return Redirect(loginViewModel.ReturnUrl);
+			 }
+
+			 // Show success notification
+			 return RedirectToAction("Index", "Home");
+		}
+  }
+
+  // Show error notification
+  return View();
+}
+```
+
+
 
 Authorize User's Role 
 ![[Pasted image 20240408100756.png]]
+
+
 
 
 ### Adding Like and Comment Function

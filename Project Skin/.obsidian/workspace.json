@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "362d06d191749340",
+        "id": "05d879ccc3fa2f01",
         "type": "tabs",
         "children": [
           {
-            "id": "da7f21b772e65d7e",
+            "id": "bc427575331c8dbd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,10 +189,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "da7f21b772e65d7e",
+  "active": "bc427575331c8dbd",
   "lastOpenFiles": [
-    "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
     "Todo.md",
+    "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
     "SAD Project.md",
     "Blog with ASAP.NET.md",
     "Personal/Language Learning/German Vocabulary.md",
@@ -218,7 +218,6 @@
     "RSA Algorithm.md",
     "Images/Pasted image 20240405144704.png",
     "Images/Pasted image 20240405143531.png",
-    "Images/Pasted image 20240405143420.png",
     "Week 2 - The Practices of Individual Leadership.md",
     "Personal/Leadership/Leadership.md",
     "Non Relational SQL.md",
