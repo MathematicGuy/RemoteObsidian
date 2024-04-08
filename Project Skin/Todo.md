@@ -10,15 +10,18 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #Todo/GoalsThisWeek
+THING I WANT TO ACHIEVE THIS WEEK
++ [ ] Get Moving with my Math AI Course
++ [ ] Blog Web App (User Management)
++ [ ] Database Usecase (Finish This First)
++ [ ] Basic Create, Insert, Delete Procedure
 
-THING I WANT TO ACHIEVE THIS WEEKEND
-+ [ ] The Math AI Course
-+ [ ] Blog Web App (I should Finish this Tonigh)
-+ [ ] Database Features Sketch (Finish This First)
-+ [ ] Basic Insert, Delete Procedure
+Next Week
++ [ ] Advanced Create, Insert, Delete 
+
 
 #Todo/GoalsThisMonth
-
+- [ ] Try not to Argue with my self on doing This and That. Focus on how to enjoy and make the Best of what I got. Not Self Blamming.
 
 
 #Todo/Later
@@ -74,3 +77,5 @@ THING I WANT TO ACHIEVE THIS WEEKEND
 - [ ] Tuck hold
 - [ ] Psudo Planche
 
+Luck
+![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
