@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Project Management.md",
+                "file": "IT_PM My Project Requirement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Project Management.md",
+                "file": "IT_PM My Project Requirement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Project Management.md",
+                "file": "IT_PM My Project Requirement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Project Management.md"
+                "file": "IT_PM My Project Requirement.md"
               }
             }
           },
@@ -205,6 +205,13 @@
   },
   "active": "242e20b38b011aa4",
   "lastOpenFiles": [
+    "IT Project Management.md",
+    "IT_PM My Project Requirement.md",
+    "IT_PM My Project.md",
+    "IT_PM Project LifeCycle.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Images/SWOT_en.svg.png",
+    "Images/swot_analysis_example.png",
     "Todo.md",
     "Blog with ASAP.NET.md",
     "SAD Project.md",
@@ -212,7 +219,6 @@
     "NoSQL.md",
     "System Administration Database.md",
     "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
-    "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240408110313.png",
     "Images/Pasted image 20240408100756.png",
     "Images/Pasted image 20240408095721.png",
@@ -230,17 +236,12 @@
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Cyber Security Project.md",
     "RSA Algorithm.md",
-    "Images/Pasted image 20240405144704.png",
-    "Images/Pasted image 20240405143531.png",
     "Week 2 - The Practices of Individual Leadership.md",
     "Personal/Leadership/Leadership.md",
     "Non Relational SQL.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Week 1 - The Leadership Challenge.md",
     "Personal/Leadership",
-    "Personal/Language Learning/Language Learning.md",
-    "_Focus.md",
-    "Seven W's.md",
     "Spaces",
     "Images/ApplicationDbContext.cs",
     "introduction-to-postman-course-main",

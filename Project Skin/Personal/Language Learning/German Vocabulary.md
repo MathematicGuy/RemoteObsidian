@@ -1371,6 +1371,7 @@ März
 Siebten - seventh
 
 die Einladung - the invitation
+	Die Einladung ist für meinen Sohn
 Zur - to the
 	Muss ich zur Party kommen?
 Auf jeden Fall - definitly
@@ -1502,3 +1503,5 @@ Hast du - is your / do you have
 Leise - quite
 Nichts - nothing (from nitch - not)
 Klassenzimmer - classroom
+
+Hat deine Mutter am Zehnten Juli Geburtstag

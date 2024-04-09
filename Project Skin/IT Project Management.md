@@ -7,6 +7,8 @@ sticker: emoji//1f935
 
 [[IT_PM My Project]]
 
+[[IT_PM My Project Requirement]]
+
 [[Project Management Tutorial - 11 Years of Experience in 45 Minutes]]
 
 [[Making of Gannt Chart]]
@@ -20,3 +22,19 @@ sticker: emoji//1f935
 2) Nâng lực đội ngũ ko ok
 3) Quy Trình
 4) Sở hữu trí huệ -> chống đội Dev cướp.
+
+**SWOT** (Strengths, Weaknesses, Opportunities and Threats)
+![[swot_analysis_example.png]]
+Ex: Cty Caffee
+**S** - money, position, 
+**W** - what can't do than others
+**O** - What advantages do we have
+**T** - many competitor 
+
+Nokia - đánh giá sai thị trg. (reject Android) 
+**Quản Lý Rủi Ro**
++ Tránh 
++ Chấp nhận
++ Thuyên Chuyển, CHuyển giao rủi ro cho bên 3rd
++ Giảm nhẹ rủi ro
+
