@@ -13,7 +13,10 @@ sticker: emoji//1f935
 
 [[Man]]
 
-
-
 [[Chap IV - IT project Cost management]]
 [[Chapter V - IT Project HR Management]]
+
+1) Scope ko ro -> Client/BA
+2) Nâng lực đội ngũ ko ok
+3) Quy Trình
+4) Sở hữu trí huệ -> chống đội Dev cướp.

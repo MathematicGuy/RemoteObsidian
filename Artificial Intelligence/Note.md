@@ -1,3 +1,18 @@
+**Step 1: Represent as Matrices**
+
+- **Coefficient Matrix (A):**
+```python
+	[[ 1,  2, -1],
+	 [ 2, -1,  3],
+	 [ 3,  1,  1]]
+```
+
+- **Constant Matrix (B):**
+```python
+    [[5],
+     [3],
+     [8]]
+```
 
 + ! Non-zero from Column
 ```python
@@ -12,7 +27,7 @@ def get_index_first_non_zero_value_from_column(M, column, starting_row):
 
     Returns:
     int or False: The index of the first non-zero value in the specified column, starting from the given row.
-                Returns False if no non-zero value is found.
+	Returns False if no non-zero value is found.
     """
     # Get the column array starting from the specified row
     column_array = M[starting_row:,column]
@@ -41,9 +56,11 @@ print(get_index_first_non_zero_value_from_column(N, column = -1, starting_row = 
 > -> Scan column 4 starting from row 2. From top to bottom and we found 7 at index 3 is non-zero. So return 3.
 
 
+
+
 + ! Non-zero from Row
 ```python
-def get_index_first_non_zero_value_from_row(M, row, augmented = False):
+	def get_index_first_non_zero_value_from_row(M, row, augmented = False):
     """
 	Find the index of the first non-zero value in the specified row of the given matrix.
 	
@@ -113,5 +130,21 @@ def augmented_matrix(A, B):
     augmented_M = np.hstack((A,B))
     return augmented_M
 ```
-**Exercise 1:** If they equate to 0, an attempt to swap rows should be made to obtain a non-zero value.
+**Back Substitution**
+get M
+for (i in reverse(range(num_rows))):
+	find the pivot of the last row
+	find the number above it.
+	R[n-1] = R[n-1] - R[n] * pivot
+
+```python
+M = 
+[[1. 2. 3. 1.]
+ [0. 1. 0. 5.]
+ [0. 0. 5. 4.]]
+```
+![[Pasted image 20240409080353.png]]
+
+![[Pasted image 20240409075549.png]]
+
 
