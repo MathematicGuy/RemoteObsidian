@@ -1,17 +1,26 @@
+
+To Begin I will divided this into 2 part:
++ **The Algorithm as a Whole** and **Algorithm Code Implementation**
+
+# The Algorithm as a Whole
+
+
+
+
 **Step 1: Represent as Matrices**
 
 - **Coefficient Matrix (A):**
 ```python
-	[[ 1,  2, -1],
-	 [ 2, -1,  3],
-	 [ 3,  1,  1]]
+[[ 1,  2, -1],
+ [ 2, -1,  3],
+ [ 3,  1,  1]]
 ```
 
 - **Constant Matrix (B):**
 ```python
-    [[5],
-     [3],
-     [8]]
+[[5],
+ [3],
+ [8]]
 ```
 
 + ! Non-zero from Column
@@ -130,6 +139,7 @@ def augmented_matrix(A, B):
     augmented_M = np.hstack((A,B))
     return augmented_M
 ```
+
 **Back Substitution**
 get M
 for (i in reverse(range(num_rows))):

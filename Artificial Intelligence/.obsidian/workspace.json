@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "358b2f1e150e74ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1W2_Assignment_2024_03_28_01_48_45.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87a2b49f9584d8c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "Gaussian Elimination Self Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note.md",
+                "file": "Gaussian Elimination Self Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note.md",
+                "file": "Gaussian Elimination Self Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note.md"
+                "file": "Gaussian Elimination Self Note.md"
               }
             }
           },
@@ -189,13 +177,14 @@
   },
   "active": "87a2b49f9584d8c6",
   "lastOpenFiles": [
+    "GaussianElimination_Assignment.md",
+    "Gaussian Elimination Self Note.md",
+    "Machine Learning.md",
+    "C1W2_Assignment_2024_03_28_01_48_45.md",
     "Image/Pasted image 20240409080353.png",
     "Image/Pasted image 20240409075549.png",
-    "C1W2_Assignment_2024_03_28_01_48_45.md",
-    "Note.md",
     "Mathematic  for Machine Learning.md",
     "Mathematic for Machine Learning - Assignment.md",
-    "Machine Learning.md",
     "Image/Pasted image 20240408194554.png",
     "Linear Algebra.md",
     "AI Quizz.md",
@@ -218,7 +207,6 @@
     "Image/Pasted image 20240328135451.png",
     "Image/Pasted image 20240328135251.png",
     "Image/Pasted image 20240328135153.png",
-    "Image/Pasted image 20240328134513.png",
     "Linear system as Matrix using Numpy.md",
     "K-Means from Scratch.md",
     "CMC AI INTRO.md",

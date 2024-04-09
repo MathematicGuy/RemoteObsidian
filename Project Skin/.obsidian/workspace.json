@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e1a9d0e23ef580",
+        "id": "1477c3751d2be418",
         "type": "tabs",
         "children": [
           {
-            "id": "5f4618ac539d0933",
+            "id": "93f68fb6c8299411",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "245af790a354017d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +194,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5f4618ac539d0933",
+  "active": "245af790a354017d",
   "lastOpenFiles": [
+    "Todo.md",
     "IT Project Management.md",
     "IT_PM My Project Requirement.md",
     "IT_PM My Project.md",
@@ -198,7 +204,6 @@
     "Personal/Language Learning/German Vocabulary.md",
     "Images/SWOT_en.svg.png",
     "Images/swot_analysis_example.png",
-    "Todo.md",
     "Blog with ASAP.NET.md",
     "SAD Project.md",
     "MongoDB.md",
