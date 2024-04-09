@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bfb3fa4524de650",
+        "id": "f8e1a9d0e23ef580",
         "type": "tabs",
         "children": [
           {
-            "id": "07f4680db96b4095",
+            "id": "5f4618ac539d0933",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "242e20b38b011aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM My Project Requirement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM My Project Requirement.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM My Project Requirement.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM My Project Requirement.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "242e20b38b011aa4",
+  "active": "5f4618ac539d0933",
   "lastOpenFiles": [
     "IT Project Management.md",
     "IT_PM My Project Requirement.md",
