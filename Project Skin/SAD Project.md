@@ -165,7 +165,8 @@ permission_name
 #### Connection Table
 
 **Employee Skills**
-
+employee_id; PK, FK1
+skill id ; PK, FK2
 
 **Team Allocation**
 

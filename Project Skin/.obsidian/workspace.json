@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "328bf5cc83238977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackEnd/DB_HW5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/DB_HW5.md",
+                "file": "SAD Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/DB_HW5.md",
+                "file": "SAD Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/DB_HW5.md"
+                "file": "SAD Project.md"
               }
             }
           },
@@ -216,8 +203,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "328bf5cc83238977",
+  "active": "ffe438a80cafc316",
   "lastOpenFiles": [
+    "BackEnd/DB_HW5.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "SAD Project.md",
     "Todo.md",
@@ -253,7 +241,6 @@
     "Week 2 - The Practices of Individual Leadership.md",
     "Personal/Leadership/Leadership.md",
     "Non Relational SQL.md",
-    "Week 1 - The Leadership Challenge.md",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
