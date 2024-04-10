@@ -204,3 +204,32 @@ db.coll.totalSize()
 db.coll.validate({full: true})
 db.coll.renameCollection("new_coll", true) // 2nd parameter to drop the target collection if exists
 ```
+
+
+> Limit displaz atribute of movies to 2
+```js
+db.actors.find({},{name: 1, movies: {$slice:2}, _id: 0})
+```
+
+
+Axios for MongoDb
+```js
+const axios = require("axios");
+
+async function getMoviePoster(url){
+    const {data} = await axios.get(url)
+    return data.Poster;
+};
+
+use("sample_mflix");
+
+(async () => {
+    for (const movie of movies){
+        const title = movie.title;
+        const url = `https://www.omdapi.com/?t=${title}&apikey=${API_KEY}`;
+        const moviePoster = await getMoviePoster(url); 
+        db.movies.updateOne({ _id:movie_id }, { $set: { poster: moviePoster}});
+    }
+})();
+```
+

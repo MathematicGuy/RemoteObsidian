@@ -23,11 +23,29 @@
             }
           },
           {
-            "id": "caa9c28410022e12",
+            "id": "c2a3869c7efcc0ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SDA NoSQL HW1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f94c569fd1c719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SDA NoSQL HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SDA NoSQL HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SDA NoSQL HW1.md"
               }
             }
           },
@@ -198,14 +216,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "caa9c28410022e12",
+  "active": "c2a3869c7efcc0ea",
   "lastOpenFiles": [
-    "SAD Project.md",
     "Todo.md",
     "MongoDB.md",
     "SDA NoSQL HW1.md",
     "NoSQL.md",
     "System Administration Database.md",
+    "SAD Project.md",
     "BackEnd/DB_HW5.md",
     "_Focus/SQL & DataBase/DataBase.md",
     "Personal/Language Learning/German Vocabulary.md",
