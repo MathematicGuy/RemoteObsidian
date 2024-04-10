@@ -1384,9 +1384,11 @@ Anna und Maria, möchtet ihr ins Restaurant gehen?
 
 Geschenk gift
 	Kannst du morgen ein Geschenk kaufen
+	Ngan, Hier ist ein Geschenk für deinen Geburtstag
 Könnt can
 	Könnt Ihr - can you guy (plural form)
 	Könnst du - can you
+- Hello, freunde Könnst Ihr kommen
 
 Ich bin im Restaurant, kommt ihr, Maria und Duo? - I'm at the restaurant, are you comming Maria and Duo
 Feiere - are celebrating 
@@ -1505,3 +1507,4 @@ Nichts - nothing (from nitch - not)
 Klassenzimmer - classroom
 
 Hat deine Mutter am Zehnten Juli Geburtstag
+

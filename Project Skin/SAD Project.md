@@ -18,11 +18,7 @@ Trang 3 trên 4 thành phần nhóm dự án.
 
 Các tính năng bổ sung có thể được bao gồm là:
 • Quản lý chấm công và nghỉ phép: Theo dõi giờ làm việc,
-vắng mặt và yêu cầu nghỉ phép.
-
-### Document Form
-
-
+vắng mặt và yêu cầu nghỉ phé
 
 
 ### Planning
@@ -72,9 +68,113 @@ Analyze and Articulate
 	+ **Evaluation Process**
 		+ Which factors important the most (Yếu tố quan trọng nhất)
 		+ Trade off (Better This but Worsten That) (Đánh Đổi - có thể đánh đổi cái gì để tối ưu hệ thống) - Như viết nhanh hơn, chấp nhận đọc chậm hơn 
-
-
 5) **Presentation, Questions and Answer**
 + Present on Canvas 
 + Do some Prep (May Have) Questions to prepare for the real Presentation
 
+
+### Document Form
+#### Table
+**Employees**
+id (key)
+first_name
+last_name
+email
+phone_number
+address
+birth date
+hire_date
+job_title
+salary 
+department_id
+manager_id 
+
+**Leave Requests**
+id (key)
+employee_id
+start date
+end date
+reason
+status
+
+**Attendance**
+id (key)
+employee_id
+date
+check_in_time
+check_out_time
+
+**Salary**
+id (key)
+employee_id
+salary_date
+salary_amount
+
+**Departments**
+id (key)
+department_name
+location
+head_of_department
+department_goal
+performance_metrics
+
+**Skills**
+id (key)
+skill_name
+skill_description
+skill_category_id
+
+**Skills Category**
+id (key)
+skill_category_name
+
+**Experience**
+employee_id (key)
+company_name
+previous_role
+year
+skills
+
+**Project**
+id (key)
+project_name
+description
+start_date
+end_date
+project_manager_id
+status
+budget
+client 
+project_goal
+
+**Team**
+id (key)
+team_name
+team_lead_id
+description
+
+**User Roles**
+id (key)
+role_name
+
+**Permissions**
+id (key)
+permission_name 
+
+
+#### Connection Table
+
+**Employee Skills**
+
+
+**Team Allocation**
+
+
+**Project Skills**
+
+
+**Role Permissions**
+
+
+#### Connection
+Employees(id) to Employees(manager_id) - one to many
