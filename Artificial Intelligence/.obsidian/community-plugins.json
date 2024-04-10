@@ -1,8 +1,8 @@
 [
   "obsidian-annotator",
-  "obsidian-mind-map",
   "homepage",
   "obsidian-list-callouts",
   "obsidian-admonition",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "make-md"
 ]

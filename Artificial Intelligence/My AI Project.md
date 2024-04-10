@@ -93,3 +93,26 @@ Ci = {x1, x2, x3, x4,..,xn}
 
 Nêu các phương pháp đánh giá chất lượng của các thuật toán. Và đánh giá kết quả.
 
+Or
+
+**Image Compression using PCA**
+A Web allow to post image and compress them.
++ Docker
++ PCA algorithm
++ ML
+
++ PCA (Principal component analysis) - phân tích thành phần chính
+	đơn giản hóa 1 tập dự liệu lướn thành 1 tập dự liệu nhỏ trong khi vẫn duy trì các mô hình và xu hướng quan trọng.
+
+Mở Bài
++ Đặt vấn đề
++ Nội dung thực hiện
+Thân Bài
++ dữ liệu
++ tiền xử lý dữ liệu -> (phương pháp cơ bản ,ý tưởng cơ bản (SVM), Mạng nơ ron, Học sâu)
++ các mô hình/thuật toán giải quyết
++ đề xuất mô hình
++ thực nghiệm và đánh giá kết quả
+	+ Chọn thực nghiệm với các kịch bản dữ liệu khác nhau.
+	+ Đánh giá KQ: VĐ, NĐ, Đề Xuất
+	+ 

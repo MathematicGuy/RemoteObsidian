@@ -467,6 +467,6 @@ R1 - R3
 	While 1 mean y determine x. Ex: y = 2x
 		And 2 mean infinity solution
 
-### [[Vector Algebra]]
+### [[Week 3 Vector and Linear Transformations]]
 
 

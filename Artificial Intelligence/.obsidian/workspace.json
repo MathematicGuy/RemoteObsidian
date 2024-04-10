@@ -27,14 +27,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md",
+                "file": "My AI Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e8e2410a50bd011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 3 Vector and Linear Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "633d6b8d1ca68bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMC AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,6 +103,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6f7f71b295698544",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -101,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md",
+                "file": "Week 3 Vector and Linear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md",
+                "file": "Week 3 Vector and Linear Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md"
+                "file": "Week 3 Vector and Linear Transformations.md"
               }
             }
           },
@@ -175,52 +207,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b79e0ea961c8917",
+  "active": "4e8e2410a50bd011",
   "lastOpenFiles": [
-    "GaussianElimination_Assignment.md",
-    "Gaussian Elimination from Scratch Documentation.md",
+    "My AI Project.md",
     "Machine Learning.md",
-    "Image/Pasted image 20240409075549.png",
+    "CMC AI.md",
+    "Week 3 Vector and Linear Transformations.md",
+    "Image/Pasted image 20240410150837.png",
+    "Image/Pasted image 20240410150810.png",
+    "Image/Pasted image 20240410150034.png",
+    "Image/Pasted image 20240410150250.png",
+    "Mathematics for AI/Mathematics for AI.md",
+    "Mathematics for AI",
     "Mathematic  for Machine Learning.md",
+    "My AI Skills.md",
+    "Image/Pasted image 20240410141913.png",
+    "Image/Pasted image 20240410141330.png",
+    "Personal/Personal.md",
+    "Personal",
+    "Spaces",
+    "Gaussian Elimination from Scratch Documentation.md",
+    "GaussianElimination_Assignment.md",
+    "Image/Pasted image 20240409075549.png",
     "Image/Pasted image 20240409080353.png",
     "A work example of Back-Substitution.md",
     "A worked example of Row Echelon.md",
     "Image/Pasted image 20240409214127.png",
     "Image/Pasted image 20240409214020.png",
-    "Image/Pasted image 20240409213944.png",
-    "Image/Pasted image 20240409214114.png",
-    "Image/Pasted image 20240409214110.png",
     "C1W2_Assignment_2024_03_28_01_48_45.md",
     "Mathematic for Machine Learning - Assignment.md",
-    "Image/Pasted image 20240408194554.png",
     "Linear Algebra.md",
     "AI Quizz.md",
-    "Image/Pasted image 20240403222715.png",
-    "Image/Pasted image 20240403222703.png",
     "AI Intro and Definition.md",
     "Application of Matrix.md",
     "CMC - Neural Network & Deep Learning.md",
-    "CMC AI.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
-    "Vector Algebra.md",
     "Machine Learning Algorithm.md",
     "Beautiful of Math.md",
     "What I need to learn for Emotion Detector Project.md",
-    "My AI Project.md",
     "Potential Question.md",
     "Essence of linear algebra.md",
     "Linear system as Matrix using Numpy.md",
-    "K-Means from Scratch.md",
-    "CMC AI INTRO.md",
-    "CMC Machine Learning Algorithm.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/1802.01528.pdf",
     "book/Unconfirmed 721386.crdownload",
-    "Training/inference time",
-    "Training",
-    "Image"
+    "Training/inference time"
   ]
 }
