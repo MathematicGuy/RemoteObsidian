@@ -10,6 +10,7 @@ Non Relational SQL
 [[SDA HW2]]
 [[Practice Procedure and Trigger]]
 [[SAD Project]]
+[[SDA NoSQL HW1]]
 
 note: bài có thể vào: thiết kế DB, tối_ưu/chuẩn_hóa DB, giải thích các câu 
 truy vấn. 

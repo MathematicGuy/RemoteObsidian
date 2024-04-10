@@ -2,7 +2,7 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-#Todo/Priority
+ff f#Todo/Priority
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 - [ ] Challenge: Push myself to the limit and learn ASAP.NET by building my dream blog. Then try to finish the project myself -> Duplicate the website -> 1 for this final semester Projetct and 1 for my own blog (posting mein stuff)
 - [ ] Is there a Service that help me to auto-complete my own word/sentence (there is in Macbook but is there in Windown 11)

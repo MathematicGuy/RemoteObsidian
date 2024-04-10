@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "50a5f40c0fcf3f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAD Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SAD Project.md"
               }
             }
           },
@@ -189,13 +203,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26188e2e03995a18",
+  "active": "50a5f40c0fcf3f6b",
   "lastOpenFiles": [
+    "Todo.md",
+    "MongoDB.md",
+    "SDA NoSQL HW1.md",
+    "SAD Project.md",
+    "NoSQL.md",
+    "System Administration Database.md",
     "BackEnd/DB_HW5.md",
     "_Focus/SQL & DataBase/DataBase.md",
-    "SAD Project.md",
-    "Todo.md",
-    "System Administration Database.md",
     "Personal/Language Learning/German Vocabulary.md",
     "IT Project Management.md",
     "IT_PM My Project Requirement.md",
@@ -204,8 +221,6 @@
     "Images/SWOT_en.svg.png",
     "Images/swot_analysis_example.png",
     "Blog with ASAP.NET.md",
-    "MongoDB.md",
-    "NoSQL.md",
     "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
     "Images/Pasted image 20240408110313.png",
     "Images/Pasted image 20240408100756.png",
@@ -226,7 +241,6 @@
     "RSA Algorithm.md",
     "Week 2 - The Practices of Individual Leadership.md",
     "Personal/Leadership/Leadership.md",
-    "Non Relational SQL.md",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
