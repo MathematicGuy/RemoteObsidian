@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1477c3751d2be418",
+        "id": "150b02a058398df1",
         "type": "tabs",
         "children": [
           {
-            "id": "93f68fb6c8299411",
+            "id": "0cb282c8551ab055",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "245af790a354017d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -194,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "245af790a354017d",
+  "active": "0cb282c8551ab055",
   "lastOpenFiles": [
     "Todo.md",
     "IT Project Management.md",

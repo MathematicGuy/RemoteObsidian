@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "87a2b49f9584d8c6",
+            "id": "4b79e0ea961c8917",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian Elimination Self Note.md",
+                "file": "Gaussian Elimination from Scratch Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Elimination Self Note.md",
+                "file": "Gaussian Elimination from Scratch Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian Elimination Self Note.md",
+                "file": "Gaussian Elimination from Scratch Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian Elimination Self Note.md"
+                "file": "Gaussian Elimination from Scratch Documentation.md"
               }
             }
           },
@@ -175,15 +175,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87a2b49f9584d8c6",
+  "active": "4b79e0ea961c8917",
   "lastOpenFiles": [
     "GaussianElimination_Assignment.md",
-    "Gaussian Elimination Self Note.md",
+    "Gaussian Elimination from Scratch Documentation.md",
     "Machine Learning.md",
-    "C1W2_Assignment_2024_03_28_01_48_45.md",
-    "Image/Pasted image 20240409080353.png",
     "Image/Pasted image 20240409075549.png",
     "Mathematic  for Machine Learning.md",
+    "Image/Pasted image 20240409080353.png",
+    "A work example of Back-Substitution.md",
+    "A worked example of Row Echelon.md",
+    "Image/Pasted image 20240409214127.png",
+    "Image/Pasted image 20240409214020.png",
+    "Image/Pasted image 20240409213944.png",
+    "Image/Pasted image 20240409214114.png",
+    "Image/Pasted image 20240409214110.png",
+    "C1W2_Assignment_2024_03_28_01_48_45.md",
     "Mathematic for Machine Learning - Assignment.md",
     "Image/Pasted image 20240408194554.png",
     "Linear Algebra.md",
@@ -202,18 +209,10 @@
     "My AI Project.md",
     "Potential Question.md",
     "Essence of linear algebra.md",
-    "Image/Pasted image 20240328141835.png",
-    "Image/Pasted image 20240328140212.png",
-    "Image/Pasted image 20240328135451.png",
-    "Image/Pasted image 20240328135251.png",
-    "Image/Pasted image 20240328135153.png",
     "Linear system as Matrix using Numpy.md",
     "K-Means from Scratch.md",
     "CMC AI INTRO.md",
     "CMC Machine Learning Algorithm.md",
-    "Anaconda Command.md",
-    "what does it mean to say - The solution for this system has 0 degrees of freedom..md",
-    "Setup Anaconda Guide.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Untitled",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

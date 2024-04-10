@@ -8,7 +8,7 @@ Linear algebra is fundamental to machine learning, serving as the basis for nume
 ## Why should you care?
 
 - **Foundational Skills**: Strengthen your understanding of key linear algebra concepts.
-- **Programming Practice**: Enhance your coding skills by implementing a classical mathematical algorithm.
+- **Programming Practice**: Enhance your coding skills by implementing a classical mathematical algorithm.**
 - **Historical Significance**: Gaussian elimination, though not the most cutting-edge method today, is historically significant and provides a solid starting point for understanding the evolution of linear algebra techniques.
 
 
