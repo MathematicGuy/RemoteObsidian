@@ -26,12 +26,30 @@
             "id": "4340255429983e76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web MVC Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b7445315d00738f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web MVC Exam Requirement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web MVC Exam Requirement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web MVC Exam Requirement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web MVC Exam Requirement.md"
+              }
             }
           },
           {
@@ -194,8 +216,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4340255429983e76",
+  "active": "2b7445315d00738f",
   "lastOpenFiles": [
+    "Web MVC Model.md",
+    "Web MVC Exam Requirement.md",
+    "WebDev/Web.md",
     "Todo.md",
     "MongoDB.md",
     "SDA NoSQL HW1.md",
@@ -229,9 +254,6 @@
     "LeaderDiary.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "Cyber Security Project.md",
-    "RSA Algorithm.md",
-    "Week 2 - The Practices of Individual Leadership.md",
-    "Personal/Leadership/Leadership.md",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
