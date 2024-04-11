@@ -16,15 +16,22 @@ Revision Note
 + ? A Vector
 ![[Pasted image 20240311091701.png]]
 
-The difference between the vectors 1,3 and 4,1 is also taken component-wise to be 3-2. That is, this vector over here, which doesn't look like anything special, except if you were to translate it, it matches precisely with the vector obtained by joining the points 1,3 and 4,1.
+The difference between the vectors 1,3 and 4,1 is also taken component-wise to be 3-2. That is, this vector over here, which doesn't look like anything special, except if you were to translate it, it matches precisely witfh the vector obtained by joining the points 1,3 and 4,1.
 	![[Pasted image 20240311084821.png]]
 
 
+![[Pasted image 20240411052309.png]]
+
+**General definition: L1 and L2 norms**
+![[Pasted image 20240411052427.png]]
+
+Different of Vectors
+![[Pasted image 20240411053315.png]]
 ![[Pasted image 20240311084924.png]]
 
-**Application for ML: calc he distance to vector (for shortest parth algorithm)**
-![[Pasted image 20240311085005.png]]
 
+**Application for ML: calc the distance to vector (for shortest parth algorithm)**
+![[Pasted image 20240311085005.png]]
 ### Multiplying a vector by a scalar
 Scaling vector a scalar of 3
 ![[Pasted image 20240311085118.png]]
@@ -59,6 +66,8 @@ Vector Transpose **(Turn ow to Column)**
 
 ![[Pasted image 20240311090022.png]]
 
+Matrix product is just the product of n vectors combine to eachother
+![[Pasted image 20240411061250.png]]
 
 All the dot product inverse of u is < 0. And same direction as u is > 0
 ![[Pasted image 20240311090122.png]]
@@ -72,15 +81,28 @@ All the dot product inverse of u is < 0. And same direction as u is > 0
 	- **Scalars**: The dot product outputs a single scalar value, not a new vector.
 	- **Dimensionality:** The two vectors in a dot product calculation must have the same dimensions.
 
+# Linear transformation (phép biến đổi ma trận)
+
+## Matrices as linear transformation
+
 Cross Multiplication
 > The product of 2 matrix can be use to get the 
 ![[Pasted image 20240313084303.png]]
 	You only look at where the two fundamental vectors 1, 0, and 0, 1 go, and those are your columns of the matrix.
 (Reverse 0 1 to 1 0)
-![[Pasted image 20240311140229.png]]
 
 ![[Pasted image 20240311134917.png]]
+**Calculate Linear Transformation**
+3x1 + 1x1 = 4
+1x1 + 2x1 = 3 
+-> vector transformation (4; 3)
 
+![[Pasted image 20240411061751.png]]
+![[Pasted image 20240411061928.png]]
+> since the blue square actually tessellates (bao quanh) the whole plane and the parallelogram (hinh binh hanh) tessellates the whole plane as well. Resulting in the dimension bended
+
+## Turn Matrices into Linear Tranformation 
+![[Pasted image 20240411062351.png]]
 
 ![[Pasted image 20240313090859.png]]
 
@@ -95,7 +117,7 @@ Cross Multiplication
 
 Work exactly like the above. 
 For each product of Row(m) * Each Product of Column(n) then Add it up together.
-Ex: 3.1 + 1.1 + 4.-2 = 2
+Ex: 3.3 + 1.1 + 4.-2 = 2
 ![[Pasted image 20240313092859.png]]
 
 
@@ -104,14 +126,14 @@ Ex: 3.1 + 1.1 + 4.-2 = 2
 	![[Pasted image 20240313093349.png]]
 
 
-#### Inverse 
+#### Matrix Inverse 
 ![[Pasted image 20240313093519.png]]
  
 ![[Pasted image 20240313093541.png]]
 
 
 ![[Pasted image 20240313093628.png]]
-
+Calculate in traditional method or use Det
 ![[Pasted image 20240313094044.png]]
 Can calculate det -> No Inverse exist 
 	![[Pasted image 20240313100304.png]]
@@ -133,7 +155,7 @@ Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line 
 ![[Pasted image 20240313102813.png]]
 
 
-+ ? Classification: Finally, linear algebra allows us to classify emails based on their scores. If the score of an email is above the threshold, it is classified as spam. Otherwise, it is classified as non-spam
++ ? Classification: allows us to classify emails based on their scores. If the score of an email is above the threshold (> or < 1.5), it is classified as spam. Otherwise, it is classified as non-spam
 ![[Pasted image 20240313102931.png]]
 
 ![[Pasted image 20240313103042.png]]
@@ -142,9 +164,18 @@ Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line 
 
 Check if the Equation is Neg - or Pos + using Threshold
 ![[Pasted image 20240313103219.png]]
-
+![[Pasted image 20240411064211.png]]
+Matrix multiplycation on the first row:
+1x1 + 1x1 + 1 x (-1.5) = 0.5 > 0 So not a Spam. 
++ x = 1
++ b = -1.5 (weight/bias)
++ result = 0.5 
 
 ![[Pasted image 20240313130652.png]]
+Because if you consider this as a small dataset, then you can model it with a neural network. In fact the exact same one you used for the spam detector. 
+
+	Visualize
+![[Pasted image 20240411064822.png]]
 
 ![[Pasted image 20240313131005.png]]
 

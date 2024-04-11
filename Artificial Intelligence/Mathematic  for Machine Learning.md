@@ -467,6 +467,11 @@ R1 - R3
 	While 1 mean y determine x. Ex: y = 2x
 		And 2 mean infinity solution
 
-### [[Week 3 Vector and Linear Transformations]]
+Ending Assignment
++ [[GaussianElimination_Assignment]]
++ [[Gaussian Elimination from Scratch Documentation]]
+ 
+# [[Week 3 Vector and Linear Transformations]]
+
 
 

@@ -1157,8 +1157,7 @@ def gaussian_elimination(A, B):
 
     ### END SOLUTION HERE ###
 
-    return solution
-        
+	return solution
 ```
 
 

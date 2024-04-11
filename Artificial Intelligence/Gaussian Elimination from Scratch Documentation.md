@@ -119,7 +119,7 @@ $$
 + **M = swap_rows(M, row, first_non_zero_value_below_pivot_candidate)** 
 	Swap 2 row using row's index
 
-+ ! Contructing the Augmented Matrix
++ ! This function combine the Square Matrix (NxN matrix) with a Column Matrix (result constance) to create a full matrix.
 ```python
 def augmented_matrix(A, B):
     """
@@ -258,22 +258,6 @@ print(result)  # Output: False
 ```
 
 
-+ ! This function combine the Square Matrix (NxN matrix) with a Column Matrix (result constance) to create a full matrix.
-```python
-def augmented_matrix(A, B):
-    """
-    Create an augmented matrix by horizontally stacking two matrices A and B.
-
-    Parameters:
-    - A (numpy.array): First matrix.
-    - B (numpy.array): Second matrix.
-
-    Returns:
-    - numpy.array: Augmented matrix obtained by horizontally stacking A and B.
-    """
-    augmented_M = np.hstack((A,B))
-    return augmented_M
-```
 
 
 **Row Echelon Form**

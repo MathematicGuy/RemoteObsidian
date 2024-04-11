@@ -1,4 +1,5 @@
 
+
 **Project Name:**  Persent (Performance + Sentiment)
 	Sentiment aim to improve ur performance
 **Goal**
@@ -116,3 +117,12 @@ Thân Bài
 	+ Chọn thực nghiệm với các kịch bản dữ liệu khác nhau.
 	+ Đánh giá KQ: VĐ, NĐ, Đề Xuất
 	+ 
+
+**Presentation Roadmap**
++ **Top priority:** Futuristic Approached Presentation. 
+	Applied some of the newest education technique (that student use)
+	(Vietname education is the worst because it can always be better)
+	+ Cognition Load
+	+ etc...list out later
+	+ note: spend time to find the best way to transfer this 
++ 
