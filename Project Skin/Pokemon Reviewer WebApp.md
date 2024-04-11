@@ -40,3 +40,15 @@ M-M (always have a JOIN)
 + Microsoft.EntityFrameworkCore.SqlServer
 + Microsoft.EntityFrameworkCore.Tools
 + Swashbuckle.AspNetCore
+
+
+### Migration
+
++ ? **How to Update Model after Migration**
+Ex: add 'cost' property in Product Model.
+> Add-Migration "text" -Context [ExampleDbContext]
+Then Update the Database
+> Update-Database -Context [ExampleDbContext]
+
+temp-note: https://localhost:7116/
+ 
