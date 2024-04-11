@@ -1,13 +1,3 @@
-- **Separation of Concerns:** A Web API separates your frontend (the Web App the user sees) from your backend (the database and logic). This offers advantages:
-    
-    - **Independent Development:** Frontend and backend teams can work in parallel.
-    - **Scalability:** Each part can be scaled independently based on need.
-    - **Reusability:** Your API can serve data to other applications, not just your own web app.
-- **Structured Communication:** APIs define a "contract". The frontend and backend agree on the format of requests and data, ensuring smooth interaction.
-    
-- **Security:** Your web app doesn't directly access the database. An API allows you to control what data is exposed and how it's accessed.
-    
-
 **The API: Your Data Bridge**
 
 1. **Web App:** The web app is what a user interacts with. It has forms to collect input data.
@@ -25,6 +15,9 @@
 3. **API Stores Data:** The API takes this data, generates an SQL query, and inserts the new user information into your database.
 4. **API Sends Success:** The API sends a response back to the web app confirming the account creation.
 5. **Web App Shows Message:** The web app displays a "Thank you for registering!" message to the user.
+![[Pasted image 20240411205932.png]]
+Client use POST -> POST Success -> WebAPI return response 200 (mean success)
+![[Pasted image 20240411205945.png]]
 
 **Without a Web API**
 
@@ -33,3 +26,5 @@ You _could_ technically build a web app without an API, but it creates problems:
 - **Tight Coupling:** Your web app would have to directly interact with the database logic. Updating either would become complex.
 - **Security Risks:** Exposing database details directly to the client-side (the web app) is a security vulnerability.
 - **Limited Reusability:** The data is locked to that specific web app. A mobile app or other system would be hard to integrate.
+
+

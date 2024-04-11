@@ -1,4 +1,4 @@
-## [[Why Web APIs are Essential]] 
+## [[APIs]] 
 
 MVC Seperate UI, Data and Control logic so each developer can focus on each individual.
 ![[Pasted image 20240315095636.png]]

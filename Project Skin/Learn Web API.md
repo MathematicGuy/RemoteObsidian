@@ -41,7 +41,7 @@ API (Application Programming Interface)
 
 ### [[Web MVC Model]]
 
-### **[[Why Web APIs are Essential]]**
+### **[[APIs]]**
 
 ### [[Publish Web API]]
 
