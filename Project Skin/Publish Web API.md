@@ -22,3 +22,41 @@
 	Cons: Limtited to 60-days-trial
 + $ Get WebDeploy_profile -> Add connection profile -> Publish -> Done
 + ! Just Integrate WebDeploy profile everything else is automated.
+
+```js
+       //   const username = '11165828';
+       //   const password = '60-dayfreetrial';
+	      //const url = 'http://pitech-001-site1.ftempurl.com/Circle/CalculateAreaAndPerimeter?radius=${radius}';
+
+
+		 // const basic = `${username}:${password}`;
+		 // const basicAuthHeader = `Basic ${btoa(basic)}`;
+
+		 // const options = {
+			//method: 'GET',
+			//mode: 'no-cors',
+			//headers: {
+			//  'Authorization': basicAuthHeader
+			//}
+		 // };
+
+           fetch('https://localhost:7116/api/Hang') // Assuming your API is running on port 5000
+          .then(response => response.json())
+          .then(data => {
+              // Process the received product data (data will be your hang_hoa list)
+              console.log(data);
+          });
+
+
+	//	const proxyUrl = 'http://localhost:8080/proxy/Circle/CalculateAreaAndPerimeter'; 
+
+	//	fetch(`${proxyUrl}?radius=${radius}`)
+	//	  .then(response => response.json())
+	//	  .then(data => {
+	//		resultDiv.innerText = `Diện tích hình tròn là: ${data.area}`;
+	//	  })
+	//	  .catch(error => {
+	//		alert('Đã xảy ra lỗi khi gọi API.');
+	//	  });
+	//});
+```

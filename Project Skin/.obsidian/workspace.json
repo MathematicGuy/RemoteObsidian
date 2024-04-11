@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "365f42db5d155805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog with ASAP.NET.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3924dfdcf2ec4e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publish Web API.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Publish Web API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Publish Web API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Publish Web API.md"
               }
             }
           },
@@ -189,12 +216,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "baa5200017d26871",
+  "active": "3924dfdcf2ec4e6b",
   "lastOpenFiles": [
+    "Blog with ASAP.NET.md",
     "Web MVC Model.md",
     "Web MVC Exam Requirement.md",
-    "WebDev/Web.md",
+    "DotNet_Entity Framework.md",
+    "Connect WebApp DB.md",
+    "ASP.NET Introduction.md",
+    "File Structure.md",
+    "WebAPI Bugs.md",
     "Todo.md",
+    "WebDev/Web.md",
     "MongoDB.md",
     "SDA NoSQL HW1.md",
     "NoSQL.md",
@@ -209,7 +242,6 @@
     "IT_PM Project LifeCycle.md",
     "Images/SWOT_en.svg.png",
     "Images/swot_analysis_example.png",
-    "Blog with ASAP.NET.md",
     "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
     "Images/Pasted image 20240408110313.png",
     "Images/Pasted image 20240408100756.png",
@@ -219,14 +251,9 @@
     "SDA HW1.md",
     "SDA Review.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
-    "SDA HW2.md",
     "Images/Pasted image 20240406143152.png",
     "Images/Pasted image 20240406135248.png",
     "Images/Pasted image 20240406132542.png",
-    "Leadership.md",
-    "LeaderDiary.md",
-    "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "Cyber Security Project.md",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
