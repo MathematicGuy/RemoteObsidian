@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d7132caf3734b792",
+        "id": "58fa59cfbb415b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "baa5200017d26871",
+            "id": "b55be211eeebaa9a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,38 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3924dfdcf2ec4e6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pokemon Reviewer WebApp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a35fd8be83331096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APIs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -216,12 +187,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3924dfdcf2ec4e6b",
+  "active": "b55be211eeebaa9a",
   "lastOpenFiles": [
+    "WTH notes.md",
+    "Pokemon Reviewer WebApp.md",
     "APIs.md",
     "Images/Pasted image 20240411205945.png",
     "Images/Pasted image 20240411205932.png",
-    "Pokemon Reviewer WebApp.md",
     "Web API Project.md",
     "Publish Web API.md",
     "Todo.md",
@@ -245,7 +217,6 @@
     "IT Project Management.md",
     "IT_PM My Project Requirement.md",
     "IT_PM My Project.md",
-    "IT_PM Project LifeCycle.md",
     "Images/SWOT_en.svg.png",
     "Images/swot_analysis_example.png",
     "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
