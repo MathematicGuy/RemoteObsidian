@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ad30443dfa4c361d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology Note and Digest.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Psychology Note and Digest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Psychology Note and Digest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Psychology Note and Digest.md"
               }
             }
           },
@@ -189,10 +203,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ccc8ab3501b102d5",
+  "active": "ad30443dfa4c361d",
   "lastOpenFiles": [
-    "WTH notes.md",
+    "Images/Pasted image 20240412211421.png",
+    "Psychology/Psychology.md",
+    "Psychology",
+    "Psychology Note and Digest.md",
     "Todo.md",
+    "WTH notes.md",
     "WTH Web API.md",
     "Personal/Good for LATER.md",
     "Images/Pasted image 20240412152110.png",
@@ -219,9 +237,6 @@
     "MongoDB.md",
     "SDA NoSQL HW1.md",
     "NoSQL.md",
-    "System Administration Database.md",
-    "SAD Project.md",
-    "BackEnd/DB_HW5.md",
     "Images/SWOT_en.svg.png",
     "Images/swot_analysis_example.png",
     "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
@@ -237,7 +252,6 @@
     "FrontEnd",
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
-    "Code",
     "Untitled.canvas",
     "_Focus/This is my Life.canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
