@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bf3c61d580561da2",
+        "id": "ff34fff954106ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "fc08fb80a127fb79",
+            "id": "ccc8ab3501b102d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My AI List.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My AI List.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My AI List.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -187,11 +189,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc08fb80a127fb79",
+  "active": "ccc8ab3501b102d5",
   "lastOpenFiles": [
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "Todo.md",
     "WTH notes.md",
+    "Todo.md",
+    "WTH Web API.md",
+    "Personal/Good for LATER.md",
+    "Images/Pasted image 20240412152110.png",
+    "Images/Pasted image 20240412151411.png",
+    "WTH/WTH.md",
+    "WTH",
+    "WebDev/WebDev.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "Pokemon Reviewer WebApp.md",
     "APIs.md",
     "Images/Pasted image 20240411205945.png",
@@ -213,18 +222,12 @@
     "System Administration Database.md",
     "SAD Project.md",
     "BackEnd/DB_HW5.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "Personal/Language Learning/German Vocabulary.md",
-    "IT Project Management.md",
-    "IT_PM My Project Requirement.md",
     "Images/SWOT_en.svg.png",
     "Images/swot_analysis_example.png",
     "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
     "Images/Pasted image 20240408110313.png",
     "Images/Pasted image 20240408100756.png",
     "Images/Pasted image 20240408095721.png",
-    "Images/Pasted image 20240408084404.png",
-    "Images/Pasted image 20240406143152.png",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
@@ -235,7 +238,6 @@
     "BackEnd",
     "Code/Student Management Application (JAVA).canvas",
     "Code",
-    "Personal/Interest/Books/The_Secrets_of_Top_Students_-_Stefanie_Weisman.pdf",
     "Untitled.canvas",
     "_Focus/This is my Life.canvas",
     "_Focus/WebProject2023/WebProjectGroup5.canvas",
