@@ -239,3 +239,30 @@ Skills Category(id) to Project skills(project_id) - one to many
 ![[Pasted image 20240413114649.png]]
 > 1 Customer can have 0 to many Pizza and 1 Pizza can have 0 to many customer
 
+
+### Features
+
+1. **Quản lý Dự án (Manager):**  
+- Xem, sửa, thêm, xóa thông tin dự án: Cho phép quản lý dự án thực hiện các thao tác quản lý thông tin về dự án.  
+- Quản lý nhân viên trong dự án: Cung cấp tính năng quản lý thành viên dự án, bao gồm xem, thêm, xóa, sửa thông tin nhân viên.  
+- Quản lý team và team allocation: Cho phép quản lý gán nhân viên vào các nhóm công việc và quản lý phân bổ nhân sự cho các dự án.  
+- Quản lý các kỹ năng cần có trong dự án: Cho phép quản lý thêm, sửa, xóa các kỹ năng cần thiết cho dự án.  
+- Xem nhân viên phù hợp với dự án dựa trên kỹ năng: Cung cấp khả năng tìm kiếm và xem nhân viên có kỹ năng phù hợp với dự án.  
+2. **Quản lý Thông tin Cá nhân của nhân viên (Manager và Head of department):**  
+- Xem thông tin nhân viên: Hiển thị thông tin cá nhân của nhân viên.  
+- Lọc thông tin nhân viên theo thuộc tính: Cho phép lọc thông tin nhân viên theo các thuộc tính như vị trí công việc, phòng ban, kỹ năng, ...  
+3. **Quản lý Ban (Head of department):**  
+- Xem, thêm, sửa thông tin ban: Cho phép quản lý thực hiện các thao tác quản lý thông tin của ban.  
+- Xem nhân viên trong một ban: Hiển thị danh sách nhân viên thuộc về một ban cụ thể.  
+- Đánh giá hiệu suất của nhân viên và phòng ban: Cung cấp tính năng đánh giá hiệu suất làm việc của nhân viên và tổng hợp hiệu suất của cả phòng ban.  
+- Quản lý chấm công và nghỉ phép: Đánh giá và quản lý việc chấm công và đăng ký nghỉ phép của nhân viên trong phòng ban.  
+4. **Chấm công (Employees):**  
+- Chấm công bằng máy: Cho phép nhân viên sử dụng máy để chấm công và lưu trữ dữ liệu.  
+5. **Quản trị hệ thống (Admin):**  
+- Quản lý quyền các tài khoản: Cho phép quản trị viên thực hiện các thao tác quản lý về quyền truy cập của người dùng.  
+- Tạo, đọc, cập nhật, xóa tài khoản người dùng: Cho phép quản trị viên thực hiện các thao tác quản lý về tài khoản người dùng trong hệ thống.  
+Phân quyền cụ thể cho từng người dùng:  
+- Employees: Chỉ có quyền điểm danh và xem số công.  
+- Manager: Có quyền truy cập đầy đủ vào các tính năng quản lý dự án và quản lý thông tin cá nhân.  
+- Head of department: Có quyền truy cập vào các tính năng quản lý phòng ban và thông tin cá nhân.  
+- Admin: Có quyền quản lý hệ thống và tài khoản người dùng.
