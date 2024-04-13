@@ -472,6 +472,7 @@ Ending Assignment
 + [[Gaussian Elimination from Scratch Documentation]]
  
 # [[Week 3 Vector and Linear Transformations]]
-
+Ending Assignment
++ [[Artificial Network Using Linear Algebra]]
 
 
