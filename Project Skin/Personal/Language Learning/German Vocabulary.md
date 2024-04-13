@@ -1315,6 +1315,8 @@ Sehen see
 Warten wait here
 	Warten Sie, Bus Nummer Dreizehn ist da drüben 
 Park park
+Gehen Sie - go 
+Gehen Sie recht - go right
 Dann Links to the left
 	Gehen sie rechts und dann links - go right then go left 
 
@@ -1325,7 +1327,7 @@ Sie können fuß gehen - you can walk by foot
 	Dauert lasts/take  
 	Die Taxifahrt dauert zehn minuten - The taxi ride takes ten minutes
 
-Den Fluss river (Neuter/Neutral)
+Der Fluss river (Neuter/Neutral)
 
 Zum - to hotel
 	Wir brauchen (plural) ein taxi zum Hotel
@@ -1455,9 +1457,10 @@ Fuß - foot (in football)
 Die TaxiFahrt dauert circa vierzehn Minuten
 	dauert - lasts/take
 	circa - approximatly
-	Taxifahrt - taxi ride
+	Taxifahrt - taxi drive
 
 Die/Meine Straße - the/my street
+	Das ist mein Straße
 Willst - do you want to
 Höre listening
 
@@ -1507,4 +1510,6 @@ Nichts - nothing (from nitch - not)
 Klassenzimmer - classroom
 
 Hat deine Mutter am Zehnten Juli Geburtstag
-
+Tanzen dance
+Adresse address
+so So (not sehr)
