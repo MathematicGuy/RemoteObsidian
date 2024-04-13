@@ -196,13 +196,13 @@ Employees(id) to Employees(manager_id) - one to many (SELF-REFERENCING FOREIGN K
 Employees(id) to Leave_Requests(id) - one to one
 Employees(id) to Attendance(id) - one to many
 Employees(id) to Salary(id) - one to one
-Employees(id) to Departments(id) - one to many
+Employees(department_) to Departments(id) - one to many
 Employees(id) to Employee Skills(employee_id) - one to many
 Employees(id) to Role Permissions(employee_id) - many to one
-
+ 
 Employees(id) to Experience(employee_id) - one to many
 Employees(id) to Team allocation(employee_id) - many to one
-
+ 
 **Skills Table**
 Skills(id) to Employee Skills(skill_id) - one to many
 Skills(skill_category_id) to Skills Category(id) - one to many
@@ -210,7 +210,7 @@ Skills(skill_category_id) to Skills Category(id) - one to many
 **Skills Category Table**
 Skills Category(id) to Project skills(project_id) - one to many
 
-
+**Team allocation**
 
 #### [Crow foot Notation](https://www.freecodecamp.org/news/crows-foot-notation-relationship-symbols-and-how-to-read-diagrams/)
 **Zero**

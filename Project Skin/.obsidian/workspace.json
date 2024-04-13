@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "BackEnd/Summary DB_HW2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD Project.md",
+                "file": "BackEnd/Summary DB_HW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD Project.md",
+                "file": "BackEnd/Summary DB_HW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD Project.md"
+                "file": "BackEnd/Summary DB_HW2.md"
               }
             }
           },
@@ -216,11 +216,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d2b77d10f7b64b23",
+  "active": "3d5155dd9221bb37",
   "lastOpenFiles": [
-    "Todo.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "BackEnd/DB_HW4-1.md",
+    "BackEnd/DB_HW5.md",
+    "Code/DB_HW7.md",
+    "BackEnd/Summary DB_HW2.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "SDA HW1.md",
     "SAD Project.md",
+    "Todo.md",
     "Images/Pasted image 20240413114649.png",
     "Images/Pasted image 20240413114623.png",
     "Images/Pasted image 20240413114622.png",
@@ -250,12 +256,6 @@
     "Web MVC Model.md",
     "Web MVC Exam Requirement.md",
     "Connect WebApp DB.md",
-    "ASP.NET Introduction.md",
-    "File Structure.md",
-    "WebAPI Bugs.md",
-    "WebDev/Web.md",
-    "MongoDB.md",
-    "SDA NoSQL HW1.md",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
