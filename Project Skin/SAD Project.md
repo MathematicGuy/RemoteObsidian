@@ -74,9 +74,10 @@ Analyze and Articulate
 
 
 ### Document Form
+
 #### Table
 **Employees**
-id (key)
+id (PK)
 first_name
 last_name
 email
@@ -90,7 +91,7 @@ department_id
 manager_id 
 
 **Leave Requests**
-id (key)
+id (PK)
 employee_id
 start date
 end date
@@ -98,20 +99,20 @@ reason
 status
 
 **Attendance**
-id (key)
+id (PK)
 employee_id
 date
 check_in_time
 check_out_time
 
 **Salary**
-id (key)
+id (PK)
 employee_id
 salary_date
 salary_amount
 
 **Departments**
-id (key)
+id (PK)
 department_name
 location
 head_of_department
@@ -119,13 +120,13 @@ department_goal
 performance_metrics
 
 **Skills**
-id (key)
+id (PK)
 skill_name
 skill_description
-skill_category_id
+skill_category_id (FK)
 
 **Skills Category**
-id (key)
+id (PK)
 skill_category_name
 
 **Experience**
@@ -136,7 +137,7 @@ year
 skills
 
 **Project**
-id (key)
+id (PK)
 project_name
 description
 start_date
@@ -148,34 +149,93 @@ client
 project_goal
 
 **Team**
-id (key)
+id (PK)
 team_name
 team_lead_id
 description
 
 **User Roles**
-id (key)
+id (PK)
 role_name
 
 **Permissions**
-id (key)
+id (PK)
 permission_name 
 
 
 #### Connection Table
 
 **Employee Skills**
-employee_id; PK, FK1
-skill id ; PK, FK2
+employee_id (PK, FK1)
+skill_id (PK, FK2)
 
 **Team Allocation**
-
+project_id (PK, FK1)
+team_id (PK, FK2)
+employee_id (PK, FK3)
+start_date
+end_date
+role
+reason_for_allocation
 
 **Project Skills**
-
+project_id (PK, FK1)
+skill_category_id (PK, FK2)
+required_skill_level
 
 **Role Permissions**
+permission_id (PK, FK1)
+role_id (PK, FK2)
+employees_id
+
+#### Connection 
+Liệt kê các kết nối của các bảng -> Ghi chú PK, 
+
+**Employee Table** 
+Employees(id) to Employees(manager_id) - one to many (SELF-REFERENCING FOREIGN KEY)
+Employees(id) to Leave_Requests(id) - one to one
+Employees(id) to Attendance(id) - one to many
+Employees(id) to Salary(id) - one to one
+Employees(id) to Departments(id) - one to many
+Employees(id) to Employee Skills(employee_id) - one to many
+Employees(id) to Role Permissions(employee_id) - many to one
+
+Employees(id) to Experience(employee_id) - one to many
+Employees(id) to Team allocation(employee_id) - many to one
+
+**Skills Table**
+Skills(id) to Employee Skills(skill_id) - one to many
+Skills(skill_category_id) to Skills Category(id) - one to many
+
+**Skills Category Table**
+Skills Category(id) to Project skills(project_id) - one to many
 
 
-#### Connection ()
-Employees(id) to Employees(manager_id) - one to many
+
+#### [Crow foot Notation](https://www.freecodecamp.org/news/crows-foot-notation-relationship-symbols-and-how-to-read-diagrams/)
+**Zero**
+![[Pasted image 20240413114453.png]]
+
+**One**
+![[Pasted image 20240413114500.png]]
+
+**Many**
+![[Pasted image 20240413114511.png]]
+
+**Zero or Many**
+![[Pasted image 20240413114351.png]]
+
+**One or Many**
+![[Pasted image 20240413114521.png]]
+
+**One and only One**
+![[Pasted image 20240413114528.png]]
+
+#### Example
+![[Pasted image 20240413114623.png]]
+> Teach can have 1 to many Course. But Course can have 1 and only 1 teacher
+
+
+![[Pasted image 20240413114649.png]]
+> 1 Customer can have 0 to many Pizza and 1 Pizza can have 0 to many customer
+

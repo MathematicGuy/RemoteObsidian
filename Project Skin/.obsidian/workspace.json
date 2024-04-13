@@ -10,6 +10,7 @@
           {
             "id": "3a7045fef38ae2ef",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,38 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d2b77d10f7b64b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAD Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5155dd9221bb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SAD Project.md"
               }
             }
           },
@@ -187,9 +216,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3a7045fef38ae2ef",
+  "active": "d2b77d10f7b64b23",
   "lastOpenFiles": [
     "Todo.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "SAD Project.md",
+    "Images/Pasted image 20240413114649.png",
+    "Images/Pasted image 20240413114623.png",
+    "Images/Pasted image 20240413114622.png",
+    "Images/Pasted image 20240413114528.png",
+    "Images/Pasted image 20240413114521.png",
+    "Images/Pasted image 20240413114511.png",
+    "Images/Pasted image 20240413114500.png",
+    "Images/Pasted image 20240413114453.png",
+    "Images/Pasted image 20240413114351.png",
+    "DotNet_Entity Framework.md",
     "Images/Pasted image 20240412211421.png",
     "Psychology/Psychology.md",
     "Psychology",
@@ -197,22 +238,17 @@
     "WTH notes.md",
     "WTH Web API.md",
     "Personal/Good for LATER.md",
-    "Images/Pasted image 20240412152110.png",
-    "Images/Pasted image 20240412151411.png",
     "WTH/WTH.md",
     "WTH",
     "WebDev/WebDev.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Pokemon Reviewer WebApp.md",
     "APIs.md",
-    "Images/Pasted image 20240411205945.png",
-    "Images/Pasted image 20240411205932.png",
     "Web API Project.md",
     "Publish Web API.md",
     "Blog with ASAP.NET.md",
     "Web MVC Model.md",
     "Web MVC Exam Requirement.md",
-    "DotNet_Entity Framework.md",
     "Connect WebApp DB.md",
     "ASP.NET Introduction.md",
     "File Structure.md",
@@ -220,12 +256,6 @@
     "WebDev/Web.md",
     "MongoDB.md",
     "SDA NoSQL HW1.md",
-    "NoSQL.md",
-    "Images/SWOT_en.svg.png",
-    "Images/swot_analysis_example.png",
-    "Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
-    "Images/Pasted image 20240408110313.png",
-    "Images/Pasted image 20240408100756.png",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
