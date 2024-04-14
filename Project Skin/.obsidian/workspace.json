@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb9dd8e371eb9d2",
+        "id": "648b09a005128221",
         "type": "tabs",
         "children": [
           {
-            "id": "85eb6a0e6577bd8a",
+            "id": "e116f7b3ec4dd3e2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,11 +17,19 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "108ffaa6fc673ed9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +192,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "85eb6a0e6577bd8a",
+  "active": "108ffaa6fc673ed9",
   "lastOpenFiles": [
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
