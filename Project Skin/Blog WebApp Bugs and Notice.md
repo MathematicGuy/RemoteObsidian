@@ -155,3 +155,28 @@ public async Task<IActionResult> Delete(EditBlogPostRequest editBlogPostRequest)
 ```
 
 
+
+
+
+```cs
+[HttpPost]
+public async Task<IActionResult> UpdateHang(HangHoa hangHoa, int? Id)
+{
+	var httpClient = _httpClientFactory.CreateClient();
+	Console.Write(hangHoa);
+	// Serialize data appropriately for your API
+	var content = new StringContent(JsonConvert.SerializeObject(hangHoa), Encoding.UTF8, "application/json");
+	var response = await httpClient.PutAsync($"https://localhost:7116/api/Hang/UpdateHang{Id}", content);
+
+	if (response.IsSuccessStatusCode)
+	{
+		 // Success! Redirect or display a success message
+		 return RedirectToAction("Index");  // Example redirect
+	}
+	else
+	{
+		 // Handle the error
+		 return View("Error"); // Example error handling
+	}
+}
+```

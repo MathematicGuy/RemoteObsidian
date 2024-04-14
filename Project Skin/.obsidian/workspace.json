@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "648b09a005128221",
+        "id": "1e350619d48601e1",
         "type": "tabs",
         "children": [
           {
-            "id": "e116f7b3ec4dd3e2",
+            "id": "7fc89b98684454a1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,12 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "108ffaa6fc673ed9",
+            "id": "1c1908b48880fc56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,9 +194,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "108ffaa6fc673ed9",
+  "active": "1c1908b48880fc56",
   "lastOpenFiles": [
     "Todo.md",
+    "WebAPI Bugs.md",
+    "Blog WebApp Bugs and Notice.md",
+    "Web MVC Model.md",
+    "Web MVC Exam Requirement.md",
+    "DotNet_Entity Framework.md",
+    "File Structure.md",
+    "ASP.NET Introduction.md",
+    "Connect WebApp DB.md",
+    "_Focus/2023/Challenges & Guides/Github.md",
     "Personal/Language Learning/German Vocabulary.md",
     "SAD Project.md",
     "BackEnd/Summary DB_HW2.md",
@@ -213,7 +224,6 @@
     "Images/Pasted image 20240413114500.png",
     "Images/Pasted image 20240413114453.png",
     "Images/Pasted image 20240413114351.png",
-    "DotNet_Entity Framework.md",
     "Images/Pasted image 20240412211421.png",
     "Psychology/Psychology.md",
     "Psychology",
@@ -224,14 +234,6 @@
     "WTH/WTH.md",
     "WTH",
     "WebDev/WebDev.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "Pokemon Reviewer WebApp.md",
-    "APIs.md",
-    "Web API Project.md",
-    "Publish Web API.md",
-    "Blog with ASAP.NET.md",
-    "Web MVC Model.md",
-    "Web MVC Exam Requirement.md",
     "Personal/Leadership",
     "Spaces",
     "Images/ApplicationDbContext.cs",
