@@ -787,7 +787,7 @@ nicht not
 Nur only
 	Zwei Fahrkarte kostet nur zwanzig euro
 Welche  which 
-Sprache language
+12Sprache language
 + ! don't mistake with Spreche (speak)
 	Welche Sprechen sprichst du, Harvard?
 + Sprechen (pronoun like: spra hen)
@@ -1435,7 +1435,7 @@ Am ersten März hat Herr Goethe Geburtstag. Er geht wandern und trinkt später e
 	On the first of March is Mr.Goethe birthday. He go hiking and drink bear with Ms.Goethe
 Ich möchte mascht ein Party  
 
-Geige - the violin
+Die Geige - the violin
 
 Wir möchten zusammen surfen gehen - we would like to surfing together
 Sehen - watch
@@ -1444,7 +1444,7 @@ Ihr - plural from -> Mia und Markus, spielt Ihr Tennis
 
 
 Der Film - the movie
-Geige - violin
+Die Geige - violin
 Gitarre - guitar
 Herr Baum spielt ein instrument für die drei freunde 
 Tim und Ali, Spielt Ihr Geige oder Klavier 
@@ -1513,3 +1513,16 @@ Hat deine Mutter am Zehnten Juli Geburtstag
 Tanzen dance
 Adresse address
 so So (not sehr)
++ $ Thanh und Mai, Wir haben ein Klavier zu Schlafzimmer
++ ? ...haben Wir ein Klavier zu Schlafzimmer ? (...in the bedroom)
++ ? ...haben Wir ein Klavier in Ihr Schlafzimmer ? (do we have a piano in your bedroom)
++ ? Deine (singular) -> Ihrem (plural) (**Ihrem** mean **yours** in **plural form**)
+
+Kann can
+kein no
+-> Kann kein - cannot
+Ich kann kein/ Klavier - i can't play the piano
+
+Dauert - lasts
+Bis - until
+-> Dauert bis - last until
