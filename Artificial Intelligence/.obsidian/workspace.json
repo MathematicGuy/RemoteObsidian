@@ -27,19 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 Vector and Linear Transformations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "471e9cdbb0e05a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematic  for Machine Learning.md",
+                "file": "Gaussian Elimination from Scratch Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3 Vector and Linear Transformations.md",
+                "file": "Gaussian Elimination from Scratch Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3 Vector and Linear Transformations.md",
+                "file": "Gaussian Elimination from Scratch Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3 Vector and Linear Transformations.md"
+                "file": "Gaussian Elimination from Scratch Documentation.md"
               }
             }
           },
@@ -209,11 +197,13 @@
   },
   "active": "4b79e0ea961c8917",
   "lastOpenFiles": [
+    "Week 3 Vector and Linear Transformations.md",
     "Machine Learning.md",
+    "Mathematic  for Machine Learning.md",
+    "Artificial Network Using Linear Algebra.md",
     "Image/Pasted image 20240413104116.png",
     "Image/Pasted image 20240413103941.png",
     "Image/Pasted image 20240413101139.png",
-    "Artificial Network Using Linear Algebra.md",
     "Image/Pasted image 20240413101217.png",
     "Image/Pasted image 20240413095800.png",
     "Image/Pasted image 20240413095006.png",
@@ -221,8 +211,6 @@
     "Image/Pasted image 20240413094529.png",
     "Image/Pasted image 20240413094522.png",
     "Image/Pasted image 20240413093315.png",
-    "Mathematic  for Machine Learning.md",
-    "Week 3 Vector and Linear Transformations.md",
     "GaussianElimination_Assignment.md",
     "Gaussian Elimination from Scratch Documentation.md",
     "My AI Project.md",
