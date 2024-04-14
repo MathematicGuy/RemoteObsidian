@@ -7,7 +7,7 @@ sticker: emoji//1f935
 
 [[IT_PM My Project]]
 
-[[IT_PM My Project Requirement]]
+
 
 [[Project Management Tutorial - 11 Years of Experience in 45 Minutes]]
 
