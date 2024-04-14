@@ -52,3 +52,9 @@ Because of AI soon will be ours Servent, it each human responsibility to become 
 
 ### [[Week 2 - The Practices of Individual Leadership]]
 
+
+
+
+---
+
+### [[Organization]]
