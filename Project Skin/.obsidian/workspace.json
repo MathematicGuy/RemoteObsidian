@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8907757e97936c3",
+        "id": "00495d86d9c9e8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa31d82403fe2f3",
+            "id": "5866b2108c40cca9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,19 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "696e1d8a7783ee98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDb Overview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -202,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7fa31d82403fe2f3",
+  "active": "5866b2108c40cca9",
   "lastOpenFiles": [
     "MongoDB.md",
     "MongoDb Overview.md",
