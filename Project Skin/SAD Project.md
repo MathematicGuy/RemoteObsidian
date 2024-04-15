@@ -266,3 +266,183 @@ Phân quyền cụ thể cho từng người dùng:
 - Manager: Có quyền truy cập đầy đủ vào các tính năng quản lý dự án và quản lý thông tin cá nhân.  
 - Head of department: Có quyền truy cập vào các tính năng quản lý phòng ban và thông tin cá nhân.  
 - Admin: Có quyền quản lý hệ thống và tài khoản người dùng.
+
+```sql
+CREATE TABLE Employees (
+  id int PRIMARY KEY,
+  first_name nvarchar(200),
+  last_name nvarchar(200),
+  email varchar(30),
+  phone_number varchar(10),
+  address varchar(100),
+  birth_date date,
+  hire_date date,
+  job_title nvarchar(50),
+  salary int,
+  department_id int,
+  manager_id int, 
+  CONSTRAINT FK_Employees_Manager FOREIGN KEY (manager_id)
+    REFERENCES Employees(id) 
+);
+```
+
+```sql
+CREATE TABLE [Leave_Requests] (
+  [id] int,
+  [employee_id ] int,
+  [start_date] date,
+  [end_date] date,
+  [reason] nvarchar(200),
+  [status] varchar(10),
+  PRIMARY KEY ([id])
+);
+```
+
+```sql
+CREATE TABLE [Attendance] (
+  [id] int,
+  [employee_id ] int,
+  [date] date,
+  [check_in_time] time,
+  [check_out_time] time,
+  PRIMARY KEY ([id])
+);
+
+```
+
+```sql
+CREATE TABLE [Salary] (
+  [id] int,
+  [employee_id] int,
+  [salary_date] date,
+  [salary_amount] int,
+  PRIMARY KEY ([id])
+);
+```
+
+```sql
+CREATE TABLE [Departments] (
+  [id] int,
+  [department_name] nvarchar(50),
+  [location] string,
+  [head_of_department_id] int,
+  [department_goal] nvarchar(200),
+  [performance_metrics] int,
+  PRIMARY KEY ([id])
+);
+```
+
+```sql
+CREATE TABLE [Experience] (
+  [employee_id] int,
+  [company_name] nvarchar(200),
+  [previous_role] varchar(50),
+  [year] int,
+  [skills] varchar(100),
+  PRIMARY KEY ([employee_ id])
+);
+
+
+```
+
+```sql
+CREATE TABLE [Team] (
+  [id] int,
+  [team_name] nvarchar(30),
+  [team_lead_id] int,
+  [description] nvarchar(200),
+  PRIMARY KEY ([id])
+);
+```
+
+```sql
+CREATE TABLE [Project] (
+  [id] int,
+  [project_name] nvarchar(200),
+  [description] nvarchar(200),
+  [start_date] date,
+  [end_date] date,
+  [project_manager_id] int,
+  [status] varchar(10),
+  [budget] int,
+  [client ] nvarchar(50),
+  [project_goal] nvarchar(200),
+  PRIMARY KEY ([id])
+);
+```
+
+
+
+M-M
+```sql
+CREATE TABLE [Employees] (
+  [id] int,
+  [first_name] nvarchar(200),
+  [last_name] nvarchar(200),
+  [email] varchar(30),
+  [phone_number ] varchar(10),
+  [address] varchar(100),
+  [birth_date] date,
+  [hire_date] date,
+  [job_title ] nvarchar(50),
+  [salary] int,
+  [department_id] int,
+  [manager_id] int,
+  PRIMARY KEY ([id]),
+  CONSTRAINT [FK_Employees.id]
+    FOREIGN KEY ([id])
+      REFERENCES [Employees]([manager_id])
+);
+```
+
+```sql
+CREATE TABLE [Employee Skills] (
+  [employee_id] int,
+  [skill_id] int,
+  PRIMARY KEY ([employee_id], [skill_id])
+);
+
+CREATE INDEX [FK1] ON  [Employee Skills] ([employee_id]);
+
+CREATE INDEX [FK2] ON  [Employee Skills] ([skill_id]);
+```
+
+```sql
+CREATE TABLE [Skills] (
+  [id] int,
+  [skill_name] nvarchar(30),
+  [skill_description] nvarchar(200),
+  [skill_category_id] int,
+  PRIMARY KEY ([id])
+);
+```
+
+
+M-M
+```sql
+CREATE TABLE [Permissions] (
+  [id] int,
+  [permission_name] nvarchar(50),
+  PRIMARY KEY ([id])
+);
+```
+
+```sql
+CREATE TABLE [User Roles] (
+  [id] int,
+  [role_name] nvarchar(50),
+  PRIMARY KEY ([id])
+);
+```
+
+```sql
+CREATE TABLE [Role Permissions] (
+  [permission_id] int,
+  [role_id] int,
+  PRIMARY KEY ([permission_id], [role_id])
+);
+
+CREATE INDEX [FK1] ON  [Role Permissions] ([permission_id]);
+CREATE INDEX [FK2] ON  [Role Permissions] ([role_id]);
+```
+

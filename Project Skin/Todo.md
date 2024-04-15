@@ -8,7 +8,6 @@ ff f#Todo/Priority
 - [ ] Is there a Service that help me to auto-complete my own word/sentence (there is in Macbook but is there in Windown 11)
 
 
-
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
 + [ ] Get Moving with my Math AI Course
