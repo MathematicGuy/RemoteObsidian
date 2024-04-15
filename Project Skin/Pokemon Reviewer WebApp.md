@@ -138,7 +138,7 @@ public class Pokemon
 #### Migration
 
 + ? **How to Update Model after Migration**
-Ex: add 'cost' property in Product Model.
+Ex: add 'ghi_chu' property in Product Model.
 > Add-Migration "text" -Context [ExampleDbContext]
 Then Update the Database
 > Update-Database -Context [ExampleDbContext]

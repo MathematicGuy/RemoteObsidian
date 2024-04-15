@@ -44,3 +44,19 @@ file log -> các log trong qtrinh hoạt động
 
 Cấu trúc insert ko cần phải giống nhau. (bên SQL pải giông ở cả hàng vs cột)
 Id - auto 
+
+
+### Lọc dữ liệu
+![[Pasted image 20240415153439.png]]
+
+![[Pasted image 20240415153447.png]]
+
+-- Explain Execution Stats
+```json
+db.users.find({firstName:"Charlie", age:52}).explain("executionStats");
+```
+total exc time 43 mili sec
+totalDocsExamL 52k
+returnDocument: 135
+52k / 135 = 385.1851851852 (each 385 file found one document) 
+Algorithm: 

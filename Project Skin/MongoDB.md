@@ -242,3 +242,7 @@ use("sample_mflix");
 })();
 ```
 
+Display Collection stats
+```js
+db.runCommand({collStats:"users"});
+```
