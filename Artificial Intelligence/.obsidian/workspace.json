@@ -22,31 +22,30 @@
             }
           },
           {
-            "id": "4b79e0ea961c8917",
+            "id": "358413841c0efda4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md",
+                "file": "Linear Algebra & Neural Network Assignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "daf55d48e50bda7b",
+            "id": "6d930a5064477a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Network Using Linear Algebra.md",
+                "file": "Mathematics for AI Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian Elimination from Scratch Documentation.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -195,12 +194,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b79e0ea961c8917",
+  "active": "398e0fd66f39ca06",
   "lastOpenFiles": [
-    "Week 3 Vector and Linear Transformations.md",
+    "Image/Pasted image 20240415102233.png",
     "Machine Learning.md",
     "Mathematic  for Machine Learning.md",
+    "Mathematics for AI Vocabulary.md",
+    "Linear Algebra & Neural Network Assignment.md",
     "Artificial Network Using Linear Algebra.md",
+    "Mathematics for AI/Mathematics for AI.md",
+    "Mathematic for Machine Learning - Assignment.md",
+    "Gaussian Elimination from Scratch Documentation.md",
+    "Week 3 Vector and Linear Transformations.md",
     "Image/Pasted image 20240413104116.png",
     "Image/Pasted image 20240413103941.png",
     "Image/Pasted image 20240413101139.png",
@@ -212,9 +217,7 @@
     "Image/Pasted image 20240413094522.png",
     "Image/Pasted image 20240413093315.png",
     "GaussianElimination_Assignment.md",
-    "Gaussian Elimination from Scratch Documentation.md",
     "My AI Project.md",
-    "Mathematics for AI/Mathematics for AI.md",
     "CMC AI.md",
     "Mathematics for AI",
     "My AI Skills.md",
@@ -224,7 +227,6 @@
     "A work example of Back-Substitution.md",
     "A worked example of Row Echelon.md",
     "C1W2_Assignment_2024_03_28_01_48_45.md",
-    "Mathematic for Machine Learning - Assignment.md",
     "Linear Algebra.md",
     "AI Quizz.md",
     "AI Intro and Definition.md",
@@ -234,8 +236,6 @@
     "Machine Learning Algorithm.md",
     "Beautiful of Math.md",
     "What I need to learn for Emotion Detector Project.md",
-    "Potential Question.md",
-    "Essence of linear algebra.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

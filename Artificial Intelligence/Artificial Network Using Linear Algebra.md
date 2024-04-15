@@ -1,4 +1,4 @@
-A as Matrix A 
+wA as Matrix A 
 (don't pay attention to the value, focus on how it work)
  A.T -> Matrix transpose
  ![[Pasted image 20240413092221.png]]

@@ -10,10 +10,9 @@ ff f#Todo/Priority
 
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
-+ [ ] Get Moving with my Math AI Course
 + [ ] Blog Web App (User Management)
-+ [ ] Database Usecase (Finish This First)
 + [ ] Basic Create, Insert, Delete Procedure
+- [ ] Learn how to Debug
 
 Next Week
 + [ ] Advanced Create, Insert, Delete 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7ae9a3c7fbcb2a",
+        "id": "d8907757e97936c3",
         "type": "tabs",
         "children": [
           {
-            "id": "151b37779cb4b8ef",
+            "id": "7fa31d82403fe2f3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "151b37779cb4b8ef",
+  "active": "7fa31d82403fe2f3",
   "lastOpenFiles": [
     "_Focus/SQL & DataBase/DataBase.md",
     "Todo.md",
