@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "2775b98ff6dde5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "696e1d8a7783ee98",
             "type": "leaf",
             "state": {
@@ -48,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDb Overview.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MongoDb Overview.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDb Overview.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -216,17 +202,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "696e1d8a7783ee98",
+  "active": "7fa31d82403fe2f3",
   "lastOpenFiles": [
-    "Pokemon Reviewer WebApp.md",
+    "MongoDB.md",
     "MongoDb Overview.md",
+    "Pokemon Reviewer WebApp.md",
     "Web API Project.md",
     "Learn Web API.md",
     "_Focus/2023/Python/API.md",
     "SQL Bugs.md",
     "Images/Pasted image 20240415153447.png",
     "Images/Pasted image 20240415153439.png",
-    "MongoDB.md",
     "Todo.md",
     "Images/Pasted image 20240415140854.png",
     "Images/Pasted image 20240415140407.png",
