@@ -44,8 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7e924154123f521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My AI Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "My AI Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "My AI Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "My AI Project.md"
               }
             }
           },
@@ -194,13 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "398e0fd66f39ca06",
+  "active": "a7e924154123f521",
   "lastOpenFiles": [
-    "Image/Pasted image 20240415102233.png",
-    "Machine Learning.md",
-    "Mathematic  for Machine Learning.md",
     "Mathematics for AI Vocabulary.md",
     "Linear Algebra & Neural Network Assignment.md",
+    "Machine Learning.md",
+    "Image/Pasted image 20240415102233.png",
+    "Mathematic  for Machine Learning.md",
     "Artificial Network Using Linear Algebra.md",
     "Mathematics for AI/Mathematics for AI.md",
     "Mathematic for Machine Learning - Assignment.md",
@@ -215,7 +228,6 @@
     "Image/Pasted image 20240413094545.png",
     "Image/Pasted image 20240413094529.png",
     "Image/Pasted image 20240413094522.png",
-    "Image/Pasted image 20240413093315.png",
     "GaussianElimination_Assignment.md",
     "My AI Project.md",
     "CMC AI.md",

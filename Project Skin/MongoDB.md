@@ -1,5 +1,6 @@
-Documented Db
-store in Binary Json (BJ file type)
+[[MongoDb Overview]]
+
+Store in Binary Json (BJ file type)
 Mongol is short for Humongous (big) 
 
 ![[Pasted image 20240405080142.png]]
@@ -16,8 +17,6 @@ Mongol is short for Humongous (big)
 mongosh
 mongod // manage mongo data ?
 ```
-
-
 
 #### Databases Helpers
 ```JSON
@@ -41,7 +40,7 @@ db.coll.insertOne({date: ISODate()})
 db.coll.insertOne({name: "Max"}, {"writeConcern": {"w": "majority", "wtimeout": 5000}})
 ```
 
-READ
+**READ**
 ```json
 db.coll.findOne() // returns a single document
 db.coll.find()    // returns a cursor - show 20 results - "it" to display more
@@ -56,13 +55,13 @@ db.coll.countDocuments({age: 32}) // alias for an aggregation pipeline - accurat
 db.coll.estimatedDocumentCount()  // estimation based on collection metadata
 
 // Comparison
-db.coll.find({"year": {$gt: 1970}})
-db.coll.find({"year": {$gte: 1970}})
-db.coll.find({"year": {$lt: 1970}})
-db.coll.find({"year": {$lte: 1970}})
-db.coll.find({"year": {$ne: 1970}})
-db.coll.find({"year": {$in: [1958, 1959]}})
-db.coll.find({"year": {$nin: [1958, 1959]}})
+db.coll.find({"year": {$gt: 1970}}) // greater th
+db.coll.find({"year": {$gte: 1970}}) // greater than equal
+db.coll.find({"year": {$lt: 1970}}) // less than
+db.coll.find({"year": {$lte: 1970}}) // less than equal
+db.coll.find({"year": {$ne: 1970}}) // not equal
+db.coll.find({"year": {$in: [1958, 1959]}}) // in 1958 to 1959
+db.coll.find({"year": {$nin: [1958, 1959]}}) // not in 1958 to 1959
 
 // Logical
 db.coll.find({name:{$not: {$eq: "Max"}}})
@@ -74,6 +73,14 @@ db.coll.find({
     {$or: [{sale: true}, {price: {$lt: 5 }}]}
   ]
 })
+db.mycollection.find({$and:
+	[
+		{name:"Noi"}, {age:211}
+	]
+}) 
+// {} -> 1st layer for the command
+// $and: [] -> for $and. Everything inside [] count as a object for and.
+// Ex: [{name:"Noi"}, {age:211}] -> name="Noi" and age=211 
 
 // Element
 db.coll.find({name: {$exists: true}})
@@ -114,6 +121,7 @@ db.coll.find().readConcern("majority")
 
 UPDATE
 ```json
+// updateOne -> Update the 1st one it found
 db.coll.updateOne({"_id": 1}, {$set: {"year": 2016, name: "Max"}})
 db.coll.updateOne({"_id": 1}, {$unset: {"year": 1}})
 db.coll.updateOne({"_id": 1}, {$rename: {"year": "date"} })
@@ -134,6 +142,7 @@ db.coll.updateOne({"_id": 1}, {$pullAll: {"array" :[3, 4, 5]}})
 db.coll.updateOne({"_id": 1}, {$push: {"scores": {$each: [90, 92]}}})
 db.coll.updateOne({"_id": 2}, {$push: {"scores": {$each: [40, 60], $sort: 1}}}) // array sorted
 db.coll.updateOne({"_id": 1, "grades": 80}, {$set: {"grades.$": 82}})
+// updateMany -> Update all the one it found
 db.coll.updateMany({}, {$inc: {"grades.$[]": 10}})
 db.coll.updateMany({}, {$set: {"grades.$[element]": 100}}, {multi: true, arrayFilters: [{"element": {$gte: 100}}]})
 
