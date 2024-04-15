@@ -60,3 +60,4 @@ totalDocsExamL 52k
 returnDocument: 135
 52k / 135 = 385.1851851852 (each 385 file found one document) 
 Algorithm: 
+
