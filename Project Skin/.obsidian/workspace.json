@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27ae819068274b0c",
+        "id": "8e7ae9a3c7fbcb2a",
         "type": "tabs",
         "children": [
           {
-            "id": "19c5493fc2450093",
+            "id": "151b37779cb4b8ef",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d088d3705d154ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAD Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d088d3705d154ab6",
+  "active": "151b37779cb4b8ef",
   "lastOpenFiles": [
     "_Focus/SQL & DataBase/DataBase.md",
     "Todo.md",

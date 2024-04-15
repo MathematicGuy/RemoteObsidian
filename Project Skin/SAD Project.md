@@ -356,6 +356,22 @@ CREATE TABLE [Team] (
 ```
 
 ```sql
+CREATE TABLE Team_Allocation (
+ project_id int,
+ employee_id int,
+ team_id int,
+ start_date date,
+ end_date date,
+ role nchar(30),
+ reason_for_allocation nvarchar(200),
+ PRIMARY KEY (project_id, employee_id, team_id),
+  CONSTRAINT FK_TeamAllocation_Project FOREIGN KEY (project_id) REFERENCES Project(id),
+  CONSTRAINT FK_TeamAllocation_Employee FOREIGN KEY (employee_id) REFERENCES Employees(id),
+  CONSTRAINT FK_TeamAllocation_Team FOREIGN KEY (team_id) REFERENCES Team(id) 
+);
+```
+
+```sql
 CREATE TABLE [Project] (
   [id] int,
   [project_name] nvarchar(200),
@@ -372,8 +388,7 @@ CREATE TABLE [Project] (
 ```
 
 
-
-M-M
+**M-M**
 ```sql
 CREATE TABLE [Employees] (
   [id] int,
@@ -396,15 +411,17 @@ CREATE TABLE [Employees] (
 ```
 
 ```sql
-CREATE TABLE [Employee Skills] (
-  [employee_id] int,
-  [skill_id] int,
-  PRIMARY KEY ([employee_id], [skill_id])
+CREATE TABLE Employee_Skills (
+ [employee_id] int,
+ [skill_id] int,
+ PRIMARY KEY ([employee_id], [skill_id]),
+  CONSTRAINT FK_EmployeeSkills_Employee FOREIGN KEY (employee_id) REFERENCES Employees(id), 
+  CONSTRAINT FK_EmployeeSkills_Skill FOREIGN KEY (skill_id) REFERENCES Skills(id)
 );
 
-CREATE INDEX [FK1] ON  [Employee Skills] ([employee_id]);
+CREATE INDEX [FK1] ON [Employee Skills] ([employee_id]);
+CREATE INDEX [FK2] ON [Employee Skills] ([skill_id]);
 
-CREATE INDEX [FK2] ON  [Employee Skills] ([skill_id]);
 ```
 
 ```sql
@@ -428,6 +445,20 @@ CREATE TABLE [Permissions] (
 ```
 
 ```sql
+CREATE TABLE UserRole_Permissions (
+  user_role_id int,
+  permission_id int,
+  PRIMARY KEY (user_role_id, permission_id),
+  CONSTRAINT FK_UserRolePermissions_UserRole FOREIGN KEY (user_role_id) REFERENCES User_Roles(id),
+  CONSTRAINT FK_UserRolePermissions_Permission FOREIGN KEY (permission_id) REFERENCES Permissions(id)
+);
+
+
+CREATE INDEX [FK1] ON  [Role Permissions] ([permission_id]);
+CREATE INDEX [FK2] ON  [Role Permissions] ([role_id]);
+```
+
+```sql
 CREATE TABLE [User Roles] (
   [id] int,
   [role_name] nvarchar(50),
@@ -436,13 +467,78 @@ CREATE TABLE [User Roles] (
 ```
 
 ```sql
-CREATE TABLE [Role Permissions] (
-  [permission_id] int,
+CREATE TABLE [Accounts Role] (
+  [name] int,
   [role_id] int,
-  PRIMARY KEY ([permission_id], [role_id])
+  PRIMARY KEY ([name], [role_id])
 );
 
-CREATE INDEX [FK1] ON  [Role Permissions] ([permission_id]);
-CREATE INDEX [FK2] ON  [Role Permissions] ([role_id]);
+CREATE INDEX [FK1] ON  [Accounts Role] ([name]);
+CREATE INDEX [FK2] ON  [Accounts Role] ([role_id]);
+```
+
+	```sql
+CREATE TABLE [Account ] (
+  [name] nvarchar(200),
+  [register_date] datetime,
+  [password] nchar(100),
+  PRIMARY KEY ([name])
+);
+```
+
+M-M
+```sql
+CREATE TABLE [Skills] (
+  [id] int,
+  [skill_name] nvarchar(30),
+  [skill_description] nvarchar(200),
+  [skill_category_id] int,
+  PRIMARY KEY ([id])
+);
+```
+
+```sql
+CREATE TABLE `Project skills` (
+  `project_id` int,
+  `skill_category_id` int,
+  `required_skill_level` int,
+  PRIMARY KEY (`project_id`, `skill_category_id`),
+  KEY `FK1` (`project_id`),
+  KEY `FK2` (`skill_category_id`)
+);
+```
+
+```sql
+CREATE TABLE [Project] (
+  [id] int,
+  [project_name] nvarchar(200),
+  [description] nvarchar(200),
+  [start_date] date,
+  [end_date] date,
+  [project_manager_id] int,
+  [status] varchar(10),
+  [budget] int,
+  [client ] nvarchar(50),
+  [project_goal] nvarchar(200),
+  PRIMARY KEY ([id])
+);
+```
+
+
+Check SQL Index
+
+Constraint
+```sql
+ALTER TABLE Team 
+ADD CONSTRAINT FK_Team_EmployeeTeamLead FOREIGN KEY (team_lead_id) 
+    REFERENCES Employees(id); 
+
+ALTER TABLE Experience 
+ADD CONSTRAINT FK_Experience_Employee FOREIGN KEY (employee_id) 
+    REFERENCES Employees(id); 
+
+ALTER TABLE Project 
+ADD CONSTRAINT FK_Project_EmployeeProjectManager FOREIGN KEY (project_manager_id) 
+    REFERENCES Employees(id); 
 ```
 
