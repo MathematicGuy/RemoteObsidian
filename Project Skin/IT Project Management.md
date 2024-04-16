@@ -1,10 +1,9 @@
 ---
 sticker: emoji//1f935
 ---
+**sdt**: 0918825981
 [[IT_PM INTRO]]
-
 [[IT_PM Part 1]]
-
 [[IT_PM My Project]]
 
 
@@ -17,6 +16,7 @@ sticker: emoji//1f935
 
 [[Chap IV - IT project Cost management]]
 [[Chapter V - IT Project HR Management]]
+[[Risk Management]]
 
 1) Scope ko ro -> Client/BA
 2) Nâng lực đội ngũ ko ok
@@ -38,3 +38,4 @@ Nokia - đánh giá sai thị trg. (reject Android)
 + Thuyên Chuyển, CHuyển giao rủi ro cho bên 3rd
 + Giảm nhẹ rủi ro
 
+**Capability Maturity Model Integration** (CMMI) 
