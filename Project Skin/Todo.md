@@ -10,10 +10,14 @@ banner: Images/Pasted image 20240402135259.png
 THING I WANT TO ACHIEVE THIS WEEK
 + [ ] Blog Web App (User Management)
 + [ ] Basic Create, Insert, Delete Procedure
-
+- [ ] Learn to say Yes or No by Default
+![[Pasted image 20240416194655.png]]
 
 Next Week
 + [ ] Advanced Create, Insert, Delete 
+- [ ] Perfect my Morning Routine
+![[Pasted image 20240416194722.png]]
+
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section
