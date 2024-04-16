@@ -70,3 +70,11 @@ db.users.find({age:30}).explain("executionStats");
 > nReturn: 10454 (found document)
 > totalKeysExamined: 10454 
 ![[Pasted image 20240416183947.png]]
+
+> Index phải đúng thứ tự và đúng kiểu thì ms nhanh đc.
+![[Pasted image 20240416192307.png]]
+
+COLLSCAN the worst -> scan linearly
+IXSCAN -> fine
+after index but query still COLLSCAN -> INDEX useless
+can INDEX on multiple cols
