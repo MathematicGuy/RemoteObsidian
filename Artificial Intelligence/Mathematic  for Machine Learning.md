@@ -474,5 +474,5 @@ Ending Assignment
 # [[Week 3 Vector and Linear Transformations]]
 Ending Assignment
 + [[Artificial Network Using Linear Algebra]]
-+ [[Linear Algebra & Neural Network Assignment]]
++ [[Linear Algebra &amp; Neural Network Assignment]]
 

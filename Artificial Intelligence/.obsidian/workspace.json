@@ -22,19 +22,7 @@
             }
           },
           {
-            "id": "358413841c0efda4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra & Neural Network Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d930a5064477a98",
+            "id": "f7114bda67cb7ae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,19 +34,19 @@
             }
           },
           {
-            "id": "a7e924154123f521",
+            "id": "637b456754ca82b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My AI Project.md",
+                "file": "Image Compression using PCA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My AI Project.md",
+                "file": "Image Compression using PCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My AI Project.md",
+                "file": "Image Compression using PCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My AI Project.md"
+                "file": "Image Compression using PCA.md"
               }
             }
           },
@@ -207,29 +195,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7e924154123f521",
+  "active": "637b456754ca82b9",
   "lastOpenFiles": [
+    "My AI Project.md",
+    "Image Compression using PCA.md",
+    "Emotion Detector.md",
     "Mathematics for AI Vocabulary.md",
-    "Linear Algebra & Neural Network Assignment.md",
     "Machine Learning.md",
-    "Image/Pasted image 20240415102233.png",
+    "Linear Algebra &amp; Neural Network Assignment.md",
+    "Image/Pasted image 20240416083854.png",
+    "Image/Pasted image 20240416063728.png",
+    "Image/Pasted image 20240416063034.png",
+    "Image/Pasted image 20240416062957.png",
+    "Image/Pasted image 20240416062714.png",
+    "Image/Pasted image 20240416062524.png",
+    "Image/Pasted image 20240416062351.png",
+    "Image/Pasted image 20240416061949.png",
+    "Image/Pasted image 20240416061923.png",
+    "Image/Pasted image 20240416061723.png",
     "Mathematic  for Machine Learning.md",
     "Artificial Network Using Linear Algebra.md",
     "Mathematics for AI/Mathematics for AI.md",
     "Mathematic for Machine Learning - Assignment.md",
     "Gaussian Elimination from Scratch Documentation.md",
     "Week 3 Vector and Linear Transformations.md",
-    "Image/Pasted image 20240413104116.png",
-    "Image/Pasted image 20240413103941.png",
-    "Image/Pasted image 20240413101139.png",
-    "Image/Pasted image 20240413101217.png",
-    "Image/Pasted image 20240413095800.png",
-    "Image/Pasted image 20240413095006.png",
-    "Image/Pasted image 20240413094545.png",
-    "Image/Pasted image 20240413094529.png",
-    "Image/Pasted image 20240413094522.png",
     "GaussianElimination_Assignment.md",
-    "My AI Project.md",
     "CMC AI.md",
     "Mathematics for AI",
     "My AI Skills.md",
@@ -247,7 +237,6 @@
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Machine Learning Algorithm.md",
     "Beautiful of Math.md",
-    "What I need to learn for Emotion Detector Project.md",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
     "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

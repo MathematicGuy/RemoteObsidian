@@ -1,7 +1,7 @@
 ---
 _links:
   - Week 3 Vector and Linear Transformations.md
-  - Linear Algebra & Neural Network Assignment.md
+  - Linear Algebra &amp; Neural Network Assignment.md
 _filters: []
 _contexts: []
 _sort:

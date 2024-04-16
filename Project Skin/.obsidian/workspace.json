@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00495d86d9c9e8a3",
+        "id": "4f5f6bade862c1c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5866b2108c40cca9",
+            "id": "5abe7841f01cdf0f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5866b2108c40cca9",
+  "active": "5abe7841f01cdf0f",
   "lastOpenFiles": [
     "MongoDB.md",
     "MongoDb Overview.md",
