@@ -246,3 +246,15 @@ Display Collection stats
 ```js
 db.runCommand({collStats:"users"});
 ```
+
+#### Index
+> Create Index
+```json
+db.users.createIndex({age:36}, {name:"IDX_NAME"});
+```
+
+> Find by Index
+```json
+db.users.find({lastName:"Lee", age:36}).explain("executionStats");
+```
+

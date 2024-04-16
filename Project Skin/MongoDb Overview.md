@@ -55,9 +55,18 @@ Id - auto
 ```json
 db.users.find({firstName:"Charlie", age:52}).explain("executionStats");
 ```
+**BEFORE INDEXING**
 total exc time 43 mili sec
 totalDocsExamL 52k
 returnDocument: 135
 52k / 135 = 385.1851851852 (each 385 file found one document) 
 Algorithm: 
 
+
+**AFTER INDEXING**
+```json
+db.users.find({age:30}).explain("executionStats");
+```
+> nReturn: 10454 (found document)
+> totalKeysExamined: 10454 
+![[Pasted image 20240416183947.png]]
