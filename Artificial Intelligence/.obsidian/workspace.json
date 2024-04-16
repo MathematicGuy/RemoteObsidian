@@ -32,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "637b456754ca82b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Image Compression using PCA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image Compression using PCA.md",
+                "file": "Mathematics for AI Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image Compression using PCA.md",
+                "file": "Mathematics for AI Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image Compression using PCA.md"
+                "file": "Mathematics for AI Vocabulary.md"
               }
             }
           },
@@ -195,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "637b456754ca82b9",
+  "active": "f7114bda67cb7ae9",
   "lastOpenFiles": [
-    "My AI Project.md",
     "Image Compression using PCA.md",
+    "My AI Project.md",
     "Emotion Detector.md",
     "Mathematics for AI Vocabulary.md",
     "Machine Learning.md",
