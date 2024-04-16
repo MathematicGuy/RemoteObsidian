@@ -26,12 +26,43 @@
             "id": "25f88885fb68e8c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Risk Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4546116162cf6970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog with ASAP.NET.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ad39f1c85e17bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WTH Web API.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blog with ASAP.NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blog with ASAP.NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Blog with ASAP.NET.md"
+              }
             }
           },
           {
@@ -194,10 +229,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25f88885fb68e8c6",
+  "active": "4546116162cf6970",
   "lastOpenFiles": [
-    "Todo.md",
+    "WTH Web API.md",
+    "Blog with ASAP.NET.md",
     "Risk Management.md",
+    "Todo.md",
+    "BlogPost Design Concept.md",
     "IT Project Management.md",
     "Project Management/Project Management.md",
     "Project Management",
@@ -230,9 +268,6 @@
     "IT_PM My Project.md",
     "WebAPI Bugs.md",
     "Blog WebApp Bugs and Notice.md",
-    "Web MVC Model.md",
-    "Web MVC Exam Requirement.md",
-    "DotNet_Entity Framework.md",
     "Psychology",
     "WTH",
     "Personal/Leadership",

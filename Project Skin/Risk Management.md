@@ -24,4 +24,15 @@ Quality Control
 
 Standard
 + cusomter
-+ lega
++ legal
+	- có hợp lệ trong luật nhà nước?
+
+Lập kế hoạch chất lượng
+Tiêu chuẩn -> thế nào là chất lượng, 
+Để đảm bảo chất lượng cần làm gì?
+-> nguồn cung, thiết bị, tuyển dụng và đào tạo pha chế, công thức.
+
+VD: 
+> Ngon, Không gian đẹp, Nhân viên thân thiện, Chi Phí
+
+
