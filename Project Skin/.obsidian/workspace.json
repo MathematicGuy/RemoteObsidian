@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e278125c70f8b6ef",
+            "id": "f3705d63fdbb3665",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "54a75beece13d021",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -194,9 +189,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "54a75beece13d021",
+  "active": "f3705d63fdbb3665",
   "lastOpenFiles": [
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Images/Pasted image 20240416234352.png",
+    "Images/Pasted image 20240416234105.png",
+    "Images/Pasted image 20240416233906.png",
+    "Images/Pasted image 20240416233245.png",
+    "Images/Pasted image 20240416233229.png",
     "Images/Pasted image 20240416194722.png",
     "Images/Pasted image 20240416194655.png",
     "Images/Pasted image 20240416192307.png",
@@ -204,7 +205,6 @@
     "MongoDb Overview.md",
     "Images/Pasted image 20240416183947.png",
     "Images/Pasted image 20240416182559.png",
-    "Images/Pasted image 20240416182238.png",
     "Risk Management.md",
     "Blog with ASAP.NET.md",
     "WTH Web API.md",
@@ -217,14 +217,9 @@
     "Learn Web API.md",
     "_Focus/2023/Python/API.md",
     "SQL Bugs.md",
-    "Images/Pasted image 20240415153447.png",
-    "Images/Pasted image 20240415153439.png",
-    "Images/Pasted image 20240415140854.png",
-    "Images/Pasted image 20240415140407.png",
     "_Focus/SQL & DataBase/DataBase.md",
     "Organization.md",
     "Leadership.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Stakeholder Identification.md",
     "IT_PM My Project Requirement.md",
     "Making of Gannt Chart.md",

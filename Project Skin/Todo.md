@@ -43,9 +43,32 @@ Next Week
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
 
+
+
 #Todo/Personal
 - [ ] Defined Idiot Time Index
 - [ ] Improve Blog Try Catch. If user missing any input then goes back and retype  
+
+>  Giáo sư Andrew Huberman bàn luận với giáo sư Adam Grant về những chủ đề rất thiết thực liên quan đến tâm lý và thần kinh học như là cách để khai phá khả năng của con người, mặt trái của động lực nội tại, sự thật về tính chân thực (authenticity) cùng rất rất nhiều nội dung thú vị khác
+>  ![[Pasted image 20240416233229.png]]
+
+
+>  Justine Sung thực sự phân tích nền tảng lý thuyết và khoa học đằng sau các phương pháp của mình. Nhin chung, các phương pháp ở trên đều hướng tới việc người học chủ động luyện tập tư duy để nâng cấp khả năng xử lý thông tin của mình, thay vì là các kỹ thuật tạm thời như là ghi chú hay flashcard.
+> ![[Pasted image 20240416233245.png]]
+
+
+> Giao tiếp thực sự là một kỹ năng, mà đã là kỹ năng thì có thể được luyện tập. Bản thân anh Charlie Houpert lúc trước cũng là một người không nổi bật và ít bạn. Vì muốn thay đổi nên anh ấy đã điên cuồng tập luyện, bằng cách học từ những người nổi bật khác, cũng như ra ngoài giao tiếp nhiều hơn.
+![[Pasted image 20240416233906.png]]
+
+
+> Tầm quan trọng của việc lên kế hoạch cho thời gian của mình có lẽ không cần bàn nhiều. Nhiều người cứ nghĩ lên kế hoạch khiến ngày của ta trở nên cứng nhắc và nhàm chán, nhưng thực ra nó lại giúp chúng ta tự do hơn trong suy nghĩ và có nhiều năng lượng để làm việc khác, thay vì cứ đau đầu hôm nay mình làm gì
+![[Pasted image 20240416234105.png]]
+
+
+> Về cơ bản, nếu không có vấn đề nặng về tâm thần, thì đa số những “kẻ xấu” đều làm điều mà họ cho là tốt. Có thể là họ giết người vì nghĩ rằng họ dang đại diện cho công lý, hay là một gã người Đức có bộ ria kỳ lạ nghĩ rằng hắn đang thanh lọc xã hội.
+> Điều bạn nghĩ là tốt chưa chắc là điều xã hội cần.
+![[Pasted image 20240416234352.png]]
+
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)

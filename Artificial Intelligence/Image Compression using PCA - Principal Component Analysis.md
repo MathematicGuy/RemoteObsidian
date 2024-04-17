@@ -1,6 +1,9 @@
+[[PCA (Principle Component Analysis) Research Documents]]
+pca main ideas: https://youtu.be/HMOI_lkzW08?si=CidwgYaZQWN-qDhz
 step-by-step: https://youtu.be/FgakZw6K1QQ?si=wetpWgoyrAGX21jW
 pca with python: https://youtu.be/Lsue2gEM9D0?si=5pOBaRiOsUqu07UY
-pca main ideas: https://youtu.be/HMOI_lkzW08?si=CidwgYaZQWN-qDhz
+References Document: [PCA for image reconstruction, from scratch](https://medium.com/@pranjallk1995/pca-for-image-reconstruction-from-scratch-cf4a787c1e36) 
+[[PCA Ideas notes]]
 
 ---
 
@@ -26,7 +29,7 @@ A Web allow to post image and compress them.
 	
 2) **Data Preprocessing** (Tiền xử lý dữ liệu) 
 	+ Áp dụng các kỹ thuật tiền xử lý cơ bản như: thay đổi kích thước, chuẩn hóa dữ liệu,
-	+ Giới thiệu các phương pháp tiền xử lý ảnh nâng cao sử dụng PCA, mạng nơ ron, học sâu (có thể) 
+	+ Giới thiệu các phương pháp tiền xử lý ảnh nâng cao sử dụng PCA, mạng nơ ron, học sâu (nếu có thể) 
 	
 3) **Solving Models/Algorithms** (Các mô hình/thuật toán giải quyết)
 	+ **Detail PCA Explaination:** Get into the math:
@@ -55,12 +58,6 @@ A Web allow to post image and compress them.
 
 
 # **Presentation**
-
-+ **Top priority:** Futuristic Approached Presentation. 
-	Applied some of the newest education technique (that student use)
-	+ Cognition Load
-	+ etc...list out later
-	+ note: spend time to find the best way to transfer this 
 
 **Presentation Technique & Roadmap** 
 + ! Focus on the Big Picture
@@ -113,6 +110,9 @@ evaluate the result. Find out the
 + Acceptable compress ratio to quality (show how diff each results)
 + Better than others algorithm
 
+Step 1: Have a overview
+Step 2: Retrieve research Docuement 
+Step 3: Process them
 
 ---
 
@@ -128,3 +128,9 @@ Thân Bài
 5) Thực nghiệm và đánh giá kết quả
 Kết Bài
 (note: Vietname education is the worst because it can always be better)
+
++ **Top priority:** Futuristic Approached Presentation. 
+	Applied some of the newest education technique (that student use)
+	+ Cognition Load
+	+ etc...list out later
+	+ note: spend time to find the best way to transfer this 

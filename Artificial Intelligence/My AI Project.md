@@ -1,4 +1,4 @@
 
 [[Emotion Detector]]
 
-[[Image Compression using PCA]]
+[[Image Compression using PCA - Principal Component Analysis]]
