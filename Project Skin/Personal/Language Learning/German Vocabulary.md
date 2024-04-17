@@ -1465,6 +1465,11 @@ Willst - do you want to
 Höre listening
 
 Der Wald the forest
+	Ich will nächste Woche im Wald wandern 
+	+ Wandern hike
+	+ Woche week
+	+ Nächste next
+	+ Wald forest
 Hexe witch
 	Die Hexe kocht gern
 Campe camp

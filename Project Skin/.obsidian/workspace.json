@@ -10,6 +10,7 @@
           {
             "id": "8b717acb22fd123b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1f6d0ab73fecd65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -187,10 +203,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b717acb22fd123b",
+  "active": "1f6d0ab73fecd65c",
   "lastOpenFiles": [
     "Todo.md",
+    "Pokemon Reviewer WebApp.md",
     "Personal/Language Learning/German Vocabulary.md",
+    "Web MVC Model.md",
+    "Web MVC Exam Requirement.md",
+    "DotNet_Entity Framework.md",
+    "File Structure.md",
+    "ASP.NET Introduction.md",
+    "WebAPI Bugs.md",
+    "Connect WebApp DB.md",
+    "Learn Web API.md",
+    "APIs.md",
+    "Publish Web API.md",
+    "REST Syntax.md",
+    "Blog WebApp Bugs and Notice.md",
+    "pokemon_review table.md",
     "Images/Pasted image 20240416234352.png",
     "Images/Pasted image 20240416234105.png",
     "Images/Pasted image 20240416233906.png",
@@ -210,21 +240,8 @@
     "IT Project Management.md",
     "Project Management/Project Management.md",
     "Project Management",
-    "Pokemon Reviewer WebApp.md",
     "Web API Project.md",
-    "Learn Web API.md",
     "_Focus/2023/Python/API.md",
-    "SQL Bugs.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "Organization.md",
-    "Leadership.md",
-    "Stakeholder Identification.md",
-    "IT_PM My Project Requirement.md",
-    "Making of Gannt Chart.md",
-    "Man.md",
-    "PM Project CPM.md",
-    "IT_PM My Project.md",
-    "WebAPI Bugs.md",
     "Psychology",
     "WTH",
     "Personal/Leadership",

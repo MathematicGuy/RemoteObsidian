@@ -136,6 +136,9 @@ public class Pokemon
 + Swashbuckle.AspNetCore
 
 #### Migration
+> To Re-Update DB after the previous Update Migration. Just modify whatever you need to the model. And re-do this process
+> + Add-Migration "migrationName"
+> + Update-Database
 
 + ? **How to Update Model after Migration**
 Ex: add 'ghi_chu' property in Product Model.
@@ -143,4 +146,6 @@ Ex: add 'ghi_chu' property in Product Model.
 Then Update the Database
 > Update-Database -Context [ExampleDbContext]
 
- 
+
+#### Responsitory Pattern
+> Make your code more organized and not tightly coupled
