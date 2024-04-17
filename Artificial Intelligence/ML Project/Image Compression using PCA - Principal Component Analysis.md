@@ -26,10 +26,10 @@ A Web allow to post image and compress them.
 **Body**
 1) **Data** 
 	+ 100 ảnh mèo.jpeg trên Kaggle. 
-	
-2) **Data Preprocessing** (Tiền xử lý dữ liệu) 
+	+ 2 tập dữ liệu để thực hiện (e.g. jpg, png, grey scale, color, etc...)
+1) **Data Preprocessing** (Tiền xử lý dữ liệu) 
 	+ Áp dụng các kỹ thuật tiền xử lý cơ bản như: thay đổi kích thước, chuẩn hóa dữ liệu,
-	+ Giới thiệu các phương pháp tiền xử lý ảnh nâng cao sử dụng PCA, mạng nơ ron, học sâu (nếu có thể) 
+	+ Giới thiệu các phương pháp tiền xử lý ảnh nâng cao sử dụng PCA, mạng nơ ron, học sâu (nếu có thể) , học có giám 
 	
 3) **Solving Models/Algorithms** (Các mô hình/thuật toán giải quyết)
 	+ **Detail PCA Explaination:** Get into the math:
@@ -46,6 +46,7 @@ A Web allow to post image and compress them.
 5) **Experiment and Evaluate Results:** (Thực nghiệm và đánh giá kết quả)
 	+ Chọn thực nghiệm với các kịch bản dữ liệu khác nhau.
 	+ Đánh giá KQ: VĐ, NĐ, Đề Xuất
+	+ 
 	
 **Conclusions:**
 	1) Acceptable compress ratio to quality
@@ -115,8 +116,15 @@ Step 2: Retrieve research Docuement
 Step 3: Process them
 
 ---
-
 # Archive
+cần có kĩ năng 
+Lập kế hoạch
+	nội dung  |  phương án  |  Kết quả  |  Phân tích rủi ro
+1  
+
+
+
+
 Mở Bài
 + Đặt vấn đề
 + Nội dung thực hiện

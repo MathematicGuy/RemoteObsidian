@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"Machine Learning Assignment\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755092
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.33189179425538845,
-  "close": true
+  "scale": 0.32112055723707067,
+  "close": false
 }

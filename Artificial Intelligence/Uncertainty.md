@@ -1,8 +1,9 @@
+
 Link:  https://youtu.be/5NgNicANyqM?t=13179&si=xzydrSjRPNs8BEY_
 #### Probability: It might be right, it might be not.
 
 **Axiom:** Tiên đề
-**ntuitively:** trực quan
+**Intuitively:** trực quan
 
 ![[Pasted image 20230916082750.png]]
 

@@ -444,8 +444,7 @@ Augmented matrix (turn function into matrix)
 [Row Echelon Form Algorithm](https://www.coursera.org/learn/machine-learning-linear-algebra/programming/XGw1g/gaussian-elimination/lab?path=%2Fnotebooks%2FC1W2_Assignment.ipynb)
 **1st Part: Reduce the matrix using Gaussian Elimination like normal**
 + Divided all to the coefficient of R1.
-+ From the 1st Row * n to Subtract to the 1st row. To Convert the current row into 0
-+ 
++ From the 1st Row * n to Subtract to the 1st row. To Convert the current row into 0 
 
 **2nd Part: Back Substitution** 
 R2 - R3
@@ -474,5 +473,5 @@ Ending Assignment
 # [[Week 3 Vector and Linear Transformations]]
 Ending Assignment
 + [[Artificial Network Using Linear Algebra]]
-+ [[Linear Algebra &amp; Neural Network Assignment]]
++ [[Linear Transformations and Neural Networks Assignment]]
 
