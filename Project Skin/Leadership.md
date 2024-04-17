@@ -19,6 +19,9 @@ continuum: liên
 
 ![[unnamed.webp]]
 
+
+![[unnamed 1.webp]]
+
 ### Why ?  
 Because of AI soon will be ours Servent, it each human responsibility to become a Leader.
 **What kind of Leader ?**
