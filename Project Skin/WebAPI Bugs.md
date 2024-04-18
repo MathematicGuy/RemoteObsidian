@@ -23,3 +23,7 @@ builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("PokemonConnectionString"));
 });
 ```
+
+Unknow Error that are too complex to understand like
++ ! Severity Code Description Project File Line Suppression State Error MSB3027 Could not copy "D:\CMC_UNI\2ndYear\Technology & Web Programming\Learn Web API\PokemonAPI\PokemonAPI\obj\Debug\net8.0\apphost.exe" to "bin\Debug\net8.0\PokemonAPI.exe". Exceeded retry count of 10. Failed. The file is locked by: "PokemonAPI (19268)" PokemonAPI C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets 5254
++ $ **Clean Solution** in Visual Studio 2022
