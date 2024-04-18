@@ -39,3 +39,5 @@ Nokia - đánh giá sai thị trg. (reject Android)
 + Giảm nhẹ rủi ro
 
 **Capability Maturity Model Integration** (CMMI) 
+
+![[DeBaiGiuaKi.jpg]]
