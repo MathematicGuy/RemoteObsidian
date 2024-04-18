@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a70730cf2ce2ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership.md",
+                "file": "Pokemon Reviewer WebApp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership.md",
+                "file": "Pokemon Reviewer WebApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership.md",
+                "file": "Pokemon Reviewer WebApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership.md"
+                "file": "Pokemon Reviewer WebApp.md"
               }
             }
           },
@@ -216,12 +203,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a70730cf2ce2ba2",
+  "active": "1f6d0ab73fecd65c",
   "lastOpenFiles": [
-    "Images/unnamed 1.webp",
-    "Personal/Language Learning/German Vocabulary.md",
-    "Todo.md",
+    "Images/dies-of-cringe-cringe.gif",
+    "Images/images.jpg",
     "Pokemon Reviewer WebApp.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Leadership.md",
+    "Images/unnamed 1.webp",
+    "Todo.md",
     "Web MVC Model.md",
     "Web MVC Exam Requirement.md",
     "DotNet_Entity Framework.md",
@@ -245,8 +235,6 @@
     "Images/Pasted image 20240416192307.png",
     "MongoDB.md",
     "MongoDb Overview.md",
-    "Images/Pasted image 20240416183947.png",
-    "Images/Pasted image 20240416182559.png",
     "Risk Management.md",
     "Blog with ASAP.NET.md",
     "WTH Web API.md",
@@ -254,7 +242,6 @@
     "IT Project Management.md",
     "Project Management/Project Management.md",
     "Project Management",
-    "Web API Project.md",
     "Psychology",
     "WTH",
     "Personal/Leadership",

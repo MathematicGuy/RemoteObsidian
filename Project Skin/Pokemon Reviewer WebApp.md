@@ -149,3 +149,14 @@ Then Update the Database
 
 #### Responsitory Pattern
 > Make your code more organized and not tightly coupled
+
+**Respository Pattern**
+
+
+
+**Interface**
+
+
+
+**Database**
+
