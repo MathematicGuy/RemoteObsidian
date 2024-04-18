@@ -35,4 +35,19 @@ Tiêu chuẩn -> thế nào là chất lượng,
 VD: 
 > Ngon, Không gian đẹp, Nhân viên thân thiện, Chi Phí
 
+Promt
+```md
+I want you to create a excel fomula to calculate the Risk Rating on G2 base on Likelihood on E2 and Impact on F2
+H, H = H
+H, M = H
+H, L = M
+
+M, H = H
+M, M = M
+M, L = L
+
+L, H = M
+L, M = M
+L, L = L
+```
 

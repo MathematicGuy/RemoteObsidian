@@ -26,8 +26,13 @@
             "id": "510fac332722bb57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Risk Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Risk Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Risk Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Risk Management.md"
+              }
             }
           },
           {
@@ -196,6 +205,7 @@
   },
   "active": "510fac332722bb57",
   "lastOpenFiles": [
+    "IT Project Management.md",
     "Todo.md",
     "Images/Pasted image 20240418165708.png",
     "Images/DeBaiGiuaKi.jpg",
@@ -230,7 +240,6 @@
     "Blog with ASAP.NET.md",
     "WTH Web API.md",
     "BlogPost Design Concept.md",
-    "IT Project Management.md",
     "Project Management",
     "Psychology",
     "WTH",
