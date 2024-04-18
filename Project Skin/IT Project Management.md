@@ -43,5 +43,12 @@ Nokia - đánh giá sai thị trg. (reject Android)
 ![[DeBaiGiuaKi.jpg]]
 
 note: việc cần làm
-Liệt kê các bước làm PERT sử dụng MS Project
-Tập trung hoàn thiện tr'c 
+Hoàn Thiện Gantt -> Liệt kê các bước làm PERT sử dụng MS Project -> Hoàn Thiện PERT
+
+Nhắc tường nhập đủ thông tin thời gian.
+Bảo đức tự động hóa phần rating
+![[Pasted image 20240418165708.png]]
+
+```excel
+=IF(AND(D2="High",E2="High"),"Critical",IF(OR(AND(D2="High",E2="Medium"),AND(D2="Medium",E2="High")),"High", IF(AND(D2="Medium",E2="Medium"),"Medium","Low")))
+```
