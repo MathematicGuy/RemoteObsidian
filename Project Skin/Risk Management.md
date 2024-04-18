@@ -51,3 +51,29 @@ L, M = M
 L, L = L
 ```
 
+
+
+
+```excel
+=IF(OR(AND(E6="H", F6="U"), AND(E6="M", F6="U")), "Hết Cứu", LOOKUP(E6&F6, 
+{"HH", "HM", "HL", "MH", "MM", "ML", "LU", "LH", "LM", "LL"},
+{"High", "High", "Medium", "High", "Medium", "Low", "High", "Medium", "Medium", "Low"}))
+```
+
+```
+	{"HH", "HM", "HL", "MH", "MM", "ML", "LU", "LH", "LM", "LL"},
+		{"High", "High", "Medium", "High", "Medium", "Low", "High", "Medium", "Medium", "Low"}))
+```
+
+```excel
+=IF(
+OR(
+	AND(E6="H", F6="U"), AND(E6="M", F6="U")), "Hết Cứu", 
+	LOOKUP(E6&F6, {"HH", "HM", "HL"}, {"High", "High", "Medium"}),
+	LOOKUP(E6&F6, {"MH", "MM", "ML"}, {"High", "High", "Medium"})
+	LOOKUP(E6&F6, {"LU", "LH", "LM", "LL"}, {"High", "Medium", "Medium", "Low"})	
+	)
+```
+
+
+
