@@ -41,3 +41,7 @@ Nokia - đánh giá sai thị trg. (reject Android)
 **Capability Maturity Model Integration** (CMMI) 
 
 ![[DeBaiGiuaKi.jpg]]
+
+note: việc cần làm
+Liệt kê các bước làm PERT sử dụng MS Project
+Tập trung hoàn thiện tr'c 
