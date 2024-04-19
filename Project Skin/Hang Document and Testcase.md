@@ -86,9 +86,84 @@ pm.test("Response is an object with ghi_chu property", function () {
 ```
 ![[Pasted image 20240419110815.png]]
 
-> URL/api/Hang/UpdateHang
+
 
 > URL/api/Hang/DelelteHang2
 
+
+**Input Note & mandatory conditions:** 
++  so_luong input are always number
++  ma_hang_hoa is always number
++  ten_hang_hoa is always string
+### CreateHang testcase
+> URL/api/Hang/UpdateHang
+
+### CreateHang testcase
 > URL/api/Hang/CreateHang
+
+1. **Missing/Empty Fields:**
+2. **Invalid** `ma_hang_hoa`
+Less than 10:
+```json
+{ "id": 0, "ma_hang_hoa": 5, "ten_hang_hoa": "Item", "so_luong": 2, "ghi_chu": "Test" }
+```
+Greater than 99:
+```json
+{ "id": 0, "ma_hang_hoa": 105, "ten_hang_hoa": "Item", "so_luong": 2, "ghi_chu": "Test" }
+```
+
+3. **Invalid** `so_luong`
+Negative
+```json
+{ "id": 0, "ma_hang_hoa": 12, "ten_hang_hoa": "Item", "so_luong": -3, "ghi_chu": "Test" }
+```
+Wrong Data Type
+```json
+{ "id": 0, "ma_hang_hoa": 12, "ten_hang_hoa": "Item", "so_luong": -3, "ghi_chu": "Test" }
+```
+
+4. 3. **Invalid** `ten_hang_hoa`
+Numbers only:
+```json
+{ "id": 0, "ma_hang_hoa": 12, "ten_hang_hoa": "23", "so_luong": 2, "ghi_chu": "Test" }
+```
+Special Characters:
+```json
+{ "id": 0, "ma_hang_hoa": 12, "ten_hang_hoa": "Item!", "so_luong": 2, "ghi_chu": "Test" }
+```
+
+5. **Duplicate** `ma_hang_hoa`
+![[Pasted image 20240419115914.png]]
+
+
+6. ten_hang_hoa != string and so_luong !>0 
+```json
+{
+  "id": 0,
+  "ma_hang_hoa": 0,
+  "ten_hang_hoa": "23",
+  "so_luong": 0,
+  "ghi_chu": "string"
+}
+```
+![[Pasted image 20240419115143.png]]
+
+7. Special Character in ten_hang_hoa test
+```json
+{
+  "id": 0,
+  "ma_hang_hoa": 30,
+  "ten_hang_hoa": "**#2",
+  "so_luong": 29,
+  "ghi_chu": "string"
+}
+```
+Error: response status is 400
+```json
+{
+  "thanh_warning_msg": [
+    "ten_hang_hoa must contain only letters and spaces."
+  ]
+}
+```
 
