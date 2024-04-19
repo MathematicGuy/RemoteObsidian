@@ -10,11 +10,12 @@ German word order: Important context goes first, Verb goes after.
 **Lesson 1**
 + ! Noun must be capitalize
 + $ Key Phrase
-	  Kaffee oder Tea
-	  Brot und Wasser
-	  Tee und Brot, bitte
-	  Danke, Tchüss
-	  Tchüss
+	Kaffee oder Tea
+	Brot und Wasser
+	Tee und Brot, bitte
+	Danke, Tchüss
+	Tchüss
+
 
 Und and
 Oder or
@@ -27,6 +28,7 @@ Danke thank
 	Danke Schon thank you (danke shun)
 Grob tall/big
 Klein smallL
+
 
 **Lesson 2**
 Mein my
@@ -1544,3 +1546,5 @@ Will want
 Hört Ihr oft Jazz - do you often listening to Jazz
 Alex, Hört nicht gern podcast 
 Alex und Steve, hört Ihr jeden tag Jazz
+
+
