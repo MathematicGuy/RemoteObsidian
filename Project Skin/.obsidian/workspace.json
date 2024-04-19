@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ced48b7ec40f82b0",
+        "id": "0549a32df2f30c5b",
         "type": "tabs",
         "children": [
           {
-            "id": "2f825694483c1d05",
+            "id": "7a1a933ac4fae481",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "60521a2f02017b64",
+            "id": "ff4156bd5c3e9186",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -194,7 +198,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "60521a2f02017b64",
+  "active": "ff4156bd5c3e9186",
   "lastOpenFiles": [
     "Todo.md",
     "Images/Pasted image 20240419131042.png",

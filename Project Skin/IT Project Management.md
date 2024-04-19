@@ -52,3 +52,8 @@ Bảo đức tự động hóa phần rating
 ```excel
 =IF(AND(D2="High",E2="High"),"Critical",IF(OR(AND(D2="High",E2="Medium"),AND(D2="Medium",E2="High")),"High", IF(AND(D2="Medium",E2="Medium"),"Medium","Low")))
 ```
+
+
+```
+
+```
