@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0549a32df2f30c5b",
+        "id": "7a2565425fe853b1",
         "type": "tabs",
         "children": [
           {
-            "id": "7a1a933ac4fae481",
+            "id": "f0eb815a59417390",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ff4156bd5c3e9186",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "IT Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "IT Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "IT Project Management.md"
               }
             }
           },
@@ -198,9 +187,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ff4156bd5c3e9186",
+  "active": "f0eb815a59417390",
   "lastOpenFiles": [
+    "IT_PM INTRO.md",
+    "IT Project Management.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240419131042.png",
     "Images/Pasted image 20240419130751.png",
     "Images/Pasted image 20240419115914.png",
@@ -213,11 +205,9 @@
     "Images/Pasted image 20240419110638.png",
     "Images/Pasted image 20240419110555.png",
     "Risk Management.md",
-    "IT Project Management.md",
     "Images/Pasted image 20240418165708.png",
     "IT_PM My Project.md",
     "Pokemon Reviewer WebApp.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Leadership.md",
     "Web MVC Model.md",
     "Web MVC Exam Requirement.md",
