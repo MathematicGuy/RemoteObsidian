@@ -89,14 +89,22 @@ pm.test("Response is an object with ghi_chu property", function () {
 
 
 > URL/api/Hang/DelelteHang2
-
+1. Delete wrong ID
+2. 
 
 **Input Note & mandatory conditions:** 
 +  so_luong input are always number
 +  ma_hang_hoa is always number
 +  ten_hang_hoa is always string
-### CreateHang testcase
+![[Pasted image 20240419131042.png]]
+
+### UpdateHang testcase
 > URL/api/Hang/UpdateHang
+
+
+### DeleteHang testcase
+> URL/api/Hang/DeleteHang
+
 
 ### CreateHang testcase
 > URL/api/Hang/CreateHang
@@ -132,9 +140,9 @@ Special Characters:
 { "id": 0, "ma_hang_hoa": 12, "ten_hang_hoa": "Item!", "so_luong": 2, "ghi_chu": "Test" }
 ```
 
+
 5. **Duplicate** `ma_hang_hoa`
 ![[Pasted image 20240419115914.png]]
-
 
 6. ten_hang_hoa != string and so_luong !>0 
 ```json
@@ -167,3 +175,6 @@ Error: response status is 400
 }
 ```
 
+
+8. **Testcase**: various errors occurs at the same time
+![[Pasted image 20240419130751.png]]
