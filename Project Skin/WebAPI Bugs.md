@@ -84,3 +84,5 @@ Unknow Error that are too complex to understand like
             return Ok(new { Thanh_warning_msg = "Hang Hoa added successfully", hangHoa });
         }
 ```
+
+"Data Source=SQL5113.site4now.net;Initial Catalog=db_aa73dc_product;User Id=db_aa73dc_product_admin;Password=
