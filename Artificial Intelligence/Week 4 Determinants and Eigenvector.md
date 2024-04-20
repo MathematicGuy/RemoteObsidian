@@ -20,3 +20,16 @@ Depending on what order we take 2 basis vectors as follows.
 
 
 **Determinant** of a  product
+it like multiplication for matrices. It blow up the area of a matrix.
+![[Pasted image 20240421000026.png]]
+
+Matrix A: 
+[2 3] [4 1]
+
+Matrix B: [5 6] [2 3]
+
+Singular matrix  * any matrix -> singular matrix. Why?
+![[Pasted image 20240421001559.png]]
+![[Pasted image 20240421001334.png]]
+
+

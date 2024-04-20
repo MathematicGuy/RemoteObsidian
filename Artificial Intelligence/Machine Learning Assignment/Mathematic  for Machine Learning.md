@@ -211,7 +211,6 @@ Row operations that preserve singularity
 
 ![[Pasted image 20240305013038.png]]
 
-
 ![[Pasted image 20240305013129.png]]
 
 adding row to row doesn't change the determinant

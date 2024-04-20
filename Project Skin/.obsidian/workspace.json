@@ -10,6 +10,7 @@
           {
             "id": "01c69f4c0ff9d4ba",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -189,13 +191,13 @@
   },
   "active": "01c69f4c0ff9d4ba",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "Blog WebApp Project Overview.md",
     "WebAPI Bugs.md",
     "Hang Document and Testcase.md",
     "Web API Project.md",
     "Learn Web API.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Vietnamese Vocab.md",
     "IT Project Management.md",
     "IT_PM Gantt Documentation.md",

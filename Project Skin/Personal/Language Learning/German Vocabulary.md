@@ -1493,7 +1493,8 @@ Mittwoch - Wednesday
 + Was machst du am Mittwoch - what are u doing on Wednesday
 
 Pläne - plans
-Wir haben heute keine Pläne 
+	Habt du schon Pläne - do you already have a plan
+Wir haben heute keine Pläne  
 	We have no plan today
 
 Lerne study
@@ -1553,3 +1554,9 @@ Max und Peter, habt Ihr schon Pläne
 Ich habe leider keine Lust
 + ? word ending with -en define as plural
 	Meine KleiderKollektion kosten vierundfünf euro 
+
+lernt dein freund oder geht er heute schwimmen
+>is your boyfriend learning or he going to swimm today
+
+
+Ich weiß nichtit 
