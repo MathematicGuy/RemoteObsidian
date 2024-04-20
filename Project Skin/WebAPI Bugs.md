@@ -79,7 +79,7 @@ Unknow Error that are too complex to understand like
                 return BadRequest(new { Thanh_warning_msg = errorMessages });
             }
 
-            context.hangHoa.Add(hangHoa);
+	            context.hangHoa.Add(hangHoa);
             await context.SaveChangesAsync();
             return Ok(new { Thanh_warning_msg = "Hang Hoa added successfully", hangHoa });
         }
