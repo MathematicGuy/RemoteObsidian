@@ -475,3 +475,5 @@ Ending Assignment
 + [[Artificial Network Using Linear Algebra]]
 + [[Linear Transformations and Neural Networks Assignment]]
 
+
+# [[Week 4 Determinants and Eigenvector]]

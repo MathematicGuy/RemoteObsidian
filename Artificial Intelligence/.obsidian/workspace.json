@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "28b49ddf116086ae",
+            "id": "020e1b0158a8c212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language Processing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f77834cf180cdc8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
+                "file": "Week 4 Determinants and Eigenvector.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
+                "file": "Week 4 Determinants and Eigenvector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
+                "file": "Week 4 Determinants and Eigenvector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md"
+                "file": "Week 4 Determinants and Eigenvector.md"
               }
             }
           },
@@ -195,39 +183,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f77834cf180cdc8d",
+  "active": "020e1b0158a8c212",
   "lastOpenFiles": [
+    "Machine Learning.md",
+    "ML Project/Image Compression using PCA - Principal Component Analysis.md",
+    "Week 4 Determinants and Eigenvector.md",
+    "Image/Pasted image 20240420232451.png",
+    "Image/Pasted image 20240420232314.png",
+    "Image/Pasted image 20240420232158.png",
+    "Image/Pasted image 20240420231946.png",
+    "Image/Pasted image 20240420231813.png",
+    "Image/Pasted image 20240420230926.png",
+    "Image/Pasted image 20240420230901.png",
+    "Image/Pasted image 20240420230556.png",
+    "Machine Learning Assignment/Mathematic  for Machine Learning.md",
+    "Week 3 Vector and Linear Transformations.md",
+    "Mathematics for AI/Mathematics for AI.md",
+    "Mathematics.md",
+    "Natural Language Processing.md",
     "Uncertainty.md",
     "Harvard CS50’s Artificial Intelligence with Python.md",
     "Knowledge.md",
-    "ML Project/Image Compression using PCA - Principal Component Analysis.md",
-    "Natural Language Processing.md",
-    "Machine Learning.md",
     "PCA Ideas notes.md",
     "My AI Project.md",
     "Mathematics for AI Vocabulary.md",
     "Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
     "ML Project",
     "Mathematic for Machine Learning - Assignment.md",
-    "Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "Machine Learning Assignment/Gaussian Elimination from Scratch Documentation.md",
     "Machine Learning Assignment/GaussianElimination_Assignment.md",
     "Machine Learning Assignment",
-    "Week 3 Vector and Linear Transformations.md",
     "Artificial Network Using Linear Algebra.md",
     "Image/Pasted image 20240417104010.png",
     "Image/Pasted image 20240417103920.png",
     "PCA (Principle Component Analysis) Research Documents.md",
-    "Image/Pasted image 20240417082757.png",
     "Emotion Detector.md",
-    "Image/Pasted image 20240416083854.png",
-    "Image/Pasted image 20240416063728.png",
-    "Image/Pasted image 20240416063034.png",
-    "Image/Pasted image 20240416062957.png",
-    "Image/Pasted image 20240416062714.png",
-    "Image/Pasted image 20240416062524.png",
-    "Image/Pasted image 20240416062351.png",
-    "Mathematics for AI/Mathematics for AI.md",
     "CMC AI.md",
     "Mathematics for AI",
     "My AI Skills.md",
@@ -235,9 +225,6 @@
     "Personal",
     "Spaces",
     "A work example of Back-Substitution.md",
-    "A worked example of Row Echelon.md",
-    "C1W2_Assignment_2024_03_28_01_48_45.md",
-    "Linear Algebra.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
