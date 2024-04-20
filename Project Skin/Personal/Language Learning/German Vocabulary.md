@@ -1504,7 +1504,8 @@ Mein partner hat leider schon Pläne - my partner unfortunatly already have a pl
 Arbeiten - (job related) work/are working
 Ich kann nitcht, ich muss im Cafe arbeiten
 
-I don't want to and I have to work
+I don
+'t want to and I have to work
 	Ich habe keine Lust und Ich muss arbeiten
 
 Lernt dein Freund oder geht er heute Schwimmen
@@ -1548,3 +1549,5 @@ Alex, Hört nicht gern podcast
 Alex und Steve, hört Ihr jeden tag Jazz
 
 
+Max und Peter, habt Ihr schon Pläne
+Ich habe leider keine Lust

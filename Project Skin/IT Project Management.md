@@ -50,3 +50,5 @@ Hoàn Thiện Gantt -> Liệt kê các bước làm PERT sử dụng MS Project 
 ```
 
 [[IT_PM Gantt Documentation]]
+
+note: VIết hàng Tasm từ Gantt vào MS Project. Thời gian có thể ghi sau

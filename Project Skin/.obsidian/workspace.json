@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2565425fe853b1",
+        "id": "dd2ec726efd95806",
         "type": "tabs",
         "children": [
           {
-            "id": "f0eb815a59417390",
+            "id": "99e9d9fbf5975b85",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f15947e82912744a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM Gantt Documentation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM Gantt Documentation.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM Gantt Documentation.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM Gantt Documentation.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,17 +189,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f15947e82912744a",
+  "active": "99e9d9fbf5975b85",
   "lastOpenFiles": [
-    "Images/Pasted image 20240419235316.png",
-    "Images/Pasted image 20240419235314.png",
+    "Vietnamese Vocab.md",
+    "Todo.md",
     "IT Project Management.md",
     "IT_PM Gantt Documentation.md",
+    "Personal/Language Learning/German Vocabulary.md",
+    "Images/Pasted image 20240419235316.png",
+    "Images/Pasted image 20240419235314.png",
     "IT_PM My Project.md",
     "Images/Pasted image 20240418165708.png",
-    "Todo.md",
     "IT_PM INTRO.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240419131042.png",
     "Images/Pasted image 20240419130751.png",
     "Images/Pasted image 20240419115914.png",
@@ -223,7 +210,6 @@
     "Images/Pasted image 20240419110815.png",
     "Images/Pasted image 20240419110735.png",
     "Images/Pasted image 20240419110639.png",
-    "Images/Pasted image 20240419110638.png",
     "Risk Management.md",
     "Pokemon Reviewer WebApp.md",
     "Leadership.md",
