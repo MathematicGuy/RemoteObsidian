@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "226c9e2896b6da6c",
+        "id": "ca70ddbc776f82ea",
         "type": "tabs",
         "children": [
           {
-            "id": "af4f311c981ef758",
+            "id": "86a278209ea818dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0d21596e4914c6b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,10 +194,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "af4f311c981ef758",
+  "active": "0d21596e4914c6b9",
   "lastOpenFiles": [
-    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Vietnamese Vocab.md",
     "IT Project Management.md",
     "IT_PM Gantt Documentation.md",
