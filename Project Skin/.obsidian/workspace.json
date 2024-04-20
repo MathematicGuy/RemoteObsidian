@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd2ec726efd95806",
+        "id": "f594097be85364f0",
         "type": "tabs",
         "children": [
           {
-            "id": "99e9d9fbf5975b85",
+            "id": "71231ce508811a0b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d4d770d763f8b600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Language Learning/German Vocabulary.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,13 +189,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d4d770d763f8b600",
+  "active": "71231ce508811a0b",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Vocabulary.md",
     "Todo.md",
     "Vietnamese Vocab.md",
     "IT Project Management.md",
     "IT_PM Gantt Documentation.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Images/Pasted image 20240419235316.png",
     "Images/Pasted image 20240419235314.png",
     "IT_PM My Project.md",

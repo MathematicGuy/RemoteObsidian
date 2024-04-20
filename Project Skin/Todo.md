@@ -105,6 +105,8 @@ Next Week
 #Calithenic
 - [ ] Tuck hold
 - [ ] Psudo Planche
+- [ ] 15 - 20 Weighted Di
+- [ ] 10 - 15 Perfect Pullup
 
 Luck
 ![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
