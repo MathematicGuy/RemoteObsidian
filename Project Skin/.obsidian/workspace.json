@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d4d770d763f8b600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -189,10 +203,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "99e9d9fbf5975b85",
+  "active": "d4d770d763f8b600",
   "lastOpenFiles": [
-    "Vietnamese Vocab.md",
     "Todo.md",
+    "Vietnamese Vocab.md",
     "IT Project Management.md",
     "IT_PM Gantt Documentation.md",
     "Personal/Language Learning/German Vocabulary.md",
