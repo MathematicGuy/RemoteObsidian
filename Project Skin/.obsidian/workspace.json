@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca70ddbc776f82ea",
+        "id": "7645f01f7663ae10",
         "type": "tabs",
         "children": [
           {
-            "id": "86a278209ea818dc",
+            "id": "5282b058f863fc8c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,29 +23,11 @@
             }
           },
           {
-            "id": "0d21596e4914c6b9",
+            "id": "403b0cf5e355c540",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebAPI Bugs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c2b5b0866a4cef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hang Document and Testcase.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -124,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebAPI Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebAPI Bugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WebAPI Bugs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,13 +194,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d21596e4914c6b9",
+  "active": "403b0cf5e355c540",
   "lastOpenFiles": [
-    "Hang Document and Testcase.md",
+    "Todo.md",
+    "Blog WebApp Project Overview.md",
     "WebAPI Bugs.md",
+    "Hang Document and Testcase.md",
     "Web API Project.md",
     "Learn Web API.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Vietnamese Vocab.md",
     "IT Project Management.md",
@@ -253,7 +232,6 @@
     "REST Syntax.md",
     "Blog WebApp Bugs and Notice.md",
     "pokemon_review table.md",
-    "MongoDB.md",
     "Project Management",
     "Psychology",
     "WTH",
