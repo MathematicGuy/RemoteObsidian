@@ -12,3 +12,12 @@
 [Learn Web API CRUD](https://www.youtube.com/watch?v=b8fFRX0T38M)
 
 [[Hang Document and Testcase]]
+
+
+```cs
+
+                     <a asp-area=""
+                        asp-controller="Hang"
+                        asp-action="UpdateGhiChu"
+                        asp-route-id="@HangHoa.Id">EditNote</a>
+```
