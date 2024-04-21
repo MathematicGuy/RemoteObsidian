@@ -16,6 +16,7 @@ Let me give you a Example of the Work Flow from the web persective:
 2) Employee that can do Web Programming works will be in Web Programming Team. The same for AI, Business Team, etc..
 3) The Team will then grant team's member role. Ex: member can do FE and BE be a FullStake role, member with great communication and general skill be a Team lead.
 4) Now, the compatible Team for be chosen for the Project. Ex: Shopping Project will only choose Web Deve, Markting team
+
 These are my main Feature for the system: Tag Management, Role Management, Choose compatiple team for the Project, Choose compatible employee for the team.
 Also explain the relationship and table in detail
 
