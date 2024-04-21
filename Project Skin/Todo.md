@@ -43,8 +43,6 @@ Next Week
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
 
-
-
 #Todo/Personal
 - [ ] Defined Idiot Time Index
 - [ ] Improve Blog Try Catch. If user missing any input then goes back and retype  
@@ -103,20 +101,21 @@ Next Week
 [[Obsidient System]]
 
 #Calithenic
-- [ ] Tuck hold
-- [ ] Psudo Planche
+- [x] Tuck hold
+- [x] Psudo Planche
 - [ ] 15 - 20 Weighted Dip
 - [ ] Push-up with Weight Backpack (5-10 kilogram)
 - [ ] 10 - 15 Perfect Consecutive Pullup 
 - [ ] Tips: Start Step-by-step and start small (Slow and Steady)
 	**My Plance Pushup Roadmap**
 	first-thing-first: Hold your-self in a straight line. Control my body as they're 1 Unit 
-	- [ ] Start by Balance my-self first
-	- [ ] Psudo plance from 1-2 minutes
-	- [ ] Body tuck from 1-2 minutes
-	- [ ] Body tuck pushup from 12-20 reps
+	- [x] Start by Balance my-self first
+	- [x] Psudo plance from 1-2 minutes
+	- [x] Body tuck from 1-2 minutes
+	- [x] Body tuck pushup from 12-20 reps
 		- [ ] Then increase gradually 5 more reps each 
-	- [ ] 2-3 minutes: 90 Degree hold - Keep balancing myself and try to get to that point.
+- [ ] **1st Milestone**
+	- [ ] 1-2 minutes: 90 Degree hold - Keep balancing myself and try to get to that point.
 	- [ ] Moving my wirst closer and closer to my hip and Keep that Plance position for 2 minutes.
 	- [ ] My first Plance Push-up.
 

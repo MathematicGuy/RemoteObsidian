@@ -39,14 +39,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 Determinants and Eigenvector.md",
+                "file": "Machine Learning Assignment/Mathematic  for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 Determinants and Eigenvector.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 Determinants and Eigenvector.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4 Determinants and Eigenvector.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -195,13 +194,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fa417c4df0c3bf3",
+  "active": "398e0fd66f39ca06",
   "lastOpenFiles": [
+    "Machine Learning.md",
     "Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "Week 4 Determinants and Eigenvector.md",
+    "Image/Pasted image 20240421002905.png",
+    "Image/Pasted image 20240421002741.png",
+    "Image/Pasted image 20240421002440.png",
     "Image/Pasted image 20240421001559.png",
     "Image/Pasted image 20240421001334.png",
-    "Machine Learning.md",
     "Mathematics for AI/Mathematics for AI.md",
     "Week 3 Vector and Linear Transformations.md",
     "Image/Pasted image 20240420235026.png",
@@ -210,9 +212,6 @@
     "Image/Pasted image 20240420234940.png",
     "Image/Pasted image 20240420234939.png",
     "ML Project/Image Compression using PCA - Principal Component Analysis.md",
-    "Image/Pasted image 20240420232451.png",
-    "Image/Pasted image 20240420232314.png",
-    "Image/Pasted image 20240420232158.png",
     "Mathematics.md",
     "Natural Language Processing.md",
     "Uncertainty.md",
