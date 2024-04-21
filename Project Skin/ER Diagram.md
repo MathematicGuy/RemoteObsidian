@@ -18,3 +18,6 @@ Let me give you a Example of the Work Flow from the web persective:
 4) Now, the compatible Team for be chosen for the Project. Ex: Shopping Project will only choose Web Deve, Markting team
 These are my main Feature for the system: Tag Management, Role Management, Choose compatiple team for the Project, Choose compatible employee for the team.
 Also explain the relationship and table in detail
+
+![[Pasted image 20240421171444.png]]
+

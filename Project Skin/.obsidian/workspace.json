@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "10051a0b0ed9245c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDA HW2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDA HW2.md",
+                "file": "ER Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDA HW2.md",
+                "file": "ER Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDA HW2.md"
+                "file": "ER Diagram.md"
               }
             }
           },
@@ -216,8 +203,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10051a0b0ed9245c",
+  "active": "dc5bb755e3ca1fb6",
   "lastOpenFiles": [
+    "Images/Pasted image 20240421171444.png",
+    "SDA HW2.md",
     "System Administration Database.md",
     "SAD Project.md",
     "_Focus/SQL & DataBase/DataBase.md",
@@ -252,8 +241,6 @@
     "DotNet_Entity Framework.md",
     "File Structure.md",
     "ASP.NET Introduction.md",
-    "Connect WebApp DB.md",
-    "APIs.md",
     "Project Management",
     "Psychology",
     "WTH",
