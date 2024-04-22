@@ -235,14 +235,12 @@ trang4: (Detail -> trang 4) Do bảng nhân viên có quá nhiều thông tin đ
 
 **Trang Team**
 trang 1: có feature điền tên team và thêm thành viên vào team: 
-
 1) Phần thứ nhất ở trên là 1 Thanh Lọc thông tin. 
 > **Featurs**: gắn Tag cho nhân viên
 
 Cơ bản thì lọc theo kĩ năng nhé. Ở trên có 1 input cho phép cậu tra các tag skills 
 VD: sau khi tra đc tag skill JS thì bảng phía dưới sẽ hiện thông tin cơ bản của nhân viên đó. Bao gồm cả kĩ năng của nhân viên. 
 (VD Thiết kế: cột chứa tag kĩ năng của nhân viên nhìn như hình màu xám ở dưới)  
-
 
 2) 1 Bảng thông tin ở dưới thiết kế giống hệt bảng ở trang 2 của nhân viên. 
 > **Feature**: hiện thị thông tin
@@ -255,10 +253,10 @@ Trang 2: có 1 bảng hiện thị thông tin. Bảng đó có tầm 5 cột đ�
 Trang 3: Giao diện và quy trình edit giống như phần Tạo nhân viên ở trang 1. (vì nó cũng chỉ là tạo lại và thay thông tin)
 
 **Feature Team cho Project** (thiết kế gần như tương tự Trang Team)
-trang 1: Điền thông tin cơ bản của Project (mọi thông tin trong bảng project). Phía dưới cùng có nút xác nhận 
-Bấm nút xác nhận sẽ chuyển tới Trang Chọn Team:
-Giao diện gồm 2 phần. 
+trang 1: Điền thông tin cơ bản của Project (mọi thông tin trong bảng project)
+Phía dưới cùng có nút xác nhận. Bấm nút xác nhận sẽ chuyển tới Trang Chọn Team:
 
+Giao diện gồm 2 phần. 
 1) Phần thứ nhất ở trên là 1 Thanh Lọc thông tin. 
 Cơ bản thì lọc theo kĩ năng nhé. Ở trên có 1 input cho phép cậu tra các tag skills 
 VD: sau khi tra đc tag skill JS thì bảng phía dưới sẽ hiện thông tin cơ bản của Team. Bao gồm cả kĩ năng của nhân viên. 
