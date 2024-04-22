@@ -87,7 +87,8 @@ CREATE TABLE project (
     priority VARCHAR(10) CHECK (priority IN ('Low', 'Medium', 'High')), -- Enforce valid priorities
     status NVARCHAR(20) CHECK (status IN ('Open', 'In Progress', 'Completed', 'On Hold')),  -- Predefined statuses
     start_date DATETIME NOT NULL,
-    end_date DATETIME 
+    end_date DATETIME,
+    project_manager_id int,
 ); 
 ```
 
@@ -105,7 +106,7 @@ CREATE TABLE employee (
     address NVARCHAR(75),
     birth_date DATE,  -- DATE might be sufficient if you don't need time
     hire_date DATE  NOT NULL,
-    manager_id INT NULL, 
+
     FOREIGN KEY (manager_id) REFERENCES employee(employee_id) -- Self-referential foreign key
 );
 ```
@@ -113,11 +114,7 @@ CREATE TABLE employee (
 
 Query for employee manager
 ```sql
-SELECT p.project_id, p.name, 
-       m.first_name AS 'Manager First Name', m.last_name AS 'Manager Last Name' 
-FROM project p 
-JOIN employee m ON p.project_manager_id = m.employee_id
-WHERE p.project_id = 123; -- Example project ID
+
 ```
 
 **Task**
@@ -129,7 +126,6 @@ CREATE TABLE task (
     task_priority VARCHAR(10) CHECK (task_priority IN ('Low', 'Medium', 'High', 'Urgent')), -- Enforce priorities
     status NVARCHAR(20) CHECK (status IN ('Open', 'In Progress', 'Completed', 'On Hold')), -- Predefined statuses
     due_date DATETIME, 
-    assigned_employee_id INT NULL, -- Allow for unassigned tasks initially
     FOREIGN KEY (assigned_employee_id) REFERENCES employee(employee_id) 
 ); 
 ```
@@ -144,12 +140,12 @@ CREATE TABLE team (
 ); 
 ```
 
-
-Team_Task
+**Team_Task**
 ```sql
 CREATE TABLE team_task_assignment (
     team_id INT NOT NULL, 
     task_id INT NOT NULL,
+    assigned_employee_id INT NULL, -- Allow for unassigned tasks initially
     PRIMARY KEY (team_id, task_id), -- Composite key 
     FOREIGN KEY (team_id) REFERENCES team(team_id),
     FOREIGN KEY (task_id) REFERENCES task(task_id),
