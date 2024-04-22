@@ -1,11 +1,10 @@
 ### Part I
 ![[Pasted image 20240422133907.png]]
-1. Compete the command to return all the posts with number of likes greater than 100 and less than 200,
+1. Complete the command to return all the posts with number of likes greater than 100 and less than 200,
 both inclusive?
 ```json
 db.posts.find({ likes: { $gte: 100, $lte: 200 } });
 ```
-
 
 2. Write a command to remove a single document that matches the condition that Author is Joe?
 ```sql
@@ -73,7 +72,7 @@ Tasks: Utilize the MongoDB shell/IDE to perform the following tasks within the "
 
 6. Find documents in the restaurants collection that achieved a score is more than 80 but less than 100.
 ```json
-db.restaurants.find({ "grades.score": { $gt: 80, $lt: 100 } });
+db.restaurants.find({ grades:{ $elemMatch:{ score:{ $gt: 80, $lt: 100 }}}});
 ```
 7. Display the next 5 restaurants after skipping first 5 which are in the borough Bronx.
 ```json
