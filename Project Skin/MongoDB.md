@@ -258,3 +258,5 @@ db.users.createIndex({age:36}, {name:"IDX_NAME"});
 db.users.find({lastName:"Lee", age:36}).explain("executionStats");
 ```
 
+
+
