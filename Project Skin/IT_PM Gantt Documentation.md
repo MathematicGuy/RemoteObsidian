@@ -12,21 +12,22 @@ Requirement Gathering
 **Planning**
 Detailed Project Plan -> AI Development
 
+
 **Design**
 System and Website Design work in Parallel
 
-Development
+
+**Development**
 FE, BE start in parallel
 
 
-
-Design
+**Design**
 System Design -> Backend Development
 Website Design -> Frontend Development
 AI Development End when Backend Development End
 
-Testing
+**Testing**
 + Write Test and Execusted Test can be done in the same day.
-+ SUAT (simplified User Accep...) - Finish to Finish with System Testing
++ SWAT (simplified User Accep...) - Finish to Finish with System Testing
 
 
