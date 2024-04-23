@@ -54,3 +54,25 @@ EV, CV, SV, CPI, SPI, EAC
 	CPI = EV / AC = 1.1111111111 (Underbudget)
 	SPI  = EV / PV = 0.6 (delay to plan)	
 	EAC = 600 / 1.111 = 540 
+
+
+##### KIỂM SOÁT VÀ ĐIỀU CHỈNH CHI PHÍ
+**Earned value technique – EVT**
+Xem xet cac phép tính sau:
+▪ Cost Variance: Biến động chi phí CV = EV – AC = $35.000 – $38.000 = – $3.000
+▪ Schedule Variance: Biến động lịch trình SV = EV – PV = $35.000 đô la – $40.000 = -$5.000
+▪ Cost Performance Index: Chỉ số hiệu suất chi phí CPI = EV/AC = $35.000/$38.000 = 0.92 ( vượt quá chi phí).
+▪ Schedule Performance Index: Chỉ số hiệu suất lịch trình. SPI = EV/PV = $35.000/$40.000 = 0.875 (dự án chậm
+tiến độ so với kế hoạch).
+
+Estimate to complete: Dự toán hoàn thành – Có the ươc tính chi phí hoan thanh dư an dưa tren nhưng đièu đã
+được hoàn thành cho đến nay, so với ngân sách khi hoàn thành. Để tính toán Estimate to complete – Dự toán hoàn
+thành. (ETC), hãy sử dụng một trong hai công thức (BAC – Budget At Completion – Ngân sách hoàn thành, tương
+đương với Planned Value – Giá trị kế hoạch khi hoàn thành): Khi sai lệch hiện tại là không điển hình và không được
+mong đợi sẽ xảy ra trong tương lai thì sử dụng: ETC = BAC – EV
+
+Khi sai lệch hiện tại được coi là điển hình của những sai lệch trong tương lai:
+	ETC = (BAC – EV)/CPI
+Trong ví dụ trên, nếu tổng ngân sách dự án là $60.000 và các chênh lệch được coi là điển hình, phép tính sẽ như sau:
+	ETC = ($60.000 – $35.000)/0.92 = $27.174
+	Bạn cần $ 27,174 để hoàn thành công việc còn lại.
