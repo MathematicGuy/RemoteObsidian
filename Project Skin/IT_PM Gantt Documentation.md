@@ -31,3 +31,4 @@ AI Development End when Backend Development End
 + SWAT (simplified User Accep...) - Finish to Finish with System Testing
 
 
+note: tiêu chí hoàn thành dự án.
