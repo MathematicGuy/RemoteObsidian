@@ -347,6 +347,7 @@ Manchmal sometime
 spiele play
 	spielst plays (he/she plays)
 	Ich spiel am Sonntag Fußball
+	Spielt Ihr
 Klavier piano
 	ich spiele sehr gut Klavier
 Schach chess (...come last)
@@ -698,6 +699,7 @@ Hast du - do you have (not Have To - muss)
 	 Habe kein not have
 	 hat has
 	 Hast du einen Stuhl
+	 Habt Ihr (plural form of habe)
 (same principle with e - ich | t - er | st - du | en - Frau, Herr)
 Onkel uncle
 	einen Onkel
@@ -881,7 +883,8 @@ Isst eat
 	Möchtest du ins Schwimmbad gehen
 	-> ja, aber ich kein nicht. Ich habe kein geld
 	(yes, but I can not. I have no money)
-
+![[mo¨chten-conjugation-table.png]]
+- [ ] 
 das Schwimmbad - the swimming pool
 Möchte would like (Möchte ich, Möchtest du, etc..)
 Ins to the
@@ -1400,7 +1403,7 @@ Feiere - are celebrating
 	(Ich - Feiere, Sie - Feieren, Wir - feiern )
 	Wo Feiert Ihr heute geburtstag - where are you celebrating your birthday
 Hause - home
-
+	
 
 Hast du im April oder im Mai Geburtstag?
 	Is your birthday in April or in May
@@ -1446,8 +1449,11 @@ Ihr - plural from -> Mia und Markus, spielt Ihr Tennis
 
 
 Der Film - the movie
+	Duo, möchtest du einen Film sehen
 Die Geige - violin
 Gitarre - guitar
+Instrument - instrument
+	Ich kannt kein instrument spielen
 Herr Baum spielt ein instrument für die drei freunde 
 Tim und Ali, Spielt Ihr Geige oder Klavier 
 	Ihr -> plural (Tim and Ali ist 2 persons) 
@@ -1520,6 +1526,9 @@ Klassenzimmer - classroom
 
 Hat deine Mutter am Zehnten Juli Geburtstag
 Tanzen dance
+	Tanzt du? - do you dance?
+	Tanzt du gern
+	Mein schwester tanzt manchmal zu hause
 Adresse address
 so So (not sehr)
 + $ Thanh und Mai, Wir haben ein Klavier zu Schlafzimmer
@@ -1528,9 +1537,14 @@ so So (not sehr)
 + ? Deine (singular) -> Ihrem (plural) (**Ihrem** mean **yours** in **plural form**)
 
 Kann can
+	Könnt Ihr  - can you guy (kann in plural form)
 kein no
 -> Kann kein - cannot
 Ich kann kein/ Klavier - i can't play the piano
+
+#kein_vs_nicht
+1. If the word is a noun, use “kein”
+2. For all other parts of speech (e.g. verbs, adverbs, adjectives, possessive pronouns, prepositional phrases, definite articles), use “nicht”
 
 Dauert - lasts
 Bis - until
@@ -1560,3 +1574,4 @@ lernt dein freund oder geht er heute schwimmen
 
 
 Ich weiß nichtit 
+Hobbys - hobbies
