@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72125b27d0e0bb1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chap IV - IT project Cost management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chap IV - IT project Cost management.md",
+                "file": "Blog with ASAP.NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chap IV - IT project Cost management.md",
+                "file": "Blog with ASAP.NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chap IV - IT project Cost management.md"
+                "file": "Blog with ASAP.NET.md"
               }
             }
           },
@@ -216,14 +203,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "72125b27d0e0bb1e",
+  "active": "e735109e795f2da2",
   "lastOpenFiles": [
-    "IT Project Management.md",
+    "Todo.md",
     "Blog with ASAP.NET.md",
+    "Chap IV - IT project Cost management.md",
+    "IT Project Management.md",
     "SAD Project.md",
     "SAD Exam.md",
     "MongoDB.md",
-    "Todo.md",
     "Images/Pasted image 20240422133907.png",
     "System Administration Database.md",
     "MongoDb Overview.md",
@@ -253,7 +241,6 @@
     "IT_PM INTRO.md",
     "Risk Management.md",
     "Pokemon Reviewer WebApp.md",
-    "Leadership.md",
     "Project Management",
     "Psychology",
     "WTH",

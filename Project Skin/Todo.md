@@ -9,10 +9,8 @@ banner: Images/Pasted image 20240402135259.png
 
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
-+ [ ] Basic Create, Insert, Delete Procedure
 - [ ] Learn to say Yes or No by Default
-![[Pasted image 20240416194655.png]]
-
+- [ ] Lúc rảnh hay ko học cột viết tên các task cho CPM trong MS 
 
 Next Week
 - [ ] Perfect my Morning Routine

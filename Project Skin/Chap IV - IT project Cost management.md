@@ -76,3 +76,5 @@ Khi sai lệch hiện tại được coi là điển hình của những sai l�
 Trong ví dụ trên, nếu tổng ngân sách dự án là $60.000 và các chênh lệch được coi là điển hình, phép tính sẽ như sau:
 	ETC = ($60.000 – $35.000)/0.92 = $27.174
 	Bạn cần $ 27,174 để hoàn thành công việc còn lại.
+
+
