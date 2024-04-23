@@ -1567,7 +1567,7 @@ Register
 
 
 Login Page
-```cs
+```html
 @model MyBlog.Web.Models.ViewModels.LoginViewModel
 
 <link rel="stylesheet" href="~/css/login.css" asp-append-version="true"/>
@@ -1639,7 +1639,7 @@ Login Page
 ```
 
 Register Page
-```cs
+```html
 @model MyBlog.Web.Models.ViewModels.LoginViewModel
 
 @{}
