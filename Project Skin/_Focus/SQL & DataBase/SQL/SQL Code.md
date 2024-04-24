@@ -186,10 +186,16 @@ ADD phone_number VARCHAR(20);
 RENAME COLUMN phone_number TO email;
 ```
 ![[Pasted image 20230814114906.png]]
+> In MySQL 
 ```sql
 ALTER TABLE employees
 MODIFY COLUMN email VARCHAR(100);
 ```
+> In MS SQL Server
+```sql
+EXEC sp_rename 'Project.prefer_skills', 'prefer_team', 'COLUMN';
+```
+
 ![[Pasted image 20230814114948.png]]
 
 ALTER TABLE - Set Primary Key 
