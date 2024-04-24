@@ -132,3 +132,5 @@ Estimate time table using PERT
 Network Diagram and determine CPM
 Risk Assessment
 Conclusion
+
+Note: Bảo Tường Làm Đẹp lại Bảng Gantt
