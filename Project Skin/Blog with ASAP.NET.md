@@ -1276,9 +1276,9 @@ Link youtube turtorial : how to connect BlogwebMVC
 **Create AuthDbModel using IdentityDbContext library**
 > Select AuthDbContext Db to avoid conflict with BloggieDbContext and bc more than 2 DbContext
 ```cs
-    public class AuthDbContext : IdentityDbContext
-    {   
-        public AuthDbContext(DbContextOptions<AuthDbContext> options) : base(options) {}
+public class AuthDbContext : IdentityDbContext
+{   
+  public AuthDbContext(DbContextOptions<AuthDbContext> options) : base(options) {}
 ```
 Next, Create Roles and Add it to Identity Role
 ```cs
@@ -1404,14 +1404,21 @@ Authentication -> able to use certain of features or not
 
 Setting finished, Let Migration using Add-Migrate and Update-Database command. 
 + ! Add name and -Context when Add-Migrate and Update-Database
+	AuthDbContext is the ContextDb Name
 ![[Pasted image 20240406132542.png]]
 + Update-Database -Context "AuthDbContext" (result img below)
 	![[Pasted image 20240408084404.png]]
 + If not using -Context this is the error
 	![[Pasted image 20240406135248.png]]
 + ! The DbContext Migrate data must be Correct from Update-Database to happened. **If DbContext was fix in any period of time. Re-Update the Database**
- 
-2) Create Sign Up and Login, Logout button in the header.
++ ! Both Entity Framework 6 and Entity Framework Core are installed. The Entity Framework 6 tools are running. Use 'EntityFrameworkCore\Add-Migration' for Entity Framework Core.
+```cs
+EntityFrameworkCore\Add-Migration "Name" -Context "DbContext_Name" 
+EntityFrameworkCore\Update-Database -Context "DbContextName"
+```
+
+
+1) Create Sign Up and Login, Logout button in the header.
 ```html
 <div class="d-flex align-item-center">
   <!-- Check User signed In or Not -->
@@ -1802,12 +1809,8 @@ public async Task<IActionResult> Login(LoginViewModel loginViewModel)
 }
 ```
 
-
-
 Authorize User's Role 
 ![[Pasted image 20240408100756.png]]
-
-
 
 
 ### Adding Like and Comment Function
