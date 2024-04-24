@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad941655ef9cd947",
+        "id": "4286345cdc889fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "005fd3669afe132d",
+            "id": "dda03b48e81c82e3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c6de1eca0555105a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM Gantt Documentation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM Gantt Documentation.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM Gantt Documentation.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM Gantt Documentation.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c6de1eca0555105a",
+  "active": "dda03b48e81c82e3",
   "lastOpenFiles": [
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
