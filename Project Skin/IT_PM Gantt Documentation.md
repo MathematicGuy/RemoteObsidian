@@ -120,3 +120,15 @@ note: tiêu chí hoàn thành dự án.
 		Hold Project Retrospective Meeting with Team Members	81 
 	Identify Lessons Learned and Improvement Opportunities for Future Projects 	81
 **Project Milestone: Finish**	84
+
+
+
+Giới thiệu cơ quan/đơn vị/công 
+
+Project Initiation
+Project Charter
+WBS
+Estimate time table using PERT
+Network Diagram and determine CPM
+Risk Assessment
+Conclusion
