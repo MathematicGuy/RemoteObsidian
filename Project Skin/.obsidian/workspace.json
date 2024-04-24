@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "e4afb08bee827e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "733fe626a3dbf68e",
             "type": "leaf",
             "state": {
@@ -48,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REST Syntax.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REST Syntax.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REST Syntax.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -216,7 +202,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "733fe626a3dbf68e",
+  "active": "dda03b48e81c82e3",
   "lastOpenFiles": [
     "Blog with ASAP.NET.md",
     "Todo.md",

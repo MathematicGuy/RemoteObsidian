@@ -45,4 +45,70 @@ For each HTTP verb, there are expected status codes a server should return upon 
 "email": "hA@gmail.com",
 "password": "hA@123"
 ```
-AQAAAAIAAYagAAAAEOuti1+NIVNL9R7LsncDcWXkdj8HfL9vGqorQp+OPFftO/pgWIXlO6H4KN5IN9Hjew==
+
+
+```cs
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> signInManager
+
+                        @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                        {
+                                       
+						 <li class="nav-item dropdown">
+							 <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							  Admin
+							 </a>
+					
+							 <ul class="navbar-nav flex-grow-1">
+								  <li class="nav-item">
+										<a class="nav-link text-dark" asp-area="" asp-controller="Hang" asp-action="ViewHang">View_Hang</a>
+								  </li>
+						
+								  <li class="nav-item">
+										<a class="nav-link text-dark" asp-area="" asp-controller="Hang" asp-action="CreateHang">Create_Hang</a>
+								  </li>
+						
+								  <li class="nav-item">
+										<a class="nav-link text-dark" asp-area="" asp-controller="Hang" asp-action="ViewHangById">View_Hang_By_Id</a>
+								  </li>
+							 </ul>
+						</li> 
+						}
+					}
+
+```
+
+
+```cs
+                   @if (signInManager.IsSignedIn(User))
+                   {
+                       // Display the User Name if Logged In
+                       <div class="btn me-3 text-light">
+                           @User?.Identity?.Name
+                       </div>
+
+                       <a class="btn me-3 text-light"
+                          asp-area=""  
+                          asp-controller="Account"
+                          asp-action="Logout">
+                           Logout
+                       </a>
+                   }
+                   else
+                   {
+                       <a class="btn me-3 bg-light text-dark"
+                          asp-area=""
+                          asp-controller="Account"
+                          asp-action="Register">
+                           Register
+                       </a>
+
+                       <a class="btn me-3 text-light"
+                          asp-area=""
+                          asp-controller="Account"
+                          asp-action="Login">
+                           Login
+                       </a>
+                   }
+ 
+```
