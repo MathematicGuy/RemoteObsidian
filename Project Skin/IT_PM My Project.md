@@ -174,3 +174,9 @@ $$
 
 ![[Pasted image 20240425235251.png]]
 
+[Add PERT to MS Project using ES, EF, LS, LF](https://pm.stackexchange.com/questions/21381/how-to-display-es-ls-ef-lf-in-numbers-using-ms-project-network-diagram)
+
+Slack - also called Float
+	**the amount of time a task can slip before it bumps into another task**.
+
+Variance (sai số) - kiểm tra số thời gian quá 
