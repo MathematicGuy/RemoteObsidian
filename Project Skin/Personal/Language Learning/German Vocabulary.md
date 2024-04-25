@@ -930,7 +930,7 @@ Ich freue mich - I look forward to it
 Wann When
 	Wann hast du Zeit - when do you free
 	Bis Wann until when (Bis - Until, Wann - When)
-	Wann du Fußball spielst?    - when do you play football ?
+	Wann du Fußball spielst? - when do you play football ?
 
 Nachmittag - afternoon
 	Ja, heute Nachmittag ist gut - yes, this afternoon is good
@@ -1572,6 +1572,6 @@ Ich habe leider keine Lust
 lernt dein freund oder geht er heute schwimmen
 >is your boyfriend learning or he going to swimm today
 
-
 Ich weiß nichtit 
 Hobbys - hobbies
+

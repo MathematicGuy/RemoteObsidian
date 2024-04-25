@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8b28792b59e84b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -189,11 +203,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "542ad469bda20720",
+  "active": "8b28792b59e84b94",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Vocabulary.md",
+    "Todo.md",
     "Learn Web API.md",
     "Web API Authentication & Authorization.md",
-    "Todo.md",
     "SAD Project.md",
     "APIs.md",
     "Publish Web API.md",
@@ -205,7 +220,6 @@
     "System Administration Database.md",
     "SDA HW2.md",
     "Blog with ASAP.NET.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "Images/mo¨chten-conjugation-table.png",
     "IT_PM Gantt Documentation.md",
     "IT Project Management.md",
