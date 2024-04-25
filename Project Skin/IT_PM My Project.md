@@ -160,3 +160,15 @@ Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give int
 
 Estimated Time Table PERT 
 
+- **Timing**: This column may represent various time estimates related to the completion of each activity. In PERT, typically three time estimates are provided:
+    
+    - **Optimistic Time (A)**: The shortest possible time required to complete the activity under ideal conditions.
+    - **Most Likely Time (M)**: The best estimate of the time required to complete the activity under normal conditions.
+    - **Pessimistic Time (B)**: The longest possible time required to complete the activity under adverse conditions.
+- **Mean Time**: This column represents the mean or average time estimated for completing the activity. In PERT, the mean time is calculated using the formula: 
+$$
+Mean Time= \dfrac{A+4M+B}{6}​
+$$
+
+
+
