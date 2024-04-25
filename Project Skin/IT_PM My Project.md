@@ -169,6 +169,8 @@ Estimated Time Table PERT
 $$
 Mean Time= \dfrac{A+4M+B}{6}​
 $$
+![[Pasted image 20240425235157.png]]
 
 
+![[Pasted image 20240425235251.png]]
 
