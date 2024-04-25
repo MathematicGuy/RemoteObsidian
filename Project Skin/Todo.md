@@ -2,6 +2,8 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
+[[Goal Archive]]
+
 #Todo/Priority
 - [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
 - [ ] Practice with MongoDb HW
@@ -10,11 +12,10 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Learn to say Yes or No by Default
-- [ ] Lúc rảnh hay ko học cột viết tên các task cho CPM trong MS 
-
 Next Week
-- [ ] Perfect my Morning Routine
-![[Pasted image 20240416194722.png]]
+- [ ] Lập bảng ước lượng thời gian
+- [ ] 
+
 
 
 **Daily Plan**
@@ -24,16 +25,16 @@ Next Week
 
 
 #Todo/GoalsThisMonth
-- [ ] Try not to Argue with my self on doing This and That. Focus on how to enjoy and make the Best of what I got. Not Self Blamming.
-- [ ] Test out if I could Learn to code using mind visualization and memorization. (code in my brain and process information + memorize it without coding)
+- [ ] Achieve Morning 4 Hours Deepwork 
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] Practice talking articulate with a pencil between my mouth
 - [ ] Share my Stories to my uncle Hung. When I finish this year
+	what story?
 
 **My Learning**
-[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) (Finish this course to take C++ course)
+[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) 
 [Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 0
 [HTML-CSS-JS for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/3)  (Finish this course to take Data Science course)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)

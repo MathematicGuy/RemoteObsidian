@@ -158,3 +158,5 @@ Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give int
 
 ![[Pasted image 20240319141255.png]]
 
+Estimated Time Table PERT 
+

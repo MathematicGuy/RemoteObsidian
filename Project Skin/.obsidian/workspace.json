@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c22d56d112f3fb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT_PM My Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "IT_PM My Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "IT_PM My Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "IT_PM My Project.md"
               }
             }
           },
@@ -189,10 +203,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c2a33c99913fdf78",
+  "active": "c22d56d112f3fb20",
   "lastOpenFiles": [
-    "Personal/Language Learning/German Vocabulary.md",
+    "IT Project Management.md",
+    "IT_PM My Project.md",
+    "PM Project CPM.md",
     "Todo.md",
+    "Project Management/Project Management.md",
+    "Goal Archive.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Learn Web API.md",
     "Web API Authentication & Authorization.md",
     "SAD Project.md",
@@ -208,7 +227,6 @@
     "Blog with ASAP.NET.md",
     "Images/mo¨chten-conjugation-table.png",
     "IT_PM Gantt Documentation.md",
-    "IT Project Management.md",
     "Chap IV - IT project Cost management.md",
     "SAD Exam.md",
     "MongoDB.md",
@@ -217,14 +235,10 @@
     "_Focus/2023/Challenges & Guides/Github.md",
     "Images/Pasted image 20240421225908.png",
     "Images/Pasted image 20240421225834.png",
-    "SAD Project Archive.md",
-    "ER Diagram.md",
     "Images/Pasted image 20240421171444.png",
-    "_Focus/SQL & DataBase/DataBase.md",
     "Images/Pasted image 20240421153143.png",
     "Images/Pasted image 20240421152937.png",
     "Images/Pasted image 20240421152924.png",
-    "Blog WebApp Project Overview.md",
     "Images/Pasted image 20240419235316.png",
     "Images/Pasted image 20240419235314.png",
     "Project Management",
