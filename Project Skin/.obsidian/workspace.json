@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c22d56d112f3fb20",
+            "id": "7d55cf4b4eca688e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT_PM My Project.md",
+                "file": "Excel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM My Project.md",
+                "file": "Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM My Project.md",
+                "file": "Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM My Project.md"
+                "file": "Excel.md"
               }
             }
           },
@@ -203,12 +203,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c22d56d112f3fb20",
+  "active": "7d55cf4b4eca688e",
   "lastOpenFiles": [
-    "IT Project Management.md",
-    "IT_PM My Project.md",
-    "PM Project CPM.md",
     "Todo.md",
+    "IT_PM My Project.md",
+    "Excel.md",
+    "_Focus/2023/3rd Semesters/CSharp/Export to Excel CSharp.md",
+    "IT Project Management.md",
+    "PM Project CPM.md",
     "Project Management/Project Management.md",
     "Goal Archive.md",
     "Personal/Language Learning/German Vocabulary.md",
@@ -231,8 +233,6 @@
     "SAD Exam.md",
     "MongoDB.md",
     "Images/Pasted image 20240422133907.png",
-    "MongoDb Overview.md",
-    "_Focus/2023/Challenges & Guides/Github.md",
     "Images/Pasted image 20240421225908.png",
     "Images/Pasted image 20240421225834.png",
     "Images/Pasted image 20240421171444.png",
