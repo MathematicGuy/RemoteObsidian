@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e58f17245f175977",
+        "id": "f90696aa04c79c96",
         "type": "tabs",
         "children": [
           {
-            "id": "5839cad181f2a18e",
+            "id": "6008f183227afe7c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,20 +23,7 @@
             }
           },
           {
-            "id": "182d8641b29065eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b38b2bd97a04d2a7",
+            "id": "a3f522e32716598f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +203,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b38b2bd97a04d2a7",
+  "active": "a3f522e32716598f",
   "lastOpenFiles": [
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "Cyber Security Revision.md",
     "Todo.md",
+    "Cyber Security Revision.md",
     "Personal/Language Learning/German Vocabulary.md",
     "IT_PM My Project.md",
     "IT Project Management.md",
