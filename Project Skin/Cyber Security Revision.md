@@ -58,3 +58,4 @@ mã hóa bảng băm và mã hóa đối xứng không được ưu tiên sử d
 
 tạo - bí mật
 xác minh - công khai
+

@@ -1,4 +1,3 @@
-[ Machine Learning is ==turning things ̣(data)== into numbers and  ===finding patterns === in those numbers ]
 
 => Allow machine to learn without explicitly programmed.
 

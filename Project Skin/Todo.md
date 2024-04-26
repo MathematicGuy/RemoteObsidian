@@ -12,14 +12,10 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Learn to say Yes or No by Default
-Next Week
-- [ ] Lập bảng ước lượng thời gian
-- [ ] 
-
 
 
 **Daily Plan**
-- [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section
+- [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
 - [ ] Work Out ~ 30'
 - [ ] Hygine and Shower ~ 35'
 
