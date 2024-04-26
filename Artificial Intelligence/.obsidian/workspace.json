@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Artificial Intelligent Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Artificial Intelligent Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "Artificial Intelligent Revision.md"
               }
             }
           },
@@ -182,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "398e0fd66f39ca06",
+  "active": "87c0a962e3a8453c",
   "lastOpenFiles": [
-    "Artificial Intelligent Revision.md",
     "Machine Learning.md",
+    "Artificial Intelligent Revision.md",
     "Week 4 Determinants and Eigenvector.md",
     "Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "Image/Pasted image 20240421002905.png",

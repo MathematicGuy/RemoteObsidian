@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9e893a0e3a659a5a",
+        "id": "9f6dfb8dd2cfa518",
         "type": "tabs",
         "children": [
           {
-            "id": "09a960702b8dcb8b",
+            "id": "1eafa0143c5a1b16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Flow State.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flow State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flow State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flow State.md"
+              }
             }
           },
           {
@@ -179,8 +187,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09a960702b8dcb8b",
+  "active": "1eafa0143c5a1b16",
   "lastOpenFiles": [
+    "Flow State.md",
     "My Dream.md",
     "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
     "Untitled.md",
@@ -219,7 +228,6 @@
     "Productivity & Improvement/Study Strategies.md",
     "How To/How to Lose Your Passion.md",
     "How To/How to Think Like an Artist.md",
-    "Question Mark/Why & What.md",
     "Why",
     "Social",
     "How To",

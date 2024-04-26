@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "07ccacd301816306",
+        "id": "c91556829bdf7f31",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b2cf05595a4dd2",
+            "id": "70e364744432c332",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,11 +187,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d1b2cf05595a4dd2",
+  "active": "70e364744432c332",
   "lastOpenFiles": [
-    "Todo.md",
     "Cyber Security Revision.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
+    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "IT_PM My Project.md",
     "IT Project Management.md",
