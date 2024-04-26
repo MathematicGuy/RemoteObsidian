@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f90696aa04c79c96",
+        "id": "07ccacd301816306",
         "type": "tabs",
         "children": [
           {
-            "id": "6008f183227afe7c",
+            "id": "d1b2cf05595a4dd2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "72a9808689845715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Revision.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Revision.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Revision.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "72a9808689845715",
+  "active": "d1b2cf05595a4dd2",
   "lastOpenFiles": [
     "Todo.md",
     "Cyber Security Revision.md",
