@@ -5,13 +5,27 @@ banner: Images/Pasted image 20240402135259.png
 [[Goal Archive]]
 
 #Todo/Priority
-- [ ] [Web API](https://www.youtube.com/watch?v=PKkKCv7Lno0)
-- [ ] Practice with MongoDb HW
-- [ ] Tạo SQL query cơ bản cho CSDL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Improve my Sleep Quality
+- [ ] Tạo SQL query cơ bản cho CSDL
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
