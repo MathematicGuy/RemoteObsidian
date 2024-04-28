@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c91556829bdf7f31",
+        "id": "bb606d92a0019222",
         "type": "tabs",
         "children": [
           {
-            "id": "70e364744432c332",
+            "id": "56739ca4beb2932d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -183,16 +185,16 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "70e364744432c332",
+  "active": "56739ca4beb2932d",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Vocabulary.md",
+    "Todo.md",
     "Cyber Security Revision.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "Todo.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "IT_PM My Project.md",
     "IT Project Management.md",
     "Images/Pasted image 20240425235251.png",

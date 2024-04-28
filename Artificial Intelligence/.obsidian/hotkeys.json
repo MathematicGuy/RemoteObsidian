@@ -51,14 +51,6 @@
       "key": "A"
     }
   ],
-  "app:open-settings": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
   "app:open-vault": [
     {
       "modifiers": [

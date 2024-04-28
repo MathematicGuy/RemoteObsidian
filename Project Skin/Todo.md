@@ -11,8 +11,7 @@ banner: Images/Pasted image 20240402135259.png
 
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
-- [ ] Learn to say Yes or No by Default
-
+- [ ] Improve my Sleep Quality
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
@@ -22,6 +21,7 @@ THING I WANT TO ACHIEVE THIS WEEK
 
 #Todo/GoalsThisMonth
 - [ ] Achieve Morning 4 Hours Deepwork 
+
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)

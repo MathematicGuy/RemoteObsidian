@@ -1469,7 +1469,9 @@ Die TaxiFahrt dauert circa vierzehn Minuten
 
 Die/Meine Straße - the/my street
 	Das ist mein Straße
-Willst - do you want to
+Will - want to
+	Willst du - do you want to
+	Wollt Ihr
 Höre listening
 
 Der Wald the forest
@@ -1511,14 +1513,14 @@ Mein partner hat leider schon Pläne - my partner unfortunatly already have a pl
 Arbeiten - (job related) work/are working
 Ich kann nitcht, ich muss im Cafe arbeiten
 
-I don
-'t want to and I have to work
+I don't want to and I have to work
 	Ich habe keine Lust und Ich muss arbeiten
 
 Lernt dein Freund oder geht er heute Schwimmen
 	Is your boyfriend studying or he going to swimming
 
 Hast du - is your / do you have
+Hast du schon Pläne? - do u have a plane
 
 Leise - quite
 Nichts - nothing (from nitch - not)
@@ -1572,6 +1574,4 @@ Ich habe leider keine Lust
 lernt dein freund oder geht er heute schwimmen
 >is your boyfriend learning or he going to swimm today
 
-Ich weiß nichtit 
-Hobbys - hobbies
 
