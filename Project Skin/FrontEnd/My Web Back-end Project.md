@@ -107,36 +107,136 @@ Manage User Account
 	+ Verify 
 
 
-|     |                          |                           |                                                                                 |
-| --- | ------------------------ | ------------------------- | ------------------------------------------------------------------------------- |
-| ID  | Feature                  | Use Case                  | Use Case Description                                                            |
-| 01  | User registration        | Register                  | Creates a new account on the system                                             |
-| 02  | User authentication      | Log in                    | Log in to the system                                                            |
-| 03  | User authentication      | Log out                   | Log out of the system                                                           |
-| 04  | User authentication      | Forget password           | Set new password if user forgot old password                                    |
-| 05  | User profile management  | Change password           | Set new password                                                                |
-| 06  | User profile management  | Edit profile              | Modify user personal information                                                |
-| 07  | Participation Management | Join Assignment           | Students participate in classes as authorized by the instructor                 |
-| 08  | Assignment Management    | Attempt Assignment        | Students do the available exercises                                             |
-| 09  | Submission  Management   | Submit Assignment         | Students do the exercise until it is confirmed to be correct, then click submit |
-| 10  | Viewing Management       | View Public Assignment    | See what exercises are allowed                                                  |
-| 11  | Viewing Management       | View Enrolled Assignment  | View registered exercises                                                       |
-| 12  | Viewing Management       | View Ongoing Assignment   | See which exercises are currently available                                     |
-| 13  | Viewing Management       | View Finalized Assignment | Students can view details of completed assignments                              |
-| 14  | Manage Questions         | Create Question           | Create Question to put in Assignment                                            |
-| 15  | Manage Questions         | View Question             | View all Question                                                               |
-| 16  | Manage Questions         | Edit Question             | Edit available Question                                                         |
-| 17  | Manage Questions         | Delete Question           | Delete available Question                                                       |
-| 18  | Manage Assignments       | View Draft Assignments    | Display Draft Assignment before publish                                         |
-| 19  | Manage Assignments       | Create Assignment         | Create Assignment with questions                                                |
-| 20  | Manage Assignments       | Publish Assignments       | Publish Assignment for students                                                 |
-| 21  | Manage Assignments       | View Assignments          | Display Published Assignments                                                   |
-| 22  | Manage Assignments       | Finalized Assignments     | Ending Assignments that have been Scored                                        |
-| 23  | Manage Assignments       | Edit Assignments          | Modify available Assignment                                                     |
-| 24  | Manage Assignments       | Delete Assignments        | Delete available Assignment                                                     |
-| 25  | Manage Score             | Export Score              | Export Score to pdf, csv, txt, etc..                                            |
-| 26  | Manage Bot               | Modify Bot                | Modify Bot version, Type, etc…                                                  |
-| 27  | Manage Users Account     | Fine-tune Bot             | Remove property from wishlist                                                   |
-| 28  | Manage Users Account     | Verify User Account       | Verify teacher & student account                                                |
-| 29  | Manage Users Account     | Disable Account           | Disable account usability                                                       |
-| 30  | Manage Users Account     | View Account              | View user account                                                               |
+Usecase Model
+```js
+@startuml
+!theme plain
+left to right direction
+skinparam linetype ortho
+
+actor Guest
+actor Student
+actor Teacher
+actor Admin
+
+rectangle "Assignment Management System" {
+    usecase "Login"
+    usecase "Logout"
+    usecase "Forget Password"
+    
+    usecase "View Assignment" 
+    usecase "Grade Assignment"
+    usecase "View Public Assignment"
+    usecase "View Enrolled Assignment"
+    usecase "View OnGoing Assignment"
+    usecase "View Finalized Assignment"
+
+    usecase "Create Assignment"
+    usecase "Publish Assignment"
+    usecase "Edit Assignment"
+    usecase "Delete Assignment"
+    usecase "Finalized Assignment"
+    
+    usecase "Create Question"
+    usecase "View Question"
+    usecase "Edit Question"
+    usecase "Delete Question"
+    
+    usecase "Modify Bot"
+    usecase "Fine-Tune Bot"
+    
+    usecase "Verify User Account"
+    usecase "Disable Account"
+    usecase "View Account"
+
+    usecase "Join Assignment" 
+    usecase "Attempt Assignment" 
+    usecase "Submit Assignment" 
+
+    usecase "Export Score"
+    usecase "Manage Assignment"
+    usecase "Manage Question" 
+
+    usecase "Manage Bot" 
+    usecase "Manage User Account"  
+    
+    usecase "Manage Profile" 
+
+    "View Assignment" --> (View Public Assignment) : <<include>>
+    "View Assignment" --> (View Enrolled Assignment) : <<include>>
+    "View Assignment" --> (View OnGoing Assignment) : <<include>>
+    "View Assignment" --> (View Finalized Assignment) : <<include>>
+
+    "Manage Assignment" --> (Create Assignment) : <<include>>
+    "Manage Assignment" --> (Publish Assignment) : <<include>>
+    "Manage Assignment" --> (Edit Assignment) : <<include>>
+    "Manage Assignment" --> (Delete Assignment) : <<include>>
+    "Manage Assignment" --> (Finalized Assignment) : <<include>>
+    "Manage Assignment" --> (Grade Assignment) : <<include>>
+
+    "Manage Question" --> (Create Question) : <<include>>
+    "Manage Question" --> (View Question) : <<include>>
+    "Manage Question" --> (Edit Question) : <<include>>
+    "Manage Question" --> (Delete Question) : <<include>>
+
+    "Manage Bot" --> (Modify Bot) : <<include>>
+    "Manage Bot" --> (Fine-Tune Bot) : <<include>>
+
+    "Manage User Account" --> (Verify User Account) : <<include>>
+    "Manage User Account" --> (Disable Account) : <<include>>
+    "Manage User Account" --> (View Account) : <<include>>
+
+    "Manage Profile" --> (Change Password) : <<include>>
+    "Manage Profile" --> (Edit Profile) : <<include>>
+
+    Student --> "Join Assignment"
+    Student --> "Attempt Assignment"
+    Student --> "Submit Assignment"
+
+    Guest --> "Login" 
+    Student --> "Login" 
+    Teacher --> "Login" 
+    Admin <-- "Login"
+
+    Guest --> "Logout"
+    Student --> "Logout" 
+    Teacher --> "Logout" 
+    Admin <-- "Logout"
+
+    Guest --> "Forget Password"
+    Student --> "Forget Password"
+    Teacher --> "Forget Password" 
+    Admin <-- "Forget Password"
+
+    Guest --> "Manage Profile"
+    Student --> "Manage Profile"
+    Teacher --> "Manage Profile"
+    Admin <-- "Manage Profile"
+
+    Guest --> "View Assignment"
+    Student --> "View Assignment"
+    Teacher --> "View Assignment"
+    Admin <-- "View Assignment"
+
+    Teacher --> "Create Assignment"
+    Teacher --> "Edit Assignment"
+
+    Admin <-- "Manage Bot"
+    Admin <-- "Manage User Account" 
+}
+@enduml
+
+```
+
+
+Activity Des and Dia Template
+Use case name: 
+Summary: 
+Actor:
+Precondition: 
+Main sequence:
+1. 
+2. 
+3. 
+Alternative sequence:
+Postcondition: 
