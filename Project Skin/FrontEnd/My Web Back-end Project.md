@@ -55,6 +55,8 @@ Feedback to Thay Huy
 Bọn em còn trẻ nên bọn em muốn tự quyết định việc bọn em muốn làm gì và phát triển theo hướng gì. Và cố gắng tránh việc đi theo 1 dự án của người khác những lúc mới bắt đầu để tránh việc tư duy bị đóng khung, làm bọn em mất dần khả năng tự đưa ra quyết định.
 
 
+### Use Case
+
 Actor: Guest, Student, Teacher, Admin
 Guest:
 **Relation between Actor and Use Cases** 
@@ -229,7 +231,7 @@ rectangle "Assignment Management System" {
 ```
 
 
-Activity Des and Dia Template
+#### Activity Description Template
 Use case name: 
 Summary: 
 Actor:
@@ -240,3 +242,28 @@ Main sequence:
 3. 
 Alternative sequence:
 Postcondition: 
+
+
+#### Activity Description and Code
+
+```js
+@startuml
+start
+:Admin selects Manage Bot;
+:Display bot list;
+if (Bot available?) then (yes)
+    :Admin selects a bot;
+    fork
+        fork again
+            :Modify Bot;
+        fork again
+            :Fine-tune Bot;
+        end fork
+    :Update Bot;
+else (no)
+    :Display "No Bots Found";
+endif
+stop
+@enduml
+```
+
