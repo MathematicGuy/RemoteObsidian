@@ -245,7 +245,22 @@ Postcondition:
 
 
 #### Activity Description and Code
+Login
+```js
+@startuml
+start
+if (User logged in?) then (yes)
+ :ActionsBasedOnRole;
+else (no)
+ :EnterCredentials;
+ :VerifyCredentials;
+-> login;
+endif 
+stop
+@enduml
+```
 
+Manage Bot
 ```js
 @startuml
 start
@@ -267,3 +282,70 @@ stop
 @enduml
 ```
 
+Manage Question
+```js
+@startuml
+start
+:Select "Manage Questions";
+:Display list of questions;
+:Admin selects a question;
+if (Question exists?) then (yes)
+    switch (Manage Question Actions?)
+    case (Create)
+      :Create Question;
+    case (Update) 
+      :Update Question;
+    case (Read) 
+      :Read Question;
+    case (Delete) 
+      :Delete Question;
+    endswitch
+else (no)
+    :Display Error Message;
+endif 
+stop
+@enduml
+```
+
+Publish Assignment
+```js
+@startuml
+!pragma useVerticalIf on 
+start 
+if (Teacher logged in?) then (yes)
+    :Select "Publish Assignment";
+    repeat :Teacher provides details;
+    backward: Prompt for missing details;
+    repeat while (All details provided?) is (no)
+    -> yes;
+    :Publish Assignment;
+else (no) 
+    stop 
+endif
+stop
+@enduml
+```
+
+![[Pasted image 20240428232317.png]]
+
+View Assignment
+```js
+@startuml
+start
+if (User logged in?) then (yes)
+  :Select "View Assignments";
+  :Display list of assignments;
+  :User selects an assignment;
+  if (Assignment exists?) then (yes)
+    :Display assignment details;
+  else (no)
+    :Display Error Message;
+  endif;
+else (no)
+  -> User not logged in;
+endif;
+stop
+@enduml
+```
+
+![[Pasted image 20240428233357.png]]
