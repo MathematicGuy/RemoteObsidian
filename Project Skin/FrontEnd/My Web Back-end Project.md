@@ -349,3 +349,22 @@ stop
 ```
 
 ![[Pasted image 20240428233357.png]]
+
+1.1. Introduction to the MVC model
+1.1.1. Components in MVC
+1.1.2. Processing flow in MVC
+1.2 Facility management system subsystems
+1.2.1.
+1.2.2.
+etc..
+
+1.2 Facility management system subsystems
+1.2.1. User Subsystem
+● Model:
+○ Users
+○ Loan/return slip
+● Controllers:
+○ User Controller
+○ Controller loan/return slip
+● View:
+	○ User interface
