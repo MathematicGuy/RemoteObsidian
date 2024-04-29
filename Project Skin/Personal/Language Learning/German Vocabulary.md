@@ -100,7 +100,7 @@ Wo where
 + ? Wo is used when you want to know where someone or something is. (include country)
 	- example: Wo ist die Katze? (where's the cat?)
 	- Wo ist kanada
-+ ? Woher is used when you want to know where someone or something comes from. 
++ ? Woher is used when you want to knoatw where someone or something comes from. 
 	example: Woher kommst du? (Where do you come from?)
 
 gut good
@@ -1552,6 +1552,7 @@ Dauert - lasts
 Bis - until
 -> Dauert bis - last until
 Hört hear/listen
+	Mein Onkel Jazz hört sehr gern
 + ? Plural form: Zwei podcast hören (hear in plural ) 
 
 peter like to play video game in english and he listen to podcast in spanish. So he learn languages 
