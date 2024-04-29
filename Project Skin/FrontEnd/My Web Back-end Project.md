@@ -1,3 +1,5 @@
+[[My Web Back-end Note]]
+
 Part I: INTRODUCTION TO THE PROBLEM
 
 Current Situation:
@@ -411,6 +413,30 @@ etc..
 ● View:
 	○ User interface
 
-
-
 Knowing what your opponent know, is what help you give what your opponent need.
+
+
+
+Work Flow Description
+
+**Teacher**
+**Question CRUD feature:**
++ Create Question: Teacher fills basic input (name, description).
++ Question Bank: Display Question Table with Edit Question Action and Delete Question Action for each Question.
+**Assignment CRUD features:**  
++ Create Assignment: Teacher fill basic input (Name, Description, Start date, Due Date), add wanted Questions (at least 1 to many)
++ Publish Assignment: Teacher choose a Assignment from the Assignment List Table to publish
++ Opened Assignment: Display published Assignment with Edit Assignment Action and Delete Assignment Action
++ Closed Assignment: Display closed Assignment. cannot edit (assignment that pass due date)
++ Finalized Assignment: Display Scored Assignment of each Student in the Table with Edit Submission Action and a circle (green (done)/red (not done)) to show the status of each student to for each Assignment
+
+
+**Student**  
+**Assignment CRUD Features** 
++ Publish Assignment: Student choose a Assignment from the Assignment List Table to Enroll 
++ Enrolled Assignment: Display enrolled Assignment, student can attempt assignment 
++ Closed Assignment: Display Closed Assignment. student cannot attempt anymore (assignment that pass due date) 
++ Finalized Assignment: Display every Student's Assignment Scored. 
++ Submissions: Display student's attempted assignment and coding IDE on the Dashboard. Student can Submit Assignment after Finished. Submitted Assignment show Assignment finished time, State and Point in Dashboard. (note: Student will submit the whole Assignment, not per Question)
+
+

@@ -32,7 +32,9 @@ Setting
 **Student UI requirement**
 + Dashboard (view Enrolled Assignment)
 + Public Assignment
-+ ....
++ Enrolled Assignments
++ Ongoing Assignment
++ Finalized Assignments
 
 + Reference
 	![[Pasted image 20240227105121.png]]
@@ -55,7 +57,6 @@ Setting
 + Export Score (in csv, txt, xlsx) 
 + Score Assignment parallel with ChatGPT result
 	+ Can view ChatGPT code score & review side by side (can be fold)
-e
 + Setting (Manage profile, functionalities(change theme, Compact view, Normal, etc..)
 + Reference
 	![[Pasted image 20240227105139.png]]
