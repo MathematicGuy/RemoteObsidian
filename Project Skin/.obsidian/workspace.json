@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9f667b18cf5af028",
+        "id": "a22a8055960049ee",
         "type": "tabs",
         "children": [
           {
-            "id": "022ad88053fa50fe",
+            "id": "2727659643c4879b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,38 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9b342f0020f162a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrontEnd/My Web Back-end Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db30479aabeb277a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SR Front-End Requirement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/My Web Back-end Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/My Web Back-end Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/My Web Back-end Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -216,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9b342f0020f162a0",
+  "active": "2727659643c4879b",
   "lastOpenFiles": [
     "SR Front-End Requirement.md",
     "FrontEnd/My Web Back-end Project.md",
