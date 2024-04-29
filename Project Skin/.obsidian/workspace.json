@@ -10,6 +10,7 @@
           {
             "id": "022ad88053fa50fe",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,38 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9b342f0020f162a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FrontEnd/My Web Back-end Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db30479aabeb277a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SR Front-End Requirement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "FrontEnd/My Web Back-end Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "FrontEnd/My Web Back-end Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "FrontEnd/My Web Back-end Project.md"
               }
             }
           },
@@ -187,21 +216,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "022ad88053fa50fe",
+  "active": "9b342f0020f162a0",
   "lastOpenFiles": [
+    "Todo.md",
+    "SR Front-End Requirement.md",
+    "Science Research - Design and Recommended Languages.md",
+    "BackEnd/Group Project.md",
+    "IT Project Management.md",
+    "PM Project CPM.md",
+    "FrontEnd/My Web Back-end Project.md",
     "Images/Pasted image 20240428233357.png",
     "Images/Pasted image 20240428232317.png",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "Cyber Security Revision.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "IT_PM My Project.md",
-    "IT Project Management.md",
     "Images/Pasted image 20240425235251.png",
     "Images/Pasted image 20240425235157.png",
     "Excel.md",
     "_Focus/2023/3rd Semesters/CSharp/Export to Excel CSharp.md",
-    "PM Project CPM.md",
     "Project Management/Project Management.md",
     "Goal Archive.md",
     "Learn Web API.md",
@@ -215,16 +248,12 @@
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Practice Procedure and Trigger.md",
     "System Administration Database.md",
-    "SDA HW2.md",
-    "Blog with ASAP.NET.md",
     "Images/mo¨chten-conjugation-table.png",
-    "IT_PM Gantt Documentation.md",
     "Images/Pasted image 20240422133907.png",
     "Images/Pasted image 20240421225908.png",
     "Images/Pasted image 20240421225834.png",
     "Images/Pasted image 20240421171444.png",
     "Images/Pasted image 20240421153143.png",
-    "Images/Pasted image 20240421152937.png",
     "Project Management",
     "Psychology",
     "WTH",

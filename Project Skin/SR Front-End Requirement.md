@@ -55,7 +55,7 @@ Setting
 + Export Score (in csv, txt, xlsx) 
 + Score Assignment parallel with ChatGPT result
 	+ Can view ChatGPT code score & review side by side (can be fold)
-
+e
 + Setting (Manage profile, functionalities(change theme, Compact view, Normal, etc..)
 + Reference
 	![[Pasted image 20240227105139.png]]
@@ -78,5 +78,4 @@ note: ASAP.NET có 2 file HTML và CSS.
 + 1 file HTML template. Mọi thứ có trong HTML template có trong HMTL thường. 
 + 1 file HTML thường. Mọi thiết kế trong file này ko liên quan tới bất kì file HTML nào khác.
 
-		
 ![[Pasted image 20240317013456.png]]

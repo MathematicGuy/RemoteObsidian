@@ -368,3 +368,5 @@ etc..
 ○ Controller loan/return slip
 ● View:
 	○ User interface
+
+
