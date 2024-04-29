@@ -283,26 +283,65 @@ stop
 ```
 
 Manage Question
+-> fork in activity diagram allow parralel flow of activity
 ```js
 @startuml
+title Manage Question Use Case
+
 start
+
 :Select "Manage Questions";
 :Display list of questions;
 :Admin selects a question;
+
 if (Question exists?) then (yes)
-    switch (Manage Question Actions?)
-    case (Create)
-      :Create Question;
-    case (Update) 
-      :Update Question;
-    case (Read) 
-      :Read Question;
-    case (Delete) 
-      :Delete Question;
-    endswitch
+    fork 
+        fork again 
+            :Create Question; 
+        fork again
+            :View Question Details (Read);
+        fork again
+            :Update Question;
+        fork again 
+            :Delete Question; 
+        end fork 
 else (no)
     :Display Error Message;
 endif 
+
+stop
+@enduml 
+```
+
+Manage Assignment
+```js
+@startuml
+title Manage Assignment Use Case
+
+start
+
+:Teacher selects "Manage Assignments";
+:System Displays Assignment List;
+
+if (Existing Assignments?) then (yes)
+    fork
+        fork again 
+            :Create New Assignment; 
+        fork again
+            :View Assignment Details;
+        fork again
+            :Edit Assignment;
+        fork again 
+            :Delete Assignment;
+        fork again 
+            :Publish Assignment; 
+        fork again 
+            :Close Assignment;
+        end fork
+else (no)
+    :System Displays: No Assignments; 
+endif
+
 stop
 @enduml
 ```
@@ -310,18 +349,21 @@ stop
 Publish Assignment
 ```js
 @startuml
-!pragma useVerticalIf on 
-start 
-if (Teacher logged in?) then (yes)
-    :Select "Publish Assignment";
-    repeat :Teacher provides details;
-    backward: Prompt for missing details;
-    repeat while (All details provided?) is (no)
-    -> yes;
-    :Publish Assignment;
-else (no) 
-    stop 
-endif
+title Publish Assignment Use Case
+
+start
+
+:Publish Assignment;
+repeat :Provide Detail;
+    backward:System Prompts: Missing Details;
+     repeat while (All Details Provided?) is (no)
+    -> yes;     
+    
+repeat: Add Question;
+    backward: Prompt for missing detail;
+    repeat while (Questions Added?) is (no)
+     -> yes;
+    :Publishes Assignment;
 stop
 @enduml
 ```
@@ -370,3 +412,5 @@ etc..
 	○ User interface
 
 
+
+Knowing what your opponent know, is what help you give what your opponent need.
