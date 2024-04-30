@@ -105,7 +105,6 @@ class Question {
     -name : String
     -description : String
     -totalPoints : int
-    -isGlobal : boolean
 }
 
 class QuestionController {
