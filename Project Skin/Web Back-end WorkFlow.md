@@ -69,3 +69,128 @@
     - Teacher clicks "Save" or similar.
     - `SubmissionController` updates the `Submission` score.
     - Controller creates a new `Feedback` record (author = "Teacher") and associated `FeedbackContent`.
+
+
+### Class Diagram
+example command: Create Class Diagram using PlantUML for Question Subsystem
+
+#### User
+```js
+class User {
+    - id : int
+    - name : String
+    - email : String
+    - passwordHash : String
+    - role : String 
+
+    + login()
+    + logout()
+    + resetPassword()
+    + editProfile()
+}
+
+class AdminController {
+    + createUser()
+    + deleteUser()
+    + modifyUser()
+    + assignRole()
+}
+```
+
+#### Question
+```js
+@startuml
+!theme vibrant
+class Question {
+    -name : String
+    -description : String
+    -totalPoints : int
+    -isGlobal : boolean
+}
+
+class QuestionController {
+    + createQuestion()
+    + editQuestion()
+    + deleteQuestion() 
+}
+@enduml
+```
+
+
+#### Assignment 
+```js
+@startuml
+!theme vibrant
+class Assignment {
+    - title : String
+    - description : String
+    - publishTime : Datetime
+    - closeTime : Datetime
+    - status : String 
+}
+
+class Question {
+    - name : String
+    - description : String
+    - totalPoints : int 
+}
+
+class AssignmentQuestion {
+    - assignmentId: int
+    - questionId: int
+}
+
+class AssignmentController {
+    + viewPublishedAssignments() //Student
+    + createAssignment() //Teacher
+    + editAssignment() //Teacher
+    + deleteAssignment() //Teacher
+    + publishAssignment() //Teacher 
+    + closeAssignment() //Teacher
+    + finalizeAssignment() //Teacher
+} 
+
+Assignment "1" -- "*" AssignmentQuestion
+AssignmentQuestion "*" -- "1" Question
+@enduml
+```
+
+
+#### Submission
+```js
+@startuml
+!theme vibrant
+class Submission {
+    - studentId : int
+    - assignmentId: int
+    - responses: String  
+    - score: int
+    - status: String 
+}
+
+class Feedback {
+    - feedbackId: int
+    - submissionId: int
+    - author: String 
+    - timestamp: Datetime
+}
+
+class FeedbackContent {
+    - feedbackId: int
+    - text: String
+}
+
+class SubmissionController {
+    + submitQuestionAnswer() // Student
+    + submitAssignment() // Student
+    + viewSubmissions()  // Teacher
+    + scoreAssignment()  // Teacher
+    + provideFeedback()  // Teacher
+}
+
+Submission "1" -- "*" Feedback
+Feedback "*" -- "1" FeedbackContent
+@enduml
+```
+
+Activity Model of Function
