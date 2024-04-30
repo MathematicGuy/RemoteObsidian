@@ -26,12 +26,43 @@
             "id": "bc701dbcf1c7955a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FrontEnd/My Web Back-end Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59c20c23e89021ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Back-end WorkFlow.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0edc31b4d34beef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Back-end WorkFlow.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Back-end WorkFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Back-end WorkFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Back-end WorkFlow.md"
+              }
             }
           },
           {
@@ -194,12 +229,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bc701dbcf1c7955a",
+  "active": "0edc31b4d34beef9",
   "lastOpenFiles": [
+    "FrontEnd/My Web Back-end Project.md",
+    "Web Back-end WorkFlow.md",
     "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "SR Front-End Requirement.md",
-    "FrontEnd/My Web Back-end Project.md",
     "My Web Back-end Note.md",
     "Science Research - Design and Recommended Languages.md",
     "BackEnd/Group Project.md",
@@ -225,7 +261,6 @@
     "Web API Project.md",
     "Hang Document and Testcase.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "Practice Procedure and Trigger.md",
     "Images/mo¨chten-conjugation-table.png",
     "Images/Pasted image 20240422133907.png",
     "Images/Pasted image 20240421225908.png",
