@@ -1502,10 +1502,11 @@ Mittwoch - Wednesday
 
 Pläne - plans
 	Habt du schon Pläne - do you already have a plan
+	mein freunde leider schon pläne - my friend unfortunatly have a plans
 Wir haben heute keine Pläne  
 	We have no plan today
 
-Lerne study
+Lerne study (why lerne always put to last)
 Leider unfortunatly
 Leider, Mein freundin keine Zeit zum lernen - unfortunatly, my girlfriend doesn't have time to learn 
 Mein partner hat leider schon Pläne - my partner unfortunatly already have a plan
@@ -1530,6 +1531,7 @@ Hat deine Mutter am Zehnten Juli Geburtstag
 Tanzen dance
 	Tanzt du? - do you dance?
 	Tanzt du gern
+	Tanzt du oft am wochenende
 	Mein schwester tanzt manchmal zu hause
 Adresse address
 so So (not sehr)
