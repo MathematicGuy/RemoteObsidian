@@ -71,6 +71,7 @@
     - Controller creates a new `Feedback` record (author = "Teacher") and associated `FeedbackContent`.
 
 
+
 ### Class Diagram
 example command: Create Class Diagram using PlantUML for Question Subsystem
 
@@ -105,6 +106,7 @@ class Question {
     -name : String
     -description : String
     -totalPoints : int
+    -isGlobal : boolean
 }
 
 class QuestionController {
@@ -126,12 +128,13 @@ class Assignment {
     - publishTime : Datetime
     - closeTime : Datetime
     - status : String 
+    - totalPoints: int
 }
 
 class Question {
     - name : String
     - description : String
-    - totalPoints : int 
+    - point: int 
 }
 
 class AssignmentQuestion {
@@ -159,36 +162,196 @@ AssignmentQuestion "*" -- "1" Question
 ```js
 @startuml
 !theme vibrant
-class Submission {
-    - studentId : int
-    - assignmentId: int
-    - responses: String  
-    - score: int
-    - status: String 
+
+class StudentAssignment {
+    - id : int
+    - student_id : int
+    - assignment_id : int
+    - status : String 
+    - created_date : Datetime
+    - total_points: int
+}
+
+class QuestionResponse {
+    - id : int 
+    - student_assignment_id : int
+    - question_id : int
+    - question_name : String
+    - question_description : String
+    - points : int
+    - response : String 
 }
 
 class Feedback {
-    - feedbackId: int
-    - submissionId: int
-    - timestamp: Datetime
-}
-
-class FeedbackContent {
-    - feedbackId: int
-    - text: String
+    - feedback_id : int
+    - question_response_id : int 
+    - created_date : Datetime 
+    - text : String
 }
 
 class SubmissionController {
     + submitQuestionAnswer() // Student
     + submitAssignment() // Student
-    + viewSubmissions()  // Teacher
-    + scoreAssignment()  // Teacher
-    + provideFeedback()  // Teacher
+    + viewClosedAssignment()  // Teacher
+    + GradeQuestion()  // Teacher
+    + SubmitAssignment()  // Teacher
 }
 
-Submission "1" -- "*" Feedback
-Feedback "*" -- "1" FeedbackContent
+StudentAssignment "1" -- "*" QuestionResponse
+QuestionResponse "1" -- "*" Feedback
 @enduml
 ```
 
-Activity Model of Function
+
+
+
+### Backend subsystem Design
+
+![[Pasted image 20240430175915.png]]
+Submission Controller Code
+```cs
+public class StudentAssignment 
+{
+    public int Id { get; set; }
+    public int StudentId { get; set; }
+    public int AssignmentId { get; set; }
+    public string Status { get; set; } // Consider using an enum for better type safety
+    public DateTime CreatedDate { get; set; }
+    public int TotalPoints { get; set; }
+
+    // Navigation Property
+    public ICollection<QuestionResponse> QuestionResponses { get; set; } 
+}
+
+public class QuestionResponse
+{
+    public int Id { get; set; }
+    public int StudentAssignmentId { get; set; } // Foreign key
+    public int QuestionId { get; set; }
+    public string QuestionName { get; set; }
+    public string QuestionDescription { get; set; }
+    public int Points { get; set; } 
+    public string Response { get; set; }
+
+    // Navigation Property
+    public StudentAssignment StudentAssignment { get; set; }
+}
+```
+WebAPI Controller
+```cs
+// Inside your Web API Controller
+public async Task<ActionResult<StudentAssignment>> GetStudentAssignment(int id)
+{
+    var assignment = await _context.StudentAssignments
+                                   .Include(a => a.QuestionResponses)
+                                   .FirstOrDefaultAsync(a => a.Id == id);
+
+    if (assignment == null) return NotFound();
+
+    return assignment; 
+}
+```
+
+
+
+#### Assignment 
+![[Pasted image 20240430180805.png]]
+```cs
+public class Assignment 
+{
+    public int Id { get; set; }
+    // ... other properties ...
+
+    public ICollection<AssignmentQuestion> AssignmentQuestions { get; set; }
+}
+
+public class Question
+{
+    public int Id { get; set; }
+    // ... other properties ...
+
+    public ICollection<AssignmentQuestion> AssignmentQuestions { get; set; }
+}
+
+public class AssignmentQuestion
+{
+    public int AssignmentId { get; set; }
+    public int QuestionId { get; set; }
+
+    public Assignment Assignment { get; set; }
+    public Question Question { get; set; }
+}
+
+```
+
+example
+```js
+Can you express the Database Design into code Using PlantUML Entity Relationship Diagrams. Remember to use notation on this page: https://plantuml.com/er-diagram
+
+@startuml
+!theme vibrant
+
+class User {
+    - id : int
+    - name : String
+    - email : String
+    - password_hash : String
+    - role : String
+}
+
+class Question {
+    - id : int 
+    - name : String
+    - description : String
+    - total_points : int
+}
+
+class Assignment {
+    - id : int
+    - title : String
+    - description : String
+    - publish_time : Datetime
+    - close_time : Datetime
+    - status : String
+    - created_by_teacher_id : int
+} 
+
+class AssignmentQuestion {
+    ~ assignment_id : int
+    ~ question_id : int
+}
+
+class StudentAssignment {
+    - id : int
+    - student_id : int
+    - assignment_id : int
+    - status : String
+    - created_date : Datetime
+    - total_points : int
+}
+
+class QuestionResponse {
+    - id : int
+    - student_assignment_id : int
+    - question_id : int
+    - question_name : String
+    - question_description : String
+    - points : int 
+    - response : String
+}
+
+class Feedback {
+    - id : int
+    - question_response_id : int
+    - created_date : Datetime
+    - text : String
+}
+
+User "1" -- "*" Assignment : "created by"
+User "1" -- "*" StudentAssignment : "created by"  
+Assignment "1" -- "*" AssignmentQuestion 
+AssignmentQuestion "*" -- "1" Question 
+StudentAssignment "1" -- "*" QuestionResponse 
+QuestionResponse "1" -- "*" Feedback
+@enduml
+```

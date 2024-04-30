@@ -1,5 +1,6 @@
 [[My Web Back-end Note]]
 [[Web Back-end WorkFlow]]
+[[Web Back-end Subsystem]]
 
 Part I: INTRODUCTION TO THE PROBLEM
 
@@ -441,3 +442,143 @@ Work Flow Description
 + Submissions: Display student's attempted assignment and coding IDE on the Dashboard. Student can Submit Assignment after Finished. Submitted Assignment show Assignment finished time, State and Point in Dashboard. (note: Student will submit the whole Assignment, not per Question)
 
 
+
+#### ER Diagram & Database 
+ER
+```js
+@startuml
+entity User {
+  id : INT <<PK>>
+  name : STRING
+  email : STRING
+  password_hash : STRING
+  role : STRING
+}
+
+entity Question {
+  id : INT <<PK>>
+  name : STRING
+  description : STRING
+  total_points : INT
+}
+
+entity Assignment {
+  id : INT <<PK>>
+  title : STRING
+  description : STRING
+  publish_time : DATE
+  close_time : DATE
+  status : STRING
+  created_by_teacher_id : INT <<FK>>
+}
+
+entity AssignmentQuestion {
+  assignment_id : INT <<PK, FK1>>
+  question_id : INT <<PK, FK1>>
+}
+
+entity StudentAssignment {
+  id : INT <<PK>>
+  student_id : INT <<FK>>
+  assignment_id : INT <<FK>>
+  status : STRING
+  created_date : DATE
+  total_points : INT
+}
+
+entity QuestionResponse {
+  id : INT <<PK>>
+  student_assignment_id : INT <<FK>>
+  question_id : INT <<FK>>
+  question_name : STRING
+  question_description : STRING
+  points : INT
+  response : STRING
+}
+
+entity Feedback {
+  id : INT <<PK>>
+  question_response_id : INT <<FK>>
+  created_date : DATE
+  text : STRING
+}
+
+User ||--o{ Assignment : created by
+User ||--o{ StudentAssignment : created by 
+Assignment ||--|{ AssignmentQuestion: have
+Question }|--|| AssignmentQuestion: contain
+StudentAssignment }--o| QuestionResponse: contain
+QuestionResponse ||--o{ Feedback: have
+@enduml
+```
+
+
+DB
+```js
+@startuml
+!theme vibrant
+
+class User {
+    - id : int
+    - name : String
+    - email : String
+    - password_hash : String
+    - role : String
+}
+
+class Question {
+    - id : int 
+    - name : String
+    - description : String
+    - total_points : int
+}
+
+class Assignment {
+    - id : int
+    - title : String
+    - description : String
+    - publish_time : Datetime
+    - close_time : Datetime
+    - status : String
+    - created_by_teacher_id : int
+} 
+
+class AssignmentQuestion {
+    ~ assignment_id : int
+    ~ question_id : int
+}
+
+class StudentAssignment {
+    - id : int
+    - student_id : int
+    - assignment_id : int
+    - status : String
+    - created_date : Datetime
+    - total_points : int
+}
+
+class QuestionResponse {
+    - id : int
+    - student_assignment_id : int
+    - question_id : int
+    - question_name : String
+    - question_description : String
+    - points : int 
+    - response : String
+}
+
+class Feedback {
+    - id : int
+    - question_response_id : int
+    - created_date : Datetime
+    - text : String
+}
+
+User "1" -- "*" Assignment : "created by" 
+User "1" -- "*" StudentAssignment : "created by" 
+Assignment "1" -- "*" AssignmentQuestion 
+AssignmentQuestion "*" -- "1" Question 
+StudentAssignment "1" -- "*" QuestionResponse 
+QuestionResponse "1" -- "*" Feedback
+@enduml
+```
