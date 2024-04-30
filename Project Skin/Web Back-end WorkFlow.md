@@ -171,7 +171,6 @@ class Submission {
 class Feedback {
     - feedbackId: int
     - submissionId: int
-    - author: String 
     - timestamp: Datetime
 }
 
