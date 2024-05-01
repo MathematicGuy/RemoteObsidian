@@ -5,12 +5,7 @@ banner: Images/Pasted image 20240402135259.png
 [[Goal Archive]]
 
 #Todo/Priority
-
-
-
-
-
-
+Sạc: https://saclaptopvn.com/sac-laptop-acer-19v-7-1a-135w/
 
 
 
