@@ -442,7 +442,6 @@ Work Flow Description
 + Submissions: Display student's attempted assignment and coding IDE on the Dashboard. Student can Submit Assignment after Finished. Submitted Assignment show Assignment finished time, State and Point in Dashboard. (note: Student will submit the whole Assignment, not per Question)
 
 
-
 #### ER Diagram & Database 
 ER
 ```js
@@ -490,8 +489,6 @@ entity QuestionResponse {
   id : INT <<PK>>
   student_assignment_id : INT <<FK>>
   question_id : INT <<FK>>
-  question_name : STRING
-  question_description : STRING
   points : INT
   response : STRING
 }
@@ -503,8 +500,8 @@ entity Feedback {
   text : STRING
 }
 
-User ||--o{ Assignment : created by
-User ||--o{ StudentAssignment : created by 
+User ||--o{ Assignment : created 
+User ||--o{ StudentAssignment : created  
 Assignment ||--|{ AssignmentQuestion: have
 Question }|--|| AssignmentQuestion: contain
 StudentAssignment }--o| QuestionResponse: contain
