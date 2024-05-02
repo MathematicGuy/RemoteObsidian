@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9fcc28edbd67427d",
+        "id": "f3d641ff8f772085",
         "type": "tabs",
         "children": [
           {
-            "id": "2bec5eccc86ab553",
+            "id": "d983d4b4a5f459f4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -188,8 +190,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2bec5eccc86ab553",
+  "active": "d983d4b4a5f459f4",
   "lastOpenFiles": [
+    "pokemon_review table.md",
+    "Todo.md",
     "Images/Pasted image 20240502103138.png",
     "Images/Pasted image 20240502103129.png",
     "Images/Pasted image 20240502103106.png",
@@ -201,10 +205,8 @@
     "Images/Pasted image 20240502102607.png",
     "Images/Pasted image 20240502102539.png",
     "Images/Pasted image 20240502101121.png",
-    "Images/Pasted image 20240502100923.png",
     "IT Project Management.md",
     "Project Management/Project Management.md",
-    "Todo.md",
     "Personal/Language Learning/German Vocabulary.md",
     "FrontEnd/My Web Back-end Project.md",
     "Web Back-end WorkFlow.md",
