@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbef4a12bc69e81",
+        "id": "9fcc28edbd67427d",
         "type": "tabs",
         "children": [
           {
-            "id": "4bcbc7879dd08e9d",
+            "id": "2bec5eccc86ab553",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "56f4ef491be6ef43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PM Project Archive.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PM Project Archive.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PM Project Archive.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PM Project Archive.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -204,19 +188,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56f4ef491be6ef43",
+  "active": "2bec5eccc86ab553",
   "lastOpenFiles": [
-    "Images/Pasted image 20240502101121.png",
+    "Images/Pasted image 20240502103138.png",
+    "Images/Pasted image 20240502103129.png",
+    "Images/Pasted image 20240502103106.png",
+    "Images/Pasted image 20240502102913.png",
     "PM Project Archive.md",
+    "Images/Pasted image 20240502102820.png",
+    "Images/Pasted image 20240502102805.png",
+    "Images/Pasted image 20240502102654.png",
+    "Images/Pasted image 20240502102607.png",
+    "Images/Pasted image 20240502102539.png",
+    "Images/Pasted image 20240502101121.png",
     "Images/Pasted image 20240502100923.png",
-    "Images/Pasted image 20240502101033.png",
-    "Images/Pasted image 20240502101001.png",
-    "Images/Pasted image 20240502100856.png",
-    "Images/Pasted image 20240502100620.png",
-    "Images/Pasted image 20240502100728.png",
-    "Images/Pasted image 20240502100643.png",
-    "Images/Pasted image 20240502100758.png",
-    "Images/Pasted image 20240502100645.png",
     "IT Project Management.md",
     "Project Management/Project Management.md",
     "Todo.md",
