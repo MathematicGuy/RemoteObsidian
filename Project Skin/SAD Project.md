@@ -311,7 +311,8 @@ select * from Project
 
 ![[Pasted image 20240503230854.png]]
 
-
+note: features xem và 
+trigger khi xóa Skill -> xóa skill trong bảng employee_skills và trong bảng Team
 ```sql
 INSERT INTO Team (team_name, team_skill_id, team_lead_id)
 VALUES 
