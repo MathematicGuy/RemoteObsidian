@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligent Revision.md",
+                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md"
               }
             }
           },
@@ -182,10 +183,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "398e0fd66f39ca06",
+  "active": "87c0a962e3a8453c",
   "lastOpenFiles": [
-    "Machine Learning.md",
+    "PCA Ideas notes.md",
+    "PCA (Principle Component Analysis) Research Documents.md",
     "Artificial Intelligent Revision.md",
+    "Machine Learning.md",
     "Week 4 Determinants and Eigenvector.md",
     "Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "Image/Pasted image 20240421002905.png",
@@ -206,7 +209,6 @@
     "Uncertainty.md",
     "Harvard CS50’s Artificial Intelligence with Python.md",
     "Knowledge.md",
-    "PCA Ideas notes.md",
     "My AI Project.md",
     "Mathematics for AI Vocabulary.md",
     "Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
@@ -216,7 +218,6 @@
     "Machine Learning Assignment/GaussianElimination_Assignment.md",
     "Machine Learning Assignment",
     "Artificial Network Using Linear Algebra.md",
-    "PCA (Principle Component Analysis) Research Documents.md",
     "Emotion Detector.md",
     "CMC AI.md",
     "Mathematics for AI",
