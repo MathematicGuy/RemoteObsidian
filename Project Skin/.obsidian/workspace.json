@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "87c73f289be286e3",
+        "id": "24dfb92bef560d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d48c8fb301143e",
+            "id": "e6ad3980ef6ea77a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,38 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6a50725707e30d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrontEnd/My Web Back-end Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a31f08584f66f5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pokemon Reviewer WebApp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokemon Reviewer WebApp.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -217,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a31f08584f66f5cd",
+  "active": "e6ad3980ef6ea77a",
   "lastOpenFiles": [
     "FrontEnd/My Web Back-end Project.md",
     "Images/Pasted image 20240503151618.png",

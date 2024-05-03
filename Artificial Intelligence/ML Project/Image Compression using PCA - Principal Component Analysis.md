@@ -142,3 +142,9 @@ Kết Bài
 	+ Cognition Load
 	+ etc...list out later
 	+ note: spend time to find the best way to transfer this 
+
+
+
+
+
+
