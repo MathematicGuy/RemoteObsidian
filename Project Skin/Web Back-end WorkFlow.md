@@ -158,7 +158,7 @@ AssignmentQuestion "*" -- "1" Question
 ```
 
 
-#### Submission
+#### Submission (submit student assignment)
 ```js
 @startuml
 !theme vibrant
@@ -176,10 +176,9 @@ class QuestionResponse {
     - id : int 
     - student_assignment_id : int
     - question_id : int
-    - question_name : String
-    - question_description : String
     - points : int
-    - response : String 
+    - response : String
+    - status: String 
 }
 
 class Feedback {
@@ -203,10 +202,7 @@ QuestionResponse "1" -- "*" Feedback
 ```
 
 
-
-
 ### Backend subsystem Design
-
 ![[Pasted image 20240430175915.png]]
 Submission Controller Code
 ```cs
@@ -251,7 +247,6 @@ public async Task<ActionResult<StudentAssignment>> GetStudentAssignment(int id)
     return assignment; 
 }
 ```
-
 
 
 #### Assignment 

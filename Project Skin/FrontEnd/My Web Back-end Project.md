@@ -296,7 +296,7 @@ start
 
 :Select "Manage Questions";
 :Display list of questions;
-:Admin selects a question;
+:Teacher selects a question;
 
 if (Question exists?) then (yes)
     fork 
@@ -491,6 +491,7 @@ entity QuestionResponse {
   question_id : INT <<FK>>
   points : INT
   response : STRING
+  status: String
 }
 
 entity Feedback {
@@ -558,10 +559,9 @@ class QuestionResponse {
     - id : int
     - student_assignment_id : int
     - question_id : int
-    - question_name : String
-    - question_description : String
     - points : int 
     - response : String
+    - status: String
 }
 
 class Feedback {

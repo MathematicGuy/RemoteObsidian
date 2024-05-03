@@ -1571,6 +1571,7 @@ Alex und Steve, hört Ihr jeden tag Jazz
 
 Max und Peter, habt Ihr schon Pläne
 Ich habe leider keine Lust
+Ich muss leider arbeiten
 + ? word ending with -en define as plural
 	Meine KleiderKollektion kosten vierundfünf euro 
 

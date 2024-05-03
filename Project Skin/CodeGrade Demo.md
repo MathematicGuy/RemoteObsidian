@@ -115,5 +115,28 @@ Navbar
 + Finalized  Assignments
 	![[Pasted image 20240225140745.png]]
 
+**Summary:** This use case enables students to answer questions within a selected assignment.
+
+**Actor:** Student
+
+**Precondition:**
+
+- The student is logged into the system.
+- The student has selected a published assignment.
+
+**Main Sequence:**
+
+1. **Initiate Attempt:** The student selects the "Attempt Assignment" option.
+2. **Question Display:** The system presents a list of questions from the assignment.
+3. **Question Selection:** The student selects a specific question to answer.
+4. **Question Details:** The system displays the question details (name, description, available points).
+5. **Provide Response:** The student provides their answer within the designated input area.
+6. **Submission (Implicit):** The student's response is recorded (this might trigger further actions like saving progress or submitting the entire assignment, which could be separate use cases).
+
+**Alternative Sequence:**
+
+- **Invalid Question:** If the selected question cannot be found (possible data issue), the system displays an error message.
+
+**Postcondition:** The student has attempted to answer the selected question, and their response has been recorded by the system.
 
 
