@@ -10,6 +10,7 @@
           {
             "id": "e6ad3980ef6ea77a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6906e471cc25fff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAD Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SAD Project.md"
               }
             }
           },
@@ -188,12 +204,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e6ad3980ef6ea77a",
+  "active": "6906e471cc25fff2",
   "lastOpenFiles": [
+    "System Administration Database.md",
+    "NoSQL.md",
+    "Todo.md",
     "FrontEnd/My Web Back-end Project.md",
     "Images/Pasted image 20240503151618.png",
     "My Web Back-end Note.md",
-    "Todo.md",
     "Web Back-end WorkFlow.md",
     "Web Back-end Subsystem.md",
     "CodeGrade Demo.md",
@@ -224,7 +242,6 @@
     "_Focus/2023/3rd Semesters/CSharp/Export to Excel CSharp.md",
     "Goal Archive.md",
     "Learn Web API.md",
-    "Web API Authentication & Authorization.md",
     "Project Management",
     "Psychology",
     "WTH",
