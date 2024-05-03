@@ -396,6 +396,32 @@ stop
 
 ![[Pasted image 20240428233357.png]]
 
+Submit Assignment
+```js
+@startuml
+title Submit Assignment Use Case
+
+start
+repeat :Assignment view;
+:Student selects "Submit Assignmet";
+:Comfirm Submition;
+:Display confirmation dialog;
+repeat while (assignment complete?) is (no)
+-> yes;
+    if (Confirm submission?) then (yes)
+    fork
+        :Record student responses;
+        :Mark assignment as "submitted";
+    fork again
+        :Notify teacher;
+    end fork
+    else (no)
+    endif
+stop
+@enduml
+```
+
+
 1.1. Introduction to the MVC model
 1.1.1. Components in MVC
 1.1.2. Processing flow in MVC

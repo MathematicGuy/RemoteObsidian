@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "814bd548525a2a6a",
+        "id": "87c73f289be286e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ad75f4937233bee7",
+            "id": "e4d48c8fb301143e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "80c90d201e39f9c7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -195,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "80c90d201e39f9c7",
+  "active": "e4d48c8fb301143e",
   "lastOpenFiles": [
     "Todo.md",
     "FrontEnd/My Web Back-end Project.md",
