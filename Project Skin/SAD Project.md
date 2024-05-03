@@ -310,3 +310,22 @@ select * from Project
 
 
 ![[Pasted image 20240502160108.png]]
+
+
+```sql
+INSERT INTO Team (team_name, team_skill_id, team_lead_id)
+VALUES 
+    -- ('Artificial Intelligence Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Artificial Intelligence'), NULL),
+    -- ('Machine Learning Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Machine Learning'), NULL),
+    -- ('Software Engineering Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Software Engineering'), NULL),
+    -- ('Mobile Development Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Mobile Development'), NULL),
+    -- ('QA Team', (SELECT skill_id FROM Skills WHERE skill_name = 'QA'), NULL),
+    -- ('Backend Development Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Backend Development'), NULL),
+    -- ('Database Administration Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Database Administration'), NULL),
+    -- ('UI/UX Design Team', (SELECT skill_id FROM Skills WHERE skill_name = 'UI/UX Design'), NULL),
+    -- ('Data Science Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Data Science'), NULL),
+    -- ('Business Analysis Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Business Analysis'), NULL),
+    -- ('Embedded Systems Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Embedded Systems'), NULL),
+    -- ('Cloud Computing Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Cloud Computing'), NULL),
+    -- ('Data Engineering Team', (SELECT skill_id FROM Skills WHERE skill_name = 'Data Engineering'), NULL);
+```
