@@ -412,7 +412,7 @@ select name,
 CONCAT(
 ROUND(
        (population/
-           (select population 
+	           (select population 
                    from world 
                    where name = 'Germany'))*100
             ),'%')
