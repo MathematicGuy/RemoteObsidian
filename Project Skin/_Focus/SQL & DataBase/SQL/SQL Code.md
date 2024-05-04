@@ -298,7 +298,7 @@ WHERE hire_date IS NULL
 ```
 ![[Pasted image 20230814121723.png]]
 
-**UPDATE DATA** (Change Field and Record Value)
+**UPDATE DATA** / **Update Value** (Change Field and Record Value)
  ```sql
 UPDATE employees
 SET hourly_pay = 10.25

@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f82ffb59598af8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAD Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbcc6303079f27a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -190,8 +217,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "500ed47bd47a0535",
+  "active": "cbcc6303079f27a6",
   "lastOpenFiles": [
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "SAD Project.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Todo.md",
     "Images/Pasted image 20240503230854.png",
     "System Administration Database.md",
@@ -206,7 +236,6 @@
     "Blog with ASAP.NET.md",
     "IT Project Management.md",
     "Project Management/Project Management.md",
-    "SAD Project.md",
     "Images/Pasted image 20240502160108.png",
     "SAD Project Archive.md",
     "pokemon_review table.md",
@@ -226,7 +255,6 @@
     "IT_PM My Project.md",
     "Excel.md",
     "_Focus/2023/3rd Semesters/CSharp/Export to Excel CSharp.md",
-    "Goal Archive.md",
     "Project Management",
     "Psychology",
     "WTH",
