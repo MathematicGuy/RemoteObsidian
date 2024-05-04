@@ -582,9 +582,8 @@ wirklich - really
 + einhundert
 + dreihundert
 **Ty** (eg. thirty) (zig/ßig)
-20 - zwanzig30 - dreißig
-
-	Er braucht zwei Fahrkarte diese wochenender (literaly wo-chen-ender)
+20 - zwanzig, 30 - dreißig
+Er braucht zwei Fahrkarte diese wochenender (literaly wo-chen-ender)
 
 **Number Combination**
 fünfunddreißig Euro - Thirty five Euro
@@ -931,6 +930,8 @@ Wann When
 	Wann hast du Zeit - when do you free
 	Bis Wann until when (Bis - Until, Wann - When)
 	Wann du Fußball spielst? - when do you play football ?
+	Wann gehen wir - where are we going
++ ? notice: Wann pronounce as Vann (W speak as V in German)
 
 Nachmittag - afternoon
 	Ja, heute Nachmittag ist gut - yes, this afternoon is good
@@ -1113,6 +1114,7 @@ Welche which
 	Herr Mille, welche Größe suchen Sie
 
 Die Schuhe
+
 der Aufzug - the elevator
 
 Die Toiletten - the toilet
@@ -1214,6 +1216,7 @@ Halb half
 
 Kommt der Zug um vier oder um fünf Uhr? (check for word structure)
 	Der zug kommt um halb fünf
+
 ### Unit 6: Guidebook
 
 Hunger hungry
@@ -1294,6 +1297,7 @@ Gesund Healthy
 Schule School
 	In der Schule - in the 
 	Wann bis du ins Schule gehen
+	und jetzt geh zur Schude
 
 Möchtest du lieber - would you prefer
 	Möchtest du lieber jetz oder später essen
@@ -1321,7 +1325,8 @@ Warten wait here
 	Warten Sie, Bus Nummer Dreizehn ist da drüben 
 Park park
 Gehen Sie - go 
-Gehen Sie recht - go right
+	Gehen Sie links bitte - go to the left 
+	Gehen Sie recht - go right
 Dann Links to the left
 	Gehen sie rechts und dann links - go right then go left 
 
@@ -1578,4 +1583,7 @@ Ich muss leider arbeiten
 lernt dein freund oder geht er heute schwimmen
 >is your boyfriend learning or he going to swimm today
 
-
+**Exercise**
+Eltern parent
+Jahre year
+	acht Jahre alt - eight years old

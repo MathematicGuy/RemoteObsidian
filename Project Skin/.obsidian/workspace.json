@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "304c6bf7529270a1",
+        "id": "b0cac2a76c5872eb",
         "type": "tabs",
         "children": [
           {
-            "id": "686e5d029d3da67a",
+            "id": "500ed47bd47a0535",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -188,12 +190,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "686e5d029d3da67a",
+  "active": "500ed47bd47a0535",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20240503230854.png",
     "System Administration Database.md",
     "NoSQL.md",
-    "Todo.md",
     "FrontEnd/My Web Back-end Project.md",
     "Images/Pasted image 20240503151618.png",
     "My Web Back-end Note.md",
@@ -216,7 +218,6 @@
     "Images/Pasted image 20240502102820.png",
     "Images/Pasted image 20240502102805.png",
     "Images/Pasted image 20240502102654.png",
-    "Images/Pasted image 20240502102607.png",
     "SR Front-End Requirement.md",
     "Science Research - Design and Recommended Languages.md",
     "BackEnd/Group Project.md",
