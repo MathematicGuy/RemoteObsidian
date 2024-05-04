@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24dfb92bef560d8d",
+        "id": "304c6bf7529270a1",
         "type": "tabs",
         "children": [
           {
-            "id": "e6ad3980ef6ea77a",
+            "id": "686e5d029d3da67a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6906e471cc25fff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAD Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -204,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6906e471cc25fff2",
+  "active": "686e5d029d3da67a",
   "lastOpenFiles": [
     "Images/Pasted image 20240503230854.png",
     "System Administration Database.md",
