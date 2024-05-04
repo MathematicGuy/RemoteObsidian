@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -217,10 +216,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cbcc6303079f27a6",
+  "active": "500ed47bd47a0535",
   "lastOpenFiles": [
-    "SAD Project.md",
+    "Images/Pasted image 20240504231442.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "SAD Project.md",
     "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "Images/Pasted image 20240503230854.png",
@@ -254,7 +254,6 @@
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
     "IT_PM My Project.md",
     "Excel.md",
-    "_Focus/2023/3rd Semesters/CSharp/Export to Excel CSharp.md",
     "Project Management",
     "Psychology",
     "WTH",
