@@ -1560,14 +1560,15 @@ Bis - until
 -> Dauert bis - last until
 Hört hear/listen
 	Mein Onkel Jazz hört sehr gern
-+ ? Plural form: Zwei podcast hören (hear in plural ) 
++ ? Plural form: Zwei podcast hören (hear in plural)
++ Warum hört du nicht gern podcast
 
 peter like to play video game in english and he listen to podcast in spanish. So he learn languages 
 > Peter spielt gerne Videospiele auf Englisch und hört Podcasts auf Spanisch. So lernt er Sprachen
 
 Will want
-	ich will heute Gitarre spielen
-	Ich will ins Kino gehen - i want to go to the cinema
+	Ich will heute Gitarre spielen
+	Ich will ins Kino gehen - I want to go to the cinema
 
 Hört Ihr oft Jazz - do you often listening to Jazz
 Alex, Hört nicht gern podcast 

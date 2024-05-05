@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "PCA Ideas notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "PCA Ideas notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "PCA Ideas notes.md"
               }
             }
           },
@@ -194,27 +195,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "398e0fd66f39ca06",
+  "active": "d785bd13401c842f",
   "lastOpenFiles": [
+    "Image/Pasted image 20240505152705.png",
+    "Image/Pasted image 20240505152500.png",
+    "Image/Pasted image 20240505103738.png",
+    "Image/Pasted image 20240505103643.png",
+    "Image/Pasted image 20240505103443.png",
+    "Image/Pasted image 20240505103323.png",
+    "Image/Pasted image 20240505102942.png",
+    "Image/Pasted image 20240505102843.png",
+    "Image/Pasted image 20240505102746.png",
+    "Image/Pasted image 20240505102719.png",
+    "Image/Pasted image 20240505102611.png",
     "ML Project/Image Compression using PCA - Principal Component Analysis.md",
-    "Machine Learning.md",
     "PCA Ideas notes.md",
+    "Machine Learning.md",
     "PCA (Principle Component Analysis) Research Documents.md",
     "Artificial Intelligent Revision.md",
     "Week 4 Determinants and Eigenvector.md",
     "Machine Learning Assignment/Mathematic  for Machine Learning.md",
-    "Image/Pasted image 20240421002905.png",
-    "Image/Pasted image 20240421002741.png",
-    "Image/Pasted image 20240421002440.png",
-    "Image/Pasted image 20240421001559.png",
-    "Image/Pasted image 20240421001334.png",
     "Mathematics for AI/Mathematics for AI.md",
     "Week 3 Vector and Linear Transformations.md",
-    "Image/Pasted image 20240420235026.png",
-    "Image/Pasted image 20240421000026.png",
-    "Image/Pasted image 20240420234950.png",
-    "Image/Pasted image 20240420234940.png",
-    "Image/Pasted image 20240420234939.png",
     "Mathematics.md",
     "Natural Language Processing.md",
     "Uncertainty.md",
@@ -236,7 +238,6 @@
     "Personal/Personal.md",
     "Personal",
     "Spaces",
-    "A work example of Back-Substitution.md",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",
     "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",

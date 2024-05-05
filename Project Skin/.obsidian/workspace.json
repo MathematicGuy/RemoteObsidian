@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c55f4e9b92dd3a5",
+        "id": "dc6e3dfa1749d7c8",
         "type": "tabs",
         "children": [
           {
-            "id": "23c51cfcf7a98da1",
+            "id": "976a8c672ff07cb6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,12 +190,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "23c51cfcf7a98da1",
+  "active": "976a8c672ff07cb6",
   "lastOpenFiles": [
+    "Todo.md",
     "Images/Pasted image 20240504231442.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "SAD Project.md",
-    "Todo.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "Images/Pasted image 20240503230854.png",
     "System Administration Database.md",
@@ -220,7 +220,6 @@
     "PM Project Archive.md",
     "Images/Pasted image 20240502102820.png",
     "Images/Pasted image 20240502102805.png",
-    "Images/Pasted image 20240502102654.png",
     "SR Front-End Requirement.md",
     "Science Research - Design and Recommended Languages.md",
     "BackEnd/Group Project.md",

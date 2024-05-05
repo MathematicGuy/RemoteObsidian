@@ -1,3 +1,4 @@
+**PCA Overview**
 Principal Component Analysis - allow to distribute each Cel seperatly
 ![[Pasted image 20240417103920.png]]
 High collerate group together
@@ -7,16 +8,47 @@ High collerate group together
 ![[Pasted image 20240417104010.png]]
 
 
-Why use PCA for Image Compression?
+![[Pasted image 20240505101343.png]]
+![[Pasted image 20240505101354.png]]
 
-Principal Component Analysis (PCA) is a valuable tool for image compression due to its ability to identify and exploit redundancy within image data:
+![[Pasted image 20240505101446.png]]
 
-Dimensionality Reduction: Images often contain correlated pixels; neighboring pixels tend to have similar values. PCA pinpoints the directions of the greatest variance within the image data (the principal components). These components effectively capture the most significant information. By projecting the image onto a smaller set of these principal components, we can achieve a compact representation.
+What if we have 4 genes -> 4D mesurement -> ...
 
-Information Preservation: PCA prioritizes preserving the most crucial visual information. The top principal components explain the major variations within an image. By retaining only a subset of these, we can maintain a high level of visual fidelity while reducing the overall data needed for representation.
+**Step-by-Step PCA**
+step0:  Move all datas so the center is on top of origin (0,0)
+![[Pasted image 20240505152500.png]]
+step1: draw a line that goes through the origin
+![[Pasted image 20240505101917.png]]
+but how can we do that
+![[Pasted image 20240505152705.png]]
+step2: rotate the line to fit the data
+1) project the datas to the line
+![[Pasted image 20240505102007.png]]
+![[Pasted image 20240505102042.png]]
+To calc the distances, we use Pythagorism
+![[Pasted image 20240505102228.png]]
+b - distance between the line and the point (data).
+c - distance from the projected point to the origin.
+The distance between the root and the point: a doesn't change. so if 
+b get bigger -> c get shorter and in reverse.
+![[Pasted image 20240505102257.png]]
+Thus, PCA can either minimize the distance to the line (b) or maximize the distance from the projected point to the origin (c)
+![[Pasted image 20240505102459.png]]
 
-Lossy Compression: PCA supports lossy compression, where a degree of quality degradation is acceptable in exchange for a substantial decrease in file size. This trade-off is often beneficial for web images or storage-constrained scenarios.  
-  
-Computational Efficiency: PCA involves well-established linear algebra operations. Compared to some more complex compression techniques, it offers a relatively computationally efficient approach.
+![[Pasted image 20240505102611.png]]
 
-In summary, PCA excels in identifying the underlying structure in an image while allowing modification of the degree of compression. This allows for efficient compression by focusing on the essential features and a balance between file size reduction and image quality preservation.
+![[Pasted image 20240505102719.png]]
+repeat for d1 to d6
+![[Pasted image 20240505102746.png]]
+Next we square all of them to that negative values don't cancel out positive values. 
+![[Pasted image 20240505102843.png]]
+this called SS (distances) for short
+![[Pasted image 20240505102942.png]]
+The line with the longest distance from the projected point called **Principal Component 1 (PC1 for short)**
+
+![[Pasted image 20240505103323.png]]
+use pythago to calc the distance
+![[Pasted image 20240505103443.png]]
+ ![[Pasted image 20240505103643.png]]
+![[Pasted image 20240505103738.png]]
