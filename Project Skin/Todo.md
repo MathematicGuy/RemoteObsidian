@@ -15,6 +15,15 @@ banner: Images/Pasted image 20240402135259.png
 THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Improve my Sleep Quality
 - [ ] Tạo SQL query cơ bản cho CSDL
+- [ ] In the mean time, ask my friend how what did they do when Toxic Self-talk come.
+	- [ ] Link
+	- [ ] Spring
+	- [ ] Nam
+	- [ ] Thuan
+	- [ ] Tuong
+	- [ ] Quynh Anh
+	- [ ] Thien
+	- [ ] ...
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
@@ -46,6 +55,10 @@ THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Defined Idiot Time Index
 - [ ] Improve Blog Try Catch. If user missing any input then goes back and retype  
 
+[The Experimental Generation of Interpersonal Closeness](https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH)
++ Single match in pair. They were asked to work through 36 questions and then stare into each other's eyes for four minutes. To see if they fall in love
+
+https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH
 >  Giáo sư Andrew Huberman bàn luận với giáo sư Adam Grant về những chủ đề rất thiết thực liên quan đến tâm lý và thần kinh học như là cách để khai phá khả năng của con người, mặt trái của động lực nội tại, sự thật về tính chân thực (authenticity) cùng rất rất nhiều nội dung thú vị khác
 >  ![[Pasted image 20240416233229.png]]
 

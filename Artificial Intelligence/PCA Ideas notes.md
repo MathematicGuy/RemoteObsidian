@@ -28,6 +28,7 @@ step2: rotate the line to fit the data
 ![[Pasted image 20240505102042.png]]
 To calc the distances, we use Pythagorism
 ![[Pasted image 20240505102228.png]]
+![[Pasted image 20240505154347.png]]
 b - distance between the line and the point (data).
 c - distance from the projected point to the origin.
 The distance between the root and the point: a doesn't change. so if 
@@ -45,10 +46,20 @@ Next we square all of them to that negative values don't cancel out positive val
 ![[Pasted image 20240505102843.png]]
 this called SS (distances) for short
 ![[Pasted image 20240505102942.png]]
+-> We repeat until the sum of eary point's distance from the origin largest.  Ultimatly we end up with...
 The line with the longest distance from the projected point called **Principal Component 1 (PC1 for short)**
 
 ![[Pasted image 20240505103323.png]]
+![[Pasted image 20240505160116.png]]
 use pythago to calc the distance
 ![[Pasted image 20240505103443.png]]
  ![[Pasted image 20240505103643.png]]
+Divide 4.12 to each points
 ![[Pasted image 20240505103738.png]]
+all 3 sides means -> 3 side of the triangle
+
+![[Pasted image 20240505160548.png]]
+
+![[Pasted image 20240505161531.png]]
+
+Now that we've have figure PC1 all out let's work on PC2
