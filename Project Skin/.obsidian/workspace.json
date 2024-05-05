@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0cac2a76c5872eb",
+        "id": "4c55f4e9b92dd3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "500ed47bd47a0535",
+            "id": "23c51cfcf7a98da1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,32 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "f82ffb59598af8f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAD Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbcc6303079f27a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -216,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "500ed47bd47a0535",
+  "active": "23c51cfcf7a98da1",
   "lastOpenFiles": [
     "Images/Pasted image 20240504231442.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
