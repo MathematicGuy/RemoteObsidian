@@ -329,3 +329,32 @@ select * from Project
     -- select * from employee_skills
     EXEC ListEmployeesBySkillID 20;
 ```
+
+
+Test Delete Skills Trigger
+```sql
+
+-- INSERT INTO Skills (skill_id, skill_name, skill_description)
+-- VALUES (111, 'Tessssster', 'Programming language for various applications'); 
+-- SET IDENTITY_INSERT Skills OFF;
+-- INSERT INTO employee_skills (employee_id, skill_id)
+-- VALUES (2, 111); -- Assuming employee_id 2 exists 
+
+--? Insert Team
+-- SET IDENTITY_INSERT Team ON;
+-- INSERT INTO Team (team_id, team_name, team_skill_id, team_lead_id)
+-- VALUES (11, 'Testtingggg', 111, 2);  -- Assuming the team_skill_id from the previous insert is 1
+-- SET IDENTITY_INSERT Team OFF;
+--? Reset team_skill_id
+-- UPDATE Team SET team_skill_id = 111 WHERE team_id = 11;
+--? Insert team_skill_tag
+-- INSERT INTO team_skill_tag (team_id, skill_id)
+-- VALUES (11, 111); -- Assuming team_id 1 exists 
+
+DELETE FROM Skills WHERE skill_id = 111
+-- select * from Team 
+select * from Team WHERE team_skill_id = 111
+select * from Skills where skill_id = 111
+select * from employee_skills WHERE skill_id = 111
+select * from team_skill_tag  WHERE skill_id = 111
+```
