@@ -309,8 +309,7 @@ select * from Project
 ```
 
 
-![[Pasted image 20240503230854.png]]
-	note: features xem và trigger khi xóa Skill -> xóa skill trong bảng employee_skills và trong bảng Team
+![[Pasted image 20240506102519.png]]	note: features xem và trigger khi xóa Skill -> xóa skill trong bảng employee_skills và trong bảng Team
 
 ### Feature Document
 - ? Features: Choose Employee with Skill Tag
@@ -326,6 +325,7 @@ select * from Project
         WHERE s.skill_id = @SkillID;
     END;
     Go
+    
     -- select * from employee_skills
     EXEC ListEmployeesBySkillID 20;
 ```

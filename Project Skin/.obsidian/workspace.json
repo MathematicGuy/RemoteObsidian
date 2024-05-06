@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "afbe48fefa4c4656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAD Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SAD Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SAD Project.md"
               }
             }
           },
@@ -190,8 +204,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "13498ba8206a3d8c",
+  "active": "afbe48fefa4c4656",
   "lastOpenFiles": [
+    "Images/Pasted image 20240506102519.png",
     "Todo.md",
     "Images/Pasted image 20240504231442.png",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
