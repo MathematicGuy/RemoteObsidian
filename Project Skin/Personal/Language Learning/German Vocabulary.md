@@ -291,6 +291,7 @@ Deiner your
 Was what (sound like what too)
 Beruf profession
 
+
 the docter 
 + Die Ärztin  (female)
 + Er Arzt (male)
@@ -887,7 +888,9 @@ Isst eat
 das Schwimmbad - the swimming pool
 Möchte would like (Möchte ich, Möchtest du, etc..)
 Ins to the
-gehen go (géhen)
+Gehe go (come after a verb)
+	Ich gehe tanzen, aber meine Frau hat keine lust
+Gehen go (géhen)
 	Möchtest du mit Oma und Opa ins Restaurant gehen
 	(Would you like to go to the restaurant with Grandma and Grandpa?)
 	Möchtest du am Sonntag ins Schwimmbad gehen
@@ -1508,6 +1511,7 @@ Mittwoch - Wednesday
 Pläne - plans
 	Habt du schon Pläne - do you already have a plan
 	mein freunde leider schon pläne - my friend unfortunatly have a plans
+	Mein Partner hat leider schön pläne
 Wir haben heute keine Pläne  
 	We have no plan today
 
@@ -1533,7 +1537,7 @@ Nichts - nothing (from nitch - not)
 Klassenzimmer - classroom
 
 Hat deine Mutter am Zehnten Juli Geburtstag
-Tanzen dance
+Tanzen dance (present continuert - like dancing with -ing ending)
 	Tanzt du? - do you dance?
 	Tanzt du gern
 	Tanzt du oft am wochenende

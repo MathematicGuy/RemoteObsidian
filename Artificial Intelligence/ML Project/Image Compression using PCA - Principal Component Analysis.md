@@ -46,7 +46,6 @@ A Web allow to post image and compress them.
 5) **Experiment and Evaluate Results:** (Thực nghiệm và đánh giá kết quả)
 	+ Chọn thực nghiệm với các kịch bản dữ liệu khác nhau.
 	+ Đánh giá KQ: VĐ, NĐ, Đề Xuất
-	+ 
 	
 **Conclusions:**
 	1) Acceptable compress ratio to quality
@@ -120,9 +119,6 @@ Step 3: Process them
 cần có kĩ năng 
 Lập kế hoạch
 	nội dung  |  phương án  |  Kết quả  |  Phân tích rủi ro
-1  
-
-
 
 
 Mở Bài
