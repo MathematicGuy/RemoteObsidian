@@ -34,9 +34,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "490fa8c72be2fe53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac77f0395455ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Procedure and Trigger.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Practice Procedure and Trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD Project.md",
+                "file": "Practice Procedure and Trigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD Project.md"
+                "file": "Practice Procedure and Trigger.md"
               }
             }
           },
@@ -204,16 +230,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "afbe48fefa4c4656",
+  "active": "fac77f0395455ea4",
   "lastOpenFiles": [
+    "System Administration Database.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "Organization.md",
+    "Practice Procedure and Trigger.md",
+    "SDA HW2.md",
+    "SAD Project.md",
     "Images/Pasted image 20240506102519.png",
     "Todo.md",
     "Images/Pasted image 20240504231442.png",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "SAD Project.md",
     "_Focus/SQL & DataBase/SQL/SQL.md",
     "Images/Pasted image 20240503230854.png",
-    "System Administration Database.md",
     "NoSQL.md",
     "FrontEnd/My Web Back-end Project.md",
     "Images/Pasted image 20240503151618.png",
@@ -234,14 +263,11 @@
     "Images/Pasted image 20240502102913.png",
     "PM Project Archive.md",
     "Images/Pasted image 20240502102820.png",
-    "Images/Pasted image 20240502102805.png",
     "SR Front-End Requirement.md",
     "Science Research - Design and Recommended Languages.md",
     "BackEnd/Group Project.md",
     "Cyber Security Revision.md",
     "_Focus/2024/2024 1st_Semester/Cyber Security.md",
-    "IT_PM My Project.md",
-    "Excel.md",
     "Project Management",
     "Psychology",
     "WTH",

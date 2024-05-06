@@ -50,7 +50,7 @@ BEGIN
 		IF (@min_salary > @emp_salary) BEGIN
 			UPDATE employees
 			SET salary = @min_salary
-			WHERE 107 = employee_id
+				WHERE 107 = employee_id
 		END
 END 
 -- Go mean run all the Query before me
