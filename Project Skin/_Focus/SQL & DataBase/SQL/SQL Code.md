@@ -209,7 +209,22 @@ ALTER  TABLE  - Change Field Data Type
 
 ALTER COLUMN Dlocation VARCHAR(255) NOT NULL;
 ```
+**ALTER Constraint**
+Ex: 
+How to change Check datatype of a column from
+    team_status VARCHAR(10) CHECK (team_status IN ('Active', 'Close')),
+to 
+    team_status VARCHAR(10) CHECK (team_status IN ('Active', 'Inactive')),
+```sql
+SELECT CONSTRAINT_NAME 
+FROM INFORMATION_SCHEMA.TABLE_CONSTRAINTS
+WHERE TABLE_NAME = 'Team' AND CONSTRAINT_TYPE = 'CHECK'; 
 
+ALTER TABLE Team 
+DROP CONSTRAINT [CK__Team__team_statu__14270015]; -- Replace [constraint_name]
+ALTER TABLE Team
+ADD CONSTRAINT team_status_check CHECK (team_status IN ('Active', 'Inactive'));
+```
 
 MOVING COLUMN AROUND
 	FIRST <-> AFTER  

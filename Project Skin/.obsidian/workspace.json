@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7ea78e65b627618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAD Project.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAD Project.md",
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAD Project.md"
+                "file": "_Focus/SQL & DataBase/SQL/SQL Code.md"
               }
             }
           },
@@ -204,12 +217,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "afbe48fefa4c4656",
+  "active": "b7ea78e65b627618",
   "lastOpenFiles": [
-    "Practice Procedure and Trigger.md",
     "SAD Project.md",
-    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "Todo.md",
+    "Practice Procedure and Trigger.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
     "System Administration Database.md",
     "Organization.md",
     "SDA HW2.md",
