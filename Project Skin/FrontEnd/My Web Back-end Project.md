@@ -499,7 +499,7 @@ entity Assignment {
 
 entity AssignmentQuestion {
   assignment_id : INT <<PK, FK1>>
-  question_id : INT <<PK, FK1>>
+  question_id : INT <<PK, FK2>>
 }
 
 entity StudentAssignment {
@@ -543,66 +543,69 @@ DB
 !theme vibrant
 
 class User {
-    - id : int
-    - name : String
-    - email : String
-    - password_hash : String
-    - role : String
+  id : INT <<PK>>
+  name : STRING
+  email : STRING
+  password_hash : STRING
+  role : STRING
 }
 
 class Question {
-    - id : int 
-    - name : String
-    - description : String
-    - total_points : int
+  id : INT <<PK>>
+  name : STRING
+  description : STRING
+  total_points : INT
 }
 
 class Assignment {
-    - id : int
-    - title : String
-    - description : String
-    - publish_time : Datetime
-    - close_time : Datetime
-    - status : String
-    - created_by_teacher_id : int
+  id : INT <<PK>>
+  title : STRING
+  description : STRING
+  publish_time : DATE
+  close_time : DATE
+  status : STRING
+  created_by_teacher_id : INT <<FK>>
 } 
 
 class AssignmentQuestion {
-    ~ assignment_id : int
-    ~ question_id : int
+  assignment_id : INT <<PK, FK1>>
+  question_id : INT <<PK, FK2>>
 }
 
 class StudentAssignment {
-    - id : int
-    - student_id : int
-    - assignment_id : int
-    - status : String
-    - created_date : Datetime
-    - total_points : int
+  id : INT <<PK>>
+  student_id : INT <<FK>>
+  assignment_id : INT <<FK>>
+  status : STRING
+  created_date : DATE
+  total_points : INT
 }
 
 class QuestionResponse {
-    - id : int
-    - student_assignment_id : int
-    - question_id : int
-    - points : int 
-    - response : String
-    - status: String
+  id : INT <<PK>>
+  student_assignment_id : INT <<FK>>
+  question_id : INT <<FK>>
+  points : INT
+  response : STRING
+  status: String
 }
 
 class Feedback {
-    - id : int
-    - question_response_id : int
-    - created_date : Datetime
-    - text : String
+  id : INT <<PK>>
+  question_response_id : INT <<FK>>
+  created_date : DATE
+  text : STRING
 }
 
-User "1" -- "*" Assignment : "created by" 
-User "1" -- "*" StudentAssignment : "created by" 
-Assignment "1" -- "*" AssignmentQuestion 
-AssignmentQuestion "*" -- "1" Question 
-StudentAssignment "1" -- "*" QuestionResponse 
-QuestionResponse "1" -- "*" Feedback
+User <|-- Assignment 
+User <|-- StudentAssignment 
+Assignment <|-- StudentAssignment 
+Assignment <|-- AssignmentQuestion 
+AssignmentQuestion --|> Question 
+Question <|-- QuestionResponse 
+User <|-- QuestionResponse 
+StudentAssignment <|-- QuestionResponse 
+QuestionResponse <|-- Feedback
 @enduml
 ```
 	![[Pasted image 20240503151618.png]]
