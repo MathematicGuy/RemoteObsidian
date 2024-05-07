@@ -1,4 +1,5 @@
 **PCA Overview**
+
 Principal Component Analysis - allow to distribute each Cel seperatly
 ![[Pasted image 20240417103920.png]]
 High collerate group together
@@ -159,3 +160,56 @@ Scenario: Math and Reading score are 100% correlated
 	![[Pasted image 20240505234259.png]]
 	![[Pasted image 20240505234323.png]]
 	![[Pasted image 20240505234344.png]]
+
+There are infinity color in the spectrum but let only chose 8 color
+![[Pasted image 20240506211225.png]]
+If the image is 1 color then 1x1 matrix can represent it
+![[Pasted image 20240506211514.png]]
+If the image is 5 pixels then a 5x1 matrix can represent it
+![[Pasted image 20240506211554.png]]
+and this 20 pixels image can be represent it a 5 by 4 matrix (each value represent a color block of the image)
+![[Pasted image 20240506211636.png]]
+# Let use Linear Algebra to explain Principal Component Analysis 
+![[Pasted image 20240506212054.png]]
+
+refer turtorial:
+[PCA using Linear Algelbra](https://youtu.be/ZtS6sQUAh0c?si=uL3vxaw2h9sB0V3x)
+[PCA in Python - starquest](https://youtu.be/Lsue2gEM9D0?si=I6PmvlWgGuVGiD9U)
+
+
+roadmap:
++ understand how each component work
++ how they interact to eachother
++ code PCA from scratch
+
+**Detail Step-by-step PCA algorithm**
+step1: choose a data matrix of M row
+step2: centralize the rows -> find and remove the Mean value each row
+step3: Find the Covariance matrix of X tranpose
+step4: Find the 'm' eigen values of Cx and rearrange them in decending order
+step5: Find the corresponding M orthogonal eigen vectors
+step6: Find Cumulative Contribution Rate (CCR) of each Eigen value
+
+
+**Thing to understand**
+1) Matrixces and their properties
+2) Dimension of a matrix
+3) Matrix operations/multiplication
+4) Row vectors and column vectors
+5) Eigenvalues and Eigenvectors of a matrix
+6) Mean of a row vecter
+7) Variance of a row vector
+8) Covariance matrix of a data matrix
+9) Basis vectors
+10) Linearly independent vectors
+11) Orthogonal vectors and Orthonormal vectors
+12) Orthogonal matrices and their properties 
+13) Contribution rate of an eigenvaule
+14) Cumulative contribution rate of an eigen value
+
+**Tearms used:** 
++ PCA: Principal Component Analysis
++ Noise: Any type of disruption that interferes with the transmission or interpretation of information from sender to the receiver (unclear image to be specific)
++ NDIC: Noise-tolerant Distributed Image Compression
++ Pixel: An unit of programmable colour (often r,g,b) on a computer screen.
+

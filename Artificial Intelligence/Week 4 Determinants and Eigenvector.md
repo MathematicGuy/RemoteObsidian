@@ -34,7 +34,6 @@ Depending on what order we take 2 basis vectors as follows.
 + ? Negative value doesn't affect the singuality of the matrix. The only that affect is when the determinant is 0.
 ![[Pasted image 20240420232314.png]]
 
-
 **Determinant** of a  product
 it like multiplication for matrices. It blow up the area of a matrix.
 ![[Pasted image 20240421000026.png]]
@@ -65,11 +64,19 @@ If a matrix is singular. whatever area you have left, it gets blown up by zero.
 + ? Why is the determinant of the identity matrix 1?
 ![[Pasted image 20240421002905.png]]
 $$
-det(AA^{-1}) = Identity_matrix = det(A)det(A^{-1}) = 1
+det(AA^{-1}) = IdentityMatrix = det(A)det(A^{-1}) = 1
 $$
 
 + ? (Identity matrix always equal 1) 
 $$
 det(A) = 1 / det(A^{-1})
 $$
-Bases in Linear Algebra
+**Bases in Linear Algebra****
+**2point form a vector, 2 vector form a bases
+
+**Span in Linear Algebra** -> created by 2 lines
+![[Pasted image 20240506222628.png]]
+so they're linearly dependent
+![[Pasted image 20240506222705.png]]
+
+Eigenbasis
