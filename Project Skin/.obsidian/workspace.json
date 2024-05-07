@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab89640881c0c2ce",
+        "id": "e70822daf21a3bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "5246ec79f9c041da",
+            "id": "f8f7cc6787e12a5d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,15 +188,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5246ec79f9c041da",
+  "active": "f8f7cc6787e12a5d",
   "lastOpenFiles": [
+    "System Administration Database.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "Code/ExamReview.md",
+    "Todo.md",
     "IT_PM My Project.md",
     "Project Management Resource.md",
     "PM Project Archive.md",
     "IT Project Management.md",
     "IT_PM INTRO.md",
     "Project Management/Project Management.md",
-    "Todo.md",
     "FrontEnd/My Web Back-end Project.md",
     "Week 1 - The Leadership Challenge.md",
     "Leadership.md",
@@ -213,7 +214,6 @@
     "Personal/Language Learning/German Vocabulary.md",
     "Practice Procedure and Trigger.md",
     "_Focus/SQL & DataBase/SQL/SQL Code.md",
-    "System Administration Database.md",
     "Organization.md",
     "SDA HW2.md",
     "Images/Pasted image 20240506102519.png",
@@ -223,8 +223,6 @@
     "NoSQL.md",
     "Images/Pasted image 20240503151618.png",
     "Web Back-end WorkFlow.md",
-    "Web Back-end Subsystem.md",
-    "CodeGrade Demo.md",
     "Images/Pasted image 20240502160108.png",
     "Images/Pasted image 20240502103138.png",
     "Images/Pasted image 20240502103129.png",
