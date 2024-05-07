@@ -159,7 +159,6 @@ Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give int
 ![[Pasted image 20240319141255.png]]
 
 Estimated Time Table PERT 
-
 - **Timing**: This column may represent various time estimates related to the completion of each activity. In PERT, typically three time estimates are provided:
     
     - **Optimistic Time (A)**: The shortest possible time required to complete the activity under ideal conditions.
@@ -170,13 +169,15 @@ $$
 Mean Time= \dfrac{A+4M+B}{6}​
 $$
 ![[Pasted image 20240425235157.png]]
-
+Lược đồ tiến 
 
 ![[Pasted image 20240425235251.png]]
 
 [Add PERT to MS Project using ES, EF, LS, LF](https://pm.stackexchange.com/questions/21381/how-to-display-es-ls-ef-lf-in-numbers-using-ms-project-network-diagram)
+[Time Estimation Table](https://cdtin34.forumvi.com/t288-topic)
 
 Slack - also called Float
 	**the amount of time a task can slip before it bumps into another task**.
 
 Variance (sai số) - kiểm tra số thời gian quá 
+

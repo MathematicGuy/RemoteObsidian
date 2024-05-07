@@ -47,7 +47,6 @@ THING I WANT TO ACHIEVE THIS WEEK
 - [ ] [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
-![[Pasted image 20240504231442.png]]
 
 #Todo/Personal
 - [ ] Defined Idiot Time Index

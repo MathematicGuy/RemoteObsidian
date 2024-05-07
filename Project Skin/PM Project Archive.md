@@ -1,4 +1,4 @@
-
+  
 
 ![[Pasted image 20240502100856.png]]
 ![[Pasted image 20240502101121.png]]
@@ -24,3 +24,5 @@ Write SRS -( connected to )->
 ![[Pasted image 20240502103106.png]]
 ![[Pasted image 20240502103129.png]]
 ![[Pasted image 20240502103138.png]]
+
+
