@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "35de64ada51c413a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM My Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT_PM My Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT_PM My Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT_PM My Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -204,13 +190,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "35de64ada51c413a",
+  "active": "5246ec79f9c041da",
   "lastOpenFiles": [
-    "IT_PM INTRO.md",
-    "IT Project Management.md",
     "IT_PM My Project.md",
     "Project Management Resource.md",
     "PM Project Archive.md",
+    "IT Project Management.md",
+    "IT_PM INTRO.md",
     "Project Management/Project Management.md",
     "Todo.md",
     "FrontEnd/My Web Back-end Project.md",

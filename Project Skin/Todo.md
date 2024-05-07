@@ -14,9 +14,9 @@ THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Improve my Sleep Quality
 - [ ] Tạo SQL query cơ bản cho CSDL
 - [ ] In the mean time, ask my friend how what did they do when Toxic Self-talk come.
-	- [ ] Link
+	- [x] Link
 	- [ ] Spring
-	- [ ] Nam
+	- [x] Nam
 	- [ ] Thuan
 	- [ ] Tuong
 	- [ ] Quynh Anh
