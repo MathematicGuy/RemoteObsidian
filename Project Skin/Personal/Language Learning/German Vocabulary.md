@@ -1592,3 +1592,17 @@ lernt dein freund oder geht er heute schwimmen
 Eltern parent
 Jahre year
 	acht Jahre alt - eight years old
+
+### Chapter 6
+Müde tired
+Krank sick
+Traurig sad
+zu viel - too much
+	Spreche ich zu viel
+Bett bed
+Schlafe - sleep
+	ich Schalafe nicht viel
+	Mein Bett ist nicht bequem und uch Schlafe nicht viel
+Nachts night
+Durst thirsty
+	Ich habe nachst immer Durst 
