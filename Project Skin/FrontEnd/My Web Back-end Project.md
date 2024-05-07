@@ -653,3 +653,78 @@ public class AssignmentService
     }
 }
 ``` 
+
+```sql
+use sgs;
+
+-- User table
+CREATE TABLE [User] (
+  Id INT PRIMARY KEY,
+  Name VARCHAR(100),
+  Email VARCHAR(100),
+  Role VARCHAR(50)
+);
+
+-- Question table
+CREATE TABLE Question (
+  Id INT PRIMARY KEY,
+  Name VARCHAR(100),
+  Description NVARCHAR(MAX),
+  TotalPoints INT
+);
+
+-- Assignment table
+CREATE TABLE Assignment (
+  Id INT PRIMARY KEY,
+  Title VARCHAR(100),
+  Description VARCHAR(MAX),
+  PublishTime DATE,
+  CloseTime DATE,
+  Status VARCHAR(50),
+  CreatedByTeacherId INT,
+  FOREIGN KEY (CreatedByTeacherId) REFERENCES [User](Id)
+);
+
+-- AssignmentQuestion table (many-to-many relationship between Assignment and Question)
+CREATE TABLE AssignmentQuestion (
+  AssignmentId INT,
+  QuestionId INT,
+  PRIMARY KEY (AssignmentId, QuestionId),
+  FOREIGN KEY (AssignmentId) REFERENCES Assignment(Id),
+  FOREIGN KEY (QuestionId) REFERENCES Question(Id)
+);
+
+-- StudentAssignment table
+CREATE TABLE StudentAssignment (
+  Id INT PRIMARY KEY,
+  StudentId INT,
+  AssignmentId INT,
+  status VARCHAR(50),
+  CreatedDate DATE,
+  TotalPoints INT,
+  FOREIGN KEY (StudentId) REFERENCES [User](Id),
+  FOREIGN KEY (AssignmentId) REFERENCES Assignment(Id)
+);
+
+-- QuestionResponse table
+CREATE TABLE QuestionResponse (
+  Id INT PRIMARY KEY,
+  StudentAssignmentId INT,
+  QuestionId INT,
+  Points INT,
+  Response VARCHAR(MAX),
+  status VARCHAR(50),
+  FOREIGN KEY (StudentAssignmentId) REFERENCES StudentAssignment(Id),
+  FOREIGN KEY (QuestionId) REFERENCES Question(Id)
+);
+
+-- Feedback table
+CREATE TABLE Feedback (
+  Id INT PRIMARY KEY,
+  QuestionResponseId INT,
+  CreatedDate DATE,
+  text VARCHAR(MAX),
+  FOREIGN KEY (QuestionResponseId) REFERENCES QuestionResponse(Id)
+);
+```
+
