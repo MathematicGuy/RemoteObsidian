@@ -616,3 +616,40 @@ QuestionResponse <|-- Feedback
 note: 
 + Re-check my Models and its relationship
 + Show Chatbots My Model 
+
+Assignment
+```cs
+public class AssignmentService 
+{
+    private readonly YourDbContext _context; 
+
+    // ...
+
+    public async Task CreateStudentAssignment(StudentAssignment studentAssignment)
+    {
+        try
+        {
+            _context.StudentAssignments.Add(studentAssignment);
+            await _context.SaveChangesAsync();
+        }
+        catch (DbUpdateException ex)
+        {
+            // Handle specific exceptions (check inner exception) 
+            if (ex.InnerException is SqlException sqlEx) 
+            {
+                if (sqlEx.Number == 2601 /* Unique constraint violation */)
+                {
+                    throw new Exception("Duplicate student assignment submission detected."); 
+                }
+                else if (sqlEx.Number == 547 /* Foreign key violation */) 
+                {
+                    throw new Exception("Invalid student or assignment ID.");
+                }
+            }
+
+            // For other exceptions, rethrow or log the error 
+            throw; 
+        }
+    }
+}
+``` 
