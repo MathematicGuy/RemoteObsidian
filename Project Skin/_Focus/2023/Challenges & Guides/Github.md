@@ -50,6 +50,11 @@ or this
 ```shell
 git push -u origin main
 ```
+or if you wan to push your code to other repository
++ ? **upstream** is where you see all the repository you connected to. Like when you fork other people repository, their branch 'main' will show in the **upstream**
+```shell
+git pull upstream main # pushing code to main branch from upstream
+```
 
 
 or  push your own branch to origin
