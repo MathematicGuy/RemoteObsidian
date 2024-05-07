@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1ec4a83431a12dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT_PM My Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,12 +204,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1ec4a83431a12dd1",
+  "active": "35de64ada51c413a",
   "lastOpenFiles": [
+    "IT_PM INTRO.md",
     "IT Project Management.md",
+    "IT_PM My Project.md",
+    "Project Management Resource.md",
     "PM Project Archive.md",
     "Project Management/Project Management.md",
-    "IT_PM My Project.md",
     "Todo.md",
     "FrontEnd/My Web Back-end Project.md",
     "Week 1 - The Leadership Challenge.md",
@@ -250,9 +239,7 @@
     "Web Back-end WorkFlow.md",
     "Web Back-end Subsystem.md",
     "CodeGrade Demo.md",
-    "Blog with ASAP.NET.md",
     "Images/Pasted image 20240502160108.png",
-    "SAD Project Archive.md",
     "Images/Pasted image 20240502103138.png",
     "Images/Pasted image 20240502103129.png",
     "Project Management",
