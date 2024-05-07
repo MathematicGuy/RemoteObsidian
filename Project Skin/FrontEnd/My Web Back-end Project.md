@@ -468,8 +468,9 @@ Work Flow Description
 + Submissions: Display student's attempted assignment and coding IDE on the Dashboard. Student can Submit Assignment after Finished. Submitted Assignment show Assignment finished time, State and Point in Dashboard. (note: Student will submit the whole Assignment, not per Question)
 
 
+
 #### ER Diagram & Database 
-ER
+**ER**
 ```js
 @startuml
 entity User {
@@ -530,14 +531,15 @@ entity Feedback {
 User ||--o{ Assignment : created 
 User ||--o{ StudentAssignment : created  
 Assignment ||--|{ AssignmentQuestion: have
-Question }|--|| AssignmentQuestion: contain
-StudentAssignment }--o| QuestionResponse: contain
+Question ||--|{ AssignmentQuestion: contain
+StudentAssignment ||--|{ QuestionResponse: contain
 QuestionResponse ||--o{ Feedback: have
 @enduml
 ```
+	![[Untitled 1.png]]
+![[Pasted image 20240507093251.png]]
 
-
-DB
+**DB**
 ```js
 @startuml
 !theme vibrant
@@ -608,5 +610,9 @@ StudentAssignment <|-- QuestionResponse
 QuestionResponse <|-- Feedback
 @enduml
 ```
-	![[Pasted image 20240503151618.png]]
+![[BE_Diagram.png]]
 
+[CRUD Operation in REST API](https://youtu.be/Fp6s89A136Q?si=nOz210lhDIzunoas)
+note: 
++ Re-check my Models and its relationship
++ Show Chatbots My Model 
