@@ -33,7 +33,7 @@ public class Owner
 
 
   // 1-1
-  public Country Country { get; set; } // very elegant
+  public Country Country { get; set; } 
   // 1-M: 1 Owner to Many PokemonOwners (PokemonOwners mean Pokemon side along with Owner)
   public ICollection<PokemonOwner> PokemonOwners { get; set; }
 }
@@ -56,7 +56,7 @@ public class Pokemon
   public ICollection<PokemonOwner> PokemonOwners { get; set; }
 }
 ```
-	
+
 ```cs
 public class Reviewer
 {
