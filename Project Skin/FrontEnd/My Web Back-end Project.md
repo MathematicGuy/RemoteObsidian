@@ -617,6 +617,25 @@ QuestionResponse <|-- Feedback
 note: 
 + Re-check my Models and its relationship
 + Show Chatbots My Model 
+Scraffold command. 
++ remember to create "DefaultConnection" before doing this
+1) set ConnectionStrings at appsetting.json
+```cs
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=MACBOOKM5\\SQLEXPRESS;Initial Catalog=sgs;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False"
+  }
+}
+```
+2) set up the connection at program.cs
+```json
+services.AddDbContext<SgsDbContext>(options =>
+options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+```
+3) Run this command in Console
+```sh
+Scaffold-DbContext "Name=DefaultConnection" Microsoft.EntityFrameworkCore.SqlServer -outputdir Repository/Models -context SgsDbContext -contextdir Repository -DataAnnotations -Force
+```
 
 Assignment
 ```cs
