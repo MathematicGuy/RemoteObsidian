@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "69352adb9ea87282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "_Focus/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "_Focus/2023/Challenges & Guides/Github.md"
               }
             }
           },
@@ -190,11 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4fa8f42b703c20d7",
+  "active": "69352adb9ea87282",
   "lastOpenFiles": [
+    "Todo.md",
     "Pokemon Reviewer WebApp.md",
     "Blog with ASAP.NET.md",
-    "Todo.md",
     "BE_Models.md",
     "Images/Pasted image 20240509000342.png",
     "FrontEnd/My Web Back-end Project.md",
