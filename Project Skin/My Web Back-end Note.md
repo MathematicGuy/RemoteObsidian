@@ -1,3 +1,5 @@
+https://youtu.be/14u4Ns1v91g?si=48Fl0OLuIuwIPJkK
+
 Model Classes: How to define the inheritance structure for User, Student, Teacher in C#? Identity Setup: How to ensure Identity Framework works with these multiple user types?
 
 
