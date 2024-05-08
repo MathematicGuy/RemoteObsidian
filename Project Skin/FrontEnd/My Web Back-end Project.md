@@ -615,10 +615,10 @@ QuestionResponse <|-- Feedback
 [[DbContext_RepresentInCode]]
 
 [CRUD Operation in REST API](https://youtu.be/Fp6s89A136Q?si=nOz210lhDIzunoas)
-note: 
+Note: 
 + Re-check my Models and its relationship
 + Show Chatbots My Model 
-Scraffold command. 
+Scraffold Command:
 + remember to create "DefaultConnection" before doing this
 1) set ConnectionStrings at appsetting.json
 ```cs
