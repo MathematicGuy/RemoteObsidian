@@ -1596,6 +1596,10 @@ Jahre year
 ### Chapter 6
 Müde tired
 Krank sick
+	Du bist Krank, Heval, geh ins Krankenhaus
++ zum - to the (zu + dem (masculine or neutral))
+	Du bist Krank, Heval, geh zum Arzt (go to the docter)
+
 Traurig sad
 zu viel - too much
 	Spreche ich zu viel
@@ -1606,3 +1610,22 @@ Schlafe - sleep
 Nachts night
 Durst thirsty
 	Ich habe nachst immer Durst 
+
+Das Krankenhaus - the hospital (come from the word Krank -> Krankenhaus mean sickhouse or house for the krank)
+	kranken - being sick, haus - house -> sick house -> hospital
+
+
+die Tablette pill
+	Hast du eine Tablette
+	Du bist krank, wilst du Tabletten  - you are sick, do you want 
+Kopfschmerzen headache
+	Hast du Kopfschmerzen ?
+Hast du Tabletten  
+Trink drink 
+	drink nur Wasser - drink your water
+	Trink heute keinen kaffee, Mark - dont drink coffee today, Mark
+Iss eat (mean to eat "singular", essen is plural form of eat)
+	Carlos, Iss morgen kein Eis - Carlos, dont eat icecream tomorrow
+	Kurt iss dem salat mit tomaten
+![[DUOLINGO.png]]
+
