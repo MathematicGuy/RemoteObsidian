@@ -1,3 +1,17 @@
+**Project 1.** **Quản lý quan hệ khách hàng (6.6)**  
+**Project 2. Quản lý kho (6.1)**  
+https://youtu.be/1UbssR3pjL8?si=JjGWDzUv4QgUoRVA
+https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
+**Project 3. Quản lý nhân sự**  
+**Project 4. Quản lý công việc.**  
+**Project 5. Quản lý thu chi tài chính (6.4)**  
+**Project 6.** **Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.**
+
+14 - CDDL
+16 - AI
+21 - Web BE
+22 - PM
+24 - ATTT
 
 ```cs
     public class Assignment
@@ -16,7 +30,7 @@
         public DateTime? CloseTime { get; set; } // CloseTime is optional 
 
         [Required]
-        public string Status { get; set; }
+        public string Status { get; set; }0
 
 
         // Many to 1 Teacher & Student User
@@ -41,8 +55,9 @@
         public int? TotalPoints { get; set; }
 
 
-		  // 1 to 1 relationship with StudentQuestionResponse
+        // 1 to 1 relationship with StudentQuestionResponse
         public StudentQuestionResponse StudentQuestionResponse { get; set; }
+        public ICollection<AssignmentQuestion> AssignmentQuestion { get; set; }
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {
