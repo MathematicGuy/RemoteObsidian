@@ -16,7 +16,7 @@ public class Review
   public string Text { get; set; }
   
   // 1-1: one Review can only belong to 1 Reviewer
-  public Reviewer Reviewer { get; set; }
+	  public Reviewer Reviewer { get; set; }
   // 1-1: one Review can only be about 1 Pokemon 
   public Pokemon Pokemon { get; set; }
 }

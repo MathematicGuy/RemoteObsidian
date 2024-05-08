@@ -41,9 +41,8 @@
         public int? TotalPoints { get; set; }
 
 
-        // 1 to many to AssignmentQuestion
-        public ICollection<StudentQuestionResponse>? StudentQuestionResponses { get; set; }
-        public ICollection<AssignmentQuestion>? AssignmentQuestions { get; set; }
+		  // 1 to 1 relationship with StudentQuestionResponse
+        public StudentQuestionResponse StudentQuestionResponse { get; set; }
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {
@@ -83,7 +82,7 @@
 
         // Many to 1
         public Question Questions { get; set; }
-        public ApplicationUser StudentResponse { get; set; }
+        public ApplicationUser Student { get; set; }
 
         // 1 to many to FeedBack
         public ICollection<FeedBack>? FeedBacks { get; set; }
