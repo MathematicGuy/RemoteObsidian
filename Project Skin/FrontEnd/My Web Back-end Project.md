@@ -611,7 +611,8 @@ StudentAssignment <|-- QuestionResponse
 QuestionResponse <|-- Feedback
 @enduml
 ```
-![[BE_Diagram.png]]
+![[Pasted image 20240508143511.png]]
+[[DbContext_RepresentInCode]]
 
 [CRUD Operation in REST API](https://youtu.be/Fp6s89A136Q?si=nOz210lhDIzunoas)
 note: 
