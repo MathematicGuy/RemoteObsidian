@@ -16,17 +16,17 @@ Data
 ```cs
    public class ApplicationUser : IdentityUser
    {
-       // "email": "admin2@gmail.com", 
-       // "password": "Admin2@gmail.com"
-
-       public string Name { get; set; }
-       public string Email { get; set; }
-       public string Role { get; set; }
-
-
-       public ICollection<Student> Students { get; set; }
-       public ICollection<Teacher> Teachers { get; set; }
-   }
+        // "email": "admin2@gmail.com", 
+	     // "password": "Admin2@gmail.com"
+	
+	    public string Name { get; set; }
+	    public string Email { get; set; }
+	    public string Role { get; set; }
+	
+	    // 1 to 1 Relationship
+	    public Student Student { get; set; } 
+	    public Teacher Teacher { get; set; }
+	}
 ```
 Models/Domains
 ```cs
@@ -98,7 +98,7 @@ Models/Domains
         public Question Question { get; set; }
     }
    
-   public class Student : ApplicationUser
+    public class Student 
     {
         public int StudentId { get; set; }
         public string UserId { get; set; } // Foreign key to ApplicationUser
@@ -108,9 +108,9 @@ Models/Domains
         public ApplicationUser User { get; set; }
         // 1 to Many Relationship
         public ICollection<StudentAssignment>? StudentAssignments { get; set; }
-    }
+   }
 
-	public class Teacher 
+    public class Teacher 
     {
         public int TeacherId { get; set; }
         public string UserId { get; set; } // Foreign key to ApplicationUser
