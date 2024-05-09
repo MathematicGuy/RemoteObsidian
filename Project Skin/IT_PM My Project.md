@@ -158,7 +158,6 @@ Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give int
 1) **Introduct Initiate Department**
 a) Chức năng nhiệm vụ/ngành nghề lĩnh vực hoạt động, kinh doanh
 B) Bộ máy tổ chức
-c) Phân Tích SWOT
 
 2) **Project Chart**
 - Problem Statement
