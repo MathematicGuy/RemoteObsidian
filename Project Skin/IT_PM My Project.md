@@ -201,7 +201,7 @@ $$
 Lược đồ tiến 
 
 ![[Pasted image 20240425235251.png]]
-
+[Risk Assessment](https://asana.com/resources/risk-register)
 [Add PERT to MS Project using ES, EF, LS, LF](https://pm.stackexchange.com/questions/21381/how-to-display-es-ls-ef-lf-in-numbers-using-ms-project-network-diagram)
 [Time Estimation Table](https://cdtin34.forumvi.com/t288-topic)
 
