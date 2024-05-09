@@ -151,6 +151,35 @@ BA (Very Important)
 Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give intruction to Dev team.
 
 ![[Pasted image 20240319162528.png]]
++ Thống Nhất 
++ Quy Trình
+
+
+1) **Introduct Initiate Department**
+a) Chức năng nhiệm vụ/ngành nghề lĩnh vực hoạt động, kinh doanh
+B) Bộ máy tổ chức
+c) Phân Tích SWOT
+
+2) **Project Chart**
+- Problem Statement
+- Business Case
+- Goal Statement
+- Timeline (lập lược đồ tiến trình với Milestone)
+- Scope
+- Team Members
+![[Pasted image 20240509130207.png]]
+
+3) **WBS (phân tích và giải thích WBS) (check)**
+
+4) **Time Estimation Table (PERT method) (check)**
+
+5) **Network Diagram -> CPM** 
+
+6) **Risk Assessment**
+
+7) **Conclusion**
+
+
 ### SCOPE
 ![[Pasted image 20240319141158.png]]
 
@@ -158,9 +187,8 @@ Khảo sát thị trường -> Concept -> Requirement -> BA analzye and give int
 
 ![[Pasted image 20240319141255.png]]
 
-Estimated Time Table PERT 
+**Estimated Time Table PERT** 
 - **Timing**: This column may represent various time estimates related to the completion of each activity. In PERT, typically three time estimates are provided:
-    
     - **Optimistic Time (A)**: The shortest possible time required to complete the activity under ideal conditions.
     - **Most Likely Time (M)**: The best estimate of the time required to complete the activity under normal conditions.
     - **Pessimistic Time (B)**: The longest possible time required to complete the activity under adverse conditions.
@@ -178,6 +206,57 @@ Lược đồ tiến
 
 Slack - also called Float
 	**the amount of time a task can slip before it bumps into another task**.
-
 Variance (sai số) - kiểm tra số thời gian quá 
+
+**Task (Giao việc)** 
+1) Name
+2) Desired Outcome
+3) Deadline
+
+**CEO pay attention to**
+1) Result
+2) Quality
+3) Cost
+4) Revenue
+5) Workforce
+6) Progress
+
+**PM pay attention to** 
+Progress and quality
++ Have done?
++ Haven't done?
++ Workforces
++ Arise Problems?
++ Risks
+
+**Quản Trị Tích Hợp Hệ Thống**
++ Service tích hợp vào hệ thống của Client
+**Tương Thích Hệ Thống**
+- tìm hiểu 
+- thống nhất
+	+ đk thành công
+	+ timeline
+	+ độ sẵn sàng của Client
+		+ chạy siêu mượt?
+		+ cho dùng thông tin nhạy cảm?
+	+ điều kiện thành công
++ Corebanking - transaction calculation (Tax + many others thing)
+
+Phòng tránh điều ko lường tr'c được
+	vd như làm xong hệ thống nhưng ko tích hợp đc.
+	khác hàng ko cho truy cập nguồn dữ liệu nhạy cảm.
+
+-> Key for Integration Management Success
++ Người quản lý dự án phải điều phối tất cả các lĩnh vực kiến thức trong suốt chu trình sống của dự án.
++ Nhiều người quản lý dự án mới gặp khó khăn khi nhìn vào bức tranh tổng thể và muốn tập trung vào quá nhiều chi tiết.
+Điều kiện thành công?
+
+**Chuyển Người dùng qua Hệ Thống mới**
+CMC
+|_ HR-> service A
+|_ SAP-> service B -> khảo sát, Chốt [Scope|Time] 
++ Migrate per phrase
++ User don't use the Service? (most company fail at this) 
+	+ how to make user use it? cam kết từ lãnh đạo
+	+ đào tạo
 
