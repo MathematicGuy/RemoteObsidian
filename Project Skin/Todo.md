@@ -11,8 +11,7 @@ banner: Images/Pasted image 20240402135259.png
 
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
-- [ ] Improve my Sleep Quality
-- [ ] Tạo SQL query cơ bản cho CSDL
+- [x] Improve my Sleep Quality
 - [ ] In the mean time, ask my friend how what did they do when Toxic Self-talk come.
 	- [x] Link
 	- [ ] Spring
@@ -21,7 +20,7 @@ THING I WANT TO ACHIEVE THIS WEEK
 	- [ ] Tuong
 	- [ ] Quynh Anh
 	- [ ] Thien
-	- [ ] Thuong
+	- [ ] Thu
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep

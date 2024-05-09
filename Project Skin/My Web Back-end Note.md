@@ -41,8 +41,8 @@ namespace YourProjectName.Models
 }
 ```
 
-**Integrating with Identity**
 
+**Integrating with Identity**
 1. **Install Packages:** You'll need the following NuGet packages:
     
     - `Microsoft.AspNetCore.Identity.EntityFrameworkCore`

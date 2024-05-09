@@ -571,7 +571,7 @@ wirklich - really
 8 - **acht**
 9 - **neun** (neun hundert)
 10 - **zehn**
-
+[How to Pronounce Numbers](https://www.busuu.com/en/german/numbers)
 
 **Number system** (wie auf Englisch)
 11 - elf
@@ -1629,3 +1629,27 @@ Iss eat (mean to eat "singular", essen is plural form of eat)
 	Kurt iss dem salat mit tomaten
 ![[DUOLINGO.png]]
 
+Termin - appointment
+	Mein Termin ist ins zehn Uhr
+Machen make
+	Ich möchte einen Termin mache
+Name (na me) name
+	Guten morgen, Wie ist Ihr Name
+
+**German Time**
+24-hour time
+	5 o'clock -> 17 o'clock (siebenzehn)
+
+Um Wie - at what (viel - many)
+Um wie viel Uhr - at what time (at what estimated time..)
+können Sie kommen - can you come
+Um wie viel Uhr ist Ihr Termin (at what time is your Appointment)
+
+Fieber fever
+Bauchschmerzen stomachache
+	Bauch Belly, Bauchsch - adominal cuff (vòng bít bụng giữa các cơ múi)
+	Schmerzen pains
+Müssen - have to
+Bleiben stay
+Schlafen sleep
+	Ich muss im Bett Bleiben und Schlafen
