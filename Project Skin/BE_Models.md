@@ -39,8 +39,6 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
 
         // 1 to many to QuestionResponse
         public ICollection<AssignmentQuestion>? AssignmentQuestions { get; set; }
-
-
     }
 	
     public class Question : IValidatableObject

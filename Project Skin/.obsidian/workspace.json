@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "449a5d22544707f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BE_Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59baeafb9b99e66c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrontEnd/My Web Back-end Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/My Web Back-end Project.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/My Web Back-end Project.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/My Web Back-end Project.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -217,17 +190,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "59baeafb9b99e66c",
+  "active": "4fa8f42b703c20d7",
   "lastOpenFiles": [
+    "Blog with ASAP.NET.md",
+    "Todo.md",
+    "FrontEnd/My Web Back-end Project.md",
+    "BE_Models.md",
     "WebDev/WebDev_Learn/Backend.md",
     "Web Back-end Subsystem.md",
-    "BE_Models.md",
     "My Web Back-end Note.md",
     "IT_PM My Project.md",
-    "FrontEnd/My Web Back-end Project.md",
     "Web Back-end WorkFlow.md",
     "IT Project Management.md",
-    "Todo.md",
     "Project Management Resource.md",
     "Project Management/Project Management.md",
     "Images/Pasted image 20240509130151.png",
@@ -236,7 +210,6 @@
     "Personal/Language Learning/German Vocabulary.md",
     "_Focus/2023/Challenges & Guides/Github.md",
     "Pokemon Reviewer WebApp.md",
-    "Blog with ASAP.NET.md",
     "Images/Pasted image 20240509000342.png",
     "Images/Pasted image 20240508143511.png",
     "DbContext_RepresentInCode.md",
