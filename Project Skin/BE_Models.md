@@ -30,17 +30,16 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         public DateTime? CloseTime { get; set; } // CloseTime is optional 
 
         [Required]
-        public string Status { get; set; }0
-
+        public string Status { get; set; }
 
         // Many to 1 Teacher & Student User
-        public TeacherAssignment? TeacherAssignments { get; set; }
-        public StudentAssignment? StudentAssignments { get; set; }
+        public ICollection<TeacherAssignment>? TeacherAssignments { get; set; } // Change to
+        public ICollection<StudentAssignment>? StudentAssignments { get; set; } // Change to ICollection
 
         // 1 to many to QuestionResponse
         public ICollection<AssignmentQuestion>? AssignmentQuestions { get; set; }
     }
-	
+    
     public class Question : IValidatableObject
     {
         public int Id { get; set; }
@@ -52,9 +51,14 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
 
         public int? TotalPoints { get; set; }
 
+        public string AnswerFileURL { get; set; }
+
+        public string Status { get; set; }
+
 
         // 1 to 1 relationship with StudentQuestionResponse
-        public StudentQuestionResponse StudentQuestionResponse { get; set; }
+        public FeedBack? QuestionFeedback { get; set; }
+        // 1 to many relationship with AssignmentQuestion
         public ICollection<AssignmentQuestion> AssignmentQuestion { get; set; }
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
@@ -77,22 +81,6 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         public Assignment Assignment { get; set; }
         public Question Question { get; set; }
     }
-
-    public class FeedBack
-    {
-        public int Id { get; set; }
-
-        [Required]
-        public int QuestionResponseId { get; set; }
-
-        [Required]
-        public DateTime CreatedDate { get; set; }
-
-        public string? Context { get; set; }
-
-        // 1 to Many Relationship
-        public StudentQuestionResponse? QuestionResponse { get; set; }
-    }
     
     public class StudentAssignment
     {
@@ -102,9 +90,9 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         [Required]
         public int AssignmentId { get; set; }
 
-        // prevent when an User is deleted and the Assignment also get deleted
-        public ApplicationUser Student { get; set; }
-        public Assignment Assignments { get; set; }
+        // Many to Many relation. "Student" M-1 + 1-M "Assignment" = M-M
+        public Student Student { get; set; }
+        public Assignment Assignments { get; set; }    
     }
     
     public class TeacherAssignment
@@ -116,9 +104,26 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         [Required]
         public int AssignmentId { get; set; }
 
-        public ApplicationUser Teacher { get; set; }
+        // TeacherAssignment` is a join table between `ApplicationUser` and `Assignment`
+        // Many to 1
+        public Teacher Teacher { get; set; }
         public Assignment Assignment { get; set; }
     }
+
+    
+    public class FeedBack
+    {
+        public int Id { get; set; }
+
+        [Required]
+        public DateTime CreatedDate { get; set; }
+
+        public string? Context { get; set; }
+
+        // 1 to Many Relationship
+        public Question? QuestionResponse { get; set; }
+    }
+    
 ```
 
 Why StudentAssignment and TeacherAssignment Table?
