@@ -162,6 +162,8 @@ c) Phân Tích SWOT
 
 2) **Project Chart**
 - Problem Statement
+	- phân tích khách hàng
+
 - Business Case
 - Goal Statement
 - Timeline (lập lược đồ tiến trình với Milestone)
