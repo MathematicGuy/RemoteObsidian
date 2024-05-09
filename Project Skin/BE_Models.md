@@ -12,7 +12,23 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
 21 - Web BE
 22 - PM
 24 - ATTT
+Data
+```cs
+   public class ApplicationUser : IdentityUser
+   {
+       // "email": "admin2@gmail.com", 
+       // "password": "Admin2@gmail.com"
 
+       public string Name { get; set; }
+       public string Email { get; set; }
+       public string Role { get; set; }
+
+
+       public ICollection<Student> Students { get; set; }
+       public ICollection<Teacher> Teachers { get; set; }
+   }
+```
+Models/Domains
 ```cs
     public class Assignment
     {
@@ -81,7 +97,31 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         public Assignment Assignment { get; set; }
         public Question Question { get; set; }
     }
-    
+   
+   public class Student : ApplicationUser
+    {
+        public int StudentId { get; set; }
+        public string UserId { get; set; } // Foreign key to ApplicationUser
+        public int averageScore { get; set; }
+
+        // 1 to 1 Relationship
+        public ApplicationUser User { get; set; }
+        // 1 to Many Relationship
+        public ICollection<StudentAssignment>? StudentAssignments { get; set; }
+    }
+
+	public class Teacher 
+    {
+        public int TeacherId { get; set; }
+        public string UserId { get; set; } // Foreign key to ApplicationUser
+        public string Department { get; set; }
+
+        // 1 to 1 Relationship
+        public ApplicationUser User { get; set; }
+        // 1 to Many Relationship
+        public ICollection<TeacherAssignment>? TeacherAssignments { get; set; }
+    }
+
     public class StudentAssignment
     {
         [Required]
@@ -94,6 +134,8 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         public Student Student { get; set; }
         public Assignment Assignments { get; set; }    
     }
+
+
     
     public class TeacherAssignment
     {
