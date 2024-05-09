@@ -77,40 +77,6 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         public Assignment Assignment { get; set; }
         public Question Question { get; set; }
     }
-    
-    public class StudentQuestionResponse : IValidatableObject
-    {
-        [Required]
-        public int QuestionId { get; set; }
-
-        [Required]
-        public string StudentAssignmentId { get; set; }
-
-        public int Points { get; set; } 
-
-        public string? ResponseText { get; set; }
-
-        [Required]
-        public string? Status { get; set; } // verify question state
-
-        // Many to 1
-        public Question Questions { get; set; }
-        public ApplicationUser Student { get; set; }
-
-        // 1 to many to FeedBack
-        public ICollection<FeedBack>? FeedBacks { get; set; }
-
-
-        // Validate Question Score is not negative
-        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
-        {
-            if (Points < 0)
-            {
-                yield return new ValidationResult("Points cannot be negative.", new[] { nameof(Points) });
-            }
-        }
-    }
-
 
     public class FeedBack
     {
@@ -155,4 +121,24 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
     }
 ```
 
+Why StudentAssignment and TeacherAssignment Table?
+1. To Manage.
 
+**What They Enable**
+These joining tables, in conjunction with your models, enable the following functionalities:
+
+- **Enrollment/Management:** You can:
+    
+    - Easily enroll a student in an assignment.
+    - Add or remove an assignment from a teacher's responsibility.
+    
+- **Data Retrieval:** You can fetch:
+    
+    - All the assignments a particular student is enrolled in.
+    - All the students enrolled in a specific assignment.
+    - All assignments managed by a specific teacher.
+    
+- **Flexibility:** You can add extra data to these joining tables if needed. For example, you could add a grade, a completion date, or other information specific to a particular Student-Assignment association.
+
+- The `StudentAssignment` and `TeacherAssignment` tables are essential for modeling the many-to-many relationships between students/teachers and assignments.
+- They provide a clean and normalized way to store and manage these associations.
