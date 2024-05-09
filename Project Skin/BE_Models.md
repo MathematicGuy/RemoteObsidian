@@ -86,7 +86,7 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         public int QuestionId { get; set; }
 
         [Required]
-        public int StudentAssignmentId { get; set; }
+        public string StudentAssignmentId { get; set; }
 
         public int Points { get; set; } 
 
@@ -156,3 +156,5 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
         public Assignment Assignment { get; set; }
     }
 ```
+
+
