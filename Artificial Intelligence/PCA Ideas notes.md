@@ -1,7 +1,7 @@
 **PCA Overview**
 thi vấn đáp
 Slide: 5-7 Slide
-Nội dung: 16 - 17 trang
+Nội dung:  - 17 trang
 Làm gì 
 làm thế nào
 trình bày thực nghiệm

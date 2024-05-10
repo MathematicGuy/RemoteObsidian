@@ -70,18 +70,21 @@ DES (Data Encryption Standard - mã hóa tiêu chuẩn dữ )
 + have 16 password round 
 + S-Boxes: tranform 6 bit to 4 bit
 + F function in DES round can Expand and Compress
++ F function substitute A and B (thay thế A và )
++ 64 bits in length
 
 ECB - encrypt block seperatly (mã khóa các khối 1 cách riêng )
 
 One-time-pad: 
-+ completly secure
-+ key length = msg length
-+ save to only use once
++ Save to only use once
 
+BBS (Blum Blum Shub) use 2 prime number to ensure the safety of the numbers array
 
 COde table of Feistel system
 	output code of the last cycle permuted
 
+Tại sao cần có các giả thiết chính xác trong mật mã hiện đại?
+	Chứng minh độ an toàn vô điều kiện và so sánh các giả định.
 
 Vigenere
 	thuật toán dịch chuyển đa chữ 4
@@ -101,6 +104,11 @@ LCG
 
 PRF vs PRNG 
 	PRF can create fixed bit length and can add additional infomation
+Improve PRNG (Pseudorandom number generator) safety
++ synchronize system
++ combine many PRNG group
++ change seed frequently
+
 
 SPN - replace-substitution (thay thế) and permutation (hoán vị)
 
@@ -110,6 +118,8 @@ Hiệu ứng lan truyền trong mật mã là gì?
 Bỏ Phiếu điện tử ko sử dụng mã hóa khóa bí mật
 
 Code Block is a password schema symetric in plaintext M {0 ,1}^n and key space K  = {0,1}^r
+
+
 
 **AES:** (Advanced Encryption Standard)
 128 bit synmetric block cyper
@@ -125,6 +135,7 @@ last round -> flip the output
 to decrypt it -> (Run the algoorithm again with the encrypt as the input) put it in the top -> decrypt it.
 two side (L and R)
 put a key to each F (2 F -> K1 and K2)
+F function Substitue L and R  (Hàm F thay thế L và R)
 ![[Pasted image 20240510154253.png]]
 ![[Pasted image 20240510154242.png]]
 next step
@@ -138,13 +149,15 @@ next step
 [DES](https://www.youtube.com/results?search_query=DES)
 	(Data Encyption ALgorithm) Symemetric block Cipher
 	don't use often nowaday. but use AES instead
-	input: 64bits (64 bits plain text) -> 64 bits cyber text
-	main key: 64 bits. subkey: 56 bits 
+	input: 64bits (64 bits plain text) -> 64 bits cyber text (kích thước khối)
+	main key: 64 bits. subkey: 56 bits  (kích thước )
 	Round key: 48 bits (using subkey, 16 x 48 bits round key)
 	No. of Round: 16 rounds
+	Feistel type
 ![[Pasted image 20240510152009.png]]
 64 bits input to each round, after 16 round. 64 bits get inot 32 bits swap function to Inverse initial permutation
 key is 64 bits which is 8 bytes but for each bytes there a parity bit (bit ngang bằng) (64 - 64/8 = 56) -> 56 bits in total. 
+
 
 [AES](https://www.youtube.com/results?search_query=AES)
 Plain text -> XOR -> Subbytes -> Shift Rows -> Mix -> Add Round Key -> Repeat ![[Pasted image 20240510153513.png]]
