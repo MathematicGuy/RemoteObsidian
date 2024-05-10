@@ -10,6 +10,7 @@
           {
             "id": "7d2d6dc8b308cb56",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "15c4e9db7de56d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Cyber Security Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Cyber Security Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Cyber Security Revision.md"
               }
             }
           },
@@ -188,8 +204,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7d2d6dc8b308cb56",
+  "active": "15c4e9db7de56d2d",
   "lastOpenFiles": [
+    "Images/Pasted image 20240510154347.png",
+    "Images/Pasted image 20240510154316.png",
+    "Images/Pasted image 20240510154253.png",
+    "Images/Pasted image 20240510154242.png",
+    "Images/Pasted image 20240510154121.png",
+    "Images/Pasted image 20240510153513.png",
+    "Images/Pasted image 20240510152009.png",
+    "Images/Pasted image 20240510151515.png",
     "Todo.md",
     "Blog with ASAP.NET.md",
     "BE_Models.md",
@@ -209,13 +233,7 @@
     "PM Project Archive.md",
     "Personal/Language Learning/German Vocabulary.md",
     "_Focus/2023/Challenges & Guides/Github.md",
-    "Images/Pasted image 20240509000342.png",
-    "Images/Pasted image 20240508143511.png",
     "DbContext_RepresentInCode.md",
-    "Images/Pasted image 20240508141627.png",
-    "Images/Pasted image 20240508141621.png",
-    "Images/DUOLINGO.png",
-    "Images/Pasted image 20240508090055.png",
     "_Focus/2023/3rd Semesters/DSA/LinkedList MergeSort.md",
     "System Administration Database.md",
     "_Focus/SQL & DataBase/DataBase.md",
@@ -224,7 +242,6 @@
     "Week 1 - The Leadership Challenge.md",
     "Leadership.md",
     "Personal/Leadership/Leadership.md",
-    "Images/BE_Diagram.png",
     "Project Management",
     "Psychology",
     "WTH",

@@ -1,4 +1,12 @@
 **PCA Overview**
+thi vấn đáp
+Slide: 5-7 Slide
+Nội dung: 16 - 17 trang
+Làm gì 
+làm thế nào
+trình bày thực nghiệm
+Câu hỏi vấn đáp
+	bốc thăm
 
 Principal Component Analysis - allow to distribute each Cel seperatly
 ![[Pasted image 20240417103920.png]]

@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "PCA Ideas notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "PCA Ideas notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "PCA Ideas notes.md"
               }
             }
           },
@@ -194,14 +195,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "398e0fd66f39ca06",
+  "active": "967e43fe6841937c",
   "lastOpenFiles": [
+    "Week 4 Determinants and Eigenvector.md",
+    "Machine Learning.md",
     "Image/Pasted image 20240506222705.png",
     "Image/Pasted image 20240506222628.png",
     "Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "Mathematics for AI/Mathematics for AI.md",
     "PCA Ideas notes.md",
-    "Machine Learning.md",
     "Image/Pasted image 20240506212054.png",
     "Image/Pasted image 20240506211636.png",
     "Image/Pasted image 20240506211554.png",
@@ -212,9 +214,7 @@
     "ML Project/Image Compression using PCA - Principal Component Analysis.md",
     "Image/Pasted image 20240505234344.png",
     "Image/Pasted image 20240505234323.png",
-    "Image/Pasted image 20240505234259.png",
     "Artificial Intelligent Revision.md",
-    "Week 4 Determinants and Eigenvector.md",
     "Week 3 Vector and Linear Transformations.md",
     "Mathematics.md",
     "Natural Language Processing.md",
