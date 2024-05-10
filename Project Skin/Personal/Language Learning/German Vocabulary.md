@@ -1619,7 +1619,9 @@ die Tablette pill
 	Hast du eine Tablette
 	Du bist krank, wilst du Tabletten  - you are sick, do you want 
 Kopfschmerzen headache
-	Hast du Kopfschmerzen ?
+	Kopf head
+	Schmerzen - pain
+	Hast du Kopfschmerzen ? - Do you have a headache
 Hast du Tabletten  
 Trink drink 
 	drink nur Wasser - drink your water
@@ -1649,7 +1651,30 @@ Fieber fever
 Bauchschmerzen stomachache
 	Bauch Belly, Bauchsch - adominal cuff (vòng bít bụng giữa các cơ múi)
 	Schmerzen pains
+	Ich habe Bauchschmerzen - i have a stomachache
 Müssen - have to
 Bleiben stay
+	Sie müssen im bett 1bleiben 
 Schlafen sleep
 	Ich muss im Bett Bleiben und Schlafen
+
+Glücklich - happy
+Ich bin Glücklich - i am happy
+Gute Besserung - too bad, feel better
+Mehr anymore
+	Hast du keine Durst Mehr - Are you not thirsty anymore
+
+Hurra, du bist gesund - Hooray, you are healthy
+Gesund healthy
+	Du bist krank, brauchst eine Tablette und gehest in die Apotheke. Sie wird morgen gesund sein - You are sick, need a pill and go to the pharmacy. She will be fine tomorrow
+	+ Sein - be
+	+ Sie wird - you will be (Du wirst, Sie wird)
+Gehe in - go into
+	Ich gehe in die stadt - I go to the city
+Hurra - hurray
+Keine don't
+Zahnschmerzen - toothache
+	Zahn tooth
+	Schmerzen pain
+	Zahnschmerzen -> toothpain
+Hurra, du hast jetzt keine Zahnschmerzen mehr - hurray, you don't have toothache anymore
