@@ -12,13 +12,21 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
 21 - Web BE
 22 - PM
 24 - ATTT
+
+```cs
+{
+  "email": "admin2@gmail.com",
+  "password": "Admin2@123"
+}
+```
 Data
 ```cs
    public class ApplicationUser : IdentityUser
    {
         // "email": "admin2@gmail.com", 
 	     // "password": "Admin2@gmail.com"
-	
+
+
 	    public string Name { get; set; }
 	    public string Email { get; set; }
 	    public string Role { get; set; }
