@@ -185,10 +185,17 @@ refer turtorial:
 [PCA in Python - starquest](https://youtu.be/Lsue2gEM9D0?si=I6PmvlWgGuVGiD9U)
 
 
-roadmap:
+Roadmap:
 + understand how each component work
 + how they interact to eachother
 + code PCA from scratch
+Presentation Roadmap:
+	Why PCA?
+	Explain PCA
+		Ideas?
+	Giải thích ý tưởng thuật toán -(sau đó)-> chia các phần thuật toán với từng đoạn code.
+		**Prove and Comparison** (Trên 1 vấn đề, so sánh lợi thế khi dùng PCA vs các phương pháp nén khác như JPEG) 
+
 
 **Detail Step-by-step PCA algorithm**
 step1: choose a data matrix of M row

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "17f9a94de3c1bab4",
+        "id": "ba98f0a6a36e0b14",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2d6dc8b308cb56",
+            "id": "180065dfe4632144",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "15c4e9db7de56d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Revision.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Revision.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Revision.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -204,8 +188,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "15c4e9db7de56d2d",
+  "active": "180065dfe4632144",
   "lastOpenFiles": [
+    "My Web Back-end Note.md",
+    "FrontEnd/My Web Back-end Project.md",
+    "Cyber Security Revision.md",
     "Images/Pasted image 20240510154347.png",
     "Images/Pasted image 20240510154316.png",
     "Images/Pasted image 20240510154253.png",
@@ -219,17 +206,14 @@
     "BE_Models.md",
     "Images/Pasted image 20231004104753.png",
     "Pokemon Reviewer WebApp.md",
-    "FrontEnd/My Web Back-end Project.md",
     "WebDev/WebDev_Learn/Backend.md",
     "Web Back-end Subsystem.md",
-    "My Web Back-end Note.md",
     "IT_PM My Project.md",
     "Web Back-end WorkFlow.md",
     "IT Project Management.md",
     "Project Management Resource.md",
     "Project Management/Project Management.md",
     "Images/Pasted image 20240509130151.png",
-    "Images/Pasted image 20240509130207.png",
     "PM Project Archive.md",
     "Personal/Language Learning/German Vocabulary.md",
     "_Focus/2023/Challenges & Guides/Github.md",
