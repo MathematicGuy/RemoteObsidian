@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e045da5421663a6f",
+        "id": "17f9a94de3c1bab4",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa8f42b703c20d7",
+            "id": "7d2d6dc8b308cb56",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,38 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b0606d4f108af7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BE_Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "612f80bf40855273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog with ASAP.NET.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BE_Models.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BE_Models.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BE_Models.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -217,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b0606d4f108af7b8",
+  "active": "7d2d6dc8b308cb56",
   "lastOpenFiles": [
     "Todo.md",
     "Blog with ASAP.NET.md",
