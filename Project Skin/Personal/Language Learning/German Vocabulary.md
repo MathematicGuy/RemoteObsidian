@@ -16,7 +16,6 @@ German word order: Important context goes first, Verb goes after.
 	Danke, Tchüss
 	Tchüss
 
-
 Und and
 Oder or
 Nein no8
@@ -1679,3 +1678,5 @@ Zahnschmerzen - toothache
 	Zahnschmerzen -> toothpain
 Hurra, du hast jetzt keine Zahnschmerzen mehr - hurray, you don't have toothache anymore
 
+Traurig sad
+	Ich bin Traurig und I schlafe zu viel
