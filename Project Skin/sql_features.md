@@ -180,7 +180,7 @@ SELECT * FROM Employee
     INSERT INTO Team (team_name, team_skill_id, team_lead_id, team_status)
     VALUES ('Tên nhóm mới', id_kỹ_năng, id_nhân_viên_trưởng_nhóm, 'Trạng thái nhóm');
 ```
-t
+
 - View Team
 ```sql
     SELECT 
@@ -352,6 +352,7 @@ EXEC create_task_for_team
         WHERE s.skill_id = @SkillID;
     END;
     Go
+    
     -- select * from employee_skills
     EXEC ListEmployeesBySkillID 20;
 ```
@@ -370,7 +371,7 @@ EXEC create_task_for_team
     SELECT t.team_id, t.team_name
     FROM Team t
     JOIN team_project tp ON t.team_id = tp.team_id
-    WHERE tp.project_id = 1;  -- Assuming you want teams for Project 3
+    WHERE tp.project_id = 111;  -- Assuming you want teams for Project 3
 ```
 
 - ? Team Procedure: Employees on a Team with Specific Skill

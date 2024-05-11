@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "65ed02383803170a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sql_features.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eae360c4caf8fb72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Procedure and Trigger.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "sql_features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "sql_features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "sql_features.md"
               }
             }
           },
@@ -189,11 +216,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c62db112b15c36c7",
+  "active": "65ed02383803170a",
   "lastOpenFiles": [
-    "sql_features.md",
-    "SAD Project.md",
     "Todo.md",
+    "Practice Procedure and Trigger.md",
+    "sql_features.md",
+    "_Focus/SQL & DataBase/SQL/SQL.md",
+    "_Focus/SQL & DataBase/SQL/SQL Code.md",
+    "SAD Project.md",
     "Personal/Language Learning/Language Learning.md",
     "Personal/Language Learning/Vocabulary 1.md",
     "Personal/Language Learning/pm.bak",
@@ -227,9 +257,6 @@
     "Project Management/Project Management.md",
     "Images/Pasted image 20240509130151.png",
     "PM Project Archive.md",
-    "DbContext_RepresentInCode.md",
-    "_Focus/2023/3rd Semesters/DSA/LinkedList MergeSort.md",
-    "System Administration Database.md",
     "Project Management",
     "Psychology",
     "WTH",
