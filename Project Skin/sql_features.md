@@ -388,21 +388,23 @@ EXEC create_task_for_team
 - ? Team Procedure: Display Teams by Skill ID 
 ```sql
     -- This stored procedure is used to display teams based on a specific skill ID.
-        -- It takes a parameter called @skill_id_param, which represents the skill ID to filter the teams by.
-        CREATE PROCEDURE display_teams_by_skill_id 
-            @skill_id_param INT
-        AS
-        BEGIN
-            -- The SELECT statement retrieves the team ID, team name, skill name, and skill description
-            -- from the Team, team_skill_tag, and Skills tables.
-            SELECT DISTINCT t.team_id, t.team_name, s.skill_name, s.skill_description
-            FROM Team t
-            JOIN team_skill_tag tst ON t.team_id = tst.team_id
-            JOIN Skills s ON tst.skill_id = s.skill_id
-            WHERE s.skill_id = @skill_id_param; 
-            -- The WHERE clause filters the result set based on the provided skill ID parameter.
-            -- Only teams with the specified skill ID will be returned.
-        END;
+    -- It takes a parameter called @skill_id_param, which represents the skill ID to filter the teams by.
+CREATE OR ALTER PROCEDURE display_teams_by_skill_id
+    @skill_id_param INT
+AS
+BEGIN
+    -- The SELECT statement retrieves the team ID, team name, skill name, and skill description
+    -- from the Team, team_skill_tag, and Skills tables.
+SELECT DISTINCT t.team_id, t.team_name, s.skill_name, s.skill_description
+    FROM Team t
+    JOIN team_skill_tag tst ON t.team_id = tst.team_id
+    JOIN Skills s ON tst.skill_id = s.skill_id
+    WHERE s.skill_id = @skill_id_param;
+    -- The WHERE clause filters the result set based on the provided skill ID parameter.
+    -- Only teams with the specified skill ID will be returned.
+END;
+Go
+EXEC display_teams_by_skill_id 1
 ```
 
 - ? Display Employees by Team Skill Tag
@@ -430,7 +432,6 @@ EXEC create_task_for_team
         GO
 
         EXEC display_employees_by_team_skill @team_id = 3; -- Execute the procedure with team_id = 1
-        SELECT * from Team; -- Display the list of teams
 ```
 
 - ? Display Employees by Skill Tag and Which Team they in
