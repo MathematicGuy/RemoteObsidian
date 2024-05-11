@@ -1678,3 +1678,4 @@ Zahnschmerzen - toothache
 	Schmerzen pain
 	Zahnschmerzen -> toothpain
 Hurra, du hast jetzt keine Zahnschmerzen mehr - hurray, you don't have toothache anymore
+
