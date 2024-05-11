@@ -180,7 +180,7 @@ SELECT * FROM Employee
     INSERT INTO Team (team_name, team_skill_id, team_lead_id, team_status)
     VALUES ('Tên nhóm mới', id_kỹ_năng, id_nhân_viên_trưởng_nhóm, 'Trạng thái nhóm');
 ```
-
+t
 - View Team
 ```sql
     SELECT 
