@@ -39,7 +39,7 @@ SELECT task_id, task_name, task_description, task_priority, status, due_date FRO
 ```sql
 UPDATE Skills
 SET skill_name = 'Tên kỹ năng mới', skill_description = 'Mô tả kỹ năng mới'
-WHERE skill_id = id;
+WHERE skill_id = 1;
 ```
 + Edit Role Tag:
 ```sql

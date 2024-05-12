@@ -911,6 +911,7 @@ Zeit time
 	Hast du Zeit - do you have time
 	Schade, ich habe um Sechs keine Zeit
 	Wann hat Frau Merkel Zeit
+Kann Nicht - can't
 Ich kann nicht - I can't
 das Spiel the game
 	Das spiel is heute - the game is today
@@ -1060,6 +1061,7 @@ Schreibtisch Desk
 + Room zimmer
 + Hospital Krankenhaus
 + Sad traurig
+	Herr Merkel, Sind sie traurig, ich muss helfen 
 - Plants planzen
 
 
@@ -1599,9 +1601,10 @@ Krank sick
 + zum - to the (zu + dem (masculine or neutral))
 	Du bist Krank, Heval, geh zum Arzt (go to the docter)
 
-Traurig sad
 zu viel - too much
 	Spreche ich zu viel
+Traurig sad
+	Ich bin traurig, ich schlafe zu viel
 Bett bed
 Schlafe - sleep
 	ich Schalafe nicht viel
@@ -1680,3 +1683,35 @@ Hurra, du hast jetzt keine Zahnschmerzen mehr - hurray, you don't have toothache
 
 Traurig sad
 	Ich bin Traurig und I schlafe zu viel
+
+### Declarative Sentences (German Word Order) 
+**Summarize by the Acronym:** "T-V-S-K-O"
+1. **T** - time (tempral adverbials): This includes words that indicate when the action happens, such as "nachts" (at night), "morgen" (tomorrow), "immer" (always), etc.
+2. **V** - Verb: The conjugated verb comes in second position in main clauses. Auxiliary verbs or modals also occupy this position.
+3. **S** - Subject: The subject usually comes before the verb in German sentence.
+4. **K** - Klammer (adverbials or complements): This position is for elements like adverbs of manner, place or frequency.
+5. **O** - Other (object): Objects, both direct and indirect, typucally come after the verb in German sentences.
+**Ex:** 
++ Wir gehen morgen ins Kino
++ Sie liest immer ein Buch vor dem Schlafengehen (She always reads a book before going to bed)
+
+Ich bin müde, bist du müde Anna?
+
+Excuse me, are you a docter? I am always tired, but I don't sleep at night. Am I sick?
+	Entschuldigung, sind sie Arzt? Ich bin immer müde, aber Ich schlaf nachts nicht. Bin ich krank? 
+Another example with Language teacher
+	Entschuldigung, Sind sie sprachlehrer. Mein Deutsch nicht gut aber ich habe drei monate gelernt (gelernt - past participle of "lernen")
+
+Time - Verb - Subject
++ Ich trinke viel Kaffee, aber ich nacht immer Durst. Heute Abend trinke ich keinen Kaffee, Ich trinken nur Wasser.
++ Ich schlafe nachts nicht viel
+
+
+
+
+
+
+
+
+
+
