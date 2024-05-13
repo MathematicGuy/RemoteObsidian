@@ -7,11 +7,11 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
 **Project 5. Quản lý thu chi tài chính (6.4)**  
 **Project 6.** **Xây dựng hệ thống thi code hỗ trợ chấm điểm tự động bằng chatGPT có kết hợp với người đánh giá.**
 
-14 - CDDL
-16 - AI
-21 - Web BE
-22 - PM
-24 - ATTT
+**14 - CDDL**
+**16 - AI**
+**21 - WEB BE**
+**22 - PM**
+**24 - ATTT**
 
 ```cs
 {
@@ -19,7 +19,7 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
   "password": "Admin2@123"
 }
 ```
-Data
+**Data**
 ```cs
    public class ApplicationUser : IdentityUser
    {
