@@ -202,6 +202,7 @@ These joining tables, in conjunction with your models, enable the following func
 
 Backend Features for Student User
 ![[Pasted image 20240512173635.png]]
+
 Use 2 diff account to test data update Concurrentcy. (2 users update the same data at 1 moment) 
 admin2@gmail.com 
 ```json
@@ -211,4 +212,74 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9y
 admin@gmail.com
 ```json
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImU1NWE1ZmU4LTFjNTQtNDEyOC05MThjLWNlZDllMGNjYjhlYiIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJSYXZpbmRyYSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6ImFkbWluQGdtYWlsLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzE1NTk4OTc0LCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MjAyIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzIwMiJ9.66Nxnd5W19EfQp2ZpYcMVcjWf59nz0LgdNHN4LbPgc8
+```
+
+
+```cs
+[HttpGet]
+[Route("get-students-list")]
+public async Task<IActionResult> GetAsync()
+{
+	 var students = await context.Student.ToListAsync();
+	 return Ok(students);
+}
+
+// Lấy người dùng theo ID
+[HttpGet]
+[Route("get-user-by-id/{UserId}")]
+public async Task<IActionResult> GetUserByIdAsync(int UserId)
+{
+	 var user = await context.Student.FindAsync(UserId);
+	 if (user == null)
+	 {
+		  return NotFound(); // Trả về lỗi 404 nếu không tìm thấy người dùng
+	 }
+	 return Ok(user);
+}
+
+// Thêm người dùng mới
+[HttpPost]
+[Route("add-user")]
+public async Task<IActionResult> PostAsync(Student user)
+{
+	 if (!ModelState.IsValid)
+	 {
+		  return BadRequest(ModelState); // Trả về lỗi 400 nếu dữ liệu không hợp lệ
+	 }
+
+	 context.Student.Add(user);
+	 await context.SaveChangesAsync();
+	 return Created($"/get-user-by-id/{user.StudentId}", user);
+}
+
+// Cập nhật thông tin người dùng
+[HttpPut]
+[Route("update-user/{UserId}")]
+public async Task<IActionResult> PutAsync(int UserId, Student userToUpdate)
+{
+	 if (UserId != userToUpdate.StudentId || !context.Student.Any(u => u.StudentId == UserId))
+	 {
+		  return BadRequest("Invalid user ID"); // Trả về lỗi 400 nếu ID không hợp lệ hoặc không tìm thấy người dùng
+	 }
+
+	 context.Student.Update(userToUpdate);
+	 await context.SaveChangesAsync();
+	 return NoContent();
+}
+
+// Xóa người dùng
+[HttpDelete]
+[Route("delete-user/{UserId}")]
+public async Task<IActionResult> DeleteAsync(int UserId)
+{
+	 var userToDelete = await context.Student.FindAsync(UserId);
+	 if (userToDelete == null)
+	 {
+		  return NotFound(); // Trả về lỗi 404 nếu không tìm thấy người dùng
+	 }
+
+	 context.Student.Remove(userToDelete);
+	 await context.SaveChangesAsync();
+	 return NoContent();
+}
 ```
