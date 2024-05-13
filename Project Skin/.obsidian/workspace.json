@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f56a0679c014fdd9",
+        "id": "b59812c134a90176",
         "type": "tabs",
         "children": [
           {
-            "id": "3cb9064c2731df47",
+            "id": "b199ddb0c9c1cb4d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "64fa0bfd96f7a98d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Personal/Language Learning/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Personal/Language Learning/German Vocabulary.md"
               }
             }
           },
@@ -189,10 +203,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3cb9064c2731df47",
+  "active": "64fa0bfd96f7a98d",
   "lastOpenFiles": [
-    "BE_Models.md",
     "Todo.md",
+    "BE_Models.md",
     "Web Back-end Subsystem.md",
     "My Assignment_Management Back-end Documentation.md",
     "FrontEnd/My Web Back-end Project.md",
