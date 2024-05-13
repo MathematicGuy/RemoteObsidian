@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "671767fb04ba3fc9",
+        "id": "f56a0679c014fdd9",
         "type": "tabs",
         "children": [
           {
-            "id": "1c5b346e554516ad",
+            "id": "3cb9064c2731df47",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "68828a4c04b95d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BE_Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BE_Models.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BE_Models.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BE_Models.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -203,10 +189,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "68828a4c04b95d38",
+  "active": "3cb9064c2731df47",
   "lastOpenFiles": [
-    "Todo.md",
     "BE_Models.md",
+    "Todo.md",
     "Web Back-end Subsystem.md",
     "My Assignment_Management Back-end Documentation.md",
     "FrontEnd/My Web Back-end Project.md",
