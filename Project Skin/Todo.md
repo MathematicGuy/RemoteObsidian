@@ -18,9 +18,10 @@ THING I WANT TO ACHIEVE THIS WEEK
 	- [x] Nam
 	- [ ] Thuan
 	- [x] Tuong
-	- [ ] Quynh Anh (wait till )
+	- [x] Quynh Anh (wait till )
 	- [ ] Thien
 	- [x] Thuong
+
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep

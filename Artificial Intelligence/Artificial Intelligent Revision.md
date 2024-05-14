@@ -23,7 +23,14 @@ Là 1 phần của trí tuệ nhân tạo cho phép máy học hỏi và cải t
 ![[Pasted image 20240514180021.png]]
 vd: phân loại động vật
 
-ND Chính:
++ **Input Raw Data**: Đây là dữ liệu thô cần phải được gắn nhãn
++ **Labels**:  Nhãn dùng để phân loại các đối tượng trong dữ liệu đầu vào.
++ **Algorithm**: Thuật toán được huấn luyện sử dụng dữ liệu gắn nhãn bằng cách điều chỉnh lặp đi lặp lại các tham số bên trong của nó để giảm thiểu sự khác biệt giữa các dự đoán của nó và các nhãn thực tế.
++ **Traning data set:** Là các tập dữ liệu được xử lý về cùng 1 dạng, chuẩn hóa và gắn nhãn.
++ **Desired Output:** Ví dụ cho kết quả đầu ra mong đợi
++ **Procssing:**  Xử lý các dữ liệu sử dụng thuật toán và đưa ra kết quả. 
+
+**Giải Thích Cách Hoạt Động**:
 + Bao gồm huấn luyện máy bằng dữ liệu gắn nhãn
 + Dữ luệu gắn nhãn là 1 tập ví  với đáp án chính xác hoặc phân 
 + Máy học các mqh giữa đầu vào (ảnh động vật) và đầu ra (nhãn động vật: voi, bò, lạc đà)
@@ -39,13 +46,21 @@ Bây h, máy đã học đc kiến thức đó từ dữ liệu trước đó v�
 Học có giám sát xử lý với hoặc học các dữ liệu gán nhãn. Điều này ám chỉ (cho thấy) vài dữ liệu đã được gắn nhãn đúng tr'c đó. (vd là người gắn nhãn rồi mới cho máy xử lý dữ liệu theo nhãn đã gắn) 
 
 **Câu 4. Phân cụm là gì? Ý nghĩa của bài toán phân cụm dữ liệu?**
-
-
+Phân Cụm là kỹ thuật máy không giám sát được sử dụng để nhóm các điểm dữ liệu tương tự lại với nhau trong tập dữ liệu. 
++ Mục tiêu của phân cụm là xác định các mẫu hoặc cấu trúc cơ bản trong dữ liệu mà không có bất kỳ nhãn nào được xác định tr'c. 
++ Vấn đề phân cụm dữ liệu liên quan đến việc tìm các nhóm hoặc cấu trúc vốn có trong các điểm dữ liệu sao cho các điểm dữ liệu trong một cụm tương ứng và khác biệt với các điểm dữ liệu trong các cụm khác.
 
 **Câu 5. Mạng nơ ron là gì? Cho ví dụ về cấu trúc của mạng Nơ ron và giải 
 thích? Các tham số trong mạng nơ ron gồm những gì?**
-
-
+Mạng Neuron là mô hình học máy mô phỏng mạng lưới thần kinh của con người. Các tế bào não của con người, còn đc gọi là nơ-ro, tạo thành một mạng lưới phức tạp, có tính liên kết cao và gửi các tín hiệu điện đến nhau để giúp con người xử lý thông tin. Tương tự, 1 mạng nơ-ron nhân tạo được tạo ra từ các tế bào neuron nhân tạo, cùng nhau phối hợp để giải quyết 1 vấn đề. 
+-  Mạng Neuron cơ bản thường bao gồm
+	- 1 lớp đầu vào
+		- Dữ liệu gốc đi vào mạg nơ ron qua các nút đầu vào xử lý dữ liệu, phân tích hoặc phân loại và sau đó chuyển dữ liệu sang lớp tiếp theo.
+	- 1 hoặc nhiều lớp ẩn 
+		- Dữ liệu đi vào lớp ẩn đến từ lớp đầu vào hoặc các lớp ẩn khác. Mỗi lớp ẩn phân tích dữ liệu đầu ra từ lớp trước, xử lý dữ liệu đso sâu hơn và rồi chuyển dữ liệu sang lớp tiếp theo.
+	- 1 lớp đầu ra
+		- Lớp đầu ra cho ra kết quả cuối cùng của t 
+	Mỗi lớp chứa 1 tập hợp các Nơ ron hoặc nút 
 
 **Câu 6. Học trong mạng nơ ron là gì? Giải thích thuật toán back 
 propagation?**
