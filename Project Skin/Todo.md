@@ -14,13 +14,13 @@ THING I WANT TO ACHIEVE THIS WEEK
 - [x] Improve my Sleep Quality
 - [ ] In the mean time, ask my friend how what did they do when Toxic Self-talk come.
 	- [x] Link
-	- [ ] Spring
+	- [x] Spring
 	- [x] Nam
 	- [ ] Thuan
-	- [ ] Tuong
-	- [ ] Quynh Anh
+	- [x] Tuong
+	- [ ] Quynh Anh (wait till )
 	- [ ] Thien
-	- [ ] Thu
+	- [x] Thuong
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
