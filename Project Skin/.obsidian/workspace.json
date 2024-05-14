@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "857ee80343ed6005",
+        "id": "7f9c6e14d7a3f257",
         "type": "tabs",
         "children": [
           {
-            "id": "7b2a656d24a0e67d",
+            "id": "81233af38de62055",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7b2a656d24a0e67d",
+  "active": "81233af38de62055",
   "lastOpenFiles": [
     "Todo.md",
     "BE_Models.md",

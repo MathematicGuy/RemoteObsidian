@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "967e43fe6841937c",
+            "id": "ccfe238db7d220a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCA Ideas notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ea0258cf202e5ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4 Determinants and Eigenvector.md",
+                "file": "Artificial Intelligent Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCA Ideas notes.md",
+                "file": "Artificial Intelligent Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCA Ideas notes.md",
+                "file": "Artificial Intelligent Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCA Ideas notes.md"
+                "file": "Artificial Intelligent Revision.md"
               }
             }
           },
@@ -195,11 +183,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "967e43fe6841937c",
+  "active": "ccfe238db7d220a0",
   "lastOpenFiles": [
-    "Week 4 Determinants and Eigenvector.md",
-    "PCA Ideas notes.md",
     "Machine Learning.md",
+    "Artificial Intelligent Revision.md",
+    "Image/Pasted image 20240514180021.png",
+    "What Is AI.md",
+    "MACHINE LEARNING RESOURCE.md",
+    "Facebook's field guide to machine learning.md",
+    "Why Machine Learning.md",
+    "PCA Ideas notes.md",
+    "Week 4 Determinants and Eigenvector.md",
     "Image/Pasted image 20240506222705.png",
     "Image/Pasted image 20240506222628.png",
     "Machine Learning Assignment/Mathematic  for Machine Learning.md",
@@ -213,8 +207,6 @@
     "Image/Pasted image 20240417082757.png",
     "ML Project/Image Compression using PCA - Principal Component Analysis.md",
     "Image/Pasted image 20240505234344.png",
-    "Image/Pasted image 20240505234323.png",
-    "Artificial Intelligent Revision.md",
     "Week 3 Vector and Linear Transformations.md",
     "Mathematics.md",
     "Natural Language Processing.md",
@@ -230,11 +222,7 @@
     "Machine Learning Assignment/GaussianElimination_Assignment.md",
     "Machine Learning Assignment",
     "Artificial Network Using Linear Algebra.md",
-    "Emotion Detector.md",
-    "CMC AI.md",
     "Mathematics for AI",
-    "My AI Skills.md",
-    "Personal/Personal.md",
     "Personal",
     "Spaces",
     "Book/Seeing Theory A visual introduction to the most useful.pdf",

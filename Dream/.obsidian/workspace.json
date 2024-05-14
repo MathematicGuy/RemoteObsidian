@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1eafa0143c5a1b16",
+            "id": "734b7c3d05b9e74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flow State.md",
+                "file": "Deepthought.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow State.md",
+                "file": "Deepthought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow State.md",
+                "file": "Deepthought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow State.md"
+                "file": "Deepthought.md"
               }
             }
           },
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1eafa0143c5a1b16",
+  "active": "734b7c3d05b9e74a",
   "lastOpenFiles": [
+    "Deepthought.md",
+    "Flow State.md",
     "Image/Pasted image 20240426221324.png",
     "Image/Pasted image 20240426221004.png",
-    "Flow State.md",
     "Untitled 1.md",
     "Image/Pasted image 20240426220933.png",
     "My Dream.md",
@@ -222,7 +224,6 @@
     "Image/Pasted image 20240227195721.png",
     "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
     "Image/Pasted image 20240222101341.png",
-    "Image/Pasted image 20240222101233.png",
     "Question Mark/Money.md",
     "Productivity & Improvement/Scott Young on the Best Way to Learn Anything.md",
     "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",

@@ -40,7 +40,9 @@ Multiples types of data
 	images, audio, text -> unstructed data
 
 
-
 ## The Terminology of AI
+"we can't control what we don't understand"
 
+AI - new digital specie in the focus ? 
+a reflica of human brain?
 
