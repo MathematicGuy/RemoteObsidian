@@ -27,19 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligent Revision.md",
+                "file": "PCA Ideas notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fb37da4262e1b68",
+            "id": "494ef9ebe59c109e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is Neural Network.md",
+                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligent Revision.md",
+                "file": "PCA Ideas notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligent Revision.md",
+                "file": "PCA Ideas notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligent Revision.md"
+                "file": "PCA Ideas notes.md"
               }
             }
           },
@@ -197,16 +197,21 @@
   },
   "active": "ccfe238db7d220a0",
   "lastOpenFiles": [
-    "What is Neural Network.md",
-    "Artificial Intelligent Revision.md",
     "Machine Learning.md",
+    "ML Project/Image Compression using PCA - Principal Component Analysis.md",
+    "PCA Ideas notes.md",
+    "PCA (Principle Component Analysis) Research Documents.md",
+    "Artificial Intelligent Revision.md",
+    "CNN - Convolution Neural Network.md",
+    "Image/Pasted image 20240515110447.png",
+    "Image/Pasted image 20240515110239.png",
+    "What is Neural Network.md",
     "Neural Networks.md",
     "Image/Pasted image 20240514180021.png",
     "What Is AI.md",
     "MACHINE LEARNING RESOURCE.md",
     "Facebook's field guide to machine learning.md",
     "Why Machine Learning.md",
-    "PCA Ideas notes.md",
     "Week 4 Determinants and Eigenvector.md",
     "Image/Pasted image 20240506222705.png",
     "Image/Pasted image 20240506222628.png",
@@ -217,10 +222,6 @@
     "Image/Pasted image 20240506211554.png",
     "Image/Pasted image 20240506211514.png",
     "Image/Pasted image 20240506211225.png",
-    "PCA (Principle Component Analysis) Research Documents.md",
-    "Image/Pasted image 20240417082757.png",
-    "ML Project/Image Compression using PCA - Principal Component Analysis.md",
-    "Image/Pasted image 20240505234344.png",
     "Week 3 Vector and Linear Transformations.md",
     "Mathematics.md",
     "Natural Language Processing.md",
@@ -232,8 +233,6 @@
     "Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
     "ML Project",
     "Mathematic for Machine Learning - Assignment.md",
-    "Machine Learning Assignment/Gaussian Elimination from Scratch Documentation.md",
-    "Machine Learning Assignment/GaussianElimination_Assignment.md",
     "Machine Learning Assignment",
     "Mathematics for AI",
     "Personal",

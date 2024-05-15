@@ -107,10 +107,28 @@ Cấu trúc mạng neuron tích chập:
 
 **Câu 6. Học trong mạng nơ ron là gì? Giải thích thuật toán back 
 propagation?**
-
+Học trong mạng Neuron bao gồm việc điều chỉnh trọng số và độ lệch của kết nối giữa các neuron để giảm thiểu sự khác biệt giữa các kết quả đầu ra được dự đoán mà kết quả đầu ra thực tế trong quá trình đào tạo. Quá trình này thường đạt được thông qua 1 thuật toán gọi là Lan Truyền Ngược (Back Propagation)
+	Thuật toán hoạt động bằng cách tính toán lỗi hoặc tổn thất giữa đầu ra dự đoán và đầu ra thực tế, sau đó truyền ngược lỗi này qua mạng để cập nhập trọng số và độ lệch.
+**Các bước của thuật toán Back Propagation**
+1) **Forward Pass (chuyển tiếp):** trong quá trình chuyển tiếp, dữ liệu đầu vào được đưa vào mạng và đầu ra được tính toán.
+2) **Loss Calculation (tính toán tổn thất):** tổn thất hoặc lỗi đc tính bằng cách so sánh đầu ra dự đoán với đầu ra thực tế
+3) **Back Propagation (truyền ngược):** Lỗi sau đó được truyề ngược theo từng lớp, tính toán độ dốc của lỗi liên quan đến trọng số và độ lệch.
+4) **Weight Update (cập nhật trọng số)**: Trọng số và độ lệch được cập nhật bằng thuật toán tối ứu hóa để giảm thiểu lõi.
+5) **Lặp lại:** Lặp các bước 1-4 nhiều lần cho đến khi mạng hội tụ về 1 giải pháp thỏa đáng. 
 
 
 **Câu 7. Mạng CNN là gì? Khác gì với mạng nơ ron truyền thống?**
+
+
+
+
+
+
+
+
+
+
+
 
 
 
