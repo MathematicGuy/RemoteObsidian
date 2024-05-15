@@ -516,6 +516,7 @@ Ich heiBe my name
 	 Ich heiße Dinh Nhat Thanh
 Wie heißen Sie what is your name
 
+
 Woher kommen sie where are you come from
 heißen Sie my name is (heißen goes with Sie, Sie as you)
 	heißen sie? your name is ?
@@ -1706,12 +1707,8 @@ Time - Verb - Subject
 + Ich trinke viel Kaffee, aber ich nacht immer Durst. Heute Abend trinke ich keinen Kaffee, Ich trinken nur Wasser.
 + Ich schlafe nachts nicht viel
 
+Wie ist Ihr Name = Wie heißen Sie
+Um wie viel Uhr ist Ihr Termin - At what time is your appointment
+	Use Ihr to when there're several people or people you know well
 
-
-
-
-
-
-
-
-
+	

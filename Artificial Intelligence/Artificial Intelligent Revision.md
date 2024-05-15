@@ -1,3 +1,5 @@
+ancronym: dgl -> được gọi là
+
 **Câu 1. Nêu khái niệm của Trí tuệ nhân tạo và 3 ứng dụng kèm phân tích trên thực tế.**
 + Trí tuệ mô phỏng bộ não con người, có nghĩa là đảm bảo được 1 trong số các chức năng và hoạt động của bộ não con người, và nó là do con người tạo ra.
 + Nó sẽ không là trí tuệ nhân tạo nếu không đạt được 1 trong các điều kiện dưới đây
@@ -52,15 +54,56 @@ Phân Cụm là kỹ thuật máy không giám sát được sử dụng để n
 
 **Câu 5. Mạng nơ ron là gì? Cho ví dụ về cấu trúc của mạng Nơ ron và giải 
 thích? Các tham số trong mạng nơ ron gồm những gì?**
+	references: https://nttuan8.com/bai-3-neural-network/
+
 Mạng Neuron là mô hình học máy mô phỏng mạng lưới thần kinh của con người. Các tế bào não của con người, còn đc gọi là nơ-ro, tạo thành một mạng lưới phức tạp, có tính liên kết cao và gửi các tín hiệu điện đến nhau để giúp con người xử lý thông tin. Tương tự, 1 mạng nơ-ron nhân tạo được tạo ra từ các tế bào neuron nhân tạo, cùng nhau phối hợp để giải quyết 1 vấn đề. 
--  Mạng Neuron cơ bản thường bao gồm
-	- 1 lớp đầu vào
-		- Dữ liệu gốc đi vào mạg nơ ron qua các nút đầu vào xử lý dữ liệu, phân tích hoặc phân loại và sau đó chuyển dữ liệu sang lớp tiếp theo.
-	- 1 hoặc nhiều lớp ẩn 
-		- Dữ liệu đi vào lớp ẩn đến từ lớp đầu vào hoặc các lớp ẩn khác. Mỗi lớp ẩn phân tích dữ liệu đầu ra từ lớp trước, xử lý dữ liệu đso sâu hơn và rồi chuyển dữ liệu sang lớp tiếp theo.
-	- 1 lớp đầu ra
-		- Lớp đầu ra cho ra kết quả cuối cùng của t 
-	Mỗi lớp chứa 1 tập hợp các Nơ ron hoặc nút 
+-  Mạng Neuron cơ bản thường bao gồm 3 lớp:
+	- **1 lớp đầu vào**
+		Dữ liệu gốc đi vào mạg nơ ron qua các nút đầu vào xử lý dữ liệu, phân tích hoặc phân loại và sau đó chuyển dữ liệu sang lớp tiếp theo.
+	- **1 hoặc nhiều lớp ẩn** 
+		Dữ liệu đi vào lớp ẩn đến từ lớp đầu vào hoặc các lớp ẩn khác. Mỗi lớp ẩn phân tích dữ liệu đầu ra từ lớp trước, xử lý dữ liệu đó sâu hơn và rồi chuyển dữ liệu sang lớp tiếp theo.
+	- **1 lớp đầu ra**
+		Lớp đầu ra cho ra kết quả cuối cùng của tất cả dũ liệu được xử lý bởi mạng nơ ron nhân tạo. Lớp này có thể có 1 hoặc nhiều nút. Vd: giả sử chúng ta gặp phải 1 vấn đề phân loại nhị phân (có/không), lớp đầu ra sẽ có 1 nút đầu ra, nút này sẽ cho ra kết quả 1 hoặc 0. Tuy nhiên, nếu chúng ra gặp phải vấn đề phân loại nhiều lớp, lớp đầu ra có thể bao gồm nhiều hơn 1 nút đầu ra.  
+
+Tham số của mạng neuron cơ bản:
+$$
+a = \sigma(Wa+ b)
+$$
+
+
+- **a**: Đây là đầu ra (activation) của lớp nơ ron hiện tại.
+	  
+- **W**: Đây là ma trận trọng số (weights) giữa các nơ ron của lớp trước và lớp hiện tại.
+	- **Vai Trò**: Trọng số xác định mức độ ảnh hưởng của đầu vào từ các nơ ron lớp trước đến đầu ra của nơ ron lớp hiện tại.
+	- **Dạng**: Trọng số thường được tổ chức dưới dạng ma trận. Kích thước của ma trận này phụ thuộc vào số lượng nơ ron trong lớp hiện tại và lớp trước đó.
+	- **Ví Dụ**: Nếu lớp trước có 3 nơ ron và lớp hiện tại có 2 nơ ron, ma trận trọng số W sẽ có kích thước 2×32×3.
+	  
+- **b**: Đây là vector độ dời (bias) của lớp hiện tại.
+	- **Vai Trò**: Độ dời là một tham số bổ sung cho phép mô hình dịch chuyển hàm kích hoạt để phù hợp hơn với dữ liệu. Nó giúp mạng nơ ron học được các hàm phức tạp hơn.
+	  
+	- **Dạng**: Độ dời thường là một vector có kích thước bằng số lượng nơ ron trong lớp hiện tại.
+	
+	- **Ví Dụ**: Nếu lớp hiện tại có 2 nơ ron, vector độ dời bb sẽ có kích thước 22.
+	  
++ **Sigmoid**:  Đây là hàm kích hoạt (activation function), được áp dụng cho tổ hợp tuyến tính của các đầu vào và trọng số.
+	- **Vai Trò**: Hàm kích hoạt áp dụng một phép biến đổi phi tuyến tính lên tổ hợp tuyến tính của các đầu vào, trọng số và độ dời. Điều này giúp mạng nơ ron học được các mối quan hệ phi tuyến tính trong dữ liệu.
+	
+	- **Ví Dụ**: Các hàm kích hoạt phổ biến bao gồm
+		hàm sigmoid
+		$$
+		(σ(x)=11+e−xσ(x)=1+e−x1​) 
+		$$
+		hàm tanh
+		$$ 
+		tanh⁡(tanh(x))
+		$$               hàm ReLU 
+		$$
+		ReLU(max⁡(0,x))
+		$$
+
+Cấu trúc mạng neuron tích chập:
+	Những lớp ẩn trong trong mạng neuron tích chập thực hiện các chức toán học cự thể, như tóm tắt hoặc sàng lọc được gọi là tích chập. Chúng được ứng dụng trong việc xử lý ảnh vì chúng trích xuất ra các đặc điểm liên quan từ hình ảnh, điều này có lợi cho việc nhận dạng và phân loại ảnh. Biểu mẫu mới dễ xử lý hơn mà không làm mất đi các đặc điểm quan trọg để đưa ra dự đoán chính xác. Mỗi lớp ẩn trích xuất và xử lý các đặc điểm hình ảnh khác nhau, như các cạnh, màu sắc và độ sâu.  
+
 
 **Câu 6. Học trong mạng nơ ron là gì? Giải thích thuật toán back 
 propagation?**
