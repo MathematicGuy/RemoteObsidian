@@ -19,7 +19,7 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
   "password": "Admin2@123"
 }
 ```
-**Data**
+Path: Data/ApplicationUser.cs
 ```cs
    public class ApplicationUser : IdentityUser
    {
@@ -30,13 +30,9 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
 	    public string Name { get; set; }
 	    public string Email { get; set; }
 	    public string Role { get; set; }
-	
-	    // 1 to 1 Relationship
-	    public Student Student { get; set; } 
-	    public Teacher Teacher { get; set; }
 	}
 ```
-Models/Domains
+Path: Models/Domains
 ```cs
     public class Assignment
     {
@@ -52,6 +48,8 @@ Models/Domains
         public DateTime PublishTime { get; set; }
 
         public DateTime? CloseTime { get; set; } // CloseTime is optional 
+
+        public int? AssignmentTotalPoints { get; set; }
 
         [Required]
         public string Status { get; set; }
@@ -75,14 +73,14 @@ Models/Domains
 
         public int? TotalPoints { get; set; }
 
-        public string AnswerFileURL { get; set; }
+        public string? AnswerFileURL { get; set; }
 
-        public string Status { get; set; }
+        public string? Status { get; set; }
 
 
-        // 1 to 1 relationship with StudentQuestionResponse
-        public FeedBack? QuestionFeedback { get; set; }
         // 1 to many relationship with AssignmentQuestion
+        public ICollection<FeedBack> QuestionFeedback { get; set; }
+
         public ICollection<AssignmentQuestion> AssignmentQuestion { get; set; }
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
@@ -93,6 +91,7 @@ Models/Domains
             }
         }
     }
+
 	    
     public class AssignmentQuestion
     {
@@ -106,28 +105,25 @@ Models/Domains
         public Question Question { get; set; }
     }
    
-    public class Student 
+    public class Student
     {
         public int StudentId { get; set; }
-        public string UserId { get; set; } // Foreign key to ApplicationUser
-        public int averageScore { get; set; }
+        public string Name { get; set; }
+        public string Role { get; set; }
 
-        // 1 to 1 Relationship
-        public ApplicationUser User { get; set; }
         // 1 to Many Relationship
         public ICollection<StudentAssignment>? StudentAssignments { get; set; }
-   }
+    }
 
     public class Teacher 
     {
         public int TeacherId { get; set; }
-        public string UserId { get; set; } // Foreign key to ApplicationUser
-        public string Department { get; set; }
+        public string Name { get; set; }
+        public string Role { get; set; }
 
-        // 1 to 1 Relationship
-        public ApplicationUser User { get; set; }
         // 1 to Many Relationship
         public ICollection<TeacherAssignment>? TeacherAssignments { get; set; }
+
     }
 
     public class StudentAssignment
@@ -170,7 +166,20 @@ Models/Domains
         [Required]
         public DateTime CreatedDate { get; set; }
 
-        public string? Context { get; set; }
+        [Required(ErrorMessage = "Score must be integer")]
+        [RegularExpression("^[1-9]\\d*$", ErrorMessage = "ScoreAI must be a positive integer")]
+        public float? Score { get; set; }
+
+        // Teacher Evaluvation
+        public string? Evaluation { get; set; }
+
+        [Required(ErrorMessage = "ScoreAI is required")]
+        [RegularExpression("^[1-9]\\d*$", ErrorMessage = "ScoreAI must be a positive integer")]
+        public float? ScoreAI { get; set; }
+
+        [Required(ErrorMessage = "ScoreAI is required")]
+        [RegularExpression("^[1-9]\\d*$", ErrorMessage = "ScoreAI must be a positive integer")]
+        public string? Note { get; set; }
 
         // 1 to Many Relationship
         public Question? QuestionResponse { get; set; }
@@ -281,5 +290,27 @@ public async Task<IActionResult> DeleteAsync(int UserId)
 	 context.Student.Remove(userToDelete);
 	 await context.SaveChangesAsync();
 	 return NoContent();
+}
+```
+
+
+AddTagRequest
+```cs
+    public class AddTagRequest
+    {
+        public string Name { get; set; }
+        public string DisplayName { get; set; }
+    }
+```
+
+UpdateViewModel
+```cs
+public class EditTagRequest
+{
+  // Create new bc we want to seperate Edit Tag from the List Tag
+  // Saving Edit Model data then transfer it to List Model
+  public Guid Id { get; set; }
+  public string Name { get; set; }
+  public string DisplayName { get; set; }
 }
 ```
