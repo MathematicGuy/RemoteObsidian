@@ -41,7 +41,7 @@ vd: phân loại động vật
 	+ Ví dụ hình dáng con vật trong ảnh có 2 màu đen và trắng, đuôi có chỏm lông, bụng phìng ra và đang ăn cỏ trên thảo nguyên.  Hình đó sẽ được gán nhãn là con bò.
 Bây h, máy đã học đc kiến thức đó từ dữ liệu trước đó và lần này máy sẽ pải dùng nó 1 cách khôn ngoan. Máy sẽ phân loại con vạt với hình và màu sắc để xác nhận nó là BÒ và cho vào mục Bò. Vì máy học được điều đó từ dữ liệu huấn luyện (ảnh động vật) và sẽ áp dụng kiến thức đó để kiểm tra các dữ liệu mới (ảnh động vật mới) 
 
-**Các lại học giám sát**
+**Các loại học giám sát**
 + **Hồi Quy:** 1 vấn đề hồi quy là khi giá trị đầu ra là giá trị thật như là "củ khoai", "cân nặng". 
 + **Phân Loại:** 1 vấn đề phân loại là khi 1 giá trị đầu vào là 1 mục, ví dụ là "con bò", "con voi" hay "không bị bệnh", "bị "
 

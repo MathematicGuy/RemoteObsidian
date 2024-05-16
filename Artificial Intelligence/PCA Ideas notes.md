@@ -8,7 +8,11 @@ trình bày thực nghiệm
 Câu hỏi vấn đáp
 	bốc thăm
 
-Principal Component Analysis - allow to distribute each Cel seperatly
+
+
+
+ 
+Principal Component Analysis - allow to distribute each Cel seperately
 ![[Pasted image 20240417103920.png]]
 High collerate group together
 
@@ -16,32 +20,31 @@ High collerate group together
 > If the distance between Red and Yellow in X-axis are equal to Red and Sky Blue in y axis. Then Red and Yellow are more different from each other.
 ![[Pasted image 20240417104010.png]]
 
-
 ![[Pasted image 20240505101343.png]]
 ![[Pasted image 20240505101354.png]]
 
 ![[Pasted image 20240505101446.png]]
-
 What if we have 4 genes -> 4D mesurement -> ...
 
 **Step-by-Step PCA**
-step0:  Move all datas so the center is on top of origin (0,0)
+step 0:  Move all datas so the center is on top of origin (0,0)
+note: Centering the data did not change how the data point position relative to each other.
 ![[Pasted image 20240505152500.png]]
-step1: draw a line that goes through the origin
+step 1: draw a line that goes through the origin
 ![[Pasted image 20240505101917.png]]
 but how can we do that
 ![[Pasted image 20240505152705.png]]
-step2: rotate the line to fit the data
+step2 come to the recues: rotate the lin  e to fit the data
 1) project the datas to the line
 ![[Pasted image 20240505102007.png]]
 ![[Pasted image 20240505102042.png]]
-To calc the distances, we use Pythagorism
+To calc the distances, we use Pythagorism.
 ![[Pasted image 20240505102228.png]]
+
 ![[Pasted image 20240505154347.png]]
 b - distance between the line and the point (data).
 c - distance from the projected point to the origin.
-The distance between the root and the point: a doesn't change (constant). so if 
-b get bigger -> c get shorter and in reverse.
+The point fixed in space so **the distance between the root and the point a doesn't change** so if **b get bigger -> c get shorter and in reverse**.
 ![[Pasted image 20240505102257.png]]
 Thus, PCA can either minimize the distance to the line (b) or maximize the distance from the projected point to the origin (c)
 ![[Pasted image 20240505102459.png]]
@@ -49,7 +52,7 @@ Thus, PCA can either minimize the distance to the line (b) or maximize the dista
 ![[Pasted image 20240505102611.png]]
 
 ![[Pasted image 20240505102719.png]]
-repeat for d1 to d6
+repeat for d1 to d6 
 ![[Pasted image 20240505102746.png]]
 Next we square all of them to that negative values don't cancel out positive values. 
 ![[Pasted image 20240505102843.png]]
@@ -154,11 +157,11 @@ Scenario: Math and Reading score are 100% correlated
 	![[Pasted image 20240505233457.png]]
 	Likewise if we have 2 student
 	![[Pasted image 20240505233524.png]]
-	and then we center the data to find PC1, we could find a line that is perpendicular to PC1 but the eigenvalue would be 0
+	and then we center the data to find PC1, we could find a line that is perpendicular to PC1 but the eigenvalue (giá trị riêng) would be 0 
 	![[Pasted image 20240505233620.png]]
-	A simple way to understand this is that, 2 points define a line. So 2 point can only have a PC. 
+	A simple way to understand this is that, 2 points define a line. So 2 point can only have a PC.  
 	![[Pasted image 20240505233729.png]]
-	
+	 
 	![[Pasted image 20240505233750.png]]
 	And just like before, 2 Students give us only 2 Point -> 1line -> So we only have 1 PC
 		(note that all the subject represent the value scale and coordinate the point (student))

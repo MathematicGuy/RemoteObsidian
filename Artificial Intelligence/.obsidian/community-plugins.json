@@ -4,5 +4,6 @@
   "obsidian-list-callouts",
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
-  "make-md"
+  "make-md",
+  "obsidian-tikzjax"
 ]

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "398e0fd66f39ca06",
+            "id": "ea2b3b82e25b6dbb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ccfe238db7d220a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCA Ideas notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "494ef9ebe59c109e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML Project/Image Compression using PCA - Principal Component Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCA Ideas notes.md",
+                "file": "Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCA Ideas notes.md",
+                "file": "Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCA Ideas notes.md"
+                "file": "Machine Learning.md"
               }
             }
           },
@@ -195,44 +170,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ccfe238db7d220a0",
+  "active": "ea2b3b82e25b6dbb",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "ML Project/Image Compression using PCA - Principal Component Analysis.md",
+    "PCA.md",
+    "Principal Component = Eigenvectors.md",
     "PCA Ideas notes.md",
+    "Machine Learning.md",
+    "Image/Pasted image 20240516050819.png",
+    "compute the covariance matrix C.md",
+    "Image/Pasted image 20240516044210.png",
+    "Image/Pasted image 20240516043945.png",
+    "Image/Pasted image 20240516042022.png",
+    "ML Project/Image Compression using PCA - Principal Component Analysis.md",
     "PCA (Principle Component Analysis) Research Documents.md",
+    "Image/Pasted image 20240516040725.png",
+    "Image/Pasted image 20240516040527.png",
+    "Image/Pasted image 20240516040458.png",
+    "Image/Pasted image 20240516035949.png",
+    "Image/Pasted image 20240516034719.png",
+    "Image/Pasted image 20240516032600.png",
+    "Anaconda Command.md",
+    "Anaconda.md",
     "Artificial Intelligent Revision.md",
     "CNN - Convolution Neural Network.md",
-    "Image/Pasted image 20240515110447.png",
-    "Image/Pasted image 20240515110239.png",
     "What is Neural Network.md",
     "Neural Networks.md",
-    "Image/Pasted image 20240514180021.png",
     "What Is AI.md",
     "MACHINE LEARNING RESOURCE.md",
     "Facebook's field guide to machine learning.md",
     "Why Machine Learning.md",
     "Week 4 Determinants and Eigenvector.md",
-    "Image/Pasted image 20240506222705.png",
-    "Image/Pasted image 20240506222628.png",
     "Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "Mathematics for AI/Mathematics for AI.md",
-    "Image/Pasted image 20240506212054.png",
-    "Image/Pasted image 20240506211636.png",
-    "Image/Pasted image 20240506211554.png",
-    "Image/Pasted image 20240506211514.png",
-    "Image/Pasted image 20240506211225.png",
     "Week 3 Vector and Linear Transformations.md",
     "Mathematics.md",
     "Natural Language Processing.md",
     "Uncertainty.md",
     "Harvard CS50’s Artificial Intelligence with Python.md",
-    "Knowledge.md",
-    "My AI Project.md",
-    "Mathematics for AI Vocabulary.md",
-    "Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
     "ML Project",
-    "Mathematic for Machine Learning - Assignment.md",
     "Machine Learning Assignment",
     "Mathematics for AI",
     "Personal",

@@ -4,6 +4,8 @@ step-by-step: https://youtu.be/FgakZw6K1QQ?si=wetpWgoyrAGX21jW
 pca with python: https://youtu.be/Lsue2gEM9D0?si=5pOBaRiOsUqu07UY
 References Document: [PCA for image reconstruction, from scratch](https://medium.com/@pranjallk1995/pca-for-image-reconstruction-from-scratch-cf4a787c1e36) 
 [[PCA Ideas notes]]
+PCA Evaluation Reference: https://ujangriswanto08.medium.com/image-compression-techniques-a-closer-look-at-principal-component-analysis-67cf7a29fdb9 
+Appendix Example: https://www.scribbr.com/dissertation/appendix/
 
 ---
 

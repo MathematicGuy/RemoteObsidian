@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2187c7e473ab08a8",
+        "id": "807185b64b587ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "4f38766d3c12b810",
+            "id": "18524ce3084442b5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1d08b89bef4a47c8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BE_Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BE_Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BE_Models.md"
+              }
             }
           },
           {
@@ -194,11 +187,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1d08b89bef4a47c8",
+  "active": "18524ce3084442b5",
   "lastOpenFiles": [
     "Todo.md",
-    "Personal/Language Learning/German Vocabulary.md",
     "BE_Models.md",
+    "Personal/Language Learning/German Vocabulary.md",
     "Web Back-end Subsystem.md",
     "My Assignment_Management Back-end Documentation.md",
     "FrontEnd/My Web Back-end Project.md",

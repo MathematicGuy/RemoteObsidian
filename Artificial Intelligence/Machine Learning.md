@@ -9,7 +9,7 @@
 
 ![[Pasted image 20230617232436.png]]
 -> Turn input into number. Let the Machine Learning figure out the pattern in those number.
-	
+
 ### [[Why Machine Learning]] 
 
 ---
