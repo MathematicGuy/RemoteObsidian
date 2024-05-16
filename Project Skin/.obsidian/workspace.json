@@ -10,6 +10,7 @@
           {
             "id": "18524ce3084442b5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,38 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "464f42f900114614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Language Learning/German Grammar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4499c0a63fff7991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German Freestyles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BE_Models.md",
+                "file": "German Freestyles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BE_Models.md",
+                "file": "German Freestyles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BE_Models.md"
+                "file": "German Freestyles.md"
               }
             }
           },
@@ -187,8 +216,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "18524ce3084442b5",
+  "active": "4499c0a63fff7991",
   "lastOpenFiles": [
+    "Personal/Language Learning/German Grammar.md",
+    "German Freestyles.md",
     "Todo.md",
     "BE_Models.md",
     "Personal/Language Learning/German Vocabulary.md",
@@ -226,8 +257,6 @@
     "IT_PM My Project.md",
     "Web Back-end WorkFlow.md",
     "IT Project Management.md",
-    "Project Management Resource.md",
-    "Project Management/Project Management.md",
     "Project Management",
     "Psychology",
     "WTH",
