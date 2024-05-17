@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0c14626827267f19",
+        "id": "069c355256d1d2f0",
         "type": "tabs",
         "children": [
           {
-            "id": "c4af62b3322199b4",
+            "id": "31101f02016eff22",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c4af62b3322199b4",
+  "active": "31101f02016eff22",
   "lastOpenFiles": [
     "Todo.md",
     "Personal/Language Learning/German Grammar.md",
