@@ -13,6 +13,16 @@ https://youtu.be/KoGJsjnKmj0?si=kO-K_uTh25UcPRnO
 **22 - PM**
 **24 - ATTT**
 
+SMARTER.ASPDOTNET
+```text
+User Name: 11174786
+Password: 60-dayfreetrial
+
+// An account
+yunom2834@gmail.com
+dinhanst2832004
+```
+
 ```cs
 {
   "email": "admin2@gmail.com",
