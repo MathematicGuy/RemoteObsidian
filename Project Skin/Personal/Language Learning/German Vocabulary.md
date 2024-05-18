@@ -1711,4 +1711,3 @@ Wie ist Ihr Name = Wie heißen Sie
 Um wie viel Uhr ist Ihr Termin - At what time is your appointment
 	Use Ihr to when there're several people or people you know well
 
-	
