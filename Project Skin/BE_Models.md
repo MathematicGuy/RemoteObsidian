@@ -324,3 +324,39 @@ public class EditTagRequest
   public string DisplayName { get; set; }
 }
 ```
+
+
+**What the different between**
+```cs
+public ICollection<TeacherAssignment?> TeacherAssignments { get; set; } 
+// and
+public ICollection<TeacherAssignment>? TeacherAssignments { get; set; } 
+```
+ **Option 1: `ICollection<TeacherAssignment?> TeacherAssignments`**
+
+- **Nullable Items:** In this case, the `?` is applied directly to the `TeacherAssignment` type within the collection. This means that the collection itself (`TeacherAssignments`) cannot be null, but _individual_ `TeacherAssignment` objects inside the collection can be null.
+ 
+- **Example:**	
+```
+TeacherAssignments: [
+    { TeacherId: "1", AssignmentId: 1 },
+    null, 
+    { TeacherId: "3", AssignmentId: 5 }
+]
+```
+
+**Option 2: `ICollection<TeacherAssignment>? TeacherAssignments`**
+
+- **Nullable Collection:** Here, the `?` is applied to the entire collection (`ICollection<TeacherAssignment>`). This means that the collection itself can be null (not initialized), but if it's not null, then none of the `TeacherAssignment` objects inside it can be null.
+   
+- **Example:**
+```
+TeacherAssignments: null 
+```
+
+**Which One to Use?**
+The choice depends on the specific requirements of your application:
+- **Option 1 (Nullable Items):** Use this if it makes sense for a teacher to have some assignments linked, but also have the potential for null entries in the collection. This might be the case if you allow for incomplete or partial data.
+- **Option 2 (Nullable Collection):** Use this if a teacher might not have any assignments at all. In this case, the collection itself would be null.
+
+
