@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4207932a8fc08902",
+        "id": "1706b45c37433cca",
         "type": "tabs",
         "children": [
           {
-            "id": "92a04e2fea5b4d29",
+            "id": "56b622fea718345a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5445bf8838169aa0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           },
           {
@@ -194,8 +189,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5445bf8838169aa0",
+  "active": "56b622fea718345a",
   "lastOpenFiles": [
+    "Get all wifi password.md",
+    "Personal/Good for LATER.md",
     "Todo.md",
     "WebDev/WebDev_Learn/Backend.md",
     "Pokemon Reviewer WebApp.md",
@@ -233,8 +230,6 @@
     "Images/Pasted image 20240510152009.png",
     "Images/Pasted image 20240510151515.png",
     "Blog with ASAP.NET.md",
-    "IT_PM My Project.md",
-    "Web Back-end WorkFlow.md",
     "Project Management",
     "Psychology",
     "WTH",
