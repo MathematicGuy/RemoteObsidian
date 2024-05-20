@@ -11,7 +11,7 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
 - [x] Improve my Sleep Quality
-- [ ] In the mean time, ask my friend how what did they do when Toxic Self-talk come.
+- [x] In the mean time, ask my friend how what did they do when Toxic Self-talk come.
 	- [x] Link
 	- [x] Spring
 	- [x] Nam

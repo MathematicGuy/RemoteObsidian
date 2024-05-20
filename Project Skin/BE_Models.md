@@ -35,11 +35,7 @@ Path: Data/ApplicationUser.cs
    {
         // "email": "admin2@gmail.com", 
 	     // "password": "Admin2@gmail.com"
-
-
 	    public string Name { get; set; }
-	    public string Email { get; set; }
-	    public string Role { get; set; }
 	}
 ```
 Path: Models/Domains
