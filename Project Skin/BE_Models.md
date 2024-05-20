@@ -117,7 +117,7 @@ Path: Models/Domains
    
     public class Student
     {
-        public int StudentId { get; set; }
+        public string StudentId { get; set; }
         public string Name { get; set; }
         public string Role { get; set; }
 
@@ -127,7 +127,7 @@ Path: Models/Domains
 
     public class Teacher 
     {
-        public int TeacherId { get; set; }
+        public string TeacherId { get; set; }
         public string Name { get; set; }
         public string Role { get; set; }
 
@@ -139,7 +139,7 @@ Path: Models/Domains
     public class StudentAssignment
     {
         [Required]
-        public int StudentId { get; set; }
+        public string StudentId { get; set; }
 
         [Required]
         public int AssignmentId { get; set; }
