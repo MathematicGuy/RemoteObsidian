@@ -5,8 +5,7 @@ banner: Images/Pasted image 20240402135259.png
 [[Goal Archive]]
 
 #Todo/Priority
-- [ ] Document PCA
-- [ ] Testing Database Features
+
 
 
 #Todo/GoalsThisWeek
