@@ -64,7 +64,7 @@ Path: Models/Domains
         public ICollection<TeacherAssignment>? TeacherAssignments { get; set; } // Change to
         public ICollection<StudentAssignment>? StudentAssignments { get; set; } // Change to ICollection
 
-        // 1 to many to QuestionResponse
+        // 1 to many to QuestionResponse0
         public ICollection<AssignmentQuestion>? AssignmentQuestions { get; set; }
     }
     
