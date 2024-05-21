@@ -17,8 +17,7 @@ THING I WANT TO ACHIEVE THIS WEEK
 	- [x] Nam
 	- [ ] Thuan
 	- [x] Tuong
-	- [x] Quynh Anh (wait till )
-	- [ ] Thien
+	- [x] Quynh Anh 
 	- [x] Thuong
 
 

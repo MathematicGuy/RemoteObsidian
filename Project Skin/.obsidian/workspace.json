@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be42c31bf6652a04",
+        "id": "5fe85816b5fa76b3",
         "type": "tabs",
         "children": [
           {
-            "id": "cda0bc29b3402d9b",
+            "id": "c16adbaef3f4763c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "e8008739a6ac7a72",
+            "id": "e554939e1f1de8d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,9 +194,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e8008739a6ac7a72",
+  "active": "e554939e1f1de8d4",
   "lastOpenFiles": [
     "Todo.md",
+    "Images/Pasted image 20240522013212.png",
+    "Images/Pasted image 20240522013201.png",
+    "Images/Pasted image 20240522013127.png",
+    "Images/Pasted image 20240522013114.png",
+    "Images/Pasted image 20240522013109.png",
+    "Images/Pasted image 20240522013005.png",
+    "Images/Pasted image 20240522011550.png",
+    "Images/Pasted image 20240522011524.png",
+    "Images/Pasted image 20240522011510.png",
+    "Images/Pasted image 20240522011429.png",
+    "PM Project Archive.md",
+    "IT_PM Gantt Documentation.md",
+    "Hang Document and Testcase.md",
+    "Project Management Resource.md",
+    "Making of Gannt Chart.md",
     "Get all wifi password.md",
     "Personal/Good for LATER.md",
     "WebDev/WebDev_Learn/Backend.md",
@@ -209,8 +224,6 @@
     "Web Back-end Subsystem.md",
     "My Assignment_Management Back-end Documentation.md",
     "FrontEnd/My Web Back-end Project.md",
-    "Images/Pasted image 20240512173635.png",
-    "Images/Pasted image 20240512173624.png",
     "sql_features.md",
     "SAD Project.md",
     "Practice Procedure and Trigger.md",
@@ -219,22 +232,8 @@
     "Personal/Language Learning/Language Learning.md",
     "Personal/Language Learning/Vocabulary 1.md",
     "Personal/Language Learning/pm.bak",
-    "Personal/Language Learning/German.md",
-    "Personal/Language Learning/English.md",
     "Images/pm 1.bak",
     "Images/pm.bak",
-    "_Focus/2023/Challenges & Guides/Github.md",
-    "My Web Back-end Note.md",
-    "Cyber Security Revision.md",
-    "Images/Pasted image 20240510154347.png",
-    "Images/Pasted image 20240510154316.png",
-    "Images/Pasted image 20240510154253.png",
-    "Images/Pasted image 20240510154242.png",
-    "Images/Pasted image 20240510154121.png",
-    "Images/Pasted image 20240510153513.png",
-    "Images/Pasted image 20240510152009.png",
-    "Images/Pasted image 20240510151515.png",
-    "Blog with ASAP.NET.md",
     "Project Management",
     "Psychology",
     "WTH",
