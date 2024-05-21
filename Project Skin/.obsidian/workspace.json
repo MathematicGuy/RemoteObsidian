@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe85816b5fa76b3",
+        "id": "7f65f896e1d844fa",
         "type": "tabs",
         "children": [
           {
-            "id": "c16adbaef3f4763c",
+            "id": "1326476ef8076bfa",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "e554939e1f1de8d4",
+            "id": "8ab0a47ecf5bc260",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PM Project Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PM Project Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PM Project Archive.md"
+              }
             }
           },
           {
@@ -194,8 +198,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e554939e1f1de8d4",
+  "active": "8ab0a47ecf5bc260",
   "lastOpenFiles": [
+    "Images/architecture.png",
+    "IT_PM Gantt Documentation.md",
     "Todo.md",
     "Images/Pasted image 20240522013212.png",
     "Images/Pasted image 20240522013201.png",
@@ -208,7 +214,6 @@
     "Images/Pasted image 20240522011510.png",
     "Images/Pasted image 20240522011429.png",
     "PM Project Archive.md",
-    "IT_PM Gantt Documentation.md",
     "Hang Document and Testcase.md",
     "Project Management Resource.md",
     "Making of Gannt Chart.md",
