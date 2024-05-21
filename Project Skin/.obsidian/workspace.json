@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b9281c6815e146",
+        "id": "be42c31bf6652a04",
         "type": "tabs",
         "children": [
           {
-            "id": "1c312dbe99856d71",
+            "id": "cda0bc29b3402d9b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e8008739a6ac7a72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +194,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1c312dbe99856d71",
+  "active": "e8008739a6ac7a72",
   "lastOpenFiles": [
     "Todo.md",
     "Get all wifi password.md",
