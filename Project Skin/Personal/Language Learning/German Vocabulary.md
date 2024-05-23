@@ -1612,9 +1612,10 @@ Schlafe - sleep
 	Mein Bett ist nicht bequem und uch Schlafe nicht viel
 Nachts night
 Durst thirsty
-	Ich habe nachst immer Durst 
+	Ich habe nachst immer Durst
+	Hast du Durst
 
-Das Krankenhaus - the hospital (come from the word Krank -> Krankenhaus mean sickhouse or house for the krank)
+Das Krankenhaus - the hospital (c du ome from the word Krank -> Krankenhaus mean sickhouse or house for the krank)
 	kranken - being sick, haus - house -> sick house -> hospital
 
 
@@ -1636,7 +1637,7 @@ Iss eat (mean to eat "singular", essen is plural form of eat)
 
 Termin - appointment
 	Mein Termin ist ins zehn Uhr
-Machen make
+Machen make/to make
 	Ich möchte einen Termin mache
 Name (na me) name
 	Guten morgen, Wie ist Ihr Name
@@ -1665,7 +1666,9 @@ Glücklich - happy
 Ich bin Glücklich - i am happy
 Gute Besserung - too bad, feel better
 Mehr anymore
-	Hast du keine Durst Mehr - Are you not thirsty anymore
+		Hast du keine Durst Mehr - Are you not thirsty anymore
+		Ich habe keine Zanschmerzen 
+
 
 Hurra, du bist gesund - Hooray, you are healthy
 Gesund healthy
@@ -1711,3 +1714,19 @@ Wie ist Ihr Name = Wie heißen Sie
 Um wie viel Uhr ist Ihr Termin - At what time is your appointment
 	Use Ihr to when there're several people or people you know well
 
+Können Sie nacht gut schlafen, Herr Kohl
+	can you sleep good at night, Ms Kohl
+Du musst nacht im bett bleiben, Sie müssen im bett bleiben
+Können Sie nicht sprechen - can't you talk / can you not talk 
+![[Pasted image 20240523115616.png]]
+
+
+Use when talking to someone close to you
+	![[Pasted image 20240523115834.png]]
+
+Dann - then
+Frau Merkel, haben Sie Fiebe und Kopfschmeryen? Dann Sie auf jeden fall im Bett bleiben.
+	+ Fiebe: fever, Kopfschmerzen: headache
+	+ Dann - then
+	+ auf jeden fall - definitly
+	Ms Merkel, do you have a fever and a headache? Then you definitly have to go to rest im bed  
