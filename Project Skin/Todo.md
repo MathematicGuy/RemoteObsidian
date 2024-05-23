@@ -11,7 +11,7 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Organize my Note (what video to for tips and tricks)
-- [ ] 
+- [ ] Dinner with my class while attending online classroom
 
 
 **Daily Plan**
