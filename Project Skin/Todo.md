@@ -10,15 +10,8 @@ banner: Images/Pasted image 20240402135259.png
 
 #Todo/GoalsThisWeek
 THING I WANT TO ACHIEVE THIS WEEK
-- [x] Improve my Sleep Quality
-- [x] In the mean time, ask my friend how what did they do when Toxic Self-talk come.
-	- [x] Link
-	- [x] Spring
-	- [x] Nam
-	- [ ] Thuan
-	- [x] Tuong
-	- [x] Quynh Anh 
-	- [x] Thuong
+- [ ] Organize my Note (what video to for tips and tricks)
+- [ ] 
 
 
 **Daily Plan**
@@ -27,7 +20,7 @@ THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Hygine and Shower ~ 35'
 
 
-#Todo/GoalsThisMonth
+#Todo/GoalsThisMonth-
 - [ ] Achieve Morning 4 Hours Deepwork 
 
 
