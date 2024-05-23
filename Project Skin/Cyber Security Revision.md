@@ -4,8 +4,8 @@ Mac - ko cung cap chữ kí số
 	- sd hàng băm
 	- dựa trên ã Khối
 	xác minh -> khóa bí mật
-	- không cung cấp chữ kí 
-	
+	- không cung cấp chữ kí 	
+
 
 Criticality Flag trong Extension -> cho bik có qutrong hay 
 
@@ -13,6 +13,19 @@ Mã hóa khóa đối xứng
 Mac
 X.509 - lưu trữ và chứng thực 
 	Unique Id and ... -> Version 
+X.800 (có  loại) - thực hiện chính sách an toàn
++ Authentication exchange (trao đổi xác thực) 
++ Traffic padding (đệm giao thông)
++ Routing control (điều khiển định tuyến)
++ Notarization (công chứng)
+
+
+Để đạt được tính bảo mật trong việc truyền dữ liệu giữa ng A và B, cần có điều gì? -> thỏa thuận về cơ chế mã hóa. (2 ways handshake for)
+
+Dịch vụ an nh đảm bảo thông tin không bị thay đổi or chỉ đc phép chỉnh sửa bởi ng có thẩm quyền? -> Tính toàn vẹn.
+1
+An Ninh mạng - phát hiện phòng ngừa, đối 
+
 
 Bảng Băm
 	T/c 1 chiều: khó tạo ra mã hóa từ dữ liệu khối??
@@ -57,6 +70,9 @@ mã hóa bảng băm và mã hóa đối xứng không được ưu tiên sử d
 tạo - bí mật
 xác minh - công khai
 
+
+
+Lỗ hổng bảo mật khó đánh giá nhất -> lỗ hổng kết nối liên mạng
 ## Chap 2
 Khóa con Ki vòng thứ i: dịch vòng trái, hoán vị, nén khóa K
 
@@ -69,7 +85,7 @@ DES (Data Encryption Standard - mã hóa tiêu chuẩn dữ )
 + Create 16 sub-key from 56-bit primary-key
 + have 16 password round 
 + S-Boxes: tranform 6 bit to 4 bit
-+ F function in DES round can Expand and Compress
++ F function in DES round can both Expand and Compress
 + F function substitute A and B (thay thế A và )
 + 64 bits in length
 
@@ -93,7 +109,6 @@ Vigenere
 	Ex: The letter corresponse to the coordinate 
 	A - L is L; T - E is X, T - M is F. Therefor the Cipher of the first 3 letters are LXF
 
-
 How to attack Vigenere if know the key length
 	alphabet frequent
 	pp vét cạn
@@ -101,6 +116,7 @@ How to attack Vigenere if know the key length
 
 LCG 
 	prone to attacker if know the length a certain part
+	m,a,c,X0
 
 PRF vs PRNG 
 	PRF can create fixed bit length and can add additional infomation
@@ -110,7 +126,7 @@ Improve PRNG (Pseudorandom number generator) safety
 + change seed frequently
 
 
-SPN - replace-substitution (thay thế) and permutation (hoán vị)
+SPN - replace-substitution (thay thế) and permutation (hoán vị) (trộn khóa, thay thế hoán vị)
 
 Hiệu ứng lan truyền trong mật mã là gì?
 	1 bit change in key can lead to a big differences in  
@@ -135,7 +151,7 @@ last round -> flip the output
 to decrypt it -> (Run the algoorithm again with the encrypt as the input) put it in the top -> decrypt it.
 two side (L and R)
 put a key to each F (2 F -> K1 and K2)
-F function Substitue L and R  (Hàm F thay thế L và R)
+**F function Substitue L and R  (Hàm F thay thế L và R)**
 ![[Pasted image 20240510154253.png]]
 ![[Pasted image 20240510154242.png]]
 next step
