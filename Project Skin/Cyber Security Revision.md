@@ -1,3 +1,16 @@
+Chap 1: https://quizizz.com/join?gc=70716111
+Chap 2: https://quizizz.com/join?gc=72405596
+Chap 3: https://quizizz.com/join?gc=74095081
+Chap 4: https://quizizz.com/join?gc=74577791
+Chap 5: https://quizizz.com/join?gc=75543211
+All chap: https://quizizz.com/join?gc=76025921
+
+
+Needham Schroeder
+Otway-Rees
+Kerberos
+Wide-Mouth Frog
+
 DDA - MAC dựa trên mã khối
 hàng băm sd chứng thực bản tin - SHA235, ..., ... (tất cả loại bảng băm)
 Mac - ko cung cap chữ kí số
@@ -6,8 +19,15 @@ Mac - ko cung cap chữ kí số
 	xác minh -> khóa bí mật
 	- không cung cấp chữ kí 	
 
+#### Khóa
+Kerberos - yêu cầu 1 không gian khóa kích thước O(n) nếu có n máy khách.
+Khóa phiên Kab để mã hóa bản  
 
 Criticality Flag trong Extension -> cho bik có qutrong hay 
+Needham Schroeder - sử dụng mã KAB để mã hóa bản tin
+
+Giao thức sử dụng nounce M để đánh dấu tập hợp thông tin liên lạc hiện tại đc liên kết - Wide-
+
 
 Mã hóa khóa đối xứng
 Mac
@@ -124,6 +144,8 @@ Improve PRNG (Pseudorandom number generator) safety
 + synchronize system
 + combine many PRNG group
 + change seed frequently
+
+[RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) - phân tích số nguyên tố
 
 
 SPN - replace-substitution (thay thế) and permutation (hoán vị) (trộn khóa, thay thế hoán vị)
