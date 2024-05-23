@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f65f896e1d844fa",
+        "id": "0d506f5acc17fc0f",
         "type": "tabs",
         "children": [
           {
-            "id": "1326476ef8076bfa",
+            "id": "9f8047db5d02c1d1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8ab0a47ecf5bc260",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PM Project Archive.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PM Project Archive.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PM Project Archive.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -198,11 +189,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8ab0a47ecf5bc260",
+  "active": "9f8047db5d02c1d1",
   "lastOpenFiles": [
+    "Todo.md",
+    "Science Research Project - Risk Assessment.md",
     "Images/architecture.png",
     "IT_PM Gantt Documentation.md",
-    "Todo.md",
     "Images/Pasted image 20240522013212.png",
     "Images/Pasted image 20240522013201.png",
     "Images/Pasted image 20240522013127.png",
@@ -212,7 +204,6 @@
     "Images/Pasted image 20240522011550.png",
     "Images/Pasted image 20240522011524.png",
     "Images/Pasted image 20240522011510.png",
-    "Images/Pasted image 20240522011429.png",
     "PM Project Archive.md",
     "Hang Document and Testcase.md",
     "Project Management Resource.md",
