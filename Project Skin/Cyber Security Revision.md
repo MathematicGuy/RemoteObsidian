@@ -19,15 +19,9 @@ Mac - ko cung cap chữ kí số
 	xác minh -> khóa bí mật
 	- không cung cấp chữ kí 	
 
-#### Khóa
-Kerberos - yêu cầu 1 không gian khóa kích thước O(n) nếu có n máy khách.
-Khóa phiên Kab để mã hóa bản  
 
-Criticality Flag trong Extension -> cho bik có qutrong hay 
-Needham Schroeder - sử dụng mã KAB để mã hóa bản tin
 
-Giao thức sử dụng nounce M để đánh dấu tập hợp thông tin liên lạc hiện tại đc liên kết - Wide-
-
+Thuật toán tạo số nguyên tố có O(n) là hàm số
 
 Mã hóa khóa đối xứng
 Mac
@@ -145,7 +139,6 @@ Improve PRNG (Pseudorandom number generator) safety
 + combine many PRNG group
 + change seed frequently
 
-[RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) - phân tích số nguyên tố
 
 
 SPN - replace-substitution (thay thế) and permutation (hoán vị) (trộn khóa, thay thế hoán vị)
@@ -199,3 +192,47 @@ key is 64 bits which is 8 bytes but for each bytes there a parity bit (bit ngang
 
 [AES](https://www.youtube.com/results?search_query=AES)
 Plain text -> XOR -> Subbytes -> Shift Rows -> Mix -> Add Round Key -> Repeat ![[Pasted image 20240510153513.png]]
+
+
+## Chương 3
+
+
+#### Khóa
+**Kerberos** - yêu cầu 1 không gian khóa kích thước O(n) nếu có n máy khách.
+Khóa phiên Kab để mã hóa bản  
++ pháp triển bởi MIT111 năm 1987
++ pp chia sẻ bí mật
++ hệ thống cấp ticket
+
+Khóa phiên -> sd trong short time 
+
+Criticality Flag trong Extension -> cho bik có qutrong hay 
+Needham Schroeder - sử dụng mã KAB để mã hóa bản tin
+
+Giao thức sử dụng nounce M để đánh dấu tập hợp thông tin liên lạc hiện tại đc liên kết - Wide-
+
+elipstic so vs RSA -> băng thông đc cải thiện 
+
+**Wide-Mouth-Frog**
++ mã phân phối 
++ Na, Nb 
++ truyền A tới B thông qua thuật toán tủng gian S
+
+Thuật toán A trong thử nghiệm đầu ra
+
+Gây ra lỗi tính toán -> tạo lỗi dựa trên phần cứng
+
+Khóa bí mật -> Tăng bảo mật và giảm độ phức tạp
+
+Otway-ress -> ko sử dụng đồng hồ trong tự động hóa
++ Ko cung cấp xác nhận khóa
+
+**Ellipstic** -> Wei
+
+Hợp số có thừa số nguyên tố lớn khó phân tích thành hợp số
+
+[RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) - phân tích số nguyên tố
+**RSA** 
++ khóa càng lớn càng an 
++ khóa công khai: e và n 
++ khóa riêng: d, n 
