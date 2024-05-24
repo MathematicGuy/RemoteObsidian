@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "603f840e6fdb1048",
+        "id": "8c03cf90ea54d63e",
         "type": "tabs",
         "children": [
           {
-            "id": "89e94700064dd630",
+            "id": "2527f2574bef02ed",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "89e94700064dd630",
+  "active": "2527f2574bef02ed",
   "lastOpenFiles": [
     "Summer_2023_2024 Mobile_Project.md",
     "CMC Module Content.md",
