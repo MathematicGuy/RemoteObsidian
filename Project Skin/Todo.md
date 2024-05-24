@@ -5,13 +5,13 @@ banner: Images/Pasted image 20240402135259.png
 [[Goal Archive]]
 
 #Todo/Priority
+THING I WANT TO ACHIEVE THIS WEEK
+- [ ] Organize my Note (what video to for tips and tricks)
+- [ ] Dinner with my class while attending online classroom
 
 
 
 #Todo/GoalsThisWeek
-THING I WANT TO ACHIEVE THIS WEEK
-- [ ] Organize my Note (what video to for tips and tricks)
-- [ ] Dinner with my class while attending online classroom
 
 
 **Daily Plan**
