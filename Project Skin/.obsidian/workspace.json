@@ -21,8 +21,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "18f2225833e50caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Club & Event/Programming Club/Recruitment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f591429e489026ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df80124dc066041e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Club & Event/Programming Club/Recruitment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Club & Event/Programming Club/Recruitment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Club & Event/Programming Club/Recruitment.md"
               }
             }
           },
@@ -189,11 +229,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2527f2574bef02ed",
+  "active": "18f2225833e50caa",
   "lastOpenFiles": [
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "Club & Event/Programming Club/Recruitment.md",
+    "Todo.md",
     "Summer_2023_2024 Mobile_Project.md",
     "CMC Module Content.md",
-    "Todo.md",
     "CMC/CMC.md",
     "CMC",
     "Club & Event/Recruitment Strategies/Sự Kiện Giới Thiệu.md",
@@ -205,7 +248,6 @@
     "My Web Back-end Note.md",
     "Untitled.canvas",
     "Hosting/Hosting.md",
-    "Club & Event/Programming Club/Recruitment.md",
     "WebDev/WebDev_Learn/JS/JS Summary.md",
     "WebDev/WebDev_Learn/JS/JS.md",
     "Json.md",
@@ -217,8 +259,6 @@
     "Fron/Fron.md",
     "WebDev/Web.md",
     "Web/Web.md",
-    "Personal/Language Learning/German Grammar Drill.md",
-    "Personal/Language Learning/German Grammar.md",
     "Fron",
     "OOP",
     "CLub",
