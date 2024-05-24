@@ -1,3 +1,7 @@
+---
+tags: CSS
+---
+
 # Week 1 
 note: (become link when completed)
 

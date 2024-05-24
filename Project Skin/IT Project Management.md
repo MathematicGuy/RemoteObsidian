@@ -1,5 +1,6 @@
 ---
 sticker: emoji//1f935
+tags: Project_Management
 ---
 **sdt**: 0918825981
 [[IT_PM INTRO]]

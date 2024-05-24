@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Database",
-      "color": {
-        "a": 1,
-        "rgb": 9472752
-      }
-    },
-    {
       "query": "tag:#Leadership",
       "color": {
         "a": 1,
@@ -22,21 +15,21 @@
       }
     },
     {
-      "query": "tag:#Project Management",
+      "query": "tag:#Project_Management",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "tag:#Software Engineering",
+      "query": "tag:#Software_Engineering",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 8712294
       }
     },
     {
-      "query": "tag:#Web ",
+      "query": "tag:#Web",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -57,13 +50,6 @@
       }
     },
     {
-      "query": "tag:#Programming Fundamental",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
       "query": "tag:#Personal  ",
       "color": {
         "a": 1,
@@ -81,21 +67,21 @@
       "query": "tag:#Vocabulary",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431504
       }
     },
     {
       "query": "tag:#Grammar",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 1872580
       }
     },
     {
       "query": "tag:#Workout ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14155535
       }
     },
     {
@@ -103,13 +89,6 @@
       "color": {
         "a": 1,
         "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#SQL",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
       }
     },
     {
@@ -142,8 +121,8 @@
   "collapse-forces": false,
   "centerStrength": 0.406632324533162,
   "repelStrength": 12.2537025112685,
-  "linkStrength": 0.47531659154325,
+  "linkStrength": 0.825499034127495,
   "linkDistance": 50,
-  "scale": 0.20040467344332516,
-  "close": true
+  "scale": 0.12072404297077736,
+  "close": false
 }

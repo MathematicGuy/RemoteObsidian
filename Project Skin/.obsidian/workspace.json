@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "18f2225833e50caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Club & Event/Programming Club/Recruitment.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f591429e489026ae",
             "type": "leaf",
             "state": {
@@ -60,9 +47,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61f41378086b1aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT Project Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a231a5d7fbead49b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Club & Event/Programming Club/Recruitment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Club & Event/Programming Club/Recruitment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Club & Event/Programming Club/Recruitment.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,12 +233,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "18f2225833e50caa",
+  "active": "a231a5d7fbead49b",
   "lastOpenFiles": [
+    "IT Project Management.md",
+    "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
     "_Focus/2023/Last Semester/Software Engineering.md",
-    "Club & Event/Programming Club/Recruitment.md",
     "Todo.md",
+    "Club & Event/Programming Club/Recruitment.md",
     "Summer_2023_2024 Mobile_Project.md",
     "CMC Module Content.md",
     "CMC/CMC.md",
@@ -257,8 +263,6 @@
     "WebDev/WebDev_Learn/CSS.md",
     "WebDev/WebDev_Learn/HTML.md",
     "Fron/Fron.md",
-    "WebDev/Web.md",
-    "Web/Web.md",
     "Fron",
     "OOP",
     "CLub",
