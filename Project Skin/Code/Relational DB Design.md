@@ -1,3 +1,6 @@
+---
+tags: Database
+---
 source: [Lec 1: Introduction to DBMS | Database Management System - YouTube](https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
 
 ## **Amstrong Axiom**

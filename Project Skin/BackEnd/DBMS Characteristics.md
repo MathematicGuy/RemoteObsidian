@@ -1,3 +1,6 @@
+---
+tags: Database
+---
 **File System Approach** 
 ![[Pasted image 20231109091539.png]]
 > Have to maintain different file because they have different interests + they have duplicated data (Roll_No + Name)

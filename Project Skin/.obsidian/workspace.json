@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c03cf90ea54d63e",
+        "id": "1a93d4f8ca45aa00",
         "type": "tabs",
         "children": [
           {
-            "id": "2527f2574bef02ed",
+            "id": "b5eaa9cfbcac5539",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,54 +23,20 @@
             }
           },
           {
-            "id": "f591429e489026ae",
+            "id": "808ddb5e73b8062d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/2023/Last Semester/Software Engineering.md",
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "df80124dc066041e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/2023/Last Semester/Programming Fundamental.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61f41378086b1aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT Project Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a231a5d7fbead49b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -233,36 +200,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a231a5d7fbead49b",
+  "active": "808ddb5e73b8062d",
   "lastOpenFiles": [
-    "IT Project Management.md",
-    "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
-    "_Focus/2023/Last Semester/Programming Fundamental.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
     "Todo.md",
+    "BackEnd/BackEnd.md",
+    "BackEnd/Three-Schema Architecture  & Data Independence.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "BackEnd/DB Users.md",
+    "BackEnd/DBMS Characteristics.md",
+    "BackEnd/Intro to Database Management system.md",
+    "Code/Relational DB Design.md",
+    "IT Project Management.md",
     "Club & Event/Programming Club/Recruitment.md",
-    "Summer_2023_2024 Mobile_Project.md",
-    "CMC Module Content.md",
-    "CMC/CMC.md",
-    "CMC",
+    "Club & Event/Programming Club/Hỗ Trợ Tạo Thẻ Câu Lạc Bộ.md",
+    "Club & Event/Recruitment Strategies/Trải Nhiệm CLB.md",
+    "Club & Event/Recruitment Strategies/Tạo Flyer và Poster.md",
+    "Club & Event/Recruitment Strategies/Thông Báo Tại Lớp Học.md",
+    "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
+    "Club & Event/Recruitment Strategies/Hợp Tác với Khoa.md",
+    "Club & Event/Recruitment Strategies/Quảng Cáo Trực Tuyến.md",
+    "Club & Event/Recruitment Strategies/Xây Dựng Dự Án Cộng Đồng.md",
+    "Club & Event/Recruitment Strategies/Thi Đấu Lập Trình.md",
     "Club & Event/Recruitment Strategies/Sự Kiện Giới Thiệu.md",
-    "Cyber Security Project.md",
-    "Leadership.md",
-    "IT_PM Project LifeCycle.md",
-    "My Vlog.md",
-    "Vault.md",
-    "My Web Back-end Note.md",
+    "Club & Event/Recruitment Strategies/Workshops và Buổi Thảo Luận.md",
+    "_Focus/2023/Last Semester/Software Engineering.md",
+    "_Focus/2023/Last Semester/Programming Fundamental.md",
+    "Stakeholder Identification.md",
+    "Club & Event/Programming Club/Role & Personnel.md",
+    "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
+    "CMC",
     "Untitled.canvas",
-    "Hosting/Hosting.md",
-    "WebDev/WebDev_Learn/JS/JS Summary.md",
-    "WebDev/WebDev_Learn/JS/JS.md",
-    "Json.md",
-    "FrontEnd/JS CHEAT SHEET.md",
-    "WebDev/WebDev_Learn/JS/JS Frontend.md",
-    "WebDev/WebDev_Learn/Frontend.md",
-    "WebDev/WebDev_Learn/CSS.md",
-    "WebDev/WebDev_Learn/HTML.md",
-    "Fron/Fron.md",
     "Fron",
     "OOP",
     "CLub",

@@ -1,3 +1,6 @@
+---
+tags: Database
+---
 ![[Pasted image 20231111082006.png]]
 **3 Levels**
 + *INTERNAL LEVEL: physical storage*  

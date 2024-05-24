@@ -1,3 +1,6 @@
+---
+tags: Database
+---
 Data - raw fact, unprocessed fact
 	Ex: Rat, Sewage, Ha Noi
 Infomation - Processed Data

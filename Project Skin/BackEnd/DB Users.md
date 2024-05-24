@@ -1,3 +1,6 @@
+---
+tags: Database
+---
 **Database Administrator**
 -> In database environment, **primary resource** -> database **secondary resource** -> DBMS & related software.
 
