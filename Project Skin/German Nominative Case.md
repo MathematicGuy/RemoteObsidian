@@ -1,3 +1,6 @@
+---
+tags: GermanVocabluary
+---
 + ! Cases affect Adjectives and Nous 
 	Cases don't change verb form, but verb form can.
 

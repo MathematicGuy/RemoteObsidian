@@ -1,3 +1,6 @@
+---
+tags: Frontend
+---
 what is a Scope
 + 'data = { } is a scope'
 ```js
@@ -25,8 +28,3 @@ fetch(url)
 	// 
 ```
 
-
-1.641
-
-1.7777777778
-1.7777777778

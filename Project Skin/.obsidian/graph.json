@@ -2,43 +2,148 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Personal/Language Learning\" file:\"German\"",
+      "query": "tag:#Database",
       "color": {
         "a": 1,
-        "rgb": 11337728
+        "rgb": 9472752
       }
     },
     {
-      "query": "path:\"_Focus/SQL & DataBase\"",
+      "query": "tag:#Leadership",
+      "color": {
+        "a": 1,
+        "rgb": 9904417
+      }
+    },
+    {
+      "query": "tag:#Project Management",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "",
+      "query": "tag:#Software Engineering",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Web ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Frontend",
+      "color": {
+        "a": 1,
+        "rgb": 15513304
+      }
+    },
+    {
+      "query": "tag:#Backend",
+      "color": {
+        "a": 1,
+        "rgb": 16724954
+      }
+    },
+    {
+      "query": "tag:#Programming Fundamental",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 15330737
+      }
+    },
+    {
+      "query": "tag:#German",
+      "color": {
+        "a": 1,
+        "rgb": 16736609
+      }
+    },
+    {
+      "query": "tag:#Vocabulary",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Grammar",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Workout ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Database",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#SQL",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:OOP",
+      "color": {
+        "a": 1,
+        "rgb": 16029271
+      }
+    },
+    {
+      "query": "tag:JAVA",
+      "color": {
+        "a": 1,
+        "rgb": 16369808
+      }
+    },
+    {
+      "query": "tag:C#",
+      "color": {
+        "a": 1,
+        "rgb": 8170744
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.28477141017386,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.07025004907659237,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.406632324533162,
+  "repelStrength": 12.2537025112685,
+  "linkStrength": 0.47531659154325,
+  "linkDistance": 50,
+  "scale": 0.10441882797325691,
+  "close": true
 }

@@ -1,5 +1,5 @@
 **JS HTML**
-	[[Frontend]]
+	[[FrontEnd/FrontEnd]]
 
 + **Concept**
 	HTML DOM (Document Object Model)

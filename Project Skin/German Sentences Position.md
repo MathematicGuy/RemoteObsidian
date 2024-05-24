@@ -1,3 +1,7 @@
+---
+tags: German, GermanVocabluary
+---
+
 ![[Pasted image 20240205183701.png]]
 ### Capitalize
 ![[Pasted image 20240205183725.png]]

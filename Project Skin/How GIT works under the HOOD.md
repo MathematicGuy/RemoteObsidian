@@ -66,10 +66,10 @@ A commit is a snapshot of the project
 	![[Pasted image 20240222140134.png]]
 	`
 
-#rebase (Advance level)
+ (Advance level)
 ![[Pasted image 20240222140802.png]]
 Find a diff branche -> applied the changes into the main branch like everything was written from the main branche sequentially
 ![[Pasted image 20240222140851.png]]
 
-#Cherry_Picking
+
 >applying changes from a single commit on top of another commit

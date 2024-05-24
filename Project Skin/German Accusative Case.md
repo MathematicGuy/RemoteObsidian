@@ -1,3 +1,6 @@
+---
+tags: GermanVocabluary
+---
 ### Accusative Case 
 + Đối Cách
 ![[Pasted image 20240219075222.png]]
@@ -18,15 +21,15 @@
 
 **Factors Triggering the Accusative Case:**
 
-- #Direct_Object: The noun, pronoun, or phrase directly receiving the action of the verb is in the accusative.
+- `Direct_Object`: The noun, pronoun, or phrase directly receiving the action of the verb is in the accusative.
     
     - "Der Hund trinkt **das Wasser**." (The dog drinks the water.)
     
-- #Certain_Prepositions: Prepositions like "für" (for), "durch" (through), "um" (around), and others signal the accusative case on the object they govern.
+- `Certain_Prepositions`: Prepositions like "für" (for), "durch" (through), "um" (around), and others signal the accusative case on the object they govern.
     
     - "Ich fahre **durch den Tunnel**." (I drive through the tunnel.)
     
-+ #Time_Expressions: Expressions of time durations usually go in the accusative.
++ `Time_Expressions`: Expressions of time durations usually go in the accusative.
     
     - "Wir bleiben **einen Monat**." (We are staying for one month).
 
@@ -46,4 +49,4 @@ Ex:
 	I have a group of friends, ich liebe sie.
 	We've been married for 3 years, ich liebe sie.
 
-#todo: Give 1-2 Example for each Accusative Object 
+Todo: Give 1-2 Example for each Accusative Object 

@@ -1,6 +1,6 @@
 source: https://youtu.be/hZS96dwKvt0?si=BI9eHXhR-idgQMvc
 
-#commit
+
 ![[Pasted image 20240222104304.png]]
 + Head as the current pointer pointed to current commit
 Each commits related to each other
@@ -39,13 +39,13 @@ git see them as a diff. **git create a new diff from that Mistake Commit**
 usage: accidentally push some bad code -> use revert -> everyone will pull that -> un-does the mistake
 
 
-#cherry-pick
+
 use **when you just want to merge the bug-fix part from another branch not the whole branch yet**.
 ![[Pasted image 20240222110906.png]]
 what git does is it, see that commit just a diff and merge it with the develop brance.
 
 
-#rebase
+
 ![[Pasted image 20240222111108.png]]
  use when I want to base my feature with the lastest development.
  -> git move the feature commit to the main (develop) branch and delete the commit from the feature branch. 

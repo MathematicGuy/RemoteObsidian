@@ -6,11 +6,11 @@
 
 **Template 1: Neutral Base, Refined Blue**
 
-- Background: #F8F8F2 (Keep the soft base)
+- Background: `#F8F8F2` (Keep the soft base)
 - Text/Main Content: #040610
-- Primary: #35549D (Slightly darker, a touch more desaturated blue)
-- Secondary: #9587C4 (Lighter, with a hint of purple for interest)
-- Accent: #5B71BE (More distinctly purple-leaning, still related)
+- Primary: `#35549D` (Slightly darker, a touch more desaturated blue)
+- Secondary: `#9587C4` (Lighter, with a hint of purple for interest)
+- Accent: `#5B71BE` (More distinctly purple-leaning, still related)
 ```css
 :root[data-theme="light"] {
   --text: #040610;

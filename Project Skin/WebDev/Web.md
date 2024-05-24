@@ -1,5 +1,8 @@
+---
+tags: Web
+---
 Web
-+ [[frontend]]
++ [[WebDev/WebDev_Learn/Frontend]]
 + [[backend]]
 + [API](https://www.facebook.com/groups/j2team.community/permalink/2251741005158007/)
 + [[Learn Web API]]

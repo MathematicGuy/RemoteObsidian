@@ -1,3 +1,10 @@
+---
+tags:
+  - SoftwareEngineer
+sticker:
+---
+
+
 [ONIX Solution Company ](https://onix-systems.com/contact-us?salesChannel=7+basic+software+development+models+which+one+to+choose) 
 
 Tools: 

@@ -1,3 +1,8 @@
+---
+tags: Frontend, Web
+---
+
+
 ### [[JS Fundamental]]
 
 ### [[JS Frontend]]

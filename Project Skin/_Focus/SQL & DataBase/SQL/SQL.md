@@ -1,3 +1,12 @@
+---
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
+---
 
 **TOTAL SUMMARY:** https://za.zalo.me/v3/verifyv2/pc?token=OsVpmDzwNmXX0VlAsXLMRcO1zxlP7KnoOGttlZG&continue=https%3A%2F%2Flearnsql.com%2Fblog%2Fsql-basics-cheat-sheet%2F
 

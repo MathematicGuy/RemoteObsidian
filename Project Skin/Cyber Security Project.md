@@ -1,3 +1,6 @@
+---
+tags: CyberSecurity
+---
 **Dễ:**
 1. Hàm băm và ứng dụng
 2. Chữ ký số
@@ -6,11 +9,13 @@
 5. Giao thức SSL
 6. Giao thức TLS
 
+
 **Trung bình:**
 1. Giao thức kiểm soát truy nhập mạng NAC
 2. Giao thức chứng thực mở rộng EAP
 3. Các vấn đề an ninh Web
 4. Giao thức IPsec
+
 
 **Khó:**
 1. Giao thức Kerberos
@@ -21,7 +26,6 @@
 6. An ninh trong SDN
 
 ---
-
 **Hash Functions and Applications**
 
 - **What is a hash function?** A cryptographic hash function takes an input of arbitrary size (text, files, etc.) and produces a fixed-size output known as a hash or digest. Key characteristics:

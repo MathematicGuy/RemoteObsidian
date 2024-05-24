@@ -1,3 +1,6 @@
+---
+tags: OOP
+---
 ![[Language in OOP]]
 
 

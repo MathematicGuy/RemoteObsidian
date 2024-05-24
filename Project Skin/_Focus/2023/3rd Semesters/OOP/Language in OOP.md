@@ -1,3 +1,6 @@
+---
+tags: Java
+---
 JAVA sinh ra 1 dạng trung gian ko phải Assembly như C
 code JAVA - cơ chế pycode. Dịch ra 1 Mã Trung Gian ko chạy đc trên OS
 (Code Trung Gian - Viết 1 lần => Chạy được ở khắp Mọi Nơi)

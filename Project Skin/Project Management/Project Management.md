@@ -1,6 +1,16 @@
 ---
 _links:
   - Risk Management.md
+  - Project Management Resource.md
+  - Stakeholder Identification.md
+  - SR Front-End Requirement.md
+  - IT_PM Project LifeCycle.md
+  - IT_PM Part 1.md
+  - IT_PM My Project.md
+  - IT_PM INTRO.md
+  - IT_PM Gantt Documentation.md
+  - IT Project Management.md
+  - Blog WebApp Bugs and Notice.md
 _filters: []
 _contexts: []
 _sort:

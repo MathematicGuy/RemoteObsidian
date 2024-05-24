@@ -1,3 +1,6 @@
+---
+tags: OOP
+---
 ##### Bài tập nhập mảng 1 chiều, số nguyên, số thực
 
 ```java

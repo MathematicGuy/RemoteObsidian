@@ -1,3 +1,8 @@
+---
+tags: German
+---
+
+
 [[German Freestyles]]
 
 [[German Grammar Drill]]

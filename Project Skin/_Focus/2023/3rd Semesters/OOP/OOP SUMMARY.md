@@ -1,3 +1,6 @@
+---
+tags: OOP, Java
+---
 note: re-check inheritance
 get the whole view -> organize the main point -> throughly explain -> get deep 
 # Person

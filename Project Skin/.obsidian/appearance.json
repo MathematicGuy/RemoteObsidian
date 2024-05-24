@@ -6,7 +6,7 @@
   "monospaceFontFamily": "Hurmit Nerd Font Mono",
   "textFontFamily": "FiraCode Nerd Font Mono,Cabin Sketch",
   "interfaceFontFamily": "FiraCode Nerd Font Mono",
-  "baseFontSize": 21,
+  "baseFontSize": 24,
   "nativeMenus": false,
   "baseFontSizeAction": true,
   "showViewHeader": false

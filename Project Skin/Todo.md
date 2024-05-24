@@ -2,7 +2,8 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-[[Goal Archive]]
+#Todo 
+
 
 #Todo/Priority
 THING I WANT TO ACHIEVE THIS WEEK
@@ -10,8 +11,8 @@ THING I WANT TO ACHIEVE THIS WEEK
 - [ ] Dinner with my class while attending online classroom
 
 
-
 #Todo/GoalsThisWeek
+
 
 
 **Daily Plan**
@@ -122,3 +123,5 @@ https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH
 
 Luck 
 ![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
+
+[[Goal Archive]]

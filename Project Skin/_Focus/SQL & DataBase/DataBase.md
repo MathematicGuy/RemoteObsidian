@@ -1,3 +1,7 @@
+#SQL #Database
+  
+
+
 [DB Course](https://learn.viblo.asia/en/courses/he-quan-tri-co-so-du-lieu-QK9b68neEv)
 1) [[Intro to Database Management system]]
 2) [[DBMS Characteristics]]

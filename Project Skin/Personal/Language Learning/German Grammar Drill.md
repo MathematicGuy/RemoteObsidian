@@ -1,3 +1,6 @@
+---
+tags: German
+---
 
 | article | noun | verb | adjective |
 | ---- | ---- | ---- | ---- |

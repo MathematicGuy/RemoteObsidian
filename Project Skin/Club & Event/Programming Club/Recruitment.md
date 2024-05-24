@@ -1,3 +1,6 @@
+---
+tags: Club
+---
 Có nhiều cách để tuyển thành viên cho câu lạc bộ lập trình. Dưới đây là một số ý tưởng:
 
 1. **[[Sự Kiện Giới Thiệu]]**: Tổ chức một sự kiện giới thiệu câu lạc bộ tại đầu năm học hoặc khi một kỳ học mới bắt đầu. Trong sự kiện này, bạn có thể giới thiệu về mục tiêu của câu lạc bộ, hoạt động dự kiến, và cơ hội mà các thành viên sẽ có.

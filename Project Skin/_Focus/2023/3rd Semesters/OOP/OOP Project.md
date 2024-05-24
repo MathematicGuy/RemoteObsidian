@@ -1,3 +1,6 @@
+---
+tags: OOP, Java
+---
 ##### BrainStormming
 + AI ? (top priority)
 + Web
