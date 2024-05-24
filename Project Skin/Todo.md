@@ -5,6 +5,7 @@ banner: Images/Pasted image 20240402135259.png
 #Todo 
 - [ ] Only set German tag to the Parent file 
 	- [ ] GermanVocab -> Vocab, GermanGrammar -> Grammar
+- [ ] Watch this AI Project demo: https://www.youtube.com/watch?v=wwTOFYgtAWg
 
 
 #Todo/Priority
