@@ -3,12 +3,16 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo 
+- [ ] Only set German tag to the Parent file 
+	- [ ] GermanVocab -> Vocab, GermanGrammar -> Grammar
 
 
 #Todo/Priority
 THING I WANT TO ACHIEVE THIS WEEK
+- [ ] Dinner with my class
 - [ ] Organize my Note (what video to for tips and tricks)
-- [ ] Dinner with my class while attending online classroom
+- [ ] Chapter 1 and 2 SIC Program on LinkedIn
+ 
 
 
 #Todo/GoalsThisWeek

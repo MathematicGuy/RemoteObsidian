@@ -11,6 +11,7 @@ _links:
   - IT_PM Gantt Documentation.md
   - IT Project Management.md
   - Blog WebApp Bugs and Notice.md
+  - Summer_2023_2024 Mobile_Project.md
 _filters: []
 _contexts: []
 _sort:

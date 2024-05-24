@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "cf07d8972a25ffc8",
+            "id": "a24a2d5bb3c8a33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Club & Event/Recruitment Strategies/Sự Kiện Giới Thiệu.md",
+                "file": "Summer_2023_2024 Mobile_Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "fb6c6bfc8f319ae7",
+            "id": "05a1fa80ab27b6f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Project.md",
+                "file": "CMC Module Content.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Project.md",
+                "file": "CMC Module Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Project.md",
+                "file": "CMC Module Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Project.md"
+                "file": "CMC Module Content.md"
               }
             }
           },
@@ -216,8 +216,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb6c6bfc8f319ae7",
+  "active": "05a1fa80ab27b6f7",
   "lastOpenFiles": [
+    "Summer_2023_2024 Mobile_Project.md",
+    "Todo.md",
+    "CMC Module Content.md",
+    "CMC/CMC.md",
+    "CMC",
+    "Club & Event/Recruitment Strategies/Sự Kiện Giới Thiệu.md",
+    "Cyber Security Project.md",
     "Leadership.md",
     "IT_PM Project LifeCycle.md",
     "My Vlog.md",
@@ -225,8 +232,6 @@
     "My Web Back-end Note.md",
     "Untitled.canvas",
     "Hosting/Hosting.md",
-    "Club & Event/Recruitment Strategies/Sự Kiện Giới Thiệu.md",
-    "Todo.md",
     "Club & Event/Programming Club/Recruitment.md",
     "WebDev/WebDev_Learn/JS/JS Summary.md",
     "WebDev/WebDev_Learn/JS/JS.md",
@@ -241,10 +246,6 @@
     "Web/Web.md",
     "Personal/Language Learning/German Grammar Drill.md",
     "Personal/Language Learning/German Grammar.md",
-    "Common German Mistake.md",
-    "German Accusative Case.md",
-    "German Nominative Case.md",
-    "German Sentences Position.md",
     "Fron",
     "OOP",
     "CLub",
@@ -254,7 +255,6 @@
     "Excel",
     "German Note",
     "German Vocabulary",
-    "German",
     "Images/Pasted image 20240523115834.png",
     "Images/Pasted image 20240523115616.png",
     "Images/architecture.png",
