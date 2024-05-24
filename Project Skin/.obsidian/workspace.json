@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/SQL & DataBase/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/SQL & DataBase/DataBase.md"
+              }
             }
           },
           {
@@ -202,10 +206,12 @@
   },
   "active": "808ddb5e73b8062d",
   "lastOpenFiles": [
+    "Three-Schema Architecture  & Data Independence.md",
+    "FrontEnd/Selective Design Note.md",
+    "_Focus/SQL & DataBase/DataBase.md",
+    "BackEnd/Three-Schema Architecture  & Data Independence.md",
     "Todo.md",
     "BackEnd/BackEnd.md",
-    "BackEnd/Three-Schema Architecture  & Data Independence.md",
-    "_Focus/SQL & DataBase/DataBase.md",
     "BackEnd/DB Users.md",
     "BackEnd/DBMS Characteristics.md",
     "BackEnd/Intro to Database Management system.md",
@@ -226,8 +232,6 @@
     "_Focus/2023/Last Semester/Software Engineering.md",
     "_Focus/2023/Last Semester/Programming Fundamental.md",
     "Stakeholder Identification.md",
-    "Club & Event/Programming Club/Role & Personnel.md",
-    "WebDev/WebDev_Learn/CSS/CSS Kernel.md",
     "CMC",
     "Untitled.canvas",
     "Fron",

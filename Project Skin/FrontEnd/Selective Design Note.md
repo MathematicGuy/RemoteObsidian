@@ -4,7 +4,6 @@
 
 
 
-
 **> Lading & Product Pages** (Veggie Website)
 ![[Pasted image 20231117120811.png]]
 ![[Pasted image 20231117120821.png]]
