@@ -1,108 +1,31 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Personal/Leadership  ",
+      "query": "path:\"2 ACTIONS/Personal/Language Learning\"  ",
       "color": {
         "a": 1,
-        "rgb": 9904417
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Project Management\"  ",
+      "query": "path:\"3 RESOURCES\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 9560411
       }
     },
     {
-      "query": "path:\"Software Engineer\"  ",
+      "query": "path:\"4 ARCHIVES\"  ",
       "color": {
         "a": 1,
-        "rgb": 8712294
-      }
-    },
-    {
-      "query": "path:Web  ",
-      "color": {
-        "a": 1,
-        "rgb": 254616
-      }
-    },
-    {
-      "query": "path:FrontEnd  ",
-      "color": {
-        "a": 1,
-        "rgb": 15513304
-      }
-    },
-    {
-      "query": "path:BackEnd  ",
-      "color": {
-        "a": 1,
-        "rgb": 16724954
-      }
-    },
-    {
-      "query": "path:Personal  ",
-      "color": {
-        "a": 1,
-        "rgb": 15330737
-      }
-    },
-    {
-      "query": "tag:#Vocabulary  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431504
-      }
-    },
-    {
-      "query": "tag:#Grammar  ",
-      "color": {
-        "a": 1,
-        "rgb": 1872580
-      }
-    },
-    {
-      "query": "path:Workout  ",
-      "color": {
-        "a": 1,
-        "rgb": 8742395
-      }
-    },
-    {
-      "query": "path:Database  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:OOP  ",
-      "color": {
-        "a": 1,
-        "rgb": 16029271
-      }
-    },
-    {
-      "query": "path:\"History & Politic\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5156621
-      }
-    },
-    {
-      "query": "path:German  ",
-      "color": {
-        "a": 1,
-        "rgb": 16008003
+        "rgb": 12082666
       }
     }
   ],
@@ -116,6 +39,6 @@
   "repelStrength": 12.2537025112685,
   "linkStrength": 0.825499034127495,
   "linkDistance": 50,
-  "scale": 0.49065478906207843,
+  "scale": 0.11671307184130028,
   "close": false
 }

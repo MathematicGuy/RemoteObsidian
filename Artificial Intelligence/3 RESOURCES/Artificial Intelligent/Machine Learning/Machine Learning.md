@@ -80,5 +80,5 @@
 	+ ### How I learned to code by Jason Benn (ML + software engineering + web development)
 		+ **Link:** https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631
 
-
-~~~~
+aw
+[[PCA]]

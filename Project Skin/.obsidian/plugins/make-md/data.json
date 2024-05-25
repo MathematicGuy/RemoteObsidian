@@ -40,7 +40,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "//4 ARCHIVES",
+    "spaces://#CMC"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

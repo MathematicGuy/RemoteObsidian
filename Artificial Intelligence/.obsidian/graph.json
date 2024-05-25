@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:\"Machine Learning Assignment\"  ",
+      "query": "file:Mathematic for Machine Learning",
       "color": {
         "a": 1,
-        "rgb": 16755092
+        "rgb": 14725458
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1356669880389299,
+  "scale": 0.22521030414432602,
   "close": false
 }

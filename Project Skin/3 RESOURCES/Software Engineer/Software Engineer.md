@@ -1,6 +1,6 @@
 ---
 _links:
-  - 3 RESOURCES/2023/Last Semester/Software Engineering.md
+  - 4 ARCHIVES/2023/Last Semester/Software Engineering.md
 _filters: []
 _contexts: []
 _sort:

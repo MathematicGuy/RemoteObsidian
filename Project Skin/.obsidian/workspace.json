@@ -14,15 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nomad Files/Todo.md",
+                "file": "_Focus/Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fb1f791d9e440d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Web/Ideas for Website.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Nomad Folders/German\"  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.50940704345703,
-    "collapsed": true
+    "width": 380.50940704345703
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nomad Files/Todo.md",
+                "file": "3 RESOURCES/Web/Ideas for Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nomad Files/Todo.md",
+                "file": "3 RESOURCES/Web/Ideas for Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nomad Files/Todo.md"
+                "file": "3 RESOURCES/Web/Ideas for Website.md"
               }
             }
           },
@@ -190,50 +203,50 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "713c647000fd25ac",
+  "active": "cbc53dc6bb856fb8",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Good for LATER.md",
-    "Nomad Files/Todo.md",
-    "3 RESOURCES/Code/Student Management Application (JAVA).canvas",
-    "3 RESOURCES/Code/What I do today.md",
-    "1 PROJECTS/1.5 Years Look Back Video Project.md",
-    "3 RESOURCES/Code/Github for Beginners.md",
-    "3 RESOURCES/History & Politic/Ideas and Politic.md",
-    "3 RESOURCES/Code/JAVA Project SetUp.md",
-    "3 RESOURCES/DataBase/DB HomeWork/Movie_DB.md",
-    "3 RESOURCES/Code/Code.md",
-    "3 RESOURCES/Code/SE_HW_Chap6.md",
-    "3 RESOURCES/Code/Fundamental of Programming/Basic Concepts.md",
-    "3 RESOURCES/Code/Fundamental of Programming",
-    "3 RESOURCES/Code/Fundamental of Programming/C String Manipulation.md",
-    "3 RESOURCES/Code/Chip.md",
-    "3 RESOURCES/Code/Fundamental of Programming.canvas",
-    "3 RESOURCES/German/German Vocabulary/Vocabulary.md",
-    "3 RESOURCES/German/German.md",
-    "3 RESOURCES/German/German Vocabulary/German Vocabulary.md",
-    "3 RESOURCES/German/German Grammar/German Word Order.md",
-    "3 RESOURCES/German/German Freestyles.md",
-    "3 RESOURCES/DataBase/SQL/SQL Code.md",
-    "Nomad Folders/SQL/SQL.md",
-    "Spaces",
-    "Nomad Folders/Web API/Turtorial Resources.md",
-    "2 ACTIONS/Personal/Language Learning/Vietnamese Vocab.md",
-    "3 RESOURCES/How to/How to Organize Your Digital Life in Seconds (PARA Method).md",
-    "Vault.md",
+    "3 RESOURCES/Web/Web.md",
+    "_Focus/Todo.md",
+    "4 ARCHIVES/CMC/CMC Module Content.md",
     "4 ARCHIVES/CMC/CMC.md",
-    "3 RESOURCES/Software Engineer/Citygas UseCase.md",
-    "3 RESOURCES/Programming",
+    "4 ARCHIVES/CMC/CMC Spring 2024",
+    "3 RESOURCES/Untitled",
+    "4 ARCHIVES/2023/Last Semester/Software Engineering.md",
+    "2 ACTIONS/Personal/Interest/Books/The Greatness Guide.md",
+    "Spaces",
+    "4 ARCHIVES/Mindset Archive/20 Day Try Hard.md",
+    "2 ACTIONS/Personal/Interest/Economic.md",
+    "2 ACTIONS/Personal/Interest/My AI List.md",
+    "3 RESOURCES/How to/Obsidian/Obsidient System.md",
+    "2 ACTIONS/Personal/Interest/Second Year Graduate Project.md",
+    "2 ACTIONS/Personal/Interest/Psychology Note and Digest.md",
+    "2 ACTIONS/Personal/Interest/Books/Books.md",
+    "2 ACTIONS/Personal/Interest/Cooking.md",
+    "2 ACTIONS/Workout/Full Planche Jouney.md",
+    "2 ACTIONS/Personal/Interest/Books/The_Secrets_of_Top_Students.md",
+    "2 ACTIONS/Personal/Interest/Great Films and Movies/One Piece.md",
+    "2 ACTIONS/Personal/Interest/Great Films and Movies/Youtube Channel.md",
+    "2 ACTIONS/Personal/What I do today.md",
+    "2 ACTIONS/Personal/Interest/Great Films and Movies",
+    "3 RESOURCES/Programming/Python.md",
+    "2 ACTIONS/Personal/Programming Skill/What is Unit & How can it help.md",
+    "3 RESOURCES/German/German.md",
+    "3 RESOURCES/How to/How to.md",
+    "3 RESOURCES/Programming/Fundamental of Programming/Pointer types.md",
+    "3 RESOURCES/Code/Code.md",
+    "3 RESOURCES/Programming/Fundamental of Programming/Pointer in C.md",
+    "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
+    "2 ACTIONS/Untitled 1",
+    "4 ARCHIVES/Mindset Archive",
+    "2 ACTIONS/Personal/Interest/Books/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
+    "3 RESOURCES/DataBase/Learn Database",
+    "3 RESOURCES/Project Management/roles",
+    "3 resources/project management/roles",
+    "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "4 ARCHIVES/Images/Pasted image 20240525091039.png",
-    "4 ARCHIVES",
-    "3 RESOURCES",
-    "2 ACTIONS",
-    "1 PROJECTS",
     "4 ARCHIVES/Images/3.1.4.jpg",
     "Pasted image 20240525091015.png",
-    "§How",
     "_Focus/This is my Life.canvas",
-    "Liters/Web",
-    "Liters/SQL",
     "Untitled.canvas",
     "4 ARCHIVES/Images/Pasted image 20240523115834.png",
     "4 ARCHIVES/Images/Pasted image 20240523115616.png",
