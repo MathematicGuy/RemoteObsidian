@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Project Skin\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8384598
+      }
+    },
+    {
+      "query": "path:\"Artificial Intelligence\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7315938
+      }
+    },
+    {
+      "query": "path:Dream  ",
+      "color": {
+        "a": 1,
+        "rgb": 14873198
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 0.7890625,
+  "collapse-forces": false,
+  "centerStrength": 0.4375,
+  "repelStrength": 8.02083333333333,
+  "linkStrength": 1,
+  "linkDistance": 152,
+  "scale": 0.2760007438269606,
+  "close": true
+}

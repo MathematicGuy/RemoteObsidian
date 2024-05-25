@@ -1,122 +1,108 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": true,
+  "showTags": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Leadership",
+      "query": "path:Personal/Leadership  ",
       "color": {
         "a": 1,
         "rgb": 9904417
       }
     },
     {
-      "query": "tag:#Project_Management",
+      "query": "path:\"Project Management\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "tag:#Software_Engineering",
+      "query": "path:\"Software Engineer\"  ",
       "color": {
         "a": 1,
         "rgb": 8712294
       }
     },
     {
-      "query": "tag:#Web",
+      "query": "path:Web  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 254616
       }
     },
     {
-      "query": "tag:#Frontend",
+      "query": "path:FrontEnd  ",
       "color": {
         "a": 1,
         "rgb": 15513304
       }
     },
     {
-      "query": "tag:#Backend",
+      "query": "path:BackEnd  ",
       "color": {
         "a": 1,
         "rgb": 16724954
       }
     },
     {
-      "query": "tag:#Personal  ",
+      "query": "path:Personal  ",
       "color": {
         "a": 1,
         "rgb": 15330737
       }
     },
     {
-      "query": "tag:#German",
-      "color": {
-        "a": 1,
-        "rgb": 16736609
-      }
-    },
-    {
-      "query": "tag:#Vocabulary",
+      "query": "tag:#Vocabulary  ",
       "color": {
         "a": 1,
         "rgb": 5431504
       }
     },
     {
-      "query": "tag:#Grammar",
+      "query": "tag:#Grammar  ",
       "color": {
         "a": 1,
         "rgb": 1872580
       }
     },
     {
-      "query": "tag:#Workout ",
+      "query": "path:Workout  ",
       "color": {
         "a": 1,
-        "rgb": 14155535
+        "rgb": 8742395
       }
     },
     {
-      "query": "tag:#Database",
+      "query": "path:Database  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "tag:OOP",
+      "query": "path:OOP  ",
       "color": {
         "a": 1,
         "rgb": 16029271
       }
     },
     {
-      "query": "tag:JAVA",
+      "query": "path:\"History & Politic\"  ",
       "color": {
         "a": 1,
-        "rgb": 16369808
+        "rgb": 5156621
       }
     },
     {
-      "query": "tag:C#",
+      "query": "path:German  ",
       "color": {
         "a": 1,
-        "rgb": 8170744
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
+        "rgb": 16008003
       }
     }
   ],
@@ -130,6 +116,6 @@
   "repelStrength": 12.2537025112685,
   "linkStrength": 0.825499034127495,
   "linkDistance": 50,
-  "scale": 0.24379153412357651,
-  "close": true
+  "scale": 0.49065478906207843,
+  "close": false
 }

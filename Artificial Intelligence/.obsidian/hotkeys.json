@@ -74,9 +74,9 @@
     {
       "modifiers": [
         "Mod",
-        "Shift"
+        "Meta"
       ],
-      "key": "M"
+      "key": "I"
     }
   ]
 }

@@ -1,3 +1,0 @@
-[[German]]
-
-[[Laguage Learning Tips]]

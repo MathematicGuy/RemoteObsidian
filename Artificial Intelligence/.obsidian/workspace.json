@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea2b3b82e25b6dbb",
+            "id": "598e1c9a8be12e99",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "1 PROJECTS/SIC/SIC-AI Day 1.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "1 PROJECTS/SIC/SIC-AI Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "1 PROJECTS/SIC/SIC-AI Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md"
+                "file": "1 PROJECTS/SIC/SIC-AI Day 1.md"
               }
             }
           },
@@ -170,52 +168,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ea2b3b82e25b6dbb",
+  "active": "598e1c9a8be12e99",
   "lastOpenFiles": [
-    "PCA.md",
-    "Principal Component = Eigenvectors.md",
-    "PCA Ideas notes.md",
-    "Machine Learning.md",
-    "Image/Pasted image 20240516050819.png",
-    "compute the covariance matrix C.md",
-    "Image/Pasted image 20240516044210.png",
-    "Image/Pasted image 20240516043945.png",
-    "Image/Pasted image 20240516042022.png",
-    "ML Project/Image Compression using PCA - Principal Component Analysis.md",
-    "PCA (Principle Component Analysis) Research Documents.md",
-    "Image/Pasted image 20240516040725.png",
-    "Image/Pasted image 20240516040527.png",
-    "Image/Pasted image 20240516040458.png",
-    "Image/Pasted image 20240516035949.png",
-    "Image/Pasted image 20240516034719.png",
-    "Image/Pasted image 20240516032600.png",
-    "Anaconda Command.md",
-    "Anaconda.md",
-    "Artificial Intelligent Revision.md",
-    "CNN - Convolution Neural Network.md",
-    "What is Neural Network.md",
-    "Neural Networks.md",
-    "What Is AI.md",
-    "MACHINE LEARNING RESOURCE.md",
-    "Facebook's field guide to machine learning.md",
-    "Why Machine Learning.md",
-    "Week 4 Determinants and Eigenvector.md",
-    "Machine Learning Assignment/Mathematic  for Machine Learning.md",
-    "Mathematics for AI/Mathematics for AI.md",
-    "Week 3 Vector and Linear Transformations.md",
-    "Mathematics.md",
-    "Natural Language Processing.md",
-    "Uncertainty.md",
-    "Harvard CS50’s Artificial Intelligence with Python.md",
-    "ML Project",
-    "Machine Learning Assignment",
-    "Mathematics for AI",
-    "Personal",
-    "Spaces",
-    "Book/Seeing Theory A visual introduction to the most useful.pdf",
-    "Book/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "Book/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
-    "book/## The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
-    "book/1802.01528.pdf"
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "1 PROJECTS/SIC/SIC-AI Day 1.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Problems.md",
+    "3 RESOURCES/CMC/CMC - Neural Network & Deep Learning.md",
+    "2 ACTIONS/Personal/My Research.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
+    "2 ACTIONS/Personal/Personal.md",
+    "4 ARCHIVES/Understand ChatGPT.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
+    "3 RESOURCES/Good for later/Potential Question.md",
+    "3 RESOURCES/Good for later/My AI Skills.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Unsupervised Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Why Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Transfer Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Training & Inference time & Cost.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Software 2.0.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Tools.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/MACHINE LEARNING RESOURCE.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning",
+    "1 PROJECTS/SIC",
+    "3 RESOURCES/Untitled",
+    "4 ARCHIVES/Thought & Ideas",
+    "3 RESOURCES/Artificial Intelligent/General AI",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning",
+    "3 RESOURCES/Good for later",
+    "3 RESOURCES/Artificial Intelligent",
+    "3 RESOURCES/Algorithms",
+    "4 ARCHIVES/Image/Pasted image 20240516050819.png",
+    "4 ARCHIVES/Image/Pasted image 20240516044210.png",
+    "4 ARCHIVES/Image/Pasted image 20240516043945.png",
+    "4 ARCHIVES/Image/Pasted image 20240516042022.png",
+    "4 ARCHIVES/Image/Pasted image 20240516040725.png",
+    "4 ARCHIVES/Image/Pasted image 20240516040527.png",
+    "4 ARCHIVES/Image/Pasted image 20240516040458.png",
+    "4 ARCHIVES/Image/Pasted image 20240516035949.png",
+    "4 ARCHIVES/Image/Pasted image 20240516034719.png",
+    "4 ARCHIVES/Image/Pasted image 20240516032600.png"
   ]
 }

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "060805e9f0560b7a",
+        "id": "3dd35cc1ab4c568c",
         "type": "tabs",
         "children": [
           {
-            "id": "55abe67fbb565f32",
+            "id": "8bf56735739a9b9d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Nomad Files/Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Nomad Folders/German\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,18 +69,19 @@
             }
           },
           {
-            "id": "eab23f73568e4c1e",
+            "id": "b647086fb3396a86",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 380.50940704345703,
     "collapsed": true
   },
   "right": {
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Nomad Files/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Nomad Files/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Nomad Files/Todo.md"
               }
             }
           },
@@ -169,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,61 +191,61 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "55abe67fbb565f32",
+  "active": "8bf56735739a9b9d",
   "lastOpenFiles": [
-    "Personal/Language Learning/German Vocabulary.md",
-    "How to Organize Your Digital Life in Seconds (PARA Method).md",
-    "Three-Schema Architecture  & Data Independence.md",
-    "Todo.md",
-    "_Focus/SQL & DataBase/DataBase.md",
-    "FrontEnd/Selective Design Note.md",
-    "BackEnd/Three-Schema Architecture  & Data Independence.md",
-    "BackEnd/BackEnd.md",
-    "BackEnd/DB Users.md",
-    "BackEnd/DBMS Characteristics.md",
-    "BackEnd/Intro to Database Management system.md",
-    "Code/Relational DB Design.md",
-    "IT Project Management.md",
-    "Club & Event/Programming Club/Recruitment.md",
-    "Club & Event/Programming Club/Hỗ Trợ Tạo Thẻ Câu Lạc Bộ.md",
-    "Club & Event/Recruitment Strategies/Trải Nhiệm CLB.md",
-    "Club & Event/Recruitment Strategies/Tạo Flyer và Poster.md",
-    "Club & Event/Recruitment Strategies/Thông Báo Tại Lớp Học.md",
-    "Club & Event/Programming Club/Chia sẻ Các Dự Án Thành Viên Hiện Tại.md",
-    "Club & Event/Recruitment Strategies/Hợp Tác với Khoa.md",
-    "Club & Event/Recruitment Strategies/Quảng Cáo Trực Tuyến.md",
-    "Club & Event/Recruitment Strategies/Xây Dựng Dự Án Cộng Đồng.md",
-    "Club & Event/Recruitment Strategies/Thi Đấu Lập Trình.md",
-    "Club & Event/Recruitment Strategies/Sự Kiện Giới Thiệu.md",
-    "Club & Event/Recruitment Strategies/Workshops và Buổi Thảo Luận.md",
-    "_Focus/2023/Last Semester/Software Engineering.md",
-    "CMC",
-    "Untitled.canvas",
-    "Fron",
-    "OOP",
-    "CLub",
-    "Software Engineer",
-    "Database",
-    "Coursera Course",
-    "Excel",
-    "German Note",
-    "German Vocabulary",
-    "Images/Pasted image 20240523115834.png",
-    "Images/Pasted image 20240523115616.png",
-    "Images/architecture.png",
-    "Images/Pasted image 20240522013212.png",
-    "Images/Pasted image 20240522013201.png",
-    "Images/Pasted image 20240522013127.png",
-    "Images/Pasted image 20240522013114.png",
-    "Images/Pasted image 20240522013109.png",
-    "Images/Pasted image 20240522013005.png",
-    "Images/Pasted image 20240522011550.png",
-    "Code/Student Management Application (JAVA).canvas",
+    "3 RESOURCES/German/German Vocabulary/Vocabulary.md",
+    "Nomad Files/Todo.md",
+    "3 RESOURCES/German/German.md",
+    "3 RESOURCES/German/German Vocabulary/German Vocabulary.md",
+    "3 RESOURCES/German/German Grammar/German Word Order.md",
+    "3 RESOURCES/German/German Freestyles.md",
+    "3 RESOURCES/CMC/DataBase/SQL/SQL Code.md",
+    "Nomad Folders/SQL/SQL.md",
+    "Spaces",
+    "Nomad Folders/Web API/Turtorial Resources.md",
+    "2 ACTIONS/Personal/Language Learning/Vietnamese Vocab.md",
+    "3 RESOURCES/How to/How to Organize Your Digital Life in Seconds (PARA Method).md",
+    "Vault.md",
+    "4 ARCHIVES/CMC/CMC.md",
+    "3 RESOURCES/Software Engineer/Citygas UseCase.md",
+    "4 ARCHIVES/CMC/Database/Database.md",
+    "3 RESOURCES/Programming",
+    "3 RESOURCES/Software Engineer/Car Rental Application- Requirement Analysis.md",
+    "3 RESOURCES/Software Engineer/Car Rental Application - Elicitation.md",
+    "3 RESOURCES/BackEnd/Company DB.md",
+    "3 RESOURCES/BackEnd/C Note.md",
+    "3 RESOURCES/CMC/DataBase/DB HomeWork/3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
+    "3 RESOURCES/BackEnd/Advice for AI.md",
+    "Nomad Folders/Web/Web.md",
+    "3 RESOURCES/CMC/DataBase/JOIN Tables.md",
+    "3 RESOURCES/BackEnd/Intro to Database Management system.md",
+    "3 RESOURCES/CMC/DataBase/Relational Data Base Model.md",
+    "3 RESOURCES/FrontEnd/JS Closures.md",
+    "4 ARCHIVES/Images/Pasted image 20240525091039.png",
+    "4 ARCHIVES",
+    "3 RESOURCES",
+    "2 ACTIONS",
+    "1 PROJECTS",
+    "4 ARCHIVES/Images/3.1.4.jpg",
+    "Pasted image 20240525091015.png",
+    "§How",
     "_Focus/This is my Life.canvas",
-    "_Focus/WebProject2023/WebProjectGroup5.canvas",
+    "Liters/Web",
+    "Liters/SQL",
+    "Liters/BackEnd",
+    "Untitled.canvas",
+    "4 ARCHIVES/Images/Pasted image 20240523115834.png",
+    "4 ARCHIVES/Images/Pasted image 20240523115616.png",
+    "4 ARCHIVES/Images/architecture.png",
+    "4 ARCHIVES/Images/Pasted image 20240522013212.png",
+    "4 ARCHIVES/Images/Pasted image 20240522013201.png",
+    "4 ARCHIVES/Images/Pasted image 20240522013127.png",
+    "4 ARCHIVES/Images/Pasted image 20240522013114.png",
+    "3 RESOURCES/Code/Student Management Application (JAVA).canvas",
+    "4 ARCHIVES/WebProject2023/WebProjectGroup5.canvas",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
-    "Club & Event/Programming Club/PC Overall.canvas",
+    "4 ARCHIVES/Club/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas",
     "Club & Event/Programming Club/~$ Overall.canvas"

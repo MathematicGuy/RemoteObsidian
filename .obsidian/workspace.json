@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b0eeef17726f27ba",
+        "id": "252d657a5edf2520",
         "type": "tabs",
         "children": [
           {
-            "id": "612c962a8712c1d5",
+            "id": "348beebc35e83212",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,6 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "612c962a8712c1d5",
-  "lastOpenFiles": []
+  "active": "348beebc35e83212",
+  "lastOpenFiles": [
+    "Project Skin/1 PROJECTS/1.5 Years Look Back Video Project.md",
+    "Dream/My Life/Google Sky.md",
+    "Dream/My Life/100 Thing to do before DeadBed.md",
+    "Dream/HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
+    "Dream/My Dream.md",
+    "Dream/Untitled.md",
+    "Dream/Vault.md",
+    "Artificial Intelligence/3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "Project Skin/Nomad Files/pokemon_review table.md"
+  ]
 }
