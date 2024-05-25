@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "226ad73d65e46a24",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "12cfe4330b6a6427",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/SIC/SIC-AI Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/SIC/SIC-AI Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 PROJECTS/SIC/SIC-AI Day 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +187,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "598e1c9a8be12e99",
+  "active": "12cfe4330b6a6427",
   "lastOpenFiles": [
+    "Spaces",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "1 PROJECTS/SIC/SIC-AI Day 1.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Problems.md",
@@ -196,7 +216,6 @@
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Tools.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/MACHINE LEARNING RESOURCE.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning",
     "1 PROJECTS/SIC",
     "3 RESOURCES/Untitled",

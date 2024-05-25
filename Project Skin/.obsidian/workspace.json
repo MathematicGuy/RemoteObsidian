@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd35cc1ab4c568c",
+        "id": "e1ce7b609f67023b",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf56735739a9b9d",
+            "id": "172ae0a00f72df88",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3e878cdc1a68a9f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/1.5 Years Look Back Video Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/1.5 Years Look Back Video Project.md",
+                "file": "Nomad Files/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/1.5 Years Look Back Video Project.md",
+                "file": "Nomad Files/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/1.5 Years Look Back Video Project.md"
+                "file": "Nomad Files/Todo.md"
               }
             }
           },
@@ -203,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3e878cdc1a68a9f4",
+  "active": "172ae0a00f72df88",
   "lastOpenFiles": [
     "3 RESOURCES/Code/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/What I do today.md",
