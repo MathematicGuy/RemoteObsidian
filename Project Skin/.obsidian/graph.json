@@ -8,24 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"2 ACTIONS/Personal/Language Learning\"  ",
+      "query": "path:\"2 ACTIONS/Personal\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"3 RESOURCES\"  ",
+      "query": "path:\"3 RESOURCES\"",
       "color": {
         "a": 1,
         "rgb": 9560411
       }
     },
     {
-      "query": "path:\"4 ARCHIVES\"  ",
+      "query": "path: \"4 ARCHIVES\"  ",
       "color": {
         "a": 1,
-        "rgb": 12082666
+        "rgb": 12144882
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 12.2537025112685,
   "linkStrength": 0.825499034127495,
   "linkDistance": 50,
-  "scale": 0.11671307184130028,
+  "scale": 0.10835179294381349,
   "close": false
 }
