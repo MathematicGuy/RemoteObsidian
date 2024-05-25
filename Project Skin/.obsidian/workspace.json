@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "267eed941e39ede5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nomad Files/Get all wifi password.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.50940704345703
+    "width": 380.50940704345703,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nomad Files/Todo.md",
+                "file": "Nomad Files/Get all wifi password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nomad Files/Todo.md",
+                "file": "Nomad Files/Get all wifi password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nomad Files/Todo.md"
+                "file": "Nomad Files/Get all wifi password.md"
               }
             }
           },
@@ -190,8 +204,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "172ae0a00f72df88",
+  "active": "267eed941e39ede5",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Good for LATER.md",
+    "Nomad Files/Todo.md",
     "3 RESOURCES/Code/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/What I do today.md",
     "1 PROJECTS/1.5 Years Look Back Video Project.md",
@@ -206,7 +222,6 @@
     "3 RESOURCES/Code/Fundamental of Programming/C String Manipulation.md",
     "3 RESOURCES/Code/Chip.md",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
-    "Nomad Files/Todo.md",
     "3 RESOURCES/German/German Vocabulary/Vocabulary.md",
     "3 RESOURCES/German/German.md",
     "3 RESOURCES/German/German Vocabulary/German Vocabulary.md",

