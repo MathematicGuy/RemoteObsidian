@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d11e1b4633524469",
+        "id": "9d84b982254dceb5",
         "type": "tabs",
         "children": [
           {
-            "id": "be5349210877cb46",
+            "id": "9b70f8fad4e0f59f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "8bc333d491b827a3",
+            "id": "787455d4225bbc4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -111,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,10 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8bc333d491b827a3",
+  "active": "787455d4225bbc4d",
   "lastOpenFiles": [
-    "3 RESOURCES/Git/Git.md",
     "_Focus/Todo.md",
+    "3 RESOURCES/Git/Git.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
