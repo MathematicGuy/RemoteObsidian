@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d84b982254dceb5",
+        "id": "08ecd67ce23ee68b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b70f8fad4e0f59f",
+            "id": "f9e61069955d3254",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "787455d4225bbc4d",
+            "id": "b527bc9b723d5900",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -78,7 +83,7 @@
             }
           },
           {
-            "id": "b647086fb3396a86",
+            "id": "7d8a3676601b3335",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
+              }
             }
           },
           {
@@ -195,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "787455d4225bbc4d",
+  "active": "b527bc9b723d5900",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "3 RESOURCES/Git/Git.md",

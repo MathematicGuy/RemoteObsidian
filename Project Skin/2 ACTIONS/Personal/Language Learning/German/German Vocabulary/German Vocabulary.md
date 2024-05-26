@@ -1676,6 +1676,8 @@ Gesund healthy
 	Du bist krank, brauchst eine Tablette und gehest in die Apotheke. Sie wird morgen gesund sein - You are sick, need a pill and go to the pharmacy. She will be fine tomorrow
 	+ Sein - be
 	+ Sie wird - you will be (Du wirst, Sie wird)
++ ? Ich bin gesund, ich muss nicht mehr ins krankenhaus (why word order)
+
 Gehe in - go into
 	Ich gehe in die stadt - I go to the city
 Hurra - hurray
@@ -1684,7 +1686,8 @@ Zahnschmerzen - toothache
 	Zahn tooth
 	Schmerzen pain
 	Zahnschmerzen -> toothpain
-Hurra, du hast jetzt keine Zahnschmerzen mehr - hurray, you don't have toothache anymore
++ Hurra, du hast jetzt keine Zahnschmerzen mehr - hurray, you don't have toothache anymore
+
 
 Traurig sad
 	Ich bin Traurig und I schlafe zu viel
@@ -1733,6 +1736,7 @@ Frau Merkel, haben Sie Fiebe und Kopfschmeryen? Dann Sie auf jeden fall im Bett 
 	Ms Merkel, do you have a fever and a headache? Then you definitly have to go to rest im bed  
 
 
-
-
-
+Glücklich - happy
+Gute Besserung - feel better
+	+ Gute - good
+	+ Besserung - better
