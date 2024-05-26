@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8351ceb403d9cbb",
+        "id": "d11e1b4633524469",
         "type": "tabs",
         "children": [
           {
-            "id": "713c647000fd25ac",
+            "id": "be5349210877cb46",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "713c647000fd25ac",
+  "active": "be5349210877cb46",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
