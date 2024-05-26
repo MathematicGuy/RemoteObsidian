@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8bc333d491b827a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.50940704345703
+    "width": 380.50940704345703,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "4 ARCHIVES/2023/Challenges & Guides/Github.md"
               }
             }
           },
@@ -190,8 +204,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "be5349210877cb46",
+  "active": "8bc333d491b827a3",
   "lastOpenFiles": [
+    "3 RESOURCES/Git/Git.md",
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
@@ -209,7 +225,6 @@
     "3 RESOURCES/Web/Ideas for Website.md",
     "4 ARCHIVES/2024",
     "3 RESOURCES/Web/Web.md",
-    "_Focus/Todo.md",
     "4 ARCHIVES/2024/CMC Module Content.md",
     "4 ARCHIVES/2024/CMC.md",
     "4 ARCHIVES/2024/CMC Spring 2024",
@@ -222,7 +237,6 @@
     "2 ACTIONS/Personal/Interest/My AI List.md",
     "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "2 ACTIONS/Personal/Interest/Second Year Graduate Project.md",
-    "2 ACTIONS/Personal/Interest/Psychology Note and Digest.md",
     "2 ACTIONS/Personal/Interest/Great Films and Movies",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "2 ACTIONS/Untitled 1",

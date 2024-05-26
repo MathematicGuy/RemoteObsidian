@@ -32,7 +32,7 @@ $ git commit -m "message here"
 stage-4: **set commit branch as main (master) branch** 
 ```shell
 $ git commit -m main
-```
+- [ ] ```
 stage5: **connect to github repository** 
 ```shell
 $ git remote add orgin http://github.com/user_name/git_name.git
