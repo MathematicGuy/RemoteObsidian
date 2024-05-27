@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08ecd67ce23ee68b",
+        "id": "61747628d198447d",
         "type": "tabs",
         "children": [
           {
-            "id": "f9e61069955d3254",
+            "id": "119d2a3adb638b1c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b527bc9b723d5900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b527bc9b723d5900",
+  "active": "119d2a3adb638b1c",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "3 RESOURCES/Git/Git.md",
