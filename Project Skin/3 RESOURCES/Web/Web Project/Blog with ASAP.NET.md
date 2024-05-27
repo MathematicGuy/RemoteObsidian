@@ -14,7 +14,7 @@ Strategy divide the video into each sections
 **What we'll Learn & Achieve**
 
 + CRUD Operations
-	+ CRUD (Create, Read, Update and Delete)
+		+ CRUD (Create, Read, Update and Delete)
 + Seed Initial Data
 + Routing: datas to the DB
 + Repository Pattern
@@ -202,7 +202,7 @@ The Folder from View reflect the controller from Controllers folder
 ### Submit Forms and Data Binding
 > Read Incomming Request using Model Binding
 use asp-for=""
-1) Create a View Model name "AddTagRequest.cs"
+1) Create a View Model name "AddTagRequest.cs" in ViewModels folder
 ![[Pasted image 20240323104131.png]]
 Create Tag to get data from HTML
 ```cs
@@ -943,6 +943,7 @@ Call API to store image to 3rd hosting party
 ![[Pasted image 20240402074941.png]]
 
 ![[Pasted image 20240402122420.png]]
+> Go into Shared folder
 > Insert to the Head of the `_Layout.cshtml` file
 + ? Locally Links: not work yet
 ```html
@@ -1128,7 +1129,7 @@ Test result:
 + Image Url return
 ![[Pasted image 20240402210339.png]]
 + Use Get Method to check if the image Url is working -> Image return   
-![[Pasted image 20240402210723.png]]]]
+![[Pasted image 20240402210723.png]]
 
 ###### Upload and Display Image
 > As we previously successfully test POST method. In this part we will implement it into ours Blog for Upload and Display.

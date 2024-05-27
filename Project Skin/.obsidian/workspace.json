@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "49b4d3b3de79b444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Web/Web Project/Blog with ASAP.NET.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "3 RESOURCES/Web/Web Project/Blog with ASAP.NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "3 RESOURCES/Web/Web Project/Blog with ASAP.NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "3 RESOURCES/Web/Web Project/Blog with ASAP.NET.md"
               }
             }
           },
@@ -190,8 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "119d2a3adb638b1c",
+  "active": "49b4d3b3de79b444",
   "lastOpenFiles": [
+    "3 RESOURCES/Web/Web Project/Blog WebApp Bugs and Notice.md",
+    "3 RESOURCES/Web/Web Project/Blog with ASAP.NET.md",
+    "3 RESOURCES/Web/Web Project/Blog WebApp Project Overview.md",
     "_Focus/Todo.md",
     "3 RESOURCES/Git/Git.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
@@ -220,9 +237,6 @@
     "Spaces",
     "4 ARCHIVES/2024/Mindset Archive/20 Day Try Hard.md",
     "2 ACTIONS/Personal/Interest/Economic.md",
-    "2 ACTIONS/Personal/Interest/My AI List.md",
-    "3 RESOURCES/How to/Obsidian/Obsidient System.md",
-    "2 ACTIONS/Personal/Interest/Second Year Graduate Project.md",
     "2 ACTIONS/Personal/Interest/Great Films and Movies",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "2 ACTIONS/Untitled 1",

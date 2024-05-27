@@ -158,10 +158,6 @@ public async Task<IActionResult> Delete(EditBlogPostRequest editBlogPostRequest)
 }
 ```
 
-
-
-
-
 ```cs
 [HttpPost]
 public async Task<IActionResult> UpdateHang(HangHoa hangHoa, int? Id)
