@@ -16,6 +16,6 @@ _sort:
 [[German Vocabulary]]
 + [[German Technology Vocabulary]]
 
-[[German Grammar 1]]
+[[German Grammar]]
 
 

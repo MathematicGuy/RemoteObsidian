@@ -279,6 +279,7 @@ We use wo to ask where someone is - 3 ways to say Where in German
 + $ Key Phrase: Talk About Work
 	Tim Herson, was ist dein beruf -> ich bin Programmierer/Programmiererin
 	Bist du Künstler ?
+	Kunstmuseum - art museum
 Scah
 sie she
 er he
@@ -435,7 +436,7 @@ die - female
 + Bibliothek the library
 + Kirche church 
 
-da drüben
+da drüben - over there
 
 Alt old
 Neu new
@@ -1162,6 +1163,7 @@ Der Speisewagen - dining car
 Sitz - seat
 Hinten - in the back / back
 	Nein, der Speisewagen ist nicht hinten
+	Mein Sitz ist hinten
 
 Frei - free
 	Ja, Die Essen ist frei
@@ -1241,6 +1243,7 @@ Der Rotwein red wine
 	Möchtest du ein rotwein trinken
 Trinken Drink
 	Sie trinkt ein Bier am Samstag
+	Sie müssen wasser trinken, Frau Merkelf
 Die Apfelschorle - sparkling apple juice
 
 
@@ -1638,7 +1641,9 @@ Iss eat (mean to eat "singular", essen is plural form of eat)
 Termin - appointment
 	Mein Termin ist ins zehn Uhr
 Machen make/to make
-	Ich möchte einen Termin mache
+	Ich möchte einen Termin machen
+	+ "Ich möchte einen Termin machen" translates to "I would like to make an appointment," where **"möchte" is conjugated according to the subject "Ich"** and **"machen" stays in the infinitive form due to the use of the modal verb "möchte."**
+
 Name (na me) name
 	Guten morgen, Wie ist Ihr Name
 
@@ -1740,3 +1745,13 @@ Glücklich - happy
 Gute Besserung - feel better
 	+ Gute - good
 	+ Besserung - better
+
+**Exercise**
+Tüte - bag
+Lilli öffnet die Tüte - Lilli open the bag 
+Süß - cute
+Rosa - pink
+Farbe - color
+Geburtstagsgeschenk - birthday gift
++ Geburtstags: birthday
++ Geschenk: gift
