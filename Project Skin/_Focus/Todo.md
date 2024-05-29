@@ -29,7 +29,7 @@ THING I WANT TO ACHIEVE THIS WEEK
 
 
 #MyRule
-- [ ] No more Hades 2 after dying more than 5 times at Day
+- [ ] No more Hades 2 after dying > 5 times a day (4/5 deaths) 
 - [ ] No more Hades2 after 7:00 PM
 
 **My Learning**
