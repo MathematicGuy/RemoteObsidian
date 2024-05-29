@@ -78,5 +78,14 @@
       ],
       "key": "I"
     }
+  ],
+  "make-md:mk-blink": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
   ]
 }

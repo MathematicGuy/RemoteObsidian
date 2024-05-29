@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d229dbee70e7fe92",
+        "id": "b385f31383ccd986",
         "type": "tabs",
         "children": [
           {
-            "id": "387ffafd702eb9ed",
+            "id": "be2d677a380122c6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,45 +22,19 @@
             }
           },
           {
-            "id": "70e550985e5fb8f1",
+            "id": "0f894af1fdb9ff6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIC - AI Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec49664357041a3c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a6e56e36fbd67feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+                "file": "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +81,7 @@
             }
           },
           {
-            "id": "6f7f71b295698544",
+            "id": "ea5e8cfddc87152c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -118,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5b429f276e830688",
@@ -135,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+                "file": "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+                "file": "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md"
+                "file": "1 PROJECTS/SIC/SIC - Artificial Intelligent.md"
               }
             }
           },
@@ -206,55 +179,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ec49664357041a3c",
+  "active": "0f894af1fdb9ff6a",
   "lastOpenFiles": [
-    "SIC - AI Intro.md",
-    "Pasted image 20240528163817.png",
-    "Pasted image 20240528163304.png",
-    "Pasted image 20240528162954.png",
-    "Pasted image 20240528162546.png",
-    "Pasted image 20240528161058.png",
-    "Pasted image 20240528153507.png",
-    "Pasted image 20240528152328.png",
-    "Pasted image 20240528145741.png",
-    "Pasted image 20240528140950.png",
+    "2 ACTIONS/_Focus.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "3 RESOURCES/Templates/SIC - Header.md",
+    "4 ARCHIVES/Stups/Annotation lab.md",
+    "3 RESOURCES/Templates",
+    "4 ARCHIVES/Stups/What I need to learn for Emotion Detector Project.md",
+    "4 ARCHIVES/Stups",
+    "4 ARCHIVES/Stups/Understand ChatGPT.md",
+    "4 ARCHIVES/Stups/Bookmarks.md",
+    "4 ARCHIVES/Stups/Code.md",
+    "4 ARCHIVES/Stups/Annotation MachineLearningBook.md",
+    "1 PROJECTS/SIC/SIC - AI Intro.md",
     "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/AI Learning Plan.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/Generative AI (AI Sáng Tạo).md",
+    "4 ARCHIVES/Image/Pasted image 20240528140950.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Concept and Process.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
+    "1 PROJECTS/SIC/SIC.md",
     "1 PROJECTS/SIC/SIC-AI Day 1.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/Google's Machine Learning Crash Course.md",
+    "4 ARCHIVES/Image/Pasted image 20240528163817.png",
+    "4 ARCHIVES/Image/Pasted image 20240528163304.png",
+    "4 ARCHIVES/Image/Pasted image 20240528162954.png",
+    "Pasted image 20240528162546.png",
+    "4 ARCHIVES/Image/Pasted image 20240528161058.png",
+    "4 ARCHIVES/Image/Pasted image 20240528153507.png",
+    "4 ARCHIVES/Image/Pasted image 20240528152328.png",
+    "4 ARCHIVES/Image/Pasted image 20240528145741.png",
     "2 ACTIONS/Personal/My Research.md",
-    "2 ACTIONS/Personal/Personal.md",
-    "2 ACTIONS/_Focus.md",
     "Spaces",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Problems.md",
-    "3 RESOURCES/CMC/CMC - Neural Network & Deep Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
-    "4 ARCHIVES/Understand ChatGPT.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
-    "3 RESOURCES/Good for later/Potential Question.md",
-    "3 RESOURCES/Good for later/My AI Skills.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Unsupervised Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Why Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Transfer Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Training & Inference time & Cost.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Software 2.0.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning",
     "1 PROJECTS/SIC",
     "3 RESOURCES/Untitled",
     "4 ARCHIVES/Thought & Ideas",
     "3 RESOURCES/Artificial Intelligent/General AI",
     "3 RESOURCES/Artificial Intelligent/Machine Learning",
-    "3 RESOURCES/Good for later",
-    "3 RESOURCES/Artificial Intelligent",
     "4 ARCHIVES/Image/Pasted image 20240516050819.png"
   ]
 }

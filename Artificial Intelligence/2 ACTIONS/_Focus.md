@@ -1,2 +1,8 @@
-- [ ] Study and Understand Numpy
-- [ ] Understand Echelon form in a deeper way
+
+## [[SIC - Artificial Intelligent]]
+
+# [[Machine Learning]]
+### [[Machine Learning Mathematics]] 
+
+
+

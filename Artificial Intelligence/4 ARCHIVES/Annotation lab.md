@@ -1,6 +1,0 @@
-
----
-annotation-target: MachineLearningBook.pdf
----
-
-

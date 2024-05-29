@@ -5,5 +5,7 @@
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
   "make-md",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "quickadd",
+  "templater-obsidian"
 ]

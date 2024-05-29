@@ -2,9 +2,9 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Machine Learning",
+      "value": "2 ACTIONS/_Focus",
       "kind": "File",
-      "openOnStartup": true,
+      "openOnStartup": false,
       "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
