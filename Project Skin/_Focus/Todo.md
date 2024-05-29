@@ -25,14 +25,12 @@ THING I WANT TO ACHIEVE THIS WEEK
 
 
 #Todo/GoalsThisMonth
-- [ ] Achieve Morning 4 Hours Deepwork 
 
 
-#Todo/Later
-- [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
-- [ ] Practice talking articulate with a pencil between my mouth
-- [ ] Share my Stories to my uncle Hung. When I finish this year
-	what story?
+
+#MyRule
+- [ ] No more Hades 2 after dying more than 5 times at Day
+- [ ] No more Hades2 after 7:00 PM
 
 **My Learning**
 [Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) 
@@ -43,11 +41,9 @@ THING I WANT TO ACHIEVE THIS WEEK
 - [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
 
 
-#Todo/Personal
-- [ ] Defined Idiot Time Index
-- [ ] Improve Blog Try Catch. If user missing any input then goes back and retype  
-
-[The Experimental Generation of Interpersonal Closeness](https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH)
+#Todo/Later
+- [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
+- [ ] [The Experimental Generation of Interpersonal Closeness](https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH)
 + Single match in pair. They were asked to work through 36 questions and then stare into each other's eyes for four minutes. To see if they fall in love
 
 https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH
