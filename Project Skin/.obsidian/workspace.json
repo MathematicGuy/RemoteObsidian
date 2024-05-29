@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a48cc41f91036fed",
+        "id": "e26439ba0625389a",
         "type": "tabs",
         "children": [
           {
-            "id": "02b65c6917d86aee",
+            "id": "08a2716437eb13ec",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "02b65c6917d86aee",
+  "active": "08a2716437eb13ec",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Note/Learning German Tips and Tricks.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",

@@ -46,6 +46,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a6e56e36fbd67feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
