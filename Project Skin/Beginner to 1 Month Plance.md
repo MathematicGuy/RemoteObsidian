@@ -154,12 +154,22 @@
     - Carbohydrates: 30-40g
     - Healthy Fats: 10-15g
 
+
+#### Diet and Nutrition
+Breakfast:
++ 2 Boiled eggs 
++ Banana
++ 1 cup of oatmeal with milk or water
++ Additional: peanuts
+
+Lunch and Dinner: The same (Cơm Hộp)
+Snack: Nut with Yogurt, Boil Potato
+
 #### Study Schdule
 **June**
 Monday: 
 + 1st section: 8:00 - 11:30
 + 2nd section: 13:00 - 18:25
-
 Tuesday: 13:00 - 15:40
 Wednesday: 13:00 - 16:35 
 Thursday: Free
@@ -172,3 +182,5 @@ Friday: 13:00 - 17:30
 
 Wake up at: 5h30 - 6h
 Sleep at: 10h30 - 11h
+
+
