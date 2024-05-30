@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7400868a540518df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beginner to 1 Month Plance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Beginner to 1 Month Plance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Beginner to 1 Month Plance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Beginner to 1 Month Plance.md"
               }
             }
           },
@@ -190,13 +204,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d204c1ee4a47d87c",
+  "active": "7400868a540518df",
   "lastOpenFiles": [
+    "Plance Progression.md",
+    "Beginner to 1 Month Plance.md",
+    "2 ACTIONS/Workout/Calisthenics.md",
+    "Full Planche Workout Routine For Beginner.md",
+    "Pasted image 20240530103206.png",
+    "_Focus/Todo.md",
     "German Dative Case.md",
     "Pasted image 20240530101044.png",
     "Pasted image 20240530100019.png",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Learning German Tips and Tricks.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -217,9 +236,6 @@
     "4 ARCHIVES/2024/WebProject2024/Web Back-end WorkFlow.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Laguage Learning Tips.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vietnamese Vocab.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar Drill.md",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/Language Learning.md",
-    "3 RESOURCES/Web/Ideas for Website.md",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
     "3 RESOURCES/Untitled",
@@ -240,7 +256,6 @@
     "4 ARCHIVES/Images/Pasted image 20240523115616.png",
     "4 ARCHIVES/Images/architecture.png",
     "4 ARCHIVES/Images/Pasted image 20240522013212.png",
-    "4 ARCHIVES/Images/Pasted image 20240522013201.png",
     "4 ARCHIVES/2024/WebProject2024/WebProjectGroup5.canvas",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
