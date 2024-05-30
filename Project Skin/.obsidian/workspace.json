@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e8c821c0a0af471",
+        "id": "5896ffe24505c03f",
         "type": "tabs",
         "children": [
           {
-            "id": "248560f15dd02fd1",
+            "id": "661a8aaade12bff7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.50940704345703
+    "width": 380.50940704345703,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -189,10 +190,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "248560f15dd02fd1",
+  "active": "661a8aaade12bff7",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Learning German Tips and Tricks.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
