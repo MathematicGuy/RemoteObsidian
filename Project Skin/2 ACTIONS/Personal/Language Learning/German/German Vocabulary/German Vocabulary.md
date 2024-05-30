@@ -1247,8 +1247,6 @@ Trinken Drink
 Die Apfelschorle - sparkling apple juice
 
 
-
-
 Hunger hungry (spell as : hung ger)
 Apfelkuchen sparkling apple juice
 Glas glass
@@ -1755,3 +1753,5 @@ Farbe - color
 Geburtstagsgeschenk - birthday gift
 + Geburtstags: birthday
 + Geschenk: gift
+
+

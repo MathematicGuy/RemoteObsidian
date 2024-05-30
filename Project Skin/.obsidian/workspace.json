@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5896ffe24505c03f",
+        "id": "08a09025de5a69af",
         "type": "tabs",
         "children": [
           {
-            "id": "661a8aaade12bff7",
+            "id": "d204c1ee4a47d87c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,14 +190,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "661a8aaade12bff7",
+  "active": "d204c1ee4a47d87c",
   "lastOpenFiles": [
+    "German Dative Case.md",
+    "Pasted image 20240530101044.png",
+    "Pasted image 20240530100019.png",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Learning German Tips and Tricks.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Gefällt.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/German Freestyles.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/German Note.md",
@@ -218,8 +221,6 @@
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Language Learning.md",
     "3 RESOURCES/Web/Ideas for Website.md",
     "4 ARCHIVES/2024",
-    "3 RESOURCES/Web/Web.md",
-    "4 ARCHIVES/2024/CMC Module Content.md",
     "4 ARCHIVES/2024/CMC Spring 2024",
     "3 RESOURCES/Untitled",
     "Spaces",
@@ -240,8 +241,6 @@
     "4 ARCHIVES/Images/architecture.png",
     "4 ARCHIVES/Images/Pasted image 20240522013212.png",
     "4 ARCHIVES/Images/Pasted image 20240522013201.png",
-    "4 ARCHIVES/Images/Pasted image 20240522013127.png",
-    "4 ARCHIVES/Images/Pasted image 20240522013114.png",
     "4 ARCHIVES/2024/WebProject2024/WebProjectGroup5.canvas",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
