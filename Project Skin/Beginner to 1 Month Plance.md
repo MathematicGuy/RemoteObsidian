@@ -11,18 +11,31 @@
 
 
 ### Week 1-2: Building Strength and Endurance
-**Set Total Time:** ~60-75 minutes
 
-**Day 1: Upper Body Strength**
-- **Warm-Up:** 10 minutes of dynamic stretching and shoulder mobility exercises
+
+#### **Day 1: Upper Body Strength**
++ ? Total Time: 1 hour 15 minutes
+
+1. **Warm-Up (10 minutes)**
+- Dynamic stretching
+- Shoulder mobility exercises
+
+2. **Strength and Skill Work (40 minutes)**
 + ? Rest time: 60-90 seconds 
-- **Pseudo Planche Push-Ups:** 4 sets of 8-10 reps
-- **Tuck Planche Holds:** 4 sets of 10-15 seconds
-- **L-Sit to Tuck Planche:** 3 sets of 5-8 reps
+- **Pseudo Planche Push-Ups:** 3 sets x 8-10 reps (Rest: 60 seconds)
+- **Tuck Planche Holds:** 3 sets x 10-15 seconds (Rest: 60 seconds)
+- Additional: **Planche Leans:** 3 sets x 10-15 seconds (Rest: 60 seconds)
+- **L-Sit to Tuck Planche:** 3 sets x 5-8 reps (Rest: 60 seconds)
 
+3. **Accessory Exercises (20 minutes)**
 + ? Rest time: 45-60 seconds
-- **Dips:** 3 sets of 10-12 reps
-- **Push-Ups:** 3 sets of 15-20 reps
+- **Dips:** 3 sets x 10-12 reps (Rest: 45 seconds)
+- **Push-Ups:** 3 sets x 15-20 reps (Rest: 45 seconds)
+- Additional: **Handstand Holds (against wall):** 3 sets x 20-30 seconds (Rest: 60 seconds)
+
+4. **Cool-Down (5 minutes)**
+- Static stretching
+- Deep breathing exercises
 
 - **Calories Burned:** ~350-450 calories
 - **Nutrition:**
@@ -77,9 +90,16 @@
 
 ### Week 3-4: Increasing Intensity and Skill Work
 
+##### Monday, Wednesday, Friday: Upper Body Strength & Planche Specific Training
+
+**Total Time: 1 hour 15 minutes**
 **Day 1: Upper Body Strength**
 
-- **Warm-Up:** 10 minutes of dynamic stretching and shoulder mobility exercises
+1) **Warm-Up (10 minutes)**
+
+- Dynamic stretching
+- Shoulder mobility exercises
+
 + ? Rest time: 60-90 seconds
 - **Advanced Tuck Planche Holds:** 4 sets of 10-15 seconds
 - **Planche Push-Up Negatives:** 3 sets of 3-5 reps
@@ -95,7 +115,7 @@
     - Healthy Fats: 15-20g
    
 **Day 2: Core Strength**
-
+(Better to watch Abs Exercise)
 - **Warm-Up:** 10 minutes of core activation exercises
 + ? Rest time: 45-60 seconds
 - **Hollow Body Rocks:** 4 sets of 20-30 seconds
@@ -114,6 +134,7 @@
 
 - **Total Time:** ~30-45 minutes
     - Light cardio or yoga: 30-45 minutes
+    - Walking, Light workout
 - **Calories Burned:** ~150-250 calories (depending on activity)
 - **Nutrition:**
     - Protein: 20-30g
@@ -164,6 +185,7 @@ Breakfast:
 
 Lunch and Dinner: The same (Cơm Hộp)
 Snack: Nut with Yogurt, Boil Potato
+
 
 #### Study Schdule
 **June**

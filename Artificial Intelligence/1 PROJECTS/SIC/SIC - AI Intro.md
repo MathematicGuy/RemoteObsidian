@@ -1,5 +1,5 @@
 ## 1. What is AI - interpret human behaviour
-	system design to seem intelligent?
+system design to seem intelligent?
 		or they just pattern matching -> Symbolic approach
 		![[Pasted image 20240528140950.png]]
 	Different root from human intelligent
@@ -172,3 +172,13 @@ Then calc the avg of each value to indicate if the mail is frau or not.
 - **Fast and Simple**: Quickly computes the probabilities and classifies emails.
 - **Effective**: Despite the independence assumption, it often performs well in practice.
 
+## 7. Fit the Algorithm 
+### Select the best algorithm
++ Classifying
+	![[Pasted image 20240530125314.png]]
++ Clustering
+	K means clustering
+
+Ensemble modeling -> group together
+Bagging, Stacking
+![[Pasted image 20240530125441.png]]

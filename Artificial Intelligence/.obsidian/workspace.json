@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1178e6035e647974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/SIC/SIC - AI Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "1 PROJECTS/SIC/SIC - AI Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "1 PROJECTS/SIC/SIC - AI Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md"
+                "file": "1 PROJECTS/SIC/SIC - AI Intro.md"
               }
             }
           },
@@ -171,13 +184,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be2d677a380122c6",
+  "active": "1178e6035e647974",
   "lastOpenFiles": [
-    "3 RESOURCES/Templates/SIC - Header.md",
+    "Pasted image 20240530125441.png",
+    "Pasted image 20240530125314.png",
+    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "2 ACTIONS/_Focus.md",
+    "4 ARCHIVES/Image/Pasted image 20240528140950.png",
+    "1 PROJECTS/SIC/SIC - AI Intro.md",
+    "3 RESOURCES/Templates/SIC - Header.md",
     "3 RESOURCES/Templates/Templates.md",
     "1 PROJECTS/SIC/SIC.md",
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "Untitled 1.md",
     "Untitled.md",
     "4 ARCHIVES/Stups/Annotation lab.md",
@@ -188,10 +205,8 @@
     "4 ARCHIVES/Stups/Bookmarks.md",
     "4 ARCHIVES/Stups/Code.md",
     "4 ARCHIVES/Stups/Annotation MachineLearningBook.md",
-    "1 PROJECTS/SIC/SIC - AI Intro.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI Learning Plan.md",
     "3 RESOURCES/Artificial Intelligent/General AI/Generative AI (AI Sáng Tạo).md",
-    "4 ARCHIVES/Image/Pasted image 20240528140950.png",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
@@ -201,7 +216,6 @@
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
     "1 PROJECTS/SIC/SIC-AI Day 1.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/General AI/Google's Machine Learning Crash Course.md",
     "4 ARCHIVES/Image/Pasted image 20240528163817.png",
     "4 ARCHIVES/Image/Pasted image 20240528163304.png",
     "4 ARCHIVES/Image/Pasted image 20240528162954.png",
@@ -217,7 +231,6 @@
     "3 RESOURCES/Untitled",
     "4 ARCHIVES/Thought & Ideas",
     "3 RESOURCES/Artificial Intelligent/General AI",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning",
-    "4 ARCHIVES/Image/Pasted image 20240516050819.png"
+    "3 RESOURCES/Artificial Intelligent/Machine Learning"
   ]
 }
