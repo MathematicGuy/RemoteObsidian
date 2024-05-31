@@ -36,7 +36,11 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Spaces",
+    "//Spaces/Spaces/Home",
+    "//Home",
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -57,7 +61,7 @@
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
   "waypoints": [
-    "Spaces/Home",
+    "Home",
     "/",
     "spaces://$tags"
   ],

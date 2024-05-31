@@ -8,20 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "734b7c3d05b9e74a",
+            "id": "c6306ccece78b73b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deepthought.md",
+                "file": "1 PROJECTS/This Year Goal.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "60147b0a4d5ee3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a837ca8583f787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 ARCHIVES/_Social/_Social.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,13 +98,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -97,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deepthought.md",
+                "file": "4 ARCHIVES/_Social/_Social.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deepthought.md",
+                "file": "4 ARCHIVES/_Social/_Social.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deepthought.md"
+                "file": "4 ARCHIVES/_Social/_Social.md"
               }
             }
           },
@@ -179,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,54 +211,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "734b7c3d05b9e74a",
+  "active": "b3a837ca8583f787",
   "lastOpenFiles": [
-    "For People Who.md",
-    "Deepthought.md",
-    "Flow State.md",
-    "Image/Pasted image 20240426221324.png",
-    "Image/Pasted image 20240426221004.png",
-    "Untitled 1.md",
-    "Image/Pasted image 20240426220933.png",
-    "My Dream.md",
-    "HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
-    "Untitled.md",
-    "Image/Pasted image 20240401021252.png",
-    "Image/Pasted image 20240401021247.png",
-    "Image/Pasted image 20240401020708.png",
-    "Image/Pasted image 20240401020556.png",
-    "Image/Pasted image 20240401020505.png",
-    "Happiness/Happiness.md",
-    "Spaces/Home/Home.md",
-    "Goals.md",
-    "How to Have a Better Day.md",
-    "How To/Learning How To Learn.md",
-    "Question Mark/Reason why you not understand what they understand.md",
-    "My Life/Leadership.md",
-    "Happiness/Best video about Trauma and What could have been.md",
-    "Vault.md",
-    "My Life/My Life.md",
-    "How To/How To.md",
+    "4 ARCHIVES/_Social/Social Study.md",
+    "4 ARCHIVES/_Social/_Social.md",
+    "4 ARCHIVES/_Social/Extreme competition and dark side of success in China.md",
+    "3 RESOURCES/_Question Mark/_Question Mark.md",
+    "3 RESOURCES/_Question Mark/For People Who.md",
+    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+    "3 RESOURCES/_Productivity & Improvement/4 Reasons Hard Work DOES NOT Beat Talent.md",
+    "3 RESOURCES/_How To/_How To Study/How to study 2 hours a day and still ACE the Exams.md",
+    "3 RESOURCES/_Productivity & Improvement/2 Hours a Day but still ACE the Exams.md",
+    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
+    "1 PROJECTS/This Year Goal.md",
+    "2 ACTIONS/_My Life/_My Life.md",
+    "2 ACTIONS/_My Life/1 Shoot for the Star.md",
+    "2 ACTIONS/_My Life/Styles.md",
+    "_Focus.md",
+    "2 ACTIONS/_My Life/Skills.md",
+    "2 ACTIONS/_My Life/Going to Space.md",
+    "2 ACTIONS/_My Life/100 Thing to do before DeadBed.md",
+    "2 ACTIONS/_My Life/My Dream.md",
+    "2 ACTIONS/_My Life/Procrastinate (ADHD).md",
+    "2 ACTIONS/_My Life/Learn more about Myself.md",
+    "2 ACTIONS/_My Life/Deepthought.md",
+    "2 ACTIONS/_My Life/Anonymous Supportor.md",
+    "4 ARCHIVES/Sleep.md",
     "Spaces/Home",
     "Spaces",
-    "Happiness/Save for my GF.md",
-    "How To/Focus/Fasting for Optimal Focus.md",
-    "How To/Focus",
-    "Happiness/Identify my Weakness.md",
-    "How To/How I Work 4 Hours a Day (and Make $730,000 per Month).md",
-    "Image/Pasted image 20240227195721.png",
-    "How To/How to Maintaining Other SKills while Focusing on Main Skill.md",
-    "Image/Pasted image 20240222101341.png",
-    "Question Mark/Money.md",
-    "Productivity & Improvement/Scott Young on the Best Way to Learn Anything.md",
-    "Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
-    "Why",
-    "Social",
-    "How To",
-    "Happiness",
-    "Question Mark",
-    "Productivity & Improvement",
-    "My Life",
+    "4 ARCHIVES/Spaces/Home",
+    "4 ARCHIVES/Spaces",
+    "3 RESOURCES/_How To/_How To Study/Scott Young on the Best Way to Learn Anything.md",
+    "3 RESOURCES/_Productivity & Improvement/10 Tips to Overcome temptation.md",
+    "3 RESOURCES/_How To/_How To Thing",
+    "3 RESOURCES/_How To/_How To Study",
+    "3 RESOURCES/_How To",
+    "4 ARCHIVES",
+    "3 RESOURCES",
+    "2 ACTIONS",
+    "4 ARCHIVES/Image/Pasted image 20240426221324.png",
+    "4 ARCHIVES/Image/Pasted image 20240426221004.png",
+    "4 ARCHIVES/Image/Pasted image 20240426220933.png",
+    "4 ARCHIVES/Image/Pasted image 20240401021252.png",
+    "4 ARCHIVES/Image/Pasted image 20240401021247.png",
+    "4 ARCHIVES/Image/Pasted image 20240401020708.png",
+    "4 ARCHIVES/Image/Pasted image 20240401020556.png",
+    "4 ARCHIVES/Image/Pasted image 20240401020505.png",
+    "4 ARCHIVES/Image/Pasted image 20240227195721.png",
+    "4 ARCHIVES/Image/Pasted image 20240222101341.png",
     "Untitled.canvas"
   ]
 }
