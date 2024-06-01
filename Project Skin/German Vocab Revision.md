@@ -53,3 +53,19 @@ Weitere Bispiel / other examples
 bequem / comfortable
 das bett ist nicht bequem / the bed ist not comfortable
 
+#### Singular and Plural in German
+Hausaufgaben / Homework
+	Haus / House or Home
+	aufgaben / Homework
+
+
+Du and Ihr
++ Du hast eine Katze / You have a cat
++ (du plural form -> Ihr) Ihr habt Hausaufgaben / we all have homework
++ Sie haben ein Frage / They have a question (use Sie when referring stranger)
++ Wir haben Zeit / We have time
+
+Zusammenfassung / summary, bản tóm tắt
+	Zusammen / together, cùng nhau
+	Fassung / version, phiên bản
+Zusammenfassung mean: reduced information content his

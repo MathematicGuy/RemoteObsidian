@@ -1789,3 +1789,15 @@ Wir sind Amerikaner / we are American
 
 Psychologie - Psychology
 	Psychologie ist schwer - Psychology is difficult 
+
+Geschichte - history
+	Liebst du Geschichte? Ist es Interessant  
+
+Studiert / mean study or major in a subject
+	Er studiert Informatik / you study computer science
+
+Jahre alt / Year old
+	Jahre / year
+	alt / old
+Mein mitbewohnerin ist neunzehn jahre alt
+
