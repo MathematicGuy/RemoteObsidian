@@ -15,7 +15,7 @@
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
-  "spaceViewEnabled": true,
+  "spaceViewEnabled": false,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
@@ -30,7 +30,7 @@
   "revealActiveFile": false,
   "spacesStickers": true,
   "spaceRowHeight": 29,
-  "spacesDisablePatch": false,
+  "spacesDisablePatch": true,
   "folderNoteInsideFolder": true,
   "sidebarTabs": true,
   "showRibbon": true,
@@ -62,8 +62,8 @@
   "inlineContextNameLayout": "vertical",
   "waypoints": [
     "Home",
-    "/",
-    "spaces://$tags"
+    "spaces://$tags",
+    "/"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
@@ -81,7 +81,7 @@
   "autoAddContextsToSubtags": true,
   "autoMigration08": false,
   "releaseNotesPrompt": 0.9,
-  "enableDefaultSpaces": true,
+  "enableDefaultSpaces": false,
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,

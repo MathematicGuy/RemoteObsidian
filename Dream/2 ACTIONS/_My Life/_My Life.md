@@ -8,6 +8,7 @@ _sort:
   asc: false
   group: false
 ---
+[[This Year Goal]]
 
 [[1 Shoot for the Star]]
 
@@ -25,10 +26,6 @@ _sort:
 
 [[Learn more about Myself]]
 
-[[My Dream]]
-
 [[Procrastinate (ADHD)]]
 
 [[Skills]]
-
-[[Styles]]

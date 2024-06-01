@@ -5,8 +5,37 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file: _focus",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"2 ACTIONS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"3 RESOURCES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14415696
+      }
+    },
+    {
+      "query": "path:\"4 ARCHIVES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11580848
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3347154725137729,
+  "scale": 0.39900836516749577,
   "close": true
 }

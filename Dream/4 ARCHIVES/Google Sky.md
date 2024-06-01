@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Opportunity to join Google Developer Student Club (GDSC) 
 
 **Là sinh viên trên địa bàn Hà Nội, có niềm đam mê Công nghệ và yêu thích GDSC-PTIT**

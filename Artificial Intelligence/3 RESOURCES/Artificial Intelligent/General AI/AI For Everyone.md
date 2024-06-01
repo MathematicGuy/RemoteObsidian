@@ -13,7 +13,7 @@
 # [[My AI Project]] 
 
 
-# [[Numpy]] 
+# [[Numpy Doc]] 
 
 
 # [[AI and Society]] 

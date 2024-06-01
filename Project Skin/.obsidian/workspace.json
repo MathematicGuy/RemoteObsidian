@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd4abd8305218a1",
+        "id": "d4a9efeb81642aab",
         "type": "tabs",
         "children": [
           {
-            "id": "ac3fa908f47bb579",
+            "id": "2c04dd7e367fa086",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ac3fa908f47bb579",
+  "active": "2c04dd7e367fa086",
   "lastOpenFiles": [
     "Beginner to 1 Month Plance.md",
     "Plance Progression.md",
