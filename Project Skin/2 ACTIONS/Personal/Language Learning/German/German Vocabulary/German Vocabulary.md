@@ -400,6 +400,22 @@ Der Vegetatier Excercise
 + Wir: We
 + Sie : "You" in plural
 + sie : "She" in singular and "They" in plural
+
+#WhatTheDifferent 
+**Dein vs Ihr** (both mean Your and use for calling out someone)
++ "Dein" is the familiar, used with family, children and animals and friend with whom are on familiar term.
+	Ex: Ich spiele gerne mit deinen Freunden ?  
+	1. kannst du kochen ? (note: "verb goes with kann become infinity verb -> thus kochst become kochen")
+	3. Was ist dein lieblingsessen - what is your favourite food ?
+
++ "Ihr" - is the polite form, especially superior or stranger.
+	for people you do not know.
+	Ex: Was ist Ihr Name?
+	1. Könnt Ihr kochen - can you cook
+	2. Du kannt mit mir studieren - you can learn/study with me
+	3. Was ist Ihr lieblingsessen - what is your favourite food ?
+
+
 ### Unit 5: Ask for directions
 + $ Key Phrase
 	Links - left
@@ -850,7 +866,7 @@ Basketball Basketball
 Volleyball Vollezball
 	Es tut mir leid, dein arzt spielt volleyball
 Singe/Singt/Singst sing
-F	Ich singe gern - I like to sing
+	Ich singe gern - I like to sing
 	Er singe sehr laut
 Gern like to/ do like to
 	Singst du gern - do you like to sing
@@ -892,7 +908,6 @@ Ins to the
 Gehe go (come after a verb)
 	Ich gehe tanzen, aber meine Frau hat keine lust
 Gehen go (géhen)
-	Möchtest du mit Oma und Opa ins Restaurant gehen
 	(Would you like to go to the restaurant with Grandma and Grandpa?)
 	Möchtest du am Sonntag ins Schwimmbad gehen
 hast have
@@ -1333,6 +1348,7 @@ Park park
 Gehen Sie - go 
 	Gehen Sie links bitte - go to the left 
 	Gehen Sie recht - go right
+	Gehen Sie hier recht - go right here
 Dann Links to the left
 	Gehen sie rechts und dann links - go right then go left 
 
@@ -1717,7 +1733,14 @@ Time - Verb - Subject
 + Ich trinke viel Kaffee, aber ich nacht immer Durst. Heute Abend trinke ich keinen Kaffee, Ich trinken nur Wasser.
 + Ich schlafe nachts nicht viel
 
-Wie ist Ihr Name = Wie heißen Sie
+#WhatTheDifferent 
+Both of these are interchangeable
++ Wie ist Ihr Name - What is your name 
++ Wie heißen Sie - What are your name
+Nenn - call (call some thing, call someone)
++ Bitte nenn mich ... - please call me ...
++ Ich nenne mich ... - I call my self ...
+
 Um wie viel Uhr ist Ihr Termin - At what time is your appointment
 	Use Ihr to when there're several people or people you know well
 
@@ -1754,4 +1777,15 @@ Geburtstagsgeschenk - birthday gift
 + Geburtstags: birthday
 + Geschenk: gift
 
+Hat 
+	Mein Sohn hat kopfschmerzen - my son have a headache
 
+### Unit 16: Use adverbs
+
+**Guide Book**
+Ich bin Vietnamesisch / I am a Vietnamese 
+Wir sind Amerikaner / we are American
+> in German no "ein" needed
+
+Psychologie - Psychology
+	Psychologie ist schwer - Psychology is difficult 

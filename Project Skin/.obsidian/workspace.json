@@ -10,6 +10,7 @@
           {
             "id": "2c04dd7e367fa086",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,38 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bd52516ea773c44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8a103af6642118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
               }
             }
           },
@@ -187,21 +216,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2c04dd7e367fa086",
+  "active": "bd52516ea773c44b",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Beginner to 1 Month Plance.md",
     "Plance Progression.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "Full Planche Workout Routine For Beginner.md",
     "Pasted image 20240530103206.png",
-    "_Focus/Todo.md",
     "German Dative Case.md",
     "Pasted image 20240530101044.png",
     "Pasted image 20240530100019.png",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Learning German Tips and Tricks.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Gefällt.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/German Freestyles.md",
@@ -218,7 +248,6 @@
     "2 ACTIONS/Personal/Language Learning/German.md",
     "4 ARCHIVES/2024/WebProject2024/Web Back-end WorkFlow.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Laguage Learning Tips.md",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/Vietnamese Vocab.md",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
     "3 RESOURCES/Untitled",
