@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a9efeb81642aab",
+        "id": "f9b9f192fe830fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "2c04dd7e367fa086",
+            "id": "cf7dd547edf507c4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,29 +23,11 @@
             }
           },
           {
-            "id": "bd52516ea773c44b",
+            "id": "8e23daf1f349b310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df8a103af6642118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German Vocab Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -124,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,7 +194,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bd52516ea773c44b",
+  "active": "8e23daf1f349b310",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "German Vocab Revision.md",
