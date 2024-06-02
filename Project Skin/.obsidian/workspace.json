@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b9f192fe830fc4",
+        "id": "35f7b5340d24ce86",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7dd547edf507c4",
+            "id": "b6f3368a6f1299f6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8e23daf1f349b310",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,9 +187,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8e23daf1f349b310",
+  "active": "b6f3368a6f1299f6",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Set Up Terminal.md",
+    "Pasted image 20240601234808.png",
+    "3 RESOURCES/GoodForLater/Good for LATER.md",
     "German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -223,9 +219,6 @@
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary 1.md",
-    "2 ACTIONS/Personal/Language Learning/German.md",
-    "4 ARCHIVES/2024/WebProject2024/Web Back-end WorkFlow.md",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/Laguage Learning Tips.md",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
     "3 RESOURCES/Untitled",
@@ -245,7 +238,6 @@
     "4 ARCHIVES/Images/Pasted image 20240523115834.png",
     "4 ARCHIVES/Images/Pasted image 20240523115616.png",
     "4 ARCHIVES/Images/architecture.png",
-    "4 ARCHIVES/Images/Pasted image 20240522013212.png",
     "4 ARCHIVES/2024/WebProject2024/WebProjectGroup5.canvas",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
