@@ -19,3 +19,5 @@ Small - Medium Project that keep changing constantly
 Normal Project that understand customer deeply
 > Water fall
 
+Install JIRA
+Learn more about Agile, Scrum, Sprint.
