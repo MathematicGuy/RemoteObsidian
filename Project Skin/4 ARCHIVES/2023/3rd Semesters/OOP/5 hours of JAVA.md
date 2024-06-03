@@ -51,6 +51,28 @@ The main difference between **primitive** and **non-primitive** data types a
 - **Biến nguyên thủy** `viết thường`, **Biến tham chiếu** `VIẾT HOA`
 
 
++ ? What the different between Float and Double
+```java
+public class Main {
+    public static void main(String[] args) {
+        // Declaring a float
+        float myFloat = 3.14f;
+        System.out.println("Float value: " + myFloat); // Outputs: Float value: 3.14
+
+        // Declaring a double
+        double myDouble = 3.14;
+        System.out.println("Double value: " + myDouble); // Outputs: Double value: 3.14
+
+        // Precision difference
+        float floatPrecision = 1234567.1234567f;
+        double doublePrecision = 1234567.1234567;
+        System.out.println("Float precision: " + floatPrecision); // May lose precision: 1234567.1
+        System.out.println("Double precision: " + doublePrecision); // Higher precision: 1234567.1234567
+    }
+}
+```
+
+
 # Strings (Chuỗi phần tử)
 ```java
 // Concatenate string (string1 + string2)
@@ -88,7 +110,6 @@ switch(expression) {
     // code block
 }
 ```
-
 
 ## The Do/While Loop (Làm cái này, Khi {đk} )
 ```java
