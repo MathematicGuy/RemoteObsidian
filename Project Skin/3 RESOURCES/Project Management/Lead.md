@@ -1,3 +1,7 @@
+---
+tags: ""
+sticker: ""
+---
 **1. Planning and Direction**
 
 - **Project Goals:** **Define and communicate a clear vision for the project, including its purpose**, user needs, and expected outcomes.

@@ -575,7 +575,7 @@ cars.clear();
 ```java
 cars.size();
 ```
-##### Loop Through an ArrayList 
+##### Loop Through an ArrayLit 
 ###### -> use get() method 
 ```java
   for (int i = 0; i < cars.size(); i++) {
@@ -600,7 +600,36 @@ import java.util.Collections;  // Import the Collections class
 Collections.sort(cars);  // Sort cars
 ```
 
+Example function
+```java
+    public static void main(String[] args) {
+        // define array length
+        char vowels[] = new char[6];
+        // or
+        char vowels1[] = {};
+        
+        vowels[0] = 'H';
+        vowels[1] = 'E';
+        vowels[2] = 'N';
+        vowels[3] = 'T';
+        vowels[4] = 'A';
+        vowels[5] = 'I';
+```
+##### Clone
+> copy one to array to another
+```java
+		// copy one to array to another
+		vowels1 = vowels.clone(); 
+		System.out.println(vowels1); // output: HENTAI 
+```
+##### Merge Chars to Str
+```java
+	  String word = Arrays.toString(vowels);
+	  System.out.println(word); // output: [H, E, N, T, A, I]
+```
+
 # Linked List
+
 Source: [Java LinkedList (w3schools.com)](https://www.w3schools.com/java/java_linkedlist.asp
 
 > The `LinkedList` class is almost identical to the `ArrayList` (same interface)

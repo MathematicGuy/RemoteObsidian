@@ -14,6 +14,7 @@ _links:
   - IT Project Management.md
   - Blog WebApp Bugs and Notice.md
   - Summer_2023_2024 Mobile_Project.md
+  - 3 RESOURCES/Project Management/Lead.md
 _sort:
   field: rank
   asc: false

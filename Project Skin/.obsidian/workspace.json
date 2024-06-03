@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ecc7d10061ba51f",
+        "id": "7649cb979964065a",
         "type": "tabs",
         "children": [
           {
-            "id": "52df2b1d016fa0f7",
+            "id": "34c02d32e8c4630f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "eaab995aadc55723",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,39 +194,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52df2b1d016fa0f7",
+  "active": "eaab995aadc55723",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "3 RESOURCES/Project Management/Lead.md",
+    "3 RESOURCES/Project Management/roles/BE.md",
+    "2 ACTIONS/Personal/Personal.md",
+    "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
+    "1 PROJECTS/CMC Summer 2024/CMC.md",
+    "Spaces/Vault.md",
+    "Spaces/Pasted image 20240603111121.png",
+    "Spaces/third person form - german.md",
+    "4 ARCHIVES/2024/WebProject2024/My Assignment_Management Back-end Documentation.md",
+    "1 PROJECTS/CMC Summer 2024/Summer_2023_2024 Mobile_Project.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "2 ACTIONS/Personal/Interest/Books/Good Read.md",
-    "_Focus/Todo.md",
-    "Pasted image 20240603111121.png",
     "2 ACTIONS/Goal/Goal Archive.md",
     "JAVA Project SetUp.md",
-    "third person form - german.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "German Vocab Revision.md",
-    "Set Up Terminal.md",
-    "Pasted image 20240601234808.png",
+    "Spaces/German Vocab Revision.md",
+    "Spaces/Set Up Terminal.md",
+    "Spaces/Pasted image 20240601234808.png",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "Beginner to 1 Month Plance.md",
-    "Plance Progression.md",
+    "Spaces/Beginner to 1 Month Plance.md",
+    "Spaces/Plance Progression.md",
     "2 ACTIONS/Workout/Calisthenics.md",
-    "Full Planche Workout Routine For Beginner.md",
-    "Pasted image 20240530103206.png",
-    "German Dative Case.md",
-    "Pasted image 20240530101044.png",
-    "Pasted image 20240530100019.png",
+    "Spaces/Full Planche Workout Routine For Beginner.md",
+    "Spaces/Pasted image 20240530103206.png",
+    "Spaces/German Dative Case.md",
+    "Spaces/Pasted image 20240530101044.png",
+    "Spaces/Pasted image 20240530100019.png",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Note/Learning German Tips and Tricks.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Note/Gefällt.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Note/German Freestyles.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Note/German Note.md",
-    "3 RESOURCES/Web/Web Project/BlogPost Design Concept.md",
-    "3 RESOURCES/Web/Web Project/Blog with ASAP.NET.md",
-    "3 RESOURCES/Web/Web Project/Blog WebApp Project Overview.md",
-    "3 RESOURCES/Web/Web Project/Blog WebApp Bugs and Notice.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
