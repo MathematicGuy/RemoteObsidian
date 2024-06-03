@@ -82,7 +82,7 @@
   "openSpacesOnLaunch": true,
   "indexSVG": false,
   "quickFrames": [],
-  "readableLineWidth": false,
+  "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": false,
   "releaseNotesPrompt": 0.9,
