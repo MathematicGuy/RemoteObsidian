@@ -140,6 +140,9 @@ Kein Problem no problem
 	ich keine
 	du keinst
 	er / Ihr keinen
+	Kein (don't/no)
+
+nicht (not)
 
 Es tut mir leid! I'm sorry (ét tút mi like)
 guten tag good day
@@ -1265,6 +1268,11 @@ Die Apfelschorle - sparkling apple juice
 
 Hunger hungry (spell as : hung ger)
 Apfelkuchen sparkling apple juice
+Apfelkuchen 
+	Apfel apple
+	Kuchen cake
+
+
 Glas glass
 Mich me
 	Für mich ein Glas Rotwein - for me a glass of red wine
@@ -1291,10 +1299,11 @@ Ohne without
 	+ ? Ich möchte ein Wasser ohne Zucker trinken - I would like to drink water without sugar (Why use ein in this sentence?)
 	+ Das Eis kostet ohne Zucker fünfundacht dollar 
 Obstsalat - fruit salad
-süß sweet
+Süß sweet
 	Ist der Nachtisch mit Sechs Kilo Zucker zu süß
-
+	
 Getrennt separately (noun)
++ ? Zahlen use in "to pay" context
 	Zahlen Sie Getrennt - Are you paying separately
 	Zahlen Sie Zusammen oder Getrennt - Are you paying together or seperately 
 
@@ -1828,14 +1837,12 @@ Monate - months
 Intelligent - intelligent
 	Mein Freudin ist intelligent und spielt Klavier
 
-
-
 Arbeitest
 	Arbeitest du im sommer in Zürich ? 
 	> Are you working in the Zurich in the summer
 + ? "Arbeit" goes with "du" -> Arbeitest (work)
 
-Deutsche - Female German (men from german)
+Deutsche - Female German (men from german or german in general)
 (người đức)
 	different from Deutsch which only mean German
 Deutscher - Male German (women from german)
@@ -1843,3 +1850,16 @@ Deutscher - Male German (women from german)
 Amerikanerin - American "people"
 	Dan ist Amerikaner und er arbeitet in New York 
 + ? Use "Arbeitet" in [[third person form - german]]
+
+Die Eltern - the parent
+
+Seine Freunde - His friend
+	Seine - His
+Ihre Her
+
+Lustig - funny
+Sind is used in second-person plural 
+> Seid - are () 
+
+Freundlich - friendly
+

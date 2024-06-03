@@ -5,7 +5,7 @@ banner: Images/Pasted image 20240402135259.png
 #Todo 
 
 
-#Todo/Priority 
+	#Todo/Priority 
 - [ ] Understand Artificial Neural Network 
 - [ ] Linear Algebra using Numpy (Basic Matrix Operation, Gaussian Elimination, Dot Product, Tranpose Vector)
 - [ ] Learn Basic of Java

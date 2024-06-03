@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "eaab995aadc55723",
+            "id": "7799e809248a59ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "7799e809248a59ac",
+            "id": "cc2d99f3080c6e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
+                "file": "3 RESOURCES/GoodForLater/Good for LATER.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.50940704345703
+    "width": 380.50940704345703,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+                "file": "3 RESOURCES/GoodForLater/Good for LATER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+                "file": "3 RESOURCES/GoodForLater/Good for LATER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md"
+                "file": "3 RESOURCES/GoodForLater/Good for LATER.md"
               }
             }
           },
@@ -215,16 +216,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eaab995aadc55723",
+  "active": "cc2d99f3080c6e28",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
+    "1 PROJECTS/CMC Summer 2024/Ultimate Project 2025.md",
+    "1 PROJECTS/1.5 Years Look Back Video Project.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "3 RESOURCES/Project Management/Lead.md",
     "3 RESOURCES/Project Management/roles/BE.md",
@@ -239,12 +244,8 @@
     "2 ACTIONS/Personal/Interest/Books/Good Read.md",
     "2 ACTIONS/Goal/Goal Archive.md",
     "JAVA Project SetUp.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "Spaces/Set Up Terminal.md",
     "Spaces/Pasted image 20240601234808.png",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "Spaces/Beginner to 1 Month Plance.md",
     "Spaces/Pasted image 20240530103206.png",
     "Spaces/Pasted image 20240530101044.png",
     "Spaces/Pasted image 20240530100019.png",

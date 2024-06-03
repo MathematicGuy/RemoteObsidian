@@ -90,3 +90,25 @@ Deutscher / Female German (women from german)
 Amerikanerin - American "people"
 	Dan ist Amerikaner und er arbeitet in New York 
 + ? Use "Arbeitet" in [[third person form - german]].
+
+Kanadier - canadian (canada's people)
+
+Eltern parent
+Seiner His
+	Wie alt seiner Eltern
+Ihre her
+	Sind Ihre Eltern jung oder alt
+
+Lustig - funny
+Nett
+
+Zahlen
+Zusammen
+Getrennt
+	Zahlen sie Zusammen oder Getrennt - are you guy paying together or seperately
+
+Lebt - live
+Berlin, Chicago, Paris
+(make a sentence meaning people live in Berlin)
+> Bett und Susan, sind Ihr lebt in Chicago order Berlin
+ 

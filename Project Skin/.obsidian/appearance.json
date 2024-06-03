@@ -7,7 +7,7 @@
   "textFontFamily": "Inter",
   "interfaceFontFamily": "Raleway",
   "baseFontSize": 16,
-  "nativeMenus": false,
+  "nativeMenus": true,
   "baseFontSizeAction": true,
   "showViewHeader": false
 }
