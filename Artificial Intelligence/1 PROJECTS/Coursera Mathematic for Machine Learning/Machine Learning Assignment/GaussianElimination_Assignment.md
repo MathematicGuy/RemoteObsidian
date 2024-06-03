@@ -11,9 +11,6 @@ Linear algebra is fundamental to machine learning, serving as the basis for nume
 - **Programming Practice**: Enhance your coding skills by implementing a classical mathematical algorithm.**
 - **Historical Significance**: Gaussian elimination, though not the most cutting-edge method today, is historically significant and provides a solid starting point for understanding the evolution of linear algebra techniques.
 
-
-
-
 # Outline
 - [ 1 - Introduction ](#1)
   - [ 1.1 How to complete this assignment](#1.1)
@@ -241,8 +238,8 @@ def get_index_first_non_zero_value_from_column(M, column, starting_row):
     - starting_row (int): The starting row index for the search.
 
     Returns:
-    int: The index of the first non-zero value in the specified column, starting from the given row.
-                Returns -1 if no non-zero value is found.
+	    int: The index of the first non-zero value in the specified column, starting from the given row.
+		Returns -1 if no non-zero value is found.
     """
     # Get the column array starting from the specified row
     column_array = M[starting_row:,column]

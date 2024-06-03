@@ -69,3 +69,24 @@ Zusammenfassung / summary, bản tóm tắt
 	Zusammen / together, cùng nhau
 	Fassung / version, phiên bản
 Zusammenfassung mean: reduced information content his
+
+
+Studierst 
+	Was studiert du? / what do you study
+
+Kind / child
+
+Sommer
+Zürich
+Arbeitest
+	Arbeitest du im sommer in Zürich ? 
+	> Are you working in the Zurich in the summer
+
+Deutsche - Male German (men from german)
+(người đức)
+	different from Deutsch which only mean German
+Deutscher / Female German (women from german)
+
+Amerikanerin - American "people"
+	Dan ist Amerikaner und er arbeitet in New York 
++ ? Use "Arbeitet" in [[third person form - german]].

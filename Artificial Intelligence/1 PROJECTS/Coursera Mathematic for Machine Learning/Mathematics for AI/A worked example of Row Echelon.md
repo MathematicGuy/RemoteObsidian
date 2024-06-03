@@ -49,7 +49,7 @@ $$R_0= \begin{bmatrix} 0 & 2 & 1 & | & 3 \end{bmatrix}$$
 
 The value in the main diagonal is the element $M[0,0]$ (the first element of the first column). The first row can be accessed by performing $M[0]$, i.e., $M[0] = R_0$.
 
-The first row operation involves **scaling by the pivot's inverse**. Since the value in the main diagonal is $0$, necessitating a non-zero value for scaling by its inverse, you must switch rows in this case. Note that $R_1$ has a value different from $0$ in the required index. Consequently, switching rows $0$ and $1$:
+The first row operation involves **scaling by the pivot's inverse**. Since the value in the main diagonal is $0$, necessitating (đòi hỏi) a non-zero value for scaling by its inverse, you must switch rows in this case. Note that $R_1$ has a value different from $0$ in the required index. Consequently, switching rows $0$ and $1$:
 
 $$R_0 \rightarrow R_1$$
 $$R_1 \rightarrow R_0$$
@@ -115,7 +115,7 @@ M =
 \end{bmatrix}
 $$
 
-Finally, normalizing the last row as
+Finally, normalizing the last row as (-2 come from the fomula: 1 /  n with n as -1/2 <=> 1 / (-1/2) == -2)
 
 $$R_2 = -2 \cdot R_2$$
 

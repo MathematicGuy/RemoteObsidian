@@ -16,6 +16,7 @@
               "state": {
                 "file": "_Focus.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
@@ -75,11 +76,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_My Life/_My Life.md",
+                "file": "_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_My Life/_My Life.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_My Life/_My Life.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -188,16 +191,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a8c10c353524c54",
+  "active": "5d4bb5afd483ebdf",
   "lastOpenFiles": [
+    "2 ACTIONS/_My Life/_My Life.md",
+    "2024-06-02.md",
+    "Head Space.md",
+    "_Focus.md",
     "2 ACTIONS/_My Life/Styles.md",
     "2 ACTIONS/_My Life/Inattentive ADHD.md",
-    "2 ACTIONS/_My Life/_My Life.md",
     "2 ACTIONS/_My Life/Deepthought.md",
     "2 ACTIONS/_My Life/Going to Space.md",
     "3 RESOURCES/_Question Mark/Reason why you not understand what they understand.md",
     "3 RESOURCES/_Question Mark/_Question Mark.md",
-    "_Focus.md",
     "4 ARCHIVES/4 ARCHIVES.md",
     "4 ARCHIVES/Asking Millionaires For The Shortcut To $1,000,000.md",
     "4 ARCHIVES/Chuẩn bị gì trước khi Triệt sản cho mèo.md",
@@ -214,8 +219,6 @@
     "4 ARCHIVES/_Social/Extreme competition and dark side of success in China.md",
     "3 RESOURCES/_Productivity & Improvement/4 Reasons Hard Work DOES NOT Beat Talent.md",
     "3 RESOURCES/_How To/_How To Study/How to study 2 hours a day and still ACE the Exams.md",
-    "3 RESOURCES/_Productivity & Improvement/2 Hours a Day but still ACE the Exams.md",
-    "2 ACTIONS/_My Life/1 Shoot for the Star.md",
     "Spaces/Home",
     "Spaces",
     "4 ARCHIVES/Spaces/Home",

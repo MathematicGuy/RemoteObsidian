@@ -15,7 +15,7 @@ sticker: emoji//1f5ef-fe0f
 	Tee und Brot, bitte
 	Danke, Tchüss
 	Tchüss
-
+what
 Und and
 Oder or
 Nein no8
@@ -760,6 +760,7 @@ Liebe Love
 + Jahre alt - years old
 	ich bin nicht sieben jahre alt - I am not seven years old
 	Wie alt bist du - how old are you?
+	Mein Tochter ist Sechzehn Jahre alt - my daughter is sixteen years old
 + hundert  - hundred
 	zwei hundred - two hundred
 + muss - must
@@ -1792,6 +1793,7 @@ Psychologie - Psychology
 
 Geschichte - history
 	Liebst du Geschichte? Ist es Interessant  
+	Sie Studieren Geschichte
 
 Studiert / mean study or major in a subject
 	Er studiert Informatik / you study computer science
@@ -1801,3 +1803,43 @@ Jahre alt / Year old
 	alt / old
 Mein mitbewohnerin ist neunzehn jahre alt
 
+Wie alt bist du ?
+	Wie - How
+	Alt - old, age
+	Wie alt - How old
+Wie alt sind sie ? - how old are they
++ ? Why "sie" mean they. Isn't "Sie" mean "you" which refering to respected people (strangers, docters, teachers, etc..). Yes "Sie"mean you and "sie" with "s" in lowercase mean "her" or "they".
+  
+Das Mädchen - the girl
+
+Kind - child
+	Wie alt ist das Kind - how old is the child
+
+Lustig - funny
+
+Fast - Almost
+	Das kind ist fast acht Jahre alt - The child is almost eight years old
+
+Baby - baby
+
+Monate - months
+	Das Baby ist fast siebzehn Monate alt - the baby is almost seventeen months old 
+
+Intelligent - intelligent
+	Mein Freudin ist intelligent und spielt Klavier
+
+
+
+Arbeitest
+	Arbeitest du im sommer in Zürich ? 
+	> Are you working in the Zurich in the summer
++ ? "Arbeit" goes with "du" -> Arbeitest (work)
+
+Deutsche - Female German (men from german)
+(người đức)
+	different from Deutsch which only mean German
+Deutscher - Male German (women from german)
+
+Amerikanerin - American "people"
+	Dan ist Amerikaner und er arbeitet in New York 
++ ? Use "Arbeitet" in [[third person form - german]]

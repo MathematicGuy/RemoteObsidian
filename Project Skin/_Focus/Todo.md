@@ -3,20 +3,16 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo 
-- [ ] Only set German tag to the Parent file 
-	- [ ] GermanVocab -> Vocab, GermanGrammar -> Grammar
-- [ ] Watch this AI Project demo: https://www.youtube.com/watch?v=wwTOFYgtAWg
 
 
-#Todo/Priority
-THING I WANT TO ACHIEVE THIS WEEK
-- [ ] Dinner with my class
-- [ ] Organize my Note (what video to for tips and tricks)
-- [ ] Chapter 1 and 2 SIC Program on LinkedIn
- 
+#Todo/Priority 
+- [ ] Understand Artificial Neural Network 
+- [ ] Linear Algebra using Numpy (Basic Matrix Operation, Gaussian Elimination, Dot Product, Tranpose Vector)
+- [ ] 
 
 #Todo/GoalsThisWeek
-
+- [ ] Set up Automation for Daily Plan 
+- [ ] Set up Microsoft 365 
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
@@ -28,7 +24,9 @@ THING I WANT TO ACHIEVE THIS WEEK
 
 
 
-#MyRule
+#MyRuleThat_I_SwearToLiveBy
+
+
 - [ ] No more Hades 2 after dying > 5 times a day (4/5 deaths) 
 - [ ] No more Hades2 after 7:00 PM
 

@@ -1,4 +1,3 @@
-w
 To Begin I will divided this into 2 part:
 + **The Algorithm as a Whole** and **Algorithm as Code**
 

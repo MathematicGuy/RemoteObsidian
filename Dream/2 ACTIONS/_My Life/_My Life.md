@@ -8,6 +8,8 @@ _sort:
   asc: false
   group: false
 ---
+[[Head Space]]
+
 [[This Year Goal]]
 
 [[1 Shoot for the Star]]
@@ -29,3 +31,4 @@ _sort:
 [[Procrastinate (ADHD)]]
 
 [[Skills]]
+
