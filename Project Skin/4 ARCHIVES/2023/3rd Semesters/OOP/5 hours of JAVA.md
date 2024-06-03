@@ -532,7 +532,7 @@ The Output will be
 	Before Formatting: 2023-09-04T14:37:46.662903  
 	After Formatting: 04-09-2023 14:37:46
 
-# ArrayList
+# Array List
 > The `ArrayList` class is a resizable [array](https://www.w3schools.com/java/java_arrays.asp), which can be found in the `java.util` package.
 
 Create an `ArrayList` object called **cars** that will store strings:
@@ -575,7 +575,7 @@ cars.clear();
 ```java
 cars.size();
 ```
-##### Loop Through an ArrayLit 
+##### Loop Through an Array List
 ###### -> use get() method 
 ```java
   for (int i = 0; i < cars.size(); i++) {
@@ -615,6 +615,7 @@ Example function
         vowels[4] = 'A';
         vowels[5] = 'I';
 ```
+
 ##### Clone
 > copy one to array to another
 ```java
@@ -628,9 +629,45 @@ Example function
 	  System.out.println(word); // output: [H, E, N, T, A, I]
 ```
 
+##### Binary Search
+> Search array's key index 
+```java
+	  // Sort the array before performing binary search
+	  Arrays.sort(vowels1);
+	  char key = 'H';
+	  // binarySearch can only work correctly if the array is sorted
+	  int foundedIndexItem = Arrays.binarySearch(vowels, key); 
+	  
+	  System.out.printf("Letter %s index: %d", key, foundedIndexItem); // Letter H index: 0
+}
+```
+
+#### copyOf(array, length) 
+> Create a new Array with n length and copy the old array to the new array. 
+```java
+		 // copy 3 parts of an Array
+		 char copyOfVowels[] = Arrays.copyOf(vowels, 3);
+		 System.out.println(Arrays.toString(copyOfVowels)); // [H, E, N]
+		
+		 char copyOfVowels[] = Arrays.copyOf(vowels, 10);
+	  	System.out.println(Arrays.toString(copyOfVowels)); // [H, E, N, T, A, I, , , , ]
+```
+
+##### copyOfRange(array, start, end) - (like slice() in Python)
+> get a specific elements out of an Array 
+```java
+        int start = 1;
+        int end = 4;
+        char copyOfVowels2[] = Arrays.copyOfRange(vowels, 1,4);
+        System.out.printf("Slide array %s index from %d to %d: %s ", word, start, end,  Arrays.toString(copyOfVowels2));
+```
+
+
+
+
 # Linked List
 
-Source: [Java LinkedList (w3schools.com)](https://www.w3schools.com/java/java_linkedlist.asp
+Source: [Java LinkedList (w3schools.com)](https://www.w3schools.com/java/java_linkedlist.asp)
 
 > The `LinkedList` class is almost identical to the `ArrayList` (same interface)
 ```java
