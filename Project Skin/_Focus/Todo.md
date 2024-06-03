@@ -8,7 +8,7 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/Priority 
 - [ ] Understand Artificial Neural Network 
 - [ ] Linear Algebra using Numpy (Basic Matrix Operation, Gaussian Elimination, Dot Product, Tranpose Vector)
-- [ ] 
+ - [ ] Learn Basic of Java
 
 #Todo/GoalsThisWeek
 - [ ] Set up Automation for Daily Plan 
@@ -99,19 +99,6 @@ https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH
 [[Obsidient System]]
 
 #Calithenic
-- [x] Tuck hold
-- [x] Psudo Planche
-- [ ] 15 - 20 Weighted Dip
-- [ ] Push-up with Weight Backpack (5-10 kilogram)
-- [ ] 10 - 15 Perfect Consecutive Pullup 
-- [ ] Tips: Start Step-by-step and start small (Slow and Steady)
-	**My Plance Pushup Roadmap**
-	first-thing-first: Hold your-self in a straight line. Control my body as they're 1 Unit 
-	- [x] Start by Balance my-self first
-	- [x] Psudo plance from 1-2 minutes
-	- [x] Body tuck from 1-2 minutes
-	- [x] Body tuck pushup from 12-20 reps
-		- [ ] Then increase gradually 5 more reps each 
 - [ ] **1st Milestone**
 	- [ ] 1-2 minutes: 90 Degree hold - Keep balancing myself and try to get to that point.
 	- [ ] Moving my wirst closer and closer to my hip and Keep that Plance position for 2 minutes.
@@ -120,5 +107,3 @@ https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH
 
 Luck 
 ![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
-
-[[Goal Archive]]

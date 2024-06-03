@@ -3,7 +3,7 @@
 note tư duy: Nếu muốn Cập Nhật thì lặp lại nó nhiều lần. VD đặt 1 timer và cứ mỗi ms sẽ update trạng thái của nút 1 lần. 
 # Java Type Casting (Kiểu Biến)
 ![[Pasted image 20230903200623.png]]
-
+(Data Type) DT lên tự động, DT xuống làm tay
 #### Widening Casting (Auto-Convert to Higher)
 ##### Đưa biến lên giá trị cao hơn. Chỉ cần đặt biến vào trong kiểu giá trị mới là xog. Biến đổi tự động 
 ==Done Automatically when passing a smaller size type to a larger size type.==
@@ -18,6 +18,7 @@ public class Main {
   }
 }
 ```
+
 #### Narrowing Casting (Manually Convert to Lower)
 ##### Đưa biến về giá trị thấp hơn bằng cách đặt (kiểu giá trị) trước biến đó
 >Done Manually by placing a parentheses in front of the value.
@@ -33,26 +34,29 @@ public class Main {
 }
 ```
 
-#### Access subclass fields from a base class in Java
 
-
-#### [Non-Primitive Data Types](https://www.w3schools.com/java/java_data_types_non-prim.asp) (Biến tham chiếu, kiểu biến không nguyên thủy)
-Non-primitive data types are called **reference types** because they refer to objects.  
+# Data Type
+Data types are divided into two groups:
+- Primitive data types - includes `byte`, `short`, `int`, `long`, `float`, `double`, `boolean` and `char`
+- Non-primitive data types - such as [String](https://www.w3schools.com/java/java_strings.asp), [Arrays](https://www.w3schools.com/java/java_arrays.asp) and [Classes](https://www.w3schools.com/java/java_classes.asp) 
+#### Non-Primitive Data Types (Biến tham chiếu, kiểu biến không nguyên thủy)
+> Non-primitive data types are called **reference types** because they refer to objects.  
+> Các kiểu không nguyên thủy có thể được sử dụng để gọi các phương thức nhằm thực hiện một số thao tác nhất định, trong khi các kiểu nguyên thủy thì không thể.
 
 The main difference between **primitive** and **non-primitive** data types are:
 - Biến nguyên thủy đc chỉ định tr'c. Biến tham chiếu phải tự chỉ định (ko tính String)
-- **Biến Nguyên Thủy KHÔNG dùng để GỌI ĐC nhưng biến Tham Chiếu thì CÓ**
+- Biến Nguyên Thủy Không Gọi Được nhưng biến Tham Chiếu thì CÓ
+
 - Biến nguyên thủy luôn có giá trị, biến tham chiếu có thể là `null`
 - **Biến nguyên thủy** `viết thường`, **Biến tham chiếu** `VIẾT HOA`
 
-Ví dụ cho biến tham chiếu (non-primitive type) [Strings](https://www.w3schools.com/java/java_strings.asp), [Arrays](https://www.w3schools.com/java/java_arrays.asp), [Classes,](https://www.w3schools.com/java/java_classes.asp) [Interface](https://www.w3schools.com/java/java_interface.asp), etc.
 
 # Strings (Chuỗi phần tử)
 ```java
 // Concatenate string (string1 + string2)
 .concat()
 
-.indexOf("a")
+.indexOf("a") # get the letter index of a string
 ```
 
 

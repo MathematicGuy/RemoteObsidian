@@ -1,2 +1,0 @@
-- [x] Try not to Argue with my self on doing This and That. Focus on how to enjoy and make the Best of what I got. Not Self Blamming.
-- [x] Test out if I could Learn to code using mind visualization and memorization. (code in my brain and process information + memorize it without coding)

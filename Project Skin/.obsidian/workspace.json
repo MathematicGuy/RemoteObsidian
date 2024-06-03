@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b95255fdd3521191",
+        "id": "662eb1799add6326",
         "type": "tabs",
         "children": [
           {
-            "id": "edb004a2557c522e",
+            "id": "cd0dbd8564b94c7d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/Todo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d0c08183ac119622",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Vocab Revision.md",
+                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German Vocab Revision.md",
+                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German Vocab Revision.md"
+                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md"
               }
             }
           },
@@ -182,10 +203,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "edb004a2557c522e",
+  "active": "d0c08183ac119622",
   "lastOpenFiles": [
-    "third person form - german.md",
     "_Focus/Todo.md",
+    "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+    "2 ACTIONS/Goal/Goal Archive.md",
+    "JAVA Project SetUp.md",
+    "third person form - german.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "German Vocab Revision.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
@@ -211,10 +235,7 @@
     "3 RESOURCES/Web/Web Project/Blog WebApp Project Overview.md",
     "3 RESOURCES/Web/Web Project/Blog WebApp Bugs and Notice.md",
     "3 RESOURCES/Git/Git.md",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary 1.md",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
     "3 RESOURCES/Untitled",
