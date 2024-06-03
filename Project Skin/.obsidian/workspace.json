@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "662eb1799add6326",
+        "id": "7ecc7d10061ba51f",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0dbd8564b94c7d",
+            "id": "52df2b1d016fa0f7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,19 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "d0c08183ac119622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -202,16 +189,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cd0dbd8564b94c7d",
+  "active": "52df2b1d016fa0f7",
   "lastOpenFiles": [
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+    "3 RESOURCES/GoodForLater/Good for LATER.md",
+    "2 ACTIONS/Personal/Interest/Books/Good Read.md",
     "_Focus/Todo.md",
+    "Pasted image 20240603111121.png",
     "2 ACTIONS/Goal/Goal Archive.md",
     "JAVA Project SetUp.md",
     "third person form - german.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "German Vocab Revision.md",
-    "3 RESOURCES/GoodForLater/Good for LATER.md",
     "Set Up Terminal.md",
     "Pasted image 20240601234808.png",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -233,7 +222,6 @@
     "3 RESOURCES/Web/Web Project/Blog with ASAP.NET.md",
     "3 RESOURCES/Web/Web Project/Blog WebApp Project Overview.md",
     "3 RESOURCES/Web/Web Project/Blog WebApp Bugs and Notice.md",
-    "3 RESOURCES/Git/Git.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
@@ -253,7 +241,6 @@
     "Untitled.canvas",
     "4 ARCHIVES/Images/Pasted image 20240523115834.png",
     "4 ARCHIVES/Images/Pasted image 20240523115616.png",
-    "4 ARCHIVES/Images/architecture.png",
     "4 ARCHIVES/2024/WebProject2024/WebProjectGroup5.canvas",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",

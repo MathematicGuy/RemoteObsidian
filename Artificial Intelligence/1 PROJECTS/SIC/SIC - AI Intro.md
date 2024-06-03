@@ -168,6 +168,7 @@ Why use Naive Bayes: its makes so few assumptions it can look in an enormous amo
 - **Sender**: Whether the email is from a known contact or not.
 - **Formatting**: Presence of images, links, and unusual formatting.
 Then calc the avg of each value to indicate if the mail is frau or not. 
+
 ### Benefits:
 - **Fast and Simple**: Quickly computes the probabilities and classifies emails.
 - **Effective**: Despite the independence assumption, it often performs well in practice.
@@ -202,6 +203,7 @@ Simple term:
 - **High Variance**: Occurs when the model is too complex and captures noise along with the underlying patterns in the data. This typically leads to overfitting, where the model performs well on the training data but poorly on the test data.
 	
 - **Low Variance**: Indicates that the model is stable and doesn't fluctuate significantly with changes in the training data, leading to consistent performance on both training and test data.
+
 #### The Bias-Variance Tradeoff
 The bias-variance tradeoff is a fundamental problem in supervised learning. The goal is to find a model that minimizes both bias and variance to achieve the best generalization performance.
 	![[Pasted image 20240530142108.png]]

@@ -1,6 +1,8 @@
 `Java Home: [Java Tutorial (w3schools.com)](https://www.w3schools.com/java/default.asp)
 
 note tư duy: Nếu muốn Cập Nhật thì lặp lại nó nhiều lần. VD đặt 1 timer và cứ mỗi ms sẽ update trạng thái của nút 1 lần. 
+
+
 # Java Type Casting (Kiểu Biến)
 ![[Pasted image 20230903200623.png]]
 (Data Type) DT lên tự động, DT xuống làm tay
@@ -73,13 +75,32 @@ public class Main {
 ```
 
 
-# Strings (Chuỗi phần tử)
+# Java Starting Template
+```java
+package JAVA.Learn; // package [ProjectFolder].[InnerFolder] (path to your java file)
+
+public class UserInput {  // file name
+
+    public static void main(String[] args){ // main function 
+        // call other function here
+    }
+}
+```
+
+# Java String (Chuỗi phần tử)
 ```java
 // Concatenate string (string1 + string2)
 .concat()
 
-.indexOf("a") # get the letter index of a string
+.indexOf("a") // get the letter index of a stringring
+
+.isEmpty() // check if string is empty
 ```
+
+```java
+string1.equalsIgnoreCase(string2); // check if 2 string is equal
+```
+![[Pasted image 20240603111121.png]]
 
 
 # Reading Input
