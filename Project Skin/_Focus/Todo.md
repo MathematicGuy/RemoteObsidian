@@ -25,8 +25,6 @@ $PRO#Todo
 
 
 #MyRuleThat_I_SwearToLiveBy
-
-
 - [ ] No more Hades 2 after dying > 5 times a day (4/5 deaths) 
 - [ ] No more Hades2 after 7:00 PM
 
