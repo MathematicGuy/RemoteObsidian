@@ -88,11 +88,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5b429f276e830688",
@@ -185,8 +187,8 @@
   },
   "active": "cb15fc481dc272ec",
   "lastOpenFiles": [
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "1 PROJECTS/SIC/SIC - AI Intro.md",
+    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
     "4 ARCHIVES/Thought & Ideas/Game AI.md",

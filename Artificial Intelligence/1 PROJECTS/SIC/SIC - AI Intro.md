@@ -150,7 +150,7 @@ Regression Analysis: *A supervised machine learning algorithm*
 (ex: relationship between dog sales and pet food sales -> So if the dog sales go up I should open a dog service store)
 
 
-**Naive Bayes Algorithm**
+**Naive Bayes Algorithm** (supervise learning)
 	It naive bc its Assumes that all the predictors are
 	independent from one another.
 Using dog breed for example
@@ -260,4 +260,43 @@ Example with Neural network determine the image is dog or not
 2. Determine the type of machine learning model you need, standard ML algorithms or artificial neural network.
 	Bc this is a classification problems: we would using K-Nearest Neighboor or Naive Bayes
 	![[Pasted image 20240530150041.png]]
+
+AI Type: 
++ ANI (Artificial Narrow Network)
++ AGI (Artificial General Intelligent)
++ ASI (Artificial Superntelligent)
+
+Trong khai thác dữ liệu, có bốn nhóm vấn đề chính mà các kỹ thuật khai thác dữ liệu thường giải quyết:
+
+In Data Mining, there're 4 main group of problems that data mining techniques typically address: 
+    Dự đoán (Prediction)
+    Phân loại (Classification)
+    Phân nhóm (Clustering)
+    Phân tích luật kết hợp (Association Rule Learning)
+
+Data Analysis in Machine Learning follow CRISP-DM (Cross-Industry Standard Process for Data Mining) Procedure  which include 6 steps:
+1)  **Hiểu biết về kinh doanh (Business Understanding)**
+	- Xác định mục tiêu và yêu cầu của dự án từ góc độ kinh doanh.
+	- Hiểu rõ vấn đề kinh doanh và các yếu tố ảnh hưởng đến nó.
+2)  **Hiểu biết về dữ liệu (Data Understanding)**
+	- Thu thập dữ liệu ban đầu và khám phá dữ liệu để hiểu rõ hơn về nó.
+	- Xác định các vấn đề chất lượng dữ liệu và hiểu rõ các thuộc tính của dữ liệu.
+
+3)  **Chuẩn bị dữ liệu (Data Preparation)**
+	- Làm sạch dữ liệu, chọn lọc các thuộc tính cần thiết và chuyển đổi dữ liệu vào dạng phù hợp.
+	- Kết hợp và tạo ra các đặc trưng mới nếu cần thiết.
+
+4)  **Mô hình hóa (Modeling)**
+	- Chọn và áp dụng các thuật toán học máy phù hợp.
+	- Huấn luyện các mô hình và tinh chỉnh tham số để tối ưu hóa hiệu suất.
+
+5)  **Đánh giá (Evaluation)**
+	- Đánh giá mô hình dựa trên các tiêu chí hiệu suất đã đặt ra.
+	- Xem xét xem mô hình có đáp ứng được yêu cầu kinh doanh hay không và điều chỉnh nếu cần.
+
+6)  **Triển khai (Deployment)**
+	- Triển khai mô hình vào môi trường thực tế.
+	- Theo dõi và bảo trì mô hình để đảm bảo nó hoạt động tốt theo thời gian.
+
+
 
