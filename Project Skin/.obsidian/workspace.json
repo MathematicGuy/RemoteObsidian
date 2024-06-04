@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e2afa96575c99d18",
+        "id": "ac328af463beb80f",
         "type": "tabs",
         "children": [
           {
-            "id": "daf0315e172be52f",
+            "id": "5520dfab589cd14a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "daf0315e172be52f",
+  "active": "5520dfab589cd14a",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/Set Up Terminal.md",
