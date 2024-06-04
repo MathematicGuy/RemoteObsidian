@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc04f1c5b45512d",
+        "id": "c56b1ce5bfa7d102",
         "type": "tabs",
         "children": [
           {
-            "id": "aa9dea0a72684087",
+            "id": "8f52a5784e20663e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,13 +189,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa9dea0a72684087",
+  "active": "8f52a5784e20663e",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "How to Run React Native with Android Studio.md",
     "Pasted image 20240604193336.png",
     "Pasted image 20240604193334.png",
-    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/v4 Java Core Youtube.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming.md",
