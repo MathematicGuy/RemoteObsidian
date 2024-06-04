@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7fe3cceb2966e6",
+        "id": "7458f53834238e95",
         "type": "tabs",
         "children": [
           {
-            "id": "a37b253afd93e0c5",
+            "id": "472ac1bccd2057c8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6d9f3ae7f7b99194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0baf692207ba48d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,12 +76,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 380.50940704345703,
-    "collapsed": true
+    "width": 380.50940704345703
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -124,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -216,8 +189,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0baf692207ba48d9",
+  "active": "472ac1bccd2057c8",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/v4 Java Core Youtube.md",
+    "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming.md",
     "_Focus/Todo.md",
     "Spaces/Set Up Terminal.md",
@@ -231,7 +206,6 @@
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
-    "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "3 RESOURCES/Project Management/Lead.md",
     "3 RESOURCES/Project Management/roles/BE.md",
@@ -244,7 +218,6 @@
     "1 PROJECTS/CMC Summer 2024/Summer_2023_2024 Mobile_Project.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "2 ACTIONS/Personal/Interest/Books/Good Read.md",
-    "2 ACTIONS/Goal/Goal Archive.md",
     "Spaces/Pasted image 20240601234808.png",
     "Spaces/Pasted image 20240530103206.png",
     "Spaces/Pasted image 20240530101044.png",

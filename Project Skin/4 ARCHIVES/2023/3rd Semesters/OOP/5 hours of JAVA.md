@@ -290,7 +290,7 @@ class Car extends Vehicle {
 ```
 
 
-+ ##### final: class that CANNOT be INHERITED by other class
++ ##### final: class that CANNOT be r by other class
 	```java
 	final class Exam{}
 	```
