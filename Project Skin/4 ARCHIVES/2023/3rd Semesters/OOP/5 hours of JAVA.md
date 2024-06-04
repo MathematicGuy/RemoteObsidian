@@ -171,7 +171,7 @@ for (int i = 0; i < 10; i++) {
 ```java
 int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
 ```
-
+> each `[]` represent a array. 
 
 # Method (Hàm, lấy tham số và cho ra kết quả)
 ##### static: belongs to the Main class and not the Obj itself
@@ -241,9 +241,7 @@ public class Main {
 
 # Modifier
 
-+ ##### public: *The class is accessible by ANY other class* 
-
-+ ##### private: *The code only accessible within the DECLARED class* 
+##### public: *The class is accessible by ANY other class* 
 ```java
 // Data can only be access in the Main class
 public class Main {
@@ -257,11 +255,16 @@ public class Main {
 		System.out.println("Name: " + myObj.fname + " " + myObj.lname);
 		System.out.println("Email: " + myObj.email);
 		System.out.println("Age: " + myObj.age);
-		}
+	}
 }
 ```
 
-+ ##### protected: *The code only accessible in the same package and SUBCLASSES*
+
+##### private: *The code only accessible within the DECLARED class* 
+
+
+
+##### protected: *The code only accessible in the same package and SUBCLASSES*
 ```java
 class Vehicle {
   protected String brand = "Ford";        // Vehicle attribute
