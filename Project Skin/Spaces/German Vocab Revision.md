@@ -111,4 +111,50 @@ Lebt - live
 Berlin, Chicago, Paris
 (make a sentence meaning people live in Berlin)
 > Bett und Susan, sind Ihr lebt in Chicago order Berlin
- 
+
+Ist das kind lustig / is the child funny
+
+Das Kind 
+Fast
+Jeden Tag - every day
+Fußball
+(the child play soccer everyday)
+	Das kind spielt fast jeden tag
+
+Seine
+Eltern
+Alt
+(How old is his parent)
+> Jinx Wie Alt Seine Eltern
+
+Lebt
+	Ihr (du in plural)
+Berlin
+	Tom und Sicko, Lebt Ihr ins Berlin ?
+
+Wer / who
+> Wer is das kind? / where is the child?
+> Wer is die pizza / where is the pizza?
+
+Studier
+Er
+Geschichte
+	Studiert Er Geschichte ? / Does he study history?
+
+Student / student
+Studiert / study
+
+
+Alt 
+Dein
+Sohn
+> Wie alt dein Sohn / How old is your son
+> Wie alt deine Tochter / How old is your daughter
+
+Das Mädchen - girl
+	modifies from "die Maid" the maiden which is feminine, but the **word "chen"** is diminutive (nhỏ bé) **always changes the gender to neuter "das"**. This is a immutable rule (luật ko thể thay đổi)
+	+ **Every word end with "chen" always takes "Das"**
+
+Lustig
+Intelligent
+	Das Mädchen ist lustig und intelligent

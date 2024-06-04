@@ -1863,3 +1863,5 @@ Sind is used in second-person plural
 
 Freundlich - friendly
 
+Time > Location (in German Sentence Hierachy)
+

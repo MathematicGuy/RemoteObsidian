@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "178ebfaac4cd0e73",
+        "id": "4f80ccc1b40136cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ad33bb6f9ad16fe3",
+            "id": "de620a94ba11041a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,11 +189,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ad33bb6f9ad16fe3",
+  "active": "de620a94ba11041a",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Ultimate Project 2025.md",
     "1 PROJECTS/1.5 Years Look Back Video Project.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
