@@ -2,10 +2,8 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-$PRO#Todo 
 
-
-	#Todo/Priority 
+#Todo/Priority 
 - [ ] Understand Artificial Neural Network 
 - [ ] Linear Algebra using Numpy (Basic Matrix Operation, Gaussian Elimination, Dot Product, Tranpose Vector)
 - [ ] Learn Basic of Java
@@ -43,7 +41,7 @@ $PRO#Todo
 + Single match in pair. They were asked to work through 36 questions and then stare into each other's eyes for four minutes. To see if they fall in love
 - [ ] Practice Trading using virtual money with [WeBull](https://www.webull.com/ko-yield/bdspecial?inviteCode=teswNy2AosKi&inviteSource=wb_inf&source=TradingLab&hl=en)
 
-https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH
+
 >  Giáo sư Andrew Huberman bàn luận với giáo sư Adam Grant về những chủ đề rất thiết thực liên quan đến tâm lý và thần kinh học như là cách để khai phá khả năng của con người, mặt trái của động lực nội tại, sự thật về tính chân thực (authenticity) cùng rất rất nhiều nội dung thú vị khác
 >  ![[Pasted image 20240416233229.png]]
 

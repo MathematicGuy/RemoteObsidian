@@ -102,6 +102,22 @@ string1.equalsIgnoreCase(string2); // check if 2 string is equal
 ```
 ![[Pasted image 20240603111121.png]]
 
+##### Java printf
+%s: This is used for strings.
+%d: This is used for integers.
+%f: This is used for floating point numbers.
+%c: This is used for characters.
+%b: This is used for boolean values.
+%e: This is used for scientific notation.
+%t: This is used for date and time conversions.
+`%%`: This is used to print a literal '%' character.
+```java
+String name = "Clos";
+int age = 223; 
+// Example
+System.out.printf("%s to %d", name, age);
+```
+
 
 # Reading Input
 ```java
@@ -553,6 +569,7 @@ public class Main {
     cars.add("Volvo");
     cars.add("BMW");
     cars.add("Ford");
+    
     cars.add("Mazda");
     System.out.println(cars);
   }
@@ -560,12 +577,24 @@ public class Main {
 ```
 ##### Access an Item -> .get(int)  refer to the index number
 ```java
-	cars.get(0) // ouput Volvo
+cars.get(0) // ouput Volvo
 ```
 ##### Change an Item
 ```java
 cars.set(0, "Opel");
 ```
+
+##### Check Items
+```java
+ArrayList<Integer> numbers = new ArrayList<Integer>();  
+numbers.add(3);  
+numbers.add(4);  
+numbers.add(5);  
+numbers.add(6);
+
+numbers.contains(Integer.valueOf(1); // ouput: False
+```
+
 ##### Remove an Item
 ```java
 cars.remove(0); // remove Opel
@@ -664,6 +693,7 @@ Example function
         char copyOfVowels2[] = Arrays.copyOfRange(vowels, 1,4);
         System.out.printf("Slide array %s index from %d to %d: %s ", word, start, end,  Arrays.toString(copyOfVowels2));
 ```
+
 
 
 
