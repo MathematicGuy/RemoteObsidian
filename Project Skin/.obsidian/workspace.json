@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "87953fe25d81914a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Set Up Terminal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Spaces/Set Up Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Spaces/Set Up Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Spaces/Set Up Terminal.md"
               }
             }
           },
@@ -189,11 +203,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "de620a94ba11041a",
+  "active": "87953fe25d81914a",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "Spaces/Set Up Terminal.md",
+    "Power Bi.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Ultimate Project 2025.md",
     "1 PROJECTS/1.5 Years Look Back Video Project.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
@@ -216,8 +232,6 @@
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "2 ACTIONS/Personal/Interest/Books/Good Read.md",
     "2 ACTIONS/Goal/Goal Archive.md",
-    "JAVA Project SetUp.md",
-    "Spaces/Set Up Terminal.md",
     "Spaces/Pasted image 20240601234808.png",
     "Spaces/Pasted image 20240530103206.png",
     "Spaces/Pasted image 20240530101044.png",
