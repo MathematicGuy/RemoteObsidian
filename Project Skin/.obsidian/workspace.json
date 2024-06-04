@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7458f53834238e95",
+        "id": "4fc04f1c5b45512d",
         "type": "tabs",
         "children": [
           {
-            "id": "472ac1bccd2057c8",
+            "id": "aa9dea0a72684087",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -76,12 +76,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.50940704345703
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -189,12 +189,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "472ac1bccd2057c8",
+  "active": "aa9dea0a72684087",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "How to Run React Native with Android Studio.md",
+    "Pasted image 20240604193336.png",
+    "Pasted image 20240604193334.png",
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/v4 Java Core Youtube.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming.md",
-    "_Focus/Todo.md",
     "Spaces/Set Up Terminal.md",
     "Power Bi.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -206,7 +210,6 @@
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
-    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "3 RESOURCES/Project Management/Lead.md",
     "3 RESOURCES/Project Management/roles/BE.md",
     "2 ACTIONS/Personal/Personal.md",
@@ -217,7 +220,6 @@
     "4 ARCHIVES/2024/WebProject2024/My Assignment_Management Back-end Documentation.md",
     "1 PROJECTS/CMC Summer 2024/Summer_2023_2024 Mobile_Project.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
-    "2 ACTIONS/Personal/Interest/Books/Good Read.md",
     "Spaces/Pasted image 20240601234808.png",
     "Spaces/Pasted image 20240530103206.png",
     "Spaces/Pasted image 20240530101044.png",
@@ -239,8 +241,6 @@
     "Pasted image 20240525091015.png",
     "_Focus/This is my Life.canvas",
     "Untitled.canvas",
-    "4 ARCHIVES/Images/Pasted image 20240523115834.png",
-    "4 ARCHIVES/Images/Pasted image 20240523115616.png",
     "4 ARCHIVES/2024/WebProject2024/WebProjectGroup5.canvas",
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
