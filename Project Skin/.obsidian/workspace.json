@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e67378a42a2bccf",
+        "id": "34557a78115d6fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "2b1dab12f41bd1dc",
+            "id": "11b42ca8e9e4065e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2b1dab12f41bd1dc",
+  "active": "11b42ca8e9e4065e",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Psychology/Psychology.md",
