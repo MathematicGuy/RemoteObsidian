@@ -53,7 +53,6 @@ The first row operation involves **scaling by the pivot's inverse**. Since the v
 
 $$R_0 \rightarrow R_1$$
 $$R_1 \rightarrow R_0$$
-
 Resulting in the updated augmented matrix:
 
 $$
@@ -69,7 +68,7 @@ Now, the pivot is already $1$, eliminating the need for row scaling. Following t
 
 $$ R_1 \rightarrow  R_1 - 0 \cdot R_0 = R_1$$
 
-Therefore, the second row remains unchanged. Moving to the third row ($R_2$), the value in the augmented matrix below the pivot from $R_0$ is $M[2,0]$, which is $1$.
+Therefore, the second row remains unchanged. Moving to the third row ($R_2$), the value in the augmented matrix below the pivot from $R_0$ is $M[2,0]$, which is $1$. 
 
 $$R_2 = R_2 - 1 \cdot R_0 = \begin{bmatrix} 0 & 1 & 0 & | & 6  \end{bmatrix}$$
 

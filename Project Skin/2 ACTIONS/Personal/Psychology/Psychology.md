@@ -11,6 +11,7 @@ _sort:
 
 Jaden - being over excited and pranoid. THinking I'm the one who pushing him put of the window. It was him telling him-self in the head. 
 -> I must convince him to know the true. 
-
++ ? He not paranoid. A friend of mine kill him. Jesus Malisus
 
 What I say to my mentally Ills Clients will impacts them a lot. (Mostly bc they are lonly and will trust anything I sayed)
+

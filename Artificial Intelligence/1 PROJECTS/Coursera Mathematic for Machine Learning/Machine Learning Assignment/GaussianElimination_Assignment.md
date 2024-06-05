@@ -34,11 +34,7 @@ Linear algebra is fundamental to machine learning, serving as the basis for nume
 - [ 7 - Test with any system of equations!](#7)
 
 
-<a name="1"></a>
-## 1 - Introduction 
 
-
-<a name="1.1"></a>
 ### 1.1 How to complete this assignment
 
 This is the first assignment in the Math for Machine Learning and Data Science specialization! Let's quickly go over how it works.
@@ -63,8 +59,7 @@ Gaussian elimination offers a systematic approach to solving systems of linear e
 - For simplicity, the algorithm you will develop here will only work on **non-singular** systems of equations, i.e., equations that have a unique solution.
 - Remember you can check if a matrix is singular or not by computing its determinant.
 
-### Step 1: Augmented Matrix
-
+### Step 1: [[Augmented Matrix]] (tạo ma trận tăng cường)
 Consider a system of linear equations:
 
 $$
@@ -145,7 +140,6 @@ This section introduces three auxiliary functions crucial for facilitating your 
 
 <a name="3.1"></a>
 ### 3.1 - Function swap rows
-
 This function has as input a [numpy array](https://numpy.org/doc/stable/reference/generated/numpy.array.html) and two indexes to swap the rows corresponding to those indexes. It **does not change the original matrix**, but returns a new one.
 
 
@@ -161,15 +155,39 @@ def swap_rows(M, row_index_1, row_index_2):
     """
 
     # Copy matrix M so the changes do not affect the original matrix. 
-    M = M.copy()
+    M_copy = M.copy()
     # Swap indexes
-    M[[row_index_1, row_index_2]] = M[[row_index_2, row_index_1]]
-    return M
+    M_copy[[row_index_1, row_index_2]] = M[[row_index_2, row_index_1]]
+    return M_copy
+```
+Detail example swap_row work:
+```python
+'''
+example augmented_matrix:
+[[ 2.  3.  5. 12.]
+ [-3. -2.  4. -2.]
+ [ 1.  1. -2.  8.]]
+'''
+ 
+# This mean get row 1 to row 2 of M_copy Matrix 
+print(M_copy[[row_index1, row_index2]]) 
+''' output1
+[[-3. -2.  4. -2.]
+ [ 2.  3.  5. 12.]]
+'''
+
+# This mean get row 2 to row 1 of M_copy Matrix 
+print(M_copy[[row_index2, row_index1]]) 
+''' output2
+[[ 2.  3.  5. 12.]
+ [-3. -2.  4. -2.]]
+'''
+# after that swap row with M_copy Matrix so the original matrix M not get modified
+M_copy[[row_index_1, row_index_2]] = M[[row_index_2, row_index_1]]
 ```
 
+
 Let's practice with some examples. Consider the following matrix $M$.
-
-
 ```python
 M = np.array([
 [1, 3, 6],
@@ -213,7 +231,7 @@ $$
 \end{bmatrix}
 $$
 
-Performing a row swap between indexes 2 and 3 (remember, indexing starts at 0!), the matrix transforms into:
+Performing a row swap between indexes 2 and 3 (remember, indexing starts at 0), the matrix transforms into:
 
 $$
 \begin{bmatrix}
@@ -477,7 +495,7 @@ M =
 \end{bmatrix}
 $$
 
-Here, the asterisk (*) denotes any number. To nullify the last row (row $2$), two steps are required:
+Here, the asterisk ( * ) denotes any number. To nullify the last row (row $2$), two steps are required:
 
 - Scale $R_1$ by the inverse of the pivot:
 
@@ -637,7 +655,6 @@ Finally, normalizing the last row as
 $$R_2 = -2 \cdot R_2$$
 
 The resulting matrix is
-
 $$
 M = 
 \begin{bmatrix} 
@@ -648,15 +665,12 @@ M =
 $$
 
 Thus, the matrix is now in row echelon form with unitary pivots.
-
 Now you are ready to go! You will implement such algorithm in the following exercise.
 
 <a name="ex01"></a>
 ### Exercise 1
 
 This exercise involves implementing the elimination method to convert a matrix into row-echelon form. As discussed in lectures, the primary approach involves inspecting the values along the diagonal. If they equate to $0$, an attempt to swap rows should be made to obtain a non-zero value.
-
-
 
 ```python
 # GRADED FUNCTION: row_echelon_form

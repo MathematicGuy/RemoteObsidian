@@ -37,7 +37,7 @@ M =
 \phantom{-}0 & \phantom{-}0 & \phantom{-}1 & | & -1
 \end{bmatrix}
 $$ 
-+ [[A work example of Back-Substitution]] 
++ [[A work example of Back-Substitution]] (like row echolon but from bottom up)
 + ? To see 2 example all at one. Open 2 file and Drag them side-by-side for the full experience.
 
 
@@ -48,9 +48,9 @@ $$
 3) For each Row in the augmented_matrix
 	+ Select value in the diagnol as the candidate Pivot
 	+  If the Pivot is zero then
-		get the index of the first non-zero value below the pivot
-		Swap the current row with founded row index  
-		Re-define the Pivot. (Because the diagnol value has been changed when rows swapped)  
+			get the index of the first non-zero value below the pivot
+			Swap the current row with founded row index  
+			Re-define the Pivot. (Because the diagnol value has been changed when rows swapped)  
 	+  Else Pivot = candidate_pivot
 	+  pivot_row = Divide the current Row to its pivot (Ex: R1 = 1/pivot * R1)
 	+ Perform row reduction **for each rows below the current row**
@@ -64,7 +64,7 @@ $$
 2) Iterate from bottom to top (for each row of the matrix in reverse)
 	+ for each row of the matrix **in reverse** (row order: 3,2,1)
 		**substitution_row** = row (start with 3)
-		**index** = first non-zero value from the substitution_row 
+		**index** = first non-zero value from the substitution_row s
 		for each row above the substitution_row (Ex: range = 3, rows = 2,1,0)
 			**row_to_reduce** = row 
 			get the **value** above **index**

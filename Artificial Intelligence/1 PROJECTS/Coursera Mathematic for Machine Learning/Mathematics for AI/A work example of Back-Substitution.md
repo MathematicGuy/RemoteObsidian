@@ -1,3 +1,4 @@
+Row Echelon Matrix
 $$
 M = 
 \begin{bmatrix} 
@@ -8,9 +9,7 @@ M =
 $$
 
 Starting from bottom to top:
-
-- $R_2$ :
-
+$R_2$ :
 - $R_1 = R_1 - 1 \cdot R_2 = \begin{bmatrix} 0 & 1 & 0 & | & 0 \end{bmatrix}$
 - $R_0 = R_0 - \frac{1}{2} \cdot R_1 = \begin{bmatrix} 1 & -\frac{1}{2} & 0 & | & 1 \end{bmatrix}$
 
@@ -26,8 +25,7 @@ M =
 $$
 
 Moving to $R_1$ :
-
-- $R_1$ :
+$R_1$ :
 
 - $R_0 = R_0 - \left(-\frac{1}{2} R_1 \right) = \begin{bmatrix} 1 & 0 & 0 & | & 1 \end{bmatrix}$
 

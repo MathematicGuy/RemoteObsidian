@@ -300,3 +300,18 @@ Data Analysis in Machine Learning follow CRISP-DM (Cross-Industry Standard Proce
 
 
 
+**Edge AI:** refers to **the deployment of AI algorithms and AI models directly on local edge devices such as sensors or Internet of Things (IoT) devices**,
+	![[Pasted image 20240605083958.png]]
+Benefit of Edge AI:
++ **Intelligent**: ofc
++ **Real-time Insight**: since edge tech analyzes data locally rather than from the cloud.
++ **Reduced cost**: power closer to edge thus making power efficiency.
++ **Increased privacy**: 
+GAN (Generative adversarial networks)
+
+#### [[Autonomous]]
+> The Society of Automotive Engineers (SAE) defines **6 levels** of driving automation ranging from 0 (fully manual) to 5 (fully autonomous.
++ ? [Automation Pyramid](https://www.rnaautomation.com/insight/the-five-level-automation-pyramid-transforming-factories-of-the-future/)
+
+
+
