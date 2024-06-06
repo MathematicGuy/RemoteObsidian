@@ -22,24 +22,24 @@
             }
           },
           {
-            "id": "1c53af6568647393",
+            "id": "08f7648a8ae97ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation.md",
+                "file": "K-Means Clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b2f553d7391b90b",
+            "id": "80230c0e805d4545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+                "file": "K-nearest neighbor.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+                "file": "K-nearest neighbor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+                "file": "K-nearest neighbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md"
+                "file": "K-nearest neighbor.md"
               }
             }
           },
@@ -197,20 +197,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b2f553d7391b90b",
+  "active": "80230c0e805d4545",
   "lastOpenFiles": [
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+    "K-Means Clustering.md",
+    "Pasted image 20240605173557.png",
+    "Pasted image 20240605173537.png",
+    "Pasted image 20240605173403.png",
+    "Pasted image 20240605173335.png",
+    "Pasted image 20240605173332.png",
+    "Pasted image 20240605173231.png",
+    "Pasted image 20240605173248.png",
+    "Pasted image 20240605173000.png",
+    "Pasted image 20240605172707.png",
+    "Pasted image 20240605172140.png",
+    "1 PROJECTS/SIC/SIC - AI Intro.md",
+    "K-nearest neighbor.md",
+    "3 RESOURCES/CMC/CMC AI INTRO.md",
+    "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Problems.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
     "Augmented Matrix.md",
-    "2 ACTIONS/_Focus.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Row Echelon Form Algorithm.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A work example of Back-Substitution.md",
-    "1 PROJECTS/SIC/SIC - AI Intro.md",
     "Autonomous.md",
-    "Pasted image 20240605083958.png",
     "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI.md",
     "4 ARCHIVES/Thought & Ideas/Game AI.md",
@@ -222,19 +234,6 @@
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
     "Python.md",
     "1 PROJECTS/SIC/SIC.md",
-    "Pasted image 20240601230835.png",
-    "Pasted image 20240601230235.png",
-    "Pasted image 20240601230122.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
-    "Numpy.md",
-    "SIC Day 1 - Mathematic in Data Science.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
-    "Pasted image 20240601192708.png",
-    "Pasted image 20240601191056.png",
-    "Pasted image 20240531152019.png",
-    "Pasted image 20240531151758.png",
-    "Pasted image 20240531151157.png",
-    "Pasted image 20240531151040.png",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",

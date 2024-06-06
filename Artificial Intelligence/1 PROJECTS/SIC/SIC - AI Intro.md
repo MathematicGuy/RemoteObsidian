@@ -98,9 +98,8 @@ Ex: In the situation classifying a bag of candy that contain both knowed and unk
 The biggest advantage of clustering is there's a lot more unlabeled data. Cluster data can see pattern that human unable to create.
 
 ## Reinforcement Learning
-	Machine learning algorithms that use rewards
-	as a way to give the system incentive (khich lệ) to find
-	new patterns
+> Machine learning algorithms that use rewards as a way to give the system incentive (khich lệ) to find new patterns
+
 Ex: The Algo track **how long** u listen to a song, **type of song** you listen -> the reward for recommending those songs increased, meaning the system will recommed more song similar to the listened song. This is a example of Q-Learning:
 ![[Pasted image 20240528153507.png]]
 + **Reinforment learning** can **create strategies to find better patterns** in the data (live). **Unsupervised learning** just **tries to create clusters based on what it already sees** in the datas.
@@ -112,7 +111,7 @@ Ex: The Algo track **how long** u listen to a song, **type of song** you listen 
 	Find the **right algorithm** for each **task**
 -> Mix/Use the algorithm to get the best insight for your datas
 
-**K-nearest neighbor** (KNN)
+**[[K-nearest neighbor]]** (KNN)
 	Algorithm plot new data to the one you already had.
 	Euclidean Distance
 		A mathematical formula that can help see the
@@ -121,10 +120,15 @@ Ex: The Algo track **how long** u listen to a song, **type of song** you listen 
 		![[Pasted image 20240528161058.png]]
 + $ Classify unknown data against the closest data that you do know.
 	This old saying is **one of the best ways to remember the key strength of K Nearest Neighbor**. This machine learning algorithm is a **quick way to classify data that's similar and might “flock together.”**
+	
++ $ How K Nearest Neightbor work in short:
+	Compare Distant between every point of A and Distant between everypoint of B to know what X is A or B.  ![[Untitled 1.png]]
++ Weak again noise. Nếu số K ít.
++ Optimize K?
 
 
 
-**K-Means Clustering**
+**[[K-Means Clustering]]**
 	It's an unsupervised machine learning algorithm. It's used to create clusters based on what the machine sees in the data.
 Ex: you want to cluster 3 groups of dog to send to 3 shelters.
 1) K-Means Clustering choose 3 dogs (since there're 3 groups) as the "Centroid dog". 
