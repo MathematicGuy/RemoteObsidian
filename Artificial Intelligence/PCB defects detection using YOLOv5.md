@@ -9,6 +9,7 @@ Step 2: Install [XmlToTxt tool](https://github.com/isabek/XmLToTxt)
 Step 3: Go to **XmlToTxt** Folder and run
 ```sh
 python -m pip install -r requirements.txt
+
 ```
 Step 4: Copying all Dataset from **PCB_DATASET/Annotations** to **XmlToTxt/xml** folder   
 Step 5: Paste the each PCB part annotation as classes name in **XmlToTxt/classes** file
@@ -122,14 +123,22 @@ Go to **yolov5 directory** and install all the requirements
 !python train.py --img 416 --batch 16 --epochs 50 --data dataset.yaml --weights yolov5s.pt --cache --name pcb_1st
 ```
 
+**Step 10) Validata and run test data**
+**Validate**
+```python
+# Validate dataset using the best weight file  
+!python val.py --weights runs/train/pcb_1st/weights/best.pt --data dataset.yaml
+```
+> Put your PCB images to  test_images directory 
+![[Pasted image 20240607131358.png]]
 
-
-
-
-
-
-
+> Then run the code 
+```python
+# Run test dataset from test_images using the last weight file  
+!python detect.py --source ../test_images/test_1.jpg  --weights runs/train/pcb_1st/weights/best.pt
+```
 
 
 + ? TODO: How to train the YoLov5 to recognize more object?
 + ? What are the best epoch?
++ ? TODO: Make Interface for this

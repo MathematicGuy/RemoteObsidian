@@ -17,6 +17,7 @@ Algorithm
 	+ [Code in directory sampling_methods](https://github.com/google/active-learning)
 	+ [concatenate_two_layers function in feature_extraction.py](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)
 	+ [pytorch_cov function in utils.py](https://github.com/pytorch/pytorch/issues/19037)
+### My Learning Project
 + [[PCB defects detection using YOLOv5]]
 
 ---

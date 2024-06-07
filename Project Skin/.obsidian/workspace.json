@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b6988d1a8af2f0d",
+            "id": "80fb318e74d52048",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b364641c9b19658a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,9 +187,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b364641c9b19658a",
+  "active": "80fb318e74d52048",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Spaces/Beginner to 1 Month Plance.md",
+    "Spaces/Plance Progression.md",
+    "2 ACTIONS/Workout/Calisthenics.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "3rd person singular subject.md",
@@ -221,10 +217,7 @@
     "3 RESOURCES/Project Management/roles/BE.md",
     "2 ACTIONS/Personal/Personal.md",
     "1 PROJECTS/CMC Summer 2024/CMC.md",
-    "Spaces/Vault.md",
     "Spaces/Pasted image 20240603111121.png",
-    "Spaces/third person form - german.md",
-    "4 ARCHIVES/2024/WebProject2024/My Assignment_Management Back-end Documentation.md",
     "Spaces/Pasted image 20240601234808.png",
     "Spaces/Pasted image 20240530103206.png",
     "Spaces/Pasted image 20240530101044.png",

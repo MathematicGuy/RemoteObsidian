@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "aeae52e1c94982b3",
+            "id": "4a784dcde7bf2f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Interface.md",
+                "file": "PCB Anomally Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Interface.md",
+                "file": "PCB Anomally Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App Interface.md",
+                "file": "PCB Anomally Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Interface.md"
+                "file": "PCB Anomally Detection.md"
               }
             }
           },
@@ -185,11 +185,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aeae52e1c94982b3",
+  "active": "4a784dcde7bf2f85",
   "lastOpenFiles": [
-    "PCB Anomally Detection.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
+    "2 ACTIONS/_Focus.md",
+    "PCB Anomaly Detection Note & Resources.md",
     "PCB defects detection using YOLOv5.md",
+    "Pasted image 20240607131358.png",
+    "PCB Anomally Detection.md",
+    "App Interface.md",
     "Pasted image 20240606172545.png",
     "Pasted image 20240606155534.png",
     "Pasted image 20240606154607.png",
@@ -197,18 +202,14 @@
     "Pasted image 20240606153729.png",
     "Pasted image 20240606153644.png",
     "Pasted image 20240606153552.png",
-    "PCB Anomaly Detection Note & Resources.md",
     "Anomaly Detection.md",
     "Pasted image 20240606143803.png",
     "PCB Anomaly Detection RoadMap.md",
-    "App Interface.md",
     "Pasted image 20240606124959.png",
     "K-nearest neighbor.md",
     "K-Means Clustering.md",
-    "Pasted image 20240605173557.png",
     "1 PROJECTS/SIC/SIC - AI Intro.md",
     "3 RESOURCES/CMC/CMC AI INTRO.md",
-    "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Problems.md",
@@ -221,7 +222,6 @@
     "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI.md",
     "4 ARCHIVES/Thought & Ideas/Game AI.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Linear system as Matrix using Numpy.md",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",
