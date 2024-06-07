@@ -11,3 +11,19 @@ Ba lần phân công lao động xã hội
 + Thủ Công Nghiệp (nhu cầu 2nd: tài sản, năng suất, nhu cầu cao hơn) - ít tư hữa
 + Thương Nghiệp: (nhu cầu 3rd: của cải dư thừa, xuất khẩu) - tư hữa gay gắt
 
+> Khả năng áp đặt ý chí của mình lên 1 người khác
+
+
+# Kiểu Nhà Nước
+
+1) Chủ Nô
+2) Phong Kiến
+3) Tư Sản
+4) Xã Hội Chủ Nghĩa
+
+
+Đức
+Nhà nước ra quy định, tổng thống phải kí
+
+# Chức năng của Nhà Nước
+

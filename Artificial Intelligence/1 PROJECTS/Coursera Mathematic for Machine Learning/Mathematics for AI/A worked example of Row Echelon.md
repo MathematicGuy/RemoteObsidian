@@ -42,7 +42,6 @@ M =
 $$
 
 **Step 1:**
-
 Commencing with row $0$: The initial candidate for the pivot is always the value in the main diagonal of the matrix. Denoting row $0$ as $R_0$:
 
 $$R_0= \begin{bmatrix} 0 & 2 & 1 & | & 3 \end{bmatrix}$$
