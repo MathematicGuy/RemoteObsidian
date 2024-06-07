@@ -1,5 +1,5 @@
 
-## [[SIC - ~~Artificial~~ Intelligent]]
+## [[SIC - Artificial Intelligent]]
 
 
 # [[Machine Learning]]

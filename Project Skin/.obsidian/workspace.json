@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5de2639e63b5aaeb",
+        "id": "bcc6e26fc4540ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "f994160b9c2e9922",
+            "id": "ac36de6b0c614283",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "a4af9cb6d96f3b93",
+            "id": "177d8f7a2085812a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,7 +203,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a4af9cb6d96f3b93",
+  "active": "177d8f7a2085812a",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/Beginner to 1 Month Plance.md",
