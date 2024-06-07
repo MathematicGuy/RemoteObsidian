@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd7e4ebdfc58428",
+        "id": "bbc25a408e0899ef",
         "type": "tabs",
         "children": [
           {
-            "id": "3f2f11921d5fdf97",
+            "id": "6b6988d1a8af2f0d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b364641c9b19658a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,11 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3f2f11921d5fdf97",
+  "active": "b364641c9b19658a",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "3rd person singular subject.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "2 ACTIONS/Personal/Psychology/Psychology.md",

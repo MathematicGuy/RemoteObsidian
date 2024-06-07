@@ -3,6 +3,7 @@ Source:
 	[Github](https://github.com/MBDNotes/YOLOv5_PCB_Defects_Detection/blob/main/PCB_defects_Detection.ipynb)
 
 
+# Part 1: Extract Data (Xml to Txt)
 Step 1: Download [Dataset]( https://www.kaggl.com/datasets/akhatova/pcb-defects)
 Step 2: Install [XmlToTxt tool](https://github.com/isabek/XmLToTxt)
 Step 3: Go to **XmlToTxt** Folder and run
@@ -99,13 +100,36 @@ to_v5_directories("dataset/images/train", "dataset/images/val", "dataset/labels/
 Now Run to see the result:
 ![[Pasted image 20240606172545.png]]
 
-
-
+# Part 2: Process Data (Train and Validate)
+**Step 8) Install requirements**
+Install necessary library
 ```python
 !pip install requests==2.31.0
 !pip install imageio --upgrade
 !pip install imageio --upgrade
 !pip check
 ```
-
 Download [Yolov5](https://github.com/ultralytics/yolov5)
+
+Go to **yolov5 directory** and install all the requirements
+```python
+%cd yolov5
+!pip install -r requirements.txt
+```
+
+**Step 9) Train Data**
+```python
+!python train.py --img 416 --batch 16 --epochs 50 --data dataset.yaml --weights yolov5s.pt --cache --name pcb_1st
+```
+
+
+
+
+
+
+
+
+
+
++ ? TODO: How to train the YoLov5 to recognize more object?
++ ? What are the best epoch?

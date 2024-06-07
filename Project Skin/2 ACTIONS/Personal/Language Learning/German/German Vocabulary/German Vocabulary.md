@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-*German* word order: Important context goes first, Verb goes after.
+g*German* word order: Important context goes first, Verb goes after.
 	Wir sehen ins Kino ein Film
 
 
@@ -609,11 +609,11 @@ Er braucht zwei Fahrkarte diese wochenender (literaly wo-chen-ender)
 **Number Combination**
 fünfunddreißig Euro - Thirty five Euro
 	fünf-und-dreißig 
-fünfundzwanzig Euro - twenty five
+fünfundzwanzig Euro - twenty five (number in reverse)
 Achtundfünf - eighty eight1
 
 kostet - cost
-	 Wie viel kostet die sonnencreme
+	 Wie viel kostet u die sonnencreme
 	 Der sonn
 + Kosten - plural
 + Kostet - singular
@@ -1341,7 +1341,7 @@ Ordering takeout - gọi món mang về
 	Warten Sie (please) wait (use Sie to show repspect for the waiting person)  
 	es gibt Fisch there is fish
 	Mittagessen lunch
-**Exercise End**
+**Exercise EndD **
 
 
 
@@ -1820,6 +1820,7 @@ Wie alt sind sie ? - how old are they
 + ? Why "sie" mean they. Isn't "Sie" mean "you" which refering to respected people (strangers, docters, teachers, etc..). Yes "Sie"mean you and "sie" with "s" in lowercase mean "her" or "they".
   
 Das Mädchen - the girl
++ word end with -chen goes with Das
 
 Kind - child
 	Wie alt ist das Kind - how old is the child
@@ -1862,6 +1863,6 @@ Sind is used in second-person plural
 > Seid - are () 
 
 Freundlich - friendly
-
 Time > Location (in German Sentence Hierachy)
 
+M

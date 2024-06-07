@@ -20,7 +20,6 @@ Du bist
 
 Schlecht
 
-
 Gehen 
 inst 
 Krankenhaus
@@ -190,3 +189,50 @@ Wo where
 Arbeit work
 Tochter daughter
 	Wo Arbeiten deine Tochter
+
+**word end with "-sisch" telling a person nationality**
++ Deutscher 
++ Vietnamesisch
++ Franczösisch
++ Italienisch
++ Amerikaner
+
+Meine Tante Arbeitet in Zürich (3rd singlar pronouce)
++ im is the dative article dem: "in"  + "dem" == "im"
+	Im sommer
++ In -> in Zürich
+> Meine tochter arbeitet in Berlin
+
+Einladung / dress
+
+Ihr / plural (you guy, we)
+zur / to 
+> Mark und Tim, Kommt Ihr zur party
+
+Das Kind ist lustig, das Mädchen und der Junge sind Intelligent
+
+Arbeitet
+	Wo Arbeitet deine tochter / where does your daughter work?
+
+Frankreich / france language
+	Singst du manchmal in Frankreich / do you sometime sing in france
+
+Rechts / right
+Geradeaus / straight ahead
+Dann / then
+	Gehen sie rechts und dann geradeaus / Go to the right then go straight to ahead
+
+
+jetzt / now 
+Zahnschmerzen / toothache
+> Du hast jetzt keine Zahnschmerzen  / you don't have a toothache now
++ ? Why use jetzt before keine? Why not "hast keine jetzt" This is because:
+	+ ? Adverb like "jetzt" typically comes after the verb to modify the berf's action, in this case "hast" is the verb.
+		Example Translation: do, do (with jetzt) -> do it now.
+
+**Word structure:**
+[verb] [adverb]  [adverb ] (come after verb) [noun] (keine for example)
+Example sentence:
++ Mikey und Rose, warum Schlaft ihr immer im Bett ?
+	+ ? warum Schlaft ihr (plural)
+	+ ! "Schläfst" is used for the second person singular (du). For the second person plural (ihr), the correct form is "schlaft".
