@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0e16d2dc30222d7",
+        "id": "9dd7e4ebdfc58428",
         "type": "tabs",
         "children": [
           {
-            "id": "26be6e68ec797b7c",
+            "id": "3f2f11921d5fdf97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,10 +187,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "26be6e68ec797b7c",
+  "active": "3f2f11921d5fdf97",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
+    "3rd person singular subject.md",
+    "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "2 ACTIONS/Personal/Psychology/Psychology.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
@@ -201,8 +204,6 @@
     "1 PROJECTS/CMC Summer 2024/Advance Programming.md",
     "Spaces/Set Up Terminal.md",
     "Power Bi.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "1 PROJECTS/CMC Summer 2024/Ultimate Project 2025.md",
     "1 PROJECTS/1.5 Years Look Back Video Project.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
@@ -217,7 +218,6 @@
     "Spaces/Pasted image 20240603111121.png",
     "Spaces/third person form - german.md",
     "4 ARCHIVES/2024/WebProject2024/My Assignment_Management Back-end Documentation.md",
-    "1 PROJECTS/CMC Summer 2024/Summer_2023_2024 Mobile_Project.md",
     "Spaces/Pasted image 20240601234808.png",
     "Spaces/Pasted image 20240530103206.png",
     "Spaces/Pasted image 20240530101044.png",

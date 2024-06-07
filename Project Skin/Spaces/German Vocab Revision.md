@@ -158,3 +158,35 @@ Das Mädchen - girl
 Lustig
 Intelligent
 	Das Mädchen ist lustig und intelligent
+Schach chess
+Kind child
+	Das Kind spielt Schach und ist sehr intelligent
+Klein
+	Das Kind ist sehr klein
+Süß sweet
+	Das Baby ist so süß
+Mädchen girl
+	Das Mädchen ist sieben Jahre alt
+
+Wie How
+Alt old
+	Wie alt - how old
+	Wie alt ist das baby - how old is your baby
+Ich bin Deutscher und ich komme aus Deutschland
+
+I live in Zurich. My mother is German, but I speak both French and Italian. I'm studying English now.
+> Ich lebt in Zürich. Meine Mutter ist Deutscher, aber ich sprechen auch Franzörsisch und Italienisch. Jetzt lerne ich Englisch.
+
+
+My wive name Lisa. Lisa is American. She is a Lawyer, work in New York and speak many languages
+> My Frau heiße Lisa. Lisa ist Amerikanerin. Sie ist Anwältin, arbeitet in New York and spricht viel Sprachen.
++ $ Arbeitet: "arbeiten" (to work) in the 3rd person singular. This is bc "Lisa" and 
+  "Sie" are [[3rd person singular subject]] 
++ $ Arbeiten: use the 
++ ? Arbeitet vs Arbeiten: 
+
+
+Wo where
+Arbeit work
+Tochter daughter
+	Wo Arbeiten deine Tochter
