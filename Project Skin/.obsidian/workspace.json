@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc25a408e0899ef",
+        "id": "5de2639e63b5aaeb",
         "type": "tabs",
         "children": [
           {
-            "id": "80fb318e74d52048",
+            "id": "f994160b9c2e9922",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a4af9cb6d96f3b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "1 PROJECTS/CMC Summer 2024/Vietnam General law.md"
               }
             }
           },
@@ -187,7 +203,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "80fb318e74d52048",
+  "active": "a4af9cb6d96f3b93",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/Beginner to 1 Month Plance.md",
