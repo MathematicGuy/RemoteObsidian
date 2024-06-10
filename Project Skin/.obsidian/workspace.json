@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "53448b4f94ab1c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md"
               }
             }
           },
@@ -189,7 +203,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "735d750d6d94b783",
+  "active": "53448b4f94ab1c27",
   "lastOpenFiles": [
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "_Focus/Todo.md",
