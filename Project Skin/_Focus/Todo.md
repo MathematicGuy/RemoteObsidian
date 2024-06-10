@@ -2,7 +2,7 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-
+0
 #Todo/Priority 
 - [ ] Understand Artificial Neural Network 
 - [ ] Linear Algebra using Numpy (Basic Matrix Operation, Gaussian Elimination, Dot Product, Tranpose Vector)

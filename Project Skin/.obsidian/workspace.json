@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb3acfc16597ea45",
+        "id": "7b97f3ff5c3c38ea",
         "type": "tabs",
         "children": [
           {
-            "id": "68eafaf92ab426dd",
+            "id": "987b3804671efb0c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,32 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "af2f1e7a7ce46c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1de7ff294c4b07c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -215,11 +189,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "68eafaf92ab426dd",
+  "active": "987b3804671efb0c",
   "lastOpenFiles": [
-    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "Spaces/Beginner to 1 Month Plance.md",

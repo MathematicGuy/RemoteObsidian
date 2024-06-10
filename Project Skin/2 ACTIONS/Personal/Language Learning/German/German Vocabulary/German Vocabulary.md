@@ -712,7 +712,7 @@ Schnecke - snail (~)
 	 Wer who ( speal as )
 + ? notice: Es mean it, Das mean the
 
-**analyze later**: Das Wetter im Herbst ist sehr schön. Es ist manchmal sonnig, manchmal bewölkt, aber nie zu kalt oder zu heiß. (practice to write the same phrase like this. Make a connector section / vocab section)
+**analyze later**: Das Wetter im Herbst ist sehr schön. Es ist müanchmal sonnig, manchmal bewölkt, aber nie zu kalt oder zu heiß. (practice to write the same phrase like this. Make a connector section / vocab section)
 
 Hast du - do you have (not Have To - muss)
 	 Hast du einen Mann
@@ -1155,7 +1155,7 @@ Bücherregal - bookshelf
 
 Anna, du musst neue Kleidung für das Konzert. Aber du kaufen Kleidung nicht . Ich habe zwei
 
-die Hin- und Rückfahrt - the round-trip ticket
+die Hin- und Rückfahrt - the rouam  nd-trip ticket
 	Eine Hin und Rückfahrt kostet dreißig euro
 die Fahrkarte - the ticket
 	Eine Fahrkarte nach Ho Chi Minh, bitte
