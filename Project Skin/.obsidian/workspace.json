@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "018235973235a83e",
+        "id": "4c480cf4d3c666e1",
         "type": "tabs",
         "children": [
           {
-            "id": "14c2788d19424838",
+            "id": "d818437d8cdec59f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1bcfd2c47b05b72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md"
               }
             }
           },
@@ -189,37 +203,37 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "14c2788d19424838",
+  "active": "1bcfd2c47b05b72b",
   "lastOpenFiles": [
-    "How to Run React Native with Android Studio.md",
     "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "Mobile Development Project.md",
+    "1 PROJECTS/CMC Summer 2024/Summer 2024 Ultimate Project.md",
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "Software Deployment Note.md",
+    "How to Run React Native with Android Studio.md",
     "4 ARCHIVES/2024/CMC.md",
     "Pasted image 20240610100123.png",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Word Order.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "Spaces/Beginner to 1 Month Plance.md",
     "Spaces/Plance Progression.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "3rd person singular subject.md",
-    "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "2 ACTIONS/Personal/Psychology/Psychology.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Pasted image 20240604193336.png",
     "Pasted image 20240604193334.png",
     "1 PROJECTS/CMC Summer 2024/v4 Java Core Youtube.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming.md",
     "Spaces/Set Up Terminal.md",
     "Power Bi.md",
-    "1 PROJECTS/CMC Summer 2024/Ultimate Project 2025.md",
-    "1 PROJECTS/1.5 Years Look Back Video Project.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
-    "3 RESOURCES/Project Management/Lead.md",
     "Spaces/Pasted image 20240603111121.png",
     "Spaces/Pasted image 20240601234808.png",
     "Spaces/Pasted image 20240530103206.png",
