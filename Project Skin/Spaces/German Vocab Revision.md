@@ -236,3 +236,7 @@ Example sentence:
 + Mikey und Rose, warum Schlaft ihr immer im Bett ?
 	+ ? warum Schlaft ihr (plural)
 	+ ! "Schläfst" is used for the second person singular (du). For the second person plural (ihr), the correct form is "schlaft".
+
+Kaufhaus / department store
+> Arbeitest du in Kaufhaus
+

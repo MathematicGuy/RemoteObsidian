@@ -1754,6 +1754,8 @@ Nenn - call (call some thing, call someone)
 Um wie viel Uhr ist Ihr Termin - At what time is your appointment
 	Use Ihr to when there're several people or people you know well
 
+### Unit 15: Give health advice
+
 Können Sie nacht gut schlafen, Herr Kohl
 	can you sleep good at night, Ms Kohl
 Du musst nacht im bett bleiben, Sie müssen im bett bleiben
@@ -1795,7 +1797,7 @@ Hat
 **Guide Book**
 Ich bin Vietnamesisch / I am a Vietnamese 
 Wir sind Amerikaner / we are American
-> in German no "ein" needed
+> in German no "ein" needed. No need for "Ich bin ein Vietnamesisch"
 
 Psychologie - Psychology
 	Psychologie ist schwer - Psychology is difficult 
@@ -1852,6 +1854,9 @@ Amerikanerin - American "people"
 	Dan ist Amerikaner und er arbeitet in New York 
 + ? Use "Arbeitet" in [[third person form - german]]
 
+Kanadierin / Canada people
+
+
 Die Eltern - the parent
 
 Seine Freunde - His friend
@@ -1865,4 +1870,4 @@ Sind is used in second-person plural
 Freundlich - friendly
 Time > Location (in German Sentence Hierachy)
 
-M
+### Unit 17: 
