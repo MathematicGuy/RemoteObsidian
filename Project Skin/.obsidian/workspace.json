@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f79d27ad5396619f",
+        "id": "62962e36bbf3661d",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4c3c3c96402d8d",
+            "id": "f5eb60009497ea8c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "702d3a7b45d2d43e",
+            "id": "7f076cd7be12a454",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md"
+              }
             }
           },
           {
@@ -194,9 +203,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "702d3a7b45d2d43e",
+  "active": "7f076cd7be12a454",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "3 RESOURCES/GoodForLater/Get all wifi password.md",
+    "3 RESOURCES/GoodForLater/Good for LATER.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Android Studio Turtorial.md",
     "Pasted image 20240611144131.png",
@@ -230,7 +241,6 @@
     "Spaces/Plance Progression.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "3rd person singular subject.md",
-    "2 ACTIONS/Personal/Psychology/Psychology.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

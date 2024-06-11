@@ -17,3 +17,6 @@ SRUM
 
 note: chia team theo dự án. Mỗi team sẽ có 1 dự án
 
+
+ChatGPT - thinking
+DiagramGPT - grapth
