@@ -16,3 +16,7 @@ Ajax - Asynchrous JavaScript and XML
 - Đồ án chuyên ngành
 + Áp dụng AI
 
+[[Android Studio Turtorial]]
+> Can Develop UI using both JAVA and React Native
+
+

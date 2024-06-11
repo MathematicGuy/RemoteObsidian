@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8377ad692a142d66",
+        "id": "f79d27ad5396619f",
         "type": "tabs",
         "children": [
           {
-            "id": "d714926a0efa936c",
+            "id": "7c4c3c3c96402d8d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "b69251242a3d53b4",
+            "id": "702d3a7b45d2d43e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/History & Politic/Ideas and Politic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -111,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 RESOURCES/History & Politic/Ideas and Politic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/History & Politic/Ideas and Politic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 RESOURCES/History & Politic/Ideas and Politic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,13 +194,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b69251242a3d53b4",
+  "active": "702d3a7b45d2d43e",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "Android Studio Turtorial.md",
+    "Pasted image 20240611144131.png",
+    "Pasted image 20240611144030.png",
+    "Pasted image 20240611143821.png",
+    "Pasted image 20240611143753.png",
+    "Pasted image 20240611143728.png",
+    "Pasted image 20240611143709.png",
+    "Pasted image 20240611143704.png",
+    "Pasted image 20240611143459.png",
+    "Pasted image 20240611143447.png",
+    "Pasted image 20240611143353.png",
     "How to Run React Native with Android Studio.md",
+    "3 RESOURCES/History & Politic/Ideas and Politic.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "SD HW1.md",
-    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
@@ -221,7 +224,6 @@
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Software Deployment Note.md",
     "4 ARCHIVES/2024/CMC.md",
-    "Pasted image 20240610100123.png",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Word Order.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Spaces/Beginner to 1 Month Plance.md",
@@ -229,16 +231,6 @@
     "2 ACTIONS/Workout/Calisthenics.md",
     "3rd person singular subject.md",
     "2 ACTIONS/Personal/Psychology/Psychology.md",
-    "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-    "Pasted image 20240604193336.png",
-    "Pasted image 20240604193334.png",
-    "1 PROJECTS/CMC Summer 2024/v4 Java Core Youtube.md",
-    "Spaces/Set Up Terminal.md",
-    "Spaces/Pasted image 20240603111121.png",
-    "Spaces/Pasted image 20240601234808.png",
-    "Spaces/Pasted image 20240530103206.png",
-    "Spaces/Pasted image 20240530101044.png",
-    "Spaces/Pasted image 20240530100019.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
@@ -251,8 +243,6 @@
     "2 ACTIONS/Personal/Interest/Books/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "3 RESOURCES/DataBase/Learn Database",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
-    "4 ARCHIVES/Images/Pasted image 20240525091039.png",
-    "4 ARCHIVES/Images/3.1.4.jpg",
     "_Focus/This is my Life.canvas",
     "Untitled.canvas",
     "4 ARCHIVES/2024/WebProject2024/WebProjectGroup5.canvas",

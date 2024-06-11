@@ -16,3 +16,6 @@
 set-up anaconda
 install android studio
 install IntelliJ
+
+![[Pasted image 20240611193343.png]]
+

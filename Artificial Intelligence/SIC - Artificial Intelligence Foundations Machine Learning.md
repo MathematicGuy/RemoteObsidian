@@ -21,7 +21,7 @@ Features that preduct selling price
 - Is machine learning an ethical solution?
 - What are your inputs and outputs?
 - What prediction error rates will you accept?
-
+-> Only apply ML for complex problemsproblems
 ### 2. Data collection and preparation
  + ?  **Collection:** Source the data you need
 	Internal data sources
@@ -42,18 +42,21 @@ Features that preduct selling price
 3. Testing (10%) -> Data use to test the Model after a training section was complete
 > This split is importance bc it be used to tested on the datas it wasn't trained on
 
+-> Clean the data and split them into 3 group: Training, Validation and Testing data.
+
 ### 3. Model training and testing
 > Choose Machine Learning Algorithm for your processed data and start your training process
 
 In this process you go through these step:
-- Iterate and experiment
-- Fine tune
-- Evaluate
-- Place your model into production
+- Iterate and experiment (neccessary to find out what correct and should be avoid)
+- Fine tune (Increase Model prediction ability)
+- Evaluate (Check Model performance with diff input and output to see if the model meet the standard)
+- Place your model into production (use the model)
 
 ### 4. Model deployment and maintenance
 > Once your Model deployed, you set up a Cadence (lịch) for Retraining and perform re-evaluate performance.
 ![[Pasted image 20240611102458.png]]
+> This step for Improvement 
 
 ## Framming Machine Learning Problems
 > Identify problem should use ML.
@@ -149,4 +152,43 @@ Data Sources:
 Remove outlier to stop them from impacting the performance of your Model
 Heat map -> show correlation of a features. how 1 features interacting with others features.
 + ! If *2 features are highly correlated*, it mean *those features are teaching the model the same thing.*
-	+ We can *Remove Duplicate features can improve Model performance* and improve Model predictability. 
+	+ We can *Remove Duplicate features can improve Model performance* and improve Model's prediction capabilities. 
+	![[Pasted image 20240611150027.png]]
+	+ *Value closer to 0 -> low correlation*
+	+ *Value closer to 1 -> high correlation*
+	We want a heat map to be symetrical with the value on top left is the same as the bottom right.
+
+
+### Features Engineer 
+> is an Art that requires you to fully understand your data and the relationship between features.
++ ? *Tạo ra các features mới dựa trên những feature hiện có*. Ví dụ như feature màu đen và sống nội tâm., kết hợp lại ta sẽ có được người sống nội tâm thích màu đen qua côgn thức sống nội tâm / màu đen. 
+
+- Manipulates data
+- Add, removes and combines features
++ Create new features
+-> Improve Mode Prediction
+
+
+Feature with high correlation teach Model the same thing -> Remove one or combining both of them can optimize the training process.
+
++ ? How to deal with Missing value/data:
+	+ Delete row with missing values
+	+ Use ML to predict values
+	+ Replace missing value with the mean or the avarge value.
+	+ Using ML algorithm to handle missing data grafully. 
+
+
+We need numerical data to calc so we turn Ocean proximity value in numeric using One hot encoding.
++ ! But *One-hot encoding can cause high cardinality* (số lượng lớn các giá trị duy nhất) (low cardinality: số lượng giá trị duy nhất ít) which *increase features* result in dimensionality. (dimensions increasement)
+
++ ? Features Enginerr:
+	+ Added 5 new features
+	+ Remove 1 features
+	+ As features increaase it's harder for the model to learn thus increase costs
+
+
+## Demo: Performing feature engineering
+- Determine the missing data
+- Use the K-nearest neighbors algorithm to impute missing values in small datasets
+
+# 4. Training a Machine Learning Model
