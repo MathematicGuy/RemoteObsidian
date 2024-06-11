@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6be1dc4efc4a94",
+        "id": "5dffcc64aa4a2231",
         "type": "tabs",
         "children": [
           {
-            "id": "735d750d6d94b783",
+            "id": "dd9f7a774a4b7c5a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,38 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "53448b4f94ab1c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SD HW1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad97417db824e071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SD HW1.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SD HW1.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SD HW1.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -216,12 +187,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "53448b4f94ab1c27",
+  "active": "dd9f7a774a4b7c5a",
   "lastOpenFiles": [
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "_Focus/Todo.md",
     "SD HW1.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
-    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
