@@ -1855,19 +1855,20 @@ Amerikanerin - American "people"
 + ? Use "Arbeitet" in [[third person form - german]]
 
 Kanadierin / Canada people
-
+Kanadier / Canadian
 
 Die Eltern - the parent
 
 Seine Freunde - His friend
 	Seine - His
-Ihre Her
+Ihre Her (different from Ihr - we)
 
 Lustig - funny
-Sind is used in second-person plural 
-> Seid - are () 
+Seid -> is Sind used in second-person plural 
+	Use Seid when reffering to the people being addressed directly.
+	Ex: Oma und Opa, seid Ihr Deutsche
 
 Freundlich - friendly
 Time > Location (in German Sentence Hierachy)
 
-### Unit 17: 
+### Unit 17: Discuss Oktoberfest

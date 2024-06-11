@@ -240,3 +240,31 @@ Example sentence:
 Kaufhaus / department store
 > Arbeitest du in Kaufhaus
 
+
+Ihre Freunde sprechen Englisch
+	Was ist seine Sprache (his language)
+	Was ist Ihre Sprache (her language)
+
+Wie alt sind deine Eltern (sind for who we pay respect)
+Sind Ihre Eltern Jung oder alt / are her parent young or old
+
+Seine his
+Eltern parent
+	Wie alt ist Seine Eltern / How old are his parent
+
+Freundlich / friendly
+
+Studiert / study
+Tochter / daughter
+Psychologie / Psychology
+	Studiert deine Tochter Psychologie / Ist your daughter study psychology
+
+
+Ihre her
+	Ihre Frau / her wife
+	Sind Ihre Eltern jung oder alt / ist her parent young or old
+
+
+Deutschland / german 
+Freunde 
+	Meine Freunde / my friend (plural form)

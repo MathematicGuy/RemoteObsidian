@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5dffcc64aa4a2231",
+        "id": "2fe4ac757a42a207",
         "type": "tabs",
         "children": [
           {
-            "id": "dd9f7a774a4b7c5a",
+            "id": "f3052c3bf8356e31",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3cb754daa73b7c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "1 PROJECTS/CMC Summer 2024/Mobile Development.md"
               }
             }
           },
@@ -187,10 +203,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd9f7a774a4b7c5a",
+  "active": "3cb754daa73b7c7c",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "SD HW1.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
@@ -204,8 +222,6 @@
     "How to Run React Native with Android Studio.md",
     "4 ARCHIVES/2024/CMC.md",
     "Pasted image 20240610100123.png",
-    "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Word Order.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Spaces/Beginner to 1 Month Plance.md",
