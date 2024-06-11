@@ -22,19 +22,7 @@
             }
           },
           {
-            "id": "e2eaf26b41cde262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a005f63e4f0b79e2",
+            "id": "a4612949cc35f589",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,11 +34,15 @@
             }
           },
           {
-            "id": "8e8d910d783fe438",
+            "id": "c76330f71aef1cd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md"
+                "file": "3 RESOURCES/How to/Anaconda Command.md"
               }
             }
           },
@@ -205,18 +197,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a005f63e4f0b79e2",
+  "active": "c76330f71aef1cd9",
   "lastOpenFiles": [
+    "3 RESOURCES/How to/Anaconda.md",
+    "SIC - Artificial Intelligence Foundations Machine Learning.md",
+    "Pasted image 20240611111715.png",
+    "Pasted image 20240611105806.png",
+    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
+    "Pasted image 20240611104952.png",
     "Pasted image 20240611102458.png",
     "Pasted image 20240611101200.png",
     "Pasted image 20240611100743.png",
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
-    "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
     "3 RESOURCES/How to/Anaconda Command.md",
-    "3 RESOURCES/How to/Anaconda.md",
     "Good to Know.md",
     "3 RESOURCES/How to/Setup Anaconda Guide.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Row Echelon Form Algorithm.md",
@@ -230,10 +225,6 @@
     "Pasted image 20240606172545.png",
     "Pasted image 20240606155534.png",
     "Pasted image 20240606154607.png",
-    "Pasted image 20240606161621.png",
-    "Pasted image 20240606153729.png",
-    "Pasted image 20240606153644.png",
-    "Pasted image 20240606153552.png",
     "Anomaly Detection.md",
     "PCB Anomaly Detection RoadMap.md",
     "K-nearest neighbor.md",

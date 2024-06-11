@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dce5039560089fe",
+        "id": "80b75923b135796e",
         "type": "tabs",
         "children": [
           {
-            "id": "88b240684c68c9a5",
+            "id": "2edb6ce60069a69e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "08bbf08a02c23553",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,14 +189,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "08bbf08a02c23553",
+  "active": "2edb6ce60069a69e",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "SD HW1.md",
     "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
-    "SD HW1.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
