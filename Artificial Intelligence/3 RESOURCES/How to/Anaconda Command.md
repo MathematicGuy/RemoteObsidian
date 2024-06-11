@@ -7,7 +7,7 @@
 ```
 
 **conda create -n <environment_name> [packages]**
-Creates a new environment with a specified name and optionally installs a list of packages. Example: `conda create -n my_ml_env python=3.9 numpy pandas`
+Creates a new environment with a specified name and optionally installs a list of packages. Example: `conda create -n my-ai python=3.9 numpy pandas`
 
 ---
 

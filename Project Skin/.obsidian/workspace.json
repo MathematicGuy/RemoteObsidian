@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80b75923b135796e",
+        "id": "e45f74df31db3f44",
         "type": "tabs",
         "children": [
           {
-            "id": "2edb6ce60069a69e",
+            "id": "305c9b2f18174eb9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b0293a7ba0ee02ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,11 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2edb6ce60069a69e",
+  "active": "b0293a7ba0ee02ff",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "SD HW1.md",
-    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",

@@ -126,6 +126,7 @@ Before trainning a Model make sure I have:
 ```
 
 # Preparing Data for Machine Learning
+## Obtainning Data
 Data Sources: 
 - Internal datastore
 - Client provided data
@@ -142,4 +143,10 @@ Data Sources:
 > This is ours Labeled Data: contains target values the machine learns to predict.
  +  Our target is Median House Value, the machine reviews features (variables) to predict the target.
 
+*Histogram: biểu đồ* 
+*Outlier (Ngoại lệ): distince value that much more distant than the avarage value.*
 
+Remove outlier to stop them from impacting the performance of your Model
+Heat map -> show correlation of a features. how 1 features interacting with others features.
++ ! If *2 features are highly correlated*, it mean *those features are teaching the model the same thing.*
+	+ We can *Remove Duplicate features can improve Model performance* and improve Model predictability. 

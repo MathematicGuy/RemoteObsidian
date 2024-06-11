@@ -32,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c76330f71aef1cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md",
+                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md",
+                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md"
+                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md"
               }
             }
           },
@@ -197,8 +185,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c76330f71aef1cd9",
+  "active": "a4612949cc35f589",
   "lastOpenFiles": [
+    "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "Pasted image 20240611111715.png",
@@ -211,7 +200,6 @@
     "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
-    "3 RESOURCES/How to/Anaconda Command.md",
     "Good to Know.md",
     "3 RESOURCES/How to/Setup Anaconda Guide.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Row Echelon Form Algorithm.md",
