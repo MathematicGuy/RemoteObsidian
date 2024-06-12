@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aecf7e57e4275ea9",
+        "id": "b3c7741b223300c9",
         "type": "tabs",
         "children": [
           {
-            "id": "e360d28ed91c8888",
+            "id": "4a1bb6553671179b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4a19d5ee07d4955c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Tree.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Tree.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision Tree.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision Tree.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,20 +189,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a19d5ee07d4955c",
+  "active": "4a1bb6553671179b",
   "lastOpenFiles": [
+    "Decision Tree.md",
     "Pasted image 20240612180824.png",
     "Pasted image 20240612180234.png",
     "Pasted image 20240612180133.png",
     "Pasted image 20240612175137.png",
     "Pasted image 20240612174716.png",
     "Pasted image 20240612174658.png",
-    "Decision Tree.md",
     "Pasted image 20240612173849.png",
     "Pasted image 20240612173803.png",
     "Pasted image 20240612173613.png",
     "Pasted image 20240612173531.png",
-    "Pasted image 20240612173452.png",
     "Classification Techniques.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "_Focus/Todo.md",
