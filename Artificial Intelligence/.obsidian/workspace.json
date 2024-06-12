@@ -27,7 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386c7125c9284d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md"
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md"
               }
             }
           },
@@ -188,15 +200,19 @@
   },
   "active": "353dea8afbbd1080",
   "lastOpenFiles": [
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Row Echelon Form Algorithm.md",
+    "SIC - Artificial Intelligence Foundations Machine Learning.md",
+    "2 ACTIONS/_Focus.md",
+    "Pasted image 20240612100550.png",
     "Pasted image 20240611220217.png",
     "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
-    "2 ACTIONS/_Focus.md",
     "elbow method.md",
     "K-Means Clustering.md",
     "1 PROJECTS/SIC/SIC - AI Intro.md",
     "K-nearest neighbor.md",
     "Pasted image 20240611215651.png",
-    "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "Pasted image 20240611210537.png",
     "Missing value.md",
     "Missing value/data.md",
@@ -209,13 +225,8 @@
     "Pasted image 20240611150007.png",
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
-    "Pasted image 20240611111715.png",
-    "Pasted image 20240611105806.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
     "Good to Know.md",
     "3 RESOURCES/How to/Setup Anaconda Guide.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Row Echelon Form Algorithm.md",
     "PCB Anomaly Detection Note & Resources.md",
     "PCB defects detection using YOLOv5.md",
     "PCB Anomally Detection.md",

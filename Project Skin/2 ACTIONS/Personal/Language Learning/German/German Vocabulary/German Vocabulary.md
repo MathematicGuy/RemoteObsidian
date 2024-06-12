@@ -806,8 +806,22 @@ Schwer difficult
 Einfach easy
 	Ist Deutsch Einfach oder Schwer
 Ihr her
-Sein his
-nicht not
+
+#WhatTheDifferent between sein and seine in nominative
+> In English, *the choice of possessive pronoun depends on the possessor. In French, it depends on the possessed. In German, it depends on both.*
++ Sein/Ihr -> come with Male (he, his, vater, male pronounce)
++ Seine/Ihre her -> come after Female (she, her, mother, female pronounce)
+	
+- The mother and **her** daughter = la mère et **sa** fille = die Mutter und **ihre** Tochter
+    
+- The mother and **her** son = la mère et **son** fils = die Mutter und **ihr** Sohn
+    
+- The father and **his** daughter = le père et **sa** fille = der Vater und **seine** Tochter
+    
+- The father and **his** son = le père et **son** fils = der Vater und **sein** Sohn
+
+
+Nicht not
 	deutsch ist nicht schwer - german is not hard
 Nur only
 	Zwei Fahrkarte kostet nur zwanzig euro
@@ -1848,7 +1862,7 @@ Arbeitest
 Deutsche - Female German (men from german or german in general)
 (người đức)
 	different from Deutsch which only mean German
-Deutscher - Male German (women from german)
+Deutscher - Male German (men from german)
 
 Amerikanerin - American "people"
 	Dan ist Amerikaner und er arbeitet in New York 
@@ -1856,6 +1870,7 @@ Amerikanerin - American "people"
 
 Kanadierin / Canada people
 Kanadier / Canadian
+Großbritannien - Great Britain
 
 Die Eltern - the parent
 
@@ -1867,6 +1882,11 @@ Lustig - funny
 Seid -> is Sind used in second-person plural 
 	Use Seid when reffering to the people being addressed directly.
 	Ex: Oma und Opa, seid Ihr Deutsche
++ $ Seid often goes with name and have represent the word are
++ ! Senario we don't use seid
+	Max and Isabella, do you live in Berlin? 
+		dont use seid bc there're no "Are" in the sentence
+
 
 Freundlich - friendly
 Time > Location (in German Sentence Hierachy)

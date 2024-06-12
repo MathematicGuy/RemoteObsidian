@@ -90,9 +90,14 @@ Amerikanerin - American "people"
 	Dan ist Amerikaner und er arbeitet in New York 
 + ? Use "Arbeitet" in [[third person form - german]].
 
-Kanadier - canadian (canada's people)
+	Kanadier - can du canadian (canada's people)
+Kanadierin - female canadian
+
+Großbritannien - Great Britain
 
 Eltern parent
+
+
 Seiner His
 	Wie alt seiner Eltern
 Ihre her
@@ -142,7 +147,7 @@ Geschichte
 
 Student / student
 Studiert / study
-
+Die Studenten - the student 
 
 Alt 
 Dein
@@ -268,3 +273,17 @@ Ihre her
 Deutschland / german 
 Freunde 
 	Meine Freunde / my friend (plural form)
+
+Ihre - her
+Sind Ihre mitbewohnerin zu laut - Are her roomate (female) too laut
+
+Meine Freunde sind Deutsche und Kanadier
+
+Monate month
+fast almost
+	Das baby ist fast fünfzig monate alt
+
+> In English, *the choice of possessive pronoun depends on the possessor. In French, it depends on the possessed. In German, it depends on both.*
++ Sein/Ihr -> come with Male (he, his, vater, male pronounce)
++ Seine/Ihre her -> come after Female (she, her, mother, female pronounce)
+#### Practice

@@ -310,5 +310,8 @@ Word2Vec (Word to Vector): used for text classification that creates
 word embeddings, which are vectorized representations of text.
 	![[Pasted image 20240611220217.png]]
  + A *single word* is transformed into a *numerical representation of that word*, also called a vector. (make it easier to *find similarities*, bc it enable us to use math)
-
 + $ Let use an algorithm to train a custom machine learning model.
+
+## Demo: Training a custom machine learning model
+	![[Pasted image 20240612100550.png]]
+

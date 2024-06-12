@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "162e510b2dee2ff6",
+        "id": "cb4f54587cda5811",
         "type": "tabs",
         "children": [
           {
-            "id": "0f8ccfff5ec73018",
+            "id": "fc9350696af4d369",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,10 +189,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0f8ccfff5ec73018",
+  "active": "fc9350696af4d369",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "3 RESOURCES/GoodForLater/Get all wifi password.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
@@ -208,8 +212,6 @@
     "How to Run React Native with Android Studio.md",
     "3 RESOURCES/History & Politic/Ideas and Politic.md",
     "SD HW1.md",
-    "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
