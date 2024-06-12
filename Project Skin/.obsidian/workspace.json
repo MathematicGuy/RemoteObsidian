@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb4f54587cda5811",
+        "id": "7f74343fe7a5b610",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9350696af4d369",
+            "id": "59e77e80c663653d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "834027cacf904ce2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,10 +194,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc9350696af4d369",
+  "active": "834027cacf904ce2",
   "lastOpenFiles": [
-    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "3 RESOURCES/GoodForLater/Get all wifi password.md",
