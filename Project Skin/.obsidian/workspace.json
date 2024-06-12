@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -204,9 +205,14 @@
   },
   "active": "834027cacf904ce2",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "Classification Techniques.md",
+    "Pasted image 20240612143637.png",
+    "Pasted image 20240612143617.png",
+    "Pasted image 20240612142548.png",
+    "Pasted image 20240612140045.png",
+    "Pasted image 20240612140012.png",
     "_Focus/Todo.md",
+    "Classification Techniques.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
@@ -220,10 +226,6 @@
     "Pasted image 20240611143753.png",
     "Pasted image 20240611143728.png",
     "Pasted image 20240611143709.png",
-    "Pasted image 20240611143704.png",
-    "Pasted image 20240611143459.png",
-    "Pasted image 20240611143447.png",
-    "Pasted image 20240611143353.png",
     "How to Run React Native with Android Studio.md",
     "3 RESOURCES/History & Politic/Ideas and Politic.md",
     "SD HW1.md",
@@ -239,7 +241,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Word Order.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Spaces/Beginner to 1 Month Plance.md",
-    "Spaces/Plance Progression.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
