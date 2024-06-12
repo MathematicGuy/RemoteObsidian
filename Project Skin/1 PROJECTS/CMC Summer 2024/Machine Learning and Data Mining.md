@@ -3,3 +3,4 @@ AI Ethical
 >Data Driven (this is what determint what right or wrong)
 
 
+## [[Classification Techniques]]
