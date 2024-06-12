@@ -24,6 +24,8 @@ banner: Images/Pasted image 20240402135259.png
 #MyRuleThat_I_SwearToLiveBy
 - [ ] No more Hades 2 after dying > 5 times a day (4/5 deaths) 
 - [ ] No more Hades2 after 7:00 PM
+- [ ] from 6/12 to 16/12. Start Do not give up on small task challange
+
 
 **My Learning**
 [Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) 
