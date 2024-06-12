@@ -171,11 +171,12 @@ Heat map -> show correlation of a features. how 1 features interacting with othe
 
 Feature with high correlation teach Model the same thing -> Remove one or combining both of them can optimize the training process.
 
-+ ? How to deal with Missing value/data:
++ ? How to deal with [[Missing value]]:
 	+ Delete row with missing values
 	+ Use ML to predict values
 	+ Replace missing value with the mean or the avarge value.
 	+ Using ML algorithm to handle missing data grafully. 
+
 
 
 We need numerical data to calc so we turn Ocean proximity value in numeric using One hot encoding.
@@ -192,3 +193,122 @@ We need numerical data to calc so we turn Ocean proximity value in numeric using
 - Use the K-nearest neighbors algorithm to impute missing values in small datasets
 
 # 4. Training a Machine Learning Model
+
+## Understanding learning algorithm and model training
+Each training iteration called epoch, **refers to the one entire passing of training data through the algorithm**
+	![[Pasted image 20240611204049.png]]
+
+The data set ofetn have 80% for trainning and 20% is reserved for evaluation performance.
+	![[Pasted image 20240611204124.png]]
+Loss function measure how good a Model is, in other word Loss function measure how far an estimated value is from its actual value.
++ $ Housing dataset includes home costs
++ $ Loss func use to optimize training
++ ! Not for Judging Model Performance
+After the Model have been trained, we use 20% reserved dataset to evaluate it. We can get good evaluation bc the Model practice on dataset it haven't seen before. (Old data can always be right, but new data can be not**)**
+
+**Loss Function Evaluation Metrics**
+- Mean squared error (MSE)
+- Accuracy
+- Fl score
+- AUC
++ RA2
+> Show wether or not you need to tweak hyperparameter (điều chỉnh siêu tham số) and start the training process again to improve performance.
+
+**Algorithms use for Trainning**
++ **Linear Regression**
+	- Solves regression problems
+	- Is used to predict numeric values
+
++ **Linear Equation**
+	+ Establishes relationships between independent and dependent variables or features by fitting it to a regression line
+
++ **Logistic Regression:**
+	+ 1 or 0, True or False, etc..
+	+ Value are between 0 and 1, the closer to 1 the more confident the prediction.
+	+ Use in Classification Problem to predict probability.
+	![[Pasted image 20240611204759.png]]
+
++ **Decision Trees:** use for classification and regression problems
++ **Random Forest:** 
+	- A set of decision trees
+	- Each tree is created from a different sample of rows
+	- Each tree makes its own prediction
++ All the predictions are avaraged into a final result.
+
+```ad-todo
+Train a public safety mode, will this stop lead to an arrest
+```
++ $ Step 1: Collecting Data
+**Dataset:** Stop-and-search data from the UK
+**Dataset Features:** 
+- Location
+- Gender
+- Age
+- Ethnicity
+- Time of day
+
++ $ Step 2: Process the Dataset -> turn raw data into a format that your ML Model can learn from
+- Impute (gán) missing values with K Nearest Neighbors (KNN) - gán giá trị còn thiếu bằng giá trị gần nó nhất.
+- One-hot encoding the categorical data (turn number into Int datatype)
+- Remove outliers
+- Combine highly correlated features
+
+![[Pasted image 20240611210537.png]]
+>Create AWS account and Install Amazon Sagemaker to run code
++ AUC - Area Under Curve/Metric
+
+## Reviewing Learning Algorithms For Regression
+**Regression Problems**
++ Predict numeric values
+**Use three common regression algorithm**
++ Linear regression
++ RadomForestRegressor
++ XGBoost
+
+If you a home owner, do you often wonder how much your home will sell for in the current market: we can *Train a model to predict home selling price.* 
++ ? Again we will go through these steps:
+	+ Process the raw dataset
+	- Impute missing values
+	- Use one-hot encoding of categorical data
+	- Remove outliers
+	- Combine correlated features
++ ? Now we can train the model using these Algorithm:
+	+ Scikit-learn linear regression
+	- RandomForestRegressor
+	- XGBoost
++ $ After testing the data set with 3  Model, we seen:
+	+ Diff learning algorithms perform differently
+	+ XGBoost performed better
+	+ XGBoost performed better against other regression models
+
+## Examining Additional Learning Algorithms
+### Unsupervised Learning
++ Doesn't use labeled data
++ It interprets unlabeled data
++ Machines figure things out independently by connecting similar features 
+
+### Clustering 
+- is a common unsupervised learning technique
+- K-Means is a clustering algorithm (not to be confuse with KNN that group data close to the avarage or mean)
+	K-Mean finds commonalities acress your dataset and puts each data point into a cluster.
++ ? All *data points in a cluster are homogeneous (đồng nhất)* and *heterogeneous (không đồng nhất) from data points in other clusters.*
+
+### Unsupervised Clustering
++ K-mean output is the number of clusters representing segmented data
++ Define K by setting it as a hyperparameter
++ It's important to determine an optimal number for K
++ Experiment or use the [[elbow method]]
+
+### Unsupervised Text Classification
+
+**Text Classification Uses**
+- Analyze movie and product reviews
+- Organize support ticket urgency
+- Review and organize posts by sentiment
+
+Word2Vec (Word to Vector): used for text classification that creates
+word embeddings, which are vectorized representations of text.
+	![[Pasted image 20240611220217.png]]
+ + A *single word* is transformed into a *numerical representation of that word*, also called a vector. (make it easier to *find similarities*, bc it enable us to use math)
+
++ $ Let use an algorithm to train a custom machine learning model.
