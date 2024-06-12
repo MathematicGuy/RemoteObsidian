@@ -33,3 +33,9 @@
 
 ## Random Forest
 
+
+Given the training data in the table (by computer data)
+
+Predict the class of the following new example using Naive Bayes Classification Age <= 30, income = medium, student = yes, credit rating = fair
+
+Build a decision tree for this data and predict the class of previous example
