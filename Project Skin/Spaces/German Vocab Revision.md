@@ -286,4 +286,23 @@ fast almost
 > In English, *the choice of possessive pronoun depends on the possessor. In French, it depends on the possessed. In German, it depends on both.*
 + Sein/Ihr -> come with Male (he, his, vater, male pronounce)
 + Seine/Ihre her -> come after Female (she, her, mother, female pronounce)
-#### Practice
+
+Feiern - celebrate
+Wollen - want to
+	Wir Wollen zusammen feiern - we want to celebrate together
+
+Essen gern - like to eat
+	Wir essen gern die Wurst - we like to eat sausage
+
+zum / to (in plural)
+> Wir wollen zum Oktoberfest gehen
+
+ Bestellen order
+ Schnitzel / a meat filley in german
+	 Nina und Thoma, wollt Ihr Schnitzel bestellen / ..., do you want to order schnitzel?
+
+
+lieben (liebe in plural form) : infections, love, more than like
+![[Pasted image 20240613112536.png]]
+> Liam und Sisse, lieben Ihr zusammen
+

@@ -3,18 +3,28 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Understand Artificial Neural Network 
-- [ ] Linear Algebra using Numpy (Basic Matrix Operation, Gaussian Elimination, Dot Product, Tranpose Vector)
-- [ ] Learn Basic of Java
+- [ ] Finish my Gausisan Elimination
+	- [ ] Back Subtitution from Sratch
+	- [ ] Setup Gauusian Elimination
+
+- [ ] ML and DM Revision
+	- [ ] Classification Decision Tree
+	- [ ] Classification Bayes
+	- [ ] Classification KNN 
+
+
 
 #Todo/GoalsThisWeek
 - [ ] Set up Automation for Daily Plan 
+	What do I want to setup again?
 - [ ] Set up Microsoft 365 
+- [ ] Work Out ~ 1hr  * 5 times / Week
+
 
 **Daily Plan**
 - [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
-- [ ] Work Out ~ 30'
-- [ ] Hygine and Shower ~ 35'
+
+- [ ] Hygine and Shower ~ 20'
 
 
 #Todo/GoalsThisMonth
@@ -25,7 +35,7 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] No more Hades 2 after dying > 5 times a day (4/5 deaths) 
 - [ ] No more Hades2 after 7:00 PM
 - [ ] from 6/12 to 16/12. Start Do not give up on small task challange
-- [ ] No Study at least 20' before class  
+- [ ] Rest at least 25' before class  
 
 **My Learning**
 [Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) 
@@ -78,10 +88,8 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
-[[Advice for AI]]
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-- [ ] Movie Boiling Point
-- [ ] Psycholog - psychology game
+
 
 #Todo/AI
 - [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
@@ -92,7 +100,6 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [ ] [HUST AI and DS](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)
 	[ppts](https://drive.google.com/drive/folders/1wjiUmi5EjnzQ-umVUZJDhibCtSonI-5a)
-
 
 [[Obsidient System]]
 

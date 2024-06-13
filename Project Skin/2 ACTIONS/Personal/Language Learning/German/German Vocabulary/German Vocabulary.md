@@ -1892,3 +1892,23 @@ Freundlich - friendly
 Time > Location (in German Sentence Hierachy)
 
 ### Unit 17: Discuss Oktoberfest
+Spaß - fun
+	Spaßig - funnz
+	Das ist Spaßig - That is funny
+	Es ist Spaßig - It is funny
+	Es macht Spaß - it's fun
++ ? However Spaß also mean a joke or a prank
+
+Wollen - want to
+	Wir wollen tanzen gehen - we want to go dancing
+
+Beliebt - popular
+	Munich is very popular
+
++ ? Oktoberfest -> popular festival in german
++ TODO: Learn about  it later
+
+Wollt - do you want
+	Anna und Ali, wollt Ihr Bier trinken - Ali and Anna, wo you want to drink beer
+
+Beliebt - popular

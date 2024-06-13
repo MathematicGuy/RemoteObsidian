@@ -2,20 +2,18 @@
 tags: Grammar
 ---
 
-[[German Freestyles]]
+# [[German Freestyles]]
 
-[[German Grammar Drill]]
+# [[German Grammar Drill]]
 
-[[German Noun Gender]]
+# [[German Noun Gender]]
 + ! Learn Gender along with Noun 
 
-[[German Word Order]]
+# [[German Word Order]]
 	[[German Sentences Position]]
 
-[[German Nominative Case]]
-
-[[German Accusative Case]]
-
-[[German Dative Case]]
+# [[German Cases]]
 
 [[Common German Mistake]]
+
+

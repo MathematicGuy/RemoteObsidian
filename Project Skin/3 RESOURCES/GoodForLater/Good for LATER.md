@@ -67,3 +67,9 @@ Tire Speed Limit
 Microsoft 365 - https://drive.google.com/file/d/1NrWeUky_6TE7kjeM1Qdv8rwkwCKqRjc_/view
 
 tai khoan app gia re [Appbanquyen](https://appbanquyen.com/jetbrains-all-products-pack/)
+
+[buildspace](https://sage.buildspace.so/)
+	Giving free money to startup
+
+[Vaia](https://sage.buildspace.so/)
+	Indian education web app (free)
