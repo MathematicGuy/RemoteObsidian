@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b3c7741b223300c9",
+        "id": "c9d8ff5b51ccaa7a",
         "type": "tabs",
         "children": [
           {
-            "id": "4a1bb6553671179b",
+            "id": "dc895866e8c6f2c3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a1bb6553671179b",
+  "active": "dc895866e8c6f2c3",
   "lastOpenFiles": [
     "Decision Tree.md",
     "Pasted image 20240612180824.png",
