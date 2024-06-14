@@ -22,19 +22,19 @@
             }
           },
           {
-            "id": "82d8e5f8020f64a0",
+            "id": "bf2ed4e79ff6f21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A work example of Back-Substitution.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic  for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf2ed4e79ff6f21a",
+            "id": "5be7b79e2ab153e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "264f3c846d558c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md"
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md"
               }
             }
           },
@@ -198,16 +210,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf2ed4e79ff6f21a",
+  "active": "264f3c846d558c34",
   "lastOpenFiles": [
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A work example of Back-Substitution.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic  for Machine Learning.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
+    "2 ACTIONS/_Focus.md",
+    "Augmented Matrix.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A work example of Back-Substitution.md",
     "3 RESOURCES/Artificial Intelligent/General AI/What is Neural Network.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Linear Algebra.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
-    "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Row Echelon Form Algorithm.md",
     "SIC - Artificial Intelligence Foundations Machine Learning.md",
@@ -234,9 +249,6 @@
     "Good to Know.md",
     "3 RESOURCES/How to/Setup Anaconda Guide.md",
     "PCB Anomaly Detection Note & Resources.md",
-    "PCB defects detection using YOLOv5.md",
-    "PCB Anomally Detection.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",

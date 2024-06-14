@@ -16,7 +16,6 @@
 
 ![[Pasted image 20240304110252.png]]
 
-
 ### Matrix Presentation
 ```
 [ 4 -3  1 | -10]
@@ -50,12 +49,12 @@ y = 6,4,10
 feature x: 2,4
 
 ![[Pasted image 20240304114529.png]]
-Complete: Non-singular
-all rest: singular
+**Complete:** Non-singular
+**Redundant, Contradictory**: singular
 ![[Pasted image 20240304114630.png]]
 3 different type so it non-singular and a complete system
 all with more than 1 black -> redundant
-black dog and white dog -> contracdictory (still -> singular)
+black dog and white dog -> contradictory (still -> singular)
 	just 1 dog with 2 type, and 1 bird
 
 ![[Pasted image 20240304115702.png]]
