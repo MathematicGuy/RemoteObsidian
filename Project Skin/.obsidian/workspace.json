@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5da4afb3bd0dd2e5",
+        "id": "05350a90b28072d0",
         "type": "tabs",
         "children": [
           {
-            "id": "8c70f116046b1d03",
+            "id": "ea0dc52f5202bf36",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8689099f7a91daea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,8 +189,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8689099f7a91daea",
+  "active": "ea0dc52f5202bf36",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Soft Skill/Internship.md",
+    "2 ACTIONS/Personal/Soft Skill/Untitled.md",
     "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "Spaces/Classification Techniques.md",
@@ -230,8 +227,6 @@
     "Spaces/SD HW1.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
-    "Spaces/Mobile Development Project.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
