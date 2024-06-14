@@ -21,3 +21,5 @@ Văn kiện (ex: văn kiện đại hội đảng)
 Nghị Quyết (ex: Nghi quyết thứ 12)
 
 \Quan hệ pháp luật
+
+Quyền Quyền
