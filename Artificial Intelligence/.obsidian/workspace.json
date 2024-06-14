@@ -32,18 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4632a4fa89000690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic  for Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -200,10 +188,11 @@
   },
   "active": "69a0ff0929c48ff8",
   "lastOpenFiles": [
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic  for Machine Learning.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
+    "matrix pivot.md",
     "Gaussian Elimination from Scratch Documentation 2.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation 1.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
@@ -236,7 +225,6 @@
     "Pasted image 20240611150027.png",
     "Pasted image 20240611150007.png",
     "3 RESOURCES/How to/Anaconda Command.md",
-    "3 RESOURCES/How to/Anaconda.md",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",

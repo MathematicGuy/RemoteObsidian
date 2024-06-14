@@ -15,12 +15,10 @@ Ba lần phân công lao động xã hội
 
 
 # Kiểu Nhà Nước
-
 1) Chủ Nô
 2) Phong Kiến
 3) Tư Sản
 4) Xã Hội Chủ Nghĩa
-
 
 Đức
 Nhà nước ra quy định, tổng thống phải kí
@@ -29,4 +27,4 @@ Nhà nước ra quy định, tổng thống phải kí
 
 
 
-# Pháp Luật
+# [[Pháp Luật]]
