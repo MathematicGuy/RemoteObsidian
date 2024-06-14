@@ -43,22 +43,35 @@ $$
 	EXPLAIN SINGULAR. WHY DET <= 0 IS SINGULAR  
 	WHY MATRIX HAVE TO BE SQUARE
 
-## The First Pivot must be 1
->  The First Value along the Diagnol must be 1.
-+ Here how to do it:
-	New_Value  = Value * 1 / Value 
-+ Ex: $$1 = 5 * (1 / 5)$$ Now having the New_Value as 1, we can assign it as pivot
-+ Or in Row Echelon 
+
 ## Row Echelon
 Row Echelon we aim to reduced the Matrix so that all value below the [[matrix pivot]] are 0:
 $$
-\left[ \begin{array}{ccc|c}
-1 & -2 & 3 & 7 \\
-0 & 1 & 1 & 4 \\
-0 & 0 & 1 & -10 \\
-\end{array} \right]
+\left[ \begin{array}{ccc|c} 0 & 2 & 1 & 3 \\ 1 & 1 & 1 & 6 \\ 1 & 2 & 1 & 12 \\ \end{array} \right]
+
+\rightarrow
+
+\left[ \begin{array}{ccc|c} 1 & 2 & 3 & 1 \\ 0 & 1 & 0 & 2 \\ 0 & 0 & 5 & 4 \\ \end{array} \right]
 $$
-Here how:
+
+### Let go from the start to understand how:
+$$
+\left[ \begin{array}{ccc|c} 0 & 2 & 1 & 3 \\ 1 & 1 & 1 & 6 \\ 1 & 2 & 1 & 12 \\ \end{array} \right]
+$$
+To turn the Matrix using Row Echelon, we have to follow these rule:
++ All values to the left of the pivot must be all 0
++ All value along the diagnol must be 1
++ 
+
+
+
+
+#### 1st Step: All Pivot must be 1
+> in other word values along the Diagnol must be 1. In Row Echelon we multiply matrix rows with its pivot. For example, `Row1 * 1/Row1_Pivot -> Row1`    
++ Ex: $$[2, 2, 4] * 1 / 2 \rightarrow [1, 1, 2]$$ Now the  as 1, we can assign it as the pivot (of the 1st row)
+
++ To make it easier to code, we call and Value as pivot_candidate:
+	Pivot 
 
 
 ## Back Substitution
