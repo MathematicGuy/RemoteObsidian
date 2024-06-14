@@ -466,7 +466,7 @@ R1 - R3
 
 Ending Assignment
 + [[GaussianElimination_Assignment]]
-+ [[Gaussian Elimination from Scratch Documentation]]
++ [[Gaussian Elimination from Scratch Documentation 1]]
  
 # [[Week 3 Vector and Linear Transformations]]
 Ending Assignment

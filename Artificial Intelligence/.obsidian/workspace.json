@@ -22,7 +22,19 @@
             }
           },
           {
-            "id": "bf2ed4e79ff6f21a",
+            "id": "69a0ff0929c48ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaussian Elimination from Scratch Documentation 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4632a4fa89000690",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,21 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5be7b79e2ab153e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+                "file": "Gaussian Elimination from Scratch Documentation 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+                "file": "Gaussian Elimination from Scratch Documentation 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md"
+                "file": "Gaussian Elimination from Scratch Documentation 2.md"
               }
             }
           },
@@ -198,13 +198,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5be7b79e2ab153e7",
+  "active": "69a0ff0929c48ff8",
   "lastOpenFiles": [
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
+    "Gaussian Elimination from Scratch Documentation 2.md",
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation 1.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
     "Augmented Matrix.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A work example of Back-Substitution.md",
     "3 RESOURCES/Artificial Intelligent/General AI/What is Neural Network.md",
@@ -235,8 +237,6 @@
     "Pasted image 20240611150007.png",
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
-    "Good to Know.md",
-    "3 RESOURCES/How to/Setup Anaconda Guide.md",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",
