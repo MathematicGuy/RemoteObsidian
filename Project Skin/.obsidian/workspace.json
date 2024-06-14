@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f3b7c29c23d8505a",
+        "id": "5da4afb3bd0dd2e5",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6d7d96a73e7e28",
+            "id": "8c70f116046b1d03",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8689099f7a91daea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,12 +85,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3a6d7d96a73e7e28",
+  "active": "8689099f7a91daea",
   "lastOpenFiles": [
-    "Spaces/Classification Techniques.md",
     "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+    "Spaces/Classification Techniques.md",
     "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "Advice for AI.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
@@ -204,7 +212,6 @@
     "Spaces/Pasted image 20240611144030.png",
     "Spaces/German Dative Case.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "3 RESOURCES/GoodForLater/Tech News.md",
     "2 ACTIONS/Personal/Interest/Books/Good Read.md",
     "Spaces/Pasted image 20240612180824.png",

@@ -955,7 +955,7 @@ def back_substitution(M):
             print("value to reduced: ", value)
             
             # Perform the back substitution step using the formula row_to_reduce -> row_to_reduce - value * substitution_row
-            row_to_reduce = row_to_reduce - value * substitution_row
+            row_to_reduce = row_to_reduce - value * substitutiozn_row
             
             # Replace the updated row in the matrix, be careful with indexing!
             M[j,:] = row_to_reduce
@@ -1139,7 +1139,6 @@ Your task now is to integrate all the steps achieved thus far. Start with a squa
 
 In this exercise you will combine every function you just wrote to finish the Gaussian Elimination algorithm.
 
-
 ```python
 # GRADED FUNCTION: gaussian_elimination
 
@@ -1170,7 +1169,6 @@ def gaussian_elimination(A, B):
 
 	return solution
 ```
-
 
 ```python
 w2_unittest.test_gaussian_elimination(gaussian_elimination)
