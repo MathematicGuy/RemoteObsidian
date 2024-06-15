@@ -16,13 +16,27 @@
               "state": {
                 "file": "_Focus.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c2c2fb0c4802920a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Fitness/How to build muscle faster.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,29 +107,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afb7d114c5cee368",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "_Focus.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "4722b2d24e11e933",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "3 RESOURCES/Fitness/How to build muscle faster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "3 RESOURCES/Fitness/How to build muscle faster.md"
               }
             }
           },
@@ -171,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,12 +188,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d4bb5afd483ebdf",
+  "active": "c2c2fb0c4802920a",
   "lastOpenFiles": [
+    "Pasted image 20240615110501.png",
+    "4 ARCHIVES/Image/Pasted image 20230629230346.png",
+    "Pasted image 20240615102850.png",
+    "3 RESOURCES/Fitness/How to build muscle faster.md",
+    "_Focus.md",
+    "fitness/fitness.md",
+    "fitness",
+    "3 RESOURCES/Fitness/Fitness.md",
+    "3 RESOURCES/Fitness",
     "2 ACTIONS/_My Life/_My Life.md",
     "2024-06-02.md",
     "Head Space.md",
-    "_Focus.md",
     "2 ACTIONS/_My Life/Styles.md",
     "2 ACTIONS/_My Life/Inattentive ADHD.md",
     "2 ACTIONS/_My Life/Deepthought.md",
@@ -215,10 +220,6 @@
     "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "3 RESOURCES/_Question Mark/For People Who.md",
     "4 ARCHIVES/_Social/_Social.md",
-    "4 ARCHIVES/_Social/Social Study.md",
-    "4 ARCHIVES/_Social/Extreme competition and dark side of success in China.md",
-    "3 RESOURCES/_Productivity & Improvement/4 Reasons Hard Work DOES NOT Beat Talent.md",
-    "3 RESOURCES/_How To/_How To Study/How to study 2 hours a day and still ACE the Exams.md",
     "Spaces/Home",
     "Spaces",
     "4 ARCHIVES/Spaces/Home",
@@ -227,8 +228,6 @@
     "3 RESOURCES/_How To/_How To Study",
     "3 RESOURCES/_How To",
     "4 ARCHIVES",
-    "3 RESOURCES",
-    "2 ACTIONS",
     "4 ARCHIVES/Image/Pasted image 20240426221324.png",
     "4 ARCHIVES/Image/Pasted image 20240426221004.png",
     "4 ARCHIVES/Image/Pasted image 20240426220933.png",
@@ -237,8 +236,6 @@
     "4 ARCHIVES/Image/Pasted image 20240401020708.png",
     "4 ARCHIVES/Image/Pasted image 20240401020556.png",
     "4 ARCHIVES/Image/Pasted image 20240401020505.png",
-    "4 ARCHIVES/Image/Pasted image 20240227195721.png",
-    "4 ARCHIVES/Image/Pasted image 20240222101341.png",
     "Untitled.canvas"
   ]
 }

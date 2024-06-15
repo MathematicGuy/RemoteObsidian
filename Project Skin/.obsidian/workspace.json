@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac6d9b6d95e8a67",
+        "id": "9f3c6b7a5e3b3eba",
         "type": "tabs",
         "children": [
           {
-            "id": "a7868f7f9eaa3417",
+            "id": "36f958be1c328b46",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f68683cb6d4680a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pháp Luật.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pháp Luật.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pháp Luật.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pháp Luật.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,10 +187,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f68683cb6d4680a2",
+  "active": "36f958be1c328b46",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "Pháp Luật.md",
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Soft Skill/Internship.md",
     "2 ACTIONS/Personal/Soft Skill/Untitled.md",
