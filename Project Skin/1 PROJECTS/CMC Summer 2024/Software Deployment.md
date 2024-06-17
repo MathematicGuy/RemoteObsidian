@@ -20,3 +20,8 @@ note: chia team theo dự án. Mỗi team sẽ có 1 dự án
 
 ChatGPT - thinking
 DiagramGPT - grapth
+
+[How to write SRS ENG](https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document)
+[how to write SRS VN](https://funix.edu.vn/chia-se-kien-thuc/cach-viet-software-requirements-specification-srs/)
+
+[[2. The Essential of Software Requirement]]
