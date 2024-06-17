@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0fa067cb74420ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML & DM HW1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "ML & DM HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "ML & DM HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "ML & DM HW1.md"
               }
             }
           },
@@ -189,10 +203,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5941fb2c1322628d",
+  "active": "0fa067cb74420ca3",
   "lastOpenFiles": [
-    "SD HW2.md",
+    "Pasted image 20240617224944.png",
+    "Pasted image 20240617224942.png",
+    "ML & DM HW1.md",
+    "Pasted image 20240617224920.png",
+    "Pasted image 20240617224853.png",
+    "Pasted image 20240617224626.png",
+    "Pasted image 20240617224613.png",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "Classification Bayes.md",
     "_Focus/Todo.md",
+    "Spaces/Classification Techniques.md",
+    "SD HW2.md",
     "Spaces/SD HW1.md",
     "2. The Essential of Software Requirement.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
@@ -205,10 +229,8 @@
     "2 ACTIONS/Personal/Soft Skill/Internship.md",
     "2 ACTIONS/Personal/Soft Skill/Untitled.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
-    "Spaces/Classification Techniques.md",
     "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "Advice for AI.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "German Cases.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Spaces/Pasted image 20240613112536.png",
@@ -217,16 +239,7 @@
     "Spaces/Pasted image 20240611144030.png",
     "Spaces/German Dative Case.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
-    "3 RESOURCES/GoodForLater/Tech News.md",
-    "2 ACTIONS/Personal/Interest/Books/Good Read.md",
     "Spaces/Pasted image 20240612180824.png",
-    "Spaces/Pasted image 20240612180234.png",
-    "Spaces/Pasted image 20240612180133.png",
-    "Spaces/Pasted image 20240612175137.png",
-    "Spaces/Pasted image 20240612174716.png",
-    "Pasted image 20240612174658.png",
-    "Spaces/Pasted image 20240612173849.png",
-    "3 RESOURCES/GoodForLater/Get all wifi password.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

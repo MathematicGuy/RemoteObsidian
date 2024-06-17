@@ -3,26 +3,27 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
+- [ ] Learning Docs for Classification Bayes 
+- [ ] Classification Bayes
+- [ ] Classification Bayes HW
 
 - [ ] ML and DM Revision
 	- [ ] Classification Decision Tree
-	- [ ] Classification Bayes
-	- [ ] Classification KNN 
+	- [ ] SVM Preparation
+
 
 - [ ] Re-explain and documenting my Gaussian Elimination Code
+- [ ] Classification KNN 
 
 
 #Todo/GoalsThisWeek
 - [ ] Set up Automation for Daily Plan 
 	What do I want to setup again?
 - [ ] Set up Microsoft 365 
-- [ ] Work Out ~ 1hr  * 5 times / Week
 
 
 **Daily Plan**
-- [ ] Overclock my brain with knowledge the first second I woke up (Deep focus binary + Study) - 1h30 hrs section after 7hrs of Sleep
-
-- [ ] Hygine and Shower ~ 20'
+- [x] Hygine and Shower ~ 20'
 
 
 #Todo/GoalsThisMonth
@@ -32,8 +33,9 @@ banner: Images/Pasted image 20240402135259.png
 #MyRuleThat_I_SwearToLiveBy
 - [ ] No more Hades 2 after dying > 5 times a day (4/5 deaths) 
 - [ ] No more Hades2 after 7:00 PM
-- [ ] from 6/12 to 16/12. Start Do not give up on small task challange
 - [ ] Rest at least 25' before class  
+- [ ] Make my blood flow the 1st second I wake up 
+
 
 **My Learning**
 [Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) 
