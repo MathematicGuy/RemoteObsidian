@@ -20,17 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a0a79605a9169fb5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0a79605a9169fb5",
+  "active": "be2d677a380122c6",
   "lastOpenFiles": [
+    "Gaussian Elimination from Scratch Documentation 2.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "2 ACTIONS/_Focus.md",
     "Probability and Statistic.md",
     "Pasted image 20240615201757.png",
@@ -192,11 +185,9 @@
     "Pasted image 20240615154003.png",
     "Pasted image 20240615152820.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
-    "Gaussian Elimination from Scratch Documentation 2.md",
     "understand pythagorian in matrix.md",
     "Pasted image 20240615150026.png",
     "Pasted image 20240615143719.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation 1.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Row Echelon Form Algorithm.md",
