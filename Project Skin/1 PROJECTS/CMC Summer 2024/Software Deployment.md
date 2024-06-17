@@ -2,6 +2,7 @@
 
 [[Software Deployment Note]]
 [[SD HW1]]
+[[SD HW2]]
 
 ---
  
