@@ -328,3 +328,29 @@ Willst - do you want to
 wollt -> wollen (plural)
 feiern - celebrate
 	Wir wollen am neunzehnten October feiern / we want to celerabte on the nineteenth of Octobers
+
+
+Der Schreibtisch - the table
+	Der Schreibtisch ist sehr schön
+	Schau, der Schreibtisch ist billig
+		Können wir bitte den Schreibtisch haben ? 
++ ? **Könnt** from **Können** - conjugated form of verb "können" (to be able to) for "Ihr" (you plural). In our case, "können" is conjugated with "Wir".
++ ? **bitte** imply politeness, it oft come after the subj (chủ thể) or before the obj (đối tượng) for emplhasis.
+	Ex: Kannst du bitte das Hemd für mich kaufen
+
+
+Pommes
+Wurst
+Magst
+	Magst du die Pommes oder die Wurst ?  - Do you like French fries or sausage  
+	Ich Magst die Pommes und die Wurst ? 
+
+Speisekarte / menu
+	Die Speisekarte/Menü ist fantastisch
+
+Schmecken / taste
+	Das essen schmeckt sehr lecker 
+
+Wurst 
+Schmecker
+	Wie Schmeckt die Wurst

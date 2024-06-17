@@ -1917,3 +1917,19 @@ Beginnt - begin
 Achtzehnten - eighteenth (Thứ mười tám)
 	Achzehnten September - eighteenth of sep.. (Thứ 18 tháng 9)
 
+Das Handy - the cellphone
+Hast du ein Handy
+
+Die Musik - the music
+Regenbogen - rainbow 
+	Regen - rain
+	bogen  - express colorfulness ?
+
+Leute - people
+	Die Leute ist sehr laut
+
+Pommes - fries
+Schmecken - taste
+	Die Pommes Schmecken gut ? - The Fries taste good ?
+
+Noch - still
