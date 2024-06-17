@@ -1,6 +1,5 @@
 **Bài tập 14. Tại sao trong tài liệu SRS lại có phác thảo về UI?**
-> Giúp cho người dùng hiểu đc rõ ràng cách sản phẩm hoạt động vs nhau giúp tránh những hiểu lầm ko cần thiết.
- 
+> Giúp cho người dùng hiểu đc rõ ràng cách sản phẩm hoạt động vs nhau giúp tránh những hiểu lầm ko cần thiết. Từ đó người dùng có thể đưa ra những đánh giá tức thời giúp duy trì sản phẩm trong Sc
 
 
 **Bài tập 15. Trong tài liệu SRS, user story được BA sử dụng ở chỗ nào khi làm tài liệu?**

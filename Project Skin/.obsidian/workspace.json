@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76c84a809c32eaba",
+        "id": "0efb10c45716b192",
         "type": "tabs",
         "children": [
           {
-            "id": "bccc1a3721c9435d",
+            "id": "4594a55d16dce69c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,15 +189,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bccc1a3721c9435d",
+  "active": "4594a55d16dce69c",
   "lastOpenFiles": [
     "SD HW2.md",
+    "_Focus/Todo.md",
     "Spaces/SD HW1.md",
     "2. The Essential of Software Requirement.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "3 RESOURCES/Software Engineer/Software Engineer.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Pháp Luật.md",
