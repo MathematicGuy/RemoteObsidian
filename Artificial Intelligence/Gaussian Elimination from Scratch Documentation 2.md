@@ -39,9 +39,11 @@ $$
 	Matrix must be Square to calc Determinant
 
 + ? TODO
-	Understand DETERMINANT = Volumn of the New Vector / Volumn of Old Vector  
-	EXPLAIN SINGULAR. WHY DET <= 0 IS SINGULAR  
+	Understand [[Determinant]] = Volumn of the New Vector / Volumn of Old Vector  
+	EXPLAIN [[Singular Matrix]]. WHY DET <= 0 IS SINGULAR  
 	WHY MATRIX HAVE TO BE SQUARE
+
++ Eigen value in physic also present ressonant frequecy - tần số vọng lại
 
 
 ## Row Echelon

@@ -306,3 +306,25 @@ lieben (liebe in plural form) : infections, love, more than like
 ![[Pasted image 20240613112536.png]]
 > Liam und Sisse, lieben Ihr zusammen
 
+Schon - already
+Pläner - plan
+Achtzehnten / eighteenth (thứ mười tám) not eighteen (mười tám)
+- Du hast Achtzehn schon planer 
+
+wollen - want to
+neunzehnten - nineteen
+September
+feiern - celebration
+	Wir wollen am neunzehn Steptember feiern  - do you want to celebrate on the nineteenth of September 
+
+Beginnt - begin
+	Das Oktoberfest beginnt im Neunzehnten Septemb
+
+Besuchen - visit
+Willst - do you want to 
+	Willst du am achtzehn das Oktoberfest besuchen?
+
+
+wollt -> wollen (plural)
+feiern - celebrate
+	Wir wollen am neunzehnten October feiern / we want to celerabte on the nineteenth of Octobers

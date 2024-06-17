@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9f3c6b7a5e3b3eba",
+        "id": "f9b2881e68441302",
         "type": "tabs",
         "children": [
           {
-            "id": "36f958be1c328b46",
+            "id": "d08b40189c9c9433",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c5341d1a39d89f2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,11 +194,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "36f958be1c328b46",
+  "active": "c5341d1a39d89f2d",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "Pháp Luật.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Soft Skill/Internship.md",
     "2 ACTIONS/Personal/Soft Skill/Untitled.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
@@ -199,9 +208,7 @@
     "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "Advice for AI.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "German Cases.md",
-    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Spaces/Pasted image 20240613112536.png",
     "Spaces/Pasted image 20240604193334.png",

@@ -3,15 +3,13 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [x] Finish my Gausisan Elimination
-	- [x] Back Subtitution from Sratch
-	- [x] Setup Gauusian Elimination
 
 - [ ] ML and DM Revision
 	- [ ] Classification Decision Tree
 	- [ ] Classification Bayes
 	- [ ] Classification KNN 
 
+- [ ] Re-explain and documenting my Gaussian Elimination Code
 
 
 #Todo/GoalsThisWeek

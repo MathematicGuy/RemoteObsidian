@@ -1905,10 +1905,15 @@ Wollen - want to
 Beliebt - popular
 	Munich is very popular
 
-+ ? Oktoberfest -> popular festival in german
++ ? Das Oktoberfest -> popular festival in german
 + TODO: Learn about  it later
 
 Wollt - do you want
 	Anna und Ali, wollt Ihr Bier trinken - Ali and Anna, wo you want to drink beer
 
 Beliebt - popular
+
+Beginnt - begin
+Achtzehnten - eighteenth (Thứ mười tám)
+	Achzehnten September - eighteenth of sep.. (Thứ 18 tháng 9)
+

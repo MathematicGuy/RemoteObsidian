@@ -48,31 +48,51 @@ w = a,c,p (consistant across all the statement)
 y = 6,4,10
 feature x: 2,4
 
+## Systems of Sentences 
 ![[Pasted image 20240304114529.png]]
-**Complete:** Non-singular
-**Redundant, Contradictory**: singular
+	**Complete System** mean Non-singular.
+		is the *System give you the most information*  
+	**Redundant, Contradictory**: singular
+		is the System *allow you to reason others answers (info) using 1 piece of information*
+Just
+
+
 ![[Pasted image 20240304114630.png]]
-3 different type so it non-singular and a complete system
-all with more than 1 black -> redundant
-black dog and white dog -> contradictory (still -> singular)
-	just 1 dog with 2 type, and 1 bird
+3 different type so it non-singular and a complete system all with more than 1 black -> redundant
+Black dog and white dog -> contradictory (still -> singular)
++ Just 1 dog with 2 type, and 1 bird
+Just think this as x, y and z.
++ In System 2, if you already have X (as the dog) another X is redundant. 
++ In System 4: if you already have X (as the dog is black), the sentence "the dog is white" just mean -X. . Because we can point out -X which show there a singular value in the equation thus the System is Singular.
+
+## Systems of Equation
+> Sentences -> Equations
+![[Pasted image 20240615152820.png]]
+
+![[Pasted image 20240615154003.png]]
+> Description: Each line represent a vector. 
++ **The System have Infinitely many solutions** mean any combination of a, b, c would satisfied the System. For instance, beside (0, 5, 5) there are infinitely combination of a, b, c would satisfied/solve the system as well.
++ **The System have No Solution:** mean no combination of a, b, c would work.
++ **The System have 1 Solution:** mean only 1 combination of a, b and c would work.
 
 ![[Pasted image 20240304115702.png]]
-Sum of a + b equation remain 10 for every input. hence linear mean stay the same.
+> Sum of a + b equation remain 10 for every input. hence linear mean stay the same. 
 ![[Pasted image 20240304115817.png]]
 
-When 2 of the linear line across. So at the cross point the answer (a, b) for both of them are the same (unique solution, 1 solution)
+
+### Visualization
+**1 Sol:** 2 line across at 1 point
 ![[Pasted image 20240304115850.png]]
-situation 2 line are the same. so a and b are the same for every a, b (Infinity solution)
-+ increase value of 2nd function by 2 to the 1st function  -> polymeric (trùng) 
+
+**Infinitely Sols:** 2 line polymetric (trùng) eachother. This mean infinitely/every point from line A across line B.
 ![[Pasted image 20240304115943.png]]
-they never touch so no solution. 
-+ Increase by 2 but different solution. (=24). So parallel
+
+**No Sols:** 2 line don't come across (no intersect point), the System have 0 solution.
 ![[Pasted image 20240304120115.png]]
 
 As we learn earlier we have 
 ![[Pasted image 20240304120329.png]]
-+ (Contradictory) -> the same but different on 1 thing. as for the line. banana is 2 more value than apple but have the same function.
++ (Contradictory) -> the same but different on 1 thing. as for the line. banana is 2 times more value than apple but have the same function.
 
 Many Planes cross eachother through a POINT -> Non-Singular
 ![[Pasted image 20240304120838.png]]
@@ -84,19 +104,22 @@ plane collapse to eachother -> infinite solution (redundant)
 ![[Pasted image 20240304121452.png]]
 
 
-coefficients : hệ số
+## Coefficients : hệ số (số nhân với biến)
 ![[Pasted image 20240304122018.png]]
 
 An easy way to find if a system is singular or non singular is to turn the constants into zeros and to study that system
 ![[Pasted image 20240304122222.png]]
 
 ![[Pasted image 20240304122412.png]]
-Base on the system, we get the Matrix with the same system.
+The Matrix for the Systems above
 ![[Pasted image 20240304122431.png]]
 
+```ad-summary
+A System is Singular when a equation can be use to represent others system's equations
+```
 
-Cannot multiply 1 row to get other row -> linearly independant
-or else it is dependent (because other row can infer it )
+
+Cannot multiply 1 row to get other row -> linearly independant or else it is dependent (because other row can infer it )
 ![[Pasted image 20240304124410.png]]
 
 
@@ -128,12 +151,10 @@ Therefore we can pointed out
 
 **Định Thức**
 **1. Định nghĩa:**
-
 - Định thức là một hàm số áp dụng cho ma trận vuông (ma trận có số hàng bằng số cột), trả về một giá trị số duy nhất.
 - Ký hiệu: `det(A)` hoặc `|A|`, với A là ma trận
 
 **2. Bản chất của định thức:**
-
 - Định thức **thể hiện một số đặc tính quan trọng** của ma trận:
     - **Khả năng đảo ngược:** Ma trận có định thức khác 0 (khác 0) là ma trận khả nghịch, nghĩa là có thể tìm được ma trận nghịch đảo của nó.
     - **Hệ phương trình tuyến tính:** Định thức được sử dụng để giải hệ phương trình tuyến tính.
@@ -152,7 +173,7 @@ Assignment (Solved)
 + **Singular Matrix (det(A) = 0)** have Dependent Row (Determinant = 0)
 + **Non-Singular Matrix (det(A) ≠ 0).** have Linearly Independent rows. (Determinant = 6)
 
-example answer for the 1st one. 
+Answer for the 1st one. 
 ![[Pasted image 20240304130756.png]]
 
 ![[Pasted image 20240305014744.png]]
@@ -169,11 +190,10 @@ Can freely choose X to find a and b
 
 ![[Pasted image 20240305002803.png]]
 
-
-
 ![[Pasted image 20240305002849.png]]
 System is Dependant -> Singular 
 (Các hàng tự suy ra được nhau -> infinite solution)
+
 
 ### Elimination method
 *Gaussian Elimination*
@@ -211,11 +231,18 @@ Row operations that preserve singularity
 ![[Pasted image 20240305013038.png]]
 
 ![[Pasted image 20240305013129.png]]
-
 adding row to row doesn't change the determinant
+
+
 ## Chapter Summary
 
 ### Singular and Non-singular in Matrixes
+**Matrix is a combination of vectors**
++ vectors in vn call: vector, vector đại diện phương trình (equation)
++ matrix in vn call: ma trận, ma trận đại diện cho hệ phương trình (system of equation)
+
+### Singular
+> Mean 1 equation can be use to find the result others equation in a 
 
 #### **Singular Matrix**
 
@@ -291,7 +318,6 @@ Given Matrix A
 - **Unique Solutions:** Because the determinant is **non-zero**, we know any system of equations represented by this **matrix would have a unique solution.**
 
 ##### **Example 2: Reflection**
-
 - **Matrix:**
 ```
 	B = [[-1 0]
@@ -302,7 +328,6 @@ Given Matrix A
 - **Unique Solutions:** Again, the **non-zero determinant ensures a unique solution** for any system of equations using this matrix.
 
 ##### **Example 3: Collapse (Zero Determinant)**
-
 - **Matrix:**
 ```
 	C = [[2 4]
