@@ -1,8 +1,9 @@
 ## [[Decision Tree]]
 
-## Bagging (*B*oostrap *agg*rega*ting*) 
+## Bagging (*B*ootstrap *agg*rega*ting* - khởi động tổng hợp)
 
 ## Random Forest
 
 ## [[Classification Bayes]]
 
+## [[Classification Ensemble]]

@@ -82,10 +82,6 @@ Greedy approach (use when data are more bias to 1 side)
 ![[Pasted image 20240612180824.png]]
 
 
-
-
-
-
 ![[Pasted image 20240612140012.png]]
 
 **1. Calculate Entropy of the Target Variable (Risk):**

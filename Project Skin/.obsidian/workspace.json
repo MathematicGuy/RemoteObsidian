@@ -26,8 +26,13 @@
             "id": "5e5b2321cbda30b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Classification Ensemble.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classification Ensemble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Classification Ensemble.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Classification Ensemble.md"
+              }
             }
           },
           {
@@ -196,11 +205,14 @@
   },
   "active": "5e5b2321cbda30b5",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "ML & DM HW1.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Spaces/Classification Techniques.md",
+    "Classification Ensemble.md",
+    "Spaces/Decision Tree.md",
     "Classification Bayes.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "ML & DM HW1.md",
+    "DM.md",
+    "_Focus/Todo.md",
     "Pasted image 20240618104544.png",
     "Pasted image 20240618103727.png",
     "Pasted image 20240618101634.png",
@@ -229,8 +241,6 @@
     "2 ACTIONS/Personal/Soft Skill/Untitled.md",
     "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "Advice for AI.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
-    "Spaces/Decision Tree.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
