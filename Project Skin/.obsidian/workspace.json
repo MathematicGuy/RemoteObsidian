@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "815f96acc7c6d112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML & DM HW1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "ML & DM HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "ML & DM HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "ML & DM HW1.md"
               }
             }
           },
@@ -189,30 +203,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5941fb2c1322628d",
+  "active": "815f96acc7c6d112",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "Spaces/Classification Techniques.md",
+    "Classification Bayes.md",
+    "Pasted image 20240618104544.png",
+    "Pasted image 20240618103727.png",
+    "Pasted image 20240618101634.png",
+    "Pasted image 20240618100937.png",
+    "Pasted image 20240618100300.png",
+    "Pasted image 20240618100411.png",
+    "Pasted image 20240618100259.png",
+    "Pasted image 20240618095803.png",
+    "Pasted image 20240618095801.png",
+    "Pasted image 20240618095231.png",
+    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
-    "4 ARCHIVES/Images/Pasted image 20240617224613.png",
-    "4 ARCHIVES/Images/Pasted image 20240617224920.png",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Pháp Luật.md",
-    "Classification Bayes.md",
     "SD HW2.md",
     "ML & DM HW1.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
-    "_Focus/Todo.md",
-    "Pasted image 20240617224944.png",
-    "Pasted image 20240617224942.png",
-    "4 ARCHIVES/Images/Pasted image 20240617224853.png",
-    "Pasted image 20240617224626.png",
-    "Spaces/Classification Techniques.md",
     "Spaces/SD HW1.md",
     "2. The Essential of Software Requirement.md",
     "3 RESOURCES/Software Engineer/Software Engineer.md",
@@ -221,11 +239,7 @@
     "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "Advice for AI.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
-    "Spaces/Pasted image 20240613112536.png",
-    "Spaces/Pasted image 20240604193334.png",
     "Spaces/Decision Tree.md",
-    "Spaces/Pasted image 20240611144030.png",
-    "Spaces/Pasted image 20240612180824.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

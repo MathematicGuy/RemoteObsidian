@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a0dd4aec6efc58f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIC Day 1 - Mathematic in Data Science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "SIC Day 1 - Mathematic in Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "SIC Day 1 - Mathematic in Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md"
+                "file": "SIC Day 1 - Mathematic in Data Science.md"
               }
             }
           },
@@ -172,11 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be2d677a380122c6",
+  "active": "a0dd4aec6efc58f4",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "Gaussian Elimination from Scratch Documentation 2.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
-    "2 ACTIONS/_Focus.md",
     "Probability and Statistic.md",
     "Pasted image 20240615201757.png",
     "Determinant.md",
