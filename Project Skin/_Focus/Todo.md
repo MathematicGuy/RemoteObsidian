@@ -11,6 +11,7 @@ banner: Images/Pasted image 20240402135259.png
 	- [ ] Classification Decision Tree
 	- [ ] SVM Preparation
 
+- [ ] Viết Tin Nhắn cho thầy Đồ Án Chuyên Ngành
 
 - [ ] Re-explain and documenting my Gaussian Elimination Code
 - [ ] Classification KNN 

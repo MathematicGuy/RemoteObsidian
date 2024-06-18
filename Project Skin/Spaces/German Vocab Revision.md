@@ -354,3 +354,15 @@ Schmecken / taste
 Wurst 
 Schmecker
 	Wie Schmeckt die Wurst
+
+Noch - still
+Musik - music
+Noch früh - still early
+	Es is noch früh und die essen ist schlecht. Ich möchte mehr esse
+
+Früh - early
+Arbeiten - work
+	Früh arbeiten - work early
+	Ich muss früh arbeiten - I must work early
+
+Künstler - artist

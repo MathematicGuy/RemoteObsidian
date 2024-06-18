@@ -1,9 +1,8 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-g*German* word order: Important context goes first, Verb goes after.
+*German* word order: Important context goes first, Verb goes after.
 	Wir sehen ins Kino ein Film
-
 
 ### **Unit 1: Order in a cafe, describe your family**
 
@@ -27,7 +26,6 @@ Danke thank
 	Danke Schon thank you (danke shun)
 Grob tall/big
 Klein smallL
-
 
 **Lesson 2**
 Mein my
@@ -1520,10 +1518,13 @@ Die TaxiFahrt dauert circa vierzehn Minuten
 
 Die/Meine Straße - the/my street
 	Das ist mein Straße
-- [ ] Will - want to
+
+Will - want to
 	Willst du - do you want to
 	Wollt Ihr
+
 Höre listening
+	Was Hörst du ? - What are you hearing
 
 Der Wald the forest
 	Ich will nächste Woche im Wald wandern 
@@ -1933,3 +1934,16 @@ Schmecken - taste
 	Die Pommes Schmecken gut ? - The Fries taste good ?
 
 Noch - still
+Ja, bis morgen / Yes, see you tomorrow
+
+Wiesn-Herz - heart cake (German Oktoberfest cake)
+Noch - still
+Früh - eight
+	Es ist nur acht Uhr, das ist früh - it is onlz eight o'clock, that is early
+
+Viertel - quarter (1/4)
+Vor - to 
++ Es ist Viertel vor acht
++ Es ist Viertel vor sieben
+	It ist quarter till seven 
+

@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0fa067cb74420ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML & DM HW1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML & DM HW1.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML & DM HW1.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML & DM HW1.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,42 +189,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0fa067cb74420ca3",
+  "active": "5941fb2c1322628d",
   "lastOpenFiles": [
-    "Pasted image 20240617224944.png",
-    "Pasted image 20240617224942.png",
-    "ML & DM HW1.md",
-    "Pasted image 20240617224920.png",
-    "Pasted image 20240617224853.png",
-    "Pasted image 20240617224626.png",
-    "Pasted image 20240617224613.png",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "Classification Bayes.md",
-    "_Focus/Todo.md",
-    "Spaces/Classification Techniques.md",
-    "SD HW2.md",
-    "Spaces/SD HW1.md",
-    "2. The Essential of Software Requirement.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
-    "3 RESOURCES/Software Engineer/Software Engineer.md",
-    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Pháp Luật.md",
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+    "4 ARCHIVES/Images/Pasted image 20240617224613.png",
+    "4 ARCHIVES/Images/Pasted image 20240617224920.png",
+    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "1 PROJECTS/CMC Summer 2024/CMC Summer 2024.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "Pháp Luật.md",
+    "Classification Bayes.md",
+    "SD HW2.md",
+    "ML & DM HW1.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
+    "_Focus/Todo.md",
+    "Pasted image 20240617224944.png",
+    "Pasted image 20240617224942.png",
+    "4 ARCHIVES/Images/Pasted image 20240617224853.png",
+    "Pasted image 20240617224626.png",
+    "Spaces/Classification Techniques.md",
+    "Spaces/SD HW1.md",
+    "2. The Essential of Software Requirement.md",
+    "3 RESOURCES/Software Engineer/Software Engineer.md",
     "2 ACTIONS/Personal/Soft Skill/Internship.md",
     "2 ACTIONS/Personal/Soft Skill/Untitled.md",
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "Advice for AI.md",
-    "German Cases.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Spaces/Pasted image 20240613112536.png",
     "Spaces/Pasted image 20240604193334.png",
     "Spaces/Decision Tree.md",
     "Spaces/Pasted image 20240611144030.png",
-    "Spaces/German Dative Case.md",
-    "3 RESOURCES/GoodForLater/Good for LATER.md",
     "Spaces/Pasted image 20240612180824.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
