@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a0f5e29ef848ac5",
+        "id": "9b17ba27a009e2ff",
         "type": "tabs",
         "children": [
           {
-            "id": "f0c6f85144809f83",
+            "id": "533d997c742caa74",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5e5b2321cbda30b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classification Ensemble.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classification Ensemble.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classification Ensemble.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classification Ensemble.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,11 +189,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5e5b2321cbda30b5",
+  "active": "533d997c742caa74",
   "lastOpenFiles": [
+    "Classification Ensemble.md",
     "Pasted image 20240618174125.png",
     "Untitled.md",
-    "Classification Ensemble.md",
     "Spaces/Classification Techniques.md",
     "Spaces/Decision Tree.md",
     "Classification Bayes.md",
@@ -224,7 +210,6 @@
     "Pasted image 20240618100259.png",
     "Pasted image 20240618095803.png",
     "Pasted image 20240618095801.png",
-    "Pasted image 20240618095231.png",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
