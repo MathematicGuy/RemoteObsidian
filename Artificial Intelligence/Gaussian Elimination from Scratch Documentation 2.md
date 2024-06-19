@@ -1,6 +1,9 @@
 # Thing to understand first
 
 
+### 0) Eigenvalue and Eigenvector
+
+
 
 ### 1) [Augumented Matrix](https://tutorial.math.lamar.edu/classes/alg/augmentedmatrix.aspx): 
 > An **augmented matrix** for a system of equations is a matrix of numbers in which **each row represents the constants from one equation** 

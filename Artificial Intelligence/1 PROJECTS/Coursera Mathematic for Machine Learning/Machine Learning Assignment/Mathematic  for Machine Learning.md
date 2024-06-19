@@ -500,3 +500,5 @@ Ending Assignment
 
 
 # [[Week 4 Determinants and Eigenvector]]
++ [[Eigenvalues and Eigenvectors]]
++ Programming Assignment: Eigenvalues and Eigenvectors

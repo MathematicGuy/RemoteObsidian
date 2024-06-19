@@ -3,7 +3,7 @@
 kommen - come with (Sie)
 können - can with (Sie)
 	können Sie kommen
-> Um wie viel können Sie kommen
+	Um wie viel können Sie kommen
 
 
 Müssen 
@@ -366,3 +366,34 @@ Arbeiten - work
 	Ich muss früh arbeiten - I must work early
 
 Künstler - artist
+Bis - see you
+Morgen - tomorrow
+Spät - late
+	Wie Spät ist es ? How late is it? (the meaning refer "what time is it")
+
+Entschuldigung, wie spät ist es jetzt? how late is it now
+Du bis spät
+
+Vor - till
+Uhr - o'clock
+Halb [number]
+Vorlesung - lecture
+Nur
+	Es ist nur drei Uhr, meine Vorlesung beginnt am halb sechs vor zehn Uhr - no, mein lecture start on half past five till ten o'clock 
+
+Will
+Wir 
+-> Wir wollen (plural)
+	Wir wollen am neunzehnten September feiern / we celebarte on the nineteenth of September
+
+Endet die Vorlesung um drei oder fünf Uhr - Ist the class ended on three or five o'clock
+Eine Wurst mit Pommes bitte - a sausage with fried please
+
+
+Besuchen - visit
+	Die stadt ist schön, wir wollen die stadt besuchen
+
+Sind sie - are you
+Willst du zum - do you want to 
+
+Ich will Nächste wochen zum Oktoberfest gehen

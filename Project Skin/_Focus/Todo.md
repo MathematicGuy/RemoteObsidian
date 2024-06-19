@@ -2,7 +2,7 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-#Todo/Priority 
+	#Todo/Priority 
 - [ ] Learning Docs for Classification Bayes 
 - [ ] Classification Bayes
 - [ ] Classification Bayes HW

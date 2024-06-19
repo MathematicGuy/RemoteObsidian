@@ -1,6 +1,5 @@
 
 ## [[SIC - Artificial Intelligent]]
-T
 
 # [[Machine Learning]]
 ### [[Machine Learning Mathematics]] 

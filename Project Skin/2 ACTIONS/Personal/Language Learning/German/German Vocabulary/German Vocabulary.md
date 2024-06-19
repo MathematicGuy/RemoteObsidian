@@ -1353,9 +1353,7 @@ Ordering takeout - gọi món mang về
 	Warten Sie (please) wait (use Sie to show repspect for the waiting person)  
 	es gibt Fisch there is fish
 	Mittagessen lunch
-**Exercise EndD **
-
-
+**Exercise End**
 
 Die Bushaltestellen bus station
 Geradeaus Straight ahead
@@ -1426,7 +1424,7 @@ März
 	Hat deine Mutter am zehnten März Geburtstag?
 Siebten - seventh
 
-die Einladung - the invitation
+Die Einladung - the invitation
 	Die Einladung ist für meinen Sohn
 Zur - to the
 	Muss ich zur Party kommen?
@@ -1452,7 +1450,7 @@ Feiere - are celebrating
 	(Ich - Feiere, Sie - Feieren, Wir - feiern )
 	Wo Feiert Ihr heute geburtstag - where are you celebrating your birthday
 Hause - home
-	
+
 
 Hast du im April oder im Mai Geburtstag?
 	Is your birthday in April or in May
@@ -1865,7 +1863,7 @@ Deutsche - Female German (men from german or german in general)
 	different from Deutsch which only mean German
 Deutscher - Male German (men from german)
 
-Amerikanerin - American "people"
+Die Amerikanerin - the American "people"
 	Dan ist Amerikaner und er arbeitet in New York 
 + ? Use "Arbeitet" in [[third person form - german]]
 
@@ -1942,8 +1940,22 @@ Früh - eight
 	Es ist nur acht Uhr, das ist früh - it is onlz eight o'clock, that is early
 
 Viertel - quarter (1/4)
-Vor - to 
+Vor - to/till
 + Es ist Viertel vor acht
 + Es ist Viertel vor sieben
 	It ist quarter till seven 
+
+Vorlesung - lecture
+Endet - finished
+
+**"Zum"** - is a contraction of "zu dem"
+**is commonly used to indicate movement towards a place or to express the purpose of an action.**
+Example: 
+- Ich gehe **zum** Arzt. (I am going to the doctor.)
+	- "Zum" indicates movement towards a place (the doctor's office).
+- Er fährt **zum** Supermarkt. (He is driving to the supermarket.)
+	- "Zum" indicates movement towards a place (the supermarket).
+- Ich gehe **zum** Training. (I am going to training.)
+	- "Zum" indicates purpose (attending a training session).
++ Wir wollen zum Oktoberfest gehen - We want to go to the Oktoberfest
 

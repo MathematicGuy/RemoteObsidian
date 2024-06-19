@@ -7,5 +7,8 @@
   "make-md",
   "obsidian-tikzjax",
   "quickadd",
-  "templater-obsidian"
+  "templater-obsidian",
+  "quick-latex",
+  "obsidian-latex-suite",
+  "obsidian-completr"
 ]

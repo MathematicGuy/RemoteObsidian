@@ -315,3 +315,4 @@ word embeddings, which are vectorized representations of text.
 ## Demo: Training a custom machine learning model
 	![[Pasted image 20240612100550.png]]
 
+
