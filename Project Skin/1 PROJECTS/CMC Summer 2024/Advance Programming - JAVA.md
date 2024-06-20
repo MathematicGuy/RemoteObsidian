@@ -12,3 +12,6 @@ Create Spring Boot Project
 
 
 	JSP (like Razor page in C#)
+
+JDBC Bridge -> Turn many Database Language into 1 form so that it can work together as 1. 
+![[300px-Network_Protocol_driver.png]]

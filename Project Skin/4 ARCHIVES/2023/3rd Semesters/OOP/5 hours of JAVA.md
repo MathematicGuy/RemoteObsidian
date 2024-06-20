@@ -165,7 +165,7 @@ for (type variableName : arrayName) {
 
 String[] cars = {"Volvo", "BMW", "Ford"};
 for (String i : cars) {
-	// print i for each i in cars
+	// print i for each i in List
   System.out.println(i); 
 }
 ```
@@ -275,12 +275,11 @@ public class Main {
 }
 ```
 
-
-##### private: *The code only accessible within the DECLARED class* 
-
-
+##### private: *The code only accessible within the DECLARED class*
 
 ##### protected: *The code only accessible in the same package and SUBCLASSES*
+> This mean you cannot use a protected function when you import the package.
+
 ```java
 class Vehicle {
   protected String brand = "Ford";        // Vehicle attribute
@@ -291,8 +290,8 @@ class Vehicle {
 
 class Car extends Vehicle {
   private String modelName = "Mustang";    // Car attribute
-  public static void main(String[] args) {
-
+  public static void main(String[] args[[) {
+]]
     // Create a myCar object
     Car myCar = new Car();
 
@@ -306,7 +305,7 @@ class Car extends Vehicle {
 ```
 
 
-+ ##### final: class that CANNOT be r by other class
++ ##### final: class that CANNOT be use by other class
 	```java
 	final class Exam{}
 	```
@@ -328,7 +327,7 @@ class Car extends Vehicle {
 
 
 ## Encapsulation (Đóng gói)
-##### Đóng gói các biến theo kiểu private (chủ truy cập đc ở trong lớp đó), public (có thể truy cập từ mọi nơi). 
+##### Đóng gói các biến theo kiểu private (chỉ truy cập đc ở trong lớp đó), public (có thể truy cập từ mọi nơi). 
 The meaning of **Encapsulation**, is to make sure that "sensitive" data is hidden from users. To achieve this, you must:
 - Declare class variables/attributes as `private`
 - Provide public **get** and **set** methods to access and update the value of a `private` variable
@@ -490,7 +489,10 @@ class Main {
   }
 }
 ```
-> Công dụng: Khi muốn có các thành phần thiết yếu của 1 chiếc xe thì chỉ cần gọi. Mọi hàm trong đó đã được tạo sẵn.
+> Công dụng: 
+> + Sử dụng Interface như 1 thiết kế cho các Hàm Muốn Tạo
+> + Khi gọi hàm thì chỉ cần truy cập Interface để lấy hàm mình muốn. (Interface cũng giúp phân loại các hàm)
+> + Khi muốn có các thành phần thiết yếu của 1 chiếc xe thì chỉ cần gọi. Mọi hàm trong đó đã được tạo sẵn.
 
 
 # User Input
@@ -651,14 +653,14 @@ Example function
 ##### Clone
 > copy one to array to another
 ```java
-		// copy one to array to another
-		vowels1 = vowels.clone(); 
-		System.out.println(vowels1); // output: HENTAI 
+// copy one to array to another
+vowels1 = vowels.clone(); 
+System.out.println(vowels1); // output: HENTAI 
 ```
 ##### Merge Chars to Str
 ```java
-	  String word = Arrays.toString(vowels);
-	  System.out.println(word); // output: [H, E, N, T, A, I]
+String word = Arrays.toString(vowels);
+System.out.println(word); // output: [H, E, N, T, A, I]
 ```
 
 ##### Binary Search
@@ -695,9 +697,6 @@ Example function
 ```
 
 
-
-
-
 # Linked List
 
 Source: [Java LinkedList (w3schools.com)](https://www.w3schools.com/java/java_linkedlist.asp)
@@ -719,8 +718,6 @@ public class Main {
 }
 ```
 
-
-
 # Note
 
 ### Biến đổi từ List lên ArrayList
@@ -728,4 +725,11 @@ public class Main {
 List<SinhVien> list_sv;
 list_sv = new ArrayList<SinhVien> ();
 ```
+
+
+# What the Different
+### [[Array vs ArrayList vs List and ListIterator]]
++ **Array:** Cannot change size once created (immutable length).
++ **ArrayList:** Slower performance compared to arrays for random access due to potential resizing.
++ **ListIterator:** Interface providing bidirectional traversal and modification capabilities over a `List`.
 
