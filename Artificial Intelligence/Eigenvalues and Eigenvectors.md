@@ -56,57 +56,85 @@
 ![[Pasted image 20240619171845.png]]
 
 $$
-To find the eigenvectors for the given matrix \(A\):
-\[ A = \begin{pmatrix} 9 & 4 \\ 4 & 3 \end{pmatrix} \]
-
+A = \begin{pmatrix} 9 & 4 \\ 4 & 3 \end{pmatrix} 
+$$
 ### Step-by-Step Solution
 
 #### 1. **Recall the Eigenvalues**
 
-From the given information, the eigenvalues are \(\lambda_1 = 11\) and \(\lambda_2 = 1\).
+From the given information, the eigenvalues are $(\lambda_1 = 11)$ and $(\lambda_2 = 1)$
 
 #### 2. **Find Eigenvectors**
 
 For each eigenvalue \(\lambda\), solve the equation:
-\[ (A - \lambda I) \mathbf{v} = 0 \]
+$(A - \lambda I)v = 0$
 
-##### Eigenvector for \(\lambda_1 = 11\):
+##### Eigenvector for \($\lambda_1 = 11$):
 
-1. Form \(A - 11I\):
-\[ A - 11I = \begin{pmatrix} 9 & 4 \\ 4 & 3 \end{pmatrix} - 11 \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} = \begin{pmatrix} 9-11 & 4 \\ 4 & 3-11 \end{pmatrix} = \begin{pmatrix} -2 & 4 \\ 4 & -8 \end{pmatrix} \]
+1. Form $A - 11I$:
+$A - 11I = \begin{pmatrix} 9 & 4 \\ 4 & 3 \end{pmatrix} - 11 \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} = \begin{pmatrix} 9-11 & 4 \\ 4 & 3-11 \end{pmatrix} = \begin{pmatrix} -2 & 4 \\ 4 & -8 \end{pmatrix}$
 
-2. Solve \((A - 11I) \mathbf{v} = 0\):
-\[ \begin{pmatrix} -2 & 4 \\ 4 & -8 \end{pmatrix} \begin{pmatrix} v_1 \\ v_2 \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \end{pmatrix} \]
+2. Solve $$(A - 11I) \mathbf{v} = 0$$
+$$\begin{pmatrix} -2 & 4 \\ 4 & -8 \end{pmatrix} \begin{pmatrix} v_1 \\ v_2 \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \end{pmatrix}$$
 
 This system of linear equations can be reduced to:
-\[ -2v_1 + 4v_2 = 0 \]
-\[ 4v_1 - 8v_2 = 0 \]
+$$ 
+\begin{aligned}
+-2v_1 + 4v_2 = 0 \\
+4v_1 - 8v_2 = 0 
+\end{aligned}
+$$
 
 Both equations are equivalent, so we can take:
-\[ -2v_1 + 4v_2 = 0 \]
-\[ v_2 = \frac{v_1}{2} \]
+$$
+\begin{aligned}
+-2v_1 + 4v_{2 = 0} \\
+v_2 = \frac{v_1}{2}
+\end{aligned}
+$$
 
-Therefore, one eigenvector for \(\lambda_1 = 11\) is:
-\[ \mathbf{v}_1 = \begin{pmatrix} 1 \\ \frac{1}{2} \end{pmatrix} \]
+
+
+Therefore, one eigenvector for $\lambda_1 = 11$ is:
+$$
+\mathbf{v}_1 = \begin{pmatrix} 1 \\ \frac{1}{2} \end{pmatrix} 
+$$
+
 
 Or more conveniently, any scalar multiple of this vector, such as:
-\[ \mathbf{v}_1 = \begin{pmatrix} 2 \\ 1 \end{pmatrix} \]
+$$
+\mathbf{v}_1 = \begin{pmatrix} 2 \\ 1 \end{pmatrix} 
+$$
 
 ##### Eigenvector for \(\lambda_2 = 1\):
 
-1. Form \(A - I\):
-\[ A - I = \begin{pmatrix} 9 & 4 \\ 4 & 3 \end{pmatrix} - 1 \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} = \begin{pmatrix} 9-1 & 4 \\ 4 & 3-1 \end{pmatrix} = \begin{pmatrix} 8 & 4 \\ 4 & 2 \end{pmatrix} \]
+1. Form $(A - I)$:
+$$
+A - I = \begin{pmatrix} 9 & 4 \\ 4 & 3 \end{pmatrix} - 1 \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} = \begin{pmatrix} 9-1 & 4 \\ 4 & 3-1 \end{pmatrix} = \begin{pmatrix} 8 & 4 \\ 4 & 2 \end{pmatrix} 
+$$
 
-2. Solve \((A - I) \mathbf{v} = 0\):
-\[ \begin{pmatrix} 8 & 4 \\ 4 & 2 \end{pmatrix} \begin{pmatrix} v_1 \\ v_2 \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \end{pmatrix} \]
+2. Solve $(A - I) \mathbf{v} = 0$:
+$$
+\begin{pmatrix} 8 & 4 \\ 4 & 2 \end{pmatrix} \begin{pmatrix} v_1 \\ v_2 \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \end{pmatrix} 
+$$
 
 This system of linear equations can be reduced to:
-\[ 8v_1 + 4v_2 = 0 \]
-\[ 4v_1 + 2v_2 = 0 \]
+$$ 
+\begin{aligned}
+8v_1 + 4v_2 = 0 \\
+4v_1 + 2v_2 = 0 
+\end{aligned}
+$$
+
 
 Both equations are equivalent, so we can take:
-\[ 8v_1 + 4v_2 = 0 \]
-\[ v_2 = -2v_1 \]
+$$
+\begin{aligned}
+8v_1 + 4v_2 = 0 \\
+v_2 = -2v_1 
+\end{aligned}
+$$
+
 
 Therefore, one eigenvector for \(\lambda_2 = 1\) is:
 \[ \mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix} \]
@@ -117,4 +145,4 @@ Therefore, one eigenvector for \(\lambda_2 = 1\) is:
 - Eigenvalue \(\lambda_2 = 1\) has the corresponding eigenvector \(\mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix}\).
 
 These eigenvectors form the eigenbasis for the matrix \(A\).
-$$
+

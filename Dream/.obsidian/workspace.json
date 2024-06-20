@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c2c2fb0c4802920a",
+            "id": "ced875dba08f0b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/Fitness/How to build muscle faster.md",
+                "file": "2 ACTIONS/_My Life/Free Will.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,17 +81,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "583a9f610f8f0754",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/Fitness/How to build muscle faster.md",
+                "file": "2 ACTIONS/_My Life/Free Will.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/Fitness/How to build muscle faster.md"
+                "file": "2 ACTIONS/_My Life/Free Will.md"
               }
             }
           },
@@ -188,18 +179,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2c2fb0c4802920a",
+  "active": "ced875dba08f0b30",
   "lastOpenFiles": [
+    "2 ACTIONS/_My Life/_My Life.md",
+    "2 ACTIONS/_My Life/Free Will.md",
+    "_Focus.md",
+    "3 RESOURCES/Fitness/How to build muscle faster.md",
     "Pasted image 20240615110501.png",
     "4 ARCHIVES/Image/Pasted image 20230629230346.png",
     "Pasted image 20240615102850.png",
-    "3 RESOURCES/Fitness/How to build muscle faster.md",
-    "_Focus.md",
     "fitness/fitness.md",
     "fitness",
     "3 RESOURCES/Fitness/Fitness.md",
     "3 RESOURCES/Fitness",
-    "2 ACTIONS/_My Life/_My Life.md",
     "2024-06-02.md",
     "Head Space.md",
     "2 ACTIONS/_My Life/Styles.md",
@@ -235,7 +227,6 @@
     "4 ARCHIVES/Image/Pasted image 20240401021247.png",
     "4 ARCHIVES/Image/Pasted image 20240401020708.png",
     "4 ARCHIVES/Image/Pasted image 20240401020556.png",
-    "4 ARCHIVES/Image/Pasted image 20240401020505.png",
     "Untitled.canvas"
   ]
 }
