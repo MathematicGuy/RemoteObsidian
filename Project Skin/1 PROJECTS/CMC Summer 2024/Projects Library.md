@@ -69,3 +69,6 @@
 | 25  | Xây dựng các hệ thống IOT dựa trên một số mô hình như Conversational Actions; Google Cloud; IoT Core; Smart home action; AWS IoT Core                 | 20        | 11   | PHẠM MẠNH LINH       | BIT220186 | [BIT220186@st.cmc-u.edu.vn](mailto:BIT220186@st.cmc-u.edu.vn) | Nguyễn Đức An      |
 | 26  | Xây dựng ứng dụng tính lương và chấm công tự động                                                                                                     | 29        | 5    | NGUYỄN SƠN TÙNG      | BIT220166 | [BIT220166@st.cmc-u.edu.vn](mailto:BIT220166@st.cmc-u.edu.vn) | Hoàng Tiểu Bình    |
 | 27  | Nhận diện xử lý ảnh : ảnh 3D, ảnh Depth, các bài toán xác định dị vật, lệch chân, ...trên PCB... OpenCV hoặc Halcon/ C++                              | 24        | 13   | ĐINH NHẬT THÀNH      | BIT220143 | [BIT220143@st.cmc-u.edu.vn](mailto:BIT220143@st.cmc-u.edu.vn) | Vũ Duy Khương      |
+
+
+Xác định dị thường trên PCB sử dụng OpenCV ạ. 

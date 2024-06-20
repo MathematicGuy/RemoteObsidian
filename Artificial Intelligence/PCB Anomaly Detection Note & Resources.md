@@ -14,6 +14,7 @@
 + [[PCB Anomaly Detection RoadMap]]
 
 
+
 ### Reference Project
 + [PCB Anomaly Detection Preference Project](https://github.com/OpenAOI/anodet)
 	+ [PathCore_anomaluy_detection](https://github.com/hcw-00/PatchCore_anomaly_detection?tab=readme-ov-file)
@@ -23,6 +24,8 @@
 ### My Learning Project
 + [[PCB defects detection using YOLOv5]]
 
+
+
 ---
 
 DRC Design errors
@@ -31,3 +34,8 @@ Defect Types:
 + Detect of solder bridge (thép hàn ở chân cpu bị hàn lỗi hoặc nối với nhau, etc...)
 + Scratch Detection
 
+Note:
+> Nhận diện xử lý ảnh : ảnh 3D, ảnh Depth, các bài toán xác định dị vật, lệch chân, ...trên PCB... OpenCV, Halcon/ C++
+
++ Tài Liệu giới thiệu dự 
++ Làm Slide trình bày dự án
