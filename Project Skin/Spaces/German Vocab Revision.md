@@ -389,7 +389,6 @@ Wir
 Endet die Vorlesung um drei oder fünf Uhr - Ist the class ended on three or five o'clock
 Eine Wurst mit Pommes bitte - a sausage with fried please
 
-
 Besuchen - visit
 	Die stadt ist schön, wir wollen die stadt besuchen
 
@@ -397,3 +396,17 @@ Sind sie - are you
 Willst du zum - do you want to 
 
 Ich will Nächste wochen zum Oktoberfest gehen
++ Zum: to go, using before a location
+
+Gesund  - healthy
+	Das essen ist gesund
+
+Spaß
+Oktoberfest
+Beliebt
+	Das Oktoberfest ist Spaß und es macht sehr Beliebt
+
+Toll / great
+	Es ist toll / it is great
+	ich liebe das Studium, Die Vorlesung ist toll
+

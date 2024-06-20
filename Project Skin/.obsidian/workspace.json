@@ -10,6 +10,7 @@
           {
             "id": "41b8c5ceba5b2fd4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]

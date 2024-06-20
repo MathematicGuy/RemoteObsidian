@@ -1959,3 +1959,25 @@ Example:
 	- "Zum" indicates purpose (attending a training session).
 + Wir wollen zum Oktoberfest gehen - We want to go to the Oktoberfest
 
+Beliebt - popular 
+Spaß - fun
+	Es macht Spaß - it is fun
+
+```ad-info
+*Macht* Come from the word *machen* mean 'to do' or 'to make'
+	
+The phrase **"Die Party macht Spaß" is used instead of "Die Party ist Spaß"** because in German, **"Spaß" (fun) is considered an activity rather than a state**. Hence, the verb "machen" (to make) is used to convey that the party "makes" fun or is enjoyable.
+	
+Example:
+	+ **"Die Party macht Spaß."** = "The party is fun." (literally, **"The party makes fun."**)
+	+ "Die Party ist Spaß." is incorrect because "Spaß" is not a state but an activity that something can create or cause.
+```
+
+
+
+
+**3 Level of saying Great** 
++ Toll is the lowest most casual "great".
++ Super is a bit more. Like "amazing".
++ "Großartig" is really formal and serious. Almost like "wonderful" or "superb".
+
