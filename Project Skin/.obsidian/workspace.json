@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2a102d7cacb15e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to build a web application in Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "How to build a web application in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "How to build a web application in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "How to build a web application in Java.md"
               }
             }
           },
@@ -189,15 +203,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c57747fb93ad60f2",
+  "active": "2a102d7cacb15e8b",
   "lastOpenFiles": [
+    "Pasted image 20240620175706.png",
+    "Pasted image 20240620175704.png",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "How to build a web application in Java.md",
+    "_Focus/Todo.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "4 ARCHIVES/2024/CMC Spring 2024/CyberSecrity/RSA Algorithm.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "300px-Network_Protocol_driver.png",
     "Array vs ArrayList vs List and ListIterator.md",
-    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -217,7 +234,6 @@
     "Pasted image 20240618100300.png",
     "Pasted image 20240618100411.png",
     "Pasted image 20240618100259.png",
-    "Pasted image 20240618095803.png",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
@@ -225,8 +241,6 @@
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Pháp Luật.md",
     "SD HW2.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
-    "Spaces/SD HW1.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

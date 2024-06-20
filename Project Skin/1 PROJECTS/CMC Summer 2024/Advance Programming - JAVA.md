@@ -15,3 +15,5 @@ Create Spring Boot Project
 
 JDBC Bridge -> Turn many Database Language into 1 form so that it can work together as 1. 
 ![[300px-Network_Protocol_driver.png]]
+
+# [[How to build a web application in Java]]
