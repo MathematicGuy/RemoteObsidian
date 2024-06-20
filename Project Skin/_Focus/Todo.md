@@ -2,16 +2,12 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-	#Todo/Priority 
+#Todo/Priority 
+- [ ] Viết Tin Nhắn cho thầy Đồ Án Chuyên Ngành
 - [ ] Learning Docs for Classification Bayes 
-- [ ] Classification Bayes
-- [ ] Classification Bayes HW
-
 - [ ] ML and DM Revision
 	- [ ] Classification Decision Tree
 	- [ ] SVM Preparation
-
-- [ ] Viết Tin Nhắn cho thầy Đồ Án Chuyên Ngành
 
 - [ ] Re-explain and documenting my Gaussian Elimination Code
 - [ ] Classification KNN 
