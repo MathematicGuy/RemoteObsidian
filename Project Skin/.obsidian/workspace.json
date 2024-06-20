@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac0712452d5a44d",
+        "id": "4d882b7a3d9fb194",
         "type": "tabs",
         "children": [
           {
-            "id": "05370504e5473297",
+            "id": "c57747fb93ad60f2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "864d0fe1a6f07183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d411b8819185134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -216,11 +189,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9d411b8819185134",
+  "active": "c57747fb93ad60f2",
   "lastOpenFiles": [
+    "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
+    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
+    "4 ARCHIVES/2024/CMC Spring 2024/CyberSecrity/RSA Algorithm.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "300px-Network_Protocol_driver.png",
-    "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "Array vs ArrayList vs List and ListIterator.md",
     "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
@@ -252,7 +227,6 @@
     "SD HW2.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
     "Spaces/SD HW1.md",
-    "2. The Essential of Software Requirement.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
