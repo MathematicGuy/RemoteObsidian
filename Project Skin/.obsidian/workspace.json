@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "329d1df6c2e5617e",
+        "id": "0ac0712452d5a44d",
         "type": "tabs",
         "children": [
           {
-            "id": "41b8c5ceba5b2fd4",
+            "id": "05370504e5473297",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5795dce037529037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Projects Library.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Projects Library.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,8 +189,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5795dce037529037",
+  "active": "05370504e5473297",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -226,7 +213,6 @@
     "Pasted image 20240618100259.png",
     "Pasted image 20240618095803.png",
     "Pasted image 20240618095801.png",
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",

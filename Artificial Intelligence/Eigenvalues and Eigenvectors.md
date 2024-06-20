@@ -88,11 +88,10 @@ $$
 Both equations are equivalent, so we can take:
 $$
 \begin{aligned}
--2v_1 + 4v_{2 = 0} \\
+-2v_1 + 4v_{2} = 0 \\
 v_2 = \frac{v_1}{2}
 \end{aligned}
 $$
-
 
 
 Therefore, one eigenvector for $\lambda_1 = 11$ is:
@@ -106,7 +105,7 @@ $$
 \mathbf{v}_1 = \begin{pmatrix} 2 \\ 1 \end{pmatrix} 
 $$
 
-##### Eigenvector for \(\lambda_2 = 1\):
+##### Eigenvector for $(\lambda_2 = 1)$:
 
 1. Form $(A - I)$:
 $$
@@ -136,13 +135,13 @@ v_2 = -2v_1
 $$
 
 
-Therefore, one eigenvector for \(\lambda_2 = 1\) is:
-\[ \mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix} \]
+Therefore, one eigenvector for $(\lambda_2 = 1)$ is:
+$$\mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix}$$
 
 ### Summary
 
-- Eigenvalue \(\lambda_1 = 11\) has the corresponding eigenvector \(\mathbf{v}_1 = \begin{pmatrix} 2 \\ 1 \end{pmatrix}\).
-- Eigenvalue \(\lambda_2 = 1\) has the corresponding eigenvector \(\mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix}\).
+- Eigenvalue $(\lambda_1 = 11)$ has the corresponding eigenvector $\mathbf{v}_1 = \begin{pmatrix} 2 \\ 1 \end{pmatrix}$.
+- Eigenvalue $(\lambda_2 = 1)$ has the corresponding eigenvector $\mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix}$.
 
-These eigenvectors form the eigenbasis for the matrix \(A\).
+These eigenvectors form the eigenbasis for the matrix $A$.
 

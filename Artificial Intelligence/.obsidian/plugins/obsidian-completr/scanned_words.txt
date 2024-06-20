@@ -50,6 +50,7 @@ find
 factor
 first
 form
+frac
 space
 say
 same
@@ -89,6 +90,7 @@ applied
 above
 are
 any
+aligned
 notate
 Change
 Basis
