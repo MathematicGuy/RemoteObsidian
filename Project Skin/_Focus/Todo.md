@@ -3,7 +3,7 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Viết Tin Nhắn cho thầy Đồ Án Chuyên Ngành
+- [x] Viết Tin Nhắn cho thầy Đồ Án Chuyên Ngành
 - [ ] Learning Docs for Classification Bayes 
 - [ ] ML and DM Revision
 	- [ ] Classification Decision Tree

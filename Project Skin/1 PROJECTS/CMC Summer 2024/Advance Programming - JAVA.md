@@ -10,3 +10,5 @@ Create Spring Boot Project
 + test
 + pom.xml - dependencies
 
+
+	JSP (like Razor page in C#)
