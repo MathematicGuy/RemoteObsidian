@@ -1974,10 +1974,10 @@ Example:
 ```
 
 
-
-
 **3 Level of saying Great** 
 + Toll is the lowest most casual "great".
 + Super is a bit more. Like "amazing".
 + "Großartig" is really formal and serious. Almost like "wonderful" or "superb".
 
+
+Uns - us

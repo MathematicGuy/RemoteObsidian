@@ -26,5 +26,5 @@ Nhà nước ra quy định, tổng thống phải kí
 # Chức năng của Nhà Nước
 
 
-
 # [[Pháp Luật]]
+

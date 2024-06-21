@@ -27,4 +27,6 @@ Nghị Quyết (ex: Nghi quyết thứ 12)
 
 Vi Phạm Pháp Luật 
 1) Hành vi xác định con người 
-2) 
+	Lỗi là trạng thái tâm lý, phản ánh thái độ tiêu cực của người chứng kiến ng vi phạm????
+
+

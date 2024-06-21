@@ -410,3 +410,5 @@ Toll / great
 	Es ist toll / it is great
 	ich liebe das Studium, Die Vorlesung ist toll
 
+Riesenrad - Ferris wheel 
+Warum magst du das Riesenrad nicht ? - why dont you like the ferris wheel ?

@@ -26,8 +26,13 @@
             "id": "a31f26e0d7276eb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pháp Luật.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pháp Luật.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pháp Luật.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pháp Luật.md"
+              }
             }
           },
           {
@@ -196,10 +205,13 @@
   },
   "active": "a31f26e0d7276eb8",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Pháp Luật.md",
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "How to build a web application in Java.md",
     "Pasted image 20240620175706.png",
     "Pasted image 20240620175704.png",
@@ -209,8 +221,6 @@
     "4 ARCHIVES/2024/CMC Spring 2024/CyberSecrity/RSA Algorithm.md",
     "300px-Network_Protocol_driver.png",
     "Array vs ArrayList vs List and ListIterator.md",
-    "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Classification Ensemble.md",
     "Pasted image 20240618174125.png",
     "Untitled.md",
