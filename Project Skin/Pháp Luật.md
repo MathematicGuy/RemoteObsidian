@@ -22,4 +22,9 @@ Nghị Quyết (ex: Nghi quyết thứ 12)
 
 \Quan hệ pháp luật
 
-Quyền Quyền
+# Chương 3: Vi phạm pháp luật, trách nhiệm pháp lý, pháp chế xã hội chủ nghĩa
+
+
+Vi Phạm Pháp Luật 
+1) Hành vi xác định con người 
+2) 

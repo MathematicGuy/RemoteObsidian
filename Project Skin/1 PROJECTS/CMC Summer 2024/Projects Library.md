@@ -70,5 +70,4 @@
 | 26  | Xây dựng ứng dụng tính lương và chấm công tự động                                                                                                     | 29        | 5    | NGUYỄN SƠN TÙNG      | BIT220166 | [BIT220166@st.cmc-u.edu.vn](mailto:BIT220166@st.cmc-u.edu.vn) | Hoàng Tiểu Bình    |
 | 27  | Nhận diện xử lý ảnh : ảnh 3D, ảnh Depth, các bài toán xác định dị vật, lệch chân, ...trên PCB... OpenCV hoặc Halcon/ C++                              | 24        | 13   | ĐINH NHẬT THÀNH      | BIT220143 | [BIT220143@st.cmc-u.edu.vn](mailto:BIT220143@st.cmc-u.edu.vn) | Vũ Duy Khương      |
 
-
-Xác định dị thường trên PCB sử dụng OpenCV ạ. 
+Xác định dị thường trên PCB sử dụng OpenCV. 

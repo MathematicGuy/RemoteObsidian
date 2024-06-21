@@ -27,6 +27,7 @@ optimize
 one
 out
 odd
+outlier
 vector
 vectors
 versions
@@ -173,6 +174,7 @@ result
 reduced
 repeated
 randomly
+reveal
 Non
 Need
 zero
@@ -182,6 +184,7 @@ direction
 data
 directly
 diff
+detection
 From
 Find
 For
