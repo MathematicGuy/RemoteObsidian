@@ -6,3 +6,4 @@
 # SIV Live Class 
 ## [[SIC Day 1 - Mathematic in Data Science]]
 
+[[SIC - Statistical Hypothesis Testing]]

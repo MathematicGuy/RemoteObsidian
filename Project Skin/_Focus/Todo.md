@@ -13,14 +13,14 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] Classification KNN 
 
 
+
 #Todo/GoalsThisWeek
-- [ ] Set up Automation for Daily Plan 
-	What do I want to setup again?
-- [ ] Set up Microsoft 365 
+
 
 
 **Daily Plan**
 - [x] Hygine and Shower ~ 20'
+
 
 
 #Todo/GoalsThisMonth

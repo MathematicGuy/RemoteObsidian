@@ -412,3 +412,8 @@ Toll / great
 
 Riesenrad - Ferris wheel 
 Warum magst du das Riesenrad nicht ? - why dont you like the ferris wheel ?
+
+Hinten / in the back
+Sehen / see
+	Wir sind Hinten, Kannst du uns sehen  / We are in the back. Can you see us?
+

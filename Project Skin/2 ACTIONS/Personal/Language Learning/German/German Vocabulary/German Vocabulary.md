@@ -1979,5 +1979,13 @@ Example:
 + Super is a bit more. Like "amazing".
 + "Großartig" is really formal and serious. Almost like "wonderful" or "superb".
 
-
 Uns - us
+Dich - you
+	Dich nicht - not you
+
+Seht Ihr - Do you see
++ Seht - "See" when going with plural form "Ihr"
+	Alex und Nina, seht Ihr das Riesenrad 
++ ? In Question, verb stand in front
+
+WeißBier - Wheatbeer
