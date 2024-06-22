@@ -145,3 +145,4 @@ $$\mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix}$$
 
 These eigenvectors form the eigenbasis for the matrix $A$.
 
+[[How to Find Eigenvectors if Matrix have Repeated Eigenvalue ]]

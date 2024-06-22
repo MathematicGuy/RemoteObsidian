@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "41107bb5521894b5",
+            "id": "9063accb4ecaf65f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIC - Statistical Hypothesis Testing.md",
+                "file": "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIC - Statistical Hypothesis Testing.md",
+                "file": "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIC - Statistical Hypothesis Testing.md",
+                "file": "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIC - Statistical Hypothesis Testing.md"
+                "file": "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md"
               }
             }
           },
@@ -186,16 +186,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "41107bb5521894b5",
+  "active": "9063accb4ecaf65f",
   "lastOpenFiles": [
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
-    "SIC - Statistical Hypothesis Testing.md",
+    "Pasted image 20240622141736.png",
+    "Pasted image 20240622141600.png",
+    "Eigenvalues and Eigenvectors.md",
+    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
+    "Week 1 Matrix System.md",
     "2 ACTIONS/_Focus.md",
+    "SIC - Statistical Hypothesis Testing.md",
+    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "Anomaly detection in ML.md",
     "PCB Anomaly Detection Note & Resources.md",
     "Anomaly Detection in Machine Learning.md",
     "PCB Anomally Detection.md",
-    "Eigenvalues and Eigenvectors.md",
     "Pasted image 20240619163912.png",
     "Pasted image 20240619171845.png",
     "Pasted image 20240619151558.png",
@@ -205,11 +210,9 @@
     "Pasted image 20240619144408.png",
     "Pasted image 20240619144135.png",
     "Pasted image 20240619143706.png",
-    "Pasted image 20240619143810.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
     "Matrix Multiplication.md",
     "Matrix Mulortiplication.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic  for Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
     "Gaussian Elimination from Scratch Documentation 2.md",
@@ -221,9 +224,6 @@
     "Probability and Statistic.md",
     "Determinant.md",
     "Singular Matrix.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI.md",
-    "understand pythagorian in matrix.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A worked example of Row Echelon.md",
     "Missing value",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",

@@ -1,15 +1,3 @@
-**Interactive tool**
-[3x3 Matrix](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/ZR44d/interactive-tool-system-of-equations-as-planes-3x3) 
-[Linear System with 2 varible](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/0u0Uy/interactive-tool-graphical-representation-of-linear-systems-with-2-variables)
-[Linear Systems with 3 variables](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/ma7Rv/interactive-tool-graphical-representation-of-linear-systems-with-3-variables)
-
-**Comunity**
-[Deeplearning.ai](https://community.deeplearning.ai/)
-
-[[Mathematic for Machine Learning - Assignment]]
-
----
-
 + obscure: mơ hồ
 
 ![[Pasted image 20240304110152.png]]
@@ -207,6 +195,7 @@ System is Dependant -> Singular
 And that how we get the Point 3 plane crossed.
 ![[Pasted image 20240305005002.png]]
 
+
 ## Solving system of Linear equations: Elimination 
 Matrix row-reduction (ma trận bậc thang rút gọn)
 + ? The Intermediate System are the System after Gaussian Elimination Process.
@@ -355,7 +344,6 @@ Given Matrix A
 - The determinant of a matrix tells you about the properties of the transformation the matrix represents and if a unique solution even exists.
 ```
 
-
 ## Row Echelon form and rank
 **Purpose of Row Echelon**
 ![[Pasted image 20240306103048.png]]
@@ -492,13 +480,4 @@ R1 - R3
 Ending Assignment
 + [[GaussianElimination_Assignment]]
 + [[Gaussian Elimination from Scratch Documentation 1]]
- 
-# [[Week 3 Vector and Linear Transformations]]
-Ending Assignment
-+ [[Artificial Network Using Linear Algebra]]
-+ [[Linear Transformations and Neural Networks Assignment]]
 
-
-# [[Week 4 Determinants and Eigenvector]]
-+ [[Eigenvalues and Eigenvectors]]
-+ Programming Assignment: Eigenvalues and Eigenvectors
