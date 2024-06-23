@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a2f242a98358567",
+        "id": "4fbf53880e0afb8d",
         "type": "tabs",
         "children": [
           {
-            "id": "ca26ce38897c3008",
+            "id": "9640aadf17cd8367",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,25 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2e68ba62a4fbd528",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f0d4074363ba0db8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +189,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f0d4074363ba0db8",
+  "active": "9640aadf17cd8367",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
-    "_Focus/Todo.md",
     "Spaces/Software Deployment Note.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
@@ -218,7 +202,6 @@
     "Pháp Luật.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "How to build a web application in Java.md",
     "Pasted image 20240620175706.png",
     "Pasted image 20240620175704.png",

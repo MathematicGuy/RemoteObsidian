@@ -132,6 +132,7 @@ ensures
 exist
 equ
 exists
+everzthing
 is
 in
 image
@@ -251,6 +252,8 @@ shorten
 see
 stars
 studied
+seem
+started
 consists
 can
 change
@@ -423,6 +426,7 @@ Collapse
 Calculate
 Convert
 Constant
+Calc
 Basis
 Both
 Board
@@ -586,6 +590,7 @@ dimensions
 divide
 degrees
 determine
+duplicated
 From
 Find
 For
