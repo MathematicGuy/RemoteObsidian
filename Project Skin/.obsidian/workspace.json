@@ -10,6 +10,7 @@
           {
             "id": "409b41c6ba9a73de",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c616b5f8134289cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/My Travel Plan by myself.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/My Travel Plan by myself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/My Travel Plan by myself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "1 PROJECTS/My Travel Plan by myself.md"
               }
             }
           },
@@ -187,10 +202,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "409b41c6ba9a73de",
+  "active": "c616b5f8134289cb",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+    "Pasted image 20240624113601.png",
+    "Pasted image 20240624112750.png",
+    "Pasted image 20240624112718.png",
+    "1 PROJECTS/My Travel Plan by myself.md",
     "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
     "Spaces/Software Deployment Note.md",
@@ -217,14 +236,10 @@
     "Classification Bayes.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "ML & DM HW1.md",
-    "DM.md",
     "Pasted image 20240618104544.png",
     "Pasted image 20240618103727.png",
     "Pasted image 20240618101634.png",
     "Pasted image 20240618100937.png",
-    "Pasted image 20240618100300.png",
-    "Pasted image 20240618100411.png",
-    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
