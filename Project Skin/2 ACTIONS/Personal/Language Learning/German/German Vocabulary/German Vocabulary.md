@@ -575,7 +575,7 @@ Marktplatz - market place
 wirklich - really 
 	 wirklich gut - really well
 **Counting**
-0 - null
+0 - **null**
 1 - **eins** (einhundert)
 	kostet
 2 - **zwei**
@@ -1989,3 +1989,8 @@ Seht Ihr - Do you see
 + ? In Question, verb stand in front
 
 WeißBier - Wheatbeer
+
+Noch - still
+Früh - early
+Diese - this
+	Dieses Jahre - this year

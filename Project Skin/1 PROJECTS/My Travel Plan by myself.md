@@ -20,4 +20,4 @@ Choice 1: Florance Hotel
 ![[Pasted image 20240624113601.png]]
 
 
-Choice 2: Nhật Quang House
+Choice 2: Memory Hotel

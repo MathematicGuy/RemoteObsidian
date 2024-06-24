@@ -417,3 +417,6 @@ Hinten / in the back
 Sehen / see
 	Wir sind Hinten, Kannst du uns sehen  / We are in the back. Can you see us?
 
+Das Geht / that work
+Schmecken / taste
+		Schmekt das Bier gut ? 

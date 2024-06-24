@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c616b5f8134289cb",
+            "id": "f8be4bff71f84fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/My Travel Plan by myself.md",
+                "file": "Learn ReactNative.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/My Travel Plan by myself.md",
+                "file": "Learn ReactNative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/My Travel Plan by myself.md",
+                "file": "Learn ReactNative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/My Travel Plan by myself.md"
+                "file": "Learn ReactNative.md"
               }
             }
           },
@@ -202,19 +203,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c616b5f8134289cb",
+  "active": "f8be4bff71f84fc0",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Learn ReactNative.md",
+    "Spaces/Mobile Development Project.md",
+    "Spaces/How to Run React Native with Android Studio.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "3 RESOURCES/Web/FrontEnd/FrontEnd.md",
+    "1 PROJECTS/My Travel Plan by myself.md",
     "Pasted image 20240624113601.png",
     "Pasted image 20240624112750.png",
     "Pasted image 20240624112718.png",
-    "1 PROJECTS/My Travel Plan by myself.md",
-    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
     "Spaces/Software Deployment Note.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "Pháp Luật.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
@@ -232,14 +238,9 @@
     "Pasted image 20240618174125.png",
     "Untitled.md",
     "Spaces/Classification Techniques.md",
-    "Spaces/Decision Tree.md",
-    "Classification Bayes.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "ML & DM HW1.md",
     "Pasted image 20240618104544.png",
     "Pasted image 20240618103727.png",
     "Pasted image 20240618101634.png",
-    "Pasted image 20240618100937.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
