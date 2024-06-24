@@ -11,6 +11,9 @@ Creates a new environment with a specified name and optionally installs a list o
 
 ---
 
+**Install from requirement.txt**
+pip install -r requirements.txt
+
 **conda activate <environment_name>**
 
 -   

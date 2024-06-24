@@ -18,6 +18,8 @@ Ending
 Eulit
 Euclet
 Ej
+Exports
+Estimator
 the
 that
 transformation
@@ -65,6 +67,9 @@ tX
 trong
 tE
 ta
+txt
+template
+templateName
 original
 of
 operator
@@ -88,6 +93,7 @@ obviously
 oX
 ox
 oM
+optionally
 vector
 vectors
 versions
@@ -123,6 +129,9 @@ At
 AT
 AD
 Ag
+Activates
+Anaconda
+Additional
 eigenbasis
 entirely
 eigenvectors
@@ -160,6 +169,11 @@ eh
 em
 ef
 eU
+environment
+env
+environments
+envs
+export
 is
 in
 image
@@ -192,6 +206,9 @@ ignore
 infinity
 iX
 iI
+installs
+installed
+installation
 basis
 by
 because
@@ -238,6 +255,10 @@ full
 freedom
 fq
 fF
+file
+filters
+field
+false
 space
 say
 same
@@ -299,6 +320,11 @@ sW
 sRGB
 sO
 sON
+specified
+search
+specifically
+specification
+sort
 consists
 can
 change
@@ -346,6 +372,9 @@ cdWTtnf
 chu
 cE
 cKta
+conda
+create
+contexts
 linear
 lambda
 left
@@ -366,6 +395,9 @@ lzk
 lIS
 li
 log
+list
+links
+lo
 matrix
 multiply
 multiplied
@@ -399,6 +431,7 @@ mcu
 mgp
 mt
 mi
+md
 The
 This
 To
@@ -413,6 +446,7 @@ THat
 Transformation
 TH
 Tv
+Templates
 after
 and
 as
@@ -455,6 +489,10 @@ asnwer
 ay
 aiBGw
 ae
+activate
+available
+active
+asc
 notate
 nhau
 normal
@@ -476,6 +514,8 @@ nothing
 nguy
 ne
 nN
+name
+nghi
 Change
 Class
 Comunity
@@ -499,6 +539,8 @@ Chu
 Cc
 CBB
 Ch
+Creates
+Commands
 Basis
 Both
 Board
@@ -518,6 +560,8 @@ Understand
 Unique
 Uo
 UB
+Updates
+Useful
 we
 want
 when
@@ -537,6 +581,7 @@ wru
 wN
 wDe
 wW
+within
 have
 has
 ho
@@ -562,11 +607,14 @@ Like
 Logarit
 Lm
 LG
+Lists
 you
 yield
 yk
 yi
 yB
+your
+yml
 point
 pair
 pmatrix
@@ -587,11 +635,15 @@ ppp
 px
 pEP
 pHYs
+pip
+package
+packages
 You
 Yes
 YX
 Yr
 YWt
+YAML
 get
 given
 getL
@@ -605,6 +657,7 @@ gS
 gp
 gAMA
 giao
+group
 Scalars
 Step
 Solution
@@ -636,6 +689,8 @@ Sigmoid
 Se
 SG
 Sg
+Searches
+SIC
 result
 reduced
 repeated
@@ -667,6 +722,10 @@ rh
 rpk
 rIZ
 rW
+repositories
+requirements
+reproducibility
+requirement
 Non
 Need
 No
@@ -721,6 +780,7 @@ determine
 duplicated
 dzp
 dn
+deactivate
 From
 Find
 For
@@ -757,6 +817,7 @@ ME
 Me
 MB
 Mv
+Management
 using
 up
 until
@@ -768,6 +829,8 @@ used
 unit
 us
 unchanged
+update
+useful
 Recall
 Reference
 Redundant
@@ -780,6 +843,8 @@ Rank
 Repalce
 Reduce
 RY
+Removes
+RESOURCES
 Or
 One
 Our
@@ -816,6 +881,8 @@ IEND
 IDATx
 IKKS
 Iq
+Install
+Installs
 Prerequisite
 PCB
 Project
@@ -840,6 +907,7 @@ Pm
 Pi
 PPlG
 PL
+Package
 Defecs
 Defects
 Dataset
@@ -867,6 +935,9 @@ Dy
 DiJ
 DB
 Db
+Deactivates
+Deletes
+Displays
 Visual
 Variables
 Visualization
@@ -898,6 +969,7 @@ HU
 Hq
 Hoe
 HTA
+Header
 quan
 qqq
 qxD
@@ -923,6 +995,7 @@ GI
 Giao
 Gk
 GJ
+Getting
 Zero
 Zw
 ZX
@@ -934,4 +1007,5 @@ xE
 Qmc
 Qb
 Qo
+Quy
 XnV

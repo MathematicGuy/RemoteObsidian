@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b1bd804fa0e9d9a",
+        "id": "5e6a727c2f6ed374",
         "type": "tabs",
         "children": [
           {
-            "id": "409b41c6ba9a73de",
+            "id": "6125ab8925fd4d11",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "f8be4bff71f84fc0",
+            "id": "7831e4b377a0239c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn ReactNative.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -111,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn ReactNative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn ReactNative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learn ReactNative.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,12 +194,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f8be4bff71f84fc0",
+  "active": "7831e4b377a0239c",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Learn ReactNative.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Learn ReactNative.md",
     "Spaces/Mobile Development Project.md",
     "Spaces/How to Run React Native with Android Studio.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
