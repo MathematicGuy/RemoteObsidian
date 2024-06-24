@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4fbf53880e0afb8d",
+        "id": "9b1bd804fa0e9d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9640aadf17cd8367",
+            "id": "409b41c6ba9a73de",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9640aadf17cd8367",
+  "active": "409b41c6ba9a73de",
   "lastOpenFiles": [
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "_Focus/Todo.md",
