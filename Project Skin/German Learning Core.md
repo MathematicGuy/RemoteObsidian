@@ -35,3 +35,18 @@ A1, A2 - important grammar foundation
 
 ## Learning a Language According to Science
 Learning - accquire new knowledge
+Acquisition - make sth 
+
+Speaking
+>Speak slowly at first, dont rush sth zou don't understand
+
+Grammar (remember -> waste of time)
+![[Pasted image 20240625115735.png]]
++ $ Studying the rule ?  Focus on Comprehensible input
+	
++ Don't try to Memorize words -> it only turn into knowledge you can't use since you just know it and can't use it.
+	
++ **Dont try to memorize word by word (using Anki)** bc you only learn 1 aspect of it 
+
++ $ try to **acquire it through reading and listening, you can learn vocabulary, syntax, morphology (meaning in diff situations, words interaction)** of language.
+

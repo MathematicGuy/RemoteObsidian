@@ -19,3 +19,7 @@ _sort:
 
 [[German Grammar]]
 [[German Learning Core]]
+> Acquiring a language comes from understanding messages rather than memorizing rules
+> (Tập trung vào ý mà người nói muốn truyền tải thay vì ý nghĩa)
+## Learning Thourgh Video 
+
