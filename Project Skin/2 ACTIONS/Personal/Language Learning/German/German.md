@@ -18,6 +18,4 @@ _sort:
 + [[German Vocab Revision]]
 
 [[German Grammar]]
-
-
-
+[[German Learning Core]]

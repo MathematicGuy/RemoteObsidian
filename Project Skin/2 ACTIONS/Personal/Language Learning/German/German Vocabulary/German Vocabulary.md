@@ -1641,6 +1641,7 @@ Krank sick
 	Du bist Krank, Heval, geh ins Krankenhaus
 + zum - to the (zu + dem (masculine or neutral))
 	Du bist Krank, Heval, geh zum Arzt (go to the docter)
+Gesund - healthy
 
 zu viel - too much
 	Spreche ich zu viel
@@ -1948,7 +1949,7 @@ Vor - to/till
 Vorlesung - lecture
 Endet - finished
 
-**"Zum"** - is a contraction of "zu dem"
+**"Zum?"** - is a contraction (kết hợp) of "zu dem" (to the) 
 **is commonly used to indicate movement towards a place or to express the purpose of an action.**
 Example: 
 - Ich gehe **zum** Arzt. (I am going to the doctor.)
@@ -1992,5 +1993,41 @@ WeißBier - Wheatbeer
 
 Noch - still
 Früh - early
-Diese - this
-	Dieses Jahre - this year
+Dieses Jahre - this year
+	Diese - this
++ ? Wir gehen dieses Jahr zum Oktoberfest / We are going to Oktoberfest this year.
+	+ ! Jahr - year | Jahres - plural form of (Jahre)
+
+Uns - us
+Spaß - fun
+	Das Picknick ist Spaß - the picnic is fun
+
+Hinten 
+	Wir sind Hinten, können Sie uns sehen?  - we are behind
+
+# Unit 18: Discuss your Habit
+![[Pasted image 20240625105143.png]]
+
+abends - in the evening
+Yoga - yoga
+	Machst du gern Yoga ?
+
+Sport - excercise
+	Machen Sie Sport - do exercise
++ Wie oft machen Sie Sport, Frau Schmidt? - How often do you play sport ?
+
+Wie oft - how often
+Möchtet Ihr Yoga machen oft, Mark und Lisa
+
+Ich Mache einmal pro Tag Sport
+	Mache - supported word (say somebody have done sth)
+	einmal - once
+	pro - per
+	Tag day
+	Sport  exercise
+
+Einmal pro - once per
+	Meine Eltern gehen einmal pro Woche tanzen. - My parents go dancing once per week
++ Einmal pro wochen - once per week
+	Nur Einmal pro wochen - only once per week
+

@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d713f92147828c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2059e523630075e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German Learning Core.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "German Learning Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "German Learning Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "German Learning Core.md"
               }
             }
           },
@@ -189,13 +216,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9b8d3e18d19eeb95",
+  "active": "2059e523630075e7",
   "lastOpenFiles": [
-    "1 PROJECTS/My Travel Plan by myself.md",
+    "Pasted image 20240625111747.png",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "German Learning Core.md",
     "_Focus/Todo.md",
-    "Learn ReactNative.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Pasted image 20240625105143.png",
+    "1 PROJECTS/My Travel Plan by myself.md",
+    "Learn ReactNative.md",
     "Spaces/Mobile Development Project.md",
     "Spaces/How to Run React Native with Android Studio.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
@@ -210,7 +241,6 @@
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "Pháp Luật.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "How to build a web application in Java.md",
     "Pasted image 20240620175706.png",
     "Pasted image 20240620175704.png",
@@ -222,11 +252,8 @@
     "Array vs ArrayList vs List and ListIterator.md",
     "Classification Ensemble.md",
     "Pasted image 20240618174125.png",
-    "Untitled.md",
-    "Spaces/Classification Techniques.md",
     "Pasted image 20240618104544.png",
     "Pasted image 20240618103727.png",
-    "Pasted image 20240618101634.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

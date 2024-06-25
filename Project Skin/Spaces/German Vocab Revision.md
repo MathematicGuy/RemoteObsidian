@@ -69,7 +69,6 @@ Zusammenfassung / summary, bản tóm tắt
 	Fassung / version, phiên bản
 Zusammenfassung mean: reduced information content his
 
-
 Studierst 
 	Was studiert du? / what do you study
 
@@ -410,7 +409,7 @@ Toll / great
 	Es ist toll / it is great
 	ich liebe das Studium, Die Vorlesung ist toll
 
-Riesenrad - Ferris wheel 
+Das Riesenrad - Ferris wheel 
 Warum magst du das Riesenrad nicht ? - why dont you like the ferris wheel ?
 
 Hinten / in the back
@@ -419,4 +418,39 @@ Sehen / see
 
 Das Geht / that work
 Schmecken / taste
-		Schmekt das Bier gut ? 
+	Schmekt das Bier gut ? 
+
+Am / at the (use to tell a specific time)
+	Am Wochenende / at the weekend
+
+Oktoberfest
+Laut / lout
+Das Handy / phone
+	Die Oktoberfest ist zu laut, ich kann mein nicht Handy hören
+
+Vor - till
+	vierzehnten vor Neun
+
+Tschüss, bis morgen 
+	Tschüss - buy
+	Bis morgen - see you tomorrow
+	+ Bis - until
+	+ Morgen - morning
+	-> bis morning - imply till tomorrow morning which similiar to "see you tomorrow"
+
+Sehe / see 
+	Ich sehe dich nicht /  i can't see you
+
+noch  - still
+	Hast du noch Zeit  - do you still have time
+
+Hören - hear
+	Openheimer, kanst du die Musik hören ?
+
+Schon / already
+	Es ist schon Elf vor zwölf. Die Musik beginnt im einzehn minuten
+
+Willst  (pronounce like wet)
+	Willst du zum Oktoberfest gehen
+
+Wie oft - how often
