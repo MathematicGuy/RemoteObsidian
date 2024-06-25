@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6a727c2f6ed374",
+        "id": "bdd4d10ab7e28fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "6125ab8925fd4d11",
+            "id": "9b8d3e18d19eeb95",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7831e4b377a0239c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,8 +189,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7831e4b377a0239c",
+  "active": "9b8d3e18d19eeb95",
   "lastOpenFiles": [
+    "1 PROJECTS/My Travel Plan by myself.md",
     "_Focus/Todo.md",
     "Learn ReactNative.md",
     "Spaces/German Vocab Revision.md",
@@ -204,7 +200,6 @@
     "Spaces/How to Run React Native with Android Studio.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "3 RESOURCES/Web/FrontEnd/FrontEnd.md",
-    "1 PROJECTS/My Travel Plan by myself.md",
     "Pasted image 20240624113601.png",
     "Pasted image 20240624112750.png",
     "Pasted image 20240624112718.png",
