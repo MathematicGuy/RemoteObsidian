@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3529c9461ae19e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIC - Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIC - Machine Learning.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIC - Machine Learning.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIC - Machine Learning.md"
+                "file": "2 ACTIONS/_Focus.md"
               }
             }
           },
@@ -186,28 +172,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3529c9461ae19e26",
+  "active": "d9aeafb338835742",
   "lastOpenFiles": [
-    "Pasted image 20240624203503.png",
-    "Pasted image 20240624202358.png",
-    "Pasted image 20240624201426.png",
-    "Pasted image 20240624193849.png",
-    "Pasted image 20240624193221.png",
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
-    "SIC - Machine Learning.md",
-    "1 PROJECTS/SIC/SIC.md",
+    "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
+    "SVM - Support Vector Machine.md",
+    "Pasted image 20240625135213.png",
+    "Pasted image 20240625135113.png",
+    "Pasted image 20240625134808.png",
+    "Pasted image 20240625134647.png",
+    "Pasted image 20240625134657.png",
+    "Pasted image 20240625134620.png",
+    "Pasted image 20240625134256.png",
+    "Pasted image 20240625133959.png",
+    "Pasted image 20240625133852.png",
+    "Pasted image 20240625133833.png",
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/Face Detection using SVM",
+    "SIC - Machine Learning.md",
+    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
+    "1 PROJECTS/SIC/SIC.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "Tìm Miền Xác Định.md",
-    "Pasted image 20240623112357.png",
-    "Pasted image 20240623112306.png",
     "SIC Day 1 - Mathematic in Data Science.md",
     "Xét Tập Xác định.md",
-    "Pasted image 20240623111853.png",
-    "Pasted image 20240623110731.png",
-    "Pasted image 20240623110746.png",
-    "Pasted image 20240623110716.png",
     "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
     "Eigenvalues and Eigenvectors.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
@@ -222,8 +210,6 @@
     "Matrix Mulortiplication.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
-    "Gaussian Elimination from Scratch Documentation 2.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "Missing value",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",
@@ -232,7 +218,6 @@
     "4 ARCHIVES/ML Project/Image Compression using PCA",
     "1 PROJECTS/Coursera Mathematic for Machine Learning",
     "1 PROJECTS/SIC",
-    "3 RESOURCES/Untitled",
-    "4 ARCHIVES/Thought & Ideas"
+    "3 RESOURCES/Untitled"
   ]
 }

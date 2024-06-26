@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37d375a42900bc8e",
+        "id": "53590c5b01f06f71",
         "type": "tabs",
         "children": [
           {
-            "id": "73382327ae7b2b6e",
+            "id": "813ba591873e66a2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "bff851d8c6dccea0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,8 +189,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bff851d8c6dccea0",
+  "active": "813ba591873e66a2",
   "lastOpenFiles": [
+    "1 PROJECTS/My Travel Plan by myself.md",
     "_Focus/Todo.md",
     "German Learning Core.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -204,7 +200,6 @@
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Pasted image 20240625105143.png",
-    "1 PROJECTS/My Travel Plan by myself.md",
     "Learn ReactNative.md",
     "Spaces/Mobile Development Project.md",
     "Spaces/How to Run React Native with Android Studio.md",
