@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "efc5ecbd8cee44c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Deployment Project.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Software Deployment Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Software Deployment Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Software Deployment Project.md"
               }
             }
           },
@@ -189,10 +203,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "813ba591873e66a2",
+  "active": "efc5ecbd8cee44c8",
   "lastOpenFiles": [
-    "1 PROJECTS/My Travel Plan by myself.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "Software Deployment Project.md",
+    "Spaces/Software Deployment Note.md",
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "_Focus/Todo.md",
+    "1 PROJECTS/My Travel Plan by myself.md",
     "German Learning Core.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Pasted image 20240625115735.png",
@@ -208,10 +226,7 @@
     "Pasted image 20240624113601.png",
     "Pasted image 20240624112750.png",
     "Pasted image 20240624112718.png",
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
-    "Spaces/Software Deployment Note.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "Pháp Luật.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
