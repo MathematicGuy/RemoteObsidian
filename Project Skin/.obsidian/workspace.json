@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "352bfb8dd5ee7338",
+        "id": "10cf911e7e9afffb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa23216db5a43bc2",
+            "id": "5669ca4ef53e49dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,13 +23,11 @@
             }
           },
           {
-            "id": "2f46e6550535aab5",
+            "id": "f16ae39726058c1a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -196,14 +194,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2f46e6550535aab5",
+  "active": "f16ae39726058c1a",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "1 PROJECTS/My Travel Plan by myself.md",
     "Software Deployment Project.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "Spaces/Software Deployment Note.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
-    "1 PROJECTS/My Travel Plan by myself.md",
     "German Learning Core.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Pasted image 20240625115735.png",
