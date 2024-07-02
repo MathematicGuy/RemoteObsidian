@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "10cf911e7e9afffb",
+        "id": "78633fddc02aa447",
         "type": "tabs",
         "children": [
           {
-            "id": "5669ca4ef53e49dc",
+            "id": "d42dfb01e3c5b6c0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f16ae39726058c1a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,10 +187,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f16ae39726058c1a",
+  "active": "d42dfb01e3c5b6c0",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "1 PROJECTS/My Travel Plan by myself.md",
+    "_Focus/Todo.md",
     "Software Deployment Project.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "Spaces/Software Deployment Note.md",

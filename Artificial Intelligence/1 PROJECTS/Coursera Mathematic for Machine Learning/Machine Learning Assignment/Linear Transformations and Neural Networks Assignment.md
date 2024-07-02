@@ -80,4 +80,6 @@ Third Assignment include 2 distrinct part
 1) Transformations
 	ℝ2→ℝ3 (R present Dimension)
 	 Transform vector from R2 to R3.
-	
+
+
+![[Pasted image 20240627165808.png]]

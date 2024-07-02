@@ -20,6 +20,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "851d18a3895c2bf8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf"
+              }
+            }
           }
         ]
       }
@@ -174,6 +184,13 @@
   },
   "active": "d9aeafb338835742",
   "lastOpenFiles": [
+    "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
+    "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
+    "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
+    "Pasted image 20240627165808.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Linear Algebra.md",
     "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
     "SVM - Support Vector Machine.md",
     "Pasted image 20240625135213.png",
@@ -185,8 +202,6 @@
     "Pasted image 20240625134256.png",
     "Pasted image 20240625133959.png",
     "Pasted image 20240625133852.png",
-    "Pasted image 20240625133833.png",
-    "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Face Detection using SVM",
     "SIC - Machine Learning.md",
     "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
@@ -205,13 +220,9 @@
     "PCB Anomaly Detection Note & Resources.md",
     "Anomaly Detection in Machine Learning.md",
     "PCB Anomally Detection.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
     "Matrix Multiplication.md",
     "Matrix Mulortiplication.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
     "Missing value",
-    "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",
     "Spaces",
