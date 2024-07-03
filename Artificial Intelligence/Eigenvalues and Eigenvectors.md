@@ -8,10 +8,10 @@
 > Let's say that you want to find the image of the point 3, 2. You can multiply it by the matrix and get 8, 6
 ![[Pasted image 20240619140935.png]]
 
-### Eigenvalue and Eigenvectors
-- **Eigenvalues** ($\lambda$): Scalars that, when multiplied by a given eigenvector, yield the same result as applying a given linear transformation (or matrix) to that eigenvector.
+### What is Eigenvalue and Eigenvectors ?
+- **Eigenvalues** ($\lambda$): Scalars that, when multiplied by a given eigenvector, yield the same result as applying a given linear transformation (or matrix) to that eigenvector. (vector tỷ lệ. ma trận trở nên to hay bé dựa vào việc nhân vs eigenvalues)
 	
-- **Eigenvectors** ($\mathbf{v}$): Non-zero vectors that change at most by a scalar factor when a linear transformation is applied to them.
+- **Eigenvectors** ($\mathbf{v}$): Non-zero vectors that change at most by a scalar factor when a linear transformation is applied to them. (Vector điều hướng)
 	![[Pasted image 20240619142851.png]]
 	After mutiply the 
 	+ first matrix with the eigenvector, we get (2.1 + 1.0) and (0.1 + 3.0) == (2, 0) or 2 * (1, 0)
@@ -20,7 +20,7 @@
 	+ with second matrix, we get: (2.1 + 1.1) and (0.1 + 3.1) == (3, 3) or 3 * (1, 1)
 		$\lambda = 3$
 		$\mathbf{v} = (1, 1)$
-	+ for the third, we getL (2.-1 + 1.2) and (0.-1 + 3.2) == (0, 6). We don't have $\lambda$ because the vector don't transform in the same direction.
+	+ for the third, we get (2.-1 + 1.2) and (0.-1 + 3.2) == (0, 6). We don't have $\lambda$ because the vector don't transform in the same direction.
 	
 + From 2 Example above know that Matrix A * Eigenvectors (v1) = Eigenvalue (of A) * Eigenvector (v1)
 	![[Pasted image 20240619143810.png]]
@@ -51,7 +51,6 @@
 + Save work and offer optimization for matrix transformation
 ```
 
-
 ## How to calculate Eigenvalue and Eigenvectors
 ![[Pasted image 20240619171845.png]]
 
@@ -61,15 +60,13 @@ $$
 ### Step-by-Step Solution
 
 #### 1. **Recall the Eigenvalues**
-
-From the given information, the eigenvalues are $(\lambda_1 = 11)$ and $(\lambda_2 = 1)$
+>From the given information, the eigenvalues are $(\lambda_1 = 11)$ and $(\lambda_2 = 1)$
 
 #### 2. **Find Eigenvectors**
+>For each eigenvalue \(\lambda\), solve the equation:
+>$(A - \lambda I)v = 0$
 
-For each eigenvalue \(\lambda\), solve the equation:
-$(A - \lambda I)v = 0$
-
-##### Eigenvector for \($\lambda_1 = 11$):
+##### Eigenvector for ($\lambda_1 = 11$):
 
 1. Form $A - 11I$:
 $A - 11I = \begin{pmatrix} 9 & 4 \\ 4 & 3 \end{pmatrix} - 11 \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} = \begin{pmatrix} 9-11 & 4 \\ 4 & 3-11 \end{pmatrix} = \begin{pmatrix} -2 & 4 \\ 4 & -8 \end{pmatrix}$
@@ -145,4 +142,20 @@ $$\mathbf{v}_2 = \begin{pmatrix} 1 \\ -2 \end{pmatrix}$$
 
 These eigenvectors form the eigenbasis for the matrix $A$.
 
-[[How to Find Eigenvectors if Matrix have Repeated Eigenvalue ]]
+## How to Find Eigenvectors if Matrix have Repeated Eigenvalue
+We have 3 eigenvalues: 4, 2, 2
+With the 2 we have:
+![[Pasted image 20240702194053.png]]
+-> Infinitely solution
+> Try and we have
+	![[Pasted image 20240702194247.png]]
+
+Do the same for the last eigenvalues 4, we have
+![[Pasted image 20240702194401.png]]
+### Let change 1 value in the matrix (in the 3rd row)
+![[Pasted image 20240702194512.png]]
+
+![[Pasted image 20240702194552.png]]
+We see that x3 = 4x2, therefor the eigenvector is (v1, v2, v3) = (0, k, 4k)
+![[Pasted image 20240702195111.png]]
++ When 2 lambda equal to eachother that mean they can be identical and resulting in 1 eigenvector. More specific, numbers of eigenvectors is depend on that 1 eigenvalue.

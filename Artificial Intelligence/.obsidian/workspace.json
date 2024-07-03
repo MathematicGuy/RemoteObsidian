@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9aeafb338835742",
+            "id": "ff29304819c18f21",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "Eigenvalues and Eigenvectors.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "851d18a3895c2bf8",
+            "id": "cfe9e605debe40ba",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf"
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md"
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md"
               }
             }
           },
@@ -182,26 +183,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9aeafb338835742",
+  "active": "cfe9e605debe40ba",
   "lastOpenFiles": [
+    "Pasted image 20240702221416.png",
+    "Pasted image 20240702221238.png",
+    "Pasted image 20240702220705.png",
+    "Pasted image 20240702220612.png",
+    "Pasted image 20240702220523.png",
+    "Pasted image 20240702220401.png",
+    "Pasted image 20240702220131.png",
+    "Pasted image 20240702215955.png",
+    "Pasted image 20240702215703.png",
+    "Pasted image 20240702215606.png",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "Pasted image 20240702215609.png",
+    "Vector norm, Projection.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
+    "Eigenvalues and Eigenvectors.md",
+    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue.md",
+    "Matrix Multiplication.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
+    "Vector Manipulation.md",
+    "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Linear Algebra.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "2 ACTIONS/_Focus.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
-    "Pasted image 20240627165808.png",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Linear Algebra.md",
     "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
     "SVM - Support Vector Machine.md",
-    "Pasted image 20240625135213.png",
-    "Pasted image 20240625135113.png",
-    "Pasted image 20240625134808.png",
-    "Pasted image 20240625134647.png",
-    "Pasted image 20240625134657.png",
-    "Pasted image 20240625134620.png",
-    "Pasted image 20240625134256.png",
-    "Pasted image 20240625133959.png",
-    "Pasted image 20240625133852.png",
     "1 PROJECTS/Face Detection using SVM",
     "SIC - Machine Learning.md",
     "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
@@ -212,23 +224,12 @@
     "SIC Day 1 - Mathematic in Data Science.md",
     "Xét Tập Xác định.md",
     "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
-    "Eigenvalues and Eigenvectors.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
-    "Week 1 Matrix System.md",
-    "SIC - Statistical Hypothesis Testing.md",
-    "Anomaly detection in ML.md",
-    "PCB Anomaly Detection Note & Resources.md",
-    "Anomaly Detection in Machine Learning.md",
-    "PCB Anomally Detection.md",
-    "Matrix Multiplication.md",
-    "Matrix Mulortiplication.md",
     "Missing value",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",
     "Spaces",
     "4 ARCHIVES/ML Project/Image Compression using PCA",
     "1 PROJECTS/Coursera Mathematic for Machine Learning",
-    "1 PROJECTS/SIC",
-    "3 RESOURCES/Untitled"
+    "1 PROJECTS/SIC"
   ]
 }

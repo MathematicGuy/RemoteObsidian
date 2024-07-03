@@ -1950,7 +1950,7 @@ Vorlesung - lecture
 Endet - finished
 
 **"Zum?"** - is a contraction (kết hợp) of "zu dem" (to the) 
-**is commonly used to indicate movement towards a place or to express the purpose of an action.**
+**is commonly used to indicate movement towards a place or to express the purpose of an action.** (e.g. "to the" train station / "for" lunch)
 Example: 
 - Ich gehe **zum** Arzt. (I am going to the doctor.)
 	- "Zum" indicates movement towards a place (the doctor's office).
@@ -2030,4 +2030,23 @@ Einmal pro - once per
 	Meine Eltern gehen einmal pro Woche tanzen. - My parents go dancing once per week
 + Einmal pro wochen - once per week
 	Nur Einmal pro wochen - only once per week
+
+Tasse cup
+	Mein Chef trinkt heute Nachmittag eine Tasse kaffee - my boss drink a cup of coffee this afternoon
+
+Büro office
+	Triffst du deinen Chef oft im Büro
+
+Abendessen dinner
+Nudeln noodles
+	Ich esse oft Nudeln mit Fisch zum Abendessen
+
+Mittagessen lunch
+	Ich trinkt immer eine Tasse Tee zum Mittagessen - I always drink a cup of tea for lunch 
+
+Wir wollen Nudeln mit Schnitzel und Käse essen - we want to eat noodles with schitzel and cheese 
+
+Trifft  meet
+Kollegen - colleagues
+	Sie trifft ihre Kollegen im Büro 
 

@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "40935c2d8a870459",
+            "id": "4c7085ac9e09d23c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
+                "file": "3 RESOURCES/_Happiness/Save for my GF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
+                "file": "3 RESOURCES/_Happiness/Save for my GF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md"
+                "file": "3 RESOURCES/_Happiness/Save for my GF.md"
               }
             }
           },
@@ -179,12 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40935c2d8a870459",
+  "active": "4c7085ac9e09d23c",
   "lastOpenFiles": [
+    "_Focus.md",
+    "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "Pasted image 20240628151744.png",
     "1 PROJECTS/This Year Goal.md",
-    "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
-    "_Focus.md",
     "2 ACTIONS/_My Life/Free Will.md",
     "2 ACTIONS/_My Life/_My Life.md",
     "3 RESOURCES/Fitness/How to build muscle faster.md",
@@ -226,7 +226,6 @@
     "4 ARCHIVES/Image/Pasted image 20240401021252.png",
     "4 ARCHIVES/Image/Pasted image 20240401021247.png",
     "4 ARCHIVES/Image/Pasted image 20240401020708.png",
-    "4 ARCHIVES/Image/Pasted image 20240401020556.png",
     "Untitled.canvas"
   ]
 }

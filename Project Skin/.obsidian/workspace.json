@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d42dfb01e3c5b6c0",
+            "id": "f97d4931b39dac4f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,10 +189,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d42dfb01e3c5b6c0",
+  "active": "f97d4931b39dac4f",
   "lastOpenFiles": [
-    "1 PROJECTS/My Travel Plan by myself.md",
     "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
+    "4 ARCHIVES/2024/WebProject2024/2nd Yrs Mid-Final Term Project.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "1 PROJECTS/My Travel Plan by myself.md",
     "Software Deployment Project.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "Spaces/Software Deployment Note.md",
@@ -199,8 +204,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Pasted image 20240625115735.png",
     "Pasted image 20240625111747.png",
-    "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Pasted image 20240625105143.png",
     "Learn ReactNative.md",
     "Spaces/Mobile Development Project.md",
@@ -223,7 +226,6 @@
     "4 ARCHIVES/2024/CMC Spring 2024/CyberSecrity/RSA Algorithm.md",
     "300px-Network_Protocol_driver.png",
     "Array vs ArrayList vs List and ListIterator.md",
-    "Classification Ensemble.md",
     "Pasted image 20240618174125.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",

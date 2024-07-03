@@ -53,7 +53,6 @@ Vector Transpose **(Turn ow to Column)**
 ![[Pasted image 20240311085630.png]]
 
 
-
 #### Distance Between Vector
 	![[Pasted image 20240313132925.png]]
 #### Magnitude of 2 Vectors
@@ -89,7 +88,7 @@ Cross Multiplication
 > The product of 2 matrix can be use to get the 
 ![[Pasted image 20240313084303.png]]
 	You only look at where the two fundamental vectors 1, 0, and 0, 1 go, and those are your columns of the matrix.
-(Reverse 0 1 to 1 0)
+	(Reverse 0 1 to 1 0)
 
 ![[Pasted image 20240311134917.png]]
 **Calculate Linear Transformation**
@@ -125,7 +124,6 @@ Ex: 3.3 + 1.1 + 4.-2 = 2
 > The identity matrix is the matrix that when multiplied by any other matrix it gives the same matrix
 	![[Pasted image 20240313093349.png]]
 
-
 #### Matrix Inverse 
 ![[Pasted image 20240313093519.png]]
  
@@ -135,7 +133,7 @@ Ex: 3.3 + 1.1 + 4.-2 = 2
 ![[Pasted image 20240313093628.png]]
 Calculate in traditional method or use Det
 ![[Pasted image 20240313094044.png]]
-Can calculate det -> No Inverse exist 
+Can calculate det (tính định thức) -> No Inverse exist 
 	![[Pasted image 20240313100304.png]]
 	![[Pasted image 20240313100317.png]]
 
