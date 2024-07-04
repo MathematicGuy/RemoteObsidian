@@ -1252,6 +1252,7 @@ tradeoff
 technique
 transfer
 top
+tranpose
 original
 of
 operator
@@ -1759,6 +1760,7 @@ overlaid
 overcomplicate
 outline
 overview
+orginal
 vector
 vectors
 versions
@@ -3616,6 +3618,7 @@ enhance
 encoding
 evaluate
 education
+easier
 is
 in
 image
@@ -5580,6 +5583,7 @@ fish
 focused
 feedback
 flow
+found
 space
 say
 same
@@ -8310,6 +8314,7 @@ moment
 measure
 makes
 mutual
+matrixes
 The
 This
 To
@@ -9020,6 +9025,7 @@ Then
 Technique
 Technical
 Top
+Take
 after
 and
 as
@@ -9736,6 +9742,7 @@ arrows
 audience
 appropriate
 adjust
+access
 notate
 nhau
 normal
@@ -10353,6 +10360,7 @@ nzV
 ngu
 nfm
 newest
+notice
 Change
 Class
 Comunity
@@ -10967,6 +10975,7 @@ Code
 Compressed
 Cognition
 Create
+COVARIANCE
 Basis
 Both
 Board
@@ -12788,6 +12797,7 @@ why
 world
 website
 worst
+willing
 have
 has
 ho
@@ -15059,6 +15069,8 @@ perfect
 pratice
 picture
 priority
+perform
+put
 You
 Yes
 YX
@@ -15677,6 +15689,7 @@ YsP
 YRf
 Yzs
 YDF
+Your
 get
 given
 getL
@@ -17958,6 +17971,7 @@ NIS
 NiQu
 Now
 Next
+New
 zero
 zeros
 zeroes
@@ -20230,6 +20244,7 @@ Future
 Focus
 FOcus
 Futuristic
+Features
 know
 kh
 kia
@@ -21436,6 +21451,8 @@ Make
 Maybe
 Moving
 Means
+MATRIX
+Might
 using
 up
 until
@@ -25864,6 +25881,7 @@ VmZa
 Video
 Visuals
 Vietname
+Var
 Just
 JF
 Jc
@@ -27730,6 +27748,7 @@ HTP
 HHtBt
 Hence
 Haven
+Help
 quan
 qqq
 qxD
