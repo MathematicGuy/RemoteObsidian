@@ -1,4 +1,4 @@
-### Word with Phrase
+**### Word with Phrase
 
 kommen - come with (Sie)
 können - can with (Sie)
@@ -485,3 +485,12 @@ This structure differs from a declarative sentence, where the subject typically 
 - **Question:** "Wie oft machst du Yoga?" (How often do you do yoga?)
 
 
+einmal pro / once per
+Woche / week
+	Anna geht einmal pro woche schwimmen  / Anna goes swimming once per week.
+
+Macht ihr
+Machen Sie
+Machst du
+ich Mache 
+	Ich mache abends sport / i do sport in the evening

@@ -1,7 +1,7 @@
 **PCA Overview**
 • Understand the differences between supervised and unsupervised learning
 • Have a conceptual understanding of PCA
-• Understand the PCA drawbacks
+• Understand the PCA **drawbacks**
 • Understand in details the PCA algorithm
 • Details the PCA algorithm
 • Understand the difference between Covariance matrix and SVD
@@ -47,7 +47,7 @@ note: the dimension perpendicular to the original line -> orthogonal (2 vector v
 + Scaling of variables can yield different results, Hence, scaling that you use should be documented Scaling should not be adjusted to match prior knowledge Of data.
 + Since each principal components is a linear combination of the original features, visualizations are not easy to interpret or relate to original features
 
-###  PCA Algorithm steps
+###  PCA Algorithm Steps
 + Suppose x1, x1, ..., xM are N-dimensional vectors. So, x is an N * M matrix
 	N: numbers of dimension/features
 	M: numbers of samples
@@ -57,7 +57,6 @@ note: Mean -> giá trị trung bình của dữ
 **1 - Compute the data mean** (tính giá trị trung bình của x)
 Sum all the variables/examples then divided by the numbers of variables (M) we have.
 ![[Pasted image 20240516031858.png]]
-
 
 **2 - Substract mean from each rows of X (centering the data)** 
 ![[Pasted image 20240516031913.png]]
@@ -114,6 +113,7 @@ note: A(t) -> A transpose matrix
 N column -> N eigen value
 *Example:* (eigenvector and eigenvalues - vectơ riêng và giá trị riêng)
 ![[Pasted image 20240516034719.png]]
++ ? Haven't quite understand the part in the bottom right conner
 Eigen vector (x) and Eigenvalue (lambda)
 ![[Pasted image 20240516035949.png]]
 

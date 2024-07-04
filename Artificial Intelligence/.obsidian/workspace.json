@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73de57db1a7d61a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a61b554786020f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eigenvalues and Eigenvectors.md",
+                "file": "Motivating PCA.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "file": "Motivating PCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "file": "Motivating PCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md"
+                "file": "Motivating PCA.md"
               }
             }
           },
@@ -196,23 +172,28 @@
   },
   "active": "4d03637aae10a1ff",
   "lastOpenFiles": [
-    "Pasted image 20240703232838.png",
-    "Eigenvalues and Eigenvectors.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "Motivating PCA.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
+    "PCB Anomally Detection.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
+    "Pasted image 20240704121416.png",
+    "Pasted image 20240704121353.png",
+    "Pasted image 20240704121042.png",
+    "Pasted image 20240704120728.png",
+    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+    "Eigenvalues and Eigenvectors.md",
+    "Pasted image 20240703232838.png",
     "Pasted image 20240703221218.png",
     "Pasted image 20240703221030.png",
     "Pasted image 20240703220919.png",
     "Pasted image 20240703220700.png",
     "Pasted image 20240703220608.png",
-    "Pasted image 20240703220500.png",
-    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
-    "Pasted image 20240703215609.png",
     "understand pythagorian in matrix.md",
-    "Pasted image 20240703214704.png",
-    "Area-of-a-triangle-us-featured-image.png",
     "Determinant.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
-    "Pasted image 20240703212513.png",
     "Vector Manipulation.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
     "Matrix Multiplication.md",
@@ -230,11 +211,6 @@
     "SVM - Support Vector Machine.md",
     "1 PROJECTS/Face Detection using SVM",
     "SIC - Machine Learning.md",
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
-    "1 PROJECTS/SIC/SIC.md",
-    "3 RESOURCES/How to/Anaconda Command.md",
-    "3 RESOURCES/How to/Anaconda.md",
-    "Tìm Miền Xác Định.md",
     "Missing value",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",

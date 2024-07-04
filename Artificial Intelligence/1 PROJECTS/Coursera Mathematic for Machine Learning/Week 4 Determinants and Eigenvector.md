@@ -102,7 +102,7 @@ We can projecting on multiple vectors at one
 In the End, the projection can be present as
 ![[Pasted image 20240702203728.png]]
 
-# Motivating PCA
+# [[Motivating PCA]]
 > At first, we have a cluster of datas
 ![[Pasted image 20240702211705.png]]
 
@@ -119,6 +119,7 @@ For the last line (red), we line the line up where all points projected to it sp
 ### Step 3: Re-arrange the line base on how spreaded they are 
 ![[Pasted image 20240702212432.png]]
 ### PCA Goals: find the projection that preserves the maximum possible spread in your data, even as you reduce the dimensionality of your data set. 
+
 
 # Variance and Covariance
 ## Mean: average value out of total values
@@ -262,3 +263,30 @@ e.g. the vector in Teal and orange Stretch itself from the origin (0, 0) longer 
 + Let's start by adding this point and seeing its transformation, and keep going all around the circle.
 
 ### PCA - Mathematical Formulation
+**Goals:**
++ Understand Deeper about PCA
++ Re-write **step-by-step instruction to calc PCA**
++ Ask ChatGPT to **list out all the mathematical fomula** I need for Application\
++ ! **Don't dig to deep into a topic**. Understand and note the essen of it. I have plenty of thing needed to do (use my time efficiently)
++ ? During the learning process, if I struck on sth find some help, don't waste my time onto what I have too little information about. 
++ ? Use **numpy library to verify my function result**
+
+**Explanation Step**
++ ? Why we need it ? 
++ @ What does it do ?f
++ $ What we get from it?
+
+To desmonstrate, given **5 variables**s with the **goal is reduce to 2 variables**
+![[Pasted image 20240704120728.png]]
+2) Center the data 
+	Trừ vị trí mọi điểm cho vị trí của Mean (vị trí/giá trị trung bình của các điểm)
++ ? 	-> Thus, every points will be aligned to the Mean Line
+
+![[Pasted image 20240704121042.png]]
++ ? Relationship between everypoint to the Mean?
+
+![[Pasted image 20240704121416.png]]
++ ? 4) Sort the most Important valuables up top (hence PCA) 
++ ? 5) Discard the rest and keep n variable (in this example we keep 2 variables). Create a Projection Matrix from n most important variables we keep.
++ @ 6) **Project the data onto the vectors you choose** by multiplying the center data by your projection matrix
+

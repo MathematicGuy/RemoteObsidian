@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dbd5676cbde03e1e",
+        "id": "640fc2037226b070",
         "type": "tabs",
         "children": [
           {
-            "id": "810e4990b93a1123",
+            "id": "0a965dc59ab1368c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2c78bfb624f1a5de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,11 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "810e4990b93a1123",
+  "active": "2c78bfb624f1a5de",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "_Focus/Todo.md",
     "4 ARCHIVES/2024/WebProject2024/2nd Yrs Mid-Final Term Project.md",
     "1 PROJECTS/My Travel Plan by myself.md",
     "Software Deployment Project.md",

@@ -2052,3 +2052,21 @@ Kollegen - colleagues
 
 Aufgaben  task/work
 Hausaufgaben / homework
+\
+
+### Special
+Sparen / saving
+Investieren / investment
+Sparen Sie geld - do you save money
+Nicht sehr viel  / not very much
+
+
+Autofahren / driving 
+Zugfahren / travelling by train
+
+Schneller / quicker
+	Schnell / quick
+
+Los geht's / let go
+
+mit dem zug / to there now (dem - to sht)
