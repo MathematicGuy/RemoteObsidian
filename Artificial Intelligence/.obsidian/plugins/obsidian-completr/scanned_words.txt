@@ -7003,6 +7003,8 @@ commented
 chunks
 compared
 conner
+calculating
+caculate
 linear
 lambda
 left
@@ -8307,6 +8309,7 @@ mention
 moment
 measure
 makes
+mutual
 The
 This
 To
@@ -21431,6 +21434,8 @@ Mzo
 Mathematical
 Make
 Maybe
+Moving
+Means
 using
 up
 until

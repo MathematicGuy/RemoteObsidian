@@ -13,6 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "27dac1f5e97cad52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35563861ccc2d76f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Motivating PCA.md",
                 "mode": "source",
                 "source": false
@@ -170,10 +188,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d03637aae10a1ff",
+  "active": "35563861ccc2d76f",
   "lastOpenFiles": [
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "Motivating PCA.md",
+    "Pasted image 20240704132423.png",
+    "Pasted image 20240704132210.png",
+    "Pasted image 20240704131927.png",
+    "Pasted image 20240704131323.png",
+    "Pasted image 20240704131118.png",
+    "Pasted image 20240704130726.png",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
@@ -185,12 +209,6 @@
     "Pasted image 20240704120728.png",
     "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
     "Eigenvalues and Eigenvectors.md",
-    "Pasted image 20240703232838.png",
-    "Pasted image 20240703221218.png",
-    "Pasted image 20240703221030.png",
-    "Pasted image 20240703220919.png",
-    "Pasted image 20240703220700.png",
-    "Pasted image 20240703220608.png",
     "understand pythagorian in matrix.md",
     "Determinant.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
@@ -210,7 +228,6 @@
     "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
     "SVM - Support Vector Machine.md",
     "1 PROJECTS/Face Detection using SVM",
-    "SIC - Machine Learning.md",
     "Missing value",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",

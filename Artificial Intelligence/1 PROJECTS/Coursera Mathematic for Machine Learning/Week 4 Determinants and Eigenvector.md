@@ -23,7 +23,7 @@ So, (0,1)→(0,3)(0,1)→(0,3) and (1,0)→(1,2)(1,0)→(1,2).
 The rank of the matrix mean it Dimension.
 ![[Pasted image 20240420230926.png]]
 
-Determinant
+**Determinant**
 ![[Pasted image 20240420231813.png]]
 ![[Pasted image 20240420231946.png]]
 What if the determinant is negative
@@ -39,16 +39,15 @@ it like multiplication for matrices. It blow up the area of a matrix.
 ![[Pasted image 20240421000026.png]]
 > To transform the first matrix instantly we multiply by the product of its Det (matrice of det=5 * matrix of det=3)
 
-
-Matrix A: 
+**Matrix A:** 
 	[2 3] 
 	[4 1]	
-Matrix B:
+**Matrix B:**
 	[5 6] 
 	[2 3]
-A * B =   [2.5 + 3.2, 2.6 + 3.3]
+**A * B** =  [2.5 + 3.2, 2.6 + 3.3]
 		[4.5 + 1.2, 4.6 + 1.3]
-result =  [16, 21]
+**result** =  [16, 21]
 		[22, 27]
 
 Singular matrix  * any matrix -> singular matrix. Why?
@@ -118,7 +117,7 @@ For the last line (red), we line the line up where all points projected to it sp
 ![[Pasted image 20240702212137.png]]
 ### Step 3: Re-arrange the line base on how spreaded they are 
 ![[Pasted image 20240702212432.png]]
-### PCA Goals: find the projection that preserves the maximum possible spread in your data, even as you reduce the dimensionality of your data set. 
+#### PCA Goals: find the projection that preserves the maximum possible spread in your data, even as you reduce the dimensionality of your data set. 
 
 
 # Variance and Covariance
@@ -175,7 +174,7 @@ Using A and $\mu$.
 + $\mu$: represent a array of $\mu_{x}$ and  $\mu_{y}$
 + ? Notice that we have to Tranpose the First $(A - \mu)^T$ so we can apply Matrix Multiplication (or dot product)
  ![[Pasted image 20240703115536.png]]
-	**Write it all down, we end up with**
+**Write it all down, we end up with**
 ![[Pasted image 20240703120006.png]]
 + ? Practice to calc the 1st row:
 	![[Pasted image 20240703120040.png]]
