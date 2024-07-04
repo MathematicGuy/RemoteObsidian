@@ -9,9 +9,9 @@
 ![[Pasted image 20240619140935.png]]
 
 ### What is Eigenvalue and Eigenvectors ?
-- **Eigenvalues** ($\lambda$): Scalars that, when multiplied by a given eigenvector, yield the same result as applying a given linear transformation (or matrix) to that eigenvector. (vector tỷ lệ. ma trận trở nên to hay bé dựa vào việc nhân vs eigenvalues)
+- **Eigenvalues** ($\lambda$): Scalars that, when multiplied by a given eigenvector, yield the same result as applying a given linear transformation (or matrix) to that eigenvector. (vector tỷ lệ. ma trận trở nên to hay bé dựa vào việc nhân vs eigenvalues) (**magnitude**)
 	
-- **Eigenvectors** ($\mathbf{v}$): Non-zero vectors that change at most by a scalar factor when a linear transformation is applied to them. (Vector điều hướng)
+- **Eigenvectors** ($\mathbf{v}$): Non-zero vectors that change at most by a scalar factor when a linear transformation is applied to them. (Vector điều hướng) (**direction**)
 	![[Pasted image 20240619142851.png]]
 	After mutiply the 
 	+ first matrix with the eigenvector, we get (2.1 + 1.0) and (0.1 + 3.0) == (2, 0) or 2 * (1, 0)
@@ -159,3 +159,4 @@ Do the same for the last eigenvalues 4, we have
 We see that x3 = 4x2, therefor the eigenvector is (v1, v2, v3) = (0, k, 4k)
 ![[Pasted image 20240702195111.png]]
 + When 2 lambda equal to eachother that mean they can be identical and resulting in 1 eigenvector. More specific, numbers of eigenvectors is depend on that 1 eigenvalue.
+

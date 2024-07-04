@@ -1,0 +1,3 @@
+To Learn sth effectively your brain need at least 25-40% of unoccupied memory. That mean 20% for remembering (thing of this as Memory) and least 5-10% for processing that data (creativity, critical thinkings, etc..) (Think of this as GPU, CPU and RAM). 
+
+Have a good night of sleep can enhance your ability to process all the informations you learned today into your own brain (literally). So prioritise sleeping. 

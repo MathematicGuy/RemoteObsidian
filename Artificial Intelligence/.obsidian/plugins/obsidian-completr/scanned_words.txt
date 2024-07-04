@@ -656,6 +656,9 @@ EEG
 EArR
 EiWT
 ESYScVjn
+EaQ
+ELH
+EYX
 the
 that
 transformation
@@ -1228,6 +1231,10 @@ tQf
 tTZC
 ttv
 texts
+turns
+truly
+try
+triangle
 original
 of
 operator
@@ -1725,6 +1732,10 @@ oji
 oVE
 observations
 obvious
+onto
+own
+origin
+opposite
 vector
 vectors
 versions
@@ -2297,6 +2308,10 @@ vlk
 valuable
 vDdk
 vPXnUU
+vNFZ
+volumn
+volume
+vYp
 An
 After
 Algorithm
@@ -2872,6 +2887,10 @@ AZz
 AQl
 ALl
 AVZ
+AUU
+Any
+Area
+AAxPnX
 eigenbasis
 entirely
 eigenvectors
@@ -3547,6 +3566,9 @@ ending
 ezPW
 eLC
 even
+eZn
+eachothers
+either
 is
 in
 image
@@ -4243,6 +4265,9 @@ idea
 iXv
 iit
 identical
+invert
+impossible
+iDl
 basis
 by
 because
@@ -4915,6 +4940,10 @@ bRU
 bNz
 behind
 base
+best
+becase
+bip
+bMe
 for
 find
 factor
@@ -5478,6 +5507,8 @@ fEC
 fewer
 fQg
 fLD
+focyY
+fomula
 space
 say
 same
@@ -6127,6 +6158,12 @@ short
 symbols
 situation
 significant
+similar
+sth
+symmetric
+start
+scaled
+seeing
 consists
 can
 change
@@ -6848,6 +6885,15 @@ cczxD
 cETO
 coordinates
 covariance
+covariances
+check
+correct
+click
+coordination
+cases
+cBE
+chapter
+circle
 linear
 lambda
 left
@@ -7446,6 +7492,11 @@ lOK
 lcW
 large
 let
+lqq
+lYF
+larger
+lets
+longer
 matrix
 multiply
 multiplied
@@ -8126,6 +8177,8 @@ mzC
 mZZ
 maximum
 mWT
+mZt
+mAln
 The
 This
 To
@@ -8828,6 +8881,9 @@ Try
 TVc
 TddM
 TYQ
+Tranpose
+Text
+Teal
 after
 and
 as
@@ -9527,6 +9583,11 @@ akAZ
 align
 arrange
 alone
+alignning
+array
+apply
+achieve
+aid
 notate
 nhau
 normal
@@ -10138,6 +10199,10 @@ nFV
 nXDvO
 nxDq
 nETj
+nzzC
+nvc
+nzV
+ngu
 Change
 Class
 Comunity
@@ -10737,6 +10802,10 @@ CEe
 Covariance
 Col
 Cov
+Compact
+Conclude
+Coincident
+Choose
 Basis
 Both
 Board
@@ -11313,6 +11382,8 @@ Bqy
 BQD
 BHJ
 BUD
+Bqq
+Biggest
 Using
 Understand
 Unique
@@ -12040,6 +12111,7 @@ Utt
 Uhji
 Ubb
 ULQ
+Use
 we
 want
 when
@@ -12541,6 +12613,9 @@ wyk
 wkow
 wet
 wouldn
+wer
+wOk
+will
 have
 has
 ho
@@ -13088,6 +13163,8 @@ hpg
 hkkCZz
 hAD
 helpful
+hBbO
+hBT
 Let
 Light
 Learning
@@ -13681,6 +13758,8 @@ LVaj
 LIN
 Las
 Left
+LHl
+LCS
 you
 yield
 yk
@@ -14221,6 +14300,7 @@ yEj
 yrN
 yBX
 yet
+yCt
 point
 pair
 pmatrix
@@ -14783,6 +14863,8 @@ projected
 preserves
 possible
 patterns
+pythagorean
+previsously
 You
 Yes
 YX
@@ -15397,6 +15479,10 @@ YEC
 YIf
 YLR
 YAH
+YsP
+YRf
+Yzs
+YDF
 get
 given
 getL
@@ -15905,6 +15991,10 @@ gPh
 geU
 gfb
 gOt
+gXm
+ghO
+giving
+going
 Scalars
 Step
 Solution
@@ -16615,6 +16705,13 @@ SQj
 SDKWm
 Square
 Same
+Sai
+Symbol
+Symmetric
+Space
+SGTC
+Smallest
+Say
 result
 reduced
 repeated
@@ -17205,6 +17302,8 @@ root
 rsss
 red
 reduce
+rewrite
+rNAA
 Non
 Need
 No
@@ -17631,6 +17730,12 @@ Neg
 NrF
 NjW
 NZL
+Notice
+Numpy
+NIS
+NiQu
+Now
+Next
 zero
 zeros
 zeroes
@@ -18765,6 +18870,9 @@ With
 WMox
 WFL
 Which
+Write
+Well
+Works
 don
 direction
 data
@@ -19349,6 +19457,8 @@ datas
 dpL
 datasets
 depended
+dBg
+discard
 From
 Find
 For
@@ -19873,6 +19983,8 @@ FDry
 Frr
 FyY
 FQBD
+Fomula
+Formulation
 know
 kh
 kia
@@ -20454,6 +20566,8 @@ ksMd
 kNZc
 kgg
 khi
+ktA
+keep
 Matrix
 Multiplication
 Model
@@ -21066,6 +21180,11 @@ Mjyy
 Motivating
 MEDE
 Mee
+More
+MTMA
+MdX
+Mzo
+Mathematical
 using
 up
 until
@@ -21688,6 +21807,8 @@ uUQ
 ulbu
 uul
 uwM
+uao
+uTp
 Recall
 Reference
 Redundant
@@ -22367,6 +22488,9 @@ Rtu
 RRSR
 Right
 Reason
+Repeated
+Rewrite
+Rbu
 Or
 One
 Our
@@ -22963,6 +23087,7 @@ Ojc
 OmP
 OyEU
 OREf
+OQVVj
 IntelliJ
 Isolation
 Interactive
@@ -24259,6 +24384,8 @@ PEzYl
 PCA
 Poq
 Problem
+Practice
+PPP
 Defecs
 Defects
 Dataset
@@ -24832,6 +24959,8 @@ DtDxxz
 DzZ
 DLk
 Descre
+DPXX
+DII
 Visual
 Variables
 Visualization
@@ -25433,6 +25562,9 @@ Vrr
 Variance
 Viba
 VPF
+VUYe
+VjR
+VQv
 Just
 JF
 Jc
@@ -26061,6 +26193,8 @@ JQi
 JfL
 JFI
 Jdde
+JMN
+JRr
 just
 jjj
 jFD
@@ -27288,6 +27422,9 @@ HKK
 HOOm
 HOI
 HLH
+HNI
+HLK
+HTP
 quan
 qqq
 qxD
@@ -28501,6 +28638,7 @@ Kvl
 Kmg
 KPc
 KeA
+KNN
 Gaussian
 Geometric
 Given
@@ -29106,6 +29244,8 @@ Gnv
 Gcwi
 GyE
 GEe
+GVA
+GMS
 Zero
 Zw
 ZX
@@ -29701,6 +29841,8 @@ ZaOws
 ZpE
 ZkM
 Zxl
+ZkV
+ZcG
 xG
 xE
 xP
@@ -30259,6 +30401,7 @@ xuX
 xxk
 xFG
 xPV
+xhH
 Qmc
 Qb
 Qo
@@ -31493,6 +31636,9 @@ XVQ
 XFV
 Xdu
 XSR
+XYT
+XyV
+Xem
 üi
 üj
 üL

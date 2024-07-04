@@ -2050,3 +2050,5 @@ Trifft  meet
 Kollegen - colleagues
 	Sie trifft ihre Kollegen im Büro 
 
+Aufgaben  task/work
+Hausaufgaben / homework

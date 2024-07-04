@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4c7085ac9e09d23c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/_Happiness/Save for my GF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/_Happiness/Save for my GF.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/_Happiness/Save for my GF.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -179,9 +165,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c7085ac9e09d23c",
+  "active": "5d4bb5afd483ebdf",
   "lastOpenFiles": [
+    "How to Study.md",
+    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
     "_Focus.md",
+    "3 RESOURCES/_Happiness/Save for my GF.md",
     "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "Pasted image 20240628151744.png",
     "1 PROJECTS/This Year Goal.md",
@@ -209,9 +198,7 @@
     "4 ARCHIVES/Google Sky.md",
     "4 ARCHIVES/Productive Design.md",
     "4 ARCHIVES/Why Credit card.md",
-    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
-    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "Spaces/Home",
     "Spaces",
     "4 ARCHIVES/Spaces/Home",

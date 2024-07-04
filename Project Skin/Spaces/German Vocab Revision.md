@@ -454,3 +454,34 @@ Willst  (pronounce like wet)
 	Willst du zum Oktoberfest gehen
 
 Wie oft - how often
+
+Du willst Sport  machen / you want to do some sport   
+	machen - to do sth
+	willst - want sth
+
+
+Mädchen
+Wie oft Joggen du? / How often do you run
+
+einma (once) with pro (per)
+	Meine Freunde gehen einmal pro Woche Schwimmen
+
++ ? Wie oft machst du Sport
++ $ Ich mache nur einmal pro woche
+
+Abends - evenings (*evenings* mean *sth happened every evening*)
+	Joga du abends / do you do joga in the evening
+
+### Word Order in German Questions
+
+1. **Question Word (if any):** "Wie oft" (How often)
+2. **Verb:** "machst" (do)
+3. **Subject:** "du" (you)
+4. **Additional Information:** "Yoga"
+
+This structure differs from a declarative sentence, where the subject typically comes before the verb:
+
+- **Declarative:** "Du machst Yoga oft." (You do yoga often.)
+- **Question:** "Wie oft machst du Yoga?" (How often do you do yoga?)
+
+

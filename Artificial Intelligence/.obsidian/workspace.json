@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff29304819c18f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eigenvalues and Eigenvectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfe9e605debe40ba",
+            "id": "4d03637aae10a1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73de57db1a7d61a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a61b554786020f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eigenvalues and Eigenvectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,32 +194,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cfe9e605debe40ba",
+  "active": "4d03637aae10a1ff",
   "lastOpenFiles": [
-    "Pasted image 20240702221416.png",
-    "Pasted image 20240702221238.png",
-    "Pasted image 20240702220705.png",
-    "Pasted image 20240702220612.png",
-    "Pasted image 20240702220523.png",
-    "Pasted image 20240702220401.png",
-    "Pasted image 20240702220131.png",
-    "Pasted image 20240702215955.png",
-    "Pasted image 20240702215703.png",
-    "Pasted image 20240702215606.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-    "Pasted image 20240702215609.png",
-    "Vector norm, Projection.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
+    "Pasted image 20240703232838.png",
     "Eigenvalues and Eigenvectors.md",
-    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue.md",
-    "Matrix Multiplication.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "Pasted image 20240703221218.png",
+    "Pasted image 20240703221030.png",
+    "Pasted image 20240703220919.png",
+    "Pasted image 20240703220700.png",
+    "Pasted image 20240703220608.png",
+    "Pasted image 20240703220500.png",
+    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+    "Pasted image 20240703215609.png",
+    "understand pythagorian in matrix.md",
+    "Pasted image 20240703214704.png",
+    "Area-of-a-triangle-us-featured-image.png",
+    "Determinant.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
+    "Pasted image 20240703212513.png",
     "Vector Manipulation.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
+    "Matrix Multiplication.md",
+    "Vector norm, Projection.md",
+    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
     "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Linear Algebra.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
@@ -221,9 +235,6 @@
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "Tìm Miền Xác Định.md",
-    "SIC Day 1 - Mathematic in Data Science.md",
-    "Xét Tập Xác định.md",
-    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
     "Missing value",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",

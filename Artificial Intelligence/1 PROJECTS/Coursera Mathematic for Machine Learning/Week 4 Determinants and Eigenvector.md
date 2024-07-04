@@ -133,7 +133,7 @@ For the last line (red), we line the line up where all points projected to it sp
 3rd Col: Square of 2nd Col value.
 ![[Pasted image 20240702215955.png]]
 > In short, Variance is the average distance from the mean.
->The image show 2 diff way to represent Variance: 1 with texts and 1 with symbols.
++ ? The image show 2 diff way to represent Variance. One in Text and One in Symbol
 + Calc the Variance of X and Y
 	![[Pasted image 20240702220131.png]]
 
@@ -145,9 +145,11 @@ Problem: giá trị trên x và y giống nhau nhưng khi nhìn thì rõ ràng c
 	Right: Y Inscre, X Descre
 	![[Pasted image 20240702220523.png]]
 
-### Covariance
-> let see how covariance are calculated. They look the same as the Covariance of X and Y, but now depended on both of X and Y.
+### Covariance (Hiệp Phương Sai)
++ ! The Distance between 2 point. If we calc the distance of the same point, it truly just the Variance of that Point.
+>They look the same as the Covariance of X and Y, but now depended on both of X and Y.
 ![[Pasted image 20240702220612.png]]
++ n - 1: mean every point except the center (0, 0) point. Because we are alignning all others points to it. 
 
 ![[Pasted image 20240702220705.png]]
 
@@ -155,3 +157,108 @@ Problem: giá trị trên x và y giống nhau nhưng khi nhìn thì rõ ràng c
 > Reason for Neg and Pos Cov(X, Y) => -X * Y -> - Cov(X, Y) and the Same for Y
 
 ![[Pasted image 20240702221416.png]]
+
+# Covariance Matrix  (Ma Trận Hiệp Phương Sai)
+![[Pasted image 20240703114445.png]]
+
+![[Pasted image 20240703114551.png]]
+
+**Remember how similar the covariance and variance formulas wer**e, it turns out that **the covariance of a variable with itself is actually just the variance** so you could rewrite your covariance matrix like this: (**Covariance** is just **Variance** with a **Co-Variance**. **Co** mean both x and y) 
+![[Pasted image 20240703114857.png]]
+>This truly is just a matrix of covariances between variables.  
+>Cov(x, x) mean distance between 2 point x and x itself.  
+![[Pasted image 20240703114939.png]]
+### Rewrite the Covariance in Matrix form
+Using A and $\mu$. 
++ A: represent a array of x and y
++ $\mu$: represent a array of $\mu_{x}$ and  $\mu_{y}$
++ ? Notice that we have to Tranpose the First $(A - \mu)^T$ so we can apply Matrix Multiplication (or dot product)
+ ![[Pasted image 20240703115536.png]]
+	**Write it all down, we end up with**
+![[Pasted image 20240703120006.png]]
++ ? Practice to calc the 1st row:
+	![[Pasted image 20240703120040.png]]
+
+#### Compact the Equation, we achieve:
+**1st Multiplication:** $Cov(x, x)$ or $Var(x)$
+ $$ 
+\frac{1}{n-1}\prod(x_{1} - \mu_{x})(x_{1} - \mu_{x}) \Leftrightarrow \frac{1}{n-1}\prod(x_{1} - \mu_{x})^2 
+$$
+
+**2nd Multiplication**: $Cov(x, y)$ 
+$$
+\frac{1}{n-1}\prod(x_{1} - \mu_{x})(y_{1} - \mu_{y}) 
+$$
+
+**3rd Multiplication** $Cov(y, x)$ 
+$$
+\frac{1}{n-1}\prod(y_{1} - \mu_{y})(x_{1} - \mu_{x}) 
+$$
+
+**4th Multiplication** $Cov(y, y)$ or $Var(y)$ 
+$$
+\frac{1}{n-1}\prod(y_{1} - \mu_{y})(y_{1} - \mu_{y}) 
+$$
+#### Combine 4 equations above:
+$$
+\frac{1}{n-1}
+\begin{bmatrix} 
+Var(x) & Cov(x, y) \\
+Cov(y, x) & Var(y)
+\end{bmatrix} 
+
+\Leftrightarrow
+
+\frac{1}{n-1}
+\begin{bmatrix} 
+Cov(x, x) & Cov(x, y) \\
+Cov(y, x) & Cov(y, y)
+\end{bmatrix} 
+$$
++  $\Leftrightarrow$  mean "the same as"
+## To Conclude the Matrix Fomula is
+$$
+A - \mu = \begin{bmatrix} x_1 - \mu_x & y_1 - \mu_y \\ \vdots & \vdots \\ x_n - \mu_x & y_n - \mu_y \end{bmatrix} \quad C = \frac{1}{n-1} (A - \mu)^\top (A - \mu)
+$$
+![[Pasted image 20240703122547.png]]
++ $ Conclude: Any Covariance Matrix you calc will be Symmetric
+
+
+![[Pasted image 20240703200007.png]]
++ ! Note: Use Numpy to check if your code are correct
+
+### PCA - Overview
+![[Pasted image 20240703212612.png]]
+> How to find the best line, let's use the same Matrix we use previsously (in Eigenvalue and Eigenvector chapter)
+
+![[Pasted image 20240703215609.png]]
+Eigenvector and Eigenvalues come in pair
+note: Xem lại nguồn gốc Eigenvectors
++ Covariance: 4 (Covariance always symmetric))
++ X-variance is 9
++ Y-variance is 3
+	![[Pasted image 20240703220500.png]]
++ Choose the 1st Eigenvector since it Eigenvalue is much larger. (Thus more points can projected onto it)
+	![[Pasted image 20240703220608.png]]
++ Now we have projected all points onto the line. We have reduce the dimensionality from 2D to 1D (x, y to z for example)
+	![[Pasted image 20240703220700.png]]
+
+  ### Step-by-Step to calc PCA
+  From the data we can get the Covariance Matrix. 
+  Next, we have to sort the Eigenvalue/vectors from the Biggest to Smallest
+  ![[Pasted image 20240703220919.png]]
+  + Say **you want to** reduce the dataset to 2 variable, lets take 2 Biggest variable and discard the rest:
+	  ![[Pasted image 20240703221030.png]]
+
+To project your data, create a new matrix where each column is one of the two eigen vectors scaled by its own norm.
+	![[Pasted image 20240703221218.png]]
++ Finally, project your data onto these 2 vectors, giving you your final dataset which has only 2 features.
+
+## PCA - Why it Works
+Eigenvalues and Eigenvector form a Eigenbasis
+![[Pasted image 20240703232838.png]]
+C - Covariance Matrix: think of it as the change of basis, how would it transform space ?
+e.g. the vector in Teal and orange Stretch itself from the origin (0, 0) longer in the opposite direction. 
++ Let's start by adding this point and seeing its transformation, and keep going all around the circle.
+
+### PCA - Mathematical Formulation
