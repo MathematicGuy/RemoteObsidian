@@ -664,6 +664,7 @@ Evaluation
 Explaination
 Experiment
 Evaluate
+Essentially
 the
 that
 transformation
@@ -1253,6 +1254,8 @@ technique
 transfer
 top
 tranpose
+though
+transition
 original
 of
 operator
@@ -1761,6 +1764,8 @@ overcomplicate
 outline
 overview
 orginal
+onlz
+our
 vector
 vectors
 versions
@@ -2931,6 +2936,8 @@ Acceptable
 Archive
 Approached
 Applied
+Analysis
+Apply
 eigenbasis
 entirely
 eigenvectors
@@ -5584,6 +5591,7 @@ focused
 feedback
 flow
 found
+following
 space
 say
 same
@@ -6258,6 +6266,7 @@ standard
 script
 strive
 spend
+successfully
 consists
 can
 change
@@ -7009,6 +7018,9 @@ compared
 conner
 calculating
 caculate
+case
+chosen
+constructed
 linear
 lambda
 left
@@ -9026,6 +9038,7 @@ Technique
 Technical
 Top
 Take
+True
 after
 and
 as
@@ -9743,6 +9756,8 @@ audience
 appropriate
 adjust
 access
+ahead
+answer
 notate
 nhau
 normal
@@ -10976,6 +10991,7 @@ Compressed
 Cognition
 Create
 COVARIANCE
+Congrat
 Basis
 Both
 Board
@@ -12798,6 +12814,8 @@ world
 website
 worst
 willing
+watch
+working
 have
 has
 ho
@@ -13350,6 +13368,8 @@ hBT
 height
 heavy
 happened
+haven
+however
 Let
 Light
 Learning
@@ -14490,6 +14510,7 @@ yBX
 yet
 yCt
 yeoI
+youtube
 point
 pair
 pmatrix
@@ -15071,6 +15092,7 @@ picture
 priority
 perform
 put
+prediction
 You
 Yes
 YX
@@ -16932,6 +16954,7 @@ Stuff
 Simple
 Snippets
 Steps
+StatQuest
 result
 reduced
 repeated
@@ -17539,6 +17562,8 @@ rather
 report
 reserach
 research
+repeat
+relative
 Non
 Need
 No
@@ -19714,6 +19739,9 @@ directions
 diagram
 detail
 deeper
+day
+days
+distinct
 From
 Find
 For
@@ -22771,6 +22799,7 @@ Recommendation
 Results
 Roadmap
 Retrieve
+Representation
 Or
 One
 Our
@@ -24682,6 +24711,7 @@ Picture
 Projecting
 Prepare
 Projection
+Principle
 Defecs
 Defects
 Dataset
@@ -25270,6 +25300,8 @@ Demo
 Don
 Docuement
 Discard
+Discrete
+Dynamical
 Visual
 Variables
 Visualization

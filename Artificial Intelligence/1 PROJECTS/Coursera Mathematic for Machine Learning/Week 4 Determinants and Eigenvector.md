@@ -263,9 +263,11 @@ e.g. the vector in Teal and orange Stretch itself from the origin (0, 0) longer 
 
 ### PCA - Mathematical Formulation
 **Goals:**
-+ Understand Deeper about PCA
-+ Re-write **step-by-step instruction to calc PCA**
-+ Ask ChatGPT to **list out all the mathematical fomula** I need for Application\
+- [x] Understand Deeper about PCA
+- [x] Re-write **step-by-step instruction to calc PCA**
+- [x] Verification what I know by asking ChatGPT to **list out all the mathematical fomula** I need for Application 
+- [ ] Revision PCA by watching Startquest
+- [ ] Watch all Coursera Course and Ace the Exam
 + ! **Don't dig to deep into a topic**. Understand and note the essen of it. I have plenty of thing needed to do (use my time efficiently)
 + ? During the learning process, if I struck on sth find some help, don't waste my time onto what I have too little information about. 
 + ? Use **numpy library to verify my function result**
@@ -288,4 +290,16 @@ To desmonstrate, given **5 variables**s with the **goal is reduce to 2 variables
 + ? 4) Sort the most Important valuables up top (hence PCA) 
 + ? 5) Discard the rest and keep n variable (in this example we keep 2 variables). Create a Projection Matrix from n most important variables we keep.
 + @ 6) **Project the data onto the vectors you choose** by multiplying the center data by your projection matrix
+
+## Discrete Dynamical Systems
+![[Pasted image 20240704165905.png]]
+Say you want the predictions the following day, and so on repeat n day for n day ahead.
+![[Pasted image 20240704165949.png]]
+That what you though right, however the prediction stay put at the 10 days and being the same at the 11 days.
+![[Pasted image 20240704170104.png]]![[Pasted image 20240704170216.png]]
+
+Essentially the dot product is 1
+![[Pasted image 20240704170252.png]]
+> This is the transition matrix
+> ![[Pasted image 20240704170339.png]]
 

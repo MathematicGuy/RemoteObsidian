@@ -24,4 +24,5 @@ Ending Assignment
 
 # [[Week 4 Determinants and Eigenvector]]
 + [[Eigenvalues and Eigenvectors]]
++ [[Week 4 Graded Quizz]]
 + Programming Assignment: Eigenvalues and Eigenvectors

@@ -4,25 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e83e75ba1e02c686",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d03637aae10a1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "27dac1f5e97cad52",
+        "id": "c29e1fc19e5fa2b4",
         "type": "tabs",
         "children": [
           {
@@ -36,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d03637aae10a1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b276b4f683da13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eigenvalues and Eigenvectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e50944896baeb880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 4 Graded Quizz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motivating PCA.md",
+                "file": "Week 4 Graded Quizz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motivating PCA.md",
+                "file": "Week 4 Graded Quizz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motivating PCA.md"
+                "file": "Week 4 Graded Quizz.md"
               }
             }
           },
@@ -188,45 +207,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35563861ccc2d76f",
+  "active": "e50944896baeb880",
   "lastOpenFiles": [
+    "Pasted image 20240704213449.png",
+    "Eigenvalues and Eigenvectors.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "Week 4 Graded Quizz.md",
+    "Matrix Multiplication.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
+    "Pasted image 20240704172933.png",
+    "Pasted image 20240704171725.png",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
     "Motivating PCA.md",
+    "Week 1 Matrix System.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
+    "Pasted image 20240704170339.png",
+    "Pasted image 20240704170252.png",
+    "Pasted image 20240704170216.png",
+    "Pasted image 20240704170104.png",
+    "Pasted image 20240704165949.png",
+    "Pasted image 20240704165905.png",
+    "Pasted image 20240704140311.png",
     "Pasted image 20240704135021.png",
-    "Pasted image 20240704134853.png",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
-    "Pasted image 20240704134810.png",
-    "Pasted image 20240704134803.png",
-    "Pasted image 20240704133733.png",
-    "Pasted image 20240704133055.png",
-    "Pasted image 20240704132423.png",
-    "Pasted image 20240704132210.png",
-    "Pasted image 20240704131927.png",
-    "Pasted image 20240704131323.png",
     "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
     "PCB Anomally Detection.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
     "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
-    "Eigenvalues and Eigenvectors.md",
     "understand pythagorian in matrix.md",
     "Determinant.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
     "Vector Manipulation.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Chapter 1 - Vectors, what even are they.md",
-    "Matrix Multiplication.md",
     "Vector norm, Projection.md",
     "How to Find Eigenvectors if Matrix have Repeated Eigenvalue.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
     "2 ACTIONS/_Focus.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Linear Algebra.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
-    "SVM - Support Vector Machine.md",
     "1 PROJECTS/Face Detection using SVM",
     "Missing value",
     "3 RESOURCES/Templates",

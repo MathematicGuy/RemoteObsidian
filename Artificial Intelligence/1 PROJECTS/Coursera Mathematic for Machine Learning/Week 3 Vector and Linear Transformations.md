@@ -136,8 +136,7 @@ Calculate in traditional method or use Det
 Can calculate det (tính định thức) -> No Inverse exist 
 	![[Pasted image 20240313100304.png]]
 	![[Pasted image 20240313100317.png]]
-
-Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line & cannot be an inverse matrix (Matrix require at least 2 lines to formed)  
+	Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line & cannot be an inverse matrix (Matrix require at least 2 lines to formed)  
 
 ### Neural networks and matrices
 **Spam Filter**

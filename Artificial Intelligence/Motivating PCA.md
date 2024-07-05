@@ -32,6 +32,7 @@ Given a dataset
 + ? 3rd Step is to **calc the Eigenvalue and Eigenvectors of the Covariance Matrix**
 	**Visual Example:**
 	![[Pasted image 20240704134853.png]]
++ ? We could call the Eigenvalue and Eigenvectors pair we found as the PCA (Principle Component Analysis)
 
 + ? 4th is to Sort Eigenvalue and Eigenvector by it size. (Help we to access the most important features (v and $\mu$) easier) 
 ![[Pasted image 20240704134810.png]]
@@ -39,9 +40,16 @@ Given a dataset
 + ? 5th **Take n features base on your need** (The Dimension you willing to compress to e.g. orginal dimension is 5, you compress it to 2) and **put it into a Matrix** (**let call it a Features Matrix**)
 ![[Pasted image 20240704134803.png]]
 
-+ ? 6th: Project the original Data onto the New Features Matrix you just found to Reduce it Dimension. Now you 
++ ? 6th: Project the original Data onto the New Features Matrix you just found to Reduce it Dimension. 
 	![[Pasted image 20240704135021.png]]
 + X as the Data (Might be a Matrix)
 + $\mu$ Mean of the Data (Might be a Mean Matrix)
 + $V$ : Your Eigenvalues and Eigenvectors you just calculate.
++ $ Congrat, you have successfully align up/reduce your data onto the PCA.
+
+## What I haven't understand
+![[Pasted image 20240704140311.png]]
++ Re-watch that youtube PCA Video
+
+### StatQuest: Principal Component Analysis (PCA), Step-by-step
 
