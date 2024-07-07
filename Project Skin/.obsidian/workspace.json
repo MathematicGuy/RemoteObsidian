@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c255cad1da4bb08",
+        "id": "5051a34b0f938e52",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9b154e86eba5e1",
+            "id": "fd5a2288b716be85",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,15 +189,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7c9b154e86eba5e1",
+  "active": "fd5a2288b716be85",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
+    "_Focus/Todo.md",
+    "Requirement to understand this sentence.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/OOP Java.md",
     "3 RESOURCES/Programming/OOP/OOP.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "_Focus/Todo.md",
-    "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "4 ARCHIVES/2024/WebProject2024/2nd Yrs Mid-Final Term Project.md",
     "1 PROJECTS/My Travel Plan by myself.md",
     "Software Deployment Project.md",
@@ -205,7 +207,6 @@
     "Spaces/Software Deployment Note.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "German Learning Core.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Pasted image 20240625115735.png",
     "Pasted image 20240625111747.png",
     "Pasted image 20240625105143.png",
@@ -224,7 +225,6 @@
     "How to build a web application in Java.md",
     "Pasted image 20240620175706.png",
     "Pasted image 20240620175704.png",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "300px-Network_Protocol_driver.png",
     "Pasted image 20240618174125.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",

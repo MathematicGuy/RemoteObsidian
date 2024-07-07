@@ -665,6 +665,10 @@ Explaination
 Experiment
 Evaluate
 Essentially
+Exam
+Explanation
+EiII
+EDs
 the
 that
 transformation
@@ -1256,6 +1260,11 @@ top
 tranpose
 though
 transition
+tsqbTz
+too
+twice
+topic
+tka
 original
 of
 operator
@@ -2349,6 +2358,9 @@ visualizations
 vai
 vetor
 very
+vXs
+vdots
+verify
 An
 After
 Algorithm
@@ -2938,6 +2950,8 @@ Approached
 Applied
 Analysis
 Apply
+Ace
+AlO
 eigenbasis
 entirely
 eigenvectors
@@ -3626,6 +3640,9 @@ encoding
 evaluate
 education
 easier
+eTP
+essen
+efficiently
 is
 in
 image
@@ -4335,6 +4352,10 @@ images
 implementation
 intuitive
 illustrate
+instead
+instruction
+iuE
+iHJ
 basis
 by
 because
@@ -5020,6 +5041,7 @@ big
 break
 better
 bottom
+bmatrix
 for
 find
 factor
@@ -6267,6 +6289,9 @@ script
 strive
 spend
 successfully
+said
+simply
+struck
 consists
 can
 change
@@ -7634,6 +7659,10 @@ loading
 levels
 load
 later
+long
+little
+library
+ltth
 matrix
 multiply
 multiplied
@@ -8327,6 +8356,8 @@ measure
 makes
 mutual
 matrixes
+mathematical
+mAA
 The
 This
 To
@@ -9039,6 +9070,8 @@ Technical
 Top
 Take
 True
+TBF
+Tkx
 after
 and
 as
@@ -9758,6 +9791,11 @@ adjust
 access
 ahead
 answer
+added
+asking
+afv
+aHF
+aADT
 notate
 nhau
 normal
@@ -10376,6 +10414,9 @@ ngu
 nfm
 newest
 notice
+none
+needed
+nor
 Change
 Class
 Comunity
@@ -10992,6 +11033,9 @@ Cognition
 Create
 COVARIANCE
 Congrat
+ChatGPT
+Coursera
+Course
 Basis
 Both
 Board
@@ -12304,6 +12348,7 @@ Ubb
 ULQ
 Use
 Update
+UCD
 we
 want
 when
@@ -12816,6 +12861,10 @@ worst
 willing
 watch
 working
+write
+watching
+waste
+wun
 have
 has
 ho
@@ -13370,6 +13419,8 @@ heavy
 happened
 haven
 however
+htg
+having
 Let
 Light
 Learning
@@ -13968,6 +14019,8 @@ LCS
 LOIDATx
 Line
 Load
+Leftrightarrow
+LdQO
 you
 yield
 yk
@@ -15093,6 +15146,10 @@ priority
 perform
 put
 prediction
+pointing
+prod
+plenty
+plance
 You
 Yes
 YX
@@ -16227,6 +16284,8 @@ going
 greatest
 grey
 getting
+green
+gZt
 Scalars
 Step
 Solution
@@ -16955,6 +17014,9 @@ Simple
 Snippets
 Steps
 StatQuest
+Spanning
+Set
+Startquest
 result
 reduced
 repeated
@@ -17997,6 +18059,7 @@ NiQu
 Now
 Next
 New
+Number
 zero
 zeros
 zeroes
@@ -19138,6 +19201,7 @@ Watch
 Web
 Website
 Walk
+WRz
 don
 direction
 data
@@ -19742,6 +19806,10 @@ deeper
 day
 days
 distinct
+dcJ
+duplicate
+dig
+deep
 From
 Find
 For
@@ -20273,6 +20341,10 @@ Focus
 FOcus
 Futuristic
 Features
+FVIDATx
+False
+Flase
+FNy
 know
 kh
 kia
@@ -21481,6 +21553,7 @@ Moving
 Means
 MATRIX
 Might
+Minimal
 using
 up
 until
@@ -22108,6 +22181,8 @@ uTp
 unsupervised
 understanding
 understand
+uTs
+uKZ
 Recall
 Reference
 Redundant
@@ -22800,6 +22875,8 @@ Results
 Roadmap
 Retrieve
 Representation
+RoIs
+Remain
 Or
 One
 Our
@@ -23401,6 +23478,7 @@ OtO
 ONE
 Opening
 Originals
+OXi
 IntelliJ
 Isolation
 Interactive
@@ -24080,6 +24158,8 @@ Inscre
 INIV
 Implement
 Implementation
+IJo
+IdentityMatrix
 Prerequisite
 PCB
 Project
@@ -24712,6 +24792,8 @@ Projecting
 Prepare
 Projection
 Principle
+PZCG
+PCZ
 Defecs
 Defects
 Dataset
@@ -25302,6 +25384,9 @@ Docuement
 Discard
 Discrete
 Dynamical
+Deeper
+During
+DDl
 Visual
 Variables
 Visualization
@@ -25914,6 +25999,8 @@ Video
 Visuals
 Vietname
 Var
+Verification
+VWV
 Just
 JF
 Jc
@@ -26545,6 +26632,8 @@ Jdde
 JMN
 JRr
 JPEG
+JKe
+JhlS
 just
 jjj
 jFD
@@ -27173,6 +27262,7 @@ joining
 jyz
 jpeg
 jpg
+jGu
 Highly
 How
 Have
@@ -28401,6 +28491,7 @@ quantify
 quy
 quality
 quite
+quad
 Kh
 Key
 Kz
@@ -29609,6 +29700,7 @@ GVA
 GMS
 GJSEX
 Get
+GIw
 Zero
 Zw
 ZX
@@ -31381,6 +31473,7 @@ QOI
 QBs
 Quickly
 Question
+QeX
 XnV
 XT
 XK

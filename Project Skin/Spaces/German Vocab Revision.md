@@ -494,3 +494,19 @@ Machen Sie
 Machst du
 ich Mache 
 	Ich mache abends sport / i do sport in the evening
+
+
+Zum Fruhstück esse ich gern Joghurt mit Banane. Es ist einfach und lecker - I like to eat yogurt with banana for breakfast. It's simple and delicious
++ [[Requirement to understand this sentence]]
+
+Mein Hund isst manchmal ein Ei zum Frühstück -  my dog sometimes eat an egg for breakfast
+
+Ich esse morgens zwei Orangen. Was isst du?
+Isst du gern Müesli
+Isst du Müesli mit yogurt
+
++ ? In German "the morning" usually shorten to morgen. 
++ ? "Morgens" are use to express a activity that "happend every morning"
+	Ich esse morgens eine Banane - I eat a banana in the morning
+
+Was isst du morgens? Oder frühstückst du nicht - Do you eat in the morning? or do you not eat breakfast

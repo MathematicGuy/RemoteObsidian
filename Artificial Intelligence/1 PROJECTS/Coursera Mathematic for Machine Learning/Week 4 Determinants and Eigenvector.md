@@ -1,5 +1,36 @@
-# Determinants In-depth (định thức hiểu sâu)
+# Span in Linear Algebra
+> Span is the line that contain the vector
+![[Pasted image 20240705162326.png]]
 
+$$R^{2} = 1 − \frac{\sum(yi−y^i)^2}{\sum(yi−yˉ)^2}$$
+
+
+$\overline{y}$
+
+> The Basis is a Minimal Spanning Set (Basis is only 1 vector ). A line only have 1 Basis. The Basis is any vector align with the line.
+![[Pasted image 20240705162432.png]]
+> This is not a Basis, because it have 2 vector with same magnitude and direction. (too many vectors)
+![[Pasted image 20240705163127.png]]
+
+> Number of elements in the basis is the dimension. As the Basis is the original vector of that Space.
+![[Pasted image 20240705162147.png]]
+
+> A group of vectors is said to be linearly independent if none of the vectors in the group can be obtained as a linear combination of the others.
++ ? What if you added this other vector instead? In this case the **new vector in red is pointing in the same direction as the green one**. But it's simply **twice as long as the original vector.**
++ $ Since **one vector can be obtained as a linear combination of the others**, this set of vectors is called **linearly dependent**. Notice also that **even though we added a new vector to our set, the span of these vectors did not change, it remained a straight line**.
+![[Pasted image 20240705162721.png]]
+> If a vector not in the same direction and span. It is Linearly Dependent 
+
+However this case the vectors are **not linearly independant**, this is because **the 4rd vector can be obtain from the Red and Teal vectors**.
++ $ This mean having 3 nor more vectors in the plance, or 4 or more vectors in the 3D space.
+![[Pasted image 20240705163744.png]]
+
+#### Let's see how to check for linear dependence 
+![[Pasted image 20240705164120.png]]
+
+
+
+# Determinants In-depth (định thức hiểu sâu)
 ## Singularity and rank of linear transformations
 The image is Singular. it not covering the whole plane on the right, just a portion of it (**singular: matrix -> a line, a point**)
 ![[Pasted image 20240420230556.png]]
