@@ -11,10 +11,11 @@
 Apply Gaussian Elimination for Matrix Reduction to find the Rank (Rank - total result of the matrix. Số nghiệm của ma trận)
 -> Rank 2
 
-![[Pasted image 20240705142118.png]]
+
+![[Pasted image 20240707151143.png]]
 1) True. Since Reverse Matrix of M is just 1/M. So it Singular Remain
 2) False. Because Determinant of a Square Matrix can be negative
-3) False. Because only $\det(M)^{n}= 5^n$ 
+3) True. 
 4) Flase. Because eigenvalues of a Matrix can be duplicate.
 
 ![[Pasted image 20240705145714.png]]
@@ -24,10 +25,15 @@ Apply Gaussian Elimination for Matrix Reduction to find the Rank (Rank - total r
 	e.g for the 1st column: x = 2, y = 1, z = 1
 	![[3D-array.jpg]]
 
-![[Pasted image 20240705142151.png]]
+
+![[Pasted image 20240707151055.png]]
 
 
 ![[Pasted image 20240704213449.png]]
+Use Covariance Matrix fomula
+$$\quad C = \frac{1}{n-1} (A - \mu)^\top (A - \mu)$$
+[2, 6],  [6, 18]
+
 
 ![[Pasted image 20240705142232.png]]
 ![[Pasted image 20240705142247.png]]

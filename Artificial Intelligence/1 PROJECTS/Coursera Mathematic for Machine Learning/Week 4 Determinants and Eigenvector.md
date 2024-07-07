@@ -6,7 +6,6 @@ $$R^{2} = 1 − \frac{\sum(yi−y^i)^2}{\sum(yi−yˉ)^2}$$
 
 
 $\overline{y}$
-
 > The Basis is a Minimal Spanning Set (Basis is only 1 vector ). A line only have 1 Basis. The Basis is any vector align with the line.
 ![[Pasted image 20240705162432.png]]
 > This is not a Basis, because it have 2 vector with same magnitude and direction. (too many vectors)
@@ -15,7 +14,9 @@ $\overline{y}$
 > Number of elements in the basis is the dimension. As the Basis is the original vector of that Space.
 ![[Pasted image 20240705162147.png]]
 
-> A group of vectors is said to be linearly independent if none of the vectors in the group can be obtained as a linear combination of the others.
+> A group of vectors is said to be **linearly independent if none of the vectors in the group can be obtained as a linear combination of the others.** or in other word
++ $ Ex: **A basis for a 3D vector space must consist of three linearly independent vectors. (n chiều thì n nghiệm**. vd: 3D -> 3 Nghiệm)
+
 + ? What if you added this other vector instead? In this case the **new vector in red is pointing in the same direction as the green one**. But it's simply **twice as long as the original vector.**
 + $ Since **one vector can be obtained as a linear combination of the others**, this set of vectors is called **linearly dependent**. Notice also that **even though we added a new vector to our set, the span of these vectors did not change, it remained a straight line**.
 ![[Pasted image 20240705162721.png]]
@@ -27,7 +28,6 @@ However this case the vectors are **not linearly independant**, this is because 
 
 #### Let's see how to check for linear dependence 
 ![[Pasted image 20240705164120.png]]
-
 
 
 # Determinants In-depth (định thức hiểu sâu)
@@ -181,10 +181,10 @@ Problem: giá trị trên x và y giống nhau nhưng khi nhìn thì rõ ràng c
 >They look the same as the Covariance of X and Y, but now depended on both of X and Y.
 ![[Pasted image 20240702220612.png]]
 + n - 1: mean every point except the center (0, 0) point. Because we are alignning all others points to it. 
-
+a
 ![[Pasted image 20240702220705.png]]
 
-![[Pasted image 20240702221238.png]]
+o
 > Reason for Neg and Pos Cov(X, Y) => -X * Y -> - Cov(X, Y) and the Same for Y
 
 ![[Pasted image 20240702221416.png]]
@@ -209,6 +209,7 @@ Using A and $\mu$.
 ![[Pasted image 20240703120006.png]]
 + ? Practice to calc the 1st row:
 	![[Pasted image 20240703120040.png]]
+
 
 #### Compact the Equation, we achieve:
 **1st Multiplication:** $Cov(x, x)$ or $Var(x)$

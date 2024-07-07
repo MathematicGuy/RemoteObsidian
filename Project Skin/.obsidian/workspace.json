@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5051a34b0f938e52",
+        "id": "80dfcf225febd9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5a2288b716be85",
+            "id": "40f2047a9df390ac",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "817b9972ecb4526a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,11 +194,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd5a2288b716be85",
+  "active": "817b9972ecb4526a",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Soft Skill/Time Management.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "Requirement to understand this sentence.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
@@ -222,7 +228,6 @@
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "Pháp Luật.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "How to build a web application in Java.md",
     "Pasted image 20240620175706.png",
     "Pasted image 20240620175704.png",
     "300px-Network_Protocol_driver.png",
