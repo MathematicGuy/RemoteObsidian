@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8080fe8a028a585f",
+        "id": "54b65141c22f51b5",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7e0de1ae36d595",
+            "id": "85fa76740d8e3694",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b7e0de1ae36d595",
+  "active": "85fa76740d8e3694",
   "lastOpenFiles": [
     "Ways to develop software applications.md",
     "Pasted image 20240708142931.png",
