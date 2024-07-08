@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80dfcf225febd9d4",
+        "id": "8080fe8a028a585f",
         "type": "tabs",
         "children": [
           {
-            "id": "40f2047a9df390ac",
+            "id": "1b7e0de1ae36d595",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "817b9972ecb4526a",
+            "id": "bd24031ae06dc7b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Software Deployment.md"
+              }
             }
           },
           {
@@ -194,12 +203,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "817b9972ecb4526a",
+  "active": "bd24031ae06dc7b3",
   "lastOpenFiles": [
     "_Focus/Todo.md",
-    "2 ACTIONS/Personal/Soft Skill/Time Management.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Soft Skill/Time Management.md",
     "Requirement to understand this sentence.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",

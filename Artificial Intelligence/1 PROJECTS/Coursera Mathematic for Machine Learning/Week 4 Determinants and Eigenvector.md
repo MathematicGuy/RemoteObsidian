@@ -81,6 +81,10 @@ it like multiplication for matrices. It blow up the area of a matrix.
 **result** =  [16, 21]
 		[22, 27]
 
+## Others way to Calculate Determinant
+![[Pasted image 20240708115216.png]]
+  b 
+
 Singular matrix  * any matrix -> singular matrix. Why?
 ![[Pasted image 20240421001559.png]]
 ![[Pasted image 20240421001334.png]]

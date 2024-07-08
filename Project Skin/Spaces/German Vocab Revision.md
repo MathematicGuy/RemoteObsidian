@@ -119,7 +119,10 @@ Ist das kind lustig / is the child funny
 
 Das Kind 
 Fast
-Jeden Tag - every day
+Jeden / Every
+	Jeden Tag / every day
+	Jede Woche
+
 Fußball
 (the child play soccer everyday)
 	Das kind spielt fast jeden tag
@@ -510,3 +513,6 @@ Isst du Müesli mit yogurt
 	Ich esse morgens eine Banane - I eat a banana in the morning
 
 Was isst du morgens? Oder frühstückst du nicht - Do you eat in the morning? or do you not eat breakfast
+
+ich treffe / I meet
+du triffst / you meet

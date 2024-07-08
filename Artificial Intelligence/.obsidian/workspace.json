@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "ceca5082ed660a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4 Graded Quizz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9891782297dc9974",
             "type": "leaf",
             "state": {
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 Graded Quizz.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 Graded Quizz.md",
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4 Graded Quizz.md"
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md"
               }
             }
           },
@@ -197,14 +185,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ceca5082ed660a52",
+  "active": "9891782297dc9974",
   "lastOpenFiles": [
+    "Pasted image 20240708115216.png",
+    "2 ACTIONS/_Focus.md",
+    "Week 4 Graded Quizz.md",
     "Pasted image 20240707151143.png",
     "Pasted image 20240707151055.png",
     "Pasted image 20240707150243.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-    "Week 4 Graded Quizz.md",
-    "2 ACTIONS/_Focus.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
@@ -220,7 +209,6 @@
     "Pasted image 20240705164120.png",
     "Pasted image 20240705163537.png",
     "Pasted image 20240705163744.png",
-    "Pasted image 20240705163127.png",
     "Eigenvalues and Eigenvectors.md",
     "Week 1 Matrix System.md",
     "Matrix Multiplication.md",
