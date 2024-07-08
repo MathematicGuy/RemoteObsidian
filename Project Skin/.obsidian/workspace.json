@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "54b65141c22f51b5",
+        "id": "153cab7da34b8806",
         "type": "tabs",
         "children": [
           {
-            "id": "85fa76740d8e3694",
+            "id": "b9de3e902f22ef61",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Todo/Priority",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "85fa76740d8e3694",
+  "active": "b9de3e902f22ef61",
   "lastOpenFiles": [
     "Ways to develop software applications.md",
     "Pasted image 20240708142931.png",

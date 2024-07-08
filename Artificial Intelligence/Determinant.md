@@ -10,3 +10,7 @@
 + ! Singular Matrix can't be use to calc Determinant becase they are either have *Infinitely Solutions* (Coincident Vectors) which represent a line or have *No Solution* (Parallel Vectors) which represent literally 2 lines. 
 	In either cases, it impossible to calculate volume of the matrix.
 
+
+#### [Deep Dive into Determinant](https://travis749.medium.com/deep-dive-into-matrix-determinants-ed947dcb95e5)
+![[Pasted image 20240708164534.png]]
+

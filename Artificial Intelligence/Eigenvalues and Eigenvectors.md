@@ -160,3 +160,6 @@ We see that x3 = 4x2, therefor the eigenvector is (v1, v2, v3) = (0, k, 4k)
 ![[Pasted image 20240702195111.png]]
 + When 2 lambda equal to eachother that mean they can be identical and resulting in 1 eigenvector. More specific, numbers of eigenvectors is depend on that 1 eigenvalue.
 
+
+## Application of Eigenvalues and Eigenvectors
++ ? **Discrerte Dynamic System** - state chages according to some process.  When defining this dynamical systems you **could represent all the possible states**, such as sunny, rainy or cloudy, in a vector called the **state vector**.

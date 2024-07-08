@@ -5043,6 +5043,8 @@ break
 better
 bottom
 bmatrix
+binary
+block
 for
 find
 factor
@@ -5615,6 +5617,7 @@ feedback
 flow
 found
 following
+fast
 space
 say
 same
@@ -6294,6 +6297,13 @@ said
 simply
 struck
 straight
+states
+sunny
+slow
+store
+slower
+stored
+scatter
 consists
 can
 change
@@ -7048,6 +7058,9 @@ caculate
 case
 chosen
 constructed
+chages
+cloudy
+computer
 linear
 lambda
 left
@@ -7665,6 +7678,7 @@ long
 little
 library
 ltth
+less
 matrix
 multiply
 multiplied
@@ -8360,6 +8374,7 @@ mutual
 matrixes
 mathematical
 mAA
+memory
 The
 This
 To
@@ -9074,6 +9089,7 @@ Take
 True
 TBF
 Tkx
+Therefor
 after
 and
 as
@@ -9798,6 +9814,7 @@ asking
 afv
 aHF
 aADT
+according
 notate
 nhau
 normal
@@ -11038,6 +11055,7 @@ Congrat
 ChatGPT
 Coursera
 Course
+Contiguous
 Basis
 Both
 Board
@@ -12867,6 +12885,7 @@ write
 watching
 waste
 wun
+ways
 have
 has
 ho
@@ -14023,6 +14042,7 @@ Line
 Load
 Leftrightarrow
 LdQO
+List
 you
 yield
 yk
@@ -15152,6 +15172,8 @@ pointing
 prod
 plenty
 plance
+processed
+pointers
 You
 Yes
 YX
@@ -17629,6 +17651,8 @@ research
 repeat
 relative
 remained
+rainy
+run
 Non
 Need
 No
@@ -19814,6 +19838,8 @@ duplicate
 dig
 deep
 did
+defining
+dynamical
 From
 Find
 For
@@ -20349,6 +20375,7 @@ FVIDATx
 False
 Flase
 FNy
+Fixed
 know
 kh
 kia
@@ -20934,6 +20961,7 @@ ktA
 keep
 keeping
 knowledge
+kind
 Matrix
 Multiplication
 Model
@@ -21558,6 +21586,7 @@ Means
 MATRIX
 Might
 Minimal
+Memory
 using
 up
 until
@@ -24799,6 +24828,7 @@ Projection
 Principle
 PZCG
 PCZ
+Pandas
 Defecs
 Defects
 Dataset
@@ -25392,6 +25422,8 @@ Dynamical
 Deeper
 During
 DDl
+Discrerte
+Dynamic
 Visual
 Variables
 Visualization

@@ -42,3 +42,4 @@ $$\quad C = \frac{1}{n-1} (A - \mu)^\top (A - \mu)$$
 ![[Pasted image 20240705142313.png]]
 
 ![[Pasted image 20240705142318.png]]
+> Calc Covariance Matrix like normal
