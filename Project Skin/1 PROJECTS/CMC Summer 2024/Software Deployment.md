@@ -28,3 +28,4 @@ DiagramGPT - grapth
 ### [[2. The Essential of Software Requirement]]
 
 [[Ways to develop software applications]]
+
