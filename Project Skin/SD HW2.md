@@ -61,4 +61,3 @@ B. Tài sản quy trình quản lý yêu cầu
 + ? **Ví dụ:** sự kiện kích hoạt cho trường hợp sử dụng "Đặt chuyến bay" có thể là "Người dùng nhấp vào nút 'Tìm kiếm chuyến bay'".
 
 
-
