@@ -1,5 +1,5 @@
 note: 
-Dimension -> variable from x, y, z.(e.g. with x, y form a 2D matrix we calc the Means of x and y)
+We represent Dimension using x, y, z axis (e.g. with x, y form a 2D matrix we calc the Means of x and y)
 ![[Pasted image 20240704130726.png]]
 Given a dataset
 + ? 1st we caculate the Mean of Each Dimension in the given data

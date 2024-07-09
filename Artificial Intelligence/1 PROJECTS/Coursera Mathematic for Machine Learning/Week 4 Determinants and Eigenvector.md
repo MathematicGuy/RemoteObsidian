@@ -70,6 +70,10 @@ it like multiplication for matrices. It blow up the area of a matrix.
 ![[Pasted image 20240421000026.png]]
 > To transform the first matrix instantly we multiply by the product of its Det (matrice of det=5 * matrix of det=3)
 
++ ! The dot product in the upper image is wrong
+	((1, 4),
+	(-3, 3)) -> 3 + 12 = 15
+
 **Matrix A:** 
 	[2 3] 
 	[4 1]	
@@ -83,7 +87,7 @@ it like multiplication for matrices. It blow up the area of a matrix.
 
 ## Others way to Calculate Determinant
 ![[Pasted image 20240708115216.png]]
-  b 
+
 
 Singular matrix  * any matrix -> singular matrix. Why?
 ![[Pasted image 20240421001559.png]]
@@ -119,9 +123,11 @@ so they're linearly dependent
 
 Easy approach - just delete cols but loses valuable information
 **The idea behind dimensionality reduction is to move your data points into a vector space with fewer dimensions.**
+
++ ? PCA Visualization: Project data (matrix) onto a eigenvectors (PCA) 
 ![[Pasted image 20240702202537.png]]
 Project (1, 1) we have the vector at the value of 1. However, summing the 2 variable (coordinate 1, 1) you ending up with a vector length of 2. 
-+ To get the length we divided it by the square root of 2. Which is the norm of 1. (căn(1 + 1) = căn 2)
++ To get the length we divided it by the square root of 2. Which is the norm of [1, 1]. (căn(1 + 1) = căn 2)
 
 ![[Pasted image 20240702202314.png]]
 ![[Pasted image 20240702203330.png]]
@@ -188,7 +194,7 @@ Problem: giá trị trên x và y giống nhau nhưng khi nhìn thì rõ ràng c
 a
 ![[Pasted image 20240702220705.png]]
 
-o
+
 > Reason for Neg and Pos Cov(X, Y) => -X * Y -> - Cov(X, Y) and the Same for Y
 
 ![[Pasted image 20240702221416.png]]
@@ -339,3 +345,4 @@ Essentially the dot product is 1
 > This is the transition matrix
 > ![[Pasted image 20240704170339.png]]
 
+Note: Tìm lý do tại sao lại xử lý vấn đề chậm vậy?

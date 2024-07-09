@@ -7,10 +7,6 @@ làm thế nào
 trình bày thực nghiệm
 Câu hỏi vấn đáp
 	bốc thăm
-
-
-
-
  
 Principal Component Analysis - allow to distribute each Cel seperately
 ![[Pasted image 20240417103920.png]]
@@ -94,7 +90,7 @@ This mean the recipe for PC2 is (-1 Parts Gene 1) and (4 Parts Gene 2)
 
 
 To draw the final PCA plot, we rotate everything so the PC1 is horizontal. Then we use the projected point to find where the samples go in the PCA plot
-Example: We take the coordinate of 1 each from from PC1 and PC2, then we have the position of Sample 6. 
+Example: We take the coordinate of 1 each from PC1 and PC2, then we have the position of Sample 6. 
 ![[Pasted image 20240505213515.png]]
 and Sample 1.
 ![[Pasted image 20240505213625.png]]
@@ -103,7 +99,7 @@ Let get a deeper understand before we go any further.
 ![[Pasted image 20240505213650.png]]
 For example: the **Variation of PC1 is 15 and PC2 is 3 -> total PCs = 18**
 that mean **PC1 = 15 / 18 = 0.83  = 83% of the total variation around the PCs**. And PC2 take up 17% 
-
+Scree plot (sơ đồ sàng lọc)
 ![[Pasted image 20240505213905.png]]
 
 **What if we have 3 Genes**, well then we just have 3 Ingerdients. 
