@@ -4,7 +4,6 @@
 
 $$R^{2} = 1 − \frac{\sum(yi−y^i)^2}{\sum(yi−yˉ)^2}$$
 
-
 $\overline{y}$
 > The Basis is a Minimal Spanning Set (Basis is only 1 vector ). A line only have 1 Basis. The Basis is any vector align with the line.
 ![[Pasted image 20240705162432.png]]
@@ -292,9 +291,10 @@ note: Xem lại nguồn gốc Eigenvectors
   + Say **you want to** reduce the dataset to 2 variable, lets take 2 Biggest variable and discard the rest:
 	  ![[Pasted image 20240703221030.png]]
 
-To project your data, create a new matrix where each column is one of the two eigen vectors scaled by its own norm.
+To project your data we'll need a eigenvector (present a features), create a new matrix where each column is one of the two eigen vectors scaled by its own norm.
 	![[Pasted image 20240703221218.png]]
 + Finally, project your data onto these 2 vectors, giving you your final dataset which has only 2 features.
+
 
 ## PCA - Why it Works
 Eigenvalues and Eigenvector form a Eigenbasis

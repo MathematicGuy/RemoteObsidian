@@ -214,12 +214,33 @@ A - \mu = \begin{bmatrix} x_1 - \mu_x & y_1 - \mu_y \\ \vdots & \vdots \\ x_n - 
 $$
 Since this Matrix will return a square matrix (singular matrix) which contain a Eigenvalues and Eigenvectors. 
 + $(A - \mu)$ : Coordinate of a centralized points.
-+ $(A - \mu)^\top (A - \mu)$ : Projected each point to each others point.
-+ 
++ $(A - \mu)^\top (A - \mu)$ : Get the Relation of each point to each others point.  
+	![[dot_product_components.png]]
++ $\frac{1}{n-1}$ : Dividing to total point's sum except for the center point (0, 0) that all points centralized around.
++ $ So we can understand that the **Covariance Matrix return a Matrix contain the information about the relationship between each points to each others** (The Mean of every Vectors or the PCA of each )
+$$C = \frac{1}{n-1} (A - \mu)^\top (A - \mu)$$
 
-+ ? To achieve this, we  
-
-After that, we need to measure the relationship between each point by **projected all points onto the Mean Line of each Means** (each point have it own line, the yellow line is 1 example)
-+ ? We  
+Each vale pair (x, y) have it own PCA, the yellow line is 1 example out of many
 ![[Pasted image 20240709143558.png]]
 ![[Pasted image 20240709143752.png]]
+The Matrix have 2 eigenvalues -> 2 eigenvectors -> 2 PCA line.
+
+
+> How to **find the best line**, let's use the same Matrix we use previsously (in Eigenvalue and Eigenvector chapter)
+![[Pasted image 20240703215609.png]]
+Eigenvector and Eigenvalues come in pair
+note: Xem lại nguồn gốc Eigenvectors
++ Covariance: 4 (Covariance always symmetric))
++ X-variance is 9
++ Y-variance is 3
+	![[Pasted image 20240703220500.png]]
++ Choose the 1st Eigenvector since it Eigenvalue is much larger. (Thus more points can projected onto it)
+	![[Pasted image 20240703220608.png]]
++ In case we have more features, we will need to sort them from low to High
+	![[Pasted image 20240709153333.png]]
+	![[Pasted image 20240709160403.png]]
+	
++ Now we can projected all points onto the PCA line to reduce the dimensionality from 2D to 1D (x, y to z for example)
+	![[Pasted image 20240703220700.png]]
+	![[Pasted image 20240709160440.png]]
+

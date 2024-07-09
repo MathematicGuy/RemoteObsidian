@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "26f718d7f86e10c4",
+        "id": "ab9de0852afc7913",
         "type": "tabs",
         "children": [
           {
-            "id": "a29f9d3b0ef47005",
+            "id": "3d4a82f604dc4f1f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a29f9d3b0ef47005",
+  "active": "3d4a82f604dc4f1f",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
