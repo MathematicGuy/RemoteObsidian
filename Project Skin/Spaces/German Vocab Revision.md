@@ -516,3 +516,19 @@ Was isst du morgens? Oder frühstückst du nicht - Do you eat in the morning? or
 
 ich treffe / I meet
 du triffst / you meet
+
+Sie isst ein Brötchen mit Schiken zum Mittagessen / Sie eat a roll with ham for lunch
+	Brötchen - roll
+	Schicken - ham
+
+
+Max isst du eine suppe für Mittagessen? Ich esse pizza mit / Max do you eat soup for lunch? I eat pizza with ham Schicken
+
+Sie trifft ihre Kollegen im Büro - She meet her college at the office
+
+My boss this is drinking afternoon a cup of coffee this afternoon - Mein Chef trinkt heute Nachmittag ein Tasse Kaffee
+	Tasse - a cup
+	Chef - boss
+	Nachmittag - afternoon (buổi trưa)
+
+Mein Kollegen und Ich möchten zum Mittagessen Pizza bestellen, aber die Chef möchtet keine pizza. Sie hat keinen hunger / My collage and I would like to order pizza for lunch, but the Boss wouldn't like pizza. She ist not hungry

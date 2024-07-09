@@ -2070,3 +2070,7 @@ Schneller / quicker
 Los geht's / let go
 
 mit dem zug / to there now (dem - to sht)
+
+Eine Chef - boss
+	Trifft du deine Chef oft im Büro
+	Ich treffe meine Chefin zum Nachmittag
