@@ -3,12 +3,10 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Learning Docs for Classification Bayes 
+
 - [ ] ML and DM Revision
 	- [ ] Classification Decision Tree
 	- [ ] SVM Preparation
-
-- [ ] Re-explain and documenting my Gaussian Elimination Code
 - [ ] Classification KNN 
 
 
