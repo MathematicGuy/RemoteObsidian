@@ -22,3 +22,6 @@ Controller: Servlet
 Dal: Java
 Model: Java Class
 Web Pages: JSP, HTML (view)
+
+
+**Package by Features**
