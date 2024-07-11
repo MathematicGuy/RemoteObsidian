@@ -32,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2904e536732f693d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Requirement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirement.md",
+                "file": "Face Detection Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requirement.md",
+                "file": "Face Detection Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requirement.md"
+                "file": "Face Detection Application.md"
               }
             }
           },
@@ -198,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2904e536732f693d",
+  "active": "52d9a1f1b4ad9936",
   "lastOpenFiles": [
     "Requirement.md",
     "Face Detection Application.md",

@@ -34,3 +34,5 @@ The best classification hyper-plane W looks like an average face image. Cannot w
  3.  Face detection
 
 Scanning-window style classification of image patches typically results in multiple responses around the target object. A standard practice to deal with this is to remove any detector responses in the neighborhood of detections with the locally maximal confidence score (non-maxima suppression or NMS). NMS is usually applied to all detections in the image with confidence above a certain threshold. Try NMS face detection for different threshold values and in other images:
+
+
