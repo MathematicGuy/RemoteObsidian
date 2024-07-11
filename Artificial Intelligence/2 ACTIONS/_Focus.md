@@ -2,7 +2,8 @@
 ## [[SIC - Artificial Intelligent]]
 
 # [[Machine Learning]]
-### [[Machine Learning Mathematics]] 
+
+## [[Mathematics for Machine Learning - MML]]
 
 ### [[Numpy]]
 ### [[Numpy Doc]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b237ce7097a8f6",
+        "id": "05c1c5a57b46f687",
         "type": "tabs",
         "children": [
           {
-            "id": "93a385804b59fb5f",
+            "id": "eb1e4508a878e4e4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,36 +22,24 @@
             }
           },
           {
-            "id": "c256bf838460afdd",
+            "id": "52d9a1f1b4ad9936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "file": "Face Detection Application.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "25c22db22ad499da",
+            "id": "2904e536732f693d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d853135dd59dd46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
+                "file": "Requirement.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -133,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 Summary.md",
+                "file": "Requirement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 Summary.md",
+                "file": "Requirement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4 Summary.md"
+                "file": "Requirement.md"
               }
             }
           },
@@ -209,43 +198,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c22db22ad499da",
+  "active": "2904e536732f693d",
   "lastOpenFiles": [
+    "Requirement.md",
+    "Face Detection Application.md",
+    "2 ACTIONS/_Focus.md",
+    "SIC - Artificial Intelligence Foundations Machine Learning.md",
+    "Calculus for Machine Learning.md",
+    "Pasted image 20240710175119.png",
+    "Pasted image 20240710174828.png",
+    "Pasted image 20240710174409.png",
+    "Pasted image 20240710173642.png",
+    "Pasted image 20240710173035.png",
+    "Pasted image 20240710172917.png",
+    "Pasted image 20240710172608.png",
+    "Pasted image 20240710172234.png",
+    "Pasted image 20240710171803.png",
+    "Pasted image 20240710171435.png",
+    "SVM HW.md",
+    "HoG.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+    "Machine Learning Mathematics.md",
+    "SVM - Support Vector Machine.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "Week 4 Summary.md",
-    "Pasted image 20240709160440.png",
-    "Pasted image 20240709160403.png",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
-    "Pasted image 20240709153333.png",
-    "Pasted image 20240709152949.png",
-    "2 ACTIONS/_Focus.md",
-    "Pasted image 20240709152123.png",
-    "dot_product_components.png",
     "Example of Finding Eigenvectors and Eigenvalues.md",
-    "Pasted image 20240709144920.png",
-    "Pasted image 20240709143752.png",
-    "Pasted image 20240709144420.png",
-    "Pasted image 20240709143558.png",
     "Motivating PCA.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Mathematic for Machine Learning.md",
     "Numpy.md",
     "Eigenvalues and Eigenvectors.md",
     "Week 4 Graded Quizz.md",
     "Determinant.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Mathematics.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
     "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
     "1 PROJECTS/SIC/SIC.md",
-    "Week 1 Matrix System.md",
-    "Matrix Multiplication.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
-    "PCB Anomally Detection.md",
-    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
-    "understand pythagorian in matrix.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",

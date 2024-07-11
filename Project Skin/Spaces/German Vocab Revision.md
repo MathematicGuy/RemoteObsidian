@@ -532,3 +532,10 @@ My boss this is drinking afternoon a cup of coffee this afternoon - Mein Chef tr
 	Nachmittag - afternoon (buổi trưa)
 
 Mein Kollegen und Ich möchten zum Mittagessen Pizza bestellen, aber die Chef möchtet keine pizza. Sie hat keinen hunger / My collage and I would like to order pizza for lunch, but the Boss wouldn't like pizza. She ist not hungry
+
+Ein Brötchen mit Schinken schmeckt gut - A roll with ham tastes good 
+
+Es ist kalt im Büro, ich muss eine Tasse Tee trinken / It is cold at the office, I have to drink a cup of tea.
+
+Ich bin Müde, ich brauche eine Tasse Kaffee
+

@@ -2034,6 +2034,7 @@ Einmal pro - once per
 Tasse cup
 	Mein Chef trinkt heute Nachmittag eine Tasse kaffee - my boss drink a cup of coffee this afternoon
 
+
 Büro office
 	Triffst du deinen Chef oft im Büro
 
@@ -2074,3 +2075,9 @@ mit dem zug / to there now (dem - to sht)
 Eine Chef - boss
 	Trifft du deine Chef oft im Büro
 	Ich treffe meine Chefin zum Nachmittag
+
+Kollegen colleagues
+Schinken Ham
+Ein Brötchen Roll
+	Isst du gern eine Brötchen mit Schinken 
+

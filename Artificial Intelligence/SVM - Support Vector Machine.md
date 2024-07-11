@@ -1,3 +1,5 @@
+[[SVM HW]]
+
 Face (green) / Non-Face (red)
 ![[Pasted image 20240625133833.png]]
 > Can be written using (for 2D plane)
