@@ -21,7 +21,7 @@ Nein no8
 	nicht not
 Ja yes
 Hallo hello
-Tschuss Bye
+Tschuss 
 Danke thank
 	Danke Schon thank you (danke shun)
 Grob tall/big
@@ -621,8 +621,9 @@ viel - much
 Kilogramm kilogram
 
 Döner - Doner kebab
-Kartoffel - potato
+Kartoffeln - potato
 	zehn kilogramm Karoffel - ten kilogram of potato
+	
 Sandwich sandwich
 	 Kostel ein Sandwich wirklich sieben Euro? Das ist teuer. Zwei Orangen und ein Wasser, bitte.
 	 - Does an Sandwich really cost 7 Euros? That is expensive. Ten orange and a water please. 
@@ -2080,4 +2081,16 @@ Kollegen colleagues
 Schinken Ham
 Ein Brötchen Roll
 	Isst du gern eine Brötchen mit Schinken 
+
+Sonntags - sundays
+	Freundinnen - girl friends (many friend that is girl. Not girlfriend)
+
+Hähnchen - chicken
+Reis - rice
+	Mein Vater kocht Hähnchen mit Reis. Er Essen ist immer sehr lecker 
+
+Freitag friday / on friday
+
+Willst du Nudeln zum Abendessen essen / Do you want to eat noodle on dinner
+	Willst and Essen is both verb -> Infinitive Placement. So because Willst is the main Verb, Essen goes to the end. 
 

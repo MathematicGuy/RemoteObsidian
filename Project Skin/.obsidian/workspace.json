@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "751eebe083256800",
+        "id": "afb0a8eb18fbc2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "74452576eadc08c4",
+            "id": "5a21a3d0067ac7a5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "387aa349fabe20f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -195,12 +190,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "387aa349fabe20f5",
+  "active": "5a21a3d0067ac7a5",
   "lastOpenFiles": [
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "Ways to develop software applications.md",
     "Pasted image 20240708142931.png",

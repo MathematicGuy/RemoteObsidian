@@ -539,3 +539,13 @@ Es ist kalt im Büro, ich muss eine Tasse Tee trinken / It is cold at the office
 
 Ich bin Müde, ich brauche eine Tasse Kaffee
 
+
+Hähnchen - chicken
+Reis - rice
+	Mein Vater kocht Hähnchen mit Reis. Er Essen ist immer sehr lecker 
+
+Sonntags - every sunday
+Freundinnen
+	Ich treffe meine Freudinnen am sohntags
+
+Nulden mit Kaftoffeln
