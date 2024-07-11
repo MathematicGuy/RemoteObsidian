@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e8884a5dcaa3c8c",
+        "id": "751eebe083256800",
         "type": "tabs",
         "children": [
           {
-            "id": "f89d203956000404",
+            "id": "74452576eadc08c4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "9852bf8f66f74791",
+            "id": "387aa349fabe20f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -112,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,9 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9852bf8f66f74791",
+  "active": "387aa349fabe20f5",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
@@ -221,7 +213,6 @@
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/OOP Java.md",
     "3 RESOURCES/Programming/OOP/OOP.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "4 ARCHIVES/2024/WebProject2024/2nd Yrs Mid-Final Term Project.md",
     "1 PROJECTS/My Travel Plan by myself.md",
     "Software Deployment Project.md",
