@@ -44,7 +44,7 @@ We would like to train the Model to tweak the classifier line to this position.
 ![[Pasted image 20240710085121.png]]]]
 ![[Pasted image 20240710085315.png]]
 
-## Some common derivatives 
+## Some Common Derivative
 ### Lines
 ![[Pasted image 20240710085528.png]]
 
@@ -61,6 +61,7 @@ As we cancel out, what is left is:  a
 ![[Pasted image 20240710090615.png]]
 
 ### Quadratics
+$\nabla f$ = y2 - y1. and if y1 = x^2 <->  y2 = $(x + \nabla x)^2$ with $\nabla x \in R$
 ![[Pasted image 20240710171435.png]]
 Repeat the same step as the interval smaller and smaller. We finally got the result close to 2
 ![[Pasted image 20240710171142.png]]
@@ -86,5 +87,55 @@ So the result is as close as $3*0.5^{2} \approx 0.75$. This seem true since the 
 ![[Pasted image 20240710174828.png]]
  When you calc the Derivative of others power function, you can see there a pattern of (Power - 1):  $$\frac{d}{dx}f(x) = nx^{n-1}$$ 
 ![[Pasted image 20240710175119.png]]
+
+
+## The Inverse Function and Its Derivative
+
+If a function does a thing, the inverse function inverse that thing:
++ ? F(x) turn 1 to 5. So the inverse of F(x) will turn 5 into 1
+### Inverse function
+![[Pasted image 20240712084624.png]]
+
+The 1st function have y = f(X) thus g(y) = $\sqrt{f(x)}$ 
+![[Pasted image 20240712084813.png]]
++ secant: đường cát tuyến (đường cắt)
+
+
+> Derivative = change in horizontal / change in vertical. Therefor
+> 1st Slope: $\frac{\nabla f}{ \nabla x}$  & 2st Slope: $\frac{\nabla y}{\nabla g}$. 
++ ? Because g(y) and f(x) is just inverse of points. Their value doesn't changed, this mean $\nabla f$ = $\nabla y$  and $\nabla g$ = $\nabla x$. 
+
++ $ Let call the 1st Slope as f(x)' and 2nd slope as g(y)'. Since  g(y)' = f(x)' in reverse y-axis  $=> g(y) = \frac{1}{f(x)'}$    (just imagin 2 = 1/2 -> 2 = 1/(1/2))
+![[Pasted image 20240712085418.png]]
+
+**Examples**
+![[Pasted image 20240712090826.png]]
+![[Pasted image 20240712091033.png]]
+
+## Derivative of Trigonometic  
+note: revison some trigonometry
+ ![[Pasted image 20240712093458.png]]
+
+![[Pasted image 20240712093939.png]]
+
++ ? $\sin(x + \nabla x)$ is a point with $\nabla x$ as a natural number. We see that $\sin (x + \nabla x) > \sin x$
++ ? $\cos(x + \nabla x)$ also a point like sin. But $\cos(x + \nabla x) < \cos(x)$ 
++ [[Explain -delta(cos x)]] :  $-\nabla(\cos x)$  
+	+ $ The change in the x-coordinate (cosine value) as we move from x to $x + \Delta$ is given by $\Delta(\cos x) = \cos(x + \Delta x) - \cos(x)$
+		
+	+ $ When $Δ(cos⁡x)$ is negative, it means the x-coordinate (cosine value) has decreased.
+		
+	- $ To visually and mathematically represent this decrease, we use the term $-\Delta(\cos x)$.
+![[Pasted image 20240712094405.png]]
+
++ $ As the **trigangle shrink smaller and smaller (cause derivative) the hypotenuse align with the arc of the circle** (cung của hình tròn), thus making h = $\Delta x$
+![[Pasted image 20240712094520.png]]
+Replacing the 2 values. We achieve:
+![[Pasted image 20240712094531.png]]
+
+$\frac{\Delta(\sin x)}{\Delta x} = \cos x$  and  $-\frac{\Delta(\cos x)}{\Delta x} = \sin(x)$
+ 
+ This actually comfirms the intuition we built before:
+![[Pasted image 20240712103604.png]]
 
 

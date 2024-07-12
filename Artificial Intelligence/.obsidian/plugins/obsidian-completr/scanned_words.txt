@@ -2459,6 +2459,7 @@ validation
 violations
 validata
 various
+visually
 An
 After
 Algorithm
@@ -6609,6 +6610,8 @@ scanning
 svmclass
 svmvalmod
 style
+secant
+sin
 consists
 can
 change
@@ -7416,6 +7419,8 @@ categorical
 custom
 category
 correspond
+changed
+cosine
 linear
 lambda
 left
@@ -8784,6 +8789,7 @@ missing
 market
 maximizing
 maximal
+mathematically
 The
 This
 To
@@ -9531,6 +9537,8 @@ Tools
 TensorFlow
 Trainning
 Trees
+Tuy
+Their
 after
 and
 as
@@ -11590,6 +11598,7 @@ Complex
 Cloud
 Client
 Curve
+Clearly
 Basis
 Both
 Board
@@ -20779,6 +20788,8 @@ deal
 datatype
 detect
 done
+decreased
+decrease
 From
 Find
 For
@@ -26618,6 +26629,8 @@ Define
 Duplicate
 Delete
 Determine
+Delta
+Directionality
 Visual
 Variables
 Visualization

@@ -323,7 +323,7 @@ Beginnt - begin
 	Das Oktoberfest beginnt im Neunzehnten Septemb
 
 Besuchen - visit
-Willst - do you want to 
+Willst - do you want to (verb) 
 	Willst du am achtzehn das Oktoberfest besuchen?
 
 
@@ -522,11 +522,11 @@ Sie isst ein Brötchen mit Schiken zum Mittagessen / Sie eat a roll with ham for
 	Schicken - ham
 
 
-Max isst du eine suppe für Mittagessen? Ich esse pizza mit / Max do you eat soup for lunch? I eat pizza with ham Schicken
+Max isst du eine suppe für Mittagessen? Ich esse pizza mit Hähnchen/ Max do you eat soup for lunch? I eat pizza with ham Schicken
 
 Sie trifft ihre Kollegen im Büro - She meet her college at the office
 
-My boss this is drinking afternoon a cup of coffee this afternoon - Mein Chef trinkt heute Nachmittag ein Tasse Kaffee
+My boss this is drinking a cup of coffee this afternoon - Mein Chef trinkt heute Nachmittag ein Tasse Kaffee
 	Tasse - a cup
 	Chef - boss
 	Nachmittag - afternoon (buổi trưa)
@@ -546,6 +546,14 @@ Reis - rice
 
 Sonntags - every sunday
 Freundinnen
-	Ich treffe meine Freudinnen am sohntags
+	Ich treffe meine Freudinnen am sonntags
 
 Nulden mit Kaftoffeln
+
+Flesch meat
+	Ich esse kein Hähnchen, ich esse kein Fleisch
+
+Ich treffe meine freudinnen sonntags im Cafe - Meaning: I meet my friends on Sundays at the coffee
+shop.
+
+Freitags - Triffst du deine freundinnen Sonntags  
