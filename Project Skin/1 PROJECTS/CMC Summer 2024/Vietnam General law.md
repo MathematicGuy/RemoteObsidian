@@ -24,7 +24,8 @@ Ba lần phân công lao động xã hội
 Nhà nước ra quy định, tổng thống phải kí
 
 # Chức năng của Nhà Nước
-
-
 # [[Pháp Luật]]
 
+## Hiến Pháp
+
+## [[Quản Lý Hành Chính Nhà Nước]]
