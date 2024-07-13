@@ -138,4 +138,20 @@ $\frac{\Delta(\sin x)}{\Delta x} = \cos x$  and  $-\frac{\Delta(\cos x)}{\Delta 
  This actually comfirms the intuition we built before:
 ![[Pasted image 20240712103604.png]]
 
+## Meaning of the Exponential (e) 
+![[Pasted image 20240712162717.png]]
 
+![[Pasted image 20240712163316.png]]
+> When you applied your money with interest rate: `your_money + your_money * 1/interest_rate` one after another you got:
+	![[Pasted image 20240712163539.png]]
+> Therefor, Bank 3 would have the most money: 2.7$ 
+	![[Pasted image 20240712163639.png]]
+	From the Compound Effect, we can conclude a fomula:![[Pasted image 20240712163700.png]]
+	![[Pasted image 20240712163934.png]]
+	![[Pasted image 20240712164001.png]]
+	If you keep increase n over time you would end up with e = 2.71826
+		![[Pasted image 20240712165254.png]]
+		![[Pasted image 20240712165338.png]]
+		We can call e as the maximum of interest rate over a instance period of time.
+
+		

@@ -697,6 +697,7 @@ Engineer
 Enginerr
 Establishes
 Ensure
+Effect
 the
 that
 transformation
@@ -4553,6 +4554,8 @@ increaase
 impute
 iteration
 implement
+intuition
+interest
 basis
 by
 because
@@ -7421,6 +7424,8 @@ category
 correspond
 changed
 cosine
+comfirms
+conclude
 linear
 lambda
 left
@@ -11599,6 +11604,7 @@ Cloud
 Client
 Curve
 Clearly
+Compound
 Basis
 Both
 Board
