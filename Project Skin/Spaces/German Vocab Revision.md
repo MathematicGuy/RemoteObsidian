@@ -557,3 +557,6 @@ Ich treffe meine freudinnen sonntags im Cafe - Meaning: I meet my friends on Sun
 shop.
 
 Freitags - Triffst du deine freundinnen Sonntags  
+
+
+Max und Duo gehen gerne einmal pro woche zusammen joggen / Max and Duo like jogging together every weekend
