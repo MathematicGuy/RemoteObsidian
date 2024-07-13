@@ -1059,6 +1059,9 @@ That's **just for Musculine Singular Nouns** though! Others stay the same
 	so viel - so much  
 	um wie viel Uhr - at what time
 	auf dem Tisch - on the table 
+		Anna sieht eine Wasser und Wein zum dem Tish - Anna see a bottle of water and wine on the table
+
+
 
 Samtag saturday
 Sonntag  Sunday
@@ -2094,3 +2097,6 @@ Freitag friday / on friday
 Willst du Nudeln zum Abendessen essen / Do you want to eat noodle on dinner
 	Willst and Essen is both verb -> Infinitive Placement. So because Willst is the main Verb, Essen goes to the end. 
 
+Küche kitchen
+
+Gestresst stress out 

@@ -26,8 +26,26 @@
             "id": "f582172182bdd4de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36823a157d2c05bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
+              }
             }
           },
           {
@@ -198,10 +220,10 @@
   "active": "f582172182bdd4de",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Quản Lý Hành Chính Nhà Nước.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "Ways to develop software applications.md",
