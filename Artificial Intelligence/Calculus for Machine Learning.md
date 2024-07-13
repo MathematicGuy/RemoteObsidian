@@ -152,6 +152,58 @@ $\frac{\Delta(\sin x)}{\Delta x} = \cos x$  and  $-\frac{\Delta(\cos x)}{\Delta 
 	If you keep increase n over time you would end up with e = 2.71826
 		![[Pasted image 20240712165254.png]]
 		![[Pasted image 20240712165338.png]]
-		We can call e as the maximum of interest rate over a instance period of time.
+		We can call e as the maximum of interest rate over a instance period of time.		
 
-		
+## Derivative of $e^x$
+![[Pasted image 20240713141928.png]]
+> To Theory, e^x cannot be larger than ~ 2.71828. And if there is it just a super minimum amount. Therefor e^x2 ~ e^x1. So The Derivative should just be e^x.
+
+To verify that let calc the Slope of $e^x$. Since $\Delta x \to 0$,  $e^{x + \Delta x}$ will come closer to $e^x$ , calc the Slope for every x we see that the Slope will always end up with 7.39 which is $e^2$
+![[Pasted image 20240713143208.png]]
+
+- [ ] **Section 2:** Finish the Derivative of Log(x) and the Existance of the Derivative
+### Derivative of log(x)
+![[Pasted image 20240713150731.png]]
+> **p is the logarithm of the n**
+> If 10 ^ 4 is 10000. Then the logarithm is $\log_{10}10000 = 4$ . That it
+> for 1 / 10^4 = 10^-4 then the logarithm is $\log_{10}10^{-4} = -4$ 
+![[Pasted image 20240713151048.png]]
+> In short, the b (base) raise to the p (power) of what equal to the n (number)
+
+Let understand 3 furthur more, we know that:
+![[Pasted image 20240713161337.png]]
+replace 1/n with k
+![[Pasted image 20240713161443.png]]
+Let to the same for Derivative function
+![[Pasted image 20240713161606.png]]
+But before that, ket simplified it ($2^{x + h} = 2^{x}+ 2^h$)
+![[Pasted image 20240713161640.png]]
+Now we can calculate the right most function as h goes closer to 0 we reach a limit of 0.6931...
+![[Pasted image 20240713161728.png]]
+it actually ln(x) but for now let just call it as k2
+![[Pasted image 20240713161922.png]]
+![[Pasted image 20240713162000.png]]
+But we have to calc k from scratch for every new n. can we find a way to calc k automatically
+![[Pasted image 20240713162110.png]]
+
+
+
+
+**Basic Concept**
+Logarithm: If $e^{y}= x$, then $y=\log(x)$
+	This means $\log(x)$ answers the question: "To what power must e be raised to get x?"
+![[Pasted image 20240713150356.png]]
+> $f^{-1}(y) = \log(y)$ This represents the **inverse function of the exponential function**. For any input y, the output is the power to which e must be raised to equal y. In other words, $log⁡(y)$
+
+
+
+
+![[Pasted image 20240713151947.png]]
+> The Derivitive of $log(y) = \frac{1}{y}$
+
+
+
+- [ ] **Section 3:** Properties of the Derivative: the sum rule, the product rule, the chain rule.
+- [ ] **Section 4:** Derivatives 1st Exam
+- [ ] Long Rest: 10'
+- [ ] **Final Section:** Ungraded Lab

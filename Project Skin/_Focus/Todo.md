@@ -3,7 +3,6 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-
 - [ ] ML and DM Revision
 	- [ ] Classification Decision Tree
 	- [ ] SVM Preparation
@@ -15,7 +14,6 @@ banner: Images/Pasted image 20240402135259.png
 
 
 **Daily Plan**
-- [x] Hygine and Shower ~ 20'
 
 
 
@@ -24,8 +22,6 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #MyRuleThat_I_SwearToLiveBy
-- [ ] No more Hades 2 after dying > 5 times a day (4/5 deaths) 
-- [ ] No more Hades2 after 7:00 PM
 - [ ] Rest at least 25' before class  
 - [ ] Make my blood flow the 1st second I wake up 
 
