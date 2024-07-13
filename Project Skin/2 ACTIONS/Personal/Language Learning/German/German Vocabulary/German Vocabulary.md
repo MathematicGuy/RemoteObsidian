@@ -2100,3 +2100,16 @@ Willst du Nudeln zum Abendessen essen / Do you want to eat noodle on dinner
 Küche kitchen
 
 Gestresst stress out 
+
+Gerten garden
+Treppe stairs
+Aufzug elevator 
+	Auf come/from
+	zug train
+
+Allein / alone 
+Mehrfamilienhaus apartment building (refer to family house / house that we live together)
+	Mehr More
+	Familien family
+	Haus House
+	-> Mehrfamilienhaus / Apartment building

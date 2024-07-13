@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/German Vocab Revision.md"
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
               }
             }
           },
@@ -217,11 +217,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "36823a157d2c05bc",
+  "active": "f582172182bdd4de",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Quản Lý Hành Chính Nhà Nước.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
