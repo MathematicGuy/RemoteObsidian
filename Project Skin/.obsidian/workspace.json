@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1be4e8df2e480fc9",
+        "id": "85c2adcab6270cac",
         "type": "tabs",
         "children": [
           {
-            "id": "710e726b879c28a2",
+            "id": "3eb885c5a0566c41",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d1be8d7699df69f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
               }
             }
           },
@@ -190,10 +204,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "710e726b879c28a2",
+  "active": "d1be8d7699df69f1",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "Quản Lý Hành Chính Nhà Nước.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",

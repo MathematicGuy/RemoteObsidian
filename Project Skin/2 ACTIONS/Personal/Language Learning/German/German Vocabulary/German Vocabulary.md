@@ -2106,6 +2106,7 @@ Treppe stairs
 Aufzug elevator 
 	Auf come/from
 	zug train
+Zurzeit / currently (Zur - at, zeit - time -> mean at the time or currently)
 
 Allein / alone 
 Mehrfamilienhaus apartment building (refer to family house / house that we live together)
@@ -2113,3 +2114,20 @@ Mehrfamilienhaus apartment building (refer to family house / house that we live 
 	Familien family
 	Haus House
 	-> Mehrfamilienhaus / Apartment building
+
+ WG (Wohnegemeinschaft) - share apartment (people sharing an apartment)
+	Wohnege - residential
+	meinschaft - community
+
+ wohne live  (am living/have lived) 
+	 ich wohne
+	 Sie Wohnen
+	 Wohnst du d Li
+
+
+### What is Your Dream ? 
+Träume - dream 
+	was deren Träume sind  - what is your dream 
+	-> Einmal zyum Mond und zurück - to the moon and back
+
+persöhnerlich 

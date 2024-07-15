@@ -560,3 +560,8 @@ Freitags - Triffst du deine freundinnen Sonntags
 
 
 Max und Duo gehen gerne einmal pro woche zusammen joggen / Max and Duo like jogging together every weekend
+
+
+Es gibt aufzug im mehrfamilienhaus / there is a elevator in the apartment building 
+
+Geschichte history 
