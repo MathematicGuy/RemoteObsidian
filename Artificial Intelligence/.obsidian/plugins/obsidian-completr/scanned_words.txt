@@ -3856,6 +3856,7 @@ eInu
 enc
 etqj
 epX
+exponential
 is
 in
 image
@@ -5943,6 +5944,7 @@ fwYh
 fOy
 faA
 fwO
+furthur
 space
 say
 same
@@ -8163,6 +8165,7 @@ lsN
 lfq
 lXw
 lfE
+logarithm
 matrix
 multiply
 multiplied
@@ -10413,6 +10416,7 @@ aBv
 aGa
 amount
 aBj
+automatically
 notate
 nhau
 normal
@@ -11746,6 +11750,7 @@ Ccr
 CEa
 CFlv
 Cpu
+Concept
 Basis
 Both
 Board
@@ -18737,6 +18742,9 @@ rzi
 ryh
 rUJ
 rob
+raise
+reach
+raised
 Non
 Need
 No
@@ -22231,6 +22239,7 @@ kOy
 kYm
 kbir
 kVzk
+ket
 Matrix
 Multiplication
 Model
@@ -26965,6 +26974,7 @@ Damno
 DsVVFiu
 DEztc
 DzX
+Derivitive
 Visual
 Variables
 Visualization
@@ -30203,6 +30213,7 @@ qZo
 qGEFC
 qCZ
 qoC
+question
 Kh
 Key
 Kz
