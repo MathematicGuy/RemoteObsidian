@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,20 +187,22 @@
   },
   "active": "87b928302eafc1ae",
   "lastOpenFiles": [
+    "Pasted image 20240715141232.png",
+    "inverse.md",
+    "2 ACTIONS/_Focus.md",
+    "Pasted image 20240715134539.png",
+    "Pasted image 20240715134522.png",
+    "Pasted image 20240715134505.png",
+    "Calculus for Machine Learning.md",
+    "Pasted image 20240715130714.png",
+    "Euler's Number and The Natural Logarithm.md",
+    "Pasted image 20240715130653.png",
     "Pasted image 20240713162110.png",
     "Pasted image 20240713162000.png",
     "Pasted image 20240713161922.png",
     "Pasted image 20240713161728.png",
     "Pasted image 20240713161640.png",
-    "Pasted image 20240713161606.png",
-    "Pasted image 20240713161443.png",
-    "Pasted image 20240713161337.png",
-    "Pasted image 20240713151947.png",
-    "Pasted image 20240713151048.png",
-    "Pasted image 20240713151047.png",
-    "Calculus for Machine Learning.md",
     "Explain -delta(cos x).md",
-    "2 ACTIONS/_Focus.md",
     "Linear Regression.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
@@ -222,8 +223,6 @@
     "Example of Finding Eigenvectors and Eigenvalues.md",
     "Motivating PCA.md",
     "Numpy.md",
-    "Week 4 Graded Quizz.md",
-    "Determinant.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",

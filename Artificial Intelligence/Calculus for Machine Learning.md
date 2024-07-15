@@ -187,20 +187,18 @@ But we have to calc k from scratch for every new n. can we find a way to calc k 
 ![[Pasted image 20240713162110.png]]
 
 
-
-
 **Basic Concept**
++ ? note: e với số mũ nhỏ -> 0 sẽ tiến tới 1 giới hạn. 
++ ? Còn e^n với n > 0 sẽ tăng như 1 số bth (ex: e^2 = 7.38) 
 Logarithm: If $e^{y}= x$, then $y=\log(x)$
 	This means $\log(x)$ answers the question: "To what power must e be raised to get x?"
 ![[Pasted image 20240713150356.png]]
-> $f^{-1}(y) = \log(y)$ This represents the **inverse function of the exponential function**. For any input y, the output is the power to which e must be raised to equal y. In other words, $log⁡(y)$
-
-
-
-
++ ? f [[inverse]] of y is the logarithm of y because **e to the logarithm of x is x** and **logarithm of $e^y$ is y**. 
++ $ In simple term, e turn $\log(x)$ back to x. $\log (e^{y})= y$ thus $f^{-1}(y)$ is log(y) .
+![[Pasted image 20240715141232.png]]
 ![[Pasted image 20240713151947.png]]
-> The Derivitive of $log(y) = \frac{1}{y}$
-
+> Since f inverse is the reciprocal of e^x then the derivative of g(y) and $e^x$ must be $$\frac{1}{e^{x}} or \frac{1}{y}$$ since log(y) = y. 
++ ?  Reciprocal function: hàm nghịch đảo (Check Derivative of an Inverse function: 1/f(x)
 
 
 - [ ] **Section 3:** Properties of the Derivative: the sum rule, the product rule, the chain rule.
