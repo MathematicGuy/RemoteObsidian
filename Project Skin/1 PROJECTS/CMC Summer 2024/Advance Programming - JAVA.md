@@ -17,11 +17,9 @@ JDBC Bridge -> Turn many Database Language into 1 form so that it can work toget
 ![[300px-Network_Protocol_driver.png]]
 
 # [[How to build a web application in Java]]
-
 Controller: Servlet
 Dal: Java
 Model: Java Class
 Web Pages: JSP, HTML (view)
 
 
-**Package by Features**

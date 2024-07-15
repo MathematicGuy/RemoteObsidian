@@ -10,6 +10,7 @@
           {
             "id": "23e1e103a124aa32",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0dd30dc8257519e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to build a web application in Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "How to build a web application in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "How to build a web application in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "How to build a web application in Java.md"
               }
             }
           },
@@ -188,14 +204,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "23e1e103a124aa32",
+  "active": "0dd30dc8257519e7",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Pasted image 20240715161616.png",
+    "enum class.md",
+    "How to build a web application in Java.md",
     "_Focus/Todo.md",
+    "Pasted image 20240715154341.png",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "Quản Lý Hành Chính Nhà Nước.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "Ways to develop software applications.md",
     "Pasted image 20240708142931.png",
@@ -219,13 +239,9 @@
     "Pasted image 20240625105143.png",
     "Learn ReactNative.md",
     "Spaces/Mobile Development Project.md",
-    "Spaces/How to Run React Native with Android Studio.md",
-    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
-    "3 RESOURCES/Web/FrontEnd/FrontEnd.md",
     "Pasted image 20240624113601.png",
     "Pasted image 20240624112750.png",
     "Pasted image 20240624112718.png",
-    "Pasted image 20240620175706.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
