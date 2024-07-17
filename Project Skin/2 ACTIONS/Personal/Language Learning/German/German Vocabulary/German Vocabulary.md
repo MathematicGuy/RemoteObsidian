@@ -2130,4 +2130,25 @@ Träume - dream
 	was deren Träume sind  - what is your dream 
 	-> Einmal zyum Mond und zurück - to the moon and back
 
-persöhnerlich 
+Persönlich - personal
+
+
+### End 
+
+
+Die Nachbarin - neighbor (female)
+Der Nachbar (men)
+
+Weiß - white
+		Weißbier - beer with white foam 
+Leise - quite
+	Es ist nachts leise hier / it is quite here at nights
+	Meine Katze ist nachts wirklich leise
+
+Unser - our
+	Unsere Tochter - ours daughter (add -a behind feminine word)
+	Unsere Katze - Our cat
+
+Schwarz black
+	Meine Katze ist Schwarz und liebt Orangen 
+

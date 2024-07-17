@@ -565,3 +565,4 @@ Max und Duo gehen gerne einmal pro woche zusammen joggen / Max and Duo like jogg
 Es gibt aufzug im mehrfamilienhaus / there is a elevator in the apartment building 
 
 Geschichte history 
+Nein, er kommt aus Amerika
