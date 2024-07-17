@@ -27,11 +27,11 @@ Each time the state rotate we'll need to mul to a Matrix (called Transformer)
 	![[Pasted image 20240416062524.png]]
 + ! The example above **transform Matrix Row into Column** **Changing the rows in a matrix into corresponding columns** is called **Transposing** a matrix (the same for Col to Row) - **(Ma Trận Chuyển Đổi)**
 	![[Pasted image 20240702192615.png]]
-	Transpose mean **turn Matrix Row to Column**
+	Transpose mean **turn Matrix Row to Column** 
 	![[Pasted image 20240416062714.png]]
 
- >>
-Transpose Matrix will be signal with a T above the variable head.
+
+> Transpose Matrix will be signal with a T above the variable head.
 ![[Pasted image 20240416063034.png]]
 
 ![[Pasted image 20240416063728.png]]

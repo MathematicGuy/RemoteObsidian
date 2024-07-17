@@ -59,4 +59,26 @@ To find the best K, we need to find the 'elbow plot'
 ![[Pasted image 20240605173557.png]]
 
 
+![[Pasted image 20240717153450.png]]
+![[Pasted image 20240717153926.png]]
+**Visualize**
+![[Pasted image 20240717155554.png]]
+
+Compare the distance of another point to 2 clusters. Choose the cluster with smaller distant to the point.
+![[Pasted image 20240717154003.png]]
+Then, add the point to the closer Cluster. 
+![[Pasted image 20240717155109.png]]
+Do the same for the 4th value pair. Add 4 to Cluster 1
+![[Pasted image 20240717155139.png]]
+Continue the same, we got the result for Cluster 1 and 2
+![[Pasted image 20240717155243.png]]
+
+**Summarizing the algorithm for K Means clustering based on this video:**
+1.	Start with k centroids by putting them at random points here k =2
+2.	Compute distance of every point from centroid and cluster them accordingly
+3.	Adjust centroid so they become center of gravity of given cluster 
+4.	Again recluster every point based on distance with adjusted centroid
+5.	Reiterate until data points stop changing cluster
+6.	Again adjust centroids
+
 

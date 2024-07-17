@@ -23,3 +23,12 @@ Model: Java Class
 Web Pages: JSP, HTML (view)
 
 
+
+[](https://stackoverflow.com/posts/7348934/timeline)
+
+Try cleaning-up your local repository with:
+
+```
+git gc --prune=now
+git remote prune origin
+```

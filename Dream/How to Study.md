@@ -5,5 +5,6 @@ Have a good night of sleep can enhance your ability to process all the informati
 \
 If I dont understand sth. I want to re-read all of the infor and which sentence or what word I don't understand and find/review it definition.
 Ex:
-+ F [[inverse]] of y is the logarithm of y because **e to the logarithm of x is x** and **logarithm of $e^y$ is y
++ [[inverse]] of y is the logarithm of y because **e to the logarithm of x is x** and **logarithm of $e^y$ is y
 	I re-read this sentence and find out I subconciously don't understand what F inverse mean (inverse the result of the function). 
+

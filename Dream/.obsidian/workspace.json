@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Study.md",
+                "file": "Question to Ask My Self.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Study.md",
+                "file": "Question to Ask My Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Study.md"
+                "file": "Question to Ask My Self.md"
               }
             }
           },
@@ -180,9 +180,12 @@
   },
   "active": "36ce24688223456b",
   "lastOpenFiles": [
-    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
-    "_Focus.md",
+    "2 ACTIONS/_My Life/Deepthought.md",
+    "Question to Ask My Self.md",
     "How to Study.md",
+    "_Focus.md",
+    "2 ACTIONS/_My Life/Learn more about Myself.md",
+    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
     "3 RESOURCES/_Happiness/Save for my GF.md",
     "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "Pasted image 20240628151744.png",
@@ -201,7 +204,6 @@
     "Head Space.md",
     "2 ACTIONS/_My Life/Styles.md",
     "2 ACTIONS/_My Life/Inattentive ADHD.md",
-    "2 ACTIONS/_My Life/Deepthought.md",
     "2 ACTIONS/_My Life/Going to Space.md",
     "3 RESOURCES/_Question Mark/Reason why you not understand what they understand.md",
     "3 RESOURCES/_Question Mark/_Question Mark.md",
@@ -210,8 +212,6 @@
     "4 ARCHIVES/Chuẩn bị gì trước khi Triệt sản cho mèo.md",
     "4 ARCHIVES/Google Sky.md",
     "4 ARCHIVES/Productive Design.md",
-    "4 ARCHIVES/Why Credit card.md",
-    "3 RESOURCES/_Happiness/_Happiness.md",
     "Spaces/Home",
     "Spaces",
     "4 ARCHIVES/Spaces/Home",

@@ -7,4 +7,3 @@ For example in K-Means Clustering:
 ![[Pasted image 20240605173557.png]]
 
 
-

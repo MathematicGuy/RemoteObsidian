@@ -1,11 +1,11 @@
 
 ## You deserve what you're going through. You would rather become good tomorrow than be good today
-	You suffered today because you choose to be better tomorrow
+>You suffered today because you choose to be better tomorrow
 
 + **Every single challenge/struggle I want to avoid. Asked my self to fight it in this present moment, not in the past, not in the future. The best moment is right now**
-+ Small temptation can be overwhelmed me even if I let it go once. (true story, remove my electric devices addiction) 
+	Small temptation can be overwhelmed me even if I let it go once. (true story, remove my electric devices addiction) 
 + When I say **"wait for the perfect moment"**..
-	+ **then I've loss, that sentence mean I wouldn't do it unless there're no harhship**, if I make a changes and don't give up to it and act like the person I wanted to become. Then I have achieve success.
+	+ **then I've loss, that sentence mean I wouldn't do it unless there're no harshship**, if I make a changes and don't give up to it and act like the person I wanted to become. Then I have achieve success.
 	+ **It a lie, there're no perfect moments. This is the moment, Think in the moment**
 + People who invents excuses to get out of situation have a very convoluted mind (tâm trí phức tạp)
 	when they get get catch up in a lie (by themselves) cuz they in a place that they said they wouldn't be so if they come across this person now they'll be found out and they have to keep up all these scenario that they've made up to all these situations to all these differents people and they can't even sleep quitetly at night.

@@ -1,4 +1,4 @@
-a ## Example Problems
+## Example Problems
 + ### Binary classification
 + ### Multi-class classification
 + ### Multi-label classification
