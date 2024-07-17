@@ -1941,6 +1941,7 @@ Ja, bis morgen / Yes, see you tomorrow
 
 Wiesn-Herz - heart cake (German Oktoberfest cake)
 Noch - still
+	Wir Noch acht Apfelschorle - we still have eight sparkling apple juice  
 Früh - eight
 	Es ist nur acht Uhr, das ist früh - it is onlz eight o'clock, that is early
 
@@ -2097,7 +2098,7 @@ Freitag friday / on friday
 Willst du Nudeln zum Abendessen essen / Do you want to eat noodle on dinner
 	Willst and Essen is both verb -> Infinitive Placement. So because Willst is the main Verb, Essen goes to the end. 
 
-Küche kitchen
+Die Küche kitchen
 
 Gestresst stress out 
 
@@ -2151,4 +2152,18 @@ Unser - our
 
 Schwarz black
 	Meine Katze ist Schwarz und liebt Orangen 
+
+Vase vase
+Bücher - the books
+Sofa sodfa
+Der Külhschrank - the refrigerator 
+
+Esszimmer - dinning room
+
+Stühle chair
+
+Die Mikrowelle microwave
+
+Schmutzig dirty
+	Wir mache keine party, die Wohnung ist zu Schmutzig 
 

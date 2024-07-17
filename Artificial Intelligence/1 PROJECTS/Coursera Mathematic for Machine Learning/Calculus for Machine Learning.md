@@ -15,10 +15,10 @@ We would like to train the Model to tweak the classifier line to this position.
 + ? So how the Model do this...
 
 ## Motivation to Derivatives - Part 1
-
 ![[Pasted image 20240710075538.png]]
 > No, you calculate the speed by the distance t travel by the time: v = S / t
 > Or calculate the distance it travel after a period of times.
++ ? In simple term: **Rate of Change**
 > ![[Pasted image 20240710075744.png]]
 
 > We can calculate the the average speed between a time interval and distance by dividing the changes in distances to times.
@@ -200,8 +200,68 @@ Logarithm: If $e^{y}= x$, then $y=\log(x)$
 > Since f inverse is the reciprocal of e^x then the derivative of g(y) and $e^x$ must be $$\frac{1}{e^{x}} or \frac{1}{y}$$ since log(y) = y. 
 + ?  Reciprocal function: hàm nghịch đảo (Check Derivative of an Inverse function: 1/f(x)
 
+![[Pasted image 20240717093619.png]]
+However, there're my some exception:
+Like then x = 0 in this function. There cannot be a derivative if the line only pass 1 point. 
++ ! The Derivitive must exist for all points in the Domain (Fuction must be continuos)
+![[Pasted image 20240717093826.png]]
 
-- [ ] **Section 3:** Properties of the Derivative: the sum rule, the product rule, the chain rule.
++ ? Un-Continous Function -> No Derivative
+![[Pasted image 20240717094435.png]]
+
++ ? This also non differentiable functions, because Derivative require rise over run (y/x). If there is only rise or run independantly -> No derivative 
+![[Pasted image 20240717094725.png]]
+
+**Summary:**
+![[Pasted image 20240717094800.png]]
+
+
+## Properties of the derivative
+### Multiplication by Scalars
+Just multiplication by a value/scaler. (nothing special)
+$$f' = c.g'$$
+![[Pasted image 20240717095116.png]]
+
+### The Sum Rule
+$$
+f' = g' + h'
+$$
+
+The bout move, also as the child -> total distance the child move is 12 (not just 2)
+![[Pasted image 20240717095327.png]]
+So as the velocity![[Pasted image 20240717095441.png]]
+
+![[Pasted image 20240717095537.png]]
+![[Pasted image 20240717095605.png]]
+
+### The Product Rule
+$f = gh$ then $$f' = g'h + gh'$$
+![[Pasted image 20240717095942.png]]
+Let look at the house from the top
+![[Pasted image 20240717100151.png]]
++ ? As $\Delta t$ come closer to 0. $\Delta g(t), \Delta h(t)$ become neligible (so small that it doesn't even matter). Well because it is the derivative (g' as the y' and h' as the x'). Thus we can simplified it into $$f'(t) = g'(t).h(t) + g(t).h'(t)$$ 
+
+### The chain rule (Like product rule but it like Product of a Product)
+$$\frac{d}{dt}g(h(t)) = \frac{dg}{dg} . \frac{dh}{dt}$$ 
+It call the chain rule bc you can composing function (put a function inside a function)
+![[Pasted image 20240717101147.png]]
++ ? The Lagrange Notation
+![[Pasted image 20240717101230.png]]
+![[Pasted image 20240717101306.png]]
+
+**Example:**
+(Mqh giữu sự biến thiên của 2 tính năng/đặc điểm)
+![[Pasted image 20240717101430.png]]
+The Derivative of the Temperature with Time is the Product of Tempreture with Height and Time with Height. 
+![[Pasted image 20240717101648.png]]
+As $Delta T \to 0$
+(note: Derivative is just the changes between 2 points)
+![[Pasted image 20240717101950.png]]
+
+[[Derivative Week1- Practice Quiz]]
+[[Symbolic with Numpy]]
+
+
 - [ ] **Section 4:** Derivatives 1st Exam
 - [ ] Long Rest: 10'
 - [ ] **Final Section:** Ungraded Lab

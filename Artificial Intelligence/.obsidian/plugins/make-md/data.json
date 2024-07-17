@@ -40,7 +40,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

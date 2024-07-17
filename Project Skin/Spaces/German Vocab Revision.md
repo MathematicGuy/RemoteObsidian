@@ -566,3 +566,21 @@ Es gibt aufzug im mehrfamilienhaus / there is a elevator in the apartment buildi
 
 Geschichte history 
 Nein, er kommt aus Amerika
+
+Mein Bett ist sehr bequem / my bed is very comfortable
+
+Regal shelf
+Wie viel kostet das Regal ? - How much does the shelf cost ?
+Kaffetisch caffee table
+	Kaffee cafe
+	Tisch table
+
+Ich brauche eine soda und lampe für das Wohnzimmer - I need a sofa and lamp for the living room 
+
+Die Blumen - flowers
+	Danke für die Blumen - thank you for the flower
+
+Unsere Mikrowelle ist zu alt / our microwave is too old
+Die Küche ist noch Schmutzig - the kitchen is still dirty
+
+
