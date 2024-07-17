@@ -1,6 +1,5 @@
-Pull -> Commit -> Push
 ## **NetBean Push and Clone**
-	https://youtu.be/UOIPS-ewFHg?si=i_4yKMdw1Uc8ZRmi
+>https://youtu.be/UOIPS-ewFHg?si=i_4yKMdw1Uc8ZRmi
 
 
 #### [[Github for Beginners]]
@@ -13,6 +12,7 @@ Pull -> Commit -> Push
 
 ### Git Explained
 
+### [Best SSH Key Setup Turtorial](https://youtu.be/8X4u9sca3Io?si=J_cTjg0rPRmwrV3N)
 
 ##### Git how to push 
 + ! Press 'q' to exit preview stages in terminal
