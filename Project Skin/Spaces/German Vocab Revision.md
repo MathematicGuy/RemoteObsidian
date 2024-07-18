@@ -583,4 +583,13 @@ Die Blumen - flowers
 Unsere Mikrowelle ist zu alt / our microwave is too old
 Die Küche ist noch Schmutzig - the kitchen is still dirty
 
+Blumen flower
+Rot red
+Bettdecke bedspread
+Weich soft
+Bild buy
+Malt ein Bild / is paiting a paiting
+Kopfkissen pillow
+	Mein Kopfkissen ist sehr Weich - my pillow is too soft
 
+\Pflanzen plant

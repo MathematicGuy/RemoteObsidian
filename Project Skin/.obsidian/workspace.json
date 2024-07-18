@@ -23,15 +23,33 @@
             }
           },
           {
+            "id": "9dc0cd383bfc5b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "818aea6828bd6b6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/German Vocab Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/German Vocab Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/German Vocab Revision.md"
+              }
             }
           },
           {
@@ -197,6 +219,8 @@
   },
   "active": "818aea6828bd6b6d",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
@@ -206,8 +230,6 @@
     "How to build a web application in Java.md",
     "Neural Network.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "Stress-Free Productivity.md",
     "2 ACTIONS/Personal/Interest/Books/Books.md",
     "Pasted image 20240715161616.png",
