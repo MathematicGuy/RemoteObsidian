@@ -585,7 +585,8 @@ Die Küche ist noch Schmutzig - the kitchen is still dirty
 
 Blumen flower
 Rot red
-Bettdecke bedspread
+Eine Bettdecke bedspread
+	Ein Bett
 Weich soft
 Bild buy
 Malt ein Bild / is paiting a paiting
