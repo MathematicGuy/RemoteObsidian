@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3833878f4818e3a",
+        "id": "3cb7a773330f20a6",
         "type": "tabs",
         "children": [
           {
-            "id": "8673084d33d29e07",
+            "id": "76da86bbefda9dd3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8673084d33d29e07",
+  "active": "76da86bbefda9dd3",
   "lastOpenFiles": [
     "Stress-Free Productivity.md",
     "_Focus/Todo.md",
