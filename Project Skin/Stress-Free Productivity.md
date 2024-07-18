@@ -32,3 +32,11 @@
 
 + ? Why Wasting time is fine:
 	Reduced happiness is not an acceptable side effect of efficiency.
+
+
+Discipline and Performance go down -> Creativity go up
++ ? This is because effieciency and undistracted happend when you know exactly or most of what you going to do.
++ $ Creativity happened when sth new was created from ideas. This mean you're converging many ideas into one. And yes it will take times and work which can be done instead.
+	+ However Creativity is the only way one can evolve and continue to growth. (True story: I found a method to increase my work flow more nearly 100% at times I was pushed to the edge)
++ @ Therefor, focusing more on consistencies can make u miss out new oppotunities, interests and relationships.
++ 

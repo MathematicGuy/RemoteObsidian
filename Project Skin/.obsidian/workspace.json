@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9590d7ecf82fd50f",
+        "id": "d3833878f4818e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "4f7659bc9759bc44",
+            "id": "8673084d33d29e07",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "67f823c1633fb8b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -195,8 +190,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "67f823c1633fb8b9",
+  "active": "8673084d33d29e07",
   "lastOpenFiles": [
+    "Stress-Free Productivity.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -208,7 +204,6 @@
     "How to build a web application in Java.md",
     "Neural Network.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "Stress-Free Productivity.md",
     "2 ACTIONS/Personal/Interest/Books/Books.md",
     "Pasted image 20240715161616.png",
     "enum class.md",
