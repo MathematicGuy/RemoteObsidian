@@ -2066,7 +2066,6 @@ Investieren / investment
 Sparen Sie geld - do you save money
 Nicht sehr viel  / not very much
 
-
 Autofahren / driving 
 Zugfahren / travelling by train
 
@@ -2099,7 +2098,6 @@ Willst du Nudeln zum Abendessen essen / Do you want to eat noodle on dinner
 	Willst and Essen is both verb -> Infinitive Placement. So because Willst is the main Verb, Essen goes to the end. 
 
 Die Küche kitchen
-
 Gestresst stress out 
 
 Gerten garden
@@ -2123,7 +2121,7 @@ Mehrfamilienhaus apartment building (refer to family house / house that we live 
  wohne live  (am living/have lived) 
 	 ich wohne
 	 Sie Wohnen
-	 Wohnst du d Li
+	 Wohnst du Liebt
 
 
 ### What is Your Dream ? 
@@ -2133,7 +2131,6 @@ Träume - dream
 
 Persönlich - personal
 
-
 ### End 
 
 
@@ -2141,7 +2138,7 @@ Die Nachbarin - neighbor (female)
 Der Nachbar (men)
 
 Weiß - white
-		Weißbier - beer with white foam 
+	Weißbier - beer with white foam 
 Leise - quite
 	Es ist nachts leise hier / it is quite here at nights
 	Meine Katze ist nachts wirklich leise
@@ -2157,14 +2154,21 @@ Vase vase
 Bücher - the books
 Sofa sodfa
 Der Külhschrank - the refrigerator 
-
 Esszimmer - dinning room
-
+	Unsere Wohnung ist klein, wir haben kein Esszimmer - our living room is small, we cannot have a kitchen 
 Stühle chair
-
 Die Mikrowelle microwave
-
 Schmutzig dirty
 	Wir mache keine party, die Wohnung ist zu Schmutzig 
-
 Rot red
+
+**Lucy und die Dinosaurier**
+Schreiben write
+Schule school
+Kennst du - do you know 
+Bücher book
+Hausaufgaben homework
+	Hause house
+	aufgaben task
+Über something 
+
