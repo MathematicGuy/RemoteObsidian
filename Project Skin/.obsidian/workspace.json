@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3cb7a773330f20a6",
+        "id": "7331519cd13d2d50",
         "type": "tabs",
         "children": [
           {
-            "id": "76da86bbefda9dd3",
+            "id": "4c90ab31938a741a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,10 +188,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76da86bbefda9dd3",
+  "active": "4c90ab31938a741a",
   "lastOpenFiles": [
-    "Stress-Free Productivity.md",
+    "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
+    "3 RESOURCES/Programming/Python.md",
     "_Focus/Todo.md",
+    "Pasted image 20240718184029.png",
+    "Stress-Free Productivity.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
@@ -221,13 +222,10 @@
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/OOP Java.md",
-    "3 RESOURCES/Programming/OOP/OOP.md",
-    "4 ARCHIVES/2024/WebProject2024/2nd Yrs Mid-Final Term Project.md",
     "Pasted image 20240625115735.png",
     "Pasted image 20240625111747.png",
     "Pasted image 20240625105143.png",
     "Pasted image 20240624113601.png",
-    "Pasted image 20240624112750.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

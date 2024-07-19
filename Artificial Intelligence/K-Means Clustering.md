@@ -3,7 +3,7 @@
 Number of Cluster = number of solution/output/type
 
 **Step 1: Select the number of clusters you want to identify in your data. This is the "K" in "K-mean clustering"**
-> K = 3. That mean to say we want ot identify 3 clusters.
+> K = 3. That mean to say we want to identify 3 clusters.
 ![[Pasted image 20240605171949.png]]
 
 
@@ -31,7 +31,7 @@ Distance from the point to
 
 
 **Step 5:** Calculate the Mean of each cluster (Centroid of each cluster)
-> Calc by sum up all the points adn dividing by the number of points.
+> Calc by sum up all the points and dividing by the number of points.
 ![[Pasted image 20240605171645.png]]
 
 ![[Pasted image 20240605172707.png]]
@@ -41,7 +41,7 @@ So **is the current cluster the best K-Means Clustering?**
 
 So, back to the beginning re-do all the algo again...
 ![[Pasted image 20240605173000.png]]
-> K-Means Clustering pick 3 initial cluster and then clisters all the remaining points, calc the means of each Cluster and the reclusters based on the new means. This **repeats until the clusters no longer change.**
+> K-Means Clustering pick 3 initial cluster and then clusters all the remaining points, calc the means of each Cluster and the reclusters based on the new means. This **repeats until the clusters no longer change.**
 ![[Pasted image 20240605173248.png]]
 
 + ? How to decide the best K
