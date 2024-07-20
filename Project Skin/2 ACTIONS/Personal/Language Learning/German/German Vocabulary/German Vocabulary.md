@@ -1219,8 +1219,11 @@ Spät  late (Später - later)
 	du kommst immer zu spät
 
 (eine) Verspätung
+Es Gibt - there is
 Gibt - is
 	Oh nein, es gibt eine Verspätung
+
+
 Achtung - attention 
 	achtung bitte - attention please
 Um  around
@@ -1228,7 +1231,7 @@ Um  around
 Gleis  Track
 	Wo ist Gleis acht - where is track eight
 	Der zug ist auf Gleis eins - the train is on track one
->Achtung, Der zug von Berlin nach München hat eine Verspätung. Er kommt zweizig Minuten zu spät aus Gleis zwei 
+Achtung, Der zug von Berlin nach München hat eine Verspätung. Er kommt zweizig Minuten zu spät aus Gleis zwei 
 	Attention, the train from Berlin to München has a delayed. He arrives on platform two twenty minutes late.
 
 ICE - (Intercity Express) is a high-speed rail system in Germany
