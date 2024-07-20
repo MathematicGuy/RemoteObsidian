@@ -598,3 +598,11 @@ Mehrfamilienhaus - apartment building \
 Warum ist Unsere Wohnzimmer Schmutzig / why is our living room is so dirty
 
 Regnet es schon it rain already 
+Das sind meine Leute / that is my people
+	**Das** - mean "this" or "that"
+	**meine** - possessive pronoun for "my" in plural form
+	**sind** - is the plural form of the verb "to be" (sein)
+
+ Es gibt nur eine Trepee im Mehrfamilienhaus - There is only one staircase in the apartment building
+	 Es gibt - there is / there are
+	 nur only

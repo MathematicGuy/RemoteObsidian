@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-*German* word order: Important context goes first, Verb goes after.
+v*German* word order: Important context goes first, Verb goes after.
 	Wir sehen ins Kino ein Film
 
 ### **Unit 1: Order in a cafe, describe your family**
@@ -787,7 +787,7 @@ Einen (musculine)
 Ein (neutral - trung tính) 
 Eine (feminen)
 
-liebt dein bruder deinen hund - does your brother love your dog
+Liebt dein bruder deinen hund - does your brother love your dog
 
 ### Unit 3: Talk about language, talk about hobbies
 
@@ -1219,10 +1219,10 @@ Spät  late (Später - later)
 	du kommst immer zu spät
 
 (eine) Verspätung
-Es Gibt - there is
-Gibt - is
-	Oh nein, es gibt eine Verspätung
-
+Es Gibt - There is
+	**Es** (It) This is a neutral pronoun that serves as a placeholder subject in German. Doesn't have direct translation but is necessary for the sentence structure.
+	**Gibt** (Give): This is the third person singular form of the verb "geben," which means "to give."
++ ? When combined with "es," it forms a fixed expression meaning "there is" or "there are." (I think **"It Give" mean there is something to give** therefor **Es Gibt can express the status "there is" sth**)
 
 Achtung - attention 
 	achtung bitte - attention please
@@ -2109,8 +2109,11 @@ Aufzug elevator
 	Auf come/from
 	zug train
 Zurzeit / currently (Zur - at, zeit - time -> mean at the time or currently)
+	Ich zurzeit lebe in WG mit meine Mitbewohnerin
 
 Allein / alone 
+	Ich bin allein und das ist Ok
+
 Mehrfamilienhaus apartment building (refer to family house / house that we live together)
 	Mehr More
 	Familien family
@@ -2120,17 +2123,18 @@ Mehrfamilienhaus apartment building (refer to family house / house that we live 
  WG (Wohnegemeinschaft) - share apartment (people sharing an apartment)
 	Wohnege - residential
 	meinschaft - community
+	Meine Freunde wohnen Zurzeit in einer WG
 
- wohne live  (am living/have lived) 
+ Wohne live  (am living/have lived) 
 	 ich wohne
 	 Sie Wohnen
-	 Wohnst du Liebt
+	 Wo wohnst du - where do you live ?
 
 
 ### What is Your Dream ? 
 Träume - dream 
 	was deren Träume sind  - what is your dream 
-	-> Einmal zyum Mond und zurück - to the moon and back
+	-> Einmal zum Mond und zurück - to the moon and back
 
 Persönlich - personal
 
@@ -2175,3 +2179,50 @@ Hausaufgaben homework
 	aufgaben task
 Über something 
 
+#im_vs_in
+**"im"**
+	"Im" is a contraction of "in dem," which combines the preposition "in" with the dative article "dem" (the masculine or neuter form of "the" in the dative case). It is used to indicate location within a masculine or neuter noun.
+	
+1. **Im (contraction of "in dem")**:
+	- **Ich bin im Haus.** (I am in the house.)
+	- **Er arbeitet im Garten.** (He is working in the garden.)
+
+
+**"in"** 
+	"In" is a preposition that means "in" or "inside." It is used with both the accusative and dative cases, depending on whether there is movement (accusative) or no movement (dative).
+	
+1. **Accusative (movement into a place)**:
+    - **Ich gehe in die Stadt.** (I am going into the city.)
+    - **Er legt das Buch in das Regal.** (He puts the book into the shelf.)
+    
+2. **Dative (location within a place)**:
+    - **Ich bin in der Stadt.** (I am in the city.)
+    - **Das Buch ist in dem Regal.** (The book is in the shelf.)
+
+```ad-summary
+### Key Points:
+
+- Use "in" with the accusative case to indicate movement into a place.
+- Use "in" with the dative case to indicate location within a place.
+- Use "im" as a contraction of "in dem" when referring to a masculine or neuter noun in the dative case.
+
+### More Examples:
+
+1. **In**:
+    
+    - **Ich wohne in Deutschland.** (I live in Germany.) – Dative case, no movement.
+    - **Sie geht in die Schule.** (She goes to school.) – Accusative case, movement.
+2. **Im**:
+    
+    - **Wir treffen uns im Park.** (We meet in the park.) – "Park" is masculine, and "im" is the contraction of "in dem."
+    - **Die Kinder spielen im Garten.** (The children are playing in the garden.) – "Garten" is masculine, and "im" is the contraction of "in dem."
+```
+
+#habe_vs_haben
+Ich habe - I have
++ Ich habe ein Buch
+Wir/Sie haben - We have
+- **Wir haben Zeit.** (We have time.)
+- **Sie haben recht.** (You are right - formal.)
+- **Sie haben viele Freunde.** (They have many friends.)
++ **Wir haben Glück** (We are lucky)

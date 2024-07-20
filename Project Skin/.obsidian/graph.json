@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 12144882
       }
+    },
+    {
+      "query": "path:\"1 PROJECTS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16010896
+      }
     }
   ],
   "collapse-display": true,
@@ -35,7 +42,7 @@
   "nodeSizeMultiplier": 1.28477141017386,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.406632324533162,
+  "centerStrength": 0.572916666666667,
   "repelStrength": 12.2537025112685,
   "linkStrength": 0.825499034127495,
   "linkDistance": 50,
