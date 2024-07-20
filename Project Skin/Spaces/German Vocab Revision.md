@@ -606,3 +606,36 @@ Das sind meine Leute / that is my people
  Es gibt nur eine Trepee im Mehrfamilienhaus - There is only one staircase in the apartment building
 	 Es gibt - there is / there are
 	 nur only
+
+|     |
+| --- |
+| 1   |
+| 2   |
+| 3   |
+| 4   |
+| 5   |
+| 6   |
+| 7   |
+| 8   |
+| 9   |
+| 10  |
+| 11  |
+| 12  |
+| 13  |
+| 14  |
+| 15  |
+| 16  |
+| 17  |
+| 18  |
+| 19  |
+| 20  |
+| 21  |
+| 22  |
+| 23  |
+| 24  |
+| 25  |
+| 26  |
+| 27  |
+| 28  |
+| 29  |
+| 30  |
