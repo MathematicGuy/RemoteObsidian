@@ -1,7 +1,6 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-v*German* word order: Important context goes first, Verb goes after.
 	Wir sehen ins Kino ein Film
 
 ### **Unit 1: Order in a cafe, describe your family**
