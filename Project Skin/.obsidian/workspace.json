@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a444625a47509b2",
+        "id": "7bbd0186e6fb81a2",
         "type": "tabs",
         "children": [
           {
-            "id": "ea157b3c5c76b37c",
+            "id": "fec01c0090572907",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "_Focus/Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/German Vocab Revision.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -188,11 +190,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ea157b3c5c76b37c",
+  "active": "fec01c0090572907",
   "lastOpenFiles": [
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "3 RESOURCES/Programming/Python.md",
     "Pasted image 20240718184029.png",

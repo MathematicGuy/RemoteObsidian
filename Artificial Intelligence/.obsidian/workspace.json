@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "78fc6558ea65df04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coursera_Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursera_Optimization.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursera_Optimization.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursera_Optimization.md"
+                "file": "2 ACTIONS/_Focus.md"
               }
             }
           },
@@ -185,7 +172,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78fc6558ea65df04",
+  "active": "ac5f452ab9f5703c",
   "lastOpenFiles": [
     "Coursera_Optimization.md",
     "Pasted image 20240719181414.png",

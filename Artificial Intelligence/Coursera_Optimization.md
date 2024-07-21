@@ -9,3 +9,4 @@ Find the Optimized Point (Like the Elbow Point for K-Means)
 So the distance to a is: x - a 
 and b is b - x
 ![[Pasted image 20240719181414.png]] 
+
