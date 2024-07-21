@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "154245d33d6e0ce1",
+            "id": "b9978f0ea9c34449",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "b9978f0ea9c34449",
+            "id": "88edcf8a30657405",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b9978f0ea9c34449",
+  "active": "88edcf8a30657405",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",

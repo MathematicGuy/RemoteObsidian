@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fc6b54786334a6c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get Back to Who I'm Used to be.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus.md",
+                "file": "Get Back to Who I'm Used to be.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus.md"
+                "file": "Get Back to Who I'm Used to be.md"
               }
             }
           },
@@ -165,10 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d4bb5afd483ebdf",
+  "active": "fc6b54786334a6c5",
   "lastOpenFiles": [
-    "3 RESOURCES/_Question Mark/Superpower Disorder Explained.md",
+    "Riddle.md",
+    "Get Back to Who I'm Used to be.md",
+    "3 RESOURCES/_Productivity & Improvement/4 Reasons Hard Work DOES NOT Beat Talent.md",
+    "2 ACTIONS/_My Life/_My Life.md",
     "_Focus.md",
+    "3 RESOURCES/_Question Mark/Superpower Disorder Explained.md",
     "Question to Ask My Self.md",
     "2 ACTIONS/_My Life/Deepthought.md",
     "How to Study.md",
@@ -179,7 +197,6 @@
     "Pasted image 20240628151744.png",
     "1 PROJECTS/This Year Goal.md",
     "2 ACTIONS/_My Life/Free Will.md",
-    "2 ACTIONS/_My Life/_My Life.md",
     "3 RESOURCES/Fitness/How to build muscle faster.md",
     "Pasted image 20240615110501.png",
     "4 ARCHIVES/Image/Pasted image 20230629230346.png",
@@ -196,9 +213,6 @@
     "3 RESOURCES/_Question Mark/Reason why you not understand what they understand.md",
     "3 RESOURCES/_Question Mark/_Question Mark.md",
     "4 ARCHIVES/4 ARCHIVES.md",
-    "4 ARCHIVES/Asking Millionaires For The Shortcut To $1,000,000.md",
-    "4 ARCHIVES/Chuẩn bị gì trước khi Triệt sản cho mèo.md",
-    "4 ARCHIVES/Google Sky.md",
     "Spaces/Home",
     "Spaces",
     "4 ARCHIVES/Spaces/Home",

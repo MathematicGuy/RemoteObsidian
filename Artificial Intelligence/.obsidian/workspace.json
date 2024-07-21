@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0aae30726c300050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera_Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "Coursera_Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "Coursera_Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md"
+                "file": "Coursera_Optimization.md"
               }
             }
           },
@@ -172,18 +185,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac5f452ab9f5703c",
+  "active": "0aae30726c300050",
   "lastOpenFiles": [
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "2 ACTIONS/_Focus.md",
     "Coursera_Optimization.md",
     "Pasted image 20240719181414.png",
     "Pasted image 20240719181039.png",
     "Pasted image 20240719180818.png",
     "Pasted image 20240719180004.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Optimization.md",
     "Coursera_Derivative.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "2 ACTIONS/_Focus.md",
     "K-Means Clustering.md",
     "Normalization & Standardization.md",
     "Pasted image 20240719095011.png",
