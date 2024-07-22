@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "a47054c3bd342d92",
+            "id": "068b249d113d9b60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "House of Hypertrophy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "House of Hypertrophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "House of Hypertrophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "House of Hypertrophy.md"
+              }
             }
           },
           {
@@ -195,9 +204,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a47054c3bd342d92",
+  "active": "068b249d113d9b60",
   "lastOpenFiles": [
+    "House of Hypertrophy.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Workout/Calisthenics.md",
+    "Pasted image 20240723001740.png",
+    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 10m34s].png",
+    "Pasted image 20240723001409.png",
+    "Pasted image 20240723001333.png",
+    "Pasted image 20240723001242.png",
+    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 10m01s].png",
+    "Pasted image 20240723001047.png",
+    "Pasted image 20240723001031.png",
+    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 1m26s].png",
+    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x538 - 1m17s].png",
+    "2 ACTIONS/Workout/Workout Goals.md",
+    "2 ACTIONS/Workout/Workout.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "[P2.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
@@ -207,7 +230,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "3 RESOURCES/Programming/Python.md",
-    "Pasted image 20240718184029.png",
     "Stress-Free Productivity.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
@@ -218,21 +240,8 @@
     "Neural Network.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "2 ACTIONS/Personal/Interest/Books/Books.md",
-    "Pasted image 20240715161616.png",
     "enum class.md",
-    "Pasted image 20240715154341.png",
     "Quản Lý Hành Chính Nhà Nước.md",
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "Ways to develop software applications.md",
-    "Pasted image 20240708142931.png",
-    "Pasted image 20240708142735.png",
-    "Pasted image 20240708142520.png",
-    "SD HW2.md",
-    "2 ACTIONS/Personal/Soft Skill/Time Management.md",
-    "Pasted image 20240625115735.png",
-    "Pasted image 20240625111747.png",
-    "Pasted image 20240625105143.png",
-    "Pasted image 20240624113601.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

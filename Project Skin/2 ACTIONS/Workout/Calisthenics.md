@@ -1,4 +1,2 @@
-
 ### [[Plance Progression]]
-
 
