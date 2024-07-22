@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1a7a0c51ab1b170",
+        "id": "2468d0884952909c",
         "type": "tabs",
         "children": [
           {
-            "id": "b9978f0ea9c34449",
+            "id": "d28872eef2e791b1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "88edcf8a30657405",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -195,8 +190,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "88edcf8a30657405",
+  "active": "d28872eef2e791b1",
   "lastOpenFiles": [
+    "3 RESOURCES/GoodForLater/Good for LATER.md",
+    "3 RESOURCES/Save for later/Excel.md",
+    "3 RESOURCES/Save for later/Save for later.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -226,9 +224,6 @@
     "SD HW2.md",
     "2 ACTIONS/Personal/Soft Skill/Time Management.md",
     "Requirement to understand this sentence.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "4 ARCHIVES/2023/3rd Semesters/OOP/5 hours of JAVA.md",
-    "4 ARCHIVES/2023/3rd Semesters/OOP/OOP Java.md",
     "Pasted image 20240625115735.png",
     "Pasted image 20240625111747.png",
     "Pasted image 20240625105143.png",
