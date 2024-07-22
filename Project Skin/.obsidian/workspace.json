@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11c523dbcc41d0c7",
+        "id": "db27c6fcf9671bf2",
         "type": "tabs",
         "children": [
           {
-            "id": "068d0b74afe384ed",
+            "id": "77a96ad48842cb68",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "af73cf5b03f453e4",
+            "id": "a47054c3bd342d92",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,9 +195,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "af73cf5b03f453e4",
+  "active": "a47054c3bd342d92",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "[P2.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "3 RESOURCES/Save for later/Excel.md",
     "3 RESOURCES/Save for later/Save for later.md",
@@ -221,14 +223,12 @@
     "Pasted image 20240715154341.png",
     "Quản Lý Hành Chính Nhà Nước.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "Ways to develop software applications.md",
     "Pasted image 20240708142931.png",
     "Pasted image 20240708142735.png",
     "Pasted image 20240708142520.png",
     "SD HW2.md",
     "2 ACTIONS/Personal/Soft Skill/Time Management.md",
-    "Requirement to understand this sentence.md",
     "Pasted image 20240625115735.png",
     "Pasted image 20240625111747.png",
     "Pasted image 20240625105143.png",
