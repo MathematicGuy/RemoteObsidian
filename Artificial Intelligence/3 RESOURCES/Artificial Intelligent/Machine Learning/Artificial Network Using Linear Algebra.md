@@ -29,8 +29,10 @@ W21
 
 ![[Pasted image 20240413103941.png]]
 This mean we **compute activations of the layer 2** as 
-Sigmoid(Weight of th layer 2 * Activation input of the layer 1 + Bias of the layer 2)
+Sigmoid(Weight of layer 2 * Activation input of the layer 1 + Bias of the layer 2)
 
 This is the same for layer 3
 Sigmoid(Weight of th layer 3 * Activation input of the layer 2 + Bias of the layer 3) 
 ![[Pasted image 20240413104116.png]]
+
+

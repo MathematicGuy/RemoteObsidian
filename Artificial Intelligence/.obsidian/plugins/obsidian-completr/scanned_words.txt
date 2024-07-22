@@ -728,6 +728,8 @@ Elbow
 EVq
 ESY
 EEPq
+EHr
+Ehb
 the
 that
 transformation
@@ -1401,6 +1403,9 @@ toV
 tMO
 tIu
 theta
+tcH
+toQC
+todo
 original
 of
 operator
@@ -1960,6 +1965,8 @@ option
 oes
 ogx
 oxC
+otM
+oyKw
 vector
 vectors
 versions
@@ -2598,6 +2605,7 @@ vOeWl
 vuY
 vup
 varible
+vGA
 An
 After
 Algorithm
@@ -3274,6 +3282,9 @@ Able
 Annealing
 Adjusting
 Arc
+ACd
+AHl
+Aru
 eigenbasis
 entirely
 eigenvectors
@@ -4059,6 +4070,9 @@ evx
 eeef
 eXyc
 everytime
+egF
+emN
+ezK
 is
 in
 image
@@ -4866,6 +4880,9 @@ ikt
 iJggiE
 ird
 iqvV
+iff
+iaz
+iBM
 basis
 by
 because
@@ -5621,6 +5638,7 @@ biCB
 bOl
 bGy
 bBo
+bvF
 for
 find
 factor
@@ -6272,6 +6290,10 @@ fGY
 fgB
 fht
 fPh
+fmh
+fLv
+fCCCCC
+fhhXn
 space
 say
 same
@@ -7117,6 +7139,11 @@ sWuUW
 standardized
 sasatisfaction
 satisfaction
+sMA
+sztZ
+szB
+sklM
+summarize
 consists
 can
 change
@@ -8017,6 +8044,7 @@ consistency
 condition
 choice
 considering
+czc
 linear
 lambda
 left
@@ -8699,6 +8727,11 @@ lqw
 lCk
 lgO
 lsA
+lhp
+lbc
+lhhhhh
+lBS
+lhhhX
 matrix
 multiply
 multiplied
@@ -9483,6 +9516,8 @@ mOz
 mRCa
 min
 meanning
+mRxF
+mns
 The
 This
 To
@@ -10270,6 +10305,7 @@ TWb
 TkV
 Traveling
 Tue
+Tkmi
 after
 and
 as
@@ -11092,6 +11128,8 @@ aej
 aAt
 anErHP
 among
+awk
+ahMN
 notate
 nhau
 normal
@@ -12503,6 +12541,9 @@ Constraint
 Constrain
 Consistency
 CPSs
+CGG
+CdvM
+Cyg
 Basis
 Both
 Board
@@ -13143,6 +13184,12 @@ BQG
 BiIIh
 BETwTD
 Backtracking
+BBBBC
+BBBBm
+BBBBB
+BPI
+Bhj
+BlLh
 Using
 Understand
 Unique
@@ -13918,6 +13965,9 @@ UhB
 UUy
 UFm
 Unary
+Ugj
+UIt
+UaBo
 we
 want
 when
@@ -14496,6 +14546,8 @@ wim
 wqz
 wFd
 wse
+wnl
+weo
 have
 has
 ho
@@ -15131,6 +15183,12 @@ hWt
 hkI
 hVi
 hXP
+hOk
+hcP
+hBs
+hOm
+hDf
+hhhX
 Let
 Light
 Learning
@@ -15790,6 +15848,11 @@ LfH
 Ljm
 LfZ
 Lig
+LHHHH
+Lue
+LvaF
+LBV
+LLv
 you
 yield
 yk
@@ -16373,6 +16436,10 @@ yeS
 yZd
 yfn
 ydn
+yPgh
+ycb
+yMy
+yMsTP
 point
 pair
 pmatrix
@@ -17070,6 +17137,11 @@ pST
 pHO
 pretty
 powerline
+pNz
+pAk
+pXh
+pHG
+prob
 You
 Yes
 YX
@@ -17719,6 +17791,10 @@ YHH
 Ynz
 Yia
 YzD
+Ysm
+Yge
+YzDP
+YvbK
 get
 given
 getL
@@ -19139,6 +19215,7 @@ Simulated
 Salesman
 Simpified
 Satisfaction
+Softmax
 result
 reduced
 repeated
@@ -19844,6 +19921,10 @@ rWRHqTZt
 rnV
 rUp
 reinforce
+rXmY
+rnj
+rHI
+rDS
 Non
 Need
 No
@@ -20346,6 +20427,12 @@ NyhI
 NLO
 NpJGV
 NYs
+NVhQ
+Nzh
+NkC
+NqjA
+NKH
+NGV
 zero
 zeros
 zeroes
@@ -20925,6 +21012,9 @@ zGQ
 zkXX
 zsj
 zhhi
+zSg
+zIzA
+zbf
 We
 What
 While
@@ -22266,6 +22356,10 @@ ddH
 doT
 dSb
 dÄ
+dmk
+dkK
+dkh
+dJkX
 From
 Find
 For
@@ -22864,6 +22958,16 @@ FLv
 Fss
 FQyk
 Fomulation
+FPL
+FQU
+FWh
+FkZU
+FGM
+Faz
+FJs
+FCYD
+FNh
+FZC
 know
 kh
 kia
@@ -24189,6 +24293,8 @@ McE
 MfF
 MoU
 Method
+MhAM
+MsZ
 using
 up
 until
@@ -24875,6 +24981,11 @@ uXkk
 umX
 ujx
 unary
+ucF
+uaI
+uVy
+uTm
+uBpb
 Recall
 Reference
 Redundant
@@ -25633,6 +25744,8 @@ RJhD
 RFu
 RVV
 Removing
+RLN
+Rhw
 Or
 One
 Our
@@ -26292,6 +26405,7 @@ OtreS
 Ouf
 OZC
 Optimized
+OHX
 IntelliJ
 Isolation
 Interactive
@@ -27036,6 +27150,8 @@ IKD
 Iyz
 Ikg
 Introduct
+IOzR
+IaZ
 Prerequisite
 PCB
 Project
@@ -27753,6 +27869,9 @@ Pcx
 Poh
 PxJchF
 PRm
+PYn
+PYUn
+Parameters
 Defecs
 Defects
 Dataset
@@ -28430,6 +28549,7 @@ Dij
 Deviation
 Distribution
 Done
+DfJ
 Visual
 Variables
 Visualization
@@ -29765,6 +29885,8 @@ Jupyter
 Jya
 JdA
 JyF
+JkB
+JDS
 just
 jjj
 jFD
@@ -30424,6 +30546,7 @@ jiB
 jkG
 jzmHG
 jkox
+jaftt
 Highly
 How
 Have
@@ -31087,6 +31210,9 @@ HSB
 HgD
 Hill
 Highest
+HHh
+HZh
+HmX
 quan
 qqq
 qxD
@@ -31736,6 +31862,10 @@ qnd
 qtG
 qxr
 qMY
+qNp
+qvbP
+qbA
+qqD
 Kh
 Key
 Kz
@@ -32376,6 +32506,10 @@ KHh
 KCB
 KkC
 KZa
+KEX
+Kyx
+KpF
+KPy
 Gaussian
 Geometric
 Given
@@ -33036,6 +33170,8 @@ GBU
 GNaB
 GQB
 Graph
+GKD
+GqR
 Zero
 Zw
 ZX
@@ -33654,6 +33790,7 @@ Zox
 ZSS
 ZMq
 Zpu
+Zgjh
 xG
 xE
 xP
@@ -34887,6 +35024,7 @@ QYl
 QZUU
 QVw
 QaA
+QBQ
 XnV
 XT
 XK
@@ -35641,6 +35779,7 @@ XyTW
 ätX
 ät
 äY
+äM
 ßJ
 ßC
 ßcy

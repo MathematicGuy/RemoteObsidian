@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2468d0884952909c",
+        "id": "11c523dbcc41d0c7",
         "type": "tabs",
         "children": [
           {
-            "id": "d28872eef2e791b1",
+            "id": "068d0b74afe384ed",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "af73cf5b03f453e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,12 +195,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d28872eef2e791b1",
+  "active": "af73cf5b03f453e4",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "3 RESOURCES/Save for later/Excel.md",
     "3 RESOURCES/Save for later/Save for later.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
