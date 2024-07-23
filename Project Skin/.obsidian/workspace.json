@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db27c6fcf9671bf2",
+        "id": "b052a8601fc0b840",
         "type": "tabs",
         "children": [
           {
-            "id": "77a96ad48842cb68",
+            "id": "72680101e383f3fe",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "068b249d113d9b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "House of Hypertrophy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House of Hypertrophy.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "House of Hypertrophy.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "House of Hypertrophy.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "068b249d113d9b60",
+  "active": "72680101e383f3fe",
   "lastOpenFiles": [
     "House of Hypertrophy.md",
     "_Focus/Todo.md",
