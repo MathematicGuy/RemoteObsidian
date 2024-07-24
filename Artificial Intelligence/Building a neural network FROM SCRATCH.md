@@ -1,4 +1,4 @@
-X : matrix 
+ X : matrix 
 Z = wA + b
 
 **Forward Propagation**

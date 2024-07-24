@@ -200,7 +200,7 @@ Each training iteration called epoch, **refers to the one entire passing of trai
 
 The data set ofetn have 80% for trainning and 20% is reserved for evaluation performance.
 	![[Pasted image 20240611204124.png]]
-Loss function measure how good a Model is, in other word Loss function measure how far an estimated value is from its actual value.
+Loss function **measure how good a Model is, in other word Loss function measure how far an estimated value is from its actual value**.
 + $ Housing dataset includes home costs
 + $ Loss func use to optimize training
 + ! Not for Judging Model Performance
@@ -209,7 +209,7 @@ After the Model have been trained, we use 20% reserved dataset to evaluate it. W
 **Loss Function Evaluation Metrics**
 - Mean squared error (MSE)
 - Accuracy
-- Fl score
+- F1 score
 - AUC
 + RA2
 > Show wether or not you need to tweak hyperparameter (điều chỉnh siêu tham số) and start the training process again to improve performance.
@@ -315,4 +315,58 @@ word embeddings, which are vectorized representations of text.
 ## Demo: Training a custom machine learning model
 	![[Pasted image 20240612100550.png]]
 
+
+# Evaluating Model Performance
+
+## Exploring common Classification Metrics
+> Metrics are indicators of your model's performance 
+> Metrics indicate if you need to tweak hyperparameter 
+![[Pasted image 20240723211954.png]]
+
+**Classification accuracy**
+> Accuracy = correct_prediction / total number of predictions
+
+**Binary Classification accuracy**
+![[Pasted image 20240723211108.png]]
+This show the definition between (Guess and Reality)
+**True Positive**: a stop that does lead to an arrest.  
+**True Negative**: a stop will not lead to an arrest and no arrest is made 
+**False Positive**: a stop will lead to an arrest but it doesn't.
+**False Negative**: a stop will not lead to an arrest but it does.  
+
+Ways to handle imbalanced datasets
+- Precision
+- Recall
+- F1 score
+
+**Precision and Recall**
+![[Pasted image 20240723211519.png]]
+![[Pasted image 20240723211544.png]]
+
+![[Pasted image 20240723211644.png]]
+
+**Area Under the ROC Curve**
+> measures accuracy and visualizes how well the predictions are ranked across true positive and false positive rates.
+
+### Confusion matrix
+> Show the accuracy of your model.
+> And it Not a metric. It's a table showing a summary of the prediction results for a classification model.
+
+![[Pasted image 20240723212159.png]]
+
+![[Pasted image 20240723212208.png]]
+
+
+### Exploring Common Regression Metrics
+**Metric for Regression Problem**
+![[Pasted image 20240723212847.png]]
+
+$R^2:$ Calculates the difference between the actual values and the predictions made by the model.
+- Mean square error and root mean square error are absolute measures
+- MSE is an absolute number of how much your predicted results deviate from the actual number
+- Root mean square error is the square root of MSE -> making MSE easier to interpret
+
+![[Pasted image 20240723213051.png]]
+
+### Determining feature importance
 

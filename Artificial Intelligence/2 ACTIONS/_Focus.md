@@ -20,3 +20,4 @@ install IntelliJ
 ![[Pasted image 20240611193343.png]]
 
 satanophany
+![[1721044101552 1.jpg]]

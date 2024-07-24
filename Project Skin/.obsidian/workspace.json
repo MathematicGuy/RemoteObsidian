@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b052a8601fc0b840",
+        "id": "0b3bbdde96efba8d",
         "type": "tabs",
         "children": [
           {
-            "id": "72680101e383f3fe",
+            "id": "ca0c2bffa9bed016",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "72680101e383f3fe",
+  "active": "ca0c2bffa9bed016",
   "lastOpenFiles": [
     "House of Hypertrophy.md",
     "_Focus/Todo.md",
