@@ -4,5 +4,7 @@
 Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 -> Help to find the model that fits my data in the best possible way (calc loss func and minimizing it)
 ```
-## [[Coursera_Derivative]]
-## [[Coursera_Optimization]]
+## [[Calculus_Derivative]]
+## [[Calculus_Optimization]]
+
++ ? [[Derivative and Optimization Test]]

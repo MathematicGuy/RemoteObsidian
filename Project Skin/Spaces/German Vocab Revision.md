@@ -607,8 +607,9 @@ Das sind meine Leute / that is my people
 	 Es gibt - there is / there are
 	 nur only
 
-
 Dann - then 
 Essen gehen - eating out
 von - from
 von deinen Eltern - from your parent
+
+

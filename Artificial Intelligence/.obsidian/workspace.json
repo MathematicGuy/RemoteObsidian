@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "1e3aed6489d737bd",
+            "id": "76424a8bf8d7dac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient Descent, how neural network learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d783fb27884d5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "PCB Anomally Detection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "PCB Anomally Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "file": "PCB Anomally Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md"
+                "file": "PCB Anomally Detection.md"
               }
             }
           },
@@ -197,43 +185,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d783fb27884d5cc",
+  "active": "76424a8bf8d7dac0",
   "lastOpenFiles": [
-    "SIC - Artificial Intelligence Foundations Machine Learning.md",
-    "Pasted image 20240723213051.png",
-    "Pasted image 20240723212847.png",
-    "Pasted image 20240723212208.png",
-    "Pasted image 20240723212159.png",
-    "Pasted image 20240723211954.png",
-    "Pasted image 20240723211644.png",
-    "Pasted image 20240723211544.png",
-    "Pasted image 20240723211519.png",
-    "Pasted image 20240723211452.png",
-    "Pasted image 20240723211108.png",
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
+    "PCB defects detection using YOLOv5.md",
+    "PCB Anomally Detection.md",
     "2 ACTIONS/_Focus.md",
-    "Gradient Descent, how neural network learn.md",
-    "3 RESOURCES/Artificial Intelligent/General AI/What is Neural Network.md",
+    "Derivative and Optimization Test.md",
+    "Pasted image 20240724171901.png",
+    "Pasted image 20240724171840.png",
+    "Calculus_Derivative.md",
+    "Calculus_Optimization.md",
+    "Pasted image 20240724153121.png",
+    "Pasted image 20240724152802.png",
+    "Pasted image 20240724152739.png",
+    "Pasted image 20240724152734.png",
+    "Pasted image 20240724152725.png",
+    "Pasted image 20240724152719.png",
+    "Pasted image 20240724152705.png",
+    "Pasted image 20240724152700.png",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "SIC - Artificial Intelligence Foundations Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
+    "Gradient Descent, how neural network learn.md",
+    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/What is Neural Network.md",
     "Building a neural network FROM SCRATCH.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
-    "Coursera_Optimization.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Optimization.md",
-    "Coursera_Derivative.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
     "K-Means Clustering.md",
     "Normalization & Standardization.md",
     "elbow method.md",
     "1 PROJECTS/SIC/SIC - AI Intro.md",
     "1 PROJECTS/SIC/SIC.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Clustering.md",
     "3 RESOURCES/Artificial Intelligent/General AI/Why Neural Networks can learn (almost) anything.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/introduction to numpy array.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Application of Matrix.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/compute the covariance matrix C.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",

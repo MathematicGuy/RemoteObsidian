@@ -317,13 +317,12 @@ word embeddings, which are vectorized representations of text.
 
 
 # Evaluating Model Performance
-
 ## Exploring common Classification Metrics
 > Metrics are indicators of your model's performance 
-> Metrics indicate if you need to tweak hyperparameter 
+> **Metrics indicate if you need to tweak hyperparameter** 
 ![[Pasted image 20240723211954.png]]
 
-**Classification accuracy**
+**Classification Accuracy**
 > Accuracy = correct_prediction / total number of predictions
 
 **Binary Classification accuracy**
@@ -334,27 +333,31 @@ This show the definition between (Guess and Reality)
 **False Positive**: a stop will lead to an arrest but it doesn't.
 **False Negative**: a stop will not lead to an arrest but it does.  
 
-Ways to handle imbalanced datasets
+Ways to handle imbalanced datasets (use this to increase Model Accuracy)
 - Precision
 - Recall
 - F1 score
 
 **Precision and Recall**
 ![[Pasted image 20240723211519.png]]
+
+**Recall**: another way to measure accuracy and highlight your model's sensitivity.
 ![[Pasted image 20240723211544.png]]
 
 ![[Pasted image 20240723211644.png]]
+
 
 **Area Under the ROC Curve**
 > measures accuracy and visualizes how well the predictions are ranked across true positive and false positive rates.
 
 ### Confusion matrix
-> Show the accuracy of your model.
-> And it Not a metric. It's a table showing a summary of the prediction results for a classification model.
+> Show the accuracy of your model. So that you know what to improve
+> And it Not a metric. It's a table **showing a summary of the prediction results for a classification model.**
 
 ![[Pasted image 20240723212159.png]]
 
 ![[Pasted image 20240723212208.png]]
+
 
 
 ### Exploring Common Regression Metrics
@@ -369,4 +372,46 @@ $R^2:$ Calculates the difference between the actual values and the predictions m
 ![[Pasted image 20240723213051.png]]
 
 ### Determining feature importance
+![[Pasted image 20240724102005.png]]
+After found out and selecting the most importance features, we re-train the model
+![[Pasted image 20240724102039.png]]
+**Explainability**
+> Helps in understanding why your model makes certain predictions and can boost overall confidence
 
+**Algorithms to find Importance Features**
+![[Pasted image 20240724102110.png]]
+
+### Combating Bias
+![[Pasted image 20240724102401.png]]
+- Bias is a huge impediment
+- Bias is seen when predictions are less favorable to an individual or group
++ Bias can be mitigated if you know what to look for
+> It shows up in the dataset if it's imbalanced or doesn't accurately represent the deployment env.
+
+### Bias in Algorithms
+![[Pasted image 20240724102732.png]]
+
+### Bias in Models
+**Drift:** Indicate how the variable changed over time. (the current value and the original value)
+![[Pasted image 20240724102749.png]]
+> To Handle Drift in the data, weighting features can be a good option.
++ Use proven ways to mitigate bias while optimizing the machine learning pipeline.
+
+
+### Structureing a Machine Learning Pipeline
+![[Pasted image 20240724110343.png]]
+
+![[Pasted image 20240724110413.png]]
+> Pipeline allow to encapsule the code and reused it.
+
+
+**Traditional Process**
+![[Pasted image 20240724110449.png]]
+> Called the fit function multiple times and executed code block independently
+
+**Pipelines Process**
+![[Pasted image 20240724110504.png]]
+Ex: allow 3 training job in parallel
+![[Pasted image 20240724110704.png]]
+
+### Demo: Designning and Building a pipeline

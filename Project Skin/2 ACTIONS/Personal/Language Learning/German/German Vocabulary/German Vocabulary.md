@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-	Wir sehen ins Kino ein Film
+Wir sehen ins Kino ein Film
 
 ### **Unit 1: Order in a cafe, describe your family**
 
@@ -2083,8 +2083,8 @@ Eine Chef - boss
 	Ich treffe meine Chefin zum Nachmittag
 
 Kollegen colleagues
-Schinken Ham
-Ein Brötchen Roll
+Schinken - Ham
+Ein Brötchen - Roll
 	Isst du gern eine Brötchen mit Schinken 
 
 Sonntags - sundays
@@ -2161,6 +2161,8 @@ Bücher - the books
 Sofa sodfa
 Der Külhschrank - the refrigerator 
 Esszimmer - dinning room
+	+ "Ess" come from "Essen" which mean eat
+	+ "-Zimmer" subverb telling sth a room   
 	Unsere Wohnung ist klein, wir haben kein Esszimmer - our living room is small, we cannot have a kitchen 
 Stühle chair
 Die Mikrowelle microwave
@@ -2225,3 +2227,13 @@ Wir/Sie haben - We have
 - **Sie haben recht.** (You are right - formal.)
 - **Sie haben viele Freunde.** (They have many friends.)
 + **Wir haben Glück** (We are lucky)
+
+Den Kühlschrank - refrigerator 
+	Ich mag den Kühlschrank nicht
+Wir haben zwei Kühlschrank aber kein Mikrowelle
+
+### How Many Hours Do Germans Sleep
+Geschlafen - slept
+Geträumt - dream
+Klar sure
+

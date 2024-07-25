@@ -20,7 +20,7 @@ We would like to train the Model to tweak the classifier line to this position.
 + ? But, can we estimate the velocity of the car at time t = 12.5. Let's try using the slope 
 	![[Pasted image 20240710080426.png]]
 	![[Pasted image 20240710081706.png]]
-	So the speed is more accurate this time. When we make the interva of time (t) and 
+	So the speed is more accurate this time. When we make the interval of time (t) and 
 	distance (x) closer to eachother. 
 	![[Pasted image 20240710082554.png]]
 	And if we put the interval to be super close to each others. You get the limit which is dx over dt and that is precisely the tangent line to the curve at t equals 12.5
@@ -32,7 +32,6 @@ We would like to train the Model to tweak the classifier line to this position.
 
 ## Derivatives and their notation
 2 ways to express derivative: **Leibniz's notation** and **Lagrange's notation.**
-
 ![[Pasted image 20240710085121.png]]]]
 ![[Pasted image 20240710085315.png]]
 
@@ -52,25 +51,25 @@ The 2nd point have  x as (x + $\nabla x$) so y must be a(x + $\nabla x$) + b
 As we cancel out, what is left is:  a
 ![[Pasted image 20240710090615.png]]
 
+
 ### Quadratics
 $\nabla f$ = y2 - y1. and if y1 = x^2 <->  y2 = $(x + \nabla x)^2$ with $\nabla x \in R$
 ![[Pasted image 20240710171435.png]]
 Repeat the same step as the interval smaller and smaller. We finally got the result close to 2
 ![[Pasted image 20240710171142.png]]
 ![[Pasted image 20240710171803.png]]
-> **As 2 points move closer**, $\nabla x \to 0$ (delta_x move closer to 0. the same for delta_y) There for the **Derivative of Quadratics function is: 2x**
+> **As 2 points move closer**, $\nabla x \to 0$ (delta_x move closer to 0. the same for delta_y) There for the **Derivative of Quadratics function is: 2x or nx** with n as power of x. 
 ![[Pasted image 20240710172234.png]]
 
 ### Higher degree polynomials 
 #### Derivatvative of Cubic Functions
 ![[Pasted image 20240710172608.png]]
->Like before, we calculate the slope. The 1st one is 3.25 as $\nabla x$ is 1. Decrease the interval between 2 points and repeat the same step we got
+>Like before, we calculate the slope. The 1st one is 3.25 as $\nabla x$ is 1. Decrease the interval between 2 points and repeat the same step we got.
 ![[Pasted image 20240710172917.png]]
 So the result is as close as $3*0.5^{2} \approx 0.75$. This seem true since the derivative is actually  $3x^2$  
 + ? Let simplified the Slope and see what we got: Like before $\nabla x \to 0$ and we really got 
- the **Derivative of a Cubic is** $$3x^2$$ 
+ the **Derivative of a Cubic is** $$3x^2$$
 ![[Pasted image 20240710173035.png]]
-
 ### Other power functions
 > Like before, we calc the slope of a value. Then move the interval closer and closer.
 ![[Pasted image 20240710173642.png]]
@@ -153,7 +152,6 @@ $\frac{\Delta(\sin x)}{\Delta x} = \cos x$  and  $-\frac{\Delta(\cos x)}{\Delta 
 To verify that let calc the Slope of $e^x$. Since $\Delta x \to 0$,  $e^{x + \Delta x}$ will come closer to $e^x$ , calc the Slope for every x we see that the Slope will always end up with 7.39 which is $e^2$
 ![[Pasted image 20240713143208.png]]
 
-- [ ] **Section 2:** Finish the Derivative of Log(x) and the Existance of the Derivative
 ### Derivative of log(x)
 ![[Pasted image 20240713150731.png]]
 > **p is the logarithm of the n**
@@ -177,7 +175,6 @@ it actually ln(x) but for now let just call it as k2
 ![[Pasted image 20240713162000.png]]
 But we have to calc k from scratch for every new n. can we find a way to calc k automatically
 ![[Pasted image 20240713162110.png]]
-
 
 **Basic Concept**
 + ? note: e với số mũ nhỏ -> 0 sẽ tiến tới 1 giới hạn. 
@@ -231,11 +228,11 @@ $f = gh$ then $$f' = g'h + gh'$$
 ![[Pasted image 20240717095942.png]]
 Let look at the house from the top
 ![[Pasted image 20240717100151.png]]
-+ ? As $\Delta t$ come closer to 0. $\Delta g(t), \Delta h(t)$ become neligible (so small that it doesn't even matter). Well because it is the derivative (g' as the y' and h' as the x'). Thus we can simplified it into $$f'(t) = g'(t).h(t) + g(t).h'(t)$$ 
++ ? As $\Delta t$ come closer to 0. $\Delta g(t), \Delta h(t)$ become neligible (so small that it doesn't even matter). Well because it is the derivative (g' as the y' and h' as the x'). Thus we can simplified it into $$f'(t) = g'(t).h(t) + g(t).h'(t)$$
 
 ### The chain rule (Like product rule but it like Product of a Product)
 $$\frac{d}{dt}g(h(t)) = \frac{dg}{dg} . \frac{dh}{dt}$$ 
-It call the chain rule bc you can composing function (put a function inside a function)
+It call the chain rule bc you can composing function (hàm hợp) (put a function inside a function)
 ![[Pasted image 20240717101147.png]]
 + ? The Lagrange Notation
 ![[Pasted image 20240717101230.png]]
@@ -247,7 +244,7 @@ It call the chain rule bc you can composing function (put a function inside a fu
 The Derivative of the Temperature with Time is the Product of Tempreture with Height and Time with Height. 
 ![[Pasted image 20240717101648.png]]
 As $Delta T \to 0$
-(note: Derivative is just the changes between 2 points)
+(note: Derivative is just the changes between 2 points) 
 ![[Pasted image 20240717101950.png]]
 
 [[Derivative Week1- Practice Quiz]]

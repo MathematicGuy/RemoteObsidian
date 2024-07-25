@@ -142,3 +142,5 @@ Go to **yolov5 directory** and install all the requirements
 + ? TODO: How to train the YoLov5 to recognize more object?
 + ? What are the best epoch?
 + ? TODO: Make Interface for this
+
+
