@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "01eb9b5b36facb1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md"
               }
             }
           },
@@ -190,10 +204,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c617cd819c3059fc",
+  "active": "01eb9b5b36facb1c",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "House of Hypertrophy.md",
     "2 ACTIONS/Workout/Calisthenics.md",
@@ -226,8 +242,6 @@
     "Neural Network.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "2 ACTIONS/Personal/Interest/Books/Books.md",
-    "enum class.md",
-    "Quản Lý Hành Chính Nhà Nước.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
