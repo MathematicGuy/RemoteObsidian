@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73ef5d5905e0c805",
+        "id": "e29dca4e7015b635",
         "type": "tabs",
         "children": [
           {
-            "id": "c617cd819c3059fc",
+            "id": "22cd86b5014c0c6e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "01eb9b5b36facb1c",
+            "id": "0e1336807dc75fd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -112,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,11 +195,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "01eb9b5b36facb1c",
+  "active": "0e1336807dc75fd4",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
     "_Focus/Todo.md",
+    "Spaces/Classification Techniques.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "House of Hypertrophy.md",
@@ -240,8 +233,6 @@
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "How to build a web application in Java.md",
     "Neural Network.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "2 ACTIONS/Personal/Interest/Books/Books.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

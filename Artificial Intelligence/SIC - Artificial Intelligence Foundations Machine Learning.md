@@ -293,6 +293,14 @@ If you a home owner, do you often wonder how much your home will sell for in the
 	K-Mean finds commonalities acress your dataset and puts each data point into a cluster.
 + ? All *data points in a cluster are homogeneous (đồng nhất)* and *heterogeneous (không đồng nhất) from data points in other clusters.*
 
+**Clustering Types**
+Well-separated clusters (phân cụm phân tách)
+Center-based clusters (phân cụm dựa vào trung tâm)
+Contiguous clusters (dựa vào cụm liền kề)
+Density-based clusters (phân cụm dựa trên mật độ)
+Property or Conceptual (phân cụm dùng thuộc tính hoặc khái niệm)
+Described by an Objective Function (phân cụm bằng 1 hàm mục tiêu)
+
 ### Unsupervised Clustering
 + K-mean output is the number of clusters representing segmented data
 + Define K by setting it as a hyperparameter

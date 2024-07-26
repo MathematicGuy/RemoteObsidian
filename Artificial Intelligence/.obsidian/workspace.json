@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB Anomally Detection.md",
+                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "713be84648507f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K-Means Clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCB Anomally Detection.md",
+                "file": "K-Means Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCB Anomally Detection.md",
+                "file": "K-Means Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB Anomally Detection.md"
+                "file": "K-Means Clustering.md"
               }
             }
           },
@@ -185,11 +197,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76424a8bf8d7dac0",
+  "active": "713be84648507f50",
   "lastOpenFiles": [
-    "PCB defects detection using YOLOv5.md",
-    "PCB Anomally Detection.md",
+    "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "2 ACTIONS/_Focus.md",
+    "K-Means Clustering.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Clustering.md",
+    "PCB Anomally Detection.md",
+    "PCB defects detection using YOLOv5.md",
     "Derivative and Optimization Test.md",
     "Pasted image 20240724171901.png",
     "Pasted image 20240724171840.png",
@@ -204,7 +219,6 @@
     "Pasted image 20240724152705.png",
     "Pasted image 20240724152700.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
     "Gradient Descent, how neural network learn.md",
@@ -214,13 +228,11 @@
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Optimization.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "K-Means Clustering.md",
     "Normalization & Standardization.md",
     "elbow method.md",
     "1 PROJECTS/SIC/SIC - AI Intro.md",
     "1 PROJECTS/SIC/SIC.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Clustering.md",
     "3 RESOURCES/Artificial Intelligent/General AI/Why Neural Networks can learn (almost) anything.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/introduction to numpy array.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",

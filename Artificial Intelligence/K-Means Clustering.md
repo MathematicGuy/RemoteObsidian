@@ -82,3 +82,18 @@ Continue the same, we got the result for Cluster 1 and 2
 6.	Again adjust centroids
 
 
+
+Chia cụm rồi gộp cụm 
+SSE Highest
+
+**Pre-Processing**
++ Normalize
++ ELiminate Noise/Outlier
+
+**Post-Processing**
++ Eliminate small clusters that may represent outliers
++ Split ‘loose’ clusters, i.e., clusters with relatively high SSE
++ Merge clusters that are ‘close’ and that have relatively low SSE
++ Can use these steps during the clustering process
+
+
