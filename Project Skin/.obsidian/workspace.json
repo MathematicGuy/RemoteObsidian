@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e29dca4e7015b635",
+        "id": "8596242dcb71f4c3",
         "type": "tabs",
         "children": [
           {
-            "id": "22cd86b5014c0c6e",
+            "id": "8a1f9938e8b69873",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0e1336807dc75fd4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -195,8 +188,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0e1336807dc75fd4",
+  "active": "8a1f9938e8b69873",
   "lastOpenFiles": [
+    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
+    "3 RESOURCES/Git/Git.md",
     "_Focus/Todo.md",
     "Spaces/Classification Techniques.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
@@ -226,8 +221,6 @@
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "3 RESOURCES/Programming/Python.md",
     "Stress-Free Productivity.md",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "3 RESOURCES/Git/Git.md",
     "3 RESOURCES/Web/Learn Web Developement/Web.md",
     "3 RESOURCES/Web/Web.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
