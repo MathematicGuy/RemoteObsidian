@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8596242dcb71f4c3",
+        "id": "014f609909186eb5",
         "type": "tabs",
         "children": [
           {
-            "id": "8a1f9938e8b69873",
+            "id": "d9bfa6e701e9bee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,11 +188,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8a1f9938e8b69873",
+  "active": "d9bfa6e701e9bee9",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
-    "_Focus/Todo.md",
     "Spaces/Classification Techniques.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
