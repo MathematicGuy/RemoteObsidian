@@ -34,3 +34,6 @@ Hier Auf der Straße - here from the street
 Verkehrsmittel - mode of transport
 Gefährlich dangerous
 	Sie sind Gefährlich
+
+Vor before
+	Recht vor Links - right before left  
