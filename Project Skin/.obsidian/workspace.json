@@ -10,6 +10,7 @@
           {
             "id": "d9bfa6e701e9bee9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,38 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3ad59aecf21c02ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4a34cbfaf25a95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "2 ACTIONS/Personal/Language Learning/German/German.md"
               }
             }
           },
@@ -188,17 +217,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d9bfa6e701e9bee9",
+  "active": "b4a34cbfaf25a95b",
   "lastOpenFiles": [
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
     "Spaces/Classification Techniques.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "House of Hypertrophy.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "Pasted image 20240723001740.png",
@@ -225,7 +255,6 @@
     "3 RESOURCES/Web/Web.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "How to build a web application in Java.md",
-    "Neural Network.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

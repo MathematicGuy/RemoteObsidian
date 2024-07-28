@@ -23,3 +23,14 @@ _sort:
 > (Tập trung vào ý mà người nói muốn truyền tải thay vì ý nghĩa)
 ## Learning Thourgh Video 
 
+#### How Many Hours Do Germans Sleep
+Geschlafen - slept
+Geträumt - dream
+Klar sure
+
+#### Why Germans Love Cycling 
+Auf from
+Hier Auf der Straße - here from the street
+Verkehrsmittel - mode of transport
+Gefährlich dangerous
+	Sie sind Gefährlich

@@ -2233,8 +2233,6 @@ Den Kühlschrank - refrigerator
 	Ich mag den Kühlschrank nicht
 Wir haben zwei Kühlschrank aber kein Mikrowelle
 
-### How Many Hours Do Germans Sleep
-Geschlafen - slept
-Geträumt - dream
-Klar sure
 
+
+Bild - paiting
