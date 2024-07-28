@@ -8,6 +8,7 @@ banner: Images/Pasted image 20240402135259.png
 	- [ ] SVM Preparation
 - [ ] Classification KNN 
 
+
 #Todo/GoalsThisWeek
 
 
