@@ -26,8 +26,13 @@
             "id": "c124308220bcf259",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md"
+              }
             }
           },
           {
@@ -250,4 +259,7 @@
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "4 ARCHIVES/2024/Club/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas
+    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
+    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas"
+  ]
+}
