@@ -2233,6 +2233,40 @@ Den Kühlschrank - refrigerator
 	Ich mag den Kühlschrank nicht
 Wir haben zwei Kühlschrank aber kein Mikrowelle
 
+Blumen flower
+Rot red
+Eine Bettdecke bedspread
+	Ein Bett
+Weich soft
+	Die/Das Kopfkissen/Bett ist Weich und bequem - the pillow/bed is soft and comfortable
 
+Bild buy
+Malt ein Bild / is paiting a paiting
+Kopfkissen pillow
+	Mein Kopfkissen ist sehr Weich - my pillow is too soft
 
-Bild - paiting
+\Pflanzen plant
+	Hast du viele Pflanzen in den Gärten
+
+Mehrfamilienhaus - apartment building \
+Warum ist Unsere Wohnzimmer Schmutzig / why is our living room is so dirty
+
+Regnet es schon it rain already 
+Das sind meine Leute / that is my people
+	**Das** - mean "this" or "that"
+	**Meine** - possessive pronoun for "my" in plural form
+	**Sind** - is the plural form of the verb "to be" (sein)
+
+ Es gibt nur eine Trepee im Mehrfamilienhaus - There is only one staircase in the apartment building
+	 Es gibt - there is / there are
+	 nur only
+
+Dann - then 
+Essen gehen - eating out
+von - from
+von deinen Eltern - from your parent
+
+Bild paiting
+Kissen pillow
+
+Bettdecke - bedspread 

@@ -583,33 +583,4 @@ Die Blumen - flowers
 Unsere Mikrowelle ist zu alt / our microwave is too old
 Die Küche ist noch Schmutzig - the kitchen is still dirty
 
-Blumen flower
-Rot red
-Eine Bettdecke bedspread
-	Ein Bett
-Weich soft
-Bild buy
-Malt ein Bild / is paiting a paiting
-Kopfkissen pillow
-	Mein Kopfkissen ist sehr Weich - my pillow is too soft
-
-\Pflanzen plant
-Mehrfamilienhaus - apartment building \
-Warum ist Unsere Wohnzimmer Schmutzig / why is our living room is so dirty
-
-Regnet es schon it rain already 
-Das sind meine Leute / that is my people
-	**Das** - mean "this" or "that"
-	**meine** - possessive pronoun for "my" in plural form
-	**sind** - is the plural form of the verb "to be" (sein)
-
- Es gibt nur eine Trepee im Mehrfamilienhaus - There is only one staircase in the apartment building
-	 Es gibt - there is / there are
-	 nur only
-
-Dann - then 
-Essen gehen - eating out
-von - from
-von deinen Eltern - from your parent
-
 
