@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "216c9c9c0f0097c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md"
               }
             }
           },
@@ -190,11 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "14eb5a12c735c9fa",
+  "active": "216c9c9c0f0097c8",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",

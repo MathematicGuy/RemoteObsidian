@@ -32,3 +32,7 @@ Try cleaning-up your local repository with:
 git gc --prune=now
 git remote prune origin
 ```
+
+
+Spring Data -> automatically simple CRUD operation
+
