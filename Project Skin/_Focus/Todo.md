@@ -3,10 +3,10 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] ML and DM Revision
-	- [ ] Classification Decision Tree
-	- [ ] SVM Preparation
-- [ ] Classification KNN 
+- [ ] Connect Docker MSSQL
+- [ ] Connect Docker PostgresSQL
+- [ ] Java Practice
+- [ ] Snake Game using Neural Network Overview
 
 
 #Todo/GoalsThisWeek
