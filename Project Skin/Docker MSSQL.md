@@ -27,3 +27,18 @@ public interface RunRepository extends ListCrudRepository<Run, Integer> {
     List<Run> findAllByLocation(String location);  
 }
 ```
+\
+```
+# using docker we don't need to set up db in application.properties  
+services:  
+  postgres:  
+    image: 'postgres:latest'  
+    environment:  
+      POSTGRES_DB: ProjectOne  
+      POSTGRES_USER: sa  
+      POSTGRES_PASSWORD: password  
+    ports:  
+      - '5432:5432' # docker host port : container port  
+#    volumes:  
+#      - postgres-data:/va
+```
