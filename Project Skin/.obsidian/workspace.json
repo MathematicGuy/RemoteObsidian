@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65b4632d83dc37dd",
+        "id": "2dc9ebfe3779dc1e",
         "type": "tabs",
         "children": [
           {
-            "id": "650ff5f8d7c5b0b2",
+            "id": "f68ac40dc2390f33",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "650ff5f8d7c5b0b2",
+  "active": "f68ac40dc2390f33",
   "lastOpenFiles": [
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
