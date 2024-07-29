@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2dc9ebfe3779dc1e",
+        "id": "3a343ecd5a1c9a73",
         "type": "tabs",
         "children": [
           {
-            "id": "f68ac40dc2390f33",
+            "id": "071ecbdd352081cc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c124308220bcf259",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,10 +195,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f68ac40dc2390f33",
+  "active": "c124308220bcf259",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
+    "Full Stack Java.md",
+    "Pasted image 20240729154038.png",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -214,7 +221,6 @@
     "Pasted image 20240723001047.png",
     "Pasted image 20240723001031.png",
     "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 1m26s].png",
-    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x538 - 1m17s].png",
     "2 ACTIONS/Workout/Workout Goals.md",
     "2 ACTIONS/Workout/Workout.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
@@ -226,8 +232,6 @@
     "3 RESOURCES/Programming/Python.md",
     "Stress-Free Productivity.md",
     "3 RESOURCES/Web/Learn Web Developement/Web.md",
-    "3 RESOURCES/Web/Web.md",
-    "How to build a web application in Java.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
@@ -246,7 +250,4 @@
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "4 ARCHIVES/2024/Club/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas"
-  ]
-}
+    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas
