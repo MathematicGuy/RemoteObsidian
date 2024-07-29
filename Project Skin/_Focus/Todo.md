@@ -10,8 +10,10 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #Todo/GoalsThisWeek
-
-
+Was Ich Mir Zum Geburtstag Wünsche:
++ Weight Vet +++++ 
++ Rain Coat +++
++ Sun Screen ++
 
 **Daily Plan**
 

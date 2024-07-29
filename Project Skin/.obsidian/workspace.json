@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "945f0d8eb33bfe53",
+        "id": "b2b006d01e39b589",
         "type": "tabs",
         "children": [
           {
-            "id": "6dbbb6aeb653e265",
+            "id": "14eb5a12c735c9fa",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6dbbb6aeb653e265",
+  "active": "14eb5a12c735c9fa",
   "lastOpenFiles": [
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
