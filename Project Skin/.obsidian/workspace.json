@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60d00b966322812d",
+        "id": "0a4c246144c43599",
         "type": "tabs",
         "children": [
           {
-            "id": "a10a321fe4fea5b3",
+            "id": "99c6808886e2123f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9dba31c412b0cd9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker MSSQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker MSSQL.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker MSSQL.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker MSSQL.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,10 +190,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9dba31c412b0cd9f",
+  "active": "99c6808886e2123f",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Docker MSSQL.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
