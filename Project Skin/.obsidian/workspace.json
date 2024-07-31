@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ffd3d4350fa51da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Classification Techniques.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Spaces/Classification Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Spaces/Classification Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Spaces/Classification Techniques.md"
               }
             }
           },
@@ -190,10 +204,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8deae91dcf3b2ee2",
+  "active": "ffd3d4350fa51da2",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "_Focus/Todo.md",
+    "Spaces/Classification Techniques.md",
+    "Neural Network.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "Spaces/German Dative Case.md",
     "Docker MSSQL.md",
@@ -203,8 +220,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
-    "Spaces/Classification Techniques.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "House of Hypertrophy.md",
@@ -227,7 +242,6 @@
     "3 RESOURCES/Save for later/Save for later.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "3 RESOURCES/Programming/Python.md",
-    "Stress-Free Productivity.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
