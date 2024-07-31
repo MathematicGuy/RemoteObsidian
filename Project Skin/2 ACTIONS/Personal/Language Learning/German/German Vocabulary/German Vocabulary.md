@@ -2270,3 +2270,11 @@ Bild paiting
 Kissen pillow
 
 Bettdecke - bedspread 
+Wohne zu zurzeit allein - do you currently living alone
+
+### Junior macht Sport
+Idee idea
+Schlüssel kez
+Können wir jetzt gehen ? can we go now
+Du kannst das - you can do it
+Läulft runWW

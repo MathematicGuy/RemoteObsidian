@@ -21,7 +21,8 @@
 		$\lambda = 3$
 		$\mathbf{v} = (1, 1)$
 	+ for the third, we get (2.-1 + 1.2) and (0.-1 + 3.2) == (0, 6). We don't have $\lambda$ because the vector don't transform in the same direction.
-	
+
+This also called: **Eigenvalue Decomposition** (ED)
 + From 2 Example above know that Matrix A * Eigenvectors (v1) = Eigenvalue (of A) * Eigenvector (v1)
 	![[Pasted image 20240619143810.png]]
 + **This work show that we can optimize Matrix Multiplication using eigenvalue and eigenvectors.** (eigenvalue and eigenvectors goes in pair)  

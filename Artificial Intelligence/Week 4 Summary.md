@@ -244,3 +244,11 @@ note: Xem lại nguồn gốc Eigenvectors
 	![[Pasted image 20240703220700.png]]
 	![[Pasted image 20240709160440.png]]
 
+More:
+https://ranasinghiitkgp.medium.com/principal-component-analysis-pca-with-code-on-mnist-dataset-da7de0d07c22
+	https://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
+https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix
+
+
+https://www.kaggle.com/code/jonathankristanto/experimenting-with-pca-on-mnist-dataset

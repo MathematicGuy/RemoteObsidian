@@ -1,8 +1,17 @@
 ![[so-huu-ti-la-gi-3.webp]]
+![[1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg]]
+`\`  without sign. 
+So $X∖{x}$ means "the set X without the point x", ($X_R x$: X without x)
+
+-4x - 12x^2 - 32
+
+
 **Số Nguyên** 
 >Mọi số 
 
-**Số Tự Nhiên**
+**Số Tự Nhiên- ![](blob:https://lc.multicampus.com/0596648e-6d41-41e5-852c-c38cc19d8208)
+    
+    Notice**
 > Từ 0 -> dương vô 
 
 **Số Hữu Tỉ** (a / b)

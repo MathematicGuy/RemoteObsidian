@@ -29,7 +29,6 @@ Distance from the point to
 >After all the points are in clusters, let calc the mean value (centroid of a cluster)
 ![[Pasted image 20240605171346.png]]
 
-
 **Step 5:** Calculate the Mean of each cluster (Centroid of each cluster)
 > Calc by sum up all the points and dividing by the number of points.
 ![[Pasted image 20240605171645.png]]
@@ -66,7 +65,7 @@ To find the best K, we need to find the 'elbow plot'
 
 Compare the distance of another point to 2 clusters. Choose the cluster with smaller distant to the point.
 ![[Pasted image 20240717154003.png]]
-Then, add the point to the closer Cluster. 
+Then, add the point to the Closer Cluster. 
 ![[Pasted image 20240717155109.png]]
 Do the same for the 4th value pair. Add 4 to Cluster 1
 ![[Pasted image 20240717155139.png]]
@@ -80,7 +79,6 @@ Continue the same, we got the result for Cluster 1 and 2
 4.	Again recluster every point based on distance with adjusted centroid
 5.	Reiterate until data points stop changing cluster
 6.	Again adjust centroids
-
 
 
 Chia cụm rồi gộp cụm 

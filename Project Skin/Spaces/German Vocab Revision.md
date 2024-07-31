@@ -584,3 +584,5 @@ Unsere Mikrowelle ist zu alt / our microwave is too old
 Die Küche ist noch Schmutzig - the kitchen is still dirty
 
 
+Hast du eine Küche oder nur mikrowelle 
+Ich brauche nur essen, wasser und fußball

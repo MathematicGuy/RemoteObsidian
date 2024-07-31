@@ -190,12 +190,11 @@ Problem: giá trị trên x và y giống nhau nhưng khi nhìn thì rõ ràng c
 >They look the same as the Covariance of X and Y, but now depended on both of X and Y.
 ![[Pasted image 20240702220612.png]]
 + n - 1: mean every point except the center (0, 0) point. Because we are alignning all others points to it. 
-a
+
 ![[Pasted image 20240702220705.png]]
 
 
-> Reason for Neg and Pos Cov(X, Y) => -X * Y -> - Cov(X, Y) and the Same for Y
-
+> Reason for Neg and Pos Cov(X, Y) => -X * Y -> - Cov(X, Y) and the Same for Y]
 ![[Pasted image 20240702221416.png]]
 
 # Covariance Matrix  (Ma Trận Hiệp Phương Sai)
@@ -208,10 +207,11 @@ a
 >This truly is just a matrix of covariances between variables.  
 >Cov(x, x) mean distance between 2 point x and x itself.  
 ![[Pasted image 20240703114939.png]]
+
 ### Rewrite the Covariance in Matrix form
 Using A and $\mu$. 
 + A: represent a array of x and y
-+ $\mu$: represent a array of $\mu_{x}$ and  $\mu_{y}$
++ $\mu$: represent a array of $\mu_{x}$ and  $\mu_{y}$ (Mean_x and Mean_y)
 + ? Notice that we have to Tranpose the First $(A - \mu)^T$ so we can apply Matrix Multiplication (or dot product)
  ![[Pasted image 20240703115536.png]]
 **Write it all down, we end up with**
@@ -257,6 +257,7 @@ Cov(y, x) & Cov(y, y)
 \end{bmatrix} 
 $$
 +  $\Leftrightarrow$  mean "the same as"
+
 ## To Conclude the Matrix Fomula is
 $$
 A - \mu = \begin{bmatrix} x_1 - \mu_x & y_1 - \mu_y \\ \vdots & \vdots \\ x_n - \mu_x & y_n - \mu_y \end{bmatrix} \quad C = \frac{1}{n-1} (A - \mu)^\top (A - \mu)

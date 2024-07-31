@@ -22,31 +22,15 @@
             }
           },
           {
-            "id": "76424a8bf8d7dac0",
+            "id": "843dd0833bea62d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIC - Artificial Intelligence Foundations Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "713be84648507f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K-Means Clustering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K-Means Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K-Means Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "K-Means Clustering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,44 +177,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "713be84648507f50",
+  "active": "843dd0833bea62d6",
   "lastOpenFiles": [
-    "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "2 ACTIONS/_Focus.md",
+    "SIC - Machine Learning.md",
+    "SIC Day 1 - Mathematic in Data Science.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "Week 4 Summary.md",
+    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+    "Eigenvalues and Eigenvectors.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Principal Component = Eigenvectors.md",
+    "Example of Finding Eigenvectors and Eigenvalues.md",
+    "Motivating PCA.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Evaluation metrics.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "Linear Regression.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
     "K-Means Clustering.md",
+    "Snake AI.md",
+    "1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg",
+    "SIC - Statistical Hypothesis Testing.md",
+    "1 PROJECTS/SIC/SIC - AI Intro.md",
+    "3 RESOURCES/Templates/SIC - Header.md",
+    "1 PROJECTS/SIC/SIC.md",
+    "Pasted image 20240730113612.png",
+    "Pasted image 20240730104647.png",
+    "Pasted image 20240730104510.png",
+    "Pasted image 20240730113435.png",
+    "Pasted image 20240730113414.png",
+    "Pasted image 20240730113305.png",
+    "Pasted image 20240730104737.png",
+    "Pasted image 20240730113002.png",
+    "Pasted image 20240730112920.png",
+    "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Clustering.md",
     "PCB Anomally Detection.md",
-    "PCB defects detection using YOLOv5.md",
-    "Derivative and Optimization Test.md",
-    "Pasted image 20240724171901.png",
-    "Pasted image 20240724171840.png",
-    "Calculus_Derivative.md",
-    "Calculus_Optimization.md",
-    "Pasted image 20240724153121.png",
-    "Pasted image 20240724152802.png",
-    "Pasted image 20240724152739.png",
-    "Pasted image 20240724152734.png",
-    "Pasted image 20240724152725.png",
-    "Pasted image 20240724152719.png",
-    "Pasted image 20240724152705.png",
-    "Pasted image 20240724152700.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
-    "Gradient Descent, how neural network learn.md",
-    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
-    "3 RESOURCES/Artificial Intelligent/General AI/What is Neural Network.md",
-    "Building a neural network FROM SCRATCH.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Optimization.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "Normalization & Standardization.md",
-    "elbow method.md",
-    "1 PROJECTS/SIC/SIC - AI Intro.md",
-    "1 PROJECTS/SIC/SIC.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
-    "3 RESOURCES/Artificial Intelligent/General AI/Why Neural Networks can learn (almost) anything.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/introduction to numpy array.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",

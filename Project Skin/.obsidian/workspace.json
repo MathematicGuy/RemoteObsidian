@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a4c246144c43599",
+        "id": "fa45e0970716b989",
         "type": "tabs",
         "children": [
           {
-            "id": "99c6808886e2123f",
+            "id": "8deae91dcf3b2ee2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,13 +190,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "99c6808886e2123f",
+  "active": "8deae91dcf3b2ee2",
   "lastOpenFiles": [
-    "Docker MSSQL.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Dative Case.md",
+    "Docker MSSQL.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Full Stack Java.md",
     "Pasted image 20240729154038.png",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -227,7 +228,6 @@
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "3 RESOURCES/Programming/Python.md",
     "Stress-Free Productivity.md",
-    "3 RESOURCES/Web/Learn Web Developement/Web.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

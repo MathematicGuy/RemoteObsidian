@@ -20,7 +20,7 @@ Was Ich Mir Zum Geburtstag Wünsche:
 
 
 #Todo/GoalsThisMonth
-
+- [ ] Learn German Direct and Indirect case
 
 
 

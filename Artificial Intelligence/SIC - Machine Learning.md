@@ -15,3 +15,7 @@ Các loại học
 
 Estimator: đối tượng có thể phù hợp vs tập dự liệu 
 ![[Pasted image 20240624203503.png]]
+
+
+Cùng Phương (cùng mặt phẳng)
+Cùng Hướng -> hướng
