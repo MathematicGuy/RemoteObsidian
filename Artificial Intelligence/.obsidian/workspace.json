@@ -25,12 +25,40 @@
             "id": "843dd0833bea62d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "K-Means Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fdffdcb3c287125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccacc42773f94f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 4 Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md"
+              }
             }
           },
           {
@@ -177,26 +209,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "843dd0833bea62d6",
+  "active": "6fdffdcb3c287125",
   "lastOpenFiles": [
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "Eigenvalues and Eigenvectors.md",
+    "K-Means Clustering.md",
     "2 ACTIONS/_Focus.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
+    "Week 4 Summary.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Principal Component = Eigenvectors.md",
     "SIC - Machine Learning.md",
     "SIC Day 1 - Mathematic in Data Science.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-    "Week 4 Summary.md",
     "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
-    "Eigenvalues and Eigenvectors.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Principal Component = Eigenvectors.md",
     "Example of Finding Eigenvectors and Eigenvalues.md",
     "Motivating PCA.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Evaluation metrics.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
     "Linear Regression.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
-    "K-Means Clustering.md",
     "Snake AI.md",
     "1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg",
     "SIC - Statistical Hypothesis Testing.md",
@@ -214,7 +247,6 @@
     "Pasted image 20240730112920.png",
     "SIC - Artificial Intelligence Foundations Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Clustering.md",
-    "PCB Anomally Detection.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",
