@@ -220,6 +220,11 @@ Now you have achieve the API Layer with the Service Layer. In Which the API Laye
 ![[Pasted image 20240801140414.png]]
 
 
+```txt
+# host    all             all             127.0.0.1/32            scram-sha-256
+# host    all             all             ::1/128                 scram-sha-256
+
+```
 # Properties File
 > Let connect to the Database
 
