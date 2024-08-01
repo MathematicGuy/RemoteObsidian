@@ -68,3 +68,7 @@ output >> Run[id=1, title=First run, startedOn=2024-07-15T15:39:33.076377100, co
 # Module 2: REST API
 ![[Pasted image 20240715161616.png]]
 Run Application -> Open up the WebBrowser by clicking the internet symbol inside Actuator. 
+
+
+
+# Module 5c: Rest Clients
