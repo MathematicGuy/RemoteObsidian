@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e481b5f10bb3e7b",
+        "id": "581532cee4980e82",
         "type": "tabs",
         "children": [
           {
-            "id": "d04743f6ae9b6d0e",
+            "id": "3c623efa3497e1b5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,15 @@
             }
           },
           {
-            "id": "5b05dec66365e712",
+            "id": "2e8dff5d7464f850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52071284e080a3db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,11 +195,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52071284e080a3db",
+  "active": "2e8dff5d7464f850",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
+    "German History.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Spaces/Classification Techniques.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Neural Network.md",
@@ -230,7 +210,6 @@
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Full Stack Java.md",
     "Pasted image 20240729154038.png",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
@@ -254,7 +233,6 @@
     "3 RESOURCES/Save for later/Excel.md",
     "3 RESOURCES/Save for later/Save for later.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
-    "3 RESOURCES/Programming/Python.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
