@@ -47,7 +47,7 @@ public enum Location {
 ```
 
 
-After that, we just call Run class (having get/set function integrated) in Application Class (our main class)  
+After that, we just call Run class (having get/set function integrated) in Application Class (our main class) 
 ```java
 
 public class Application {  

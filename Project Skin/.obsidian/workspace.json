@@ -26,8 +26,13 @@
             "id": "2e8dff5d7464f850",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Full Stack Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Full Stack Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Full Stack Java.md"
+              }
             }
           },
           {
@@ -197,6 +206,16 @@
   },
   "active": "2e8dff5d7464f850",
   "lastOpenFiles": [
+    "Pasted image 20240801140414.png",
+    "How to build a web application in Java.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "Full Stack Java.md",
+    "Pasted image 20240801131939.png",
+    "Pasted image 20240801132239.png",
+    "Pasted image 20240729154038.png",
+    "Pasted image 20240801130027.png",
+    "Pasted image 20240801130016.png",
+    "Pasted image 20240801130011.png",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
@@ -207,9 +226,6 @@
     "Neural Network.md",
     "Spaces/German Dative Case.md",
     "Docker MSSQL.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "Full Stack Java.md",
-    "Pasted image 20240729154038.png",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
@@ -220,19 +236,12 @@
     "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 10m34s].png",
     "Pasted image 20240723001409.png",
     "Pasted image 20240723001333.png",
-    "Pasted image 20240723001242.png",
-    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 10m01s].png",
-    "Pasted image 20240723001047.png",
-    "Pasted image 20240723001031.png",
-    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 1m26s].png",
     "2 ACTIONS/Workout/Workout Goals.md",
     "2 ACTIONS/Workout/Workout.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "[P2.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "3 RESOURCES/Save for later/Excel.md",
-    "3 RESOURCES/Save for later/Save for later.md",
-    "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
