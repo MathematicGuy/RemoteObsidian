@@ -252,3 +252,8 @@ https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix
 
 
 https://www.kaggle.com/code/jonathankristanto/experimenting-with-pca-on-mnist-dataset
+
+$$
+(\frac{4x \cot x^2}{\cos^2 x^2})
+$$
+

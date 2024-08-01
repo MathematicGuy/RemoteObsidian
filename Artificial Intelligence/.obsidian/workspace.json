@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d32a972e388d893",
+        "id": "b3edceb2bdff3fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5f452ab9f5703c",
+            "id": "50f3819219793f9c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "843dd0833bea62d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K-Means Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fdffdcb3c287125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccacc42773f94f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4 Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md"
+                "file": "2 ACTIONS/_Focus.md"
               }
             }
           },
@@ -209,21 +172,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6fdffdcb3c287125",
+  "active": "50f3819219793f9c",
   "lastOpenFiles": [
+    "Week 4 Summary.md",
+    "2 ACTIONS/_Focus.md",
+    "K-Means Clustering.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
     "Eigenvalues and Eigenvectors.md",
-    "K-Means Clustering.md",
-    "2 ACTIONS/_Focus.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
-    "Week 4 Summary.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Principal Component = Eigenvectors.md",
     "SIC - Machine Learning.md",
     "SIC Day 1 - Mathematic in Data Science.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
     "Example of Finding Eigenvectors and Eigenvalues.md",
     "Motivating PCA.md",

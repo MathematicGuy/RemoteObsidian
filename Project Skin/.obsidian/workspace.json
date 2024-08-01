@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa45e0970716b989",
+        "id": "8e481b5f10bb3e7b",
         "type": "tabs",
         "children": [
           {
-            "id": "8deae91dcf3b2ee2",
+            "id": "d04743f6ae9b6d0e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ffd3d4350fa51da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Classification Techniques.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Classification Techniques.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Classification Techniques.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Classification Techniques.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,11 +190,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ffd3d4350fa51da2",
+  "active": "d04743f6ae9b6d0e",
   "lastOpenFiles": [
+    "Spaces/Classification Techniques.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "_Focus/Todo.md",
-    "Spaces/Classification Techniques.md",
     "Neural Network.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
