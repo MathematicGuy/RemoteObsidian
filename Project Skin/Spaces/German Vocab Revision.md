@@ -586,3 +586,13 @@ Die Küche ist noch Schmutzig - the kitchen is still dirty
 
 Hast du eine Küche oder nur mikrowelle 
 Ich brauche nur essen, wasser und fußball
+
+Ich bin Schlaffen, Ist es noch früh / I am still sleepy, is it still early 
+
+
+Ohne without
+Nachtisch dessert
+	Das Schnitzel kostet fünfundzwanzig Dollar ohne Nachtisch
+
+Spaß fun
+	Das Universitat ist spaß, ich habe viele freunde in meiner Klasse
