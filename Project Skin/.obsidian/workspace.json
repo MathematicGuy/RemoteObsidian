@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51fbdeee4c0a285f",
+        "id": "09f9e6b103485274",
         "type": "tabs",
         "children": [
           {
-            "id": "0466e0bd7a2bc1be",
+            "id": "ecc8a7d7102a99d4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "83caf80e46a32b91",
+            "id": "874373ded8c52e32",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,9 +195,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "83caf80e46a32b91",
+  "active": "874373ded8c52e32",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
+    "3 RESOURCES/Git/Git.md",
     "How to build a web application in Java.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "JAVA Project SetUp.md",
@@ -221,8 +223,6 @@
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Neural Network.md",
     "Spaces/German Dative Case.md",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "3 RESOURCES/Git/Git.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "House of Hypertrophy.md",
