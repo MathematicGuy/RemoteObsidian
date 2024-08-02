@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d4d385c9c2cbf713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Full Stack Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Full Stack Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Full Stack Java.md"
               }
             }
           },
@@ -190,16 +204,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ed16695baaed2baa",
+  "active": "d4d385c9c2cbf713",
   "lastOpenFiles": [
+    "Pasted image 20240802152816.png",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "How to build a web application in Java.md",
+    "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
+    "_Focus/Todo.md",
     "Pasted image 20240802110758.png",
     "Pasted image 20240802110852.png",
     "Pasted image 20240802110509.png",
     "Pasted image 20240802110338.png",
     "Pasted image 20240802110340.png",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "_Focus/Todo.md",
     "Docker PostgresSQL.md",
     "Pasted image 20240802002218.png",
     "Pasted image 20240802002143.png",
@@ -226,7 +242,6 @@
     "House of Hypertrophy.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "2 ACTIONS/Workout/Workout Goals.md",
-    "2 ACTIONS/Workout/Workout.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

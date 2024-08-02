@@ -228,3 +228,5 @@ Now you have achieve the API Layer with the Service Layer. In Which the API Laye
 # Properties File
 > Let connect to the Database
 
+![[Pasted image 20240802152816.png]]
+
