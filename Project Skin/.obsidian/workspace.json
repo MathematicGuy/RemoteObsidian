@@ -26,8 +26,13 @@
             "id": "2a7cc5964fff5165",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "How to build a web application in Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to build a web application in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to build a web application in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to build a web application in Java.md"
+              }
             }
           },
           {
@@ -197,6 +206,7 @@
   },
   "active": "2a7cc5964fff5165",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
     "Docker PostgresSQL.md",
     "Pasted image 20240802002218.png",
@@ -206,7 +216,6 @@
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
     "How to build a web application in Java.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "JAVA Project SetUp.md",
     "Full Stack Java.md",
     "Pasted image 20240801162411.png",

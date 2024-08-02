@@ -71,4 +71,11 @@ Run Application -> Open up the WebBrowser by clicking the internet symbol inside
 
 
 
-# Module 5c: Rest Clients
+# Module 5: Rest Clients
+
+
+Proxy Factory: This factory _generates a class that extends the given super class and implements the given interfaces_.
+
+
+# Module 6: Testing
+
