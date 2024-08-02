@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09f9e6b103485274",
+        "id": "d9fe49ba8d1f0438",
         "type": "tabs",
         "children": [
           {
-            "id": "ecc8a7d7102a99d4",
+            "id": "5eb982abc7f0e816",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "874373ded8c52e32",
+            "id": "2a7cc5964fff5165",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,18 +195,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "874373ded8c52e32",
+  "active": "2a7cc5964fff5165",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Docker PostgresSQL.md",
+    "Pasted image 20240802002218.png",
+    "Pasted image 20240802002143.png",
+    "4 ARCHIVES/2024/CMC Spring 2024/introduction-to-postman-course-main/course-notes.md",
+    "3 RESOURCES/Web/FrontEnd/Docker.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git.md",
     "How to build a web application in Java.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "JAVA Project SetUp.md",
     "Full Stack Java.md",
-    "Docker PostgresSQL.md",
     "Pasted image 20240801162411.png",
-    "3 RESOURCES/Web/FrontEnd/Docker.md",
     "Docker MSSQL.md",
     "Pasted image 20240801140414.png",
     "Pasted image 20240801131939.png",
@@ -227,12 +230,8 @@
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "House of Hypertrophy.md",
     "2 ACTIONS/Workout/Calisthenics.md",
-    "Pasted image 20240723001740.png",
-    "House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 10m34s].png",
     "2 ACTIONS/Workout/Workout Goals.md",
     "2 ACTIONS/Workout/Workout.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
-    "[P2.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
