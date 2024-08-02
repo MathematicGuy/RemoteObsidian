@@ -176,6 +176,7 @@ class InMemoryRunRepositoryTest {
     }
 ```
 @Test allow you to test each of your Method.
+> JdbcRunRepositoryTest should act like a Controller. You call Methods and it show you the Method is running or not.
 ```java
     @Test
     void shouldFindAllRuns(){
