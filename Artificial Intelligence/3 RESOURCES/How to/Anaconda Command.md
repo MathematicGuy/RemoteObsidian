@@ -16,8 +16,7 @@ pip install -r requirements.txt
 
 **conda activate <environment_name>**
 
--   
-    Activates a specific environment. Example: `conda activate my_ml_env`
+- Activates a specific environment. Example: `conda activate my_ml_env`
     
 - **conda deactivate** Deactivates the current environment.
     
@@ -40,7 +39,7 @@ pip install -r requirements.txt
     Lists all packages installed within the current environment.
     
 - **conda search <package_name>** Searches for packages in the Anaconda repositories.
-    
+
 
 **Getting Information**
 

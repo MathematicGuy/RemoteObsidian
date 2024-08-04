@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b54c14b899c5290a",
+        "id": "a792a3fe17995392",
         "type": "tabs",
         "children": [
           {
-            "id": "5937a3b8aa4fe507",
+            "id": "1f62df41a7ac6e74",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ebbcda2057e8b2c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,14 +190,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ebbcda2057e8b2c2",
+  "active": "1f62df41a7ac6e74",
   "lastOpenFiles": [
-    "Full Stack Java.md",
+    "_Focus/Todo.md",
+    "React.md",
     "Pasted image 20240802152816.png",
+    "Full Stack Java.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "How to build a web application in Java.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
-    "_Focus/Todo.md",
     "Pasted image 20240802110758.png",
     "Pasted image 20240802110852.png",
     "Pasted image 20240802110509.png",
