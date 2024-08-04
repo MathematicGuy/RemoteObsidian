@@ -597,3 +597,5 @@ Nachtisch dessert
 Spaß fun
 	Das Universitat ist spaß, ich habe viele freunde in meiner Klasse
 
+Möchtest du ein Film sehen 
+Ich liebe die schuhe, es ist billig aber schön 
