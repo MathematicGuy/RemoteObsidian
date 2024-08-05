@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "5627a6ee6d185b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus_Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7fb9a32fa399b6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus_Derivative.md",
+                "file": "Gradient and Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus_Optimization.md",
+                "file": "Gradient and Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus_Optimization.md",
+                "file": "Gradient and Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus_Optimization.md"
+                "file": "Gradient and Gradient Descent.md"
               }
             }
           },
@@ -197,12 +185,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5627a6ee6d185b4e",
+  "active": "7fb9a32fa399b6d9",
   "lastOpenFiles": [
-    "Calculus_Derivative.md",
-    "Calculus_Optimization.md",
+    "Pasted image 20240805111837.png",
+    "Pasted image 20240805111707.png",
+    "Pasted image 20240805111648.png",
+    "Pasted image 20240805111430.png",
+    "Pasted image 20240805110505.png",
+    "Pasted image 20240805110428.png",
+    "Pasted image 20240805110156.png",
+    "Gradient and Gradient Descent.md",
+    "Pasted image 20240805110029.png",
+    "Pasted image 20240805105858.png",
+    "Pasted image 20240805105716.png",
+    "Pasted image 20240805104205.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Calculus_Derivative.md",
     "2 ACTIONS/_Focus.md",
+    "Calculus_Optimization.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "SIC - CapStrone Project.md",
     "3 RESOURCES/How to/Anaconda.md",
@@ -223,18 +223,6 @@
     "Example of Finding Eigenvectors and Eigenvalues.md",
     "Motivating PCA.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA Ideas notes.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Evaluation metrics.md",
-    "Linear Regression.md",
-    "1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg",
-    "Pasted image 20240730113612.png",
-    "Pasted image 20240730104647.png",
-    "Pasted image 20240730104510.png",
-    "Pasted image 20240730113435.png",
-    "Pasted image 20240730113414.png",
-    "Pasted image 20240730113305.png",
-    "Pasted image 20240730104737.png",
-    "Pasted image 20240730113002.png",
-    "Pasted image 20240730112920.png",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",

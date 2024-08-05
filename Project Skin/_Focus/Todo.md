@@ -3,17 +3,17 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Connect Docker MSSQL
-- [ ] Connect Docker PostgresSQL
-- [ ] Java Practice
-- [ ] Snake Game using Neural Network Overview
-
+- [ ] Java API Restful (Connect to Frontend)
+- [ ] SRS, POC and STD 
+- [ ] Week 2 Calculus
+- [ ] AI Homework
+- [ ] SIC Homework
 
 #Todo/GoalsThisWeek
-Was Ich Mir Zum Geburtstag Wünsche:
++ Sun Screen +++
 + Rain Coat +++
-+ Sun Screen ++
 
+\
 **Daily Plan**
 
 

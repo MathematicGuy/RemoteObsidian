@@ -1,4 +1,4 @@
-# Derivatives and Optimization
+# Week 1: Derivatives and Optimization
 **Machine Learning Motivation**
 ```ad-faq
 Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
@@ -6,5 +6,10 @@ Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 ```
 ## [[Calculus_Derivative]]
 ## [[Calculus_Optimization]]
+> [[Derivative and Optimization Test]]
 
-+ ? [[Derivative and Optimization Test]]
+
+# Week 2: Gradient and Gradient Descent
+> Learn function with 2 or more variable. 
+> Using Gradient Descent to Optimize functions.
+# [[Gradient and Gradient Descent]]
