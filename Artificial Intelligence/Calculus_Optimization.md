@@ -33,7 +33,7 @@ or Left
 ![[Pasted image 20240724124222.png]]
 
 ![[Pasted image 20240724124305.png]]
-> Help to find the Minimal value (position) between the original/current point to n other point. (n as  point number)
+> Help to find the Minimal value (position) between the original/current point to n other point. (n as  point number). Ex: Optimal position to 2 other positions.
 
 # Optimization of log-loss
 ## Optimization of log-loss Part 1

@@ -231,7 +231,7 @@ Let look at the house from the top
 + ? As $\Delta t$ come closer to 0. $\Delta g(t), \Delta h(t)$ become neligible (so small that it doesn't even matter). Well because it is the derivative (g' as the y' and h' as the x'). Thus we can simplified it into $$f'(t) = g'(t).h(t) + g(t).h'(t)$$
 
 ### The chain rule (Like product rule but it like Product of a Product)
-$$\frac{d}{dt}g(h(t)) = \frac{dg}{dg} . \frac{dh}{dt}$$ 
+$$\frac{d}{dt}g(h(t)) = \frac{dg}{dh} . \frac{dh}{dt}$$ 
 It call the chain rule bc you can composing function (hàm hợp) (put a function inside a function)
 ![[Pasted image 20240717101147.png]]
 + ? The Lagrange Notation
