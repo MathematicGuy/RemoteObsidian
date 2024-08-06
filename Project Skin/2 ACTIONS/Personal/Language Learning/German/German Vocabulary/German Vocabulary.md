@@ -1128,7 +1128,6 @@ dein Schrank - wardrobe / closet
 Kaufen - Buy
 	Ich muss neue Schal für das jobinterview am Montag kaufen (2nd verb go to the end)
 
-
 Muss (s / st / en) have to / must
 	Was musst du kaufen - what do you have to buy
 	Musst du neue Kleidung Kaufen - Do you have to buy new clothes?
@@ -1263,7 +1262,6 @@ Kommt der Zug um vier oder um fünf Uhr? (check for word structure)
 	Der zug kommt um halb fünf
 
 ### Unit 6: Guidebook
-
 Hunger hungry
 	Oh, habe du Hunger - oh, are you hungry
 	Ich habe Hunger (I have hungry) -> I am Hungry
@@ -1457,7 +1455,6 @@ Feiere - are celebrating
 	(Ich - Feiere, Sie - Feieren, Wir - feiern )
 	Wo Feiert Ihr heute geburtstag - where are you celebrating your birthday
 Hause - home
-
 
 Hast du im April oder im Mai Geburtstag?
 	Is your birthday in April or in May

@@ -25,6 +25,7 @@ $=> f(x,y) = 6xy^3$
 	![[Pasted image 20240805105858.png]]
 To Calculate the the function minimum, we **calc the Derivative of 2 variables and set it equal to 0.**
 	![[Pasted image 20240805110029.png]]
+
 ### Optimization with gradients: An example (in 3D)
 + $ $Motive: Find the **Coldest place in the Sauna Room**
 + ? The coldest place in the room is when every other direction you walk are hoter.
@@ -38,3 +39,20 @@ To Calculate the the function minimum, we **calc the Derivative of 2 variables a
 	+ $ Insert x, y back to the function, we see that x=4 and y=4 it the Minimum of the function. ![[Pasted image 20240805111837.png]]
 
 ### Optimization using Gradients - Analytical Method
+	![[Pasted image 20240805154215.png]]
++ ? find the partial derivative of E with respect to m (only dervi m; b constant)
++ ? find the partial derivative of E with respect to b (only dervi b; m constant)![[Pasted image 20240805155408.png]]
+Now we set both equal to 0. 
+
+Goal: Minimize sum of squares cost.
+multiply by 2.
+subtract to the first equation -> get m
+plug the answer back to the 2nd equation -> get b 
+![[Pasted image 20240805160346.png]]
+**This actually call Linear Regression: Optimal Solution**
+>Which use to solve a problem where you have a bunch of points and
+   you try to find the closest line to them
+![[Pasted image 20240805160427.png]]
++ ? Is there a easier way to do this => Gradient Descent 
+
+[[Partial Derivative and Gradient HW]]

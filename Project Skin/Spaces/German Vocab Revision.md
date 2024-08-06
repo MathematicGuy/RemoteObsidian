@@ -583,12 +583,10 @@ Die Blumen - flowers
 Unsere Mikrowelle ist zu alt / our microwave is too old
 Die Küche ist noch Schmutzig - the kitchen is still dirty
 
-
 Hast du eine Küche oder nur mikrowelle 
 Ich brauche nur essen, wasser und fußball
 
 Ich bin Schlaffen, Ist es noch früh / I am still sleepy, is it still early 
-
 
 Ohne without
 Nachtisch dessert
@@ -596,6 +594,6 @@ Nachtisch dessert
 
 Spaß fun
 	Das Universitat ist spaß, ich habe viele freunde in meiner Klasse
-
 Möchtest du ein Film sehen 
 Ich liebe die schuhe, es ist billig aber schön 
+

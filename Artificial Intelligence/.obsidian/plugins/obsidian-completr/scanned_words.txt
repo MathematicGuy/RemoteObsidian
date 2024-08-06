@@ -3413,6 +3413,7 @@ AFY
 Axv
 AQx
 AYY
+Analytical
 eigenbasis
 entirely
 eigenvectors
@@ -5062,6 +5063,8 @@ ikK
 iMMM
 iFJ
 iByUZ
+intend
+intent
 basis
 by
 because
@@ -5845,6 +5848,8 @@ blm
 bVQ
 blob
 bTTVb
+bot
+bunch
 for
 find
 factor
@@ -7402,6 +7407,9 @@ summarizes
 srYx
 smTnQ
 swO
+stories
+story
+squares
 consists
 can
 change
@@ -8331,6 +8339,7 @@ cyP
 cUp
 ctK
 cbY
+chatbot
 linear
 lambda
 left
@@ -11525,6 +11534,7 @@ aeO
 avD
 aiQ
 ahB
+action
 notate
 nhau
 normal
@@ -17770,6 +17780,8 @@ pzN
 prq
 pROD
 ppO
+partial
+plug
 You
 Yes
 YX
@@ -19044,6 +19056,7 @@ gXqM
 gLD
 gvD
 gGP
+goodbye
 Scalars
 Step
 Solution
@@ -20654,6 +20667,7 @@ rec
 rLN
 rFX
 rcS
+respect
 Non
 Need
 No
@@ -23198,6 +23212,7 @@ dhj
 dpK
 deS
 diagonal
+dervi
 From
 Find
 For
@@ -25211,6 +25226,7 @@ MsSzp
 Mor
 Maximizing
 MbYI
+Minimize
 using
 up
 until
@@ -25929,6 +25945,8 @@ uha
 uVW
 uAVy
 uEy
+undertstand
+user
 Recall
 Reference
 Redundant
@@ -28191,6 +28209,7 @@ IHzt
 Iomi
 IFM
 Intro
+Insert
 Prerequisite
 PCB
 Project
