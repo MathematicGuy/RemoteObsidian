@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca98fe22d9cee87",
+        "id": "6a0b0a847761997c",
         "type": "tabs",
         "children": [
           {
-            "id": "6227fcd12ea81f7b",
+            "id": "7cee785e81c9ab5a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9cde906ea47722a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,8 +190,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9cde906ea47722a4",
+  "active": "7cee785e81c9ab5a",
   "lastOpenFiles": [
+    "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/OOP CMC.md",
     "3 RESOURCES/Programming/OOP/OOP.md",
     "_Focus/Todo.md",
@@ -241,7 +228,6 @@
     "Spaces/German Dative Case.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "House of Hypertrophy.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
