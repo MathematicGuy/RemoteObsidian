@@ -1,4 +1,5 @@
 ## House of Hypertrophy
+
 Đây là 2 phương pháp tập hiệu quả và tối ưu nhất hiện nay mà t tìm đc trong thời gian tập Calisthenics. Dù t thất bại thử thách Plance nma :)) t vẫn thắng vì hiệu quả tập t đạt được 1 tháng tr'c còn giá trị hơn cả 2 tháng tr'c tr'c đó gộp lại.
 
 Phương pháp đầu: Lengthed Superset đơn giản sẽ giúp cậu tăng trưởng cơ bắp hơn trong thời gian ngắn hơn so vs phương pháp tập thông thường. Chỉ có phần khỏi động là giống nhau thoi
@@ -14,9 +15,8 @@ Phương pháp đầu: Lengthed Superset đơn giản sẽ giúp cậu tăng tr�
 **Pros:** Có được nhiều cơ bắp trong khoảng thời gian ngắn hơn, Thời gian tập ngắn -> giờ tập có thể linh hoạt, Tăng sức mạnh bộc phá và khả năng hồi phục.
 **Cons:** Khó, Cần có tâm lý tốt (tự thuyết phục bản thân khi đến giới hạn), Gây căng cơ, chóng mặt, tê cơ, có thể nôn ói, đau dạ dày vào những ngày đầu. Nhưng sẽ giảm bớt theo thời gian. 
 
-Phương Pháp còn tốt hơn cả phương pháp vừa rồi nữa. :)) Ai muốn thì cứ Nhích 
 
-
++ ! All Method is **Best When applying to Safe Excercise which focus on 1 Particular Muscle Group**.  Not for Weight Lifting, DeadLift, etc...Excercise that require Multiple Muscle Group. ([Evident](https://www.youtube.com/watch?v=xW79HPiyidk)) 
 ### [43.3% More Muscle Growth](https://www.youtube.com/watch?v=vEKLzXDPoeU)
 + Review Basic Lengthened Superset.
 	Watch this before heading to the next

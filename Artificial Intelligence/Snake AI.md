@@ -312,4 +312,3 @@ Code Node:
 self.frame_iteration > 100*len(self.snake
 ```
 # Part 3: Implement Agent to Control Game
-

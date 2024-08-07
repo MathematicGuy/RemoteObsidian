@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1da09ba3b471dd1d",
+        "id": "68ad40b1301a605f",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ba95e9cd774c6b",
+            "id": "1387db3115f6484a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,12 +188,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3ba95e9cd774c6b",
+  "active": "1387db3115f6484a",
   "lastOpenFiles": [
+    "House of Hypertrophy.md",
+    "_Focus/Todo.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/OOP CMC.md",
     "3 RESOURCES/Programming/OOP/OOP.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "React.md",
@@ -227,7 +226,6 @@
     "Neural Network.md",
     "Spaces/German Dative Case.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

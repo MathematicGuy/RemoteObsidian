@@ -1,24 +1,20 @@
 
-## [[SIC - Artificial Intelligent]]
+#Priority
+- [ ] Snake AI Game
+- [ ] Calculus for Machine Learning
+- [ ] ML & DM HW (Try my best for she believe in me)
+- [ ] RASA ChatBot (for Friday Meeting)
 
-# [[Machine Learning]]
+
+## [[Machine Learning]]
 
 ## [[Mathematics for Machine Learning - MML]]
 
-### [[Numpy]]
-### [[Numpy Doc]]
+## [[SIC - Artificial Intelligent]]
 
-### [[Python]]
-
-
-[[Good to Know]]
-
-set-up anaconda
-install android studio
-install IntelliJ
 
 ![[Pasted image 20240611193343.png]]
 
-satanophany
+Satanophany
 ![[1721044101552 1.jpg]]
 
