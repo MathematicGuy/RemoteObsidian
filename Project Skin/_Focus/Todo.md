@@ -10,8 +10,7 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] SIC Homework
 
 #Todo/GoalsThisWeek
-+ Sun Screen +++
-+ Rain Coat +++
+- [ ] Optimized Thinking: Don't make thing more complicated. Remove un-important task 
 
 \
 **Daily Plan**
