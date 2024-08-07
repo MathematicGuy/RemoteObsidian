@@ -9,8 +9,6 @@ tags: OOP
 ![[Pasted image 20230704080641.png]]
  A Car: Have Properties like color and type, Method like Start(), Move() and Stop().
 
-
-  
 # Foundation of OOP 
 > Tính chất và Nền Tảng của Hướng Đối Tượng.
 

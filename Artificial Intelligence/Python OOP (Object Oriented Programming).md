@@ -42,3 +42,6 @@ print(example)
 ```
 + ? The `__init__` method initializes attribute1 and attribute2 when an instance of ExampleClass is created.
 + ? The `__repr__` method provides a string representation of the instance
+
+
+
