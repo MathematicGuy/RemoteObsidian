@@ -597,3 +597,16 @@ Spaß fun
 Möchtest du ein Film sehen 
 Ich liebe die schuhe, es ist billig aber schön 
 
+Kaffee Machen - make a coffee
+Loht's geht 
+
+Dann gehe ich mich waschen / then I go to wash my self
+	Dann then
+	Waschen wash
+
+
+Frühsport - morning sport
+Anziehen - wear
+	Jean Anziehen - put on jean / wear jean
+	Get Anziehen / get dressed
+	Hose Anziehen / put on trousers

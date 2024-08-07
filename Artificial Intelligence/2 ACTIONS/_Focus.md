@@ -21,3 +21,4 @@ install IntelliJ
 
 satanophany
 ![[1721044101552 1.jpg]]
+

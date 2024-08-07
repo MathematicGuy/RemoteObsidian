@@ -20,17 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0b6ea49b7b4f3ecb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 ACTIONS/_Focus.md"
+              }
             }
           },
           {
@@ -177,27 +172,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b6ea49b7b4f3ecb",
+  "active": "37f507b3c7967fd9",
   "lastOpenFiles": [
+    "Principal Component Analysis Algorithm.md",
+    "Machine Learning and Data Science Revision.md",
+    "How to Download Linux.md",
     "2 ACTIONS/_Focus.md",
+    "Pasted image 20240806155711.png",
+    "Pasted image 20240806155608.png",
+    "Pasted image 20240806155237.png",
+    "Pasted image 20240806155204.png",
+    "Pasted image 20240806155145.png",
+    "Pasted image 20240806155134.png",
+    "Bisecting K-Means Clustering.md",
+    "Pasted image 20240806154948.png",
+    "Pasted image 20240806133609.png",
+    "Pasted image 20240806133533.png",
+    "Pasted image 20240806133328.png",
+    "Pasted image 20240806130826.png.~tmp",
+    "Decision Analysis.md",
+    "SVD Singular Value Decomposition in Dimensionality Reduction.md",
+    "3 RESOURCES/CMC/Artificial Intelligent Revision.md",
+    "SVD.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Partial Derivative and Gradient HW.md",
-    "Pasted image 20240805165039.png",
-    "Pasted image 20240805165014.png",
-    "Pasted image 20240805164711.png",
-    "Pasted image 20240805164704.png",
     "Gradient and Gradient Descent.md",
-    "Pasted image 20240805164011.png",
-    "Pasted image 20240805164006.png",
-    "Pasted image 20240805160427.png",
-    "Pasted image 20240805160346.png",
-    "Pasted image 20240805155408.png",
-    "Pasted image 20240805154215.png",
     "SIC - CapStrone Project.md",
     "K-Means Clustering.md",
     "K-nearest neighbor.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Calculus_Derivative.md",
     "Calculus_Optimization.md",
     "1 PROJECTS/SIC/SIC.md",
@@ -206,14 +210,6 @@
     "Week 4 Summary.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
-    "Eigenvalues and Eigenvectors.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Principal Component = Eigenvectors.md",
-    "SIC Day 1 - Mathematic in Data Science.md",
-    "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
-    "Example of Finding Eigenvectors and Eigenvalues.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",
@@ -222,7 +218,6 @@
     "4 ARCHIVES/Stups",
     "Spaces",
     "4 ARCHIVES/ML Project/Image Compression using PCA",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning",
-    "1 PROJECTS/SIC"
+    "1 PROJECTS/Coursera Mathematic for Machine Learning"
   ]
 }

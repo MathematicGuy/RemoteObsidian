@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27cd5ac4628aae28",
+        "id": "d04fb2d9f573addd",
         "type": "tabs",
         "children": [
           {
-            "id": "8205d776ee4eb0a1",
+            "id": "ec5a0a4be0a7a425",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "aed78f8e2c76837e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -195,11 +190,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aed78f8e2c76837e",
+  "active": "ec5a0a4be0a7a425",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "_Focus/Todo.md",
     "React.md",
     "Pasted image 20240802152816.png",
     "Full Stack Java.md",
