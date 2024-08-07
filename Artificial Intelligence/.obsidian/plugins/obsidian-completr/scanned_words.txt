@@ -771,6 +771,7 @@ Efv
 Eddf
 EuO
 EeF
+ExampleClass
 the
 that
 transformation
@@ -1487,6 +1488,7 @@ tzi
 tjy
 tJqb
 twazj
+thinki
 original
 of
 operator
@@ -3471,6 +3473,8 @@ Aye
 AXC
 AfN
 Arch
+Attributes
+Accessing
 eigenbasis
 entirely
 eigenvectors
@@ -5133,6 +5137,7 @@ intra
 izbT
 itt
 iIt
+initializes
 basis
 by
 because
@@ -6614,6 +6619,7 @@ fjayE
 fGXv
 fXI
 fjMM
+functionality
 space
 say
 same
@@ -7510,6 +7516,7 @@ stE
 sCF
 saC
 splitting
+sub
 consists
 can
 change
@@ -8451,6 +8458,8 @@ cic
 cvv
 cxx
 convergence
+calling
+command
 linear
 lambda
 left
@@ -9167,6 +9176,7 @@ liWq
 leaf
 lCW
 lvLNN
+libs
 matrix
 multiply
 multiplied
@@ -9995,6 +10005,7 @@ mMM
 mXG
 moB
 mrr
+module
 The
 This
 To
@@ -10812,6 +10823,7 @@ Time
 TVIee
 TxOG
 Turtorial
+Terminal
 after
 and
 as
@@ -12394,6 +12406,7 @@ nkJV
 nSH
 nDCm
 nTU
+nutshell
 Change
 Class
 Comunity
@@ -13171,6 +13184,13 @@ CNv
 Caa
 CsA
 Command
+Conda
+CUDA
+Car
+Classes
+Core
+Constructing
+CODE
 Basis
 Both
 Board
@@ -13863,6 +13883,7 @@ Bjj
 Bzj
 BXQV
 BGg
+Blueprint
 Using
 Understand
 Unique
@@ -17999,6 +18020,7 @@ partial
 plug
 pAt
 paYx
+pieces
 You
 Yes
 YX
@@ -20167,6 +20189,8 @@ Sey
 SsD
 SDl
 SyLN
+Setup
+Staffs
 result
 reduced
 repeated
@@ -25523,6 +25547,10 @@ MARx
 MTT
 MNN
 Mbz
+Modules
+Manager
+Main
+Module
 using
 up
 until
@@ -27045,6 +27073,7 @@ Recursively
 RUY
 Rsb
 Rufus
+Requirements
 Or
 One
 Our
@@ -27736,6 +27765,8 @@ OlXc
 ODR
 OGm
 Ocjr
+OOPs
+Objects
 IntelliJ
 Isolation
 Interactive
@@ -29294,6 +29325,7 @@ PrDG
 PZR
 PXPdV
 Pww
+Push
 Defecs
 Defects
 Dataset

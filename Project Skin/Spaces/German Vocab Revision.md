@@ -610,3 +610,11 @@ Anziehen - wear
 	Jean Anziehen - put on jean / wear jean
 	Get Anziehen / get dressed
 	Hose Anziehen / put on trousers
+
+Ich machen für uns Abendessen / I will make dinner for us 
+
+
+Kissen pillow
+	Mir geffällt das Kissen, Kann ich es kaufen
+
+Nur eine Treppe im Mehrfamilienhaus - only one Staircase in the department building

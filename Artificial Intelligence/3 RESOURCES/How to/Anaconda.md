@@ -1,4 +1,3 @@
-
 Install with **pip vs conda**
 ```ad-info
 **pip:**
@@ -14,3 +13,4 @@ Install with **pip vs conda**
 [[Anaconda Command]]
 
 [[Setup Anaconda Guide]]
+

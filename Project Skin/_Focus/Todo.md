@@ -4,7 +4,7 @@ banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
 - [ ] Java API Restful (Connect to Frontend)
-- [ ] SRS, POC and STD 
+- [ ] Hoàn Thành Nốt SDD
 - [ ] Week 2 Calculus
 - [ ] AI Homework
 - [ ] SIC Homework

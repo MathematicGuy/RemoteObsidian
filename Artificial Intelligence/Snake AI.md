@@ -45,4 +45,26 @@ State (11 values)
 
 
 # Part 2: Set up enviroment and implement snake game
-w
+
+0) Download and Setup Conda and CUDA
+```sh
+conda create -n snake-ai python=3.9
+conda activate snake-ai
+```
+1) Download Requirements from requirement file
+
+>requirements.txt
+```txt
+pygame
+torch
+torchvision
+mathplotlib
+ipython
+```
+
+>Terminal 
+```sh
+pip install -r requirements.txt
+```
+
+[[Python OOP (Object Oriented Programming)]]

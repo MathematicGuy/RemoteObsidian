@@ -45,10 +45,10 @@ pip install -r requirements.txt
 
 - **conda info**  
     Displays general information about your Anaconda installation.
-    
+	
 - **conda info --envs**  
     Displays information specifically about your environments.
-    
+
 
 **Additional Useful Commands**
 
@@ -56,3 +56,10 @@ pip install -r requirements.txt
     Exports the current environment requirements to a YAML file, useful for reproducibility.
     
 - **conda env create -f environment.yml** Creates a new environment from a YAML specification file.
+
+
+**Push libs from conda env to requirements.txt file**
+```sh
+conda list -e > requirements.txt
+```
+

@@ -2237,6 +2237,7 @@ Eine Bettdecke bedspread
 Weich soft
 	Die/Das Kopfkissen/Bett ist Weich und bequem - the pillow/bed is soft and comfortable
 
+
 Bild buy
 Malt ein Bild / is paiting a paiting
 Kopfkissen pillow
@@ -2269,10 +2270,17 @@ Kissen pillow
 Bettdecke - bedspread 
 Wohne zu zurzeit allein - do you currently living alone
 
-### Junior macht Sport
+### Junior macht Sport - Junior like Excercise
 Idee idea
 Schlüssel kez
 Können wir jetzt gehen ? can we go now
 Du kannst das - you can do it
 Läulft run
++ ! End of Stories
 
+### Wo sind meine Schlüssel - where is my Keys
+Einem Schönen Restaurant - a nice restaurant
+Motorradschlüssel - motocycle keys
+	Schlüssel keys
+	Motorrad motocycle
+	
