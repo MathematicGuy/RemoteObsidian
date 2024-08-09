@@ -1,7 +1,5 @@
 
 #Priority
-- [ ] Snake AI Game
-- [ ] Calculus for Machine Learning
 - [ ] ML & DM HW (Try my best for she believe in me)
 - [ ] RASA ChatBot (for Friday Meeting)
 

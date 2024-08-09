@@ -4,17 +4,15 @@ banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
 - [ ] Java API Restful (Connect to Frontend)
-- [ ] Hoàn Thành Nốt SDD
 - [ ] Week 2 Calculus
 - [ ] AI Homework
 - [ ] SIC Homework
+
 
 #Todo/GoalsThisWeek
 - [ ] Optimized Thinking: Don't make thing more complicated. Remove un-important task 
 
 \
-**Daily Plan**
-
 
 
 #Todo/GoalsThisMonth

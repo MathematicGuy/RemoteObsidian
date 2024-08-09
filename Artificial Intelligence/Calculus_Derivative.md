@@ -1,3 +1,5 @@
+> Derivative represent a Slope and Calculate the Rate of Change of values  
+
 Given a classification problem, we got the graph below. Say we want to classified a region for sad and happy.
 ![[Pasted image 20240710074612.png]]
 ![[Pasted image 20240710074806.png]]

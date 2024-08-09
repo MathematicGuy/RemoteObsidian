@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-Wir sehen ins Kino ein Film
+rmWir sehen ins Kino ein Film
 
 ### **Unit 1: Order in a cafe, describe your family**
 
@@ -1001,7 +1001,7 @@ Von - from
 Noun
 	Wohnung apartment
 	 der Stuhl  chair
-	 dereee Tisch  table
+	 den Tisch  table
 	 das Bett 
 Adjective 
 	Hässlich ugly 
@@ -1073,9 +1073,11 @@ Badezimmer bath room
 Wohnzimmer living room
 
 
-Tisch table
-Der Stuhl - the chair
+Den Tisch table
+Der Stühl - the chair
 	Der Mann hebt den Stuhl - The Men lift the chair (den used for maculine noun in the nominative case)
+Der Stühle - chairs (char in plural form)
+
 Dunkel dark
 Hell bright
 Hässlich ugly
@@ -2283,4 +2285,6 @@ Einem Schönen Restaurant - a nice restaurant
 Motorradschlüssel - motocycle keys
 	Schlüssel keys
 	Motorrad motocycle
-	
+
+### Are Germans Too Direct ?
+Denkst du - do you think

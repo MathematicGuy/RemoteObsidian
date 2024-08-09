@@ -13,3 +13,4 @@ Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 > Learn function with 2 or more variable. 
 > Using Gradient Descent to Optimize functions.
 # [[Gradient and Gradient Descent]]
+
