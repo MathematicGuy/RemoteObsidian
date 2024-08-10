@@ -2156,7 +2156,7 @@ Unser - our
 Schwarz black
 	Meine Katze ist Schwarz und liebt Orangen 
 
-Vase vase
+Die/Eine Vase the vase
 Bücher - the books
 Sofa sodfa
 Der Külhschrank - the refrigerator 
@@ -2288,3 +2288,5 @@ Motorradschlüssel - motocycle keys
 
 ### Are Germans Too Direct ?
 Denkst du - do you think
+
+Endet - Does 
