@@ -1,9 +1,10 @@
 
-#Priority
-- [ ] ML & DM HW (Try my best for she believe in me)
-- [ ] RASA ChatBot (for Friday Meeting)
-
-
+#Priorit
+- [ ] Coursera Calculus Gradient Descent
+- [ ] RASA ChatBot (Deadline by Tomorrow Morning)
+- [ ] SIC HW Chapter 6 
+- [ ] A Little More Duolingo 
+- [ ] Make API for RASA and Use Rasa for my PDF Website Project 
 ## [[Machine Learning]]
 
 ## [[Mathematics for Machine Learning - MML]]

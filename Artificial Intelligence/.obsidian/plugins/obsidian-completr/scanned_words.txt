@@ -800,6 +800,15 @@ EmA
 EQiX
 ExifTool
 Everything
+Expected
+Efficient
+Eploitation
+Exploration
+Explore
+Exploit
+Entities
+Explained
+Entity
 the
 that
 transformation
@@ -1531,6 +1540,7 @@ tiU
 tZf
 tni
 thousands
+taking
 original
 of
 operator
@@ -2141,6 +2151,7 @@ oVW
 owh
 oLV
 oIZ
+obstacles
 vector
 vectors
 versions
@@ -3591,6 +3602,10 @@ AAm
 Aloue
 Attachment
 Assigns
+Actions
+Arrival
+Adhere
+Avoidance
 eigenbasis
 entirely
 eigenvectors
@@ -4418,6 +4433,10 @@ eKQP
 ejkA
 eUr
 etE
+early
+effectively
+extracts
+entities
 is
 in
 image
@@ -5289,6 +5308,8 @@ iKp
 imkE
 ijq
 ieU
+interpreter
+intents
 basis
 by
 because
@@ -6104,6 +6125,8 @@ bsomNy
 btv
 byk
 bNC
+brake
+backward
 for
 find
 factor
@@ -6797,6 +6820,8 @@ fxS
 ffo
 fiw
 fkZ
+failure
+foward
 space
 say
 same
@@ -7714,6 +7739,9 @@ sfv
 seed
 sorted
 scoring
+success
+spot
+safety
 consists
 can
 change
@@ -8676,6 +8704,9 @@ cyX
 cpM
 coefficientf
 coherent
+collecting
+crash
+caution
 linear
 lambda
 left
@@ -9413,6 +9444,8 @@ lYar
 lvN
 lmw
 libraries
+late
+legal
 matrix
 multiply
 multiplied
@@ -10259,6 +10292,8 @@ meta
 mQw
 mMh
 manner
+minute
+message
 The
 This
 To
@@ -11093,6 +11128,8 @@ TZl
 TGO
 Together
 Tutorials
+Total
+Tomorrow
 after
 and
 as
@@ -11977,6 +12014,11 @@ aih
 adobe
 aCqc
 adjacency
+acc
+accelarating
+arrival
+arrived
+arriving
 notate
 nhau
 normal
@@ -13536,6 +13578,14 @@ Cjk
 Computes
 Coefficient
 Chatbot
+Concepts
+Crash
+Condition
+Crashes
+Custom
+Conversation
+City
+Courses
 Basis
 Both
 Board
@@ -15074,6 +15124,7 @@ UjxW
 UDY
 UkMW
 UUWw
+Usage
 we
 want
 when
@@ -17117,6 +17168,9 @@ LvA
 LDM
 LmE
 Libraries
+Lane
+Longer
+Little
 you
 yield
 yk
@@ -18501,6 +18555,11 @@ pbxk
 pGPpPq
 preferential
 prints
+penalty
+progress
+prioritize
+practices
+processes
 You
 Yes
 YX
@@ -19200,6 +19259,7 @@ YFY
 YGf
 YGQ
 YjJ
+York
 get
 given
 getL
@@ -20739,6 +20799,10 @@ Sparse
 Social
 Score
 Seed
+Survive
+Strategy
+Save
+Slot
 result
 reduced
 repeated
@@ -21502,6 +21566,7 @@ rdf
 rOE
 rrO
 rPu
+risk
 Non
 Need
 No
@@ -22067,6 +22132,7 @@ NpPz
 NZP
 NvB
 Neighbour
+NLU
 zero
 zeros
 zeroes
@@ -24144,6 +24210,10 @@ dlz
 dejy
 docid
 dvO
+dacc
+deccelarating
+destination
+deccelaration
 From
 Find
 For
@@ -26240,6 +26310,9 @@ MpCehiHzreSzNTczkc
 MTY
 MDQw
 MGUw
+Medium
+Mastering
+Morning
 using
 up
 until
@@ -26975,6 +27048,7 @@ uajx
 umW
 ujB
 uLDSG
+unnecessary
 Recall
 Reference
 Redundant
@@ -27788,6 +27862,8 @@ RLv
 RDT
 ResolutionUnit
 RXq
+Road
+Rasa
 Or
 One
 Our
@@ -28499,6 +28575,8 @@ OmwWL
 Oqu
 OpAtPd
 Ocm
+Observations
+Obstacle
 IntelliJ
 Isolation
 Interactive
@@ -30097,6 +30175,9 @@ Platform
 PkO
 Preferential
 Predictions
+Policy
+Period
+Priorit
 Defecs
 Defects
 Dataset
@@ -30837,6 +30918,11 @@ DZir
 DpI
 DocumentID
 Draw
+Driveless
+Driving
+Decay
+Deadline
+Duolingo
 Visual
 Variables
 Visualization

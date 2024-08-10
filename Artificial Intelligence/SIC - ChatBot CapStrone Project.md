@@ -1,13 +1,12 @@
-
-
 10. Nghiên cứu, xây dựng trợ lý ảo cho tạp chí khoa học có tích hợp học máy
 https://github.com/DAIKOOH12/bot_rasa
 https://sites.google.com/a/ctu.edu.vn/luu-tien-dhao/chatbot
 https://www.miai.vn/2019/09/03/rasa-series-1-ai-cung-co-the-lam-chatbot-sieu-ngon-khong-lo/
 https://github.com/thangnch/AI_Voicebot
 
+
 ## RASA Python Chatbot Development Beginner Tutorials
-![[Pasted image 20240805130507.png]])
+![[Pasted image 20240805130507.png]]
 
 ### Data folder
 **nlu file** -> training data for the chatbot
@@ -18,3 +17,14 @@ https://github.com/thangnch/AI_Voicebot
 		![[Pasted image 20240805125731.png]]
 **stories file**: allow user to modify the how chatbot interact given a story using intent and action.
 
+### How to train Model
+
+
+
+
+
+# Mastering RASA: Entities, Slot and Custom Actions Explained 
+
+
+**Slot:** Store Conversation Data for Longer Period of Time.  (for later access)
+**Entities:**  (like City, New York) Can train the Entity using RASA Training Entity.

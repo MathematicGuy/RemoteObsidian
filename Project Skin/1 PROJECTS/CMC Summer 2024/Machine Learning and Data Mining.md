@@ -9,4 +9,3 @@ AI Ethical
 
 ## [[Neural Network]]
 
-

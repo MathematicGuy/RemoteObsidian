@@ -22,11 +22,15 @@
             }
           },
           {
-            "id": "8db3f0d7116af24c",
+            "id": "7526cdb1f799a247",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SIC - ChatBot CapStrone Project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SIC - ChatBot CapStrone Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SIC - ChatBot CapStrone Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SIC - ChatBot CapStrone Project.md"
+              }
             }
           },
           {
@@ -176,15 +184,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8db3f0d7116af24c",
+  "active": "7526cdb1f799a247",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
     "SIC - ChatBot CapStrone Project.md",
+    "Speed Run SIC Scholarship.md",
+    "1 PROJECTS/SIC/SIC.md",
+    "3 RESOURCES/How to/Anaconda Command.md",
+    "Snake AI.md",
+    "Deep Reinforcement Learning.md",
+    "QLearning & DeepQLearning.md",
     "Graph Theory.md",
     "Latex Guide.md",
     "Calculus_Derivative.md",
     "![[Pasted.md",
-    "1 PROJECTS/SIC/SIC.md",
     "1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg",
     "Pasted image 20240809110106.png",
     "Pasted image 20240809110049.png",
@@ -197,10 +210,7 @@
     "Pasted image 20240809104000.png",
     "Gradient and Gradient Descent.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Snake AI.md",
-    "QLearning & DeepQLearning.md",
     "Python OOP (Object Oriented Programming).md",
-    "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "Principal Component Analysis Algorithm.md",
     "Machine Learning and Data Science Revision.md",
@@ -213,8 +223,6 @@
     "SVD.md",
     "Partial Derivative and Gradient HW.md",
     "K-Means Clustering.md",
-    "K-nearest neighbor.md",
-    "Calculus_Optimization.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",

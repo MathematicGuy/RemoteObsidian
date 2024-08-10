@@ -21,3 +21,4 @@
 The present moment, the intend to do something in the very moment to do something is the very act it self, stick to that and think of nothing else.
 All of my dream need to be and can only be relized and to be relized or not relized right this instance.
 
+

@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1685bd1f3829e08a",
+        "id": "4ae6cfa830139ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "84e9458e65646192",
+            "id": "8cb0b0f39ee2fe49",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -188,8 +190,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "84e9458e65646192",
+  "active": "8cb0b0f39ee2fe49",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
@@ -222,7 +225,6 @@
     "German History.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Spaces/Classification Techniques.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Neural Network.md",
     "Spaces/German Dative Case.md",
     "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
