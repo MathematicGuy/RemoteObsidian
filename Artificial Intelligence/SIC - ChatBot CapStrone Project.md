@@ -1,3 +1,8 @@
+dntwisht0be@gmail.com
+Angle:shotGun=]]13
+
+
+
 10. Nghiên cứu, xây dựng trợ lý ảo cho tạp chí khoa học có tích hợp học máy
 https://github.com/DAIKOOH12/bot_rasa
 https://sites.google.com/a/ctu.edu.vn/luu-tien-dhao/chatbot

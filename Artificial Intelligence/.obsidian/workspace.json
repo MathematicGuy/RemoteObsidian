@@ -22,19 +22,18 @@
             }
           },
           {
-            "id": "7526cdb1f799a247",
+            "id": "c53db46c988cd7ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIC - ChatBot CapStrone Project.md",
+                "file": "Gradient and Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIC - ChatBot CapStrone Project.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIC - ChatBot CapStrone Project.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIC - ChatBot CapStrone Project.md"
+                "file": "2 ACTIONS/_Focus.md"
               }
             }
           },
@@ -184,8 +183,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7526cdb1f799a247",
+  "active": "37f507b3c7967fd9",
   "lastOpenFiles": [
+    "Gradient and Gradient Descent.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "2 ACTIONS/_Focus.md",
     "SIC - ChatBot CapStrone Project.md",
     "Speed Run SIC Scholarship.md",
@@ -208,8 +209,6 @@
     "Pasted image 20240809104025.png",
     "Pasted image 20240809104111.png",
     "Pasted image 20240809104000.png",
-    "Gradient and Gradient Descent.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Python OOP (Object Oriented Programming).md",
     "3 RESOURCES/How to/Anaconda.md",
     "Principal Component Analysis Algorithm.md",
