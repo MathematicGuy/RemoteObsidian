@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "6b085482e50e9270",
+            "id": "23f41365b1b39c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapsing Reality & Addiction.md",
+                "file": "Ultradian Rhythms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escapsing Reality & Addiction.md",
+                "file": "Ultradian Rhythms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escapsing Reality & Addiction.md"
+                "file": "Ultradian Rhythms.md"
               }
             }
           },
@@ -178,12 +179,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b085482e50e9270",
+  "active": "23f41365b1b39c1e",
   "lastOpenFiles": [
-    "2 ACTIONS/_My Life/_My Life.md",
-    "Escapsing Reality & Addiction.md",
-    "_Focus.md",
+    "Pasted image 20240811084448.png",
     "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+    "Ultradian Rhythms.md",
+    "_Focus.md",
+    "2 ACTIONS/_My Life/_My Life.md",
+    "3 RESOURCES/_Happiness/_Happiness.md",
+    "Escapsing Reality & Addiction.md",
     "Riddle.md",
     "2 ACTIONS/_My Life/Deepthought.md",
     "Get Back to Who I'm Used to be.md",
@@ -209,9 +213,6 @@
     "2024-06-02.md",
     "Head Space.md",
     "2 ACTIONS/_My Life/Styles.md",
-    "2 ACTIONS/_My Life/Inattentive ADHD.md",
-    "2 ACTIONS/_My Life/Going to Space.md",
-    "3 RESOURCES/_Question Mark/Reason why you not understand what they understand.md",
     "Spaces/Home",
     "Spaces",
     "4 ARCHIVES/Spaces/Home",
