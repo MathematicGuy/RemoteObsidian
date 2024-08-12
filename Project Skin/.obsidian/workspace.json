@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1add167207552754",
+        "id": "27350175ac6248c2",
         "type": "tabs",
         "children": [
           {
-            "id": "80335e3fed9026fd",
+            "id": "14203f1bbc4a1727",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -190,17 +190,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "80335e3fed9026fd",
+  "active": "14203f1bbc4a1727",
   "lastOpenFiles": [
-    "Spaces/German Vocab Revision.md",
+    "Learn ReactNative.md",
+    "React.md",
     "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "House of Hypertrophy.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/OOP CMC.md",
     "3 RESOURCES/Programming/OOP/OOP.md",
-    "React.md",
     "Pasted image 20240802152816.png",
     "Full Stack Java.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
@@ -227,7 +228,6 @@
     "Spaces/Classification Techniques.md",
     "Neural Network.md",
     "Spaces/German Dative Case.md",
-    "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
