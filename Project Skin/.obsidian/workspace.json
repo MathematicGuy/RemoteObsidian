@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e52b1d24c8e4ebbc",
+        "id": "ad86fd9f63451ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "3b9d341671b498cf",
+            "id": "8051de2c9461601e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7efd9dd249b570fe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -195,11 +190,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7efd9dd249b570fe",
+  "active": "8051de2c9461601e",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "House of Hypertrophy.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",

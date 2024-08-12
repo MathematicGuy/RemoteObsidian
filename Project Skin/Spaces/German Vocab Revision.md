@@ -613,8 +613,8 @@ Anziehen - wear
 
 Ich machen für uns Abendessen / I will make dinner for us 
 
-
 Kissen pillow
 	Mir geffällt das Kissen, Kann ich es kaufen
 
 Nur eine Treppe im Mehrfamilienhaus - only one Staircase in the department building
+

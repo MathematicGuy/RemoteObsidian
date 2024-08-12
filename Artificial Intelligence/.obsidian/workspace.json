@@ -22,7 +22,19 @@
             }
           },
           {
-            "id": "eb021c2c1d8f0c98",
+            "id": "41b4c226c5e1f0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fcac02b7e4692bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,15 +196,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb021c2c1d8f0c98",
+  "active": "9fcac02b7e4692bb",
   "lastOpenFiles": [
+    "3 RESOURCES/How to/Anaconda Command.md",
+    "3 RESOURCES/How to/Anaconda.md",
     "2 ACTIONS/_Focus.md",
+    "SIC - ChatBot CapStrone Project.md",
     "Gradient and Gradient Descent.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "SIC - ChatBot CapStrone Project.md",
     "Speed Run SIC Scholarship.md",
     "1 PROJECTS/SIC/SIC.md",
-    "3 RESOURCES/How to/Anaconda Command.md",
     "Snake AI.md",
     "Deep Reinforcement Learning.md",
     "QLearning & DeepQLearning.md",
@@ -211,7 +224,6 @@
     "Pasted image 20240809104111.png",
     "Pasted image 20240809104000.png",
     "Python OOP (Object Oriented Programming).md",
-    "3 RESOURCES/How to/Anaconda.md",
     "Principal Component Analysis Algorithm.md",
     "Machine Learning and Data Science Revision.md",
     "How to Download Linux.md",

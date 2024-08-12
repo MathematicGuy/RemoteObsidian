@@ -2291,4 +2291,6 @@ Denkst du - do you think
 
 Endet - Does 
 
-
+Einzelzimmer - single room
+Doppelzimmer - double room
+frei available

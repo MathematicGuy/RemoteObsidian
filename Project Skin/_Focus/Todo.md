@@ -17,6 +17,7 @@ banner: Images/Pasted image 20240402135259.png
 \
 
 #Todo/GoalsThisMonth
+- [ ] **Switch Learning German** on **Laptop to Tablet and Notebook.**
 - [ ] Learn German Direct and Indirect case
 
 

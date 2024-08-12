@@ -1,13 +1,14 @@
-dntwisht0be@gmail.com
-Angle:shotGun=]]13
-
-
-
 10. Nghiên cứu, xây dựng trợ lý ảo cho tạp chí khoa học có tích hợp học máy
 https://github.com/DAIKOOH12/bot_rasa
 https://sites.google.com/a/ctu.edu.vn/luu-tien-dhao/chatbot
 https://www.miai.vn/2019/09/03/rasa-series-1-ai-cung-co-the-lam-chatbot-sieu-ngon-khong-lo/
 https://github.com/thangnch/AI_Voicebot
+
+# System Design
+**Virtual Assitant:** 1 Chatbot for PDF Analysis, 1 Chatbot for finding document.
+**MongoDB/SQLServer:** Read & Write Data.
+**VD:** người dùng muốn tra cứu tài liệu về SVM, hệ thống sẽ trả về các tài liệu liên quan đến SVM.
+**s** Lamdma/RASA
 
 
 ## RASA Python Chatbot Development Beginner Tutorials
