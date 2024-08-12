@@ -2193,12 +2193,12 @@ Hausaufgaben homework
 	"In" is a preposition that means "in" or "inside." It is used with both the accusative and dative cases, depending on whether there is movement (accusative) or no movement (dative).
 	
 1. **Accusative (movement into a place)**:
-    - **Ich gehe in die Stadt.** (I am going into the city.)
-    - **Er legt das Buch in das Regal.** (He puts the book into the shelf.)
+    - **Ich gehe in die Stadt.** (I am going into the city)
+    - **Er legt das Buch in das Regal.** (He puts the book into the shelf)
     
 2. **Dative (location within a place)**:
-    - **Ich bin in der Stadt.** (I am in the city.)
-    - **Das Buch ist in dem Regal.** (The book is in the shelf.)
+    - **Ich bin in der Stadt.** (I am in the city)
+    - **Das Buch ist in dem Regal.** (The book is in the shelf)
 
 ```ad-summary
 ### Key Points:
@@ -2238,7 +2238,6 @@ Eine Bettdecke bedspread
 	Ein Bett
 Weich soft
 	Die/Das Kopfkissen/Bett ist Weich und bequem - the pillow/bed is soft and comfortable
-
 
 Bild buy
 Malt ein Bild / is paiting a paiting
@@ -2288,9 +2287,30 @@ Motorradschlüssel - motocycle keys
 
 ### Are Germans Too Direct ?
 Denkst du - do you think
-
 Endet - Does 
+### End
+
 
 Einzelzimmer - single room
 Doppelzimmer - double room
 frei available
+
+
+|| -> mean understand why this is the right form later. 
+
+Tür door
+	Der Tür ist kein bequem und hasslich
+Das Fenster window
+	Ich liebe das fenster, es gibt hell 
+Willkommen welcome
+	Willkommen, mein freund
+Funktionerien - work (verb)
+	Das Zug ist noch Funktionieren 
+Zimmer room
+Der Schlüssel - the key
+	Hier ist das Schlüssel für dein Zimmer || Hier ist der Schlüssel zu Ihrem Zimmer.
+	Dein Zimmer ist rechts || Ihr Zimmer ist auf der rechten Seite
+Strand - the beach
+	Mein Familie ins der Stand gehen im Sommer  || (Meine Familie geht im Sommer an den Strand)
+Dusche - the shower
+	Die Dusche ist zu klein

@@ -12,6 +12,7 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/GoalsThisWeek
 - [ ] When the Presure and Overwhelm is comming. Face them 1 by 1, 1 at a time. Then Reward my self with Games and Entertainments. 
 	Human are most Productive when they have Motivation. Keeping a Balance between Motivation and Pressure/Work is the key to Flow.
+	
 - [ ] Optimized Thinking: Don't make thing more complicated. Remove un-important task 
 
 \
