@@ -389,13 +389,13 @@ Der Vegetatier Excercise
 + @ Different strokes for different folks
 + @ Verbs have different endings depending on the subject of the sentence.
 
-| Subject | Verb (wandern) |
-| ---- | ---- |
-| Ich | Wandere |
-| Du | Wanderst |
-| Er / Sie / Es | Wandert |
-| Sie  / Wir | Wandern |
-| Ihr | Wandert |
+| Subject       | Verb (wandern) |
+| ------------- | -------------- |
+| Ich           | Wandere        |
+| Du            | Wanderst       |
+| Er / Sie / Es | Wandert        |
+| Sie  / Wir    | Wandern        |
+| Ihr           | Wandert        |
 + Ihr : Herr
 + Wir: We
 + Sie : "You" in plural
@@ -2314,3 +2314,7 @@ Strand - the beach
 	Mein Familie ins der Stand gehen im Sommer  || (Meine Familie geht im Sommer an den Strand)
 Dusche - the shower
 	Die Dusche ist zu klein
+
+
+Ausflug - Excursion / Dã Ngoại
+Buchladen book store
