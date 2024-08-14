@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "41b4c226c5e1f0bb",
+            "id": "fbaf8daf3e36b19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fcac02b7e4692bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIC - ChatBot CapStrone Project.md",
+                "file": "Gradient and Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIC - ChatBot CapStrone Project.md",
+                "file": "Gradient and Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIC - ChatBot CapStrone Project.md",
+                "file": "Gradient and Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIC - ChatBot CapStrone Project.md"
+                "file": "Gradient and Gradient Descent.md"
               }
             }
           },
@@ -196,45 +185,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fcac02b7e4692bb",
+  "active": "fbaf8daf3e36b19d",
   "lastOpenFiles": [
-    "3 RESOURCES/How to/Anaconda Command.md",
-    "3 RESOURCES/How to/Anaconda.md",
+    "Linear Regression.md",
+    "SIC - Homework Note.md",
+    "1 PROJECTS/SIC/SIC.md",
     "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "SIC - Mathematic in Data Science.md",
+    "3 RESOURCES/Templates/SIC - Header.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
+    "Save4Later.md",
+    "Save for Later.md",
+    "How to Write a Cover Letter.md",
+    "Pasted image 20240813164822.png",
+    "Pasted image 20240813164349.png",
+    "Pasted image 20240813163709.png",
+    "3 RESOURCES/Artificial Intelligent/General AI/AI.md",
+    "Deep Reinforcement Learning.md",
+    "Tokenizer.md",
+    "Pasted image 20240813123909.png",
+    "Pasted image 20240813123817.png",
+    "Pasted image 20240813123409.png",
+    "Pasted image 20240813123343.png",
+    "Pasted image 20240813122938.png",
+    "Pasted image 20240813122920.png",
+    "SIC - Ramen Rating.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
+    "History of Reinforcement Learning.md",
+    "Pasted image 20240813085653.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
+    "3 RESOURCES/How to/Anaconda.md",
+    "3 RESOURCES/How to/Anaconda Command.md",
     "SIC - ChatBot CapStrone Project.md",
     "Gradient and Gradient Descent.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Speed Run SIC Scholarship.md",
-    "1 PROJECTS/SIC/SIC.md",
     "Snake AI.md",
-    "Deep Reinforcement Learning.md",
-    "QLearning & DeepQLearning.md",
-    "Graph Theory.md",
-    "Latex Guide.md",
-    "Calculus_Derivative.md",
-    "![[Pasted.md",
-    "1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg",
-    "Pasted image 20240809110106.png",
-    "Pasted image 20240809110049.png",
-    "Pasted image 20240809104809.png",
-    "Pasted image 20240809104727.png",
-    "Pasted image 20240809104734.png",
-    "Pasted image 20240809104309.png",
-    "Pasted image 20240809104025.png",
-    "Pasted image 20240809104111.png",
-    "Pasted image 20240809104000.png",
-    "Python OOP (Object Oriented Programming).md",
-    "Principal Component Analysis Algorithm.md",
-    "Machine Learning and Data Science Revision.md",
-    "How to Download Linux.md",
-    "Bisecting K-Means Clustering.md",
     "Pasted image 20240806130826.png.~tmp",
-    "Decision Analysis.md",
-    "SVD Singular Value Decomposition in Dimensionality Reduction.md",
-    "3 RESOURCES/CMC/Artificial Intelligent Revision.md",
-    "SVD.md",
-    "Partial Derivative and Gradient HW.md",
-    "K-Means Clustering.md",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "1 PROJECTS/Face Detection using SVM",

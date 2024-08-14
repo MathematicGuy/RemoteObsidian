@@ -14,5 +14,12 @@ _templateName: ""
 
 [[SIC - ChatBot CapStrone Project]]
 
-
 [[Speed Run SIC Scholarship]]
+
+[[SIC - Ramen Rating]]
+
+[[How to Write a Cover Letter]]
+
+[[SIC - Mathematic in Data Science]]
+
+

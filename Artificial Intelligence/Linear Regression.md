@@ -1,3 +1,5 @@
+[Good Linear Regression Article](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/)
+
 ![[Pasted image 20240712082814.png]]
 Hàm bậc nhất
 	**y = ax + b**

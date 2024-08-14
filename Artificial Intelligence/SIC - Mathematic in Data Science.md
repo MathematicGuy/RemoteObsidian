@@ -88,3 +88,6 @@ e (logorit cơ số tự nhiên)
 ### Hàm Sigmoid
 ![[Pasted image 20240601192708.png]]
 
+
+
+## [[SIC - Homework Note]]

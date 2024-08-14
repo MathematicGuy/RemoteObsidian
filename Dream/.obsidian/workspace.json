@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "23f41365b1b39c1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultradian Rhythms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultradian Rhythms.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultradian Rhythms.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -179,11 +165,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23f41365b1b39c1e",
+  "active": "5d4bb5afd483ebdf",
   "lastOpenFiles": [
+    "Productivity Note.md",
+    "Pasted image 20240813232641.png",
+    "Pasted image 20240813232116.png",
+    "Pasted image 20240813232119.png",
     "Pasted image 20240811084448.png",
     "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
-    "Ultradian Rhythms.md",
     "_Focus.md",
     "2 ACTIONS/_My Life/_My Life.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
@@ -223,10 +212,6 @@
     "4 ARCHIVES",
     "4 ARCHIVES/Image/Pasted image 20240426221324.png",
     "4 ARCHIVES/Image/Pasted image 20240426221004.png",
-    "4 ARCHIVES/Image/Pasted image 20240426220933.png",
-    "4 ARCHIVES/Image/Pasted image 20240401021252.png",
-    "4 ARCHIVES/Image/Pasted image 20240401021247.png",
-    "4 ARCHIVES/Image/Pasted image 20240401020708.png",
     "Untitled.canvas"
   ]
 }

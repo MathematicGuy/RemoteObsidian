@@ -3,5 +3,5 @@
 + ### Multi-class classification
 + ### Multi-label classification
 
-+ ## [[Classification Evaluation metrics]]
+## [[Classification Evaluation metrics]]
   

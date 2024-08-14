@@ -1,3 +1,4 @@
+[Article Explain](https://viblo.asia/p/optimizer-hieu-sau-ve-cac-thuat-toan-toi-uu-gdsgdadam-Qbq5QQ9E5D8) 
 # Lesson 1: Gradient
 
 ### Intro: Tangent Plane
