@@ -1252,7 +1252,7 @@ Fällt vs Stornieren
 + ? why `aus` to the last place of the sentence 
 
 Abfahrt - departure
-Kapput broken
+Kaputt broken
 Keine Ahnung - no idea
 helfen help
 Werkstatt auto repair shop
@@ -2298,7 +2298,7 @@ frei available
 
 || -> mean understand why this is the right form later. 
 
-Tür door
+Die Tür - the door
 	Der Tür ist kein bequem und hasslich
 Das Fenster window
 	Ich liebe das fenster, es gibt hell 
@@ -2306,7 +2306,8 @@ Willkommen welcome
 	Willkommen, mein freund
 Funktionerien - work (verb)
 	Das Zug ist noch Funktionieren 
-Zimmer room
+
+Das Zimmer the room
 Der Schlüssel - the key
 	Hier ist das Schlüssel für dein Zimmer || Hier ist der Schlüssel zu Ihrem Zimmer.
 	Dein Zimmer ist rechts || Ihr Zimmer ist auf der rechten Seite
@@ -2315,6 +2316,18 @@ Strand - the beach
 Dusche - the shower
 	Die Dusche ist zu klein
 
-
 Ausflug - Excursion / Dã Ngoại
 Buchladen book store
+
+ Der Rezeption reception
+	 Wo ist der Hotelrezeption  
+
+Ruhig quiet
++ ? Use "Ihr" for the word "your" to pay respect to stranger. Often use by reception and service provider. 
+
+Sessel armchair 
+Es gibt - there is
+
++ ? Hat das Zimmer einen Fernseher oder nicht - why use hat in this sentencef
+
+

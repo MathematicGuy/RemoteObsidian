@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3554037699caff6a",
+        "id": "0c8fb29f76c23cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "423d11172a872210",
+            "id": "a4513dc8b2b3d02f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -188,11 +190,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "423d11172a872210",
+  "active": "a4513dc8b2b3d02f",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
+    "_Focus/Todo.md",
     "Learn ReactNative.md",
     "React.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",

@@ -3,10 +3,7 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Java API Restful (Connect to Frontend)
 - [ ] Week 2 Calculus
-- [ ] AI Homework
-- [ ] SIC Homework
 
 
 #Todo/GoalsThisWeek
