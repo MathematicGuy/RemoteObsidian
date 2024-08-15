@@ -14,7 +14,8 @@ banner: Images/Pasted image 20240402135259.png
 	Human are most Productive when they have Motivation. Keeping a Balance between Motivation and Pressure/Work is the key to Flow.
 	
 - [ ] Optimized Thinking: Don't make thing more complicated. Remove un-important task 
-
+	
+- [ ] Ein Tag im bleben vlog (5') 
 \
 
 #Todo/GoalsThisMonth
