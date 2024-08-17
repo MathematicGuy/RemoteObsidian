@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8fb29f76c23cbc",
+        "id": "5dba37b412600378",
         "type": "tabs",
         "children": [
           {
-            "id": "a4513dc8b2b3d02f",
+            "id": "a9102d214bacb8bd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a4513dc8b2b3d02f",
+  "active": "a9102d214bacb8bd",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
