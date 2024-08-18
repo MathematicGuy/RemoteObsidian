@@ -117,3 +117,26 @@ Embedding PDF
 Query Format
 ![[Pasted image 20240818144902.png]]
 
+1. **Install:** paste this in pom.xml
+```java
+<dependency>
+  <groupId>com.datastax.astra</groupId>
+  <artifactId>astra-db-java</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
+2. **Connect**
+```java
+import com.datastax.astra.client.DataAPIClient;
+import com.datastax.astra.client.Database;
+
+public class QuickStart {
+  public static void main(String[] args) {
+    // Initialize the client
+    DataAPIClient client = new DataAPIClient("YOUR_TOKEN");
+    Database db = client.getDatabase("https://14a7a04b-16a7-434a-8494-043449df3de6-us-east1.apps.astra.datastax.com");
+    System.out.println("Connected to AstraDB " + db.listCollectionNames());
+  }
+}
+```
