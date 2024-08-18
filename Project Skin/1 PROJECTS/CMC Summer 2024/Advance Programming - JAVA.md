@@ -22,7 +22,7 @@ Dal: Java
 Model: Java Class
 Web Pages: JSP, HTML (view)
 
-## Storing Files in a Database with Spring Boot 
+## [[Storing Files in a Database with Spring Boot ]]
 
 Try cleaning-up your local repository with:
 ```

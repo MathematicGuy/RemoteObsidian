@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "32b1321d98c4e0e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storing Files in a Database with Spring Boot.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Storing Files in a Database with Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Storing Files in a Database with Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Storing Files in a Database with Spring Boot.md"
               }
             }
           },
@@ -190,16 +204,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bfe1149e0141756e",
+  "active": "32b1321d98c4e0e5",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "Storing Files in a Database with Spring Boot.md",
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Personal.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "2 ACTIONS/Personal/Language Learning/German.md",
     "Pasted image 20240819003900.png",
-    "_Focus/Todo.md",
     "3 RESOURCES/Save for later/Save for later.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Thi Đấu Lập Trình.md",
     "German Learning Core.md",
     "Learn ReactNative.md",
