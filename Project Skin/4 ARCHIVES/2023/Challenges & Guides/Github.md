@@ -132,7 +132,6 @@ $ git log 5f54dfa54343c1d7aa36f41dd8f5211345433c24
 New-Item new.html
 ```
 
-
 ### …or push an existing repository from the command line
 ```shell
 git remote add origin git@github.com:MathmatheticGuy/WedJourney-Update-0.1.git
@@ -144,7 +143,6 @@ git push -u origin main
 ```shell
 git remote rm origin
 ```
-
 
 ### Git Config 
 ```shell
