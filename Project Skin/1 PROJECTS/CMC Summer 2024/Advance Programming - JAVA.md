@@ -22,27 +22,23 @@ Dal: Java
 Model: Java Class
 Web Pages: JSP, HTML (view)
 
-
-
-[](https://stackoverflow.com/posts/7348934/timeline)
+## Storing Files in a Database with Spring Boot 
 
 Try cleaning-up your local repository with:
-
 ```
 git gc --prune=now
 git remote prune origin
 ```
-
-
 Spring Data -> automatically simple CRUD operation
 
 [[Full Stack Java]]
 MSSQL - https://hub.docker.com/r/microsoft/mssql-server
 [[Docker MSSQL]]
 
----
 
-Ưu Tiên Triển Khai Dự Án
+
+
+---
 
 ### Thứ tự ưu tiên các tính năng:
 
