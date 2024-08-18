@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5dba37b412600378",
+        "id": "f46444b516734e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "a9102d214bacb8bd",
+            "id": "162ba94b3ca4946f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b093e31551635db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,8 +190,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b093e31551635db3",
+  "active": "162ba94b3ca4946f",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
@@ -218,7 +205,6 @@
     "3 RESOURCES/Programming/OOP/OOP.md",
     "Pasted image 20240802152816.png",
     "Full Stack Java.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "How to build a web application in Java.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
     "Pasted image 20240802110758.png",
