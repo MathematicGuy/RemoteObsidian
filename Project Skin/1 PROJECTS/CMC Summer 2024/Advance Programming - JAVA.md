@@ -109,3 +109,11 @@ MSSQL - https://hub.docker.com/r/microsoft/mssql-server
     
 7. **Tính năng nâng cao cho doanh nghiệp**: Cuối cùng, triển khai các tính năng nâng cao dành cho tài khoản doanh nghiệp, như quản lý hợp đồng, dịch vụ API, và thống kê dịch vụ.\
 
+---
+
+Embedding PDF
+![[Pasted image 20240818144708.png]]
+
+Query Format
+![[Pasted image 20240818144902.png]]
+
