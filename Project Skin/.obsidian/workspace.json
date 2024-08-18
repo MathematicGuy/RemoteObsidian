@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f46444b516734e3c",
+        "id": "2bebbcc30a576c64",
         "type": "tabs",
         "children": [
           {
-            "id": "162ba94b3ca4946f",
+            "id": "0e98e60672e5eb45",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -190,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "162ba94b3ca4946f",
+  "active": "0e98e60672e5eb45",
   "lastOpenFiles": [
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
