@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "11b1bfb2ed22f93a",
+            "id": "a02df18b631db34b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,15 +177,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11b1bfb2ed22f93a",
+  "active": "a02df18b631db34b",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
+    "github.md",
     "PDF Chatbot - Simple RAG from Scratch.md",
     "Virtual Assistant Model.md",
+    "SIC - ChatBot CapStrone Project.md",
     "1 PROJECTS/SIC/SIC.md",
     "SIC - Mathematic in Data Science.md",
     "Speed Run SIC Scholarship.md",
-    "SIC - ChatBot CapStrone Project.md",
     "Google Collab.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
     "Pasted image 20240816082523.png",
@@ -214,7 +215,6 @@
     "SIC - Ramen Rating.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
     "History of Reinforcement Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

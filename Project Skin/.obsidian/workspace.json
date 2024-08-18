@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4adb8b837d51a378",
+            "id": "bfe1149e0141756e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "d9eff40b34c89523",
+            "id": "114e0c87eaa7107a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,9 +195,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d9eff40b34c89523",
+  "active": "114e0c87eaa7107a",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
+    "3 RESOURCES/Git/Git.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Pasted image 20240818144902.png",
     "Pasted image 20240818144708.png",
@@ -224,8 +226,6 @@
     "Pasted image 20240802002143.png",
     "4 ARCHIVES/2024/CMC Spring 2024/introduction-to-postman-course-main/course-notes.md",
     "3 RESOURCES/Web/FrontEnd/Docker.md",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "3 RESOURCES/Git/Git.md",
     "JAVA Project SetUp.md",
     "Docker MSSQL.md",
     "German History.md",
