@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
+                "file": "English Club.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
+                "file": "English Club.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
+                "file": "English Club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md"
+                "file": "English Club.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "f99922d041061a2f",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
+    "English Club.md",
     "_Focus/Todo.md",
     "Prompt Engineering.md",
     "Storing Files in a Database with Spring Boot.md",
@@ -240,8 +242,6 @@
     "Pasted image 20240802110509.png",
     "Pasted image 20240802110338.png",
     "Docker PostgresSQL.md",
-    "4 ARCHIVES/2024/CMC Spring 2024/introduction-to-postman-course-main/course-notes.md",
-    "3 RESOURCES/Web/FrontEnd/Docker.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
