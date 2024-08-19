@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "560e6f323d683123",
+        "id": "ba49ecfffee164e3",
         "type": "tabs",
         "children": [
           {
-            "id": "b3803f26474b3439",
+            "id": "30cce3adfa1426c2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f99922d041061a2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Club.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Club.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Club.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Club.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,10 +190,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f99922d041061a2f",
+  "active": "30cce3adfa1426c2",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "English Club.md",
+    "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "_Focus/Todo.md",
     "Prompt Engineering.md",
     "Storing Files in a Database with Spring Boot.md",
