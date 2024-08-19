@@ -5,8 +5,8 @@
 
 ### [**Commonplace Book**](https://docs.google.com/document/d/1zAPhLWqZiLeDt_7ExhUvoJ6NZAxkTIQWL0Wv2FcUbpg/edit)
 
-
-
 ### Imitating Technique
 > https://fb.watch/nhoIJjw9Qk/
 
+
+[[]]
