@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30cce3adfa1426c2",
+            "id": "e0e9106ad15b3051",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,14 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "e0e9106ad15b3051",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -198,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "30cce3adfa1426c2",
+  "active": "e0e9106ad15b3051",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "English Club.md",
