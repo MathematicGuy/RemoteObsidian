@@ -3,8 +3,11 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Finish SIC Multi Learning tự luận. Nộp cho thầy 
-
+- [ ] Genetic Algorithm for Snake AI
+- [ ] Update System Database
+- [ ] RAG cho Web Java
+- [ ] Finish SIC Multi Learning tự luận. Nộp cho thầy (Today deadline) 
+- [ ] Document Simple Rag from Scratch SIC Project
 
 #Todo/GoalsThisWeek
 - [ ] When the Presure and Overwhelm is comming. Face them 1 by 1, 1 at a time. Then Reward my self with Games and Entertainments. 
