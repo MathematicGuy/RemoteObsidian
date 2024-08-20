@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "a02df18b631db34b",
+            "id": "e6cd75b4b25ff8fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "Eigenvalues and Eigenvectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa14bd8b3d044c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K-SVD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "K-SVD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "K-SVD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gradient and Gradient Descent.md"
+                "file": "K-SVD.md"
               }
             }
           },
@@ -185,9 +197,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a02df18b631db34b",
+  "active": "fa14bd8b3d044c91",
   "lastOpenFiles": [
+    "Pasted image 20240820164504.png",
+    "K-SVD.md",
     "2 ACTIONS/_Focus.md",
+    "Q-Learning Update.md",
+    "Eigenvalues and Eigenvectors.md",
+    "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
+    "3 RESOURCES/Algorithms/Q Learning.md",
+    "3 RESOURCES/Algorithms/Algorithm Problem.md",
+    "Choosing an algorithm.md",
+    "Gradient and Gradient Descent.md",
     "github.md",
     "PDF Chatbot - Simple RAG from Scratch.md",
     "Virtual Assistant Model.md",
@@ -207,7 +228,6 @@
     "Pasted image 20240815205601.png",
     "Pasted image 20240815205329.png",
     "Pasted image 20240815205124.png",
-    "Gradient and Gradient Descent.md",
     "Linear Regression.md",
     "SIC - Homework Note.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
@@ -215,14 +235,6 @@
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
     "Save4Later.md",
-    "Save for Later.md",
-    "How to Write a Cover Letter.md",
-    "3 RESOURCES/Artificial Intelligent/General AI/AI.md",
-    "Deep Reinforcement Learning.md",
-    "Tokenizer.md",
-    "SIC - Ramen Rating.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
-    "History of Reinforcement Learning.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

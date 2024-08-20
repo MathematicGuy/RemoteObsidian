@@ -25,7 +25,7 @@
 This also called: **Eigenvalue Decomposition** (ED)
 + From 2 Example above know that Matrix A * Eigenvectors (v1) = Eigenvalue (of A) * Eigenvector (v1)
 	![[Pasted image 20240619143810.png]]
-+ **This work show that we can optimize Matrix Multiplication using eigenvalue and eigenvectors.** (eigenvalue and eigenvectors goes in pair)  
++ **This work show that we can optimize Matrix Multiplication using eigenvalue and eigenvectors.** (eigenvalue and eigenvectors goes in pair)  ~~~~
 	![[Pasted image 20240619144135.png]]
 + $ With that in mind, let apply eigenbasis to find the eigenvalues and eigenvectors of others vector that don't have their own eigenbasis.  
 	(dùng vector gốc có rồi để chuyển các vector ko có vector gốc về dạng Eigenvectors * Eigenvalue. Từ đó, ta có thể tối ưu tốc độ tính toán của 1 ma trận)

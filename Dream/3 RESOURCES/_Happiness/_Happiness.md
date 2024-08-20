@@ -28,3 +28,6 @@ _sort:
 [[Best video about Trauma and What could have been]]
 
 [[Save for my GF]]
+
+**21/8/2024 - Mile Stone** 
+![[Pasted image 20240821015451.png]]

@@ -818,6 +818,8 @@ Expansion
 Embeddings
 Embedding
 English
+Early
+Epsilon
 the
 that
 transformation
@@ -1563,6 +1565,13 @@ tokens
 today
 tokenization
 thinker
+towerOfHanoi
+transitioning
+thereafter
+terminal
+temporal
+tuning
+tuned
 original
 of
 operator
@@ -2182,6 +2191,9 @@ ojkk
 outptus
 optimized
 optimizations
+overrides
+obtainable
+optimistic
 vector
 vectors
 versions
@@ -2894,6 +2906,8 @@ vocab
 vary
 vjf
 vXC
+via
+voice
 An
 After
 Algorithm
@@ -3651,6 +3665,7 @@ Azm
 AfJGe
 Accelerator
 Anh
+Adjustments
 eigenbasis
 entirely
 eigenvectors
@@ -4495,6 +4510,13 @@ embedding
 especially
 energy
 extreme
+epsilon
+estimates
+effect
+ensuring
+exploration
+exploitation
+encode
 is
 in
 image
@@ -5386,6 +5408,9 @@ ideally
 items
 inference
 int
+immediate
+initialized
+increases
 basis
 by
 because
@@ -6217,6 +6242,9 @@ bct
 bLC
 broken
 breakdown
+broad
+behavior
+blocks
 for
 find
 factor
@@ -6917,6 +6945,7 @@ frequency
 fUF
 ffIDATx
 factual
+fine
 space
 say
 same
@@ -7859,6 +7888,15 @@ suitable
 sessions
 specialized
 sinh
+switch
+solved
+stabilize
+stages
+slightly
+shifts
+sparse
+selected
+sparsely
 consists
 can
 change
@@ -8847,6 +8885,12 @@ computation
 computational
 cosin
 cung
+chuyen
+cdot
+converges
+corrections
+col
+calculatable
 linear
 lambda
 left
@@ -9598,6 +9642,7 @@ language
 lack
 lightweight
 latency
+lock
 matrix
 multiply
 multiplied
@@ -10455,6 +10500,9 @@ marks
 meaningful
 medical
 medium
+maxa
+moderate
+minimal
 The
 This
 To
@@ -11304,6 +11352,7 @@ Term
 Token
 Tensor
 Tokens
+Tower
 after
 and
 as
@@ -12209,6 +12258,13 @@ abbreviations
 assist
 accelerator
 accelerators
+acquired
+approximate
+approx
+adjusts
+adjustments
+atoms
+almost
 notate
 nhau
 normal
@@ -12958,6 +13014,9 @@ nVv
 nDt
 numerically
 newer
+near
+newly
+nearing
 Change
 Class
 Comunity
@@ -13791,6 +13850,8 @@ Cleaning
 Central
 Case
 Chuy
+Convergence
+Components
 Basis
 Both
 Board
@@ -17420,6 +17481,7 @@ Lemma
 LLMs
 LLM
 Luy
+Late
 you
 yield
 yk
@@ -18839,6 +18901,10 @@ prompt
 pages
 probable
 particularly
+plate
+pessimistic
+ptu
+predefine
 You
 Yes
 YX
@@ -20180,6 +20246,10 @@ generation
 great
 generative
 genertive
+gamma
+greedy
+gradually
+gained
 Scalars
 Step
 Solution
@@ -21115,6 +21185,8 @@ Stemming
 Similar
 Similarity
 Small
+Smaller
+Stage
 result
 reduced
 repeated
@@ -21893,6 +21965,15 @@ retrieved
 retrieval
 recent
 relies
+rear
+reinforcement
+received
+regarded
+referring
+reflecting
+rough
+room
+representations
 Non
 Need
 No
@@ -24565,6 +24646,12 @@ domain
 designed
 demensional
 describing
+discounted
+decreases
+depending
+dynamic
+dictis
+dense
 From
 Find
 For
@@ -25243,6 +25330,7 @@ FKA
 Fkh
 Foe
 Fpxuw
+Factor
 know
 kh
 kia
@@ -26682,6 +26770,9 @@ Mun
 Mqi
 Mostly
 March
+Markov
+MDP
+Moderate
 using
 up
 until
@@ -27427,6 +27518,8 @@ uiXu
 unescessary
 ups
 utilized
+updated
+updates
 Recall
 Reference
 Redundant
@@ -28248,6 +28341,7 @@ Responsible
 RZR
 RUf
 Research
+Recursive
 Or
 One
 Our
@@ -28967,6 +29061,9 @@ Obstacles
 Oyt
 OLO
 Options
+Observe
+Over
+OMP
 IntelliJ
 Isolation
 Interactive
@@ -29784,6 +29881,10 @@ IZZ
 IaAT
 Interaction
 Inspect
+Iterative
+Iterations
+Impact
+IRML
 Prerequisite
 PCB
 Project
@@ -30587,6 +30688,8 @@ PLB
 Preventing
 Paper
 Prompt
+Perform
+Progresses
 Defecs
 Defects
 Dataset
@@ -31335,6 +31438,8 @@ Duolingo
 Drawing
 Dmh
 Databases
+Discount
+Dict
 Visual
 Variables
 Visualization
@@ -34239,6 +34344,7 @@ HKC
 HLS
 Hot
 Hardware
+Hanoi
 quan
 qqq
 qxD
@@ -36367,6 +36473,8 @@ GTV
 Gsp
 Gemma
 Good
+Genetic
+Gauss
 Zero
 Zw
 ZX
@@ -38370,6 +38478,7 @@ QBF
 Qjs
 QGp
 QZt
+Queens
 XnV
 XT
 XK
