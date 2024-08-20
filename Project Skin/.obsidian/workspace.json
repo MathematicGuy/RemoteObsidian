@@ -21,6 +21,14 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e0e9106ad15b3051",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -192,9 +200,9 @@
   },
   "active": "30cce3adfa1426c2",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "English Club.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
-    "_Focus/Todo.md",
     "Prompt Engineering.md",
     "Storing Files in a Database with Spring Boot.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
