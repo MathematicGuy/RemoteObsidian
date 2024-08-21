@@ -4,8 +4,8 @@
 ![[Pasted image 20240820164504.png]]
 1. Learning Dict: Ma trận A
 	A Matrix can be voice, image, etc...
-
-2. D is the dictionary matrix. The columns of DDD are the dictionary atoms, which are the building blocks that will be used to represent the data samples in YYY. The goal is to learn this dictionary such that it can sparsely represent the data.
+	
+2. D is the dictionary matrix. The columns of D are the dictionary atoms, which are the building blocks that will be used to represent the data samples in Y. The goal is to learn this dictionary such that it can sparsely represent the data.
 	
 3. X is the what we want to find. Find X from A through D.
 	A matrix (encode in a dictionary matrix)
@@ -14,7 +14,7 @@
 	x (a sparse vector) - red (1) in x vector mean multiply the red row with k cols in A dictionary matrix. 
 		vector with more 0 than 1, hence Sparse vector
 	Ex: 3 row, 2 col
-
++ X là biểu diễn thưa của h thông qua A. Đại diện cho các yếu tốt quan trọng nhất trong tín hiệu đầu vào.
 
 Chuẩn 0/1: số ptử khác 0/1 (/ -> hoặc)
 $min_x||min(x)||_0$
@@ -26,8 +26,6 @@ step 2: lock A, update A base on x find in step 1.
 Cách cập nhât từ điển A có the thông qua H hoặc X.
 
 $\epsilon$ : predefine or calculatable
-
-
 
 NP-Hard - cố gắng tìm đc nghiệm có số lỗi $\epsilon$ nhỏ nhất
 Idea: col of the dictis selected iter 1 by 1.
@@ -103,4 +101,5 @@ plt.show()
 
 ```
 
-Create Noise
+
+

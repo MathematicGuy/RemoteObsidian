@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a5bc4647d040a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Collab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K-SVD.md",
+                "file": "Google Collab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K-SVD.md",
+                "file": "Google Collab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K-SVD.md"
+                "file": "Google Collab.md"
               }
             }
           },
@@ -197,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa14bd8b3d044c91",
+  "active": "2a5bc4647d040a8c",
   "lastOpenFiles": [
-    "Pasted image 20240820164504.png",
     "K-SVD.md",
+    "Pasted image 20240820164504.png",
     "2 ACTIONS/_Focus.md",
     "Q-Learning Update.md",
     "Eigenvalues and Eigenvectors.md",
@@ -227,7 +239,6 @@
     "Pasted image 20240815210906.png",
     "Pasted image 20240815205601.png",
     "Pasted image 20240815205329.png",
-    "Pasted image 20240815205124.png",
     "Linear Regression.md",
     "SIC - Homework Note.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
