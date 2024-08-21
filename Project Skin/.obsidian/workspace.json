@@ -10,6 +10,7 @@
           {
             "id": "71dc52966dcabb0a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6685f7816cf619a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transaction with Authentication - JAVA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Transaction with Authentication - JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Transaction with Authentication - JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Transaction with Authentication - JAVA.md"
               }
             }
           },
@@ -188,10 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71dc52966dcabb0a",
+  "active": "6685f7816cf619a1",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
+    "Transaction with Authentication - JAVA.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/Backend.md",
     "English Club.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
@@ -221,7 +238,6 @@
     "Pasted image 20240802152816.png",
     "Full Stack Java.md",
     "How to build a web application in Java.md",
-    "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
     "Pasted image 20240802110758.png",
     "Pasted image 20240802110852.png",
     "Pasted image 20240802110509.png",

@@ -137,7 +137,7 @@ public class QuickStart {
 }
 ```
 
-### Transaction
+### [[Transaction with Authentication - JAVA]] 
 JWT is a combination of **Header** + **Payload** + **Signature**.
 - **Header**: Specifies the signing algorithm (e.g., HS256).
 - **Payload**: Contains the actual data or "claims" (e.g., `userId`, `role`, `iat`, `exp`).

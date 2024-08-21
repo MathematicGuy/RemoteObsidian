@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4241b540385bed83",
+        "id": "82760a1a90b7ba45",
         "type": "tabs",
         "children": [
           {
-            "id": "37f507b3c7967fd9",
+            "id": "06a4255e2ed8eea1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e6cd75b4b25ff8fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eigenvalues and Eigenvectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa14bd8b3d044c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K-SVD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a5bc4647d040a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Collab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Collab.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Collab.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Collab.md"
+                "file": "2 ACTIONS/_Focus.md"
               }
             }
           },
@@ -209,13 +172,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a5bc4647d040a8c",
+  "active": "06a4255e2ed8eea1",
   "lastOpenFiles": [
+    "Eigenvalues and Eigenvectors.md",
     "K-SVD.md",
+    "Google Collab.md",
     "Pasted image 20240820164504.png",
     "2 ACTIONS/_Focus.md",
     "Q-Learning Update.md",
-    "Eigenvalues and Eigenvectors.md",
     "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
     "3 RESOURCES/Algorithms/Q Learning.md",
     "3 RESOURCES/Algorithms/Algorithm Problem.md",
@@ -228,7 +192,6 @@
     "1 PROJECTS/SIC/SIC.md",
     "SIC - Mathematic in Data Science.md",
     "Speed Run SIC Scholarship.md",
-    "Google Collab.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
     "Pasted image 20240816082523.png",
     "Pasted image 20240816082434.png",
