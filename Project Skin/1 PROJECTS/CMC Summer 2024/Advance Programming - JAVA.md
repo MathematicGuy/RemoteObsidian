@@ -136,3 +136,16 @@ public class QuickStart {
   }
 }
 ```
+
+### Transaction
+JWT is a combination of **Header** + **Payload** + **Signature**.
+- **Header**: Specifies the signing algorithm (e.g., HS256).
+- **Payload**: Contains the actual data or "claims" (e.g., `userId`, `role`, `iat`, `exp`).
+- **Signature**: Ensures the token's integrity by signing the encoded header and payload with a secret key.
+-> Backend: Create a Key, Encrypt the data with that Key.
+-> Encrypt data get send to the Frontend
+-> Front end: Receive the Token and store it in the session storage (temporary storage/web cache)
+-> User take actions Transaction that require authentication (prove the user identity) from the Backend. 
+-> Front End call the Trasaction API which include the JWT (in the API call) to backend.
+-> The Backend receive end decrypt the data with the key was used to encypt earlier.
+-> Authentication complete. Allow Transaction Process to begin
