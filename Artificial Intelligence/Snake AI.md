@@ -66,11 +66,8 @@ ipython
 ```sh
 pip install -r requirements.txt
 ```
-Revison: [[Python OOP (Object Oriented Programming)]]
-
 
 # Part 3: Implement Agent to Control Game
-
 
 
 # Part 4: Create and Train Neural Network

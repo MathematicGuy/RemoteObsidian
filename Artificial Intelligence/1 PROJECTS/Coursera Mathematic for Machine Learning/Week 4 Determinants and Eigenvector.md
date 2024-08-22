@@ -1,3 +1,6 @@
+---
+banner: 1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg
+---
 # Span in Linear Algebra
 > Span is the line that contain the vector
 ![[Pasted image 20240705162326.png]]

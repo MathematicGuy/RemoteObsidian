@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88cb10a86c8e0dab",
+        "id": "57baa603cf1c170e",
         "type": "tabs",
         "children": [
           {
-            "id": "56ff2fe73c3f752d",
+            "id": "fb722ecbdb4f4b99",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "eb43c05a9a702182",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -195,9 +190,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb43c05a9a702182",
+  "active": "fb722ecbdb4f4b99",
   "lastOpenFiles": [
+    "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
+    "4 ARCHIVES/2023/3rd Semesters/OS/How to use Machine Learning AI in Unity! (ML-Agents).md",
     "_Focus/Todo.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "Neural Network.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
     "Transaction with Authentication - JAVA.md",
@@ -223,11 +222,7 @@
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "React.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "House of Hypertrophy.md",
-    "4 ARCHIVES/2023/3rd Semesters/OOP/Introduction to OOP.md",
-    "4 ARCHIVES/2023/3rd Semesters/OOP/OOP CMC.md",
-    "3 RESOURCES/Programming/OOP/OOP.md",
     "Pasted image 20240802152816.png",
     "Pasted image 20240802110758.png",
     "Pasted image 20240802110852.png",

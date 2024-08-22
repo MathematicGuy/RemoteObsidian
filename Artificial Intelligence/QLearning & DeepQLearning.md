@@ -20,3 +20,5 @@ Alpha - parameter that decided how large the gradient would be. The Larger Alpha
 [Deep Q-Learning](https://www.youtube.com/watch?v=yR8N4AUEGoE)
 
 [[QLearning Solve Example]]
+
+

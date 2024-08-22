@@ -7,5 +7,4 @@ AI Ethical
 ---
 ## [[Classification Techniques]]
 
-## [[Neural Network]]
 

@@ -1,5 +1,5 @@
  
-#Priorit
+#Priority
 - [ ] Coursera Calculus Gradient Descent
 - [ ] RASA ChatBot (Deadline by Tomorrow Morning)
 - [ ] SIC HW Chapter 6 

@@ -7,9 +7,10 @@
   "make-md",
   "obsidian-tikzjax",
   "quickadd",
-  "templater-obsidian",
   "quick-latex",
   "obsidian-latex-suite",
   "obsidian-completr",
-  "obsidian-latex-environments"
+  "obsidian-latex-environments",
+  "omnisearch",
+  "obsidian-statusbar-pomo"
 ]

@@ -22,19 +22,7 @@
             }
           },
           {
-            "id": "9867073a60c83d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QLearning Solve Example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e2ad60b45b39902",
+            "id": "343e4b1f941097df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "194830423b609645",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "QLearning & DeepQLearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "QLearning & DeepQLearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "QLearning & DeepQLearning.md"
+              }
             }
           },
           {
@@ -198,47 +181,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "194830423b609645",
+  "active": "343e4b1f941097df",
   "lastOpenFiles": [
-    "QLearning & DeepQLearning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
     "2 ACTIONS/_Focus.md",
-    "Q-Learning Update.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/A work example of Back-Substitution.md",
-    "Explain -delta(cos x).md",
-    "3 RESOURCES/Algorithms/Q Learning.md",
-    "QLearning Solve Example.md",
-    "3 RESOURCES/Algorithms/Algorithm Problem.md",
-    "Snake AI.md",
-    "Pasted image 20240822171050.png",
-    "Pasted image 20240822170634.png",
-    "Pasted image 20240822170547.png",
-    "Pasted image 20240822165945.png",
-    "Pasted image 20240822165901.png",
-    "Pasted image 20240822165531.png",
-    "Pasted image 20240822165252.png",
-    "Pasted image 20240822165205.png",
-    "Pasted image 20240822165109.png",
-    "Pasted image 20240822164842.png",
-    "Eigenvalues and Eigenvectors.md",
-    "K-SVD.md",
-    "Google Collab.md",
-    "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
-    "Choosing an algorithm.md",
-    "Gradient and Gradient Descent.md",
-    "github.md",
-    "PDF Chatbot - Simple RAG from Scratch.md",
-    "Virtual Assistant Model.md",
-    "SIC - ChatBot CapStrone Project.md",
-    "1 PROJECTS/SIC/SIC.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Sequence to sequence (seq2seq).md",
+    "4 ARCHIVES/Image/0 2_qzcm2gSe9l67aI.png",
     "SIC - Mathematic in Data Science.md",
-    "Speed Run SIC Scholarship.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
-    "Linear Regression.md",
-    "SIC - Homework Note.md",
+    "1 PROJECTS/SIC/SIC - Artificial Intelligent.md",
+    "Pomodoro Log.md",
+    "QLearning Solve Example.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "PCB Anomaly Detection RoadMap.md",
+    "Principal Component Analysis Algorithm.md",
+    "Save4Later.md",
+    "Snake AI.md",
+    "QLearning & DeepQLearning.md",
+    "Week 4 Summary.md",
+    "1 PROJECTS/SIC/SIC.md",
+    "1 PROJECTS/SIC/SIC - AI Intro.md",
+    "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/introduction to numpy array.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation 1.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/what does it mean to say - The solution for this system has 0 degrees of freedom..md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Unsupervised Learning.md",
+    "4 ARCHIVES/Image/Pasted image 20240822171050.png",
+    "so-huu-ti-la-gi-3.webp",
+    "4 ARCHIVES/Image/Pasted image 20240822170634.png",
+    "4 ARCHIVES/Image/Pasted image 20240822170547.png",
+    "4 ARCHIVES/Image/Pasted image 20240822165945.png",
+    "4 ARCHIVES/Image/Pasted image 20240822165901.png",
+    "4 ARCHIVES/Image/Pasted image 20240822165531.png",
+    "4 ARCHIVES/Image/Pasted image 20240822165252.png",
+    "4 ARCHIVES/Image/Pasted image 20240822165205.png",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

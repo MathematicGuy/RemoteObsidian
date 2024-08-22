@@ -45,7 +45,7 @@ The process then continue over and over until the QTable are more optimal and st
 **Target Policy:** the policy the agent is trying to learn.
 **Behavior Policy:** the policy the agent uses to learn the target policy.
 
-
-Learn:
+**Learn:**
 + The Bellman Equation
-+ Temporal Different Learnin
++ Temporal Different Learning
+
