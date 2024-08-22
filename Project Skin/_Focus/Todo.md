@@ -3,7 +3,6 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Genetic Algorithm for Snake AI
 - [ ] RAG cho Web Java
 - [ ] Finish SIC Multi Learning tự luận. Nộp cho thầy (Today deadline) 
 - [ ] Document Simple Rag from Scratch SIC Project

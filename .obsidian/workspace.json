@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "252d657a5edf2520",
+        "id": "f6d022cf2998745d",
         "type": "tabs",
         "children": [
           {
-            "id": "348beebc35e83212",
+            "id": "06c1092463914ec2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff9a1382dabaf3ec",
@@ -138,8 +139,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "348beebc35e83212",
+  "active": "06c1092463914ec2",
   "lastOpenFiles": [
+    "Artificial Intelligence/3 RESOURCES/Artificial Intelligent/Machine Learning/Knowledge.md",
     "Project Skin/Spaces",
     "Project Skin/1 PROJECTS/1.5 Years Look Back Video Project.md",
     "Dream/My Life/Google Sky.md",
