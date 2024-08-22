@@ -226,6 +226,21 @@ ALTER TABLE Team
 ADD CONSTRAINT team_status_check CHECK (team_status IN ('Active', 'Inactive'));
 ```
 
+**Save Constraint as Variable**
+```sql
+DECLARE @ConstraintName nvarchar(128);  
+  
+-- Find the name of the default constraint  
+SELECT @ConstraintName = name  
+FROM sys.default_constraints  
+WHERE parent_object_id = OBJECT_ID('Users')  
+AND col_name(parent_object_id, parent_column_id) = 'CurrentGP';
+
+ALTER TABLE UserActions  
+DROP CONSTRAINT @ConstraintName;
+```
+
+
 MOVING COLUMN AROUND
 	FIRST <-> AFTER  
 ```sql
