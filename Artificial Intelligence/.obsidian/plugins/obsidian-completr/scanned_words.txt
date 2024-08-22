@@ -6245,6 +6245,7 @@ breakdown
 broad
 behavior
 blocks
+behave
 for
 find
 factor
@@ -7897,6 +7898,8 @@ shifts
 sparse
 selected
 sparsely
+situations
+substitution
 consists
 can
 change
@@ -10503,6 +10506,8 @@ medium
 maxa
 moderate
 minimal
+maximized
+maxQ
 The
 This
 To
@@ -11353,6 +11358,8 @@ Token
 Tensor
 Tokens
 Tower
+Target
+Temporal
 after
 and
 as
@@ -14579,6 +14586,7 @@ BiBy
 BHh
 Biy
 Balanced
+Behavior
 Using
 Understand
 Unique
@@ -17482,6 +17490,7 @@ LLMs
 LLM
 Luy
 Late
+Learnin
 you
 yield
 yk
@@ -27520,6 +27529,8 @@ ups
 utilized
 updated
 updates
+uses
+undefined
 Recall
 Reference
 Redundant
@@ -30690,6 +30701,7 @@ Paper
 Prompt
 Perform
 Progresses
+Phrase
 Defecs
 Defects
 Dataset
@@ -31440,6 +31452,7 @@ Dmh
 Databases
 Discount
 Dict
+DQN
 Visual
 Variables
 Visualization
@@ -38479,6 +38492,9 @@ Qjs
 QGp
 QZt
 Queens
+QNetwork
+QLearning
+QTable
 XnV
 XT
 XK

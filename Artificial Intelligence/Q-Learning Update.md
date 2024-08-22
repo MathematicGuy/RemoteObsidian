@@ -1,22 +1,17 @@
 ### Understanding the Update Term
-
 The term you're referring to:
-
 $\alpha \left[r + \gamma \cdot \max_{a'} Q(s', a') - Q(s, a)\right]$
 
 is the amount by which the Q-value $Q(s, a)$ is adjusted during each update in Q-Learning. Let's break it down:
-
 1. **$r$**: The immediate reward received after taking action $a$ in state $s$.
 2. **$\gamma \cdot \max_{a'} Q(s', a')$**: The discounted maximum expected future reward obtainable from the next state $s'$.
 3. **$Q(s, a)$**: The current estimate of the Q-value for the state-action pair $(s, a)$.
 
 ### Positive or Negative Updates
-
 - **Positive Update**: If the target value $r + \gamma \cdot \max_{a'} Q(s', a')$ is greater than the current estimate $Q(s, a)$, the Q-value will increase, reflecting an optimistic update.
 - **Negative Update**: If the target value is less than the current estimate, the Q-value will decrease, reflecting a pessimistic update.
 
 ### Early Iterations
-
 - **Early in Training**: The Q-values $Q(s, a)$ are typically initialized randomly or to zero. Since the agent has little knowledge, the estimates $Q(s, a)$ are not yet accurate.
     - **Large TD Error**: The term $\gamma \cdot \max_{a'} Q(s', a')$ might be relatively large, leading to a large temporal difference (TD) error $r + \gamma \cdot \max_{a'} Q(s', a') - Q(s, a)$.
     - **Impact**: This results in a large update step, driving the Q-value toward a more accurate estimate, potentially leading to faster convergence in the early stages.
@@ -57,7 +52,6 @@ To visualize this, let's consider the effect of each component at different stag
     
 
 ### Summary
-
 - **Early Iterations:** The agent makes large adjustments to the Q-values because the difference between the estimated and target Q-values is large.
 - **Mid Training:** Adjustments become smaller as the agent's estimates improve, but there is still room for moderate changes.
 - **Late Training:** Adjustments are minimal as the Q-values are close to convergence.

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27dde41dfac421c5",
+        "id": "88cb10a86c8e0dab",
         "type": "tabs",
         "children": [
           {
-            "id": "38c105e106b4ecaf",
+            "id": "56ff2fe73c3f752d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "eb43c05a9a702182",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,12 +195,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "38c105e106b4ecaf",
+  "active": "eb43c05a9a702182",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
     "Transaction with Authentication - JAVA.md",
-    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/Backend.md",
     "English Club.md",
