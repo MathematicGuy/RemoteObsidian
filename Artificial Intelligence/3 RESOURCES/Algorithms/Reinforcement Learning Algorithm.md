@@ -20,6 +20,7 @@ $$Q(s,a)←Q(s,a)+α[r+γ⋅max⁡_{a'}Q(s′,a′)−Q(s,a)]$$
 * $s′$: The next state after taking action a.
 	
 * $max_{a′}​Q(s′,a′)$: The maximum expected future reward for the next state s′ across all possible actions a′
+  
 
 **Explain in Detail**:
 + $Q(s, a )$: Current State **s** and Action **a**
@@ -77,9 +78,38 @@ Perform the chosen action and observe the immediate reward r and the new state s
 	The algorithm converges when the Q-values stabilize, meaning the agent has learned an optimal policy.
 
 
-### Deep Q-Learning
+# Limitations
+- [ ]  Can only learn from mistake once they're dead, not at a certain state.
 
-  
-  
 
-### Genetic Algorithm
+---
+
+![[Pasted image 20240823191154.png]]
+![[Pasted image 20240823191218.png]]
+**How many step are optimal to look ahead ?**
+
+![[Pasted image 20240823191412.png]]
+>Bellman Equation
+![[Pasted image 20240823191518.png]]
+
+![[Pasted image 20240823191533.png]]
+
+Random  Exploration -> allow agent to find hidden reward.
+Ex:
++ a road give 20 reward that lead to 20 reward
++ a road give 0 reward that lead to 100 reward (Better Choice, but can only be found with random exploration)
+
+**Model-Free learning** 
++ An AI learn by it self without needing to create a model before hand. 
++ AI can **directly derive an optimal policy** from its interacting env **without needing to create a model before hand**. 
+
+**Q learning** is a **model-free learning technique** that can be used to **find the optimal policy using a Q function.** 
+
+
+**Temporal Difference Learning**
+![[Pasted image 20240823202026.png]]
+
+**reinforcement learning algorithms**
+![[Pasted image 20240823202226.png]]
+
+using 

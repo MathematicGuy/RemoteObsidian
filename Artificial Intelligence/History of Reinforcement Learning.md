@@ -24,7 +24,7 @@ Create a Value function Shannon (the author) started with some well-know chess r
 	+ Each features importance will have the ability to learn from experience -> sense of direction.  ![[Pasted image 20240812215231.png]]
 
  **TD Gammom (Grerald Tesaruo)** - TD Learning
- ![[Pasted image 20240813084131.png]]
+![[Pasted image 20240813084131.png]]
 Compare the current move winning chance to it future move winning change. Then Update the value of the current move closer to the future move if the future move have higher winning chance.
 -> Learning from your own guesses. Temporal difference Learning. 
 -> As the machine trained, it become better at predicting future pattern. Then it start to predict the future backward, form end game to openning game. (This is call Bootstraping)

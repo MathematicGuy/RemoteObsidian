@@ -17,6 +17,8 @@ Gamma: how important the future return are in ours calculation.
 Subtract the curernt Q value to the next Q value give us the gradient or rate of change.
 Alpha - parameter that decided how large the gradient would be. The Larger Alpha is the larger Q value would changes.  
 
+
+
 [Deep Q-Learning](https://www.youtube.com/watch?v=yR8N4AUEGoE)
 
 [[QLearning Solve Example]]

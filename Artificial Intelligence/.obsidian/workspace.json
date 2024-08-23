@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "343e4b1f941097df",
+            "id": "b000b036f4c19435",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "192c60544d990d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QLearning & DeepQLearning.md",
+                "file": "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QLearning & DeepQLearning.md",
+                "file": "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QLearning & DeepQLearning.md"
+                "file": "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md"
               }
             }
           },
@@ -181,14 +193,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "343e4b1f941097df",
+  "active": "192c60544d990d93",
   "lastOpenFiles": [
+    "Pasted image 20240823202226.png",
+    "Pasted image 20240823202026.png",
+    "Pasted image 20240823191533.png",
+    "Pasted image 20240823191518.png",
+    "Pasted image 20240823191412.png",
+    "Pasted image 20240823191218.png",
+    "Pasted image 20240823191154.png",
+    "QLearning & DeepQLearning.md",
     "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
+    "Deep Reinforcement Learning.md",
+    "History of Reinforcement Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
+    "PDF Chatbot - Simple RAG from Scratch.md",
+    "Virtual Assistant Model.md",
+    "SIC - ChatBot CapStrone Project.md",
+    "Missing value/data.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Sequence to sequence (seq2seq).md",
     "4 ARCHIVES/Image/0 2_qzcm2gSe9l67aI.png",
     "SIC - Mathematic in Data Science.md",
@@ -200,30 +227,14 @@
     "Principal Component Analysis Algorithm.md",
     "Save4Later.md",
     "Snake AI.md",
-    "QLearning & DeepQLearning.md",
     "Week 4 Summary.md",
     "1 PROJECTS/SIC/SIC.md",
     "1 PROJECTS/SIC/SIC - AI Intro.md",
     "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/introduction to numpy array.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Transformations and Neural Networks Assignment.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation 1.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/what does it mean to say - The solution for this system has 0 degrees of freedom..md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Artificial Network Using Linear Algebra.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Unsupervised Learning.md",
     "4 ARCHIVES/Image/Pasted image 20240822171050.png",
     "so-huu-ti-la-gi-3.webp",
     "4 ARCHIVES/Image/Pasted image 20240822170634.png",
-    "4 ARCHIVES/Image/Pasted image 20240822170547.png",
-    "4 ARCHIVES/Image/Pasted image 20240822165945.png",
-    "4 ARCHIVES/Image/Pasted image 20240822165901.png",
-    "4 ARCHIVES/Image/Pasted image 20240822165531.png",
-    "4 ARCHIVES/Image/Pasted image 20240822165252.png",
-    "4 ARCHIVES/Image/Pasted image 20240822165205.png",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

@@ -27,9 +27,6 @@ https://github.com/thangnch/AI_Voicebot
 ### How to train Model
 
 
-
-
-
 # Mastering RASA: Entities, Slot and Custom Actions Explained 
 
 
@@ -65,4 +62,14 @@ run chatbot
 
 
 
+16: 1 -> 3
+29: 1 -> 13
+46: 4 -> 1
+46: 
 
+
+Week 11: ![](https://lc.multicampus.com/static/pc/img/img_me_exam.svg)
+
+Exam
+
+**QUIZZ - AI - Chap 6 Lesson 2**

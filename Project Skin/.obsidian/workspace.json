@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56e684c8dff0be2d",
+            "id": "22abcffe77e3d939",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,12 +187,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56e684c8dff0be2d",
+  "active": "22abcffe77e3d939",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "_Focus/Todo.md",
     "German History.md",
     "Docker MSSQL.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
