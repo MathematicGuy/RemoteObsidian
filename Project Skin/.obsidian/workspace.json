@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9ecbdc17c7fa4d31",
+        "id": "6df7763b2747cfef",
         "type": "tabs",
         "children": [
           {
-            "id": "22abcffe77e3d939",
+            "id": "ca577065dfbc9579",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,15 +189,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "22abcffe77e3d939",
+  "active": "ca577065dfbc9579",
   "lastOpenFiles": [
+    "Spaces/How to Run React Native with Android Studio.md",
+    "Spaces/Mobile Development Project.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "Spaces/Android Studio Turtorial.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German History.md",
     "Docker MSSQL.md",
-    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
@@ -212,9 +217,6 @@
     "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
     "4 ARCHIVES/2023/3rd Semesters/OS/How to use Machine Learning AI in Unity! (ML-Agents).md",
     "Neural Network.md",
-    "3 RESOURCES/DataBase/SQL/SQL Code.md",
-    "3 RESOURCES/DataBase/SQL/SQL.md",
-    "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/Backend.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "Pasted image 20240819003900.png",

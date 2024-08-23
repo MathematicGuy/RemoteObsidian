@@ -112,4 +112,13 @@ Ex:
 **reinforcement learning algorithms**
 ![[Pasted image 20240823202226.png]]
 
-using 
+![[Pasted image 20240823203146.png]]
++ Use a Value function to determine an optimal Policy to train the agent.
++ Pre-determinant policy use to train agent.
+
+
++ ? State: snapshot of environment. V(s)
++ ? Action: decision taken by agent in an environment. Q(s, a)
+![[Pasted image 20240823203932.png]]
+
+Temporal Difference Learning (Học tập sự khác biệt về thời gian)
