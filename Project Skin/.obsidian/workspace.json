@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57baa603cf1c170e",
+        "id": "2e1afd06e5a6c1b6",
         "type": "tabs",
         "children": [
           {
-            "id": "fb722ecbdb4f4b99",
+            "id": "e827094ff9d6d89e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,39 +189,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb722ecbdb4f4b99",
+  "active": "e827094ff9d6d89e",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "_Focus/Todo.md",
+    "German History.md",
+    "Docker MSSQL.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
+    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
+    "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
+    "1 PROJECTS/My Travel Plan by myself.md",
+    "ML & DM HW1.md",
+    "Classification Bayes.md",
+    "Transaction with Authentication - JAVA.md",
+    "2 ACTIONS/Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
+    "Spaces/Classification Techniques.md",
     "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
     "4 ARCHIVES/2023/3rd Semesters/OS/How to use Machine Learning AI in Unity! (ML-Agents).md",
-    "_Focus/Todo.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Neural Network.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
-    "Transaction with Authentication - JAVA.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/Backend.md",
-    "English Club.md",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
-    "Prompt Engineering.md",
-    "Storing Files in a Database with Spring Boot.md",
-    "2 ACTIONS/Personal/Personal.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
-    "2 ACTIONS/Personal/Language Learning/German.md",
     "Pasted image 20240819003900.png",
-    "3 RESOURCES/Save for later/Save for later.md",
-    "Thi Đấu Lập Trình.md",
-    "German Learning Core.md",
-    "Learn ReactNative.md",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "3 RESOURCES/Git/Git.md",
     "Pasted image 20240818144902.png",
     "Pasted image 20240818144708.png",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
-    "React.md",
-    "House of Hypertrophy.md",
     "Pasted image 20240802152816.png",
     "Pasted image 20240802110758.png",
     "Pasted image 20240802110852.png",

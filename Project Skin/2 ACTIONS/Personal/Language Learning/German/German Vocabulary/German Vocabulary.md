@@ -786,7 +786,6 @@ Einen (musculine)
 	+ Ali, dein Onkel liebt deinen Opa.
 Ein (neutral - trung tính) 
 Eine (feminen)
-
 Liebt dein bruder deinen hund - does your brother love your dog
 
 ### Unit 3: Talk about language, talk about hobbies
@@ -2295,7 +2294,6 @@ Einzelzimmer - single room
 Doppelzimmer - double room
 frei available
 
-
 || -> mean understand why this is the right form later. 
 
 Die Tür - the door
@@ -2327,7 +2325,7 @@ Ruhig quiet
 
 Sessel armchair 
 Es gibt - there is
++ ? Hat das Zimmer einen Fernseher oder nicht - why use hat in this sentence
 
-+ ? Hat das Zimmer einen Fernseher oder nicht - why use hat in this sentencef
-
-
+Rezeption - reception
+Banane - Banana

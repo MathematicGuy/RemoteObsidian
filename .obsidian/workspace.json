@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d022cf2998745d",
+        "id": "83b31c011ebaad3d",
         "type": "tabs",
         "children": [
           {
-            "id": "06c1092463914ec2",
+            "id": "e4501544cfb2e8dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff9a1382dabaf3ec",
@@ -136,10 +135,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "06c1092463914ec2",
+  "active": "e4501544cfb2e8dc",
   "lastOpenFiles": [
     "Artificial Intelligence/3 RESOURCES/Artificial Intelligent/Machine Learning/Knowledge.md",
     "Project Skin/Spaces",
