@@ -23,3 +23,8 @@ Dùng **Ctr + Shift + P để tìm kiếm**
 + Devide: Pixel 7 API 29
 	 ![[Pasted image 20240824225753.png]]
 + Vào **main.dart** >  bấm **F5**
+
+---
+
+![[Pasted image 20240824231715.png]]
+Stateless can be change in runtime

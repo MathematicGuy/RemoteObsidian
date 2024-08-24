@@ -26,8 +26,13 @@
             "id": "b91dbd5a2dab1084",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Flutter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flutter.md"
+              }
             }
           },
           {
@@ -196,6 +205,7 @@
   },
   "active": "b91dbd5a2dab1084",
   "lastOpenFiles": [
+    "Pasted image 20240824231715.png",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "Flutter.md",
