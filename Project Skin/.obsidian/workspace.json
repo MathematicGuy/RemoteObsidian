@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "975384690ad91627",
+        "id": "0b056d9064d28ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "75710fb8febbe0f7",
+            "id": "e06aceb96041a33c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "eb14e3a59aa7726b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +194,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "75710fb8febbe0f7",
+  "active": "eb14e3a59aa7726b",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "Spaces/How to Run React Native with Android Studio.md",
     "Spaces/Mobile Development Project.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Spaces/Android Studio Turtorial.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
