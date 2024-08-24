@@ -28,3 +28,9 @@ Dùng **Ctr + Shift + P để tìm kiếm**
 
 ![[Pasted image 20240824231715.png]]
 Stateless can be change in runtime
+
+
+**Scraffold** 
+![[Pasted image 20240825000528.png]]
+
+
