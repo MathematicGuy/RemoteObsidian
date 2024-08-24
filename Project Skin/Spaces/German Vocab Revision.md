@@ -617,3 +617,8 @@ Kissen pillow
 	Mir geffällt das Kissen, Kann ich es kaufen
 
 Nur eine Treppe im Mehrfamilienhaus - only one Staircase in the department building
+
+Willkommen, Was möchten Sie im Urlaub machen - welcome, what would you like to do on holiday/vacation
+
+Wie funktioniert die fernsehen / how does the TV work ?
+

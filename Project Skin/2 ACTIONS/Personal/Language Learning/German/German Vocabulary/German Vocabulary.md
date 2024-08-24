@@ -2329,3 +2329,15 @@ Es gibt - there is
 
 Rezeption - reception
 Banane - Banana
+hu
+Lange - long
+Wie lange - how long
+	Wie lange wollen Sie bleiben
+
+Nehmen - take
+	![](https://d2pur3iezf4d1j.cloudfront.net/images/f4639160abfb44c54829ebeb62c0542d)
+	Wollen Sie das Einzelzimmer Nehmen - Do you want to take the single room?
+
+Willkommen, Was viele möchten Sie im Urlaub machen - welcome, what do you want to do on vacation.
+
+Rezeption - reception

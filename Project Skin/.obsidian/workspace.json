@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa5c497e7fbdd8f",
+        "id": "b084318cb410cf41",
         "type": "tabs",
         "children": [
           {
-            "id": "74f0b2252a8d7f99",
+            "id": "300d15e54727bc52",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "483803b99f350979",
+            "id": "b91dbd5a2dab1084",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,19 +194,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "483803b99f350979",
+  "active": "b91dbd5a2dab1084",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
     "Flutter.md",
+    "Pasted image 20240824225753.png",
+    "Pasted image 20240824225626.png",
+    "Pasted image 20240824225536.png",
+    "Pasted image 20240824225439.png",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "3 RESOURCES/Web/FrontEnd/FrontEnd.md",
-    "_Focus/Todo.md",
     "Spaces/How to Run React Native with Android Studio.md",
     "Spaces/Mobile Development Project.md",
     "Learn ReactNative.md",
     "Spaces/Android Studio Turtorial.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German History.md",
     "Docker MSSQL.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
@@ -225,17 +225,12 @@
     "Classification Bayes.md",
     "Transaction with Authentication - JAVA.md",
     "2 ACTIONS/Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
-    "Spaces/Classification Techniques.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "Pasted image 20240819003900.png",
     "Pasted image 20240818144902.png",
     "Pasted image 20240818144708.png",
     "Pasted image 20240802152816.png",
-    "Pasted image 20240802110758.png",
-    "Pasted image 20240802110852.png",
-    "Pasted image 20240802110509.png",
-    "Pasted image 20240802110338.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
