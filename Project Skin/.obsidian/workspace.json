@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b056d9064d28ffa",
+        "id": "66242e050e489a27",
         "type": "tabs",
         "children": [
           {
-            "id": "e06aceb96041a33c",
+            "id": "f0ac64998fcba5e9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "eb14e3a59aa7726b",
+            "id": "24850b4ed34be1f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,11 +194,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb14e3a59aa7726b",
+  "active": "24850b4ed34be1f2",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/How to Run React Native with Android Studio.md",
     "Spaces/Mobile Development Project.md",
+    "Learn ReactNative.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Spaces/Android Studio Turtorial.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -221,7 +222,6 @@
     "Spaces/Classification Techniques.md",
     "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
     "4 ARCHIVES/2023/3rd Semesters/OS/How to use Machine Learning AI in Unity! (ML-Agents).md",
-    "Neural Network.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "Pasted image 20240819003900.png",
