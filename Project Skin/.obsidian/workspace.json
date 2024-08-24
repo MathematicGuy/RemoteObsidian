@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66242e050e489a27",
+        "id": "3aa5c497e7fbdd8f",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ac64998fcba5e9",
+            "id": "74f0b2252a8d7f99",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "24850b4ed34be1f2",
+            "id": "483803b99f350979",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,13 +198,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "24850b4ed34be1f2",
+  "active": "483803b99f350979",
   "lastOpenFiles": [
+    "Flutter.md",
+    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
+    "3 RESOURCES/Web/FrontEnd/FrontEnd.md",
     "_Focus/Todo.md",
     "Spaces/How to Run React Native with Android Studio.md",
     "Spaces/Mobile Development Project.md",
     "Learn ReactNative.md",
-    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "Spaces/Android Studio Turtorial.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
@@ -220,8 +226,6 @@
     "Transaction with Authentication - JAVA.md",
     "2 ACTIONS/Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Spaces/Classification Techniques.md",
-    "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
-    "4 ARCHIVES/2023/3rd Semesters/OS/How to use Machine Learning AI in Unity! (ML-Agents).md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "Pasted image 20240819003900.png",
