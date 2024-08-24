@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6df7763b2747cfef",
+        "id": "975384690ad91627",
         "type": "tabs",
         "children": [
           {
-            "id": "ca577065dfbc9579",
+            "id": "75710fb8febbe0f7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca577065dfbc9579",
+  "active": "75710fb8febbe0f7",
   "lastOpenFiles": [
     "Spaces/How to Run React Native with Android Studio.md",
     "Spaces/Mobile Development Project.md",

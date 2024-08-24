@@ -37,4 +37,17 @@ On Windows I used:
 ```
 pip3 install -U torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
+**Deploy RAG**: https://youtu.be/C0HwZipOqXI?si=6UVUr_DKYWS_637-
 
+
+**RAG Pipeline**
+![[Pasted image 20240823210801.png]]
+
+- [ ]  Split Header (10%)
+- [ ] Understand RAG by reading Document in 4 Step. (40%)
+- [ ] Code Analysis (50%)
+- [ ] Test Rag pipeline on Discourses Epictetus / Secret of Top 1 Student
+---
+
+Questions: 
+Why Rag pipeline help prevent hallucination?

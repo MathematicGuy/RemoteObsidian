@@ -837,6 +837,7 @@ EXX
 EEEL
 Ein
 EDC
+Epictetus
 the
 that
 transformation
@@ -8081,6 +8082,7 @@ statistical
 sbbb
 sSi
 sWz
+snapshot
 consists
 can
 change
@@ -19365,6 +19367,7 @@ printed
 preparing
 phNTE
 pPRR
+prevent
 You
 Yes
 YX
@@ -21698,6 +21701,8 @@ Sewak
 SSSC
 STTD
 SCp
+Secret
+Student
 result
 reduced
 repeated
@@ -22509,6 +22514,7 @@ readings
 ressonant
 rlh
 road
+reading
 Non
 Need
 No
@@ -29028,6 +29034,7 @@ Rds
 RXX
 Rko
 RCD
+Rag
 Or
 One
 Our
@@ -32201,6 +32208,8 @@ DGG
 DFFR
 Dub
 Difference
+Deploy
+Discourses
 Visual
 Variables
 Visualization
@@ -39353,6 +39362,7 @@ Qrbv
 QoAI
 QTT
 QUIZZ
+Questions
 XnV
 XT
 XK
