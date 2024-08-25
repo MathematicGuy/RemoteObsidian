@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c869c71a5b1137cf",
+        "id": "04cef0e21c863dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "bd91fef9d4c8d426",
+            "id": "32a8f9ece9937ca7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a24b737663be89ea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,12 +194,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bd91fef9d4c8d426",
+  "active": "a24b737663be89ea",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "Flutter.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
-    "_Focus/Todo.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "Pasted image 20240825000528.png",
     "Pasted image 20240824231715.png",
@@ -245,7 +250,4 @@
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "4 ARCHIVES/2024/Club/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas"
-  ]
-}
+    "remoteObsidian/Pr

@@ -27,26 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9d0c6d940c8166a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snake AI.md",
+                "file": "Q-Learning Update.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snake AI.md",
+                "file": "Q-Learning Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snake AI.md",
+                "file": "Q-Learning Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snake AI.md"
+                "file": "Q-Learning Update.md"
               }
             }
           },
@@ -197,8 +186,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d9d0c6d940c8166a",
+  "active": "7e90f7cd2d10807f",
   "lastOpenFiles": [
+    "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
     "Snake AI.md",
     "Pasted image 20240825112429.png",
     "Pasted image 20240825110002.png",
@@ -206,7 +196,6 @@
     "2 ACTIONS/_Focus.md",
     "Deep Reinforcement Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
-    "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
     "History of Reinforcement Learning.md",
     "PDF Chatbot - Simple RAG from Scratch.md",
     "Pasted image 20240823210801.png",
