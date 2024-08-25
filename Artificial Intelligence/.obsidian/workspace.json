@@ -22,15 +22,31 @@
             }
           },
           {
-            "id": "102055784061bce8",
+            "id": "7e90f7cd2d10807f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d0c6d940c8166a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snake AI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snake AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Snake AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Snake AI.md"
+              }
             }
           },
           {
@@ -177,25 +197,26 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "102055784061bce8",
+  "active": "d9d0c6d940c8166a",
   "lastOpenFiles": [
+    "Snake AI.md",
+    "Pasted image 20240825112429.png",
+    "Pasted image 20240825110002.png",
+    "Pasted image 20240825104035.png",
     "2 ACTIONS/_Focus.md",
+    "Deep Reinforcement Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
+    "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
+    "History of Reinforcement Learning.md",
     "PDF Chatbot - Simple RAG from Scratch.md",
     "Pasted image 20240823210801.png",
     "QLearning & DeepQLearning.md",
-    "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
     "Pasted image 20240823203932.png",
     "Pasted image 20240823203146.png",
     "Pasted image 20240823202226.png",
     "Pasted image 20240823202026.png",
     "Pasted image 20240823191533.png",
     "Pasted image 20240823191518.png",
-    "Pasted image 20240823191412.png",
-    "Pasted image 20240823191218.png",
-    "Pasted image 20240823191154.png",
-    "Deep Reinforcement Learning.md",
-    "History of Reinforcement Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
     "Virtual Assistant Model.md",
     "SIC - ChatBot CapStrone Project.md",
     "Missing value/data.md",
@@ -208,7 +229,6 @@
     "PCB Anomaly Detection RoadMap.md",
     "Principal Component Analysis Algorithm.md",
     "Save4Later.md",
-    "Snake AI.md",
     "Week 4 Summary.md",
     "1 PROJECTS/SIC/SIC.md",
     "1 PROJECTS/SIC/SIC - AI Intro.md",

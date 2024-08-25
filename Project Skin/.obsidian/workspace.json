@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cea3dce5a0f456b3",
+            "id": "811d9a63795d8a3b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c26eb40e43a8b6fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,12 +194,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cea3dce5a0f456b3",
+  "active": "c26eb40e43a8b6fa",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "Flutter.md",
     "Pasted image 20240825000528.png",
     "Pasted image 20240824231715.png",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "Pasted image 20240824225753.png",
     "Pasted image 20240824225626.png",
