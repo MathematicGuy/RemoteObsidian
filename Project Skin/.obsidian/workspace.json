@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77d0dce9f63694c9",
+        "id": "c869c71a5b1137cf",
         "type": "tabs",
         "children": [
           {
-            "id": "68b4a593c78b0c8d",
+            "id": "bd91fef9d4c8d426",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c0e011a146601a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,13 +189,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c0e011a146601a0f",
+  "active": "bd91fef9d4c8d426",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "Flutter.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "_Focus/Todo.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "Flutter.md",
     "Pasted image 20240825000528.png",
     "Pasted image 20240824231715.png",
     "Spaces/German Vocab Revision.md",
