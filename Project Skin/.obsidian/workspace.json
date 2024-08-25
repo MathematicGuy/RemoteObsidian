@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7132c14b6b5d89",
+        "id": "01d1eda6203ab683",
         "type": "tabs",
         "children": [
           {
-            "id": "811d9a63795d8a3b",
+            "id": "7512d6ded8f6903b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c26eb40e43a8b6fa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,8 +189,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c26eb40e43a8b6fa",
+  "active": "7512d6ded8f6903b",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
     "Flutter.md",
     "Pasted image 20240825000528.png",
@@ -215,7 +211,6 @@
     "Spaces/Android Studio Turtorial.md",
     "German History.md",
     "Docker MSSQL.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",

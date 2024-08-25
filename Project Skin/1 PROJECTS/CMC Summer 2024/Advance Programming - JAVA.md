@@ -73,7 +73,7 @@ MSSQL - https://hub.docker.com/r/microsoft/mssql-server
 #29. Xem Tài Khoản Người Dùng (Manage Users Account)
 #30. Kích Hoạt/Vô Hiệu Hóa Tài Khoản (Manage Users Account)
 #31. Xem Mọi Tài Khoản Người Dùng (View Account Detail)
-#32. Xác Nhận Tài Khoản (View Account Detail)
+#32. Xác Nhận Tài Khoản (Verify Account)
 #33. Phân Quyền Người Dùng (View Account Detail)
 #34. Cập Nhật Trạng Thái Giao Dịch (View Account Detail)
 #35. Truy Cập Danh Sách Các Giao Dịch Mua Dịch Vụ Của Người Dùng (Subscriptions
