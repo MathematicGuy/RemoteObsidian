@@ -49,7 +49,7 @@ To visualize this, let's consider the effect of each component at different stag
     - **Update**: The Q-value adjusts slightly, making fine-tuned adjustments.
     
     $\Delta Q(s,a) \approx \alpha \times \text{Small Positive/Negative Value}$
-    
+
 
 ### Summary
 - **Early Iterations:** The agent makes large adjustments to the Q-values because the difference between the estimated and target Q-values is large.

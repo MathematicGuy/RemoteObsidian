@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32a8f9ece9937ca7",
+            "id": "a24b737663be89ea",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "a24b737663be89ea",
+            "id": "9e9913a4c0423e37",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,7 +194,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a24b737663be89ea",
+  "active": "9e9913a4c0423e37",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
@@ -250,4 +250,7 @@
     "WebDev/SlotMachine/Slot_Machine_Design.canvas",
     "Personal/FocusCanvas.canvas",
     "4 ARCHIVES/2024/Club/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Pr
+    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
+    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas"
+  ]
+}

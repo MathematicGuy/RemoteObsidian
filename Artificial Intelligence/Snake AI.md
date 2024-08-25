@@ -79,6 +79,7 @@ LR = 0.0001  # Learning Rate
 **Result after 175 Iterations**
 ![[Pasted image 20240825110002.png]]
 
+
 **400 Iters**
 ![[Pasted image 20240825112429.png]]
 
