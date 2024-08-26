@@ -3,9 +3,11 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] RAG cho Web Java
-- [ ] Finish SIC Multi Learning tự luận. Nộp cho thầy (Today deadline) 
-- [ ] Document Simple Rag from Scratch SIC Project
+- [ ] Duolingo 15' x 2 (yesterday and today)
+- [ ] Re-explain QLearning and how it work around ANN
+	- [ ] Optimization Explain - LR Anneling
+- [ ] Finish User Account Features for Mobile
+- [ ] Finish documenting Simple Rag from Scratch - SIC Project
 
 
 #Todo/GoalsThisWeek
@@ -13,6 +15,8 @@ banner: Images/Pasted image 20240402135259.png
 	Human are most Productive when they have Motivation. Keeping a Balance between Motivation and Pressure/Work is the key to Flow.
 	
 - [ ] Optimized Thinking: Don't make thing more complicated. Remove un-important task 
+	
+- [ ] Make that quick decision (3 per weeks starting from now)
 	
 - [ ] Ein Tag im bleben vlog (5') 
 \
