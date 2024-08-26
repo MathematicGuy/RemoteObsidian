@@ -82,9 +82,54 @@ LR = 0.0001  # Learning Rate
 
 **400 Iters**
 ![[Pasted image 20240825112429.png]]
+# Summarization
 
 
-## Whole code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ```python
 // snake.py
 import pygame

@@ -3,7 +3,7 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-- [ ] Duolingo 15' x 2 (yesterday and today)
+- [x] Duolingo 15' x 2 (yesterday and today)
 - [ ] Re-explain QLearning and how it work around ANN
 	- [ ] Optimization Explain - LR Anneling
 - [ ] Finish User Account Features for Mobile

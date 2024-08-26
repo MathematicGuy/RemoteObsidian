@@ -2309,8 +2309,10 @@ Das Zimmer the room
 Der Schlüssel - the key
 	Hier ist das Schlüssel für dein Zimmer || Hier ist der Schlüssel zu Ihrem Zimmer.
 	Dein Zimmer ist rechts || Ihr Zimmer ist auf der rechten Seite
-Strand - the beach
+Der Strand - the beach
 	Mein Familie ins der Stand gehen im Sommer  || (Meine Familie geht im Sommer an den Strand)
++ ? einen Strand ??
+
 Dusche - the shower
 	Die Dusche ist zu klein
 
@@ -2339,5 +2341,8 @@ Nehmen - take
 	Wollen Sie das Einzelzimmer Nehmen - Do you want to take the single room?
 
 Willkommen, Was viele möchten Sie im Urlaub machen - welcome, what do you want to do on vacation.
-
 Rezeption - reception
+
+Ich weich nicht - I don't know
+Kompliziert - complicated
+Persönlichkeit - personality
