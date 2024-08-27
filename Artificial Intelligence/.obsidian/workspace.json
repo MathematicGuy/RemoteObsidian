@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7e90f7cd2d10807f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QLearning Solve Example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92c11865b2f81edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snake AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QLearning Solve Example.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QLearning Solve Example.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QLearning Solve Example.md"
+                "file": "2 ACTIONS/_Focus.md"
               }
             }
           },
@@ -198,11 +173,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "7e90f7cd2d10807f",
+  "active": "06a4255e2ed8eea1",
   "lastOpenFiles": [
-    "QLearning & DeepQLearning.md",
+    "Deep Learning.md",
+    "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/CMC/CMC - Neural Network & Deep Learning.md",
     "Snake AI.md",
     "QLearning Solve Example.md",
+    "QLearning & DeepQLearning.md",
     "Batch Learning.md",
     "Q-Learning Update.md",
     "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
@@ -210,7 +188,6 @@
     "Pasted image 20240825112429.png",
     "Pasted image 20240825110002.png",
     "Pasted image 20240825104035.png",
-    "2 ACTIONS/_Focus.md",
     "Deep Reinforcement Learning.md",
     "History of Reinforcement Learning.md",
     "PDF Chatbot - Simple RAG from Scratch.md",
@@ -234,8 +211,6 @@
     "Save4Later.md",
     "Week 4 Summary.md",
     "1 PROJECTS/SIC/SIC.md",
-    "1 PROJECTS/SIC/SIC - AI Intro.md",
-    "1 PROJECTS/Face Detection using SVM/Face Detection using SVM.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

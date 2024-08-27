@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8543b414385809ff",
+        "id": "5a4d74b62a255d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "241105c08b7ff3f1",
+            "id": "aaeeeb6c9a285f13",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a80b649473828d93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,12 +194,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "241105c08b7ff3f1",
+  "active": "a80b649473828d93",
   "lastOpenFiles": [
-    "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
     "_Focus/Todo.md",
-    "Flutter.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
+    "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
+    "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
+    "Flutter.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -222,7 +228,6 @@
     "1 PROJECTS/My Travel Plan by myself.md",
     "ML & DM HW1.md",
     "Classification Bayes.md",
-    "Transaction with Authentication - JAVA.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "Pasted image 20240819003900.png",

@@ -1600,6 +1600,7 @@ tTxl
 tvhGu
 thousand
 thresholding
+thg
 original
 of
 operator
@@ -3736,6 +3737,7 @@ AQm
 Ayq
 Aqq
 AMK
+Acti
 eigenbasis
 entirely
 eigenvectors
@@ -8083,6 +8085,7 @@ sbbb
 sSi
 sWz
 snapshot
+simulating
 consists
 can
 change
@@ -12568,6 +12571,7 @@ advancements
 aSe
 atb
 ahV
+activity
 notate
 nhau
 normal
@@ -13340,6 +13344,7 @@ nNh
 nhZ
 nyAXQ
 needing
+neron
 Change
 Class
 Comunity
@@ -14206,6 +14211,7 @@ CeY
 Cslw
 Chap
 Choice
+Convo
 Basis
 Both
 Board
@@ -17904,6 +17910,7 @@ LYYY
 Lfd
 Lfu
 Limitations
+LSTM
 you
 yield
 yk
@@ -19368,6 +19375,7 @@ preparing
 phNTE
 pPRR
 prevent
+pooling
 You
 Yes
 YX
@@ -23106,6 +23114,7 @@ NFF
 NeJ
 NkBXl
 NdYFUU
+Neuro
 zero
 zeros
 zeroes
@@ -25257,6 +25266,7 @@ dQX
 dyS
 dead
 derive
+designer
 From
 Find
 For
@@ -25956,6 +25966,7 @@ Fvv
 Fqq
 Fsz
 FFT
+Func
 know
 kh
 kia
@@ -27431,6 +27442,8 @@ MhD
 MwP
 MmKB
 MFUTdY
+Max
+Min
 using
 up
 until
@@ -31442,6 +31455,7 @@ PRRBYY
 PZZJ
 PmW
 PUV
+Pooling
 Defecs
 Defects
 Dataset
