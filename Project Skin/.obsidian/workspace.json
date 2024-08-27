@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ec9cd5adae49df39",
+        "id": "93d781eea6d1c037",
         "type": "tabs",
         "children": [
           {
-            "id": "67607a1b544d03e6",
+            "id": "8ea9117d1c7cae8e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d69a991ddb799d31",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,14 +187,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d69a991ddb799d31",
+  "active": "8ea9117d1c7cae8e",
   "lastOpenFiles": [
+    "Flutter.md",
+    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "Flutter.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "Pasted image 20240825000528.png",
