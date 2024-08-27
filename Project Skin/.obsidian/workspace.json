@@ -26,8 +26,13 @@
             "id": "a80b649473828d93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "German Song.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "German Song.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "German Song.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "German Song.md"
+              }
             }
           },
           {
@@ -196,6 +205,8 @@
   },
   "active": "a80b649473828d93",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "German Song.md",
     "_Focus/Todo.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
@@ -203,7 +214,6 @@
     "Flutter.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "Pasted image 20240825000528.png",
@@ -227,7 +237,6 @@
     "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
     "1 PROJECTS/My Travel Plan by myself.md",
     "ML & DM HW1.md",
-    "Classification Bayes.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "Pasted image 20240819003900.png",

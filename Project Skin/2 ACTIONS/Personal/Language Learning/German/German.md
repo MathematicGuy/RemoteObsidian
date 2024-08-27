@@ -17,6 +17,8 @@ _sort:
 + [[German Technology Vocabulary]]
 + [[German Vocab Revision]]
 [Remember Strategy](https://www.facebook.com/share/v/WEUf9MeBLeUkNN2M/)
+[[German Song]]
+
 
 [[German Grammar]]
 [[German Learning Core]]
