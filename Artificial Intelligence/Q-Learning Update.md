@@ -7,7 +7,7 @@ is the amount by which the Q-value $Q(s, a)$ is adjusted during each update in Q
 2. **$\gamma \cdot \max_{a'} Q(s', a')$**: The discounted maximum expected future reward obtainable from the next state $s'$.
 3. **$Q(s, a)$**: The current estimate of the Q-value for the state-action pair $(s, a)$.
 
-### Positive or Negative Updates
+### Positive or Negative UpdatesQ
 - **Positive Update**: If the target value $r + \gamma \cdot \max_{a'} Q(s', a')$ is greater than the current estimate $Q(s, a)$, the Q-value will increase, reflecting an optimistic update.
 - **Negative Update**: If the target value is less than the current estimate, the Q-value will decrease, reflecting a pessimistic update.
 

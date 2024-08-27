@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "93d781eea6d1c037",
+        "id": "8543b414385809ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8ea9117d1c7cae8e",
+            "id": "241105c08b7ff3f1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,11 +189,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8ea9117d1c7cae8e",
+  "active": "241105c08b7ff3f1",
   "lastOpenFiles": [
+    "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
+    "_Focus/Todo.md",
     "Flutter.md",
     "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -220,7 +223,6 @@
     "ML & DM HW1.md",
     "Classification Bayes.md",
     "Transaction with Authentication - JAVA.md",
-    "2 ACTIONS/Personal/Study Method (Efficiency)/7 Coding Skills give you an UNFAIR Advantage.md",
     "Pasted image 20240819004333.png",
     "Pasted image 20240819004004.png",
     "Pasted image 20240819003900.png",
