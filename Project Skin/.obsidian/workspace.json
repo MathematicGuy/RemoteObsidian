@@ -26,8 +26,13 @@
             "id": "10e0f3e30f624b70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VIetnam General Law Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VIetnam General Law Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VIetnam General Law Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VIetnam General Law Revision.md"
+              }
             }
           },
           {
@@ -197,6 +206,8 @@
   "active": "10e0f3e30f624b70",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "VIetnam General Law Revision.md",
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "Writing CV Skill.md",
     "Pasted image 20240829200722.png",
     "Pasted image 20240829200437.png",
@@ -228,7 +239,6 @@
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "1 PROJECTS/CMC Summer 2024/Projects Library.md",
     "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",

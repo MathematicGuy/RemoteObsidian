@@ -13,6 +13,7 @@ Ba lần phân công lao động xã hội
 
 > Khả năng áp đặt ý chí của mình lên 1 người khác
 
+[[VIetnam General Law Revision]]
 
 # Kiểu Nhà Nước
 1) Chủ Nô
