@@ -34,6 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ffedfb22378c04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -205,9 +218,9 @@
   },
   "active": "10e0f3e30f624b70",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "VIetnam General Law Revision.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "VIetnam General Law Revision.md",
+    "_Focus/Todo.md",
     "Writing CV Skill.md",
     "Pasted image 20240829200722.png",
     "Pasted image 20240829200437.png",

@@ -184,10 +184,9 @@ Số lượng thành viên chinh phủ do Quốc Hội quyết định
 	**Hành vi vi phạm**: Vi phạm hành chính có thể bao gồm các hành vi như vi phạm trật tự an toàn giao thông, trật tự công cộng
 	.
 	**Hình thức xử phạt**: Những người vi phạm hành chính có thể bị xử phạt bằng các hình thức như phạt tiền, cảnh cáo, tước quyền sử dụng giấy phép,
-	.**Thẩm quyền xử phạt**: Các cơ quan nhà nước có thẩm quyền, như cảnh sát giao thông, thanh tra, ủy ban nhân dân các cấp
+	.**Thẩm quyền xử phạt**: Các cơ quan nhà nước có thẩm quyền, như cảnh sát giao thông, thanh tra, ủy ban nhân dân các cấp (sử dụng các quy định xử phạt để xử phạt)
 
 Thanh Tra Chính Phủ >> support tìm kiếm tham nhũng
-
 **Trộm cắp tài sản nhà nước không phải tham nhũng** (giống như việc cưỡng đoạt tài sản)
 -> Trộm cắp tài sản của nhà nước là hành vi vi phạm pháp luật nhưng không phải là hành vi tham nhũng.
 + ? Các hành vi như **giả mạo trong công tác, đưa hối lộ, lợi dụng chức vụ để sử dụng tài sản** của Nhà nước đều là các hành vi **tham nhũng**
@@ -196,7 +195,72 @@ Nhận hối lộ -> ngoài nhà nước
 
 Xử phạt hành chính -> do người có thẩm quyền xử phạt (là ng có quyền xử phạt đi xử phạt). 
 
+Ủy ban nhân dân thực hiện Hành Chính nhà nước
 ##  Chương 6: Luật hình sự & luật tố tụng hình sự
 
+TH Miễn trách nhiệm hình sự:
++ ko có khả năng (disable) - bị tâm thần + điên + mất nhận thức
++ đc nhà nước đại xá
++ ng chưa đủ tuổi
++ tình thế cấp thiết
++ phòng vệ chính đáng  
 
+Mặt chủ quan trong trách nhiệm hình sự:
+
+**Hình phạt chính**
++ luật hình xử: cảnh cáo
+
+
+Đình chỉ hoạt động vĩnh viễn ko phải là 1 hình phạt bổ sung.
+
+
+**Phương pháp điều chỉnh** Luật Hình Sự: **Mệnh lệnh quyền uy** 
+
+Cơ quan tiến hành tố tụng: viện điều tra, tòa tán, (1 mỏe thing)
+
+**Mức khung cao nhất của khung hình phạt**
+Tội phạm ít nghiêm trọng: 
+Tội phạm nghiêm trọng -> 3 - 7 năm tù
+Tội phạm rất nghiệm trọng -> 7 - 15 năm tù
+Tội  phạm đặc biệt nghiêm trọng -> 10 - 20 năm tù
+-> **Xử phạm theo hình thức Hình Sự** (vì có lq tới pháp luật)
+
+
+Hình phạt bổ sung vs tổ chức thương mại -> cấm hoạt động trong 1 số lĩnh vực. 
+
+Nguyên tắc cơ bản của tố tụng luật hình sự: 
+ + tôn trọng quyền con ng
+ + quyền bình đẳng
+
+Luật hình sự ko phải chỉ là 1 văn bản.
+
+Luật hình sự có đièu chỉnh là Giữa ng và người phạm tội
+
+hành vi vi phạm là khi  1 người có thể: nhận thức + điều chỉnh hành vi cá nhân
+
+Người tổ chức: chủ mưu,  chỉ huy việc phạm tội
+
+Người có hành vi phạm tội = cách đê dọa dùng vũ lực sẽ bị phạt cải tạo ko giam giữ hoặc tù từ 6 tháng đến 3 năm tù có cải tạo. 
+
+Hành vi **lợi dụng chức vụ quyền hạn để hưởng lợi ích cá nhân** là **Hành Vi Tham Nhũng**.
+
+
+## Chương 7: Tố Tụng
+
+Các cơ quan tiến hành tố tụng:
+1) Cơ quan điều tra
+2) Viện kiểm sát nhân dân
+3) Tòa án nhân dân
+
+Chủ thể của pháp luật hình sự nhân dân là : người vn, ng ko có quốc tịch, ng ngoại quốc.
+
+
+Auto nhận tiền của ng chết: bố mẹ, vợ, con
+
+Hợp đồng thay đổi -> giao kết hợp đồng mới.\
+
+Nd của quyền sở hữu: quyền chiếm hữu, quyền định đoạt, quyền sở hữu
+
+---
+### Chương 8: Luật hôn nhân và gia đình  + Chương 9: Luật lao động
 
