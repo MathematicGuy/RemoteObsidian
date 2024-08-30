@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90023a4de6de0314",
+            "id": "a09d4d601b98a8db",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,11 +187,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "90023a4de6de0314",
+  "active": "a09d4d601b98a8db",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "German Song.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "_Focus/Todo.md",
     "VIetnam General Law Revision.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "Writing CV Skill.md",
