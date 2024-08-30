@@ -22,6 +22,7 @@ Nhà nước được sỉnh ra từ mâu thuẫn giai cấp -> ko thể nói l�
 Hành pháp: thực hành pháp luật -> do bộ tư pháp thực hiện
 Thực hiện nv đặt ra tr'c của nhà nước -> chức năng.
 
+Nhà nước Việt Nam là nhà nước đơn nhất - not cộng hòa
 
 ---
 
@@ -261,6 +262,62 @@ Hợp đồng thay đổi -> giao kết hợp đồng mới.\
 
 Nd của quyền sở hữu: quyền chiếm hữu, quyền định đoạt, quyền sở hữu
 
+người lập di chúc có quyền đặt nhiệm vụ và giao tài sản cho ng thừa kế
+
 ---
 ### Chương 8: Luật hôn nhân và gia đình  + Chương 9: Luật lao động
 
+**Hợp đồng lao động thời vụ** là **ko theo quy định pháp luật thời vụ lao động**
+
+Hợp đồng lao động - chủ và thợ, phi ...
+
+Đăng ký kết hôn ở Ủy ban cấp xã.
+
+tuổi kết hôn: nữ đủ 20 tuổi, nam đủ 18 tuổi.
+
+đình công bất hợp pháp - khi ko bắt nguồn từ tranh chấp 
+
+Tuổi lao động - ít nhất 15 tuổi
+
+BH Lao động: loại bắt tbuoojc đối vs cty có 10 ng trở lên. 
+
+Ng ld có nghĩa vụ -> chấp hành đúng the pháp luật
+
+ko - ko bao gồm phụ cấp lương
+
+gia đình là - do hôn nhân và quan hệ huyết thống
+
+sa thải khi tự ý nghỉ việc quá 7 ngày / 1 tháng
+
+bảo hiểm xã hội bắt buộc - ng lao và ng sử dụng lao động tham gia 
+
+tranh chấp ld - cá nhân và ng sd, tập thể và tập thê sd
+
+ko bao gồm tiền lương - ko bao gồm phụ cấp lượng 
+
+---
+## Chương 8: Luật hôn nhân và gia đình  + Chương 9: Luật lao động:
+
+văn phòng chính phủ - luật kinh tế
+
+ng mua ko đc phép - thuế bồi thg đặc biệt
+
+Chịu trách nhiệm vô hạn
+
+Luật hiến pháp  - quyền con người
+
+
+
+DOanh nghiệp tư nhân ko cần có giám đốc
+
+công ty hợp danh - công ty đối nhân 
+
+loại hình doanh nghiệp chủ yêu cầu tối thiểu 1 thành viên
+
+chủ thể luật kinh tế - văn phòng kinh tế 
+
+lượng cổ đông tối thiểu - 3,3,3,3,
+
+2 * 50 = 100
+ 77 7
+tự nguyện hợp thành - 7 7 7 7
