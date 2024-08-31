@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "374b3304317a08cb",
+        "id": "8a1f1e54d5401e13",
         "type": "tabs",
         "children": [
           {
-            "id": "a09d4d601b98a8db",
+            "id": "7c37d365ddeb717a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,11 +189,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a09d4d601b98a8db",
+  "active": "7c37d365ddeb717a",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
-    "German Song.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "German Song.md",
     "VIetnam General Law Revision.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "Writing CV Skill.md",
@@ -204,8 +208,6 @@
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
     "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
     "Flutter.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "Pasted image 20240825000528.png",

@@ -2346,3 +2346,5 @@ Rezeption - reception
 Ich weich nicht - I don't know
 Kompliziert - complicated
 Persönlichkeit - personality
+
+Gute Besserung - feel better
