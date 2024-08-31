@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a1f1e54d5401e13",
+        "id": "c47ef86e3eee9ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "7c37d365ddeb717a",
+            "id": "3d3b1440c5d52042",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "66562a73a5e71435",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,11 +194,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7c37d365ddeb717a",
+  "active": "66562a73a5e71435",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+    "3 RESOURCES/GoodForLater/Good for LATER.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German Song.md",
     "VIetnam General Law Revision.md",
@@ -225,8 +232,6 @@
     "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
     "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "1 PROJECTS/CMC Summer 2024/Projects Library.md",
-    "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
