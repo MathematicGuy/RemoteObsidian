@@ -622,3 +622,5 @@ Willkommen, Was möchten Sie im Urlaub machen - welcome, what would you like to 
 
 Wie funktioniert die fernsehen / how does the TV work ?
 
+pro Nacht
+	Die Hotel sind elegant, Einzelzimmer kostet hundred euro pro nachts

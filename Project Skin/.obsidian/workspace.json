@@ -26,12 +26,30 @@
             "id": "ef53b370b1a036a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0781e64e0851cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/German Vocab Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/German Vocab Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/German Vocab Revision.md"
+              }
             }
           },
           {
@@ -194,13 +216,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ef53b370b1a036a1",
+  "active": "4e0781e64e0851cb",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
     "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German Song.md",
     "VIetnam General Law Revision.md",

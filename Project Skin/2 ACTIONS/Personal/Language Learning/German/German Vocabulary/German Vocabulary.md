@@ -2348,3 +2348,11 @@ Kompliziert - complicated
 Persönlichkeit - personality
 
 Gute Besserung - feel better
+
+### Die Elefanten
+Elefant elephant
+Laufen run
+	 Wir können läufen 
+	Warum läufen wir ? - Why are we running ?
+Warte wait
+
