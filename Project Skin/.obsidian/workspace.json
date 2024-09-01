@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c47ef86e3eee9ac7",
+        "id": "f62b7bc78c817d9f",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3b1440c5d52042",
+            "id": "ef9cfd08e45d2112",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "66562a73a5e71435",
+            "id": "ef53b370b1a036a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,7 +194,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "66562a73a5e71435",
+  "active": "ef53b370b1a036a1",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "How to Enable Group Policy Editor in Windows 11 Home Edition.md",

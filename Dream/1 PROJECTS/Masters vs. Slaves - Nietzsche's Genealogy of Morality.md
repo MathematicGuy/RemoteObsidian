@@ -3,9 +3,9 @@ Most of the World develop base on resentment (căm hận, bực bội)
 For most people 
 > Those who helped the poor, because they're resent the rich
 
- Slave morality -> decrease the production of greatness
+Slave morality -> decrease the production of greatness
 Higher man - creative men
-Beethoven - Rudless, he want 
+Beethoven - Rudeless, he want 
 
 Haven't meet a single person want to make the world to become a better place, at best it "I want to make the world a better place"
 

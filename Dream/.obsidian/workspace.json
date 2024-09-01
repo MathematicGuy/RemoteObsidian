@@ -23,16 +23,18 @@
             }
           },
           {
-            "id": "914d8339f417d2b7",
+            "id": "0250c96b97be5241",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
+                "file": "2 ACTIONS/_My Life/Deepthought.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -86,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
+                "file": "2 ACTIONS/_My Life/Deepthought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md"
+                "file": "2 ACTIONS/_My Life/Deepthought.md"
               }
             }
           },
@@ -178,8 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "914d8339f417d2b7",
+  "active": "0250c96b97be5241",
   "lastOpenFiles": [
+    "_Focus.md",
+    "2 ACTIONS/_My Life/Deepthought.md",
+    "If you're in your 20's watch this..md",
+    "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "1 PROJECTS/This Year Goal.md",
     "Escapsing Reality & Addiction.md",
     "2 ACTIONS/_My Life/_My Life.md",
@@ -193,7 +200,6 @@
     "Question to Ask My Self.md",
     "Riddle.md",
     "Productivity Note.md",
-    "_Focus.md",
     "4 ARCHIVES/The Root of Depression.md",
     "4 ARCHIVES/Get Back to Who I'm Used to be.md",
     "Head Space.md",
@@ -208,9 +214,6 @@
     "Pasted image 20240813232116.png",
     "Pasted image 20240813232119.png",
     "Pasted image 20240811084448.png",
-    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
-    "2 ACTIONS/_My Life/Deepthought.md",
-    "3 RESOURCES/_Productivity & Improvement/4 Reasons Hard Work DOES NOT Beat Talent.md",
     "Pasted image 20240628151744.png",
     "Pasted image 20240615110501.png",
     "4 ARCHIVES/Image/Pasted image 20230629230346.png",

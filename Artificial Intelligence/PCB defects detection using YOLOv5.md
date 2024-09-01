@@ -1,7 +1,10 @@
+#todo
++ Connect App to a Database
++ UI/UX (maybe)
+
 Source:
 	[Youtube](https://www.youtube.com/watch?v=LB9SklRNDUA)
 	[Github](https://github.com/MBDNotes/YOLOv5_PCB_Defects_Detection/blob/main/PCB_defects_Detection.ipynb)
-
 
 # Part 1: Extract Data (Xml to Txt)
 Step 1: Download [Dataset]( https://www.kaggl.com/datasets/akhatova/pcb-defects)
@@ -9,7 +12,6 @@ Step 2: Install [XmlToTxt tool](https://github.com/isabek/XmLToTxt)
 Step 3: Go to **XmlToTxt** Folder and run
 ```sh
 python -m pip install -r requirements.txt
-
 ```
 Step 4: Copying all Dataset from **PCB_DATASET/Annotations** to **XmlToTxt/xml** folder   
 Step 5: Paste the each PCB part annotation as classes name in **XmlToTxt/classes** file

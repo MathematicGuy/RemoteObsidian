@@ -39,3 +39,35 @@ Note:
 
 + Tài Liệu giới thiệu dự 
 + Làm Slide trình bày dự án
+
+---
+### How it work ?
+![[Pasted image 20240901140425.png]]
+
+#### Traditional machine vision systems use a two step process to make decisions (use Probability)
+![[Pasted image 20240901140517.png]]
+Flaws
+![[Pasted image 20240901140903.png]]
+
+#### New machine vision system (use deep learning)
+![[Pasted image 20240901141138.png]]
+**Top 5 MSE**
+![[Pasted image 20240901141149.png]]
+
+**Myth and Challenges**
+![[Pasted image 20240901141400.png]]
+
+#### Reference Deployment
+![[Pasted image 20240901141919.png]]
+driff (performance decay)
+![[Pasted image 20240901141825.png]]
+
+
+![[Pasted image 20240901142312.png]]
+**Compare goal result (real) and prediction result (test)** -> total accuracy
+![[Pasted image 20240901142041.png]]
+
+
+
+![[Pasted image 20240901142235.png]]
+> Skill people monitor results and label them for furhter model training.
