@@ -22,24 +22,24 @@
             }
           },
           {
-            "id": "e4b2580b04003231",
+            "id": "e80d1f499aa86fc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision for my 1st Intership.md",
+                "file": "PCB Anomaly Detection Note & Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27fa4a7dc2ee6835",
+            "id": "cc907ba2f2250cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision for my 1st Intership.md",
+                "file": "PCB defects detection using YOLOv5.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision for my 1st Intership.md",
+                "file": "PCB defects detection using YOLOv5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision for my 1st Intership.md",
+                "file": "PCB defects detection using YOLOv5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision for my 1st Intership.md"
+                "file": "PCB defects detection using YOLOv5.md"
               }
             }
           },
@@ -198,12 +198,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "27fa4a7dc2ee6835",
+  "active": "cc907ba2f2250cff",
   "lastOpenFiles": [
+    "PCB Anomaly Detection Note & Resources.md",
+    "PCB defects detection using YOLOv5.md",
+    "gitignore.md",
+    "PCB Anomally Detection.md",
     "2 ACTIONS/_Focus.md",
     "Revision for my 1st Intership.md",
-    "PCB defects detection using YOLOv5.md",
-    "PCB Anomaly Detection Note & Resources.md",
     "Pasted image 20240901142312.png",
     "Pasted image 20240901142235.png",
     "Pasted image 20240901142041.png",
@@ -214,7 +216,6 @@
     "Pasted image 20240901141149.png",
     "Pasted image 20240901141138.png",
     "Pasted image 20240901141117.png",
-    "PCB Anomally Detection.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "Tech Major Ranking 2024.md",

@@ -9,7 +9,7 @@ Source:
 # Part 1: Extract Data (Xml to Txt)
 Step 1: Download [Dataset]( https://www.kaggl.com/datasets/akhatova/pcb-defects)
 Step 2: Install [XmlToTxt tool](https://github.com/isabek/XmLToTxt)
-Step 3: Go to **XmlToTxt** Folder and run
+Step 3: Go to **XmlToTxt** Folder and run (install requirements from XmlToTxt)
 ```sh
 python -m pip install -r requirements.txt
 ```
@@ -43,7 +43,7 @@ Training Data Ratio: 80% Training images and 20% of images will be Validation im
 > you can also change the ratio to 70%-30%  or 65%-35% or 75%-25%
 
 Step 7) Combine all the images with txt file
-> copy all the images from **PCB_DATASET/images** and move it to **PCB_DATASET/Annotations**
+> copy all the images from **PCB_DATASET/images** and move it to **PCB_DATASET/Annotations** (file automatically mix inside folders)
 + $ Now each file will have a txt file  
 ![[Pasted image 20240606161621.png]]
 + ? Copy and Move Annotations folder in the main directory

@@ -1611,6 +1611,8 @@ ttH
 tmkISw
 tPU
 tVg
+tracked
+trailing
 original
 of
 operator
@@ -3767,6 +3769,7 @@ AIln
 AUO
 AddC
 App
+Already
 eigenbasis
 entirely
 eigenvectors
@@ -5575,6 +5578,7 @@ iXT
 iDDD
 iEA
 iyP
+ignored
 basis
 by
 because
@@ -7159,6 +7163,8 @@ fDB
 fhSM
 fLX
 fXei
+furhter
+files
 space
 say
 same
@@ -8146,6 +8152,8 @@ sWe
 sIx
 sJE
 sAh
+slash
+subdirectories
 consists
 can
 change
@@ -9195,6 +9203,9 @@ content
 cpkP
 cqv
 cXv
+committed
+commands
+contents
 linear
 lambda
 left
@@ -10852,6 +10863,7 @@ mlW
 muI
 myC
 maybe
+monitor
 The
 This
 To
@@ -11712,6 +11724,7 @@ TYG
 TYm
 TTne
 TjX
+Tracked
 after
 and
 as
@@ -12651,6 +12664,7 @@ ahV
 activity
 axo
 aJPP
+applies
 notate
 nhau
 normal
@@ -13429,6 +13443,7 @@ ncd
 nIo
 nAU
 nve
+named
 Change
 Class
 Comunity
@@ -16548,6 +16563,7 @@ wAG
 wttx
 wYkK
 wrm
+wildcard
 have
 has
 ho
@@ -19507,6 +19523,8 @@ pJA
 pVv
 pFp
 pyp
+push
+plaintext
 You
 Yes
 YX
@@ -20892,6 +20910,8 @@ gUVV
 gIjJ
 gTJU
 gfgJaq
+gitignore
+git
 Scalars
 Step
 Solution
@@ -21864,6 +21884,8 @@ SyZ
 SVV
 Sxe
 Sbe
+Special
+Specifies
 result
 reduced
 repeated
@@ -22682,6 +22704,7 @@ rbi
 reH
 rHq
 rTV
+repository
 Non
 Need
 No
@@ -37602,6 +37625,7 @@ GnX
 GVV
 GJdD
 GUU
+Git
 Zero
 Zw
 ZX
