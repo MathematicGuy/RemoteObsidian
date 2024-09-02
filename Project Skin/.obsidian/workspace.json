@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdd3c8d7ca03749d",
+            "id": "794ab3d7ff39ed9c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3256aa1d8759c29a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,9 +189,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3256aa1d8759c29a",
+  "active": "794ab3d7ff39ed9c",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
+    "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp List.md",
+    "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp Array.md",
+    "4 ARCHIVES/2023/3rd Semesters/DSA/Array Basic.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
@@ -228,10 +227,6 @@
     "Learn ReactNative.md",
     "Spaces/Android Studio Turtorial.md",
     "German History.md",
-    "Docker MSSQL.md",
-    "1 PROJECTS/CMC Summer 2024/Software Deployment.md",
-    "1 PROJECTS/CMC Summer 2024/Specialized Projects.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

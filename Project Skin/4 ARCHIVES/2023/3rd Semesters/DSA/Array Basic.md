@@ -20,7 +20,6 @@
 
 
 Compilar - the brain of the language
-
 >How python using array to Get & Store it values
 >-> Take & Store Value in an Seperate Array.
 ![[Pasted image 20230801080705.png]]
