@@ -1,7 +1,7 @@
  
 #Priority
 #### [[Revision for my 1st Intership]] for  6/9/2024
-Khoa CNTT&TT xin thông báo **Kế hoạch kiểm tra đánh giá năng lực sinh viên** đăng ký **thực tập tại Viện ATI** như sau:
+Khoa CNTT&TT xin thông báo **Kế hoạch kiểm tra đánh giá năng lực sinh viên** đăng ký **thực tập tại Viện ATI** như sau: ()
 
 1. **Thời gian**: **09h-11h ngày 6/9/2024**
 2. **Địa điểm**: Phòng 501 – Cơ sở Vạn Phúc Building.

@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4f185c752121b277",
+        "id": "ab782454f5891f10",
         "type": "tabs",
         "children": [
           {
-            "id": "1e1df63339951fd6",
+            "id": "fdd3c8d7ca03749d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3256aa1d8759c29a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,11 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e1df63339951fd6",
+  "active": "3256aa1d8759c29a",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",

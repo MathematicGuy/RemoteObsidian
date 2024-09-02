@@ -1,6 +1,6 @@
 
 
-### **Test content** (deadline in 5 days)
+### **Test content** (deadline in 4 days)
 #### IQ: 5 questions - 10 minutes  
 > Practice 15 questions each day
 

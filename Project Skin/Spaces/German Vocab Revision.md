@@ -624,3 +624,5 @@ Wie funktioniert die fernsehen / how does the TV work ?
 
 pro Nacht
 	Die Hotel sind elegant, Einzelzimmer kostet hundred euro pro nachts
+
+Nein, das Zimmer hat keinen Balkon (when to use hat)

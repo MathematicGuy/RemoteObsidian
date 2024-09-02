@@ -396,7 +396,7 @@ Der Vegetatier Excercise
 | Er / Sie / Es | Wandert        |
 | Sie  / Wir    | Wandern        |
 | Ihr           | Wandert        |
-+ Ihr : Herr
++ Ihr : Her (or Your with respect)
 + Wir: We
 + Sie : "You" in plural
 + sie : "She" in singular and "They" in plural
@@ -750,7 +750,8 @@ Liebe Love
 		+ Example: "Es schneit stark." The verb "schneit" already implies the action of snowing, so you don't need the auxiliary verb "ist" in this context.
 
 #### Excercise Zwei Flugtickets, bitte
-+ Flughafen - airport
++ Das Flughafen - airport
+	Ist das Flughafen in der Nähe
 + Schalter - counter (the counter with a waiter)
 	 Er spricht mit der Frau am Schalter - He speak with the woman at the counter
 + Kann - can
@@ -2356,3 +2357,5 @@ Laufen run
 	Warum läufen wir ? - Why are we running ?
 Warte wait
 
+Ihr (deine/dein with respect) - like Ma'am and Sir in English
+	Ihr Pass ist hier, Herr Künst
