@@ -9,6 +9,10 @@
 **conda create -n <environment_name> [packages]**
 Creates a new environment with a specified name and optionally installs a list of packages. Example: `conda create -n my-ai python=3.9 numpy pandas`
 
+```python
+conda create -n vision python=3.10
+```
+
 ---
 
 **Install from requirement.txt**
@@ -23,7 +27,7 @@ pip install -r requirements.txt
 - **conda env list** Lists all the available conda environments.
     
 - **conda env remove -n <environment_name>** Deletes an environment.
-    
+    or conda remove --name opencv --all opencv
 
 **Package Management**
 

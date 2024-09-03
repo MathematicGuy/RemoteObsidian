@@ -27,26 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamental of C and C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6134649f08d4206b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship Revision 2.md",
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship Revision 2.md",
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship Revision 2.md",
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship Revision 2.md"
+                "file": "3 RESOURCES/How to/Anaconda Command.md"
               }
             }
           },
@@ -198,12 +186,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6134649f08d4206b",
+  "active": "09c6cefb4e3fbcd7",
   "lastOpenFiles": [
     "Fundamental of C and C++.md",
+    "Internship Revision 2.md",
     "Revision for my 1st Intership.md",
     "Internship Revision 1.md",
-    "Internship Revision 2.md",
     "Data Structure & Algorithm.md",
     "2 ACTIONS/_Focus.md",
     "PCB Anomaly Detection Note & Resources.md",

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab782454f5891f10",
+        "id": "98255e80ed046eea",
         "type": "tabs",
         "children": [
           {
-            "id": "794ab3d7ff39ed9c",
+            "id": "2779bfe81a2e2f77",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -189,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "794ab3d7ff39ed9c",
+  "active": "2779bfe81a2e2f77",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
