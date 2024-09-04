@@ -1,5 +1,6 @@
 #todo
 + Connect App to a Database
++ What Algorithm YOLOv5 used
 
 Source:
 	[Youtube](https://www.youtube.com/watch?v=LB9SklRNDUA)

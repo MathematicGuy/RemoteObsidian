@@ -2358,7 +2358,6 @@ Warte wait
 
 Ihr (deine/dein with respect) - like Ma'am and Sir in English
 	Ihr Pass ist hier, Herr Künst
-
 dusche / shower 
 
 ---
@@ -2368,3 +2367,15 @@ Das Haus the  house
 
 Zufrieden - feel content (like a NPC) / happy
 	Mein vater ist zufrieden zu hause
+
+Die Schildkröte - the turtle
+Reich rich 
+	Ist deine Schwester reich - ist your sister rich 
+Geschwister silbings 
+	Hast du wirklich zehn Geschwister - Do you really have ten silblings
+
+Freizeit - Free time
+	Frei free
+	Zeit time
++ Mein Schildkörte braucht kein Freizeit 
++ Meine Frau ist Ärztin, Sie hat keine freizeit

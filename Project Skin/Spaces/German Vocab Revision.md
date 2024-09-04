@@ -639,3 +639,4 @@ jeden tag / every day
 sehen see
 freundin girlfriend
 	Mein Opa möchte seine Freudin jeden Tag sehen / my grandpa would like to see his girl friend every day 
+
