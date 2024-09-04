@@ -2349,7 +2349,6 @@ Kompliziert - complicated
 Persönlichkeit - personality
 
 Gute Besserung - feel better
-
 ### Die Elefanten
 Elefant elephant
 Laufen run
@@ -2359,3 +2358,13 @@ Warte wait
 
 Ihr (deine/dein with respect) - like Ma'am and Sir in English
 	Ihr Pass ist hier, Herr Künst
+
+dusche / shower 
+
+---
+
+Das Haus the  house
+	Mein freunde habe ein Haus im Berlin
+
+Zufrieden - feel content (like a NPC) / happy
+	Mein vater ist zufrieden zu hause

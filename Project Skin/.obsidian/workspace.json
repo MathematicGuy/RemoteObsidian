@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "98255e80ed046eea",
+        "id": "2d9797bddb859609",
         "type": "tabs",
         "children": [
           {
-            "id": "2779bfe81a2e2f77",
+            "id": "136ca52d63f077cf",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,20 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3d0a5cd04dc5d3ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,15 +194,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2779bfe81a2e2f77",
+  "active": "3d0a5cd04dc5d3ba",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
     "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp List.md",
     "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp Array.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Array Basic.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",

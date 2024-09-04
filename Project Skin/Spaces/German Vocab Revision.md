@@ -626,3 +626,16 @@ pro Nacht
 	Die Hotel sind elegant, Einzelzimmer kostet hundred euro pro nachts
 
 Nein, das Zimmer hat keinen Balkon (when to use hat)
+
+
+Seine his
+Besuchen visit
+	Er möchtest seine vater am besuchen
+
+Beamter - civil servant (Be am ter) (nhân viên công chức)
+	Ist dein Vater Beamter 
+
+jeden tag / every day
+sehen see
+freundin girlfriend
+	Mein Opa möchte seine Freudin jeden Tag sehen / my grandpa would like to see his girl friend every day 

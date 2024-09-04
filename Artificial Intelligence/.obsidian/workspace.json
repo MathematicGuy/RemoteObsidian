@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "09c6cefb4e3fbcd7",
+            "id": "794d7c700d652d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md",
+                "file": "PCB defects detection using YOLOv5.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md",
+                "file": "PCB defects detection using YOLOv5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md",
+                "file": "PCB defects detection using YOLOv5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/How to/Anaconda Command.md"
+                "file": "PCB defects detection using YOLOv5.md"
               }
             }
           },
@@ -186,14 +186,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "09c6cefb4e3fbcd7",
+  "active": "794d7c700d652d04",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/How to/Anaconda Command.md",
     "Fundamental of C and C++.md",
     "Internship Revision 2.md",
     "Revision for my 1st Intership.md",
     "Internship Revision 1.md",
     "Data Structure & Algorithm.md",
-    "2 ACTIONS/_Focus.md",
     "PCB Anomaly Detection Note & Resources.md",
     "PCB defects detection using YOLOv5.md",
     "gitignore.md",
@@ -208,7 +209,6 @@
     "Pasted image 20240901141149.png",
     "Pasted image 20240901141138.png",
     "Pasted image 20240901141117.png",
-    "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "Tech Major Ranking 2024.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
