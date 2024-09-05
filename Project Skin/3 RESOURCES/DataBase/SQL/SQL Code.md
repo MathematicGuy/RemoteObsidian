@@ -1058,6 +1058,18 @@ group by 1
 order by 2 desc -- make the time_stamp column not group all 
 ```
 
+**Reset AUTO-INCREMENT**
+> where "seq" is the literal text, and you put in a number for #. Do not neglect the underscores. :-)
+```sql
+ALTER SEQUENCE yourTableName_yourColumnName_seq RESTART WITH #
+
+```
+Example for **pcbs table**, **pcb_id column** with restart index as 1
+```sql
+ALTER SEQUENCE pcbs_pcb_id_seq RESTART WITH 1 
+```
+
+
 **TRIGGER**
 + ? Trigger function: Automatically Trigger a Query after an Event
 	Example: increate salary automatically when hourly_pay was increase. (don't need to update salary manually anymore)

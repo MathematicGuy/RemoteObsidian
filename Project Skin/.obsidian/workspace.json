@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a9387f333bee77",
+        "id": "d662df23c0befd8d",
         "type": "tabs",
         "children": [
           {
-            "id": "a2dd36c28098c1b4",
+            "id": "f80b678f7d8c46c6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "7495c6bedf219d00",
+            "id": "9cb9c001889d85d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,9 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7495c6bedf219d00",
+  "active": "9cb9c001889d85d9",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "3 RESOURCES/DataBase/SQL/SQL Code.md",
+    "3 RESOURCES/DataBase/SQL/SQL.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
@@ -230,8 +232,6 @@
     "Spaces/How to Run React Native with Android Studio.md",
     "Spaces/Mobile Development Project.md",
     "Learn ReactNative.md",
-    "Spaces/Android Studio Turtorial.md",
-    "German History.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
