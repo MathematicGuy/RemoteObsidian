@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d662df23c0befd8d",
+        "id": "1247f7559a9a506f",
         "type": "tabs",
         "children": [
           {
-            "id": "f80b678f7d8c46c6",
+            "id": "33953c18310373e6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,20 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9cb9c001889d85d9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,10 +187,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9cb9c001889d85d9",
+  "active": "33953c18310373e6",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
+    "_Focus/Todo.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
