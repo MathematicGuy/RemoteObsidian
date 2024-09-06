@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-rmWir sehen ins Kino ein Film
+ermWir sehen ins Kino ein Film
 
 ### **Unit 1: Order in a cafe, describe your family**
 
@@ -2379,3 +2379,17 @@ Freizeit - Free time
 	Zeit time
 + Mein Schildkörte braucht kein Freizeit 
 + Meine Frau ist Ärztin, Sie hat keine freizeit
+
+Brav behave 
+	Mein Katze ist manchmal suß, aber nie brav - my cat are sometime sweet but never well-behaved
+
+Das Eltern keinen lebt im city, Kanst du 
+
+
+Praktikum - intership
+Januar janurary 
+	Die Praktikum endet im Januar / The internship ends in January
+
+Enkel - grandson
+Enkelin - grand daughter
+	Macht deine Enkelin ein Praktikum in Hamburg / is your grand daughter doing an intership in Hamburg 

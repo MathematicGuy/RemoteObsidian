@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1247f7559a9a506f",
+        "id": "e62ea052e2108057",
         "type": "tabs",
         "children": [
           {
-            "id": "33953c18310373e6",
+            "id": "7b6a3ada334f2e95",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -187,20 +189,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "33953c18310373e6",
+  "active": "7b6a3ada334f2e95",
   "lastOpenFiles": [
-    "3 RESOURCES/DataBase/SQL/SQL Code.md",
-    "_Focus/Todo.md",
-    "3 RESOURCES/DataBase/SQL/SQL.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Spaces/German Vocab Revision.md",
+    "_Focus/Todo.md",
+    "3 RESOURCES/DataBase/SQL/SQL Code.md",
+    "3 RESOURCES/DataBase/SQL/SQL.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
     "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp List.md",
     "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp Array.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Array Basic.md",
     "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German Song.md",
     "VIetnam General Law Revision.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
