@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e62ea052e2108057",
+        "id": "23a01753e2d2fb23",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6a3ada334f2e95",
+            "id": "0efc6c20835f4e3f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7b6a3ada334f2e95",
+  "active": "0efc6c20835f4e3f",
   "lastOpenFiles": [
     "3 RESOURCES/Programming/Fundamental of Programming/Pointer in C.md",
     "_Focus/Todo.md",
