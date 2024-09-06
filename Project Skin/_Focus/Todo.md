@@ -4,9 +4,6 @@ banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
 
-- [ ] Set up anaconda Env for my PCB Project
-- [ ] Project Planning
-- [ ] Editting Docs 
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club)
 
 #Todo/GoalsThisWeek
