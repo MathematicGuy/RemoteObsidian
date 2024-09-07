@@ -498,7 +498,6 @@ Machst du
 ich Mache 
 	Ich mache abends sport / i do sport in the evening
 
-
 Zum Fruhstück esse ich gern Joghurt mit Banane. Es ist einfach und lecker - I like to eat yogurt with banana for breakfast. It's simple and delicious
 + [[Requirement to understand this sentence]]
 
@@ -558,9 +557,7 @@ shop.
 
 Freitags - Triffst du deine freundinnen Sonntags  
 
-
 Max und Duo gehen gerne einmal pro woche zusammen joggen / Max and Duo like jogging together every weekend
-
 
 Es gibt aufzug im mehrfamilienhaus / there is a elevator in the apartment building 
 
@@ -639,4 +636,23 @@ jeden tag / every day
 sehen see
 freundin girlfriend
 	Mein Opa möchte seine Freudin jeden Tag sehen / my grandpa would like to see his girl friend every day 
+
+Leider 
+Arbeitslos 
+	Meine Tochter ist leider arbeitslos 
+Reist / traveling 
+	Reist Ihr im Juni nach Japan - are you traveling to japan in july
+
+#German_Months
+1. Januar january
+2. Februar february
+3. März march
+4. Mai may
+5. Juni june
+6. Juli july
+7. August august
+8. September september
+9. Oktober october
+10. November november
+11. Dezember december
 

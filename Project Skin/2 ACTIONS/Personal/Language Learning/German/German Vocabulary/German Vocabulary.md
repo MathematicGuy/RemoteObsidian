@@ -2393,3 +2393,21 @@ Januar janurary
 Enkel - grandson
 Enkelin - grand daughter
 	Macht deine Enkelin ein Praktikum in Hamburg / is your grand daughter doing an intership in Hamburg 
+
+Auto car
+Auge eye
+	Unsere Katze hat ein Auge und sie ist suß / Our cat has only 1 eyes and she is swee 
+Smaragdgrüne (adj) emerald 
+	Dein Auge sind Smaragdgrüne - your eyes are emerald
++ ? Adjectives or adj modify or describe nouns and pronouns.
+
+Das Motorrad - the motorcycle
+
+Arbeitslos / unemployed 
+	Mein Onkel ist Arbeitslos/ My uncle is unemployed 
+	Mein Onkel fährt Auto, aber er ist Arbeitslos
+
+#hat_vs_habe
++ hat: has (I, you, we they) - singular
++ habe: have (he, she, it) - plural
+

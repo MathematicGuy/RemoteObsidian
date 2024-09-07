@@ -846,6 +846,7 @@ EdFT
 EDh
 Endpoints
 Endpoint
+Exponential
 the
 that
 transformation
@@ -1620,6 +1621,9 @@ tables
 theirs
 travels
 torch
+typical
+trigonometry
+trigangle
 original
 of
 operator
@@ -5607,6 +5611,8 @@ interruptions
 inheritance
 inherit
 initialize
+imagin
+independantly
 basis
 by
 because
@@ -6469,6 +6475,7 @@ boys
 bicycle
 backend
 backup
+bout
 for
 find
 factor
@@ -8202,6 +8209,8 @@ sorting
 stand
 stands
 singl
+shrink
+scaler
 consists
 can
 change
@@ -9274,6 +9283,8 @@ compiler
 constructive
 compatible
 configure
+clearly
+composing
 linear
 lambda
 left
@@ -11813,6 +11824,9 @@ Talk
 Thanking
 Talking
 Thi
+Trigonometic
+Temperature
+Tempreture
 after
 and
 as
@@ -12766,6 +12780,7 @@ allocation
 acknowledging
 anomalies
 application
+arc
 notate
 nhau
 normal
@@ -13545,6 +13560,7 @@ nIo
 nAU
 nve
 named
+neligible
 Change
 Class
 Comunity
@@ -15174,6 +15190,7 @@ Bicycle
 Blame
 Bubble
 Bugs
+Bank
 Using
 Understand
 Unique
@@ -17408,6 +17425,8 @@ happen
 hope
 heated
 hours
+hypotenuse
+house
 Let
 Light
 Learning
@@ -22859,6 +22878,9 @@ runtime
 restrict
 rearranged
 routh
+rise
+revison
+reciprocal
 Non
 Need
 No
@@ -25633,6 +25655,7 @@ database
 download
 downloading
 docs
+differentiable
 From
 Find
 For
@@ -29454,6 +29477,7 @@ Reflect
 Raise
 Reflecting
 React
+Replacing
 Or
 One
 Our
@@ -31885,6 +31909,7 @@ PostgreSQL
 Processed
 POST
 PosixPath
+Pythagorean
 Defecs
 Defects
 Dataset

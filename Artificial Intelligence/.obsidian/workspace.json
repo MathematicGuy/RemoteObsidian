@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "794d7c700d652d04",
+            "id": "23c3163de8d4f11f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB defects detection using YOLOv5.md",
+                "file": "Gradient and Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33f5c8a23a04d923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus_Derivative.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCB defects detection using YOLOv5.md",
+                "file": "Calculus_Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCB defects detection using YOLOv5.md",
+                "file": "Calculus_Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB defects detection using YOLOv5.md"
+                "file": "Calculus_Derivative.md"
               }
             }
           },
@@ -186,12 +198,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "794d7c700d652d04",
+  "active": "33f5c8a23a04d923",
   "lastOpenFiles": [
+    "Pasted image 20240906151645.png",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Gradient and Gradient Descent.md",
+    "2 ACTIONS/_Focus.md",
+    "PCB defects detection using YOLOv5.md",
     "Pasted image 20240905235717.png",
     "Yolov5 bugs.md",
-    "PCB defects detection using YOLOv5.md",
-    "2 ACTIONS/_Focus.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "Fundamental of C and C++.md",
     "Internship Revision 2.md",
@@ -210,7 +225,6 @@
     "Pasted image 20240901141400.png",
     "Pasted image 20240901141149.png",
     "Pasted image 20240901141138.png",
-    "Pasted image 20240901141117.png",
     "3 RESOURCES/How to/Anaconda.md",
     "Tech Major Ranking 2024.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
@@ -222,8 +236,6 @@
     "Batch Learning.md",
     "Q-Learning Update.md",
     "3 RESOURCES/Algorithms/Reinforcement Learning Algorithm.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Reinforcement Learning.md",
-    "Deep Reinforcement Learning.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

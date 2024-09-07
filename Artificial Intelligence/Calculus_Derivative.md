@@ -9,13 +9,15 @@ We would like to train the Model to tweak the classifier line to this position.
 + ? So how the Model do this...
 
 ## Motivation to Derivatives - Part 1
+
++ $ Goal: **find the rate of change between 2 points**
 ![[Pasted image 20240710075538.png]]
-> No, you calculate the speed by the distance t travel by the time: v = S / t
+> No, you calculate the speed by the distance t travel by the time: v = s / t
 > Or calculate the distance it travel after a period of times.
 + ? In simple term: **Rate of Change**
 > ![[Pasted image 20240710075744.png]]
 
-> We can calculate the the average speed between a time interval and distance by dividing the changes in distances to times.
+> We can calculate the the average speed between a time interval and distance by dividing the changes in distances to times. **rise (y) over run (x)**
 ![[Pasted image 20240710080116.png]]
 
 
@@ -55,7 +57,9 @@ As we cancel out, what is left is:  a
 
 
 ### Quadratics
-$\nabla f$ = y2 - y1. and if y1 = x^2 <->  y2 = $(x + \nabla x)^2$ with $\nabla x \in R$
+![[Pasted image 20240906151645.png]]
+Explain how everything get square root, $x^{2}$  so both f have their x square root: $f_1(x^2)$ and $f_{2}(x+\Delta x)^2$  
+
 ![[Pasted image 20240710171435.png]]
 Repeat the same step as the interval smaller and smaller. We finally got the result close to 2
 ![[Pasted image 20240710171142.png]]
@@ -72,6 +76,8 @@ So the result is as close as $3*0.5^{2} \approx 0.75$. This seem true since the 
 + ? Let simplified the Slope and see what we got: Like before $\nabla x \to 0$ and we really got 
  the **Derivative of a Cubic is** $$3x^2$$
 ![[Pasted image 20240710173035.png]]
+
+
 ### Other power functions
 > Like before, we calc the slope of a value. Then move the interval closer and closer.
 ![[Pasted image 20240710173642.png]]
@@ -105,9 +111,9 @@ The 1st function have y = f(X) thus g(y) = $\sqrt{f(x)}$
 ![[Pasted image 20240712090826.png]]
 ![[Pasted image 20240712091033.png]]
 
+
 ## Derivative of Trigonometic  
-note: revison some trigonometry
- ![[Pasted image 20240712093458.png]]
+note: revison some trigonometry ![[Pasted image 20240712093458.png]]
 
 ![[Pasted image 20240712093939.png]]
 
@@ -179,7 +185,7 @@ But we have to calc k from scratch for every new n. can we find a way to calc k 
 ![[Pasted image 20240713162110.png]]
 
 **Basic Concept**
-+ ? note: e với số mũ nhỏ -> 0 sẽ tiến tới 1 giới hạn. 
++ ? note: e với số mũ nhỏ -> 0 sẽ tiến tới 1 giới hạn và e gần như không thể nhỏ hơn nữa. (min là 2.718281828)
 + ? Còn e^n với n > 0 sẽ tăng như 1 số bth (ex: e^2 = 7.38) 
 Logarithm: If $e^{y}= x$, then $y=\log(x)$
 	This means $\log(x)$ answers the question: "To what power must e be raised to get x?"
