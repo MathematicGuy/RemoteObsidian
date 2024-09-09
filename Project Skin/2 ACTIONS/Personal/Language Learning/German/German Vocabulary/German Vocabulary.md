@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-ermWir sehen ins Kino ein Film
+
 
 ### **Unit 1: Order in a cafe, describe your family**
 
@@ -2410,4 +2410,15 @@ Arbeitslos / unemployed
 #hat_vs_habe
 + hat: has (I, you, we they) - singular
 + habe: have (he, she, it) - plural
+
+Der Großvater / the grandfather (the big father)
+Die Großmutter / the grandmother (the big mother)
+	Meine Großmutter hat eine Wein im Külhschrank / the 
+Die Großeltern  / the grandparent
+
+Dorf village 
+	Das Dorf ist sehr groß
+
+Haustiere pets
+	Ich will keine Kinder, ich habe ein Haustiere / I don't want a child, I want a pets
 

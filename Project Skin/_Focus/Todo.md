@@ -3,8 +3,8 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
-
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club)
+
 
 #Todo/GoalsThisWeek
 - [ ] When the Presure and Overwhelm is comming. Face them 1 by 1, 1 at a time. Then Reward my self with Games and Entertainments. 

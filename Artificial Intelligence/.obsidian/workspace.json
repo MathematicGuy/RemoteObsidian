@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8a721ddfeaac672",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "23c3163de8d4f11f",
             "type": "leaf",
             "state": {
@@ -45,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus_Derivative.md",
+                "file": "Gradient and Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus_Derivative.md",
+                "file": "Gradient and Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus_Derivative.md"
+                "file": "Gradient and Gradient Descent.md"
               }
             }
           },
@@ -198,12 +183,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "33f5c8a23a04d923",
+  "active": "23c3163de8d4f11f",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "Calculus_Derivative.md",
+    "Pasted image 20240908155741.png",
     "Pasted image 20240906151645.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Gradient and Gradient Descent.md",
-    "2 ACTIONS/_Focus.md",
     "PCB defects detection using YOLOv5.md",
     "Pasted image 20240905235717.png",
     "Yolov5 bugs.md",
@@ -223,8 +210,6 @@
     "Pasted image 20240901141845.png",
     "Pasted image 20240901141825.png",
     "Pasted image 20240901141400.png",
-    "Pasted image 20240901141149.png",
-    "Pasted image 20240901141138.png",
     "3 RESOURCES/How to/Anaconda.md",
     "Tech Major Ranking 2024.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",

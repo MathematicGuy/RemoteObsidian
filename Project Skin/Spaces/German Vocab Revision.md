@@ -656,3 +656,13 @@ Reist / traveling
 10. November november
 11. Dezember december
 
+
+
+Großvater
+Großmutter
+Großeltern 
+Unsere Großeltern haben einen Garten / Our Grandparent have a gadern 
+Meine Großmutter hat ein Sessel  - my grandmother has a arm chair
+
+Dorf village
+	Es gibt ein computer im Dorf
