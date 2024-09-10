@@ -8,3 +8,8 @@
 + Avoid Raven (Green girl with big sword)
 + Avoid Master Ji (yellow guy with many eyes
 + Don't underestimated Baron road Champion.
+
+
+**Killing Baron and Dragon**
++ Don't stand inside Baron Pit, it way to risky. You can kill Baron by stading behind. 
+
