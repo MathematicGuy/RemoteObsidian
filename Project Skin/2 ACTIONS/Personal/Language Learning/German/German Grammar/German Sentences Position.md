@@ -19,7 +19,6 @@ German
 + $ Come 1st
 + ! Come 2nd
 + ? Come last
-![[Pasted image 20240205184242.png]]v 
-
+![[Pasted image 20240205184242.png]]
 ### Always check for verbs in last position
   

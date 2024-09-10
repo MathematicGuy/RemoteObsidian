@@ -2385,7 +2385,6 @@ Brav behave
 
 Das Eltern keinen lebt im city, Kanst du 
 
-
 Praktikum - intership
 Januar janurary 
 	Die Praktikum endet im Januar / The internship ends in January
@@ -2422,3 +2421,8 @@ Dorf village
 Haustiere pets
 	Ich will keine Kinder, ich habe ein Haustiere / I don't want a child, I want a pets
 
+Das Beamtin/Beamter - civil servant (goverment worker)
+	Mein Bruder ist jetzt Beamter
+
+Schilkröte turtle
+Geschwister siblings

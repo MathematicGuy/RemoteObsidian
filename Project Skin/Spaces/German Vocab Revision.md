@@ -5,12 +5,10 @@ können - can with (Sie)
 	können Sie kommen
 	Um wie viel können Sie kommen
 
-
 Müssen 
 zu
 Hause
 Bleiben
-
 
 Zahnschmerzen 
 Jetzt
@@ -666,3 +664,20 @@ Meine Großmutter hat ein Sessel  - my grandmother has a arm chair
 
 Dorf village
 	Es gibt ein computer im Dorf
+
+
+Geschwister
+	Gesch
+	Wister
++ Ich habe zwölf Geschwister. Hast du einen bruder und eine Schwester 
+
+#will_vs_wollen (**want/to want**)
+in English there just 1 different form of 'to want'
+>we want, you want, I want, they want, she/he want
+
+in German there're 3 additional form of 'wollen'.
++ ? As we know, ich/er/sie/es goes with will and du goes with willst.
+> The same applied to wollen
+> wir/sie wollen (plural) - ihr/sein wollt
+
+

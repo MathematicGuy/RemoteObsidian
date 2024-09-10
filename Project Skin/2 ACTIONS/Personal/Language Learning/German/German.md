@@ -12,7 +12,6 @@ _sort:
   asc: false
   group: false
 ---
-c
 [[German Vocabulary]]
 + [[German Technology Vocabulary]]
 + [[German Vocab Revision]]

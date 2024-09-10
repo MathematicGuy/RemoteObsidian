@@ -4,15 +4,16 @@ tags:
   - "#Grammar"
 ---
 
-| article | noun | verb | adjective |
-| ---- | ---- | ---- | ---- |
-| der | Algorithmus | implementieren | effizient |
-| die | Datenbank | entwickeln | zuverlässig |
-| das | Programm | testen | modulär |
-|  | Schnittstelle | optimieren | flexibel |
-|  | Compiler | debuggen | fehlerfrei |
-|  | Framework | konfigurieren | leistungsfähig |
-|  | Code | analysieren | strukturiert |
+| article | noun          | verb           | adjective      |
+| ------- | ------------- | -------------- | -------------- |
+| der     | Algorithmus   | implementieren | effizient      |
+| die     | Datenbank     | entwickeln     | zuverlässig    |
+| das     | Programm      | testen         | modulär        |
+|         | Schnittstelle | optimieren     | flexibel       |
+|         | Compiler      | debuggen       | fehlerfrei     |
+|         | Framework     | konfigurieren  | leistungsfähig |
+|         | Code          | analysieren    | strukturiert   |
+|         |               |                |                |
 **English Translation** 
 *noun*
 + Datenbank  database

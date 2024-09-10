@@ -1,6 +1,12 @@
 ---
 tags: Grammar
 ---
+#todo
+- [ ] When to use seinen
+
+
+# [[German Cases]]
++ [[Common German Mistake]]
 
 # [[German Freestyles]]
 
@@ -12,8 +18,6 @@ tags: Grammar
 # [[German Word Order]]
 	[[German Sentences Position]]
 
-# [[German Cases]]
 
-[[Common German Mistake]]
 
 

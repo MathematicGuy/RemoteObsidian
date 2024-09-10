@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9fd453dae7f89a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0604e3f459a72282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Spaces/German Vocab Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Spaces/German Vocab Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Spaces/German Vocab Revision.md"
               }
             }
           },
@@ -189,13 +216,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "40d12099b539cf92",
+  "active": "0604e3f459a72282",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Sentences Position.md",
+    "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/Common German Mistake.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar Drill.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "German Song.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Technology Vocabulary.md",
+    "German History.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Noun Gender.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Note/German Freestyles.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Word Order.md",
+    "German Learning Core.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/Pointer in C.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
@@ -204,29 +244,16 @@
     "4 ARCHIVES/2023/3rd Semesters/DSA/Array Basic.md",
     "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
-    "German Song.md",
-    "VIetnam General Law Revision.md",
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
-    "Writing CV Skill.md",
     "Pasted image 20240829200722.png",
     "Pasted image 20240829200437.png",
     "Pasted image 20240829200156.png",
     "Pasted image 20240829195704.png",
     "Pasted image 20240829195658.png",
-    "1 PROJECTS/CMC Summer 2024/Advance Programming - JAVA.md",
-    "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
-    "4 ARCHIVES/2023/Python/Snake Game (Broadly).md",
-    "Flutter.md",
-    "1 PROJECTS/CMC Summer 2024/Mobile Development.md",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "Pasted image 20240825000528.png",
     "Pasted image 20240824231715.png",
     "Pasted image 20240824225753.png",
     "Pasted image 20240824225626.png",
     "Pasted image 20240824225536.png",
-    "3 RESOURCES/Web/FrontEnd/FrontEnd.md",
-    "Spaces/How to Run React Native with Android Studio.md",
-    "Spaces/Mobile Development Project.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
