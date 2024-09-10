@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0604e3f459a72282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "Germanic Language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "Germanic Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "Germanic Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/German Vocab Revision.md"
+                "file": "Germanic Language.md"
               }
             }
           },
@@ -216,24 +203,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0604e3f459a72282",
+  "active": "9fd453dae7f89a96",
   "lastOpenFiles": [
+    "Germanic Language.md",
+    "Pasted image 20240910102653.png",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "Learning Thourgh Videos.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Sentences Position.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/Common German Mistake.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar Drill.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German Song.md",
-    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Technology Vocabulary.md",
     "German History.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Noun Gender.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/German Freestyles.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Word Order.md",
     "German Learning Core.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/Pointer in C.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
@@ -241,9 +231,6 @@
     "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
     "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp List.md",
     "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp Array.md",
-    "4 ARCHIVES/2023/3rd Semesters/DSA/Array Basic.md",
-    "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
-    "3 RESOURCES/GoodForLater/Good for LATER.md",
     "Pasted image 20240829200722.png",
     "Pasted image 20240829200437.png",
     "Pasted image 20240829200156.png",
@@ -253,7 +240,6 @@
     "Pasted image 20240824231715.png",
     "Pasted image 20240824225753.png",
     "Pasted image 20240824225626.png",
-    "Pasted image 20240824225536.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
