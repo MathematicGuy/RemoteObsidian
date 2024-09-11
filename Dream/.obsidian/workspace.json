@@ -23,40 +23,12 @@
             }
           },
           {
-            "id": "0250c96b97be5241",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/_My Life/Deepthought.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7c92cd234e4c2caf",
+            "id": "aaa125d0aed7fdf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6cdf5ddc74914f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md",
+                "file": "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md",
+                "file": "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md"
+                "file": "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md"
               }
             }
           },
@@ -207,11 +179,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6cdf5ddc74914f3",
+  "active": "aaa125d0aed7fdf9",
   "lastOpenFiles": [
+    "3 RESOURCES/_Happiness/_Happiness.md",
+    "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
+    "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md",
     "_Focus.md",
-    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+    "3 RESOURCES/_Happiness/Watch This Everyday Video.md",
+    "3 RESOURCES/_Happiness/Save for my GF.md",
     "2 ACTIONS/_My Life/Deepthought.md",
+    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "3 RESOURCES/_Question Mark/_Question Mark.md",
     "2 ACTIONS/_My Life/_My Life.md",
     "Escapsing Reality & Addiction.md",
@@ -230,11 +207,6 @@
     "2 ACTIONS/_My Life/100 Thing to do before DeadBed.md",
     "3 RESOURCES/_Question Mark/Why & What.md",
     "3 RESOURCES/_Question Mark/Superpower Disorder Explained.md",
-    "3 RESOURCES/_Question Mark/Reason why you not understand what they understand.md",
-    "3 RESOURCES/_Question Mark/For People Who.md",
-    "Question to Ask My Self.md",
-    "Riddle.md",
-    "4 ARCHIVES/The Root of Depression.md",
     "Pasted image 20240821015451.png",
     "Pasted image 20240813232641.png",
     "Pasted image 20240813232116.png",

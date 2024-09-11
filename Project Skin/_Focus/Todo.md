@@ -6,25 +6,17 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club)
 
 
-#Todo/GoalsThisWeek
-- [ ] When the Presure and Overwhelm is comming. Face them 1 by 1, 1 at a time. Then Reward my self with Games and Entertainments. 
-	Human are most Productive when they have Motivation. Keeping a Balance between Motivation and Pressure/Work is the key to Flow.
-	
-- [ ] Optimized Thinking: Don't make thing more complicated. Remove un-important task 
-	
-- [ ] Make that quick decision (3 per weeks starting from now)
-	
-- [ ] Ein Tag im bleben vlog (5') 
+#Todo/[[GoalsThisWeek]]
 \
 
-#Todo/GoalsThisMonth
-- [ ] **Switch Learning German** on **Laptop to Tablet and Notebook.**
+#Todo/[[GoalsThisMonth]]
 - [ ] Learn German Direct and Indirect case
 
 
 #MyRuleThat_I_SwearToLiveBy
+- [ ] No LoL before 16:00 (4PM)
+- [ ] Exercise right after waking up 
 - [ ] Rest at least 25' before class  
-- [ ] Make my blood flow the 1st second I wake up 
 
 
 **My Learning**
