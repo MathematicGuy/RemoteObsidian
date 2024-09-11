@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a9d937b5046a1f1",
+        "id": "0f818c73a58e567c",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd1f442134441c1",
+            "id": "6ca8ee1da08f7368",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "966eab0aadae2c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LoL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "LoL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "LoL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "LoL.md"
               }
             }
           },
@@ -189,12 +203,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fbd1f442134441c1",
+  "active": "966eab0aadae2c9d",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "GoalsThisMonth.md",
     "GoalsThisWeek.md",
-    "LOL.md",
+    "LoL.md",
     "Learn Languages FAST.md",
     "Pasted image 20240911085427.png",
     "Germanic Language.md",
