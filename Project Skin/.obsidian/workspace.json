@@ -34,6 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2dce08acffbef1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -205,10 +218,10 @@
   },
   "active": "05b73e546cdfc3b0",
   "lastOpenFiles": [
-    "Pasted image 20240911085427.png",
-    "LOL.md",
     "_Focus/Todo.md",
+    "LOL.md",
     "Learn Languages FAST.md",
+    "Pasted image 20240911085427.png",
     "Germanic Language.md",
     "Pasted image 20240910102653.png",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -240,7 +253,6 @@
     "Pasted image 20240825000528.png",
     "Pasted image 20240824231715.png",
     "Pasted image 20240824225753.png",
-    "Pasted image 20240824225626.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

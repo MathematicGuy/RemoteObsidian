@@ -36,9 +36,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7c92cd234e4c2caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6cdf5ddc74914f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_My Life/Deepthought.md",
+                "file": "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_My Life/Deepthought.md"
+                "file": "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md"
               }
             }
           },
@@ -181,34 +207,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0250c96b97be5241",
+  "active": "a6cdf5ddc74914f3",
   "lastOpenFiles": [
     "_Focus.md",
+    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "2 ACTIONS/_My Life/Deepthought.md",
+    "3 RESOURCES/_Question Mark/_Question Mark.md",
+    "2 ACTIONS/_My Life/_My Life.md",
+    "Escapsing Reality & Addiction.md",
+    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
+    "Productivity Note.md",
+    "3 RESOURCES/_Productivity & Improvement/Study Strategies.md",
+    "3 RESOURCES/_Productivity & Improvement/Manipulate.md",
+    "3 RESOURCES/_Productivity & Improvement/Fasting for Optimal Focus.md",
+    "3 RESOURCES/_Productivity & Improvement/Communication Skills.md",
+    "3 RESOURCES/_Productivity & Improvement/4 Reasons Hard Work DOES NOT Beat Talent.md",
+    "3 RESOURCES/_Productivity & Improvement/Achive More by Doing Less.md",
     "If you're in your 20's watch this..md",
     "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "1 PROJECTS/This Year Goal.md",
-    "Escapsing Reality & Addiction.md",
-    "2 ACTIONS/_My Life/_My Life.md",
     "2 ACTIONS/_My Life/1 Shoot for the Star.md",
     "2 ACTIONS/_My Life/100 Thing to do before DeadBed.md",
     "3 RESOURCES/_Question Mark/Why & What.md",
     "3 RESOURCES/_Question Mark/Superpower Disorder Explained.md",
     "3 RESOURCES/_Question Mark/Reason why you not understand what they understand.md",
     "3 RESOURCES/_Question Mark/For People Who.md",
-    "3 RESOURCES/_Question Mark/_Question Mark.md",
     "Question to Ask My Self.md",
     "Riddle.md",
-    "Productivity Note.md",
     "4 ARCHIVES/The Root of Depression.md",
-    "4 ARCHIVES/Get Back to Who I'm Used to be.md",
-    "Head Space.md",
-    "2024-06-02.md",
-    "How to Study.md",
-    "3 RESOURCES/_Happiness/_Happiness.md",
-    "3 RESOURCES/_Happiness/HOPE Playlist - NF.md",
-    "3 RESOURCES/_Happiness/Identify my Weakness.md",
-    "3 RESOURCES/_Happiness/Best video about Trauma and What could have been.md",
     "Pasted image 20240821015451.png",
     "Pasted image 20240813232641.png",
     "Pasted image 20240813232116.png",
