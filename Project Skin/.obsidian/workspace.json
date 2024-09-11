@@ -26,8 +26,13 @@
             "id": "3b70d029acd63616",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "German History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "German History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "German History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "German History.md"
+              }
             }
           },
           {
@@ -196,6 +205,7 @@
   },
   "active": "3b70d029acd63616",
   "lastOpenFiles": [
+    "Pasted image 20240911230213.png",
     "_Focus/Todo.md",
     "LoL.md",
     "GoalsThisMonth.md",
@@ -223,7 +233,6 @@
     "German Learning Core.md",
     "3 RESOURCES/Programming/Fundamental of Programming/Pointer in C.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
-    "3 RESOURCES/DataBase/SQL/SQL.md",
     "Pasted image 20240829200722.png",
     "Pasted image 20240829200437.png",
     "Pasted image 20240829200156.png",
