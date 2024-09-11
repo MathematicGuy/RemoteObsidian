@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f818c73a58e567c",
+        "id": "1e57acb54ac5f4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca8ee1da08f7368",
+            "id": "89f2af27502ac3fe",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "966eab0aadae2c9d",
+            "id": "3b70d029acd63616",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LoL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -111,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LoL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,12 +194,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "966eab0aadae2c9d",
+  "active": "3b70d029acd63616",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "LoL.md",
     "GoalsThisMonth.md",
     "GoalsThisWeek.md",
-    "LoL.md",
     "Learn Languages FAST.md",
     "Pasted image 20240911085427.png",
     "Germanic Language.md",

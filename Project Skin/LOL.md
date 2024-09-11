@@ -5,8 +5,7 @@
 + Avoid risk at the end game. Die as late as possible if not trading life with their MVP.
 + No matter how strong u r. Don't stand in vulnerabal position.
  
-+ Avoid Raven (Green girl with big sword)
-+ Avoid Master Ji (yellow guy with many eyes
++ Avoid Raven (Green girl with big sword), Master Ji (yellow guy with many eyes)
 + Don't underestimated Baron road Champion.
 
 
