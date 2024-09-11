@@ -27,27 +27,27 @@
 
 **Immersive trainning for spies**
 + ? imersion in total hostile environment.
-+ 
+
 
 **Memory techniques**
-
+> Recall by read them and write them down
 
 **Listening Skills for spies**
 
 
 **Keeping cool while speaking**
-
+> practice
 
 **Code switching**
-
+> practice switching language fast
 
 **Cultural Influency**
-
-
+> get to know the culture, reading their body languages
++ ? Posture, Expression, Facial Expression, etc..
 
 
 ---
 ## How U.S. Military Linguists Learn Languages Fast
-
-
+![[Pasted image 20240911085427.png]]
+Beside this include listen to music and reading the news.
 

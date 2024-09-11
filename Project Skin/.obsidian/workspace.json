@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "50d93a3e1530a25a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LOL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LOL.md",
+                "file": "Learn Languages FAST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LOL.md",
+                "file": "Learn Languages FAST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LOL.md"
+                "file": "Learn Languages FAST.md"
               }
             }
           },
@@ -216,10 +203,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "50d93a3e1530a25a",
+  "active": "05b73e546cdfc3b0",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
+    "Pasted image 20240911085427.png",
     "LOL.md",
+    "_Focus/Todo.md",
     "Learn Languages FAST.md",
     "Germanic Language.md",
     "Pasted image 20240910102653.png",
@@ -244,7 +232,6 @@
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
     "4 ARCHIVES/2023/3rd Semesters/OOP/Arrays.md",
-    "4 ARCHIVES/2023/3rd Semesters/CSharp/CSharp List.md",
     "Pasted image 20240829200722.png",
     "Pasted image 20240829200437.png",
     "Pasted image 20240829200156.png",
