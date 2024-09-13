@@ -12,7 +12,7 @@
 
 ### [[_How To Study]]
 
-### [[_How To Thing]]
+### [[_How To]]
 
 ### [[_Productivity & Improvement]]
 

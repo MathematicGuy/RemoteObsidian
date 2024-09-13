@@ -37,3 +37,5 @@ _sort:
 [[Skills]]
 
 [[Free Will]]
+
+[[Improve your critical inquiry skills]]

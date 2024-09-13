@@ -3,12 +3,15 @@
 > **Prioritize Sleep above everything else**. The best medicine for enhance your focus and creativity. (If you have time to play, you have time to sleep)
 + This mean **No substaince that can disrupt your sleep**
 
+
 ## 2) No caffeine, alcohol or any substance that can disrupt your performance -> Improv Sleep 
 + Only consume caffeine before 1h30 PM. 
 + Too tired even after 7hr of sleep
 
-## 3) No gaming after 6pm -> Improv Sleep
+
+## 3) No gaming after 6pm -> Improve Sleep
 >No Excuse, no gaming after 6PM. Because when playing LoL your brain goes in Fight or Flight mode which cause a lot of stimulant. It will disrupt your sleep. 
+
 
 ## 4) Concept of "Focus days" (Deepwork by Cal Newport)
 > Only doing 1 activity per day.  Power stay in 1 Context (prove by neuron science)
@@ -33,6 +36,7 @@
 + Before Sleep your brain also bored so it will recall what happened in the day, resulting in you no get that quick and nice sleep. So being bored solve this problem too. 
 
 > If you playing league, playing league. Don't Liten to music or doing anything else. like they say: **If you work, work. If you play, play. If you eat, eat.**
+
 
 ## 7) Working together VS. Working alone
 Study Alone, share together. After you have consume knowledge, share it with a friend/chatGPT to check sure of what you learned. 

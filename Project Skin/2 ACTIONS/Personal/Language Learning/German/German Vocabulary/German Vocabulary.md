@@ -1215,8 +1215,8 @@ Nächste - next / closet (literally pronounce as Next in German)
 
 Genau exactly
 	ja, genau - yes exactly
-Uhr  o'clock
-Spät  late (Später - later)
+Uhr - O'clock
+Spät - Late (Später - later)
 	du kommst immer zu spät
 
 (eine) Verspätung
@@ -2332,7 +2332,6 @@ Es gibt - there is
 
 Rezeption - reception
 Banane - Banana
-hu
 Lange - long
 Wie lange - how long
 	Wie lange wollen Sie bleiben
@@ -2426,3 +2425,8 @@ Das Beamtin/Beamter - civil servant (goverment worker)
 
 Schilkröte turtle
 Geschwister siblings
+
+Enkel / grandson
+	Mein Enkel macht ein Praktikum 
+Enkelin / granddaughter
+	Hast dein Enkel Praktikum machen ?

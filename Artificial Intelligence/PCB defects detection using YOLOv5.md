@@ -24,9 +24,11 @@ os.chdir("Tools\XmlToTxt")
 ```
 Kết quả (tệp Txt) sẽ được lưu trữ trong thư mục **XmlToTxt/out**
 
+
 Bước 7: Sao chép tất cả chú thích .txt từ **XmlToTxt/out** và dán vào thư mục
 **PCB_DATASET/Annotations** (Nhớ xóa tất cả các thư mục cũ)
 > Tùy chọn: Xóa Công cụ XmlToTxt vì bạn không cần nó nữa.
+
 
 ### Sắp xếp cấu trúc thư mục tập dữ liệu
 > Thêm cấu trúc thư mục này vào thư mục dự án chính của bạn. (> nghĩa là bên trong)
@@ -40,12 +42,13 @@ Dataset
 	> val
 ```
 
-
-Tỷ lệ dữ liệu đào tạo: 80% hình ảnh đào tạo và 20% hình ảnh sẽ là hình ảnh xác thực
+note: Tỷ lệ dữ liệu đào tạo: 80% hình ảnh đào tạo và 20% hình ảnh sẽ là hình ảnh xác thực
 > bạn cũng có thể thay đổi tỷ lệ thành 70%-30% hoặc 65%-35% hoặc 75%-25%
 
+
 Bước 7) Kết hợp tất cả các hình ảnh với tệp txt
-> sao chép tất cả các hình ảnh từ **PCB_DATASET/images** và di chuyển đến **PCB_DATASET/Annotations** (tệp tự động trộn bên trong các thư mục)
++ ? Đổi tên Annotation -> Annotation_txt
+> sao chép tất cả các hình ảnh từ **PCB_DATASET/images** và di chuyển đến **PCB_DATASET/Annotations_txt** (tệp tự động trộn bên trong các thư mục)
 + $ Bây giờ mỗi tệp hình ảnh sẽ có một tệp txt
 ![[Pasted image 20240606161621.png]]
 + ? Sao chép và di chuyển thư mục Chú thích trong thư mục chính

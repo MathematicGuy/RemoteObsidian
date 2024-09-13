@@ -681,3 +681,7 @@ in German there're 3 additional form of 'wollen'.
 > wir/sie wollen (plural) - ihr/sein wollt
 
 
+Meine Kinder sind nicht brav, aber ich liebe sie / my children are not well-behave, but I love them. 
+
+Mein kinder sind sehr brav / my children are very well-bahaved
+Mein Kinder immer zu hause, sie sind spielt Videospiele und sieht fern / My children always at home, they are playing video game and watching TV.
