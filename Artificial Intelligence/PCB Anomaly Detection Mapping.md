@@ -8,7 +8,6 @@
 	![[Pasted image 20240912155931.png]]
 + [[XML_vs_TXT]]: use XML for details information (car detection include class like car_type, env, weather, light, etc..) and TXT for light weight and high processing speed (surveilliance camera include class like person, object) - note: each class include their their coordinate and confident_rate.
 
-
 ---
 
 **FADS System (Flexible Anomaly Detection System)**
@@ -44,3 +43,5 @@ Step 1: Data Collection & Preprocessing
 - Upload Image (Collect Data)
 - Preprocess data
 + Feature Engineering: Extract relevant features from the product images or data.  (can use traditional techniques or ResNet Model to extract features)
+
+

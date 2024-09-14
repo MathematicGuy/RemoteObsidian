@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cf26c5c38a4ad7a",
+        "id": "226957eae84798bd",
         "type": "tabs",
         "children": [
           {
-            "id": "1738c4d53e2072c4",
+            "id": "1c5df4ab7391b321",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ad1603dff71356c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,11 +189,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ad1603dff71356c9",
+  "active": "1c5df4ab7391b321",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "German History.md",
     "Pasted image 20240911230213.png",
     "LoL.md",

@@ -32,18 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ac287fccb3746c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XML_vs_TXT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -200,8 +188,8 @@
   },
   "active": "2c6e05b4baf5ddfa",
   "lastOpenFiles": [
-    "XML_vs_TXT.md",
     "PCB Anomaly Detection Mapping.md",
+    "XML_vs_TXT.md",
     "PCB defects detection using YOLOv5.md",
     "Pasted image 20240912155931.png",
     "PCB Anomaly Detection Note & Resources.md",

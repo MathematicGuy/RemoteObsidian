@@ -2430,3 +2430,7 @@ Enkel / grandson
 	Mein Enkel macht ein Praktikum 
 Enkelin / granddaughter
 	Hast dein Enkel Praktikum machen ?
+
+Arbeitslos - unemployed
+Reist - travel
+	Reist du im Juni nach Japan 

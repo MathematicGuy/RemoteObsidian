@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "aaa125d0aed7fdf9",
+            "id": "b43916d85a36f19f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "655104fd200165fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Improve your critical inquiry skills.md",
+                "file": "Productivity Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Improve your critical inquiry skills.md",
+                "file": "Productivity Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Improve your critical inquiry skills.md"
+                "file": "Productivity Note.md"
               }
             }
           },
@@ -192,20 +179,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "655104fd200165fa",
+  "active": "b43916d85a36f19f",
   "lastOpenFiles": [
-    "Pasted image 20240912101132.png",
-    "2 ACTIONS/_My Life/_My Life.md",
-    "Improve your critical inquiry skills.md",
+    "Pasted image 20240913110123.png",
+    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "_Focus.md",
     "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
+    "Improve your critical inquiry skills.md",
+    "Pasted image 20240912101132.png",
+    "2 ACTIONS/_My Life/_My Life.md",
     "3 RESOURCES/_How To/_How To Thing/_How To.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
     "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md",
     "3 RESOURCES/_Happiness/Watch This Everyday Video.md",
     "3 RESOURCES/_Happiness/Save for my GF.md",
     "2 ACTIONS/_My Life/Deepthought.md",
-    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "3 RESOURCES/_Question Mark/_Question Mark.md",
     "Escapsing Reality & Addiction.md",
     "3 RESOURCES/_How To/_How To Study/_How To Study.md",
@@ -239,7 +227,6 @@
     "3 RESOURCES/_How To/_How To Study",
     "3 RESOURCES/_How To",
     "4 ARCHIVES",
-    "4 ARCHIVES/Image/Pasted image 20240426221324.png",
     "Untitled.canvas"
   ]
 }
