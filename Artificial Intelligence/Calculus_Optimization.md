@@ -60,3 +60,5 @@ Useful function in machine learning
 ![[Pasted image 20240724142347.png]]
 
 
+## Optimization using Gradient Descent in 2 variables - Part 1
+

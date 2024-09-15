@@ -849,6 +849,8 @@ Endpoint
 Exponential
 Engineering
 Efficiency
+EGG
+EFBK
 the
 that
 transformation
@@ -1633,6 +1635,10 @@ traffic
 theft
 truncation
 tasked
+tXg
+tIS
+tCc
+tUs
 original
 of
 operator
@@ -2285,6 +2291,11 @@ overly
 occluded
 occlusion
 overhead
+oTt
+ope
+oOye
+oXo
+otU
 vector
 vectors
 versions
@@ -3019,6 +3030,8 @@ variations
 visible
 vehicles
 visibility
+vCw
+vAVP
 An
 After
 Algorithm
@@ -3819,6 +3832,10 @@ Annotation
 Aspect
 Absolute
 Autonomous
+AuR
+ApQE
+AZa
+AWGjZ
 eigenbasis
 entirely
 eigenvectors
@@ -4708,6 +4725,7 @@ epochs
 evolve
 evolving
 encounters
+eXS
 is
 in
 image
@@ -5652,6 +5670,8 @@ improvement
 improving
 identified
 imaging
+iterate
+injq
 basis
 by
 because
@@ -6527,6 +6547,7 @@ blocked
 busy
 bags
 beforehand
+bWhn
 for
 find
 factor
@@ -7270,6 +7291,8 @@ flat
 flags
 frame
 framework
+fQAE
+fFp
 space
 say
 same
@@ -8288,6 +8311,7 @@ sizes
 security
 suspicious
 surveilliance
+sVv
 consists
 can
 change
@@ -9372,6 +9396,10 @@ cars
 cyclists
 camera
 crossing
+ckkk
+cNe
+cDp
+cnT
 linear
 lambda
 left
@@ -10151,6 +10179,8 @@ lenient
 lowering
 labeling
 light
+ljt
+lud
 matrix
 multiply
 multiplied
@@ -11060,6 +11090,7 @@ metadata
 meant
 motion
 monitoring
+mtp
 The
 This
 To
@@ -11932,6 +11963,9 @@ Tempreture
 TPHCM
 Typically
 TXT
+TVw
+Tfg
+Tpd
 after
 and
 as
@@ -12894,6 +12928,7 @@ adapts
 additional
 accommodate
 alerts
+aBp
 notate
 nhau
 normal
@@ -13676,6 +13711,8 @@ named
 neligible
 normalized
 names
+nZG
+nSkW
 Change
 Class
 Comunity
@@ -14559,6 +14596,7 @@ Click
 Contains
 Collect
 Circuit
+CCB
 Basis
 Both
 Board
@@ -15313,6 +15351,9 @@ Build
 Boards
 Bounding
 Box
+Bxt
+Bkv
+Bpp
 Using
 Understand
 Unique
@@ -16158,6 +16199,9 @@ UAn
 Uvg
 Upload
 Used
+Uyq
+UTE
+UWI
 we
 want
 when
@@ -16821,6 +16865,8 @@ wildcard
 went
 widths
 weather
+wSIq
+wgx
 have
 has
 ho
@@ -17555,6 +17601,11 @@ house
 holes
 heights
 hierarchical
+hllt
+hxT
+hOo
+hPhG
+hHp
 Let
 Light
 Learning
@@ -18318,6 +18369,11 @@ Listening
 Latest
 Look
 Lightweight
+Least
+LAJ
+LXD
+LnI
+LRj
 you
 yield
 yk
@@ -18975,6 +19031,7 @@ yCBU
 years
 younger
 ych
+yOa
 point
 pair
 pmatrix
@@ -19817,6 +19874,8 @@ priorities
 pedestrians
 pedestrian
 paramount
+powerlines
+pII
 You
 Yes
 YX
@@ -20544,6 +20603,8 @@ Yyy
 YAN
 Yst
 YOLOv
+YpL
+YfIEL
 get
 given
 getL
@@ -21208,6 +21269,8 @@ git
 girls
 generally
 gather
+gSs
+ggfKe
 Scalars
 Step
 Solution
@@ -22193,6 +22256,7 @@ Slight
 Subtle
 Speed
 Surveillance
+SNq
 result
 reduced
 repeated
@@ -23035,6 +23099,9 @@ revisiting
 requiring
 robust
 rich
+replacing
+rsYp
+rIJ
 Non
 Need
 No
@@ -23632,6 +23699,13 @@ NAGI
 NOgf
 NotImplementedError
 Normalized
+NNg
+NKq
+NKY
+NJJ
+Nvf
+Nwr
+NlK
 zero
 zeros
 zeroes
@@ -24995,6 +25069,9 @@ WNA
 WAN
 WIBr
 Water
+WbYM
+Wwq
+WwEQ
 don
 direction
 data
@@ -25823,6 +25900,8 @@ dealing
 delay
 displaying
 detects
+deg
+dfU
 From
 Find
 For
@@ -26539,6 +26618,7 @@ FAD
 Flexibility
 Forests
 File
+FUC
 know
 kh
 kia
@@ -27228,6 +27308,9 @@ koPSS
 kdcS
 kOP
 knm
+kjR
+kgAnl
+kHp
 Matrix
 Multiplication
 Model
@@ -28031,6 +28114,8 @@ Metal
 Mouse
 Mislabeling
 Mainly
+MqQ
+Mve
 using
 up
 until
@@ -28806,6 +28891,8 @@ units
 upload
 uploaded
 uploading
+ugd
+uhqj
 Recall
 Reference
 Redundant
@@ -29659,6 +29746,10 @@ RNN
 Require
 ResNet
 Required
+RZZ
+RlL
+RQv
+RPB
 Or
 One
 Our
@@ -30399,6 +30490,8 @@ OFe
 OwA
 OtdiL
 OUD
+OpT
+OLh
 IntelliJ
 Isolation
 Interactive
@@ -31253,6 +31346,10 @@ Insertion
 Inheritance
 Incremental
 Included
+IhgAAA
+IQA
+IWx
+IIX
 Prerequisite
 PCB
 Project
@@ -32098,6 +32195,7 @@ Plate
 Preprocess
 Printed
 Pascal
+PXXdh
 Defecs
 Defects
 Dataset
@@ -32879,6 +32977,10 @@ DHrR
 Database
 DELETE
 Detailed
+Disadvantage
+DVv
+DPs
+DDT
 Visual
 Variables
 Visualization
@@ -34371,6 +34473,9 @@ JSK
 Jrn
 Joins
 Jypyter
+JTy
+JhT
+JWuhP
 just
 jjj
 jFD
@@ -35093,6 +35198,8 @@ jqM
 jNW
 jei
 jlxDH
+jYo
+jLst
 Highly
 How
 Have
@@ -36571,6 +36678,8 @@ qTud
 qHkdz
 qpq
 qec
+qUgPv
+qDnq
 Kh
 Key
 Kz
@@ -37288,6 +37397,9 @@ Kwa
 KhH
 KDW
 Kinh
+KZc
+KvT
+KpLMI
 Gaussian
 Geometric
 Given
@@ -38043,6 +38155,12 @@ GJdD
 GUU
 Git
 GANs
+GBl
+GRV
+Gradicent
+GVu
+Gdt
+GIQ
 Zero
 Zw
 ZX
@@ -38729,6 +38847,11 @@ ZZT
 ZBBC
 ZsN
 ZWFU
+ZPV
+ZKU
+ZPh
+ZhX
+ZQz
 xG
 xE
 xP
@@ -39377,6 +39500,7 @@ xzq
 xgp
 xFV
 xyyI
+xxY
 Qmc
 Qb
 Qo
@@ -40103,6 +40227,9 @@ QqU
 Qsm
 Quick
 Query
+QVG
+QMNN
+Qnj
 XnV
 XT
 XK

@@ -19,8 +19,8 @@ $=> f(x,y) = 6xy^3$
 
 ### Gradient
 	![[Pasted image 20240805105716.png]]
-	
-	
+
+
 ### Gradients and maxima/minima
 + ? **Minimum is when slope = 0** <-> Both Slopes of x and y is  0
 	![[Pasted image 20240805105858.png]]
@@ -34,8 +34,8 @@ To Calculate the the function minimum, we **calc the Derivative of 2 variables a
 	To get to that Coldest position we calc the Partial Dervative we see that it symmetric to the floor.
 	![[Pasted image 20240805110505.png]]
 	**Example:**
-	1) **Calculate the Partial Derivative of f(x,y) which is the derivative of X and Y**![[Pasted image 20240805111430.png]]
-	2) **Set the Partial Derivative = to 0**![[Pasted image 20240805111648.png]]
+	1) **Calculate the Partial Derivative of f(x,y) which is the derivative of X and Y respectively**![[Pasted image 20240805111430.png]]
+	2) **Set the Partial Derivative = to 0:** $$\frac{\delta f}{\delta x}, \frac{\delta f}{\delta y} = 0$$![[Pasted image 20240805111648.png]]
 	We notice there are some point outside of the Sauna, so just remove those invalid values. 
 	+ $ Insert x, y back to the function, we see that x=4 and y=4 it the Minimum of the function. ![[Pasted image 20240805111837.png]]
 
@@ -134,7 +134,6 @@ def gradient_descent(dfdx, x, learning_rate = 0.1, num_iterations = 100):
 + X like Your life Starting point. The Stepper it get, the harder life swing and goes. 
 ```
 
-
 ### Function with Multiple Minima
 ![[Pasted image 20240809073216.png]]
 Testing with 2 diff starting point.
@@ -152,3 +151,65 @@ print("Local minimum: x_min =", gradient_descent(dfdx_example_2, x=0.25, learnin
 
 + $ num_iterations = 35; learning_rate = 0.01; x_initial = 1.3
 + ? Learning Rate too high, Can't find be Converged. ![[Pasted image 20240809073459.png]]
+
+## Optimization using Gradient Descent in 2 variables 
+Ideas for Gradient Descent
+![[Pasted image 20240915140711.png]]
++ ? What is Delta f: $\nabla f$ (delta mean derivative of sth)
+	$\nabla f$ as the new (x, y) direction we want to go to. 
+	So given curernt as ($x_0 ,y_0$) we can move by a portion of the direction we want to go ($\nabla f$) by multiply the learning rate $\alpha$  
+	![[Pasted image 20240915141033.png]]
+	$(x_1, y_1)$ equal to
+	![[Pasted image 20240915144306.png]]
+
+### Method 2: Gradient Descent 
++ ? Note: Gradicent Descent -> have to use partial Derivative for each Variable Ex: x, y, z, etc..
+$(x_{0}, y_{0}) = (0.5, 0.6)$
+![[Pasted image 20240915141116.png]]
+Learing Rate = 0.05, So we keep substract the current position (x, y) by $$-0.05 \nabla f(0.5, 0.6)$$ until we reach the minimum point.
+![[Pasted image 20240915141351.png]]
+
+```ad-summary
+**Gradient Descent**
+Choose a starting point -> choose a direction to move -> choose a learning rate -> apply gradient descent fomula until reaching minimum point.
+![[Pasted image 20240915141542.png]]
+```
+
++ ! Disadvantage: have to **run many time in many direction to find the global minimum**.
+![[Pasted image 20240915141742.png]]
+
+## Gradient and Gradient Descent
+![[Pasted image 20240915142340.png]]
+> Find the optimal m so that distant between the line and every points is minimal. (smallest distant between all powerlines). The result calculated earlier was approx 4.167, now find m using gradient descent.
+![[Pasted image 20240915142431.png]]
+
++ $ Goal: Minimize sum of squares cost
++ ? remember Delta mean Derivative 
+1) let get x and y function of $\nabla E(m, b)$ by calculating partial derivative of m and b. $\frac{\nabla f}{\nabla m}, \frac{\nabla f}{\nabla b}$ 
+	
+	![[Pasted image 20240915143356.png]]
+2) Choose a "starting position" / "initial starting point" by replacing m and b (your choice)
+	![[Pasted image 20240915143446.png]]
+3) Start with $(m_0, b_0)$, Iterate until you find the minimum.
+	![[Pasted image 20240915150031.png]]
+	![[Pasted image 20240915150036.png]]
+	(detail note for m1 and b1 after the first iteration)
+	![[Pasted image 20240915150234.png]]
+
+
+### Optimization using Gradient Descent - Least squares with multiple observations
+>Plot the square area of each point reaching the line
+>![[Pasted image 20240915220817.png]]
+![[Pasted image 20240915220712.png]]
+> Using gradient descent you can change m and b so that the line will match with the **minimal distant from each points.** 
+
+From the idea above (minimal distant), we could combine Gradicent into Linear Regression problem to predict the closest value in the future: 
++ ? TV sales for example:
+	![[Pasted image 20240915221111.png]]
+
+![[Pasted image 20240915222243.png]]
+
+We can find a better line.
+![[Pasted image 20240915222604.png]]
+Doing it N time until reach the minimum point.
+![[Pasted image 20240915222635.png]]

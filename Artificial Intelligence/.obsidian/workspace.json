@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "2c6e05b4baf5ddfa",
+            "id": "450a90c98b0cbec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB Anomaly Detection Mapping.md",
+                "file": "Gradient and Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98a575b66b6aaafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Good for later/Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCB Anomaly Detection Mapping.md",
+                "file": "3 RESOURCES/Good for later/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCB Anomaly Detection Mapping.md",
+                "file": "3 RESOURCES/Good for later/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB Anomaly Detection Mapping.md"
+                "file": "3 RESOURCES/Good for later/Books.md"
               }
             }
           },
@@ -186,24 +198,31 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2c6e05b4baf5ddfa",
+  "active": "98a575b66b6aaafb",
   "lastOpenFiles": [
+    "Gradient and Gradient Descent.md",
+    "Pasted image 20240915222635.png",
+    "Pasted image 20240915222546.png",
+    "Pasted image 20240915222604.png",
+    "Pasted image 20240915222243.png",
+    "Pasted image 20240915222103.png",
+    "Pasted image 20240915221111.png",
+    "Pasted image 20240915220817.png",
+    "Pasted image 20240915220804.png",
+    "Pasted image 20240915220712.png",
+    "Pasted image 20240915150234.png",
+    "2 ACTIONS/_Focus.md",
+    "Partial Derivative and Gradient HW.md",
+    "Calculus_Optimization.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Calculus_Derivative.md",
     "PCB Anomaly Detection Mapping.md",
     "XML_vs_TXT.md",
     "PCB defects detection using YOLOv5.md",
-    "Pasted image 20240912155931.png",
     "PCB Anomaly Detection Note & Resources.md",
-    "Pasted image 20240912151758.png",
     "fine-tuning.md",
     "PCB Anomally Detection.md",
-    "2 ACTIONS/_Focus.md",
     "Job Requirements.md",
-    "Calculus_Derivative.md",
-    "Gradient and Gradient Descent.md",
-    "Pasted image 20240908155741.png",
-    "Pasted image 20240906151645.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Pasted image 20240905235717.png",
     "Yolov5 bugs.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "Fundamental of C and C++.md",
@@ -212,18 +231,10 @@
     "Internship Revision 1.md",
     "Data Structure & Algorithm.md",
     "gitignore.md",
-    "Pasted image 20240901142312.png",
-    "Pasted image 20240901142235.png",
-    "Pasted image 20240901142041.png",
-    "Pasted image 20240901141919.png",
-    "Pasted image 20240901141845.png",
     "3 RESOURCES/How to/Anaconda.md",
     "Tech Major Ranking 2024.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
     "Deep Learning.md",
-    "3 RESOURCES/CMC/CMC - Neural Network & Deep Learning.md",
-    "Snake AI.md",
-    "QLearning Solve Example.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
