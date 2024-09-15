@@ -685,3 +685,7 @@ Meine Kinder sind nicht brav, aber ich liebe sie / my children are not well-beha
 
 Mein kinder sind sehr brav / my children are very well-bahaved
 Mein Kinder immer zu hause, sie sind spielt Videospiele und sieht fern / My children always at home, they are playing video game and watching TV.
+
+
+Es gibt there is
+	Im Ihrem Dorf es gibt nur ein auto / in her village there is only 1 car  

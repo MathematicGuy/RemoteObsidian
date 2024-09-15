@@ -2128,7 +2128,10 @@ Mehrfamilienhaus apartment building (refer to family house / house that we live 
 	 ich wohne
 	 Sie Wohnen
 	 Wo wohnst du - where do you live ?
++ ? Sie Wohnt, Wohnst du 
 
+#lebt_vs_wohnt
+> "Lebt" tends to mean live in the sense of "being alive" and  Wohnt mean live in the sense of "where one live" or "reside" (cư trú)
 
 ### What is Your Dream ? 
 Träume - dream 
@@ -2416,9 +2419,12 @@ Die Großeltern  / the grandparent
 
 Dorf village 
 	Das Dorf ist sehr groß
+	Meine GroßEltern lebt im Dorf - my grandparent live the village
 
 Haustiere pets
 	Ich will keine Kinder, ich habe ein Haustiere / I don't want a child, I want a pets
+	Ich habe eine katze, sie ist meine Haustiere
+
 
 Das Beamtin/Beamter - civil servant (goverment worker)
 	Mein Bruder ist jetzt Beamter
@@ -2431,6 +2437,11 @@ Enkel / grandson
 Enkelin / granddaughter
 	Hast dein Enkel Praktikum machen ?
 
-Arbeitslos - unemployed
+Arbeitslos unemployed
 Reist - travel
 	Reist du im Juni nach Japan 
+
+Verstehe understand
+	Ich verstehe nicht - I dont understand
+
+
