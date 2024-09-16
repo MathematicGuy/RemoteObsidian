@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "450a90c98b0cbec7",
+            "id": "69c9cd2c94f08e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a575b66b6aaafb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slope.md",
+                "file": "Linear Regression Using Gradient Descent Exercise.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "Linear Regression Using Gradient Descent Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "Linear Regression Using Gradient Descent Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gradient and Gradient Descent.md"
+                "file": "Linear Regression Using Gradient Descent Exercise.md"
               }
             }
           },
@@ -198,16 +186,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "450a90c98b0cbec7",
+  "active": "69c9cd2c94f08e45",
   "lastOpenFiles": [
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Linear Regression Using Gradient Descent Exercise.md",
     "2 ACTIONS/_Focus.md",
     "Slope.md",
+    "Gradient and Gradient Descent.md",
     "Pasted image 20240916171827.png",
     "Pasted image 20240916171245.png",
     "Calculus_Derivative.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "3 RESOURCES/Good for later/Books.md",
-    "Gradient and Gradient Descent.md",
     "Pasted image 20240915222635.png",
     "Pasted image 20240915222546.png",
     "Pasted image 20240915222604.png",

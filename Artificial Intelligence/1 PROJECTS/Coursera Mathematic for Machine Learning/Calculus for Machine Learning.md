@@ -12,5 +12,5 @@ Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 # Week 2: Gradient and Gradient Descent
 > Learn function with 2 or more variable. 
 > Using Gradient Descent to Optimize functions.
-# [[Gradient and Gradient Descent]]
-
+## [[Gradient and Gradient Descent]]
++ [[Linear Regression Using Gradient Descent Exercise]]
