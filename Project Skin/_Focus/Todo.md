@@ -3,6 +3,10 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
+- [ ] Plan what to exercise for the every morning (Plan Sets)
+- [ ] Write Document for C2_W2_Assignment
+- [ ] Analyze what affect my day and habit to improve to optimize my performance
+
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club)
 
 
@@ -14,7 +18,7 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #MyRuleThat_I_SwearToLiveBy
-- [ ] No LoL before 16:00 (4PM)
+- [ ] No LoL after 16:00 (4PM)
 - [ ] Exercise right after waking up 
 - [ ] Rest at least 25' before class  
 
