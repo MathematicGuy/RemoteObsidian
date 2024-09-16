@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 RESOURCES/Good for later/Books.md",
+                "file": "Gradient and Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 RESOURCES/Good for later/Books.md",
+                "file": "Gradient and Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/Good for later/Books.md"
+                "file": "Gradient and Gradient Descent.md"
               }
             }
           },
@@ -198,8 +198,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "98a575b66b6aaafb",
+  "active": "450a90c98b0cbec7",
   "lastOpenFiles": [
+    "3 RESOURCES/Good for later/Books.md",
     "Gradient and Gradient Descent.md",
     "Pasted image 20240915222635.png",
     "Pasted image 20240915222546.png",

@@ -201,15 +201,21 @@ Choose a starting point -> choose a direction to move -> choose a learning rate 
 >Plot the square area of each point reaching the line
 >![[Pasted image 20240915220817.png]]
 ![[Pasted image 20240915220712.png]]
-> Using gradient descent you can change m and b so that the line will match with the **minimal distant from each points.** 
+> **As you using gradient descent** you can **change m and b** so that the line will match with the **minimal distant from each points.** or to minimize the loss (value when subtracting real value with expected value)
 
-From the idea above (minimal distant), we could combine Gradicent into Linear Regression problem to predict the closest value in the future: 
+From the idea above (minimal distant), we could combine Gradient Descent into Linear Regression problem to predict the closest value in the future: 
 + ? TV sales for example:
 	![[Pasted image 20240915221111.png]]
 
 ![[Pasted image 20240915222243.png]]
+> We got the line with x as x1 and y as mx1 + b. We then find the Loss by subtracting the current value (x1, mx1 + b) to the point we want to get to (x1, y1) which result in $(mx_1 + b - y_1)$ (x is eliminate obviously). For every other point, we do the same thing, and through each iteration we get a better line (y1, y2, y3, y4, etc..)
 
-We can find a better line.
+> note: $L(m, b)$ as the linear regression line.
++ ? when we take the derivative, the two in the exponent cancels with this one. 
+> To summarize, we calculate the average for all the loss of all the points. to get Linear Regression of all the points. Then apply Gradient Descent starting from $m_0, b_0$ To move the current line to the new position.  
 ![[Pasted image 20240915222604.png]]
-Doing it N time until reach the minimum point.
+  Repeat this process N time until reaching the minimum point.
 ![[Pasted image 20240915222635.png]]
+
+
+
