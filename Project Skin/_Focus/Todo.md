@@ -4,6 +4,11 @@ banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
 - [ ] Plan what to exercise for the every morning (Plan Sets)
+	- [ ] [10-mins workout](https://www.youtube.com/watch?v=3sEeVJEXTfY)
+		or
+	- [ ] [10 MINUTE FAT BURNING MORNING ROUTINE](https://www.youtube.com/watch?v=7KSNmziMqog)
+		and
+	- [ ] 10-15 Psudo Plance Pushup + 40-60 Partial Pushups to concrete that muscle.   
 - [ ] Write Document for C2_W2_Assignment
 - [ ] Analyze what affect my day and habit to improve to optimize my performance
 
