@@ -1256,7 +1256,8 @@ Kaputt broken
 Keine Ahnung - no idea
 helfen help
 Werkstatt auto repair shop
-Auto car
+Das Auto car
++ ? Die Auto(s) - the cars (car in plural)
 Halb half
 	Genau, die abfahrt ist um halb acht
 
@@ -2444,4 +2445,4 @@ Reist - travel
 Verstehe understand
 	Ich verstehe nicht - I dont understand
 
-
+Geschwister siblings

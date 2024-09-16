@@ -689,3 +689,11 @@ Mein Kinder immer zu hause, sie sind spielt Videospiele und sieht fern / My chil
 
 Es gibt there is
 	Im Ihrem Dorf es gibt nur ein auto / in her village there is only 1 car  
+
+Morgen
+Geburtstag
+Geschank
+	Mein GroßEltern haben Geburtstag morgen, Ich brauche ein Geschenk
+
+Praktikum - internship
+	Mein Praktikum im heute ist sehr super 
