@@ -55,7 +55,6 @@ plug the answer back to the 2nd equation -> get b
    you try to find the closest line to them
 ![[Pasted image 20240805160427.png]]
 + ? Is there a easier way to do this => Gradient Descent 
-
 [[Partial Derivative and Gradient HW]]
 
 ## Optimization using Gradient Descent in 1 Variable
@@ -209,6 +208,7 @@ From the idea above (minimal distant), we could combine Gradient Descent into Li
 
 ![[Pasted image 20240915222243.png]]
 > We got the line with x as x1 and y as mx1 + b. We then find the Loss by subtracting the current value (x1, mx1 + b) to the point we want to get to (x1, y1) which result in $(mx_1 + b - y_1)$ (x is eliminate obviously). For every other point, we do the same thing, and through each iteration we get a better line (y1, y2, y3, y4, etc..)
+
 
 > note: $L(m, b)$ as the linear regression line.
 + ? when we take the derivative, the two in the exponent cancels with this one. 

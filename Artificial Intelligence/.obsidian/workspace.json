@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/Good for later/Books.md",
+                "file": "Slope.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,6 +200,12 @@
   },
   "active": "450a90c98b0cbec7",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "Slope.md",
+    "Pasted image 20240916171827.png",
+    "Pasted image 20240916171245.png",
+    "Calculus_Derivative.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "3 RESOURCES/Good for later/Books.md",
     "Gradient and Gradient Descent.md",
     "Pasted image 20240915222635.png",
@@ -210,13 +216,8 @@
     "Pasted image 20240915221111.png",
     "Pasted image 20240915220817.png",
     "Pasted image 20240915220804.png",
-    "Pasted image 20240915220712.png",
-    "Pasted image 20240915150234.png",
-    "2 ACTIONS/_Focus.md",
     "Partial Derivative and Gradient HW.md",
     "Calculus_Optimization.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Calculus_Derivative.md",
     "PCB Anomaly Detection Mapping.md",
     "XML_vs_TXT.md",
     "PCB defects detection using YOLOv5.md",
@@ -234,8 +235,6 @@
     "gitignore.md",
     "3 RESOURCES/How to/Anaconda.md",
     "Tech Major Ranking 2024.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "Deep Learning.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

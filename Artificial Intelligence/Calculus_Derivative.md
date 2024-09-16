@@ -1,4 +1,3 @@
-> Derivative represent a Slope and Calculate the Rate of Change of values  
 
 Given a classification problem, we got the graph below. Say we want to classified a region for sad and happy.
 ![[Pasted image 20240710074612.png]]
@@ -43,7 +42,7 @@ We would like to train the Model to tweak the classifier line to this position.
 ### Lines
 ![[Pasted image 20240710085528.png]]
 
-+ ? Slope is the changes of rise over run. Using Pythagorean, we conclude that $\frac{\nabla y}{\nabla x} = a$ 
++ ? [[Slope]] is the changes of rise over run. Using Pythagorean, we conclude that $\frac{\nabla y}{\nabla x} = a$ 
 ![[Pasted image 20240710093127.png]]
 So when 2 points are so close to each other it like they're in 1 position. We can say that f(x)' = a. Let's proven it more clearly
 ![[Pasted image 20240710085720.png]]
