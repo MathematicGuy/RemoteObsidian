@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1a89afa44fa7941d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,11 +189,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1a89afa44fa7941d",
+  "active": "478259fb97bb334b",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "_Focus/Todo.md",
     "LoL.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
     "Spaces/German Vocab Revision.md",
     "3 RESOURCES/GoodForLater/Get all wifi password.md",
@@ -211,7 +207,6 @@
     "Pasted image 20240911085427.png",
     "Germanic Language.md",
     "Pasted image 20240910102653.png",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Learning Thourgh Videos.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
