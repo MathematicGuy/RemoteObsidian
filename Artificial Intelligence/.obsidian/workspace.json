@@ -20,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "69c9cd2c94f08e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Regression Using Gradient Descent Exercise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "510d60d0f1f9fc3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94bf3a94e94a5533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistical Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical Regression.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical Regression.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical Regression.md"
+                "file": "2 ACTIONS/_Focus.md"
               }
             }
           },
@@ -210,10 +173,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "94bf3a94e94a5533",
+  "active": "ebd07034b8e15b4f",
   "lastOpenFiles": [
-    "Statistical Regression.md",
+    "Mein Praktikum.md",
+    "Pasted image 20240917112311.png",
+    "Pasted image 20240917112248.png",
+    "2 ACTIONS/_Focus.md",
+    "Pasted image 20240917095419.png",
+    "Digital Signature.md",
+    "1_6dR3DJVFu0hXVqWO6cJONA.png",
     "Linear Regression Using Gradient Descent Exercise.md",
+    "Linear Regression.md",
+    "Statistical Regression.md",
     "Least Squares Method.md",
     "Pasted image 20240916223058.png",
     "Pasted image 20240916222827.png",
@@ -221,13 +192,7 @@
     "Pasted image 20240916222107.png",
     "Pasted image 20240916221858.png",
     "polynomial.md",
-    "2 ACTIONS/_Focus.md",
-    "Linear Regression.md",
     "Untitled 3.png",
-    "Types-of-Polynomial.webp",
-    "Untitled.jpg",
-    "Pasted image 20240916211945.png",
-    "Pasted image 20240916211912.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Slope.md",
     "Gradient and Gradient Descent.md",
@@ -245,9 +210,6 @@
     "Yolov5 bugs.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "Fundamental of C and C++.md",
-    "Internship Revision 2.md",
-    "Revision for my 1st Intership.md",
-    "Internship Revision 1.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
