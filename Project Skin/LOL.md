@@ -48,3 +48,23 @@
 8) Baron before inhibitors
 > Riot make the game with the intention you have to take baron first before pushing.
 + ? You can either kill Baron or use it as Bait.
+
+
+
+# Tempo
+> The time you go farm golds and recall.
+
+If you can time your movements you can stay ahead your enemy. Or predict your enemy movement by predict their tempo to ambush them. 
+
++ ? You only stay ahead because you have more Stuff not more money.
+
+### Attacking Tempo
+If I can know the enemy movement and kill it, where can I kill it again.
+
+If the enemy Jungle kill Dragon, can I steal their Jungle Buff and monsters.
+(This is map awareness)
+
+
+### Defending Tempo
+Questions to asked:
++ If I kill this things, would that thing be stoled or would I lose that. If I do this what will happened.

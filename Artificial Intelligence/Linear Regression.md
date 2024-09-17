@@ -14,3 +14,4 @@ Ptrinh Tuyến Tính
 > Dùng Đạo Hàm để tạo phương trình giữa 2 điểm 
 
 ![[Pasted image 20240712083556.png]]
+
