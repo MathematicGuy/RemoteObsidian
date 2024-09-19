@@ -20,8 +20,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5a3fb35499c984d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,17 +178,35 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "ebd07034b8e15b4f",
+  "active": "5a3fb35499c984d6",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Linear system as Matrix using Numpy.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Introduct to Numpy arrays.md",
+    "Numpy.md",
+    "OpenCV Bugs and Errors.md",
+    "OpenCV.md",
+    "Linear Regression Using Gradient Descent Exercise.md",
+    "Mathplotlib.md",
+    "Linear Regression.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Computer Vision CheckList.md",
+    "Learning and Application Checklist for Extract Text from ID Card using OpenCV.md",
+    "ID Card OCR.md",
+    "Mathematics for Machine Learning and Data Science Specialization Check List.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
+    "PCB Anomaly Detection Mapping.md",
+    "PCB defects detection using YOLOv5.md",
+    "PDF Chatbot - Simple RAG from Scratch.md",
+    "PCB Anomally Detection.md",
+    "Anomaly Detection.md",
     "Mein Praktikum.md",
     "Pasted image 20240917112311.png",
     "Pasted image 20240917112248.png",
-    "2 ACTIONS/_Focus.md",
     "Pasted image 20240917095419.png",
     "Digital Signature.md",
     "1_6dR3DJVFu0hXVqWO6cJONA.png",
-    "Linear Regression Using Gradient Descent Exercise.md",
-    "Linear Regression.md",
     "Statistical Regression.md",
     "Least Squares Method.md",
     "Pasted image 20240916223058.png",
@@ -193,23 +216,6 @@
     "Pasted image 20240916221858.png",
     "polynomial.md",
     "Untitled 3.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Slope.md",
-    "Gradient and Gradient Descent.md",
-    "Calculus_Derivative.md",
-    "3 RESOURCES/Good for later/Books.md",
-    "Partial Derivative and Gradient HW.md",
-    "Calculus_Optimization.md",
-    "PCB Anomaly Detection Mapping.md",
-    "XML_vs_TXT.md",
-    "PCB defects detection using YOLOv5.md",
-    "PCB Anomaly Detection Note & Resources.md",
-    "fine-tuning.md",
-    "PCB Anomally Detection.md",
-    "Job Requirements.md",
-    "Yolov5 bugs.md",
-    "3 RESOURCES/How to/Anaconda Command.md",
-    "Fundamental of C and C++.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

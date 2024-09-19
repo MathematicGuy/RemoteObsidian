@@ -3,7 +3,8 @@
 ![[Pasted image 20240712082814.png]]
 Hàm bậc nhất
 	**y = ax + b**
-**Tuyến tính**: liên tục, tốc độ tăng trưởng ko thay đổi 
+**Tuyến tính**: liên tục, tốc độ tăng trưởng ko thay đổi.
+
 
 Ptrinh Tuyến Tính
 ![[Pasted image 20240712082943.png]]

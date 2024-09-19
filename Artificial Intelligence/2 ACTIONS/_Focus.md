@@ -1,6 +1,14 @@
  
 #Goals
-- [ ] [[Job Requirements]]
+- [ ] Summarize all numpy command I don't understand and document it
+- [ ] Practice Gradient Descent Math problem to enhance my rememory
+
+
+
+#System
+**Study Pipeline**
++ Resource Research -> Turtorial -> Commenting -> Documenting -> Pratice Coding using my Document.  
++ (Know what to learn/Best to learn) -> (Know what I learn) -> Remember what I learn -> Understand what I learn -> Apply What I Learn.  
 
 ## [[Machine Learning]]
 

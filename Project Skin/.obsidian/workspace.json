@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "374ce7278a592458",
+            "id": "6516cdcc05edf3eb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,12 +17,11 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "6516cdcc05edf3eb",
+            "id": "06e168cbc7c78792",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -106,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,7 +196,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6516cdcc05edf3eb",
+  "active": "06e168cbc7c78792",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",

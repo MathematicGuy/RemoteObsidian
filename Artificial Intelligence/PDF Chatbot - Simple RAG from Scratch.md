@@ -12,6 +12,7 @@ Two primary improvements can be seen as:
 ## Where we appiled it ?
 Textbook, Research Paper - Mostly PDF paper form.
 
+
 ## Why ?
 > To Understand the Model better and Inspect its core functionality. While keeping privacy, and allowing for further customization.
 
