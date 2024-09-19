@@ -697,3 +697,11 @@ Geschank
 
 Praktikum - internship
 	Mein Praktikum im heute ist sehr super 
+
+Endet / end
+Praktikum / internship
+Januar / Junarary
+'Im' for time, 'In' for place.
+	Mein Praktikum endet im Januar 
+
+Hast du wirklich zehn Brüder? / Do you really have ten brothers?

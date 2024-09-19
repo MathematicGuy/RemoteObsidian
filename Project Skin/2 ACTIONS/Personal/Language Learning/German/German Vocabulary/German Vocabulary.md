@@ -84,8 +84,10 @@ der Mann  the man
 
 eine Eule the owl
 eine Maus the mouse
-eine Katze the cat (cat wa see as famale ??)
+eine Katze - the cat (female)
 	mouse & owl & cat are see as feminine.
+ein Kater - the cat (male)
+
 (not ein Katze)
 Der Fisch the fish 
 
@@ -2390,7 +2392,7 @@ Brav behave
 
 Das Eltern keinen lebt im city, Kanst du 
 
-Praktikum - intership
+Das Praktikum - the intership
 Januar janurary 
 	Die Praktikum endet im Januar / The internship ends in January
 
@@ -2429,7 +2431,7 @@ Haustiere pets
 	Ich habe eine katze, sie ist meine Haustiere
 
 
-Das Beamtin/Beamter - civil servant (goverment worker)
+Das Beamtin/Beamter - the civil servant (female/male goverment worker)
 	Mein Bruder ist jetzt Beamter
 
 Schilkröte turtle
@@ -2448,3 +2450,8 @@ Verstehe understand
 	Ich verstehe nicht - I dont understand
 
 Geschwister siblings
+
+Ihren - use before muscular noun (e.g. Bruder) in accusative case
+	Ex: Anna liebt ihren Bruder / Anna love her brother
+
+#seine_vs_seinen
