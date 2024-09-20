@@ -5,12 +5,18 @@
 Tangent Plane: mặt phẳng tiếp tuyến
 	contain the tanget lines of more than 2 tangent lines.
 	![[Pasted image 20240805104205.png]]
+
 ### Partial Derivative - Part 1 (Đạo hàm riêng)
-> Partial Derivative mean to calculate the derivative of each variable.
++ ? **A partial derivative is derivative taken with respect to 1 variable while keeping all other variables constant.** It is used when u are dealing with functions with multiple variable.
+> In simpler terms, partial derivative mean to calculate the derivative of each variable, it measures how a function changes as 1 of its variables changes, while others remain fixed.  
 	![[Pasted image 20240805102659.png]]
 	![[Pasted image 20240805102942.png]]
 + $ Treat the not derivative one as a Constant. Ex: Derivative of x, see y as a constant. 
 	$f_{x} = 2x$ and $f_{y} = 2y$
+
+```ad-check
+
+```
 
 ### Partial Derivative - Part 2
 $f(x, y) = 2x^2y^3$
@@ -21,17 +27,17 @@ $=> f(x,y) = 6xy^3$
 	![[Pasted image 20240805105716.png]]
 
 
-### Gradients and maxima/minima
-+ ? **Minimum is when slope = 0** <-> Both Slopes of x and y is  0
+### Gradients and maxima/minima (Start Here)
++ $ Normaly to find the minimum of a 2D, we find the derivative of the graph and set it to 0. The same apply to 3D
++ ? **Minimum is when slope = 0 <-> Both Slopes of x and y is 0 while z stay fixed**
 	![[Pasted image 20240805105858.png]]
 To Calculate the the function minimum, we **calc the Derivative of 2 variables and set it equal to 0.**
 	![[Pasted image 20240805110029.png]]
 
 ### Optimization with gradients: An example (in 3D)
-+ $ $Motive: Find the **Coldest place in the Sauna Room**
-+ ? The coldest place in the room is when every other direction you walk are hoter.
++ $ $Motive: Find the **Coldest place in the Sauna Room** -> The coldest place in the room is when every other direction you walk are hoter.
 	![[Pasted image 20240805110428.png]]
-	To get to that Coldest position we calc the Partial Dervative we see that it symmetric to the floor.
+	To get to that Coldest position we calc the Partial Dervative, we see that it symmetric to the floor.
 	![[Pasted image 20240805110505.png]]
 	**Example:**
 	1) **Calculate the Partial Derivative of f(x,y) which is the derivative of X and Y respectively**![[Pasted image 20240805111430.png]]
@@ -39,13 +45,22 @@ To Calculate the the function minimum, we **calc the Derivative of 2 variables a
 	We notice there are some point outside of the Sauna, so just remove those invalid values. 
 	+ $ Insert x, y back to the function, we see that x=4 and y=4 it the Minimum of the function. ![[Pasted image 20240805111837.png]]
 
-### Optimization using Gradients - Analytical Method
+### Optimization using Gradients - Analytical Method (Important)
+> Back to power line example, the cost is the area of the square starting from the points to the line.
 	![[Pasted image 20240805154215.png]]
+
++ Before calc the total cost, we need to calc the cost from 1 point like a to b first, with x = 1, we have y=m+b. So the cost from a to b is $(m+b - 2)^2$ for blue. for orange is $(2m + b - 5)^2$, for green is $(3x + b - 3)^2$.
+	![[Pasted image 20240920164817.png]] 
++ $ Therefor the total cost is the sum of these 3 numbers, thus we got the **cost function**
+![[Pasted image 20240920165550.png]]
+
+
 + ? find the partial derivative of E with respect to m (only dervi m; b constant)
 + ? find the partial derivative of E with respect to b (only dervi b; m constant)![[Pasted image 20240805155408.png]]
 Now we set both equal to 0. 
 
-Goal: Minimize sum of squares cost.
+
+**Goal: Minimize sum of squares cost.**
 multiply by 2.
 subtract to the first equation -> get m
 plug the answer back to the 2nd equation -> get b 
@@ -184,7 +199,7 @@ Choose a starting point -> choose a direction to move -> choose a learning rate 
 
 + $ Goal: Minimize sum of squares cost
 + ? remember Delta mean Derivative 
-1) let get x and y function of $\nabla E(m, b)$ by calculating partial derivative of m and b. $\frac{\nabla f}{\nabla m}, \frac{\nabla f}{\nabla b}$ 
+1) Let get x and y function of $\nabla E(m, b)$ by calculating partial derivative of m and b. $\frac{\nabla f}{\nabla m}, \frac{\nabla f}{\nabla b}$ 
 	
 	![[Pasted image 20240915143356.png]]
 2) Choose a "starting position" / "initial starting point" by replacing m and b (your choice)

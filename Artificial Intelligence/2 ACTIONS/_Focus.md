@@ -2,8 +2,8 @@
 #Goals
 - [ ] Summarize all numpy command I don't understand and document it
 - [ ] Practice Gradient Descent Math problem to enhance my rememory
-
-
+- [ ] Explain how Derivative related to Gradient Descent 
+- [ ] Prove Least Square Method
 
 #System
 **Study Pipeline**

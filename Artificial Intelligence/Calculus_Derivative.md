@@ -8,7 +8,6 @@ We would like to train the Model to tweak the classifier line to this position.
 + ? So how the Model do this...
 
 ## Motivation to Derivatives - Part 1
-
 + $ Goal: **find the rate of change between 2 points**
 ![[Pasted image 20240710075538.png]]
 > No, you calculate the speed by the distance t travel by the time: v = s / t
@@ -16,9 +15,9 @@ We would like to train the Model to tweak the classifier line to this position.
 + ? In simple term: **Rate of Change**
 > ![[Pasted image 20240710075744.png]]
 
++ ? **Problem**: what if we move point A to point B closer and closer....
 > We can calculate the the average speed between a time interval and distance by dividing the changes in distances to times. **rise (y) over run (x)**
 ![[Pasted image 20240710080116.png]]
-
 
 + ? But, can we estimate the velocity of the car at time t = 12.5. Let's try using the slope 
 	![[Pasted image 20240710080426.png]]
@@ -32,7 +31,7 @@ We would like to train the Model to tweak the classifier line to this position.
 
 > Like anything else, v = 0, if no distance changes in time.
 ![[Pasted image 20240710084453.png]]
-
+![[Pasted image 20240710084453.png]]~~~~
 ## Derivatives and their notation
 2 ways to express derivative: **Leibniz's notation** and **Lagrange's notation.**
 ![[Pasted image 20240710085121.png]]]]

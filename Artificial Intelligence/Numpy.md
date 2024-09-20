@@ -56,10 +56,13 @@ In this example, the mean of each row is calculated:
 - Third row mean: (7 + 8 + 9) / 3 = 8
 
 ### Visual Summary
-
 - `axis=0`: Mean of columns
 $$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} \xrightarrow{\text{axis=0}} [4.0, 5.0, 6.0]$$
-
 - `axis=1`: Mean of columns
 $$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} \xrightarrow{\text{axis=0}} [2.0, 5.0, 8.0]$$
 
+---
+
+### Code Documentation
+
+np.polyfit()
