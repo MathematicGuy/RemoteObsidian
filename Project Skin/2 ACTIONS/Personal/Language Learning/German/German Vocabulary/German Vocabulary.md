@@ -2455,3 +2455,37 @@ Ihren - use before muscular noun (e.g. Bruder) in accusative case
 	Ex: Anna liebt ihren Bruder / Anna love her brother
 
 #seine_vs_seinen
+
+
+
+
+Eiskaffe - iced cofee
+Besten - the best
+	Mein Vater kocht am besten
+
+Liebelingsessen - favourite food
+	Liebling - favourite
+	Essen - food
+
+Kartoffelsalat - potato salat
+	Kartoffel - potato
+	salat - salat
+
+Meine Tochter esse gern im Dezember Eis
+Senf mustard
+
+Nussallergie / nut allergy
+Dich you
+	Das Eis ist für sie, nicht für dich / the ice cream is for her, not for you
+
+Ihn / him
+	Das Apfelkuchen ist zu süß für Ihn - the apple cake is too sweet for him
+
+kann: can -> kann kein: cannot
+	Meine Katze kann kein Fleisch essen
+
+Backt / bake
+	Er backt Brot / he bakes bread
+	Kannst du Apfelkuchen ohne Eier backen / Can you bake apple pie without eggs
+
+Warum kann meine Katze keine Milch trinken f
