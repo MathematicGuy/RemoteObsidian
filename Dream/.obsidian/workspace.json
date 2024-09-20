@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b43916d85a36f19f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity Note.md",
+                "file": "_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity Note.md"
+                "file": "_Focus.md"
               }
             }
           },
@@ -179,16 +165,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b43916d85a36f19f",
+  "active": "5d4bb5afd483ebdf",
   "lastOpenFiles": [
-    "Pasted image 20240913110123.png",
-    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+    "How to remember everything you learn.md",
+    "Pasted image 20240920085830.png",
+    "3 RESOURCES/_How To/_How To Thing/_How To.md",
     "_Focus.md",
+    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+    "Productivity Note.md",
+    "Pasted image 20240913110123.png",
     "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
     "Improve your critical inquiry skills.md",
     "Pasted image 20240912101132.png",
     "2 ACTIONS/_My Life/_My Life.md",
-    "3 RESOURCES/_How To/_How To Thing/_How To.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
     "3 RESOURCES/_Happiness/Why I'm Marry to You (My Woman).md",
     "3 RESOURCES/_Happiness/Watch This Everyday Video.md",
@@ -197,7 +186,6 @@
     "3 RESOURCES/_Question Mark/_Question Mark.md",
     "Escapsing Reality & Addiction.md",
     "3 RESOURCES/_How To/_How To Study/_How To Study.md",
-    "Productivity Note.md",
     "3 RESOURCES/_Productivity & Improvement/Study Strategies.md",
     "3 RESOURCES/_Productivity & Improvement/Manipulate.md",
     "3 RESOURCES/_Productivity & Improvement/Fasting for Optimal Focus.md",
@@ -207,7 +195,6 @@
     "If you're in your 20's watch this..md",
     "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "1 PROJECTS/This Year Goal.md",
-    "2 ACTIONS/_My Life/1 Shoot for the Star.md",
     "Pasted image 20240821015451.png",
     "Pasted image 20240813232641.png",
     "Pasted image 20240813232116.png",
@@ -215,8 +202,6 @@
     "Pasted image 20240811084448.png",
     "Pasted image 20240628151744.png",
     "Pasted image 20240615110501.png",
-    "4 ARCHIVES/Image/Pasted image 20230629230346.png",
-    "Pasted image 20240615102850.png",
     "fitness",
     "3 RESOURCES/Fitness",
     "Spaces/Home",

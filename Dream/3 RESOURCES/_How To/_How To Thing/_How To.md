@@ -38,6 +38,8 @@ _sort:
 
 [[How to Buy your First Plane]]
 
+[[How to remember everything you learn]]
+
 # How to Money 
 
 [[How Money make values]]
