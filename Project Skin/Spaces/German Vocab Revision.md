@@ -706,4 +706,10 @@ Januar / Junarary
 
 Hast du wirklich zehn Brüder? / Do you really have ten brothers?
 
+Warum kann meine Katze keine Milch trinken 
 
+Bis wann - until when 
+geöffnet open
+	Bis wann ist die Bar geöffnet - when is the bar open
+
+Bauschmerzen / stomachache

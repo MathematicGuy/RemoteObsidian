@@ -2488,4 +2488,10 @@ Backt / bake
 	Er backt Brot / he bakes bread
 	Kannst du Apfelkuchen ohne Eier backen / Can you bake apple pie without eggs
 
-Warum kann meine Katze keine Milch trinken f
+Bushaltestelle - bus station
+Knöde dumpling
+schaf spicy
+
+fast almost
+alles anything
+sauerkraut
