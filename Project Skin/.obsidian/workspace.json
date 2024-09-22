@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49238acd813e9f18",
+        "id": "06c04fac75c4e592",
         "type": "tabs",
         "children": [
           {
-            "id": "021d8148cbccba59",
+            "id": "9ecd58f168456ee3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "7ef4fc0e77b5291c",
+            "id": "f8ba39d4f93a5614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ea338771b433336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "LoL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "file": "LoL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "file": "LoL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
+                "file": "LoL.md"
               }
             }
           },
@@ -216,11 +203,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7ef4fc0e77b5291c",
+  "active": "f8ba39d4f93a5614",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "LoL.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",

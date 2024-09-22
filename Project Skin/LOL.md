@@ -6,8 +6,9 @@
 + No matter how strong u r. Don't stand in vulnerabal position.
  
 + Avoid Raven (Green girl with big sword), Master Ji (yellow guy with many eyes)
-+ Don't underestimated Baron road Champion.
-
++ Don't underestimated Baron road Champion. 
++ If I don't have a lot of health, don't risk it.
++ Know my team position to optimize team strength.
 
 **Killing Baron and Dragon**
 + Don't stand inside Baron Pit, it way to risky. You can kill Baron by stading behind. 
@@ -68,3 +69,4 @@ If the enemy Jungle kill Dragon, can I steal their Jungle Buff and monsters.
 ### Defending Tempo
 Questions to asked:
 + If I kill this things, would that thing be stoled or would I lose that. If I do this what will happened.
++ 
