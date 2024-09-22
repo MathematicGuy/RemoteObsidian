@@ -713,3 +713,9 @@ geöffnet open
 	Bis wann ist die Bar geöffnet - when is the bar open
 
 Bauschmerzen / stomachache
+Liebe deine Schnecke Glas
+
+
+Mehr anymore
+Frisch fresh
+Oh nein, Die Milch ist nicht mehr Frisch

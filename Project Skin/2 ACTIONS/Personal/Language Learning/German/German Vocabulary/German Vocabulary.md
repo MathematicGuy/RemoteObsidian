@@ -2489,9 +2489,22 @@ Backt / bake
 	Kannst du Apfelkuchen ohne Eier backen / Can you bake apple pie without eggs
 
 Bushaltestelle - bus station
-Knöde dumpling
-schaf spicy
+Knöde - dumpling
+Schaf - spicy
+der Senf - mustard
+	Der Senf ist zu Schaf, Kann ich habe ein Ei
 
 fast almost
 alles anything
 sauerkraut
+
+Schokolade - chocolate
+Die Gemüde - the vegetable
+Langsam - slowly
+bekommt - gets
+Weniger - less
+Kekse - cookie
+grün green
+Flaschen - bottle of water
+
+Geschlossen - close
