@@ -719,3 +719,10 @@ Liebe deine Schnecke Glas
 Mehr anymore
 Frisch fresh
 Oh nein, Die Milch ist nicht mehr Frisch
+
+Obst fruit
+Isst du liebst Obst oder Pizza
+Lieblingsessene - favourite food
+
+Ich trinkt Kaffe gern 
+	Gibt es in der nahe ein Cafe

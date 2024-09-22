@@ -18,7 +18,7 @@ sticker: emoji//1f5ef-fe0f
 what
 Und and
 Oder or
-Nein no8
+Nein no
 	nicht not
 Ja yes
 Hallo hello
@@ -1322,7 +1322,11 @@ Ohne without
 	Ink trinke Kaffe ohne Milch 
 	+ ? Ich möchte ein Wasser ohne Zucker trinken - I would like to drink water without sugar (Why use ein in this sentence?)
 	+ Das Eis kostet ohne Zucker fünfundacht dollar 
+
 Obstsalat - fruit salad
++ Obst - fruit 
+
+
 Süß sweet
 	Ist der Nachtisch mit Sechs Kilo Zucker zu süß
 	
@@ -1942,6 +1946,8 @@ Leute - people
 Pommes - fries
 Schmecken - taste
 	Die Pommes Schmecken gut ? - The Fries taste good ?
+Schmeckt
+	Suppe Schmeckt am besten im Dezember 
 
 Noch - still
 Ja, bis morgen / Yes, see you tomorrow
@@ -2481,8 +2487,11 @@ Dich you
 Ihn / him
 	Das Apfelkuchen ist zu süß für Ihn - the apple cake is too sweet for him
 
+
 kann: can -> kann kein: cannot
 	Meine Katze kann kein Fleisch essen
+
+Eier eggs
 
 Backt / bake
 	Er backt Brot / he bakes bread
@@ -2490,7 +2499,10 @@ Backt / bake
 
 Bushaltestelle - bus station
 Knöde - dumpling
+
+
 Schaf - spicy
+	Die Currywurst ist sehr schaf
 der Senf - mustard
 	Der Senf ist zu Schaf, Kann ich habe ein Ei
 
@@ -2508,3 +2520,14 @@ grün green
 Flaschen - bottle of water
 
 Geschlossen - close
+Unterschied different 
+Ein Bisschen länger - a bit longer
+
+Freundschaften friendship
+Fitnessstudio gym
+
++ $ -en ending tail often use for accusative word form
+	Ex: für meinen Man - since für accusate sth or someone we use meinen for Man.
+
+Sauerkraut - german salat (dưa chua ở việt nam)
+Klasszimmer / classroom
