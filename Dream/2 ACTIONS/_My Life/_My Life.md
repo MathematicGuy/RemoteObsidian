@@ -39,3 +39,5 @@ _sort:
 [[Free Will]]
 
 [[Improve your critical inquiry skills]]
+
+[[Shadow work]]
