@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-
+ v
 
 
 
@@ -2531,3 +2531,13 @@ Fitnessstudio gym
 
 Sauerkraut - german salat (dưa chua ở việt nam)
 Klasszimmer / classroom
+
+Gemüse vegetable
+Langsam slowly
+	Isst deine Gemüse Langsam, lukas / eat your vegetable slowely lukas 
+Bekommen - to get/receive
+	Bekommst du / do you get it
+
+Weniger less
+	Ich muss weniger essen / ich have to eat less sugar
+Spinat / spinach

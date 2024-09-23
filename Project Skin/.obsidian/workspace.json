@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "62496eb25090cf2e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,8 +189,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62496eb25090cf2e",
+  "active": "64455a427ab7ea94",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
     "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "2 ACTIONS/Personal/Personal.md",
@@ -211,8 +208,6 @@
     "3 RESOURCES/Programming/Python.md",
     "4 ARCHIVES/2023/Python/Week 3 - Regular Expression.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "LoL.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",

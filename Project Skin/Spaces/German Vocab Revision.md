@@ -726,3 +726,11 @@ Lieblingsessene - favourite food
 
 Ich trinkt Kaffe gern 
 	Gibt es in der nahe ein Cafe
+
+Bekommen get 
+zum for
+Mittagessen lunch
+	Du Bekommst ein Sandwich zum Mitttagessen 
+
+Der Elefant musst weniger wein trinken / the elefant must drink less wine
+	Have 2 verbs so the 2nd verb "trinken" will place in last.
