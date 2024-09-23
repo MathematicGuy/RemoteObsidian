@@ -161,7 +161,7 @@ class Item:
 	def apply_discount(self):
         self.price = self.price * Item.pay_rate 
 ```
-Check attribute each level can access
+Check attribute each level can access, seem like at instance level, only attributes inside `__init__` can be access.
 ```python
 print(Item.__dict__) # list all the attributes for Class level
 print(item1.__dict__) # list all the attributes for instance level
@@ -181,7 +181,6 @@ print('discount rate: ', item2.price) # STILL GET 80% DISCOUNT
 ```
 >discount rate:  800.0
 >discount rate:  400.0
-
 
 
 ```python
