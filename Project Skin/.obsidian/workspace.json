@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "307a0e4701655c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python OOP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf4c874ee66a47cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Command.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Python OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Python OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Python OOP.md"
               }
             }
           },
@@ -189,11 +216,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58dadfbb2b701005",
+  "active": "307a0e4701655c77",
   "lastOpenFiles": [
+    "Pasted image 20240923103507.png",
+    "Python Command.md",
+    "Python OOP.md",
+    "Pasted image 20240923101848.png",
+    "Pasted image 20240923101844.png",
+    "3 RESOURCES/Programming/Python.md",
+    "4 ARCHIVES/2023/Python/Week 3 - Regular Expression.md",
+    "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "LoL.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
@@ -214,19 +249,11 @@
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/Common German Mistake.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar Drill.md",
-    "German Song.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Technology Vocabulary.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Noun Gender.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Note/German Freestyles.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Word Order.md",
-    "German Learning Core.md",
     "Pasted image 20240829200722.png",
     "Pasted image 20240829200437.png",
     "Pasted image 20240829200156.png",
     "Pasted image 20240829195704.png",
     "Pasted image 20240829195658.png",
-    "Pasted image 20240825000528.png",
-    "Pasted image 20240824231715.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
