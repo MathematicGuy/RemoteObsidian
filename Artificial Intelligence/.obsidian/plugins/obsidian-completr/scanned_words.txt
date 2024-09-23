@@ -2336,6 +2336,7 @@ overlay
 oVhh
 oUY
 oBjb
+outside
 vector
 vectors
 versions
@@ -5764,6 +5765,7 @@ izg
 izz
 iiK
 iXy
+invalid
 basis
 by
 because
@@ -7411,6 +7413,7 @@ fKa
 fTeG
 fRQMu
 fIe
+floor
 space
 say
 same
@@ -9565,6 +9568,7 @@ cascades
 calculates
 ctN
 cZG
+coldest
 linear
 lambda
 left
@@ -14833,6 +14837,7 @@ Correction
 Commenting
 Coding
 CCuz
+Coldest
 Basis
 Both
 Board
@@ -17871,6 +17876,7 @@ homography
 hXO
 hRQhci
 hSR
+hoter
 Let
 Light
 Learning
@@ -22600,6 +22606,7 @@ ScS
 StCyc
 SOOql
 ShH
+Sauna
 result
 reduced
 repeated
@@ -24078,6 +24085,7 @@ Nds
 Nkn
 NNL
 Nhb
+Normaly
 zero
 zeros
 zeroes
@@ -28567,6 +28575,7 @@ Mod
 MISjY
 MFvN
 MBp
+Motive
 using
 up
 until
@@ -30232,6 +30241,7 @@ Rpt
 RZS
 Rcc
 RlPP
+Room
 Or
 One
 Our
@@ -33512,6 +33522,7 @@ DvH
 DoV
 DYJ
 DXM
+Dervative
 Visual
 Variables
 Visualization

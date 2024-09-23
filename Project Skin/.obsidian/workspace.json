@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8623c77b2bbb270",
+        "id": "c0c6fb1ad65109bb",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e58ab373cb0d79",
+            "id": "64455a427ab7ea94",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,19 +23,15 @@
             }
           },
           {
-            "id": "ab614d3a35b64fb6",
+            "id": "62496eb25090cf2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Đơn trình bày lý do và mong muốn chuyển lab.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Focus/Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,10 +194,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b1e58ab373cb0d79",
+  "active": "62496eb25090cf2e",
   "lastOpenFiles": [
-    "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "_Focus/Todo.md",
+    "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "2 ACTIONS/Personal/Personal.md",
     "Pasted image 20240923184428.png",
     "Python OOP.md",
