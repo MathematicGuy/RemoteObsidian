@@ -182,11 +182,25 @@ print('discount rate: ', item2.price) # STILL GET 80% DISCOUNT
 >discount rate:  800.0
 >discount rate:  400.0
 
-
+**Save all class instance and Accessing all instance name**
 ```python
+class Item:
+	all = []
+	def __init__(self):
+		# Action to Execute
+		Item.all.append(self)
+		...
 
+for i in Item:
+	print(i.name)
 ```
 
+#repr_vs_str
+![[Pasted image 20240923142039.png]]
++ use `__str__` to display information to user
++ use `__repr__` to debugging
+
+ 
 ```python
 
 ```
