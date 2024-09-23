@@ -233,4 +233,25 @@ Item.instantiate_from_csv() # call classmethod
 > Class reference must be pass as the first augument: cls for instant
 ![[Pasted image 20240923161111.png]]
 
+####  When to use class methods and when to use static methods ?
++ $ `@classmethod`: used when yo **need to do sth** at the **class level** rather than the instance level, take `cls` as first argument. **e.g. modify class level attribute**
+	
++ $ `@staticmethod`: is a method that belongs to the class , but it **does not receive any special first augument like** `self` or `cls` (like `@classmethod` ) while still **can be access like a normal function with parameter** 
+	they could be standalone functions, but they are grouped within the class for organizational purporses.
+```python
+class MathUtility:
+    @staticmethod
+    def add_numbers(a, b):
+        return a + b
 
+    @staticmethod
+    def multiply_numbers(a, b):
+        return a * b
+
+# Call static methods directly on the class
+result_add = MathUtility.add_numbers(5, 10)
+result_multiply = MathUtility.multiply_numbers(3, 4)
+
+print(result_add)  # Output: 15
+print(result_multiply)  # Output: 12z
+```

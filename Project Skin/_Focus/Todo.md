@@ -3,6 +3,7 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 #Todo/Priority 
+- [ ] Viết đơn trình bày lý do và mong muốn vì sao muốn chuyển lab
 - [ ] Plan what to exercise for the every morning (Plan Sets)
 	- [ ] [10-mins workout](https://www.youtube.com/watch?v=3sEeVJEXTfY)
 		or
