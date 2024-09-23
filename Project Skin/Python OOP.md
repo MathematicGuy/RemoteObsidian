@@ -212,8 +212,26 @@ print(Item.all)
 ```
 > [Item(Phone, 100, 2), Item(Phone2, 200, 3), Item(Cable, 10, 5), Item(Mouse, 50, 5), Item(Keyboard, 75, 5)]
 
-
+### Class & Static Methods
++ ? "Instantiate Method" (Class Method) can only be access through Class Level.
 ```python
-
+class Item:
+	...
+	@classmethod
+	def instantiate_from_csv(cls):
+		with open('items.csv', 'r') as f:
+			items = csv.DictReader(f)
+			for item in items:
+				print(Item(
+					name = item.get('name'),
+					price = float(item.get('price')),
+					quantity = int(item.get('quantity')),
+				))
+	...
+	
+Item.instantiate_from_csv() # call classmethod
 ```
+> Class reference must be pass as the first augument: cls for instant
+![[Pasted image 20240923161111.png]]
+
 
