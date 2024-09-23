@@ -14,3 +14,6 @@ _templateName: ""
 ![[Pasted image 20240819004333.png]]
 
 
+
+
+[[Đơn trình bày lý do và mong muốn chuyển lab]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff889c81ed73c60",
+        "id": "a8623c77b2bbb270",
         "type": "tabs",
         "children": [
           {
-            "id": "0383610cf0f68eae",
+            "id": "b1e58ab373cb0d79",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,20 +23,19 @@
             }
           },
           {
-            "id": "202dd1fca6a8ab53",
+            "id": "ab614d3a35b64fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python OOP.md",
+                "file": "Đơn trình bày lý do và mong muốn chuyển lab.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python OOP.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python OOP.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python OOP.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,9 +202,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "202dd1fca6a8ab53",
+  "active": "b1e58ab373cb0d79",
   "lastOpenFiles": [
+    "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Personal.md",
+    "Pasted image 20240923184428.png",
     "Python OOP.md",
     "Pasted image 20240923161111.png",
     "Python Command.md",
@@ -237,9 +239,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Sentences Position.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/Common German Mistake.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar Drill.md",
-    "Pasted image 20240829200722.png",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

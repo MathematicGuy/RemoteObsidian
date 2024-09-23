@@ -30,13 +30,8 @@ banner: Images/Pasted image 20240402135259.png
 
 
 **My Learning**
-[Udemy C course](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8794278#overview) 
 [Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 0
-[HTML-CSS-JS for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/3)  (Finish this course to take Data Science course)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
-- [ ] [THE COMPLETE 2023 WEB DEVELOPMENT BOOTCAMP](https://drive.google.com/drive/folders/1r-eZYxmXJk14BO13oiUJ279GOAeZKojX?usp=drive_link)
-- [ ] [Harvard Web Dev Course on Edx](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) 
-
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
@@ -68,12 +63,12 @@ banner: Images/Pasted image 20240402135259.png
 
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
-- [ ] [[Git Requirement]] (learn basics on Youtube)
+- [x] [[Git Requirement]] (learn basics on Youtube)
 - [ ] Pipeline Familarity (github actions) 
-- [ ] Basic Database Knowledge  
+- [x] Basic Database Knowledge  
 - [ ] Basic Knowledge of Linux 
 - [ ] Basic Docker Knowledge (learn docker in 1 hour)
-- [ ] Basic API knowledge  (API for each language)
+- [x] Basic API knowledge  (API for each language)
 
 
 #Todo/Entertainment
