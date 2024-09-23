@@ -211,7 +211,6 @@ class Item:
 print(Item.all)
 ```
 > [Item(Phone, 100, 2), Item(Phone2, 200, 3), Item(Cable, 10, 5), Item(Mouse, 50, 5), Item(Keyboard, 75, 5)]
-
 ### Class & Static Methods
 + ? "Instantiate Method" (Class Method) can only be access through Class Level.
 ```python
