@@ -198,12 +198,20 @@ for i in Item:
 #repr_vs_str
 ![[Pasted image 20240923142039.png]]
 + use `__str__` to display information to user
-+ use `__repr__` to debugging
++ use `__repr__` to debugging, allow dev to modify print output format 
 
- 
+**Example Usage**
 ```python
+class Item:
+	...
+	# modify print format
+    def __repr__(self):
+        return f"Item({self.name}, {self.price}, {self.quantity})"
 
+print(Item.all)
 ```
+> [Item(Phone, 100, 2), Item(Phone2, 200, 3), Item(Cable, 10, 5), Item(Mouse, 50, 5), Item(Keyboard, 75, 5)]
+
 
 ```python
 
