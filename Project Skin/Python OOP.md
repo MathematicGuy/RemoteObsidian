@@ -462,14 +462,57 @@ class Item:
 item = Item("Laptop", 1000)
 ```
 
-
+## Polymorphism
++ $ **Polymorphishm** mean "many form" in greek, it refers to **ability of different classes** to be **treated as instances of the same class through a common interface**.
++ ? Example: each animal **sub-class can override the `sound()` method to provide its own implementation**
 ```python
+from abc import abstractmethod
+class Animal:
+    @abstractmethod
+    def sound():
+        pass        
+    
+def animal_sound(animal):
+    return f'{animal.__class__.__name__} make sound: {animal.sound()}'    
 
+class Dog(Animal):
+    def sound(self):
+        return "Bark Bark"    
+
+class Cat(Animal):
+    def sound(self):
+        return "Meow Meow"
+
+zoo = [Dog(), Cat()]
+
+for animal in zoo:
+    print(animal_sound(animal))
 ```
+> Dog make sound: Bark Bark
+> Cat make sound: Meow Meow
 
+ **Advantages of Polymorphism compare to traditional approach**
 ```python
+class Animal:
+    all = []
+    
+    def __init__(self, sound):
+        self.sound = sound
+        Animal.all.append(self)
+        
+    def make_sound(self):
+        return f'{self.__class__.__name__} make sound: {self.sound}'
+    
+    
+dog = Animal("Bark Bark")
+cat = Animal("Meow Moew")
 
+for ani in Animal.all:
+    print(ani.make_sound())
 ```
+> Dog make sound: Bark Bark
+> Cat make sound: Meow Meow
+
 
 ```python
 
