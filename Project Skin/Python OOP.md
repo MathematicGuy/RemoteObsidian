@@ -125,7 +125,7 @@ item1 = Item("Phone", -22, 22) # create instance of a class
 > AssertionError: Price -22 is not greater than or equal to zero
 
 + ? **attribute**: Python will first look for an instance-level (`__init__`) attribute; if it's not defined, it will fall back to the class-level attribute. 
-	To access `pay_rate`, we can either called `Item.pay_rate` or `self.pay_rate` to determint if we want `pay_rate` can be access at Class or Instant level.
+	To access `pay_rate`, we can either called `Item.pay_rate` or `self.pay_rate` to determint if we want `pay_rate` can be access at Class level or Instant level.
 	
 - **Class Attributes**:
 	    - Defined at the class level (outside `__init__`).
@@ -162,7 +162,7 @@ class Item:
 	def apply_discount(self):
         self.price = self.price * Item.pay_rate 
 ```
-Check attribute each level can access, seem like at instance level, only attributes inside `__init__` can be access.
+Check attribute each level can access, at instance level, only attributes inside `__init__` can be access.
 ```python
 print(Item.__dict__) # list all the attributes for Class level
 print(item1.__dict__) # list all the attributes for instance level
@@ -171,17 +171,35 @@ print(item1.__dict__) # list all the attributes for instance level
 > 
 > {'name': 'Phone2', 'price': 2000, 'quantity': 3}
 
-+ ? Notice that for `item2`, we must access `pay_rate` at Class level to modify `pay_rate` from 0.8 to 0.2. Remember Class attribute modify at Class level, Instance attribute modify at Instance level.    
++ ? Notice that for `item2`, we must access `pay_rate` at Class level to modify `pay_rate` from 0.8 to 0.2. Remember Class attribute modify at Class level, Instance attribute modify at Instance level. The results below show **pay_rate are modify throughout the whole class.**     
 ```python
-item1.apply_discount()
-print('discount rate: ', item1.payrate) # can be accessible through class level
-
 Item.pay_rate = 0.2
+
+item1 = Item("Phone", 1000, 22) # create instance of a class
+item1.apply_discount()
+item2 = Item("Phone2", 1000, 10) # create instance of a class
 item2.apply_discount()
+
+print('discount rate: ', item1.payrate) # can be accessible through class level
 print('discount rate: ', item2.price) # STILL GET 80% DISCOUNT
 ```
->discount rate:  800.0
->discount rate:  400.0
+>discount rate:  200.0
+>discount rate:  200.0
++ ? Example of modify at instance level  using `self.pay_rate`, pay_rate can be modify outside the class. Using self.pay_rate allow us to modify only the instance not the whole class, this mean item1 and item2 can have a different pay_rate
+```python
+class Item:
+	...
+	def apply_discount(self):
+        self.price = self.price * self.pay_rate 
+
+
+item2 = Item("Phone2", 1000, 10) # create instance of a class
+item2.pay_rate = 0.5
+item2.apply_discount()
+print('discount rate: ', item2.price) 
+```
+>discount rate:  500.0 
+
 
 **Save all class instance and Accessing all instance name**
 ```python
@@ -364,3 +382,79 @@ print(f'{self.__class__.__name__}')
 ```
 
 ## Getters and Setters
+
+**read-only-method**: use @property to make variables cannot be change, only readable. this called Encapsulation.
+```python
+@property
+def read_only_name(self):
+	self.name = name # private attribute
+```
+
+**private attribute**: in python **private attribute annotate with a underscore** `_name`, private attribute prevent access to the attribute from outside of the class. (`_` is **just a annotation, it doesn't affect the code**)
+```python
+class Item:
+	def __init__(self, name):
+	    self._name = name # private attribute
+	
+	@property
+    def name(self):
+        return self._name
+```
+However, it not authentic to show the underscore along with attribute, we could hide it using not underscore `__`, a double underscore. 
+![[Pasted image 20240924112925.png]]
+> Using double underscore, private sign will not be show. 
+```python
+class Item:
+	def __init__(self, name):
+	    self.__name = name # private attribute
+	
+	@property
+    def name(self):
+        return self.__name
+```
+
+**Modify private attribute** with **setter method**,  using setter, `@property` method's attribute can be replace and modify.
+```python
+class Item:
+    def __init__(self, name: str, price: float, quantity=0):
+	    self.__name = name # private attribute
+	
+	
+	 @name.setter
+    def name(self, value): # parameter set as value
+        self.__name = value
+```
+
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
