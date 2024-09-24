@@ -111,8 +111,7 @@ print(f"total price of item1: {item1.total_price()}")
 
 #### Validate Datatype
 + add expected class data type: str, float, int (quantity=0) auto define as int
-+ ? **assert: condition, print_error_statement**: assert keyword (not a function) use to validate datatype, value and can also return error warning for those errors conditions.
-	in the example below, assert check if the price is larger or equal to 0, if not print out AssertionError statement.
++ ? **assert: [condition], [print_error_statement]**: assert is a keyword **for validation during debugging**, validate datatype, value and also can return error warning for those errors conditions.
 ```python
     def __init__(self, name: str, price: float, quantity=0):
 		 # Run validations to the received arguments
@@ -425,14 +424,44 @@ class Item:
         self.__name = value
 ```
 
-
+#### Purpose of "Setter"/"Getter with property"
++ ? **Getter** for attributes need only to be read like the **total_price**   
 ```python
+class Item:
+    def __init__(self, name: str, price: float, quantity: int):
+        self.name = name
+        self.price = price
+        self.quantity = quantity
 
+    # Compute total price based on price and quantity
+    @property
+    def total_price(self):
+        return self.price * self.quantity
+
+item = Item("Laptop", 1000, 3)
+print(item.total_price)  # Computed as 1000 * 3 = 3000
+```
++ ? **Setter** for validation purpose, like a `try_except` for input. Allow you to dictate input format and datatype.
+```python
+class Item:
+	# Getter for price
+    @property
+    def price(self):
+        return self._price
+    
+    # Setter for price with validation
+    @price.setter
+    def price(self, value):
+        if value > 0:
+            self._price = value
+        else:
+            raise ValueError("Price must be greater than zero")
+	...
+	
+# Using @property
+item = Item("Laptop", 1000)
 ```
 
-```python
-
-```
 
 ```python
 
