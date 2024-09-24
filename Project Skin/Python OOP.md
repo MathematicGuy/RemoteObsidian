@@ -273,4 +273,94 @@ print(result_multiply)  # Output: 12z
 
 
 ## Inheritant
- 
+**Basic Class Inheritant.** Phone inherit attribute from Item, this allow us to create new instance of class Phone with Item Class attributes like name, price, quantity. 
+```python
+class Phone(Item): # inherit Item class
+	...
+
+phone4 = Phone('phonev4', 800, 4)
+```
+
+**super function**: allow sub-class to have access to all attributes/methods from its mother class
++ ? with `super().__init__`, print out both Phone and Item Class 
+```python
+class Phone(Item): # inherit Item class
+    def __init__(self, name: str, price: float, quantity=0, broken_phone=0):
+        #? Instance Level
+        # Call to super func to have access to all attributes/methods from Item class
+        super().__init__(
+            name, price, quantity
+        )
+		self.broken_phone = broken_phone
+
+
+#? Initiate Class Instances 
+phone1 = Item('phonev1', 500, 4)
+phone2 = Item('phonev2', 600, 4)
+
+# This is just fine
+phone3 = Phone('phonev3', 700, 4, 1)
+phone4 = Phone('phonev4', 800, 4, 2)
+print(Phone.all)
+```
+>[Item(phonev1, 500, 4), Item(phonev2, 600, 4), Phone(phonev3, 700, 4), Phone(phonev4, 800, 4)]
+	
++ ? without `super().__init__`, only print out Phone Class 
+```python
+class Phone(Item): # inherit Item class
+    def __init__(self, name: str, price: float, quantity=0, broken_phone=0):
+        #? Instance Level
+        # Call to super func to have access to all attributes/methods from Item class
+		self.broken_phone = broken_phone
+	
+#? Initiate Class Instances 
+phone1 = Item('phonev1', 500, 4)
+phone2 = Item('phonev2', 600, 4)
+
+# This is just fine
+phone3 = Phone('phonev3', 700, 4, 1)
+phone4 = Phone('phonev4', 800, 4, 2)
+print(Phone.all)
+```
+> [Item(phonev1, 500, 4), Item(phonev2, 600, 4)]
+
++ ? **Question:** What if I **only want to calculate total Phone Price**, not including Item. should I remove super() function? Well you don't have to
++ $ `@classmethod` are made for this, class method only access attributes and instance of that class. 
+```python
+class Phone(Item): # inherit Item class
+    def __init__(self, name: str, price: float, quantity=0, broken_phone=0):
+        #? Instance Level
+        super().__init__(
+            name, price, quantity
+        )
+        self.broken_phone = broken_phone
+        
+    @classmethod
+    def total_assets(cls):
+        total = 0
+        for instance in cls.all:
+            if isinstance(instance, cls):
+                total += instance.price * (instance.quantity - instance.broken_phone)
+                
+        return total
+
+
+#? Initiate Class Instances 
+phone1 = Item('phonev1', 500, 4)
+
+# This is just fine
+phone3 = Phone('phonev3', 700, 4, 1)
+phone4 = Phone('phonev4', 800, 4, 2)
+print(Phone.total_assets())
+```
+> output: 3700 ($700*3 + 800*2 = 3700$)
+
+**access to class attributes**: 
++ `self`: the class itself
++ `__class__`: access to class function
++ `__name__`: class function use to get class name
+```python
+print(f'{self.__class__.__name__}')
+```
+
+## Getters and Setters
