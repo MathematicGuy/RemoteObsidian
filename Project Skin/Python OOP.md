@@ -108,6 +108,7 @@ print(f"total price of item1: {item1.total_price()}")
 >An Instance/Oject created: Phone price $1000 with quantity of 22
 >An Instance/Oject created: Phone2 price $2000 with quantity of 3
 >Total price of item1: 6000
+
 #### Validate Datatype
 + add expected class data type: str, float, int (quantity=0) auto define as int
 + ? **assert: condition, print_error_statement**: assert keyword (not a function) use to validate datatype, value and can also return error warning for those errors conditions.
@@ -234,9 +235,23 @@ Item.instantiate_from_csv() # call classmethod
 ![[Pasted image 20240923161111.png]]
 
 ####  When to use class methods and when to use static methods ?
-+ $ `@classmethod`: used when yo **need to do sth** at the **class level** rather than the instance level, take `cls` as first argument. **e.g. modify class level attribute**
-	
++ $ `@classmethod`: used when yo **need to do sth** at the **class level** rather than the instance level, take `cls` as first argument. **e.g. modify class level attribute**. 
++ $ It can be called **on the class itself**, or **on instances** (gọi hàm trong class), but it **operates on the class data**.
++ ? Example: change class level pay_rate using @classmethod
+```python
+    @classmethod
+    def change_pay_rate(cls, new_rate):
+        # Modifies the class attribute `pay_rate`
+        cls.pay_rate = new_rate
+
+# Call classmethod from an instance
+item1 = Item('Phone', 1000)
+item1.change_pay_rate(0.7)
+print(Item.pay_rate)  # Output: 0.7
+```
+
 + $ `@staticmethod`: is a method that belongs to the class , but it **does not receive any special first augument like** `self` or `cls` (like `@classmethod` ) while still **can be access like a normal function with parameter** 
++ $ The method doesn’t need access to instance or class data.
 	they could be standalone functions, but they are grouped within the class for organizational purporses.
 ```python
 class MathUtility:
@@ -255,3 +270,7 @@ result_multiply = MathUtility.multiply_numbers(3, 4)
 print(result_add)  # Output: 15
 print(result_multiply)  # Output: 12z
 ```
+
+
+## Inheritant
+ 

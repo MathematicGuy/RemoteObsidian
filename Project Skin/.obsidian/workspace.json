@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b104c144b1dbc4f",
+        "id": "a5e5cf51ffd0dba8",
         "type": "tabs",
         "children": [
           {
-            "id": "cb71321f99a3ac0a",
+            "id": "5bbc4c62280477ee",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d6754beea77a6dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python OOP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Python OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Python OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Python OOP.md"
               }
             }
           },
@@ -189,12 +203,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cb71321f99a3ac0a",
+  "active": "d6754beea77a6dcf",
   "lastOpenFiles": [
-    "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "3 RESOURCES/Programming/Python.md",
+    "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "2 ACTIONS/Personal/Personal.md",
     "Pasted image 20240923184428.png",
