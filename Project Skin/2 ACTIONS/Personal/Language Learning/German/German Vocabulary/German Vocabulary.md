@@ -1,10 +1,6 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
- v
-
-
-
 ### **Unit 1: Order in a cafe, describe your family**
 
 **Lesson 1**
@@ -1269,9 +1265,9 @@ Kommt der Zug um vier oder um fünf Uhr? (check for word structure)
 	Der zug kommt um halb fünf
 
 ### Unit 6: Guidebook
-Hunger hungry
-	Oh, habe du Hunger - oh, are you hungry
-	Ich habe Hunger (I have hungry) -> I am Hungry
+Hungrig hungry
+	Oh, habe du Hungrig - oh, are you hungry
+	Ich habe Hungrig (I have hungry) -> I am Hungry
 Griechisch greek
 Lieber prefer
 + Ich möchte lieber - I would prefer
@@ -2436,7 +2432,6 @@ Haustiere pets
 	Ich will keine Kinder, ich habe ein Haustiere / I don't want a child, I want a pets
 	Ich habe eine katze, sie ist meine Haustiere
 
-
 Das Beamtin/Beamter - the civil servant (female/male goverment worker)
 	Mein Bruder ist jetzt Beamter
 
@@ -2478,15 +2473,19 @@ Kartoffelsalat - potato salat
 	salat - salat
 
 Meine Tochter esse gern im Dezember Eis
-Senf mustard
+Senf mustardget
 
 Nussallergie / nut allergy
+	Hat deine Tochter eine Nussallergie ? / Does your daughter have nut allergie ?
+	Hat - use for "Er", "Sie", "Es" (we have tochter stand as "sie" in the sentence hence using Hat)
+	Habe is for "I"
+	Hast is for "du"
+
 Dich you
 	Das Eis ist für sie, nicht für dich / the ice cream is for her, not for you
 
 Ihn / him
 	Das Apfelkuchen ist zu süß für Ihn - the apple cake is too sweet for him
-
 
 kann: can -> kann kein: cannot
 	Meine Katze kann kein Fleisch essen
@@ -2499,7 +2498,6 @@ Backt / bake
 
 Bushaltestelle - bus station
 Knöde - dumpling
-
 
 Schaf - spicy
 	Die Currywurst ist sehr schaf
@@ -2515,7 +2513,8 @@ Die Gemüde - the vegetable
 Langsam - slowly
 bekommt - gets
 Weniger - less
-Kekse - cookie
+Kekse - cookie/cake
+	Das Kinder isst nur Kekse
 grün green
 Flaschen - bottle of water
 
@@ -2523,7 +2522,7 @@ Geschlossen - close
 Unterschied different 
 Ein Bisschen länger - a bit longer
 
-Freundschaften friendship
+Freundschaften friendshipf
 Fitnessstudio gym
 
 + $ -en ending tail often use for accusative word form
@@ -2541,3 +2540,5 @@ Bekommen - to get/receive
 Weniger less
 	Ich muss weniger essen / ich have to eat less sugar
 Spinat / spinach
+Bretzel / pretzel
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c6fb1ad65109bb",
+        "id": "9b104c144b1dbc4f",
         "type": "tabs",
         "children": [
           {
-            "id": "64455a427ab7ea94",
+            "id": "cb71321f99a3ac0a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,11 +189,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "64455a427ab7ea94",
+  "active": "cb71321f99a3ac0a",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "3 RESOURCES/Programming/Python.md",
     "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "2 ACTIONS/Personal/Personal.md",
     "Pasted image 20240923184428.png",
@@ -205,7 +206,6 @@
     "Pasted image 20240923103507.png",
     "Pasted image 20240923101848.png",
     "Pasted image 20240923101844.png",
-    "3 RESOURCES/Programming/Python.md",
     "4 ARCHIVES/2023/Python/Week 3 - Regular Expression.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",

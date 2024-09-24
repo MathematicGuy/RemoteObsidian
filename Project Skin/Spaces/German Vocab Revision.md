@@ -734,3 +734,30 @@ Mittagessen lunch
 
 Der Elefant musst weniger wein trinken / the elefant must drink less wine
 	Have 2 verbs so the 2nd verb "trinken" will place in last.
+
+Apfelschorle - sparkling apple juice
+	Duo trinkt jede woche dreißig Flaschen Appfelschorle / duo drink thirty sparkling apple juice every week
+
+Zwei Liters (with s): 2 liters
+Glas glass
+Gras  grass
+
+Ihn him
+
+Habe vs Hat vs Hast
+	Habe - ich (i)
+	Hast - du (you)
+	Hat - Sie, Es, Er (She, it, He)
+
+Mark, Isst dein Schokolade langsam, bitte
+Gemüse - vegetables
+Obst Fruit
+Enkel grandson
+
+Bekomme / get
+	Bekommen - to receive (accusative) (remember word end with -en always place last )
+Werde - become/will
+	Ich werde ein Schüler/Student - I become a student
++ ? Pupils vs Student: pupils specifically refer to young learn under the age of 18, student refer to both university adult learner and young learner 
+
+Weniger / less
