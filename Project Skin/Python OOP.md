@@ -382,7 +382,7 @@ print(f'{self.__class__.__name__}')
 
 ## Getters and Setters
 
-**read-only-method**: use @property to make variables cannot be change, only readable. this called Encapsulation.
+**read-only-method**: use @property to make variables cannot be change, only readable. this called Encapsulation. Read-only method deosn't modify any constance's or class's attributes, it just read them.
 ```python
 @property
 def read_only_name(self):
