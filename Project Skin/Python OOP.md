@@ -464,7 +464,7 @@ item = Item("Laptop", 1000)
 
 ## Polymorphism
 + $ **Polymorphishm** mean "many form" in greek, it refers to **ability of different classes** to be **treated as instances of the same class through a common interface**.
-+ ? Example: each animal **sub-class can override the `sound()` method to provide its own implementation**
++ ? Example: each animal **sub-class can override the `sound()` method to provide its own implementation** like below
 ```python
 from abc import abstractmethod
 class Animal:
@@ -490,8 +490,14 @@ for animal in zoo:
 ```
 > Dog make sound: Bark Bark
 > Cat make sound: Meow Meow
++ ? **Polymorphic Approach**:
+	+ **Extensibility:** you can add new animal type like "Hourse" with their own behaviours (methods) without affecting the `Animal` class.
+	+ **Method Overriding:** each animale type (sub-class) can override the `sound` method to provided their own implementation. 
+	+ **Lose Coupling:** `animal_sound()` function doesn't need to know which class are called, it just care it that class have `sound()` function.
+	
+-> easy to scale and manage because each class are tidy and unique (don't have duplicate method)
 
- **Advantages of Polymorphism compare to traditional approach**
+ **Advantages of Polymorphism compare to Non-Polymorphism Approach**
 ```python
 class Animal:
     all = []
@@ -512,6 +518,13 @@ for ani in Animal.all:
 ```
 > Dog make sound: Bark Bark
 > Cat make sound: Meow Meow
++ ? **Non-Polymorphic Approach**: 
+	+ **Dependence:** All instance are depend on 1 class, making it un-flexible, there're no different between types like dog, cat making **some methods become redundent for some class**. (**Ex: dog with fly() method**). 
+		+ **The logic for all animal are confine into 1 class**, making it harder to extend in the future. Hard to add specific behaviour for each type of animal. 
+		
+		+ Lead to Scalability problem in the future, different types of animals with different behaviors in a single `Animal` class would quickly become unmanageable.
+		
+	+ **Tight Coupling:** all animal type must follow  `make_sound()` method print format, can't customize their own.    
 
 
 ```python
