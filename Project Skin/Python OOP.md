@@ -526,20 +526,20 @@ for ani in Animal.all:
 		
 	+ **Tight Coupling:** all animal type must follow  `make_sound()` method print format, can't customize their own.    
 
-
+## Additional Note
+### Recusion
 ```python
+i = 0.02 
+m = 100
 
+def im(m, i, loop):
+    loop = loop
+    m = m + m*i
+    print(f"loop {loop}, total money: {m:.4f}")
+    
+    if loop > 0:
+        loop -= 1    
+        return im(m, i, loop)
+
+im(m,i,100)
 ```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
