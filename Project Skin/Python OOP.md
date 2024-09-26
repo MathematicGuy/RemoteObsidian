@@ -527,7 +527,7 @@ for ani in Animal.all:
 	+ **Tight Coupling:** all animal type must follow  `make_sound()` method print format, can't customize their own.    
 
 ## Additional Note
-### Recusion
+### Recursion
 ```python
 i = 0.02 
 m = 100

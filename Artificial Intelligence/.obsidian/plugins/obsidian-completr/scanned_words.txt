@@ -871,6 +871,7 @@ EHO
 EHMW
 Ebbb
 EMa
+Expand
 the
 that
 transformation
@@ -2337,6 +2338,7 @@ oVhh
 oUY
 oBjb
 outside
+outermost
 vector
 vectors
 versions
@@ -3079,6 +3081,7 @@ vRZ
 vcf
 vmT
 vmf
+valus
 An
 After
 Algorithm
@@ -3904,6 +3907,13 @@ AbaB
 ABE
 AdI
 AYa
+Applying
+Axes
+ANY
+ARRAY
+ALONG
+AXES
+Axis
 eigenbasis
 entirely
 eigenvectors
@@ -5766,6 +5776,7 @@ izz
 iiK
 iXy
 invalid
+inserting
 basis
 by
 because
@@ -7414,6 +7425,7 @@ fTeG
 fRQMu
 fIe
 floor
+fourth
 space
 say
 same
@@ -8456,6 +8468,8 @@ simplifying
 separately
 sLY
 siN
+sklearn
+scikit
 consists
 can
 change
@@ -9569,6 +9583,8 @@ calculates
 ctN
 cZG
 coldest
+combined
+coulmns
 linear
 lambda
 left
@@ -11275,6 +11291,7 @@ markers
 mrV
 mAQ
 mqHpt
+marketing
 The
 This
 To
@@ -13139,6 +13156,7 @@ apps
 artistic
 afp
 aVS
+axes
 notate
 nhau
 normal
@@ -14838,6 +14856,7 @@ Commenting
 Coding
 CCuz
 Coldest
+CAN
 Basis
 Both
 Board
@@ -15607,6 +15626,7 @@ Binarization
 BtA
 BtI
 BiK
+Beside
 Using
 Understand
 Unique
@@ -18654,6 +18674,8 @@ Level
 LhcsZ
 LjM
 LMR
+LeastSquare
+Liner
 you
 yield
 yk
@@ -19316,6 +19338,7 @@ yze
 yfYy
 yEN
 ySVkkHm
+yay
 point
 pair
 pmatrix
@@ -30995,6 +31018,7 @@ OCR
 OCe
 Oho
 OiJ
+Ours
 IntelliJ
 Isolation
 Interactive
@@ -31866,6 +31890,9 @@ IjT
 ISivcb
 Imk
 IKW
+IDENTIFIED
+ITS
+Intercept
 Prerequisite
 PCB
 Project
@@ -32721,6 +32748,8 @@ Perspective
 Projects
 Pratice
 PPp
+POSITION
+Plotting
 Defecs
 Defects
 Dataset
@@ -34267,6 +34296,7 @@ Variational
 VAE
 VPJk
 VVP
+VALUE
 Just
 JF
 Jc

@@ -1,3 +1,5 @@
+[[Numpy Vector Array]]
+
 ## Basic Tranformation
 > By assigning 2D matrix to 3D matrix
 ```python

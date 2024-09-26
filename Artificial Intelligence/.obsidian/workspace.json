@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "74f63b64f4fd83cc",
+            "id": "79c158c01e98a1a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Linear Regression Using Gradient Descent Exercise.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Linear Regression Using Gradient Descent Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Linear Regression Using Gradient Descent Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Linear Regression Using Gradient Descent Exercise.md"
               }
             }
           },
@@ -186,11 +186,24 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "74f63b64f4fd83cc",
+  "active": "79c158c01e98a1a5",
   "lastOpenFiles": [
-    "Python OOP (Object Oriented Programming).md",
-    "Python.md",
+    "Numpy Vector Array.md",
+    "Numpy.md",
     "2 ACTIONS/_Focus.md",
+    "Linear Regression Using Gradient Descent Exercise.md",
+    "Pasted image 20240925180135.png",
+    "Pasted image 20240925180102.png",
+    "Pasted image 20240925175555.png",
+    "Pasted image 20240925175247.png",
+    "Vector Manipulation.md",
+    "Pasted image 20240925152517.png",
+    "Pasted image 20240925143505.png",
+    "Pasted image 20240925142621.png",
+    "Least Squares Method.md",
+    "Pasted image 20240925142010.png",
+    "Python.md",
+    "Python OOP (Object Oriented Programming).md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "PCB Anomaly Detection Note & Resources.md",
     "PCB defects detection using YOLOv5.md",
@@ -206,24 +219,10 @@
     "Gaussian Elimination from Scratch Documentation 2.md",
     "Pasted image 20240920165550.png",
     "Pasted image 20240920164817.png",
-    "Linear Regression Using Gradient Descent Exercise.md",
-    "Least Squares Method.md",
     "Linear Regression.md",
-    "Pasted image 20240920102052.png",
-    "4 ARCHIVES/Image/Pasted image 20240712083556.png",
-    "4 ARCHIVES/Image/Pasted image 20240712083013.png",
-    "4 ARCHIVES/Image/Pasted image 20240712082943.png",
-    "Pasted image 20240920101653.png",
-    "Numpy.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Linear system as Matrix using Numpy.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Introduct to Numpy arrays.md",
-    "OpenCV Bugs and Errors.md",
-    "OpenCV.md",
-    "Mathplotlib.md",
-    "Pasted image 20240917112311.png",
-    "Pasted image 20240917112248.png",
-    "Pasted image 20240917095419.png",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

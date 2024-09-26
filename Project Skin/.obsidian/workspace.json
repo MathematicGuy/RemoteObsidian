@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e5cf51ffd0dba8",
+        "id": "c648b692a386494a",
         "type": "tabs",
         "children": [
           {
-            "id": "5bbc4c62280477ee",
+            "id": "fc1fc0061a552ae5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,18 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "d6754beea77a6dcf",
+            "id": "d1338bb1b055e646",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python OOP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python OOP.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python OOP.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python OOP.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,17 +195,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d6754beea77a6dcf",
+  "active": "fc1fc0061a552ae5",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "Python OOP.md",
     "Pasted image 20240924112925.png",
     "3 RESOURCES/Programming/Python.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "2 ACTIONS/Personal/Personal.md",
     "Pasted image 20240923184428.png",
-    "Python OOP.md",
     "Pasted image 20240923161111.png",
     "Python Command.md",
     "Pasted image 20240923142012.png",
@@ -235,7 +227,6 @@
     "Learn Languages FAST.md",
     "Pasted image 20240911085427.png",
     "Germanic Language.md",
-    "Pasted image 20240910102653.png",
     "Learning Thourgh Videos.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
