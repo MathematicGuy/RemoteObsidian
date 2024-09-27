@@ -32,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "235f088bbeb9e7fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson 1 - Optimization in Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson 1 - Optimization in Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson 1 - Optimization in Neural Network.md"
+              }
             }
           },
           {
@@ -190,7 +186,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "235f088bbeb9e7fd",
+  "active": "7abd748a31dd269a",
   "lastOpenFiles": [
     "Lesson 1 - Optimization in Neural Network.md",
     "2 ACTIONS/_Focus.md",

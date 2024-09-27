@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be56cfd27ba2cc0b",
+        "id": "bb5d26c83c342d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "0e6a3cc8b69cb3c5",
+            "id": "01be91ebe6a15837",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -189,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0e6a3cc8b69cb3c5",
+  "active": "01be91ebe6a15837",
   "lastOpenFiles": [
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
     "3 RESOURCES/DataBase/SQL/DataBase.md",
