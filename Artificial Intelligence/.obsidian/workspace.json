@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "47b0949abe34ea0f",
+            "id": "7abd748a31dd269a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "235f088bbeb9e7fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,25 +190,26 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "47b0949abe34ea0f",
+  "active": "235f088bbeb9e7fd",
   "lastOpenFiles": [
-    "Pasted image 20240927092622.png",
-    "Pasted image 20240927092415.png",
     "Lesson 1 - Optimization in Neural Network.md",
-    "Pasted image 20240927092450.png",
-    "Pasted image 20240927092320.png",
-    "Pasted image 20240927092127.png",
-    "Pasted image 20240927090004.png",
-    "Pasted image 20240927085659.png",
-    "Pasted image 20240927085639.png",
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
+    "Calculus_Optimization.md",
+    "Pasted image 20240927113657.png",
+    "Pasted image 20240927113542.png",
+    "Pasted image 20240927113434.png",
+    "Pasted image 20240927113039.png",
+    "Pasted image 20240927112155.png",
+    "Pasted image 20240927112132.png",
+    "Pasted image 20240927101754.png",
+    "Pasted image 20240927101436.png",
+    "Pasted image 20240927100240.png",
+    "Pasted image 20240927092622.png",
     "Division by 2 is taken just for scaling purposes.md",
     "Gradient and Gradient Descent.md",
     "Linear Regression Using Gradient Descent Exercise.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Pasted image 20240926153510.png",
-    "Pasted image 20240926153352.png",
-    "Pasted image 20240926153335.png",
     "Feature Scaling.md",
     "standard deviation.md",
     "Latex .md",
@@ -223,7 +228,6 @@
     "Machine Learning Mathematics.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation 1.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

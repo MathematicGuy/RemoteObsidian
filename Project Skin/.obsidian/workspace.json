@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a60703b622313320",
+        "id": "be56cfd27ba2cc0b",
         "type": "tabs",
         "children": [
           {
-            "id": "c34230569adfaf29",
+            "id": "0e6a3cc8b69cb3c5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1ffbfe618cb3b636",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,12 +76,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -194,8 +189,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1ffbfe618cb3b636",
+  "active": "0e6a3cc8b69cb3c5",
   "lastOpenFiles": [
+    "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
+    "3 RESOURCES/DataBase/SQL/DataBase.md",
+    "3 RESOURCES/DataBase/DB HomeWork/DB_HW7.md",
+    "3 RESOURCES/DataBase/DB HomeWork/DB_HW6.md",
+    "3 RESOURCES/DataBase/Learn Database/Relational Algebra Operations.md",
+    "3 RESOURCES/DataBase/Learn Database/Relational DB Design.md",
+    "3 RESOURCES/Web/BackEnd/DataBase Design and E-R Model.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Python OOP.md",
@@ -225,12 +227,6 @@
     "GoalsThisWeek.md",
     "Learn Languages FAST.md",
     "Pasted image 20240911085427.png",
-    "Germanic Language.md",
-    "Learning Thourgh Videos.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Sentences Position.md",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes/English.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",

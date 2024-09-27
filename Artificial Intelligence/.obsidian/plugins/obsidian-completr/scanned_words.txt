@@ -1706,6 +1706,7 @@ tnD
 tXi
 tvS
 teR
+tackle
 original
 of
 operator
@@ -8567,6 +8568,7 @@ sQzCn
 sjb
 slLN
 simplied
+simplification
 consists
 can
 change
@@ -9692,6 +9694,7 @@ ctM
 cra
 cGM
 cba
+crunches
 linear
 lambda
 left
@@ -14083,6 +14086,7 @@ naaaa
 njz
 nnXGR
 nqi
+nice
 Change
 Class
 Comunity
@@ -26636,6 +26640,8 @@ dRn
 dre
 dMmh
 denoted
+derivate
+denominator
 From
 Find
 For
@@ -30617,6 +30623,7 @@ RSREv
 RPW
 RRSP
 Respect
+Regresison
 Or
 One
 Our
@@ -33952,6 +33959,7 @@ DEk
 DDH
 DiPg
 Division
+Deverative
 Visual
 Variables
 Visualization
@@ -39252,6 +39260,7 @@ GQRR
 GNP
 GHIa
 GFV
+Gradiend
 Zero
 Zw
 ZX

@@ -1,6 +1,6 @@
  
 #Goals
-- [ ] Explain Deverative
+- [ ] Explain Deverative (Proof of Derivative)
 - [ ] Explain Gradient Descent
 - [ ] Explain both of them and how they're related
 - [ ] Explain Linear Regression in Detail
