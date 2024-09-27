@@ -135,4 +135,139 @@ Predictions of sales using Scikit_Learn linear regression:
 ```
 
 ## 3 - Linear Regression using Gradient descent
-+ Explain why division by 2 -> Visualize the process -> name for that process? normalization?
+Let's try to find linear regression coefficients $m$ and $b$, by minimising the difference between original values $y^{(i)}$ and predicted values $\hat{y}^{(i)}$ with the **loss function** $L\left(w, b\right)  = \frac{1}{2}\left(\hat{y}^{(i)} - y^{(i)}\right)^2$ for each of the training examples. [[Division by 2 is taken just for scaling purposes]] for calculating partial derivatives. 
+
+To compare the resulting vector of the predictions $\hat{Y}$ with the vector $Y$ of original values $y^{(i)}$, you can take an average of the **loss function values** for each of the training examples:
+  
+
+$$E\left(m, b\right) = \frac{1}{2n}\sum_{i=1}^{n} \left(\hat{y}^{(i)} - y^{(i)}\right)^2 =
+
+\frac{1}{2n}\sum_{i=1}^{n} \left(mx^{(i)}+b - y^{(i)}\right)^2,\tag{1}$$
+
+
+where $n$ is a number of data points. This function is called the sum of squares **cost function**. To use gradient descent algorithm, calculate partial derivatives as:
+  
+$$
+\begin{align}
+
+\frac{\partial E }{ \partial m } &=
+
+\frac{1}{n}\sum_{i=1}^{n} \left(mx^{(i)}+b - y^{(i)}\right)x^{(i)},\\
+
+\frac{\partial E }{ \partial b } &=
+
+\frac{1}{n}\sum_{i=1}^{n} \left(mx^{(i)}+b - y^{(i)}\right),
+
+\tag{2}\end{align}$$
+
+and update the parameters iteratively using the expressions
+$$\begin{align}
+
+m &= m - \alpha \frac{\partial E }{ \partial m },\\
+
+b &= b - \alpha \frac{\partial E }{ \partial b },
+
+\tag{3}\end{align}$$
+where $\alpha$ is the learning rate.
+
+
+Original arrays `X` and `Y` have different units. To make gradient descent algorithm efficient, you need to bring them to the same units. A common approach to it is called **normalization**: substract the mean value of the array from each of the elements in the array and divide them by [[standard deviation]] (a statistical measure of the amount of dispersion of a set of values) - (đo lường xác suất sự phân tán của 1 tập giá trị).
++ **Large values of x or y** can produce **large gradients**, causing the gradient descent algorithm to take **large steps** in certain directions.
+- **Small values of x or y** can produce **small gradients**, resulting in **small steps** in other directions.
+- **Unbalance value of x and y** can cause gradient descent algorithm to take **disproportionate steps** (bước đi không cân xứng) in each direction **(i.e. small step in x-axis, large step in y_axis)**  which leads to **inefficienct convergence** or even **divergence**. 
+```python
+X_norm = (X - np.mean(X))/np.std(X)
+Y_norm = (Y - np.mean(Y))/np.std(Y)
+```
+X_norm and Y_norm value look like this
+```python
+print("X_norm:",X_norm)
+print("Y_norm:",Y_norm)
+```
+> **X_norm:** [ 0.96985227 -1.19737623 -1.51615499 0.05204968 0.3941822 -1.61540845 -1.04557682 -0.31343659 -1.61657614 0.61604287 .... ]
+> **Y_norm:** [ 1.55205313 -0.69604611 -0.90740587 0.86033029 -0.21568303 -1.31091086 -0.42704278 -0.15803946 -1.77205942 -0.65761706 ... ]
+
+
+### Implement code
+##### Define Cost Function
+```python
+def E(m, b, X, Y):
+    return 1/(2*len(Y)) * np.sum((m*X + b - Y)**2)
+```
+
+##### Define Partial Derivative of the Cost Function
+```python
+def dEdm(m, b, X, Y):
+    n = len(Y)
+    #? 2 options, same result
+    # re = 1/n * sum((m*X +b - Y) * X)
+    re = 1/n * np.dot(m*X +b - Y, X) 
+
+    return re
+
+def dEdb(m, b, X, Y):
+    n = len(Y)
+    re = 1/n * np.dot(m*X + b - Y, Y**0)
+    return re
+```
+
+##### Implement Gradient Descent to find m and b with Partial Derivative of Cost Function
+$$
+\begin{align}
+m &= m - \alpha \frac{\partial E }{ \partial m },\\
+b &= b - \alpha \frac{\partial E }{ \partial b },
+\end{align}
+$$
+```python
+def gradient_descent(X, Y, m, b, learning_rate=0.002, iteration=30, print_cost=False):
+    '''
+        X: dataset use to predict
+        Y: predicted dataset 
+        m: slope 
+        b: y-intercept
+        
+    '''
+    for i in range(iteration):
+        m_new = m - learning_rate*dEdm(m ,b, X, Y)
+        b_new = b - learning_rate*dEdb(m ,b, X, Y)
+            
+        m = m_new
+        b = b_new
+        
+        if print_cost is True:
+            print(f"Cost Function after {i} iteration:", E(m, b, X, Y))
+    
+    return m ,b
+```
+##### Choose a initial point for m and b and test
+```python
+m_initial = 0; b_initial = 0; iteration = 30; learning_rate = 1.2
+
+m_gd, b_gd = gradient_descent(X_norm, Y_norm, m_initial, b_initial, learning_rate, iteration, print_cost=True)
+```
+
+### Verification
+```python
+X_pred = test_tv
+# Use the same mean and standard deviation of the original training array X
+X_pred_norm = (X_pred - np.mean(X))/np.std(X)
+Y_pred_gd_norm = m_gd * X_pred_norm + b_gd
+# Use the same mean and standard deviation of the original training array Y
+Y_pred_gd = Y_pred_gd_norm * np.std(Y) + np.mean(Y)
+
+print(f"TV marketing expenses:\n{X_pred}")
+print(f"Predictions of sales using Scikit_Learn linear regression:\n{Y_pred_sklearn.T}")
+print(f"Predictions of sales using Gradient Descent:\n{Y_pred_gd}")
+```
+>output. yes, they are correct
+```python
+TV marketing expenses:
+[ 50 100 150 200 300 350 400 450]
+Predictions of sales using Scikit_Learn linear regression:
+[[ 9.40942557 11.78625759 14.16308961 16.53992164 21.29358568 23.6704177
+  26.04724972 28.42408174]]
+Predictions of sales using Gradient Descent:
+[ 9.40942557 11.78625759 14.16308961 16.53992164 21.29358568 23.6704177
+ 26.04724972 28.42408174]
+```
+

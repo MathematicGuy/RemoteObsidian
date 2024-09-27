@@ -226,7 +226,7 @@ From the idea above (minimal distant), we could combine Gradient Descent into Li
 
 
 > note: $L(m, b)$ as the linear regression line.
-+ ? when we take the derivative, the two in the exponent cancels with this one. 
++ ? when we take the derivative, 2 in the exponent cancels with this one. 
 > To summarize, we calculate the average for all the loss of all the points. to get Linear Regression of all the points. Then apply Gradient Descent starting from $m_0, b_0$ To move the current line to the new position.  
 ![[Pasted image 20240915222604.png]]
   Repeat this process N time until reaching the minimum point.

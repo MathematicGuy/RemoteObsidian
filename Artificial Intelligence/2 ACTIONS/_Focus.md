@@ -1,9 +1,11 @@
  
 #Goals
-- [ ] Summarize all numpy command I don't understand and document it
-- [ ] Practice Gradient Descent Math problem to enhance my rememory
-- [ ] Explain how Derivative related to Gradient Descent 
-- [ ] Prove Least Square Method
+- [ ] Explain Deverative
+- [ ] Explain Gradient Descent
+- [ ] Explain both of them and how they're related
+- [ ] Explain Linear Regression in Detail
+- [ ] Explain how to apply Linear Regresison to Gradient Descent
+- [ ] Explain multiple Regression with Gradient Descent
 
 #System
 **Study Pipeline**

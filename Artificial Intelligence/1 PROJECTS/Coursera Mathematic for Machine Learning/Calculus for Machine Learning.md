@@ -14,3 +14,7 @@ Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 > Using Gradient Descent to Optimize functions.
 ## [[Gradient and Gradient Descent]]
 + [[Linear Regression Using Gradient Descent Exercise]]
+
+# Week 3: Optimization in Neural Network and Newton's Method
+
+### [[Lesson 1 - Optimization in Neural Network]]

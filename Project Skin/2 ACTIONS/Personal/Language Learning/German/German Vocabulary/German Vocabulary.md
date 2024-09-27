@@ -227,6 +227,8 @@ du you
 
 **CITY ATTRIBUTE**
 Stadt city
+Stadtmuseum - city museum
+
 In in
 	Laut loud
 Teuer expensive/pricy
@@ -1130,7 +1132,7 @@ dein Schrank - wardrobe / closet
 Kaufen - Buy
 	Ich muss neue Schal für das jobinterview am Montag kaufen (2nd verb go to the end)
 
-Muss (s / st / en) have to / must
+Muss (s / st / en) have to / must (not like habe: have)
 	Was musst du kaufen - what do you have to buy
 	Musst du neue Kleidung Kaufen - Do you have to buy new clothes?
 	Muss du neue Kleidung kaufen ? - Do you must buy new 
@@ -2542,3 +2544,5 @@ Weniger less
 Spinat / spinach
 Bretzel / pretzel
 
+Mich ~ me
+	Möchte mich essen / want to eat me 
