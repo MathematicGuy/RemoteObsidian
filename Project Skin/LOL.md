@@ -73,6 +73,7 @@ Questions to asked:
 ---
 
 **Jungle Main Focus**:
++ Gank angle, Survive Angle for AD....
 + **Early Game:** Farm Jungle > Gank/Crab > Finish Jungle > Focus on ganking Dragon Lane by getting blue buff first
 + **Mid Game:** 
 	+ **Gank as much as you can** -> Create an advantage gap by putting presure on 1 lane. Especially dragon. 

@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ba855f843407d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LoL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoL.md",
+                "file": "Python OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoL.md",
+                "file": "Python OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoL.md"
+                "file": "Python OOP.md"
               }
             }
           },
@@ -217,8 +204,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6ba855f843407d25",
+  "active": "1970a3ca1cacdfee",
   "lastOpenFiles": [
+    "LoL.md",
     "Python OOP.md",
     "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
@@ -245,7 +233,6 @@
     "4 ARCHIVES/2023/Python/Week 3 - Regular Expression.md",
     "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "LoL.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
     "3 RESOURCES/GoodForLater/Get all wifi password.md",
     "3 RESOURCES/GoodForLater/Good for LATER.md",
