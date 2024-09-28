@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1970a3ca1cacdfee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python OOP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ba855f843407d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LoL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "LoL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "LoL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "LoL.md"
               }
             }
           },
@@ -190,8 +217,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "01be91ebe6a15837",
+  "active": "6ba855f843407d25",
   "lastOpenFiles": [
+    "Python OOP.md",
+    "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
     "3 RESOURCES/DataBase/SQL/DataBase.md",
     "3 RESOURCES/DataBase/DB HomeWork/DB_HW7.md",
@@ -199,9 +228,7 @@
     "3 RESOURCES/DataBase/Learn Database/Relational Algebra Operations.md",
     "3 RESOURCES/DataBase/Learn Database/Relational DB Design.md",
     "3 RESOURCES/Web/BackEnd/DataBase Design and E-R Model.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "Python OOP.md",
     "Pasted image 20240924112925.png",
     "3 RESOURCES/Programming/Python.md",
     "Spaces/German Vocab Revision.md",

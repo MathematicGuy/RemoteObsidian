@@ -69,4 +69,29 @@ If the enemy Jungle kill Dragon, can I steal their Jungle Buff and monsters.
 ### Defending Tempo
 Questions to asked:
 + If I kill this things, would that thing be stoled or would I lose that. If I do this what will happened.
-+ 
+
+---
+
+**Jungle Main Focus**:
++ **Early Game:** Farm Jungle > Gank/Crab > Finish Jungle > Focus on ganking Dragon Lane by getting blue buff first
++ **Mid Game:** 
+	+ **Gank as much as you can** -> Create an advantage gap by putting presure on 1 lane. Especially dragon. 
+	+ Measure time between dragon. Save health and skills for Dragon.
+	
++ **Late Game:** Keep your health for Baron/Elder Dragon, try not to die. Late game live are more valuable than mid/early. 1 death can end the whole game.
+
+**Early Game:**
++ Dragon
++ Tower 
++ Kills
++ Jungle
+
+**Mid Game**
++ Baron
++ Dragon
++ Tower
+
+**End Game**
++ Tower (if "Elder Dragon" or "Baron" killed.)
++ Elder Dragon
++ Baron
