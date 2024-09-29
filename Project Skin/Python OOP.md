@@ -38,7 +38,7 @@ Tommy.speak()
 
 + **instance: phiên bản/ví dụ** == **object: đối tượng**
 	When printing out datatype of any variable, you can see each of them are instances/object of a class. 
-	![[Pasted image 20240923103507.png]]
+		![[Pasted image 20240923103507.png]]
 
 Initialize a Class
 ```python
@@ -49,7 +49,7 @@ Create a Object
 ```python
 item1 = Item() # create instance of Item class
 ```
-Assign attributes for Object
+assign attributes for Object
 ```python
 item1.name = "Phone"
 item1.price = 10000
@@ -114,11 +114,12 @@ class Item:
     def total_price(self):
         return self.price * self.quantity
         
-item1 = Item("Phone", 1000, 22) # create instance of a class
+item1 = Item("Phone", 2000, 3) # create instance of a class
+item2 = Item("Phone", 1000, 22) # create instance of a class
 print(f"total price of item1: {item1.total_price()}")
 ```
->An Instance/Oject created: Phone price $1000 with quantity of 22
 >An Instance/Oject created: Phone2 price $2000 with quantity of 3
+>An Instance/Oject created: Phone price $1000 with quantity of 22
 >Total price of item1: 6000
 
 #### Validate Datatype
@@ -301,7 +302,35 @@ print(result_multiply)  # Output: 12
 ```
 
 ## Inheritant
-**Basic Class Inheritant.** Phone inherit attribute from Item, this allow us to create new instance of class Phone with Item Class attributes like name, price, quantity. 
+> Allow classes (children class) to have attributes and methods from another class (mother class)
+
+**Item (Mother Class)**
+```python
+class Item:
+    def __init__(self, name: str, price: float, quantity=0):
+        assert price >= 0, f"Price {price} is not greater than or equal to zero" 
+        assert quantity >= 0, f"Quantity {quantity} is not greater than or equal to zero"
+        
+        self.__name = name 
+        self.__price = price
+        self.quantity = quantity
+        
+        # Action to execute
+        Item.all.append(self)
+
+	 
+    @staticmethod
+    def is_integer(num):
+        if isinstance(num, float):
+            return num.is_integer() # return True if the float a integer
+        elif isinstance(num, int):
+            return True
+        else:
+            return False
+```
+
+**Phone (Child Class)**
+> Inheritance allow Phone's class Objects to have all attributes and method from Item class.
 ```python
 class Phone(Item): # inherit Item class
 	...
@@ -393,7 +422,7 @@ print(f'{self.__class__.__name__}')
 
 ## Getters and Setters
 
-**read-only-method**: use @property to make variables cannot be change, only readable. this called Encapsulation. Read-only method deosn't modify any constance's or class's attributes, it just read them.
+**read-only-method**: use @property to make variables cannot be change, only readable. this called Encapsulation. Read-only method doesn't modify any constance's or class's attributes, it just read them.
 ```python
 @property
 def read_only_name(self):
@@ -443,7 +472,7 @@ class Item:
         self.name = name
         self.price = price
         self.quantity = quantity
-
+		
     # Compute total price based on price and quantity
     @property
     def total_price(self):
