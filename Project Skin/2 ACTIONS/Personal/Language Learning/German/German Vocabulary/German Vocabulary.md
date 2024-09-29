@@ -1240,9 +1240,11 @@ Achtung, Der zug von Berlin nach München hat eine Verspätung. Er kommt zweizig
 ICE - (Intercity Express) is a high-speed rail system in Germany
 Es schneit und es jetzt gibt eine Verspätung
 	It's snowing and now there's a delay
+
 Können - can/able to
-	+ Können Sie meinen kaufen Caffee - can you buy me a coffee (explain later) Sie können hier zahlen
+	+ **Können Sie** meinen kaufen Caffee - can you buy me a coffee (explain later) Sie können hier zahlen
 	+ Ja, Sie können im Reisezentrum zahlen - (because there're 2 verb. SO the 2nd verb go to the end)
+	+ **Können wir** (mean "we would be able to / we can")
 
 Zahle (t/st/en) - pay
 	Karl, Zahlst du mit Kreditkarte - karl, do you paying with a creadit card
@@ -2544,5 +2546,48 @@ Weniger less
 Spinat / spinach
 Bretzel / pretzel
 
-Mich ~ me
+Mich me
 	Möchte mich essen / want to eat me 
+
+Ausweis - ID Card
+	Wo ist Ihr Ausweis / where is your ID Card
+
+Diesen this
+	Wir möchtest diesen Film sehen
+
+Welchen Film seht Ihr? / what movie are you watching?
+
+Horrorfilm / horror movie
+Erwachsene / adult
+Finden find\
+
+Langweilig - boring
+Stunde - hour
+	Der Band spielt für eine Stunde - the band play for 1 hour
+
+Nach after
+Kurz short
+	Der Film ist Kurz um zehn minuten nach acht
+
+Musst du gehen oder kannst du bleiben / Do you have to go or can you stay
+Freitag holiday
+Hausaufgaben: homework
+	Mein Hausaufgaben sind Kurz, ich muss sie jetzt machen
++ ? **"Sie"** refers back to "Hausaufgaben" and is needed as a pronoun for better fluency and correctness in German.
+
+Getränke - drink
+	Könnt Ihr die Getränke kaufen / can you buy the drinks
+
+Geschlossen / closed
+	Ist die Universität heute Geschlossen ? - is the university closed today ?
+Geschäfte - stores
+
+Vielleicht (adverb) - maybe/perhaps (often come after subject and verb. adverb là trạng từ chỉ trạng thái)  
++ $ Ex: We may visit our grandparent next week - Wie besuchen vielleicht nächste Woche unsere Großeltern.
+	+ The standard word order is often SVO (Subject - Verb - Object):
+		+ ? e.g. "**Wir** (subject) **besuchen** (verb) vielleicht unsere Großeltern."
+	- **Word Order**: In German, adverbs of time (like "nächste Woche") usually come before the object. The **adverb "Vielleicht" typically comes right after the subject e.g. "Wir, Er, Ihr, etc.."**.
+		
+	- **Verb Placement**: In this sentence the verb ("besuchen") must come directly after the subject ("wir") in a main clause
+
+

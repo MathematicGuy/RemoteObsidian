@@ -321,6 +321,7 @@ Beginnt - begin
 	Das Oktoberfest beginnt im Neunzehnten Septemb
 
 Besuchen - visit
+	Sie besucht / she visit
 Willst - do you want to (verb) 
 	Willst du am achtzehn das Oktoberfest besuchen?
 
@@ -706,6 +707,8 @@ Januar / Junarary
 
 Hast du wirklich zehn Brüder? / Do you really have ten brothers?
 
+
+## Talk About Food Likes
 Warum kann meine Katze keine Milch trinken 
 
 Bis wann - until when 
@@ -754,6 +757,7 @@ Gemüse - vegetables
 Obst Fruit
 Enkel grandson
 
+# Form Verbs
 Bekomme / get
 	Bekommen - to receive (accusative) (remember word end with -en always place last )
 Werde - become/will
@@ -761,3 +765,32 @@ Werde - become/will
 + ? Pupils vs Student: pupils specifically refer to young learn under the age of 18, student refer to both university adult learner and young learner 
 
 Weniger / less
+Diesen this
++ ? Ich mag diesen Film nicht, können wir gehen?
+
+
+Ich kann meinen Ausweis nicht finden / I can't find my ID card.
++ ? What is this format
+
+Ausweis / ID Card (thẻ CCCD)
+	I can't find my ID card / ich kann meinen Ausweis nicht finden
+
+Stunden hour
+	Wir viele Stunden, arbeitest du pro woche / How many hours do you work per week
+
+Geschlossen / closed
+Feiertag / holiday
+Die Geschäfte / store
+	Sind die Geschäfte am Feiertag Geschlossen / Are the shops closed on the holiday
+
+Februar / feburary
++ ? Nächsten (time_word):  Nächsten Februer (next use for time)
+
+Vielleicht - maybe/erhaps
+- **Word Order**: In German, adverbs of time (like "nächste Woche") usually come before the object. The adverb "vielleicht" typically comes right after the subject.
+- **Verb Placement**: The verb ("besuchen") must come directly after the subject ("wir") in a main clause
++ $ Ex: We may visit our grandparent next week - Wie besuchen vielleicht nächste Woche unsere Großeltern.give 
+
+Verwandten / relatives 
+	Sie besucht Ihr Verwandten jeden Jahr / she visit her relatives every year
+

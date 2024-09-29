@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "68e2924d25bed3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python OOP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Python OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Python OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "Python OOP.md"
               }
             }
           },
@@ -190,11 +204,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e894f25c16d6dfdd",
+  "active": "68e2924d25bed3fa",
   "lastOpenFiles": [
+    "3 RESOURCES/Programming/Python.md",
+    "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Python OOP.md",
     "LoL.md",
-    "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
     "3 RESOURCES/DataBase/SQL/DataBase.md",
     "3 RESOURCES/DataBase/DB HomeWork/DB_HW7.md",
@@ -202,10 +219,7 @@
     "3 RESOURCES/DataBase/Learn Database/Relational Algebra Operations.md",
     "3 RESOURCES/DataBase/Learn Database/Relational DB Design.md",
     "3 RESOURCES/Web/BackEnd/DataBase Design and E-R Model.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Pasted image 20240924112925.png",
-    "3 RESOURCES/Programming/Python.md",
-    "Spaces/German Vocab Revision.md",
     "Đơn trình bày lý do và mong muốn chuyển lab.md",
     "2 ACTIONS/Personal/Personal.md",
     "Pasted image 20240923184428.png",
