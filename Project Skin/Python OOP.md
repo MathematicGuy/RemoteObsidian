@@ -196,7 +196,7 @@ print('discount rate: ', item2.price) # STILL GET 80% DISCOUNT
 ```
 >discount rate:  200.0
 >discount rate:  200.0
-+ ? Example of modify at instance level  using `self.pay_rate`, pay_rate can be modify outside the class. Using self.pay_rate allow us to modify only the instance not the whole class, this mean item1 and item2 can have a different pay_rate
++ ? E.g. **Modify attribute at instance level**  using `self.pay_rate`, `pay_rate` can be modify outside the class. Using `self.pay_rate` allow us to modify only the instance not the whole class, this mean `item1` and `item2` can have a different `pay_rate`
 ```python
 class Item:
 	...
@@ -225,7 +225,7 @@ for i in Item:
 	print(i.name)
 ```
 
-#repr_vs_str
+#repr_vs_str: like f string
 ![[Pasted image 20240923142039.png]]
 + use `__str__` to display information to user
 + use `__repr__` to debugging, allow dev to modify print output format 
@@ -279,7 +279,7 @@ item1.change_pay_rate(0.7)
 print(Item.pay_rate)  # Output: 0.7
 ```
 
-+ $ `@staticmethod`: is a method that belongs to the class , but it **does not receive any special first augument like** `self` or `cls` (like `@classmethod` ) while still **can be access like a normal function with parameter** 
++ $ `@staticmethod`: is a method that belongs to the class , but it **does not receive any special first augment like** `self` or `cls` (like `@classmethod` ) while still **can be access like a normal function with parameter** 
 + $ The method doesn’t need access to instance or class data.
 	they could be standalone functions, but they are grouped within the class for organizational purporses.
 ```python
@@ -297,9 +297,8 @@ result_add = MathUtility.add_numbers(5, 10)
 result_multiply = MathUtility.multiply_numbers(3, 4)
 
 print(result_add)  # Output: 15
-print(result_multiply)  # Output: 12z
+print(result_multiply)  # Output: 12
 ```
-
 
 ## Inheritant
 **Basic Class Inheritant.** Phone inherit attribute from Item, this allow us to create new instance of class Phone with Item Class attributes like name, price, quantity. 

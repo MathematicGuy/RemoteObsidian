@@ -2565,7 +2565,7 @@ Langweilig - boring
 Stunde - hour
 	Der Band spielt für eine Stunde - the band play for 1 hour
 
-Nach after
+Nach after (not noch: only)
 Kurz short
 	Der Film ist Kurz um zehn minuten nach acht
 
@@ -2580,6 +2580,9 @@ Getränke - drink
 
 Geschlossen / closed
 	Ist die Universität heute Geschlossen ? - is the university closed today ?
+Schließt / close
+
+
 Geschäfte - stores
 
 Vielleicht (adverb) - maybe/perhaps (often come after subject and verb. adverb là trạng từ chỉ trạng thái)  
@@ -2590,4 +2593,10 @@ Vielleicht (adverb) - maybe/perhaps (often come after subject and verb. adverb l
 		
 	- **Verb Placement**: In this sentence the verb ("besuchen") must come directly after the subject ("wir") in a main clause
 
+Wohin / where to
+	Wohin bist du Biergarten ? - where ist your bear garden
+Welchen which
+	Welchen Sitz möchten sie gern?
 
+Tagebuch Diary
+Schreibe write
