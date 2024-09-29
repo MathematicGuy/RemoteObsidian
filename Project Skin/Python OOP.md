@@ -32,11 +32,13 @@ Tommy.speak()
 ```
 >output: My name is Tommy
 
-### Getting Started
-when printing out datatype of any variable, you can see each of them are instances/object of a class. 
-+ **instance: phiên bản/ví dụ**  
-![[Pasted image 20240923103507.png]]
-+ ? instance == object
+# Getting Started
+## What is a Class in Python OOP
++ ?  A Class is like a **template for creating an Object in OOP**. Its **can contain multiple attributes and functions** (called methods). In simple terms, **OOP Class is way to organize and encapsulate both data and functionality together**.      
+
++ **instance: phiên bản/ví dụ** == **object: đối tượng**
+	When printing out datatype of any variable, you can see each of them are instances/object of a class. 
+	![[Pasted image 20240923103507.png]]
 
 Initialize a Class
 ```python
@@ -66,24 +68,34 @@ print(type(item1.quantity))
 
 ### Method (Function inside Class)
 + ? When function created inside a Class, it called Method.
-+ When calling a method outside of the class remember to call the class as well. Because each **subvalue/object of a class can only be access though "."** 
++ $ You **can access Methods through its Class**. Help distinguish methods with identical name from different classes.
 	e.g. **price attribute from item1** class: **item1.price**, **total_price function from item1** class: **item1.total_price()**
-	
 ```python
-class Item:
-    def total_price(self, x, y):
-        return x * y
+class Car:
+    @staticmethod
+    def start():
+        print("Car engine started.")
 
-# "Create Instance"/"Add attributes" to Item class
-item1 = Item() 
-item1.price = 10000 
-item1.quantity = 4
-tot = item1.total_price(item1.price, item1.quantity)
-print(tot)
+class Boat:
+    @staticmethod
+    def start():
+        print("Boat engine started.")
+
+# Creating instances of Car and Boat
+car = Car()
+boat = Boat()
+
+# Calling start method through instances
+car.start()  # Output: Car engine started.
+boat.start()  # Output: Boat engine started.
+
+# Accessing the start method through the class name
+Car.start()  # Output: Car engine started.
+Boat.start()  # Output: Boat engine started.
 ```
 
-## Constructor
-> Method with a unique name that you need to call it in able to use it special features. e.g. `__init__(self)`
+## Constructor: `__init__(self)`
+> A special method used to initialize the attribute of a newly created Object/Instance by pre-define attribute the Object' class attribute.
 
 `__init__(self, attribute_1, attribute_1, etc..)`: define class attribute, making them accessible from both in and out side of the class.
 + ? Keyword **self** represent the class itself. when you calling **self** you calling **Item** class. 
