@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb5d26c83c342d2e",
+        "id": "8d9f20d3b2a26a07",
         "type": "tabs",
         "children": [
           {
-            "id": "01be91ebe6a15837",
+            "id": "e894f25c16d6dfdd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1970a3ca1cacdfee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python OOP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python OOP.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python OOP.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python OOP.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -204,10 +190,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1970a3ca1cacdfee",
+  "active": "e894f25c16d6dfdd",
   "lastOpenFiles": [
-    "LoL.md",
     "Python OOP.md",
+    "LoL.md",
     "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
     "3 RESOURCES/DataBase/SQL/DataBase.md",

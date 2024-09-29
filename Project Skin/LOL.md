@@ -73,7 +73,6 @@ Questions to asked:
 ---
 
 **Jungle Main Focus**:
-+ Gank angle, Survive Angle for AD....
 + **Early Game:** Farm Jungle > Gank/Crab > Finish Jungle > Focus on ganking Dragon Lane by getting blue buff first
 + **Mid Game:** 
 	+ **Gank as much as you can** -> Create an advantage gap by putting presure on 1 lane. Especially dragon. 
@@ -96,3 +95,10 @@ Questions to asked:
 + Tower (if "Elder Dragon" or "Baron" killed.)
 + Elder Dragon
 + Baron
+
+
+**Attention:**
++ **Angle and Lane Position are utterly important** (**like chess**) but being ignore by many. There're angle where ADC can't shoot and nerfed, and angle where they performed best. Each champion have their angle, find that angle and you find the game.
+	
++ Gank angle, Survive Angle for AD....
+
