@@ -359,7 +359,7 @@ oft often
 
 **Exercise**
 + Wirklich really
-	+ das Geld the money
++ das Geld the money
 + would like  mochte
 + order bestellen
 + TV Fernseher
