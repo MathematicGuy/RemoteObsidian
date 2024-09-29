@@ -502,6 +502,43 @@ class Item:
 item = Item("Laptop", 1000)
 ```
 
+
+```python
+from abc import ABC, abstractmethod
+
+class Vehicle(ABC):
+    @abstractmethod
+    def start_engine(self):
+        pass
+
+    @abstractmethod
+    def stop_engine(self):
+        pass
+
+class Car(Vehicle):
+    def start_engine(self):
+        print("Car engine started.")
+
+    def stop_engine(self):
+        print("Car engine stopped.")
+
+class Motorcycle(Vehicle):
+    def start_engine(self):
+        print("Motorcycle engine started.")
+
+    def stop_engine(self):
+        print("Motorcycle engine stopped.")
+
+# vehicle = Vehicle()  # This will raise an error: Can't instantiate abstract class
+
+car = Car()
+motorcycle = Motorcycle()
+
+car.start_engine()         # Output: Car engine started.
+motorcycle.start_engine()  # Output: Motorcycle engine started.
+```
+
+
 ## Polymorphism
 + $ **Polymorphishm** mean "many form" in greek, it refers to **ability of different classes** to be **treated as instances of the same class through a common interface**.
 + ? Example: each animal **sub-class can override the `sound()` method to provide its own implementation** like below
@@ -537,7 +574,7 @@ for animal in zoo:
 	
 -> easy to scale and manage because each class are tidy and unique (don't have duplicate method)
 
- **Advantages of Polymorphism compare to Non-Polymorphism Approach**
+ **Advantages of Polymorphism** compare to **Non-Polymorphism** Approach
 ```python
 class Animal:
     all = []
