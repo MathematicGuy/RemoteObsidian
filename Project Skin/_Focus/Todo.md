@@ -2,18 +2,10 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-#Todo/Priority 
-- [ ] Viết đơn trình bày lý do và mong muốn vì sao muốn chuyển lab
-- [ ] Plan what to exercise for the every morning (Plan Sets)
-	- [ ] [10-mins workout](https://www.youtube.com/watch?v=3sEeVJEXTfY)
-		or
-	- [ ] [10 MINUTE FAT BURNING MORNING ROUTINE](https://www.youtube.com/watch?v=7KSNmziMqog)
-		and
-	- [ ] 10-15 Psudo Plance Pushup + 40-60 Partial Pushups to concrete that muscle.   
-- [ ] Write Document for C2_W2_Assignment
+![[Pasted image 20240929225308.png]]
+#Todo/Priority  
 - [ ] Analyze what affect my day and habit to improve to optimize my performance
-
-- [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club)
+- [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club) - can use ChatGPT
 
 
 #Todo/[[GoalsThisWeek]]
@@ -26,7 +18,7 @@ banner: Images/Pasted image 20240402135259.png
 #MyRuleThat_I_SwearToLiveBy
 - [ ] No LoL after 16:00 (4PM)
 - [ ] Exercise right after waking up 
-- [ ] Rest at least 25' before class  
+- [ ] To be the person that I am. I must let the person that I not die.
 
 
 **My Learning**
