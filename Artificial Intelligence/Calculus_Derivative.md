@@ -24,14 +24,19 @@ We would like to train the Model to tweak the classifier line to this position.
 	![[Pasted image 20240710081706.png]]
 	So the speed is more accurate this time. When we make the interval of time (t) and 
 	distance (x) closer to eachother. 
+	+ $\Delta x$**: range between x1 and x2.** The closer 2 point are the smaller $\Delta x$ become.
+	+ $\Delta t$ **: range between t1 and t2.** The closer 2 point are the smaller $\Delta t$ become. (The same as y, but it name is "t")
+	-> Thus derivative is when $\Delta$ value reaching 0. e.g. $\Delta x \to 0$
 	![[Pasted image 20240710082554.png]]
-	And if we put the interval to be super close to each others. You get the limit which is dx over dt and that is precisely the tangent line to the curve at t equals 12.5
-	![[Pasted image 20240710082148.png]]
+	And if we put the interval to be super close to each others. You get the limit which is dx over dt and that is **precisely the tangent line to the curve at t equals 12.5
+	![[Pasted image 20240930020758.png]]**
 	+ $ **Instantaneous rate of change is a measure of how fast the relation between two variables is changing at any point**. In other words, **imagine you move a tiny distance, dx in a tiny interval of time dt**. This is the instantaneous rate of change. -> It's also called **Derivative.**
 
 > Like anything else, v = 0, if no distance changes in time.
 ![[Pasted image 20240710084453.png]]
-![[Pasted image 20240710084453.png]]~~~~
+![[Pasted image 20240710084453.png]]
+
+
 ## Derivatives and their notation
 2 ways to express derivative: **Leibniz's notation** and **Lagrange's notation.**
 ![[Pasted image 20240710085121.png]]]]
@@ -41,6 +46,7 @@ We would like to train the Model to tweak the classifier line to this position.
 ### Lines
 ![[Pasted image 20240710085528.png]]
 
+### Development of Derivative Function
 + ? [[Slope]] is the changes of rise over run. Using Pythagorean, we conclude that $\frac{\nabla y}{\nabla x} = a$ 
 ![[Pasted image 20240710093127.png]]
 So when 2 points are so close to each other it like they're in 1 position. We can say that f(x)' = a. Let's proven it more clearly

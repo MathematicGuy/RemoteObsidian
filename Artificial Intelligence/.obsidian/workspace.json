@@ -22,7 +22,19 @@
             }
           },
           {
-            "id": "7abd748a31dd269a",
+            "id": "2384d3725b2ee3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient and Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "000a47e076b9655d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,25 +198,30 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "7abd748a31dd269a",
+  "active": "000a47e076b9655d",
   "lastOpenFiles": [
+    "Pasted image 20240930171129.png",
+    "Pasted image 20240930171122.png",
+    "Pasted image 20240930171055.png",
+    "Pasted image 20240930170622.png",
+    "Pasted image 20240930170540.png",
+    "Pasted image 20240930170521.png",
+    "Pasted image 20240930165805.png",
     "Lesson 1 - Optimization in Neural Network.md",
-    "2 ACTIONS/_Focus.md",
+    "Pasted image 20240930164225.png",
+    "Pasted image 20240930164241.png",
+    "Pasted image 20240930163948.png",
+    "Pasted image 20240930163936.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
-    "Calculus_Optimization.md",
-    "Pasted image 20240927113657.png",
-    "Pasted image 20240927113542.png",
-    "Pasted image 20240927113434.png",
-    "Pasted image 20240927113039.png",
-    "Pasted image 20240927112155.png",
-    "Pasted image 20240927112132.png",
-    "Pasted image 20240927101754.png",
-    "Pasted image 20240927101436.png",
-    "Pasted image 20240927100240.png",
-    "Pasted image 20240927092622.png",
-    "Division by 2 is taken just for scaling purposes.md",
     "Gradient and Gradient Descent.md",
+    "Gradient Descent Example.md",
+    "Calculus_Optimization.md",
+    "Calculus_Derivative.md",
+    "Least Squares Method.md",
+    "Linear Regression.md",
+    "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
+    "Division by 2 is taken just for scaling purposes.md",
     "Linear Regression Using Gradient Descent Exercise.md",
     "Feature Scaling.md",
     "standard deviation.md",
@@ -212,7 +229,6 @@
     "Numpy Vector Array.md",
     "Numpy.md",
     "Vector Manipulation.md",
-    "Least Squares Method.md",
     "Python.md",
     "Python OOP (Object Oriented Programming).md",
     "PCB Anomaly Detection Note & Resources.md",
@@ -220,10 +236,6 @@
     "PCB Anomaly Detection RoadMap.md",
     "Anomaly Detection in Machine Learning.md",
     "PCB Anomally Detection.md",
-    "Calculus_Derivative.md",
-    "Machine Learning Mathematics.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Gaussian Elimination from Scratch Documentation 1.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

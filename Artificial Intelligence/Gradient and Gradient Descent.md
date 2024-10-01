@@ -48,6 +48,7 @@ To Calculate the the function minimum, we **calc the Derivative of 2 variables a
 ### Optimization using Gradients - Analytical Method (Important)
 > Back to power line example, the cost is the area of the square starting from the points to the line.
 	![[Pasted image 20240805154215.png]]
+> the line can have an equation such as y equals mx plus b, where m is the slope and b is the y intercept
 
 + Before calc the total cost, we need to calc the cost from 1 point like a to b first, with x = 1, we have y=m+b. So the cost from a to b is $(m+b - 2)^2$ for blue. for orange is $(2m + b - 5)^2$, for green is $(3x + b - 3)^2$.
 	![[Pasted image 20240920164817.png]] 
@@ -58,7 +59,6 @@ To Calculate the the function minimum, we **calc the Derivative of 2 variables a
 + ? find the partial derivative of E with respect to m (only dervi m; b constant)
 + ? find the partial derivative of E with respect to b (only dervi b; m constant)![[Pasted image 20240805155408.png]]
 Now we set both equal to 0. 
-
 
 **Goal: Minimize sum of squares cost.**
 multiply by 2.
@@ -77,25 +77,46 @@ plug the answer back to the 2nd equation -> get b
 ![[Pasted image 20240809053708.png]]
 + ? Is there any other way ???
 
-Gradient Descent allow you to find the minimum point by allow the function to jump big step when the Slope is Large, and small step when the Slope is small.
-![[Pasted image 20240809054927.png]]
-![[Pasted image 20240809054947.png]]
+Method 1: at the current position, goes both way up and down to see which better. But this is very computationaly expensive.
+![[Pasted image 20240930104513.png]]
 
+Method 2: 
++ We know that the steeper the slope, the closer we're to the minimum point.
+	+ But First, how can we move? Well, the **slope is negative if it closer to the right and positive if it closer to the left.** Therefor by subtracting the slope, we can move in it opposite direction. i.e. **when the slope at x is negative, x increase and move to the left, when slope is positive, x decrease and move to the right.** (x move by a portion of the slope)
+	By moving in the opposite direction, we can always move downhill towards the minimum point. 
+		![[Pasted image 20240930104249.png]]
+	
++ If the function in a very steep part of the curve. The derivative will be large (i.e large right over run) so we would want to control how big a steep we take in that direction. To do that we simply multiply the function with $\alpha$ (as learning_rate). 
+	![[Pasted image 20240809054927.png]]
+	
++ With $\alpha$, at steep slope, x can move modarate step without overshooting and move slower by default when approach the minimum (i.e. bc less rise over run).  Avoiding oscillations around it (giao động khiến phương trình khó hội tụ e.g. x văng trái, văn phải liên tục chứ ko tiến tới hội tụ)
+	
+	![[Pasted image 20240809054947.png]]
+
+
+[[Gradient Descent Example]]
 ![[Pasted image 20240809054718.png]]
 ![[Pasted image 20240809054047.png]]
-> $\alpha$ must be small enough to find the minimum point. 
+> $\alpha$ must be small enough and just right to find the minimum point. 
 ```ad-summary
 x is the Initial Starting Point inside the f(x) range
 f'(x) is the Derivative Line Slope of the function
 For every Iteration: we will decrease from x to find the minimum point
 	$x_{k}= x_{k-1} - a.f'(x_k -1)$  
 ```
++ ? Ex: If f(x) = 3 and $f(x)*\alpha < 0$ then $x_{k} = x_{k-1} + \alpha f(x)'$, thus helping the function get back to it minimum point.
+	Imagin this like a pendulum, $f'(x)$ is the force (negative if swing to the left and positive to the right) $x_{k}$ is the current position. You can update the new position by substracting to $f(x)'$. Thus if the new, 
 
 
 ## Optimization using Gradient Descent in one variable - Part 3
 
 + ? What is a good learning rate
 	Unfortunately, there is no rule to give the best learning rate $\alpha$
+
+![[Pasted image 20240930104332.png]]
++ Too large can cause over shooting -> never converge
++ Too small -> too slow -> forever to converge
+What we want is to find a just right learning rate.
 
 ![[Pasted image 20240809055753.png]]
 + ? If we run Gradient Descent for 1 Slope, it may only be the local minima. To solve this, take multiple starting point for gradient descent.
@@ -109,11 +130,13 @@ def gradient_descent(dfdx, x, learning_rate = 0.1, num_iterations = 100):
         x = x - learning_rate * dfdx(x)
     return x
 ```
+
+
 **Testing Gradient Descent on diff learning rate and X Initial Point**
-+ ? Firstly, there're thing to consider. $e^x$ larger when | x | > 1 and 1/x larger when | x | < 1 as you can see in the plot below. So the function will start at a stepper slope when x getting closer to 0, I wonder if the point will go down the slope like a car.
-![[Pasted image 20240809065156.png]]
++ ? Firstly, something to consider. $e^x$ larger when | x | > 1 and 1/x larger when | x | < 1 as you can see in the plot below. So the function will start at a stepper slope when x getting closer to 0, I wonder if the point will go down the slope like a car.
+	![[Pasted image 20240809065156.png]]
 **Let see how x affect finding the global minimum point:**
->Use 'Converged' when the Gradient Descent fin the minimum point succesfully.
+>The word 'Converged' tell Gradient Descent reach the minimum point succesfully.
 + $ num_iterations = 25; learning_rate = 0.1; x_initial = 1.6
 + ? Perfect. Got minimum point sucessfully at iteration 21![[Pasted image 20240809072021.png]]
 
@@ -138,14 +161,13 @@ def gradient_descent(dfdx, x, learning_rate = 0.1, num_iterations = 100):
 + ? The 1st Step is too big, the model is far from home and fail to converge. ![[Pasted image 20240809071450.png]]
 + ? However, If I increase the Number of Iteration and Decrease the Learning Rate I still manage to Converged: **num_iterations = 400; learning_rate = 0.01**. 
 
-
 + ? note: x_initial is the starting point, Model mean Gradient Descent model. 
 ```ad-summary
-+ Should start from the least Stepe Slope. Finding the optimal values for Gradient Descent are much easier.  
++ Should start from the least Steep Slope. Finding the optimal values for Gradient Descent are much easier.  
 + Starting at a Stepper Sloppe can cause the Model become unstable and harder to find the right value to reach the Minimum Point. 
 + The Stepper the Slope. The smaller the Learning Rate. The slower your model can learn.
 + Learning Rate and Iteration need to be just right for the Model to Converged. Think it like a Car Speed and Gas, you can't goes far if your Gas is low and you can't park if you run 100 km/h.
-+ X like Your life Starting point. The Stepper it get, the harder life swing and goes. 
++ X like your life Starting point. The Stepper it get, the harder it  swing and goes. 
 ```
 
 ### Function with Multiple Minima
@@ -180,7 +202,7 @@ Ideas for Gradient Descent
 + ? Note: Gradicent Descent -> have to use partial Derivative for each Variable Ex: x, y, z, etc..
 $(x_{0}, y_{0}) = (0.5, 0.6)$
 ![[Pasted image 20240915141116.png]]
-Learing Rate = 0.05, So we keep substract the current position (x, y) by $$-0.05 \nabla f(0.5, 0.6)$$ until we reach the minimum point.
+Learing Rate = 0.05, So we keep substract the current position (x, y) by $$f(0.5, 0.6) - 0.05 \nabla f(0.5, 0.6)$$ until we reach the minimum point.
 ![[Pasted image 20240915141351.png]]
 
 ```ad-summary
@@ -211,19 +233,26 @@ Choose a starting point -> choose a direction to move -> choose a learning rate 
 	![[Pasted image 20240915150234.png]]
 
 
-### Optimization using Gradient Descent - Least squares with multiple observations
+### Optimization using Gradient Descent - Least squares with multiple observations (x and y can be a array of value/matrix/vector)
 >Plot the square area of each point reaching the line
 >![[Pasted image 20240915220817.png]]
+
+Using Linear Regression to calculating Loss
+Using Gradient Descent to re-adjust function line which minimize the Loss.
+Can move the line by adjusting m (slope) and b (y-intercept) -> Find m and b such that the Loss function is minimize. 
 ![[Pasted image 20240915220712.png]]
 > **As you using gradient descent** you can **change m and b** so that the line will match with the **minimal distant from each points.** or to minimize the loss (value when subtracting real value with expected value)
 
+
 From the idea above (minimal distant), we could combine Gradient Descent into Linear Regression problem to predict the closest value in the future: 
-+ ? TV sales for example:
++ ? TV sales for example: 
 	![[Pasted image 20240915221111.png]]
 
 ![[Pasted image 20240915222243.png]]
 > We got the line with x as x1 and y as mx1 + b. We then find the Loss by subtracting the current value (x1, mx1 + b) to the point we want to get to (x1, y1) which result in $(mx_1 + b - y_1)$ (x is eliminate obviously). For every other point, we do the same thing, and through each iteration we get a better line (y1, y2, y3, y4, etc..)
 
+![[Pasted image 20240930140825.png]]
+when you square it, you get the Loss of at that point.
 
 > note: $L(m, b)$ as the linear regression line.
 + ? when we take the derivative, 2 in the exponent cancels with this one. 
