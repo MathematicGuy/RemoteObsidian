@@ -18,3 +18,7 @@ Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 # Week 3: Optimization in Neural Network and Newton's Method
 
 ### [[Lesson 1 - Optimization in Neural Network]]
+### [[Lesson 2 - Newton's Method]]
++ [[Optimization in Neural Networks and Newton's Method]]
+
+[[Optimization in Neural Network and Newton's Method Final Test]]

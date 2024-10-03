@@ -1,0 +1,1 @@
+- [x] Testing Study Method: watch the video fully in 1 turn. understand it, re-explain it then finally note. (Not Noting while trying to understand the problem. Allow my brain to process 1 thing at a time)   

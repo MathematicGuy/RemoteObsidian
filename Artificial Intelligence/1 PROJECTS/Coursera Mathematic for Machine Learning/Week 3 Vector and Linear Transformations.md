@@ -121,7 +121,7 @@ Ex: 3.3 + 1.1 + 4.-2 = 2
 
 
 #### Identity Matrix (ma trận đơn)
-> The identity matrix is the matrix that when multiplied by any other matrix it gives the same matrix
+> The **identity matrix** is the matrix that when **multiplied by any other matrix it gives the same matrix**
 	![[Pasted image 20240313093349.png]]
 
 #### Matrix Inverse 
@@ -136,7 +136,8 @@ Calculate in traditional method or use Det
 Can calculate det (tính định thức) -> No Inverse exist 
 	![[Pasted image 20240313100304.png]]
 	![[Pasted image 20240313100317.png]]
-	Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line & cannot be an inverse matrix (Matrix require at least 2 lines to formed)  
+	Remember Singular Matrix is a matrix with the rank of 1 therefor it just 1 line & cannot be an inverse matrix (Matrix require at least 2 lines to formed)  i.e. 2 solution equation.
+
 
 ### Neural networks and matrices
 **Spam Filter**
@@ -171,7 +172,7 @@ Matrix multiplycation on the first row:
 ![[Pasted image 20240313130652.png]]
 Because if you consider this as a small dataset, then you can model it with a neural network. In fact the exact same one you used for the spam detector. 
 
-	Visualize
+Visualize
 ![[Pasted image 20240411064822.png]]
 
 ![[Pasted image 20240313131005.png]]

@@ -3,8 +3,5 @@ How to note when study Math: https://www.instagram.com/reel/C-pq02QiIMG/?utm_sou
 +  [Computational Linear Algebra - YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 ## [[Calculus for Machine Learning]]
 
-## Matrix manipulation
 
-## Neural Network
-
-## Probability and Statistics
+## [[Statistic and Probability for Machine Learning]]

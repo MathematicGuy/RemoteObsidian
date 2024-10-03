@@ -73,15 +73,16 @@ plug the answer back to the 2nd equation -> get b
 [[Partial Derivative and Gradient HW]]
 
 ## Optimization using Gradient Descent in 1 Variable
-### Hard to Optimize Functions
-![[Pasted image 20240809053708.png]]
-+ ? Is there any other way ???
+> Linear Regression method can get really complicated for higher dimensions. In this lesson, we going to learned a method that is iterative and powerful for minimzing and maximizing functions. 
 
-Method 1: at the current position, goes both way up and down to see which better. But this is very computationaly expensive.
+### Hard to Optimize Functions
+Knowing the answer x=0.5671, is there a much easier way to approach this problem: 
+![[Pasted image 20240809053708.png]]
+
++ $ Method 1: at the current position, goes both way up and down to see which better. But this is very computationaly expensive.
 ![[Pasted image 20240930104513.png]]
 
-Method 2: 
-+ We know that the steeper the slope, the closer we're to the minimum point.
++ $ $Method 2:  We know that the steeper the slope, the closer we're to the minimum point.
 	+ But First, how can we move? Well, the **slope is negative if it closer to the right and positive if it closer to the left.** Therefor by subtracting the slope, we can move in it opposite direction. i.e. **when the slope at x is negative, x increase and move to the left, when slope is positive, x decrease and move to the right.** (x move by a portion of the slope)
 	By moving in the opposite direction, we can always move downhill towards the minimum point. 
 		![[Pasted image 20240930104249.png]]

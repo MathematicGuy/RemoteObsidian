@@ -903,7 +903,7 @@ Anna frühstückt nicht gern mit Max. Max fotografiert immer das Essen.
 (Anna doesn't like having eating breakfast with Max. Max always take photos of the food)
 
 Am on
-Wochenende weekend
+das Wochenende the weekend (neuter nouc)
 	Sie joggen immer am wochenede - She always jog on the weekend
 
 Aber ich spiele nicht so gern - I not like playing that much
@@ -2102,6 +2102,7 @@ Sonntags - sundays
 	Freundinnen - girl friends (many friend that is girl. Not girlfriend)
 
 Hähnchen - chicken
+
 Reis - rice
 	Mein Vater kocht Hähnchen mit Reis. Er Essen ist immer sehr lecker 
 
@@ -2600,3 +2601,6 @@ Welchen which
 
 Tagebuch Diary
 Schreibe write
+
+jedes - jede goes with neuter noun
+	jedes wochenende / every weekend

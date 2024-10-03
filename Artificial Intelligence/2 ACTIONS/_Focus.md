@@ -1,11 +1,10 @@
  
-#Goals
-- [ ] Explain Deverative (Proof of Derivative)
-- [ ] Explain Gradient Descent
-- [ ] Explain both of them and how they're related
-- [ ] Explain Linear Regression in Detail
-- [ ] Explain how to apply Linear Regresison to Gradient Descent
-- [ ] Explain multiple Regression with Gradient Descent
+#[[Goals]]
+- [ ] [[How my _thinking_ work]]
+note: recheck this part
+	![[Pasted image 20241003101059.png]]
+- [[Aha]]
+
 
 #System
 **Study Pipeline**
@@ -27,4 +26,6 @@ Satanophany
 **Type of thinker:** https://www.facebook.com/share/v/ugMCx8db4voZLUeW/
 **Income Comparison:** https://www.facebook.com/share/v/9s4BfrjrdE6XqYxW/
 
+
+]
 

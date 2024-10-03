@@ -8,45 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11a42968674b3f99",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2384d3725b2ee3da",
+            "id": "fd3f2eb38882e251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "000a47e076b9655d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
+                "file": "Statistic and Probability for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
+                "file": "Statistic and Probability for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
+                "file": "Statistic and Probability for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md"
+                "file": "Statistic and Probability for Machine Learning.md"
               }
             }
           },
@@ -198,44 +171,44 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "000a47e076b9655d",
+  "active": "fd3f2eb38882e251",
   "lastOpenFiles": [
-    "Pasted image 20240930171129.png",
-    "Pasted image 20240930171122.png",
-    "Pasted image 20240930171055.png",
-    "Pasted image 20240930170622.png",
-    "Pasted image 20240930170540.png",
-    "Pasted image 20240930170521.png",
-    "Pasted image 20240930165805.png",
-    "Lesson 1 - Optimization in Neural Network.md",
-    "Pasted image 20240930164225.png",
-    "Pasted image 20240930164241.png",
-    "Pasted image 20240930163948.png",
-    "Pasted image 20240930163936.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+    "Statistic and Probability for Machine Learning.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Gradient and Gradient Descent.md",
-    "Gradient Descent Example.md",
-    "Calculus_Optimization.md",
-    "Calculus_Derivative.md",
-    "Least Squares Method.md",
-    "Linear Regression.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
+    "Internship Revision 1.md",
+    "Internship Schedule.md",
+    "Optimization in Neural Network and Newton's Method Final Test.md",
+    "The Argument of a Complex Number.md",
+    "Untitled 3.png",
+    "Untitled 4.png",
+    "argand-diagram.png",
+    "Deep Learning.md",
+    "Derivative Fomula.md",
+    "Pasted image 20241003155519.png",
+    "Pasted image 20241003155344.png",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "Week 1 Matrix System.md",
+    "resource.md",
+    "Aha.md",
+    "How my _thinking_ work.md",
+    "Lesson 1 - Optimization in Neural Network.md",
     "2 ACTIONS/_Focus.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
-    "Division by 2 is taken just for scaling purposes.md",
-    "Linear Regression Using Gradient Descent Exercise.md",
-    "Feature Scaling.md",
-    "standard deviation.md",
-    "Latex .md",
-    "Numpy Vector Array.md",
-    "Numpy.md",
-    "Vector Manipulation.md",
-    "Python.md",
-    "Python OOP (Object Oriented Programming).md",
-    "PCB Anomaly Detection Note & Resources.md",
-    "PCB defects detection using YOLOv5.md",
-    "PCB Anomaly Detection RoadMap.md",
-    "Anomaly Detection in Machine Learning.md",
-    "PCB Anomally Detection.md",
+    "Goals.md",
+    "Pasted image 20241003101310.png",
+    "Pasted image 20241003101059.png",
+    "Log Loss Function in NN Model for Multiple Traning Example.md",
+    "i.md",
+    "Gradient and Gradient Descent.md",
+    "Calculus_Derivative.md",
+    "Lesson 2 - Newton's Method.md",
+    "Pasted image 20241002162221.png",
+    "Pasted image 20241002160706.png",
+    "Pasted image 20241002154045.png",
+    "Optimization in Neural Networks and Newton's Method.md",
+    "1st Derivative vs 2nd Derivative.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

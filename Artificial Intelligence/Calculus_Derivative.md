@@ -178,7 +178,7 @@ replace 1/n with k
 ![[Pasted image 20240713161443.png]]
 Let to the same for Derivative function
 ![[Pasted image 20240713161606.png]]
-But before that, ket simplified it ($2^{x + h} = 2^{x}+ 2^h$)
+But before that, let simplified it ($2^{x + h} = 2^{x}+ 2^h$)
 ![[Pasted image 20240713161640.png]]
 Now we can calculate the right most function as h goes closer to 0 we reach a limit of 0.6931...
 ![[Pasted image 20240713161728.png]]
@@ -189,7 +189,7 @@ But we have to calc k from scratch for every new n. can we find a way to calc k 
 ![[Pasted image 20240713162110.png]]
 
 **Basic Concept**
-+ ? note: e với số mũ nhỏ -> 0 sẽ tiến tới 1 giới hạn và e gần như không thể nhỏ hơn nữa. (min là 2.718281828)
++ ? note: e với số mũ 1/x -> 0 sẽ tiến tới 1 giới hạn và e gần như không thể nhỏ hơn nữa. (min là 2.718281828)
 + ? Còn e^n với n > 0 sẽ tăng như 1 số bth (ex: e^2 = 7.38) 
 Logarithm: If $e^{y}= x$, then $y=\log(x)$
 	This means $\log(x)$ answers the question: "To what power must e be raised to get x?"
@@ -242,17 +242,28 @@ Let look at the house from the top
 ![[Pasted image 20240717100151.png]]
 + ? As $\Delta t$ come closer to 0. $\Delta g(t), \Delta h(t)$ become neligible (so small that it doesn't even matter). Well because it is the derivative (g' as the y' and h' as the x'). Thus we can simplified it into $$f'(t) = g'(t).h(t) + g(t).h'(t)$$
 
-### The chain rule (Like product rule but it like Product of a Product)
-$$\frac{d}{dt}g(h(t)) = \frac{dg}{dh} . \frac{dh}{dt}$$ 
+### The chain rule (Product of a Product)
+Suppose you have a composite function f(g(x))f(g(x))f(g(x)), where:
+
+- $g(x)$ is an "inner function"
+- $f(u)$, where $u=g(x)$, is an "outer function"
+The **chain rule** states that the derivative of the composite function $g(f(t))$ with respect to t is
+$$\frac{d}{dt}g(h(t)) = \frac{dg}{dh} . \frac{dh}{dt}$$
+
 It call the chain rule bc you can composing function (hàm hợp) (put a function inside a function)
 ![[Pasted image 20240717101147.png]]
 + ? The Lagrange Notation
 ![[Pasted image 20240717101230.png]]
 ![[Pasted image 20240717101306.png]]
 
-**Example:**
-(Mqh giữu sự biến thiên của 2 tính năng/đặc điểm)
+**Intuition behind chain rule:**
+(Mqh giữa sự biến thiên của 2 tính năng/đặc điểm)
+To understand this intuitively, think of the output of $g(h(t))$ changing as t change:
+1. When **x change by a small amount**, the inner function **h(t)** change by a certain rate $h(t)'$.
+2. The change in **h(t)** also affect the composite function $g(h(t))$ , depending on how sentitive $f$ is to changes in its input $f'(g(h(t)))$
 ![[Pasted image 20240717101430.png]]
+In other word, you want to know how much $g(f(x))$ change in response to small change in $x$. And to do that you need to consider how $f$ change with respect of $x$, how $g$ change with respect of $f$.
+
 The Derivative of the Temperature with Time is the Product of Tempreture with Height and Time with Height. 
 ![[Pasted image 20240717101648.png]]
 As $Delta T \to 0$

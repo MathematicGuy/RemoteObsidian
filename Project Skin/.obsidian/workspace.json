@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd114a4672235bed",
+        "id": "90f5588f96453686",
         "type": "tabs",
         "children": [
           {
-            "id": "aa085f0393e3b3c8",
+            "id": "938592350ea292bf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "5beb127ab4b116c6",
+            "id": "7957cb4b2cccd904",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "876a379758fb30e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -195,13 +204,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5beb127ab4b116c6",
+  "active": "7957cb4b2cccd904",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Pasted image 20240929225308.png",
     "Python OOP.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/Vocabulary.md",
     "3 RESOURCES/Programming/Python.md",
     "LoL.md",
