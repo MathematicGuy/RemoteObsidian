@@ -4,9 +4,8 @@ banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
 #Todo/Priority  
-- [ ] Analyze what affect my day and habit to improve to optimize my performance
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club) - can use ChatGPT
-
+- [ ] Wake up early tomorrow, buy food and exchange for cash for gas
 
 #Todo/[[GoalsThisWeek]]
 \

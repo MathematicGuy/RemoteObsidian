@@ -6,7 +6,7 @@
   "monospaceFontFamily": "",
   "textFontFamily": "Inter",
   "interfaceFontFamily": "Raleway",
-  "baseFontSize": 11,
+  "baseFontSize": 17,
   "nativeMenus": true,
   "baseFontSizeAction": true,
   "showViewHeader": false

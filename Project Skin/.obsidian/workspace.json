@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90f5588f96453686",
+        "id": "f4a3231305818f92",
         "type": "tabs",
         "children": [
           {
-            "id": "938592350ea292bf",
+            "id": "7f43967104ada9a9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7957cb4b2cccd904",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -180,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           }
         ],
@@ -204,10 +201,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7957cb4b2cccd904",
+  "active": "7f43967104ada9a9",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "_Focus/Todo.md",
+    "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",
     "Python OOP.md",
     "Spaces/German Vocab Revision.md",

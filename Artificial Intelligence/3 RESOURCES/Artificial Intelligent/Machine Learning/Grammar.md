@@ -10,4 +10,7 @@
 + decomposition: phân hủy (seperate a thing into smaller part that represent itself e.g. 12 = 2x2x3)
 + corresponding: tương ứng
 + mutually orthonormal: trực giao lẫn nhau (2 đt vuông góc lẫn nhau)
-+ 
++ plausibility: khả thi (có thể xảy ra) 
++ disentangle: sự tách rời, gỡ rối 
++ latent: tiềm ẩn
+
