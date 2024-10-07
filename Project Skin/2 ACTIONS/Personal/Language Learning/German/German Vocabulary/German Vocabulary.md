@@ -2127,7 +2127,7 @@ Allein / alone
 
 Mehrfamilienhaus apartment building (refer to family house / house that we live together)
 	Mehr More
-	Familien family
+	Die Familien = the family
 	Haus House
 	-> Mehrfamilienhaus / Apartment building
 
@@ -2583,7 +2583,6 @@ Geschlossen / closed
 	Ist die Universität heute Geschlossen ? - is the university closed today ?
 Schließt / close
 
-
 Geschäfte - stores
 
 Vielleicht (adverb) - maybe/perhaps (often come after subject and verb. adverb là trạng từ chỉ trạng thái)  
@@ -2604,3 +2603,7 @@ Schreibe write
 
 jedes - jede goes with neuter noun
 	jedes wochenende / every weekend
+
+#in_vs_im
+Zoll customs (german customs)
+Visum visa

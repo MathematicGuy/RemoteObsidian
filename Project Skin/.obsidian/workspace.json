@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "544aac81c7a86bad",
+        "id": "b0c7455fc6a6c076",
         "type": "tabs",
         "children": [
           {
-            "id": "15b3803a73d09d69",
+            "id": "dc725857bea03fff",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,14 +201,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "15b3803a73d09d69",
+  "active": "dc725857bea03fff",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",
     "Python OOP.md",
-    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/Vocabulary.md",
     "3 RESOURCES/Programming/Python.md",
     "LoL.md",
