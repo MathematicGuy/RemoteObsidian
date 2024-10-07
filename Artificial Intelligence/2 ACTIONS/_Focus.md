@@ -9,7 +9,7 @@ note: recheck this part
 #System
 **Study Pipeline**
 + Resource Research -> Turtorial -> Commenting -> Documenting -> Pratice Coding using my Document.  
-+ (Know what to learn/Best to learn) -> (Know what I learn) -> Remember what I learn -> Understand what I learn -> Apply What I Learn.  
++ (Know what to learn/Bes t to learn) -> (Know what I learn) -> Remember what I learn -> Understand what I learn -> Apply What I Learn.  
 
 ## [[Machine Learning]]
 
