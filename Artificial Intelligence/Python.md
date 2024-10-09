@@ -53,3 +53,19 @@ Other can inspect your function notation (by overing over the function)
 Function without notation will look like this
 ![[Pasted image 20240601230235.png]]
 
+`map(function, iterable)`: **appiles function** to **every item of iterable**
+```python
+def plus(num):
+    if num % 2 == 1: # not divided by 2
+        return num 
+    else:
+        return 'Nah'
+    
+x = [1, 2, 3, 4, 4]
+y = list(map(plus, x)) # output: [1, 3]
+print(y)
+```
+the same as
+```python
+y = [y = [plus(i) for i in x]  # output: [1, 3]]
+```

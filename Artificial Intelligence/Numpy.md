@@ -20,7 +20,6 @@ Why -> numpy is Fixed type
 1. **np.mean(a, axis=0)**:
 - Computes the mean along the columns.
 - This means it calculates the average of each column, resulting in an array where each element is the mean of the corresponding column.
-
 **Example**:
 ```python
 import numpy as np
@@ -49,17 +48,38 @@ print(mean_columns)  # Output: [4. 5. 6.]
 mean_rows = np.mean(a, axis=1)
 print(mean_rows)  # Output: [2. 5. 8.]
 ```
-In this example, the mean of each row is calculated:
 
-- First row mean: (1 + 2 + 3) / 3 = 2
-- Second row mean: (4 + 5 + 6) / 3 = 5
-- Third row mean: (7 + 8 + 9) / 3 = 8
 
-### Visual Summary
-- `axis=0`: Mean of columns
-$$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} \xrightarrow{\text{axis=0}} [4.0, 5.0, 6.0]$$
-- `axis=1`: Mean of columns
-$$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} \xrightarrow{\text{axis=0}} [2.0, 5.0, 8.0]$$
+#### Reshape matrix or array
 
----
+[reshape](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html)
+> Disadvantage: you have to point out the shape of the image ti reshape it
+```python
+import numpy as np
+
+# Assume you have a 2D image array of shape (height, width)
+image = np.random.rand(28, 28)  # Example: a 28x28 grayscale image
+
+# Reshape it to (height, width, 1)
+image_reshaped = image.reshape(28, 28, 1)
+
+print(image_reshaped.shape)  # Output: (28, 28, 1)
+```
+
+[expand_dims](https://numpy.org/doc/2.0/reference/generated/numpy.expand_dims.html)
+> Easy to expand dimension of a image without directly pointing out its shape. 
+```python
+import numpy as np
+
+# Assume you have a 2D image array of shape (height, width)
+image = np.random.rand(28, 28)  # Example: a 28x28 grayscale image
+
+# Add an extra dimension at the right-most side
+image_reshaped = np.expand_dims(image, axis=-1)
+
+print(image_reshaped.shape)  # Output: (28, 28, 1)
+```
+
+##### Normalization
+> Divide all value to the normalization value.
 

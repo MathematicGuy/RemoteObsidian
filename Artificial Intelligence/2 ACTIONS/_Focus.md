@@ -1,9 +1,15 @@
  
 #[[Goals]]
-- [ ] [[How my _thinking_ work]]
-note: recheck this part
+
+#main
+- [ ] [[how_my_thinking_work]]
+- [ ] [Basic of Deep Learning (Conputer Vision)](https://nttuan8.com/bai-1-linear-regression-va-gradient-descent/#Python_code) (Chap 1:  LR $\rightarrow$ Chap 6: CNN)
+	this can explain how the fomula below work
 	![[Pasted image 20241003101059.png]]
 - [[Aha]]
++ [[weekly report]]
+	+ [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
+
 
 
 #System
@@ -16,8 +22,6 @@ note: recheck this part
 ## [[Machine Learning]]
 
 ## [[Mathematics for Machine Learning - MML]]
-
-## [[SIC - Artificial Intelligent]]
 
 
 ![[Pasted image 20240611193343.png]]

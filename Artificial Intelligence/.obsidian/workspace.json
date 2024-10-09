@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a922beb21583777f",
+        "id": "1188637797945d38",
         "type": "tabs",
         "children": [
           {
-            "id": "d35f3e325097f19a",
+            "id": "423ab322e47b41f6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "bd05b9ce8d831c9d",
+            "id": "5130ee4901fe1757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "TensorFlow Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "TensorFlow Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "TensorFlow Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolutional Neural Network.md"
+                "file": "TensorFlow Code.md"
               }
             }
           },
@@ -185,44 +185,44 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bd05b9ce8d831c9d",
+  "active": "5130ee4901fe1757",
   "lastOpenFiles": [
-    "Pasted image 20241007170226.png",
-    "2 ACTIONS/_Focus.md",
-    "Convolutional Neural Network.md",
-    "Courses Pipeline.md",
-    "Pasted image 20241007160328.png",
-    "Pasted image 20241007154716.png",
-    "Pasted image 20241007154404.png",
-    "Pasted image 20241007154310.png",
-    "1 PROJECTS/TensorFlow.md",
-    "Introduction to Computer Vision.md",
-    "Practice using FashionMNIST.md",
-    "Pasted image 20241007112512.png",
-    "Pasted image 20241007111758.png",
     "Introduction to TensorFlow.md",
+    "Introduction to Computer Vision.md",
+    "2 ACTIONS/_Focus.md",
+    "Key Equation Behind Probability.md",
+    "Euler's Number and The Natural Logarithm.md",
+    "Convolutional Neural Network.md",
+    "Pasted image 20241009111146.png",
+    "Pasted image 20241009110927.png",
+    "Pasted image 20241009105509.png",
+    "Pasted image 20241009105416.png",
+    "Pasted image 20241009102425.png",
+    "Pasted image 20241009100137.png",
+    "Pasted image 20241009100122.png",
+    "Pasted image 20241009093940.png",
+    "1 PROJECTS/Deep Learning.md",
+    "Pasted image 20241009093042.png",
+    "Pasted image 20241009091253.png",
+    "Using Real World Images.md",
+    "Machine Learning Interview.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
+    "Aha.md",
+    "Week 2 Assignment - FashionMNIST.md",
     "Week 1 Assignment - Housing Prices.md",
     "TensorFlow Code.md",
+    "Computer Vision CheckList.md",
+    "element-wise.md",
+    "Python.md",
+    "weekly report.md",
+    "Week 4 Summary.md",
+    "Feature importance.md",
+    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
+    "Numpy.md",
+    "how_my_thinking_work.md",
+    "Courses Pipeline.md",
+    "Practice using FashionMNIST.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
-    "Lesson 1 - Introduction to Probability.md",
-    "Pasted image 20241004164722.png",
-    "Pasted image 20241004163804.png",
-    "Pasted image 20241004162255.png",
-    "Pasted image 20241004162138.png",
-    "Statistic and Probability for Machine Learning.md",
-    "Relationship Symbol.md",
-    "Statistical Regression.md",
-    "Mathematic for Machine Learning - Assignment.md",
-    "Probability and Statistic.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Internship Revision 1.md",
-    "Internship Schedule.md",
-    "Optimization in Neural Network and Newton's Method Final Test.md",
-    "The Argument of a Complex Number.md",
-    "Deep Learning.md",
-    "Derivative Fomula.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

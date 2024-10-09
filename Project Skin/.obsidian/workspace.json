@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0c7455fc6a6c076",
+        "id": "19ec35f33a58391b",
         "type": "tabs",
         "children": [
           {
-            "id": "dc725857bea03fff",
+            "id": "91884f6988c293ef",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,6 +20,14 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "b55750cd48086c3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -201,10 +209,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dc725857bea03fff",
+  "active": "91884f6988c293ef",
   "lastOpenFiles": [
-    "Spaces/German Vocab Revision.md",
     "_Focus/Todo.md",
+    "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",
