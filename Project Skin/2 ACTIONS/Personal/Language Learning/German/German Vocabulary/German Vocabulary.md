@@ -2607,3 +2607,18 @@ jedes - jede goes with neuter noun
 #in_vs_im
 Zoll customs (german customs)
 Visum visa
+
+Die Brille - the glass
+Koffer suitcase
+Öffnen open 
+	Öffnen sie laptop bitte - open your laptop please
+
+Zweihundert - two hundred
+	Lisa macht ihre Urlaub. Ihre freund trifft sie mit zweihundert Blumen.  
+
+Wörterbuch dictionary
+Siehe see (Sieht ihr/er/sie, Siehst du)
+	Lisa, Siehst du my dictionary
+
+Öffnen Sie den Koffer, bitte.
+	Öffnen Sie - "Open" (formal command for "you" i.e. Sie)

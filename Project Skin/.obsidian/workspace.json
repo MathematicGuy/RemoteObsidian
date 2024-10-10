@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91884f6988c293ef",
+            "id": "b55750cd48086c3e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,14 +23,20 @@
             }
           },
           {
-            "id": "b55750cd48086c3e",
+            "id": "67475c4c543d5a54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
               }
             }
           },
@@ -184,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Focus/Todo.md"
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
               }
             }
           }
@@ -209,7 +215,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "91884f6988c293ef",
+  "active": "67475c4c543d5a54",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
