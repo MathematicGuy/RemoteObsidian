@@ -112,7 +112,8 @@ For every Iteration: we will decrease from x to find the minimum point
 ## Optimization using Gradient Descent in one variable - Part 3
 
 + ? What is a good learning rate
-	Unfortunately, there is no rule to give the best learning rate $\alpha$
+	Unfortunately, there is no rule to give the best learning rate $\alpha$. But we can Identify it:
+	![[Pasted image 20241010110818.png]]
 
 ![[Pasted image 20240930104332.png]]
 + Too large can cause over shooting -> never converge

@@ -1,6 +1,8 @@
 + ! Normalize your data so your Model converge faster (bc gradient descent) (i.e. minimize loss using Loss Function)
 
 ### Step 1: Define data
+
+
 ### Step 2: Define and compile model using Keras
 **Define**
 ```python
@@ -38,7 +40,6 @@ untrained_model.summary()
 ```
 
 ### Step 3: Train Model
-this part consist of getting input values, process input value using a model then train the model using `.fit()` 
 ```python
 
 def train_model():

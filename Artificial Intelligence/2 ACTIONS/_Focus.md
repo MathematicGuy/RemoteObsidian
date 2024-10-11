@@ -1,5 +1,34 @@
  
 #[[Goals]]
+- [ ] Finish Week 4 report by 8:30 PM
+	**Hard (2h30 - 3 Hours): Obscure Knowledge, learned but can't re-explain**
+		Understand Back Propagation 
+		Thuật Toán Tối Ưu (Adam, SGD, GD)
+		
+	**Intermediate (1h - 2h30): Understand what it doesn but can't explain it** 
+	**Neural Network & Computer Vision**
+			Mạng Neuron
+			Padding and Stride (both 2D and 3D)
+	**Tensor Flow**
+			- Tiền Xử Lý Dữ Liệu
+			- Tạo Mô Hình
+			- Huấn Luyện Mô Hình
+			- Thuật Toán Tối Ưu (Adam, SGD, GD)
+			- Chạy Model
+			- Thử Nghiệm
+	**Easy (30' - 1h): Already re-explain, just copy & paste**
+	**Neural Network & Computer Vision**
+			- Mạng Neuron Tích Chập 
+			- Mạng Neuron
+			- Ma Trận Màu và Tensor
+			- Toán tử tích chập
+			- Lớp Convolution và Pooling
+			- Lớp Kết Nối Đầy Đủ
+	![[Pasted image 20241010103509.png]]
+	
+- [ ] Revision Hard Concept by Friday Morning before Report at 2:00PM 
+
+
 
 #main
 - [ ] [[how_my_thinking_work]]

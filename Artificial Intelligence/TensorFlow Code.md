@@ -17,7 +17,7 @@ model = tf.keras.Sequential([
 ```python
 model.fit()
 ```
-
+  
 ### Normalization
 >**keras.layers.Rescaling()**
 ```python

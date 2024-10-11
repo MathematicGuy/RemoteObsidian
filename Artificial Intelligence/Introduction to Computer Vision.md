@@ -25,6 +25,7 @@ Thus, an image is a 3D tensor since each pixel value present by 3 matrix r, g an
 	(with 3 as the depth of the image)
 	![[Pasted image 20241008172056.png]]
 
+
 The same logic for Grey scale image (i.e. black and white image). It still have 800x600 pixels but only need 2 color ranging `[0, 255]` (i.e. back and white) instead of (r, g, b). 
 	![[Pasted image 20241008172519.png]]
 	Therefor, we only need 1 matrix because each only need 1 variable. 
@@ -32,7 +33,6 @@ The same logic for Grey scale image (i.e. black and white image). It still have 
 	![[Pasted image 20241009084232.png]]
 
 ### Convolution Operant (Operation)
-
 ![[Pasted image 20241009085231.png]]
 	X as the 6x6 matrix.
 	Grid as the 3x3 matrix grid choosed from X.
@@ -50,18 +50,27 @@ As the example above show that we loss the outer layers of X, inorder to keep it
 + Padding = 1 mean add k layers of 0 to X matrix.
 
 ### Stride
-> Step the grid take in a turn. (like python step in for loop).
-> For k =2.  x move `1 + i*k` and  y move `1 + j*k` step with i as the current index, k as the step and 1 to make sure each step 1 block apart from eachother.
+> How much the convolution filter shifts across the input image. Instead of sliding the filter one pixel at a time.
+> For Stride=k (k>1).  convolution operantor can only apply to:
+$$x_{i*k, \space j*k}$$
 ![[Pasted image 20241009091253.png]]
-> This simply start from $x_{11}$ then each turn step from left to right and down if each a border until the end of X matrix.
+> This simply start from $x_{11}$ then each turn step from left to right and down if reach the border. repeat until the end of the matrix.
 	[Visualization](https://github.com/vdumoulin/conv_arithmetic)
 > Fomula for Convolution Operation of Matrix X with kernel (filter) k * k, stride s, padding p is:
-> $$\left( \frac{m−k+2p}{s}+1 \right)∗\left( \frac{n−k+2p}{s}+1 \right)$$  
+> ($height * width$)
+> $$\left( \frac{m−k+2p}{s}+1 \right)∗\left( \frac{n−k+2p}{s}+1 \right)$$
+- **m−k:** This accounts for the **size reduction caused by the kernel size.** Since the kernel covers some portion of the input, each step of convolution reduces the effective size.  
+	
+- **+ 2p:** **This adds back the padding**, which compensates for the size reduction by extending the input size. Since 1 padding conpensates 1 layers which also is 2 size.
+	
+- **/s:** This divides the result by the stride. Larger strides reduce the output size since the filter "jumps" over more input pixels, processing fewer positions. (Think dividing like you have 6 pizza piece, you can only eat 2 pieces at once thus you can only eat $6/2=3$ times) - this represent how many times the grid can move with stride.
+	
+- **+1:** This adjusts for the fact that we still get one valid position even after accounting for the above operations.
++ ? By applying stride ours convolution called strided convolution.
 
 ### Purpose of Convolution
 > To Manipulated base image using a Kernel as filter to change and see a certain aspect of the image.
 ![[Pasted image 20241009093042.png]]
-
 
 ### Edge Detection
 ![[Pasted image 20241008144323.png]]
@@ -87,8 +96,7 @@ A color image 64x64 present in 1 tensor as 64x64x3. So the input to the NN would
 
 #### First Convolution layer
 > Goals: Minimize Data size while maintaing its core features.
-
-As for 3D 64 x 64 x 3 images (H x W x D) 
+> As for 3D 64 x 64 x 3 images (H x W x D) 
 ![[Pasted image 20241009100137.png]]
 >Convolution act the same but its the sum of 3 matrix $Y = Yr + Yb + Yg$.  
 ![[Pasted image 20241009100122.png]]
@@ -96,9 +104,9 @@ As for 3D 64 x 64 x 3 images (H x W x D)
 Padding and stride rule are the same. (the same dimension, calculation method)
 ![[Pasted image 20241009102425.png]]
 note: 
-+ $F*F*D$ : kernel shape and Dimension (3x3x3, 3 3x3 matrices)
-+ output of a convolution layer will pass through activation function before become the input of the next convolution layers.
-+ Each Kernel's value $\otimes$ Each available input value + 1 (1 as bias) thus the total parameters of a convolution layers are: $F*F*D + 1$. And convolutio layer apply k kernel so the total parameter of a layer is $K*F*F*D + 1$
++ $F*F*D$ : kernel shape and Dimension (3x3x3, 3 3x3 matrices) output of a convolution layer will pass through activation function before become the input of the next convolution layers.
+	
++ Each Kernel's value $\otimes$ each available input value + 1 (1 as bias) thus the total parameters of a convolution layers are: $F*F*D + 1$. And convolutio layer apply k kernel so the total parameter of a layer is $K*F*F*D + 1$
 
 #### Pooling Layers
 > Use to compress image while still maintain its core features. 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1188637797945d38",
+        "id": "8d193015f8751192",
         "type": "tabs",
         "children": [
           {
-            "id": "423ab322e47b41f6",
+            "id": "93a9f6087461a9cf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "5130ee4901fe1757",
+            "id": "9a14f50d81006fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow Code.md",
+                "file": "Week 3 - Optimization in Neural Network and Newton's Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d26d1ab87669ec76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimization in Neural Network and Newton's Method Final Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TensorFlow Code.md",
+                "file": "Optimization in Neural Network and Newton's Method Final Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TensorFlow Code.md",
+                "file": "Optimization in Neural Network and Newton's Method Final Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TensorFlow Code.md"
+                "file": "Optimization in Neural Network and Newton's Method Final Test.md"
               }
             }
           },
@@ -185,44 +197,44 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "5130ee4901fe1757",
+  "active": "d26d1ab87669ec76",
   "lastOpenFiles": [
-    "Introduction to TensorFlow.md",
-    "Introduction to Computer Vision.md",
+    "Week 3 - Optimization in Neural Network and Newton's Method.md",
+    "Optimization in Neural Network and Newton's Method Final Test.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Optimization in Neural Networks and Newton's Method.md",
+    "Lesson 2 - Newton's Method.md",
+    "Lesson 1 - Optimization in Neural Network.md",
     "2 ACTIONS/_Focus.md",
+    "TensorFlow Code.md",
+    "Week 4 Assignment - Handling Complex Images.md",
+    "Pasted image 20241010192452.png",
+    "Introduction to TensorFlow.md",
+    "Convolutional Neural Network.md",
+    "Introduction to Computer Vision.md",
+    "Deep Learning Basic.md",
+    "Pasted image 20241010121035.png",
+    "Pasted image 20241010120704.png",
+    "Pasted image 20241010115427.png",
+    "Pasted image 20241010115124.png",
+    "Pasted image 20241010114725.png",
+    "Pasted image 20241010114526.png",
+    "Gradient and Gradient Descent.md",
+    "Pasted image 20241010110818.png",
+    "Week 1 Assignment - Housing Prices.md",
+    "Pasted image 20241010103509.png",
+    "Numpy.md",
     "Key Equation Behind Probability.md",
     "Euler's Number and The Natural Logarithm.md",
-    "Convolutional Neural Network.md",
     "Pasted image 20241009111146.png",
-    "Pasted image 20241009110927.png",
-    "Pasted image 20241009105509.png",
-    "Pasted image 20241009105416.png",
-    "Pasted image 20241009102425.png",
-    "Pasted image 20241009100137.png",
-    "Pasted image 20241009100122.png",
-    "Pasted image 20241009093940.png",
     "1 PROJECTS/Deep Learning.md",
-    "Pasted image 20241009093042.png",
-    "Pasted image 20241009091253.png",
     "Using Real World Images.md",
     "Machine Learning Interview.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
     "Aha.md",
     "Week 2 Assignment - FashionMNIST.md",
-    "Week 1 Assignment - Housing Prices.md",
-    "TensorFlow Code.md",
     "Computer Vision CheckList.md",
     "element-wise.md",
-    "Python.md",
-    "weekly report.md",
-    "Week 4 Summary.md",
-    "Feature importance.md",
-    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
-    "Numpy.md",
-    "how_my_thinking_work.md",
-    "Courses Pipeline.md",
-    "Practice using FashionMNIST.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Numpy Doc.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
