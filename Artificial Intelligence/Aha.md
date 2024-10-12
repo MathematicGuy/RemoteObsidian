@@ -5,3 +5,10 @@
 
 + The World?
 	![[Pasted image 20241008190853.png]]
+
+
++ Oppotunities: like a supprise easter egg. it could give you resource, lover, experience you never expect to have. The only reason you stay at 1 place is when u don't looking out for them. **No matter how succesfully once person can be, if opportunities is not what he seek, He'll stay where he stand.**
+	
++ Deep Work > Shallow Work 
+	Deep Work requirement: work <> life balance. enjoy what you enjoy, learn when you learned, don't fear of the uncertainty, it was those challanges make life worth living.
+-> Be a Seeker, Adventure as your free will allow. 

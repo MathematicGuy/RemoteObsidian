@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
+                "file": "Gradient and Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
+                "file": "Gradient and Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md"
+                "file": "Gradient and Gradient Descent.md"
               }
             }
           },
@@ -221,11 +221,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "99dd6ea9883b5e79",
+  "active": "c74d93f0ce91b40e",
   "lastOpenFiles": [
+    "Aha.md",
+    "2 ACTIONS/_Focus.md",
     "Gradient and Gradient Descent.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Lesson 1 - Optimization in Neural Network.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Optimization in Neural Network and Newton's Method Final Test.md",
     "What is X.md",
@@ -239,7 +241,6 @@
     "Pasted image 20241011104724.png",
     "Pasted image 20241011104709.png",
     "Pasted image 20241011104411.png",
-    "2 ACTIONS/_Focus.md",
     "1st Derivative vs 2nd Derivative.md",
     "Optimization in Neural Networks and Newton's Method.md",
     "Lesson 2 - Newton's Method.md",
@@ -257,7 +258,6 @@
     "Using Real World Images.md",
     "Machine Learning Interview.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
-    "Aha.md",
     "Week 2 Assignment - FashionMNIST.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",

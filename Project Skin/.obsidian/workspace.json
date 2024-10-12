@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "85871ba9ec170d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaa91644de44f01d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/German Vocab Revision.md",
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/German Vocab Revision.md"
+                "file": "_Focus/Todo.md"
               }
             }
           },
@@ -203,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Spaces/German Vocab Revision.md"
+                "file": "_Focus/Todo.md"
               }
             }
           }
@@ -228,11 +201,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aaa91644de44f01d",
+  "active": "3ff4ea9d1ed60a70",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",
