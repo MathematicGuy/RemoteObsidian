@@ -13,6 +13,10 @@ alternate to gradiend descent called Newton's method (very fast and useful)
 
 Using Gradient Descent to find Loss Function, we first need to find the Partial Derivative of $\hat{y}$. Apply the chain rule, there are 3 partial derivative for each constant:
 ![[Pasted image 20240926152432.png]]
+Loss function: $\frac{1}{m}\left(Y- \hat{Y}\right)^2$.
++ ? $\left(Y- \hat{Y}\right)^2$ represent Loss and $\frac{1}{m}$ calculate the average loss.  
++ $ So for other Loss function, we just need to replace equation inside the bracket $( )$    
+
 Let simplied this for what need to be calculated:
 ![[Pasted image 20240926153352.png]]
 ![[Pasted image 20240926153335.png]]
@@ -78,7 +82,9 @@ Let build a neural network to classify emotion.
 ![[Pasted image 20240930162839.png]]
 
 + $ **Goals:** Adjust each of the weights and biases to reduce the loss function.
-+ ? How do these biases affect the loss? with partial derivative. In other words, this partial derivative tell us exactly what direction to move each one of the weights and biases in order to reduce the log loss function. ![[Pasted image 20240930163826.png]]
++ ? How do these biases affect the loss? with partial derivative. In other words, this partial derivative tell us exactly what direction to move each one of the weights and biases in order to reduce the log loss function.                                                                                                                                               ![[Pasted image 20240930163826.png]]
+
+
 
 Like before, we going to use the chain rule so let look at the derivative of each weight as bias first:
 ![[Pasted image 20240930163948.png]]
@@ -90,6 +96,7 @@ Calculating all the derivative have the $\frac{\Delta L}{\Delta\hat{y}}$ Log Los
 ![[Pasted image 20240930165805.png]]
 Replace Loss function to the Gradient Descent
 $$w_{11} \to w_{11} - \alpha.(-x_{1}.w_{1}.a_{1}.(1-a_{1})(y-\hat{y}))$$
+
 
 + ? The Chain Rule Process repeat for every weights and biases. i.e. $w_{11}, w_{12}, b, etc..$ (yes, even the bias)
 	![[Pasted image 20240930170521.png]]
@@ -120,5 +127,4 @@ Let Begin with $\frac{\Delta L}{\Delta w^{[3]}}$
 ![[Pasted image 20241001100311.png]]
 + ? For the last one, we just have to calc the node itself, bc its previous node are already calcualated (in bottom right)
 ![[Pasted image 20241001100411.png]]
-
 

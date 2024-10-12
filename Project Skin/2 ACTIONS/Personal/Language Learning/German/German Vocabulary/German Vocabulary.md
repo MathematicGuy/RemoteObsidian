@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-### **Unit 1: Order in a cafe, describe your family**
+v### **Unit 1: Order in a cafe, describe your family**
 
 **Lesson 1**
 + ! Noun must be capitalize
@@ -1407,6 +1407,7 @@ Alles Guten - take care
 	Viele Dank, alles guten
 
 Besuchen visit
+	suche find
 Zoo
 	Wir möchten besuchen den zoo
 
@@ -2605,13 +2606,13 @@ jedes - jede goes with neuter noun
 	jedes wochenende / every weekend
 
 #in_vs_im
-Zoll customs (german customs)
+Der Zoll - the customs (german customs)
 Visum visa
 
 Die Brille - the glass
 Koffer suitcase
 Öffnen open 
-	Öffnen sie laptop bitte - open your laptop please
+	Öffnen sie laptop bitte - open your laptop,  please
 
 Zweihundert - two hundred
 	Lisa macht ihre Urlaub. Ihre freund trifft sie mit zweihundert Blumen.  
@@ -2622,3 +2623,16 @@ Siehe see (Sieht ihr/er/sie, Siehst du)
 
 Öffnen Sie den Koffer, bitte.
 	Öffnen Sie - "Open" (formal command for "you" i.e. Sie)
+
+Das Schloss - the castle
+Besichtigen - tour 
+	like besuchen - visit
+
+Neuschwanstein (location)
+Tor gate 
+Die Touristen - the Tourist
+	Die Touristen müssen Berlin besuchen - the tourist can visit berlin 
+
+lila purple
+Schalter counter
+Verboten probihited

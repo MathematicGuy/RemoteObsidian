@@ -1,4 +1,16 @@
 ### 1st Derivative and 2nd Derivative
+```ad-summary
+**firsts derivative:** represent the slope of a function at a given point.
+
+**second derivative:** represent the rate of change of the gradient. 
+	+ **positive** mean **the gradient is increasing**, suggest the **function is curving upward.**
+	+ **negative** mean the **gradient is decreasing**, suggest the **function is curving downward.**
+
+**By considering curvative infor provided by the 2nd derivative, the algo can adjust step size during update:**
++ Gradient increasing, the algorithm adjust step size during updates to avoid over shoot the minimum.
++ Gradient decrease, large step can be taken to accelerate convergence.
+```
+
 
 #### 1st Derivative: Rate of Change
 
@@ -68,3 +80,6 @@ For **higher-order polynomials** (e.g., cubic, quartic), the second derivative i
 - The **second derivative** gives information about the **concavity** or **curvature**.
 - For a **quadratic function**, the **second derivative is constant**, which gives rise to a **parabolic shape**.
 - Higher-order functions have **changing second derivatives**, resulting in more complex and varied curves, not just parabolas.
+
+
+	

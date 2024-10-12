@@ -136,7 +136,7 @@ and got $x_{k}, x_{k-1}$ as the first 2 points created the slope. Iterate on the
 ![[Pasted image 20241001102742.png]]
 
 So how Newton's Method can be use for optimization. 
-+ ? Gradient Decent found the minimum of a function, Newton's method only find the 0 of the function not the minimum. Well, to minimize g(x) we have to find zeros of $g'(x)$ so we just need to chose which zeros is the minimum. (cho ptr bằng 0 và chọn nghiệm bé nhất) 
++ ? Gradient Decent found the minimum of a function, Newton's method only find the 0 of the function not the minimum (e.g. f(x) = 0). Well, to minimize g(x) we have to find zeros of $g'(x)$ so we just need to chose which zeros is the minimum. (cho ptr bằng 0 và chọn nghiệm bé nhất) 
 + $ In other word, if I let F of X be the derivative of G of X, then by finding the zeros of F of X, I am minimizing G prime of X. And the derivative of F prime of X, is simply the derivative of G of X and the derivative of that.
 
 In NM, we first initiate $x_0$ as the starting point and update it. For Optimization, because by finding the derivative of $f(x_{k})$ also minimizing $g(x)'$. We replace F of X with G prime of X.
@@ -147,7 +147,7 @@ In NM, we first initiate $x_0$ as the starting point and update it. For Optimiza
 Back to e hat x minus log of x example. g'(x) =0.5671 (given answer)
 Let see if Newton's Method work. we have G prime of x therefor ours function for f prime becomed $(g'(x))'$ since f(x) is depend on g(x). Starting at $x_{0}=0.05$ we iterate until reached the minimum: 0.5671.  
 ![[Pasted image 20241001104348.png]]
-After 5 iterations we found it. Quite like gradient descent right.
+After 5 iterations we found it. Quite like Gradient Descent right:
 ![[Pasted image 20241001105555.png]]
 
 ### Second Derivative
@@ -184,7 +184,7 @@ note: 2D mean 2nd Derivative
 
 ![[Pasted image 20241001115148.png]]
 + ? As the image showed, local min when 2D>0 and local max when 2D<0.
-Note: Inconclusive mean we don't know it maximum or minimum.
+Note: Inconclusive (ko có kết luận) mean we don't know it maximum or minimum.
 
 [[1st Derivative vs 2nd Derivative]]
 ![[Pasted image 20241001115337.png]]
@@ -198,15 +198,15 @@ Note: Inconclusive mean we don't know it maximum or minimum.
 ```
 
 
-## The Hessian
+## The Hessian (Matrix)
 + $ Example above was just 1 variable, for multiple variables, the **second derivative is a Matrix full of second derivatives called the Hessian**.
 
 ![[Pasted image 20241001142935.png]]
 
 Explain from the top down, we got the rate of change of $f_{x x}$ (this is just $f'(f'(x))$ 
 	the same for the rest, $f_{xy}$, $f_{yy}$, $f_{yx}$  (i.e. rate of change of the derivative in respect of ...)
++ ? **w.r.t** mean with respect to 
 	![[Pasted image 20241001143458.png]]
-	
 	![[Pasted image 20241001143445.png]]
 + orthogonal: trực giao. 
 	![[Pasted image 20241001143512.png]]
@@ -225,6 +225,7 @@ another example:
 ![[Pasted image 20241001144237.png]]
 + ? Bonus Fact: **By analyzing the Hessian matrix**, we **can determine whether a point is a minimum, maximum, or a saddle point**
 ![[Pasted image 20241001144722.png]]
+
 
 ### Hessians and concavity
 Example:
@@ -296,7 +297,6 @@ rewritten in matrix form.
 
 + $ These **expressions for one training example** $x^{(i)}$ can be rewritten in a matrix form :
 $$z^{[1](i)} = W^{[1]} x^{(i)} + b^{[1]},\tag{2}$$
-
 ![[Pasted image 20241002153757.png]]
 
 
@@ -307,14 +307,13 @@ Then the hidden layer output gets fed into the output layer of size $n_y = 1$. T
 $$z^{[2](i)} = w_1^{[2]} a_1^{[1](i)} + w_2^{[2]} a_2^{[1](i)} + b^{[2]}= W^{[2]} a^{[1](i)} + b^{[2]},\tag{4}$$
 rewrite all the expression, group them for convenience.
 ![[Pasted image 20241002162221.png]]
-
 Finally, the predictions for some example $x^{(i)}$ (i.e. input $x^{(i)}$) can be made taking the output $a^{[2](i)}$ and calculating $\hat{y}$ as: $\hat{y} = \begin{cases} 1 & \mbox{if } a^{[2](i)} > 0.5, \\ 0 & \mbox{otherwise }. \end{cases}$
 
 
 ### 2.2 - Neural Network Model with Two Layers for Multiple Training examples
-+ $ Goals: perform training of the model: find such set of parameters $𝑊^{[1]}$, $𝑏^{[1]}$ (i.e. layer 1), $𝑊^{[2]}$, $𝑏^{[2]}$ (i.e. layer 2), that will minimize the cost function.
-+ ? True Label: Correct output $y^{(i)}$ of the function. (either 0 and 1)
-+ ? Test Label:  Label use to test and compare with true label.
++ $ **Goals:** perform training of the model, find such set of parameters $𝑊^{[1]}$, $𝑏^{[1]}$ (i.e. layer 1), $𝑊^{[2]}$, $𝑏^{[2]}$ (i.e. layer 2), that will minimize the cost function.
++ ? **True Label:** Correct output $y^{(i)}$ of the function. (either 0 and 1)
++ ? **Test Label:**  Label use to test and compare with true label.
 + note: $\hat{y}$ now replace as $a^{[2](i)}$
 	Like in the previous example of a single perceptron neural network, the cost function can be written as:
 $$\mathcal{L}\left(W^{[1]}, b^{[1]}, W^{[2]}, b^{[2]}\right) = \frac{1}{m}\sum_{i=1}^{m} L\left(W^{[1]}, b^{[1]}, W^{[2]}, b^{[2]}\right)$$$$=  \frac{1}{m}\sum_{i=1}^{m}  \large\left(\small - y^{(i)}\log\left(a^{[2](i)}\right) - (1-y^{(i)})\log\left(1- a^{[2](i)}\right)  \large  \right), \small\tag{8}$$where $y^{(i)} \in \{0,1\}$ are the original labels and $a^{[2](i)}$ are the continuous output values of the forward propagation step (elements of array $A^{[2]}$).
@@ -330,7 +329,6 @@ b^{[2]} &= b^{[2]} - \alpha \frac{\partial \mathcal{L} }{ \partial b^{[2]} },\\
 \end{align}
 $$where $\alpha$ is the learning rate.
 
-
 To perform training of the model you need to calculate now $\frac{\partial \mathcal{L} }{ \partial W^{[1]}}$, $\frac{\partial \mathcal{L} }{ \partial b^{[1]}}$, $\frac{\partial \mathcal{L} }{ \partial W^{[2]}}$, $\frac{\partial \mathcal{L} }{ \partial b^{[2]}}$ (i.e. Derivative of Weight and bias from 1st and 2nd layer annotation in $^{[1], \space [2]}$)  
 
 Let's start from the end of the neural network. You can rewrite here the corresponding expressions for $\frac{\partial \mathcal{L} }{ \partial W }$ and $\frac{\partial \mathcal{L} }{ \partial b }$ from the single perceptron neural network:
@@ -340,7 +338,6 @@ $$\begin{align}
 \frac{\partial \mathcal{L} }{ \partial b } &= 
 \frac{1}{m}\left(A-Y\right)\mathbf{1},\\
 \end{align}$$
-
 where $\mathbf{1}$ is just a ($m \times 1$) vector of ones. Your one perceptron is in the second layer now, so $W$ will be exchanged with $W^{[2]}$, $b$ with $b^{[2]}$, $A$ with $A^{[2]}$, $X$ with $A^{[1]}$:
 $$\begin{align}
 \frac{\partial \mathcal{L} }{ \partial W^{[2]} } &= 
@@ -358,7 +355,6 @@ Let's now find $$\frac{\partial \mathcal{L} }{ \partial W^{[1]}} =
 w_1^{[2]} 
 \left(a_1^{[1](i)}\left(1-a_1^{[1](i)}\right)\right)
 x_1^{(i)}\right)\tag{11}$$
-
 If you do this accurately for each of the elements $\frac{\partial \mathcal{L} }{ \partial W^{[1]}}$, you will get the following matrix:
 
 $$\frac{\partial \mathcal{L} }{ \partial W^{[1]}} = \begin{bmatrix}
@@ -374,7 +370,8 @@ x_1^{(i)}\right) &
 \sum_{i=1}^{m} \left( \left(a^{[2](i)} - y^{(i)}\right) w_2^{[2]} \left(a_2^{[1](i)}\left(1-a_2^{[1](i)}\right)\right)
 x_2^{(i)}\right)\end{bmatrix}\tag{12}$$
 + $  We called this the Loss Function of each parameters (i.e. weight ans biases). Basically, normally what we do is calculate the loss of a weight and biases of each node by the derivative of it and $\mathcal{L}$ using the chain rule: $\frac{\partial\mathcal{L}}{\partial W_{11}}$. This does just that but in a greater scale which calc the weight and bias of 2 input with 2 nodes (in hidden layer). 
-	reference:![[Pasted image 20241003101310.png]] 
+	reference:![[Pasted image 20241003101310.png]]
+
 
 note: understand how they compress chain rule into a loss function
 ```python
@@ -468,3 +465,81 @@ def update_parameters(parameters, grads, learning_rate=1.2):
 
 
 ```
+
+---
+### Mạng neuro 2 lớp cho đầu vào 1 giá trị (vd: $x_{1}=2, x_{2}=3$)
+![[Pasted image 20241011103012.png]]
+có ![[Pasted image 20241011103505.png]] ($x^{i}$ là vector chứa các giá trị đầu vào) là lớp đầu vào có kích thước ![[Pasted image 20241011103639.png]] được đẩy vào lớp ẩn kích thước ![[Pasted image 20241011103631.png]]
+. Chúng đc đẩy vào lớp Perceptron $z_{1}$ với ![[Pasted image 20241011103813.png]] và $z_{2}$![[Pasted image 20241011103854.png]]. ký hiệu số với ngoặc vuông trên các ký hiệu đại diện cho số lớp hiện tại (vd: 1 nghĩa là lớp 1)
+Nhân các tham số với nhau và cộng thên bias ta có:p 
+![[Pasted image 20241011104023.png]]
+với
+![[Pasted image 20241011104045.png]]
+z là tham số đầu vào có kích thước $n_{h} *1$ của hàm kích hoạt a
+W là ma trận của weight còn b là vector của bias.
+
+Tiếp theo, hàm kích hoạt trong lớp ẩn của tham số $a$  cần được áp dụng cho mọi phần tử vector z.
+![[Pasted image 20241011104724.png]]
+Hàm kích hoạt sigmoid: $\sigma\left(x\right) = \frac{1}{1 + e^{-x}}$. có đạo hàm là $\frac{d\sigma}{dx} = \sigma\left(x\right)\left(1-\sigma\left(x\right)\right)$. Vì Hàm kích hoạt nhận vector z làm tham số nên a biểu diễn dưới dạng:
+![[Pasted image 20241011104411.png]]
+
+Rồi đầu ra của lớp ẩn được đưa vào "lớp đầu ra" có kích thước $n_{y}=1$.    
+![[Pasted image 20241011104709.png]]
+Do z nhận 2 tham số $w_{1}, w_{2}$ nên ta có phương trình của $z_{2}$ là:
+![[Pasted image 20241011105020.png]]
+note: W lớn tượng trưng cho mọi w của lớp ẩn, và a tượng trưng cho mọi a của lớp ẩn.
++ Sau khi đi qua hàm sigmoid, z trở thanh vector vô hướng (1x1). Vậy là z và b đều là vecter vô hướng (1x1) khi truyền tới lớp đầu ra.
++ Chỉ còn W đại diện cho tham số $w1, w2$ được biểu diễn dưới dạng vector:
+![[Pasted image 20241011105456.png]]
+
+Sau khi tính z, hàm sigmoid được sử dụng cho lớp ẩn và truyền tới hàm Loss.
+![[Pasted image 20241011105553.png]]
+
+Các công thức của mạng neuron phía trên có thể viết lại ngắn gọn như sau:
+$$
+\begin{align}
+z^{[1](i)} &= W^{[1]} x^{(i)} + b^{[1]},\\
+a^{[1](i)} &= \sigma\left(z^{[1](i)}\right),\\
+z^{[2](i)} &= W^{[2]} a^{[1](i)} + b^{[2]},\\
+a^{[2](i)} &= \sigma\left(z^{[2](i)}\right).\\
+\tag{6} \\
+\end{align}
+$$
+với $i$ đại diện cho các biến đầu vào (thứ tự của các biến đầu vào). vd: $z^{[1](i)}$ nghĩa là mọi z lớp 1.
+
+sau đó  $x^{(i)}$ có thể được tạo ra bằng cách lấy đầu ra $a^{[2](i)}$ và tính $\hat{y}$ như sau: $\hat{y} = \begin{cases} 1 & \mbox{if } a^{[2](i)} > 0.5, \\ 0 & \mbox{otherwise }. \end{cases}$.
+
+
+## Mạng Neuron 2 Lớp cho đầu vào nhiều giá trị (vd: $x_{1}=[1,2,3]$) 
+![[Pasted image 20241011103012.png]]
+note: Đầu vào là x, x được truyền vào lớp ẩn để tính z, z truyền tới hàm kích hoạt để tính a. Và output ra a tới lớp tiếp theo. (Lớp Ẩn: Đầu vào x, Đầu ra a) ([[What is X]])
+
+Gọi số lần huấn luyện là m (để biểu diễn phương trình tốt hơn), m có thể được sắp xếp trong ma trận X có kích thước (2 × m) (gồm m cột) (Vì 2 biến X được huấn luyện m lần).
++ ? vd X khi số đầu vào $n_{x}=3$ có $m=4$. Khi đó mỗi biến là 1 biểu diễn vector $x_{ij}$ có $i$ là thứ tự của vector, và $j$ là thứ tự các giá trị của vector $i$.  
+	![[Pasted image 20241011112646.png]]
+
+Với ma trận X, ta đơn giản thay X lớn cho x nhỏ. Thể hiện rằng X là 1 ma trận chứa nhiều vector $x_{i}$
+![[Pasted image 20241011110846.png]]
+
+Để đánh giá mạng neuron mình khai báo hàm Log Loss (cho bài toán phân loại)
+![[Pasted image 20241011121201.png]]
+> "Vì hàm mất mát $\mathcal{L}$ phụ thuộc vào $\hat{y}$ (kết quả dự đoán), mà $\hat{y}$ được tính thông qua các trọng số và độ lệch (i.e. $W^{[1]}, b^{[1]}, W^{[2]}, b^{[2]}$) của mô hình, nên hàm Log Loss thực chất phụ thuộc vào các tham số ở lớp đầu vào và lớp ẩn."
+>.
+>"Để đánh giá mất mát của mô hình trên toàn bộ tập dữ liệu $X$, ta tính tổng giá trị mất mát cho mỗi ví dụ (i.e. vector của X) và sau đó lấy trung bình bằng cách chia cho $m$ (tổng số ví dụ). Điều này giúp đánh giá tổng quát hơn về hiệu năng của mô hình".
+>note: 
+![[Pasted image 20241011103325.png]]
+>trong đó $y^{(i)}$ là giá trị thực (true value/original label) và $a^{[2](i)}$ là giá trị đầu ra của bước forward propagation (các phần tử của $A^{[2]}$).
+
+Để tối giảm mất mát, mình dùng gradient descent để cập nhật các tham số w, b của các lớp tr'c đó (tr'c lớp đầu ra):
+$$
+\begin{align}
+W^{[1]} &= W^{[1]} - \alpha \frac{\partial \mathcal{L} }{ \partial W^{[1]} },\\
+b^{[1]} &= b^{[1]} - \alpha \frac{\partial \mathcal{L} }{ \partial b^{[1]} },\\
+W^{[2]} &= W^{[2]} - \alpha \frac{\partial \mathcal{L} }{ \partial W^{[2]} },\\
+b^{[2]} &= b^{[2]} - \alpha \frac{\partial \mathcal{L} }{ \partial b^{[2]} },\\
+\tag{9}
+\end{align}
+$$
+trong đó $\alpha$ là tốc độ học.
+
+Để thực hiện huấn luyện, 

@@ -794,3 +794,8 @@ Vielleicht - maybe/erhaps
 Verwandten / relatives 
 	Sie besucht Ihr Verwandten jeden Jahr / she visit her relatives every year
 
+Warum why
+	Warum Sie haben dreihundered Malt im ihr Koffer
+Wo where
+
+Pünktlich - on time

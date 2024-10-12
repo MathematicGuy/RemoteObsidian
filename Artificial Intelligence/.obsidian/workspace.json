@@ -44,9 +44,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99dd6ea9883b5e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 1 - Optimization in Neural Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74d93f0ce91b40e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient and Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization in Neural Network and Newton's Method Final Test.md",
+                "file": "Lesson 1 - Optimization in Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization in Neural Network and Newton's Method Final Test.md",
+                "file": "Lesson 1 - Optimization in Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization in Neural Network and Newton's Method Final Test.md"
+                "file": "Lesson 1 - Optimization in Neural Network.md"
               }
             }
           },
@@ -197,44 +221,44 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d26d1ab87669ec76",
+  "active": "99dd6ea9883b5e79",
   "lastOpenFiles": [
+    "Gradient and Gradient Descent.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Lesson 1 - Optimization in Neural Network.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Optimization in Neural Network and Newton's Method Final Test.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "What is X.md",
+    "Pasted image 20241011121201.png",
+    "Pasted image 20241011115611.png",
+    "Pasted image 20241011112646.png",
+    "Pasted image 20241011110846.png",
+    "Pasted image 20241011105553.png",
+    "Pasted image 20241011105456.png",
+    "Pasted image 20241011105020.png",
+    "Pasted image 20241011104724.png",
+    "Pasted image 20241011104709.png",
+    "Pasted image 20241011104411.png",
+    "2 ACTIONS/_Focus.md",
+    "1st Derivative vs 2nd Derivative.md",
     "Optimization in Neural Networks and Newton's Method.md",
     "Lesson 2 - Newton's Method.md",
-    "Lesson 1 - Optimization in Neural Network.md",
-    "2 ACTIONS/_Focus.md",
     "TensorFlow Code.md",
     "Week 4 Assignment - Handling Complex Images.md",
-    "Pasted image 20241010192452.png",
     "Introduction to TensorFlow.md",
     "Convolutional Neural Network.md",
     "Introduction to Computer Vision.md",
     "Deep Learning Basic.md",
-    "Pasted image 20241010121035.png",
-    "Pasted image 20241010120704.png",
-    "Pasted image 20241010115427.png",
-    "Pasted image 20241010115124.png",
-    "Pasted image 20241010114725.png",
-    "Pasted image 20241010114526.png",
-    "Gradient and Gradient Descent.md",
-    "Pasted image 20241010110818.png",
     "Week 1 Assignment - Housing Prices.md",
-    "Pasted image 20241010103509.png",
     "Numpy.md",
     "Key Equation Behind Probability.md",
     "Euler's Number and The Natural Logarithm.md",
-    "Pasted image 20241009111146.png",
     "1 PROJECTS/Deep Learning.md",
     "Using Real World Images.md",
     "Machine Learning Interview.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
     "Aha.md",
     "Week 2 Assignment - FashionMNIST.md",
-    "Computer Vision CheckList.md",
-    "element-wise.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

@@ -51,6 +51,7 @@ $$where $\alpha$ is the learning rate.
 To perform training of the model you need to calculate now $\frac{\partial \mathcal{L} }{ \partial W^{[1]}}$, $\frac{\partial \mathcal{L} }{ \partial b^{[1]}}$, $\frac{\partial \mathcal{L} }{ \partial W^{[2]}}$, $\frac{\partial \mathcal{L} }{ \partial b^{[2]}}$ (i.e. Derivative of Weight and bias from 1st and 2nd layer annotation in $^{[1], \space [2]}$)  
 
 Let's start from the end of the neural network. You can rewrite here the corresponding expressions for $\frac{\partial \mathcal{L} }{ \partial W }$ and $\frac{\partial \mathcal{L} }{ \partial b }$ from the single perceptron neural network:
+> note: $\frac{1}{m}\left(A-Y\right)\mathbf{1}$ to put it in the same function as $\frac{1}{m}(A-Y)X^T$ 
 $$\begin{align}
 \frac{\partial \mathcal{L} }{ \partial W } &= 
 \frac{1}{m}\left(A-Y\right)X^T,\\
@@ -70,12 +71,12 @@ $$\begin{align}
 Let's now find $$\frac{\partial \mathcal{L} }{ \partial W^{[1]}} = 
 \begin{bmatrix}
 \frac{\partial \mathcal{L} }{ \partial w_{1,1}^{[1]}} & \frac{\partial \mathcal{L} }{ \partial w_{2,1}^{[1]}} \\
-\frac{\partial \mathcal{L} }{ \partial w_{1,2}^{[1]}} & \frac{\partial \mathcal{L} }{ \partial w_{2,2}^{[1]}} \end{bmatrix}$$It was shown in the videos that $$\frac{\partial \mathcal{L} }{ \partial w_{1,1}^{[1]}}=\frac{1}{m}\sum_{i=1}^{m} \left( 
+\frac{\partial \mathcal{L} }{ \partial w_{1,2}^{[1]}} & \frac{\partial \mathcal{L} }{ \partial w_{2,2}^{[1]}} \end{bmatrix}$$It was shown in the videos that 
+$$\frac{\partial \mathcal{L} }{ \partial w_{1,1}^{[1]}}=\frac{1}{m}\sum_{i=1}^{m} \left( 
 \left(a^{[2](i)} - y^{(i)}\right) 
 w_1^{[2]} 
 \left(a_1^{[1](i)}\left(1-a_1^{[1](i)}\right)\right)
 x_1^{(i)}\right)\tag{11}$$
-
 If you do this accurately for each of the elements $\frac{\partial \mathcal{L} }{ \partial W^{[1]}}$, you will get the following matrix:
 
 $$\frac{\partial \mathcal{L} }{ \partial W^{[1]}} = \begin{bmatrix}
@@ -90,8 +91,11 @@ x_2^{(i)}\right)  \\
 x_1^{(i)}\right) & 
 \sum_{i=1}^{m} \left( \left(a^{[2](i)} - y^{(i)}\right) w_2^{[2]} \left(a_2^{[1](i)}\left(1-a_2^{[1](i)}\right)\right)
 x_2^{(i)}\right)\end{bmatrix}\tag{12}$$
-+ $  We called this the Loss Function of each parameters (i.e. weight ans biases). Basically, normally what we do is calculate the loss of a weight and biases of each node by the derivative of it and $\mathcal{L}$ using the chain rule: $\frac{\partial\mathcal{L}}{\partial W_{11}}$. This does just that but in a greater scale which calc the weight and bias of 2 input with 2 nodes (in hidden layer). 
-	reference:![[Pasted image 20241003101310.png]] 
++ $  We called this the Loss Function of each parameters (i.e. weight ans biases). Basically, normally what we do is calculate the loss of a weight and biases of each node by the derivative of it and $\mathcal{L}$ using the chain rule: $\frac{\partial\mathcal{L}}{\partial W_{11}}$. This does just that but in 
++ a greater scale which calc the weight and bias of 2 input with 2 nodes (in hidden layer) 
+	reference:![[Pasted image 20241003101310.png]]
+	
+
 
 note: understand how they compress chain rule into a loss function
 ```python
