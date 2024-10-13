@@ -2620,7 +2620,7 @@ Visum visa
 
 Die Brille - the glass
 	Welche Farbe ist dein Brille / what color is your glass
-Koffer suitcase
+The Koffer - the suitcase
 Öffnen open 
 	Öffnen sie laptop bitte - open your laptop,  please
 	Öffnen sie hausaufgaben und jetzt lernen - open your homework and learn now 
@@ -2657,3 +2657,4 @@ Formular forms (document form)
 	Ich komme aus Österreich  und ich mache Urlaub in Schweden. Ich muss das formular Unterschreiben aber ich habe keine Kugelschreiber - I come from Austria and I want to go vacation in Sweden. I have to sign the formular but I dont have a pen
 
 Brandenburger Tor - Brandenburg Gate
+grau grey
