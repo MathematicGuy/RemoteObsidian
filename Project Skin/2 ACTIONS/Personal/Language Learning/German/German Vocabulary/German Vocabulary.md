@@ -127,7 +127,7 @@ Morgen morning/tomorrow
 Guten morgen good morning
 	Möchtest du morgen Apfelkuchen mit Eis essen
 
-tag day
+tag day (musculine)
 Guten tag good day/afternoon
 
 Super great
@@ -1544,7 +1544,8 @@ Höre listening
 Der Wald the forest
 	Ich will nächste Woche im Wald wandern 
 	+ Wandern hike
-	+ Woche week
+	+ Woche week (feminine)
+		jeden woche 
 	+ Nächste next
 	+ Wald forest
 Hexe witch

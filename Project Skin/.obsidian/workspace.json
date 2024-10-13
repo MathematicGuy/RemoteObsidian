@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "922549b5042ce76a",
+        "id": "47e82daca27113ae",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe5c94dc1fcfb65",
+            "id": "fa8957b661d20574",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "c3f0d09c0c4e0313",
+            "id": "37c0c709eb5020cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09a62a094b8d460b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -228,11 +215,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c3f0d09c0c4e0313",
+  "active": "37c0c709eb5020cf",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",
