@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c67c732334b923b5",
+            "id": "5fe5c94dc1fcfb65",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,11 +23,29 @@
             }
           },
           {
-            "id": "5fe5c94dc1fcfb65",
+            "id": "c3f0d09c0c4e0313",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09a62a094b8d460b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
+              }
             }
           },
           {
@@ -180,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
+              }
             }
           }
         ],
@@ -204,11 +228,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5fe5c94dc1fcfb65",
+  "active": "c3f0d09c0c4e0313",
   "lastOpenFiles": [
     "_Focus/Todo.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",

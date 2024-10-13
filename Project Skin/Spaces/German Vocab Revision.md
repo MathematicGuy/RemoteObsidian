@@ -800,3 +800,8 @@ Wo where
 
 Pünktlich - on time
 	Nam, ich bin Pünktlich 
+
+
+Öffnen open
+den (use in accusative case to point out a Object)
+Öffnen Sie dein koffe bitte. (accuse: point to the suitcase requested to be open)

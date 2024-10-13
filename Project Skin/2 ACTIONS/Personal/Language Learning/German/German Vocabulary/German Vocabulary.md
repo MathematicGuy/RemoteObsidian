@@ -803,7 +803,8 @@ Russisch russian
 Perfekt perfect  
 	Sprechst du perfekt Polnisch
 Toll great (lowest level of great)
-Schwer difficult
+Schwer difficult/heavy
+	Mein Rucksack ist sehr schwer
 Einfach easy
 	Ist Deutsch Einfach oder Schwer
 Ihr her
@@ -1815,6 +1816,7 @@ Lilli öffnet die Tüte - Lilli open the bag
 Süß - cute
 Rosa - pink
 Farbe - color
+	Welche Farbe ist dein Regenschirm / what color is your umbrella
 Geburtstagsgeschenk - birthday gift
 + Geburtstags: birthday
 + Geschenk: gift
@@ -2072,7 +2074,10 @@ Kollegen - colleagues
 
 Aufgaben  task/work
 Hausaufgaben / homework
-\
+	Haus - house/home
+	Aufgaben task
+	-> Hausaufgaben hometask/homework
++ Mein Hausaufgaben ist sehr schwer / my home work is too difficult
 
 ### Special
 Sparen / saving
@@ -2580,6 +2585,9 @@ Hausaufgaben: homework
 Getränke - drink
 	Könnt Ihr die Getränke kaufen / can you buy the drinks
 
+Schloss lock/castle (often refer to castle)
+	Ich will Schloss besichtigen
+
 Geschlossen / closed
 	Ist die Universität heute Geschlossen ? - is the university closed today ?
 Schließt / close
@@ -2607,13 +2615,16 @@ jedes - jede goes with neuter noun
 
 #in_vs_im
 Der Zoll - the customs (german customs)
+	Custom means a place at a port in which goverment officials control incoming goods, travellers and other loads (e.g. where they x-ray items) (thông quan hải quan)
 Visum visa
 
 Die Brille - the glass
+	Welche Farbe ist dein Brille / what color is your glass
 Koffer suitcase
 Öffnen open 
 	Öffnen sie laptop bitte - open your laptop,  please
-
+	Öffnen sie hausaufgaben und jetzt lernen - open your homework and learn now 
+	
 Zweihundert - two hundred
 	Lisa macht ihre Urlaub. Ihre freund trifft sie mit zweihundert Blumen.  
 
@@ -2635,4 +2646,14 @@ Die Touristen - the Tourist
 
 lila purple
 Schalter counter
-Verboten probihited
+Verboten probihited (ffờ boten)
+
+Kugelschreiber  pen
+	Schrebe write
+	Schreiber writer
+Unterschreiben sign
+	Du musst hier Unterschreiben, Frau Sara - you have to sign here, miss Sara
+Formular forms (document form)
+	Ich komme aus Österreich  und ich mache Urlaub in Schweden. Ich muss das formular Unterschreiben aber ich habe keine Kugelschreiber - I come from Austria and I want to go vacation in Sweden. I have to sign the formular but I dont have a pen
+
+Brandenburger Tor - Brandenburg Gate
