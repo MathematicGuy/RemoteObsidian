@@ -5,3 +5,6 @@ How to note when study Math: https://www.instagram.com/reel/C-pq02QiIMG/?utm_sou
 
 
 ## [[Statistic and Probability for Machine Learning]]
+
+
+## [[Complete Mathematic for Neural Network]]

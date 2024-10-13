@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d193015f8751192",
+        "id": "5058a1d13a5d40f3",
         "type": "tabs",
         "children": [
           {
-            "id": "93a9f6087461a9cf",
+            "id": "46caf3db4ca1dd23",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,55 +22,19 @@
             }
           },
           {
-            "id": "9a14f50d81006fbb",
+            "id": "af9bca423bb297f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 - Optimization in Neural Network and Newton's Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d26d1ab87669ec76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimization in Neural Network and Newton's Method Final Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99dd6ea9883b5e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson 1 - Optimization in Neural Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c74d93f0ce91b40e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "Jacobian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "Jacobian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gradient and Gradient Descent.md",
+                "file": "Jacobian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gradient and Gradient Descent.md"
+                "file": "Jacobian.md"
               }
             }
           },
@@ -221,16 +185,23 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c74d93f0ce91b40e",
+  "active": "af9bca423bb297f2",
   "lastOpenFiles": [
-    "Aha.md",
+    "Complete Mathematic for Neural Network.md",
+    "Jacobian.md",
     "2 ACTIONS/_Focus.md",
-    "Gradient and Gradient Descent.md",
-    "Lesson 1 - Optimization in Neural Network.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "What is X.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Optimization in Neural Network and Newton's Method Final Test.md",
-    "What is X.md",
+    "Lesson 1 - Optimization in Neural Network.md",
+    "Pasted image 20241012155302.png",
+    "Pasted image 20241012152734.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Gradient and Gradient Descent.md",
+    "Optimization in Neural Networks and Newton's Method.md",
+    "Lesson 2 - Newton's Method.md",
+    "Aha.md",
     "Pasted image 20241011121201.png",
     "Pasted image 20241011115611.png",
     "Pasted image 20241011112646.png",
@@ -239,11 +210,7 @@
     "Pasted image 20241011105456.png",
     "Pasted image 20241011105020.png",
     "Pasted image 20241011104724.png",
-    "Pasted image 20241011104709.png",
-    "Pasted image 20241011104411.png",
     "1st Derivative vs 2nd Derivative.md",
-    "Optimization in Neural Networks and Newton's Method.md",
-    "Lesson 2 - Newton's Method.md",
     "TensorFlow Code.md",
     "Week 4 Assignment - Handling Complex Images.md",
     "Introduction to TensorFlow.md",
@@ -256,9 +223,6 @@
     "Euler's Number and The Natural Logarithm.md",
     "1 PROJECTS/Deep Learning.md",
     "Using Real World Images.md",
-    "Machine Learning Interview.md",
-    "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
-    "Week 2 Assignment - FashionMNIST.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

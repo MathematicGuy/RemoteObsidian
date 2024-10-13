@@ -471,7 +471,7 @@ def update_parameters(parameters, grads, learning_rate=1.2):
 ![[Pasted image 20241011103012.png]]
 có ![[Pasted image 20241011103505.png]] ($x^{i}$ là vector chứa các giá trị đầu vào) là lớp đầu vào có kích thước ![[Pasted image 20241011103639.png]] được đẩy vào lớp ẩn kích thước ![[Pasted image 20241011103631.png]]
 . Chúng đc đẩy vào lớp Perceptron $z_{1}$ với ![[Pasted image 20241011103813.png]] và $z_{2}$![[Pasted image 20241011103854.png]]. ký hiệu số với ngoặc vuông trên các ký hiệu đại diện cho số lớp hiện tại (vd: 1 nghĩa là lớp 1)
-Nhân các tham số với nhau và cộng thên bias ta có:p 
+Nhân các tham số với nhau và cộng thên bias ta có:
 ![[Pasted image 20241011104023.png]]
 với
 ![[Pasted image 20241011104045.png]]
@@ -488,14 +488,14 @@ Rồi đầu ra của lớp ẩn được đưa vào "lớp đầu ra" có kích
 Do z nhận 2 tham số $w_{1}, w_{2}$ nên ta có phương trình của $z_{2}$ là:
 ![[Pasted image 20241011105020.png]]
 note: W lớn tượng trưng cho mọi w của lớp ẩn, và a tượng trưng cho mọi a của lớp ẩn.
-+ Sau khi đi qua hàm sigmoid, z trở thanh vector vô hướng (1x1). Vậy là z và b đều là vecter vô hướng (1x1) khi truyền tới lớp đầu ra.
-+ Chỉ còn W đại diện cho tham số $w1, w2$ được biểu diễn dưới dạng vector:
++ Sau khi đi qua hàm sigmoid, z trở thanh vector vô hướng (1x1). Vậy là z và b đều là vector vô hướng (1x1) khi truyền tới lớp đầu ra.
++ W đại diện cho tham số $w1, w2$ được biểu diễn dưới dạng vector:
 ![[Pasted image 20241011105456.png]]
 
 Sau khi tính z, hàm sigmoid được sử dụng cho lớp ẩn và truyền tới hàm Loss.
 ![[Pasted image 20241011105553.png]]
 
-Các công thức của mạng neuron phía trên có thể viết lại ngắn gọn như sau:
+Các công thức (của mạng neuron 2 lớp) phía trên có thể viết lại ngắn gọn như sau:
 $$
 \begin{align}
 z^{[1](i)} &= W^{[1]} x^{(i)} + b^{[1]},\\
@@ -506,15 +506,23 @@ a^{[2](i)} &= \sigma\left(z^{[2](i)}\right).\\
 \end{align}
 $$
 với $i$ đại diện cho các biến đầu vào (thứ tự của các biến đầu vào). vd: $z^{[1](i)}$ nghĩa là mọi z lớp 1.
-
 sau đó  $x^{(i)}$ có thể được tạo ra bằng cách lấy đầu ra $a^{[2](i)}$ và tính $\hat{y}$ như sau: $\hat{y} = \begin{cases} 1 & \mbox{if } a^{[2](i)} > 0.5, \\ 0 & \mbox{otherwise }. \end{cases}$.
 
 
-## Mạng Neuron 2 Lớp cho đầu vào nhiều giá trị (vd: $x_{1}=[1,2,3]$) 
+## Mạng Neuron 2 Lớp cho đầu vào X nhiều giá trị (vd: $x_{1}=[1,2,3]$) 
 ![[Pasted image 20241011103012.png]]
-note: Đầu vào là x, x được truyền vào lớp ẩn để tính z, z truyền tới hàm kích hoạt để tính a. Và output ra a tới lớp tiếp theo. (Lớp Ẩn: Đầu vào x, Đầu ra a) ([[What is X]])
+note: 
++ [[What is X]]
++ i đại diện cho mọi nodes trong lớp hiện tại. vd:  $a^{[1]} _i$ nghĩa là mọi a ở lớp $[1]$.
++ Lớp Ẩn ($n_{h}$): Đầu vào x, Đầu ra a
 
-Gọi số lần huấn luyện là m (để biểu diễn phương trình tốt hơn), m có thể được sắp xếp trong ma trận X có kích thước (2 × m) (gồm m cột) (Vì 2 biến X được huấn luyện m lần).
+Thứ tự tính giá trị tối ưu cho $w^{[1]} _{1,1}$ (để tối giảm mất mát cho mô hình):![[Pasted image 20241012155302.png]]
+
+
+Gọi số lần huấn luyện là m (để biểu diễn phương trình tốt hơn), m có thể được sắp xếp trong ma trận X có kích thước (2 × m) (i.e ma trận 2 hàng, m cột) 
+	**2 hàng**: Ám chỉ có 2 đặc trưng mỗi ví dụ.
+	**$m$ cột**: mỗi cột đại diện cho 1 ví dụ, ta có tổng ví dụ là m.
+
 + ? vd X khi số đầu vào $n_{x}=3$ có $m=4$. Khi đó mỗi biến là 1 biểu diễn vector $x_{ij}$ có $i$ là thứ tự của vector, và $j$ là thứ tự các giá trị của vector $i$.  
 	![[Pasted image 20241011112646.png]]
 
