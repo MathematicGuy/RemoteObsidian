@@ -8,3 +8,4 @@ How to note when study Math: https://www.instagram.com/reel/C-pq02QiIMG/?utm_sou
 
 
 ## [[Complete Mathematic for Neural Network]]
+

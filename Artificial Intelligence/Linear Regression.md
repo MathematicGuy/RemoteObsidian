@@ -11,4 +11,14 @@ Hàm bậc nhất:
 ![[Pasted image 20240920102052.png]]
 
 
+đặt w là vector (cột) là hệ số cần phải tối ưu 
+![[Pasted image 20241014104300.png]]
+đặt x bar là vector (hàng) dữ liệu đầu vào mở rộng
+![[Pasted image 20241014104058.png]]
+điểm tối ưu vector hệ số w
+![[Pasted image 20241014104125.png]]
+
+![[Pasted image 20241014105126.png]]
+pseudo inverse
+![[Pasted image 20241014105214.png]]
 

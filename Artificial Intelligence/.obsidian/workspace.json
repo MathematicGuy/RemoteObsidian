@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "af9bca423bb297f2",
+            "id": "baaaab352e376bee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jacobian.md",
+                "file": "MLS Week 2 - Regression with multiple input variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91239b70dca7af11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numpy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jacobian.md",
+                "file": "Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jacobian.md",
+                "file": "Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jacobian.md"
+                "file": "Numpy.md"
               }
             }
           },
@@ -185,44 +197,43 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "af9bca423bb297f2",
+  "active": "91239b70dca7af11",
   "lastOpenFiles": [
-    "Complete Mathematic for Neural Network.md",
-    "Jacobian.md",
+    "Numpy.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "Pasted image 20241014143749.png",
+    "Pasted image 20241014143438.png",
+    "Pasted image 20241014142644.png",
+    "Pasted image 20241014141415.png",
+    "Pasted image 20241014141317.png",
+    "Pasted image 20241014141311.png",
+    "Pasted image 20241014141110.png",
     "2 ACTIONS/_Focus.md",
+    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "Pasted image 20241014140640.png",
+    "Pasted image 20241014140411.png",
+    "Pasted image 20241014140343.png",
+    "Linear Regression.md",
+    "Least Squares Method.md",
+    "Complete Mathematic for Neural Network.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+    "Jacobian.md",
     "What is X.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Optimization in Neural Network and Newton's Method Final Test.md",
     "Lesson 1 - Optimization in Neural Network.md",
-    "Pasted image 20241012155302.png",
-    "Pasted image 20241012152734.png",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Gradient and Gradient Descent.md",
     "Optimization in Neural Networks and Newton's Method.md",
     "Lesson 2 - Newton's Method.md",
     "Aha.md",
-    "Pasted image 20241011121201.png",
-    "Pasted image 20241011115611.png",
-    "Pasted image 20241011112646.png",
-    "Pasted image 20241011110846.png",
-    "Pasted image 20241011105553.png",
-    "Pasted image 20241011105456.png",
-    "Pasted image 20241011105020.png",
-    "Pasted image 20241011104724.png",
     "1st Derivative vs 2nd Derivative.md",
     "TensorFlow Code.md",
     "Week 4 Assignment - Handling Complex Images.md",
     "Introduction to TensorFlow.md",
     "Convolutional Neural Network.md",
     "Introduction to Computer Vision.md",
-    "Deep Learning Basic.md",
-    "Week 1 Assignment - Housing Prices.md",
-    "Numpy.md",
-    "Key Equation Behind Probability.md",
-    "Euler's Number and The Natural Logarithm.md",
-    "1 PROJECTS/Deep Learning.md",
-    "Using Real World Images.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
