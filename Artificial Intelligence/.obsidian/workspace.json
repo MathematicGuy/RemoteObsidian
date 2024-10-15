@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "baaaab352e376bee",
+            "id": "c84cf34a402d8722",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "91239b70dca7af11",
+            "id": "77178582c71ef053",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "468772719073d0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Normalization & Standardization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numpy.md",
+                "file": "Normalization & Standardization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numpy.md",
+                "file": "Normalization & Standardization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numpy.md"
+                "file": "Normalization & Standardization.md"
               }
             }
           },
@@ -197,23 +209,26 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "91239b70dca7af11",
+  "active": "468772719073d0f9",
   "lastOpenFiles": [
     "Numpy.md",
+    "Normalization & Standardization.md",
+    "Pasted image 20241015161047.png",
+    "Pasted image 20241015160927.png",
+    "Screenshot 2024-10-15 153125.png",
+    "Pasted image 20241015155021.png",
+    "Pasted image 20241015154308.png",
+    "Pasted image 20241015153005.png",
+    "Screenshot 2024-10-15 152130.png",
     "MLS Week 2 - Regression with multiple input variables.md",
-    "Pasted image 20241014143749.png",
-    "Pasted image 20241014143438.png",
-    "Pasted image 20241014142644.png",
-    "Pasted image 20241014141415.png",
-    "Pasted image 20241014141317.png",
-    "Pasted image 20241014141311.png",
-    "Pasted image 20241014141110.png",
     "2 ACTIONS/_Focus.md",
-    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+    "MLS Week 2 Lab - Feature Scaling and Learning Rate (Multi-Variable).md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "Pasted image 20241014140640.png",
-    "Pasted image 20241014140411.png",
-    "Pasted image 20241014140343.png",
+    "Pasted image 20241015095436.png",
+    "Pasted image 20241015093817.png",
+    "Pasted image 20241014171619.png",
+    "Numpy Vector Array.md",
+    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
     "Linear Regression.md",
     "Least Squares Method.md",
     "Complete Mathematic for Neural Network.md",
@@ -231,9 +246,6 @@
     "1st Derivative vs 2nd Derivative.md",
     "TensorFlow Code.md",
     "Week 4 Assignment - Handling Complex Images.md",
-    "Introduction to TensorFlow.md",
-    "Convolutional Neural Network.md",
-    "Introduction to Computer Vision.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

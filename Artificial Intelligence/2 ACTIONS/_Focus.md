@@ -4,6 +4,8 @@
 - [ ] Understand Jacobian
 - [ ] Differential
 **Machine Learning**
+(Ask myself Question/Quizz after each Section)
+(Rebuild 3 Weeks Project by myself after finishing them)
 - [ ] [[MLS Week 1 - Supervised Machine Learning Regression and Classification]]
 - [ ] [[MLS Week 2 - Regression with multiple input variables]]
 - [ ] Course 3 Machine Learning
