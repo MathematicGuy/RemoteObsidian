@@ -966,6 +966,7 @@ Schade too bad
 	Schade, ich kann nicht
 	[[Schade, ich habe um sechs keine Zeit]] - Too bad, I don't have time at six
 Ich freue mich - I look forward to it
+	Ich freue mich so auf meine Geburtstagsparty
 Wann When
 	Wann hast du Zeit - when do you free
 	Bis Wann until when (Bis - Until, Wann - When)
@@ -2096,7 +2097,7 @@ Los geht's / let go
 
 mit dem zug / to there now (dem - to sht)
 
-Eine Chef - boss
+Der Chef - the boss
 	Trifft du deine Chef oft im Büro
 	Ich treffe meine Chefin zum Nachmittag
 
@@ -2659,3 +2660,17 @@ Formular forms (document form)
 
 Brandenburger Tor - Brandenburg Gate
 grau grey
+
+### Birthday
+Herzlichen Glückwunsch zum Geburtstag - happy birthday
+
+
+Pünktlich - on time
+in einem ... (dative case - used after in) 
+Sein - to be (infinitive form of the verb to be)
+	Ich möchte der Chef sein - I would like to be the chef
+Lebenslauf - CV (Curriculum vitae)
+
+Frage question
+vielleicht maybe
+Eure (deine in plural)
