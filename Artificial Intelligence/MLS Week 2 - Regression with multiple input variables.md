@@ -73,5 +73,27 @@ With Rescaling, the contour plot now even and represent a circle.
 + ? Choosing a **too small learning rate lead the function unconvergerable.** Since each step become  smaller and smaller, it would take forever which is not optimal.
 + $ We want to choose **the right learning rate**. Let learn how to do that !!!
 #### [[MLS Week 2 Lab - Feature Scaling and Learning Rate (Multi-Variable)]]
-### Feature Engineering
+## Feature Engineering
 
+Normal way to choose features
+![[Pasted image 20241015221722.png]]
+
+Create new features by using **intuition** to design **new features**, by transforming or combining original features.
+![[Pasted image 20241015222100.png]]
+\
+#### Polynomial Regression (đa thức hồi quy)
+> Fit curve, non-linear function into your data.
++ ? note: explain Polynomial and Regression later 
+ 
+**Note:** Linear represent a straight line, if sth called linear, meaning it is **Proportionality:** If x increase then y increase $y=2x$. increase or decrease at a constant rate and **Additivity** like 1+1=2.
+
+
+Example of Polynomial Regression with non-linear features: feature may be $x, x^{2}, x^{3}$. Since the feature value is exponential, feature scaling would be very important. Especially in Gradient Descent
+![[Pasted image 20241016140747.png]]
+
+**Choice of Features**
+>So how can we chose the right type of features. Which to include or not include. In Course 2, you can learn it.
+![[Pasted image 20241016140833.png]]
+
+[[Feature Engineering and Polynomial Regression]]
+[[Practice Lab Linear Regression - predict best place to open restaurant]]

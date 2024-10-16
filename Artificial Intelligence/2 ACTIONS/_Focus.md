@@ -1,14 +1,15 @@
  
 #[[Goals]]
 **Mathematic**
-- [ ] Understand Jacobian
+- [x] Understand Jacobian ([Jacobian Matrix](https://youtu.be/QexBVGVM690?si=n0aBabBOMdvkmo27))
 - [ ] Differential
+- [ ] Explain and Document every important math symbols
 **Machine Learning**
 (Ask myself Question/Quizz after each Section)
 (Rebuild 3 Weeks Project by myself after finishing them)
 - [ ] [[MLS Week 1 - Supervised Machine Learning Regression and Classification]]
 - [ ] [[MLS Week 2 - Regression with multiple input variables]]
-- [ ] Course 3 Machine Learning
+- [ ] [[MLS Week 3 - Classification with logistic regression]]
 **Deep Learning**
 - [ ] Course 1 Deep Learning
 - [ ] Course 2 Deep Learning
