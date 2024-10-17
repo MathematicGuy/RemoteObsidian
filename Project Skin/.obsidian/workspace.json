@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad179c41f717cf03",
+        "id": "f32c2afd7c10b9ba",
         "type": "tabs",
         "children": [
           {
-            "id": "e57766aaf38b4f5c",
+            "id": "e5d5216feb359977",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,29 +23,11 @@
             }
           },
           {
-            "id": "6ccf1d7a3599928f",
+            "id": "aa0788e02f239383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53832f58985bd816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -125,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -228,11 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6ccf1d7a3599928f",
+  "active": "aa0788e02f239383",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "GoalsThisWeek.md",

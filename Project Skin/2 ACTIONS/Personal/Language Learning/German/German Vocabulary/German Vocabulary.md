@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-v### **Unit 1: Order in a cafe, describe your family**
+### **Unit 1: Order in a cafe, describe your family**
 
 **Lesson 1**
 + ! Noun must be capitalize
@@ -2674,3 +2674,9 @@ Lebenslauf - CV (Curriculum vitae)
 Frage question
 vielleicht maybe
 Eure (deine in plural)
+
+Rauchen - smoke
+Abholen - pick up
+	Ich musst meine Kinder abholen - I have to pick up my children
+Bald soom
+	Ich gehen ins bald restaurant
