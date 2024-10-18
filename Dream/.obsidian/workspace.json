@@ -21,6 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "001eae6ecc1b46f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/_My Life/Deepthought.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -167,10 +180,12 @@
   },
   "active": "5bb59e15ffbf23d8",
   "lastOpenFiles": [
+    "3 RESOURCES/_Happiness/_Happiness.md",
+    "_Focus.md",
+    "2 ACTIONS/_My Life/Deepthought.md",
     "Flow.md",
     "Pasted image 20241017164510.png",
     "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
-    "_Focus.md",
     "1 PROJECTS/This Year Goal.md",
     "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "2 ACTIONS/_My Life/Styles.md",
@@ -185,7 +200,6 @@
     "2 ACTIONS/_My Life/Going to Space.md",
     "2 ACTIONS/_My Life/Free Will.md",
     "2 ACTIONS/_My Life/Anonymous Supportor.md",
-    "2 ACTIONS/_My Life/Deepthought.md",
     "2 ACTIONS/_My Life/1 Shoot for the Star.md",
     "2 ACTIONS/_My Life/_My Life.md",
     "3 RESOURCES/_Happiness/Watch This Everyday Video.md",

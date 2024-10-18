@@ -2680,3 +2680,10 @@ Abholen - pick up
 	Ich musst meine Kinder abholen - I have to pick up my children
 Bald soom
 	Ich gehen ins bald restaurant
+
+Lass Let's 
+	Lass ins Theater gehen / let's go to the theater
+
+Führerschein - driver license
+	Fahren - drive
+	Führer - driver 

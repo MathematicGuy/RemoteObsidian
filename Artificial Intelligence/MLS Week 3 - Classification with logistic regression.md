@@ -8,7 +8,6 @@ $$J(\vec{w}, b)$$This is the cost function. It represents the average error over
 **Loss function:** $L(\dots)$ applies to a single training examples
 
 ---
-
 # Classification with logistic regression
 ### Motivation
 Classify Spam using linear regression upon a threshold >= 0.5

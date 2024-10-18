@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f32c2afd7c10b9ba",
+        "id": "51169ead752423b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d5216feb359977",
+            "id": "8983b8200cc6d93b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,17 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "aa0788e02f239383",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Focus/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Focus/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           },
           {
@@ -180,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "_Focus/Todo.md"
+              }
             }
           }
         ],
@@ -204,10 +201,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa0788e02f239383",
+  "active": "8983b8200cc6d93b",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
