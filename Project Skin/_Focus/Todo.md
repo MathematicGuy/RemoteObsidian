@@ -5,7 +5,7 @@ banner: Images/Pasted image 20240402135259.png
 ![[Pasted image 20240929225308.png]]
 #Todo/Priority  
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club) - can use ChatGPT
-- [ ] Wake up early tomorrow, buy food and exchanget for cash for gas
+
 
 #Todo/[[GoalsThisWeek]]
 \
@@ -17,7 +17,7 @@ banner: Images/Pasted image 20240402135259.png
 #MyRuleThat_I_SwearToLiveBy
 - [ ] No LoL after 16:00 (4PM)
 - [ ] Exercise right after waking up 
-- [ ] To be the person that I am. I must let the person that I not die.
+- [ ] To be the person that I am. I must let the person that I not. Die
 
 
 **My Learning**

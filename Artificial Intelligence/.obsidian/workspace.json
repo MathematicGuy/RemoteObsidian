@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5b429f276e830688",
@@ -198,8 +199,10 @@
   },
   "active": "06e1815742b24060",
   "lastOpenFiles": [
-    "Pasted image 20241017170502.png",
+    "Pasted image 20241018100747.png",
     "MLS Week 3 - Classification with logistic regression.md",
+    "Pasted image 20241018100807.png",
+    "Pasted image 20241017170502.png",
     "Pasted image 20241017170515.png",
     "Pasted image 20241017165923.png",
     "2 ACTIONS/_Focus.md",
@@ -209,8 +212,6 @@
     "Pasted image 20241017160527.png",
     "Pasted image 20241017160424.png",
     "Pasted image 20241017160231.png",
-    "Pasted image 20241017160057.png",
-    "Pasted image 20241017155517.png",
     "Optimization in Neural Network and Newton's Method Final Test.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Lesson 1 - Optimization in Neural Network.md",

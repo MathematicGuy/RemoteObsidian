@@ -28,3 +28,6 @@ Output Example:
 ![[Pasted image 20241017170515.png]]
 
 ## Decision Boundary
+![[Pasted image 20241018100807.png]]
+
+
