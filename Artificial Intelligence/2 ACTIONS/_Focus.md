@@ -15,6 +15,8 @@
 - [ ] Course 2 Deep Learning
 - [ ] Course 3 Deep Learning
 
+**Critical Thinking**
+- [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh)
 
 #main
 - [ ] [[how_my_thinking_work]]

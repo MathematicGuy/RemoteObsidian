@@ -11,6 +11,84 @@ $\times$: vector multiplication
 **Ví Dụ** (note: $R^{3}\to R^3$ describe the function takes **input from 3D space and gives an output in 3D space.**)
 ![[Pasted image 20241016091552.png]]
 
+**[[The Jacobian Matrix Subtitle]]**
+Derivative -> Gradient -> Jacobian Matrix
+Perturbation: nhiễu loạn (unwanted values changes)
+Sensitivity is a good term for rate of change.
+
+**Derivative**: show how as a function changing at point (a, b)
+
+**Gradient:** consider a scalar function with multiple inputs. **The Gradient** is nothing more than the **Partial Derivative of the function with respect of each independent parameter**)
+$$\bar{\mathbf{x}} = \left[\begin{matrix}
+x_{1} \\ x_{2} \\ \vdots \\ x_{n}
+\end{matrix} \right]$$
+![[Pasted image 20241017103026.png]]
+Example for each point in $\bar{x}$ 
+![[Pasted image 20241017115447.png]]
++ ? The Gradient Vector can be annotate either in row or column vector. Although Gradient naturally a row vector (row vector by default)
+
+
+**Partial Derivative of a function with respect to a variable**.  (e.g. $x_{1}$ or $x_{2}$) **measures how sensitive the function's output is to changes in that specific variable**, while keeping all other variables constant. 
++ ? For example: The partial derivative of a function with respect to $x_1$ tells us how the function $f(x1, x2)$ is affected when $x_{1}$​ changes, while $x_2$​ remains fixed. The same for $x_{2}$.
+	![[Pasted image 20241017103101.png]]
+$$\nabla f\bar{x} = \left[\begin{matrix}
+\frac{\partial f(\bar{x})}{\partial x_{1}} \\ \frac{\partial f(\bar{x})}{\partial x_{2}}
+\end{matrix}\ \right] = \left[ \begin{matrix}
+\partial x_{1} \\ 3x_{2}^2
+\end{matrix} \right]$$
++ $ The 1st partial show the sensitivity of f to change in $x_1$, the 2nd partial show sentivitity of f to changes in $x_2$ 
+
+
+Now let extent the ideas of the Gradient for **Jacobian Matrix** (i.e. image below): 
+![[Pasted image 20241017114823.png]]
++ ? The Jacobian Matrix below contain the partial derivative of all the functions above. 
+**Jacobian Matrix:** a partial set of derivative **asking how do each scalar function (i.e. $f_1$, $f_{2}$, $f_n$) change as these input parameters $x_{1}, x_{2},...,x_n$ changes.**
+note: $\bar{f}(\bar{x})$: mean **vector function $\bar{f}$** of **vector  $\bar{x}$** (Vector Value Function (input vector, output vector)
+$$\bar{\mathbf{x}} = \left[\ \begin{matrix}
+x_{1} \\ x_{2} \\ \vdots \\ x_{n}
+\end{matrix}\ \right]$$
+
+
+For each scalar-valued function $f_i(\bar{x})$, the gradient vector $\nabla f_i(\bar{x})$ is defined as a column vector containing the partial derivatives with respect to each variable: 
+$$\bar{f}(\bar{x}) = \left[\ \begin{matrix}
+ f_{1}(\bar{x}) \\ f_{2}(\bar{x}) \\ \vdots \\ f_{3}(\bar{x})\
+\end{matrix}\right]$$
+**Scalar Function Visualization** with each plane represent a function.
+![[Pasted image 20241017115356.png]]
+
+
++ ? **Standard Matrix format is where rows correspond to functions and columns to variables**. Thus we have to transpose Each vector function (i.e. gradient) 
++ $ The Jacobian matrix is constructed by stacking these transposed gradient vectors for each component function $f_i$ .
+$$\implies J(\bar{x}) = \frac{\partial \bar{f}}{ \partial \bar{x}} = 
+\left[\ \begin{matrix}
+ \nabla f_{1}(\bar{x}) ^{T} \\
+ \nabla f_{2}(\bar{x}) ^{T}  \\
+ \vdots \\
+ \nabla f_{n}(\bar{x}) ^{T}
+ \end{matrix}\ \right] = 
+ \left[  
+ \begin{matrix} 
+  \frac{\partial f_{1}(\bar{x})}{\partial x_{1}} & \frac{\partial f_{1}(\bar{x})}{\partial x_{1}} & \dots & \frac{\partial f_{1}(\bar{x})}{\partial x_{n}}  \\
+ \frac{\partial f_{2}(\bar{x})}{\partial x_{1}} & \frac{\partial f_{2}(\bar{x})}{\partial x_{1}} & \dots & \frac{\partial f_{2}(\bar{x})}{\partial x_{n}} \\ 
+ \vdots & \vdots & \ddots & \vdots \\
+ \frac{\partial f_{n}(\bar{x})}{\partial x_{1}} & \frac{\partial f_{n}(\bar{x})}{\partial x_{1}} & \dots & \frac{\partial f_{n}(\bar{x})}{\partial x_{n}} 
+ \end{matrix}
+\right]
+$$
+The Jacobian Matrix show the sensitivity of $x_{1}$ and $x_{2}$ to each gradient function. It basically tells you
+the complete sensitivity or all the slopes i of each function (i.e. each derivative)
+![[Pasted image 20241017114615.png]]
+every single derivative.
+
++ ? Example (with 3 functions above):
+ ![[Pasted image 20241017120139.png]]
+
+```ad-summary
+set of partial derivative of functions with respect of each individual parameter.
+```
+Another Example:
+![[Pasted image 20241017154053.png]]
+
 ---
 # [[What is Jacobian - The right way of thinking derivatives and integrals]]
 

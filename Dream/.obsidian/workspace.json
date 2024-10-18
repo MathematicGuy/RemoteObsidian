@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49fc57c64916101e",
+        "id": "d8ee903dc727ee1a",
         "type": "tabs",
         "children": [
           {
-            "id": "5d4bb5afd483ebdf",
+            "id": "5bb59e15ffbf23d8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab7739a99214d6a4",
@@ -164,14 +165,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d4bb5afd483ebdf",
+  "active": "5bb59e15ffbf23d8",
   "lastOpenFiles": [
+    "Flow.md",
+    "Pasted image 20241017164510.png",
+    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+    "_Focus.md",
     "1 PROJECTS/This Year Goal.md",
     "1 PROJECTS/Masters vs. Slaves - Nietzsche's Genealogy of Morality.md",
     "2 ACTIONS/_My Life/Styles.md",
     "3 RESOURCES/_Productivity & Improvement/Achive More by Doing Less.md",
     "3 RESOURCES/_Productivity & Improvement/Communication Skills.md",
-    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "3 RESOURCES/_Productivity & Improvement/4 Reasons Hard Work DOES NOT Beat Talent.md",
     "3 RESOURCES/_Productivity & Improvement/English Tips.md",
     "3 RESOURCES/_Happiness/Best video about Trauma and What could have been.md",
@@ -189,9 +193,6 @@
     "3 RESOURCES/_Question Mark/Reason why you not understand what they understand.md",
     "3 RESOURCES/_Question Mark/For People Who.md",
     "3 RESOURCES/_Question Mark/Superpower Disorder Explained.md",
-    "4 ARCHIVES/_Social/sfmgf.md",
-    "4 ARCHIVES/Why Credit card.md",
-    "3 RESOURCES/_Happiness/_Happiness.md",
     "Pasted image 20240922220424.png",
     "Pasted image 20240922214642.png",
     "Pasted image 20240920085830.png",
@@ -201,7 +202,6 @@
     "Pasted image 20240813232641.png",
     "Pasted image 20240813232116.png",
     "Pasted image 20240813232119.png",
-    "Pasted image 20240811084448.png",
     "fitness",
     "3 RESOURCES/Fitness",
     "Spaces/Home",
