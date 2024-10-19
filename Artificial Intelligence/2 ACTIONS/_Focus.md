@@ -4,25 +4,29 @@
 - [x] Understand Jacobian ([Jacobian Matrix](https://youtu.be/QexBVGVM690?si=n0aBabBOMdvkmo27))
 - [ ] Differential
 - [ ] Explain and Document every important math symbols
+- [Statistic](https://youtu.be/LgLgexX7iTs?si=FCvX848ozl-hM6P3)
+
 **Machine Learning**
 (Ask myself Question/Quizz after each Section)
 (Rebuild 3 Weeks Project by myself after finishing them)
 - [ ] [[MLS Week 1 - Supervised Machine Learning Regression and Classification]]
 - [ ] [[MLS Week 2 - Regression with multiple input variables]]
 - [ ] [[MLS Week 3 - Classification with logistic regression]]
+
+
 **Deep Learning**
 - [ ] Course 1 Deep Learning
 - [ ] Course 2 Deep Learning
 - [ ] Course 3 Deep Learning
 
+
 **Critical Thinking**
 - [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh)
 
+
+
 #main
 - [ ] [[how_my_thinking_work]]
-- [ ] [Basic of Deep Learning (Conputer Vision)](https://nttuan8.com/bai-1-linear-regression-va-gradient-descent/#Python_code) (Chap 1:  LR $\rightarrow$ Chap 6: CNN)
-	this can explain how the fomula below work
-	![[Pasted image 20241003101059.png]]
 - [[Aha]]
 + [[weekly report]]
 	+ [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)

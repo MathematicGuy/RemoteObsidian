@@ -159,7 +159,8 @@ $\frac{\Delta(\sin x)}{\Delta x} = \cos x$  and  $-\frac{\Delta(\cos x)}{\Delta 
 
 ## Derivative of $e^x$
 ![[Pasted image 20240713141928.png]]
-> To Theory, e^x cannot be larger than ~ 2.71828. And if there is it just a super minimum amount. Therefor e^x2 ~ e^x1. So The Derivative should just be e^x.
+> To Theory, e^x cannot be larger than ~ 2.71828. And if there is it just a super minimum amount. Therefor e^x2 ~ e^x1. So The Derivative should just be $e^x$.
++ $ The rate of change of $e^x$ is $e^x$ since no matter how $x$ increase $e$ remain the same.
 
 To verify that let calc the Slope of $e^x$. Since $\Delta x \to 0$,  $e^{x + \Delta x}$ will come closer to $e^x$ , calc the Slope for every x we see that the Slope will always end up with 7.39 which is $e^2$
 ![[Pasted image 20240713143208.png]]

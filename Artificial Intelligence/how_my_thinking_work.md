@@ -10,3 +10,6 @@ Jump straight into problem solving mode trying to find the solution.
 
 Everytime I receive (i.e. read, listen, see) sth I do not or merely understand  my brain distract itself by sth it understand and knowed. 
 + ? Might be Reason: In concentration mode, the brain must keep the stream of though flowing therefor it replace what need to be done with what can be done at the moment. 
+
+
++ ? Don't make thing complicated by not assume sth right without evidence. Math is all about simplify, remember "conclude" mean narrow down answers and problems. 

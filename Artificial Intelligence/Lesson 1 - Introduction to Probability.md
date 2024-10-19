@@ -16,6 +16,9 @@
 	probability or degree of belief that the event will occur. P (A) is called
 	the probability of A.
 
+**Odd** = Total Even happened / Total Even not happened
+**Odd Ratio** = Odd of Event happened / Odd of Event not happended  
+![[Pasted image 20241018141326.png]]
 
 # What is probability
 Say we have 10 kids, 3 kids play soccer, 7 kids don't play soccer. Easily we find out, taking 3 kids out of the total 10 would return the prob for kid's playing soccer.
