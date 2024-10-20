@@ -8,7 +8,7 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #Todo/[[GoalsThisWeek]]
-\
+
 
 #Todo/[[GoalsThisMonth]]
 - [ ] Learn German Direct and Indirect case

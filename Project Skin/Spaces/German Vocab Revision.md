@@ -807,3 +807,4 @@ den (use in accusative case to point out a Object)
 Öffnen Sie dein koffe bitte. (accuse: point to the suitcase requested to be open)
 
 Das Modell - the model
+
