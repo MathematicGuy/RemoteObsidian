@@ -2687,3 +2687,7 @@ Lass Let's
 Führerschein - driver license
 	Fahren - drive
 	Führer - driver 
+
+
+Siebzehn Uhr ~ Seventeen o'clock ~ Five o'clock (in PM)
+

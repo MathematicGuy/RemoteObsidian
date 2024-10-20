@@ -618,7 +618,7 @@ Willkommen, Was möchten Sie im Urlaub machen - welcome, what would you like to 
 
 Wie funktioniert die fernsehen / how does the TV work ?
 
-pro Nacht
+pro Nacht - per night
 	Die Hotel sind elegant, Einzelzimmer kostet hundred euro pro nachts
 
 Nein, das Zimmer hat keinen Balkon (when to use hat)
@@ -805,3 +805,5 @@ Pünktlich - on time
 Öffnen open
 den (use in accusative case to point out a Object)
 Öffnen Sie dein koffe bitte. (accuse: point to the suitcase requested to be open)
+
+Das Modell - the model
