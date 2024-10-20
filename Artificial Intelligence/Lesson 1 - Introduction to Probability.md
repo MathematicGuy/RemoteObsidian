@@ -82,13 +82,46 @@ Example of **prosibilties kid play soccer and basketball**:
 **Disjoint Event vs Joint Events**
 ![[Pasted image 20241020142455.png]]
 
+**Problem:**  
+You roll two dice. Find the probability that either:
+- The sum of the dice is 7, or
+- The difference between the dice is 1 (e.g., pairs like 1 & 2, 2 & 3, etc.).
 
-Join Event part 
-Problem: Rolls 2 Dice. Find the prob of 2 dices have the sum of 7 or diff of 1 from each others. (e.g. dice1 & dice2 is 1&2, 2&3, etc..) 
-Answer: Total dices roll diff of 1 is 12, 23, 34, 45, 56 and reverse, equal 10 cases. and problem 2 dices sum equal 7 is 34, 52, 61. Clearly "34" in "P(sum=7)" collab with "34 and 43" in P(diff=1), thus $P(\text{sum}=7 \cap \text{diff=1}) = 2$ cases. So Probability of getting sum=7 or diff=1 is $P(\text{sum}=7 \cup \text{diff=1}) = P(\text{sum=7}) + P(\text{diff=1}) - P(\text{sum}=7 \cap \text{diff=1})$   
+**Solution:**
+1. **Total possible outcomes:**  
+   Rolling two dice has 36 possible outcomes (6 faces on each die, so $6 \times 6 = 36$).
+
+2. **Probability of the difference being 1:**  
+   The pairs where the dice differ by 1 are:  
+   $$(1,2), (2,3), (3,4), (4,5), (5,6) \quad \text{and the reverse:} \quad (2,1), (3,2), (4,3), (5,4), (6,5)$$  
+   That's 10 outcomes in total, so the probability is:  
+   $$\frac{10}{36}$$
+
+3. **Probability of the sum being 7:**  
+   The pairs where the dice sum to 7 are:  
+   $$(1,6), (2,5), (3,4) \quad \text{and the reverse:} \quad (6,1), (5,2), (4,3)$$  
+   That's 6 outcomes in total, so the probability is:  
+   $$\frac{6}{36}$$
+
+4. **Overlap (both sum = 7 and difference = 1):**  
+   Notice that $(3,4)$ and $(4,3)$ appear in both the "sum = 7" and "difference = 1" cases. These are counted twice, so we subtract their probability:  
+   $$P(\text{sum=7 and diff=1}) = \frac{2}{36}$$
+
+5. **Final probability (sum = 7 or difference = 1):**  
+   Using the inclusion-exclusion principle:  
+   $$P(\text{sum=7 or diff=1}) = P(\text{sum=7}) + P(\text{diff=1}) - P(\text{sum=7 and diff=1})$$  
+   $$= \frac{6}{36} + \frac{10}{36} - \frac{2}{36} = \frac{14}{36} = \frac{7}{18}$$
 ![[Pasted image 20241004094605.png]]
+```ad-summary
+**Simplified Explanation:**
+- There are 36 possible outcomes when rolling two dice.
+- 10 outcomes have a difference of 1 between the dice, and 6 outcomes have a sum of 7.
+- Two outcomes (3,4 and 4,3) fit both conditions, so we subtract them once to avoid double-counting.
+- The final probability of getting either a sum of 7 or a difference of 1 is $\frac{7}{18}$.
+```
 
-### independent
+
+### Independent
 > Independence happens when the occurrence of one event does not affect the probability of the occurrence of another even. (opposite of chess)
 
 **Example**
