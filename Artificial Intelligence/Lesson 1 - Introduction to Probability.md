@@ -57,17 +57,35 @@ $T$: target space
 
 
 
-Bayes Theorem
+### Bayes Theorem
 ![[Pasted image 20241004092204.png]]
 
-**Disjoin Event**
+### **Disjoin Event**
+![[Pasted image 20241020135645.png]]
+**Mutually Exclusive Event**
+> Event that are not related to eachother. Probability of 2 events Happened is its sum.
+> $P(A \bigcup B) = P(A) + P(B)$
 
-**Join Event**
-![[Pasted image 20241004094448.png]]
 
-**Disjoint vs Joint**
-![[Pasted image 20241004094525.png]]
-Join Event part
+### **Join Event**
+**Non-mutually Exclusive Event**
+Example of **prosibilties kid play soccer and basketball**:
+>   Total kid is 10, kid play soccer and basketball are 6 and 5 respectively. The goal is to find how many kid that are playing sport, first notice that if we group soccer and basketball together the sum would be over ten, that because there is always are some kids who played both sports, in other word some kids got counted 2 times (Intersect of 2 Event: soccer and basketball)
+>   ![[Pasted image 20241020134633.png]]
+>   To solve this issue, we simply subtract kids who played both sport given there're 3 of them.
+>   ![[Pasted image 20241020135157.png]]
+>   **Visualize Answer**
+>   ![[Pasted image 20241020135335.png]]![[Pasted image 20241004094448.png]]
++ ? Replace numbers of kids as possibility of kids we got the fomula to calc probabilty kids played sport: ![[Pasted image 20241020135557.png]]
+
+
+**Disjoint Event vs Joint Events**
+![[Pasted image 20241020142455.png]]
+
+
+Join Event part 
+Problem: Rolls 2 Dice. Find the prob of 2 dices have the sum of 7 or diff of 1 from each others. (e.g. dice1 & dice2 is 1&2, 2&3, etc..) 
+Answer: Total dices roll diff of 1 is 12, 23, 34, 45, 56 and reverse, equal 10 cases. and problem 2 dices sum equal 7 is 34, 52, 61. Clearly "34" in "P(sum=7)" collab with "34 and 43" in P(diff=1), thus $P(\text{sum}=7 \cap \text{diff=1}) = 2$ cases. So Probability of getting sum=7 or diff=1 is $P(\text{sum}=7 \cup \text{diff=1}) = P(\text{sum=7}) + P(\text{diff=1}) - P(\text{sum}=7 \cap \text{diff=1})$   
 ![[Pasted image 20241004094605.png]]
 
 ### independent
