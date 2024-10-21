@@ -64,4 +64,82 @@ Let's figure out when wx plus b is **greater than equal to 0 and when wx plus b 
 
 ![[Pasted image 20241018163704.png]]
 
+### Simplified loss function
+**y equal only 0 or 1**
+![[Pasted image 20241021141609.png]] 
 
+### Gradient Descent Implementation
+**Training logistic regression**
+![[Pasted image 20241021144235.png]]
+
+![[Pasted image 20241021144432.png]]
+
+Use GD as a tool to update paramaters for Logistic Regression.
+![[Pasted image 20241021144455.png]]
+
+## Regularization to Reduce Overfitting
+#### The Problem of Overfitting
+>Regression Example
+![[Pasted image 20241021145738.png]]
++ ? Overfit: might have too many features 
++ $ You can fix this by train model on the more relevant features rather than un-useful features, it may generalize better to new examples.
++ $ Add more data points to the dataset help model to generalize better to new examples. 
+![[Pasted image 20241021150214.png]]
+
+#### Addressing overfitting
+When overfitting occur, find more data (i.e.  more training example):
+ ![[Pasted image 20241021151627.png]]
+
+##### Feature Selection: Choose features that are useful and remove those aren't.
+![[Pasted image 20241021151754.png]]
+
+#### Regularization (reduce overfitting)
++ $ Regularization reduce the effect of the selected features while reserve all features, this can help to build accurate curve but not overfitting.
++ ? Use this to Regularize un-useful features.
+Setting a feature to 0 or close to 0 to eliminate feature.
+![[Pasted image 20241021152154.png]]
+
+### Cost function with regularization
+![[Pasted image 20241021153601.png]]
+**For example:** replace $w_{3}, w_{4}$ with 0.001.
+penalize (pronoun as pi-nerlized)
++ ? Simpler model less likely to overfit.
+
+So we have 100 parameters W1 through W100, because we **don't know whick of these parameters are going to be the important ones. Let's penalize all of them** by adding $\lambda$ multiplyng with $W$ : 
+![[Pasted image 20241021155704.png]]
++ ? $\lambda$: **regularization factor**, treat it like learning rate $\alpha$. (divided by 2 to scale equally to the cost function)
++ ? $b$ also **used for regularization for special cases**. but make a very low diff in practice. normally just use $\lambda$.
+![[Pasted image 20241021155934.png]]
+
+**Summarize**
+> Want to **minimize the "original cost: mean square error + regularization term"**
+![[Pasted image 20241021160834.png]] 
+  This new cost function trades off 2 goals that you might have. 
+  + If you set $\lambda=0$ , you end up with this overly wiggly and complex curve. ***Overfit*** ($\lambda$  too small)
+	  ![[Pasted image 20241021161648.png]]
++ If $\lambda=10^{10}$, $w$ in regularization term would be very large and the only way to minimize this is $\lambda \approx 0$. **So if $\lambda$ is very very large, the learning algorithm will adjust** $W_{1}, W_{2}, W_{3}$ and $W_{4}$ to be **extremely close to 0**. So F(x) is basically equal to $b$ thus **representing a straight line.** ***Underfit*** ($\lambda$ too large)
+	![[Pasted image 20241021161936.png]]
+	![[Pasted image 20241021162026.png]]
++ Choose just right $\lambda$
+
+## Regularized linear regression
++ ? Learn to make GD work with Regularized linear regression.
+![[Pasted image 20241021162536.png]]
+>We don't change $b$ because the regulization term force us to change $w_{j}$ not $b$.
+>($w_j$ represent new added features)
+
+![[Pasted image 20241021163015.png]]
+**Example** how $w_{j}$ shrink a little by 1 iteration.
+![[Pasted image 20241021163218.png]]
+
+**Partial derivative w.r.t $w_{j}$ for calc the Gradient Descent:**
+![[Pasted image 20241021163422.png]]
+
+### Regularized logistic regression
+>Modify cost function -> Add $\lambda$ function
+![[Pasted image 20241021211350.png]]
+
+>How to minimize the cost function ? Just like linear regresion, except for F(x) function, its logistic regression. 
+![[Pasted image 20241021224305.png]]
+
+[[Logistic Regression Lab - Predict whether a student gets admitted into a university]]

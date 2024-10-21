@@ -89,8 +89,8 @@ $$ J(\theta) = - \frac{1}{N} \sum_{i=1}^{N} [y_i \log(\hat{y}_i) + (1 - y_i) \lo
 
 #### **Understanding Each Component**
 
-- **$ y_i \log(\hat{y}_i) $**: If the actual label $y_i$ is 1, this term becomes $\log(\hat{y}_i)$, heavily penalizing the cost if $\hat{y}_i$ (the predicted probability) is low.
-- **$ (1 - y_i) \log(1 - \hat{y}_i) $**: If the actual label $y_i$ is 0, this term becomes $\log(1 - \hat{y}_i)$, heavily penalizing the cost if $\hat{y}_i$ is high (i.e., the model incorrectly predicts a high probability for class 1).
+- **$y_i \log(\hat{y}_i)$**: If the actual label $y_i$ is 1, this term becomes $\log(\hat{y}_i)$, heavily penalizing the cost if $\hat{y}_i$ (the predicted probability) is low.
+- **$(1 - y_i) \log(1 - \hat{y}_i)$**: If the actual label $y_i$ is 0, this term becomes $\log(1 - \hat{y}_i)$, heavily penalizing the cost if $\hat{y}_i$ is high (i.e., the model incorrectly predicts a high probability for class 1).
 
 #### **Graphical Representation**
 

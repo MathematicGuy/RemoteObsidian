@@ -2359,9 +2359,12 @@ Lange - long
 Wie lange - how long
 	Wie lange wollen Sie bleiben
 
+# Section 3
+## Unit 1: Discuss a new job
 Nehmen - take
 	![](https://d2pur3iezf4d1j.cloudfront.net/images/f4639160abfb44c54829ebeb62c0542d)
 	Wollen Sie das Einzelzimmer Nehmen - Do you want to take the single room?
+	Können Sie Schlüssel nehmen, Frau Graf 
 
 Willkommen, Was viele möchten Sie im Urlaub machen - welcome, what do you want to do on vacation.
 Rezeption - reception
@@ -2665,6 +2668,7 @@ grau grey
 Herzlichen Glückwunsch zum Geburtstag - happy birthday
 
 
+## Talk About Your Habits
 Pünktlich - on time
 in einem ... (dative case - used after in) 
 Sein - to be (infinitive form of the verb to be)
@@ -2690,4 +2694,7 @@ Führerschein - driver license
 
 
 Siebzehn Uhr ~ Seventeen o'clock ~ Five o'clock (in PM)
+
+Sportlich athelic
+Der Fahrrad bicycle (r pronoun in g. motorgad)
 

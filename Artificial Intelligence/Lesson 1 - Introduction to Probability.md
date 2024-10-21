@@ -1,4 +1,4 @@
-`note from Page 175, Mathematics for Machine Learning book`
+ `note from Page 175, Mathematics for Machine Learning book`
 **The sample space Ω**
 	The sample space is the set of all possible outcomes of the experiment, sample space usually denoted by Ω. For example, two successive coin tosses have
 	a sample space of {hh, tt, ht, th}, where “h” denotes “heads” and “t”

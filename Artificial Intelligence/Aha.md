@@ -12,3 +12,10 @@
 + Deep Work > Shallow Work 
 	Deep Work requirement: work <> life balance. enjoy what you enjoy, learn when you learned, don't fear of the uncertainty, it was those challanges make life worth living.
 -> Be a Seeker, Adventure as your free will allow. 
+
+**The Higher the Degree the more point a line have.** x represent a point of the line f(x).
+> Like in figma, the more point you add to the line, the more you can manipulate/bench it shape. Just imagnie what a overfitting line would be:
+![[Pasted image 20241021152924.png]]
+   yes it connect to all points and not a straight line. 
+![[Pasted image 20241021153040.png]]
+

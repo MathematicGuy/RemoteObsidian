@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5058a1d13a5d40f3",
+        "id": "02641e19932ac188",
         "type": "tabs",
         "children": [
           {
-            "id": "46caf3db4ca1dd23",
+            "id": "24a8ba28e67ceb2d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "94d11bcbbd5c845a",
+            "id": "ef8bc7ed2fa837fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 1 - Introduction to Probability.md",
+                "file": "Logistic Regression Lab - Predict whether a student gets admitted into a university.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 - Introduction to Probability"
+              "title": "Logistic Regression Lab - Predict whether a student gets admitted into a university"
             }
           }
         ],
@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "2b564c9843b8078f",
+            "id": "4215d23b543a78ae",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,45 +207,45 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "94d11bcbbd5c845a",
+  "active": "ef8bc7ed2fa837fb",
   "lastOpenFiles": [
-    "image/Pasted image 20241020142455.png",
-    "Pasted image 20241004094525.png",
-    "Lesson 1 - Introduction to Probability.md",
+    "Python.md",
+    "Logistic Regression Lab - Predict whether a student gets admitted into a university.md",
+    "image/Pasted image 20241022011834.png",
+    "image/Pasted image 20241022002926.png",
+    "image/Pasted image 20241022001943.png",
+    "image/Pasted image 20241022001923.png",
     "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20241020135645.png",
-    "image/Pasted image 20241020135557.png",
-    "image/Pasted image 20241020135335.png",
-    "image/Pasted image 20241020135157.png",
-    "image/Pasted image 20241020134633.png",
-    "image",
-    "Statistic and Probability for Machine Learning.md",
-    "Statistical Regression.md",
+    "Aha.md",
+    "image/Pasted image 20241021233417.png",
+    "image/Pasted image 20241021233042.png",
+    "image/Pasted image 20241021232916.png",
+    "image/Pasted image 20241021232857.png",
+    "image/Pasted image 20241021232850.png",
     "MLS Week 3 - Classification with logistic regression.md",
-    "Pasted image 20241018163501.png",
-    "Pasted image 20241018163704.png",
-    "Pasted image 20241018163428.png",
-    "Pasted image 20241018163452.png",
+    "image/Pasted image 20241021224305.png",
+    "Lesson 1 - Introduction to Probability.md",
+    "Lesson 1 - Optimization in Neural Network.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Optimization in Neural Network and Newton's Method Final Test.md",
+    "Optimization in Neural Networks and Newton's Method.md",
+    "text.md",
+    "TensorFlow Code.md",
     "Logarithm and Log-Likelihood Function.md",
+    "Derivative Fomula.md",
+    "Log Loss Function in NN Model for Multiple Traning Example.md",
+    "Natural Logarithm.md",
+    "Statistic and Probability for Machine Learning.md",
+    "Cost function.md",
+    "Logistic Regression.md",
+    "image",
+    "Statistical Regression.md",
     "Calculus_Optimization.md",
     "Calculus_Derivative.md",
     "likelihood function.md",
-    "Natural Logarithm.md",
-    "Logistic Regression.md",
-    "Optimization in Neural Network and Newton's Method Final Test.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
     "Linear Regression.md",
-    "base.md",
-    "exponent.md",
-    "how_my_thinking_work.md",
-    "Cost function.md",
-    "Complete Mathematic for Neural Network.md",
-    "Lesson 1 - Optimization in Neural Network.md",
-    "Lesson 2 - Newton's Method.md",
-    "Optimization in Neural Networks and Newton's Method.md",
-    "Jacobian Matrix.md",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

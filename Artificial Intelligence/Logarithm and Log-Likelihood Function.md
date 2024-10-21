@@ -37,14 +37,14 @@ Understanding the properties of logarithms is crucial because they simplify comp
 **Conversion using Logarithm Example** 
 $\log_b(MN) = \log_b(M) + \log_b(N)$
 $\log_b(M^k) = k \cdot \log_b(M)$
-
+ 
 $p^{8}(1-p)^2$ 
-$\log(p^{8}(1-p)^{2)}$ (Since $2^{3}=8$ )
+$\log(p^{8}(1-p)^{2})$  (Since $2^{3}=8$ )
 **Apply Product Rule**:
 $\log(p^8) + \log((1-p)^2)$
 **Apply Power Rule**
 $8\log(p) + 2\log(1-p)$
-
+ 
 ### [[Natural Logarithm]]
 > $e^x$ **represent continuous growth and change**
 > Số mũ tự nhiên $e = \left( 1 + \frac{1}{n} \right)^{n}, \space n \to \infty$   (Tốc độ tăng trưởng tối đa của lãi suất sau vô tận ngày)
@@ -135,6 +135,46 @@ $\left(\text{Likelihood of an Event} = \text{Event Success Possibility} * \text{
 This function tells us how likely different values of $p$ are, given our observed data.
 
 ---
+### Bernoulli Distribution
+![[Pasted image 20241021084320.png]]
+
+### Likelihood
+>Using Bernoulli to calc someone to have cancer or not, however by **multipling the probability got smaller then result in super small value. That one of the reason why we calc the natural logarithm instead by convert multiplication to addition**. (using Product Rule and Power Rule)
+![[Pasted image 20241021085007.png]]
+
+#### Maximum Likelihood
+> Use to **estimate the parameters in logistic regression.** 
+
+**The coefficient $b_{0}, b_{1}$ are the ones that result in the maximum likelihood of the model.**
+![[Pasted image 20241021085608.png]] ![[Pasted image 20241021085639.png]]
+
+#### LL Null Model (Likelihood Null Model)
+> **LL Null Model is a Model with an intercept** $b_{0}=0$ 
+> $$P\left( \text{cancer} \right) = \frac{1}{1+e^{-b_{0}}} = 0.5$$  The null model therefor present a horizontal line in this plot at 0.5. Since we got an equal sample 
+  of 2 groups.
+![[Pasted image 20241021090012.png]]
+  Therefor all probability in the Bernoulli func are 0.5, in Likelihood Model are 0.0000061 and Log-Likelihood Model are -9.704.
+![[Pasted image 20241021090434.png]]
+![[Pasted image 20241021090029.png]]
+
+#### LL Staturated Model
+> Saturated model is a **model where the fitted values are equal to the observed values.**
++ ? The predicted cancer cases are therefor 1 and the predicted case for healthy are 0. Thus the accuracy is 100%, the likehood for all datapoints are 1. 
+![[Pasted image 20241021091016.png]]
+Since natural log of 1 is 0, the log likelihood of the saturated model is = 0.
+![[Pasted image 20241021091022.png]]
+
+In summary, this is the likelihood of all 3 models. If our proposed model is a **good model that explains the data. The log likelihood should be as high as possible.**  
++ ? If our model fits almost perfectly to the data, it will have a log likelihood close to the staturated model.
++ ? If  our model doens't explain the data well, it will have a **log-likelihood close to the null model, which is a model with no explanatory variables.**
+![[Pasted image 20241021091154.png]]
+ 
+Once we calc the log-likelihood of all 3 model, we ready to calc the deviance
+![[Pasted image 20241021091616.png]]
+Since the log-likelihood for the saturated model in logistic regression is equal to zero, we can eliminate this term from 2 equations:
+![[Pasted image 20241021091744.png]]
+>A good model should have as low residual deviance (độ lệch dư) as possible relative to the null deviance. 
+![[Pasted image 20241021091821.png]]
 
 ## **3. Leading Up to the Log-Likelihood Function**
 ### **Why Use the Log-Likelihood?**
@@ -142,6 +182,12 @@ This function tells us how likely different values of $p$ are, given our observe
 The likelihood function often involves products of probabilities, which can be cumbersome for computation and differentiation, especially with large datasets. **Taking the logarithm of the likelihood function simplifies these operations due to the properties of logarithms.**
 
 ### **Definition of the Log-Likelihood Function**
++ Likelihood Function ($L(\theta)$): represent how likely it is to observe the given data $X$, given the model parameters $\theta$. ($\theta$ is represents the **parameters of the statistical model** you're working with)
+$$L(\beta) = P(Y|X, \theta)$$      **where** 
+	- $Y$ is the observed outcome (dependent variable),
+	- $X$ is the observed feature or input data (independent variables),
+	- $\beta$ is the parameter vector (model coefficients).
+
 
 - **Log-Likelihood Function**:
   $$
@@ -182,7 +228,7 @@ Using the earlier coin toss example:
   $$
   - $\ln \binom{n}{k}$ is constant with respect to $p$ and can be ignored during optimization.
   - The log-likelihood simplifies the process of finding the $p$ that maximizes $L(p)$.
-
+ 
 ### **Connection to Maximum Likelihood Estimation (MLE)**
 
 - **Goal of MLE**: Find the parameter $\theta$ that maximizes the likelihood function $L(\theta | x)$.
@@ -246,3 +292,10 @@ $$
 ---
 
 **Understanding the primitive forms of the logarithm and likelihood functions provides a solid foundation for comprehending the log-likelihood function. This knowledge is crucial in statistical modeling and machine learning algorithms, such as logistic regression, where maximizing the log-likelihood function leads to the most probable model parameters given the observed data.**
+
+
+$$L(\theta) = \sum^{n}_{i=1} y_{i}\log(\sigma(\theta^{T}\bar{x_{i}})) + \dots+ (1-y_{i})\log(1- \sigma(\theta^{T}\bar{x_{i}}))$$
+
+![[Pasted image 20241021112606.png]]
+
+
