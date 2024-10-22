@@ -13,3 +13,4 @@ and we got
 ![[Pasted image 20240916222827.png]]
 Put m and b back to y = mx + b, we see that it always stay close to each data point.
 ![[Pasted image 20240916223058.png]]
+

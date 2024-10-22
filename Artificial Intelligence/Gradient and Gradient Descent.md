@@ -24,7 +24,7 @@ $=> f(x,y) = 6xy^3$
 	![[Pasted image 20240805103507.png]]
 
 ### Gradient
-	![[Pasted image 20240805105716.png]]
+![[Pasted image 20240805105716.png]]
 
 
 ### Gradients and maxima/minima (Start Here)
@@ -35,7 +35,7 @@ To Calculate the the function minimum, we **calc the Derivative of 2 variables a
 	![[Pasted image 20240805110029.png]]
 
 ### Optimization with gradients: An example (in 3D)
-+ $ $Motive: Find the **Coldest place in the Sauna Room** -> The coldest place in the room is when every other direction you walk are hoter.
++ $ **Motivation**: Find the **Coldest place in the Sauna Room** (The coldest place in the room is when every other direction you walk are hoter) -> Calc derivative of each each variables.
 	![[Pasted image 20240805110428.png]]
 	To get to that Coldest position we calc the Partial Dervative, we see that it symmetric to the floor.
 	![[Pasted image 20240805110505.png]]
@@ -82,7 +82,7 @@ Knowing the answer x=0.5671, is there a much easier way to approach this problem
 + $ Method 1: at the current position, goes both way up and down to see which better. But this is very computationaly expensive.
 ![[Pasted image 20240930104513.png]]
 
-+ $ $Method 2:  We know that the steeper the slope, the closer we're to the minimum point.
++ $ **Method 2:**  We know that the steeper the slope, the closer we're to the minimum point.
 	+ But First, how can we move? Well, the **slope is negative if it closer to the right and positive if it closer to the left.** Therefor by subtracting the slope, we can move in it opposite direction. i.e. **when the slope at x is negative, x increase and move to the left, when slope is positive, x decrease and move to the right.** (x move by a portion of the slope)
 	By moving in the opposite direction, we can always move downhill towards the minimum point. 
 		![[Pasted image 20240930104249.png]]

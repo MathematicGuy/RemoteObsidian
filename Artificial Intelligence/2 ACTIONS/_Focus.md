@@ -6,12 +6,24 @@
 - [ ] Explain and Document every important math symbols
 - [Statistic](https://youtu.be/LgLgexX7iTs?si=FCvX848ozl-hM6P3)
 
+**Why Statistic for Machine Learning? here why**
+![[Pasted image 20241022160449.png]]
+
+
 **Machine Learning**
+[[AIO2024]]
+
 (Ask myself Question/Quizz after each Section)
-(Rebuild 3 Weeks Project by myself after finishing them)
-- [ ] [[MLS Week 1 - Supervised Machine Learning Regression and Classification]]
-- [ ] [[MLS Week 2 - Regression with multiple input variables]]
-- [ ] [[MLS Week 3 - Classification with logistic regression]]
+[[Supervised Machine Learning - Regression and Classification]]
+- [x] [[MLS Week 1 - Supervised Machine Learning Regression and Classification]]
+- [x] [[MLS Week 2 - Regression with multiple input variables]]
+- [x] [[MLS Week 3 - Classification with logistic regression]]
+
+**Advance Learning Algorithms**
+- [ ] [[ALA Week 1 - Week Neural Networks]]
+- [ ] ALA Week 2 - Neural Network Training
+- [ ] ALA Week 3 - Advice for Applying Machine Learning
+- [ ] ALA Week 4 - Decision Trees
 
 
 **Deep Learning**
@@ -21,8 +33,7 @@
 
 
 **Critical Thinking**
-- [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh)
-
+- [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh) 
 
 
 #main
@@ -34,11 +45,13 @@
 
 
 #System
+- [ ] [[Intuition]]
 - [ ] [[Courses Pipeline]]
 	Mathematics -> General Machine Learning Knowledge -> Tensor Flow -> Deep Learning -> Computer Vision -> Project  
 **Study Pipeline**
 + Resource Research -> Turtorial/Courses -> Understanding -> Documenting -> Pratice Coding using my Document -> Improving -> Repeat
 + (Know what to learn/Bes t to learn) -> (Know what I learn) -> Remember what I learn -> Understand what I learn -> Apply What I Learn.  
+
 
 ## [[Machine Learning]]
 

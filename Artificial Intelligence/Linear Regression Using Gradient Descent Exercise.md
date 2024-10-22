@@ -27,6 +27,7 @@ adv.plot(x='TV', y='Sales', kind='scatter', c='black')
 ![[Pasted image 20240916211945.png]]
 
 ### Plotting Linear Regression Line
+(note: normalized data using Least Square Method)
 Before starting, we need to find the polynomial that fit to the graph/data points. "Tìm đa thực cho đồ thị"/"các điểm trên". 
 >We could use `np.polyfit` from numpy to finds the coefficients (hệ số) of a [[polynomial]] (đa thức mũ 2) using [[Least Squares Method]] (basically **find m and b of a polynomial)** **of x: tv marketing and y: sales.**
 ```python
@@ -146,6 +147,8 @@ $$E\left(m, b\right) = \frac{1}{2n}\sum_{i=1}^{n} \left(\hat{y}^{(i)} - y^{(i)}\
 
 
 where $n$ is a number of data points. This function is called the sum of squares **cost function**. To use gradient descent algorithm, calculate partial derivatives as:
++ $ Goal: Minimize Cost using Cost Function. For cost function with multi-variable, we calc the derivative with respect to every variables. (i.e. $W, b$. where $W=[w_{1}, w_{2}, \space \dots, w_{n}], b=[b_{1}, b_{2},\dots, b_{n}]$) 
++ ? Because **Partial Derivative Derive from Cost Function** it calc the average **partial derivative** w.r.t all given variables for all point.  
   
 $$
 \begin{align}
