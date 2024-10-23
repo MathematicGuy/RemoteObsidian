@@ -180,7 +180,15 @@ Suppose you want to find the probability of n friend with the same birthday. We 
 ![[Pasted image 20241004101506.png]]
 + note: $ln(a^b)=b⋅ln(a)$, $1-x \approx e^{-x}$
 
+---
+**Terms:** 
+**relative:** sth relative mean it is dependent on other thing. e.g. relative values are dependent on other numbers. 
+**prevalence:** sth that is commo (phổ biến)
+**posterior probability**: probability that come after a probability, sth like consequence.
+
 ## Bayes Theorem - Intuition 
+**Goals:** Find the probability of a cause given its effect. 
+
 ![[Pasted image 20241004135004.png]]
 > (actual sick and diagnoised sick)  / (total people who was diagnoised sick) = $99 / 10098 = 0.0098$
 ![[Pasted image 20241004135234.png]]
@@ -221,3 +229,8 @@ write the answer down to paper.
 ![[Pasted image 20241004164722.png]]
 
 ![[Pasted image 20241016164445.png]]
+
+Todo:
+explain
+to 10 prop and statis
+coursera

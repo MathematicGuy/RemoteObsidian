@@ -13,6 +13,13 @@
 **Machine Learning**
 [[AIO2024]]
 
+[[Statistic and Probability for Machine Learning]]
+- [ ] [[]]
+- [ ] SaP Week 2 - Describing probability distributions and probability distributions with multiple variables
+- [ ] SaP Week 3 - Sampling and Point estimation 
+- [ ] SaP Week 4 - Confidence Intervals and Hypothesis testing
+
+
 (Ask myself Question/Quizz after each Section)
 [[Supervised Machine Learning - Regression and Classification]]
 - [x] [[MLS Week 1 - Supervised Machine Learning Regression and Classification]]
@@ -34,7 +41,7 @@
 
 **Critical Thinking**
 - [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh) 
-
+- [ ] [Dr.Art Math](https://www.dr-aart.nl/Fractions-menu.html)
 
 #main
 - [ ] [[how_my_thinking_work]]

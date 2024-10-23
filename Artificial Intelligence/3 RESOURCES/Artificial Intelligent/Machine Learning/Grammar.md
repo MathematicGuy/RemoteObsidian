@@ -13,4 +13,4 @@
 + plausibility: khả thi (có thể xảy ra) 
 + disentangle: sự tách rời, gỡ rối 
 + latent: tiềm ẩn
-
++ astigmatic: loạn thị 

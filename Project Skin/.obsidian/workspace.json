@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "899a0a2abcf16787",
+        "id": "0feb1df8d43f829d",
         "type": "tabs",
         "children": [
           {
-            "id": "608eea336d45fd08",
+            "id": "db4853525f076b37",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "e9980be55e9d4ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python OOP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python OOP"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +77,7 @@
             }
           },
           {
-            "id": "97bbbce25c7afa22",
+            "id": "d07f538394d08d8e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -243,8 +227,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e9980be55e9d4ae7",
+  "active": "db4853525f076b37",
   "lastOpenFiles": [
+    "Python OOP.md",
     "3 RESOURCES/Programming/Python.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
@@ -253,7 +238,6 @@
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",
-    "Python OOP.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/Vocabulary.md",
     "LoL.md",
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",

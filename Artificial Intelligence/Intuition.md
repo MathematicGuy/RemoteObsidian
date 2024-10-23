@@ -32,3 +32,6 @@ Note:
 
 # Can everybody learn math or are there limitations ?
 
+**Math:** "Not know sth instantly? Well, work for it"
+> The scariest thing is when you don't understand why you don't understand sth.
+

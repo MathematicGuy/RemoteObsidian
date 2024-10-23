@@ -1108,6 +1108,7 @@ EtcIa
 EFE
 Efi
 ELL
+Excellent
 the
 that
 transformation
@@ -6150,6 +6151,7 @@ eBH
 eEh
 eLc
 eFi
+everybody
 is
 in
 image
@@ -10783,6 +10785,7 @@ seller
 sda
 sZV
 saP
+scariest
 consists
 can
 change
@@ -12201,6 +12204,9 @@ cGD
 cET
 ceE
 cjJ
+carried
+commo
+consequence
 linear
 lambda
 left
@@ -13202,6 +13208,7 @@ lTf
 lIW
 lhaaa
 ldcD
+limitations
 matrix
 multiply
 multiplied
@@ -18782,6 +18789,7 @@ CHL
 CSN
 CtB
 Carrying
+Confidence
 Basis
 Both
 Board
@@ -25560,6 +25568,7 @@ pwG
 piO
 pOJ
 pQo
+prevalence
 You
 Yes
 YX
@@ -28611,6 +28620,11 @@ SwG
 ShM
 SLN
 Statistic
+Sure
+Sciencetist
+Statisi
+SaP
+Sampling
 result
 reduced
 repeated
@@ -40516,6 +40530,7 @@ Inference
 Ije
 IKH
 IcN
+Intervals
 Prerequisite
 PCB
 Project
@@ -42654,6 +42669,7 @@ Dpz
 DTT
 Dto
 DEGI
+Describing
 Visual
 Variables
 Visualization
