@@ -1,4 +1,4 @@
-**Kindered**
+**Kindered** - [Bio](https://universe.leagueoflegends.com/en_US/story/champion/kindred/)
 + Hide and Turn up in the Combat Moment making you a huge advantage.
 + Attack the weak one first, if can run and wait for oppotunities.
 + Don't risk too mush if you carrying the team.
@@ -13,8 +13,15 @@
 **Killing Baron and Dragon**
 + Don't stand inside Baron Pit, it way to risky. You can kill Baron by stading behind. 
 
-# Bronze to Diamond
+# Know Who you Deal with
+**Early Morning before 7 or 8AM:** Often Teenage and Adult (Good Team Mate Mostly) 
+**|**
+**Afternoon/Mid Day:** Mostly High/Secondary School or Man Child avoid napping, not much adult. I mean you gonna play game after working your ass out? Yes but Not Often. (Can trust them but make sure to join a Custom Game)
+**|**
+**Night - Late Night:** SoloQ if you're lucky. Got good skill then find a good custom rank climbing team to climb with (Higher chance of winning with Support)
 
+
+# Bronze to Diamond
 ## Knowledge Check 1
 1) Carry mentality (Focus on yourself)
 + ? You don't have to save/help other player. As they can easily throw the game away and wasting your effort.
@@ -30,7 +37,6 @@
 
 4) Don't Assume
 > Don't assume your team mate gank you. Wait for them to really come.
-
 
 5) Don't Force
 > Don't relies on your team mate making them have to risk for you. 
@@ -49,7 +55,6 @@
 8) Baron before inhibitors
 > Riot make the game with the intention you have to take baron first before pushing.
 + ? You can either kill Baron or use it as Bait.
-
 
 
 # Tempo
@@ -79,6 +84,9 @@ Questions to asked:
 	+ Measure time between dragon. Save health and skills for Dragon.
 	
 + **Late Game:** Keep your health for Baron/Elder Dragon, try not to die. Late game live are more valuable than mid/early. 1 death can end the whole game.
+	
++ [Jungler Cheat Sheet](https://docs.google.com/spreadsheets/d/1SVnhFeGzQLPSkN5DxbNyQiCkxiR1QKlkx2jy6vbG-NI/edit?gid=205041270#gid=205041270)
+	from a Pro Challenger 
 
 **Early Game:**
 + Dragon
@@ -101,4 +109,16 @@ Questions to asked:
 + **Angle and Lane Position are utterly important** (**like chess**) but being ignore by many. There're angle where ADC can't shoot and nerfed, and angle where they performed best. Each champion have their angle, find that angle and you find the game.
 	
 + Gank angle, Survive Angle for AD....
+
+**Wits Check**
+> The best way to take advantage is to make your enemy think they in advantage.  
+
+- [ ] There're always oppotunities in Chaos. Be Patient. 
++ [ ] Check your prey's allies position when you attacking them
++ [ ] Always think twice if your enemies make a mistake ! Do they? 
++ [ ] Terrain is your Friend and your Worst Enemy. Angle & Position is the key 
++ [ ] Know thy self, Know thy enemy
++ [ ] Know when to give up, avoid dead.
++ [ ] There're fate worst than Dead. Know when to Sacrified for your team goals. 
++ [ ] Macro, Micro
 

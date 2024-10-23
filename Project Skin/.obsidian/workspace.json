@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0feb1df8d43f829d",
+        "id": "1aa34b57e47aa28c",
         "type": "tabs",
         "children": [
           {
-            "id": "db4853525f076b37",
+            "id": "b8b28af06d546ff4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "d07f538394d08d8e",
+            "id": "aef35899f2927600",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,11 +227,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "db4853525f076b37",
+  "active": "b8b28af06d546ff4",
   "lastOpenFiles": [
+    "LoL.md",
+    "_Focus/Todo.md",
     "Python OOP.md",
     "3 RESOURCES/Programming/Python.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
@@ -239,7 +240,6 @@
     "GoalsThisWeek.md",
     "Pasted image 20240929225308.png",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/Vocabulary.md",
-    "LoL.md",
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
     "3 RESOURCES/DataBase/SQL/DataBase.md",
     "3 RESOURCES/DataBase/DB HomeWork/DB_HW7.md",
