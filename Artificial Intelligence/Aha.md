@@ -19,3 +19,6 @@
    yes it connect to all points and not a straight line. 
 ![[Pasted image 20241021153040.png]]
 
+
+
+- [ ] Feel numb or bored learning something ? It likely that thing don't benefit you as much as you think, you can temporary skip it, find a reason why. it much more effective

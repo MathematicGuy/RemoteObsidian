@@ -82,4 +82,40 @@ predict -> carried out the inference
 **Other way to code NN**
 ![[Pasted image 20241022154250.png]]
 
-## Neural Network Implementation in Python
+## Neural network implemenation in Python
+### Forward prop in a single layer
+![[Pasted image 20241024092128.png]]
+
+### General implementation of forward propagation
+![[Pasted image 20241024093734.png]]
+
+## AI 
+**ANI (artificial narrow intelligence)** E.g. smart speker, self-driving car, web search, etc..
+**AGI (artificial general intelligent)** Do anything a human can do.
+
+Hope for AGI, well the "one learning algorithm" hypothesis show that human brain cortex can learn and adapt to whatever information given to it, for example **rewrite Somatosensory Cortex (i.e. touch processing) to feed in images, it learn to see.**
+![[Pasted image 20241024093346.png]]
+
+**Real Life Example**
+![[Pasted image 20241024093514.png]]
+
+## Vectorization
+### How neural networks are implemented efficiently
++ ? `np.matmul` allow fast matrix multiplication in parallel.
+![[Pasted image 20241024094233.png]]
+
+### Recognize 2 Handwritten Digits
+(Binary Classification Task)
+
+**NN Model**
+![[Pasted image 20241024101248.png]]
+![[Pasted image 20241024101242.png]]
+
+$$Parameters=(\text{input units} \times \text{output units})+\text{output units}$$
+Example Calculation 
+1. **First Dense Layer:**
+
+- **Input size**: 400 (specified by `Input(shape=(400,))`)
+- **Output size**: 25 (the number of units in the first `Dense` layer)
+
+**The number of parameters is:** $(400 \times 25) + 25 = 10,000 + 25 = 10,025$

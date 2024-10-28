@@ -187,7 +187,12 @@ Suppose you want to find the probability of n friend with the same birthday. We 
 **posterior probability**: probability that come after a probability, sth like consequence.
 
 ## Bayes Theorem - Intuition 
-**Goals:** Find the probability of a cause given its effect. 
+$$P(E) = P(H)P(E|H) + P(\neg H)P(E|\neg H)$$
+In Baye's Theorem, the term $P(E)$ represents the total **probability of event $E$**. This probability can be calculated by considering all the ways in which event $E$ can happen, depending on different conditions (or hypotheses).
+
+**Example:** green farmer, blue, librarian.
+![[3Blue1Brown - Bayes theorem, the geometry of changing beliefs [HZGCoVF3YvM - 996x560 - 7m27s].png]]
+
 
 ![[Pasted image 20241004135004.png]]
 > (actual sick and diagnoised sick)  / (total people who was diagnoised sick) = $99 / 10098 = 0.0098$
@@ -229,8 +234,8 @@ write the answer down to paper.
 ![[Pasted image 20241004164722.png]]
 
 ![[Pasted image 20241016164445.png]]
+Is there a faster way?
+![[Pasted image 20241025164756.png]]
 
-Todo:
-explain
-to 10 prop and statis
-coursera
+![[Pasted image 20241025164910.png]]
+

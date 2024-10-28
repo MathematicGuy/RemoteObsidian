@@ -299,3 +299,68 @@ $$L(\theta) = \sum^{n}_{i=1} y_{i}\log(\sigma(\theta^{T}\bar{x_{i}})) + \dots+ (
 ![[Pasted image 20241021112606.png]]
 
 
+---
+
+### Understainding Binary Cross-Entropy / Log Loss
+![[Pasted image 20241025120434.png]]
+
+![[Pasted image 20241025120339.png]]
+$\frac{1}{N}:$ is the prob of any given point in the sample (dataset) in other word that the actual distribution of our data. You can think $q(y_i)$ is the weight given to each point in our dataset
+![[Pasted image 20241025120328.png]]
+
+Combine them both...
+![[Pasted image 20241025120820.png]]
+
+Red Point in neg class, green point pos class.
+![[Pasted image 20241025121040.png]]
+
+BCE use log prosibility so we have to transform these bars
+![[Pasted image 20241025121109.png]]
++ $ **notice that the shortest bar become the tallest after the tranformation, this is expected since these bar are the ones the logistic regression is less confident about.**
+![[Pasted image 20241025121118.png]]
+
+Let sum up red and green bars, Adding them up gives us the BCE loss.
+![[Pasted image 20241025121602.png]]
+Remember, q(y) is the probability of a point being sampled, that is $\frac{1}{N}$.
+
+![[Pasted image 20241025122331.png]]
+
+
+ ![[Pasted image 20241025123303.png]]
++ Ratio of a probability that an event occurs to the probability that it doesn't occur. 
+ + Probabilty of Y=1 given X, Abbreviated as P of X with 1 here is not a number but rather the class or category.
++ So as mentioned before, we need to model a probability using a curve where the predictor domain X can be anything and the range of P of X or the conditional probability that Y is true given X is between 0 and 1.
+-> Logistic use sigmoid function to accomplish this. 
+
+The log of a Logit give us a linear curve.
+![[Pasted image 20241025123339.png]]
+
+![[Pasted image 20241025123551.png]]
+
+I'd sample on combining these  requirements we want to find the beta  parameters such that the product of both  of these products is maximum over all  elements of the data set
+![[Pasted image 20241025123730.png]]
+The goal is to find the Beta that optimize the function. (**This part I understand**)
+
+![[Pasted image 20241025124627.png]]
+> This equation can be computed exactly, so we use
+![[Pasted image 20241025124657.png]]
++ ? The first 2 terms of the Taylor's Series Expansion:
+![[Pasted image 20241025124807.png]]
+we need to calc this for T iteration
+![[Pasted image 20241025124825.png]]
+
+
+Final term of the log-likelihood gradient
+![[Pasted image 20241025124002.png]]
+
+Now we compute the nominator term called the Hessian Matrix
+![[Pasted image 20241025125020.png]]
+This is a  matrix of second order derivatives with  respect to beta coefficients, it is essentially the gradient of the previous equation we bring the gradient into the  summation
+![[Pasted image 20241025124052.png]]
+(**I don't understand the Apply the Gradient (The first equation on the right, above**))
+
+### Gradient Vector - Hessian Matrix of Log-Loss Likelihood
+![[Pasted image 20241025124131.png]]
+once the value was calculated, we can plugged in value of x to estimate the probability of it
+![[Pasted image 20241025124225.png]]
+(Notice the Newton Raphtor is just 1 method we could use many more)

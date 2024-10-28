@@ -31,7 +31,8 @@ We have a word table contain 2 unique word with their repeated time. Since our m
 >Our perceptron will have 2 nodes: W_1 and W_2 determine how important any other features are, say the word `aack` is really **correlated with happiness** then **W_1 going to be a larger number**, if `beep` is really **irrelevant (ko liên quan)** then **W2 is going to be a small number**.
 + ? **How can we turn entire number line 0 and 1**, we're going to use what's called the activation function, denoted by the letter **Sigmoid of z**
 ![[Pasted image 20240927085639.png]]
-
+($1 + e^z$ : have 1 to prevent division by 0 when z = 0)
+($e^z$  value range from 0 to 2.71 )
 
 #### Classification with Perceptron - Sigmoid Function
 input - x
@@ -52,6 +53,7 @@ $L(y, \hat{y})$
 	![[Pasted image 20240927101436.png]]
 + Larger if $\hat{y}$ is close to 1, Smaller if $\hat{y}$ is close to 0.
 + Larger number if $y$ and $\hat{y}$ is far from each other, and small if $y$ and $\hat{y}$ are close to each other. 
+
 
 Like before, we find w1, w2 and b such that $\hat{y}$ give the least errors using Gradient Descent. To achieve that, we first find Derivative of the Loss function in respect of $w1,\space w2,\space b$. Then start with initial value: w1, w2, b to activate Gradient Descent. Finally put (w1, w2 and b) or $\hat{y}$ back the Loss Function to verify.     
 ![[Pasted image 20240927101754.png]]
@@ -79,7 +81,8 @@ Let build a neural network to classify emotion.
 ![[Pasted image 20240930162839.png]]
 
 + $ **Goals:** Adjust each of the weights and biases to reduce the loss function.
-+ ? How do these biases affect the loss? with partial derivative. In other words, this partial derivative tell us exactly what direction to move each one of the weights and biases in order to reduce the log loss function. ![[Pasted image 20240930163826.png]]
++ ? How do these biases affect the loss? with partial derivative. In other words, this partial derivative tell us exactly what direction to move each one of the weights and biases in order to reduce the log loss function. 
+ ![[Pasted image 20240930163826.png]]
 
 Like before, we going to use the chain rule so let look at the derivative of each weight as bias first:
 ![[Pasted image 20240930163948.png]]
@@ -119,7 +122,7 @@ Let Begin with $\frac{\Delta L}{\Delta w^{[3]}}$
 
 + ? The derivative at the bottom right is already calculated so remember to store them for reused.
 ![[Pasted image 20241001100311.png]]
-+ ? For the last one, we just have to calc the node itself, bc its previous node are already calcualated (in bottom right)
++ ? For the last one, we just have to calc the node itself, bc its previous node are already calcualated (in bottom right) 
 ![[Pasted image 20241001100411.png]]
 
 
@@ -129,7 +132,7 @@ Let Begin with $\frac{\Delta L}{\Delta w^{[3]}}$
 Let's take the tangent at this point X0, so let's take the derivative and draw the tangent and see where it hits the horizontal X axis. And at this point we're going to call it X1, notice that X1 is much closer to zero than X0. We draw more time for X2, its very close to 0, do this one more time X3 pretty much found it (very close)
 ![[Pasted image 20241001101700.png]]
 
-The Slope is f(X0), it base is X0 - X1. The slope is calc by Rise over Run. So $$f'(x_{0}) = \frac{f(x_{0})}{x_{0} - x_{1}}$$ Simplified it we get $x_{1}$
+The Slope is f(X0), it base is X0 - X1. The slope is calc by Rise over Run. So $$f'(x_{0}) = \frac{f(x_{0})}{x_{0} - x_{1}}$$ Simplified it we get $x_{1}:$
 ![[Pasted image 20241001102053.png]]
 $$x_{k+1} = x_{k} - \frac{f(x_{0})}{f'(x_{0})}$$
 and got $x_{k}, x_{k-1}$ as the first 2 points created the slope. Iterate on the step we get Newton's method.    
@@ -550,4 +553,7 @@ b^{[2]} &= b^{[2]} - \alpha \frac{\partial \mathcal{L} }{ \partial b^{[2]} },\\
 $$
 trong đó $\alpha$ là tốc độ học.
 
-Để thực hiện huấn luyện, 
+Để thực hiện huấn luyện.
+
++ ? When to use log and when to use ln. We can convert log to ln whenever we want so who care ? It just a way of expression if log and ln can easier be converted back and forth. 
+

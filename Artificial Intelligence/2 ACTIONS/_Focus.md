@@ -1,20 +1,15 @@
  
 #[[Goals]]
-**Mathematic**
-- [x] Understand Jacobian ([Jacobian Matrix](https://youtu.be/QexBVGVM690?si=n0aBabBOMdvkmo27))
-- [ ] Differential
-- [ ] Explain and Document every important math symbols
-- [Statistic](https://youtu.be/LgLgexX7iTs?si=FCvX848ozl-hM6P3)
-
-**Why Statistic for Machine Learning? here why**
-![[Pasted image 20241022160449.png]]
+**Today Priority**
+- [ ] Get my earbud at midday rest
+- [ ] Ask more about AIO program
 
 
 **Machine Learning**
 [[AIO2024]]
 
 [[Statistic and Probability for Machine Learning]]
-- [ ] [[]]
+- [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
 - [ ] SaP Week 2 - Describing probability distributions and probability distributions with multiple variables
 - [ ] SaP Week 3 - Sampling and Point estimation 
 - [ ] SaP Week 4 - Confidence Intervals and Hypothesis testing
@@ -37,7 +32,7 @@
 - [ ] Course 1 Deep Learning
 - [ ] Course 2 Deep Learning
 - [ ] Course 3 Deep Learning
-
+ 
 
 **Critical Thinking**
 - [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh) 
@@ -48,7 +43,7 @@
 - [[Aha]]
 + [[weekly report]]
 	+ [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
-
+- [ ] Read Ego is the Enemy Books
 
 
 #System

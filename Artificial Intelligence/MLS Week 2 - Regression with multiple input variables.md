@@ -37,14 +37,14 @@ Example for house price prediction base on features the house have, we can plot 
 ![[Pasted image 20241014162327.png]]
 
 # Feature Scaling 
-> Allow Gradient Descent run faster
+> Allow Gradient Descent to converge faster
  
 **Features and Parameters:** with **large value** model often choose **small parameters**, likewise for **small value** model often choose **large parameter** since it make the prediction **more reasonable.** 
 ![[Pasted image 20241014164249.png]]
 
 For feature with large value, `size in feet`  for example (as $x_{2}$) and bedroom as $x_{1}$. A **little change in $x_{1}$ (say 200) can affect a large change in the cost function/prediction**, while a **large change in x1 (say 5) didn't make a little change at all.** To encounter this problem, we must **rescale/normalize both value into 1 value range.**  
 ![[Pasted image 20241014165034.png]] c
-With Rescaling, the contour plot now even and represent a circle. 
+With Rescaling, the contour plot (parabol from top down view) now even and represent a circle. 
 ![[Pasted image 20241014164820.png]]
 
 #### So how do you actually scale the vales? by dividing by it maximum value
@@ -72,7 +72,6 @@ With Rescaling, the contour plot now even and represent a circle.
 + ? **Learning rate too big the convergen become unstable**. What we want is a learning rate allowed big step but not too big at the start and take smaller and smaller step when the curvature is more flat (i.e. parabol curve become flatter at the center point). (This also indicate bugs might be in your code) 
 + ? Choosing a **too small learning rate lead the function unconvergerable.** Since each step become  smaller and smaller, it would take forever which is not optimal.
 + $ We want to choose **the right learning rate**. Let learn how to do that !!!
-#### [[MLS Week 2 Lab - Feature Scaling and Learning Rate (Multi-Variable)]]
 ## Feature Engineering
 
 Normal way to choose features
@@ -80,7 +79,7 @@ Normal way to choose features
 
 Create new features by using **intuition** to design **new features**, by transforming or combining original features.
 ![[Pasted image 20241015222100.png]]
-\
+
 #### Polynomial Regression (đa thức hồi quy)
 > Fit curve, non-linear function into your data.
 + ? note: explain Polynomial and Regression later 
@@ -96,4 +95,4 @@ Example of Polynomial Regression with non-linear features: feature may be $x, x^
 ![[Pasted image 20241016140833.png]]
 
 [[Feature Engineering and Polynomial Regression]]
-[[Practice Lab Linear Regression - predict best place to open restaurant]]
+[[Practice Lab Linear Regression - predict best aplace to open restaurant]]

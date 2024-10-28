@@ -1,17 +1,7 @@
+###  [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
 
-**Learned precised what confidence, confidence inverval, p-value mean**.
+### SaP Week 2 - Describing probability distributions and probability distributions with multiple variables
 
-**L2 regularization** comes from a Gaussian distribution assumption on the parameters, this will make sense after this course
+### SaP Week 3 - Sampling and Point estimation 
 
-**Hypothesis testing** is very strong for checking if a drug is helpful by sampling population and testing them or if you want to check if a features help you increase viewership. 
-
----
-# [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
-
-### [[Relationship Symbol]]
-### [[Lesson 1 - Introduction to Probability]]
-### Lesson 2 - Probability Distributions
-### Week 1: Summurization
-
-
-
+### SaP Week 4 - Confidence Intervals and Hypothesis testing

@@ -93,7 +93,7 @@ x_1^{(i)}\right) &
 x_2^{(i)}\right)\end{bmatrix}\tag{12}$$
 + $  We called this the Loss Function of each parameters (i.e. weight ans biases). Basically, normally what we do is calculate the loss of a weight and biases of each node by the derivative of it and $\mathcal{L}$ using the chain rule: $\frac{\partial\mathcal{L}}{\partial W_{11}}$. This does just that but in 
 + a greater scale which calc the weight and bias of 2 input with 2 nodes (in hidden layer) 
-	reference:![[Pasted image 20241003101310.png]]
+	reference:a![[Pasted image 20241003101310.png]]
 	
 
 

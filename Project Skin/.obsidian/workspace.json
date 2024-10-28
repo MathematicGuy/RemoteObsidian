@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1aa34b57e47aa28c",
+        "id": "eb7a1193e12a4bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b28af06d546ff4",
+            "id": "56591acf0e212727",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,13 +77,15 @@
             }
           },
           {
-            "id": "aef35899f2927600",
+            "id": "b3214f8820963768",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -227,7 +229,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b8b28af06d546ff4",
+  "active": "56591acf0e212727",
   "lastOpenFiles": [
     "LoL.md",
     "_Focus/Todo.md",
@@ -283,6 +285,3 @@
     "Personal/FocusCanvas.canvas",
     "4 ARCHIVES/2024/Club/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas"
-  ]
-}

@@ -1,13 +1,13 @@
 **Kindered** - [Bio](https://universe.leagueoflegends.com/en_US/story/champion/kindred/)
-+ Hide and Turn up in the Combat Moment making you a huge advantage.
-+ Attack the weak one first, if can run and wait for oppotunities.
-+ Don't risk too mush if you carrying the team.
-+ Avoid risk at the end game. Die as late as possible if not trading life with their MVP.
-+ No matter how strong u r. Don't stand in vulnerabal position.
++ Hide and Show up during combat, giving you a significant advantage.
++ Attack the weakest first, if possible, retreat and wait for oppotunities.
++ Don't risk too much if you're carrying the team.
++ Avoid taking risks in the late game. Delay Sacrified, if not trading life with their MVP.
++ No matter how strong u r. Don't stand in a vulnerble position.
  
 + Avoid Raven (Green girl with big sword), Master Ji (yellow guy with many eyes)
-+ Don't underestimated Baron road Champion. 
-+ If I don't have a lot of health, don't risk it.
++ Don't underestimate champions in the Baron Lane. 
++ If I don't have a lot of health, retreat .
 + Know my team position to optimize team strength.
 
 **Killing Baron and Dragon**
@@ -16,8 +16,7 @@
 # Know Who you Deal with
 **Early Morning before 7 or 8AM:** Often Teenage and Adult (Good Team Mate Mostly) 
 **|**
-**Afternoon/Mid Day:** Mostly High/Secondary School or Man Child avoid napping, not much adult. I mean you gonna play game after working your ass out? Yes but Not Often. (Can trust them but make sure to join a Custom Game)
-**|**
+**Afternoon/Mid Day:** Mostly High/Secondary School avoiding naps, not much adult. I mean you gonna play game after working your ass out? Yes but Not Often. (Can trust them but make sure to join a Custom Game)
 **Night - Late Night:** SoloQ if you're lucky. Got good skill then find a good custom rank climbing team to climb with (Higher chance of winning with Support)
 
 
@@ -39,7 +38,7 @@
 > Don't assume your team mate gank you. Wait for them to really come.
 
 5) Don't Force
-> Don't relies on your team mate making them have to risk for you. 
+> Don't rely on your team mate making them have to risk for you. 
 + ? Don't take all the damage, observe for oppotunities.
 + ? Make Champions use their skill then use your.
 
@@ -65,7 +64,7 @@ If you can time your movements you can stay ahead your enemy. Or predict your en
 + ? You only stay ahead because you have more Stuff not more money.
 
 ### Attacking Tempo
-If I can know the enemy movement and kill it, where can I kill it again.
+"If I can predict the enemy movement and kill them, where can I do it again?"
 
 If the enemy Jungle kill Dragon, can I steal their Jungle Buff and monsters.
 (This is map awareness)
