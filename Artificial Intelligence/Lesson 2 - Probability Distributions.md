@@ -104,7 +104,7 @@ When n is very large, Gaussian Distribution represent a bell curve
 ![[Pasted image 20241028172314.png]]
 
 **Bell Shaped Data**
-fit the orange curve to the data
+fit the orange curve to the data (có dấu trừ)
 ![[Pasted image 20241028172526.png]]
 move orange curve to the right. we see that the orange curve have mean = 1 and the Data have mean = 3. 
 ![[Pasted image 20241028172601.png]]
@@ -116,5 +116,4 @@ So we need to dividing by this number in order to get this right curve:
 ![[Pasted image 20241028173045.png]]
 Replace values with parameters $\sigma$ and $\mu$ we get Gaussian Distribution:
 ![[Pasted image 20241028173133.png]]
-
 

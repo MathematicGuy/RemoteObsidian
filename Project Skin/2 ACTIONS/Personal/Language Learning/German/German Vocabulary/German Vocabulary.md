@@ -2698,3 +2698,7 @@ Siebzehn Uhr ~ Seventeen o'clock ~ Five o'clock (in PM)
 Sportlich athelic
 Der Fahrrad bicycle (r pronoun in g. motorgad)
 
+Schlaft - sleep (Schläfst)
+Ganze - whole
+	ganze tag - whole day
+Mond  moon
