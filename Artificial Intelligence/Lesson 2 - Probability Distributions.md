@@ -11,7 +11,7 @@ Continous random variables (Infinite number of values.)
 ![[Pasted image 20241028100143.png]]
 
 **Probability Distributions (Discrete)**
-Flip a coin 32 times and list out all the outcome in a Histogram, we have the posibility of all senario, this called Probability Mass Function (PMF). This is define as the probability that the random variable takes at a particular value $p_{X}(x) \geq 0$. 
+Flip a coin 32 times and **list out all the outcome in a Histogram**, we have the posibility of all senario, this called **Probability Mass Function (PMF)**. This is define as the probability that the random variable takes at a particular value $p_{X}(x) \geq 0$. 
 ![[Pasted image 20241028102839.png]]![[Pasted image 20241028104001.png]]
 
 # Binomial Distribution
@@ -110,10 +110,69 @@ move orange curve to the right. we see that the orange curve have mean = 1 and t
 ![[Pasted image 20241028172601.png]]
 We can thicken the curve by dividing the exponent by 3.
 ![[Pasted image 20241028172724.png]]
-However the Curve is still too high. The area under the blue curve is 1 because it's probability distribution and we know the areas of the Data is $3\sqrt{ 2\pi}$. 
+However the Curve is still too high. The area under the blue curve is 1 because it's probability distribution and we know the Areas of the Data is $3\sqrt{ 2\pi}$.  (Diện tích 2 hình chia cho nhau)
 ![[Pasted image 20241028172752.png]]
 So we need to dividing by this number in order to get this right curve:
 ![[Pasted image 20241028173045.png]]
 Replace values with parameters $\sigma$ and $\mu$ we get Gaussian Distribution:
 ![[Pasted image 20241028173133.png]]
+![[Pasted image 20241029091723.png]]
+$\mu$ center of the bell
+$\sigma$ spread of the bell
+$\frac{1}{\sqrt{ 2\pi }\sigma}$ scaling constant
+$$X \approx N(\mu, \sigma^2)$$
+
+### Standardization
+> Convert any **normal distribution to the standard one**
+![[Pasted image 20241029094231.png]]
+> Help to compare 2 variable with completely different range of values.
+
+**Computing Distribution Applications**: weight, height, IQ. Also many ML models assume variables follow a normal distribution.  
+
+### Chi-Square Distribution
+Call the noise $Z$.  
+![[Pasted image 20241029094756.png]]
+
+**Chi Square Distribution with 1 Degree of Freedom** 
+![[Pasted image 20241029094844.png]]
++ $ Each value of W (each dots on the right) can be achieved with 2 diff values of Z (Interval of Z on the left), which are negative square root of W and W. 
++ $ Even more, the probability that capital W's and W, is the area under the PDF curve on the Gaussian between these $-\sqrt{w}$ and $\sqrt{w}$.
++ ? **W** (right) curve **increase slower and slower bc the areas under Z intervals are getting smaller and smaller.**
+Since CDF (Accumulative Distribution Func) is integral of the PDF (Probability Distribution Func), then you can easily find the PDF by taking the derivative of the CDF. 
+
+![[Pasted image 20241029101130.png]]
+Since the CDF is the integral of the PDF, then you can easily find the PDF by taking the derivative of the CDF (Chi-Square Distribution Func). 
++ ? We see the rate of change of at which **the probability w** is accumulated is big for small values of w and get smaller and smaller as W increase , the reason is the **steep curve grow very quickly for small values of w and grows slower and slower for larger value of w.** (check question mark above)
+
+**What about Accumulated power over 2 transmissions and n transmission?**
+![[Pasted image 20241029102642.png]]
+*df: degree of freedom*
++ $ The sum of Chi-Square represent Chi-Square with k degree of freedom. As **k increase,the PDF is more spread and becomes more and more symmetrical.**
+  ![[Pasted image 20241029102910.png]]
+
+
+### Sampling from a Distribution (lấy mẫu từ phân phối)
++ ! Can't go collect more data, it's too expensive -> **Create synthetic data that looks a lot like the original one.** 
++ ? One way to do this is to construct a distribution out of this data and then sample it out. By sampling, it mean **picking points that have the probabilities given by the original distribution.** 
+
+**How to sample datas from distribution?**
+![[Pasted image 20241029110346.png]]
+
+**CDF the Sample**
+Let **plot the (3 colors) interval vertically and set them up as CDF. Choose 4 points sampled uniformly**, along these 4 points you simply pickout out **what the value is in the horizontal axis of the CDF**   
+![[Pasted image 20241029110443.png]]
+
+**Sampling from a Normal Distribution**
+![[Pasted image 20241029110842.png]]
+
+---
+A = P(sick) diese / whole population = 1%
+B = P(test positive | sick) =  95%
+not A = P(test positive | sick) =  95%
+
+$$p(A|B)=\frac{P(B|A)P(A)}{P(B)}=\frac{P(B|A)P(A)}{P(B)}$$
+1 - B = 5%
+
+![[Pasted image 20241029120207.png]]![[Pasted image 20241029120243.png]]
+![[Pasted image 20241029120253.png]]
 

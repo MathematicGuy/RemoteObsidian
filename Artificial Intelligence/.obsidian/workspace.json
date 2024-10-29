@@ -24,7 +24,21 @@
             }
           },
           {
-            "id": "91814169d1b93b3a",
+            "id": "cc99ab2180db30ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables"
+            }
+          },
+          {
+            "id": "3a4e6611bc1f5c6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,7 +105,7 @@
             }
           },
           {
-            "id": "e907bfcf26abd79f",
+            "id": "5fa46368f3eb5b08",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,22 +221,23 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "91814169d1b93b3a",
+  "active": "cc99ab2180db30ae",
   "lastOpenFiles": [
-    "image/Pasted image 20241028173133.png",
-    "image/Pasted image 20241028173045.png",
-    "image/Pasted image 20241028172752.png",
-    "image/Pasted image 20241028172724.png",
-    "image/Pasted image 20241028172601.png",
-    "image/Pasted image 20241028172526.png",
-    "image/Pasted image 20241028172314.png",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Lesson 2 - Probability Distributions.md",
-    "image/Pasted image 20241028171224.png",
-    "image/Pasted image 20241028170413.png",
-    "image/Pasted image 20241028170137.png",
-    "image/Pasted image 20241028165829.png",
+    "image/Pasted image 20241029160509.png",
+    "image/Pasted image 20241029160112.png",
+    "image/Pasted image 20241029155723.png",
+    "image/Pasted image 20241029155710.png",
+    "image/Pasted image 20241029155532.png",
+    "image/Pasted image 20241029155000.png",
+    "image/Pasted image 20241029154624.png",
+    "image/Pasted image 20241029154414.png",
+    "image/Pasted image 20241029154327.png",
+    "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
+    "image/Pasted image 20241029154045.png",
+    "image/Pasted image 20241029153657.png",
     "2 ACTIONS/_Focus.md",
+    "Lesson 2 - Probability Distributions.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
     "Normalization & Standardization.md",
     "Monty Hall Problem.md",
     "Lesson 1 - Introduction to Probability.md",
@@ -244,7 +259,6 @@
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Lesson 2 - Newton's Method.md",
     "Optimization in Neural Networks and Newton's Method.md",
-    "Optimization in Neural Network and Newton's Method Final Test.md",
     "image",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
