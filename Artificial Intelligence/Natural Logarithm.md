@@ -1,5 +1,6 @@
 The reason the natural logarithm $\ln(x)$ is the inverse of the exponential function $e^x$ is rooted in their definitions and how these functions behave in relation to each other. Let's dive into **why** this inverse relationship exists:
 
+$$e^{\ln x} = x$$
 ### 1. **Exponential Growth:**
 The exponential function $e^x$ is defined as the function that describes **continuous growth**. For instance, if something grows continuously at a constant rate, its value after time $t$ is proportional to $e^t$. The exponential function has the following key properties:
 - It always produces positive values: $e^x > 0$ for all real numbers $x$.
@@ -40,3 +41,5 @@ This gives a natural geometric interpretation of $\ln(x)$, and since exponential
 - $\ln(x)$ is the natural logarithm, which undoes the exponential.
 - They are inverse functions because applying one after the other returns the original value.
 This inverse relationship is fundamental to many areas of math, especially calculus, and it forms the basis for connecting exponentiation and logarithms in formulas like $x^y = e^{y \ln(x)}$.
+
+![[def1.png]]

@@ -2,7 +2,7 @@
 **Skewness and Kurtosis:** độ lệnh và độ nhọn
 **Equilibrium point:** điểm cân bằng
 ## Expected Value: Discrete Case
-**Mean**: avarage value of the whole sets (number). Rewrite the equation into probability out of 10 for age 0, 1, 2, 3 we got the fomular for Expected Value (the result is still 1.3 though).
+**Mean**: **average value of the whole sets (number)**. Rewrite the equation into probability out of 10 for age 0, 1, 2, 3 we got the fomular for Expected Value (the result is still 1.3 though).
 ![[Pasted image 20241029142803.png]]
 
 **Expected Value: Motivation Example 1** -  Maximum amount of money to bet for $5 on head.
@@ -13,7 +13,7 @@
 
 To conclude, $\mathbb{E}[X]$ (i.e. Expected Value) for discrete variable x will have the Probability Mass Function (PMF) that show the probability of each outcome X. The Expected value is the sum of x $(0,1,2,3)$ times the probability of x $\left( \frac{1}{8}, \frac{3}{8}, \frac{3}{8}, \frac{1}{8} \right)$ for all possible values of x $(0, 1, 2, 3)$.   
 ![[Pasted image 20241029144112.png]]
-To Visualize, for Discrete Value the **Equilibrium point** of the Probability Mass Function. In simlpe term, average value point.
+To Visualize, for discrete Value **Expected Value is** the **Equilibrium point** of the Probability Mass Function. In simlpe term, average value point.
 ![[Pasted image 20241029145455.png]]
 For **continuous variables**, it the **Equilibrium point** of the **Probability Dense Function**
 ![[Pasted image 20241029150354.png]]
@@ -74,6 +74,33 @@ How much do you win on average?
 What is the expected number of correct assignments?
 >If there only 3 people's name in the bag, there are 3 correct out of all permuation the name handed to the right people. and its average is 1.
 ![[Pasted image 20241029160112.png]]
-> What about 8 billion peoples? well there a simpler way to do this. Anwers r
+> What about 8 billion peoples? a simpler way to do this is to calc the sum of for each people exected value. The result remain 1
 ![[Pasted image 20241029160509.png]]
+> Apply to 8 billion, we got the fomula: $$\mathbb{E}[Matches] = n * \frac{1}{n} = 1$$
+> ![[Pasted image 20241029160919.png]]
+
+### Variance
++ ? Expected value, although it tells us a lot about the distribution, it doesn't tell us the whole story. For example, **2 distributions** may have the same **expected value but 1 is very narrow and 1 is wide**. This is **captured by sth called the variance.** 
+
+**Variance Motivation: Measuring Spread**
++ ? One way to think of the idea of spread is how far away the points are from the expected outcome. If the spread is small, you would expect most points to be close to the expected value.![[Pasted image 20241029165355.png]]
+> The expected value will always appear at the point at which the positive and negative deviations cancel each other out.  
+
+**Variance Fomula**
+![[Pasted image 20241029165436.png]]
+**examples**
+![[Pasted image 20241029165717.png]]
+![[Pasted image 20241029165753.png]]
+
+**Variance Fomula**
+![[Pasted image 20241029170001.png]]
+![[Pasted image 20241029170146.png]]
+![[Pasted image 20241029170205.png]]
+
+![[Pasted image 20241029170305.png]]
+
+![[Pasted image 20241029170530.png]]
++ ? X is graph above and Y is the graph below. with X = .5 we got Y as 1. 
++ Note: $Var(X) = \mathbb{E}[(X - \mathbb{E}[X])^{2}]=\mathbb{E}[X^{2]}- \mathbb{E}[X]^2$
+The deviation for the same outcome where $X=4$ becomes $Y - \mathbb{E}[Y]=(2⋅4−5)−2=1$
 

@@ -1,8 +1,7 @@
  
 #[[Goals]]
 **Today Priority**
-- [ ] Get my earbud at midday rest
-- [ ] Ask more about AIO program
+- [ ] [[VinUni Open Day]]
 
 
 **Machine Learning**
@@ -62,12 +61,11 @@
 
 ![[Pasted image 20240611193343.png]]
 
-Satanophany
-![[1721044101552 1.jpg]]
+
 
 **Type of thinker:** https://www.facebook.com/share/v/ugMCx8db4voZLUeW/
 **Income Comparison:** https://www.facebook.com/share/v/9s4BfrjrdE6XqYxW/
+**Mythical Mathematic Book:** https://vinhphunguyen.gumroad.com/l/hanhtrangtoanhoc
 
 
-]
 
