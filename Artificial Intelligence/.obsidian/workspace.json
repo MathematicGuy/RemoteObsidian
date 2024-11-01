@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "f6311ff82f227856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO - Speed up Model Inferencing Using Numba+TorchScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIO - Speed up Model Inferencing Using Numba+TorchScript"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +192,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f6311ff82f227856",
+  "active": "8078ed149bedb16e",
   "lastOpenFiles": [
+    "AIO - Speed up Model Inferencing Using Numba+TorchScript.md",
     "image/Pasted image 20241031201041.png",
     "AIO2024.md",
-    "AIO - Speed up Model Inferencing Using Numba+TorchScript.md",
     "2 ACTIONS/_Focus.md",
     "Logistic Growth (to Sigmoid).md",
     "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
@@ -225,7 +210,6 @@
     "image/Pasted image 20241031154814.png",
     "image/Pasted image 20241031154737.png",
     "image/Pasted image 20241031154725.png",
-    "image/Pasted image 20241031154712.png",
     "Derivative Fomula.md",
     "Natural Logarithm.md",
     "Calculus_Derivative.md",

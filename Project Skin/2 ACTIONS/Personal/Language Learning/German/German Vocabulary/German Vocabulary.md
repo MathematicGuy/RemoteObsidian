@@ -2702,3 +2702,8 @@ Schlaft - sleep (Schläfst)
 Ganze - whole
 	ganze tag - whole day
 Mond  moon
+
+D**ann** then
+	wenn ich laufe, bleiben ich gesund - when i run, i will stay healthy 
+D**enn** because (don't mistake it with Denn (then))
+	Ihr Oma ist sehr cool, denn sie fahren ein motorrad
