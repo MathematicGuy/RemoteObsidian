@@ -14,3 +14,4 @@
 + disentangle: sự tách rời, gỡ rối 
 + latent: tiềm ẩn
 + astigmatic: loạn thị 
++ embellish: tô điểm

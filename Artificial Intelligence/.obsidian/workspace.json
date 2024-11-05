@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "edce49e7f3bb400f",
+        "id": "e115d7ed40268fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "8078ed149bedb16e",
+            "id": "02c6e859c0e87c79",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "61b07e2d83e16124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALA Week 3 - Advice for Applying Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ALA Week 3 - Advice for Applying Machine Learning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,7 @@
             }
           },
           {
-            "id": "0ce0b93fcdbb36f8",
+            "id": "a53facbc645e2aef",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -192,43 +207,44 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "8078ed149bedb16e",
+  "active": "61b07e2d83e16124",
   "lastOpenFiles": [
-    "AIO - Speed up Model Inferencing Using Numba+TorchScript.md",
-    "image/Pasted image 20241031201041.png",
-    "AIO2024.md",
+    "image/Pasted image 20241105172527.png",
+    "image/Pasted image 20241105171714.png",
+    "image/Pasted image 20241105170838.png",
+    "image/Pasted image 20241105155808.png",
+    "image/Pasted image 20241105155746.png",
+    "image/Pasted image 20241105155344.png",
+    "image/Pasted image 20241105155328.png",
+    "ALA Week 3 - Advice for Applying Machine Learning.md",
+    "image/Pasted image 20241105151031.png",
+    "image/Pasted image 20241105151015.png",
+    "image/Pasted image 20241105150428.png",
+    "image/Pasted image 20241105143539.png",
     "2 ACTIONS/_Focus.md",
+    "Machine Learning Technique.md",
+    "AIO 2024.md",
+    "AIO - Logistic Regression HW.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "AIO - Logistic Regression.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "Supervised Machine Learning - Regression and Classification.md",
+    "Logistic Regression.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "Feature Engineering and Polynomial Regression.md",
+    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+    "ALA Week 2 - Neural Network Training.md",
+    "ALA Week 1 - Week Neural Networks.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
+    "AIO - Speed up Model Inferencing Using Numba+TorchScript.md",
+    "Numpy.md",
+    "AIO2024.md",
     "Logistic Growth (to Sigmoid).md",
     "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
     "What exactly is e, Exploring e in 5 Levels of Complexity.md",
-    "image/Pasted image 20241031155149.png",
-    "image/Pasted image 20241031155104.png",
-    "image/Pasted image 20241031155009.png",
-    "image/Pasted image 20241031154947.png",
-    "image/Pasted image 20241031154938.png",
-    "image/Pasted image 20241031154852.png",
-    "image/Pasted image 20241031154814.png",
-    "image/Pasted image 20241031154737.png",
-    "image/Pasted image 20241031154725.png",
     "Derivative Fomula.md",
     "Natural Logarithm.md",
-    "Calculus_Derivative.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "exponent.md",
-    "Logistic Regression.md",
-    "AIO - Basic Logistic Regression.md",
-    "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Optimization in Neural Network and Newton's Method Final Test.md",
-    "Gradient and Gradient Descent.md",
-    "Numpy.md",
-    "VinUni Open Day.md",
-    "Lesson 2 - Probability Distributions.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Normalization & Standardization.md",
-    "Monty Hall Problem.md",
-    "Lesson 1 - Introduction to Probability.md",
-    "Statistic and Probability for Machine Learning.md",
     "image",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",

@@ -4,27 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "959b48e561a5be9c",
+        "id": "2a85d16dcd6c39c9",
         "type": "tabs",
         "children": [
           {
-            "id": "0168f9e54278a7e9",
+            "id": "2c245aae51879ec9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "jONE CENA theme song"
+            }
+          },
+          {
+            "id": "15375875dc0efac7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c5706f5cf349da82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +98,7 @@
             }
           },
           {
-            "id": "d63c1d698af5a65c",
+            "id": "2efc0719b325cb4d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,11 +248,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0168f9e54278a7e9",
+  "active": "c5706f5cf349da82",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
+    "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "LoL.md",
     "Python OOP.md",
     "3 RESOURCES/Programming/Python.md",

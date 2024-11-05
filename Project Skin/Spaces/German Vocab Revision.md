@@ -808,3 +808,9 @@ den (use in accusative case to point out a Object)
 
 Das Modell - the model
 
+Leute sprechen - talking to people
+introvert & extrovert (super similar to english)
+	introvertiert 
+	extrovertiert
+
+ 

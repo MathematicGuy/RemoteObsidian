@@ -105,7 +105,7 @@ Setting a feature to 0 or close to 0 to eliminate feature.
 penalize (pronoun as pi-nerlized)
 + ? Simpler model less likely to overfit.
 
-So we have 100 parameters W1 through W100, because we **don't know whick of these parameters are going to be the important ones. Let's penalize all of them** by adding $\lambda$ multiplyng with $W$ : 
+So we have 100 parameters W1 through W100, because we **don't know whick of these parameters are going to be the important ones. Let's penalize all of them** by adding $\lambda$ multiplying with $W$ (cộng thêm các features mới và chuẩn hóa chúng sử dụng $\lambda$) 
 ![[Pasted image 20241021155704.png]]
 + ? $\lambda$: **regularization factor**, treat it like learning rate $\alpha$. (divided by 2 to scale equally to the cost function)
 + ? $b$ also **used for regularization for special cases**. but make a very low diff in practice. normally just use $\lambda$.

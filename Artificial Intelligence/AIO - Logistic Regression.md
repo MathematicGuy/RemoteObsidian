@@ -1,3 +1,4 @@
+# Basic Logistic Regression
 **Index**
 Xem Xét Loss with Validation
 Optimal Learning Rate
@@ -144,3 +145,58 @@ gọi là cross-entropy vì 1 giá trị đc lấy thêm từ hệ thống bên 
 
 ---
 ### Prove Convexity of (Binary) Cross-Entropy
+
+
+# Advance Logistic Regression 
+## Vectorization 
++ ? Logistic Regresison for Multivariable
+
+All the Steps stay the same:
+![[Pasted image 20241101204516.png]]
+**Matrix multiplication**
+1) $z = w.x + b$. remember $X.\theta \neq \theta.X$ since $X.\theta = \phi$ (ko tính đc)
+![[Pasted image 20241101204359.png]]
+
+$$\hat{y} = \sigma(z) = \frac{1}{1+e^{-z}} = \frac{1}{1+e^{-\theta.X}}$$
+
+Hessian matrix example for single input (y = wx + b)
+![[Pasted image 20241101204830.png]]
+
+**Update Parameter $\theta$ :**
+With $\theta$ as $\bar{w}, \bar{b}$ **where** 
+	$\bar{w} = {w_{1}, w_{2}, w_{3},\dots,w_{n}}$  
+	$\bar{b} = {b_{1}, b_{2}, b_{3},\dots,b_{n}}$
+basically we want to use $\theta$ to represent all weight $w$ and bias $b$.
+We know their partial derivative is $\nabla L = X(\hat{y}- y)$. So to update all weight and bias we simply update $\theta$ :
+$$\theta = \theta - X(\hat{y} - y)$$
+now we get:
+![[Pasted image 20241101205027.png]]
+
+### Linear Regression for m-samples
+
+Loss function for m-samples is the same as how $z=X.\theta$ and $\hat{y}$ vectorize:
+![[Pasted image 20241101214012.png]]
+
+**Compute Loss**
+![[Pasted image 20241101214247.png]]
+re-write them in vector form.
+![[Pasted image 20241101214240.png]]
+then we have:
+![[Pasted image 20241101214424.png]]
+
+note: replace 1 with $x_{1}^{(1)}, x_{2}^{(2)}$ 
+![[Pasted image 20241101214512.png]]
+combine the into 1 vector
+![[Pasted image 20241101214713.png]]
+
++ $ Conclusion: Vectorization is a practice to convert variable into vector where the vector represent multiple variable. This allow us to present fomular as  vectors and calc parallel all variable at once when implement using numpy.
+
+### Sigmoid and Tank Functions
+tanh(x) (is this tan h(x) ???)
+![[Pasted image 20241101221755.png]]
+**relationship between sigmoid(x) and tanh(x)**
+![[Pasted image 20241101221704.png]]
+
+**Convert Sigmoid into Tanh(x)**
+![[Pasted image 20241101222040.png]]
+
