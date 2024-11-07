@@ -120,8 +120,8 @@ You roll two dice. Find the probability that either:
 - The final probability of getting either a sum of 7 or a difference of 1 is $\frac{7}{18}$.
 ```
 
-
-### Independent
+## [[Product of Multiple Independent Events]]
+### Independent 
 > Independence happens when the occurrence of one event does not affect the probability of the occurrence of another even. (opposite of chess)
 
 **Example**

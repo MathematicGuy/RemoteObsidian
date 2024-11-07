@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "61b07e2d83e16124",
+            "id": "2ede47c70e5735a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALA Week 3 - Advice for Applying Machine Learning.md",
+                "file": "AIO - Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALA Week 3 - Advice for Applying Machine Learning"
+              "title": "AIO - Logistic Regression"
             }
           }
         ],
@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "a53facbc645e2aef",
+            "id": "76fa7d65dcd83e13",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,44 +207,45 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "61b07e2d83e16124",
+  "active": "2ede47c70e5735a8",
   "lastOpenFiles": [
-    "image/Pasted image 20241105172527.png",
-    "image/Pasted image 20241105171714.png",
-    "image/Pasted image 20241105170838.png",
-    "image/Pasted image 20241105155808.png",
-    "image/Pasted image 20241105155746.png",
-    "image/Pasted image 20241105155344.png",
-    "image/Pasted image 20241105155328.png",
-    "ALA Week 3 - Advice for Applying Machine Learning.md",
-    "image/Pasted image 20241105151031.png",
-    "image/Pasted image 20241105151015.png",
-    "image/Pasted image 20241105150428.png",
-    "image/Pasted image 20241105143539.png",
-    "2 ACTIONS/_Focus.md",
-    "Machine Learning Technique.md",
     "AIO 2024.md",
+    "2 ACTIONS/_Focus.md",
+    "ALA Week 1 - Week Neural Networks.md",
+    "Course 1 Deep Learning.md",
+    "ALA Week 2 - Neural Network Training.md",
+    "Deep Learning Week 1 and 2 Test Note.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "image/Pasted image 20241106221207.png",
+    "image/Pasted image 20241106220808.png",
+    "image/Pasted image 20241106220752.png",
+    "image/Pasted image 20241106220718.png",
+    "image/Pasted image 20241106220357.png",
+    "image/Pasted image 20241106214447.png",
+    "image/Pasted image 20241106213130.png",
+    "image/Pasted image 20241106213013.png",
+    "image/Pasted image 20241106212909.png",
+    "image/Pasted image 20241106212710.png",
+    "3 RESOURCES/Artificial Intelligent/Softmax/trace.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/one-hot encoding.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",
+    "Logarithm and Log-Likelihood Function.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax",
+    "sum of the elements along the main diagnol.md",
+    "Natural Logarithm.md",
+    "Lesson 1 - Introduction to Probability.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "Lesson 2 - Probability Distributions.md",
+    "Statistic and Probability for Machine Learning.md",
+    "AIO2024.md",
+    "ALA Week 3 - Advice for Applying Machine Learning.md",
+    "Machine Learning Technique.md",
     "AIO - Logistic Regression HW.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "AIO - Logistic Regression.md",
     "MLS Week 3 - Classification with logistic regression.md",
     "Supervised Machine Learning - Regression and Classification.md",
-    "Logistic Regression.md",
-    "MLS Week 2 - Regression with multiple input variables.md",
-    "Feature Engineering and Polynomial Regression.md",
-    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
-    "ALA Week 2 - Neural Network Training.md",
-    "ALA Week 1 - Week Neural Networks.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
-    "AIO - Speed up Model Inferencing Using Numba+TorchScript.md",
-    "Numpy.md",
-    "AIO2024.md",
-    "Logistic Growth (to Sigmoid).md",
-    "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
-    "What exactly is e, Exploring e in 5 Levels of Complexity.md",
-    "Derivative Fomula.md",
-    "Natural Logarithm.md",
     "image",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
@@ -253,7 +254,6 @@
     "Missing value",
     "3 RESOURCES/Templates",
     "4 ARCHIVES/Stups",
-    "Spaces",
-    "4 ARCHIVES/ML Project/Image Compression using PCA"
+    "Spaces"
   ]
 }

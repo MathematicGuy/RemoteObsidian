@@ -30,10 +30,9 @@ We can re-write the fomula for each activation $j$ as:
 ![[Pasted image 20241104095133.png]]
 + $ If you was to use **softmax regression for 2 possible output value**, you would get the **same result as logistic regression.** (we can say that softmax come from linear regression)
 
-The cross-entropy loss function, have $\log (a_{1})$ and $\log(1-a_{1})$ represent success event $a_{1}$and un-success event $a_{2} =1-a_{1}$. So if I was calculating event $a_{1}$ ($y=1)$ then y must be 0, replace $y=0$ to the loss function and 
+The cross-entropy loss function, have $\log (a_{1})$ and $\log(1-a_{1})$ represent success event $a_{1}$ and un-success event $a_{2} =1-a_{1}$. So if I was calculating event $a_{1}$ ($y=1)$ then y must be 0, replace $y=0$ to the loss function and 
 ![[Pasted image 20241104095901.png]]
-**the loss function can be simplified as** for $a_{n}$
-$$loss = -y\log(a_{1})$$ ![[Pasted image 20241104100723.png]]
+**the loss function can be simplified as** for $a_{n}$ $$loss = -y\log(a_{1})$$ ![[Pasted image 20241104100723.png]]
 + $ For $y=j$, the smaller $a_{j}$ is the larger the loss. Therefor we would want to maximize $a_{j}$
 + ? Notice that in this **loss function y in each training example** can **take on only one value**. e.g. **if y was equal to 2, you end up computing $-\log(a_{2})$,** but **not any of the other $-\log(a_{1})$** or the other terms here.
 
@@ -64,7 +63,7 @@ We need a **more numerically accurate implementation of Logistic Loss:**
 + ? Each parameter have a different learning rate ![[Pasted image 20241104114443.png]]
 ![[Pasted image 20241104114539.png]]
 
-**Softmax Costfunction Summary**
+**Softmax Cost Function Summary**
 ![[Pasted image 20241104115727.png]]
 - Here:
     - $z_j^{(i)}$​ is the unnormalized logit for the $j$-th class of the $i$-th example.

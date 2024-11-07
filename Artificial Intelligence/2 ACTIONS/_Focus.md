@@ -27,9 +27,8 @@
 - [ ] ALA Week 4 - Decision Trees
 
 
-
 **Deep Learning**
-- [ ] Course 1 Deep Learning
+- [ ] [[Course 1 Deep Learning]]
 - [ ] Course 2 Deep Learning
 - [ ] Course 3 Deep Learning
  

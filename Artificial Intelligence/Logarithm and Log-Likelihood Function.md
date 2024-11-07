@@ -53,9 +53,11 @@ $8\log(p) + 2\log(1-p)$
 - **Base \( e \)**: The natural logarithm uses the irrational constant \( e \approx 2.71828 \) as its base.
 - **Notation**: The natural logarithm of \( x \) is written as \( \ln(x) \).
 - **Definition**:
+  $$e^{\ln x} = x$$    and 
   $$
-  \ln(x) = \log_e(x)
-  $$
+   \ln(x) = \log_e(x)
+   $$
+   
 + ? Example:
 	+ $\ln(4)=x \iff e^x=4 \implies x \approx 1.386$
 	+ $\ln(4) = \log_{e}(4)$ 
