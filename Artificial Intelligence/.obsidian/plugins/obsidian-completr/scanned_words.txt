@@ -2271,6 +2271,8 @@ tjz
 tXQ
 tcgL
 trace
+triples
+tightly
 original
 of
 operator
@@ -6492,6 +6494,8 @@ expresison
 estimators
 encourages
 entropu
+embellish
+election
 is
 in
 image
@@ -7755,6 +7759,7 @@ iDe
 ica
 iIs
 invariant
+inefficient
 basis
 by
 because
@@ -8886,6 +8891,7 @@ bRRa
 bDFr
 belongs
 broadcast
+bits
 find
 factor
 first
@@ -11316,6 +11322,10 @@ sOf
 sfoA
 sBaD
 sgW
+standpoint
+six
+separate
+shallow
 consists
 can
 change
@@ -12786,6 +12796,7 @@ cmV
 cPQXD
 claesses
 cyclic
+copied
 linear
 lambda
 left
@@ -13837,6 +13848,7 @@ land
 leverages
 leaving
 lables
+leaves
 matrix
 multiply
 multiplied
@@ -15031,6 +15043,7 @@ mby
 multiplicities
 multivariate
 multinomial
+mutable
 The
 This
 To
@@ -16170,6 +16183,8 @@ TeE
 TjO
 Trace
 Thay
+Trump
+Tonight
 after
 and
 as
@@ -21773,6 +21788,7 @@ Ukv
 UvU
 UHt
 UkB
+Uncertainty
 we
 want
 when
@@ -26769,6 +26785,8 @@ pCe
 permutations
 predicting
 pushing
+predictable
+president
 You
 Yes
 YX
@@ -29962,6 +29980,9 @@ SQo
 SZI
 SHb
 Similiar
+Shanon
+Shower
+Squeeze
 result
 reduced
 repeated
@@ -31153,6 +31174,7 @@ rxHZ
 rearranging
 rQr
 ross
+rephrase
 Non
 Need
 No
@@ -34959,6 +34981,7 @@ dkm
 dEG
 deriving
 divides
+disorder
 From
 Find
 For
@@ -38037,6 +38060,8 @@ MtG
 MBcI
 Matters
 MJA
+Mentally
+Modification
 using
 up
 until
@@ -39088,6 +39113,8 @@ ube
 uIv
 uBk
 ubc
+uncertaintz
+uncerstainty
 Recall
 Reference
 Redundant
@@ -42411,6 +42438,7 @@ IIp
 IOw
 IIF
 Iio
+Innitialize
 Prerequisite
 PCB
 Project
@@ -43538,6 +43566,7 @@ Pxd
 PSz
 PWcYy
 Predicting
+Paras
 Defecs
 Defects
 Dataset
@@ -44658,6 +44687,8 @@ Deu
 DrQ
 Diagonal
 Deriving
+Donal
+Dots
 Visual
 Variables
 Visualization

@@ -813,4 +813,7 @@ introvert & extrovert (super similar to english)
 	introvertiert 
 	extrovertiert
 
- 
+Tasse cup
+Immer always
+Trinkst du immer vier tasse kaffee nacht
+	do you always drink 4 cups of coffee at night

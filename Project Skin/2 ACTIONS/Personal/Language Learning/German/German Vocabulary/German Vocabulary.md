@@ -2707,3 +2707,6 @@ D**ann** then
 	wenn ich laufe, bleiben ich gesund - when i run, i will stay healthy 
 D**enn** because (don't mistake it with Denn (then))
 	Ihr Oma ist sehr cool, denn sie fahren ein motorrad
+
+Als than
+	Weniger Als Sechs Stunden - less than 6 hours 

@@ -1,6 +1,10 @@
  
 #[[Goals]]
 **Today Priority**
+- [ ] Finish NN and DL Course. 
+- [ ] Connect the Dots: Re-Explain Logistic Regression and Softmax and Tanh
+- [ ] Shower and be Mentally prepare for Tonight Course
+
 - [ ] [[VinUni Open Day]]
 
 

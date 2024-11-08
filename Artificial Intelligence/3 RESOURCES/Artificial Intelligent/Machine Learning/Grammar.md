@@ -15,3 +15,4 @@
 + latent: tiềm ẩn
 + astigmatic: loạn thị 
 + embellish: tô điểm
++ gratuitous: cho không

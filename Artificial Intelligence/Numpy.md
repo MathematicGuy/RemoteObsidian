@@ -283,8 +283,58 @@ image_reshaped = np.expand_dims(image, axis=-1)
 print(image_reshaped.shape)  # Output: (28, 28, 1)
 ```
 
+**Squeeze**
+```python
+import numpy as np
+
+# Creating an array with shape (1, 3, 1, 4)
+array = np.array([[[[1, 2, 3, 4]],
+                   [[5, 6, 7, 8]],
+                   [[9, 10, 11, 12]]]])
+
+print("Original shape:", array.shape)  # Output: (1, 3, 1, 4)
+
+# Using squeeze without specifying axis
+squeezed_array = np.squeeze(array)
+print("Shape after squeeze:", squeezed_array.shape)  # Output: (3, 4)
+print(squeezed_array)
+```
+Remove a specific axis
+```python
+# Using squeeze with axis specified
+squeezed_array_axis1 = np.squeeze(array, axis=0)  # Remove axis 0 if it's size 1
+print("Shape after squeeze on axis 0:", squeezed_array_axis1.shape)  # Output: (3, 1, 4)
+```
+
+### Shallow Copy vs Deep Copy 
++ ? **Shallow Copy:** **Modify a mutable** (có thể thay đổi) **object within the shallow copied object, the change will reflect in the original object** bc they share the same reference (địa chỉ) 
+**Example**
+```python
+import copy  
+  
+original = [[1, 2, 3], [4, 5, 6]]  
+shallow_copied = copy.copy(original)  
+  
+# Modifying the copied object  
+shallow_copied[0][0] = 99  
+  
+print("Original:", original)  # Output: Original: [[99, 2, 3], [4, 5, 6]]  
+print("Shallow Copied:", shallow_copied)  # Output: Shallow Copied: [[99, 2, 3], [4, 5, 6]]
+```
+
++ ? **Deep Copy:** **Modification to mutable objects within the deep copied object do not affect the original object**, as all object are fully copied and independent.
+**Example**
+```python
+import copy
+
+original = [[1, 2, 3], [4, 5, 6]]
+deep_copied = copy.deepcopy(original)
+
+# Modifying the copied object
+deep_copied[0][0] = 99
+
+print("Original:", original)  # Output: Original: [[1, 2, 3], [4, 5, 6]]
+print("Deep Copied:", deep_copied)  # Output: Deep Copied: [[99, 2, 3], [4, 5, 6]]
+```
+
 ### Normalization Method
-
-
-
-**Z-Score**

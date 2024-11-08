@@ -24,21 +24,35 @@
             }
           },
           {
-            "id": "2ede47c70e5735a8",
+            "id": "96413f47a4813ae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO - Logistic Regression.md",
+                "file": "Course 1 Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO - Logistic Regression"
+              "title": "Course 1 Deep Learning"
+            }
+          },
+          {
+            "id": "18e5a0648f733d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course 1 Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course 1 Deep Learning"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             }
           },
           {
-            "id": "76fa7d65dcd83e13",
+            "id": "9405f565349b8114",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,30 +221,35 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2ede47c70e5735a8",
+  "active": "18e5a0648f733d13",
   "lastOpenFiles": [
-    "AIO 2024.md",
+    "Numpy.md",
+    "ALA Week 3 - Advice for Applying Machine Learning.md",
     "2 ACTIONS/_Focus.md",
-    "ALA Week 1 - Week Neural Networks.md",
     "Course 1 Deep Learning.md",
+    "image/Pasted image 20241108160707.png",
+    "image/Pasted image 20241108155924.png",
+    "image/Pasted image 20241108154739.png",
+    "Shannon Entropy.md",
+    "image/Pasted image 20241108151639.png",
+    "image/Pasted image 20241108151559.png",
+    "image/Pasted image 20241108143851.png",
+    "image/Pasted image 20241108143100.png",
+    "image/Pasted image 20241108143004.png",
+    "image/Pasted image 20241108142916.png",
+    "image/Pasted image 20241108142856.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
+    "Logarithm and Log-Likelihood Function.md",
+    "AIO 2024.md",
+    "AIO - Logistic Regression.md",
+    "ALA Week 1 - Week Neural Networks.md",
     "ALA Week 2 - Neural Network Training.md",
     "Deep Learning Week 1 and 2 Test Note.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "image/Pasted image 20241106221207.png",
-    "image/Pasted image 20241106220808.png",
-    "image/Pasted image 20241106220752.png",
-    "image/Pasted image 20241106220718.png",
-    "image/Pasted image 20241106220357.png",
-    "image/Pasted image 20241106214447.png",
-    "image/Pasted image 20241106213130.png",
-    "image/Pasted image 20241106213013.png",
-    "image/Pasted image 20241106212909.png",
-    "image/Pasted image 20241106212710.png",
     "3 RESOURCES/Artificial Intelligent/Softmax/trace.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/one-hot encoding.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",
-    "Logarithm and Log-Likelihood Function.md",
     "3 RESOURCES/Artificial Intelligent/Softmax",
     "sum of the elements along the main diagnol.md",
     "Natural Logarithm.md",
@@ -239,13 +258,7 @@
     "Lesson 2 - Probability Distributions.md",
     "Statistic and Probability for Machine Learning.md",
     "AIO2024.md",
-    "ALA Week 3 - Advice for Applying Machine Learning.md",
     "Machine Learning Technique.md",
-    "AIO - Logistic Regression HW.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "AIO - Logistic Regression.md",
-    "MLS Week 3 - Classification with logistic regression.md",
-    "Supervised Machine Learning - Regression and Classification.md",
     "image",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
