@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4d2a160da0a2d5",
+        "id": "a2fae775ececf59c",
         "type": "tabs",
         "children": [
           {
-            "id": "8771185839c89045",
+            "id": "742f153d526d9c0d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,18 +25,13 @@
             }
           },
           {
-            "id": "408cd59b11828c8a",
+            "id": "1ced1ac17c317c30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "German Vocabulary"
+              "title": "New tab"
             }
           }
         ],
@@ -93,13 +88,15 @@
             }
           },
           {
-            "id": "19cc6051995d366f",
+            "id": "0104c07a6c550fb4",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -243,11 +240,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "408cd59b11828c8a",
+  "active": "1ced1ac17c317c30",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
     "2 ACTIONS/Personal/Interest/Music/Guitar.md",
@@ -300,6 +297,3 @@
     "Personal/FocusCanvas.canvas",
     "4 ARCHIVES/2024/Club/Club & Event/Programming Club/PC Overall.canvas",
     "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
-    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas"
-  ]
-}

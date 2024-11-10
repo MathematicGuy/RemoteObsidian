@@ -135,6 +135,8 @@ thay $\theta$ ta có thể viết lại Z bằng:
 ![[Pasted image 20241106205957.png]]
 Similiar for $\hat{y}$
 ![[Pasted image 20241106210245.png]]
+(XEM LẠI CÁCH THETA ĐC BIỂU DIỄN)
++ check lại b của từng lớp lưu trong list ntn 
 
 With one-hot encoding, loss function follow y:
 + y = 0 -> $-log(\hat{y}_{0})$ 

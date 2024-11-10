@@ -26,7 +26,6 @@ khả vi: tính đạo hàm đc tại 1 điểm
 Tại sao dùng hàm f(x): vì từ x có thể suy ra y (kết quả)
 ![[Pasted image 20241030202516.png]]
 
-
 **Linear Regression use to fit data.** This mean the line or multivariable function been coordinate best so it closest to all the data points.
 
 After function f(x) was coordinate (fit) to the best position. **We need a function between to compress f(x) to $[0, 1]$ range. To predict base on Possibility and statistic.**
@@ -56,7 +55,7 @@ example of sigmoid function for x input
 ![[Pasted image 20241030204802.png]]
 
 **What loss function should I use ?**
-since the perfect function would go through all data points. The loss function should tell us how far apart the function to all data point. 
+since the perfect function would go through all data points. The loss function should tell us how far apart the function to all data point.  
 sigmoid fit data and have output $[0, 1]$ range. The closer to 1 the better f(x) fit. 
 There for, subtract 1 - f(x) should give us the loss. 
 ![[Pasted image 20241030205718.png]]
@@ -66,7 +65,7 @@ vấn đề bị nhiễu, giải pháp -> chia ra từng sample. batch để hu�
 ![[Pasted image 20241030210950.png]]
 Derivative of Sigmoid  
 ![[Pasted image 20241030211646.png]]
-+ ? Em ko nghe rõ phần hàm mất mát ad giải thích ntn lắm. E đang hiểu đc là ad có nói là đầu ra của sidmoid là 0 hoặc 1. Hàm sigmoid càng chính xác sẽ đi qua càng nhiều điểm và sigmoid gần với 1 hơn. Nên bằng cách lấy 1 - y_hat sẽ trả lại giá trị mất mát ạ?
+
 ![[Pasted image 20241030214556.png]]
 Convex Function: reverse derivative
 Logistic ko convex nên ko.
@@ -88,10 +87,11 @@ Gợi ý 1 số hàm loss (mất mát), hàm nào tốt nhất?
 + $ Số 4 $y = -log(1-x)$
 
 + ! Y >= 0. Nên mọi hàm < 0 sẽ sai. $\log(y)$ ko thể tính khi y < 0.  
-Khi y = 0. thì y mũ gần 0: $\hat{y} \to 0$, loss sẽ nhỏ. Dùng hàm số 4 sẽ hợp nhất
-Khi y = 1. thì y mũ gần 1: $\hat{y} \to 1$, loss sẽ nhỏ. Dùng hàm số 6 sẽ hợp nhất
+Khi y = 0, thì y mũ gần 0: $\hat{y} \to 0$, loss sẽ nhỏ. Dùng hàm số 4 sẽ hợp nhất
+Khi y = 1, thì y mũ gần 1: $\hat{y} \to 1$, loss sẽ nhỏ. Dùng hàm số 6 sẽ hợp nhất
 ![[Pasted image 20241030215912.png]]
 + Ví dụ trên đi từ cảm nhận, sau đó mới tiến tới lý thuyết. 
+
 Reason why for y=0 and y=1, yhat have log like above. Replace y=0 and y=1 to Binary cross-entropy function, we have these fomular.
 ![[Pasted image 20241031002658.png]]
 
@@ -106,6 +106,7 @@ Information Theory để hiểu log hơn. Log-Loss Entropy đến từ Informati
 + Lý do vì sao cần tính convex -> để kiểm tra loss >= 0
 
 --- 
+
 ### Cross Entropy Proof and Explaination
 ![[Pasted image 20241030224223.png]]
 Nếu lấy ra bi xanh thì sẽ ngạc nhiên hơn.
@@ -188,8 +189,7 @@ note: replace 1 with $x_{1}^{(1)}, x_{2}^{(2)}$
 ![[Pasted image 20241101214512.png]]
 combine the into 1 vector
 ![[Pasted image 20241101214713.png]]
-
-+ $ Conclusion: Vectorization is a practice to convert variable into vector where the vector represent multiple variable. This allow us to present fomular as  vectors and calc parallel all variable at once when implement using numpy.
++ $ **Conclusion:** Vectorization is a practice to convert variable into vector where the vector represent multiple variable. This allow us to present fomular as  vectors and calc parallel all variable at once when implement using numpy.
 
 ### Sigmoid and Tank Functions
 tanh(x) (is this tan h(x) ???)

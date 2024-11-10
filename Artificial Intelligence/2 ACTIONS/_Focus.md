@@ -5,7 +5,7 @@
 - [ ] Connect the Dots: Re-Explain Logistic Regression and Softmax and Tanh
 - [ ] Shower and be Mentally prepare for Tonight Course
 
-- [ ] [[VinUni Open Day]]
+
 
 
 **Machine Learning**
