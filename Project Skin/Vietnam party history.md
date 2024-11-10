@@ -15,3 +15,20 @@
 
 
 # Chương 7
+**Phát Xít**
+sth question
+
+**A, B, C, D**
+![[Pasted image 20241110220803.png]]
+
+# Chương 8
+![[Pasted image 20241110224337.png]]
+
+![[Pasted image 20241110224427.png]]
+
+![[Pasted image 20241110224511.png]]
+
+![[Pasted image 20241110224555.png]]
+
+![[Pasted image 20241110224631.png]]
+
