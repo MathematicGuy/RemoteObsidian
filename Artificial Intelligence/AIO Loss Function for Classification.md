@@ -114,6 +114,7 @@ note: so sánh giá trị dự đoán (current forecast) vs **benchmark forecast
 ![[Pasted image 20241109223410.png]]
 + $ **Reduce the effect of very large errors, making it more robust to outliers.**
 (khi nhân giá trị outlier )
+
 #### Casestudy
 ![[Pasted image 20241109213844.png]]
 + ! Still dependent on the denominator. In time 2, although error is small but GMRAE notified larger error than time 1 while time 1 have bigger error.

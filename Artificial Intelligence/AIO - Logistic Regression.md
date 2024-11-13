@@ -1,8 +1,4 @@
 # Basic Logistic Regression
-**Index**
-Xem Xét Loss with Validation
-Optimal Learning Rate
-24GB with Optimal able to run with 10k epoch 
 
 Logistic Regression for Classification Task.
 ![[Pasted image 20241029201736.png]]
@@ -22,7 +18,7 @@ Note: Log is natural log (i.e. ln) if it doesn't go with base 10 like this: $\lo
 khả vi: tính đạo hàm đc tại 1 điểm
 
 ## Idea of Logistic Regression
-**Condition: iead must come from linear regression**
+**Condition: idea must come from linear regression**
 Tại sao dùng hàm f(x): vì từ x có thể suy ra y (kết quả)
 ![[Pasted image 20241030202516.png]]
 
@@ -56,7 +52,7 @@ example of sigmoid function for x input
 
 **What loss function should I use ?**
 since the perfect function would go through all data points. The loss function should tell us how far apart the function to all data point.  
-sigmoid fit data and have output $[0, 1]$ range. The closer to 1 the better f(x) fit. 
+Sigmoid fit data and have output $[0, 1]$ range. The closer to 1 the better f(x) fit. 
 There for, subtract 1 - f(x) should give us the loss. 
 ![[Pasted image 20241030205718.png]]
 
@@ -97,7 +93,6 @@ Reason why for y=0 and y=1, yhat have log like above. Replace y=0 and y=1 to Bin
 
 **Logistic Regression Summary**
 ![[Pasted image 20241031002805.png]]
-
 Information Theory để hiểu log hơn. Log-Loss Entropy đến từ Information Theory.
 
 Đạo hàm bậc 2 của Binary Cross-Entropy nếu >= 0 hay ko? nếu có thì f(x) sẽ convex -> loss tối ưu về giá trị nhỏ nhất. 
@@ -106,7 +101,6 @@ Information Theory để hiểu log hơn. Log-Loss Entropy đến từ Informati
 + Lý do vì sao cần tính convex -> để kiểm tra loss >= 0
 
 --- 
-
 ### Cross Entropy Proof and Explaination
 ![[Pasted image 20241030224223.png]]
 Nếu lấy ra bi xanh thì sẽ ngạc nhiên hơn.

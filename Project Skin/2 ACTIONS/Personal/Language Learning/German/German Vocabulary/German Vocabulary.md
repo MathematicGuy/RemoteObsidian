@@ -2710,3 +2710,4 @@ D**enn** because (don't mistake it with Denn (then))
 
 Als than
 	Weniger Als Sechs Stunden - less than 6 hours 
+

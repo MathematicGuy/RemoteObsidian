@@ -1,4 +1,4 @@
-The **product of all probabilities** refers to multiplying a series of probabilities, often used when dealing with the joint probability of multiple independent events. When we talk about the "product of probabilities," we typically mean that if you have a series of events, the probability of all of them happening simultaneously is the product of each event's individual probability, given they are independent.
+The **product of all probabilities** refers to multiplying a series of probabilities, often used when dealing with the joint probability of multiple independent events. When we talk about the **"product of probabilities,"** we typically mean that **if you have a series of events, the probability of all of them happening simultaneously is the product of each event's individual probability,** given they are independent.
 
 ### Understanding Through Intuition and Example
 

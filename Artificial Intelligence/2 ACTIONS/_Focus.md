@@ -1,15 +1,14 @@
  
 #[[Goals]]
 **Today Priority**
-- [ ] Finish NN and DL Course. 
-- [ ] Connect the Dots: Re-Explain Logistic Regression and Softmax and Tanh
-- [ ] Shower and be Mentally prepare for Tonight Course
 
 
 
 
 **Machine Learning**
 [[AIO 2024]]
+[[OpenCV]]
+
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]

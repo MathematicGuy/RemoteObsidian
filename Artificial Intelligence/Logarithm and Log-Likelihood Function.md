@@ -7,7 +7,6 @@ $$If \space b^{c} = a, \space then \space \log_{b}(a) = c$$
 This read as the **"logarithm base b power c is a"** 
 
 ### **Properties of Logarithms**
-
 Understanding the properties of logarithms is crucial because they simplify complex mathematical expressions, especially when dealing with multiplication and exponentiation.
 
 1. **Product Rule**:
@@ -85,7 +84,7 @@ The natural logarithm is widely used in calculus and exponential growth models d
 **Probability Distributions**:
 >In statistics, many probability distributions, such as the **normal distribution** or the **Poisson distribution**, involve the natural logarithm due to the exponential nature of their formulations.
 
-### Example of Conversion Between $\log()$ and $\ln()$
+### Example of Conversion Between $\log_{10}(x)$ and $\ln(x)$
 Using the **change of base formula**, you can convert between different logarithmic bases:
 $$\log_b(x) = \frac{\ln(x)}{\ln(b)}$$
 For example, converting $\log (x)$ to $\ln(x)$:

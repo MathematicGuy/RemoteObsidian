@@ -3,7 +3,7 @@ note:
 + Softmax is like logisitc regression
 + $k$-th mean element at position $k$. The same for other letter $a,b,c,d,i,j,etc\dots$ 
 # Softmax Regression
-> Giống Logistic Regression nhưng để phân loại nhiều lớp/đặc trưng (multiple class). Vd trong Logistic Regression nếu z=3 có xs là 0.88 thì TH còn lại là z=1 sẽ là 1.2, vậy tổng các xs là 1 đối vs 2 TH. Với Softmax, nếu có n TH thì tổng xs của n TH là 1 như vd ở dưới:     
+> Giống Logistic Regression nhưng để phân loại nhiều lớp/đặc trưng (multiple class). Vd trong Logistic Regression nếu z=3 có xs là 0.88 thì TH còn lại là z=1 sẽ là 0.12, vậy tổng các xs là 1 đối vs 2 TH. Với Softmax, nếu có n TH thì tổng xs của n TH là 1 như vd ở dưới:     
 ![[Pasted image 20241106050754.png]]
   Công thức
 ![[Pasted image 20241106051757.png]]
@@ -18,9 +18,8 @@ note:
 **Goal:** classifiying multiple class using Cross-Entropy loss. 
 	$\arg \max_{\theta}(L(\theta))$ $\to \arg \max_{\theta}$ symbol basically mean find $\theta$ so that $L(\theta)$ is maximize.
 
-+ ? todo: note true label to prove this help matrix multiplication process and apply one-hot encoding
 
-Given: 
+**Given:** 
 A data set with $\mathbb{N}$ independent samples
 Each sample $x^{(i)}$ has a **true class label** $y^{(i)}$ which can be one of $k$ possible classes (e.g. class 1, 2, 3, 4, etc...)
 note:
@@ -47,15 +46,13 @@ Say for 4 label y = { 1, 2, 3, 4 }.
 + $ **Simplify Equation using product sign** $P(Y|X) = \prod^{c}_{k=1}P(y=c|x)$ 
 	this represent prob of Y to happened given sample X.
 
-
-
-note: $\theta$ represent Neural Network weight
+Note: $\theta$ represent Neural Network weight
 $P(Y|X)$ can be rewrite as $h_{\theta}(X)$  $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$
 where $h_{\theta}$ is the probability of $h$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1  represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
 
 
 Note:
-+ IID mean Independent and Identically Distributed: độc lập và ko phân phối)
++ IID mean Independent and Identically Distributed: độc lập và ko phân phối
 + Homogenous (đồng biến) basically mean all function's variable change together. Example for $\lambda$ as the scaling factor, the whole funcion will be scale (that it) $$f(λx,λy)=λx+λy=λ(x+y)=λf(x,y).$$ 
 Same as above, for the whole dataset for m IID datapoints: $(x^{(1)}, y^{(1)}), \dots, (x^{(m)}, y^{(n)})$ we got the product of all prob:
 $$P(Y|X)=P(Y^{(1)}|X^{(1)}),\dots, P(Y^{(m)}|X^{n)}) = \prod^{m}_{i=1}P(Y^{(i)}|X^{(i)})$$
@@ -89,15 +86,20 @@ $$
 + $ Rewrite the expression with $y^{(i)}$ as one-hot encoding vector we got:
 $$-\sum^{m}_{i=1}y^{(i)}\log(h_{\theta}(X^{(i)}))$$
 
-For multiple samples where $X$ and $y$ are both Matrix (which represent all of it elements), the Loss Log likelihood function can be er   
+For multiple samples where $X$ and $y$ are both Matrix (which represent all of it elements), the Loss Log likelihood function can be:   
 $$L = -\frac{1}{N}trace(Y^T\log(\hat{Y}))$$
 where:
 + $Y$ is the $N$ x $C$ matrix of one-hot encoded true true lables for all samples
 + $\hat{Y}$ is the $N$ x $C$ matrix of predicted probabilities for all classes for each sample.
 + $\log(\hat{Y})$ applies the logarithm element-wise to each entry in $\hat{Y}$.
-+ [[trace]]: $trace(A)$ is the **sum of the elements along the main diagnol** (from top left to bottom right) **of matrix (A).** Say after matrix multiplication, $Y^T\log(\hat{Y}$ become matrix A. 
++ [[trace]]: $trace(A)$ is the **sum of the elements along the main diagnol** (from top left to bottom right) **of matrix (A).** Say after matrix multiplication, $Y^T\log(\hat{Y})$ become matrix A. 
+	+ ? **Each element along the diagonal** of the matrix $Y^T \log(\hat{Y})$ **corresponds to the loss for each individual sample in the dataset**, based on the true class and predicted probability for that class. Using the **trace function effectively sums these diagonal elements, giving the total loss across all samples**. By **dividing by $N$ (the number of samples), we obtain the average loss across the dataset.**
+
+
+This approach is efficient because it leverages matrix operations to compute the sum of losses, making it ideal for handling large datasets in a vectorized form.
 
 ---
+# AIO Note
 
 Nhiều tham số hơn (more parameters) thì có tiềm năng làm đc nhiều thứ hơn. Basically more data
 

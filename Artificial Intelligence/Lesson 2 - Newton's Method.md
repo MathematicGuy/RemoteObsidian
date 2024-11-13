@@ -80,9 +80,8 @@ Note: Inconclusive mean we don't know it maximum or minimum.
 Explain from the top down, we got the rate of change of $f_{x x}$ (this is just $f'(f'(x))$ 
 	the same for the rest, $f_{xy}$, $f_{yy}$, $f_{yx}$  (i.e. rate of change of the derivative in respect of ...)
 	![[Pasted image 20241001143458.png]]
-	
 	![[Pasted image 20241001143445.png]]
-+ orthogonal: trực giao. 
++ **orthogonal: trực giao.** 
 	![[Pasted image 20241001143512.png]]
 + change in the change: derivative of the derivative i.e. rate of change of "the rate of change".
 
@@ -105,7 +104,7 @@ Example:
 + At (0, 0) both eigenvalue are positive: the function is concave up and the 0.0 is minimum.
 	![[Pasted image 20241001144955.png]]
 	
-+ Concabe Down maximum at (0,0) because eigen value is < 0.
++ Concave Down maximum at (0,0) because eigen value is < 0.
 	![[Pasted image 20241001145156.png]]
 	
 + Saddle Point (look like a saddle, **a place between maximum and minimum as you can see**): Situation when both eigenvalue is < 0 and > 0. This cannot be determinant, we call it saddle point.
@@ -135,7 +134,7 @@ Example:
 
 ![[Pasted image 20241001150513.png]]
 ![[Pasted image 20241001150540.png]]
-now let Iterate again, and repeat it until we reach the minimum point (very close to the actual 0).
+Now let Iterate again, and repeat it until we reach the minimum point (very close to the actual 0)
 ![[Pasted image 20241001150558.png]]
 ![[Pasted image 20241001150646.png]]
 > This is incredibly fast for finding the minimum point of higher dimension function.

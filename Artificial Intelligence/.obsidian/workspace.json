@@ -24,31 +24,17 @@
             }
           },
           {
-            "id": "452cf3808cc0819b",
+            "id": "6e67250d552b9227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO Loss Function for Classification.md",
+                "file": "Object Detection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO Loss Function for Classification"
-            }
-          },
-          {
-            "id": "5e897dd1bebbd6b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/Good for later/Prompt Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt Engineering"
+              "title": "Object Detection"
             }
           }
         ],
@@ -105,15 +91,13 @@
             }
           },
           {
-            "id": "b6b91334aa994034",
+            "id": "eb2c0b5512824072",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -223,44 +207,44 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "452cf3808cc0819b",
+  "active": "6e67250d552b9227",
   "lastOpenFiles": [
-    "3 RESOURCES/Good for later/Prompt Engineering.md",
+    "image/Pasted image 20241113152735.png",
+    "image/Pasted image 20241113152631.png",
+    "image/Pasted image 20241113152439.png",
+    "image/Pasted image 20241113152222.png",
+    "Computer Vision.md",
+    "Object Detection.md",
+    "2 ACTIONS/_Focus.md",
+    "OpenCV.md",
+    "OpenCV Bugs and Errors.md",
+    "Computer Vision CheckList.md",
+    "Introduction to Computer Vision.md",
     "AIO Loss Function for Classification.md",
+    "text.md",
+    "Lesson 2 - Newton's Method.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "Weeks 6 to 8 Report.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Week 3 - Optimization in Neural Network and Newton's Method.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",
+    "Lesson 1 - Introduction to Probability.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "Statistic and Probability for Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
+    "Logarithm and Log-Likelihood Function.md",
+    "Logistic Regression Lab - Predict whether a student gets admitted into a university.md",
+    "Logistic Regression.md",
+    "AIO - Logistic Regression.md",
+    "Shannon Entropy.md",
+    "Jacobian Matrix.md",
+    "image/Pasted image 20241111093211.png",
+    "image/Pasted image 20241111093030.png",
+    "image/Pasted image 20241111092857.png",
     "image/Pasted image 20241109223743.png",
     "image/Pasted image 20241109223410.png",
     "image/Pasted image 20241109222855.png",
     "image/Pasted image 20241109223046.png",
-    "image/Pasted image 20241109222849.png",
-    "image/Pasted image 20241109221335.png",
-    "image/Pasted image 20241109221223.png",
-    "image/Pasted image 20241109221100.png",
-    "image/Pasted image 20241109220845.png",
-    "image/Pasted image 20241109220821.png",
-    "AIO 2024.md",
-    "2 ACTIONS/_Focus.md",
-    "Week 4 Deep L-Layer NN.md",
-    "Course 1 Deep Learning.md",
-    "Week 3 Shallow Neural Network.md",
-    "AIO4 - Summary.md",
-    "Introduction to Computer Vision.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/compute the covariance matrix C.md",
-    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
-    "Shannon Entropy.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Derivative Fomula.md",
-    "Statistic and Probability for Machine Learning.md",
-    "AIO - Logistic Regression.md",
-    "Optimization in Neural Network and Newton's Method Final Test.md",
-    "Back Propagation.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
-    "Discrete Mathematics for Computer Science Specialization.md",
-    "Numpy.md",
-    "ALA Week 3 - Advice for Applying Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "ALA Week 1 - Week Neural Networks.md",
     "3 RESOURCES/Artificial Intelligent/Softmax",
     "image",
     "Pasted image 20240806130826.png.~tmp",

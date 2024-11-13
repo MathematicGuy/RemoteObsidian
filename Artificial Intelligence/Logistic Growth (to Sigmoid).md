@@ -11,11 +11,9 @@ continue until time=5, we see that as time increase the population reach a limit
 ![[Pasted image 20241031142016.png]]
 
 
-
-
 ---
 ## Why use "e" in the Sigmoid ?
-+ $ Well, you can use any base number like $k^{-x}$$ for sigmoid function and everything in ML or DS will remain the same, it just your notation get a little ugly. **By using e, we basically prettyfied/simplified the sigmoid function** 
++ $ Well, you can use any base number like $k^{-x}$ for sigmoid function and everything in ML or DS will remain the same, it just your notation get a little ugly. **By using e, we basically prettyfied/simplified the sigmoid function** 
 ![[Pasted image 20241031142800.png]]Where k is a Natural Number (Z) power to -x.
 ![[Pasted image 20241031143208.png]]
 (Check my physical note for more information)
