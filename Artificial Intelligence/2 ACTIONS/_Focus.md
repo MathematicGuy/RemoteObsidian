@@ -3,8 +3,6 @@
 **Today Priority**
 
 
-
-
 **Machine Learning**
 [[AIO 2024]]
 [[OpenCV]]

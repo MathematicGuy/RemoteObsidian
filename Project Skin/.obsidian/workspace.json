@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "223b74739a0f789f",
+        "id": "6d703e7a80433535",
         "type": "tabs",
         "children": [
           {
-            "id": "5649dccc3f165a02",
+            "id": "213cae20fd094909",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Focus/Todo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todo"
             }
           }
         ]
@@ -70,7 +77,7 @@
             }
           },
           {
-            "id": "b59f2aa4d6a051a1",
+            "id": "45ac3e38c7bb056c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -220,11 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5649dccc3f165a02",
+  "active": "213cae20fd094909",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Vietnam party history.md",
     "Images/Pasted image 20241110224631.png",
     "Images/Pasted image 20241110224555.png",

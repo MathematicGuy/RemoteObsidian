@@ -4,24 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "db72aa8c0aad61d8",
+        "id": "a6733a4a2ed8469a",
         "type": "tabs",
         "children": [
           {
-            "id": "3fa6dad42d32c4c2",
+            "id": "c8313305d7ec31ba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/_Focus.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Focus"
+            }
+          },
+          {
+            "id": "673b16fb9037e15e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO - Multilayer Perceptron.md",
+                "file": "AIO Loss Function for Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO - Multilayer Perceptron"
+              "title": "AIO Loss Function for Classification"
+            }
+          },
+          {
+            "id": "ad5f4b8eb78313de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIO - Softmax"
+            }
+          },
+          {
+            "id": "2c560f103b050e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLS Week 1 - Supervised Machine Learning Regression and Classification"
+            }
+          },
+          {
+            "id": "a8f3e1ffb878159e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mathematics for Machine Learning - MML"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,7 +133,7 @@
             }
           },
           {
-            "id": "05e012b758f0686a",
+            "id": "6a13feb4af1404df",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,44 +249,43 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "3fa6dad42d32c4c2",
+  "active": "a8f3e1ffb878159e",
   "lastOpenFiles": [
-    "Normalization & Standardization.md",
-    "AIO - Multilayer Perceptron.md",
-    "image/Pasted image 20241114105651.png",
-    "Google Collab.md",
+    "AIO Loss Function for Classification.md",
+    "image/Pasted image 20241114215153.png",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
     "Shannon Entropy.md",
-    "image/Pasted image 20241113224435.png",
-    "image/Pasted image 20241113224348.png",
-    "image/Pasted image 20241113213729.png",
-    "image/Pasted image 20241113213705.png",
-    "image/Pasted image 20241113212434.png",
-    "image/Pasted image 20241113211826.png",
-    "image/Pasted image 20241113211220.png",
-    "image/Pasted image 20241113205217.png",
-    "image/Pasted image 20241113205056.png",
-    "Numpy.md",
+    "image/Pasted image 20241114214011.png",
+    "image/Pasted image 20241114213959.png",
+    "image/Pasted image 20241114213932.png",
     "2 ACTIONS/_Focus.md",
+    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "image/Pasted image 20241114211933.png",
+    "image/Pasted image 20241114211803.png",
+    "OpenCV Code.md",
+    "image/Pasted image 20241114155808.png",
+    "image/Pasted image 20241114155622.png",
+    "image/Pasted image 20241114155605.png",
+    "image/Pasted image 20241114155448.png",
+    "OpenCV.md",
+    "Introduction to Computer Vision.md",
+    "OpenCV Bugs and Errors.md",
+    "AIO - Multilayer Perceptron.md",
+    "Normalization & Standardization.md",
+    "Google Collab.md",
+    "Numpy.md",
     "Intern timeline.md",
     "Goals.md",
     "AIO 2024.md",
     "Object Detection.md",
     "Computer Vision.md",
-    "OpenCV.md",
-    "OpenCV Bugs and Errors.md",
     "Computer Vision CheckList.md",
-    "Introduction to Computer Vision.md",
-    "AIO Loss Function for Classification.md",
     "text.md",
     "Lesson 2 - Newton's Method.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
     "Weeks 6 to 8 Report.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",
-    "Lesson 1 - Introduction to Probability.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Statistic and Probability for Machine Learning.md",
     "3 RESOURCES/Artificial Intelligent/Softmax",
     "image",
     "Pasted image 20240806130826.png.~tmp",

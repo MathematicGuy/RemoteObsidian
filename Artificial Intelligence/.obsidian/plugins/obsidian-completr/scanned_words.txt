@@ -1179,6 +1179,8 @@ Expectation
 Ensures
 Extending
 Experts
+Eroding
+Expands
 the
 that
 transformation
@@ -2279,6 +2281,9 @@ trj
 towering
 takeaways
 tTanh
+thresholded
+tunes
+trog
 original
 of
 operator
@@ -3184,6 +3189,8 @@ originates
 objectively
 objectivity
 offset
+organized
+organize
 vector
 vectors
 versions
@@ -5302,6 +5309,9 @@ Absolue
 Actual
 Audience
 Ambiguity
+Applies
+ADAPTIVE
+AND
 eigenbasis
 entirely
 eigenvectors
@@ -6519,6 +6529,9 @@ emtrics
 essay
 emphasizes
 engulfed
+external
+enpoints
+emphasizing
 is
 in
 image
@@ -7789,6 +7802,8 @@ introducing
 instructs
 incorporating
 inquiring
+internal
+inverts
 basis
 by
 because
@@ -8926,6 +8941,9 @@ bik
 baseline
 benchmark
 blinding
+blurring
+bitwise
+brighter
 find
 factor
 first
@@ -9982,6 +10000,8 @@ fpo
 fat
 forecast
 fro
+focuses
+frames
 space
 say
 same
@@ -11373,6 +11393,14 @@ sky
 suspenseful
 sentiment
 sufficiently
+shrinks
+storing
+surrounding
+subtracted
+strict
+selects
+smooths
+smoothed
 consists
 can
 change
@@ -12863,6 +12891,7 @@ conversational
 contextually
 comparison
 chung
+channels
 linear
 lambda
 left
@@ -13917,6 +13946,7 @@ lables
 leaves
 landscape
 lake
+loads
 matrix
 multiply
 multiplied
@@ -15118,6 +15148,8 @@ mountains
 mysterious
 melancholic
 maz
+mirrors
+mask
 The
 This
 To
@@ -16264,6 +16296,8 @@ TcB
 Tone
 Topic
 Translate
+THRESH
+Translation
 after
 and
 as
@@ -19793,6 +19827,10 @@ Clarity
 Consideration
 Conversational
 Concave
+Cropping
+Captures
+Combines
+Channels
 Basis
 Both
 Board
@@ -20821,6 +20859,9 @@ BKY
 Bullet
 Beginners
 Baseline
+Binarizes
+BINARY
+Bitwise
 Using
 Understand
 Unique
@@ -23812,6 +23853,8 @@ hQm
 hGQ
 highlights
 hfJ
+highlighting
+hierarchy
 Let
 Light
 Learning
@@ -26895,6 +26938,10 @@ paragraph
 poem
 pixles
 pytorch
+pressed
+parent
+purely
+percentage
 You
 Yes
 YX
@@ -28793,6 +28840,7 @@ grG
 gtri
 guides
 ground
+gray
 Scalars
 Step
 Solution
@@ -30098,6 +30146,7 @@ Squeeze
 Still
 Sentiment
 Scaled
+Separates
 result
 reduced
 repeated
@@ -31296,6 +31345,7 @@ revised
 refining
 reade
 reLu
+retrieves
 Non
 Need
 No
@@ -32147,6 +32197,7 @@ NZUS
 NWV
 Norm
 NaN
+NOT
 zero
 zeros
 zeroes
@@ -36171,6 +36222,7 @@ FOK
 Forms
 Funny
 French
+Flipping
 know
 kh
 kia
@@ -38197,6 +38249,7 @@ MAE
 MAPE
 MRAE
 MASE
+Moves
 using
 up
 until
@@ -40402,6 +40455,11 @@ RSE
 RMSLE
 Refinement
 Respond
+Resizing
+Retrieval
+Retrieves
+Resize
+Rescales
 Or
 One
 Our
@@ -42585,6 +42643,7 @@ Innitialize
 Instruction
 IoU
 Intersected
+INV
 Prerequisite
 PCB
 Project
@@ -43721,6 +43780,9 @@ Professional
 Paragraph
 Poetry
 PIL
+Pixels
+Produces
+Provides
 Defecs
 Defects
 Dataset
@@ -44846,6 +44908,9 @@ Dots
 Dqg
 Disadvantages
 Dealing
+Detects
+Dilating
+Divergence
 Visual
 Variables
 Visualization
@@ -51850,6 +51915,8 @@ Gry
 Glucose
 Gwvs
 GMRAE
+Greyscale
+GAUSSIAN
 Zero
 Zw
 ZX
@@ -55581,6 +55648,7 @@ XZi
 Xhm
 XJU
 XEM
+XOR
 üi
 üj
 üL

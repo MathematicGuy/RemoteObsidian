@@ -188,3 +188,26 @@ log trc: thực tế, log sau dự đoán
 + ? Có cách nào để có 1 cái metrics (hàm loss) để dung hòa các disadvantage của các Evaluation Metrics kia.
 
 
+---
+# KL Divergence
+![[Pasted image 20241114211803.png]]
+
+nếu là hằng số là lúc optimization sẽ bỏ, chỉ quan tâm hàm nào có theta.
+![[Pasted image 20241114211933.png]]
+
+### The Formula for Binary Cross-Entropy ?
+
+chỉ quan tâm tới tham số theta 1
+![[Pasted image 20241114213959.png]]
+
+![[Pasted image 20241114214011.png]]
+![[Pasted image 20241114213932.png]]
+Apply sigmoid function để scale $h(\theta)$ trog khoảng âm vô tận tới dương vô tận về $[0,1]$.
+
+Chuyển convex function (khó đạt đc convergence) về convex function
+
+### What is Hinge Loss ?
+SVM (Supervised Vector Machine)
+![[Pasted image 20241114215153.png]]
+
+

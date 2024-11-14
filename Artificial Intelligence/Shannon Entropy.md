@@ -45,3 +45,4 @@ Most distribution is not uniform. For M outcome, each outcome is
 >For all M, this is "**the measure of how much information (binary bits) on average is needed to describe outcomes of a distribution**" it is linked tightly with uncertainty. 
 ![[Pasted image 20241108143100.png]]
 > Since **if we're less certain of an outcome we may need more information to describe.**
+
