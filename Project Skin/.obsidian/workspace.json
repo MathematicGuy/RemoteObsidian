@@ -4,43 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "15ce47c20bb5fbca",
+        "id": "e248af976917b755",
         "type": "tabs",
         "children": [
           {
-            "id": "e9cf6118acc7a67e",
+            "id": "00efd8c32faeee85",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "German Vocabulary"
             }
           },
           {
-            "id": "39463687e1a0453f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "German Vocab Revision"
-            }
-          },
-          {
-            "id": "dde3375268dd067f",
+            "id": "4025bcbc9f27e31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,9 +38,24 @@
               "icon": "lucide-file",
               "title": "German Vocabulary"
             }
+          },
+          {
+            "id": "a3323ef22c69a40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/German Vocab Revision.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "German Vocab Revision"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             }
           },
           {
-            "id": "86aa9294afe983be",
+            "id": "6c2cbb0062ce264a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -258,11 +258,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dde3375268dd067f",
+  "active": "4025bcbc9f27e31e",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "_Focus/Todo.md",
     "Vietnam party history.md",
     "Images/Pasted image 20241110224631.png",
     "Images/Pasted image 20241110224555.png",

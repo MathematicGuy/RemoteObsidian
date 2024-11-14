@@ -34,7 +34,7 @@
 - [ ] [[Course 1 Deep Learning]]
 - [ ] Course 2 Deep Learning
 - [ ] Course 3 Deep Learning
- 
+ - [ ] [Intern Timeline](https://docs.google.com/spreadsheets/d/1ypLvhvAGNG4zNBU929T5bluPoKhwStQ4S47oB-2Ubns/edit?gid=0#gid=0)
 
 **Critical Thinking**
 - [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh) 

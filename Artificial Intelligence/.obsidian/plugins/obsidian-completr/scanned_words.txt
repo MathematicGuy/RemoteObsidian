@@ -3183,6 +3183,7 @@ ony
 originates
 objectively
 objectivity
+offset
 vector
 vectors
 versions
@@ -9980,6 +9981,7 @@ fFeM
 fpo
 fat
 forecast
+fro
 space
 say
 same
@@ -17547,6 +17549,7 @@ article
 ambiguity
 assistant
 appropriately
+automatical
 notate
 nhau
 normal
@@ -22773,6 +22776,7 @@ wZg
 wye
 wrB
 wjfs
+workers
 have
 has
 ho
@@ -24802,6 +24806,7 @@ LePu
 Ltx
 LBT
 LCH
+Localization
 you
 yield
 yk
@@ -26888,6 +26893,8 @@ phrases
 prompts
 paragraph
 poem
+pixles
+pytorch
 You
 Yes
 YX
@@ -28785,6 +28792,7 @@ gEx
 grG
 gtri
 guides
+ground
 Scalars
 Step
 Solution
@@ -31286,6 +31294,8 @@ regress
 resident
 revised
 refining
+reade
+reLu
 Non
 Need
 No
@@ -39241,6 +39251,7 @@ ubc
 uncertaintz
 uncerstainty
 unreasonable
+uint
 Recall
 Reference
 Redundant
@@ -42572,6 +42583,8 @@ IIF
 Iio
 Innitialize
 Instruction
+IoU
+Intersected
 Prerequisite
 PCB
 Project
@@ -43707,6 +43720,7 @@ Penalize
 Professional
 Paragraph
 Poetry
+PIL
 Defecs
 Defects
 Dataset

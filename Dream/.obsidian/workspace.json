@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "bd51be401eba29cf",
+            "id": "9d21c54463986cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-Weeks Year Framework.md",
+                "file": "2 ACTIONS/_My Life/Learn more about Myself.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-Weeks Year Framework"
+              "title": "Learn more about Myself"
             }
           }
         ],
@@ -201,13 +201,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd51be401eba29cf",
+  "active": "9d21c54463986cae",
   "lastOpenFiles": [
+    "_Focus.md",
+    "3 RESOURCES/_Question Mark/_Question Mark.md",
+    "3 RESOURCES/_Happiness/_Happiness.md",
+    "12-Weeks Year Framework.md",
     "image/Pasted image 20241112093724.png",
     "image/Pasted image 20241112093621.png",
-    "3 RESOURCES/_Happiness/_Happiness.md",
-    "_Focus.md",
-    "12-Weeks Year Framework.md",
     "2 ACTIONS/_My Life/_My Life.md",
     "image/Pasted image 20241112093034.png",
     "image/Pasted image 20241112093024.png",
@@ -239,7 +240,6 @@
     "Pasted image 20240920085830.png",
     "Pasted image 20240913110123.png",
     "Pasted image 20240912101132.png",
-    "Pasted image 20240821015451.png",
     "fitness",
     "3 RESOURCES/Fitness",
     "Spaces/Home",
