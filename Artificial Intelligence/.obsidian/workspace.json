@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "0fe73e6492e83510",
+            "id": "05e012b758f0686a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -192,6 +192,11 @@
   },
   "active": "3fa6dad42d32c4c2",
   "lastOpenFiles": [
+    "Normalization & Standardization.md",
+    "AIO - Multilayer Perceptron.md",
+    "image/Pasted image 20241114105651.png",
+    "Google Collab.md",
+    "Shannon Entropy.md",
     "image/Pasted image 20241113224435.png",
     "image/Pasted image 20241113224348.png",
     "image/Pasted image 20241113213729.png",
@@ -202,9 +207,6 @@
     "image/Pasted image 20241113205217.png",
     "image/Pasted image 20241113205056.png",
     "Numpy.md",
-    "AIO - Multilayer Perceptron.md",
-    "image/Pasted image 20241113204027.png",
-    "image/Pasted image 20241113203743.png",
     "2 ACTIONS/_Focus.md",
     "Intern timeline.md",
     "Goals.md",
@@ -226,8 +228,6 @@
     "Lesson 1 - Introduction to Probability.md",
     "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
     "Statistic and Probability for Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
-    "Logarithm and Log-Likelihood Function.md",
     "3 RESOURCES/Artificial Intelligent/Softmax",
     "image",
     "Pasted image 20240806130826.png.~tmp",

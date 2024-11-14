@@ -64,3 +64,12 @@ note: 'bs' là batch size
 vanishing gradient: giá trị đạo hàm sau cập nhập quá nhỏ. Vd sau khi đi qua 1 hàm kích hoạt giá trị bị chia 4, thì giá trị sẽ dễ dàng bị siêu bé sau nhiều lần đạo hàm -> vanishing gradient.
 
 Improve model -> Add more layers
+
+
+# Results
+LR = 0.01 (quite high), normalize 0-255 to 0-1
+Result: Bad
+![[Pasted image 20241114105651.png]]
+
+
++ $ Conclude: Normalize data and increase number of nodes in a hidden layers or increase number of hidden layers can improve result.   

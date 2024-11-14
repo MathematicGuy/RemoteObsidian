@@ -490,7 +490,7 @@ Die Schude - the shoes
 	Die Schude sind zu groß - the shoes are too big
 	Meine Schude sind neu und toll
 Hut hat
-großer big (object)
+großer big (object) 
 
 Exercise Die Reservierung - The Reservation
 eine/einen Geburtstag birthday
@@ -723,7 +723,7 @@ Hast du - do you have (not Have To - muss)
 	 Habt Ihr (plural form of habe)
 (same principle with e - ich | t - er | st - du | en - Frau, Herr)
 Onkel uncle
-	einen Onkel
+	einen Onkel (einen for Onkel is a Masculine Noun)
 Tante aunt
 Opa grandpa
 Oma grandma
@@ -2172,8 +2172,8 @@ Leise - quite
 	Es ist nachts leise hier / it is quite here at nights
 	Meine Katze ist nachts wirklich leise
 
-Unser - our
-	Unsere Tochter - ours daughter (add -a behind feminine word)
+Unser - our (Use with Neuter Noun)
+	Unsere Tochter - ours daughter (add -a behind feminine noun)
 	Unsere Katze - Our cat
 
 Schwarz black
@@ -2555,6 +2555,9 @@ Bekommen - to get/receive
 
 Weniger less
 	Ich muss weniger essen / ich have to eat less sugar
+Als than
+	Weniger Als Sechs Stunden - less than 6 hours 
+
 Spinat / spinach
 Bretzel / pretzel
 
@@ -2571,11 +2574,12 @@ Welchen Film seht Ihr? / what movie are you watching?
 
 Horrorfilm / horror movie
 Erwachsene / adult
-Finden find\
+Finden find
 
 Langweilig - boring
 Stunde - hour
 	Der Band spielt für eine Stunde - the band play for 1 hour
+Stunden - hours
 
 Nach after (not noch: only)
 Kurz short
@@ -2701,13 +2705,19 @@ Der Fahrrad bicycle (r pronoun in g. motorgad)
 Schlaft - sleep (Schläfst)
 Ganze - whole
 	ganze tag - whole day
-Mond  moon
+Der Mond - the moon
 
 D**ann** then
 	wenn ich laufe, bleiben ich gesund - when i run, i will stay healthy 
 D**enn** because (don't mistake it with Denn (then))
 	Ihr Oma ist sehr cool, denn sie fahren ein motorrad
 
-Als than
-	Weniger Als Sechs Stunden - less than 6 hours 
+Gelb yellow
+Nass wet
+	Der Staßen sind nass - the street are wet
 
+Turnschuhe - gym shoes
+Mitternacht - midnight
+
+Wie How
+	Wie kannst du - how can you
