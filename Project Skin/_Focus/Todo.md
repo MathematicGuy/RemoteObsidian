@@ -92,4 +92,3 @@ Luck
 ![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
 
 
-![[Pasted image 20241114233930.png]]

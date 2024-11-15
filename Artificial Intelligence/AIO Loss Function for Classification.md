@@ -210,4 +210,3 @@ Chuyển convex function (khó đạt đc convergence) về convex function
 SVM (Supervised Vector Machine)
 ![[Pasted image 20241114215153.png]]
 
-

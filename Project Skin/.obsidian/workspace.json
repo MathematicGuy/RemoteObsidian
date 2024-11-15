@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f48fdf0acf8ef3d",
+        "id": "36bf040ceda0c669",
         "type": "tabs",
         "children": [
           {
-            "id": "f8db3c7a536aece7",
+            "id": "d93a4d7dc58dfc5a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -227,7 +227,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f8db3c7a536aece7",
+  "active": "d93a4d7dc58dfc5a",
   "lastOpenFiles": [
     "Images/Pasted image 20241114233930.png",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
