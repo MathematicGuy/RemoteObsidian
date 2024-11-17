@@ -521,7 +521,7 @@ Kanzler Chancellor (Die)
 Herr Mr.
 Sie Ms.
 
-Sind Sie are you 
+Sind Sie are you/they 
 	 sind si (goes with gender pronounce before it like Frau, Herr)
 + Bist du - are you in 1 person
 Frau QuynhAnh Mrs Quynh Anh
@@ -2705,6 +2705,8 @@ Der Fahrrad bicycle (r pronoun in g. motorgad)
 Schlaft - sleep (Schläfst)
 Ganze - whole
 	ganze tag - whole day
+Ganzen - entire
+		ganzen tag - entire day
 Der Mond - the moon
 
 D**ann** then
@@ -2721,3 +2723,6 @@ Mitternacht - midnight
 
 Wie How
 	Wie kannst du - how can you
+
+Fährt - riding
+	Fährst du 
