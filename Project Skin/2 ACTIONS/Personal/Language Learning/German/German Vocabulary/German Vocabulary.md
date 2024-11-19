@@ -2733,3 +2733,13 @@ Das Meer - the sea
 Dort there
 Scheint shine 
 
+Die Tasche the bag 
+Einpacken pack
+	Kannst du meine Pullover einpacken - can you pack my sweater
+
+Trage wear
+Das Jacke jacket 
+	Wo ist deine jacke, Sie ist im Schrank)
+Waschen wash
+Vergiss forget
+Wieder again

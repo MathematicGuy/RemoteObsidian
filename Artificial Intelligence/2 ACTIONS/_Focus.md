@@ -1,13 +1,10 @@
  
-#[[Goals]]
-**Today Priority**
-
+### [[Anstler Palace.canvas|Anstler Place]]
 
 **Machine Learning**
 [[AIO 2024]]
-[[OpenCV]]
 [[ML CheatSheet]]
-https://leetcode.com/explore/featured/card/machine-learning-101/281/how_to_ml/2642/
+
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
@@ -21,6 +18,7 @@ https://leetcode.com/explore/featured/card/machine-learning-101/281/how_to_ml/26
 - [x] [[MLS Week 1 - Supervised Machine Learning Regression and Classification]]
 - [x] [[MLS Week 2 - Regression with multiple input variables]]
 - [x] [[MLS Week 3 - Classification with logistic regression]]
+
 
 **Advance Learning Algorithms**
 - [ ] [[ALA Week 1 - Week Neural Networks]]

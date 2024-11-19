@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0073ab0f682a5b79","type":"text","text":"### Commited & Hyper-Focus Goals\n\nMachine Learning Specialization\n\nKnowledge Summarization\n\nIELTS  Writing, Reading, Listenning\n\n","x":-420,"y":-400,"width":440,"height":360},
+		{"id":"e793635bab74e78d","type":"text","text":"#### Petrichor & Wonderland\n\n+ Morning Jog\n+ Morning Cold Shower\n\tMorning Studied (Languages, Coding, Systemized, etc..) ","x":40,"y":80,"width":540,"height":300},
+		{"id":"589e68e43d1c8c5b","type":"text","text":"###  Crowns & Habits\n## 👑\n\nCalisthenics\nCommunicate in German/English\n\n","x":-420,"y":-20,"width":440,"height":400},
+		{"id":"534247ac7cb58e9a","type":"text","text":"Competitive Mastery  (do sth competitive like LoL rank climbing, grinding IELTS scores, etc..)","x":40,"y":-20,"width":540,"height":80},
+		{"id":"979a58fc2550969c","type":"text","text":"### Motivated and Dopamint Boost Tasks\n\n+ [Face Detection with Pytorch](https://www.youtube.com/watch?v=yqkISICHH-U&list=PLtA5cPRCTDoO1zlH1M4SVlUs1OeI9zsRu)\n+ [Advance Computer Vision Project](https://youtu.be/01sAkU_NvOY?si=k4qSaH8VBgCZ5cyt)\n+ Formula Discovery\n\n","x":40,"y":-400,"width":540,"height":360},
+		{"id":"bce9fcdb8f2ccee5","type":"text","text":"**Anstler Palace:** where times and living experience optimized. Minds are on tracks and Tasks get Done.","x":-420,"y":-480,"width":1000,"height":50},
+		{"id":"f5d74200e16bae8b","type":"file","file":"Study Music Playlist.md","x":1880,"y":-480,"width":400,"height":400},
+		{"id":"a83d2856c4f8acf3","type":"text","text":"Each section must have > 2 Tasks","x":-820,"y":-400,"width":360,"height":50},
+		{"id":"8cf54dac87c23c2b","type":"text","text":"**System Rule** ","x":-820,"y":-480,"width":360,"height":50}
+	],
+	"edges":[]
+}
