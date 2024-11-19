@@ -2726,3 +2726,10 @@ Wie How
 
 Fährt - riding
 	Fährst du 
+
+### Section 3, Unit 3: Pack for a Vacation
+Die Sonne - the sun
+Das Meer - the sea
+Dort there
+Scheint shine 
+

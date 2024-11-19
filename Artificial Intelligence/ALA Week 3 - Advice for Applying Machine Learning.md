@@ -100,10 +100,11 @@ poly = PolynomialFeatures(degree=n, include_bias=False)
 X_train_mapped = poly.fit_transform(x_train)
 ```
 
-
 # Diagnosing Bias and Variance
 ![[Pasted image 20241105155344.png]]
-High Bias - large errors
+Instead of look Diagnoise by adding more datapoints. A more systematic way to diagnose or to find out if your algorithm has high bias or high variance will be to
+>Look at the performance of your algorithm on the training set and on the cross validation set.
+
 
 **Diagnosing bias and variance**
 J_train is the cost of training.
@@ -113,7 +114,7 @@ J_cv is the cost of many validationa and training. Thus we come to these conclus
  ![[Pasted image 20241105155808.png]]
 
 ### Regularization and bias/variance
-**CV:** **C**ross **V**alidation
+**CV:** Cross Validation
 
 **Linear Regression with regularization**
 > The larger $\lambda$ is, the more the algorithm is trying to keep W squared small.
@@ -123,4 +124,23 @@ J_cv is the cost of many validationa and training. Thus we come to these conclus
 + $ Trying a large range of $\lambda$ to pick the right one. The best one is the one  result in the lowest cost $J$. ![[Pasted image 20241105171714.png]]
 
 ![[Pasted image 20241105172527.png]]
+
+### Regularization and bias/variance
+![[Pasted image 20241118141039.png]]
+#### Revision
+**Motivation:** We need to find a way to avoid underfit and overfit. Underfit can be avoid by adding more features, but by adding our model are vurnerable to overfit. L2 regularization (Lasso Regression) help us to minimize effects of adding features by using $\lambda$. 
+
+**Regularization tradeoff**: As we learn when addressing overfitting
++ For large $\lambda$, $w_{j}$ will be close to 0 making model unable to learn thus underfit. 
++ For small $\lambda$, model focus on minimizing MSE term and not regularization term thus the model remain overfitting.
+
+#### Choosing the regularization parameter $\lambda$
+> Test and choose the best one
+![[Pasted image 20241118145652.png]]
+
+
+![[Pasted image 20241118145549.png]]
+
+# Establishing a baseline level of performance
+![[Pasted image 20241118154109.png]]
 

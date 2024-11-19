@@ -6,7 +6,8 @@
 **Machine Learning**
 [[AIO 2024]]
 [[OpenCV]]
-
+[[ML CheatSheet]]
+https://leetcode.com/explore/featured/card/machine-learning-101/281/how_to_ml/2642/
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
@@ -50,11 +51,16 @@
 - [ ] [[Intuition]]
 - [ ] [[Courses Pipeline]]
 	Mathematics -> General Machine Learning Knowledge -> Tensor Flow -> Deep Learning -> Computer Vision -> Project  
-**Study Pipeline**
-+ Resource Research -> Turtorial/Courses -> Understanding -> Documenting -> Pratice Coding using my Document -> Improving -> Repeat
-+ (Know what to learn/Bes t to learn) -> (Know what I learn) -> Remember what I learn -> Understand what I learn -> Apply What I Learn.  
 
 
+**Ultra Learning**
+	Identify what to learn -> Resource Research -> Overview Resource (CRUCIAL for motivation & study efficiency) -> Turtorial/Courses -> Listen & Understanding First -> Documenting -> Pratice Coding using my Document -> Improving -> Repeat.
+	
++ (Know what to learn/Best to learn) -> (Know what I learn) -> Remember what I learn -> Understand what I learn -> Apply What I Learn.  
+	
++ **Understand** new topics **fast** by **understand topic's key words** -> **Understand explaination more efficiency**. Always look and identify key words meaning. (**Learning is not** solely about **explain sth** by your own term, **Learning is about understanding** the **others terms**. Why try to make thing up when they are already there?)
+	
++ Note: don't believe ChatGPT, learn from reliable source like LinkedIn or GeeksforGeeks.  
 
 
 ![[Pasted image 20240611193343.png]]

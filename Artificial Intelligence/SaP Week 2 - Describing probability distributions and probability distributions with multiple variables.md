@@ -2,7 +2,7 @@
 **Skewness and Kurtosis:** độ lệnh và độ nhọn
 **Equilibrium point:** điểm cân bằng
 ## Expected Value: Discrete Case
-**Mean**: **average value of the whole sets (number)**. Rewrite the equation into probability out of 10 for age 0, 1, 2, 3 we got the fomular for Expected Value (the result is still 1.3 though).
+**Mean**: **average value of the whole sets (number)**. Rewrite the equation into probability out of 10 for age 0, 1, 2, 3 we got the fomular for Expected Value.
 ![[Pasted image 20241029142803.png]]
 
 **Expected Value: Motivation Example 1** -  Maximum amount of money to bet for $5 on head.
@@ -13,10 +13,11 @@
 
 To conclude, $\mathbb{E}[X]$ (i.e. Expected Value) for discrete variable x will have the Probability Mass Function (PMF) that show the probability of each outcome X. The Expected value is the sum of x $(0,1,2,3)$ times the probability of x $\left( \frac{1}{8}, \frac{3}{8}, \frac{3}{8}, \frac{1}{8} \right)$ for all possible values of x $(0, 1, 2, 3)$.   
 ![[Pasted image 20241029144112.png]]
-To Visualize, for discrete Value **Expected Value is** the **Equilibrium point** of the Probability Mass Function. In simlpe term, average value point.
++ $ To visualize for discrete value, the **Expected Value is** the **Equilibrium point** of the Probability Mass Function. In simple term, average value point. (need to note more detail)
 ![[Pasted image 20241029145455.png]]
 For **continuous variables**, it the **Equilibrium point** of the **Probability Dense Function**
 ![[Pasted image 20241029150354.png]]
+
 ### Example
 >You collect data each time you waiting for the bus for many years and its each point of time are filled out (thus it Uniform Distributed) with the average of 30.  
 ![[Pasted image 20241029150702.png]]
@@ -72,9 +73,9 @@ How much do you win on average?
 
 **Game:** There are 8 billion people in the world. There is a bag with their 8 billion names, and each person is given a random name from it.
 What is the expected number of correct assignments?
->If there only 3 people's name in the bag, there are 3 correct out of all permuation the name handed to the right people. and its average is 1.
+>If there only 3 people's name in the bag, there are 3 corrects out of all permuation the name handed to the right people and its average is 1.
 ![[Pasted image 20241029160112.png]]
-> What about 8 billion peoples? a simpler way to do this is to calc the sum of for each people exected value. The result remain 1
+> What about 8 billion peoples? a simpler way to do this is to calc the sum of each people exected value. The result remain 1
 ![[Pasted image 20241029160509.png]]
 > Apply to 8 billion, we got the fomula: $$\mathbb{E}[Matches] = n * \frac{1}{n} = 1$$
 > ![[Pasted image 20241029160919.png]]
@@ -86,9 +87,10 @@ What is the expected number of correct assignments?
 + ? One way to think of the idea of spread is how far away the points are from the expected outcome. If the spread is small, you would expect most points to be close to the expected value.![[Pasted image 20241029165355.png]]
 > The expected value will always appear at the point at which the positive and negative deviations cancel each other out.  
 
+
 **Variance Fomula**
 ![[Pasted image 20241029165436.png]]
-**examples**
+**Examples**
 ![[Pasted image 20241029165717.png]]
 ![[Pasted image 20241029165753.png]]
 

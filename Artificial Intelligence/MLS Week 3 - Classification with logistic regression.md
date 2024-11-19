@@ -78,6 +78,7 @@ Use GD as a tool to update paramaters for Logistic Regression.
 ![[Pasted image 20241021144455.png]]
 
 ## Regularization to Reduce Overfitting
+
 #### The Problem of Overfitting
 >Regression Example
 ![[Pasted image 20241021145738.png]]
@@ -87,40 +88,58 @@ Use GD as a tool to update paramaters for Logistic Regression.
 ![[Pasted image 20241021150214.png]]
 
 #### Addressing overfitting
-When overfitting occur, find more data (i.e.  more training example):
- ![[Pasted image 20241021151627.png]]
+When overfitting occur, find more data (i.e.  more training example) in other word **add more features so the model can generalize more**. This is called **Regularization**
+![[Pasted image 20241021151627.png]]
 
 ##### Feature Selection: Choose features that are useful and remove those aren't.
 ![[Pasted image 20241021151754.png]]
 
 #### Regularization (reduce overfitting)
-+ $ Regularization reduce the effect of the selected features while reserve all features, this can help to build accurate curve but not overfitting.
-+ ? Use this to Regularize un-useful features.
++ $ Regularization **reduce the effect of the selected features while reserve all features**, this can help to build accurate curve but not overfitting -> help model to generalize better -> adapt to new data better.
++ ? Use this to Regularize un-useful features too.
 Setting a feature to 0 or close to 0 to eliminate feature.
 ![[Pasted image 20241021152154.png]]
 
 ### Cost function with regularization
-![[Pasted image 20241021153601.png]]
-**For example:** replace $w_{3}, w_{4}$ with 0.001.
-penalize (pronoun as pi-nerlized)
-+ ? Simpler model less likely to overfit.
++ ? We saw that regularization tries to make the **parental values $W_{1}$ through W_n small to reduce overfitting.** 
+ But now consider the following, suppose that you had a way to make the parameters W3 and W4 really, really small.
++ $ Intuitionally, we can do that by adding a big number times W3 and W4. Now the only way to make cost function small is to make W3 and W4 small, right? So when you minimize this function W3, W4 will end up very close to 0.
+-> So we're effectively nearly canceling out the effects of the features execute and extra power of 4 and getting rid of these two terms over here by adding a big number before it.
+![[Pasted image 20241118105731.png]]
++ @ **Regularization** basically **reduce features (like W3, W4) values by adding big number before it**. We call this **features penalized**. 
+note: penalize pronoun as pi-nerlized
 
-So we have 100 parameters W1 through W100, because we **don't know whick of these parameters are going to be the important ones. Let's penalize all of them** by adding $\lambda$ multiplying with $W$ (cộng thêm các features mới và chuẩn hóa chúng sử dụng $\lambda$) 
-![[Pasted image 20241021155704.png]]
+### Ridge Regression (L2 Regularization)
++ ? A regression model which uses the **L2 Regularization** technique is called **LASSO (Least Absolute Shrinkage and Selection Operator)** regression.
+So we have 100 parameters W1 through W100, because we **don't know which of these parameters are going to be the important ones. Let's penalize all of them** by adding $\lambda$ multiplying with $W$ (cộng thêm các features mới và chuẩn hóa chúng sử dụng $\lambda$) 
+![[Pasted image 20241118110459.png]]
 + ? $\lambda$: **regularization factor**, treat it like learning rate $\alpha$. (divided by 2 to scale equally to the cost function)
 + ? $b$ also **used for regularization for special cases**. but make a very low diff in practice. normally just use $\lambda$.
+
+
+>Can also regularized b bc do it or not, make a very small different.
 ![[Pasted image 20241021155934.png]]
 
 **Summarize**
-> Want to **minimize the "original cost: mean square error + regularization term"**
+> Goas: to **minimize the "original cost: mean square error + regularization term"**
 ![[Pasted image 20241021160834.png]] 
-  This new cost function trades off 2 goals that you might have. 
-  + If you set $\lambda=0$ , you end up with this overly wiggly and complex curve. ***Overfit*** ($\lambda$  too small)
++ ? This new cost function trades off two goals: 
+	+ Minimizing 1st Term (MSE) **encourage model to fit data well**. 
+	+ Minimizing 2nd Term keep parameter $w_{j}$ small, tend to **reduce overfitting.**
++ ? **The value of $\lambda$ you choose, specified the relative tradeoff** or how you balance between these 2 goals:   
+	  + If you set $\lambda=0$, you are not using regularization term at all and still end up overfitting the model. Because this **makes the model prone to overfitting, as it focuses entirely on minimizing the training error**.
 	  ![[Pasted image 20241021161648.png]]
-+ If $\lambda=10^{10}$, $w$ in regularization term would be very large and the only way to minimize this is $\lambda \approx 0$. **So if $\lambda$ is very very large, the learning algorithm will adjust** $W_{1}, W_{2}, W_{3}$ and $W_{4}$ to be **extremely close to 0**. So F(x) is basically equal to $b$ thus **representing a straight line.** ***Underfit*** ($\lambda$ too large)
-	![[Pasted image 20241021161936.png]]
-	![[Pasted image 20241021162026.png]]
-+ Choose just right $\lambda$
+	+ If $\lambda=10^{10}$, the regulization term will be too large so $w_{j}$ force to shrink to zero, and become very small $\to$ effectively simplifying the model to the point where it might not learn from the data, leading to underfitting.
+		![[Pasted image 20241021161936.png]]
+		![[Pasted image 20241021162026.png]]
+
++ @ **Summary:** The cost function goal is to minimize value. 
+	+ @  **For large $\lambda$:**  heavily penalizes large weights ($w_j$), encouraging the model to **decrease $w_j$ to minimize the cost function**. However, this can result in the **model ignoring important features**, leading to **underfitting**, as it **becomes too simple to capture meaningful patterns in the data**.
+    
+	- @ **For small $\lambda$:**  the regularization term (penalty) is less influential in the cost function. This allows the model to prioritize minimizing the data-fitting term (e.g., MSE) over controlling the magnitude of the weights ($w_j$). As a result, the model may assign large values to some weights to better fit the training data, which can lead to overfitting. 
+		:)) What I expect, remain overfitting it is
+	
+ + Choose just right $\lambda$
 
 ## Regularized linear regression
 + ? Learn to make GD work with Regularized linear regression.

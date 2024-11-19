@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a1e7efe5874d0f",
+        "id": "b4d20f0df16fa82f",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a7c9a67519e085",
+            "id": "d60d01243cc0b045",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "d1276f3827b5ce9f",
+            "id": "48e95940f29d8c30",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,7 +227,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f6a7c9a67519e085",
+  "active": "d60d01243cc0b045",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",

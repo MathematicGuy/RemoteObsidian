@@ -24,7 +24,8 @@
 	+ ##### [[Unsupervised Learning]]
 	+ ##### [[Reinforcement Learning]]
 	+ ##### [[Transfer Learning]]
-
+	+ [[Bias-Variance Tradeoff and Model Performance]]
+ 
 + #### [[Classification]]
  
 + #### [[Regression]]
@@ -36,7 +37,7 @@
 + #### [[Dimensionality Reduction]]
 
 ### 2) [[Machine Learning Process]]
-	 Once you've found the problem, what the steps might you           take to solve it?
+> Once you've found the problem, what the steps might you take to solve it?
 
 ## -- Tools --
 ### 3) [[Machine Learning Tools]]

@@ -827,3 +827,19 @@ ganzen whole
 den the
 tag day
 schläfe sleep
+	Deine Katze schläft den ganzen tag / my cat sleep the whole day
+
+Reist traveling 
+Dort there
+Du reist am Monstag nach Berlin, was machst du dort? - What are you doing in Monday to  
+
+Sheint shine
+	Die Sonne Scheint nicht immer in Kanada 
+
+Strand beach
+Urlaub vacation
+Mach take
+	Mach Urlaub in Mallorca, Der Strand ist schön - the a vacation in Mallorca, the beach is beautifu
+	Es ist schon dort - it is beautiful there
+
+Geschank Einpacken - Gift Packing

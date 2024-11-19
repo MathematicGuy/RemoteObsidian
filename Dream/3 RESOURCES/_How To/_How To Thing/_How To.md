@@ -40,6 +40,7 @@ _sort:
 
 [[How to remember everything you learn]]
 
+[[CHANGES]]
 # How to Money 
 
 [[How Money make values]]

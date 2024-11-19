@@ -15,6 +15,9 @@ Flip a coin 32 times and **list out all the outcome in a Histogram**, we have th
 ![[Pasted image 20241028102839.png]]![[Pasted image 20241028104001.png]]
 
 # Binomial Distribution
++ ? Binomial Distribution is a **prob distribution that describe the number of success in $n$ independent Bernoulli trials**, each with the same probability of success $p$.
+note: Bernoulli trials is a single experiment or **event that has exactly 2 possible outcomes**: success (1) or failure (0).
+
 **An Example:** given 5 coins, there $5!$ total possible outcome.  
 ![[Pasted image 20241028104232.png]]
 $5!:$ number of ways you can order five coins 
@@ -36,7 +39,7 @@ Another way to express binomial distirbution
 
 #### Probability Distribution (Continuous)
 what is the probability that a call would take exactly one minute to the dot? 
-+ ? think the call lasts some time between a certain window. say 0 and 1; 0 and 0.25; 0.25 and 0.5, etc...![[Pasted image 20241028160642.png]]
++ ? Think the call lasts some time between a certain window. say 0 and 1; 0 and 0.25; 0.25 and 0.5, etc...![[Pasted image 20241028160642.png]]
 Split the interval infinite, we get this curve (i.e. many very very skinny bar represent the probability of each super small interval)
 ![[Pasted image 20241028161020.png]]
 **Discrete:** Sum of heights equals 1
