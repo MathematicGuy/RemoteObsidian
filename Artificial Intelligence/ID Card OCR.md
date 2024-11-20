@@ -4,7 +4,7 @@
 3) Demo Video
 
 [[Mathematics for Machine Learning and Data Science Specialization Check List]]
-[[Computer Vision CheckList]]
+[[Computer Vision Roadmap]]
 [[Learning and Application Checklist for Extract Text from ID Card using OpenCV]]
 
 note: 

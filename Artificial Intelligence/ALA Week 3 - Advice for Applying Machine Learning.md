@@ -100,7 +100,8 @@ poly = PolynomialFeatures(degree=n, include_bias=False)
 X_train_mapped = poly.fit_transform(x_train)
 ```
 
-# Diagnosing Bias and Variance
+# Bias and Variance
+## Diagnosing Bias and Variance
 ![[Pasted image 20241105155344.png]]
 Instead of look Diagnoise by adding more datapoints. A more systematic way to diagnose or to find out if your algorithm has high bias or high variance will be to
 >Look at the performance of your algorithm on the training set and on the cross validation set.
@@ -113,17 +114,12 @@ J_cv is the cost of many validationa and training. Thus we come to these conclus
 + ? High bias and high variance is like part can be overfit but other part is underfit. 
  ![[Pasted image 20241105155808.png]]
 
-### Regularization and bias/variance
+## Regularization and bias/variance
 **CV:** Cross Validation
 
 **Linear Regression with regularization**
 > The larger $\lambda$ is, the more the algorithm is trying to keep W squared small.
 ![[Pasted image 20241105170838.png]]
-
-**how can you choosing the right $\lambda$ ?**
-+ $ Trying a large range of $\lambda$ to pick the right one. The best one is the one  result in the lowest cost $J$. ![[Pasted image 20241105171714.png]]
-
-![[Pasted image 20241105172527.png]]
 
 ### Regularization and bias/variance
 ![[Pasted image 20241118141039.png]]
@@ -134,13 +130,56 @@ J_cv is the cost of many validationa and training. Thus we come to these conclus
 + For large $\lambda$, $w_{j}$ will be close to 0 making model unable to learn thus underfit. 
 + For small $\lambda$, model focus on minimizing MSE term and not regularization term thus the model remain overfitting.
 
-#### Choosing the regularization parameter $\lambda$
-> Test and choose the best one
-![[Pasted image 20241118145652.png]]
+**How to choose the right $\lambda$ ?**
++ $ Trying a large range of $\lambda$ to pick the right one. The best one is the one  result in the lowest cost $J$. ![[Pasted image 20241105171714.png]]
 
 
 ![[Pasted image 20241118145549.png]]
 
-# Establishing a baseline level of performance
+## Establishing a baseline level of performance
+**Baseline**: act like a standpoint/benchmark use to compare/exam model performance. All baseline method to create to serve 1 purposes is to provides some kind of standards for model performance (in calc model loss/cost). 
+-> In short, **rather than asking is my training error large, ask is my training error large relative to what `[baseline]` can do on the task?**  
 ![[Pasted image 20241118154109.png]]
+With human level performance as the base line, from example 1 it is clear that training error is 0.2% alway from expected error (i.e. true value) indicate Low Bias while the cv-error is 4.0% alway from training error indicate high variance. (conclusion reverse for example 2 observation)
+![[Pasted image 20241119104848.png]]
+
+## Learning Curves
+>When you have a larger training set is harder for quadratic function to fit all the training examples perfectly.
+![[Pasted image 20241119110617.png]]
+
+#### High Bias learning curves
++ ? When you're fitting the simple linear function, add more data doesn't changes your model much more -> Average training error flattens out after a while.
+![[Pasted image 20241119110837.png]]
++ $ So **if your learning algorithms suffers from High Bias, feeding more data doesn't help (by itself) much** (i.e. human level performance). You need to do other thing to help your training algorithm.
+![[Pasted image 20241119112113.png]]
+
+#### High Variance learning curves
+High Variance result in "too good to be true" loss but do worst on testing data (dat why $J_{train}$ is under the baseline and test data $J_{cv}$ is above the baseline)
++ $ **Adding more trainning data will subdue high variance** bc it overload the training algorithm and increase losses/error.
+![[Pasted image 20241119113121.png]]
++ ! notice that more trainning data -> more expensive
+
+### What to do next ? 
+![[Pasted image 20241119113510.png]]
+> [[L2 (Ridge Regression) Terms]]
+
+#### Observation
++ $ **Large Prediction Errors $\to$ High Bias:**
++ **Try adding polynomial features** 
+	_Increases the model's complexity, allowing it to capture more intricate patterns in the data._
++ **Try getting additional features** 
+	_Adding relevant features provide the model with more information to reduce bias._
++ **Decrease** $\lambda$, 
+	*High bias mean the LA is overly simplistic and not paying enough attention to the training set. Decrease $\lambda$ reduces the penalty on the 2nd terms weights and switch LA attention to the 1st term (i.e. training set) and less to 2nd term (i.e. regularization term), focus on the training mean reduce bias)*
+
+
++ $ **If High Variance:**
++ **Get more training example** 
+	_help model to generalize more data, reducing overfitting and variance_
++ **Try getting additional features**
+	_help model to generalize more features, though care is needed to avoid noisy or redundant features that might worsen overfitting._  
++ **Try smaller sets of features** 
+	_sometime adding more features gives your algorithm too much flexibility to fit very complicated models (**Reduce numbers of less important features** is good tactics to **fix high variance**)_
++ **Increase** $\lambda$ 
+	*High Variance mean the LA fit the trainning so well that it fail to generalize (i.e. understand unseen data ). Increase $\lambda$ help LA pay more attention to the 2nd term and focus on understanding underlying patterns of more features which help to reduce variance)* 
 

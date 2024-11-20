@@ -20,5 +20,6 @@
 ![[Pasted image 20241021153040.png]]
 
 
+-  Feel numb or bored learning something ? It likely that thing don't benefit you as much as you think, you can temporary skip it, find a reason why. it much more effective
 
-- [ ] Feel numb or bored learning something ? It likely that thing don't benefit you as much as you think, you can temporary skip it, find a reason why. it much more effective
++ You can ask a women her age by asking "How long have she been graduate from college" or "What years she started college"

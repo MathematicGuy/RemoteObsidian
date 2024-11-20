@@ -5,7 +5,7 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "0.14.0",
+  "version": "1.11.5",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {
@@ -19,6 +19,10 @@
         "endpoint": "https://api.openai.com/v1",
         "apiKey": "",
         "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
           {
             "name": "gpt-3.5-turbo",
             "maxTokens": 4096
@@ -44,8 +48,16 @@
             "maxTokens": 128000
           },
           {
-            "name": "text-davinci-003",
-            "maxTokens": 4096
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
           }
         ]
       }
@@ -56,7 +68,7 @@
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
-    "setVersionAfterUpdateModalRelease": false,
-    "addDefaultAIProviders": false
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
   }
 }

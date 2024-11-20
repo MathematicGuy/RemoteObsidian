@@ -1,13 +1,14 @@
-NLP Advancements
-AI for Sustainability
-Edge AI
-Responsible AI
-
-
 **Download AI Model Visualization**
 1. pydot `conda install -c anaconda pydot`
 2. graphviz `conda install -c conda-forge python-graphviz`
 
-**AI Website**
+**AI Tools**
 [cerabus.ai](https://inference.cerebras.ai/)
 [liquid-foundation-model](https://playground.liquid.ai/chat?model=cm1ooqdqo000208jx67z86FtK)
+[MinerU]([opendatalab/MinerU: A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。](https://github.com/opendatalab/MinerU))
+>MinerU is a tool that converts PDFs into machine-readable formats (e.g., markdown, JSON)
+>[Installation Guide Win11-CUDA]([MinerU/docs/README_Windows_CUDA_Acceleration_en_US.md at master · opendatalab/MinerU](https://github.com/opendatalab/MinerU/blob/master/docs/README_Windows_CUDA_Acceleration_en_US.md))
+
+
+Photography
+[Photography Layout](https://www.facebook.com/share/p/1BBFtYCNHB/)

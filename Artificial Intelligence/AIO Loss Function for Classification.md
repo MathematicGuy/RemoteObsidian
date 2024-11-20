@@ -35,27 +35,27 @@ $$ME = \frac{1}{n}\sum^{n}_{i=1} (y_{i} -\hat{y_{i}})$$
 	But predict 1 are more stable (5,5,5,5,5) and predicted 2 are more disbulant. ![[Pasted image 20241109203318.png]]
 + $ Therefor MAE **provides the average error magnitude but does not give information about the variance and bias.**
 > Chọn 1 làm mô hình tốt nhất.
+
+
 #### Casestudy
 ![[Pasted image 20241109203709.png]]
 note: If not remove outlier, model can be overfitting. (go across all point, even the outlier)
 + $ doesnt reflect the actual value when their are outliers.
-
 
 ### Mean Square Error (MSE)
 + $ **Advantage** is MSE penalize large errors bc errors are squared.
 + ! **Disadvantage**: In constract, outliers also squared so MSE is sensitive to outlier, notify lead to overfitting.
 Also it Scale dependent errors: this mean it prone to error if data are not re-scale using normalized and standardized technique.
 
-
 ### Mean Absolue Percentage Error (MAPE)
 $$MAPE = \frac{100}{n}\sum^{n}_{i=1}\left(\left|\frac{y_{t} - \hat{y_{t}}}{y_{t}}\right| \right)$$
 ![[Pasted image 20241109205535.png]]
 > Chọn 1 là mô hình tốt nhất.
 
-> Giá trị có thể > 100%
++ ! Giá trị có thể > 100% vì 
 ![[Pasted image 20241109205519.png]]
 
-+ $ **Advantage**: do **tính theo % nên MAPE Scale-Independent** và dễ hiểu. Giải quyết vấn đề scale-dependent ở MSE là nhạy cảm vs outlier.
++ $ **Advantage**: do **tính theo % nên MAPE Scale** Independent và dễ hiểu. Giải quyết vấn đề scale-dependent ở MSE là nhạy cảm vs outlier.
 + ! **Disadvantage**: Nếu **actual value = 0 MAPE sẽ undefined/infinite** (giải pháp sẽ là cộng thêm 1 giá trị epsilon bé 0.00001 để chống gtri ~0).
 
 #### Casestudy

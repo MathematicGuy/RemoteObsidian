@@ -1,10 +1,12 @@
  
 ### [[Anstler Palace.canvas|Anstler Place]]
 
+
+
 **Machine Learning**
 [[AIO 2024]]
 [[ML CheatSheet]]
-
+[[Tensorflow Object Detection with Python]]
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]

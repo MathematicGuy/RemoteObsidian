@@ -1,9 +1,7 @@
 [
-  "obsidian-annotator",
   "homepage",
   "obsidian-list-callouts",
   "obsidian-admonition",
-  "cm-editor-syntax-highlight-obsidian",
   "make-md",
   "obsidian-tikzjax",
   "quickadd",
@@ -12,5 +10,5 @@
   "obsidian-completr",
   "obsidian-latex-environments",
   "omnisearch",
-  "obsidian-statusbar-pomo"
+  "cm-editor-syntax-highlight-obsidian"
 ]

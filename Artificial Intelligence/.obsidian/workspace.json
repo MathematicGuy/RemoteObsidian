@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28d4a1bafadeb18b",
+        "id": "e7a657ca4ccddac0",
         "type": "tabs",
         "children": [
           {
-            "id": "162d0138e5181eae",
+            "id": "ff62d27fcfaa23b3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "3b49da47a8c899c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO - Model Initialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIO - Model Initialization"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,13 +91,13 @@
             }
           },
           {
-            "id": "f098bbf4102863d0",
+            "id": "3d230d5d946b9095",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -188,58 +203,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "162d0138e5181eae",
+  "active": "3b49da47a8c899c3",
   "lastOpenFiles": [
-    "Formula Discovery.md",
-    "2 ACTIONS/_Focus.md",
-    "Study Music Playlist.md",
+    "image/Pasted image 20241120205450.png",
+    "image/Pasted image 20241120205417.png",
+    "image/Pasted image 20241120205301.png",
+    "image/Pasted image 20241120205037.png",
     "Anstler Palace.canvas",
-    "OpenCV.md",
-    "ML CheatSheet.md",
-    "Lesson 2 - Probability Distributions.md",
+    "AIO - Model Initialization.md",
     "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
-    "MLS Week 3 - Classification with logistic regression.md",
-    "ALA Week 3 - Advice for Applying Machine Learning.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Bias & Variance trade-off.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "image/Pasted image 20241118154109.png",
-    "image/Pasted image 20241118145652.png",
-    "image/Pasted image 20241118145549.png",
-    "image/Pasted image 20241118145454.png",
-    "image/Pasted image 20241118141039.png",
-    "image/Pasted image 20241118110459.png",
-    "image/Pasted image 20241021155704.png",
-    "image/Pasted image 20241118105731.png",
-    "image/Pasted image 20241118105434.png",
-    "image/Screenshot 2024-11-18 095532.png",
-    "Irreducible Error.md",
+    "image/Pasted image 20241120204927.png",
+    "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20241120204743.png",
+    "image/Pasted image 20241120204528.png",
+    "image/Pasted image 20241120204123.png",
     "Statistic and Probability for Machine Learning.md",
-    "Statistical Regression.md",
-    "Relationship Symbol.md",
-    "Lesson 1 - Introduction to Probability.md",
-    "Supervised Machine Learning - Regression and Classification.md",
-    "MLS Week 2 - Regression with multiple input variables.md",
-    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "Bias and Variance.md",
+    "image/Pasted image 20241120203936.png",
     "AIO - Multiple Layers Perceptron.md",
+    "image/Pasted image 20241120203615.png",
+    "image/Pasted image 20241120203546.png",
     "AIO 2024.md",
-    "How to learn Machine Learning.md",
+    "AIO2024.md",
+    "1 PROJECTS/ID Card Detection/How YOLO Object Detection Works.md",
+    "ML CheatSheet.md",
+    "mAP (mean average precision).md",
+    "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
+    "Computer Vision Roadmap.md",
+    "1 PROJECTS/ID Card Detection/ICD Overview.md",
+    "1 PROJECTS/ID Card Detection/ICD requirements.md",
+    "1 PROJECTS/ID Card Detection",
+    "1 PROJECTS/Deep Learning/Face Detection using SVM/Face Detection using SVM.md",
+    "1 PROJECTS/Deep Learning",
+    "1 PROJECTS/Deep Learning/Deep Learning.md",
+    "AIO Loss Function for Classification.md",
+    "Tensorflow Object Detection with Python.md",
+    "Optimizers.md",
+    "Save4Later.md",
+    "What-if tool.md",
+    "HYPER EFFICIENT.md",
+    "ALA Week 3 - Advice for Applying Machine Learning.md",
+    "L2 (Ridge Regression) Terms.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "Aha.md",
     "3 RESOURCES/Artificial Intelligent/Softmax",
     "image",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "1 PROJECTS/Face Detection using SVM",
+    "1 PROJECTS/Deep Learning/Face Detection using SVM",
     "Missing value",
-    "3 RESOURCES/Templates",
-    "4 ARCHIVES/Stups",
-    "Spaces"
+    "3 RESOURCES/Templates"
   ]
 }

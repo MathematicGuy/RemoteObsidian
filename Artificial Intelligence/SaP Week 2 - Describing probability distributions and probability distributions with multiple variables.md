@@ -56,6 +56,7 @@ Then you continue to take the median of that median (middle point)
 ### Expected value of a Function
 Fomular for expected value of a function is similiar to expected value:
 ![[Pasted image 20241029154045.png]]
++ ? remember, sum of all $p(x)$ equal 1.
 
 Given a dice roll game, you get to roll 1 time. The reward are the double ($\times2$) of the value you rolled. In addition, the enter fee is 5 dollar
 ![[Pasted image 20241029154624.png]]
