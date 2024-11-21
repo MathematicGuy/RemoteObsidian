@@ -8,7 +8,7 @@
 
 ![[Pasted image 20241120201439.png]]
 **Sigmoid**: ổn định hơn vì giá trị luon đc chuẩn hóa qua hàm Sigmoid.
--> ReLU ko phair luon luon mạnh hơn Sigmoid.
+-> ReLU ko phải luon luon mạnh hơn Sigmoid.
 
 ## Gradient Vanishing
 
@@ -26,7 +26,7 @@ Với 8 lớp:
 ![[Pasted image 20241120203051.png]]
 
 ## Activation Functions
-**PReLU Function**
+**PReLU Function**: khắc phục vấn đề Dying ReLU.
 ![[Pasted image 20241120203615.png]]
 
 **Mean**
@@ -45,13 +45,68 @@ Với tham số X, Y độc lập, Variance là:
 
 # Initialization Methods
 ### Xavier Glorot Initialization
++ ? Cần chuẩn hóa dữ liệu có range [-1, 1] và z-score
++ ? Giả định activation dùng Sigmoid và Tanh (vì hồi Glorot ra chỉ có 2 cth này)
 
 Từng vị trí có giá trị bằng nhau -> uniform
 ![[Pasted image 20241120205037.png]]
-Do xác suất rời rạc nên dùng f(x) thay vì P(X)
+Do xác suất rời rạc nên dùng f(x) thay vì P(X), ta chuyển đổi hàm sang tích phân
 ![[Pasted image 20241120205301.png]]
 Lấy nguyên hàm cho hàm tích phân
 ![[Pasted image 20241120205417.png]]
 Summarize
 ![[Pasted image 20241120205450.png]]
+
+Gắn hàm E vào lại công thức, ta đc  
+![[Pasted image 20241120205526.png]]
+
+Gaussian Distribution (Normal Distribution)
+![[Pasted image 20241120205746.png]]
+
+![[Pasted image 20241120205923.png]]
+note: Maclaurin là TH đặc biệt của Taylor khi x ~ 0
+![[Pasted image 20241120210240.png]]
+ 
+# How to avoid Gradient Vanishing and Explosion
+
+Luồng variance từ lớp này sang lớp khác ko thay đổi thì ko bị gradient vanish/explo
+
+![[Pasted image 20241120214720.png]]
+Để đạt đc điều trên, ta normalize hoặc dùng activation function (tanh, sigmoid)
+
+Giả sử (với layer đầu)
+![[Pasted image 20241120212759.png]]
+Vs b = 0  và giả sử mỗi biến là các tham số độc lập IID
+![[Pasted image 20241120213015.png]]
+
+Từ z -> a sẽ lặp lại trong hidden layer, nên z->a có tính chu kỳ và chỉ cần kiểm tra var của z->a có thay đổi hay ko là đc.
+![[Pasted image 20241120213512.png]]
+(missing a image)
+![[Pasted image 20241120213824.png]]
+
+
+2) Với layer ở giữa
+Để Var(a) = 0, dùng activation
+	tanh(a) - đối xứng qua 0
+	sigmoid - dịch chuyển từ a = 1/2 (+ x/4)
+![[Pasted image 20241120214954.png]]
+
+![[Pasted image 20241120215122.png]]
+Summary
+![[Pasted image 20241120215138.png]]
+Để luồng thông tin ổn định
+![[Pasted image 20241120215247.png]]
+
+2 và 3 vì model construction cho số lớp 
+![[Pasted image 20241120220601.png]]
+
+---
+
+![[Pasted image 20241120221846.png]]
+
+![[Pasted image 20241120222037.png]]
+
+Summary
+![[Pasted image 20241120222308.png]]
+![[Pasted image 20241120222327.png]]
 
