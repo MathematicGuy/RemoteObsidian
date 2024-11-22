@@ -6,7 +6,8 @@
 **Machine Learning**
 [[AIO 2024]]
 [[ML CheatSheet]]
-[[Tensorflow Object Detection with Python]]
+[[Computer Vision]]
+
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
@@ -33,7 +34,7 @@
 - [ ] [[Course 1 Deep Learning]]
 - [ ] Course 2 Deep Learning
 - [ ] Course 3 Deep Learning
- - [ ] [Intern Timeline](https://docs.google.com/spreadsheets/d/1ypLvhvAGNG4zNBU929T5bluPoKhwStQ4S47oB-2Ubns/edit?gid=0#gid=0)
+- [ ] [Intern Timeline](https://docs.google.com/spreadsheets/d/1ypLvhvAGNG4zNBU929T5bluPoKhwStQ4S47oB-2Ubns/edit?gid=0#gid=0)
 
 **Critical Thinking**
 - [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh) 

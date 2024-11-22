@@ -1,7 +1,7 @@
 ![[Pasted image 20241113152222.png]]
 
 ### Performance Value Metrics
-**Localization (IoU)** 
+**Localization** ([IoU](https://www.v7labs.com/blog/intersection-over-union-guide))  
 + ? **Intersected over Union:** how far is the bounding box fro the ground true. It a value between 0 and 1 ![[Pasted image 20241113152439.png]]
 
 ![[Pasted image 20241113152631.png]]

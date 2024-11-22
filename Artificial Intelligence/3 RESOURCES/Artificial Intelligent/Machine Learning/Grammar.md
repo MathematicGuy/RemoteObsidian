@@ -16,3 +16,4 @@
 + astigmatic: loạn thị 
 + embellish: tô điểm
 + gratuitous: cho không
++ cumulative: cộng dồn

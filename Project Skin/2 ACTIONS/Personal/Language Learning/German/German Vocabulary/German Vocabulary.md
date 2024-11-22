@@ -871,6 +871,8 @@ Weshalb - That's why/ Which is why
 
 Machst do/are doing
 	Was machst du - what are you doing
+Mach (informal command): to do sth
+
 Surfe surf
 Urlaub vacation
 Jogge/joggt joggst jogging
@@ -2749,3 +2751,5 @@ Die Socken - the sock
 Die Koffer - the suitcase
 Voll heavy
 	Die Koffer sind Voll, 
+
+Badeanzug - swimsuit w

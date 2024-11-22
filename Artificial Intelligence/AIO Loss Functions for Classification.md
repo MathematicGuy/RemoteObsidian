@@ -115,18 +115,81 @@ Review SVM: The goal of SVM is not only to find a hyperplane that separates the 
 	Focuses on maximizing the margin, which might overlook some critical misclassifications if they lie close to the margin boundary.
 ```
 
-
 ## Binary Cross vs Cross-Entropy Loss
 ![[Pasted image 20241121171924.png]]
-
 
 ## Sparse Categorical Cross-Entropy
 
 
 ## Label Smoothing
-> reduce overfit
+
+**Why Label Smoothing ?**
+> Cross-Entropy Loss is often effective in ideal cases
++ The number of samples for each class is balanced.
++ The features between classes have clear distinctions.
+
+![[Pasted image 20241122093456.png]]
+
+
+Example: Image Colorization task. One commond approaches is to treat **color prediction** for **each pixel** as **classification** problem.  
+![[Pasted image 20241122092831.png]]
+
+Fomula for Label Smoothing
+![[Pasted image 20241122094059.png]]
+**where** 
++ **C** is number of class 
++ $y_{true}$: One-hot encoded true label
++ $\alpha$: label smoothing parameter (e.g. $\alpha=0.001$)
+![[Pasted image 20241122094938.png]]
+
+```ad-example
+Suppose:
++ Number of classes C=3.
+
++ True label Y: Class 1 (one-hot encoded as [1,0,0])
+
++ $\alpha=0.1$.
+
+Smoothed labels:
+$$ysmooth=[0.9,0.05,0.05]$$
+```
+
+
++ $ **Benefits**
+	
+	**Regularization:** Acts as a form of regularization, improving model robustness.
+	
+	**Reduced Overfitting:** Models are less likely to memorize noisy or incorrect labels.
+	
+	**Better Gradient Behavior:** Encourages smoother gradient updates during training.
+
++ ? When to Use:
+	
+	When training on noisy datasets.
+	
+	For tasks requiring high generalization, like large-scale image classification.
+	
+	In models prone to overconfidence, such as deep neural networks.
 
 ## Multi-label Classification Loss
+![[Pasted image 20241122095321.png]]
+Multi-Class: 1 lable, many class 
+Multi-Lable: Many label, many class 
+Sigmoid + BCE use for Multi-Lable problems.
 
+### Pairwise Ranking Loss
+>Suitable for tasks where the order between labels is meaningful, such as recommendation systems or multi-label ranking by relevance.
+![[Pasted image 20241122100349.png]]
+>Active label <-> Irrelevant label (i.e. false prediction)
+![[Pasted image 20241122100246.png]]
+  f_j: positive
+  f_k: negative 
+![[Pasted image 20241122100754.png]]
 
 ## Practical Insights and Tips
+![[Pasted image 20241122100953.png]]
+![[Pasted image 20241122101002.png]]
+
+Thường dùng trong Autoencoder (Probabilistic Autoencoder) 
+![[Pasted image 20241122101055.png]]
+![[Pasted image 20241122101148.png]]
