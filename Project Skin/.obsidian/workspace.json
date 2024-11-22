@@ -8,20 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6233c92bbf06490c",
+            "id": "35858cbf98fb5b22",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "Spaces/German Vocab Revision.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "German Vocab Revision"
             }
           }
         ]
@@ -227,10 +225,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6233c92bbf06490c",
+  "active": "35858cbf98fb5b22",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "Images/Pasted image 20241114233930.png",
     "Vietnam party history.md",

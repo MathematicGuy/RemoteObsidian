@@ -25,15 +25,16 @@ For uniform distribution
 
 However we can also show that this formula even holds for **uniform distributions where the number of outcomes is not a power of 2.**
 
-Assume that we have a distribution with  10 equally likely outcomes  four bits give 16 unique states so we  could in theory use four bits to encode  every possible outcome  however this is inefficient as it leaves six states left over. So the average cost to describe a outcome is 4/1. 
-+ ? To do better we can observe three separate outcomes and encode the outcomes in groups of three each outcome can be one of ten different states so there are one thousand different possible triples of outcomes ![[Pasted image 20241108123034.png]]
-So with $2^{10} = 1024$ is sufficient to encode all 1000 unique states. So what we're saying is that with 10 bits we can encode three independent outcomes .
-The average bits represent an outcome is 10/3 = 3.333 compare to 4/1= 4 when not seperate to triples, so it is more efficient. 
+Assume that we have a distribution with 10 equally likely outcomes four bits give 16 unique states so we  could in theory use four bits to encode every possible outcome however this is inefficient as it leaves six states left over. So the average cost to describe a outcome is 4 to 1 (4/1). 
++ ? **Suggestion 1:** To do better we can observe **three separate outcomes and encode the outcomes in groups of three** (e.g. A, A, A) each outcome can be one of ten different states so there are one thousand different possible triples of outcomes ![[Pasted image 20241108123034.png]]
+With $2^{10} = 1024$ we can encode all 1000 unique states above. What we're saying is that with 10 bits we can encode three independent outcomes .
+The average bits represent an outcome is 10/3 = 3.333 compare to 4/1= 4 when not seperate to triplet, so it is more efficient. 
 + ? Why not use double or more than 3, because using triples allows us to reach an encoding average closer to the theoretical Shannon entropy value, achieving greater efficiency. 
 ![[Pasted image 20241108143851.png]]
 
 + ! Though this idea is not completely efficient since we still got 24 unused bits.
-For the most efficient encoding scheme, we're looking for the case where $10^{M}= 2^B$ where $M$ is the possible output can be present using 10 bits. 
+
+**Suggestion 2:** For the most efficient encoding scheme, we're looking for the case where $10^{G}= 2^B$ where $G$ is the possible output can be present using 10 bits. 
 ![[Pasted image 20241108142856.png]]
 + ? log conversion 
  ![[Pasted image 20241108142916.png]]

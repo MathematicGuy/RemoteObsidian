@@ -2743,3 +2743,9 @@ Das Jacke jacket
 Waschen wash
 Vergiss forget
 Wieder again
+
+Sandelen - sandals
+Die Socken - the sock 
+Die Koffer - the suitcase
+Voll heavy
+	Die Koffer sind Voll, 
