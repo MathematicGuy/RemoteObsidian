@@ -15,37 +15,49 @@
 > Basically, **while they learn the correct patterns, they'll also learn the noises**, which the model sometime think it important and make wrong prediction. 
 
 
-### Imbalanced Data in Classification
+# [[Imbalanced Data in Classification]]
 ![[466784067_3955520168061343_6711482873865041696_n.jpg]]
 
-**PCA Dimensionality Reduction**
+
+
+
+# PCA Dimensionality Reduction
 ![[Pasted image 20241117133409.png]]
 
-**Bayes Theorem and Classifier**
+
+# Bayes Theorem and Classifier
 ![[Pasted image 20241117133521.png]]
 
-**Regression Analysis**
+
+# Regression Analysis
 ![[Pasted image 20241117133545.png]]
 
-**Regularization in ML**
+
+# Regularization in ML
 ![[Pasted image 20241117133549.png]]
 
-**Convolutional Neural Network**
+
+# Convolutional Neural Network
 ![[Pasted image 20241117133604.png]]
 
-**Famous CNNs**
+
+# Famous CNNs
 ![[Pasted image 20241117133619.png]]
 
-**Ensemble Learning in ML**
+
+# Ensemble Learning in ML
 ![[Pasted image 20241117133637.png]]
 
-**Autoencoder & Variational Autoencoder**
+
+# Autoencoder & Variational Autoencoder
 ![[Pasted image 20241117133645.png]]
 
-**Data Structures**
+
+# Data Structures
 ![[Pasted image 20241117133703.png]]
 
-### Preparing for Coding Interviews
+
+# Preparing for Coding Interviews
 ![[Pasted image 20241117133718.png]]
 
 ## How to prepare for behavioral interview?

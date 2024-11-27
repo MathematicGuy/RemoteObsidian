@@ -78,3 +78,5 @@
 + Library: Sckit-Learn, XGBoost, Pandas
 + Data Cleansing.
 + A lot about Statistic
+
+![[Pasted image 20241123225212.png]]

@@ -62,7 +62,14 @@ The same but apply partial derivative $w.r.t$  $x$ and $y$.
 + $ **Moving Average**
 Cộng dồn tại vị trí thứ k
 -> Tính trung bình từ vị trí thứ k (k $\in \mathbb{Z}$). 
-	Nghĩa là chỉ lấy tổng đạo hàm của n giá trị trước nó ![[Pasted image 20241122220648.png]]
+	Nghĩa là chỉ lấy tổng đạo hàm của n giá trị trước đó để giảm learning rate -> giúp learning rate ko bị quá nhỏ sau n step và adaptive đồ thị hơn.
+	![[Pasted image 20241122220648.png]]
+	**Cách 1:** nhiệt độ hiện tại là 5 tiếng tr'c chia trung bình (ko đúng lắm) - trung bình toàn bộ gradient
+	.
+	**Cách 2:** càng gần phụ thuộc càng nhiều, càng xa phụ thuộc càng tốt. -> lấy từ time series (exponential weight average) 
+		khiến gradient càng xa càng ít giá trị hơn. Quý trọng gradient gần 
+		(p là hệ số khởi tạo, điều khiển độ ảnh hưởng của các đạo hàm gần đây )
+
 
 Ví dụ, chỉ cộng dồn 1 đoạn chứ ko tính toàn bộ tổng đạo hàm của x. Chỉ tính tổng 1 khoảng đạo hàm của x.
 ![[Pasted image 20241122220844.png]]
@@ -76,13 +83,56 @@ Although, RMSProp not ensure convergence because ....
 **Summary**
 ![[Pasted image 20241122222107.png]]
 
-**Original Goal:** Giá trị learning rate cần phù hợp cho các vị trí khác nhau. How to achieve a adaptable learning rate for gradient descent function.
+[[Quizz - Optimizer]]
 
 ---
 
-**Quizz**
-![[Pasted image 20241122222643.png]]
+**Original Goal:** Giá trị learning rate cần phù hợp cho các vị trí khác nhau. How to achieve a adaptable learning rate for gradient descent function.
 
-Timeseries vì đó là dữ liệu thu thập đc theo thời gian (kinda like sequence data and often store in table)
-![[Pasted image 20241122222738.png]]
+**Common Limitation:** stuck at or get drag down by local minimum.
+![[Pasted image 20241122223714.png]]
+
+liên hệ vs momentum (quán tính) bên vật lý
+![[Pasted image 20241122224307.png]]
+note: đi tìm min thì đi ngược hướng đạo hàm. 
+
+![[Pasted image 20241122224842.png]]
+result1: smoother converge
+![[Pasted image 20241122225841.png]]
+Compare
+![[Pasted image 20241122230102.png]]
+result2: escapse local minimum.
+![[Pasted image 20241122230218.png]]
+> If no momentum -> hard to climb. E.g. go straight and reach a high curve and cannot climb to reach global minimum.
+
+
+### RSMProp + Momentum
+**Adaptive:** cân bằng giá trị vận tốc để thoát khỏi vùng cục bộ
+![[Pasted image 20241122232242.png]]
+$$\theta_{t} = \theta_{t-1} - \frac{\alpha}{\sqrt{ \frac{v_{t}}{1-\beta_{2}^{t} + \epsilon}}} \times m_{t}$$
+![[Pasted image 20241122231522.png]]
+note: bình phương vì adaptive.
+$$\theta_{t} = \theta_{t-1} - \frac{\alpha}{\sqrt{ \frac{v_{t}}{1-\beta_{2}^{t}}+ \epsilon}} \times \frac{m_{t}}{1- \beta_{1}^t}$$
+
+**Hai phương trình ở dưới Tương Đương vs nhau:**
+dấu $+$ : giá trị cộng dồn theo hướng đạo hàm
+![[Pasted image 20241122232109.png]]
+dấu $-$: giá trị cộng dồn ngược hướng đạo hàm
+![[Pasted image 20241122232131.png]]
+
+
+>Lý do nhân thêm $\frac{1}{1- B_{1} ^t}$, là để phòng khi t lớn (iteration lớn)
+![[Pasted image 20241122232650.png]]
+>Khử (1- $B_{1} ^t$)
+![[Pasted image 20241122232709.png]]
+>**khi t lớn B sẽ trở nên rất nhỏ và chỉ còn 1**. Chia cho 1 thì coi như là chưa có và vẫn quay lại công thức ban đầu là $m_{t}$
+
+**Recommend: SGD + Momentum**
+
+---
+Ques: p và (1-p):
+![[Pasted image 20241122233854.png]]
+cách 1: nhiệt độ hiện tại là 5 tiếng tr;c chia trung bình (ko đúng lắm)
+cách 2: càng gần phụ thuộc càng nhiều, càng xa phụ thuộc càng tốt. -> lấy từ time series (exponential weight average)
+
 

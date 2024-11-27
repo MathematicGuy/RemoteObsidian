@@ -17,3 +17,4 @@
 + embellish: tô điểm
 + gratuitous: cho không
 + cumulative: cộng dồn
++ Heuristic: utmost simple 

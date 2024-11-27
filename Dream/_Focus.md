@@ -1,13 +1,13 @@
-# PROBLEM 
-- [ ] Doom Scrolling < Playing LoL < Zen < Study < Sleep 
-- [x] Eat and Watching Youtube at the same time
-- [x] Not Exercise right after Waking Up (Design a automate exercise move)
-- [x] Not Planning before Doing
-- [x] Give up too early before some breakthrough.
-- [x] [[Possitive Though]]
+# [[PROBLEM]] 
+- [ ] Not Discipline and Feeling Dependent 
+- [ ] Not waking up on time
+- [ ] Not yet master the art of Not Trying + Discipline
 
 # AKTION
 > My [[Deepthought]] is what define who I want to be
+- [ ] Make [[22 lessons in 22 years]] video to celebrating my last and first ever new year.
+
+
 ### [[_My Life]]
 
 # RESOURCES
