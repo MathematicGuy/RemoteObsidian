@@ -8,6 +8,7 @@
 ### Localization
 + sliding window
 + ...
+
 ### Potential Problems ?
 1. A LOT of computation !
 2. Many bounding boxes for same object
@@ -35,6 +36,7 @@
 + Use **Non-Maximum Suppression (NMS)** to remove overlapping boxes and keep the best predictions for each object. 
 	![[Pasted image 20241120113757.png]]
 
+[[Multiple Images and Classes in Object Detection]]
 
 ---
 # IoU (Intersection over Union)
@@ -66,6 +68,7 @@ In computer vision, you go from the top left (0, 0). The righter a point is, the
 
 # Non Max Suppression (NMS) 
 + $ Cleaning up Bounding Boxes (from n boxes to 1 box) by take out the most precision box.
++ @ For all boxes of each class, reserve only the box with highest IoU. (problem arise: how to optimize this process)
 
 Retrieve all boxes IoU $\to$ remove boxes box_IoU < IoU_threshold
 ![[Pasted image 20241125085937.png]]
@@ -150,32 +153,68 @@ S2.1: retrieve confidence score of each class
 **S4:** Calc Precision and Recall
 ![[Pasted image 20241127093633.png]]
 
+---
 
-
-
-def mean_average_precision(
-	pred_boxes, # list: `[[train_index, class_pred, prob_score, x1, y1, x2, y2], ...]`
-	true_boxes,
-	iou_threshold=0.5,
-	box_format="corners",
-	num_classess = 20 # default for YOLO
-)
-
-1) retrieve prediction and groundtruth bboxes
-2) keep track of image's total bboxes (using dictionary ofc)
-	`img 0 has 3 bboxes, img 1 has 5 bboxes`
-	`-> amount_bboxes={0:3, 1:5}`
-	2.1) convert bboxes number into tensor 
-	`amount_boxes = {0: torch.tensor([0,0,0])}`
-3) sorting probability score
-4) create data holder for TP, FP, Ground True (list) 
-5) compare grounth truth with detect image
-	take out the grouth truth with the same index with detection class
-	Get the best IoU between the grounth true and detection clas 
+**Main Problems in MAP: Multiple Image and Classes**
++ ! **Causing overlapping predictions matching the same result with ground truth.** We assign **only 1 prediction bbox (highest IoU) for 1 ground truth bbox as TP**, else FP. This mean 
+	+ only the highest IoU pbb and gtb is TP, else FP 
+	+ pbb with no gt assign as FP
+	+ gt with no prediction assign as FP (problem usecase: multiple ground truth bboxes in 1 image like 2 dogs) -> since our model already assigned predict bboxes for each image of the same class (i.e. dog), we only to preserve the best IoU predicted bboxes to ground truth boxes  
+	+ ~~pbb with low confidence~~ (already solve in NMS function) 
 	
+	+ ? Example ![[Pasted image 20241128095811.png]]The example show prediction 0 match with ground truth bounding box id 0, result in TP. While ground truth bounding box 1 result in FP because there no prediction bbox match.
++ $ **Solution:** While choosing the best prediction between 
 
-we don't want multiple bboxes for 1 img, only the 1st one, bc the 1st one is correct, other one is false positive.
 
- 
+note:
++ nhận diện và định vụ khi nào dùng list và dict, hàm trong python
++ pbb: prediction bounding box
++ gtbb: ground bounding truth box
++ gt: ground truth
++ $ Don't focus on how data being stored, how it stored depend on what problems u're dealing with, **focus on the real problems** at hand, only by understanding *why*, you know to do *how*.
++ ? Don't focus on understanding code too much, there're cases where **1 code section solve multiple problems at once**, this can give u **unplesant feeling even when u understand what it does**. **Understand problems along the way**, then "how can the code solve all of them at once"
 
-note: khi nào dùng list và dict
+---
+
+**Flow**
+input: true_pred, gt_pred  
+	data structure: `[train_idx, class_prediction, prob_score, x1, y1, x2, y2]`)
+
+**for each class** 
+	`retrieve true_pred & gt_pred (of a class of course)
+	`filter out the best predicted bbox of each image using IoU 
+	`apply threshold for best predicted bbox
+		`save TP or FP to calc MAP (one for each ground true)
+		`take count for each predicted and ground true
+	`calc & save precision`
+`calculate MAP`
+
+**Detail Flow**
+**for each class** 
+	`retrieve true_pred & gt_pred (of a class of course)
+	list to store precision 
+	list to store TP and FP (depend on prediction length)
+	Take count for predicted-ground_truth pair (**1 *predict* bbox for 1 *ground truth* bbox**)
+		**assign 1 for TP, 0 for FP bu default** (key:value pair relationship) -> create a dict with tensor datatype (bc computer vision :) -> dict length base on ground truth length (since gt often repeat 1): 
+			`dict = {0: [0, 0], 1:[0]}` -> mean image index 0 have 2 gt bboxes (special cases) and class/image index 1 have 1 gt bboxes 
+				solve this by retrieve class total gt bboxes index 
+	`filter out the best predicted bbox of each image using IoU 
+	`apply threshold for best predicted bbox
+		`save TP or FP to calc MAP (one for each ground true)
+		`take count for each predicted and ground true
+	`calc & save precision of that class`
+`calculate MAP = sum(precision) / len(precision)`
+
+**Simple function-result** for *Take count for predicted-ground_truth pair*: 
+```python
+# function
+amount_boxes = [{gt_idx : torch.zeros(total_idx)} for gt_idx, total_idx in gt_predicted_check.items()] # example input: [2, 1] -> take value in from dict key-value pair 
+
+# ground true list 
+gt =  [[0, 0, 1.0, 48, 48, 152, 152],
+	 [0, 0, 1.0, 48, 48, 152, 152],
+	 [1, 0, 1.0, 58, 58, 158, 158],
+	 [2, 0, 1.0, 46, 46, 154, 154]]
+```
+output: `[{0: tensor([0., 0.])}, {1: tensor([0.])}, {2: tensor([0.])}]`
+

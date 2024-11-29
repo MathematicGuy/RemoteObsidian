@@ -24,7 +24,21 @@
             }
           },
           {
-            "id": "06aa13fd87f6645b",
+            "id": "f72d029135dcaa1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIO 2024"
+            }
+          },
+          {
+            "id": "a6d6ae23002d220f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,49 +210,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "13cfcbf21c15fa33",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c428a0d60f748d97",
-        "type": "window",
-        "children": [
-          {
-            "id": "b25a9918f2ee9c43",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "17acb987bc63573e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Object Detection Series.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Object Detection Series"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1214,
-        "y": 0,
-        "width": 706,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "17acb987bc63573e",
+  "active": "a6d6ae23002d220f",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
+    "Pytorch.md",
     "Object Detection Series.md",
+    "AIO 2024.md",
+    "2 ACTIONS/_Focus.md",
+    "TensorFlow Code.md",
+    "Multiple Images and Classes in Object Detection.md",
+    "image/Pasted image 20241128095811.png",
+    "Computer Vision.md",
+    "AIO - Hand Gestures Recognition.md",
     "image/Pasted image 20241127093652.png",
     "image/Pasted image 20241127093633.png",
     "Imbalanced Data in Classification.md",
@@ -249,17 +231,14 @@
     "image/Pasted image 20241126120708.png",
     "image/Pasted image 20241126120700.png",
     "image/Pasted image 20241126115501.png",
-    "image/Pasted image 20241126115211.png",
     "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "ML CheatSheet.md",
     "Precision and Recall.md",
     "MLS Week 3 - Classification with logistic regression.md",
-    "AIO 2024.md",
     "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
     "Statistic and Probability for Machine Learning.md",
     "Anstler Palace.canvas",
-    "Computer Vision.md",
     "AIO - Metrics for Classification v2.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
     "AIO - Module 5 Summary.md",
@@ -270,9 +249,6 @@
     "AIO Loss Functions for Classification.md",
     "AIO2024.md",
     "Quizz - Optimizer.md",
-    "Object Detection.md",
-    "1 PROJECTS/ID Card Detection/How YOLO Object Detection Works.md",
-    "Tensorflow Object Detection with Python.md",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",
     "1 PROJECTS/Deep Learning",

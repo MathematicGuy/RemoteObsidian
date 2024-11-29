@@ -41,6 +41,8 @@ _sort:
 [[How to remember everything you learn]]
 
 [[CHANGES]]
+
+[[How to Study Programming Effectively]]
 # How to Money 
 
 [[How Money make values]]

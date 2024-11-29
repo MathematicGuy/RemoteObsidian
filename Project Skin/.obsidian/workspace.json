@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f1f3e4553740a0",
+        "id": "718f12237b1b6267",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d4fdb08758f622",
+            "id": "5fe6cb867b76d75a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "0084b03717d37311",
+            "id": "e7dc8f7fc4a745e7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,10 +227,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f7d4fdb08758f622",
+  "active": "5fe6cb867b76d75a",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS/CSS Grid.md",
+    "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS.md",
+    "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS/CSS Flex Box.md",
+    "3 RESOURCES/Web/FrontEnd/CSS Desgin Pattern.md",
+    "3 RESOURCES/Web/FrontEnd/CSS Artistic.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "Images/Pasted image 20241114233930.png",
     "Vietnam party history.md",
@@ -262,10 +267,6 @@
     "3 RESOURCES/DataBase/Learn Database/Relational DB Design.md",
     "3 RESOURCES/Web/BackEnd/DataBase Design and E-R Model.md",
     "Đơn trình bày lý do và mong muốn chuyển lab.md",
-    "2 ACTIONS/Personal/Personal.md",
-    "Python Command.md",
-    "4 ARCHIVES/2023/Python/Week 3 - Regular Expression.md",
-    "4 ARCHIVES/2023/Python/Python Hand-on DSA.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
