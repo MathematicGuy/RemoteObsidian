@@ -1731,8 +1731,8 @@ Glücklich - happy
 Ich bin Glücklich - i am happy
 Gute Besserung - too bad, feel better
 Mehr anymore
-		Hast du keine Durst Mehr - Are you not thirsty anymore
-		Ich habe keine Zanschmerzen 
+	Hast du keine Durst Mehr - Are you not thirsty anymore
+	Ich habe keine Zanschmerzen 
 
 
 Hurra, du bist gesund - Hooray, you are healthy
@@ -2752,4 +2752,4 @@ Die Koffer - the suitcase
 Voll heavy
 	Die Koffer sind Voll, 
 
-Badeanzug - swimsuit w
+Badeanzug - swimsuit 
