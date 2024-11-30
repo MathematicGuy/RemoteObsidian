@@ -8,6 +8,8 @@ _sort:
   asc: false
   group: false
 ---
+[[Studying Abroad]]
+
 [[Get Back to Who I'm Used to be]]
 
 [[Escapsing Reality & Addiction]]
@@ -41,3 +43,5 @@ _sort:
 [[Improve your critical inquiry skills]]
 
 [[Shadow work]]
+
+[[Recipe for a Disastrous Life]]
