@@ -189,6 +189,7 @@ input: true_pred, gt_pred
 	`calc & save precision`
 `calculate MAP`
 
+
 **Detail Flow**
 **for each class** 
 	`retrieve true_pred & gt_pred (of a class of course)
@@ -204,6 +205,7 @@ input: true_pred, gt_pred
 		`take count for each predicted and ground true
 	`calc & save precision of that class`
 `calculate MAP = sum(precision) / len(precision)`
+
 
 **Simple function-result** for *Take count for predicted-ground_truth pair*: 
 ```python

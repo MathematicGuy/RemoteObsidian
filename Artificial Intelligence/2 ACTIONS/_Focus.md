@@ -7,7 +7,7 @@
 [[AIO 2024]]
 [[ML CheatSheet]]
 [[Computer Vision]]
-
+note: Gradient Vanishing then German Learning (25')
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
@@ -79,4 +79,6 @@
 + Data Cleansing.
 + A lot about Statistic
 
-![[Pasted image 20241123225212.png]]
+
+
+![[Pasted image 20241129213935.png]]

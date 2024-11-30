@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "f72d029135dcaa1e",
+            "id": "05c351afde9b729c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO 2024.md",
+                "file": "AIO - Gradient Vanishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO 2024"
-            }
-          },
-          {
-            "id": "a6d6ae23002d220f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Object Detection Series.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object Detection Series"
+              "title": "AIO - Gradient Vanishing"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,12 +196,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6d6ae23002d220f",
+  "active": "05c351afde9b729c",
   "lastOpenFiles": [
-    "Pytorch.md",
-    "Object Detection Series.md",
-    "AIO 2024.md",
     "2 ACTIONS/_Focus.md",
+    "AIO - Gradient Vanishing.md",
+    "AIO 2024.md",
+    "Pasted image 20241123225212.png.md",
+    "image/Pasted image 20241123225212.png",
+    "image/Pasted image 20241129213935.png",
+    "image/Pasted image 20241129204237.png",
+    "Object Detection Series.md",
+    "Pytorch.md",
     "TensorFlow Code.md",
     "Multiple Images and Classes in Object Detection.md",
     "image/Pasted image 20241128095811.png",
@@ -228,9 +219,6 @@
     "image/Pasted image 20241126121059.png",
     "image/Pasted image 20241126120901.png",
     "image/Pasted image 20241126120857.png",
-    "image/Pasted image 20241126120708.png",
-    "image/Pasted image 20241126120700.png",
-    "image/Pasted image 20241126115501.png",
     "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "ML CheatSheet.md",
@@ -247,8 +235,6 @@
     "Lesson 2 - Probability Distributions.md",
     "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
     "AIO Loss Functions for Classification.md",
-    "AIO2024.md",
-    "Quizz - Optimizer.md",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",
     "1 PROJECTS/Deep Learning",
