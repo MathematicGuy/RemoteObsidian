@@ -711,6 +711,7 @@ Schnecke - snail (~)
 	 muss - have to/must
 	 ich mus hier weg - I must/have_to get out of here
 	 Wer who ( speal as )
+		 Wer bist du - who are you
 + ? notice: Es mean it, Das mean the
 
 **analyze later**: Das Wetter im Herbst ist sehr schön. Es ist müanchmal sonnig, manchmal bewölkt, aber nie zu kalt oder zu heiß. (practice to write the same phrase like this. Make a connector section / vocab section)
@@ -910,9 +911,9 @@ das Wochenende the weekend (neuter nouc)
 	Sie joggen immer am wochenede - She always jog on the weekend
 
 Aber ich spiele nicht so gern - I not like playing that much
-Isst eat
+Isst eats (3rd person singular, present tense)
 	meine Mutter isst Käse - My mother eat cheese
-
+	Er isst ein Eis - she eats a egg
 #### Conjugation
 ![[Pasted image 20240208124850.png]]
 
@@ -2286,6 +2287,8 @@ Das sind meine Leute / that is my people
 	 nur only
 
 Dann - then 
+Esse eat (1st person singular, present tense)
+	Ich esse ein Schnitzel - I am eating a Schnitzel  
 Essen gehen - eating out
 von - from
 von deinen Eltern - from your parent
@@ -2298,7 +2301,7 @@ Wohne zu zurzeit allein - do you currently living alone
 
 ### Junior macht Sport - Junior like Excercise
 Idee idea
-Schlüssel kez
+Schlüssel key
 Können wir jetzt gehen ? can we go now
 Du kannst das - you can do it
 Läulft run
@@ -2515,7 +2518,7 @@ Backt / bake
 	Kannst du Apfelkuchen ohne Eier backen / Can you bake apple pie without eggs
 
 Bushaltestelle - bus station
-Knöde - dumpling
+Knödel - dumpling
 
 Schaf - spicy
 	Die Currywurst ist sehr schaf
@@ -2596,8 +2599,8 @@ Hausaufgaben: homework
 Getränke - drink
 	Könnt Ihr die Getränke kaufen / can you buy the drinks
 
-Schloss lock/castle (often refer to castle)
-	Ich will Schloss besichtigen
+Schloss castle 
+	Ich will Schloss besichtigen - i want to visit castle
 
 Geschlossen / closed
 	Ist die Universität heute Geschlossen ? - is the university closed today ?
@@ -2753,3 +2756,10 @@ Voll heavy
 	Die Koffer sind Voll, 
 
 Badeanzug - swimsuit 
+
+
+#viel_vs_viele
+Ask yourself: **Can I it count?**
++ If yes: viele = countable nouns (plural form) - a large number of things
++ If no: viel = uncountable nouns (mass nouns) - large amount of sth
+
