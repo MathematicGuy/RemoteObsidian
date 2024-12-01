@@ -52,7 +52,6 @@ Think about the Goal & Project I have.
 	then The hard way might be easier than you think.
 
 
-
 ### 2) A Little Fear is Very Useful 
 > Tự hỏi bản thân, có lẽ học cái này bằng 1 số cách khác sẽ Hiệu quả và Nhanh hơn. 
 > 	Có lẽ thay vì học Đại Học thì tự học Khóa học trên Youtube.
@@ -77,9 +76,7 @@ Choose a Topic that Hard enough to Learn thus its give us more Drive & Willing t
 + Rather use those feedback as a Bar to view your Consistency in Performance. 
 	(Nhận Xét là tốt nhưng chỉ tiếp nhận có chọn lọc. Ko sẽ bị Loạn. Mình cũng có thể dùng số lg nhận xét như 1 thước đo khi mình Thuyết trình 
 		(Ko tốt thì sẽ có Nhiều LOẠI feedbacks [Feedback nhằm vào nhiều lỗi/vấn đề mình gặp phải] khác nhau, Tốt thì các LOẠI feedbacks CHẶT CHẼ [Cùng nhằm vào 1 số ít lỗi/vấn đề mình gặp phải] ))
-
-
-**Doesn't alway help** 
+**Feedback doesn't alway help** 
 (Góp ý có ảnh hưởng xấu vì nó gây mất động lực. Dù thế cách duy nhất để cải thiện là tiếp nhận thêm những Góp ý)
 + Feedback may have many negative effect. Make listener feel bad and lose their motivation. 
 	**Feedback is scary AND useful.**

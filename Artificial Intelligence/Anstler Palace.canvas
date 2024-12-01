@@ -8,11 +8,11 @@
 		{"id":"534247ac7cb58e9a","type":"text","text":"Competitive Mastery  (do sth competitive like LoL rank climbing, grinding IELTS scores, etc..)","x":60,"y":-20,"width":540,"height":80},
 		{"id":"e793635bab74e78d","type":"text","text":"#### Petrichor & Wonderland\n\n+ Morning Jog\n+ Morning Cold Shower\n\tMorning Studied (Languages, Coding, Systemized, etc..) ","x":60,"y":80,"width":540,"height":300},
 		{"id":"bce9fcdb8f2ccee5","type":"text","text":"**Anstler Palace:** where times and living experience optimized. Minds are on tracks and Tasks get Done.","x":-400,"y":-480,"width":1000,"height":50,"color":"4"},
-		{"id":"0073ab0f682a5b79","type":"text","text":"### Commited & Hyper-Focus Tasks\n\n+ Machine Learning Specialization\n+ Knowledge Summarization\n+ IELTS Writing, Reading, Listenning\n+ Planning\n+ Loss Function for Classification Summary\n+ Metric for Regression\n+ ","x":-400,"y":-400,"width":440,"height":360},
+		{"id":"0073ab0f682a5b79","type":"text","text":"### Commited & Hyper-Focus Tasks\n\n+ Machine Learning Specialization\n+ Knowledge Summarization\n+ IELTS Writing, Reading, Listenning\n+ Planning\n","x":-400,"y":-400,"width":440,"height":360},
 		{"id":"8cf54dac87c23c2b","type":"text","text":"**Metal Health & Study Efficiency** ","x":-800,"y":-480,"width":360,"height":50,"color":"4"},
-		{"id":"c86bbd7515752713","type":"text","text":"**Do Later**\n[Coach Ielts](https://coachielts.giasu.ai/learn/conversation)\n[Noting Facts]([Facebook](https://www.facebook.com/lecongthanh.infore)\nPost Cannon for ESL","x":-400,"y":400,"width":1000,"height":240},
+		{"id":"c86bbd7515752713","type":"text","text":"**Improvements**\nstay real, don't break promise with myself\n[Noting Facts]([Facebook](https://www.facebook.com/lecongthanh.infore)\nPost Cannon for ESL","x":-400,"y":400,"width":1000,"height":240},
 		{"id":"a83d2856c4f8acf3","type":"text","text":"+ ! Notice the signs \"Energy Drain + Bored\" \n-> Stop immediately. Figure out what when wrong and readjust\n+ $ Find a more efficient study method if I feel bored.","x":-800,"y":-400,"width":360,"height":200},
-		{"id":"c3f40d9b97c041b0","type":"file","file":"HYPER EFFICIENT.md","x":-1920,"y":-480,"width":680,"height":800}
+		{"id":"c3f40d9b97c041b0","type":"file","file":"Studying Better.md","x":-1920,"y":-440,"width":680,"height":800}
 	],
 	"edges":[]
 }

@@ -68,3 +68,16 @@
 
 # ML Algorithms Cheat Sheet 
 ![[1697707376490.png]]
+
+
+
+# LLM
+It is essential to understanding various components of LLMs like  
+- Embeddings  
+- LayerNorm  
+- Self Attention  
+- Projection  
+- MLP  
+- Softmax  
+- Output
+

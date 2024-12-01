@@ -36,9 +36,26 @@
               "icon": "lucide-file",
               "title": "AIO - Gradient Vanishing"
             }
+          },
+          {
+            "id": "6788e8168cfb3dd4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Anstler Palace.canvas",
+                "viewState": {
+                  "x": -484.03997932275684,
+                  "y": -286.12078803963516,
+                  "zoom": -1.0825885790586471
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Anstler Palace"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,9 +213,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "05c351afde9b729c",
+  "active": "6788e8168cfb3dd4",
   "lastOpenFiles": [
+    "ML CheatSheet.md",
     "2 ACTIONS/_Focus.md",
+    "Anstler Palace.canvas",
     "AIO - Gradient Vanishing.md",
     "AIO 2024.md",
     "Pasted image 20241123225212.png.md",
@@ -221,12 +240,10 @@
     "image/Pasted image 20241126120857.png",
     "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "ML CheatSheet.md",
     "Precision and Recall.md",
     "MLS Week 3 - Classification with logistic regression.md",
     "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
     "Statistic and Probability for Machine Learning.md",
-    "Anstler Palace.canvas",
     "AIO - Metrics for Classification v2.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
     "AIO - Module 5 Summary.md",
@@ -234,7 +251,6 @@
     "AIO - Model Initialization.md",
     "Lesson 2 - Probability Distributions.md",
     "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "AIO Loss Functions for Classification.md",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",
     "1 PROJECTS/Deep Learning",
