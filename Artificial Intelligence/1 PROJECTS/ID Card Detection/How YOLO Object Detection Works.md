@@ -138,7 +138,6 @@ For example, with a $7 \times 7$ grid, $B = 2$ bounding boxes, and $N = 20$ clas
    - Eliminates overlapping bounding boxes by keeping the one with the highest confidence score.
 
 ---
-
 ### Loss Function  
 YOLO’s total loss is the sum of three components:  
 
@@ -192,3 +191,6 @@ Here:
 YOLO revolutionized object detection with its simplicity and speed, using a single CNN for bounding box regression and classification. While early versions like YOLO v1 had limitations, subsequent iterations introduced significant improvements.  
 
 For further learning, explore newer YOLO versions and advancements.  
+
+
+T

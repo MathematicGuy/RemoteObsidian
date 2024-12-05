@@ -313,6 +313,9 @@ Benefit of Edge AI:
 + **Increased privacy**: 
 GAN (Generative adversarial networks)
 
+### Why Are They Called Edge Devices?
+>The term "edge" comes from the concept of **edge computing**, where computation and data storage are performed closer to the "edge" of the network, i.e., near the data source or end-user, rather than at a central location like a cloud server.
+
 #### [[Autonomous]]
 > The Society of Automotive Engineers (SAE) defines **6 levels** of driving automation ranging from 0 (fully manual) to 5 (fully autonomous.
 + ? [Automation Pyramid](https://www.rnaautomation.com/insight/the-five-level-automation-pyramid-transforming-factories-of-the-future/)

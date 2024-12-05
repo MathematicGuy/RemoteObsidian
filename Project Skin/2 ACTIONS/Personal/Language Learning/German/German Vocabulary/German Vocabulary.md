@@ -1119,7 +1119,7 @@ Dienstag tuesday
 Jobinterview - job interview
 Nervös Nervous 
 
-Kleidung Clothes
+Die Kleidung Clothes
 Neue new
 	Neue Kleidung - new clothes
 
@@ -1621,7 +1621,6 @@ Ich kann kein/ Klavier - i can't play the piano
 
 #kein_vs_nicht
 1. If the word is a noun, use “kein”
-2. For all other parts of speech (e.g. verbs, adverbs, adjectives, possessive pronouns, prepositional phrases, definite articles), use “nicht”
 
 Dauert - lasts
 Bis - until
@@ -2755,7 +2754,7 @@ Die Koffer - the suitcase
 Voll heavy
 	Die Koffer sind Voll, 
 
-Badeanzug - swimsuit 
+Der Badeanzug - swimsuit 
 
 
 #viel_vs_viele

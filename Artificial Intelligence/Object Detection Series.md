@@ -68,7 +68,7 @@ In computer vision, you go from the top left (0, 0). The righter a point is, the
 
 # Non Max Suppression (NMS) 
 + $ Cleaning up Bounding Boxes (from n boxes to 1 box) by take out the most precision box.
-+ @ For all boxes of each class, reserve only the box with highest IoU. (problem arise: how to optimize this process)
++ @ For all boxes of each class, reserve only boxes with highest IoU(boxes, best_box_confidence) . (problem arise: how to optimize this process)
 
 Retrieve all boxes IoU $\to$ remove boxes box_IoU < IoU_threshold
 ![[Pasted image 20241125085937.png]]
@@ -76,7 +76,7 @@ Retrieve all boxes IoU $\to$ remove boxes box_IoU < IoU_threshold
 What if multiple classes ?
 ![[Pasted image 20241125090130.png]]
 NMS (bboxes: bounding boxes; box: box inside bboxes)
-1) for all box in bboxes, remove all box with `IoU` < `threshold` 
+1) for all box in bboxes, remove all box with `confidence` < `threshold` 
 	`IoU = IoU(predicted bbox, true bbox)` 
 2) Choose hpb (highest precision box) in bboxes
 	For box in bboxes, if `box_i not hp_box` & `iou(hp_box, box_i) < iou_threshold`
@@ -94,7 +94,7 @@ While BoundingBoxes:
 (And we do this for each class)
 
 **parameters**
-	predictions - should be boxes `[[box_id, box_iou, x1, y1, x2, y2]]` 
+	predictions - should be boxes `[[box_class, box_confidence, x1, y1, x2, y2]]` 
 	iou_threshold
 	prob_threhold 
 	box_format="corners"
@@ -220,3 +220,4 @@ gt =  [[0, 0, 1.0, 48, 48, 152, 152],
 ```
 output: `[{0: tensor([0., 0.])}, {1: tensor([0.])}, {2: tensor([0.])}]`
 
+note: `mAP@[0.5:0.05:0.95]` mean calc mAP with threshold 0.5 or 0.05 or 0.95 with each of 0.05 

@@ -12,3 +12,10 @@
 
 Photography
 [Photography Layout](https://www.facebook.com/share/p/1BBFtYCNHB/)
+
+quote:
+```txt
+Zai Schwarzenegger
+"Studying is doubting your own capabilities man should always rely on stock knowledge, why bother studying if you presented well in class, if you've listened to your teachers and taken notes appropriately you shall always strive for academic exellence but not too much, that is why I never doubt my capabilities my own talent my own vision my own passion I shall never study because man does not doubt his own capability I shall never ever study because I never got cooked I am the one who cooks I am never cooked on my academic excellence I am talented I will never settle to studying" Ahhh video
+```
+

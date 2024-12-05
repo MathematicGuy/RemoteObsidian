@@ -17,6 +17,7 @@
 
 # [[Imbalanced Data in Classification]]
 ![[466784067_3955520168061343_6711482873865041696_n.jpg]]
+**Intuition:** think Accuracy and Recall 
 
 
 

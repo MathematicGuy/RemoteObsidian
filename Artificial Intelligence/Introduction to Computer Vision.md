@@ -98,7 +98,7 @@ A color image 64x64 present in 1 tensor as 64x64x3. So the input to the NN would
 > Goals: Minimize Data size while maintaing its core features.
 > As for 3D 64 x 64 x 3 images (H x W x D) 
 ![[Pasted image 20241009100137.png]]
->Convolution act the same but its the sum of 3 matrix $Y = Yr + Yb + Yg$.  
+>Convolution act the same but its the sum of 3 matrix $Y = Yr + Yb + Yg$
 ![[Pasted image 20241009100122.png]]
 
 Padding and stride rule are the same. (the same dimension, calculation method)

@@ -10,7 +10,6 @@ Say you have threshold probability called classification threshold where:
 + FN: ví dụ đúng nhưng mình phân loại nó là sai
 
 
-
 ### Precision, Recal (TPR), FPR, Accuracy 
 ![[Pasted image 20241125162426.png]]
 Note: all use case (&) are spam email classification
@@ -51,7 +50,9 @@ note: threshold start from left to right (low to high)
 
 # Use Case
 **Usecase for Seperate Data, we observe**
-+ $ **Threshold Decrease** $\to$ True/False Positive Increase (Accept More Incorrect as Correct) $\to$ **Favour Recall**: increase overall true prediction at the cost of accepting more false predictions. (muốn dự đoán đúng nhiều hơn thì phải chấp nhận sai nhiều hơn)
++ @ **Overview:** by adjusting the threshold you can increase precision or recall base on your needs. Example for real-time task like self-driving cars you prefers decrease threshold for higher recall, for accuracy demanding task like Attendance system you increase threshold for higher precision.  
+
++ $ **Threshold Decrease** $\to$ True/False Positive Increase (Accept More Incorrect/FP as Correct/P) $\to$ **Favour Recall**: increase overall true prediction at the cost of accepting more false predictions. (muốn dự đoán đúng nhiều hơn thì phải chấp nhận sai nhiều hơn)
 +  Analogy: Risky Child (Favouring Recall)
 + & **Use Case:** Automated Car accept to observe light pole as human (False Positive) to avoid potential accident. The same for predicting potential cancer patient. 
 
@@ -105,3 +106,6 @@ note: threshold start from left to right (low to high)
 
 **High Performance Model** 
 ![[Pasted image 20241126121113.png]]
+
+
+![[Conceptual-explanation-of-average-precision-AP-calculated-using-reference-and-predicted.png]]
