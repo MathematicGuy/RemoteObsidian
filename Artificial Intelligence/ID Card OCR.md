@@ -5,6 +5,9 @@
 
 [[Computer Vision Roadmap]]
 
+[Triển Khai lên Mobile dùng Flutter](https://viblo.asia/p/thu-lam-app-flutter-cho-nhan-dien-chung-minh-thu-3Q75w1n2ZWb)
+
+
 note: 
 + Xác định vấn đề cần tự giải quyết và thứ có thể lấy được (vấn đề đc giải quyết)
 + Hiểu mục tiêu cuối cùng của dự án là gì? sau khi quét CCCD
@@ -13,11 +16,6 @@ note:
 ---
 
 Might Help Project: Document Scanner 
-
-
-
-
-
 
 ### Why YOLOv7
 + easy to use, optimized for speed, suitable for applications requireing real-time detection. 

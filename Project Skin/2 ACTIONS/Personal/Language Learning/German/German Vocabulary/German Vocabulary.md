@@ -2762,3 +2762,17 @@ Ask yourself: **Can I it count?**
 + If yes: viele = countable nouns (plural form) - a large number of things
 + If no: viel = uncountable nouns (mass nouns) - large amount of sth
 
+Gurken - cucumbers
+	Isst du gern Gurken ?
+
+Kühlschrank - refrigerator
+	Wie viel Gurken sind im Kühlschrank
+
+Blumenleden - florist
+	Wir brauchen blumen, geht zum Blumenladen  
+
+Gleich - shortly
+	Ich gehe gleich in den supermarkt 
+
+Bioladen  health food store
+

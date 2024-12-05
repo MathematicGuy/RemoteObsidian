@@ -26,7 +26,7 @@ pip install -r requirements.txt
     
 - **conda env list** Lists all the available conda environments.
     
-- **conda env remove -n <environment_name>** Deletes an environment.
+- **conda env remove -n <environment_name>** --all Deletes an environment.
     or conda remove --name opencv --all opencv
 
 **Package Management**

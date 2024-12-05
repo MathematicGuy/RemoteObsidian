@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff9a1382dabaf3ec",
@@ -158,6 +157,7 @@
   },
   "active": "e4501544cfb2e8dc",
   "lastOpenFiles": [
+    "Dream/image/Pasted image 20241205142851.png",
     "Artificial Intelligence/3 RESOURCES/Artificial Intelligent/Machine Learning/Knowledge.md",
     "Project Skin/Spaces",
     "Project Skin/1 PROJECTS/1.5 Years Look Back Video Project.md",

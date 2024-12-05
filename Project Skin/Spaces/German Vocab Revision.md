@@ -839,10 +839,14 @@ Sheint shine
 Strand beach
 Urlaub vacation
 Mach take
-	Mach Urlaub in Mallorca, Der Strand ist schön - the a vacation in Mallorca, the beach is beautifu
+	Mach Urlaub in Mallorca, Der Strand ist schön - the a vacation in Mallorca, the beach is beautiful
 	Es ist schon dort - it is beautiful there
 
 Geschank Einpacken - Gift Packing
-
+c
 Badeanzug 
 Welchen hut kaufst du, Was 
+
+Alles gute zum geburtstag - (i wish) everything happy on your birthday
+Sind Sie Bescheuert - Are You stuPid (in a respecful manner)
+Was soll das heißben - what does that supposed to mean

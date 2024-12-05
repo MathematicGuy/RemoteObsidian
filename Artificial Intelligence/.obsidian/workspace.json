@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "a41222b930bc4930",
+            "id": "c96202ba44b1ffbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO - From MLP to CNN.md",
+                "file": "Image Processing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO - From MLP to CNN"
-            }
-          },
-          {
-            "id": "1f496a7746601317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Computer Vision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Computer Vision"
+              "title": "Image Processing"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,44 +196,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1f496a7746601317",
+  "active": "c96202ba44b1ffbb",
   "lastOpenFiles": [
-    "Save4Later.md",
-    "AIO - From MLP to CNN.md",
-    "image/Pasted image 20241204220258.png",
-    "image/Pasted image 20241204215615.png",
-    "image/Pasted image 20241204215517.png",
-    "image/Pasted image 20241204215423.png",
-    "image/Pasted image 20241204214851.png",
-    "image/Pasted image 20241204214301.png",
-    "image/Pasted image 20241204214016.png",
-    "Introduction to Computer Vision.md",
-    "image/Pasted image 20241204213543.png",
-    "image/Pasted image 20241204213104.png",
-    "image/Pasted image 20241204212708.png",
+    "Image Processing.md",
+    "image/Pasted image 20241205142125.png",
+    "image/Pasted image 20241205142048.png",
+    "image/Pasted image 20241205142035.png",
+    "image/Pasted image 20241205142003.png",
+    "image/Pasted image 20241205141826.png",
+    "ID Card OCR.md",
+    "3 RESOURCES/How to/Anaconda Command.md",
+    "3 RESOURCES/How to/Anaconda.md",
     "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20241205114858.png",
+    "image/Pasted image 20241205113151.png",
+    "image/Pasted image 20241205113128.png",
+    "image/Pasted image 20241205113035.png",
+    "image/Pasted image 20241205112845.png",
+    "Computer Vision.md",
+    "AIO - From MLP to CNN.md",
+    "Introduction to Computer Vision.md",
+    "Save4Later.md",
     "Course 1 Deep Learning.md",
     "Week 4 Deep L-Layer NN.md",
     "Convolutional Neural Network.md",
     "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
     "AIO 2024.md",
-    "ID Card OCR.md",
     "Imbalanced Data in Classification.md",
     "4 ARCHIVES/SIC/SIC - AI Intro.md",
     "4 ARCHIVES/SIC/SIC.md",
     "ML CheatSheet.md",
     "Learning and Application Checklist for Extract Text from ID Card using OpenCV.md",
-    "Computer Vision.md",
     "AIO - Hand Gestures Recognition.md",
     "Face Detection Application.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
     "Object Detection Series.md",
     "YOLO Family.md",
     "YOlO (You Only Look Once).md",
-    "1 PROJECTS/ID Card Detection/How YOLO Object Detection Works.md",
-    "Precision and Recall.md",
-    "Pytorch.md",
-    "AIO - Gradient Vanishing.md",
     "Anstler Palace.canvas",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",

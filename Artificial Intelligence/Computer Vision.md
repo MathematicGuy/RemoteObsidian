@@ -1,6 +1,6 @@
 [[Introduction to Computer Vision]]
 [[OpenCV]]
-[[Object Detection]]
+[[Image Processing]]
 [[Tensorflow Object Detection with Python]]
 [[Object Detection Series]]
 [[Computer]]

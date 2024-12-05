@@ -16,3 +16,4 @@ confirm
 Confirm
 confident
 Advance
+min
