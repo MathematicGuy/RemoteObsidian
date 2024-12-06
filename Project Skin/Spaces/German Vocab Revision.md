@@ -843,10 +843,20 @@ Mach take
 	Es ist schon dort - it is beautiful there
 
 Geschank Einpacken - Gift Packing
-c
 Badeanzug 
 Welchen hut kaufst du, Was 
 
 Alles gute zum geburtstag - (i wish) everything happy on your birthday
 Sind Sie Bescheuert - Are You stuPid (in a respecful manner)
 Was soll das heißben - what does that supposed to mean
+
+Wann wart - when was
+Klassenzimmer - classroom
+Darf allow
+	Das darfst du - you are allowed
+	Das darst du nicht - you are not allowed 
+
+Verstehen - understand
+Fleisch Buriitos - Meat Burritos
+ !Muchas Gracias (Spanish) - thank a you very much  
+uns us 

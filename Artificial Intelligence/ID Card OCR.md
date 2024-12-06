@@ -15,10 +15,40 @@ note:
 
 ---
 
-Might Help Project: Document Scanner 
+```python
+import cv2
+from ultralytics import YOLOv10
 
-### Why YOLOv7
-+ easy to use, optimized for speed, suitable for applications requireing real-time detection. 
+# Load the YOLOv10 model
+model = YOLOv10(f'{HOME}/weights/yolov10n.pt')
+
+# Open a connection to the webcam (0 for the default camera)
+cap = cv2.VideoCapture(0)
+
+while True:
+    # Capture a frame from the camera
+    ret, frame = cap.read()
+    if not ret:
+        break
+    
+    # Perform inference on the current frame
+    results = model(source=frame, conf=0.25)
+    
+    # Render the results on the frame
+    frame_with_results = results.render()[0]
+    
+    # Display the frame with detections
+    cv2.imshow('YOLOv10 Live Detection', frame_with_results)
+    
+    # Break the loop when 'q' is pressed
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+# Release the camera and close all OpenCV windows
+cap.release()
+cv2.destroyAllWindows()
+
+```
 
 
 ---
@@ -32,3 +62,17 @@ FLOPs: Floating Point Operations per Second.
 + Small FLOPs (Simple Model): If a model uses fewer FLOPs, it might process an image quickly but with less accuracy. Imagine spotting apples in a basket but missing the oranges because you're in a hurry.
 	
 + Large FLOPs (Complex Model): If a model uses many FLOPs, it works more thoroughly. This is like carefully inspecting the basket and identifying every single fruit but taking more time.
+
+
+**yolov10s:**
+![[image/Untitled.png]]
+
+```
+0: 640x480 1 CardID, 12.1ms
+Speed: 2.8ms preprocess, 12.1ms inference, 22.5ms postprocess per image at shape (1, 3, 640, 480)
+```
+
+
+**yolov10n**
+![[image/Untitled 1.png]]![[Pasted image 20241206172334.png]]
+

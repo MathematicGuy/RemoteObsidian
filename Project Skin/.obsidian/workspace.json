@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5606b2c04da1dc",
+        "id": "cb0cbc82bc205cb2",
         "type": "tabs",
         "children": [
           {
-            "id": "e8959f59c2e7b97d",
+            "id": "75c808f32417dca0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "d84b4b327f5190a3",
+            "id": "4ffa5931ffd1a514",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -226,12 +226,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e8959f59c2e7b97d",
+  "active": "75c808f32417dca0",
   "lastOpenFiles": [
-    "Images/Pasted image 20241205142934.png",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
+    "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "Images/Pasted image 20241205142934.png",
     "German Song.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS/CSS Grid.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS.md",
@@ -248,7 +248,6 @@
     "Images/Pasted image 20241110220803.png",
     "Images/Pasted image 20241110212506.png",
     "Images/Pasted image 20241110211851.png",
-    "Images/Pasted image 20241110211521.png",
     "Images",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",

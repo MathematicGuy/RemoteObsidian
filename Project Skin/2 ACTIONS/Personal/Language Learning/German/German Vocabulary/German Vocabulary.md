@@ -2776,3 +2776,6 @@ Gleich - shortly
 
 Bioladen  health food store
 
+Konditorei - pastry shop
+Weißwine white wine 
+	Weiß - white

@@ -1,4 +1,4 @@
-Gradient Descent -> Neural Network -> Multi-Layers Perceptrons -> CNN -> Transformer
+	Gradient Descent -> Neural Network -> Multi-Layers Perceptrons -> CNN -> Transformer
 
 note: mô hình mặc định dùng He-Innitialization.
 
