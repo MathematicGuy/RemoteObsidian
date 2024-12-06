@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Image Processing"
             }
+          },
+          {
+            "id": "cc1e35ae18e7485f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ID Card OCR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ID Card OCR"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,23 +210,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c96202ba44b1ffbb",
+  "active": "cc1e35ae18e7485f",
   "lastOpenFiles": [
     "Image Processing.md",
-    "image/Pasted image 20241205142125.png",
-    "image/Pasted image 20241205142048.png",
-    "image/Pasted image 20241205142035.png",
-    "image/Pasted image 20241205142003.png",
-    "image/Pasted image 20241205141826.png",
+    "Anstler Palace.canvas",
+    "2 ACTIONS/_Focus.md",
+    "ID Card Brain Storm.canvas",
     "ID Card OCR.md",
+    "image/Pasted image 20241205160124.png",
+    "image/Pasted image 20241205160107.png",
+    "image/Pasted image 20241205155845.png",
+    "image/Pasted image 20241205155515.png",
+    "image/Pasted image 20241205155456.png",
+    "image/Pasted image 20241205155425.png",
+    "image/Pasted image 20241205155130.png",
+    "image/Pasted image 20241205152609.png",
+    "image/Pasted image 20241205152536.png",
+    "image/Pasted image 20241205152508.png",
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
-    "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20241205114858.png",
-    "image/Pasted image 20241205113151.png",
-    "image/Pasted image 20241205113128.png",
-    "image/Pasted image 20241205113035.png",
-    "image/Pasted image 20241205112845.png",
     "Computer Vision.md",
     "AIO - From MLP to CNN.md",
     "Introduction to Computer Vision.md",
@@ -233,7 +249,6 @@
     "Object Detection Series.md",
     "YOLO Family.md",
     "YOlO (You Only Look Once).md",
-    "Anstler Palace.canvas",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",
     "1 PROJECTS/Deep Learning",

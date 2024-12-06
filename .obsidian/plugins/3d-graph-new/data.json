@@ -34,10 +34,27 @@
   "temporaryGlobalGraphSetting": {
     "filter": {
       "searchQuery": "",
-      "showOrphans": true,
+      "showOrphans": false,
       "showAttachments": false
     },
-    "groups": [],
+    "groups": [
+      {
+        "query": "path:\"Artificial Intelligence\"  ",
+        "color": "#86a9ea"
+      },
+      {
+        "query": "path:\"Project Skin\"  ",
+        "color": "#ff9494"
+      },
+      {
+        "query": "path:Dream  ",
+        "color": "#e5fd8b"
+      },
+      {
+        "query": "",
+        "color": "#206eb7"
+      }
+    ],
     "display": {
       "nodeSize": 3,
       "linkThickness": 2,

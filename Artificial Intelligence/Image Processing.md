@@ -189,9 +189,131 @@ feature_params = dict(maxCorners = 500, qualityLevel = 0.2, minDistance = 15, bl
 ### Step 1: Read Template and Scanned Iamge
 ![[Pasted image 20241205142003.png]]
 ![[Pasted image 20241205142035.png]]
-**After and Before**
+**Original and Scanned**
+>We compare the Scanned form with the Original to check if it morph the right way.
 ![[Pasted image 20241205142048.png]]
 
 ### Step 2: Find keypoints in both Images
 ![[Pasted image 20241205142125.png]]
+![[Pasted image 20241205144612.png]]
+Keypoint: red-circle
++ Circle-center represent key-point location 
++ Circle-size represent key-point size
++ The radius line (i.e. line connect the center to the outside of the circle) represent key-point orientation.
 
+
+### Step 3: Match keypoints in the 2 Image
+![[Pasted image 20241205144640.png]]
+>Matching Key Point -> Get Corresponding Keypoints
+![[Pasted image 20241205144811.png]]
+
+### Step 4: Find Homography
+> Compute the homography from the set of corresponding keypoints.
+![[Pasted image 20241205144921.png]]
+
+### Step 5: Warp Image
+![[Pasted image 20241205145011.png]]
+![[Pasted image 20241205145033.png]]
+
+# Module 9: Creating Panoramas using OpenCV (Skip for now)
+
+# Module 10: High Dynamic Range (HDR) Imaging
+(re-note, current note not so detail)
+
+### Basic Idea
+1. The dynamic range of images is limited to 8-bits (0 -255) per channel.
+2. Very bright pixels saturate to 255
+3. Very dark pixels clip to 0
+### Step 1: Capture Multiple Exposures
+![[Pasted image 20241205150008.png]]
+![[Pasted image 20241205150043.png]]
+
+### Step 2: Align Images
+Left/Right: no HDR / with HDR (look more correct)
+![[Pasted image 20241205150150.png]]
+![[Pasted image 20241205150237.png]]
+MTB - Median Threshold Bitmask
+
+### Step 3: Estimate Camera Response Function
+After image alignment, we need to calc camera response function
+![[Pasted image 20241205150401.png]]
+
+### Step 4: Merge Exposure into an HDR Iamge
+>Note: Merging process intentionally ignore pixels values close to 0 or 255. Bc pixel values close to those extreme bring no useful information. 
+![[Pasted image 20241205151638.png]]
+
+Because ther multiple images of the scene at different exposure settings the hope is that for every pixels we have at least 1 image that contain an intensity that is neither too dark nor too bright. 
+
+However there're 1 problem still remain which is the intensity values are no longer in the 0-255 range. Of course black can be 0, but HDR image can record light intensities from 0 to essentially infinite 
+-> Need a process to bring the image intensity back down to the 0-255 range (Tonemapping)
+
+### Step 5: Tonemapping
+>Many Tonemapping algorithms are available in OpenCV. We chose Durand as it has more controls.
++ ? Mapping HDR images to 8-bits to channel images
+![[Pasted image 20241205152404.png]]
+Help expose to all region of the scene
+![[Pasted image 20241205152445.png]]
+Method 2: Tonemap using Reinhard's method
+![[Pasted image 20241205152508.png]]
+![[Pasted image 20241205152458.png]]
+Method 3: Mantiuk's method, almost the combination of the 2 methods above.
+![[Pasted image 20241205152536.png]]
+![[Pasted image 20241205152609.png]]
+
+# Module 11: Object Tracking (Important)
+
+**Tracking:** refer to estimating the location of object and predicting its future position based on its current state and motion patterns.
+
+**Flow:** Detect Object -> Predict object position using an  motion model (like Kalman filter or optical flow) -> fine-tune the location of the object.
+
+### Tracker Class in OpenCV
+1. BOOSTING
+2. MIL
+3. KCF
+4. CRST
+5. TLD
+	Tends to recover from occulusions
+6. MEDIANFLOW
+	 Good for predictable slow motion
+7. GOTURN
+	 Deep Learning based
+	 Most Accurate
+8. MOSSE
+	 Fastest
+
+**Define Bounding Box and Text Annotation**
+![[Pasted image 20241205155130.png]]
+
+### Choose & Download Tracker Type 
+>GOTURN for example
+```python
+if not os.path.isfile('goturn.prototxt') or not os.path.isfile('goturn.caffemodel'):
+    print("Downloading GOTURN model zip file")
+    urllib.request.urlretrieve('https://www.dropbox.com/sh/77frbrkmf9ojfm6/AACgY7-wSfj-LIyYcOgUSZ0Ua?dl=1', 'GOTURN.zip')
+    
+    # Uncompress the file
+    !tar -xvf GOTURN.zip
+
+    # Delete the zip file
+    os.remove('GOTURN.zip')
+```
+![[Pasted image 20241205155845.png]]
+
+### Create the Tracker Instance
+![[Pasted image 20241205155425.png]]
+
+### Read input video & Setup output Video
+![[Pasted image 20241205155456.png]]
+
+### Define Bounding Box
+![[Pasted image 20241205155515.png]]
+
+## Initialize Tracker
+>1 Frame, 1 Bounding Box
+![[Pasted image 20241205160107.png]]
+
+### Read Frame and Track Object
+![[Pasted image 20241205160124.png]]
+
+# Module 12: Face Detection
+>Can't use OpenCV to train NN, but can use it to perform inference on a pre-trained network. 

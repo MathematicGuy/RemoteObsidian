@@ -11,10 +11,10 @@
             "id": "e4501544cfb2e8dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d-graph-view-global",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "orbit",
+              "title": "Global 3D Graph"
             }
           }
         ]
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff9a1382dabaf3ec",
@@ -157,6 +158,8 @@
   },
   "active": "e4501544cfb2e8dc",
   "lastOpenFiles": [
+    "Artificial Intelligence/Week 3 - Optimization in Neural Network and Newton's Method.md",
+    "Project Skin/Images/Pasted image 20241205142934.png",
     "Dream/image/Pasted image 20241205142851.png",
     "Artificial Intelligence/3 RESOURCES/Artificial Intelligent/Machine Learning/Knowledge.md",
     "Project Skin/Spaces",

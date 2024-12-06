@@ -7,7 +7,7 @@
 [[AIO 2024]]
 [[ML CheatSheet]]
 [[Computer Vision]]
-note: Gradient Vanishing then German Learning (25')
+[Morning Elixer](https://www.youtube.com/watch?v=OmyfB513E1s&t=67s)
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
