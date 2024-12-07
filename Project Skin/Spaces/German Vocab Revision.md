@@ -860,3 +860,6 @@ Verstehen - understand
 Fleisch Buriitos - Meat Burritos
  !Muchas Gracias (Spanish) - thank a you very much  
 uns us 
+
+Weniger als - less than
+	Ich will weniger als vier packungen Chocolader - I need less than 5 packs of chocolate

@@ -2779,3 +2779,15 @@ Bioladen  health food store
 Konditorei - pastry shop
 Weißwine white wine 
 	Weiß - white
+
+Biogurken organic cucumber
+	Bio - organic
+	gurken - cucumber
+
+Packung pack (singular)
+	Packung Kekse - pack of cookies
+Packungen packs (plural)
+	fünfunddreißig packugen - fifty three packs 
+
+Genug - enough 
+	Zwei Gurken sind nicht genug, wir brauchen sechs - 2 cucumbers are not enough, we need 6
