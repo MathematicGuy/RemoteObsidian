@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6965f10a1700a35a",
+        "id": "f83395e825002d61",
         "type": "tabs",
         "children": [
           {
-            "id": "955e2548e4edd713",
+            "id": "48d3e13e71552ea2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "112f06d9b81be16c",
+            "id": "a7a4b43a3ee059b2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +227,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "955e2548e4edd713",
+  "active": "48d3e13e71552ea2",
   "lastOpenFiles": [
     "Tổng Hợp LS Đảng.md",
     "Images/Pasted image 20241208112510.png",
