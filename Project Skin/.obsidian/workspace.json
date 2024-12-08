@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -229,9 +230,10 @@
   "active": "955e2548e4edd713",
   "lastOpenFiles": [
     "Tổng Hợp LS Đảng.md",
-    "Images/Pasted image 20241207225425.png",
+    "Images/Pasted image 20241208112510.png",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "_Focus/Todo.md",
+    "Images/Pasted image 20241207225425.png",
     "3 RESOURCES/History & Politic/Politic.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
@@ -250,7 +252,6 @@
     "Images/Pasted image 20241110224427.png",
     "Images/Pasted image 20241110224337.png",
     "Images/Pasted image 20241110220803.png",
-    "Images/Pasted image 20241110212506.png",
     "Images",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",

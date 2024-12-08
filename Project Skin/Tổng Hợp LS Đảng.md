@@ -19,6 +19,15 @@ lời kêu gọi toàn quốc kháng chiến - 19/12/1945
 
 Đại hội VII quốc tế cộng sản (Giơ nơ va) - kẻ thù là phát xít (Nhật) vì ký hiệp định vs thực dân pháp rồi
 
-![[Pasted image 20241207225425.png]]
 
 Kinh nghiệm quan trọng nhất của Đảng về lãnh đạo kháng chiênhs chống pháp, Mỹ - đề ra đường lối đúng đắn từ những ngày đầu
+
+Giải phóng miền nam tr'c mùa mưa đc nêu trong Nghị Quyết của bộ ngày 25/3/1975
+
+
+Giả phóng dân tộc 1941 - vì ký hiệp định giơ ne va
+
+chủ chương kêu gọi toàn quốc kháng chiến - 13/12/1946
+
+Sự khác biệt giữa Cương Lĩnh chính trị đầu tiên của Đảng và Luận Cương chính trị tháng 10.1930 là *Chủ chương tập hợp lực lượng cách mạng* 
+
