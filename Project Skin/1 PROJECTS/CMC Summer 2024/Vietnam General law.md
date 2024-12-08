@@ -1,3 +1,5 @@
+# [[Tổng Hợp LS Đảng]]
+
 # Bản chất nhà nước
 Thuyết Thần học, Gia Trưởng
 + Bảo vệ nhà nước
