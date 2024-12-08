@@ -864,5 +864,7 @@ uns us
 Weniger als - less than
 	Ich will weniger als vier packungen Chocolader - I need less than 5 packs of chocolate
 
-
 Der kassenzettle - the receipt 
+
+
+

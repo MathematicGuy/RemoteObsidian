@@ -2792,4 +2792,3 @@ Packungen packs (plural)
 Genug - enough 
 	Zwei Gurken sind nicht genug, wir brauchen sechs - 2 cucumbers are not enough, we need 6
 
-
