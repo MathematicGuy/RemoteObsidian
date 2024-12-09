@@ -2165,8 +2165,8 @@ Persönlich - personal
 ### End 
 
 
-Die Nachbarin - neighbor (female)
-Der Nachbar (men)
+Die Nachbarin - neighbuor (female)
+Der Nachbar - neighbour (plural)
 
 Weiß - white
 	Weißbier - beer with white foam 

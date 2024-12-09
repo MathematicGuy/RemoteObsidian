@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "01c29a88e1caeb91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Train CNN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to Train CNN"
-            }
-          },
-          {
-            "id": "27a881fcc1a57486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ID Card OCR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ID Card OCR"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,45 +181,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27a881fcc1a57486",
+  "active": "647a47fd99f1af93",
   "lastOpenFiles": [
-    "Computer Vision.md",
-    "2 ACTIONS/_Focus.md",
-    "How to Train CNN.md",
-    "image/Pasted image 20241206215031.png",
-    "image/Pasted image 20241206214858.png",
-    "image/Pasted image 20241206214747.png",
-    "image/Pasted image 20241206214546.png",
-    "image/Pasted image 20241206214145.png",
-    "image/Pasted image 20241206213642.png",
-    "image/Pasted image 20241206212845.png",
-    "image/Pasted image 20241206212529.png",
-    "image/Pasted image 20241206212450.png",
-    "image/Pasted image 20241206212048.png",
-    "Introduction to Computer Vision.md",
-    "AIO - From MLP to CNN.md",
+    "AIO - CNN.md",
+    "image/Pasted image 20241208213058.png",
+    "image/Pasted image 20241208205836.png",
+    "image/Pasted image 20241208205308.png",
+    "image/Pasted image 20241208205255.png",
+    "image/Pasted image 20241208205031.png",
+    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
     "AIO 2024.md",
-    "Image Processing.md",
+    "2 ACTIONS/_Focus.md",
+    "AIO - From MLP to CNN.md",
+    "AIO - A Guide to Organizing Machine Learning Projects.md",
+    "image/Pasted image 20241208204844.png",
+    "Introduction to Computer Vision.md",
+    "Introduction to TensorFlow.md",
+    "image/Pasted image 20241208164033.png",
+    "image/Pasted image 20241208163921.png",
+    "image/Pasted image 20241208150944.png",
+    "image/Pasted image 20241208150732.png",
+    "ML CheatSheet.md",
+    "Anomaly Detection in Machine Learning.md",
     "ID Card OCR.md",
+    "PCB defects detection using YOLOv5.md",
+    "PCB Anomaly Detection Note & Resources.md",
+    "PCB Anomally Detection.md",
+    "Anomaly Detection.md",
+    "Computer Vision.md",
+    "Image Processing.md",
     "Anstler Palace.canvas",
     "3 RESOURCES/How to/Anaconda Command.md",
     "Imbalanced Data in Classification.md",
-    "ML CheatSheet.md",
     "3 RESOURCES/How to/Anaconda.md",
     "ID Card Brain Storm.canvas",
     "Save4Later.md",
     "Course 1 Deep Learning.md",
     "Week 4 Deep L-Layer NN.md",
     "Convolutional Neural Network.md",
-    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
     "4 ARCHIVES/SIC/SIC - AI Intro.md",
-    "4 ARCHIVES/SIC/SIC.md",
-    "Learning and Application Checklist for Extract Text from ID Card using OpenCV.md",
-    "AIO - Hand Gestures Recognition.md",
-    "Face Detection Application.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/My AI Project.md",
-    "Object Detection Series.md",
-    "YOLO Family.md",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",
     "1 PROJECTS/Deep Learning",

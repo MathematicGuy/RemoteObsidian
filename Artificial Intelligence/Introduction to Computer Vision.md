@@ -50,7 +50,7 @@ As the example above show that we loss the outer layers of X, inorder to keep it
 + Padding = 1 mean add k layers of 0 to X matrix.
 
 ### Stride
-> How much the convolution filter shifts across the input image. Instead of sliding the filter one pixel at a time.
+> How much the convolution filter (i.e. kernel) shifts across the input image. Instead of sliding the filter one pixel at a time.
 > For Stride=k (k>1).  convolution operantor can only apply to:
 $$x_{i*k, \space j*k}$$
 ![[Pasted image 20241009091253.png]]

@@ -7,7 +7,11 @@
 [[AIO 2024]]
 [[ML CheatSheet]]
 [[Computer Vision]]
-[Morning Elixer](https://www.youtube.com/watch?v=OmyfB513E1s&t=67s)
+note luyện code phần:
++ Data Splitting
++ Normalization
++ Download Data -> Pre-Processing -> Code LeNet Model -> Train & Evaluation Function -> Train & Evaluate Model  -> Evaluate on Test Dataset -> Inititate Apps   
+
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
