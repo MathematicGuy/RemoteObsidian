@@ -2786,9 +2786,10 @@ Biogurken organic cucumber
 
 Packung pack (singular)
 	Packung Kekse - pack of cookies
-Packungen packs (plural)
+Packungen Packs (plural)
 	fünfunddreißig packugen - fifty three packs 
 
-Genug - enough 
+Genug  - Enough 
 	Zwei Gurken sind nicht genug, wir brauchen sechs - 2 cucumbers are not enough, we need 6
 
+mögen - to like

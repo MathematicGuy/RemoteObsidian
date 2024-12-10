@@ -866,5 +866,3 @@ Weniger als - less than
 
 Der kassenzettle - the receipt 
 
-
-

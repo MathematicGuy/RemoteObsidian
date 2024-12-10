@@ -8,6 +8,7 @@
 [Triển Khai lên Mobile dùng Flutter](https://viblo.asia/p/thu-lam-app-flutter-cho-nhan-dien-chung-minh-thu-3Q75w1n2ZWb)
 Model: **YOLOv8 Nano**
 [Real time Shape Detection](https://youtu.be/Fchzk1lDt7Q?si=iIpyeBfKFzQSqims)
+Deploy Model using Gradio (Interface for ML App, just like Steamlit for Python App)
 
 note: 
 + Xác định vấn đề cần tự giải quyết và thứ có thể lấy được (vấn đề đc giải quyết)
