@@ -1,4 +1,4 @@
-zhồi quy là gì?
+Hồi quy là gì?
 
 1) Giải thích tổng quan
 hàm loss (vì sao hàm loss ntn, khác gì so vs linear)-> note thêm về convex. giải thích vì sao cần convex ? 

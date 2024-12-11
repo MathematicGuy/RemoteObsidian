@@ -858,7 +858,7 @@ Darf allow
 
 Verstehen - understand
 Fleisch Buriitos - Meat Burritos
- !Muchas Gracias (Spanish) - thank a you very much  
+!Muchas Gracias (Spanish) - thank a you very much  
 uns us 
 
 Weniger als - less than
@@ -866,3 +866,4 @@ Weniger als - less than
 
 Der kassenzettle - the receipt 
 
+Mittag ist nicht Mitternacht

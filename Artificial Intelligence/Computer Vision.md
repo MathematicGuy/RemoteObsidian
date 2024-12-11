@@ -5,5 +5,7 @@
 [[Object Detection Series]]
 [[Computer]]
 
-Bài Toán Phân Loại Ảnh/Đồ Vật
+
+Note:
++ **Adversarial test:** simple way to know if your train data and test data are similar. `pip install adversarial-test`
 

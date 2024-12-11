@@ -448,7 +448,7 @@ U Bahnstation subway station
 Die Station
 
 Markt market (Male - Der)
-+ supermarkt
++ Den supermarkt
 
 die - female
 + Bibliothek the library
@@ -2269,7 +2269,7 @@ Malt ein Bild / is paiting a paiting
 Kopfkissen pillow
 	Mein Kopfkissen ist sehr Weich - my pillow is too soft
 
-\Pflanzen plant
+Pflanzen plant
 	Hast du viele Pflanzen in den Gärten
 
 Mehrfamilienhaus - apartment building \
@@ -2776,7 +2776,7 @@ Gleich - shortly
 
 Bioladen  health food store
 
-Konditorei - pastry shop
+Die Konditorei - pastry shop
 Weißwine white wine 
 	Weiß - white
 
@@ -2793,3 +2793,4 @@ Genug  - Enough
 	Zwei Gurken sind nicht genug, wir brauchen sechs - 2 cucumbers are not enough, we need 6
 
 mögen - to like
+Metzgerei - butcher shop
