@@ -51,3 +51,16 @@ Cách Hoạt động (Quy trình Sáng tạo và Đánh giá)
 4. Ethics of using autonomous machines: Can we trust AI machines to saftly replace human
 Example: In war: how can AI distinct a enemy and a civilian
 >A big unanswered question in AI is: If things go wrong, who do we hold responsible? The user? The creator? The AI itself?
+
+---
+
+
+Berd - train to fill in missing word, understaind relationship between words
+ChatGPT - kinda like novelist
+GPT1: breakthrough: unsupervise learning -> can teach itself. writing poetry
+GPT2: dataset 10 times larger then GPT1. Can mimicking human writing styles. 
+GPT3: Keep the scaling trend going 170 billions paras. update: few shots learning -> learn task with few examples. (The Start)
+GPT3.5 & GPT4: GPT4 can handle images and text, more context windows. 
+LangA.
+PaLM (540B) model
+Bigger AI/Dataset not always better -> Now the trend is building more efficient AI. 

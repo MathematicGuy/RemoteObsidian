@@ -7,93 +7,20 @@
 [[Computer Vision Roadmap]]
 [Triển Khai lên Mobile dùng Flutter](https://viblo.asia/p/thu-lam-app-flutter-cho-nhan-dien-chung-minh-thu-3Q75w1n2ZWb)
 Model: **YOLOv8 Nano**
-[Real time Shape Detection](https://youtu.be/Fchzk1lDt7Q?si=iIpyeBfKFzQSqims)
 Deploy Model using Gradio (Interface for ML App, just like Steamlit for Python App)
 
-note: 
-+ Xác định vấn đề cần tự giải quyết và thứ có thể lấy được (vấn đề đc giải quyết)
-+ Hiểu mục tiêu cuối cùng của dự án là gì? sau khi quét CCCD
-+ tfrecord
-
-![[Pasted image 20241211160351.png]]
-![[Pasted image 20241211160415.png]]
-
-+ ! remember to filter NULL
-Later: 
-Improve Model prediction with different lighting (Augment in Roboflow, minimize manual labeling by choosing 4-5 different diff lighting condition then augment them to simulate more lighting condition)
-+ Apply NMS later
-+ Add Early Stopping
-+ Gather a lot of image for auto labeling using pre-trained model  -> add this dataset with label to the processed main dataset (in my pre-processing lab)
-
-Plan: 
-
-
-Train New YOLO Model with Greyscale pre-processing
-Load New Model to my Detection Anomaly and Modify it into ID Card Detection Project
-
-Test: 
-Initialize Perspective Transform
-Train Text Detection Model (VietOCR)
-
-
-
-
----
+[[ID Card OCR Note]] 
 
 ```python
-import cv2
-from ultralytics import YOLOv10
+# Install
+$ pip install roboflow
 
-# Load the YOLOv10 model
-model = YOLOv10(f'{HOME}/weights/yolov10n.pt')
+# Authenticate
+$ roboflow authenticate
 
-# Open a connection to the webcam (0 for the default camera)
-cap = cv2.VideoCapture(0)
-
-while True:
-    # Capture a frame from the camera
-    ret, frame = cap.read()
-    if not ret:
-        break
-    
-    # Perform inference on the current frame
-    results = model(source=frame, conf=0.25)
-    
-    # Render the results on the frame
-    frame_with_results = results.render()[0]
-    
-    # Display the frame with detections
-    cv2.imshow('YOLOv10 Live Detection', frame_with_results)
-    
-    # Break the loop when 'q' is pressed
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
-
-# Release the camera and close all OpenCV windows
-cap.release()
-cv2.destroyAllWindows()
-
+# Import
+$ roboflow import -w plotting-zurpc -p text-area-detection /path/to/data
 ```
-
-
----
-
-### Vocabularies
-FLOPs: Floating Point Operations per Second. 
-+ Floating Point mean doing calculation involving fractions or decimal
-+ FLOPs count how many of these decimal-based calculations a computer or model can do in a second.
-
-**Examples:**
-+ Small FLOPs (Simple Model): If a model uses fewer FLOPs, it might process an image quickly but with less accuracy. Imagine spotting apples in a basket but missing the oranges because you're in a hurry.
-	
-+ Large FLOPs (Complex Model): If a model uses many FLOPs, it works more thoroughly. This is like carefully inspecting the basket and identifying every single fruit but taking more time.
-
-Compare YOLO11s vs YOLO11n: [[YOLO Models performance comparison]]
-Winner: YOLO11n -> Better without lossing much accuracy
-
-### Bounding Box Detection
-
-![[Pasted image 20241210092038.png]]
 
 # Pre-Processing
 ### Normalization
@@ -104,7 +31,8 @@ Adaptive Equalization
 
 This method enhances edges more effectively by focusing on local contrast, which is crucial for edge detection tasks. It also avoids the excessive noise amplification associated with global histogram equalization.
 
-#### Improve Pre-Processing Speed
+**Improve Pre-Processing Speed**
+
 ### Auto-Annotation using Pre-trained Model
 
 
@@ -116,6 +44,8 @@ This method enhances edges more effectively by focusing on local contrast, which
 ```
 curl -L "https://app.roboflow.com/ds/t206iD2fLY?key=LoBpDYe7aP" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 ```
+
+
 # 4 Corners Detection
 
 

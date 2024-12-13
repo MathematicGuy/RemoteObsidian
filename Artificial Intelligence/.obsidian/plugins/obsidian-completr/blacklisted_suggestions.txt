@@ -17,3 +17,4 @@ Confirm
 confident
 Advance
 min
+Lang

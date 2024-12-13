@@ -1,11 +1,15 @@
  
 ### [[Anstler Palace.canvas|Anstler Place]]
 
+Đọc qua Những Câu Hỏi Thường Gặp để Ghi nhớ thụ động. Ghi lại những thứ cần nhớ trong lịch sử đảng. 
+Đi Ngủ 
+Dậy và Ghi nhớ nốt. Rồi làm trắc nhiệm
 
 
 **Machine Learning**
 [[AIO 2024]]
 [[ML CheatSheet]]
+[[Generative AI (AI Sáng Tạo)]]
 [[Computer Vision]]
 note luyện code phần:
 + Data Splitting

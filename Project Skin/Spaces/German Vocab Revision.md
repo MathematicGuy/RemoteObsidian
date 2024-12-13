@@ -867,3 +867,7 @@ Weniger als - less than
 Der kassenzettle - the receipt 
 
 Mittag ist nicht Mitternacht
+
+kann nicht - can not 
+finden - find
+	ich kann die tomaten nicht finden 

@@ -2780,7 +2780,7 @@ Die Konditorei - pastry shop
 Weißwine white wine 
 	Weiß - white
 
-Biogurken organic cucumber
+Die Biogurken organic cucumber
 	Bio - organic
 	gurken - cucumber
 
@@ -2794,3 +2794,5 @@ Genug  - Enough
 
 mögen - to like
 Metzgerei - butcher shop
+
+Packungen Schinken - packs of ham

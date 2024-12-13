@@ -28,12 +28,12 @@ rescale_layer = tf.keras.layers.Rescaling(1./255)
 ![[Pasted image 20241008105513.png]]
 
 
-### Callback for Control Trainining
+### Callback for Control Trainining (Early Stop)
 + ?  Help to stop trainning automatically when a result is meet.
 + ? tensorflow [CallBack](https://www.tensorflow.org/guide/keras/writing_your_own_callbacks) class allow us to return logs of each epoch. Logs can either be return at the start or end of the training or test  base on your preference. 
 	You can create a callback by **defining a class that inherits** the [tf.keras.callbacks.Callback](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/Callback) **base class**. **From there, you can define available methods** to set where the callback will be executed.
 
-**Example of stop if loss < 0.4**
+**Example of stop if Loss < 0.4**
 ```python
 class myCallback(tf.keras.callbacks.Callback):
     def on_epoch_end(self, epoch, logs=None):
@@ -47,11 +47,11 @@ class myCallback(tf.keras.callbacks.Callback):
 
         # Check the loss
         if logs['loss'] < 0.4:
-
             # Stop if threshold is met
             print("\nLoss is lower than 0.4 so cancelling training!")
             self.model.stop_training = True
 ```
+
 
 **Example of accuracy > 98%**
 ```python
