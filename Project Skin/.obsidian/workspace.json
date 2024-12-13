@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f09bb72d2837d7a8",
+        "id": "ff8d968ea98d7bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "0e9d68af7adb35dd",
+            "id": "281756ab5056fc29",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,37 +25,22 @@
             }
           },
           {
-            "id": "334d3eabc59783e5",
+            "id": "88a0fce761b8964b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "file": "Tổng Hợp LS Đảng.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "German Vocabulary"
-            }
-          },
-          {
-            "id": "4b62ac5a66dd6a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/German Vocab Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "German Vocab Revision"
+              "title": "Tổng Hợp LS Đảng"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             }
           },
           {
-            "id": "b7e9c3749e39df56",
+            "id": "7a91e48e44e68e65",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -258,11 +243,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4b62ac5a66dd6a7c",
+  "active": "88a0fce761b8964b",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Tổng Hợp LS Đảng.md",
     "Images/Pasted image 20241208112510.png",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",

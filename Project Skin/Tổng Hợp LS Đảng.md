@@ -31,3 +31,11 @@ chủ chương kêu gọi toàn quốc kháng chiến - 13/12/1946
 
 Sự khác biệt giữa Cương Lĩnh chính trị đầu tiên của Đảng và Luận Cương chính trị tháng 10.1930 là *Chủ chương tập hợp lực lượng cách mạng* 
 
+---
+
+
+Đảng Cộng Sản là đảng chính của gc công nhân, là đội tiên phong  của gc công nhân.
+
+Đảng Cs vn là đội tiên phong của gia cấpm công nhân và toàn bộ dân tộc vn
+
+
