@@ -39,3 +39,44 @@ Sự khác biệt giữa Cương Lĩnh chính trị đầu tiên của Đảng v
 Đảng Cs vn là đội tiên phong của gia cấpm công nhân và toàn bộ dân tộc vn
 
 
+![[Pasted image 20241214063557.png]]
+Anh, Phát xít Nhật, Pháp, Quân Tưởng (TQ)
+
+![[Pasted image 20241214063707.png]]
+giặc đói, giặc dốt, giặc ngoại xâm
+
+![[Pasted image 20241214063728.png]]
+ngày 18.2, thực dân pháp gửi Ultimatum (tối hậu thư)
+
+
+![[Pasted image 20241214063805.png]]
+đại hội lần thứ 2 đổi tên đảng thành Đảng Lao động Việt Nam
+
+![[Pasted image 20241214063835.png]]
+Lời kêu gọi toàn quốc kháng chiến của chủ tịch HCM 
+
+
+![[Pasted image 20241214063924.png]]
+chính quyền ta còn non trẻ, ko thể chống 2 kẻ thù cùng 1 lúc.
+
+
+![[Pasted image 20241214064009.png]]
+quyết tâm / tham vọng xâm lược của Pháp.
+
+
+![[Pasted image 20241214064031.png]]
+Đại biểu toàn quốc lần thứ 2 (2/1951)
+
+![[Pasted image 20241214064356.png]]
+thành lập việt, miên, lào để tăng cường tình đoàn kết nhân dân 3 nước Đông Dương
+
+![[Pasted image 20241214064433.png]]
+giáng đòng mạnh vào âm mưu nô dịch của chủ nghĩa thực dân.
+
+
+cương lĩnh xây dựng đất nước thời kỳ quá độ -> 1991
+đại họi kháng chiến - ĐẠI HỘI LẦN THỨ 2
+Ưu tiên phát triển cn nặng 1 cách hợp lý
+đại hội đc coi là "Đại Hội Kháng Chiến" - đại hội đại biểu toàn quốc lần thứ 2
+đại hội lần thứ 5 của đảng khẳng định - cách mạng vn có 2 nv chiến lược xây dựng thành công CNXH và bảo vệ vững chắc tổ quốc vn XHCN
+
