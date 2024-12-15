@@ -160,7 +160,8 @@ For the last line (red), we line the line up where all points projected to it sp
 ![[Pasted image 20240702212137.png]]
 ### Step 3: Re-arrange the line base on how spreaded they are 
 ![[Pasted image 20240702212432.png]]
-#### PCA Goals: find the projection that preserves the maximum possible spread in your data, even as you reduce the dimensionality of your data set. 
+#### PCA Goals: find the projection that preserves the maximum possible spread in your data, even as you reduce the dimensionality of your data set
+
 
 
 # Variance and Covariance
@@ -312,8 +313,8 @@ e.g. the vector in Teal and orange Stretch itself from the origin (0, 0) longer 
 - [x] Understand Deeper about PCA
 - [x] Re-write **step-by-step instruction to calc PCA**
 - [x] Verification what I know by asking ChatGPT to **list out all the mathematical fomula** I need for Application 
-- [ ] Revision PCA by watching Startquest
-- [ ] Watch all Coursera Course and Ace the Exam
+- [x] Revision PCA by watching Startquest
+- [x] Watch all Coursera Course and Ace the Exam
 + ! **Don't dig to deep into a topic**. Understand and note the essen of it. I have plenty of thing needed to do (use my time efficiently)
 + ? During the learning process, if I struck on sth find some help, don't waste my time onto what I have too little information about. 
 + ? Use **numpy library to verify my function result**
@@ -337,6 +338,11 @@ To desmonstrate, given **5 variables**s with the **goal is reduce to 2 variables
 + ? 5) Discard the rest and keep n variable (in this example we keep 2 variables). Create a Projection Matrix from n most important variables we keep.
 + @ 6) **Project the data onto the vectors you choose** by multiplying the center data by your projection matrix
 
+### **Tóm tắt bằng ví dụ trực quan:**
+
+Hãy tưởng tượng bạn chụp ảnh một vật thể 3D (như quả bóng) và chuyển nó sang một bức ảnh 2D. Bức ảnh 2D giữ lại phần lớn thông tin về quả bóng, nhưng với ít dữ liệu hơn. PCA hoạt động tương tự bằng cách tìm các "góc nhìn" quan trọng nhất để biểu diễn dữ liệu trong không gian nhỏ hơn.
+
+
 ## Discrete Dynamical Systems
 ![[Pasted image 20240704165905.png]]
 Say you want the predictions the following day, and so on repeat n day for n day ahead.
@@ -349,4 +355,4 @@ Essentially the dot product is 1
 > This is the transition matrix
 > ![[Pasted image 20240704170339.png]]
 
-Note: Tìm lý do tại sao lại xử lý vấn đề chậm vậy?
+

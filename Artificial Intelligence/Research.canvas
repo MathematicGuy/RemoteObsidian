@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"137ba6be171bb184","x":-180,"y":160,"width":500,"height":360,"type":"text","text":"# Topic 1: Behaviour Detection in Computer Vision  \n\nquá trình xác định và diễn giải các hành động và hoạt động của con người từ hình ảnh hoặc chuỗi video. Công nghệ này phân tích dữ liệu trực quan để xác định những hành động nào đang được thực hiện, chẳng hạn như đi bộ, chạy hoặc nấu ăn. Mục tiêu chính là hiểu hành vi của con người thông qua đầu vào trực quan, cho phép các hệ thống phản ứng phù hợp dựa trên các hành động được nhận dạng"}
+	],
+	"edges":[]
+}

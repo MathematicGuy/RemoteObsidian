@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "572d3cfd8393689d",
+            "id": "3438ce9ce68a1e88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,9 +192,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "572d3cfd8393689d",
+  "active": "3438ce9ce68a1e88",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
+    "Research.canvas",
+    "Research.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "Linear Regression.md",
     "AIO - Advance CNN Architecture.md",
     "image/Pasted image 20241213205118.png",
     "image/Pasted image 20241213205102.png",
@@ -223,13 +230,7 @@
     "Object Detection Series.md",
     "Model Training.md",
     "MLT - Machine Learning Terms.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "PCB defects detection using YOLOv5.md",
-    "YOLO Performance Metrics.md",
-    "YOLO Models performance comparison.md",
-    "YOlO (You Only Look Once).md",
-    "Yolov5 bugs.md",
     "ID Card Brain Storm.canvas",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",
