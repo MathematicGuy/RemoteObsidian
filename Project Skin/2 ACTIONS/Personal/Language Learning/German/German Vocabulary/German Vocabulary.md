@@ -1436,7 +1436,7 @@ Hours Studen
 
 ### Unit 7
 Eine Party - a party
-das Picknick the picnic
+das Picknick the picnic (neuter noun)
 Du machst morgen eine Party und ich kann kommen! - you are having a party and I can come
 Kannst du morgen kommen
 Ich mache eine party kannst du kommen
@@ -2346,6 +2346,9 @@ Dusche - the shower
 
 Ausflug - Excursion / Dã Ngoại
 Buchladen book store
+	laden shop
+	Buch book
+Metgerei / butcher shop
 
  Der Rezeption reception
 	 Wo ist der Hotelrezeption  
@@ -2722,7 +2725,7 @@ Gelb yellow
 Nass wet
 	Der Staßen sind nass - the street are wet
 
-Turnschuhe - gym shoes
+Die  Turnschuhe - gym shoes
 Mitternacht - midnight
 
 Wie How
@@ -2796,3 +2799,4 @@ mögen - to like
 Metzgerei - butcher shop
 
 Packungen Schinken - packs of ham
+

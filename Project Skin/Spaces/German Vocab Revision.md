@@ -871,3 +871,19 @@ Mittag ist nicht Mitternacht
 kann nicht - can not 
 finden - find
 	ich kann die tomaten nicht finden 
+
+Isa and Bella, would you like to come to the party
+can you buy drink for the picnic - kannst du getrännk für das Picknick kaufen  
+
+Hat (haben in present tense)
+Er nicht läuft denn er hat keine Turnschuhe = he not running bc he don't have gym shoes
+
+Pause break
+In (use to support "location and time" word)
+	in deiner Turnschuhe (gymshoes is feminine)
+
+Braun - brown
+Die Blumen sind braun, geh in den Blumenladen / the flowers are brown go to the florist
+
+
+Sechzig cent

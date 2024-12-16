@@ -36,10 +36,11 @@ note luyện code phần:
 - [ ] ALA Week 4 - Decision Trees
 
 
-**Deep Learning**
+**Deep Learning Specialization**
 - [ ] [[Course 1 Deep Learning]]
 - [ ] Course 2 Deep Learning
 - [ ] Course 3 Deep Learning
+- [ ] [[Course 4 - Convolutional Neural Network]]
 - [ ] [Intern Timeline](https://docs.google.com/spreadsheets/d/1ypLvhvAGNG4zNBU929T5bluPoKhwStQ4S47oB-2Ubns/edit?gid=0#gid=0)
 
 **Critical Thinking**

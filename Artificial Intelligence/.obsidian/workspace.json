@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "3438ce9ce68a1e88",
+            "id": "28ed5a378603cb37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 - Foundations of Convolutional Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Week 1 - Foundations of Convolutional Neural Networks"
             }
           }
         ],
@@ -192,9 +196,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3438ce9ce68a1e88",
+  "active": "28ed5a378603cb37",
   "lastOpenFiles": [
+    "image/Pasted image 20241215152929.png",
     "2 ACTIONS/_Focus.md",
+    "Week 1 - Foundations of Convolutional Neural Networks.md",
+    "image/Pasted image 20241215144901.png",
+    "image/Pasted image 20241215144253.png",
+    "image/Pasted image 20241215143836.png",
+    "image/Pasted image 20241215143555.png",
+    "Course 4 - Convolutional Neural Network.md",
+    "Course 1 Deep Learning.md",
+    "Introduction to TensorFlow.md",
+    "TensorFlow CNN.md",
+    "Tensorflow Object Detection with Python.md",
+    "TensorFlow Code.md",
+    "Courses Pipeline.md",
+    "AIO - From MLP to CNN.md",
+    "AIO 2024.md",
+    "AIO - CNN.md",
     "Research.canvas",
     "Research.md",
     "4 ARCHIVES/ML Project/Image Compression using PCA/PCA (Principle Component Analysis) Research Documents.md",
@@ -209,28 +229,13 @@
     "image/Pasted image 20241213203559.png",
     "image/Pasted image 20241213202003.png",
     "image/Pasted image 20241213201409.png",
-    "image/Pasted image 20241213201355.png",
-    "AIO 2024.md",
     "AIO2024.md",
-    "TensorFlow Code.md",
     "ID Card OCR Note.md",
-    "AIO - CNN.md",
     "AIO - Advance CNN.md",
     "Pytorch.md",
     "ID Card OCR.md",
-    "image/Pasted image 20241210092038.png",
     "3 RESOURCES/Artificial Intelligent/General AI/Generative AI (AI Sáng Tạo).md",
-    "image/Pasted image 20241213112023.png",
-    "image/Pasted image 20241213111927.png",
     "Anstler Palace.canvas",
-    "[Foundational.md",
-    "Pasted image 20241211160351.png.md",
-    "AIO - CNN Training and Generalization.md",
-    "Computer Vision.md",
-    "Object Detection Series.md",
-    "Model Training.md",
-    "MLT - Machine Learning Terms.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
     "ID Card Brain Storm.canvas",
     "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/ID Card Detection",
