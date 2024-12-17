@@ -2710,10 +2710,12 @@ Sportlich athelic
 Der Fahrrad bicycle (r pronoun in g. motorgad)
 
 Schlaft - sleep (Schläfst)
+Ganz bestimmt - definitly
+	Duo kommt ganz bestimmt zur Party / Duo definitly comming to the party 
 Ganze - whole
 	ganze tag - whole day
 Ganzen - entire
-		ganzen tag - entire day
+	ganzen tag - entire day
 Der Mond - the moon
 
 D**ann** then
@@ -2800,3 +2802,15 @@ Metzgerei - butcher shop
 
 Packungen Schinken - packs of ham
 
+## New Chap
+Das Pferd - the horse 
+Wechtiger important 
+	wechtiger Tag - important day
+Planen - planning
+	Wir planen 'einen' Party für 'seinem' Geburtstag - we planning a party for his birthday
+	+ einen, seinem ???
+
+Hoffe  hope
+	Er Hofft - he hope
+
+Er hat bald geburstag - he have birthday soon 

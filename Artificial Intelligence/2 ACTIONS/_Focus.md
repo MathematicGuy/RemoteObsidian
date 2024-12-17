@@ -1,7 +1,5 @@
  
 ### [[Anstler Palace.canvas|Anstler Place]]
-### 
-
 
 
 **Machine Learning**

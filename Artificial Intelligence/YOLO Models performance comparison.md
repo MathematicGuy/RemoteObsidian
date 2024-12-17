@@ -32,3 +32,14 @@ yolov11s
 ![[Pasted image 20241210121658.png]]
 ![[Pasted image 20241210120748.png]]![[Pasted image 20241210120800.png]]
 ![[Pasted image 20241210121054.png]]
+
+# Normalization and Augumentation
+>Improve dataset integity, Augumentate clean data, Normalize using Rank-Based Equalization and denoise with Gaussian Blur
+
+**Adaptive Equalization for Normalization** 
+**108 epochs - mAP: 0.86** 
+![[Pasted image 20241217141223.png]]
+
+**Rank-Based Equalization for Normalization** 
+**95 epochs - mAP: 0.863** -> not overfitting, generalize better
+![[Pasted image 20241217141142.png]]

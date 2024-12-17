@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75487eb9a91758f3",
+            "id": "153d6640529f81d1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "e8983c50a7574328",
+            "id": "ad66beca8f6a3a4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "84ada94eb12d6214",
+            "id": "38c66f0ee7641f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,19 +53,9 @@
               "icon": "lucide-file",
               "title": "German Vocab Revision"
             }
-          },
-          {
-            "id": "153d6640529f81d1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             }
           },
           {
-            "id": "dd759e72fe30e80f",
+            "id": "98a7374d221d201c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -267,10 +257,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "84ada94eb12d6214",
+  "active": "ad66beca8f6a3a4f",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German History.md",

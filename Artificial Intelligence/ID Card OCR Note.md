@@ -13,6 +13,7 @@ Improve Model prediction with different lighting (Augment in Roboflow, minimize 
 + Gather a lot of image for auto labeling using pre-trained model  -> add this dataset with label to the processed main dataset (in my pre-processing lab)
 + Test and Detect Text Clarity
 + Compare current image pre-processing method with canny (How to reduce the vietname circle crest behind the text)
++ Summarize data using Summarization Model.  
 
 Plan: 
 
@@ -29,6 +30,7 @@ Train Text Detection Model (VietOCR)
 
 ---
 
+**Run Detection Model**
 ```python
 import cv2
 from ultralytics import YOLOv10
@@ -64,6 +66,53 @@ cv2.destroyAllWindows()
 
 ```
 
+**Return Detection Result in dictionary format**
+```python
+@app.post("/detect/")
+async def detect_objects(file: UploadFile = File(...)):
+    """
+    Perform object detection on an uploaded image with preprocessing.
+    """
+    try:
+        # Load the uploaded image
+        image_bytes = await file.read()
+        image = Image.open(io.BytesIO(image_bytes)).convert("RGB")
+        image_np = np.array(image)[:, :, ::-1]  # Convert PIL image to BGR NumPy array
+
+        # Preprocess the image (including resizing)
+        preprocessed_image = preprocess_frame(image_np)
+        
+        # Perform object detection with YOLO
+        results = model(preprocessed_image, conf=0.4)
+
+        # Process results
+        detections = []
+        for result in results:
+            for box in result.boxes:
+                bbox = box.xyxy.tolist()[0]  # Bounding box coordinates [x1, y1, x2, y2]
+                confidence = box.conf.tolist()[0]  # Confidence score
+                class_id = int(box.cls.tolist()[0])  # Class ID
+                detections.append({
+                    "class_id": config['names'][class_id],
+                    "confidence": confidence,
+                    "bbox": bbox
+                })
+
+        # Annotate the image with bounding boxes
+        annotated_image = annotate_image(preprocessed_image, detections)
+
+        # Save the annotated image to a file
+        original_filename = file.filename
+        save_filename = f"processed_{os.path.splitext(original_filename)[0]}.jpg"
+        save_path = os.path.join("validation/output", save_filename)
+        cv2.imwrite(save_path, annotated_image)
+        
+        # Optionally, return the file path or a URL for the saved image
+        return JSONResponse(content={"detections": detections, "image_path": save_path})
+
+    except Exception as e:
+        return JSONResponse(content={"error": str(e)}, status_code=500)
+```
 
 ---
 

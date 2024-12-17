@@ -11,9 +11,9 @@
 		{"id":"8cf54dac87c23c2b","type":"text","text":"**Metal Health & Study Efficiency** ","x":-800,"y":-480,"width":360,"height":50,"color":"4"},
 		{"id":"c86bbd7515752713","type":"text","text":"**Improvements**\nset median goals, low stress, limit your study time (make your study time prescious) -> more efficiency.  \nstay real, don't break promise with myself\n[Noting Facts]([Facebook](https://www.facebook.com/lecongthanh.infore)\nPost Cannon for ESL\n[Linear Algebra MIT]([Syllabus | Matrix Calculus for Machine Learning and Beyond | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/syllabus/))\n","x":-400,"y":400,"width":1000,"height":240},
 		{"id":"a83d2856c4f8acf3","type":"text","text":"+ ! Notice the signs \"Energy Drain + Bored\" \n-> Stop immediately. Figure out what when wrong and readjust\n+ $ Find a more efficient study method if I feel bored.","x":-800,"y":-400,"width":360,"height":200},
-		{"id":"c3f40d9b97c041b0","type":"file","file":"Studying Better.md","x":-1920,"y":-440,"width":680,"height":800},
 		{"id":"f5d74200e16bae8b","type":"file","file":"Study Music Playlist.md","x":1760,"y":-440,"width":400,"height":400},
-		{"id":"0f3b80b6dfaaf05a","type":"text","text":"**Tools**\nPerplexity AI: research\nGamma AI: powerpoint\n","x":640,"y":-260,"width":340,"height":120}
+		{"id":"0f3b80b6dfaaf05a","type":"text","text":"**Tools**\nPerplexity AI: research\nGamma AI: powerpoint\n","x":640,"y":-260,"width":340,"height":120},
+		{"id":"c3f40d9b97c041b0","type":"file","file":"Studying Better.md","x":-1600,"y":-480,"width":680,"height":800}
 	],
 	"edges":[]
 }
