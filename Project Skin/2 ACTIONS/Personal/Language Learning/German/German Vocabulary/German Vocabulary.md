@@ -2807,6 +2807,7 @@ Packungen Schinken - packs of ham
 
 ## New Chap
 Das Pferd - the horse 
+	Mein Pferd bekommt neunundneunzig geschenke - Oh, my hourse is getting ninety nine gifts 
 Wechtiger important 
 	wechtiger Tag - important day
 Planen - planning
@@ -2821,7 +2822,16 @@ Neunundneunzig Jahre alt - ninety nine years old
 Luftballon - balloon
 Mitbringen - bring along
 	Ja, ich kann eine Flasche Wein mitbringen - yes, I can bring along a bottle of wine 
+	Möchtest du ein Date mitbringen
 Mit along
 Bringst sth mit (bringing sth along)
 	Bringst du einen Pizza mit - Are you bringing a pizza along ? 
 	Bringst du Kartoffelsalat zur party mit - Are you bringing a potato salat to the party
+Bringen 
+	seine freunde bringen für ihn ein geschenk mit - her friends is bringing for  
+
+Äpfel - apple
+Geburtstagskarte - birthday card
+	Geburtstags birthday
+	Karte card
+

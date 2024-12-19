@@ -886,3 +886,7 @@ Braun - brown
 Die Blumen sind braun, geh in den Blumenladen / the flowers are brown go to the florist
 
 Sechzig cent - sixteen cent 
+Geschenke - gift
+Wie viele Geschenke bringst du zur party mit - How to many the gifts party are you bringing along
+
+ein
