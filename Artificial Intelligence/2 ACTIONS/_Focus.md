@@ -52,7 +52,6 @@ note luyện code phần:
 	+ [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
 
 
-
 #System
 - [ ] [[Intuition]]
 - [ ] [[Courses Pipeline]]

@@ -20922,6 +20922,7 @@ aib
 awR
 aWK
 aNL
+acronym
 notate
 nhau
 normal

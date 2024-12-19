@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d933424ee3f160b",
+        "id": "7fdbc5b5191ab02a",
         "type": "tabs",
         "children": [
           {
-            "id": "a390ad6e29ff2b4f",
+            "id": "4ce3e82c8e3e6c59",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -185,12 +185,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a390ad6e29ff2b4f",
+  "active": "4ce3e82c8e3e6c59",
   "lastOpenFiles": [
-    "2 ACTIONS/_My Life/_My Life.md",
-    "3 RESOURCES/_How To/_How To Study/Scott Young on the Best Way to Learn Anything.md",
     "_Focus.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
+    "2 ACTIONS/_My Life/Deepthought.md",
+    "2 ACTIONS/_My Life/_My Life.md",
+    "PROBLEM.md",
+    "3 RESOURCES/_How To/_How To Study/Scott Young on the Best Way to Learn Anything.md",
     "image/Pasted image 20241205142851.png",
     "3 RESOURCES/_How To/_How To Study/_How To Study.md",
     "3 RESOURCES/_Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
@@ -212,8 +214,6 @@
     "Flow.md",
     "CHANGES.md",
     "Possitive Though.md",
-    "PROBLEM.md",
-    "Question to Ask My Self.md",
     "image/Pasted image 20241112093724.png",
     "image/Pasted image 20241112093621.png",
     "image/Pasted image 20241112093034.png",

@@ -2796,6 +2796,9 @@ Packungen Packs (plural)
 
 Genug  - Enough 
 	Zwei Gurken sind nicht genug, wir brauchen sechs - 2 cucumbers are not enough, we need 6
+-> Wir haben keine genug Kaffe - we don't have enough Kaffee
+<- Kein problem, ich bringe zwanzig Kaffee für dich
+<- Kein problem, ich bringe zwanzig Kaffee mit 
 
 mögen - to like
 Metzgerei - butcher shop
@@ -2814,3 +2817,11 @@ Hoffe  hope
 	Er Hofft - he hope
 
 Er hat bald geburstag - he have birthday soon 
+Neunundneunzig Jahre alt - ninety nine years old
+Luftballon - balloon
+Mitbringen - bring along
+	Ja, ich kann eine Flasche Wein mitbringen - yes, I can bring along a bottle of wine 
+Mit along
+Bringst sth mit (bringing sth along)
+	Bringst du einen Pizza mit - Are you bringing a pizza along ? 
+	Bringst du Kartoffelsalat zur party mit - Are you bringing a potato salat to the party

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83b31c011ebaad3d",
+        "id": "a7dbc3c51b566352",
         "type": "tabs",
         "children": [
           {
-            "id": "e4501544cfb2e8dc",
+            "id": "6ee0bdb064c3dfa9",
             "type": "leaf",
             "state": {
-              "type": "3d-graph-view-global",
+              "type": "graph",
               "state": {},
-              "icon": "orbit",
-              "title": "Global 3D Graph"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff9a1382dabaf3ec",
@@ -156,7 +155,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "e4501544cfb2e8dc",
+  "active": "6ee0bdb064c3dfa9",
   "lastOpenFiles": [
     "Artificial Intelligence/Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Project Skin/Images/Pasted image 20241205142934.png",
