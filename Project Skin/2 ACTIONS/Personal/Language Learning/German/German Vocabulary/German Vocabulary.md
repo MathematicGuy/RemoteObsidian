@@ -2835,3 +2835,20 @@ Geburtstagskarte - birthday card
 	Geburtstags birthday
 	Karte card
 
+Früher earlier
+Abholen pickup
+	Kannst du Ed früher abholen - can you pickup Ed earlier
+
+Ich habe eine Bitte - I have a request 
+Holst pick
+	Ich holst dich später Ab - I picking you up later
+
+Ab up
+	Holst du die Schildkröte ab -  Can you pick the turtle up
+
+
+Wen whom
+	Wen hole ich ab ? - Whom am I picking up
+
+
+

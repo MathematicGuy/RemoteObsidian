@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44cb78b6deafbe0c",
+        "id": "ba71f959194a0ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c822790d81d580",
+            "id": "58e66ca231671788",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "ac281560261c4f5e",
+            "id": "ad9793da9db61311",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "3253780d95daba67",
+            "id": "6e2f29bac11f7fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,7 +108,7 @@
             }
           },
           {
-            "id": "ae8a7bb5b0e6d073",
+            "id": "5458ea4e8ff3844c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -257,7 +257,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ac281560261c4f5e",
+  "active": "ad9793da9db61311",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/German Vocab Revision.md",

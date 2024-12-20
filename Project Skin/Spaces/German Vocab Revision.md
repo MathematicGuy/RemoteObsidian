@@ -1,4 +1,4 @@
-### Word with Phrase
+a### Word with Phrase
 
 kommen - come with (Sie)
 können - can with (Sie)
@@ -889,4 +889,6 @@ Sechzig cent - sixteen cent
 Geschenke - gift
 Wie viele Geschenke bringst du zur party mit - How to many the gifts party are you bringing along
 
-ein
+Geschenke
+wen whom
+	Für wen kaufst du die Geschenke
