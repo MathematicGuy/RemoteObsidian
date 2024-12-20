@@ -2850,5 +2850,22 @@ Ab up
 Wen whom
 	Wen hole ich ab ? - Whom am I picking up
 
+Handschuhe - handglove  
+Sind wir auch - yes we are 
+	auch mean also, 'auch' combine with 'wir' mean 'we also' and 'we are'.
 
+Zuerst first 
+Euren - your for plural you (deine in plural) 
+	ich sehe euren hund - I see your dog 
+```ad-faq
+*Why euren for plural ?*
 
+It's more complicated in German, because German has four cases -- which means that sometimes the translation for "him" is not "ihn", but "ihm".
+
+"Eure" and "euren" are both forms of the word "euer", which means "your" when talking to more than one person and you don't need to be polite to them. For example, when talking to your two good friends:
+
+"Hey, ist das euer Wagen?" = "Hey, is that your car?"
+```
+
+Putzen - clean
+	Der haus sind schmutzig, wir muss putzen - the house is dirty, we must clean it.
