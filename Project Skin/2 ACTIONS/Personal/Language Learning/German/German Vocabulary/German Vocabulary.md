@@ -2855,7 +2855,7 @@ Sind wir auch - yes we are
 	auch mean also, 'auch' combine with 'wir' mean 'we also' and 'we are'.
 
 Zuerst first 
-Euren - your for plural you (deine in plural) 
+**Euren** - your for plural you (**deine in plural**) 
 	ich sehe euren hund - I see your dog 
 ```ad-faq
 *Why euren for plural ?*
@@ -2869,3 +2869,10 @@ It's more complicated in German, because German has four cases -- which means th
 
 Putzen - clean
 	Der haus sind schmutzig, wir muss putzen - the house is dirty, we must clean it.
+
+Wichtiger important 
+	Bist morgen ganz bestimmt ein wichtiger tag - tomorrow is definetely an important day
+
+
+Vom - from for plural 
+	Ich Holst meine Eltern vom Wohnung abs
