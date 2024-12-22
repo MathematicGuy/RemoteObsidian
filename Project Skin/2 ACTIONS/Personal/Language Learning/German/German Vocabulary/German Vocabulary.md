@@ -2876,3 +2876,5 @@ Wichtiger important
 
 Vom - from for plural 
 	Ich Holst meine Eltern vom Wohnung abs
+
+
