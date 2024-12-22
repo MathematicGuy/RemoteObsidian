@@ -1404,6 +1404,8 @@ EYPO
 EMqP
 EKq
 Eib
+EHR
+Electronic
 the
 that
 transformation
@@ -2754,6 +2756,9 @@ tEiI
 tOw
 tQyZs
 tNS
+thetas
+tweets
+thao
 original
 of
 operator
@@ -3891,6 +3896,7 @@ oeV
 oFYR
 oREE
 oBH
+obtaining
 vector
 vectors
 versions
@@ -5139,6 +5145,7 @@ vUBf
 vRl
 vMO
 vrd
+vital
 An
 After
 Algorithm
@@ -6500,6 +6507,10 @@ AcE
 AcA
 AOoL
 AlL
+Across
+Attacks
+ADL
+Attack
 eigenbasis
 entirely
 eigenvectors
@@ -7915,6 +7926,7 @@ eUG
 eaY
 eakG
 exd
+expands
 is
 in
 image
@@ -9381,6 +9393,7 @@ iNn
 iTyoC
 ikk
 iezZ
+innocuous
 basis
 by
 because
@@ -10746,6 +10759,7 @@ bitcoin
 bEde
 bRR
 bdPo
+behaviors
 find
 factor
 first
@@ -12023,6 +12037,7 @@ fLG
 flw
 fMtY
 fuN
+federated
 space
 say
 same
@@ -13664,6 +13679,10 @@ scV
 sBZAx
 sYG
 subdataset
+secret
+semi
+sticker
+symmetry
 consists
 can
 change
@@ -15394,6 +15413,13 @@ cjs
 coT
 cBTI
 cwc
+compromise
+cardiovascular
+characterized
+claims
+clinician
+compliance
+compresses
 linear
 lambda
 left
@@ -16711,6 +16737,7 @@ lhY
 ljd
 lAI
 ldt
+lung
 matrix
 multiply
 multiplied
@@ -18148,6 +18175,8 @@ mFB
 mjV
 mLJ
 mhe
+methodologies
+media
 The
 This
 To
@@ -19520,6 +19549,12 @@ TVd
 TEC
 TWF
 Tas
+Twitter
+Tencent
+Team
+Themes
+Thanh
+Tverskz
 after
 and
 as
@@ -21028,6 +21063,11 @@ ayP
 aHDZ
 arrs
 awQ
+associations
+activities
+attacks
+attack
+advesarial
 notate
 nhau
 normal
@@ -22267,6 +22307,9 @@ nut
 nFe
 nXV
 nTe
+nalyzing
+ngay
+negatives
 Change
 Class
 Comunity
@@ -23769,6 +23812,8 @@ CHf
 CNK
 CuU
 CAU
+Conventional
+Chinese
 Basis
 Both
 Board
@@ -25011,6 +25056,7 @@ BOS
 BkK
 Buc
 BjFhN
+Behavioral
 Using
 Understand
 Unique
@@ -28657,6 +28703,9 @@ hnWU
 hiiCKs
 hkE
 hND
+hybrid
+hygiene
+huy
 Let
 Light
 Learning
@@ -29888,6 +29937,8 @@ LjJ
 LOOCFf
 LIIY
 LlK
+Lai
+Linh
 you
 yield
 yk
@@ -32439,6 +32490,9 @@ pNwu
 pHk
 pkd
 pRu
+party
+posts
+progression
 You
 Yes
 YX
@@ -36322,6 +36376,11 @@ SRZ
 SCn
 SpD
 Stacked
+SOTA
+Steganography
+Security
+SpO
+Symmetry
 result
 reduced
 repeated
@@ -37753,6 +37812,8 @@ responding
 rJC
 rzLI
 ryZ
+realize
+readmission
 Non
 Need
 No
@@ -42479,6 +42540,14 @@ dCF
 dMbk
 dcO
 dAnu
+descriptors
+disease
+demographics
+developed
+difficulty
+domains
+daily
+diagnosis
 From
 Find
 For
@@ -47539,6 +47608,7 @@ uhhh
 uoae
 uGG
 ukG
+users
 Recall
 Reference
 Redundant
@@ -48906,6 +48976,7 @@ Rnae
 RAEb
 RSSc
 RjEi
+Record
 Or
 One
 Our
@@ -51524,6 +51595,10 @@ IteQ
 IzQ
 Imi
 IOz
+Investigate
+Identified
+Inbalance
+Implication
 Prerequisite
 PCB
 Project
@@ -52888,6 +52963,8 @@ PSv
 PGKR
 PDf
 PSSk
+Parkinson
+Property
 Defecs
 Defects
 Dataset
@@ -54239,6 +54316,8 @@ Djq
 DpX
 DsS
 Dcq
+Disease
+Defense
 Visual
 Variables
 Visualization
@@ -57831,6 +57910,7 @@ jhB
 jhn
 jQKc
 jMc
+judge
 Highly
 How
 Have
@@ -59118,6 +59198,7 @@ HCj
 Hca
 HsT
 HiB
+Healthcare
 quan
 qqq
 qxD

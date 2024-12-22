@@ -160,7 +160,7 @@ This function tells us how likely different values of $p$ are, given our observe
 
 #### LL Staturated Model
 > Saturated model is a **model where the fitted values are equal to the observed values.**
-+ ? The predicted cancer cases are therefor 1 and the predicted case for healthy are 0. Thus the accuracy is 100%, the likehood for all datapoints are 1. 
++ ? The predicted cancer cases are therefor 1 and the predicted case for healthy are 0. Because the accuracy is 100%, the likehood for all datapoints are 1. 
 ![[Pasted image 20241021091016.png]]
 Since natural log of 1 is 0, the log likelihood of the saturated model is = 0.
 ![[Pasted image 20241021091022.png]]
@@ -325,8 +325,6 @@ Let sum up red and green bars, Adding them up gives us the BCE loss.
 Remember, q(y) is the probability of a point being sampled, that is $\frac{1}{N}$.
 
 ![[Pasted image 20241025122331.png]]
-
-
  ![[Pasted image 20241025123303.png]]
 + Ratio of a probability that an event occurs to the probability that it doesn't occur. 
  + Probabilty of Y=1 given X, Abbreviated as P of X with 1 here is not a number but rather the class or category.

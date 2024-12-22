@@ -57,7 +57,6 @@ Nếu hằng số ko phải $\theta$ sẽ bỏ, chỉ quan tâm đến tham số
 Cross-Entropy: so sánh 2 distributions
 Entropy: tính distribution của chính nó
 
-
 ## Hinge Classification Loss
 ![[Pasted image 20241121171122.png]]
 where:
