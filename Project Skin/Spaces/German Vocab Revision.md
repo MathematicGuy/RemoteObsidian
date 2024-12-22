@@ -822,6 +822,8 @@ Läufe
 hundert one hundred
 wochenende weekend
 
+ihre her
+Lan zum ihre Heimatstadt gehen
 
 ganzen whole
 den the
@@ -893,4 +895,4 @@ Geschenke
 wen whom
 	Für wen kaufst du die Geschenke
 
-
+The party is tomorrow. I shopping an important gift for your horse. Ich only going to the department store today
