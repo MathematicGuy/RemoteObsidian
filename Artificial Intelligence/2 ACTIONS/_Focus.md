@@ -1,5 +1,9 @@
  
 ### [[Anstler Palace.canvas|Anstler Place]]
+[scientific research](https://www.facebook.com/share/v/19mtSEZVsn/)
+rảnh thì làm Warm Up 2025: 
++ [Week 2]([Link Bài Tập](https://forms.gle/jSCyrb8Rz5kJvsoF8))
++ [Week 3]([Link Bài Tập](https://forms.gle/33b9XQ6v4QGCHZXk8))
 
 
 **Machine Learning**
@@ -11,7 +15,7 @@ note luyện code phần:
 + Data Splitting
 + Normalization
 + Download Data -> Pre-Processing -> Code LeNet Model -> Train & Evaluation Function -> Train & Evaluate Model  -> Evaluate on Test Dataset -> Inititate Apps   
-
+	
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]

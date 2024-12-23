@@ -6511,6 +6511,7 @@ Across
 Attacks
 ADL
 Attack
+Activities
 eigenbasis
 entirely
 eigenvectors
@@ -41135,6 +41136,8 @@ WbIQ
 WGw
 WRc
 Wdx
+Weekly
+Warm
 don
 direction
 data
@@ -48977,6 +48980,7 @@ RAEb
 RSSc
 RjEi
 Record
+Reporting
 Or
 One
 Our
@@ -50193,6 +50197,7 @@ Ogz
 Ofp
 OUNbD
 OaS
+Organization
 IntelliJ
 Isolation
 Interactive
@@ -66244,6 +66249,7 @@ QFa
 QyTX
 QiG
 QdF
+Quality
 XnV
 XT
 XK

@@ -54,8 +54,8 @@ note: threshold start from left to right (low to high)
 
 + $ **Threshold Decrease** $\to$ True/False Positive Increase (Accept More Incorrect/FP as Correct/P) $\to$ **Favour Recall**: increase overall true prediction at the cost of accepting more false predictions. (muốn dự đoán đúng nhiều hơn thì phải chấp nhận sai nhiều hơn)
 +  Analogy: Risky Child (Favouring Recall)
-+ & **Use Case:** Automated Car accept to observe light pole as human (False Positive) to avoid potential accident. The same for predicting potential cancer patient. 
-
++ & **Use Case:** Automated Car accept to observe *light pole or potential lightsource* as human (False Positive) to avoid potential accident. The same for predicting potential cancer patient. 
+	![[Pasted image 20241222134510.png]]
 
 + $ **Threshold Increase** $\to$ True/False Negative Increase (Accept More Correct as Incorrect) $\to$ **Favour Precision**: Increase overall precision at the cost of having less correct predictions (muốn dự đoán chính xác hơn thì phải chấp nhận số dự đoán đúng ít hơn) 
 + Analogy: Cautious Child  (Favouring Precision)
