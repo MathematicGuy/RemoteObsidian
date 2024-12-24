@@ -9,7 +9,7 @@
 Later: 
 Improve Model prediction with different lighting (Augment in Roboflow, minimize manual labeling by choosing 4-5 different diff lighting condition then augment them to simulate more lighting condition)
 + Apply NMS later
-+ Add Early Stopping
++ Add Earepisodely Stopping
 + Gather a lot of image for auto labeling using pre-trained model  -> add this dataset with label to the processed main dataset (in my pre-processing lab)
 + Test and Detect Text Clarity
 + Compare current image pre-processing method with canny (How to reduce the vietname circle crest behind the text)
@@ -138,3 +138,46 @@ Winner: YOLO11n -> Better without lossing much accuracy
 	![[Pasted image 20241212110144.png]]
 
 
+# Problems: 
+
+### Skews Parallelogram when Reconstructing using midpoint
+
+**Reasons for Out-of-Bounds Coordinates:**
+1. **Inaccurate Input Coordinates:** The most likely reason is that the initially detected corners (botleft, botright, topleft in your example) are not perfectly accurate. Even small errors in the positions of the detected corners can be amplified when calculating the missing corner, especially if the ID card is significantly skewed or distorted.
+    
+    - **Object Detection Errors:** The underlying object detection model might be:
+        
+        - **Misidentifying corners:** It might be selecting points that aren't true corners of the ID card.
+            
+        - **Imprecise localization:** Even if it correctly identifies the corner, the bounding box might not be perfectly tight, leading to slightly offset coordinates.
+            
+        - **Confused by background clutter or noise:** If the image background is complex, the detector might be confused.
+            
+2. **Perspective Distortion:** Real-world images of ID cards often suffer from perspective distortion. Your calculate_missed_coord_corner function assumes the ID card is a perfect parallelogram. When perspective is present, the four corners will not form a perfect parallelogram, and using the midpoint-based reconstruction can lead to inaccurate and out-of-bounds results. In your specific case:
+    
+    - If the top of the ID card is further away from the camera than the bottom, the topright corner will appear closer to the topleft and potentially higher up (smaller y-value). Your calculation, assuming a parallelogram, tries to extend the top edge horizontally, resulting in a negative y-value.
+        
+3. **Edge Cases and Extreme Skew:** If the ID card is extremely rotated or skewed in the image, the parallelogram assumption breaks down even further. The two provided corners might not accurately define the orientation and size of the card's edges for a reliable parallelogram completion.
+    
+4. **Numerical Precision:** While less likely in this specific scenario with floats, sometimes minor numerical precision issues can accumulate. However, the magnitude of your offset suggests a more fundamental problem.
+
+### Solutions
+1) **Improve Corner Detection:** The most impactful solution is to improve the accuracy of your initial corner detection. This involves:
+
+2) - **Constrain the Output:** After calculating the missing corner, explicitly check if the coordinates fall within the image boundaries (0 to width, 0 to height). If they don't, you can implement strategies like:
+    
+    - **Clamping:** Set the out-of-bounds coordinate to the nearest boundary value (e.g., if y < 0, set y = 0). This is a simple but potentially inaccurate fix.
+        
+    - **Flagging and Ignoring:** If a coordinate is out of bounds, you can flag the reconstruction as potentially unreliable and skip further processing for that image or use a fallback method.
+
+3) **Account for Perspective Distortion:** More sophisticated methods can account for perspective:
+    
+    - **Homography Estimation:** If you have four reasonably accurate corner detections (or can reliably estimate three and have a good prior), you can estimate a homography matrix. This matrix describes the transformation between the distorted quadrilateral in the image and a rectangular template. This is a more accurate approach than assuming a parallelogram.
+        
+    - **Perspective Correction Techniques:** Apply image transformations to "unwarp" the ID card before or after corner detection. This requires identifying a plane in the image.
+
+4) **Validate Input Corners:** Before calculating the missing corner, perform some basic validation checks on the input corners:
+    
+    - **Check for reasonable ordering:** For example, topleft's x-coordinate should generally be less than topright's x-coordinate. Similarly, y-coordinates should follow a general pattern.
+        
+    - **Check for proximity:** The distances between the provided corners should be within a reasonable range based on the expected size of an ID card. Large discrepancies might indicate errors.

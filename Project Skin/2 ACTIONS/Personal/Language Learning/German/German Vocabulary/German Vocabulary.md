@@ -2607,6 +2607,7 @@ Schloss castle
 Geschlossen / closed
 	Ist die Universität heute Geschlossen ? - is the university closed today ?
 Schließt / close
+	Das Restaurant Schließt in einer Stunder 
 
 Geschäfte - stores
 
@@ -2881,3 +2882,5 @@ Spinne crazy
 	du spinnst - you crazy
 Gefährlich - scare
 + ? Wohin vs Wo vs 
+
+Verwandten relative
