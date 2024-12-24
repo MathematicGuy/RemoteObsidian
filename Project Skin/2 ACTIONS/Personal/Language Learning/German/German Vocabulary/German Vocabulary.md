@@ -2819,9 +2819,9 @@ Hoffe  hope
 	Er Hofft - he hope
 
 Er hat bald geburstag - he have birthday soon 
-Neunundneunzig Jahre alt - ninety nine years old
-Luftballon - balloon
-Mitbringen - bring along
+Neunundneunzig Jahre alt - ninety nine years old 
+Luftballon - balloon 
+Mitbringen - bring along 
 	Ja, ich kann eine Flasche Wein mitbringen - yes, I can bring along a bottle of wine 
 	Möchtest du ein Date mitbringen
 Mit along
@@ -2874,7 +2874,6 @@ Putzen - clean
 Wichtiger important 
 	Bist morgen ganz bestimmt ein wichtiger tag - tomorrow is definetely an important day
 
-
 Vom - from for plural 
 	Ich Holst meine Eltern vom Wohnung abs
 
@@ -2884,3 +2883,4 @@ Gefährlich - scare
 + ? Wohin vs Wo vs 
 
 Verwandten relative
+
