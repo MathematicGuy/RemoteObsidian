@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1564d0966f99f83",
+        "id": "b1a7511b08d53531",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc5d2881f23b968",
+            "id": "1899d049e2afa111",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "f40ffe84bc6bcc95",
+            "id": "dea3ac97a7e084ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanture Time song"
+              "title": "German Vocabulary"
             }
           }
         ],
@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "4a2ee315ee73d083",
+            "id": "f2adfb62463dd4ef",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,7 +242,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f40ffe84bc6bcc95",
+  "active": "dea3ac97a7e084ae",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",

@@ -2883,4 +2883,6 @@ Gefährlich - scare
 + ? Wohin vs Wo vs 
 
 Verwandten relative
+Salzig salty
 
+Geburstagskarte birthday card
