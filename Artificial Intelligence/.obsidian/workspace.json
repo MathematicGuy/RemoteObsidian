@@ -24,21 +24,35 @@
             }
           },
           {
-            "id": "bca76803b1d871ce",
+            "id": "5378aa1c0b03c7d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ID Card OCR Note.md",
+                "file": "Internship Report Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ID Card OCR Note"
+              "title": "Internship Report Requirements"
+            }
+          },
+          {
+            "id": "60dfb34cbd9b8864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML CheatSheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML CheatSheet"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,23 +210,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bca76803b1d871ce",
+  "active": "60dfb34cbd9b8864",
   "lastOpenFiles": [
-    "ID Card OCR.md",
-    "2 ACTIONS/_Focus.md",
-    "AIO2025 - Exchange Group Work Process.md",
-    "Các dự án tiềm năng có thể phối hợp trong Tương Lai.md",
-    "image/Pasted image 20241222201520.png",
-    "image/Pasted image 20241222201326.png",
-    "image/Pasted image 20241222200352.png",
-    "AIO 2024.md",
     "Imbalanced Data in Classification.md",
-    "image/Pasted image 20241222134510.png",
     "ML CheatSheet.md",
-    "AIO Team Research.md",
-    "image/462640955_1730302227816939_7532797446058194736_n.png",
-    "Anstler Palace.canvas",
+    "Bias-Variance Tradeoff and Model Performance.md",
+    "2 ACTIONS/_Focus.md",
+    "Internship Report Requirements.md",
     "AIO Research Survey.md",
+    "AIO Team Research.md",
+    "AIO 2024.md",
+    "AIO2025 - Exchange Group Work Process.md",
+    "image/Pasted image 20241226113118.png",
+    "image/Pasted image 20241226113051.png",
+    "image/Pasted image 20241226112820.png",
+    "image/Pasted image 20241226112800.png",
+    "image/Pasted image 20241226112650.png",
+    "image/Pasted image 20241226104840.png",
+    "image/Pasted image 20241226112619.png",
+    "image/Pasted image 20241226112553.png",
+    "Anstler Palace.canvas",
+    "image/Pasted image 20241226104559.png",
+    "image/Pasted image 20241226104537.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+    "Statistic and Probability for Machine Learning.md",
+    "ID Card OCR.md",
+    "PCB defects detection using YOLOv5.md",
+    "ID Card OCR Note.md",
+    "Các dự án tiềm năng có thể phối hợp trong Tương Lai.md",
     "Logarithm and Log-Likelihood Function.md",
     "AIO - Logistic Regression.md",
     "AIO Loss Functions for Classification.md",
@@ -224,17 +249,6 @@
     "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
     "Log Symmetric Property.md",
     "Shannon Entropy.md",
-    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
-    "Computer Vision.md",
-    "Logistic Regression.md",
-    "AIO - Logistic Regression HW.md",
-    "Lesson 1 - Introduction to Probability.md",
-    "Machine Learning Technique.md",
-    "image/Pasted image 20241220223438.png",
-    "image/Pasted image 20241220220053.png",
-    "image/Pasted image 20241220220039.png",
-    "image/Pasted image 20241220215742.png",
-    "image/Pasted image 20241220215653.png",
     "AIO - Basic LSTM",
     "Research.canvas",
     "ID Card Brain Storm.canvas",

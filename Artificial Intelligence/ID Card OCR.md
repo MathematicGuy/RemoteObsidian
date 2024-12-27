@@ -9,6 +9,7 @@
 Model: **YOLOv8 Nano**
 Deploy Model using Gradio (Interface for ML App, just like Steamlit for Python App)
 
+[[Internship Report Requirements]]
 [[ID Card OCR Note]] 
 
 ```python
