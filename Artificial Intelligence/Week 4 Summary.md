@@ -1,7 +1,6 @@
 ---
 ~
 ---
-# Determinants and Eigenvectors 
 
 ## Application to PCA
 ![[Pasted image 20240709121250.png]]
@@ -245,15 +244,286 @@ note: Xem lại nguồn gốc Eigenvectors
 	![[Pasted image 20240709160440.png]]
 
 More:
-https://ranasinghiitkgp.medium.com/principal-component-analysis-pca-with-code-on-mnist-dataset-da7de0d07c22
-	https://colah.github.io/posts/2014-10-Visualizing-MNIST/
++ https://ranasinghiitkgp.medium.com/principal-component-analysis-pca-with-code-on-mnist-dataset-da7de0d07c22
++ https://colah.github.io/posts/2014-10-Visualizing-MNIST/
++ https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix
++ https://www.kaggle.com/code/jonathankristanto/experimenting-with-pca-on-mnist-dataset
 
-https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix
+---
 
 
-https://www.kaggle.com/code/jonathankristanto/experimenting-with-pca-on-mnist-dataset
 
+Here’s the complete translation of the document into Vietnamese while preserving its original meaning:
+
+---
+
+# Các Khái Niệm Toán Học Quan Trọng Trong PCA
+
+## 1. Span (Không gian bao phủ)
+
+**Định nghĩa:**
+Span của một tập vector là tập hợp tất cả các tổ hợp tuyến tính có thể của các vector đó. Nó định nghĩa không gian được bao phủ bởi các vector.
+
+**Trong PCA:**
+Span của các thành phần chính (vector riêng) định nghĩa không gian mới với số chiều thấp hơn mà dữ liệu được chiếu tới.
+
+**Ví dụ:**
+Nếu các vector riêng là:
 $$
-(\frac{4x \cot x^2}{\cos^2 x^2})
+\mathbf{v}_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \mathbf{v}_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+$$
+thì span của chúng là toàn bộ mặt phẳng 2D trong không gian ban đầu.
+
+**Tại sao quan trọng?**
+Span giúp chúng ta hiểu không gian mà các thành phần chính bao phủ, điều này rất quan trọng trong giảm số chiều.
+
+## 2. Basis (Cơ sở)
+
+**Định nghĩa:**
+Cơ sở là một tập hợp tối thiểu các vector tuyến tính độc lập mà bao phủ toàn bộ không gian vector. Số lượng vector trong cơ sở là số chiều của không gian đó.
+
+**Trong PCA:**
+Các thành phần chính (vector riêng) tạo thành một cơ sở cho không gian mới với số chiều thấp hơn.
+
+**Ví dụ:**
+Nếu các vector riêng là:
+$$
+\mathbf{v}_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \mathbf{v}_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+$$
+chúng tạo thành cơ sở cho mặt phẳng 2D.
+
+**Tại sao quan trọng?**
+Các vector cơ sở cung cấp một hệ tọa độ mới cho không gian, cho phép biểu diễn dữ liệu duy nhất trong không gian đó.
+
+## 3. Determinants (Định thức)
+
+**Định nghĩa:**
+Định thức của một ma trận là một giá trị vô hướng, cung cấp thông tin về các đặc tính của ma trận như khả năng nghịch đảo và hệ số co giãn của phép biến đổi tuyến tính mà nó đại diện.
+
+**Trong PCA:**
+
+Định thức của ma trận hiệp phương sai liên quan đến thể tích phân bố dữ liệu.
+
+Định thức bằng 0 cho thấy dữ liệu nằm trong một không gian con có số chiều thấp hơn (ví dụ: một đường thẳng trong không gian 2D).
+
+**Ví dụ:**
+Với ma trận hiệp phương sai:
+$$
+C = \begin{bmatrix} 4 & 4 \\ 4 & 4 \end{bmatrix}
+$$
+Định thức là:
+$$
+\text{Det}(C) = 4 \times 4 - 4 \times 4 = 0
+$$
+Điều này chỉ ra rằng dữ liệu nằm trên một đường thẳng.
+
+**Tại sao quan trọng?**
+Định thức giúp chúng ta hiểu hình học của phân bố dữ liệu, điều này quan trọng trong việc xác định các đặc trưng dư thừa.
+
+## 4. Linear Independence (Độc lập tuyến tính)
+
+**Định nghĩa:**
+Một tập hợp các vector là độc lập tuyến tính nếu không vector nào trong tập hợp đó có thể được biểu diễn như một tổ hợp tuyến tính của các vector khác.
+
+**Trong PCA:**
+Các thành phần chính (vector riêng) là độc lập tuyến tính do tính chất của chúng.
+
+**Ví dụ:**
+Nếu các vector riêng là:
+$$
+\mathbf{v}_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \mathbf{v}_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+$$
+chúng là độc lập tuyến tính vì không vector nào là bội số của vector còn lại.
+
+**Tại sao quan trọng?**
+Độc lập tuyến tính đảm bảo rằng các thành phần chính không dư thừa và mô tả các hướng phương sai riêng biệt.
+
+## 5. Variance (Phương sai)
+
+**Định nghĩa:**
+Phương sai đo lường mức độ phân tán của các điểm dữ liệu quanh giá trị trung bình. Nó thể hiện sự biến thiên trong dữ liệu.
+
+**Công thức:**
+$$
+\text{Var}(X) = \frac{1}{n-1} \sum_{i=1}^n (x_i - \bar{x})^2
+$$
+Với:
+
+- ${x_i}$: Các điểm dữ liệu.
+- $\bar{x}$: Giá trị trung bình.
+- $n$: Số lượng điểm dữ liệu.
+
+**Ví dụ:**
+Dữ liệu: `[1, 3, 5]`.
+Trung bình: $\bar{x} = 3$.
+Phương sai:
+$$
+\text{Var}(X) = \frac{(1-3)^2 + (3-3)^2 + (5-3)^2}{2} = \frac{4 + 0 + 4}{2} = 4
 $$
 
+**Tại sao quan trọng?**
+Phương sai giúp hiểu mức độ biến thiên của dữ liệu, điều cần thiết để nhận diện các mẫu và mối quan hệ.
+
+## 6. Covariance (Hiệp phương sai)
+
+**Định nghĩa:**
+Hiệp phương sai đo lường mức độ thay đổi cùng nhau của hai biến và chỉ ra hướng của mối quan hệ tuyến tính giữa chúng.
+
+**Công thức:**
+$$
+\text{Cov}(X, Y) = \frac{1}{n-1} \sum_{i=1}^n (x_i - \bar{x})(y_i - \bar{y})
+$$
+Với:
+
+- $x_i, y_i$: Các điểm dữ liệu của biến $X$ và $Y$.
+- $\bar{x}, \bar{y}$: Giá trị trung bình của $X$ và $Y$.
+
+**Ví dụ:**
+$X = [1, 3, 5]$, $Y = [2, 4, 6]$.
+Trung bình: $\bar{x} = 3, \bar{y} = 4$.
+Hiệp phương sai:
+$$
+\text{Cov}(X, Y) = \frac{(1-3)(2-4) + (3-3)(4-4) + (5-3)(6-4)}{2} = 4
+$$
+
+**Tại sao quan trọng?**
+Hiệp phương sai giúp hiểu mối quan hệ giữa hai biến, rất cần thiết trong PCA.
+
+## 7. Covariance Matrix (Ma trận hiệp phương sai)
+
+**Định nghĩa:**
+Ma trận hiệp phương sai là ma trận vuông chứa phương sai và hiệp phương sai giữa tất cả các cặp đặc trưng trong tập dữ liệu.
+
+**Công thức:**
+$$
+C = \frac{1}{n-1} (X - \mu)^T (X - \mu)
+$$
+Với:
+
+- $X$: Ma trận dữ liệu đã được chuẩn hóa.
+- $\mu$: Vector trung bình.
+
+**Ví dụ:**
+Với $X = \begin{bmatrix} 1 & 2 \\ 3 & 4 \\ 5 & 6 \end{bmatrix}$, ma trận hiệp phương sai là:
+$$
+C = \begin{bmatrix}
+\text{Var}(X) & \text{Cov}(X, Y) \\
+\text{Cov}(Y, X) & \text{Var}(Y)
+\end{bmatrix} = \begin{bmatrix}
+4 & 4 \\
+4 & 4
+\end{bmatrix}
+$$
+
+**Tại sao quan trọng?**
+Ma trận hiệp phương sai được sử dụng trong PCA để xác định hướng của phương sai tối đa trong dữ liệu.
+
+## 8. Eigenvectors and Eigenvalues (Vector riêng và giá trị riêng)
+
+**Định nghĩa:**
+
+- **Vector riêng:** Vector không thay đổi hướng khi áp dụng một phép biến đổi tuyến tính (chỉ bị co giãn).
+
+- **Giá trị riêng:** Giá trị vô hướng biểu thị hệ số co giãn của vector riêng.
+
+**Công thức:**
+$$
+C \mathbf{v} = \lambda \mathbf{v}
+$$
+Với:
+
+- $C$: Ma trận hiệp phương sai.
+- $\mathbf{v}$: Vector riêng.
+- $\lambda$: Giá trị riêng.
+
+**Ví dụ:**
+Với $C = \begin{bmatrix} 4 & 4 \\ 4 & 4 \end{bmatrix}$, giá trị riêng là $\lambda_1 = 8, \lambda_2 = 0$, và vector riêng là:
+$$
+\mathbf{v}_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \mathbf{v}_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+$$
+
+**Tại sao quan trọng?**
+Vector riêng định nghĩa các thành phần chính (hướng phương sai lớn nhất), và giá trị riêng cho biết mức độ quan trọng của chúng.
+
+## 9. Principal Component Analysis (PCA - Phân tích thành phần chính)
+
+**Mục tiêu:**
+Giảm số chiều của tập dữ liệu trong khi vẫn giữ được càng nhiều phương sai càng tốt.
+
+**Các bước:**
+
+1.  Chuẩn hóa dữ liệu: Trừ đi trung bình từ mỗi đặc trưng.
+2.  Tính ma trận hiệp phương sai: Đo lường mối quan hệ giữa các đặc trưng.
+3.  Tìm vector riêng và giá trị riêng: Xác định các thành phần chính.
+4.  Sắp xếp vector riêng: Dựa theo giá trị riêng giảm dần.
+5.  Chọn $k$ thành phần chính: Lựa chọn các thành phần quan trọng nhất.
+6.  Chiếu dữ liệu: Biến đổi dữ liệu sang không gian mới với số chiều thấp hơn.
+
+**Ví dụ:**
+Với tập dữ liệu $X = \begin{bmatrix} 1 & 2 \\ 3 & 4 \\ 5 & 6 \end{bmatrix}$:
+
+- Dữ liệu chuẩn hóa:
+$$
+X_{\text{centered}} = \begin{bmatrix} -2 & -2 \\ 0 & 0 \\ 2 & 2 \end{bmatrix}
+$$
+- Ma trận hiệp phương sai:
+$$
+C = \begin{bmatrix} 4 & 4 \\ 4 & 4 \end{bmatrix}
+$$
+- Vector riêng:
+$$
+\mathbf{v}_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \mathbf{v}_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+$$
+- Dữ liệu đã chuyển đổi:
+$$
+Z = \begin{bmatrix} -4 \\ 0 \\ 4 \end{bmatrix}
+$$
+
+**Tại sao quan trọng?**
+PCA được sử dụng để nén dữ liệu, giảm nhiễu, và trích xuất đặc trưng trong học máy.
+
+## 10. Projection (Phép chiếu)
+
+**Định nghĩa:**
+Phép chiếu ánh xạ các điểm dữ liệu lên không gian có số chiều thấp hơn được định nghĩa bởi các thành phần chính.
+
+**Công thức:**
+$$
+Z = X_{\text{centered}} W
+$$
+Với:
+
+- $Z$: Dữ liệu đã biến đổi.
+- $W$: Ma trận chiếu (gồm $k$ vector riêng hàng đầu).
+
+**Ví dụ:**
+Với $X_{\text{centered}} = \begin{bmatrix} -2 & -2 \\ 0 & 0 \\ 2 & 2 \end{bmatrix}$ và $W = \begin{bmatrix} 1 \\ 1 \end{bmatrix}$:
+$$
+Z = \begin{bmatrix} -4 \\ 0 \\ 4 \end{bmatrix}
+$$
+
+**Tại sao quan trọng?**
+Phép chiếu giảm số chiều trong khi vẫn giữ lại thông tin quan trọng nhất.
+
+## 11. Explained Variance (Phương sai giải thích)
+
+**Định nghĩa:**
+Phương sai giải thích đo lường lượng phương sai được giữ lại bởi mỗi thành phần chính.
+
+**Công thức:**
+$$
+\text{Explained Variance Ratio} = \frac{\lambda_i}{\sum_{j=1}^p \lambda_j}
+$$
+Với:
+
+- $\lambda_i$: Giá trị riêng của thành phần chính thứ $i$.
+- $p$: Tổng số thành phần.
+
+**Ví dụ:**
+Với $\lambda_1 = 8$ và $\lambda_2 = 0$:
+$$
+\text{Explained Variance Ratio} = \frac{8}{8+0} = 1
+$$
+
+**Tại sao quan trọng?**
+Phương sai giải thích giúp quyết định số lượng thành phần chính cần giữ lại.

@@ -52,11 +52,9 @@ Vector Transpose **(Turn ow to Column)**
 
 ![[Pasted image 20240311085630.png]]
 
-
 #### Distance Between Vector
 	![[Pasted image 20240313132925.png]]
 #### Magnitude of 2 Vectors
-
 
 ### Geometric Dot Product (Tích Vô )
 ![[Pasted image 20240311085747.png]]

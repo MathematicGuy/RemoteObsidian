@@ -90,9 +90,7 @@ Knowing the answer x=0.5671, is there a much easier way to approach this problem
 + If the function in a very steep part of the curve. The derivative will be large (i.e large right over run) so we would want to control how big a steep we take in that direction. To do that we simply multiply the function with $\alpha$ (as learning_rate). 
 	![[Pasted image 20240809054927.png]]
 	
-+ With $\alpha$, at steep slope, x can move modarate step without overshooting and move slower by default when approach the minimum (i.e. bc less rise over run).  Avoiding oscillations around it (giao động khiến phương trình khó hội tụ e.g. x văng trái, văn phải liên tục chứ ko tiến tới hội tụ)
-	
-	![[Pasted image 20240809054947.png]]
++ With $\alpha$, at steep slope, x can move modarate step without overshooting and move slower by default when approach the minimum (i.e. bc less rise over run).  Avoiding oscillations around it (giao động khiến phương trình khó hội tụ e.g. x văng trái, văn phải liên tục chứ ko tiến tới hội tụ)![[Pasted image 20240809054947.png]]
 
 
 [[Gradient Descent Example]]
@@ -200,7 +198,7 @@ Ideas for Gradient Descent
 	$(x_1, y_1)$ equal to
 	![[Pasted image 20240915144306.png]]
 
-### Method 2: Gradient Descent 
+### Method 2: Gradient Descent t
 + ? Note: Gradicent Descent -> have to use partial Derivative for each Variable Ex: x, y, z, etc..
 $(x_{0}, y_{0}) = (0.5, 0.6)$
 ![[Pasted image 20240915141116.png]]

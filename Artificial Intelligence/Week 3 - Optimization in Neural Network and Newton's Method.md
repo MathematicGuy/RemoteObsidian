@@ -139,7 +139,7 @@ and got $x_{k}, x_{k-1}$ as the first 2 points created the slope. Iterate on the
 ![[Pasted image 20241001102742.png]]
 
 So how Newton's Method can be use for optimization. 
-+ ? Gradient Decent found the minimum of a function, Newton's method only find the 0 of the function not the minimum (e.g. f(x) = 0). Well, to minimize g(x) we have to find zeros of $g'(x)$ so we just need to chose which zeros is the minimum. (cho ptr bằng 0 và chọn nghiệm bé nhất) 
++ ? Gradient Decent found the minimum of a function, Newton's method only find the 0 of the function not the minimum (e.g. f(x) = 0). Well, to minimize g(x) we have to find zeros of $g'(x)$ so we just need to chose which zeros is the minimum. **(cho ptr bằng 0 và chọn nghiệm bé nhất)** 
 + $ In other word, if I let F of X be the derivative of G of X, then by finding the zeros of F of X, I am minimizing G prime of X. And the derivative of F prime of X, is simply the derivative of G of X and the derivative of that.
 
 In NM, we first initiate $x_0$ as the starting point and update it. For Optimization, because by finding the derivative of $f(x_{k})$ also minimizing $g(x)'$. We replace F of X with G prime of X.
@@ -203,7 +203,7 @@ Note: Inconclusive (ko có kết luận) mean we don't know it maximum or minimu
 
 ## The Hessian (Matrix)
 + $ Example above was just 1 variable, for multiple variables, the **second derivative is a Matrix full of second derivatives called the Hessian**.
-
+(Jacobian for Partial Derivative and Hessian for 2nd Derivative Matrix)
 ![[Pasted image 20241001142935.png]]
 
 Explain from the top down, we got the rate of change of $f_{x x}$ (this is just $f'(f'(x))$ 
@@ -218,9 +218,9 @@ Explain from the top down, we got the rate of change of $f_{x x}$ (this is just 
 note: $f_{x x}$ just mean derivative 2 times. 
 ![[Pasted image 20241001143534.png]]
 
-took the derivative in respect of x and y.
+Took the derivative in respect of x and y.
 ![[Pasted image 20241001143630.png]]
-another example:
+Another example:
 ![[Pasted image 20241001143745.png]]
 **Notation**
 > **Hessian matrix is a matrix that keep track of all the 2nd Derivatives of a function.**
@@ -228,7 +228,6 @@ another example:
 ![[Pasted image 20241001144237.png]]
 + ? Bonus Fact: **By analyzing the Hessian matrix**, we **can determine whether a point is a minimum, maximum, or a saddle point**
 ![[Pasted image 20241001144722.png]]
-
 
 ### Hessians and concavity
 Example:
@@ -251,11 +250,11 @@ Example:
 > Learn how to apply Newton's method to optimize functions of many variables. And as you guessed it, the Hessian appears here.
 
 + 1 var: the func and it re-write version.
-+ 2 vars or n vars: hessian matrix version (newton's method in matrix version)
++ 2 vars or n vars: hessian matrix version (**newton's method in matrix version**)
 ![[Pasted image 20241001145924.png]]
 + ? **Notation:** 
 	+ $\nabla f$: the gradient (as the 1st derivative with respect of x and y)
-	+ $H^{-1}$:  The hassien matrix (as the 2nd derivative with respect of x and y)
+	+ $H^{-1}$:  The Hessian matrix (as the 2nd derivative with respect of x and y)
 + ! remember, you cannot multiply 2 by 1 vector to the left of the matrix. (i.e. Multiply $\nabla f$ with $H^{-1}$). The oder is crucial !!!
 	![[Pasted image 20241001150146.png]]
 + the 2 vars fomula is quite comflex so now we not prove it yet. Accept it as it is for now.

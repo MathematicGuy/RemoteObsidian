@@ -24,35 +24,38 @@
             }
           },
           {
-            "id": "5378aa1c0b03c7d4",
+            "id": "3f5835218032dbaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Internship Report Requirements.md",
-                "mode": "source",
-                "source": false
+                "file": "Anstler Palace.canvas",
+                "viewState": {
+                  "x": -1179.2123347891297,
+                  "y": 5257.83935599616,
+                  "zoom": -0.549356331071419
+                }
               },
-              "icon": "lucide-file",
-              "title": "Internship Report Requirements"
+              "icon": "lucide-layout-dashboard",
+              "title": "Anstler Palace"
             }
           },
           {
-            "id": "60dfb34cbd9b8864",
+            "id": "c594727631bcbb98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML CheatSheet.md",
+                "file": "Bias-Variance Tradeoff and Model Performance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML CheatSheet"
+              "title": "Bias-Variance Tradeoff and Model Performance"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,45 +213,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "60dfb34cbd9b8864",
+  "active": "3f5835218032dbaa",
   "lastOpenFiles": [
-    "Imbalanced Data in Classification.md",
-    "ML CheatSheet.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
     "2 ACTIONS/_Focus.md",
-    "Internship Report Requirements.md",
-    "AIO Research Survey.md",
-    "AIO Team Research.md",
+    "Bias-Variance Tradeoff and Model Performance.md",
+    "Anstler Palace.canvas",
+    "ML CheatSheet.md",
+    "Imbalanced Data in Classification.md",
+    "ID Card OCR Note.md",
     "AIO 2024.md",
-    "AIO2025 - Exchange Group Work Process.md",
+    "AIO Loss Functions for Classification.md",
+    "AIO Metrics for Regression (from metrics to loss functions).md",
+    "Introduction to Computer Vision.md",
+    "OpenCV Code.md",
+    "OpenCV.md",
+    "AIO - Advance CNN.md",
+    "TensorFlow CNN.md",
+    "Week 1 - Foundations of Convolutional Neural Networks.md",
+    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
+    "Course 4 - Convolutional Neural Network.md",
+    "Course 1 Deep Learning.md",
+    "Week 4 Deep L-Layer NN.md",
+    "Week 3 Shallow Neural Network.md",
+    "Internship Report Requirements.md",
+    "AIO4 - Summary.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",
+    "Lesson 2 - Probability Distributions.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "image/Pasted image 20241229153423.png",
+    "image/Pasted image 20241227124425.png",
+    "image/Pasted image 20241227114117.png",
+    "image/Mutliclass-Classification-vs-multilabel-classification-(1).png",
     "image/Pasted image 20241226113118.png",
     "image/Pasted image 20241226113051.png",
     "image/Pasted image 20241226112820.png",
     "image/Pasted image 20241226112800.png",
     "image/Pasted image 20241226112650.png",
     "image/Pasted image 20241226104840.png",
-    "image/Pasted image 20241226112619.png",
-    "image/Pasted image 20241226112553.png",
-    "Anstler Palace.canvas",
-    "image/Pasted image 20241226104559.png",
-    "image/Pasted image 20241226104537.png",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "Statistic and Probability for Machine Learning.md",
-    "ID Card OCR.md",
-    "PCB defects detection using YOLOv5.md",
-    "ID Card OCR Note.md",
-    "Các dự án tiềm năng có thể phối hợp trong Tương Lai.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "AIO - Logistic Regression.md",
-    "AIO Loss Functions for Classification.md",
-    "AIO - CNN.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Log Symmetric Property.md",
-    "Shannon Entropy.md",
     "AIO - Basic LSTM",
     "Research.canvas",
     "ID Card Brain Storm.canvas",

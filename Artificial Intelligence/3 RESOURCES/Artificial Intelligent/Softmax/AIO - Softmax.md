@@ -18,7 +18,6 @@ note:
 **Goal:** classifiying multiple class using Cross-Entropy loss. 
 	$\arg \max_{\theta}(L(\theta))$ $\to \arg \max_{\theta}$ symbol basically mean find $\theta$ so that $L(\theta)$ is maximize.
 
-
 **Given:** 
 A data set with $\mathbb{N}$ independent samples
 Each sample $x^{(i)}$ has a **true class label** $y^{(i)}$ which can be one of $k$ possible classes (e.g. class 1, 2, 3, 4, etc...)
@@ -42,7 +41,7 @@ Say for 4 label y = { 1, 2, 3, 4 }.
 >= $a_{1}^{y_1^{(i)}}.a_{1}^{y_2^{(i)}}.a_{1}^{y_3^{(i)}}.a_{1}^{y_4^{(i)}}$ 
 >Because , there is ony 1 true label Y in each sample X. So if $P(Y=1|X)$ is true, then all others probability are False: 
 >= $a_{1}^1.a_{2}^0.a_{3}^{0}.a_{4}^{0}$ 
->= $a_{1}$. 
+>= $a_{1}$. c
 + $ **Simplify Equation using product sign** $P(Y|X) = \prod^{c}_{k=1}P(y=c|x)$ 
 	this represent prob of Y to happened given sample X.
 
@@ -94,7 +93,6 @@ where:
 + $\log(\hat{Y})$ applies the logarithm element-wise to each entry in $\hat{Y}$.
 + [[trace]]: $trace(A)$ is the **sum of the elements along the main diagnol** (from top left to bottom right) **of matrix (A).** Say after matrix multiplication, $Y^T\log(\hat{Y})$ become matrix A. 
 	+ ? **Each element along the diagonal** of the matrix $Y^T \log(\hat{Y})$ **corresponds to the loss for each individual sample in the dataset**, based on the true class and predicted probability for that class. Using the **trace function effectively sums these diagonal elements, giving the total loss across all samples**. By **dividing by $N$ (the number of samples), we obtain the average loss across the dataset.**
-
 
 This approach is efficient because it leverages matrix operations to compute the sum of losses, making it ideal for handling large datasets in a vectorized form.
 

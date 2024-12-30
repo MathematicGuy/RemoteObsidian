@@ -50,7 +50,6 @@ Trong phân phối xác suất, ta chuyển $\frac{1}{n}$  sang $P(x)$
 ![[Pasted image 20241121144250.png]]
 
 
-
 ## Binary Classification Loss
 Nếu hằng số ko phải $\theta$ sẽ bỏ, chỉ quan tâm đến tham số giúp đạt tới giá trị cực tiểu.
 ![[Pasted image 20241114211933.png]]
@@ -170,11 +169,18 @@ $$ysmooth=[0.9,0.05,0.05]$$
 	
 	In models prone to overconfidence, such as deep neural networks.
 
-## Multi-label Classification Loss
+
+## Multi-label Classification Loss (Re-Note)
++ ? **Classes:** Total Possible Outcome of 1 Detection (Possible Answer) 
++ ? **Labels:** Actual Outcome classified by human (True Answer)
++ $ Model goes through all *Possible Answer* to output *True Answer/Answers*
++ Multiclass classified 1 Class out of all Class. Where probability distribution over all classes.
++ Multilabel label (Multi True Answers or Multi Multi-Class) - Where each class have its own probability distribution over all possible classes.
+	![[Pasted image 20241227124425.png]]
 ![[Pasted image 20241122095321.png]]
 Multi-Class: 1 lable, many class 
-Multi-Lable: Many label, many class 
-Sigmoid + BCE use for Multi-Lable problems.
+Multi-Lable: Many label, many class (Với mỗi Class, tính XS Class có thể xảy ra trên mọi XS có thể xảy ra. e.g. $\frac{a}{a + b+ c + d}$,  $\frac{b}{a + b+ c + d}$ and so on)
+Sigmoid + BCE use for Multilabel problems.
 
 ### Pairwise Ranking Loss
 >Suitable for tasks where the order between labels is meaningful, such as recommendation systems or multi-label ranking by relevance.
@@ -192,3 +198,4 @@ Sigmoid + BCE use for Multi-Lable problems.
 Thường dùng trong Autoencoder (Probabilistic Autoencoder) 
 ![[Pasted image 20241122101055.png]]
 ![[Pasted image 20241122101148.png]]
+![[Pasted image 20241227114117.png]]

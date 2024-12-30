@@ -7,7 +7,6 @@ Loss Function using: Linear, SVM, Decision Tree
 + ? note: we cannot calc accuracy for regression model. Dùng nhiều loại kiểm tra lỗi khác nhau để kiểm tra độ chính xác:
 *buổi sau nói hiệu quả/suất của các giải thuật loss*
 
-
 # Scale-Dependent Errors
 + @ Dependent on the scale of the series (??scale of the series)
 
@@ -45,7 +44,8 @@ $$ME = \frac{1}{n}\sum^{n}_{i=1} (y_{i} -\hat{y_{i}})$$
 note: If not remove outlier, model can be overfitting. (go across all point, even the outlier)
 + $ Doesnt reflect the actual value when there're outliers.
 
-## Mean Square Error (MSE)
+## Mean Square
+e Error (MSE)
  ![[Pasted image 20241121094140.png]]
 - @ **Intuitive Definition:** Averages the square of each error, penalizing larger errors more heavily.
 - ? **Example Intuition:** MSE = 25 means the average squared error is 25, emphasizing that big errors are significant.

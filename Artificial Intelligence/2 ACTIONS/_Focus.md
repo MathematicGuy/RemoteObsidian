@@ -15,7 +15,7 @@ note luyện code phần:
 + Data Splitting
 + Normalization
 + Download Data -> Pre-Processing -> Code LeNet Model -> Train & Evaluation Function -> Train & Evaluate Model  -> Evaluate on Test Dataset -> Inititate Apps   
-	
+
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]

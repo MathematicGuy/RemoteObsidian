@@ -1,7 +1,6 @@
 **OBJECTIVE**
 ![[Pasted image 20241120200438.png]]
 
-
 **Experimental Result**
 ![[Pasted image 20241120201419.png]]
 **ReLU:** Loss giữ nguyên ở 10, ko học đc -> bước nhảy quá lớn. vì ReLU lấy a = 255 hoặc 0 nên giá trị sẽ rất lớn kể cả khi đạo hàm.

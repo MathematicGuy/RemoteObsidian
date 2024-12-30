@@ -2,7 +2,6 @@
 In this Note we will exploring how to **Applying Linear Regression and Gradient Descent** to **Predict Sales by TV Marketing Expenses**
 ```
 
-
 ### Understand the Data
 **Dataset:** data/tvmarketing.csv
 ```js

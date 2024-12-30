@@ -124,3 +124,11 @@ Machine learning model performance is a **measure of how well a model predicts t
 source and reference: 
 + [Machine Learning Models: Variance & Bias Impact](https://www.linkedin.com/pulse/machine-learning-models-variance-bias-impact-subbu-mahadevan/)
 + [Bias an Variance Tradeoff](https://www.geeksforgeeks.org/bias-vs-variance-in-machine-learning/)
+Subbu Mahadevan
+
+
+I want you to go into these functions code and Explain the method these functions used in detail, I want you to explain why do they used it? and the method results
+
+
+Bây giờ hãy giải thích lại tổng quan dự án và cải thiện phần giải thích ở preprocessing sử dụng thông tin bạn vừa giải thích
+

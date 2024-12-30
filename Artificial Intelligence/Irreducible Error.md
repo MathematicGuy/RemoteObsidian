@@ -1,10 +1,9 @@
-### **What is Irreducible Error in Machine Learning?**
-
+### What is Irreducible Error in Machine Learning ?
+(Lỗi không thể tránh)
 The **irreducible error** is the error that **cannot be reduced or eliminated**, even with the best possible model. This type of error arises due to the **intrinsic randomness or noise** in the data that no model can predict or capture.
 
----
 
-### **Sources of Irreducible Error:**
+### Sources of Irreducible Error:
 1. **Measurement Noise:**
    - Errors in how data is collected or measured.
    - Example: Sensor inaccuracies, rounding errors, or human error in labeling.

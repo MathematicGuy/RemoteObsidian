@@ -25,10 +25,9 @@ số trang đc đánh ở chính giữa
 
 ### Mục Lục
 
-### a) Phần mở đầu: Giới Thiệu
+### a) Phần mở đầu: Giới tThiệu
 ![[Pasted image 20241226112553.png]]
 ![[Pasted image 20241226112619.png]]
-
 
 ### b) Phần nội dung và kết quả
 >Gồm các chương, mỗi chương có tiểu kết

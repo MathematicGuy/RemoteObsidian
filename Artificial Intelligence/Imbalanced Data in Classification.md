@@ -25,7 +25,7 @@ $$\text{Recall (or TPR)} = \frac{\text{correctly classified actual positive}}{\t
 + ? False Negatives are actual Positive but classified as Negatives hence why they appear in the denominator, 
 + & **Recall** measure the fraction of *spam email* that were correctly *classifed as spam* which is why recall another name is **probability of detection.** (out of all that can be detect, how many of them you've detected)
 
-  
+
 **False Positive Rate (FPR):** Out of all true negative out there, how many of them has your model *classified incorrectly* as positive. (Trên tổng số đáp án sai bao nhiêu đáp án sai bạn phân loại là đúng) 
 $$\text{FPR} = \frac{\text{incorrectly classified actual negative}}{\text{all actual negative}}
 = \frac{FP}{TN+FP}$$
@@ -109,3 +109,6 @@ note: threshold start from left to right (low to high)
 
 
 ![[Conceptual-explanation-of-average-precision-AP-calculated-using-reference-and-predicted.png]]
+
+
+

@@ -7,17 +7,13 @@
 
 **Comunity**
 [Deeplearning.ai](https://community.deeplearning.ai/)
-
 [[Mathematic for Machine Learning - Assignment]]
 
 ---
 
-
 # [[Week 1 Matrix System]]
 
-
 # Week 2: 
-
 
 # [[Week 3 Vector and Linear Transformations]]
 Ending Assignment
@@ -30,6 +26,7 @@ Ending Assignment
 + [[Week 4 Graded Quizz]]
 + Programming Assignment: Eigenvalues and Eigenvectors
 + [[Week 4 Summary]]
+
 
 
 

@@ -55,8 +55,6 @@ note:
 $T$: target space 
 	consider element of T as state
 
-
-
 ### Bayes Theorem
 ![[Pasted image 20241004092204.png]]
 

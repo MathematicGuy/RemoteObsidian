@@ -896,3 +896,7 @@ wen whom
 	Für wen kaufst du die Geschenke
 
 The party is tomorrow. I shopping an important gift for your horse. Ich only going to the department store today
+
+Du holst sechzehn pizzas ab und ich hole zehn Kuchen ab, ist es genug für die Party - you bring sixteen pizza along and I bring ten cakes along, is it enough for the party.\
+
+I have a request, can you picking Ed up early? His friends are already hear and the party begin in fourty minute 

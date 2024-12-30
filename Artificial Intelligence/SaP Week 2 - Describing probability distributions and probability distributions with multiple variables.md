@@ -1,6 +1,7 @@
 # Lesson 1 - Describing Distributions
 **Skewness and Kurtosis:** độ lệnh và độ nhọn
 **Equilibrium point:** điểm cân bằng
+
 ## Expected Value: Discrete Case
 **Mean**: **average value of the whole sets (number)**. Rewrite the equation into probability out of 10 for age 0, 1, 2, 3 we got the fomular for Expected Value.
 ![[Pasted image 20241029142803.png]]

@@ -34,8 +34,10 @@ $w^{i}_{jk}$ where
 + $j$ is total node in layer $i$
 + k is node in layer before $i$: $i - 1$.
 (explain how the notation work with example)
+
 # PART III - Derivatives of Neural Networks and Gradient Descent
 ![[Pasted image 20241017160057.png]]
+
 ## 3.1 Motivation & Cost Function
 Explain from a single node -> leading explain to matrix multiplication.
 -> explain matrix (notation for row & column) -> example for a weight coordinate.

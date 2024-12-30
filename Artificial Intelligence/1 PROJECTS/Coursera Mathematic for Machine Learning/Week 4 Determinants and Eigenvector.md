@@ -17,7 +17,7 @@ $\overline{y}$
 ![[Pasted image 20240705162147.png]]
 
 > A group of vectors is said to be **linearly independent if none of the vectors in the group can be obtained as a linear combination of the others.** or in other word
-+ $ Ex: **A basis for a 3D vector space must consist of three linearly independent vectors. (n chiều thì n nghiệm**. vd: 3D -> 3 Nghiệm)
++ $ Ex: **A basis for a 3D vector space must consist of three linearly independent vectors. (n chiều thì n nghiệm**. VD: 3D -> 3 Nghiệm)
 
 + ? What if you added this other vector instead? In this case the **new vector in red is pointing in the same direction as the green one**. But it's simply **twice as long as the original vector.**
 + $ Since **one vector can be obtained as a linear combination of the others**, this set of vectors is called **linearly dependent**. Notice also that **even though we added a new vector to our set, the span of these vectors did not change, it remained a straight line**.
@@ -37,7 +37,7 @@ However this case the vectors are **not linearly independant**, this is because 
 The image is Singular. it not covering the whole plane on the right, just a portion of it (**singular: matrix -> a line, a point**)
 ![[Pasted image 20240420230556.png]]
 
-## example: what T(0,1)=(2,5) T(1,0)=(3,1) mean ?
+## Example: what T(0,1)=(2,5) T(1,0)=(3,1) mean ?
 $$
 \begin{bmatrix} 1 & 0\\ 2 & 3 \end{bmatrix} 
 \times
@@ -163,7 +163,6 @@ For the last line (red), we line the line up where all points projected to it sp
 #### PCA Goals: find the projection that preserves the maximum possible spread in your data, even as you reduce the dimensionality of your data set
 
 
-
 # Variance and Covariance
 ## Mean: average value out of total values
 ![[Pasted image 20240702215451.png]]
@@ -197,16 +196,13 @@ Problem: giá trị trên x và y giống nhau nhưng khi nhìn thì rõ ràng c
 
 ![[Pasted image 20240702220705.png]]
 
-
 > Reason for Neg and Pos Cov(X, Y) => -X * Y -> - Cov(X, Y) and the Same for Y]
 ![[Pasted image 20240702221416.png]]
 
 # Covariance Matrix  (Ma Trận Hiệp Phương Sai)
 ![[Pasted image 20240703114445.png]]
-
 ![[Pasted image 20240703114551.png]]
-
-**Remember how similar the covariance and variance formulas wer**e, it turns out that **the covariance of a variable with itself is actually just the variance** so you could rewrite your covariance matrix like this: (**Covariance** is just **Variance** with a **Co-Variance**. **Co** mean both x and y) 
+**Remember how similar the covariance and variance formulas were**, it turns out that **the covariance of a variable with itself is actually just the variance** so you could rewrite your covariance matrix like this: (**Covariance** is just **Variance** with a **Co-Variance**. **Co** mean both x and y) 
 ![[Pasted image 20240703114857.png]]
 >This truly is just a matrix of covariances between variables.  
 >Cov(x, x) mean distance between 2 point x and x itself.  
@@ -269,7 +265,6 @@ $$
 ![[Pasted image 20240703122547.png]]
 + $ Conclude: Any Covariance Matrix you calc will be Symmetric
 
-
 ![[Pasted image 20240703200007.png]]
 + ! Note: Use Numpy to check if your code are correct
 
@@ -289,10 +284,10 @@ note: Xem lại nguồn gốc Eigenvectors
 + Now we have projected all points onto the line. We have reduce the dimensionality from 2D to 1D (x, y to z for example)
 	![[Pasted image 20240703220700.png]]
 
+
   ### Step-by-Step to calc PCA
   From the data we can get the Covariance Matrix. 
-  Next, we have to sort the Eigenvalue/vectors from the Biggest to Smallest
-  ![[Pasted image 20240703220919.png]]
+  Next, we have to sort the Eigenvalue/vectors from the Biggest to Smallest ![[Pasted image 20240703220919.png]]
   + Say **you want to** reduce the dataset to 2 variable, lets take 2 Biggest variable and discard the rest:
 	  ![[Pasted image 20240703221030.png]]
 
@@ -328,7 +323,7 @@ To desmonstrate, given **5 variables**s with the **goal is reduce to 2 variables
 ![[Pasted image 20240704120728.png]]
 2) Center the data 
 	Trừ vị trí mọi điểm cho vị trí của Mean (vị trí/giá trị trung bình của các điểm)
-+ ? 	-> Thus, every points will be aligned to the Mean Line
++ ? Thus, every points will be aligned to the Mean Line
 
 ![[Pasted image 20240704121042.png]]
 + ? Relationship between everypoint to the Mean?
@@ -338,7 +333,7 @@ To desmonstrate, given **5 variables**s with the **goal is reduce to 2 variables
 + ? 5) Discard the rest and keep n variable (in this example we keep 2 variables). Create a Projection Matrix from n most important variables we keep.
 + @ 6) **Project the data onto the vectors you choose** by multiplying the center data by your projection matrix
 
-### **Tóm tắt bằng ví dụ trực quan:**
+### Tóm tắt bằng ví dụ trực quan:
 
 Hãy tưởng tượng bạn chụp ảnh một vật thể 3D (như quả bóng) và chuyển nó sang một bức ảnh 2D. Bức ảnh 2D giữ lại phần lớn thông tin về quả bóng, nhưng với ít dữ liệu hơn. PCA hoạt động tương tự bằng cách tìm các "góc nhìn" quan trọng nhất để biểu diễn dữ liệu trong không gian nhỏ hơn.
 
@@ -349,10 +344,10 @@ Say you want the predictions the following day, and so on repeat n day for n day
 ![[Pasted image 20240704165949.png]]
 That what you though right, however the prediction stay put at the 10 days and being the same at the 11 days.
 ![[Pasted image 20240704170104.png]]![[Pasted image 20240704170216.png]]
-
 Essentially the dot product is 1
 ![[Pasted image 20240704170252.png]]
 > This is the transition matrix
 > ![[Pasted image 20240704170339.png]]
 
 
+       

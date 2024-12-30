@@ -268,9 +268,3 @@ red = cv.merge([blank, blank, r])
 merged = cv.merge([b, g, r])
 ```
 
-
-```python
-
-```
-
-

@@ -7,8 +7,8 @@ Find the Optimized Point (Like the Elbow Point for K-Means)
 **Global Minimum:** the minimum slope of all slope (the 3rd point in the image)
 ![[Pasted image 20240724153121.png]]
 
-
 ## Optimization of squared loss - The one powerline problem 
+>Square Loss: Giúp tìm giá trị nhỏ nhất (vị trí) giữa điểm gốc/hiện tại và n điểm khác. (n là số điểm). Ví dụ: Vị trí tối ưu đến 2 vị trí khác.
 ![[Pasted image 20240719180818.png]]
 
 ![[Pasted image 20240719181039.png]]
@@ -37,6 +37,7 @@ or Left
 
 # Optimization of log-loss
 ## Optimization of log-loss Part 1
+>Log-Loss: Giúp tối ưu việc tính đạo hàm và chống giá trị hội tụ ở 0 trong tích đạo hàm.
 
 ![[Pasted image 20240724130751.png]]
 > What maximize the chace of achieving this: head 7, tail 3
@@ -58,7 +59,4 @@ Useful function in machine learning
 
 **More Reasons to use Logarithm**
 ![[Pasted image 20240724142347.png]]
-
-
-## Optimization using Gradient Descent in 2 variables - Part 1
 
