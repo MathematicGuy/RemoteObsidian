@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "113e6c41d60f3d51",
+            "id": "fcc9a71ae9442472",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "fcc9a71ae9442472",
+            "id": "c7d94b6b1075c5d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tổng Hợp LS Đảng.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tổng Hợp LS Đảng"
             }
           }
         ],
@@ -88,7 +93,7 @@
             }
           },
           {
-            "id": "3886d00f8b98aa7c",
+            "id": "5318181b1207ef8c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -237,11 +242,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fcc9a71ae9442472",
+  "active": "c7d94b6b1075c5d3",
   "lastOpenFiles": [
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "_Focus/Todo.md",
+    "3 RESOURCES/History & Politic/History & Politic.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German History.md",
@@ -256,7 +263,6 @@
     "Images/Pasted image 20241214063728.png",
     "Images/Pasted image 20241214063707.png",
     "Images/Pasted image 20241214063557.png",
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "3 RESOURCES/History & Politic/Politic.md",
     "German Song.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS/CSS Grid.md",
@@ -276,7 +282,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/Vocabulary.md",
     "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
     "3 RESOURCES/DataBase/SQL/DataBase.md",
-    "3 RESOURCES/DataBase/DB HomeWork/DB_HW7.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
