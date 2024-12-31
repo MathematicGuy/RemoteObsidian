@@ -4,7 +4,7 @@
 rảnh thì làm Warm Up 2025: 
 + [Week 2]([Link Bài Tập](https://forms.gle/jSCyrb8Rz5kJvsoF8))
 + [Week 3]([Link Bài Tập](https://forms.gle/33b9XQ6v4QGCHZXk8))
-
+note: Gửi nốt tài liệu lên folder thực tập.
 
 **Machine Learning**
 [[AIO 2024]]

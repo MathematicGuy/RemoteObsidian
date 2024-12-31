@@ -24,34 +24,13 @@
             }
           },
           {
-            "id": "3f5835218032dbaa",
+            "id": "77c1c2ffd4e9dc6f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Anstler Palace.canvas",
-                "viewState": {
-                  "x": -1179.2123347891297,
-                  "y": 5257.83935599616,
-                  "zoom": -0.549356331071419
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Anstler Palace"
-            }
-          },
-          {
-            "id": "c594727631bcbb98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bias-Variance Tradeoff and Model Performance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bias-Variance Tradeoff and Model Performance"
+              "title": "New tab"
             }
           }
         ],
@@ -213,11 +192,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3f5835218032dbaa",
+  "active": "77c1c2ffd4e9dc6f",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
     "Anstler Palace.canvas",
+    "Internship Report Requirements.md",
+    "Bias-Variance Tradeoff and Model Performance.md",
     "ML CheatSheet.md",
     "Imbalanced Data in Classification.md",
     "ID Card OCR Note.md",
@@ -235,7 +215,6 @@
     "Course 1 Deep Learning.md",
     "Week 4 Deep L-Layer NN.md",
     "Week 3 Shallow Neural Network.md",
-    "Internship Report Requirements.md",
     "AIO4 - Summary.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",

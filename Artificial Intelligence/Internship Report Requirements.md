@@ -3,6 +3,7 @@ font: Times New Roman (size 13-14, đen)
 dãn dòng 1.5 lines, lề trên 2.0 cm, lề dưới 2.0 cm, lề trái 3.0 cm, lề phải 2.0 cm
 số trang đc đánh ở chính giữa
 
+Ư
 **Quy mô Báo cáo thực tập Nghề Nghiệp**
 ![[Pasted image 20241226104537.png]]![[Pasted image 20241226104559.png]]
 
