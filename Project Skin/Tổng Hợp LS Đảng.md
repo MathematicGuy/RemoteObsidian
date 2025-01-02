@@ -7,6 +7,9 @@ giơ nơ vơ - 21
 nổi dậy mùa xuân 1975 - chiến dịch Tây nguyên
 CM tháng 8 - tình thế ngàn cân treo sợi tóc 
 Thực dân pháp xâm lược vn tr'c ww1 - 1858
+Đại hội 3 - tiền tuyến lớn là Miền Nam
+
+
 
 nổi dậy chống Tưởng - 
 CM tháng 10 thắng lợi - quốc tế Cộng Sản ra đời 3/19..
@@ -54,8 +57,12 @@ Anh, Phát xít Nhật, Pháp, Quân Tưởng (TQ)
 giặc đói, giặc dốt, giặc ngoại xâm
 
 ![[Pasted image 20241214063728.png]]
-ngày 18.2, thực dân pháp gửi Ultimatum (tối hậu thư)
-
+ngày 18.12.1946, thực dân pháp gửi Ultimatum (tối hậu thư)
++ Đòi chính phủ DCCH giải tán ll vũ trang
++ Đòi giao quyền kiểm soát an ninh ở HN
++ Đòi chiếm đóg sở tài chính và nhà viên giám đốc giao thông
++ Đòi phá hủy các công sự của ta
+-> Nếu ko chấp nhận, Pháp sẽ tiến hành xâm lược tiếp. 
 
 ![[Pasted image 20241214063805.png]]
 đại hội lần thứ 2 đổi tên đảng thành Đảng Lao động Việt Nam
@@ -233,7 +240,7 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
         
 - **1951:**
     
-    - **Tháng 2:** Đại hội lần thứ II của Đảng tại Việt Bắc.
+    - **Tháng 2:** **Đại hội lần thứ II của Đảng CS Đông Dương** tại Việt Bắc.
 	    (đc xem là **Đại hội kháng chiến thắng lợi**)
 	    - Đổi tên Đảng thành Đảng Lao động Việt Nam.
             
@@ -270,7 +277,8 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
     
     - **Tháng 9:** Đại hội lần thứ III của Đảng tại Hà Nội.
         
-        - Đề ra đường lối tiến hành đồng thời hai nhiệm vụ chiến lược: xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh giải phóng miền Nam.
+        - **Đề ra đường lối** tiến hành đồng thời hai nhiệm vụ chiến lược: **xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh giải phóng miền Nam.**
+        -> Mềm dẻo linh hoạt trog thực hiện lãnh đạo, chỉ đạo cách mạng. Đây cũng là điểm độc đáo nhất của CMVN thời kig 1954-1975, đảng lđ nd tiến hành đồng thời 2 chiến lc cm 2 miền Nam-Bắc.
             
         - Bầu Ban Chấp hành Trung ương mới, Hồ Chí Minh làm Chủ tịch Đảng, Lê Duẩn làm Bí thư thứ nhất.
             
@@ -510,6 +518,19 @@ Chủ chương trương kì kháng chiến vì tương quan lực lượng ban �
 9/1945 - 2/1946 là hòa tưởng đánh pháp
 sau 28/2/1946 là hòa pháp đuổi tưởng
 
+**8/9/1945** - Chủ tịch HCM kí sắc lệnh thành lập **Nha Bình dân học vụ**
+
+(1/1959) ta quyết định để nhân dân Miền Nam sử dụng bạo lực vì ta ko thể tiếp tục sử dụng biện pháp hòa bình được nữa. 
+
+**Lời Hịch cứu quốc** - **lời kêu gọi toàn quốc kháng chiến** 
+
+Đảng ta phát động cuộc kháng chiến toàn quốc chống thực dân pháp vì Nền độc lập chủ quyền nc ta bị đe dọa nghiêm trọng. 
+
+để bồi dưỡng ndan, nhà nc cải thiện ruộng đất
+
+
+
+
  12/1946 chính phủ kêu gọi toàn quốc kháng chiến vì ko thể tiếp tục nhân nhượng tr'c nx hành độg xâm lược của Pháp. 
 
 1947 quyết tâm bảo vệ căn cứ địa Việt Bắc vì nó là đầu não của ta. 
@@ -527,4 +548,20 @@ Thành công cuộc tổng tuyển cử bầu Quốc Hội 1946 ở VN chứng t
 Vì sao chọn Đông Khê là nơi mở đầu chiến dịch Biên giới thu đông năm 1950 vì đó là vị trí có thể đột phá, chia cắt tuyến phòng thủ của quân Pháp. 
 
 Cuối 74 Đầu 75 kế hoạch giải phsong miền Nam VN dựa trên sở cở ý chí quyết tâm thống nhất đất nước của nhân dân 2 miền. 
+
+ Phương pháp chiến lược chống Pháp, Mĩ (1945, 1975) có điểm chung là quân ta đều giữ vững tư tưởng tích cự tiến công 
+
+**Lời kêu gọi toàn quốc kháng chiến của HCM (19/12/1946)** - đã đáp ứng đòi hỏi khách quan của lịch sử và nguyên vọng của nd. 
+
+9/1953, BCTTWD đề ra chủ chương tập trung mở ll tiến công vào hướng quan trọg để chống Pháp thực hiện kế hoạch tập trung binh lực. -> đánh du kích để làm phát tán quân pháp và suy yếu chúng.
+
+"Chiến tranh đặc biệt" của miền nam đc xác định là kết hợp chặt chẽ giữa lực lượng chính trị và vũ trang.
+
+1945-1946, ta thực hiện chủ trương hòa hoãn vs Pháp và Tưởng dựa trên nguyên tắc giữ vững độc lập dân tộc. 
+
+(1945 - 1954). Đảng CSDD đề ra DLKC **tự lực cánh sinh** đã chứng tỏ **Độc lập dân tộc pải do chính mình dành và giữ l
+ấy**. 
+
+Khắc phục tình trạg khó khăn về tài chính sau CM tháng 8, cp thực hiện chủ trươg "quỹ độc lập"
+
 
