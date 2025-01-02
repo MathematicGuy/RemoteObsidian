@@ -205,8 +205,8 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
                 
 		+ **14-15/8/1945:** Hội nghị toàn quốc của Đảng CSĐD họp ở Tân Trào
 		+ **19/12/1945** lời kêu gọi toàn quốc kháng chiến 
+		
 **Chương II: Giai đoạn lãnh đạo kháng chiến chống thực dân Pháp (1945-1954)**
-
 - **1945-1946:**
     
     - Chính quyền cách mạng non trẻ đối mặt với muôn vàn khó khăn.
@@ -400,11 +400,15 @@ Hội phản đế đồng minh -> 18/11/1930
  3/2 họp tại Cảng Châu TQ, 24/2/30 ĐDCSĐ
 
 ## Chương 2: Đường lối đấu tranh giành chính quyền 
+
 **1936 - 1939** 
 hoàn cảnh ls:
 + thế giới: 29-33 khủng hoảng kt tgioi. mâu thuẫn vs chủ nghĩa tư bản trở nên gay gắt. Facist xuất hiện. 
 	3 vấn đề lớn: kẻ thù phát xít, nhiệm vụ giai cấp là dân chủ hòa bình, mặt trận là mặt trận thống nhất đế quốc, 
 + trong nước: bọn cầm quyền phản động ở Đôg Dương, ảnh hưởng từ khủng hoảng kinh tế tgioi. 
+
+Sau CM tháng 8, ko nước nào ủng hộ lập trg độc lập và địa vị của VN. Bắc thì 20 quân tưởng bao, vĩ tuyến 16 thì quân anh vào giải nhật nhưng thực chất là tiếp viện cho pháp trở lại xâm lược. 
+Kinh tế khó khăn, nạn đói 2tr ng chết. 95% dân mù chữ 
 
 HNTW 4 - chủ trương đtranh đòi quyền dân chủ, dân sinh
 	kẻ thì cách mạng: Phản động thuộc địa và bè lũ tay sai của chúng
@@ -453,6 +457,13 @@ Tình hình: Nạn đói và 2 triệu nhân dân chết đói. -> Phá kho thó
 
 **8/1945:** sự kiện việt nam ra đời đc cổ vũ mạnh mẽ ptrao đấu tranh giải phóng dân tộc của các nc thuộc địa làm cho các nc thuộc địa hết sức lo sợ + theo cộng sản -> Mỹ, Anh ủng hộ pháp quay lại xâm lược Đông Dương. 
 -> Do cm ta còn non trẻ, đây là "tình thế ngàn cân treo sợi tóc" 
+
+
+Giành chính quyền khó bao nhiêu, giữ chính quyền khó bấy nhiêu nên đảng đã **Tạm thời hòa hoãn vs Tưởng, tránh đối đầu vs 2 kth cùng 1 lúc**. 
+Mục đích: 
++ Buộc tưởng về nước
+
+**6/3/1946** chính phủ ta ký Hiệp ước sơ bộ hòa hoãn vs Pháp, thay 20 vạn quân tưởng ở bắc bằng quân Pháp -> Ban chấp hành TW ra chỉ thị "hòa để tiến" nhằm thống nhất tư tưởng của Đảng (**9/3/1946**)
 
 
 bài học kn:
