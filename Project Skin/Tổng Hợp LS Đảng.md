@@ -234,8 +234,8 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
 - **1951:**
     
     - **Tháng 2:** Đại hội lần thứ II của Đảng tại Việt Bắc.
-        
-        - Đổi tên Đảng thành Đảng Lao động Việt Nam.
+	    (đc xem là **Đại hội kháng chiến thắng lợi**)
+	    - Đổi tên Đảng thành Đảng Lao động Việt Nam.
             
         - Thông qua Cương lĩnh xây dựng đất nước.
             
@@ -249,7 +249,7 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
     
     - Đảng chỉ đạo thực hiện các chiến dịch lớn: Chiến dịch Biên Giới, Chiến dịch Hòa Bình,...
         
-    - **1954:** Chiến dịch Điện Biên Phủ:
+    - **7/5/1954:** Chiến dịch Điện Biên Phủ:
         
         - Thắng lợi vang dội, đánh bại hoàn toàn quân đội Pháp.
             
@@ -475,4 +475,56 @@ bài học kn:
 + xây dựng đảng mac lenin sáng tạo, phù hợp vs tình hình nước ta. 
 ### Trắc Nhiệm Chương 2
 "Ngàn Cân treo sợi tóc" - 8/1945 do VN giải phóng và bị nhiều nc lôi kéo tư tưởng nếu ko theo thì sẽ bị đánh, do chính quyền còn non trẻ nên ko thể đánh tất kẻ thù cùng 1 lúc. 
+
+nhiệm vụ CMVN sau 1954 là tiếp tục cuộc CM dân tộc dân chủ nhân dân, thực hiện thống nhất nước nhà. 
+
+văn kiện báo cáo chính trị của HCM đc thông qua tại Đại hội đb toàn quốc lần II (2/1951)
+
+ Chỉ chỉ "phá tan cuộc tk mùa đông của Pháp" ko thể hiện nd đg lối kháng chiến
+ 
+ Tây Nguyên đc bộ chính trị TW lựa chọn làm địa bàn tiến công chủ yếu năm 1975. 
+
+Quyết địh cơ bản HNBCHTW lần 15 (1/1959) là sử dụng bạo lực Cách mạng để đánh đổ chính quyền Mĩ - Diệm 
+
+Khẩu hiệu **"đánh cho Mĩ cút"** đc dân và quân ta thực hiện thông qua **Hiệp định Pari** về VN năm **1973**. 
+
+Thời cơ tới, ta có dk hoàn thành sớm quyết tâm giải phóng miền 1975 là nghị quyết bộ chính trị ngày **25/3/1975**.  
+-> Phương châm tác chiến quân ta trog chiến dịch HCM (4/1975) là "Thần tốc, táo bạo, bất ngờ, chiến thắng"
+
+ Biện pháp đối phó vs quân Trung Hoa Dân Quốc (THDQ) và phản CM ở Bắc là nhân nhượng cho chúng về Kinh tế và Chính Trị
+
+2 nv chiến lược của Đảng để giữ vững thành quả CM 1945 là củng cố, bảo vệ chính quyền cm và ra sức xd chế độ ms.
+
+Tổ chức chính trị ra đời từ **phtrao Đồng Khởi** là **mặt trận dân tộc giải phóng miền nam Việt Nam**.  
+
+đổi tên thành Đông Dương CS Đảng để tăng tình đoàn kết giữa 3 nc Đông Dương: Lào, Miên, Việt
+
+việc nhân nhương vs Trung Hoa Dân QUốc ở Bắc hạn chế mức chống phá của chúng đối vs đảng ta ở mức thấp nhất. 
+
+Hiệp ước Hoa - Pháp kí kết (28/2/1946) khiến đảng ta thay đổi chiến lược từ giảng hòa vs Tưởng để đuổi Pháp sang tạm hoãn vs Pháp để đuổi Tưởng. 
+
+chủ tịch HCM kêu gọi đồng bào thực hiện "Tuần Lễ Vàng" để giải tỏa khó khăn về tài chính. 
+
+Chủ chương trương kì kháng chiến vì tương quan lực lượng ban đầu ko có lợi cho ta. 
+
+9/1945 - 2/1946 là hòa tưởng đánh pháp
+sau 28/2/1946 là hòa pháp đuổi tưởng
+
+ 12/1946 chính phủ kêu gọi toàn quốc kháng chiến vì ko thể tiếp tục nhân nhượng tr'c nx hành độg xâm lược của Pháp. 
+
+1947 quyết tâm bảo vệ căn cứ địa Việt Bắc vì nó là đầu não của ta. 
+
+Quyền dân tộc cơ bản VN đc ghi nhận trong **Hiệp định Geneva 1954** về Đôg Dương là **Độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ.** 
+
+theo phân tích tình hình ĐBPhủ, TW Đảng quyết định biến ĐBP thàh điểm quyết chiến chiến lược giữa ta và Pháp. 
+
+Nguyên tắc qutrong nhất của Đảng kí vào **Hiệp định sở bộ 6/3/1946 và Geneve 21/7/1954** là **"Không Vi Phạm Chủ Quyền Dân Tộc"**
+
+Công cụ xây dựng và bảo vệ đất nc VNDCCH sau 1945 là 1 bộ máy chính quyền nhà nc dần đc hoàn thiện. 
+
+Thành công cuộc tổng tuyển cử bầu Quốc Hội 1946 ở VN chứng tỏ nhân dân có tinh thần đoàn kết và ý thức làm chủ đất nc. 
+
+Vì sao chọn Đông Khê là nơi mở đầu chiến dịch Biên giới thu đông năm 1950 vì đó là vị trí có thể đột phá, chia cắt tuyến phòng thủ của quân Pháp. 
+
+Cuối 74 Đầu 75 kế hoạch giải phsong miền Nam VN dựa trên sở cở ý chí quyết tâm thống nhất đất nước của nhân dân 2 miền. 
 
