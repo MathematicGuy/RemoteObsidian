@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "77c1c2ffd4e9dc6f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,16 +181,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77c1c2ffd4e9dc6f",
+  "active": "8e7947d1c085d23a",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
-    "Anstler Palace.canvas",
-    "Internship Report Requirements.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "ML CheatSheet.md",
     "Imbalanced Data in Classification.md",
-    "ID Card OCR Note.md",
+    "Internship Report Requirements.md",
+    "Gradient and Gradient Descent.md",
+    "Partial Derivative and Gradient HW.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Linear Regression Using Gradient Descent Exercise.md",
+    "Derivative and Optimization Test.md",
+    "Calculus_Optimization.md",
+    "Week 3 - Optimization in Neural Network and Newton's Method.md",
+    "2 ACTIONS/_Focus.md",
     "AIO 2024.md",
+    "ID Card OCR Note.md",
+    "ML CheatSheet.md",
+    "Lesson 2 - Probability Distributions.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "Lesson 1 - Introduction to Probability.md",
+    "Statistic and Probability for Machine Learning.md",
+    "Requirement.md",
+    "Anstler Palace.canvas",
+    "Bias-Variance Tradeoff and Model Performance.md",
     "AIO Loss Functions for Classification.md",
     "AIO Metrics for Regression (from metrics to loss functions).md",
     "Introduction to Computer Vision.md",
@@ -209,17 +210,6 @@
     "OpenCV.md",
     "AIO - Advance CNN.md",
     "TensorFlow CNN.md",
-    "Week 1 - Foundations of Convolutional Neural Networks.md",
-    "3 RESOURCES/CMC/CNN - Convolution Neural Network.md",
-    "Course 4 - Convolutional Neural Network.md",
-    "Course 1 Deep Learning.md",
-    "Week 4 Deep L-Layer NN.md",
-    "Week 3 Shallow Neural Network.md",
-    "AIO4 - Summary.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/Product of Multiple Independent Events.md",
-    "Lesson 2 - Probability Distributions.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
     "image/Pasted image 20241229153423.png",
     "image/Pasted image 20241227124425.png",
     "image/Pasted image 20241227114117.png",

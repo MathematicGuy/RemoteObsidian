@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d84b124c0a5cc6",
+        "id": "8b47935bcf8c5895",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc9a71ae9442472",
+            "id": "bce52e6486b2305b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,18 +25,13 @@
             }
           },
           {
-            "id": "c7d94b6b1075c5d3",
+            "id": "b9fdaebc2401cbae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tổng Hợp LS Đảng.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tổng Hợp LS Đảng"
+              "title": "New tab"
             }
           }
         ],
@@ -93,7 +88,7 @@
             }
           },
           {
-            "id": "5318181b1207ef8c",
+            "id": "9742d173824a1b35",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,17 +237,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c7d94b6b1075c5d3",
+  "active": "b9fdaebc2401cbae",
   "lastOpenFiles": [
-    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
+    "4 ARCHIVES/2024/WebProject2024/Science Research User Requirement.md",
+    "3 RESOURCES/Project Management/Requirement Specifications Terms.md",
     "_Focus/Todo.md",
+    "Tổng Hợp LS Đảng.md",
+    "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "3 RESOURCES/History & Politic/History & Politic.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
     "German History.md",
-    "Tổng Hợp LS Đảng.md",
     "Images/Pasted image 20241214064433.png",
     "Images/Pasted image 20241214064356.png",
     "Images/Pasted image 20241214064031.png",
@@ -280,8 +277,6 @@
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "GoalsThisWeek.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/Vocabulary.md",
-    "3 RESOURCES/Programming/Fundamental of Programming/ExamReview.md",
-    "3 RESOURCES/DataBase/SQL/DataBase.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
