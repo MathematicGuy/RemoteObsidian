@@ -14,20 +14,23 @@ CM tháng 10 thắng lợi - quốc tế Cộng Sản ra đời 3/19..
 nghị quyết giải phóng mièn nam - nghị quyết 
 
 **Thư gửi đồng bào toàn quốc sau Hội nghị TW lần 8**: "...chẳng những toàn thể quốc gia dân tộc còn chju mãi kiếp ngựa trâu, mà quyền lợi của bộ phận giai cấp đến vạn năm sau cũng không đòi được"
-Hội nghị BTWD xác định giải phóng d  ân tộc - 1941 
+Hội nghị BTWD xác định giải phóng dân tộc - 1941 -> nhấn mạnh giải phóng dân tộc là nv bức thiết nhất. 
 
 bài học kinh nghiệm cách mạng tháng 8 - phương pháp cách mạng 
 vấn đề nào đảng coi "thổ địa..." - luận cương tháng 10/1930
 phong trào Yên Thế - phong kiến 
-lời kêu gọi toàn quốc kháng chiến - 19/12/1945
+
 
 Đại hội VII quốc tế cộng sản (Giơ nơ va) - kẻ thù là phát xít (Nhật) vì ký hiệp định vs thực dân pháp rồi
 
+Chinh sách thống trị của thực dân pháp ảnh hưởng đến phân hóa giai cấp ở nc ta là Cho ra đời giai cấp ms Công Nhân và Tư Sản. 
 
-Kinh nghiệm quan trọng nhất của Đảng về lãnh đạo kháng chiênhs chống pháp, Mỹ - đề ra đường lối đúng đắn từ những ngày đầu
+Phong trào Đông Kinh Nghĩa Thục (Tonkin Free School) thuộc khuyên hướng ptrao yêu nc khuyên hướng dân chủ tư sản (dân chủ có tài sản)
+	ptrao nhằm cải cách xh VN đầu tk 20 thời pháp thuộc. 
+
+Kinh nghiệm quan trọng nhất của Đảng về lãnh đạo kháng chiến chống pháp, Mỹ - đề ra đường lối đúng đắn từ những ngày đầu
 
 Giải phóng miền nam tr'c mùa mưa đc nêu trong Nghị Quyết của bộ ngày 25/3/1975
-
 
 Giả phóng dân tộc 1941 - vì ký hiệp định giơ ne va
 
@@ -85,7 +88,6 @@ cương lĩnh xây dựng đất nước thời kỳ quá độ -> 1991
 đại hội lần thứ 5 của đảng khẳng định - cách mạng vn có 2 nv chiến lược xây dựng thành công CNXH và bảo vệ vững chắc tổ quốc vn XHCN
 
 ---
-
 # Intro
 Câu 4: Công tác xây dựng Đảng  là gì và nội dung công tác xây dựng Đảng gồm những vấn đề gì?
 nd công tác xd đảng: chính trị, tư tưởng, tổ chức và đạo đức.
@@ -94,11 +96,15 @@ nd công tác xd đảng: chính trị, tư tưởng, tổ chức và đạo đ�
 
 1919 - NAQ gửi bản yêu sách nhân dân An Nam lên hội nghị Vecxay
 
+1920 - NQA quyết định lựa chọn con đg giải phóng dân tộc theo khuyên hướng chính trị vô sản 
+-> Bác đọc bản "Sở Thảo Vđề dân tộc và thuộc địa" của Lenin tại Pháp (7/1920)
+
+
+WW1 (1914 - 1918) -> VN đã bị pháp xâm lược nên có 4 giai cấp địa chủ pk, nôg dân, tiểu tư sản và công nhân. 
+
 Vô sản hóa cuối năm 28, đầu năm 29
 Pháo đài khổng lồ ko thể công phá -> Điện Biên Phủ
 tác phẩm "Tự chỉ trích" - Văn Cừ phát hành 20/7/1939
-
-
 
 note: các phong trào nổi dậy tr'c 1930 đều là tự phát và ko triệt để.
 
@@ -109,25 +115,27 @@ mỹ áp dụng chiến tranh đặc biệt năm 1961 - 1965
 ---
 
 note: American president Roosevelt support Vietnam independent and send aid.   
+
+11/1929 - An Nam CS Đảng đc ra đời ở Khánh Hội Sài Gòn   
+
+
 **Chương I: Giai đoạn hình thành và lãnh đạo đấu tranh giành chính quyền (1930-1945)**
 
-- **1930:**
+- **1930:** giai đoạn hình thành đảng (chưa có đấu tranh thực sự, các cuộc nổi dậy chủ yếu ko có tổ chức và đơn lẻ)
     
-    - **3/2:** Hội nghị hợp nhất các tổ chức cộng sản tại Cửu Long (Hương Cảng), thành lập Đảng Cộng sản Việt Nam. Nguyễn Ái Quốc chủ trì.
+    - **3/2:** Hội nghị hợp nhất các tổ chức cộng sản tại Cửu Long (Hương Cảng), **thành lập Đảng Cộng sản Việt Nam. Nguyễn Ái Quốc chủ trì**. 7 Người tham dự gồm Trịnh Đình Cửu, Ng Đức Dảnh, Ng Thiệu, Châu Văn Liêm, Lê Hồng Sơn, Hồ Tùng Mậu and yes HCM.  
         
-        - Ý nghĩa: Đánh dấu sự ra đời của một chính đảng vô sản lãnh đạo cách mạng Việt Nam.
-            
+        - **Ý nghĩa**: Đánh dấu sự ra đời của một chính đảng vô sản lãnh đạo cách mạng Việt Nam.
+		    NAQ đã vận dụng chủ nghĩa maclenin kết hợp vs ptrao công nhân và ptrao yêu nước.  
+		-> đc **đánh giá** là "đc thực hiện = 1 con đg khác mà quốc tế cs ko lường tr'c đc"
+		
+	+ **24/02/1930** Đông Dương Cộng sản Liên đoàn gia nhập Đảng CS VN. (cũng là **tổ chức cộng sản đầu tiên**)
+		
 	- **Tháng 10:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng tại Hương Cảng.
-        
-        - Đổi tên Đảng thành Đảng Cộng sản Đông Dương.
-            
-		+ **24/02/1930** Đông Dương Cộng sản Liên đoàn gia nhập Đảng CS VN. (cũng là **tổ chức cộng sản đầu tiên**)
-			
-		- Thông qua Luận cương chính trị do Trần Phú soạn thảo.
-            
+		- Đổi tên Đảng thành Đảng Cộng sản Đông Dương.
+		- Thông qua **Luận cương chính trị do Trần Phú** soạn thảo.
         - Bầu Trần Phú làm Tổng Bí thư.
-            
-    - **Phong trào cách mạng 1930-1931**:
+    - **Phong trào  cách mạng 1930-1931**:
         
         - Bùng nổ các cuộc biểu tình, bãi công của công nhân, nông dân.
             
@@ -156,11 +164,13 @@ note: American president Roosevelt support Vietnam independent and send aid.
     - Đảng lãnh đạo phong trào đấu tranh đòi dân sinh, dân chủ.
         
         - Thành lập Mặt trận Dân chủ Đông Dương.
-            
+		    -> là cơ sở để Đảng ra hình thức đấu tranh (vì phải có Đảng điều phối ms đấu tranh toàn quốc đc) 
         - Vận động quần chúng tham gia các hoạt động chính trị, văn hóa, xã hội.
             
         - Ý nghĩa: Mở rộng ảnh hưởng của Đảng, tập hợp lực lượng quần chúng.
             
+        Mặt trận nhân dân Pháp ra các chính sách cho pehsp lập Hội ái hữu, trả tự do cho 1 số tù nhân chính trị, cho phép xuất bản báo chí 
+    
 - **1939-1945:**
     
     - Thế giới và Việt Nam chịu ảnh hưởng của Chiến tranh Thế giới thứ hai.
@@ -172,11 +182,12 @@ note: American president Roosevelt support Vietnam independent and send aid.
         - Thành lập Mặt trận Việt Minh (1941)
         - Ban Chấp hành Trung ương Đảng 5/1941 họp ở Cao Bằng do HCM chủ trì.
             
+        + **1943:** Đảng xây dựng đề cương văn hóa   
         - Xây dựng lực lượng vũ trang cách mạng.
 		+ **22/12/1944** NÁQ ra chỉ thị thành lập đội VN tuyên truyền giải phóng quân.
 			
         - Chuẩn bị cho Tổng khởi nghĩa.
-            
+	        
     - **1945:**
         
         - **8/1945:** Tổng khởi nghĩa Tháng Tám thành công.
@@ -187,7 +198,8 @@ note: American president Roosevelt support Vietnam independent and send aid.
                 
             - Ý nghĩa: Mở ra kỷ nguyên độc lập, tự do cho dân tộc Việt Nam.
                 
-
+		+ **14-15/8/1945:** Hội nghị toàn quốc của Đảng CSĐD họp ở Tân Trào
+		+ **19/12/1945** lời kêu gọi toàn quốc kháng chiến 
 **Chương II: Giai đoạn lãnh đạo kháng chiến chống thực dân Pháp (1945-1954)**
 
 - **1945-1946:**
@@ -328,4 +340,36 @@ note: American president Roosevelt support Vietnam independent and send aid.
             
         - **Đại hội XII (2016):** Đẩy mạnh xây dựng Đảng trong sạch, vững mạnh.
             
-        - **Đại hội XIII (2021):** Đề ra các mục tiêu, nhiệm vụ phát triển đất nước trong giai đoạn mới, tầm nhìn đến năm 2045.
+        - **Đại hội XIII (2021):** Đề ra các mục tiêu, nhiệm vụ phát triển đất nước trong giai đoạn mới, tầm nhìn đến năm 2045.44
+
+---
+
+**Khẩu hiệu:** "đả đảo cn đế quốc/phong kiến", thả tù nhân chính trị thể hiện đầy đủ các mục tiêu đấu tranh của CMVN
+
+Nét nổi bật của cuộc vận độg 1936-39 là đảng tập hợp đc 1 lực lg chính trị đôg đảo của quân chúg và sử dụng hình thức, pp đấu tranh phog phú. 
+
+"cuộc cm giải phóng dtoc ko nhất định pải kết hợp chặt chẽ vs cm điền địa" (36 - 39) (điền địa nghĩa là chia ruộng đất, đây là 1 trong những sai lầm mà 1 số ng hiểu nhầm về bác hồ và nói bác quên mất việc đấu tranh giai cấp)
+-> Quay trở lại tư tưởng cốt lõi của Cương lĩnh chính trị đầu năm 1930 
+
+Khai thác thuộc địa 1st của thực dân Pháp (1897 - 1914) (cuối thế kỉ 18, đầu thế kỉ 19)
+
+ban **lãnh đạo đảng ở nước ngoài** do Lê Hồng Phong đứng đầu
+
+Cao trào Kháng Nhật cứu nc diễn ra chủ yếu ở hình thức Chiến tranh du kích cục bộ (vì ko thể đánh ở mặt chính trị)
+
+ 8/1945 KO QUYẾT ĐỊNH các nd bài giảng của NAQ được xuất bản thành cuốn sách nào  
+
+vua Hàm Nghi (bị đày sang Angeria vì ko khuất phục tr'c pháp và sốg ở đó đến chết) -> ptrao yêu nc theo khuyên hg phong kiến. (ôg này tr'c cả vua bảo đại)
+
+"...Đảng Lao độgn VN là đảng của giai cấp CN và Nhân dân lao động" -> Báo cáo chính trị tại đại hội đại biểu lần thứ II (1951) 
+
+Sự kiện đánh dấu bc ngoặt trog cuộc đời hoạt độg của NÁQ là bỏ phiếu tán thành việc gia nhập và sáng lập đảng Quốc tế cs Pháp. (Lý do ko phải khi bác đọc luận cương của Lenin vì nó chỉ cho bác thấy và hiểu đc ý tưởng nhưng chưa thể thực hiện đc, đảng CS Pháp chính là đòn bẩy đưa ý tưởng cứu nc của bác thành hiện thực e.g. giải cứu bác trog gang tấc ở Hong Kong, Bài báo Ng cùng khổ, Bảo vệ bác sau hội nghị Vecxay, etc...)
+
+3 cuộc khởi nghĩa Bắc, Trung, Nam kì để lại bài học kn lớn về thời cơ trong khởi nghĩa giành chính quyền -> đc áp dụng khi Nhật thua trận, VN đã ngay lập tức tuyên bố độc lập.
+
+Hoạt động nào **chuẩn bị trực tiếp đk về chtri và tư tưởng** cho viẹc **thành lập DCSVN**  
+-> **Tập bài giảng "Đường Kách Mệnh"** của NÁQ ở lớp huấn luyện chính trị đã đề cập đến nx vd cơ bản của 1 cương lĩnh ctri cho DCSVN hiện tay. 
+
+"như chim én nhỏ báo hiệu mùa xuân" -> vụ mưu sát Méc Lanh của Phạm Hồng Thái. Vì sao? Vì nó tạo sự quan tâm cho cả thế giới về tội ác của Pháp ở VN để Phan Châu Trinh (ở TQ) tận dụng ủng hộ của thế giới để đấu tranh 
+
+mặt trận thống nhất ở VN (1930-1945) có nền tảg của mtrajn 
