@@ -1,4 +1,5 @@
-kháng chiến kiến quốc - quân nhật
+**Chương 1:**
+Kháng chiến kiến quốc - quân nhật
 nhà yêu nước tiểu biểu tk19-20 : phan châu trinh
 tổng bí thư - lê hồng phong 
 
@@ -11,7 +12,10 @@ nổi dậy chống Tưởng -
 CM tháng 10 thắng lợi - quốc tế Cộng Sản ra đời 3/19..
 1945 - bác hồ làm chủ tịch
 nghị quyết giải phóng mièn nam - nghị quyết 
-Hội nghị BTWD xác định giải phóng dân tộc - 1941 
+
+**Thư gửi đồng bào toàn quốc sau Hội nghị TW lần 8**: "...chẳng những toàn thể quốc gia dân tộc còn chju mãi kiếp ngựa trâu, mà quyền lợi của bộ phận giai cấp đến vạn năm sau cũng không đòi được"
+Hội nghị BTWD xác định giải phóng d  ân tộc - 1941 
+
 bài học kinh nghiệm cách mạng tháng 8 - phương pháp cách mạng 
 vấn đề nào đảng coi "thổ địa..." - luận cương tháng 10/1930
 phong trào Yên Thế - phong kiến 
@@ -120,6 +124,7 @@ mỹ áp dụng chiến tranh đặc biệt năm 1961 - 1965
 
 ---
 
+note: American president Roosevelt support Vietnam independent and send aid.   
 **Chương I: Giai đoạn hình thành và lãnh đạo đấu tranh giành chính quyền (1930-1945)**
 
 - **1930:**
@@ -128,19 +133,21 @@ mỹ áp dụng chiến tranh đặc biệt năm 1961 - 1965
         
         - Ý nghĩa: Đánh dấu sự ra đời của một chính đảng vô sản lãnh đạo cách mạng Việt Nam.
             
-    - **Tháng 10:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng tại Hương Cảng.
+	- **Tháng 10:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng tại Hương Cảng.
         
         - Đổi tên Đảng thành Đảng Cộng sản Đông Dương.
             
-        - Thông qua Luận cương chính trị do Trần Phú soạn thảo.
+		+ **24/02/1930** Đông Dương Cộng sản Liên đoàn gia nhập Đảng CS VN. (cũng là **tổ chức cộng sản đầu tiên**)
+			
+		- Thông qua Luận cương chính trị do Trần Phú soạn thảo.
             
         - Bầu Trần Phú làm Tổng Bí thư.
             
-    - Phong trào cách mạng 1930-1931:
+    - **Phong trào cách mạng 1930-1931**:
         
         - Bùng nổ các cuộc biểu tình, bãi công của công nhân, nông dân.
             
-        - Hình thành Xô Viết Nghệ Tĩnh - chính quyền sơ khai của nhân dân lao động.
+        - Hình thành **Xô Viết Nghệ Tĩnh** - chính quyền sơ khai của nhân dân lao động.
             
         - Ý nghĩa: Thể hiện tinh thần đấu tranh cách mạng mạnh mẽ của quần chúng dưới sự lãnh đạo của Đảng.
             
@@ -179,9 +186,11 @@ mỹ áp dụng chiến tranh đặc biệt năm 1961 - 1965
         - Đặt nhiệm vụ giải phóng dân tộc lên hàng đầu.
             
         - Thành lập Mặt trận Việt Minh (1941)
+        - Ban Chấp hành Trung ương Đảng 5/1941 họp ở Cao Bằng do HCM chủ trì.
             
         - Xây dựng lực lượng vũ trang cách mạng.
-            
+		+ **22/12/1944** NÁQ ra chỉ thị thành lập đội VN tuyên truyền giải phóng quân.
+			
         - Chuẩn bị cho Tổng khởi nghĩa.
             
     - **1945:**
