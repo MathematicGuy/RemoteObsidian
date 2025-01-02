@@ -105,8 +105,9 @@ nd công tác xd đảng: chính trị, tư tưởng, tổ chức và đạo đ�
 1919 - NAQ gửi bản yêu sách nhân dân An Nam lên hội nghị Vecxay
 
 1920 - NQA quyết định lựa chọn con đg giải phóng dân tộc theo khuyên hướng chính trị vô sản 
--> Bác đọc bản "Sở Thảo Vđề dân tộc và thuộc địa" của Lenin tại Pháp (7/1920) và quyết định theo khuyên hướng vô sản để giải phóng dân tộc 
+-> Bác đọc bản "Sơ Thảo Vđề dân tộc và thuộc địa" của Lenin tại Pháp (7/1920) và quyết định theo khuyên hướng vô sản để giải phóng dân tộc 
 
+Bản hiệp ước cuối cùng nhà Nguyễn kí vs thực dân Pháp biến VN chính thức trở thành thuộc địa nửa phong kiến là Pa tở nốt
 
 WW1 (1914 - 1918) -> VN đã bị pháp xâm lược nên có 4 giai cấp địa chủ pk, nôg dân, tiểu tư sản và công nhân. 
 
@@ -141,7 +142,7 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
 		    NAQ đã vận dụng chủ nghĩa maclenin kết hợp vs ptrao công nhân và ptrao yêu nước.  
 		-> đc **đánh giá** là "đc thực hiện = 1 con đg khác mà quốc tế cs ko lường tr'c đc"
 		
-	+ **24/02/1930** Đông Dương Cộng sản Liên đoàn gia nhập Đảng CS VN. (**tổ chức cộng sản đầu tiên**) 
+	+ **24/02/1930** Đông Dương Cộng sản Liên đoàn gia  nhập Đảng CS VN. (**tổ chức cộng sản đầu tiên**) 
 		
 	- **Tháng 10:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng tại Hương Cảng.
 		- Đổi tên Đảng thành Đảng Cộng sản Đông Dương. (**Lê Hồng Phong làm Tổng bí thư**)
@@ -255,7 +256,7 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
 - **1951-1954:**
     
     - Đảng chỉ đạo thực hiện các chiến dịch lớn: Chiến dịch Biên Giới, Chiến dịch Hòa Bình,...
-        
+    Kế hoạch Đông Xuân (**1953 - 1954**) vs quyết tâm giữ vững chủ động ở cả chính diện lẫn sau lưng địch. 
     - **7/5/1954:** Chiến dịch Điện Biên Phủ:
         
         - Thắng lợi vang dội, đánh bại hoàn toàn quân đội Pháp.
@@ -264,6 +265,7 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
             
         - Ý nghĩa: Kết thúc thắng lợi cuộc kháng chiến chống Pháp, mở ra giai đoạn mới cho cách mạng Việt Nam.
             
+(Sau đó 1954 là cải cách đất nước, ruộng đất)
 
 **Chương III: Giai đoạn lãnh đạo xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh thống nhất đất nước (1954-1975)**
 
@@ -276,7 +278,6 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
 - **1960:**
     
     - **Tháng 9:** Đại hội lần thứ III của Đảng tại Hà Nội.
-        
         - **Đề ra đường lối** tiến hành đồng thời hai nhiệm vụ chiến lược: **xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh giải phóng miền Nam.**
         -> Mềm dẻo linh hoạt trog thực hiện lãnh đạo, chỉ đạo cách mạng. Đây cũng là điểm độc đáo nhất của CMVN thời kig 1954-1975, đảng lđ nd tiến hành đồng thời 2 chiến lc cm 2 miền Nam-Bắc.
             
@@ -366,7 +367,7 @@ Nét nổi bật của cuộc vận độg 1936-39 là đảng tập hợp đc 1
 -> Quay trở lại tư tưởng cốt lõi của Cương lĩnh chính trị đầu năm 1930 
 
 Khai thác thuộc địa 1st của thực dân Pháp (1897 - 1914) (cuối thế kỉ 18, đầu thế kỉ 19)
-Sau đó ko lâu **1921** hội liên hiệp dtoc thuộc địa dc thành lập. 
+Sau đó ko lâu **1921** hội liên hiệp dân tộc thuộc địa dc thành lập. 
 
 ban **lãnh đạo đảng ở nước ngoài** do Lê Hồng Phong đứng đầu
 
@@ -564,4 +565,21 @@ Cuối 74 Đầu 75 kế hoạch giải phsong miền Nam VN dựa trên sở c�
 
 Khắc phục tình trạg khó khăn về tài chính sau CM tháng 8, cp thực hiện chủ trươg "quỹ độc lập"
 
+Chiến dịch Biên giới thu đông 1950 thể hiện cách đánh diệt viện của ta
 
+Hội nghị lần thứ 15 BCHTWD để lại bài học là sử dụng bạo lực giành chính quyền về tay nhân dân. 
+
+khẩu hiệu mà ta nêu ra trong CD Điện Biên Phủ là "Tất cả cho tiền tuyến, tất cả cho chiến thắng"
+
+ĐẠI HỘI III là quân ta đẩy tới miền nam rồi.
+
+8/9/1945 Nha bình dân học vụ để xóa nạn mù chữ 
+
+bồi dưỡng nôg dân -> triệt tô, cải cách ruộng đất. 
+
+DDCSD gia nhập DCSVN vào 24/02/1930 
+Mặt trận dân chủ đông dương chính thức đổi tên và thành lập năm 1938 
+phản đế đồng minh 18/11/1930 
+mặt trận việt minh 19/5/1941
+tự chỉ trích 20/6/1939
+ 
