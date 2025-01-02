@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b47935bcf8c5895",
+        "id": "65295673660cc695",
         "type": "tabs",
         "children": [
           {
-            "id": "b9fdaebc2401cbae",
+            "id": "273c6d6b0f5e00e6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "43aabbaa62c63ca2",
+            "id": "106efe5a5421e464",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "948d9edd23e8ccf7",
+            "id": "58147770a2737fab",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,16 +242,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "43aabbaa62c63ca2",
+  "active": "106efe5a5421e464",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Tổng Hợp LS Đảng.md",
     "1 PROJECTS/CMC Summer 2024/Vietnam General law.md",
     "Vietnam party history.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "4 ARCHIVES/2024/WebProject2024/Science Research User Requirement.md",
     "3 RESOURCES/Project Management/Requirement Specifications Terms.md",
-    "Tổng Hợp LS Đảng.md",
     "3 RESOURCES/History & Politic/History & Politic.md",
     "2 ACTIONS/Personal/Interest/Music/Advanture Time song.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",

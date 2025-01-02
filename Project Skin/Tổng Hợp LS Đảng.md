@@ -26,7 +26,8 @@ phong trào Yên Thế - phong kiến
 Chinh sách thống trị của thực dân pháp ảnh hưởng đến phân hóa giai cấp ở nc ta là Cho ra đời giai cấp ms Công Nhân và Tư Sản. 
 
 Phong trào Đông Kinh Nghĩa Thục (Tonkin Free School) thuộc khuyên hướng ptrao yêu nc khuyên hướng dân chủ tư sản (dân chủ có tài sản)
-	ptrao nhằm cải cách xh VN đầu tk 20 thời pháp thuộc. 
+	ptrao nhằm cải cách giáo dục VN đầu tk 20 thời pháp thuộc. Để cải cách cần có tài sản -> ptrao khuyen hướng tư sản
+
 
 Kinh nghiệm quan trọng nhất của Đảng về lãnh đạo kháng chiến chống pháp, Mỹ - đề ra đường lối đúng đắn từ những ngày đầu
 
@@ -97,7 +98,7 @@ nd công tác xd đảng: chính trị, tư tưởng, tổ chức và đạo đ�
 1919 - NAQ gửi bản yêu sách nhân dân An Nam lên hội nghị Vecxay
 
 1920 - NQA quyết định lựa chọn con đg giải phóng dân tộc theo khuyên hướng chính trị vô sản 
--> Bác đọc bản "Sở Thảo Vđề dân tộc và thuộc địa" của Lenin tại Pháp (7/1920)
+-> Bác đọc bản "Sở Thảo Vđề dân tộc và thuộc địa" của Lenin tại Pháp (7/1920) và quyết định theo khuyên hướng vô sản để giải phóng dân tộc 
 
 
 WW1 (1914 - 1918) -> VN đã bị pháp xâm lược nên có 4 giai cấp địa chủ pk, nôg dân, tiểu tư sản và công nhân. 
@@ -108,6 +109,7 @@ tác phẩm "Tự chỉ trích" - Văn Cừ phát hành 20/7/1939
 
 note: các phong trào nổi dậy tr'c 1930 đều là tự phát và ko triệt để.
 
+
 **Câu 1: Vì sao cuộc kháng chiến toàn quốc bùng nổ  tháng 12 năm 1946?**
 đêm 18/12/1946 (19 acktually) thực dân pháp gửi tối hậu thư. 
 mỹ áp dụng chiến tranh đặc biệt năm 1961 - 1965
@@ -117,22 +119,25 @@ mỹ áp dụng chiến tranh đặc biệt năm 1961 - 1965
 note: American president Roosevelt support Vietnam independent and send aid.   
 
 11/1929 - An Nam CS Đảng đc ra đời ở Khánh Hội Sài Gòn   
-
+**1858:** Pháp đến xâm lược VN  
+**1919 - 1929:** Pháp Khai thác thuộc địa lần thứ 1st
+note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not sau hội nghị)
 
 **Chương I: Giai đoạn hình thành và lãnh đạo đấu tranh giành chính quyền (1930-1945)**
 
 - **1930:** giai đoạn hình thành đảng (chưa có đấu tranh thực sự, các cuộc nổi dậy chủ yếu ko có tổ chức và đơn lẻ)
+	- **Cao trào** 1929-1930 ở **Nghệ Tĩnh** 
     
-    - **3/2:** Hội nghị hợp nhất các tổ chức cộng sản tại Cửu Long (Hương Cảng), **thành lập Đảng Cộng sản Việt Nam. Nguyễn Ái Quốc chủ trì**. 7 Người tham dự gồm Trịnh Đình Cửu, Ng Đức Dảnh, Ng Thiệu, Châu Văn Liêm, Lê Hồng Sơn, Hồ Tùng Mậu and yes HCM.  
+    - **3/2:** Hội nghị hợp nhất các tổ chức cộng sản tại Cửu Long Hồng Kông (Hương Cảng), **thành lập Đảng Cộng sản Việt Nam. Nguyễn Ái Quốc chủ trì**. 7 Người tham dự gồm Trịnh Đình Cửu, Ng Đức Dảnh, Ng Thiệu, Châu Văn Liêm, Lê Hồng Sơn, Hồ Tùng Mậu and yes HCM.  
         
         - **Ý nghĩa**: Đánh dấu sự ra đời của một chính đảng vô sản lãnh đạo cách mạng Việt Nam.
 		    NAQ đã vận dụng chủ nghĩa maclenin kết hợp vs ptrao công nhân và ptrao yêu nước.  
 		-> đc **đánh giá** là "đc thực hiện = 1 con đg khác mà quốc tế cs ko lường tr'c đc"
 		
-	+ **24/02/1930** Đông Dương Cộng sản Liên đoàn gia nhập Đảng CS VN. (cũng là **tổ chức cộng sản đầu tiên**)
+	+ **24/02/1930** Đông Dương Cộng sản Liên đoàn gia nhập Đảng CS VN. (**tổ chức cộng sản đầu tiên**) 
 		
 	- **Tháng 10:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng tại Hương Cảng.
-		- Đổi tên Đảng thành Đảng Cộng sản Đông Dương.
+		- Đổi tên Đảng thành Đảng Cộng sản Đông Dương. (**Lê Hồng Phong làm Tổng bí thư**)
 		- Thông qua **Luận cương chính trị do Trần Phú** soạn thảo.
         - Bầu Trần Phú làm Tổng Bí thư.
     - **Phong trào  cách mạng 1930-1931**:
@@ -163,7 +168,7 @@ note: American president Roosevelt support Vietnam independent and send aid.
     
     - Đảng lãnh đạo phong trào đấu tranh đòi dân sinh, dân chủ.
         
-        - Thành lập Mặt trận Dân chủ Đông Dương.
+        - **1938:** Thành lập Mặt trận Dân chủ Đông Dương.
 		    -> là cơ sở để Đảng ra hình thức đấu tranh (vì phải có Đảng điều phối ms đấu tranh toàn quốc đc) 
         - Vận động quần chúng tham gia các hoạt động chính trị, văn hóa, xã hội.
             
@@ -177,17 +182,17 @@ note: American president Roosevelt support Vietnam independent and send aid.
         
     - Đảng chuyển hướng chỉ đạo chiến lược:
         
-        - Đặt nhiệm vụ giải phóng dân tộc lên hàng đầu.
+        - Đặt **nhiệm vụ giải phóng dân tộc lên hàng đầu**.
             
-        - Thành lập Mặt trận Việt Minh (1941)
-        - Ban Chấp hành Trung ương Đảng 5/1941 họp ở Cao Bằng do HCM chủ trì.
+        - Thành lập **Mặt trận Việt Minh** (**19/5/1941**)
+	        - Ban Chấp hành Trung ương Đảng **5/1941** họp ở Cao Bằng do **HCM chủ trì** và **nhấn mạnh giải phóng dân tộc là nv bức thiết.**
             
         + **1943:** Đảng xây dựng đề cương văn hóa   
         - Xây dựng lực lượng vũ trang cách mạng.
-		+ **22/12/1944** NÁQ ra chỉ thị thành lập đội VN tuyên truyền giải phóng quân.
+		+ **22/12 - 5/1944** NÁQ ra chỉ thị thành lập đội **VN tuyên truyền giải phóng quân.** -> quân đội chủ lực của Việt Minh 
 			
         - Chuẩn bị cho Tổng khởi nghĩa.
-	        
+		
     - **1945:**
         
         - **8/1945:** Tổng khởi nghĩa Tháng Tám thành công.
@@ -349,9 +354,11 @@ note: American president Roosevelt support Vietnam independent and send aid.
 Nét nổi bật của cuộc vận độg 1936-39 là đảng tập hợp đc 1 lực lg chính trị đôg đảo của quân chúg và sử dụng hình thức, pp đấu tranh phog phú. 
 
 "cuộc cm giải phóng dtoc ko nhất định pải kết hợp chặt chẽ vs cm điền địa" (36 - 39) (điền địa nghĩa là chia ruộng đất, đây là 1 trong những sai lầm mà 1 số ng hiểu nhầm về bác hồ và nói bác quên mất việc đấu tranh giai cấp)
+(tóm tắt: giải phóng dân tộc ko nhất thiết phải đi chung vs đấu tranh giai cấp)
 -> Quay trở lại tư tưởng cốt lõi của Cương lĩnh chính trị đầu năm 1930 
 
 Khai thác thuộc địa 1st của thực dân Pháp (1897 - 1914) (cuối thế kỉ 18, đầu thế kỉ 19)
+Sau đó ko lâu **1921** hội liên hiệp dtoc thuộc địa dc thành lập. 
 
 ban **lãnh đạo đảng ở nước ngoài** do Lê Hồng Phong đứng đầu
 
@@ -367,9 +374,27 @@ Sự kiện đánh dấu bc ngoặt trog cuộc đời hoạt độg của NÁQ 
 
 3 cuộc khởi nghĩa Bắc, Trung, Nam kì để lại bài học kn lớn về thời cơ trong khởi nghĩa giành chính quyền -> đc áp dụng khi Nhật thua trận, VN đã ngay lập tức tuyên bố độc lập.
 
+**Đường Kách Mệnh** trình bày 3 tư tưởng:
++ CM là sự nghiệp của quân chúng
++ CM pải do đảng theo CN Mac Lenin leader
++ CMVN pải gắn bó và đoàn kết vs CM thế giới. 
+
 Hoạt động nào **chuẩn bị trực tiếp đk về chtri và tư tưởng** cho viẹc **thành lập DCSVN**  
 -> **Tập bài giảng "Đường Kách Mệnh"** của NÁQ ở lớp huấn luyện chính trị đã đề cập đến nx vd cơ bản của 1 cương lĩnh ctri cho DCSVN hiện tay. 
 
-"như chim én nhỏ báo hiệu mùa xuân" -> vụ mưu sát Méc Lanh của Phạm Hồng Thái. Vì sao? Vì nó tạo sự quan tâm cho cả thế giới về tội ác của Pháp ở VN để Phan Châu Trinh (ở TQ) tận dụng ủng hộ của thế giới để đấu tranh 
+
+"như chim én nhỏ báo hiệu mùa xuân" -> vụ mưu sát Merlin       
+(Toàn Quyền Đông Dương của Pháp) của Phạm Hồng Thái. Vì sao? Vì nó tạo sự quan tâm cho cả thế giới về tội ác của Pháp ở VN để Phan Châu Trinh (ở TQ) tận dụng ủng hộ của thế giới để đấu tranh 
 
 mặt trận thống nhất ở VN (1930-1945) có nền tảg của mtrajn 
+
+Ptrao yêu nc **cuối tk 19 đầu 20** có **Đề Thám là ng đứng đầu khởi nghĩa Yên Thế**
+Yên Thế -> Đề Thám 
+Phong trào Cần Vương  -> Hàm Nghi
+VN Quốc dân đảng, Phan Châu Trinh -> ptrao kh dân chủ tư sản
+tiêu biểu trog Bạo động Cách mạng -> Phan Bội Châu
+
+Nhu cầu bức thiết trong chế độ thực dân pk là độc lập dân tộc (no colonism)
+Hội phản đế đồng minh -> 18/11/1930
+
+ 3/2 họp tại Cảng Châu TQ, 24/2/30 ĐDCSĐ
