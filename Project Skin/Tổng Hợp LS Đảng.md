@@ -4,7 +4,7 @@ nhà yêu nước tiểu biểu tk19-20 : phan châu trinh
 tổng bí thư - lê hồng phong 
 
 giơ nơ vơ - 21
-nổi dậy mùa xuân 1975 - chiến dịch thái nguyên
+nổi dậy mùa xuân 1975 - chiến dịch Tây nguyên
 CM tháng 8 - tình thế ngàn cân treo sợi tóc 
 Thực dân pháp xâm lược vn tr'c ww1 - 1858
 
