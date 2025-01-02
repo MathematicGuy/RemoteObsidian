@@ -398,3 +398,70 @@ Nhu cầu bức thiết trong chế độ thực dân pk là độc lập dân t
 Hội phản đế đồng minh -> 18/11/1930
 
  3/2 họp tại Cảng Châu TQ, 24/2/30 ĐDCSĐ
+
+## Chương 2: Đường lối đấu tranh giành chính quyền 
+**1936 - 1939** 
+hoàn cảnh ls:
++ thế giới: 29-33 khủng hoảng kt tgioi. mâu thuẫn vs chủ nghĩa tư bản trở nên gay gắt. Facist xuất hiện. 
+	3 vấn đề lớn: kẻ thù phát xít, nhiệm vụ giai cấp là dân chủ hòa bình, mặt trận là mặt trận thống nhất đế quốc, 
++ trong nước: bọn cầm quyền phản động ở Đôg Dương, ảnh hưởng từ khủng hoảng kinh tế tgioi. 
+
+HNTW 4 - chủ trương đtranh đòi quyền dân chủ, dân sinh
+	kẻ thì cách mạng: Phản động thuộc địa và bè lũ tay sai của chúng
+	Để hoàn thành nv trước mắt -> thành lập nhân dân phản đế -> để cải thiện mqh vs các nước đông dương đảg đổi tên thành mặt trận dân chủ Đông Dương.
+
+tổ chức đấu tranh từ bí mật bất hợp phát -> công khai hợp pháp, nửa hợp pháp.
+
+ Tp "tự chỉ trích" nguyễn văn kì - tổng kết các hoạt động dân chủ của đảng. mục đích để khắc phục các sai lầm trong hoạt động dân chủ, tăng cường đoàn kết nhất trí -> đóng góp xây dựng đảng.
+ chủ trương giải quyết vấn đề công nông và mặt trận rộng rãi, vấn đề dân tộc và vấn đề giai cấp, ptrao CM đông dương, cm ở pháp và trên th/gioi. 
+36-39: đc coi là cuộc tổng diễn diễn tập cho trận kháng chiến sau này vào 8/1945. 
+
+9/1940: "1 cổ 2 tròng" khi Pháp đầu hàng Nhật
+**TW6: 11/1939**
+TW7: 11/1940 (Gia định)
+TW8: 11/1941 (Bắc Bó, Cao Bằng)
+1) đặt nv giải phóng dân tộc lên hàng đầu. 
+2)  để đạt đc nv hàng đầu ta tạm gác lại khẩu hiệu "đánh đổ địa chủ và chia lại ruộng đất của địa chủ chia cho dân cày" thay đổi khẩu hiệu thành "Tịch thu ruộng của bọn đế quốc và Việt gian cho dân cày nghèo, giảm tô, giảm tức" 
+	Việt Nam - VN độc lập Đồng Minh -> ngắn gọn là Việt Minh 
+	Lào - AI loa đlđm
+	Miên (Campuchia) - Cao Miên đlđm
+3) Xúc tiến vũ trang, coi đây là nv trọng tâm của Đảng htai. (tóm lại là xây dựng quân đội)
+Ý Nghĩa: 
++ Nhằm giải quyết mục tiêu số 1 là độc lập dân tộc
++ tập hợp rộng rãi mặt trận Việt Minh
++ Xây dựng lực lượng, căn cứ đọa cách mạng
+
+**25/10/1941:** Mặt trận Việt Minh tuyên bố ra đời
+	+ Vì đưa ra 10 chính sách vừa ích nước, lợi dân nên đc nhiệt liệt hưởng ứng.
+	-> **27/9/1940:** Du kích Bắc Sơn đổi tên thành Cứu Quốc Quân
+	-> **22/12/1944:** thành lập VN tuyên truyền giải phóng quân
+
+**Cao trào Kháng Nhật cứu nước**
+đầu năm 1945 -> WW2 kết thúc. Nhật, Đức thua trận. **12/3/1945** Ban thường vụ TW ra chủ thị "**Nhật Pháp bắn nhau và hành động của chúng ta**". 
+Đợi thời điểm chín muồi, kẻ thù chính chỉ còn phát xít Nhật.  
+-> **15/4/1945:** hội nghị quân sự dc triệu tập xây dựng 7 chiến khi trog cả nc: Đạo, Lợi, thám, trung, trắc, phùng, Phương.
+4/6/1945 "Khu giải phóng" đc thành lập gồm Cao, Bắc, Lạng, Thái, Tuyên, Hà.
+
+Tình hình: Nạn đói và 2 triệu nhân dân chết đói. -> Phá kho thóc, giải đói.
+
+**13 - 15/8/1945:** Chủ chương phát độg tổng khởi nghĩa.
++ tránh TH gây thù vs anh, tưởng
++ tranh thủ sự ủng hộ của Liên Xô, Th/gioi
+**30/8:** vua bảo đại thoái vị 
+
+**2/9/1945:** Việt Nam chính thức độc lập. Sinh ra VN dân chủ Cộng Hòa. 
+
+**8/1945:** sự kiện việt nam ra đời đc cổ vũ mạnh mẽ ptrao đấu tranh giải phóng dân tộc của các nc thuộc địa làm cho các nc thuộc địa hết sức lo sợ + theo cộng sản -> Mỹ, Anh ủng hộ pháp quay lại xâm lược Đông Dương. 
+-> Do cm ta còn non trẻ, đây là "tình thế ngàn cân treo sợi tóc" 
+
+
+bài học kn:
++ **NV chống đế quốc và phong kiến ko thể tách rời nhau**, nhưng nv chống pk phải tuân thủ theo nv chống đế quốc.
++ toàn đân nổi dậy có **nền tảng là khối lm công nông.**
++ Lợi dụng mâu thuẫn giữa kẻ thù (phát xít, tay sai phản động, Pháp)
++ phải biết **sử dụng bạo lực 1 cách thích hợp** (Chính trị đi vs Vũ trang -> tổng khởi nghĩa)
++ Nắm vững nghệ thuật khởi nghĩa, phải **chọn đúng thời cơ.**
++ xây dựng đảng mac lenin sáng tạo, phù hợp vs tình hình nước ta. 
+### Trắc Nhiệm Chương 2
+"Ngàn Cân treo sợi tóc" - 8/1945 do VN giải phóng và bị nhiều nc lôi kéo tư tưởng nếu ko theo thì sẽ bị đánh, do chính quyền còn non trẻ nên ko thể đánh tất kẻ thù cùng 1 lúc. 
+
