@@ -264,7 +264,6 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
         - Hiệp định Giơnevơ được ký kết, miền Bắc được giải phóng, miền Nam tạm thời bị chia cắt.
             
         - Ý nghĩa: Kết thúc thắng lợi cuộc kháng chiến chống Pháp, mở ra giai đoạn mới cho cách mạng Việt Nam.
-            
 (Sau đó 1954 là cải cách đất nước, ruộng đất)
 
 **Chương III: Giai đoạn lãnh đạo xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh thống nhất đất nước (1954-1975)**
@@ -582,4 +581,8 @@ Mặt trận dân chủ đông dương chính thức đổi tên và thành lậ
 phản đế đồng minh 18/11/1930 
 mặt trận việt minh 19/5/1941
 tự chỉ trích 20/6/1939
- 
+
+Đại Hội lần II đổi tên đảng CSDD sang Đảng LD VN chính thức tách DCSDD khỏi DCSVN -> đánh dấu sự trưởng thành và tự chủ của Đảng VN
+
+Đại hội III -> đại hội xây dựng CNXH ở miền Bắc và đấu tranh thống nhất Miền Nam.
+
