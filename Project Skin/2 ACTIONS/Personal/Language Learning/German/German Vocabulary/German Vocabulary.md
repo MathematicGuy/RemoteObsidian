@@ -2839,7 +2839,7 @@ Geburtstagskarte - birthday card
 Früher earlier
 Abholen pickup
 	Kannst du Ed früher abholen - can you pickup Ed earlier
-
+Fp
 Ich habe eine Bitte - I have a request 
 Holst pick
 	Ich holst dich später Ab - I picking you up later
