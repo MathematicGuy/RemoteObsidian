@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65295673660cc695",
+        "id": "7b618feb8d1598c6",
         "type": "tabs",
         "children": [
           {
-            "id": "273c6d6b0f5e00e6",
+            "id": "b7a28660d3c8f5bb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "106efe5a5421e464",
+            "id": "38a3d354b61857ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "58147770a2737fab",
+            "id": "c75a122312c2e8bb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,7 +242,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "106efe5a5421e464",
+  "active": "38a3d354b61857ec",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Tổng Hợp LS Đảng.md",
