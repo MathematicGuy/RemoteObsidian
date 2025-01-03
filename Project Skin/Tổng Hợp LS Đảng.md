@@ -325,36 +325,38 @@ note: "...Kiếp ngựa trâu..." trong Hội Nghị lần thứ 8 Vecxay (not s
         
 - **1986:**
     
-    - **Tháng 12:** Đại hội lần thứ VI của Đảng tại Hà Nội.
+    - **Tháng 12:** **Đại hội lần thứ VI** của Đảng tại Hà Nội.
         
-        - Đề ra đường lối đổi mới toàn diện đất nước.
+        - **Đề ra đường lối đổi mới toàn diện đất nước**.
             
         - Chuyển đổi nền kinh tế từ kế hoạch hóa tập trung sang nền kinh tế thị trường định hướng xã hội chủ nghĩa.
             
         - Ý nghĩa: Mở ra thời kỳ phát triển mới cho đất nước.
             
-- **1986 đến nay:**
-    
+- **1986 đến nay:** sự kiện đánh dấu bước ngoặt ms cho sựtriển của ls dtoc VN.
+    + Đại hội V: coi cog nghiệp là mtran hàg đầu.  
     - Đảng lãnh đạo đất nước vượt qua khủng hoảng kinh tế, đạt được nhiều thành tựu to lớn trong phát triển kinh tế, văn hóa, xã hội.
         
     - Tiếp tục hoàn thiện đường lối đổi mới, hội nhập quốc tế.
         
     - Các kỳ đại hội Đảng tiếp theo (VII, VIII, IX, X, XI, XII, XIII) tiếp tục đề ra các mục tiêu, nhiệm vụ phát triển đất nước trong từng giai đoạn, cụ thể:
-        
+    
         - **Đại hội VII (1991):** Tiếp tục khẳng định đường lối đổi mới, định hướng xã hội chủ nghĩa.
-            
+            -> xd dn trog thời kỳ quá độ đi lên CNXH 
         - **Đại hội VIII (1996):** Đề ra mục tiêu công nghiệp hóa, hiện đại hóa đất nước.
             
         - **Đại hội IX (2001):** Tiếp tục đẩy mạnh hội nhập kinh tế quốc tế.
-            
+            "mà còn ptr sáng tạo cn mac lenin"
         - **Đại hội X (2006):** Nâng cao vai trò lãnh đạo của Đảng.
             
         - **Đại hội XI (2011):** Đổi mới mô hình tăng trưởng, tái cơ cấu nền kinh tế.
             
         - **Đại hội XII (2016):** Đẩy mạnh xây dựng Đảng trong sạch, vững mạnh.
-            
+            "Đoàn kết - Dân chủ - Kỉ cương - Đổi mới"
+            địh hướng VN Trở thành nước công nghiệp theo hướng hiện đại.  
         - **Đại hội XIII (2021):** Đề ra các mục tiêu, nhiệm vụ phát triển đất nước trong giai đoạn mới, tầm nhìn đến năm 2045.44
-
+			"Đoàn kết - Dân Chủ - Kỷ Cương - Sáng Tạo - Phát triển"
+			3 nv trọng tâm và 3 giải pháp đột phá. 
 ---
 
 **Khẩu hiệu:** "đả đảo cn đế quốc/phong kiến", thả tù nhân chính trị thể hiện đầy đủ các mục tiêu đấu tranh của CMVN
@@ -585,4 +587,23 @@ tự chỉ trích 20/6/1939
 Đại Hội lần II đổi tên đảng CSDD sang Đảng LD VN chính thức tách DCSDD khỏi DCSVN -> đánh dấu sự trưởng thành và tự chủ của Đảng VN
 
 Đại hội III -> đại hội xây dựng CNXH ở miền Bắc và đấu tranh thống nhất Miền Nam.
+
+nd kì họp 1st -> quốc huuy chcnxhvn
+
+nhiều chặng đg
+lấy dân làm gốc
+tình thế dn sau 1975: giúp đn đi ra khỏi khủng hoảng kt. 
+tiến hành công cuộc đổi ms toàn diện
+Yếu tốt "Mỗi miền dn vẫn tồn tại hình thức tổ chức nhà nước khá nhau" tồn tại trái vs nv, tình cảm của ng dân. 
+
+Kế hoạch  5 năm của nhà nước 1986-1990 
+-> đáp ứng nhu cầu trong nc, có dự trữ và xuất khẩu.
+-> cải tạo quan hệ sản xuất XHCN. 
+
+ Cương lĩnh bổ sung pát triể 2011 là dân giàu nc mạh, dân chủ, côg bằng, văn mih
+
+  Kì họp thứ nhất -> quyết địh tên nc là CHXH CN VN
+3 Chương trìh kt lớn: lương thực, thực phẩm, hàng tiêu dùng và hàg xuất khẩu. 
+
+Hội nghị Hiệp thương chitri thốg nhất đn ở Sài gòn (11/1975) đã nhất trí hàon toàn các chủ trương, biện pháp thốg nhất đất nc. 
 
