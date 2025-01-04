@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "be2bc7143df8dcd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/AIO2025/Common Python Errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Python Errors"
+            }
+          },
+          {
+            "id": "fe60a58224285aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/NCKH 2025/NCKH 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NCKH 2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +210,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8e7947d1c085d23a",
+  "active": "be2bc7143df8dcd4",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
+    "1 PROJECTS/NCKH 2025",
+    "1 PROJECTS/AIO2025/Common Python Errors.md",
+    "1 PROJECTS/AIO2025",
+    "1 PROJECTS/CMC AI Specialist.md",
+    "image/Pasted image 20250103204517.png",
     "Imbalanced Data in Classification.md",
     "Internship Report Requirements.md",
     "Gradient and Gradient Descent.md",
@@ -192,7 +228,6 @@
     "Derivative and Optimization Test.md",
     "Calculus_Optimization.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "2 ACTIONS/_Focus.md",
     "AIO 2024.md",
     "ID Card OCR Note.md",
     "ML CheatSheet.md",
@@ -207,9 +242,6 @@
     "AIO Metrics for Regression (from metrics to loss functions).md",
     "Introduction to Computer Vision.md",
     "OpenCV Code.md",
-    "OpenCV.md",
-    "AIO - Advance CNN.md",
-    "TensorFlow CNN.md",
     "image/Pasted image 20241229153423.png",
     "image/Pasted image 20241227124425.png",
     "image/Pasted image 20241227114117.png",
@@ -219,7 +251,6 @@
     "image/Pasted image 20241226112820.png",
     "image/Pasted image 20241226112800.png",
     "image/Pasted image 20241226112650.png",
-    "image/Pasted image 20241226104840.png",
     "AIO - Basic LSTM",
     "Research.canvas",
     "ID Card Brain Storm.canvas",
@@ -230,8 +261,6 @@
     "image",
     "Pasted image 20240806130826.png.~tmp",
     "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
-    "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
-    "1 PROJECTS/Deep Learning/Face Detection using SVM",
-    "Missing value"
+    "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf"
   ]
 }

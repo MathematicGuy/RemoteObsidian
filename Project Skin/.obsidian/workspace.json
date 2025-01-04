@@ -10,6 +10,7 @@
           {
             "id": "c2f466055479afc9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,11 +19,25 @@
                 "backlinks": false,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "cd10131e927ec9db",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240929225308.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240929225308"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +239,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2f466055479afc9",
+  "active": "cd10131e927ec9db",
   "lastOpenFiles": [
     "Tổng Hợp LS Đảng.md",
     "_Focus/Todo.md",
