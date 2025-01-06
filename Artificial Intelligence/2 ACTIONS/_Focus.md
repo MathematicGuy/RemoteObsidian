@@ -1,4 +1,3 @@
- 
 ### [[Anstler Palace.canvas|Anstler Place]]
 [scientific research](https://www.facebook.com/share/v/19mtSEZVsn/)
 rảnh thì làm Warm Up 2025: 

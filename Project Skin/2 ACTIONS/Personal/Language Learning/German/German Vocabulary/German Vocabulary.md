@@ -2885,3 +2885,23 @@ Gefährlich - scare
 Verwandten relative
 Salzig salty
 Geburstagskarte birthday card
+
+Die Lebensmittel - the groceries 
+	Du Kaufst nit Lebensmittel 
+
+Die Miete - the rent
+Miete rent
+	Bitte, zahl die Miete 
+Mal time
+	nächstes Mal Milch - milk next time 
+	Kauf nächtes Mal Milch - buy milk next time 
+	Kauf nächtes Mal Brot und Kuche - Buy bread and cake next time 
+
+Packungen package 
+Rechnungen - bild (~ invoice)
+	Du zahlst nie deine Rechnungen 
+Faul lazy
+	Du bist faul, du malst nie ein Bild für mich !
+Monat month (Singular, Musculine Noun)
+	Kannst du diesen monat einen Job finden 
+
