@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70c1592ad341701a",
+        "id": "6b2988fb15bd3261",
         "type": "tabs",
         "children": [
           {
-            "id": "8e7947d1c085d23a",
+            "id": "704e4ba4dd8b073a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "757dbd3dae3c07fa",
+            "id": "13e7ed7c3105d4b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/NCKH 2025/NCKH 2025.md",
+                "file": "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NCKH 2025"
+              "title": "CMC Big Data Analysis"
             }
           }
         ],
@@ -196,16 +196,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "757dbd3dae3c07fa",
+  "active": "13e7ed7c3105d4b9",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "1 PROJECTS/CMC 2025/TKB.png",
+    "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
+    "1 PROJECTS/CMC 2025/UIUX",
+    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
+    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
+    "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
+    "1 PROJECTS/CMC 2025/Computer Vision",
+    "1 PROJECTS/CMC 2025/Deep Learning & Application",
+    "1 PROJECTS/CMC 2025/Natural Language Processing",
+    "1 PROJECTS/CMC 2025/Big Data Analysis",
+    "1 PROJECTS/CMC 2025",
+    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
     "1 PROJECTS/AIO2025/Common Python Errors.md",
     "Untitled.md",
     "image/Pasted image 20250105165823.png",
     "1000_F_572489735_fRAzXItiIcyTttjJ9MUjsBEgvLTrphaa.jpg",
     "3D-array.jpg",
     "1_6dR3DJVFu0hXVqWO6cJONA.png",
-    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
     "1 PROJECTS/NCKH 2025",
     "1 PROJECTS/AIO2025",
     "1 PROJECTS/CMC AI Specialist.md",
@@ -225,28 +237,15 @@
     "Lesson 2 - Probability Distributions.md",
     "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
     "Lesson 1 - Introduction to Probability.md",
-    "Statistic and Probability for Machine Learning.md",
-    "Requirement.md",
     "Anstler Palace.canvas",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "AIO Loss Functions for Classification.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "Introduction to Computer Vision.md",
     "image/Pasted image 20241229153423.png",
     "image/Pasted image 20241227124425.png",
     "image/Pasted image 20241227114117.png",
     "image/Mutliclass-Classification-vs-multilabel-classification-(1).png",
-    "image/Pasted image 20241226113118.png",
     "AIO - Basic LSTM",
     "Research.canvas",
     "ID Card Brain Storm.canvas",
-    "1 PROJECTS/ID Card Detection/Computer Vision Projects.canvas",
-    "1 PROJECTS/ID Card Detection",
-    "1 PROJECTS/Deep Learning",
-    "3 RESOURCES/Artificial Intelligent/Softmax",
-    "image",
-    "Pasted image 20240806130826.png.~tmp",
-    "3 RESOURCES/Book for AI/Seeing Theory A visual introduction to the most useful.pdf",
-    "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf"
+    "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
+    "4 ARCHIVES/ID Card Detection"
   ]
 }
