@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "13e7ed7c3105d4b9",
+            "id": "b07e3ed89063e5a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+                "file": "1 PROJECTS/NCKH 2025/Student Behavior Recognition System for the Classroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMC Big Data Analysis"
+              "title": "Student Behavior Recognition System for the Classroom"
             }
           }
         ],
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5b429f276e830688",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "1 PROJECTS/NCKH 2025/Student Behavior Recognition System for the Classroom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for Student Behavior Recognition System for the Classroom"
             }
           },
           {
@@ -196,14 +195,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "13e7ed7c3105d4b9",
+  "active": "b07e3ed89063e5a4",
   "lastOpenFiles": [
+    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
+    "1 PROJECTS/NCKH 2025/Student Behavior Recognition System for the Classroom - Sensor.pdf",
+    "1 PROJECTS/NCKH 2025/Student Behavior Recognition System for the Classroom.md",
+    "4 ARCHIVES/Stups/Annotation MachineLearningBook.md",
+    "4 ARCHIVES/Stups/Annotation lab.md",
+    "1 PROJECTS/NCKH 2025/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
+    "1 PROJECTS/CMC AI Specialist.md",
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
+    "image/maxresdefault.jpg",
+    "Anstler Palace.canvas",
     "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "image/Pasted image 20250107092616.png",
     "1 PROJECTS/CMC 2025/TKB.png",
     "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
     "1 PROJECTS/CMC 2025/UIUX",
-    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
     "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
     "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
     "1 PROJECTS/CMC 2025/Computer Vision",
@@ -211,7 +220,6 @@
     "1 PROJECTS/CMC 2025/Natural Language Processing",
     "1 PROJECTS/CMC 2025/Big Data Analysis",
     "1 PROJECTS/CMC 2025",
-    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
     "1 PROJECTS/AIO2025/Common Python Errors.md",
     "Untitled.md",
     "image/Pasted image 20250105165823.png",
@@ -220,7 +228,6 @@
     "1_6dR3DJVFu0hXVqWO6cJONA.png",
     "1 PROJECTS/NCKH 2025",
     "1 PROJECTS/AIO2025",
-    "1 PROJECTS/CMC AI Specialist.md",
     "image/Pasted image 20250103204517.png",
     "Imbalanced Data in Classification.md",
     "Internship Report Requirements.md",
@@ -234,18 +241,10 @@
     "AIO 2024.md",
     "ID Card OCR Note.md",
     "ML CheatSheet.md",
-    "Lesson 2 - Probability Distributions.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Lesson 1 - Introduction to Probability.md",
-    "Anstler Palace.canvas",
     "image/Pasted image 20241229153423.png",
     "image/Pasted image 20241227124425.png",
-    "image/Pasted image 20241227114117.png",
-    "image/Mutliclass-Classification-vs-multilabel-classification-(1).png",
-    "AIO - Basic LSTM",
     "Research.canvas",
     "ID Card Brain Storm.canvas",
-    "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
-    "4 ARCHIVES/ID Card Detection"
+    "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas"
   ]
 }

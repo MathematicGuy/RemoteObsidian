@@ -2,7 +2,7 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-![[Pasted image 20240929225308.png]]
+t![[Pasted image 20240929225308.png]]
 #Todo/Priority  
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club) - can use ChatGPT
 

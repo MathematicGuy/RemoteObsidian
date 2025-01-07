@@ -2888,6 +2888,7 @@ Geburstagskarte birthday card
 
 Die Lebensmittel - the groceries 
 	Du Kaufst nit Lebensmittel 
+	Das Problem ist, ich kaufe jedes Mal die Labensmittle
 
 Die Miete - the rent
 Miete rent
@@ -2904,4 +2905,18 @@ Faul lazy
 	Du bist faul, du malst nie ein Bild für mich !
 Monat month (Singular, Musculine Noun)
 	Kannst du diesen monat einen Job finden 
+
+Leiser quieter 
+	+ Ich habe Kopfschmerzen, kannst du leiser sein ?
+	+ Es ist endlich leiser ohne der Hund in der Wohnung  - It is finally quieter without the dog in the apartment
+	+ Toto, du sprichst so laut, sei Leiser bitter - Toto, you speak too loud, be quiter please (`so` read ask `zu`) 
+
+Sei be
+	Sei freundlich - be friendly
+	Markus, sei freundlich, sie sind unsere Freunde - Toto be friendly they are our friends
+
+Unhöflich rule
+	Sei nicht Unhöflich - Don't be rude 
+
+Du musst warten, ich komme später - You don't have to wait, I come later
 

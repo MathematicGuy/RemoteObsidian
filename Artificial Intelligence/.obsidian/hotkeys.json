@@ -96,5 +96,15 @@
       ],
       "key": "E"
     }
+  ],
+  "quick-latex:addBlockMath": [],
+  "obsidian-annotator:toggle-annotation-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
