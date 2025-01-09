@@ -29,6 +29,8 @@ Ex: $S_{0} = \frac{5-3}{1} + 1 = 3$ -> 3x3 Feature Maps
 (3, 32, 32) với 4 kernels (3, 5, 5) có feature maps (4, 28, 28) vì 
 ![[Pasted image 20241204212708.png]]
 (Depth = 4 đương nhiên sẽ giữ nguyên)
+For Stride = 1.
+`(Output - 1 - Input_size) = Kernel_size `
 
 **Code**
 ![[Pasted image 20241204213543.png]]

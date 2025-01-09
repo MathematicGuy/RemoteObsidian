@@ -1,12 +1,11 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
 [scientific research](https://www.facebook.com/share/v/19mtSEZVsn/)
-rảnh thì làm Warm Up 2025: 
-+ [Week 2]([Link Bài Tập](https://forms.gle/jSCyrb8Rz5kJvsoF8))
-+ [Week 3]([Link Bài Tập](https://forms.gle/33b9XQ6v4QGCHZXk8))
-	note: gửi report Tư Vấn
+**Dead Line 15/1:** [CNN to LSTM](https://docs.google.com/spreadsheets/d/1BrJD6fgeYOb9dF2lqKvpYf9UJ4u-jbdsGb_bfupmnE8/edit?gid=757432949#gid=757432949)
+
 
 **Machine Learning**
 [[AIO 2024]]
+[[AIO 2025]]
 [[ML CheatSheet]]
 [[Generative AI (AI Sáng Tạo)]]
 [[Computer Vision]]
@@ -14,7 +13,7 @@ note luyện code phần:
 + Data Splitting
 + Normalization
 + Download Data -> Pre-Processing -> Code LeNet Model -> Train & Evaluation Function -> Train & Evaluate Model  -> Evaluate on Test Dataset -> Inititate Apps   
-
+****
 
 [[Statistic and Probability for Machine Learning]]
 - [ ] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]

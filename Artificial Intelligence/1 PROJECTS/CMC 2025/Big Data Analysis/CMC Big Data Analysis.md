@@ -12,3 +12,21 @@ Meta Data: [metadata](https://dataedo.com/kb/data-glossary/what-is-metadata) is 
 + **Veracity:** Level of **quality, Integrity and Uncertainty of data**. 
 + **Volumn:** Vast amount of data generated through large-scale and digitalization of information. (like Velocity but **generated at vast scale instead of fast**) 
 
+**Challenges:** store and process 
+Too big -> distribute data to process in parallel. 
+Trong suốt đối vs người dùg (indicate that the users don't know and don't care)
+
+Hadoop Distributed FIle System(HDFS)
+	Storage File (Block) in a Distributed file system (DFS) that run on large clusters. ![[hdfs-architecture.png]]
+
+Each Blocks copies to 3 different DataNodes for Backup purpose.
+Each file get divided into Blocks (often 3), each block typically 128MB or 256MB.
+**Example:** 
++ A 500MB file would be divided into roughly 4 blocks (if block size is 128MB).
++ A 1GB file would be divided into roughly 8 blocks (if block size is 128MB).
+
+3 Blocks saved to n different DataNodes -> Allow to save & process data more efficient. (3 copies for each block)![[Pasted image 20250109092748.png]]
+
+
+
+

@@ -13,3 +13,8 @@ Semantics and Pragmatics: (Ngữ Nghĩa & Ngữ dụng )
 Lexicon: list for each morpheme (From Phonology to Pragmatics)
 
 **NLP - Unsupervised or Supervied ?**
+
+---
+TA: Anh Quân - 
+# Chap 2: 
+
