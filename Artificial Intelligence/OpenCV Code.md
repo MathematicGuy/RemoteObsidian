@@ -107,7 +107,7 @@ Note: can decrease contour by blurring image
 
 **Thresholding**
 > Binarizes an image by converting pixel values above or below a threshold to either black or white (i.e. 0 and 1)
-> Ex: Pixels above 150 set to 1 and pixel below 255 set to 0.
+> Ex: Pixels from 150 set to 255 set to 1 and others to  0
 ```python
 img = cv.imread('../Resources/Photos/cats.jpg')
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)

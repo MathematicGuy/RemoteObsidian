@@ -15,3 +15,6 @@
 + **PyTorch** is a **Deep Learning framework specialize in NLP.**
 
 ![[Pasted image 20250108112844.png]]
+
+### 2 Layers NN Pseudo Code
+

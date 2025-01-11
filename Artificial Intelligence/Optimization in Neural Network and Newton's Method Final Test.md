@@ -114,7 +114,7 @@ def layer_sizes(X, Y):
     n_h -- the size of the hidden layer
     n_y -- the size of the output layer
     """
-
+	
 
 def initialize_parameters(n_x, n_h, n_y):
     """
@@ -130,7 +130,7 @@ def initialize_parameters(n_x, n_h, n_y):
                     W2 -- weight matrix of shape (n_y, n_h)
                     b2 -- bias vector of shape (n_y, 1)
     """
-
+	
 
 def forward_propagation(X, parameters):
     """
@@ -143,7 +143,7 @@ def forward_propagation(X, parameters):
     cache -- python dictionary containing Z1, A1, Z2, A2 
     (that simplifies the calculations in the back propagation step)
     """
-
+	
 
 def compute_cost(A2, Y):
     """
@@ -157,7 +157,7 @@ def compute_cost(A2, Y):
     cost -- log loss
     
     """
-
+	
 
 def backward_propagation(parameters, cache, X, Y):
     """

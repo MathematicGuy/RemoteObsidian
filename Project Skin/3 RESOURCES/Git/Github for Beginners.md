@@ -41,4 +41,12 @@ git stash list
 git stash apply
 ```
 
+### Rename Git Branch
+Rename Remote branch name -> Rename Local branch and push to up-stream
+```sh
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+```
 

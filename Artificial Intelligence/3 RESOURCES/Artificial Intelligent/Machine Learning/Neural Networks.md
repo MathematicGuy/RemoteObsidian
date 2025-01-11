@@ -1,4 +1,6 @@
 
+# [[Neural Network Summary]]
+
 ### [[Why Neural Networks can learn (almost) anything]]
 
 ## [[Artificial Network Using Linear Algebra]]
@@ -14,5 +16,5 @@
 
 ---
 
-
 ## [[Back Propagation]]
+

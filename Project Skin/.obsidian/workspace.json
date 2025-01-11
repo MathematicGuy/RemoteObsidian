@@ -10,6 +10,7 @@
           {
             "id": "00aa1773954b9acd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "backlinks": false,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
@@ -89,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -226,7 +229,10 @@
   },
   "active": "00aa1773954b9acd",
   "lastOpenFiles": [
+    "3 RESOURCES/Git/Github for Beginners.md",
+    "3 RESOURCES/Git/Git Requirement.md",
     "_Focus/Todo.md",
+    "3 RESOURCES/Git/Git.md",
     "3 RESOURCES/How to/Obsidian/Annotation.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "1 PROJECTS/UI_UX/UIUX.md",
@@ -261,9 +267,6 @@
     "Images",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Interest/Music/Guitar.md",
-    "LoL.md",
-    "Python OOP.md",
-    "3 RESOURCES/Programming/Python.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
