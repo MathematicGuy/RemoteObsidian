@@ -41,6 +41,7 @@ Key Note:
 	![[Pasted image 20241208163921.png]]
 	![[Pasted image 20241208164033.png]]
 
+
 Unmentions Topic (note later):
 ![[Pasted image 20241208150944.png]]
 

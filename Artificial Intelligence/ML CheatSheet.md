@@ -1,5 +1,7 @@
 [Machine Learning and Deep Learning Visualization](https://www.youtube.com/@OptimisticFuturology/playlists)
 
+[Code ML/DL from Scratch Challenge](https://www.deep-ml.com/problems)
+
 ### [[Bias-Variance Tradeoff and Model Performance]] 
 (Độ Lệch và Phương Sai)
 ![[467150686_3955519991394694_4489904189673430091_n.jpg]]

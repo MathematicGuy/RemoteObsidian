@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29b1c0348c43bcae",
+        "id": "3702e23d2d19776d",
         "type": "tabs",
         "children": [
           {
-            "id": "00aa1773954b9acd",
+            "id": "5a01350498195817",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "b907effad037d081",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             }
           },
           {
-            "id": "a0ff7610dc3d1cf9",
+            "id": "2ad9b685782153b0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +238,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "00aa1773954b9acd",
+  "active": "b907effad037d081",
   "lastOpenFiles": [
     "3 RESOURCES/Git/Github for Beginners.md",
     "3 RESOURCES/Git/Git Requirement.md",
