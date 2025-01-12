@@ -900,3 +900,30 @@ The party is tomorrow. I shopping an important gift for your horse. Ich only goi
 Du holst sechzehn pizzas ab und ich hole zehn Kuchen ab, ist es genug für die Party - you bring sixteen pizza along and I bring ten cakes along, is it enough for the party.\
 
 I have a request, can you picking Ed up early? His friends are already hear and the party begin in fourty minute 
+
+Nachmittag 
+Auto 
+Waschen 
+	Willst du heute Nachtmitag unser Auto waschen - Do you want to wash ours car this evening.
+
+Esszimmer - dining room
+Badezimmer - bathroom
+Schlafszimmer - bedroom
+
+Hauserbeit 
+machen 
+morgen
+	Kannst du morgen deine Hauserbeit machen - Can you do your chores tomorrow ?
+
+
+Mich me
+Besuchen vitsit
+	Mein freunde möchten morgen mich besuchen 
+	(*freunde - plural* so *möchtet* turned *möchten*)
+	My friend would like to visit me tomorrow  
+
+
+fast almost
+endlich finally
+fertig finished
+	Ich fast endlich fertig - I am finally finished

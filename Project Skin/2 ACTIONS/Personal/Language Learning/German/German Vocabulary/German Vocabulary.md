@@ -2920,3 +2920,13 @@ Unhöflich rule
 
 Du musst warten, ich komme später - You don't have to wait, I come later
 
+Hilfreich - helpful
+	Vielen Dank für die Reiunigung unseres hauses, Sind Sie sehr hilfreich
+("Vielen" is in accusative bc it before "für")
+
+Ordentlich - tidy
+Hausarbeit - (house) chores  
+
+Fertig - finished
+	Wir sind endlich fertig, unser haus ist sauber - we are finally finished, our house is clean. 
+
