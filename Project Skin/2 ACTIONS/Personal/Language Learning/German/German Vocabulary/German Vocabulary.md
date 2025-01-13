@@ -2930,3 +2930,7 @@ Hausarbeit - (house) chores
 Fertig - finished
 	Wir sind endlich fertig, unser haus ist sauber - we are finally finished, our house is clean. 
 
+Zeichne draws
+	Lukas: Was Zeichnet du ? 
+	Lili: Ich Zeichne nicht dich - I'm not drawing you
+Hübsch pretty
