@@ -1,6 +1,6 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
 [scientific research](https://www.facebook.com/share/v/19mtSEZVsn/)
-[[Network Function Block]]
+[[Research - Network Function Block]]
 **Dead Line 15/1:** [CNN to LSTM](https://docs.google.com/spreadsheets/d/1BrJD6fgeYOb9dF2lqKvpYf9UJ4u-jbdsGb_bfupmnE8/edit?gid=757432949#gid=757432949)
 
 

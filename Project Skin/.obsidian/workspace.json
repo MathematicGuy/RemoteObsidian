@@ -10,6 +10,7 @@
           {
             "id": "96892378c9b20059",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "backlinks": false,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
