@@ -18,3 +18,10 @@
 + gratuitous: cho không
 + cumulative: cộng dồn
 + Heuristic: utmost simple 
+
+
+**Subject-Verb-Agreement**
+Subjet plural then Verb Single
+	Ex: They want eat ice cream
+If Subject Singler then Verb Plural
+	Ex: She wants to achieve academic farewell
