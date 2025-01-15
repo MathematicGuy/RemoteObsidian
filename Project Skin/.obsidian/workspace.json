@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eebe79cb05c6ccda",
+            "id": "a812bd366eda0d21",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "a812bd366eda0d21",
+            "id": "dcdc88062593e8e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "German Vocabulary"
             }
           }
         ],
@@ -88,7 +93,7 @@
             }
           },
           {
-            "id": "9e363f1e49d37d30",
+            "id": "2d96f2fe56ced585",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -238,11 +243,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a812bd366eda0d21",
+  "active": "dcdc88062593e8e3",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
-    "_Focus/Todo.md",
     "3 RESOURCES/Git/Github for Beginners.md",
     "3 RESOURCES/Git/Git Requirement.md",
     "3 RESOURCES/Git/Git.md",

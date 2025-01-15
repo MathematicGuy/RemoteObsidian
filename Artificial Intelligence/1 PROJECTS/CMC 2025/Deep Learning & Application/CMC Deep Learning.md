@@ -16,5 +16,11 @@
 
 ![[Pasted image 20250108112844.png]]
 
-### 2 Layers NN Pseudo Code
+---
 
+MLP take 1D input -> cannot differentiate features at diff position, its only recognized object but not where the object, hence why MLP is bad for recognized spatial features.  
+
+**What is Spatial Features ?**
+
+
+**Why kernel help highlight certain features of the image ?**

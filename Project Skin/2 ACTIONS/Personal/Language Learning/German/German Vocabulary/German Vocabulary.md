@@ -2934,3 +2934,13 @@ Zeichne draws
 	Lukas: Was Zeichnet du ? 
 	Lili: Ich Zeichne nicht dich - I'm not drawing you
 Hübsch pretty
+
+Studiere study 
+Unorderntlich messy (unorder)
+Miete rent
+	Er hat nie Geld für die Miete / He have no money for rent
+
+Auf dem / live on
+	Toto und Ich wohnen nicht auf dem Campus 
++ wohnen because **Toto und Ich is plural**
+
