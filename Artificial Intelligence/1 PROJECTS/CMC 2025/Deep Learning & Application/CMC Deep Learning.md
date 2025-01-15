@@ -4,7 +4,7 @@
 + **Reinforcement Learning** is a ML technique that teach ML Model learns base on some set-of-polices that is reward-and-punishment. 
 
 **CNN vs MLP**
-	**CNN extract spatial features** (đặc trưng không gian) like **edges, textures and patters** while **MLP is less efficient at capturing spatial features** compared to CNNs even with features engineering.
+	**CNN extract spatial features** (đặc trưng không gian) like **edges, textures and patterns** while **MLP is less efficient at capturing spatial features** compared to CNNs even with features engineering.
 
 
 ### What the different between Keras, Tensorflow and Pytorch

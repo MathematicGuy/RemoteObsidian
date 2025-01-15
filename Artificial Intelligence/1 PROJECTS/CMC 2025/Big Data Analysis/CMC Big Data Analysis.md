@@ -27,6 +27,39 @@ Each file get divided into Blocks (often 3), each block typically 128MB or 256MB
 
 3 Blocks saved to n different DataNodes -> Allow to save & process data more efficient. (3 copies for each block)![[Pasted image 20250109092748.png]]
 
+---
 
+**Basic Statistics**
+- Mean
+- Median
+- Variance
+- Counts
+- Top-N
+- Distinct
 
+**Integration**
++ Bayesian Inference
++ Expectations
++ Markov Chain
++ Monte Carlo (Dat Circle Problem)
 
+**Linear Algebra Computation**
++ Linear Algebra.
++ Linear Regresion
++ PCA
+
+**7 main Computational Tasks in Analytic:**
+1) Basis Statistics
+2) Generalized N-Body Problems
+3) Linear Algebraic Computation
+4) Graph-Theoretic Computations
+5) Optimizations
+6) Integration 
+7) Alignment Problems
+
+**Process of Data Analysis**
+![[Pasted image 20250114084521.png]]
+
+**Data Graph** 
+-> Meaning of each types of graph in Data Analytics
+ 

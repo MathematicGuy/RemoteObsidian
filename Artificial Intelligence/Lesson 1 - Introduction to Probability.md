@@ -225,7 +225,6 @@ write the answer down to paper.
 	Examples: ![[Pasted image 20241004162138.png]]
 	![[Pasted image 20241004162255.png]]
 
-
 ## Bayes Theorem - The Naive Bayes Model
 ![[Pasted image 20241004163804.png]]
 
