@@ -1255,6 +1255,8 @@ Zahle (t/st/en) - pay
 	Karl, Zahlst du mit Kreditkarte - karl, do you paying with a creadit card
 	Ja, Sie können im Reisezentrum zahlen
 	Sie können hier oder im Reisezentrum zehlen - you can pay here or in the travel center
+Zahl (Command Form)
+	Zahl die Miete - pay the rent
 
 Fällt vs Stornieren
 	oh nein, mein zug nach München fällt aus 
