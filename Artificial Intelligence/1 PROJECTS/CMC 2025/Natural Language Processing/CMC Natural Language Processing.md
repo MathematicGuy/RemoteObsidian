@@ -136,3 +136,17 @@ For very large N-grams like the Web:
 ### Kneser-Ney Smoothing
 >This fomula help us to automatically if not work with unigram then change to biagram.
 
+---
+### Practice: Language Modeling
+**Content:**
+	**Language modeling**
+		Calculate n-gram
+		Conditional probability
+		Smoothing techniques
+	**Basic decoding**
+		Greedy search
+		Beam search
+		Random sampling
+	**Perplexity**
+
+![[Pasted image 20250116112703.png]]

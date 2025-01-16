@@ -2942,5 +2942,5 @@ Miete rent
 
 Auf dem / live on
 	Toto und Ich wohnen nicht auf dem Campus 
-+ wohnen because **Toto und Ich is plural**
++ Wohnen because **Toto und Ich is plural**
 

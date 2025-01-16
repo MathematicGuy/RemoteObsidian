@@ -2,6 +2,12 @@
 Tổng 10 Tuần.
 Tuần 7-8: Kiểm tra giữa kì
 
+---
+[[BDA - HW1]]
+
+
+---
+
 Meta Data: [metadata](https://dataedo.com/kb/data-glossary/what-is-metadata) is data that describe data or **Data Properties** (E.g. Image Properties, Header, Table of contents, summary text of a book, book title, author)
 ![[Pasted image 20250107092616.png]]
 
@@ -62,4 +68,26 @@ Each file get divided into Blocks (often 3), each block typically 128MB or 256MB
 
 **Data Graph** 
 -> Meaning of each types of graph in Data Analytics
- 
+
+#### Big data analytics techniques
++ Quantitative Analysis - phân tích định lượng 
++ Qualitative Analysis - phân tích định tính -> phân tính tính chất của dữ liệu định lượng. 
++ Data Mining
++ Statistical Analysis
++ Machine Learning
++ Semantic Analysis
++ Visual Analysis
+
+**A/B Testing -** Compare Example A with Example B to see which is better. 
+**Correlation -** Tìm ra các mối quan hệ bằng cách *xem xét sự tương quan giữa đối tượng này vs các đối tượng khác*. 
+**Regression -** is _a set of statistical methods used to estimate relationships_ between a dependent variable (i.e.`y`) and one or more independent variables (i.e. `X={x1, x2, ..., xn}`).
+**Correlation vs Regression:** 
+
+**Clustering vs Classification**
+Clustering: 
++ Unsupervised Learning -> have no label, Machine have to learn the relationship between variables itself and self classified it into a cluster. (number of Classes is not limited)
+
+Classification:
++ Supervised Learning -> have n given label. (Label is predefine thus number of Classes is limited) 
+
+
