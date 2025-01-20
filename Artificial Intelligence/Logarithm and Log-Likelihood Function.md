@@ -97,6 +97,14 @@ This formula can be useful when you need to switch between $\log()$ and $\ln()$ 
 ```
 
 
+# Application of log
+Áp dụng của log:
++ Có 2 giá trị: 1 gtri nhỏ hơn 1 gấp 8 lần: 1/8 và 1gtri lớn 1 gấp 8 lần: 8. Và tất nhiên 1 giá trị này không đối xứng tại 1 như nhữg số khác. 
+	e.g. 5 và 15 so với 10 (**5**, 6, 7, 8, 9, **10**, 11, 12, 13, 14, **15**) 
+-> Dùng log để đưa 2 gtri về cùng 1 thước đo: $log_{2}(2^{-3})$ and $log_{2}(2^{3})$ nói đúng hơn là dùng số mũ dựa với base là 2 vì $2^{-3}=\frac{1}{8}$ và $2^{3}=8$ 
+![[Pasted image 20250118174821.png]]
+
+
 # Likelihood Function
 
 **Probability:** Assume how likely sth to happend (i.e. prob without tested)

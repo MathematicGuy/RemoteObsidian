@@ -47,3 +47,10 @@ Most distribution is not uniform. For M outcome, each outcome is
 ![[Pasted image 20241108143100.png]]
 > Since **if we're less certain of an outcome we may need more information to describe.**
 
+---
+## Entropy in Short
+>**Entropy** is a value represent **Uncertainty**. 
+>+ If S = 0, it mean No Suprise -> Certainty about the result/results.
+>+ If S = 1, it mean Big Suprise -> Uncertainty about the results.  
+![[Pasted image 20250118175824.png]]
+

@@ -46,7 +46,9 @@
 		    - **Dự đoán vị trí của các keypoint bị thiếu dựa trên các keypoint đã được phát hiện trước đó** và mô hình chuyển động. (Giống việc xác định 4 góc từ 3 trong nhận diện thẻ CCCD)
 		    - **Dự đoán chuyển động:** Bộ lọc Kalman có thể được sử dụng để dự đoán vị trí của các khớp trong tương lai -> dự đoán hành động, hành vi.
             ![[figure-kalman-filter-algorithm-scalar.png]]
-6. **Tiền xử lý dữ liệu khung xương (Pre-processing Skeleton Data):**
+            ![[Pasted image 20250116152939.png]]
+            ![[Pasted image 20250116153214.png]]
+1. **Tiền xử lý dữ liệu khung xương (Pre-processing Skeleton Data):**
     
     - **Mục đích:** Chuẩn bị dữ liệu khung xương cho bước trích xuất đặc trưng.
         

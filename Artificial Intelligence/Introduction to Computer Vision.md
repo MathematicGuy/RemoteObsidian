@@ -1,4 +1,4 @@
-### RGB Color
+	### RGB Color
 > Red, Green, Blue each 256 color degree (i.e. 256 different way to represent each color respectively)
 ![[Pasted image 20241008165504.png]]
 

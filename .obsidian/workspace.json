@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff9a1382dabaf3ec",
@@ -157,6 +158,7 @@
   },
   "active": "6ee0bdb064c3dfa9",
   "lastOpenFiles": [
+    "Artificial Intelligence/1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "Artificial Intelligence/Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Project Skin/Images/Pasted image 20241205142934.png",
     "Dream/image/Pasted image 20241205142851.png",
