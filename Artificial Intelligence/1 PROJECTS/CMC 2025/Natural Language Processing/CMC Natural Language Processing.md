@@ -149,4 +149,11 @@ For very large N-grams like the Web:
 		Random sampling
 	**Perplexity**
 
-![[Pasted image 20250116112703.png]]
+---
+## Text Classification 
+
+**Quiz: What the different between Machine Learning and Deep Learning ?**
+Deep Learning -> Choose Features (i.e. Feature Engineering) by itself.
+Machine Learning -> Human have to Engineer Features Manually.
+
+

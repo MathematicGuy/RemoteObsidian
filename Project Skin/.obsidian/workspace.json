@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9baaa5a3e84a5c",
+        "id": "05e5a2e832493aec",
         "type": "tabs",
         "children": [
           {
-            "id": "271145a7b377775b",
+            "id": "143abe678db22128",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,7 +18,6 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
@@ -77,15 +75,13 @@
             }
           },
           {
-            "id": "818b80c0ec164592",
+            "id": "754173b327d410e8",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -229,7 +225,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "271145a7b377775b",
+  "active": "143abe678db22128",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "_Focus/Todo.md",

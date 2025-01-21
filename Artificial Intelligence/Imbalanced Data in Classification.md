@@ -9,7 +9,6 @@ Say you have threshold probability called classification threshold where:
 + FP: ví dụ sai nhưng mình phân loại nó là đúng
 + FN: ví dụ đúng nhưng mình phân loại nó là sai
 
-
 ### Precision, Recal (TPR), FPR, Accuracy 
 ![[Pasted image 20241125162426.png]]
 Note: all use case (&) are spam email classification
@@ -39,7 +38,7 @@ $$Precision = \frac{\text{correcly classificed actualy postives}}{\text{everythi
 
 
 + $ Precision improves as false positives decrease, while recall improves when false negatives decrease. But as seen in the previous section, increasing the classification threshold tends to decrease the number of false positives and increase the number of false negatives, while decreasing the threshold has the opposite effects. As a result, precision and recall often show an inverse relationship, where improving one of them worsens the other.
-
++ 
 
 note: threshold start from left to right (low to high)
 + $ By adjusting the threshold seperate 2 side above we see that:
@@ -52,12 +51,12 @@ note: threshold start from left to right (low to high)
 **Usecase for Seperate Data, we observe**
 + @ **Overview:** by adjusting the threshold you can increase precision or recall base on your needs. Example for real-time task like self-driving cars you prefers decrease threshold for higher recall, for accuracy demanding task like Attendance system you increase threshold for higher precision.  
 
-+ $ **Threshold Decrease** $\to$ True/False Positive Increase (Accept More Incorrect/FP as Correct/P) $\to$ **Favour Recall**: increase overall true prediction at the cost of accepting more false predictions. (muốn dự đoán đúng nhiều hơn thì phải chấp nhận sai nhiều hơn)
++ $ **Threshold Decrease** $\to$ True/False Positive Increase (Accept More Incorrect/FP as Correct/P) $\to$ **Favour Recall**: increase overall true prediction at the cost of accepting more false predictions. **(muốn dự đoán đúng nhiều hơn thì phải chấp nhận sai nhiều hơn)**
 +  Analogy: Risky Child (Favouring Recall)
 + & **Use Case:** Automated Car accept to observe *light pole or potential lightsource* as human (False Positive) to avoid potential accident. The same for predicting potential cancer patient. 
 	![[Pasted image 20241222134510.png]]
 
-+ $ **Threshold Increase** $\to$ True/False Negative Increase (Accept More Correct as Incorrect) $\to$ **Favour Precision**: Increase overall precision at the cost of having less correct predictions (muốn dự đoán chính xác hơn thì phải chấp nhận số dự đoán đúng ít hơn) 
++ $ **Threshold Increase** $\to$ True/False Negative Increase (Accept More Correct as Incorrect) $\to$ **Favour Precision**: Increase overall precision at the cost of having less correct predictions **(muốn dự đoán chính xác hơn thì phải chấp nhận số dự đoán đúng ít hơn)** 
 + Analogy: Cautious Child  (Favouring Precision)
 + & **Use Case:** Wine factory automate wine with ~99.99% favour in condition and handcraft wine with less favour to ensure quality of wine.  
 ![[Pasted image 20241125163957.png]]

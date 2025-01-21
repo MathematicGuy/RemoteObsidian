@@ -24,21 +24,49 @@
             }
           },
           {
-            "id": "3d10ebad7f5381d7",
+            "id": "e47f498d7cb19448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Activity Recognition Methods.md",
+                "file": "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human Activity Recognition Methods"
+              "title": "CMC Natural Language Processing"
+            }
+          },
+          {
+            "id": "8bab9e458dca44cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLS Week 3 - Classification with logistic regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLS Week 3 - Classification with logistic regression"
+            }
+          },
+          {
+            "id": "03838fd4d7a514f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imbalanced Data in Classification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imbalanced Data in Classification"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,14 +225,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d10ebad7f5381d7",
+  "active": "03838fd4d7a514f5",
   "lastOpenFiles": [
+    "ML CheatSheet.md",
+    "2 ACTIONS/_Focus.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
+    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "Courses Pipeline.md",
+    "Logarithm and Log-Likelihood Function.md",
+    "Logistic Regression.md",
+    "image/Pasted image 20250116112703.png",
+    "Human Activity Recognition Methods.md",
+    "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
+    "Statistic and Probability for Machine Learning.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "Lesson 2 - Probability Distributions.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "Logistic Regression Lab - Predict whether a student gets admitted into a university.md",
-    "Human Activity Recognition Methods.md",
     "AIO 2025.md",
     "Research - Network Function Block.md",
-    "2 ACTIONS/_Focus.md",
     "1 PROJECTS/NCKH 2025/NCKH 2025.md",
     "image/Pasted image 20250120135153.png",
     "image/Pasted image 20250120130946.png",
@@ -217,24 +258,11 @@
     "image/Pasted image 20250119135838.png",
     "image/Pasted image 20250119135806.png",
     "Pose Estimation Note.md",
-    "image/Pasted image 20250119130343.png",
     "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md",
     "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
     "Introduction to Computer Vision.md",
     "Computer Vision.md",
     "AIO - CNN Summary.md",
-    "Research - Loss Function for Medical Segmentation.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "Shannon Entropy.md",
-    "Term Explaination Video.md",
-    "AIO 2024.md",
-    "Histogram Equalization.md",
-    "Correlation Coeficient.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
-    "Eigenvalues and Eigenvectors.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Linear system as Matrix using Numpy.md",
-    "Linear Regression.md",
     "Code ML",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
