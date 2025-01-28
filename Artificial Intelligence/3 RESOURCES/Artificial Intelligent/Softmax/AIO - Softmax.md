@@ -2,6 +2,8 @@ note:
 + Hadamard devision (Element-Wise product)
 + Softmax is like logisitc regression
 + $k$-th mean element at position $k$. The same for other letter $a,b,c,d,i,j,etc\dots$ 
++ [[Why Do Neural Network love Softmax]]
++ [Sigmoid vs Softmax](https://towardsdatascience.com/sigmoid-and-softmax-functions-in-5-minutes-f516c80ea1f9) (Sigmoid is for 1 class, Softmax is for multi-class)
 # Softmax Regression
 > Giống Logistic Regression nhưng để phân loại nhiều lớp/đặc trưng (multiple class). Vd trong Logistic Regression nếu z=3 có xs là 0.88 thì TH còn lại là z=1 sẽ là 0.12, vậy tổng các xs là 1 đối vs 2 TH. Với Softmax, nếu có n TH thì tổng xs của n TH là 1 như vd ở dưới:     
 ![[Pasted image 20241106050754.png]]
@@ -96,8 +98,9 @@ where:
 
 This approach is efficient because it leverages matrix operations to compute the sum of losses, making it ideal for handling large datasets in a vectorized form.
 
+
 ---
-# AIO Note
+# AIO2024: Softmax
 
 Nhiều tham số hơn (more parameters) thì có tiềm năng làm đc nhiều thứ hơn. Basically more data
 

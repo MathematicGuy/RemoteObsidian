@@ -3,6 +3,7 @@
 [[Research - Network Function Block]]
 **Dead Line 15/1:** [CNN to LSTM](https://docs.google.com/spreadsheets/d/1BrJD6fgeYOb9dF2lqKvpYf9UJ4u-jbdsGb_bfupmnE8/edit?gid=757432949#gid=757432949)
 Tools: Mapify
+- [ ] Remind mother to bring Rúc dinning plate
 
 **Machine Learning**
 [[AIO 2024]]

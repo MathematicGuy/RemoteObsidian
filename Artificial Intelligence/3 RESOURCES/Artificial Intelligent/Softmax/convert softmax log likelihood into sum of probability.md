@@ -1,4 +1,4 @@
-To understand where the softmax regression loss function originates from mathematically, let's dive into its foundation, which is rooted in probability theory and maximum likelihood estimation. 
+STo understand where the softmax regression loss function originates from mathematically, let's dive into its foundation, which is rooted in probability theory and maximum likelihood estimation. 
 
 Here's how we build up to the softmax regression loss function step-by-step:
 

@@ -2946,3 +2946,16 @@ Auf dem / live on
 	Toto und Ich wohnen nicht auf dem Campus 
 + Wohnen because **Toto und Ich is plural**
 
+#iss_vs_isst
++ **Iss:** when you giving command
+	Du hast eine Pizza, Iss mein Käsebröt nicht - You have a pizza, don't eat my cheese sandwich!  
++ **Isst:** present tense of the verb essen
+	Du isst einen Apfel - You are eating an apple
+
+
+Leer empty (Adverbs - come after verb)
+	Der Kuhlshrank ist wieder leer - the refrigerator is empty again
+Saft juice
+	Apfelsaft - apple juice
+	orangensaft - orange juice
+
