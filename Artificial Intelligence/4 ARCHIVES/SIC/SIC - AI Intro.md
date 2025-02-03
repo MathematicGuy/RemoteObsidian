@@ -111,7 +111,7 @@ Ex: The Algo track **how long** u listen to a song, **type of song** you listen 
 	Find the **right algorithm** for each **task**
 -> Mix/Use the algorithm to get the best insight for your datas
 
-**[[K-nearest neighbor]]** (KNN)
+**[[K-Nearest Neighbor (KNN)]]** (KNN)
 	Algorithm plot new data to the one you already had.
 	Euclidean Distance
 		A mathematical formula that can help see the

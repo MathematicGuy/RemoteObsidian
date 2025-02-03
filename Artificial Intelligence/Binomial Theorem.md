@@ -89,3 +89,9 @@ $$\begin{pmatrix}n \\ k\end{pmatrix} = \frac{n!}{k!(n - k)!}$$
 **and the second part represent probability of success and failure** 
 $$p^k(1 - p)^{(n - k)}$$
 
+### Estimating $\pi$ using the Monte Carlos Method
+First consider $s = 2r$ is the edge length of a square where $r=1$, by this Area of the square is $s^{2}= 4r^2$, annotate as $A_{s}$   
+Secondly, drawing a circle within the square with radius of 1 extend from 1 to -1 in both y and x axis respectively. The Circle area is $\pi r^2$ annotate as $A_{c}$
+![[Pasted image 20250128115228.png]]
+To estimate the **probability of a point inside is the circle** we divide Area of the circle by the Area of the square: $$P_{\text{point inside circle}} = \frac{s^2}{\pi r^2} = \frac{A_{c}}{A_{s}} = \frac{\pi r^{2}}{4r^2}=\frac{\pi}{4}$$ Thus $\pi = 4P_{\text{point inside circle}}$ or $$\pi = \frac{s^{2}}{r^{2}} .\frac{A_{s}}{A_{c}}$$
+

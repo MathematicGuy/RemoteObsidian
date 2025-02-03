@@ -2,7 +2,6 @@
 sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
-
 ![[Pasted image 20240929225308.png]]
 #Todo/Priority  
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club) - can use ChatGPT
@@ -20,6 +19,7 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] Exercise right after waking up 
 - [ ] To be the person that I am. I must let the person that I not. Die
 
+[[Calisthenics]]
 
 **My Learning**
 [Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 0
@@ -82,11 +82,7 @@ banner: Images/Pasted image 20240402135259.png
 
 [[Obsidient System]]
 
-#Calithenic
-- [ ] **1st Milestone**
-	- [ ] 1-2 minutes: 90 Degree hold - Keep balancing myself and try to get to that point.
-	- [ ] Moving my wirst closer and closer to my hip and Keep that Plance position for 2 minutes.
-	- [ ] My first Plance Push-up.
+ 
 
 
 Luck 

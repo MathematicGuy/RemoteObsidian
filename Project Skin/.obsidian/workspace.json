@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fab53977e122732b",
+        "id": "26e772847c236fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "e22ab481e23bb1be",
+            "id": "51abbca9f9d91409",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "272b26195bf6a118",
+            "id": "f26f7dacc8a93436",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,10 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e22ab481e23bb1be",
+  "active": "51abbca9f9d91409",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+    "2 ACTIONS/Workout/Calisthenics.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "3 RESOURCES/Git/Github for Beginners.md",
     "3 RESOURCES/Git/Git Requirement.md",
@@ -266,7 +267,6 @@
     "3 RESOURCES/Web/FrontEnd/CSS Artistic.md",
     "Images",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
-    "2 ACTIONS/Personal/Interest/Music/Guitar.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
