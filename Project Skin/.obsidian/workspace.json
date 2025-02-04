@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78098d5f725cc46f",
+        "id": "984fd2fc0acf3a79",
         "type": "tabs",
         "children": [
           {
-            "id": "84c82135243638f8",
+            "id": "c3220125b752e6fd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "a66767bbddf76b0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             }
           },
           {
-            "id": "6ae17c278ebdc2b6",
+            "id": "887607cf8c381f83",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,7 +238,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "84c82135243638f8",
+  "active": "a66767bbddf76b0b",
   "lastOpenFiles": [
     "Spaces/Classification Techniques.md",
     "Classification Ensemble.md",
