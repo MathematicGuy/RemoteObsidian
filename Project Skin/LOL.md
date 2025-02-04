@@ -64,9 +64,9 @@ If you can time your movements you can stay ahead your enemy. Or predict your en
 + ? You only stay ahead because you have more Stuff not more money.
 
 ### Attacking Tempo
-"If I can predict the enemy movement and kill them, where can I do it again?"
+"If I can predict the enemy movement and kill them, where can I do it again ?"
 
-If the enemy Jungle kill Dragon, can I steal their Jungle Buff and monsters.
+If the enemy Jungle kill Dragon, can I steal their Jungle Buff and monsters ?
 (This is map awareness)
 
 

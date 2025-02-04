@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3220125b752e6fd",
+            "id": "a66767bbddf76b0b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "a66767bbddf76b0b",
+            "id": "17453617170fe17d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LoL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LoL"
             }
           }
         ],
@@ -88,7 +93,7 @@
             }
           },
           {
-            "id": "887607cf8c381f83",
+            "id": "d483060ca5fb40e6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -238,13 +243,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a66767bbddf76b0b",
+  "active": "17453617170fe17d",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "Spaces/Classification Techniques.md",
     "Classification Ensemble.md",
     "Classification Bayes.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "_Focus/Todo.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",

@@ -33,5 +33,7 @@ To reach 52 wins, I need to play 11-13 matches per week, 12 on average. That 288
 
 **Prequisites**
 1) **Have a Clear Mind**. This mean I can see situation in the third person perspective thus **knowning what involve around me, what I am currently doing and strategizes my best position, my targets and being flexible to oppotunities.**   
-2) **Know my Champion**. To do the best, I need to know the limit of my champion, what my champion is capable of (e.g. survival capability, damage, ehaviours), its special technique, what its good for (e.g. crowd control, separating enemy champ, create chaos between enemy lines). what is the best time to use my Ultimate. 
-3) **Know the enemy.** To predict my best move "map reading" ability is key for  
+   
+2) **Know my Champion**. To do the best, I need to know the limit of my champion, what my champion is capable of (e.g. survival capability, damage, ehaviours), its special technique, what its good for (e.g. crowd control, separating enemy champ, create chaos between enemy lines). what is the best time to use my Ultimate.
+
+3) **Know the enemy.** **Map reading** ability is **key for a good tempo**, meaning I need to predict my opposition is going (e.g. If I'm a jungler then I must predict their jungler movements) and **observe winning/losing combat, potential risky position** so I can **focus on farming** to close/extend the gold gap. 
