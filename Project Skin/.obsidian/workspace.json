@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26e772847c236fa9",
+        "id": "78098d5f725cc46f",
         "type": "tabs",
         "children": [
           {
-            "id": "51abbca9f9d91409",
+            "id": "84c82135243638f8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "f26f7dacc8a93436",
+            "id": "6ae17c278ebdc2b6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,10 +227,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "51abbca9f9d91409",
+  "active": "84c82135243638f8",
   "lastOpenFiles": [
-    "2 ACTIONS/Workout/Calisthenics.md",
+    "Spaces/Classification Techniques.md",
+    "Classification Ensemble.md",
+    "Classification Bayes.md",
+    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Workout/Calisthenics.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "3 RESOURCES/Git/Github for Beginners.md",
@@ -262,11 +266,7 @@
     "German Song.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS/CSS Grid.md",
     "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS.md",
-    "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/CSS/CSS Flex Box.md",
-    "3 RESOURCES/Web/FrontEnd/CSS Desgin Pattern.md",
-    "3 RESOURCES/Web/FrontEnd/CSS Artistic.md",
     "Images",
-    "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
