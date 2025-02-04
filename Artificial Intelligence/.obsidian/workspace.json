@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "Pandas Code"
             }
-          },
-          {
-            "id": "e68bc15bb95fe1ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master Psudo Planche (GYM + CALISTHENICS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Master Psudo Planche (GYM + CALISTHENICS)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +197,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e68bc15bb95fe1ab",
+  "active": "f34e833eee919c0a",
   "lastOpenFiles": [
-    "Master Psudo Planche (GYM + CALISTHENICS).md",
+    "image/Pasted image 20250204155636.png",
     "Pandas Code.md",
+    "Master Psudo Planche (GYM + CALISTHENICS).md",
+    "image/Pasted image 20250204155654.png",
     "2 ACTIONS/_Focus.md",
     "Anstler Palace.canvas",
     "Master in Wild Drift.md",
@@ -242,8 +230,6 @@
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Linear system as Matrix using Numpy.md",
     "Linear Regression.md",
-    "image/Pasted image 20250114205443.png",
-    "image/Pasted image 20250114213814.png",
     "Why Do Neural Network love Softmax.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",

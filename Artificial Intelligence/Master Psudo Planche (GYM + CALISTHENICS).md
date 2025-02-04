@@ -8,7 +8,7 @@
 
 # CALISTHENICS
 
-
+![[Pasted image 20250204155654.png]]
 **Current Psysique:** x13 33kg lat pull down, x10-15 Regular Psudo Planche per set, x40 push up of all range from short to wide shoulder each set, x10 pull up, x20 shrimp/pistol squat, x20 17.5kg dumbbell shoulder press, x10 37kg chest fly workout using the Pec Deck Machine. 
 **Goals:** Psudo Scapular Planche, Scapular Planche
 

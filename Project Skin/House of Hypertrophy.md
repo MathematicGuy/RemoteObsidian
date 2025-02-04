@@ -22,12 +22,13 @@ Phương pháp đầu: Lengthed Superset đơn giản sẽ giúp cậu tăng tr�
 	Watch this before heading to the next
   
 ### [73.9% More Muscle Growth](https://youtu.be/sJxoF_uEuH0?si=7QdeUihqmuAjhr5S) 
-
+**Total set for a Muscle Group**
+![[rep.png]]
 
 ![[House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x538 - 1m17s].png]]
 
 ![[House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 1m26s].png]]
-This is return better muscle grown than 9 Weekly Sets
+This return better muscle grown than 9 sets Weekly 
 
 
 ![[Pasted image 20240723001031.png]]![[Pasted image 20240723001047.png]]

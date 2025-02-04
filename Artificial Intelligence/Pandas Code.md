@@ -16,7 +16,7 @@
 
 **Find index** of **max/min value** -> `.idxmax()`, `.idxmin()`
 **Find max/min value** -> `max()`, `min()`
-
+	
 **Indexing**
 >Retrieve data by index
 - `df.loc['label_name']` is label-based indexing (looking up by row label or column label) - *loc mean location*
