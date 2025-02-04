@@ -18,10 +18,12 @@ Phương pháp đầu: Lengthed Superset đơn giản sẽ giúp cậu tăng tr�
 
 + ! All Method is **Best When applying to Safe Excercise which focus on 1 Particular Muscle Group**.  Not for Weight Lifting, DeadLift, etc...Excercise that require Multiple Muscle Group. ([Evident](https://www.youtube.com/watch?v=xW79HPiyidk)) 
 ### [43.3% More Muscle Growth](https://www.youtube.com/watch?v=vEKLzXDPoeU)
-+ Review Basic Lengthened Superset.
++ Review Basic Lengthe>ned Superset.
 	Watch this before heading to the next
-
+  
 ### [73.9% More Muscle Growth](https://youtu.be/sJxoF_uEuH0?si=7QdeUihqmuAjhr5S) 
+
+
 ![[House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x538 - 1m17s].png]]
 
 ![[House of Hypertrophy - Faster Muscle Growth These NEW Studies Are Great [sJxoF_uEuH0 - 958x539 - 1m26s].png]]
