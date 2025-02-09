@@ -24,3 +24,20 @@ MLP take 1D input -> cannot differentiate features at diff position, its only re
 
 
 **Why kernel help highlight certain features of the image ?**
+
+---
+
+### Penalized
+Add $\lambda$ to penalized multiple weights. larger $\lambda$ is smallar $W_i$ is 
+![[Pasted image 20250205120006.png]]
+
+### Drop Out
+Each training dataset, we randomly remove a subset of neurons.
+![[Pasted image 20250205120119.png]]
+
+## [One-Hot Encoding vs Label Encoding]((https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/#:~:text=Label%20encoding%20assigns%20integers%20to,nominal%20and%20number%20of%20categories)
+![[Pasted image 20250207111442.png]]
++ **One-Hot Encoder:** Encode features into a array where each value is either 0: False or 1. Each feature have their own array fill with 0 (array length == number of feature) but value 1 at feature_index.     
++ **Label Encoding:** assign id to each features 
+
+

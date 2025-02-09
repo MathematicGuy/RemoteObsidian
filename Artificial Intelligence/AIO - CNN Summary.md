@@ -1,4 +1,4 @@
-# CNN Introduction
+[CNN](https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-convolutional-neural-networks) Introduction
 + @ Tóm tắt cơ bản: MLP giúp phân loại nếu số features đầu vào ko quá nhiều. Đối vs dữ liệu ảnh có hàng triệu features, đầu tiên ta dùng **CNN để trích xuất hàng trăm features quan trọng nhất từ hàng triệu features** đó. Rồi mới **đưa vào MLP để phân loại hình ảnh**.    
 
 Trong xử lý ảnh, mỗi ảnh có hàng ngàn pixels, mỗi pixles đc xem như 1 feature. Nếu ảnh có kích thước 1000x1000 thì sẽ có 1.000.000 features. Trong MLP có feed-forward NN vs mỗi layers, mỗi pixel trog 1 layer lại kết nối full-connected vs 1.000.000 pixels ở lớp tr'c. tức sẽ có $10^{6} \times 10^{6} = 10^{12}$  tham số mỗi layer. 
@@ -12,7 +12,6 @@ Trong xử lý ảnh, mỗi ảnh có hàng ngàn pixels, mỗi pixles đc xem n
 
 cụm pixels: n by n pixles block 
 + $ **Locally Connected Layer:**  In the first hidden layer of a CNN, each node (or neuron) connects only to a small portion of the input image, rather than the entire image. This small portion is often referred to as the **receptive field** (*region of the image*). By limiting connections to these local regions, the model significantly reduces the number of parameters compared to a fully connected layer, making it more efficient
-
 + $ **Shared parameters:** In images, certain key features (e.g., edges, corners, or patterns) often appear repeatedly across different regions or feature maps. To efficiently capture these features, we use the same set of parameters (weights) across the entire image.
 + ? For example, in the inner curve of the digit "7," this pattern might appear in multiple locations across different feature maps. By sharing parameters, the CNN can detect these features regardless of their position, ensuring efficient and consistent feature extraction across the input.
 
@@ -41,9 +40,18 @@ Key Note:
 	![[Pasted image 20241208163921.png]]
 	![[Pasted image 20241208164033.png]]
 
-
-Unmentions Topic (note later):
+**Unmentions Topic (note later):**
 ![[Pasted image 20241208150944.png]]
 
+**Count Parameters**
+![[Pasted image 20241009111146.png]]
+**Parameters:** all internal variables within a model. 
+**Parameter of each feature maps:** $$\text{parameters} = ((kernel \textunderscore height \times kernel \textunderscore width) \times number \textunderscore of \textunderscore input \textunderscore channels + 1) \times \text{number of filters}$$
+First Conv2D Layer:
++ 28 x 28 x 5 x 16  
 
-
++ ? **Kernel vs Filter in CNN**, what the different ? 
+**Kernel:** Number of Kernel corresponding to each color channel. Because each Kernel Channel multiply with their corresponding Input Channel.   
+**Filter:** Number of time you perform "*Input_Channel* $\odot$ *Kernel*" and output Feature Map of a Image.   
++ ? **Example:** Image below have 3 Kernel, and 1 Filter. 
+	![[Pasted image 20250207103807.png]]

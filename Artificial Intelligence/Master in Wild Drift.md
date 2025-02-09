@@ -1,6 +1,8 @@
 **Current Rank:** Platinum II
 **Aimed Rank:** Master 
 
+STOP playing after 2 losing streak, for at least 2-3 days. If I don't know what the problems was.  
+
 Each Rank have **4 Divisions**. 
 + **Plat** require **4 Marks** to Advance. (8 more marks to advance)
 + **Emerald** require **5 Marks** to Advance (20 marks)

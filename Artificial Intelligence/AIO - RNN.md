@@ -1,3 +1,7 @@
+**Type of RNN**
+
+
+---
 ## Text Classification
 + Tokenize: Chia các từ ra từng unique character
 + Processing: xóa bỏ những ký tự ko cần thiết/quan trọng
@@ -12,5 +16,5 @@ Normalize độ dài của chữ. dùng padding là số 0 để chèn vào ô t
 chuỗi số:từ đc chứa trong 1 dict
 ![[Pasted image 20241218204738.png]] 
 
-
 ![[Pasted image 20241218220039.png]]
+

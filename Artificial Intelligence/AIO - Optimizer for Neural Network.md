@@ -40,7 +40,6 @@ use $k$ to control LR changing speed. The larger k is the slower LR changes are.
 ![[Pasted image 20241122211153.png]]
 
 **Làm sao để cho learning rate tự động giảm 1 cách khoa học (vd: dùng 1 hàm)**
-
 Để LR giảm dần thì K phải tăng dần . Kí hiểu t ~ K
 ![[Pasted image 20241122212703.png]]
 
@@ -105,9 +104,11 @@ result2: escapse local minimum.
 ![[Pasted image 20241122230218.png]]
 > If no momentum -> hard to climb. E.g. go straight and reach a high curve and cannot climb to reach global minimum.
 
-
 ### RSMProp + Momentum
 **Adaptive:** cân bằng giá trị vận tốc để thoát khỏi vùng cục bộ
+**m_t:** điều chỉnh hướng (1st order)
+**v_t:** điều chỉnh lượng cập nhật ở mỗi bước (2nd order)
+
 ![[Pasted image 20241122232242.png]]
 $$\theta_{t} = \theta_{t-1} - \frac{\alpha}{\sqrt{ \frac{v_{t}}{1-\beta_{2}^{t} + \epsilon}}} \times m_{t}$$
 ![[Pasted image 20241122231522.png]]

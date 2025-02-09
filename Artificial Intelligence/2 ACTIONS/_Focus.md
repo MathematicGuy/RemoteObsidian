@@ -1,16 +1,33 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
 [scientific research](https://www.facebook.com/share/v/19mtSEZVsn/)
-[[Research - Network Function Block]]
-**Dead Line 15/1:** [CNN to LSTM](https://docs.google.com/spreadsheets/d/1BrJD6fgeYOb9dF2lqKvpYf9UJ4u-jbdsGb_bfupmnE8/edit?gid=757432949#gid=757432949)
-Tools: Mapify
-- [ ] Remind mother to bring Rúc dinning plate
+
+#TODO
+**Crucial**
+- [ ] [[AIO - RNN]] 
+	[RNN YT](https://www.youtube.com/watch?v=Mdp5pAKNNW4&t=859s)
+- [ ] [[Research Group Note]]
+- [ ] Revision [[AIO - Basic LSTM, GRU (Time-series and Text)]]
+- [ ] Finish Deep Learning Lab HW  
+	[mlp pytorch](https://www.geeksforgeeks.org/multi-layer-perceptron-learning-in-tensorflow/)
+- [ ] Behaviour Detection Research
+- [ ] Understand Semential Detection for NLP class
+- [ ] Re-Explain how Filtering & Thresholding, and code work. 
+- [ ] **CV HW:** Finish Morphological Note and Code, Contour, Canny (Note + Code)
+- [ ] Finalize my Final Project for Computer Vision Class 
+
+**Interest**
+- [ ] Understand 2-Set Method in Calisthenics Training
+- [ ] Test 2-Set Method
+- [ ] Understand SVM
+- [ ] Note KNN
+- [ ] Understading ADAM
+
 
 **Machine Learning**
 [[AIO 2024]]
 [[AIO 2025]]
 [[ML CheatSheet]]
-[[Generative AI (AI Sáng Tạo)]]
-[[Computer Vision]]
+[Deep Dive to Deep Learning](https://d2l.ai/)
 note luyện code phần:
 + Data Splitting
 + Normalization
@@ -74,8 +91,6 @@ note luyện code phần:
 
 
 ![[Pasted image 20240611193343.png]]
-
-
 
 **Type of thinker:** https://www.facebook.com/share/v/ugMCx8db4voZLUeW/
 **Income Comparison:** https://www.facebook.com/share/v/9s4BfrjrdE6XqYxW/

@@ -5,7 +5,6 @@ Tuần 7-8: Kiểm tra giữa kì
 ---
 [[BDA - HW1]]
 
-
 ---
 
 Meta Data: [metadata](https://dataedo.com/kb/data-glossary/what-is-metadata) is data that describe data or **Data Properties** (E.g. Image Properties, Header, Table of contents, summary text of a book, book title, author)
@@ -90,4 +89,70 @@ Clustering:
 Classification:
 + Supervised Learning -> have n given label. (Label is predefine thus number of Classes is limited) 
 
+---
+# Hadoop Architecture
 
+## [MapReduce](https://www.todaysoftmag.com/article/1358/hadoop-mapreduce-deep-diving-and-tuning)
+**Abstract:** Organize and Reduce 
+**Process:**
+![[a11.png]]
+1) Load Big Data
+2) Map multiple data as <key, value> pairs from Big Data..
+3) <key, value> pairs then get Shuffle and Sort 
+4) The Reduce function takes in input as <key, value> pairs and produces - <key,value> pairs as output.
+
+## YARN
++ ? Yarn stand for Yet Another Resource Negotiator
+-> Allocates Allocates RAM, memory and other resources to different applications. 
+![[Pasted image 20250206074113.png]]
+
+## Hadoop Distributed Filesystem (HDFS)
+### What is Distributed Filesystem (DFS) ?
+> Divide a big File System into Smallar Managable File Systems which all connected to eachother. 
+![[Pasted image 20250206074333.png]]
+>Files from smaller Fs increase processing speed with each Fs focus on a separated task. 
+	note: Fs mean File system
+
+### Hadoop Cluster
+Each cluster work with Master Salves where Master Fs manages Slaves Fs
+![[Pasted image 20250206074805.png]]
+
+### Hadoop Cluster Architecture Overview
+**YARN:** act as the MASTER
+**HDFS:** act as the SLAVE
+![[Pasted image 20250206075031.png]]
+
+**FS-Image:** Current data status
+**Edit log:** Status changes history
+With SECONDARY NAMENODE act like a supporter for the 1st NAMENODE
+![[Pasted image 20250206075357.png]]
+
+Each file in **HDSF is stored as a data block.** **Default size is 128MB** with the **last block can be the same or lesser.** 
+![[Pasted image 20250206081050.png]]
+Each note block have 3 Replica so Block's data (e.g. B & D) is not lost even if the Node 5 crashes. 
+![[Pasted image 20250206081251.png]]
+
+**Advantages of HDFS**
++ **Scalable:** as it uses distributed storage
+	Cluster -> optimize storage space
++ **Cost effective:** require less power to process Big Data as HDFS process tasks in individua cluster which increase efficiency.
++ **Fault tolerant:** HDFS have multiple data copies (ie. Replication) to crashes if any Node fail.
++ **Data Security:** Procevides data security (e.g. encryption, authen, auti, etc.)
+
+## Hadoop HDFS commands
+![[Pasted image 20250206082544.png]]
+>[Apachy Hadoop Setup](https://topdev.com.vn/d/271-apache-hadoop-la-gi-cach-xay-dung-apache-hadoop-va-code-java-voi-no)
+
+## MAP REDUCE PATTERN
+
+### Numerical Summarization 
++ ? Numerical summarization patterns are used to compute various statistics such as counts, maximum, minimum, mean, etc.
+
+#### Example: Count
+1) **Map**: map number of time URL get visited. ![[Pasted image 20250206091735.png]]
+2) **Sort & Shuffle**: Sort each URL and shuffle them into group 
+	![[Pasted image 20250206091923.png]]
+3) **Reduce:** Merge and Count URL in each URL group ![[Pasted image 20250206092228.png]]
+
+#### Example: Max/min
+![[Pasted image 20250206092325.png]]

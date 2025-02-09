@@ -147,6 +147,9 @@ This function tells us how likely different values of $p$ are, given our observe
 ### Bernoulli Distribution
 ![[Pasted image 20241021084320.png]]
 
+### First of why log ?
+>**The closer a to 1, the closer log(a) to 0**. Which mean in log loss likelihood (i.e. loss function) **the more accurate the model is (i.e. closer to 1), the smaller Loss function** is and in reverse.  
+
 ### Likelihood
 >Using Bernoulli to calc someone to have cancer or not, however by **multipling the probability got smaller then result in super small value. That one of the reason why we calc the natural logarithm instead by convert multiplication to addition**. (using Product Rule and Power Rule)
 ![[Pasted image 20241021085007.png]]

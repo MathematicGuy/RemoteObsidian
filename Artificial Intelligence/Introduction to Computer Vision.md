@@ -83,7 +83,7 @@ $$x_{i*k, \space j*k}$$
 	+ ? Call the outer layers as the matrix's margin which include the top margin (1 row), bottom margin (last row), left margin (left column) 
 	+ $ (1) : A 6x6 Matrix removing its top & left margins, we got a 5 by 5 matrix. Then removing bottom & righ margins, we got a 4x4 matrix. (yes)
 		-> **remove its margin**, remove 2 layers.
-	+ $ (2): The 3x3 grid filter it margin while keeping only the center value. In Knowing that 3x3 grid need at least 3 rows (i.e. top/bottom) and 3 colmns (i.e. left/right) bc it cannot compute a valid if go out of bound, so sliding a 3x3 grid through the 6x6 matrix will exclude 6x6 margin.
+	+ $ (2): The 3x3 grid filter it margin while keeping only the center value. In Knowing that 3x3 grid need at least 3 rows (i.e. top/bottom) and 3 columns (i.e. left/right) bc it cannot compute a valid if go out of bound, so sliding a 3x3 grid through the 6x6 matrix will exclude 6x6 margin.
 		-> In other word, **remove its margin**.
 	(1) + (2): sliding 3x3 grid through 6x6 while only keeping the 3x3 grid center value will leave us with a 4x4 matrix. 
 	![[Pasted image 20241008164220.png]]

@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "f34e833eee919c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pandas Code"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +42,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links from CMC Big Data Analysis"
             }
           },
           {
@@ -178,7 +163,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,44 +183,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f34e833eee919c0a",
+  "active": "ed946d347e4ec1d8",
   "lastOpenFiles": [
-    "image/Pasted image 20250204155636.png",
-    "Pandas Code.md",
-    "Master Psudo Planche (GYM + CALISTHENICS).md",
-    "image/Pasted image 20250204155654.png",
+    "AIO - Talk.md",
+    "AIO 2024.md",
+    "AIO Team Research.md",
     "2 ACTIONS/_Focus.md",
-    "Anstler Palace.canvas",
+    "AIO - RNN.md",
+    "Master Psudo Planche (GYM + CALISTHENICS).md",
     "Master in Wild Drift.md",
-    "image/Pasted image 20250203150852.png",
-    "image/Pasted image 20250203094853.png",
-    "K-Nearest Neighbor (KNN).md",
-    "image/Pasted image 20250203101009.png",
-    "image/Pasted image 20250203095116.png",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Unsupervised Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Process.md",
-    "4 ARCHIVES/Stups/Annotation MachineLearningBook.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Classification.md",
-    "Background Subtraction.md",
-    "image/Pasted image 20250129102145.png",
-    "image/Pasted image 20250129010807.png",
-    "image/Pasted image 20250128230735.png",
-    "Computer Vision.md",
-    "Computer.md",
+    "Anstler Palace.canvas",
+    "image/Pasted image 20250206231745.png",
+    "image/Pasted image 20250207204304.png",
+    "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
+    "1 PROJECTS/AIO - Basic LSTM, GRU (Time-series and Text).md",
     "AIO 2025.md",
-    "Binomial Theorem.md",
-    "image/Pasted image 20250128115228.png",
-    "Eigenvalues and Eigenvectors.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Linear system as Matrix using Numpy.md",
-    "Linear Regression.md",
+    "Aha.md",
+    "Research Group Note.md",
+    "image/Pasted image 20250207163055.png",
+    "image/Pasted image 20250207162744.png",
+    "AIO - A Guide to Organizing Machine Learning Projects.md",
     "Why Do Neural Network love Softmax.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/one-hot encoding.md",
+    "AIO - Advance CNN.md",
+    "TensorFlow CNN.md",
+    "AIO - CNN Summary.md",
+    "Computer Vision.md",
+    "Introduction to Computer Vision.md",
+    "Image Processing.md",
+    "Tensorflow Object Detection with Python.md",
+    "Object Detection Series.md",
+    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
+    "ML CheatSheet.md",
+    "Pandas Code.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/Generative AI (AI Sáng Tạo).md",
+    "image/Pasted image 20250207111442.png",
+    "image/Pasted image 20250207103807.png",
+    "image/Pasted image 20250207091514.png",
+    "image/Pasted image 20250207091454.png",
+    "image/Pasted image 20250207091443.png",
+    "image/Pasted image 20250207091354.png",
+    "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Code ML",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
@@ -244,7 +232,6 @@
     "1 PROJECTS/CMC 2025/Deep Learning & Application",
     "1 PROJECTS/CMC 2025/Natural Language Processing",
     "1 PROJECTS/CMC 2025/Big Data Analysis",
-    "1 PROJECTS/CMC 2025",
     "Research.canvas",
     "ID Card Brain Storm.canvas",
     "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas"

@@ -1,5 +1,6 @@
 **OBJECTIVE**
 ![[Pasted image 20241120200438.png]]
+[Weight Initialization](https://www.geeksforgeeks.org/weight-initialization-techniques-for-deep-neural-networks/)
 
 **Experimental Result**
 ![[Pasted image 20241120201419.png]]

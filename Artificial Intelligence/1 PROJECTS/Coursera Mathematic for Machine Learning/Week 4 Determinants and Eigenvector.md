@@ -295,7 +295,6 @@ To project your data we'll need a eigenvector (present a features), create a new
 	![[Pasted image 20240703221218.png]]
 + Finally, project your data onto these 2 vectors, giving you your final dataset which has only 2 features.
 
-
 ## PCA - Why it Works
 Eigenvalues and Eigenvector form a Eigenbasis
 ![[Pasted image 20240703232838.png]]

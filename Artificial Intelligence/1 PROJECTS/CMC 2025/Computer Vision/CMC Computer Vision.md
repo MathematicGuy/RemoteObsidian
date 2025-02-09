@@ -1,4 +1,4 @@
-CV docs: https://docs.opencv.org/4.x/d0/d86/tutorial_py_image_arithmetics.html
+**CV** docs: https://docs.opencv.org/4.x/d0/d86/tutorial_py_image_arithmetics.html
 
 ### HW
 + Read about Color Space, Color Space Conversion
@@ -101,4 +101,36 @@ matched_image = match_histograms(image, image2)
 
 ## Spatial Filtering (Kernel)
 
+[Otsu's Method](https://medium.com/@vignesh.g1609/image-segmentation-using-otsu-threshold-selection-method-856ccdacf22)
+[Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)
 
+## Morphological (hình thái) Operation
+The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tutorial_erosion_dilatation.html) are: Erosion and Dilation. They have a wide array of uses, i.e. :
+- Removing noise
+- Isolation of individual elements and joining disparate elements in an image.
+- Finding of intensity bumps or holes in an image
+
+ **Original Image**
+	![[Pasted image 20250207091354.png]]
+
+### Dilation (phép giãn)
+![[Pasted image 20250207091443.png]]
+>Dialation include convolving an image (A) with some kernel (B) which can have any shape and size, usually square or circle. Each convolve pick the maximum value inside the kernel across all pixel inside the image. (e.g. 1 out of `[0, 1]`)
+
+### Erosion (phép co)
+![[Pasted image 20250207091514.png]]
+>Erosion is the same as Dilation except for it picking Minimum value (e.g. 0 out of `[0, 1]`) 
+
+### Openning (Phép mở: co -> giãn)
+
+
+
+### Closing (Phép đóng: giãn -> co)
+
+
+## Contour (research)
+[OpenCV Contour](https://docs.opencv.org/3.4/d3/d05/tutorial_py_table_of_contents_contours.html)
+**Note:** Describe object border  
+
+## Canny 
+**Note:** Like Contour but a set of dotted lines.

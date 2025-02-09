@@ -78,7 +78,6 @@ Use GD as a tool to update paramaters for Logistic Regression.
 ![[Pasted image 20241021144455.png]]
 
 ## Regularization to Reduce Overfitting
-
 #### The Problem of Overfitting
 >Regression Example
 ![[Pasted image 20241021145738.png]]

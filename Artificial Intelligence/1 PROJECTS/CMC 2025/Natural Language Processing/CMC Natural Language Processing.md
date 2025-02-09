@@ -159,3 +159,6 @@ Machine Learning -> Human have to Engineer Features Manually.
 
 HW: Use skitlearn for Naive Bayes problem
 
+---
+
+remove feature with unchanged weight   

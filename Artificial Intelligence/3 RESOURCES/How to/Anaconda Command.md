@@ -10,7 +10,7 @@
 Creates a new environment with a specified name and optionally installs a list of packages. Example: `conda create -n my-ai python=3.9 numpy pandas`
 
 ```python
-		conda create -n vision python=3.10
+conda create -n vision python=3.10
 ```
 
 ---
