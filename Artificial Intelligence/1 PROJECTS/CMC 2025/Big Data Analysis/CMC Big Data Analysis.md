@@ -156,3 +156,7 @@ Each note block have 3 Replica so Block's data (e.g. B & D) is not lost even if 
 
 #### Example: Max/min
 ![[Pasted image 20250206092325.png]]
+
+---
+# Deep Dive into Hadoop
+

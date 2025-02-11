@@ -15,6 +15,8 @@
 - [ ] **CV HW:** Finish Morphological Note and Code, Contour, Canny (Note + Code)
 - [ ] Finalize my Final Project for Computer Vision Class 
 
+- [ ] NOTE GROUP REPORTTTTTTTTTTTTTTT
+
 **Interest**
 - [ ] Understand 2-Set Method in Calisthenics Training
 - [ ] Test 2-Set Method

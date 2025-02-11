@@ -4,26 +4,29 @@
 + Garbage in, Garbage out in Model training. 
 + Foreigner Body is diff from Vietnames body -> Bias in labeling 
 + Accountability -> Medical Model only used under supervision 
-
+	
 **Technical Solutions**
 ![[Pasted image 20250206202945.png]]
 ![[Pasted image 20250206202957.png]]
-**Prioritize:** Accuracy, rather to diasnoised patient have illness than none illness at all. 
+- [ ] **Prioritize:** Accuracy, rather to diasnoised patient have illness than none illness at all. ~~~~
 
 ### Digital Image Processing (DIP) 
 ![[Pasted image 20250206204206.png]]
 + 8-bit is enough for human eyes to recognite changes easily.
-+ Except for medical Image stored in 12-bit `[0 to 4096]` for more detail. e.g. recognize pixel values of a tumors.
++ Except for medical Image stored in 12-bit `[0 to 4096]` for more detail + features extraction. e.g. recognize pixel values of a tumors.
 
 **Pixel value transformation**
 + **Isolated transformations:** enhance contrast, histogram equalization.
 
-
-Brightness: represent under a histogram (i.e. color frequency)
+**Brightness:** represent under a histogram (i.e. color frequency)
 -> Histogram Equalization make color frequency uniform. 
 ![[Pasted image 20250206205234.png]]
 + $ Phân bố toàn bộ các pixel trên mọi dải màu. 
-+ $ Distribute all pixel to be equaler across all color range -> Help human see better, make image more visible. 
++ $ Distribute all pixel to be equaler across all color range -> Help human see better, make image more visible.
+
+**Basically Histogram apply PDF + CDF + some calculate + ranking**
+![[Pasted image 20250209151214.png]]
+
 
 **Contrast Limited Adaptive Histogram Equalization (CLAHE)**
 ![[Pasted image 20250206205526.png]]

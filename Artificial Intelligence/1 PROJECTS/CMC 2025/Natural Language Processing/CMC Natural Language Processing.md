@@ -160,5 +160,14 @@ Machine Learning -> Human have to Engineer Features Manually.
 HW: Use skitlearn for Naive Bayes problem
 
 ---
-
 remove feature with unchanged weight   
+
+# Word Embedding
+function word (từ chức năng): a, the, thì, mà, con, cái, thằng, fetc..
+contents word (từ quan trọng, có ý nghĩa): 
+
+
+
+**2 kinds of embeddings:**
+1) tf-idf (Term Frequency - Inverse Document Frequency)
+2) Word2vec

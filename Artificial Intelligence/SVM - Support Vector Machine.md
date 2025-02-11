@@ -56,12 +56,12 @@ $$s = ||a||cos\theta=a \cdot \hat{b}$$ where $s$ is the hypotenuse $a_{1}$
 $$\cos \theta=\frac{a \cdot \hat{b}}{||a||}$$
 
 
+
 ## Support Vector Machine (SVM) - Basic Intuition 
 
 **Terminology:** Say we have 2 groups of points red and blue, you want to draw a line to seperate them, but you don't just want a line divides the 2 groups, but a line that stays as far away from both groups as possible. 
 
 **SVM aim to divide 2 groups of data/points by a single line** where its distant/margin to 2 data group is maximize, those closest point "touch" the margin are called **support vectors**. That distance called "marginal distant" and the single line called "Hyperplane" in SVM.   
-
 
  
 (Good for Loss function?)

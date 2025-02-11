@@ -1,34 +1,10 @@
-**CV** docs: https://docs.opencv.org/4.x/d0/d86/tutorial_py_image_arithmetics.html
 
-### HW
-+ Read about Color Space, Color Space Conversion
-+ How Human Vision relate to Computer Vision
+![[Pasted image 20250206205234.png]]
++ ? Histogram Equalization make color frequency uniform. 
++ $ Distribute all pixel to be equaler across all color range -> Help human see better, make image more visible.
 
-Gray Scale - Ảnh đa cấp xám
-
----
-
-**HW: Code ALL of THIS**
-S: Kết Quả
-T: Phép/Hàm Biến Đổi 
-r: input value
-
-## Contrast Stretching and Thresholding
-![[Pasted image 20250110091831.png]]
->Encourage highly inverse values if one of 2 axis/color move between the threshold value range.   
-
-## Intensity Correction
->Adjust image brightness using function 
-![[Pasted image 20250110093527.png]]
-### Log Correction
-![[Pasted image 20250110092951.png]]
-> Help balance out image bright intensity. With log, if the image is too light or too dark, log convert image brightness back to the average value.   
-
-### [Gamma Correction](https://www.geeksforgeeks.org/python-intensity-transformation-operations-on-images/)
-![[Pasted image 20250110093302.png]]
-
-### Contrast Stretching
-![[Pasted image 20250110093542.png]]
+**Basically Histogram apply PDF + CDF + some calculate + ranking**
+![[Pasted image 20250209151214.png]]
 
 ## [Histogram](https://medium.com/@khanhson0811/unlocking-image-enhancement-a-guide-to-histogram-processing-and-equalization-with-opencv-8db4477e6ba6) Processing (Xử lý dùng biểu đồ tần suất)
 source: https://viblo.asia/p/tuan-3-histogram-histogram-equalization-3P0lPnxmKox
@@ -46,7 +22,7 @@ source: https://viblo.asia/p/tuan-3-histogram-histogram-equalization-3P0lPnxmKox
 1) [Tính Histogram](https://processing.org/examples/histogram.html) của từng ảnh
 2) Tạo hàm so sánh với 2 input là histogram1 và histogram2, với histogram là 1 vector chứa tần số (frequency) của từng giá trị (pixel value) trên dải màu từ 0 đến 255 trên Histogram.
 3) Tính khoảng cách Euclidean sử dụng histogram1 và histogram2. That it foul !!!
-3) Tính khoảng cách giữa 2 hình ảnh sử dụng công thức tương quan ([[Correlation Coeficient]]). 
+4) Tính khoảng cách giữa 2 hình ảnh sử dụng công thức tương quan ([[Correlation Coeficient]]). 
 ![[Pasted image 20250117070918.png]]
 
 
@@ -98,39 +74,3 @@ matched_image = match_histograms(image, image2)
 **CLAHE**
 ![[Pasted image 20250117070011.png]]
 > **Histogram Equalization stretch the histogram to include all ranges** `[0, 255]`. **CLAHE** divide a image into `n 8x8 tiles/grids, then **apply Histogram Equalization into each tile**. 
-
-## Spatial Filtering (Kernel)
-
-[Otsu's Method](https://medium.com/@vignesh.g1609/image-segmentation-using-otsu-threshold-selection-method-856ccdacf22)
-[Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)
-
-## Morphological (hình thái) Operation
-The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tutorial_erosion_dilatation.html) are: Erosion and Dilation. They have a wide array of uses, i.e. :
-- Removing noise
-- Isolation of individual elements and joining disparate elements in an image.
-- Finding of intensity bumps or holes in an image
-
- **Original Image**
-	![[Pasted image 20250207091354.png]]
-
-### Dilation (phép giãn)
-![[Pasted image 20250207091443.png]]
->Dialation include convolving an image (A) with some kernel (B) which can have any shape and size, usually square or circle. Each convolve pick the maximum value inside the kernel across all pixel inside the image. (e.g. 1 out of `[0, 1]`)
-
-### Erosion (phép co)
-![[Pasted image 20250207091514.png]]
->Erosion is the same as Dilation except for it picking Minimum value (e.g. 0 out of `[0, 1]`) 
-
-### Openning (Phép mở: co -> giãn)
-
-
-
-### Closing (Phép đóng: giãn -> co)
-
-
-## Contour (research)
-[OpenCV Contour](https://docs.opencv.org/3.4/d3/d05/tutorial_py_table_of_contents_contours.html)
-**Note:** Describe object border  
-
-## Canny 
-**Note:** Like Contour but a set of dotted lines.
