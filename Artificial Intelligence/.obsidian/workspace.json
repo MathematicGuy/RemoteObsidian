@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "3b9de63ae16b783c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMC Big Data Analysis"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b429f276e830688",
@@ -182,45 +198,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed946d347e4ec1d8",
+  "active": "3b9de63ae16b783c",
   "lastOpenFiles": [
-    "Basic Human Pose Detection Planning.md",
+    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "2 ACTIONS/_Focus.md",
+    "Human Activity Recognition Methods.md",
     "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
+    "AIO 2024.md",
+    "AIO - CNN Summary.md",
+    "AIO2025 - Exchange Group Work Process.md",
+    "AIO - CNN Training and Generalization.md",
+    "AIO - Advance CNN Architecture.md",
     "AIO - RNN.md",
     "1 PROJECTS/AIO - Basic LSTM, GRU (Time-series and Text).md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Recursion.md",
+    "Deep Reinforcement Learning.md",
+    "Anstler Palace.canvas",
+    "Basic Human Pose Detection Planning.md",
     "Deep Learning.md",
     "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
     "OpenCV Code.md",
-    "2 ACTIONS/_Focus.md",
     "OpenCV.md",
     "Master Psudo Planche (GYM + CALISTHENICS).md",
     "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
-    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
     "image/Pasted image 20250211113918.png",
     "Sentiment Analysis.md",
     "Research Group Note.md",
     "AIO 2025.md",
-    "AIO 2024.md",
     "AIO Team Research.md",
     "AIO Research Survey.md",
     "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
-    "AIO - Talk.md",
     "image/Pasted image 20250209185334.png",
-    "AIO2024 - Medical Image Analysis.md",
-    "Affine Transformation.md",
     "image/Pasted image 20250209200312.png",
     "image/images.png",
     "image/Pasted image 20250209195459.png",
     "image/image-14.png",
-    "ID Card OCR.md",
-    "Histogram Equalization.md",
-    "SVM - Support Vector Machine.md",
-    "Cos Sin Similarity.md",
     "image/Pasted image 20250207162744.png",
     "image/12859_2023_5235_Fig1_HTML.png",
     "image/Pasted image 20250209182759.png",
     "image/Contrast-limited-adaptive-histogram-equalization-method-a-low-contrast-input-image-b.jpg",
-    "Anstler Palace.canvas",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Code ML",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",

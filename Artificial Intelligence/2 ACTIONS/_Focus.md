@@ -6,19 +6,19 @@
 - [ ] [[AIO - RNN]] 
 	[RNN YT](https://www.youtube.com/watch?v=Mdp5pAKNNW4&t=859s)
 - [ ] [[Research Group Note]]
-- [ ] Revision [[AIO - Basic LSTM, GRU (Time-series and Text)]]
-- [ ] Finish Deep Learning Lab HW  
-	[mlp pytorch](https://www.geeksforgeeks.org/multi-layer-perceptron-learning-in-tensorflow/)
+- [ ] Revision [[AIO - Basic LSTM, GRU (Time-series and Text)]] 
+- [ ] After RNN + LSTM -> Finish [[Human Activity Recognition Methods]]
+- [x] Finish Deep Learning Lab HW  
 - [ ] Behaviour Detection Research
 - [ ] Understand Semential Detection for NLP class
 - [ ] Re-Explain how Filtering & Thresholding, and code work. 
 - [ ] **CV HW:** Finish Morphological Note and Code, Contour, Canny (Note + Code)
 - [ ] Finalize my Final Project for Computer Vision Class 
-- [ ] NOTE GROUP REPORTTTTTTTTTTTTTTT
+- [x] NOTE GROUP REPORTTTTTTTTTTTTTTT
 
 **Interest**
-- [ ] Understand 2-Set Method in Calisthenics Training
-- [ ] Test 2-Set Method
+- [x] Understand 2-Set Method in Calisthenics Training
+- [x] Test 2-Set Method
 - [ ] Understand SVM
 - [ ] Note KNN
 - [ ] Understading ADAM

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f12ae2b0320c03ec",
+        "id": "24a0d07b0b1c7dce",
         "type": "tabs",
         "children": [
           {
-            "id": "1a37c6d37946c687",
+            "id": "8e7f65ebb21953eb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,18 +25,13 @@
             }
           },
           {
-            "id": "659f858b1b566d3e",
+            "id": "f5f7e82a3bcbfc4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Set Up Terminal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Set Up Terminal"
+              "title": "New tab"
             }
           }
         ],
@@ -94,7 +89,7 @@
             }
           },
           {
-            "id": "edeb5c57d30f08d7",
+            "id": "f4566df817ff1fed",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -243,7 +238,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "659f858b1b566d3e",
+  "active": "f5f7e82a3bcbfc4f",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",
