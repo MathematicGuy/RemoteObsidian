@@ -3,21 +3,22 @@
 	Muscle hypertrophy is the process by which muscle fibers increase in size. This occurs when the muscles are exposed to mechanical stress (e.g., resistance training), which causes small amounts of damage. During recovery, the body repairs these fibers by fusing them, resulting in thicker, stronger muscles.
 
 **note:** 
-+ Don't Over Train. Because overtrain mean overrest, which disturb your workout routine. 
++ @ Don't Over Train. Because overtrain mean overrest, which disturb your workout routine. 
 
 + Don't do 2 set until failure, because overtrain mean less set to take. 
 
-+ Rest Time between 5 to 7 minutes. .
++ @ Rest Time between 5 to 8 minutes. .
 
 + **Progressive Overload:** if you aim to do 12 reps and failed, next workout use the same weight, but if you succeed then add 2.5kg or 5kg to your next workout
 
-+ **Rep Range:** 8 to 17 Rep.
++ $ **Rep Range:** 8 to 17 Rep.
 	If Achieve **17 then Increase Weight.** Before Lifting heavier weight, say 50kg. Build slowly from 30kg for Warm Up, rest 3 minutes, then do 50kg, rest 5 minutes.
 + **Workout Example:**
 	+ warmup 5 reps, 20kg, 3 min rest
 	+ warmup 5 reps, 25kg, 3 min rest
 	+ 1st set 14 reps, 33kg, 7 min rest
-	+ 2nd set 11 reps, 33kg, 7 min rest
+	+ 2nd set 14 reps, 33kg, 7 min rest
+	(If achieve 17 rep >> Increase Weight)
 
 + ? **Priority [REST](https://www.youtube.com/watch?v=36bkuPKwvbU&t=324s):** rest 2 days for each muscle group. 
 	![[Pasted image 20250207204304.png]]
@@ -65,4 +66,10 @@ Base on my current physique, can you create a training schedule specialize for m
 + Cardio Tredmill running machine
 + Body Weights Squats![[Pasted image 20250205160423.png]]
 + Glute Leg Pull up machine
+
+
+---
+
+**Futures of Calisthenics**
+**AKIRA** (*king of the ground*) - ILIESSE - SHAAD - MANI - ONIZUKA - **LEEVAN** (*2 thumb planche*) - NATHAN - TONY GASTE - MAJELI - JAVI LATORRE - **MIAMBER** - DAVID FELTRIN - VINCENT KAL
 

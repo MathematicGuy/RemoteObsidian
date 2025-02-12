@@ -99,7 +99,7 @@ Note: can decrease contour by blurring image
 +  This where contour are retrieved and organized.
 + `cv.RETR_LIST`: Retrieves all contours in the image but doesn't organize them (i.e. no parent-child relationship). Each contour are independent.
 + Other `cv.RETR_`: `cv.RETR_EXTERNAL` (retrieves only outer contours), `cs.RETR_TREE` (retrieves and organizes them into a hierarchy) and `cv.RETR_CCOMP` (retrieves contours and organizes them into 2 levels: external and internal)
-
+	
 3) **Approximation Method**: approximate contours (note: contours are store in a contour list)
 + `cv.CHAIN_APPROX_SIMPLE`: compress horizontal and vertical and diagnol segments, only storing their enpoints. Ex: if there a line, only 2 of its endpoints get stored -> Reduces the number of points representing the contour, simplifying it without losing the shape.
 + `cv.CHAIN_APPROX_NONE`: retrieves all contour points without purely.  
@@ -201,16 +201,16 @@ canny = cv.Canny(gray, 150, 175)
 ```
 + `cv.CV_64F`: Specifies the output image depth (64-bit floating point) to capture both positive and negative changes in gradient.
 	
-1. `cv.Laplacian(gray, cv.CV_64F)`: The Laplacian operator calculates the second derivative of the image, highlighting regions where the intensity changes rapidly, such as edges. This operator is especially sensitive to noise, so it’s often used on smoothed images.
+4. `cv.Laplacian(gray, cv.CV_64F)`: The Laplacian operator calculates the second derivative of the image, highlighting regions where the intensity changes rapidly, such as edges. This operator is especially sensitive to noise, so it’s often used on smoothed images.
 	**Effect**: The result is an image where edges appear brighter against a dark background.
 	
-2. `cv.Sobel(gray, cv.CV_64F, 1, 0)`: The Sobel operator calculates the gradient of the image intensity, giving an approximation of the image gradient. Setting the `dx` and `dy` parameters allows control over the direction of edge detection. (x , y) 1 is x in the parameter. 
+5. `cv.Sobel(gray, cv.CV_64F, 1, 0)`: The Sobel operator calculates the gradient of the image intensity, giving an approximation of the image gradient. Setting the `dx` and `dy` parameters allows control over the direction of edge detection. (x , y) 1 is x in the parameter. 
 	**Effect**: Produces an image emphasizing vertical edges.
 	
-3. `cv.bitwise_or(sobelx, sobely)`:Combines the `sobelx` and `sobely` results to show both horizontal and vertical edges.
+6. `cv.bitwise_or(sobelx, sobely)`:Combines the `sobelx` and `sobely` results to show both horizontal and vertical edges.
 	**Explaination:** Using bitwise OR on `sobelx` and `sobely` highlights edges in both directions in a single image.
 	
-4. `cv.Canny(gray, 150, 175)`: The Canny edge detector uses a multi-stage process (gradient calculation, non-maximum suppression, and thresholding) to find strong edges and suppress noise.
+7. `cv.Canny(gray, 150, 175)`: The Canny edge detector uses a multi-stage process (gradient calculation, non-maximum suppression, and thresholding) to find strong edges and suppress noise.
 	**Effect**: Provides a binary image with thin, strong edges.
 
 
@@ -267,4 +267,6 @@ red = cv.merge([blank, blank, r])
 
 merged = cv.merge([b, g, r])
 ```
+
+---
 

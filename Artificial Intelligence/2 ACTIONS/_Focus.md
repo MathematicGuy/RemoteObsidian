@@ -14,7 +14,6 @@
 - [ ] Re-Explain how Filtering & Thresholding, and code work. 
 - [ ] **CV HW:** Finish Morphological Note and Code, Contour, Canny (Note + Code)
 - [ ] Finalize my Final Project for Computer Vision Class 
-
 - [ ] NOTE GROUP REPORTTTTTTTTTTTTTTT
 
 **Interest**

@@ -170,4 +170,6 @@ contents word (từ quan trọng, có ý nghĩa):
 
 **2 kinds of embeddings:**
 1) tf-idf (Term Frequency - Inverse Document Frequency)
+	but frequency doesn't show the real word importantness, overly frequent words like *the, it* or *they* are not very informative about the context. It's a paradox, how can we balance these 2 conflicts and constraints.
+	-> 
 2) Word2vec

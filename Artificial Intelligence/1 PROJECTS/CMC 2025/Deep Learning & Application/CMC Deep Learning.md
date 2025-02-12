@@ -41,3 +41,9 @@ Each training dataset, we randomly remove a subset of neurons.
 + **Label Encoding:** assign id to each features 
 
 
+### Cross-Validation
+**K-fold Cross-Validation:** divide to each part for test, validate, 
+
+
+# RNN
+

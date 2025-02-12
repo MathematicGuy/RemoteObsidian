@@ -49,8 +49,6 @@ source: https://viblo.asia/p/tuan-3-histogram-histogram-equalization-3P0lPnxmKox
 3) Tính khoảng cách giữa 2 hình ảnh sử dụng công thức tương quan ([[Correlation Coeficient]]). 
 ![[Pasted image 20250117070918.png]]
 
-
-
 ### Problems with Histogram
 Examples:
 **Problem 1:** Image's histogram can be the same but image's pixels position can be different like in flip image, black ball on a white canvas or "chess board vs half white canvas".
@@ -100,7 +98,6 @@ matched_image = match_histograms(image, image2)
 > **Histogram Equalization stretch the histogram to include all ranges** `[0, 255]`. **CLAHE** divide a image into `n 8x8 tiles/grids, then **apply Histogram Equalization into each tile**. 
 
 ## Spatial Filtering (Kernel)
-
 [Otsu's Method](https://medium.com/@vignesh.g1609/image-segmentation-using-otsu-threshold-selection-method-856ccdacf22)
 [Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)
 
@@ -115,7 +112,7 @@ The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tut
 
 ### Dilation (phép giãn)
 ![[Pasted image 20250207091443.png]]
->Dialation include convolving an image (A) with some kernel (B) which can have any shape and size, usually square or circle. Each convolve pick the maximum value inside the kernel across all pixel inside the image. (e.g. 1 out of `[0, 1]`)
+>Dialation include **convolving an image (A) with some kernel (B)** which can have any shape and size, usually square or circle. Each **convolve pick the maximum value inside the kernel each pixel across the image**. (e.g. 1 out of `[0, 1]`)
 
 ### Erosion (phép co)
 ![[Pasted image 20250207091514.png]]
@@ -134,3 +131,4 @@ The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tut
 
 ## Canny 
 **Note:** Like Contour but a set of dotted lines.
+

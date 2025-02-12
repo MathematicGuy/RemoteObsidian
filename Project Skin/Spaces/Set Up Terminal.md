@@ -10,7 +10,7 @@ note: pwsh is powershell in short
 
 **Active Theme**
 ```bashnote
-oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\di4am0nd.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/illusi0n.omp.json" | Invoke-Expression
 ```
 
 

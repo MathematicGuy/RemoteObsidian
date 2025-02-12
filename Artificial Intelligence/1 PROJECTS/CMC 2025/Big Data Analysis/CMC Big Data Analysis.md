@@ -160,3 +160,7 @@ Each note block have 3 Replica so Block's data (e.g. B & D) is not lost even if 
 ---
 # Deep Dive into Hadoop
 
+[HDF Turtorial](https://www.cloudera.com/services-and-support/tutorials.html)
+Get Account & Password in *QUICK LINKS*. AMBARI's pass and acc is *raj_ops*    
+![[Pasted image 20250211113918.png]]
+

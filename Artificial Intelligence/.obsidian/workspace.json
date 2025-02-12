@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "00de3c84642b5285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMC Natural Language Processing"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "5b429f276e830688",
@@ -198,14 +182,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "00de3c84642b5285",
+  "active": "ed946d347e4ec1d8",
   "lastOpenFiles": [
-    "Sentiment Analysis.md",
+    "Basic Human Pose Detection Planning.md",
+    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
+    "AIO - RNN.md",
+    "1 PROJECTS/AIO - Basic LSTM, GRU (Time-series and Text).md",
+    "Deep Learning.md",
+    "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
+    "OpenCV Code.md",
     "2 ACTIONS/_Focus.md",
+    "OpenCV.md",
+    "Master Psudo Planche (GYM + CALISTHENICS).md",
     "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
     "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "image/Pasted image 20250211113918.png",
+    "Sentiment Analysis.md",
     "Research Group Note.md",
-    "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
     "AIO 2025.md",
     "AIO 2024.md",
     "AIO Team Research.md",
@@ -223,19 +216,10 @@
     "Histogram Equalization.md",
     "SVM - Support Vector Machine.md",
     "Cos Sin Similarity.md",
-    "Scalar projection.md",
     "image/Pasted image 20250207162744.png",
     "image/12859_2023_5235_Fig1_HTML.png",
     "image/Pasted image 20250209182759.png",
     "image/Contrast-limited-adaptive-histogram-equalization-method-a-low-contrast-input-image-b.jpg",
-    "image/1_snZhMEQFhoJwbM5c0CPOAw.png",
-    "AIO2024.md",
-    "EHRs.md",
-    "Lesson 2 - Probability Distributions.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Statistic and Probability for Machine Learning.md",
-    "adversarial attacks.md",
-    "AIO - RNN.md",
     "Anstler Palace.canvas",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
     "Code ML",
