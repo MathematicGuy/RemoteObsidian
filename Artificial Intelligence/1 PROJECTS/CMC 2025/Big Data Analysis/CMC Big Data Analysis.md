@@ -4,6 +4,7 @@ Tuần 7-8: Kiểm tra giữa kì
 
 ---
 [[BDA - HW1]]
+[[BDA - Lab 2]]
 
 ---
 
@@ -164,5 +165,19 @@ Each note block have 3 Replica so Block's data (e.g. B & D) is not lost even if 
 Get Account & Password in *QUICK LINKS*. AMBARI's pass and acc is *raj_ops*    
 ![[Pasted image 20250211113918.png]]
 
+---
 
+**Final Semester Format Report** 
+- **Mở đầu:** giới thiệu bài toán và giới thiệu phương pháp của mình. 
+- **Tổng quan**: lược sử về bài toán, những cách giải pháp đã có rồi, giải pháp đó giải quyết vấn đề đến đâu, lỗ hổng của giải pháp đó. Cuối cùng nêu ra hướng tiếp cận và giải pháp của mình.  
+- **Phương pháp thực hiện**: ý tưởng và các bước
+- **Thực nghiệm và đánh giá kết quả**
+- **Kết luận:** kết luận kết quả của mình, đã làm đc gì, vấn đề gì đã được giải quyết.  
+- **Tài liệu tham khảo** (chính thống, chọn lọc tài liệu chất lượng chứ ko cần chọn nhiều)
+- **Phụ lục:** giải thích định nghĩa, **để nói rõ thêm 1 số dữ liệu**, có thể chứa hình ảnh.  
+
+Slide: 15 trang
+Báo cáo: 15-20 trang
+
+---
 

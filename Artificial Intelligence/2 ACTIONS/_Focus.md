@@ -5,15 +5,15 @@
 **Crucial**
 - [ ] [[AIO - RNN]] 
 	[RNN YT](https://www.youtube.com/watch?v=Mdp5pAKNNW4&t=859s)
-- [ ] [[Research Group Note]]
+- [ ] [[Application of AI in Medical Imaging Overview and Image Registration]]
 - [ ] Revision [[AIO - Basic LSTM, GRU (Time-series and Text)]] 
-- [ ] After RNN + LSTM -> Finish [[Human Activity Recognition Methods]]
+- [ ] After RNN + LSTM -> Finish [[Human Activity Recognition Methods using RNN + LSTM]]
 - [x] Finish Deep Learning Lab HW  
 - [ ] Behaviour Detection Research
 - [ ] Understand Semential Detection for NLP class
 - [ ] Re-Explain how Filtering & Thresholding, and code work. 
 - [ ] **CV HW:** Finish Morphological Note and Code, Contour, Canny (Note + Code)
-- [ ] Finalize my Final Project for Computer Vision Class 
+- [x] Finalize my Final Project for Computer Vision Class 
 - [x] NOTE GROUP REPORTTTTTTTTTTTTTTT
 
 **Interest**
@@ -22,7 +22,7 @@
 - [ ] Understand SVM
 - [ ] Note KNN
 - [ ] Understading ADAM
-
+- [ ] [[AI Seminar]]
 
 **Machine Learning**
 [[AIO 2024]]

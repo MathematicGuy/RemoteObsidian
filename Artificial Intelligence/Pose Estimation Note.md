@@ -40,11 +40,11 @@ DNN came into 2 different stages:
 ## How to represent keypoint outputs ?
 ![[Pasted image 20250119105757.png]]
 Heat map for each of those keypoints (i.e. classes) - prob of a certain pixels to beyond that keypoint is encoded. 
-+ $ **Encode each keypoints** and assign a co nfidence score. 
++ $ **Encode each keypoints** and assign a confidence score. 
 + ? Ex: Green corresponding to the right shoulder, Blue to the left, etc.
 
 note: kps mean keypoints
-Each channel in the tensors represent the elbows, shoulders, knees and diff types of kps.    
+Each color channel in the tensors represent the elbows, shoulders, knees and diff types of kps.    
 + Output will then be post-process because we would have many positions (kp) using NMS or LMS (Local Maximum Search). 
 
 + ? **How good is OpenPose:** Yes ![[Pasted image 20250119110109.png]]
@@ -60,7 +60,6 @@ Each channel in the tensors represent the elbows, shoulders, knees and diff type
 + ? Open Pose seperate the inputs into 2 parts: 
 	+ **Part Confidence Maps (PCM):** Heat map showing the confidence of each parts (elbows and the shoulders in example below).
 	+ **Part Affinity Fields (PAF):** Encode each parts orientation with colors. (use to predict parts movements)   
-
 The **post-processing** of those 2 kind of Maps (i.e. PCM and PAF) -> Lead to the first **matching of those parts** if we have 2 shoulders and 2 elbows.   
 ![[Pasted image 20250119110734.png]]
 + ? **Problems:** which elbows to we connect that shoulder to. One we make up this part, we then merge it (i.e. elbow to shoulder) into the skeletons of the corresponding human. 
@@ -70,7 +69,7 @@ The **post-processing** of those 2 kind of Maps (i.e. PCM and PAF) -> Lead to th
 $L^{t}$  (PA): Part-Affinity (Field)
 $S^t:$ Confident Heat Map
 
-Each States output 18 vectors represetn 18 parts of the skeletons.
+Each States output 18 vectors represent 18 parts of the skeletons.
 ![[Pasted image 20250119120115.png]]
 
 ## Merging parts to persons

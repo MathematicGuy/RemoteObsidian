@@ -18,6 +18,10 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/illusi0n.omp.json" | Invoke
 ```bash
 notepad $PROFILE
 ```
+Create profile if not have 1 already
+```sh
+if (!(Test-Path -Path $PROFILE)) { New-Item -ItemType File -Path $PROFILE -Force }
+```
 
 > Put this in notepad profile file -> save file - close file
 ```bash

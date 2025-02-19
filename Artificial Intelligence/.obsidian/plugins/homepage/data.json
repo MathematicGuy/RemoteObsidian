@@ -4,7 +4,7 @@
     "Main Homepage": {
       "value": "2 ACTIONS/_Focus",
       "kind": "File",
-      "openOnStartup": false,
+      "openOnStartup": true,
       "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
@@ -15,7 +15,8 @@
       "autoScroll": false,
       "pin": true,
       "commands": [],
-      "alwaysApply": false
+      "alwaysApply": false,
+      "hideReleaseNotes": false
     }
   },
   "separateMobile": false

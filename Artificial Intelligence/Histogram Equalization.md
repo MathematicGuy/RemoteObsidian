@@ -1,9 +1,13 @@
 
 ![[Pasted image 20250206205234.png]]
-+ ? Histogram Equalization make color frequency uniform. 
-+ $ Distribute all pixel to be equaler across all color range -> Help human see better, make image more visible.
++ $ **Histogram in Image:** describe image's color frequencies. With the x-axis represent the color values (e.g. `[0, 255]` for gray image), and y-axis represent number of time a color value appeared in the image.
+	![[images 1.jpg]]
++ ? Histogram Equalization make color frequency uniform which help human see better & make image more visible.
 
 **Basically Histogram apply PDF + CDF + some calculate + ranking**
+**PDF** mean Probability density function (Hàm mật độ xác suất)
+	calc frequency of each value: $$PDF = \frac{\text{color value appear time}}{\text{all color values appear time}}$$
+**CDF** mean Cumulative Distribution Function (Hàm phân phối tích lũy) $$CDF = \text{for each value} (\text{value before} + \text{current value})$$ hence the word *cumulative*. 
 ![[Pasted image 20250209151214.png]]
 
 ## [Histogram](https://medium.com/@khanhson0811/unlocking-image-enhancement-a-guide-to-histogram-processing-and-equalization-with-opencv-8db4477e6ba6) Processing (Xử lý dùng biểu đồ tần suất)
@@ -59,11 +63,12 @@ def match_histograms(source, template):
 matched_image = match_histograms(image, image2)
 ```
 
+
 ### [Histogram Equalization](https://docs.opencv.org/3.4/d4/d1b/tutorial_histogram_equalization.html) and [CLAHE](https://docs.opencv.org/4.x/d5/daf/tutorial_py_histogram_equalization.html)
 **Histogram Equalization**
 ![[Pasted image 20250117081811.png]]
 	1) Get the highest gray value 5 and its bits (bit size that can represent 5)
-	2) Initiate gray levels range = $2^{bits}$. e.g. $2^3=8$
+	2) Initiate gray levels range = $2^{bits}$. e.g. $2^3=8$ 
 	3)  Start Calculating: 
 	+ **PDF:** Probability Distribution (*value_i / the total_value*)
 	+ **CDF:** Cumulative Distribution (*cumulative sum*) annotate as $S_{k}$

@@ -21,9 +21,17 @@
 ![[Pasted image 20250119141314.png]]
 >**Get landmark coordinates** of the person for **each frame** in the video. The feed the landmarks to an **LSTM Netwrok to predict the activity** of the person. 
 
+---
+
+**Problems with MLP in NLP**
++ fix length inputs 
++ learn information in order (i.e. sequence)
++ can't understand diff meaning of word in diff context. (e.g. the fly vs the fly fly in the sky)
+
+
 ### Recurrent Neural Networks ([RNN](https://nttuan8.com/bai-13-recurrent-neural-network/)) 
 >Like MLP but with loop
-+ [RNN Fool-proof](https://youtu.be/y9PLF2GsD-c?si=ylGbUg0h48mS77KU)
++ [RNN fool-proof video](https://youtu.be/y9PLF2GsD-c?si=ylGbUg0h48mS77KU)
 
 (Image below show 2 way to represent RNN since input and output in each state have the same size)
 ![[Pasted image 20250120130658.png]]
@@ -37,6 +45,7 @@ In Summary, there are 2 case:
 + 1 where you pass result to the `next time-step and outside` 
 + 1 where you pass result to the `next hidden layer and ouside`    
 ![[Pasted image 20250120130946.png]]
+
 #### Key Terms and Definitions
 1. **Input Sequence $(x_1, x_2, \dots, x_T)$:**
     - A sequence of inputs fed to the RNN at each time step $t$.
@@ -97,14 +106,33 @@ In Summary, there are 2 case:
 		
 4) **Encoder-Decoder:** 
 	**Encoder** be **given input for a couple of time-steps then output vectorized data** to the **Decoder** for **translation**. **Since the context can change if you don't see the whole context** so by Encoding the whole context before decoding can improve accuracy rather than encode then decode word by word.
-	  
+		  Applied in POS (Part-of-Speech)
+
 #### Backpropagation through time
 
 
-
-### Long Short Term Memory (LSTM)
-[LSTM Practice using Tensorflow](https://youtu.be/QmtSkq3DYko?si=hCOF5hWXM0aTxlaG)
-
-Use gate to stabilize the gradient during the training -> avoid Exploding/Vanishing Gradient. 
-
++ ? Vanishing Gradient problem
+	Gating mechanism
 	
+	
+	
+
+### Long Short Term Memory ([LSTM](https://phamdinhkhanh.github.io/2019/04/22/Ly_thuyet_ve_mang_LSTM.html))
+[[Analyse Layer Effect for Deep Learning Network]]
+	Use gate to stabilize the gradient during the training -> avoid Exploding/Vanishing Gradient. 
+
+![[Pasted image 20250218120737.png]]
+
+**i - input**
+**c - cell state**
+**o - output**
+**t - time step**
+sigmoid -> điều chỉnh lượng thông tin đi vào. 
+
+
+
+---
+### CNN + LSTM using TensorFlow
+![[Pasted image 20250214101656.png]]
+[github code reference](https://github.com/Jaykumaran/Action_Recognition_UCF101_CNN_LSTM.git)
+

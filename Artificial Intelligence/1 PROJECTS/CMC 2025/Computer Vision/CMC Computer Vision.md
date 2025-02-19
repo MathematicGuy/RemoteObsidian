@@ -4,8 +4,6 @@
 + Read about Color Space, Color Space Conversion
 + How Human Vision relate to Computer Vision
 
-Gray Scale - Ảnh đa cấp xám
-
 ---
 
 **HW: Code ALL of THIS**
@@ -132,3 +130,27 @@ The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tut
 ## Canny 
 **Note:** Like Contour but a set of dotted lines.
 
+## [[Edge Detection Using Gradients]]
+
+
+
+
+
+
+## Chapter 3: Image Classification 
+note: Harris Corner Detection
+
+
+The **SIFT (Scale Invariant Feature Transform)**
+	Extract features from images
+
+[Image Gradient](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDl5lPdoCXi8&psig=AOvVaw0oqK45gwG8GEmAYIWopkAG&ust=1740014422130000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCNirrovJzosDFQAAAAAdAAAAABAE) -> vector of each pixels in the image or keypoint for short.
+Apply Sobel to determint x, y of the whole image, on other word x, y for each pixels of the image.
+
+**Lowe's Pyramid Scheme**
+Apply Gaussian with diff sigma to 1 image
+
+Key point -> get maxima from the image through a n by n kernel.
+Take 16x16 neighbour pixels. -> Histogram of that pixel
+
+**"blob-like feature"** refers to a distinct, localized area in an image that stands out from its surrounding. 

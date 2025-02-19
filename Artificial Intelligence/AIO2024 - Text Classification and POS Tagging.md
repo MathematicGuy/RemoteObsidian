@@ -34,7 +34,7 @@ Output layer is (1, 2) meaning there're 2 classification labels, usally Yes and 
 
 # Part-of-Speech Tagging (PoS Tagging)
 **Tagging** hence the process of **assigning grammar rule to each token**. 
-
+(PoS add label to diff type of word like noun, verd, adjective, etc..)
 
 # Vectorization
 ![[Pasted image 20250204214704.png]]

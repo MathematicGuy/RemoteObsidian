@@ -48,10 +48,10 @@ Localization Loss
 + ? The coord loss sum over all grid cells and all bounding boxes in each grid cell but it is only counted for those cases where cell i contain an object and box j.
 
 ![[Pasted image 20241120114754.png]]
-
 **Limitations**:
 + Each grid cell can contain only one class
 + Each grid cell can contain only B bounding boxes
+
 
 
 ---

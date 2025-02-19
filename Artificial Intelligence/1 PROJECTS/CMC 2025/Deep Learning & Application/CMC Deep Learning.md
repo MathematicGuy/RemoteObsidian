@@ -46,4 +46,7 @@ Each training dataset, we randomly remove a subset of neurons.
 
 
 # RNN
+Độ quan trọng của từ trong mẫu $\times$ độ quan trọng của từ trong văn bản 
 
+
+BT: lấy ví dụ đơn giản cho TF-IDF 

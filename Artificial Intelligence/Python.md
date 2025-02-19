@@ -69,3 +69,29 @@ the same as
 ```python
 y = [y = [plus(i) for i in x]  # output: [1, 3]]
 ```
+
+---
+
+#### Get path as a List 
++ If the list was empty
+```python
+list(path.glob('*'))
+```
+> `[ ]`
+```python
+list(path.iterdir())
+```
+> Traceback (most recent call last):
+> [...]
+> FileNotFoundError: [Errno 2] No such file or directory:
+
+**glob()** takes a pattern as an argument. This patterns include wild card like `*`, `?`, `[]` to match file name:
+- `*` matches any number of characters (including none).
+- `?` matches any single character.
+- `[]` matches any single character specified within the brackets.
+
+**cv.imshow()**
+	+ `imshow()` often interpret image data from `[0, 255]` as representing the intensity of RGB color channels. 
+	+ `uint8` represents integers in the range `[0, 255]`
+	-> Convert image datatype to `unit8`: `.astype('unit8)` to display image with `imshow()`
+

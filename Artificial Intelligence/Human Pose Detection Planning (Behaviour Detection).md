@@ -1,3 +1,5 @@
+[[OpenPose vs MediaPipe - How They Work and Key Differences]]
+
 1. **Dữ liệu đầu vào (Classroom Camera):**
     
     - **Mục đích:** Cung cấp dữ liệu hình ảnh thô cho hệ thống.

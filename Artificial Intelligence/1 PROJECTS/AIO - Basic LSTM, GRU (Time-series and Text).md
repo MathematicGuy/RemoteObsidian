@@ -95,3 +95,50 @@ Với 1 tập dự liệu lớn, mình quét từng đoạn qua dataset gọi l�
 transformer: giúp giải quyết vấn đề phải tính tuần tự trong **Stacked RNN** bằng cách tính song song.
 ![[Pasted image 20241220223438.png]]
 
+---
+
+### Step-by-Step LSTM
+
+**Forget gate layer**
+![[Pasted image 20250214135349.png]]
+$f_{t} = 1$  represent "preserve all past information" and $f_{t} = 0$ represent "forget all past information"
+Forget gate allow new/updated data preserve it meaning when changes occured through time. (e.g. conversation between human through time)
+
+
+![[Pasted image 20250214140244.png]]
+
+---
+
+1) Image from Classroom Camera 
+-> Pose Estimation
+-> Person Detection
+
+Skeleton Data
+Bounding Box
+-> Corrected Skeleton Data
+
+Pre-processing Skeleton Data
+
+Feature Extraction
+
+Behaviour Classification
+DNN Model -> Trained Model -> Bahaviour Result
+
+---
+
+
++ ? **Câu hỏi bảo vệ dự án:**
+So sánh phương pháp (giống và khác giữa các phương pháp)
+Dataset (so sánh hiệu quả giữa các dataset khác nhau)
+
+Ý nghĩa của các chỉ số Validation
+
+Tham số ? 
+Công thức nào đưa vào phải giải thích dc, so sánh vs công thức (mà cùng giải quyết đc 1 vấn đề)
+
+Đồ án tốt nghiệp làm theo hình thức nhóm. 
+
+**Đồ án của mình tốt hơn như thế nào ? khi mình mới làm đồ án**
+
+Thầy Đông - xử lý ngôn ngữ tự nhiên 
+

@@ -61,7 +61,6 @@ When the areas become so smaller, the probability at exactly 1 point is Approxim
 This called Probability Density Function (PDF), it tells you the **rate you accumulate probability around each point**. Only **defined for continuous variables**. 
 ![[Pasted image 20241028162456.png]]
 $$P(a < X < b) = \text{area under } f_{X}(x)$$
-
 ![[Pasted image 20241028162803.png]]
 
 ### Cumulative Distribution Function
