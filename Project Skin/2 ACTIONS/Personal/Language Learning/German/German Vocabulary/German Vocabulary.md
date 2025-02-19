@@ -2959,3 +2959,23 @@ Saft juice
 	Apfelsaft - apple juice
 	orangensaft - orange juice
 
+---
+
+Wem whom 
++ Mit wem gehst du inst Kino ? - With whom are you go to the movies theater with ? 
++ Cool, mit wem
+
+Fern TV
+Fernsehen - watch TV
+	Wir können nicht fernsehen, wir campen 
+
+Sei bitter please be 
+Leiser quite
+	Sei bitter leiser - please be quite 
+
+Ausschlafen - sleep in (stay awake overnight)
+	Wir können nicht Ausschlafen, wir früh arbeiten - we can't sleep in, we have work early.
+
+Ferien break
+	Wir frühstücken ein bisschen später in den Ferien - We eat breakfast a little later during the break
+

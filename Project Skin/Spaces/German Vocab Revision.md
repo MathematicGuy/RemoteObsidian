@@ -928,3 +928,13 @@ endlich finally
 fertig finished
 	Ich fast endlich fertig - I am finally finished
 
+Schmekt tase
+Kuche cake
+Backt bake
+	Meiner Mama backt gut, ihr Kuchen schmeckt am besten / My mom bakes well, her cake taste the best 
+
+
+Noch still
+Fischen 
+	Gehst du noch mit deine Mama fischen - are you still going fishing with your mom ?
+
