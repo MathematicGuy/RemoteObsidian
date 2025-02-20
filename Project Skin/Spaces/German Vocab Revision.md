@@ -938,3 +938,11 @@ Noch still
 Fischen 
 	Gehst du noch mit deine Mama fischen - are you still going fishing with your mom ?
 
+Kekse cookies
+Lieb nice
+	Meine Oma ist lieb, sie backt für mich kekse
+
+Backt du mit deine .. 
+Früher - earlier 
+Bitte request 
+
