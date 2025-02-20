@@ -24,21 +24,20 @@
             }
           },
           {
-            "id": "2fe1345cc5149695",
+            "id": "bbeae1516ce811f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edge Detection Using Gradients.md",
+                "file": "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edge Detection Using Gradients"
+              "title": "CMC Natural Language Processing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,44 +197,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2fe1345cc5149695",
+  "active": "45e0596d79416cc1",
   "lastOpenFiles": [
-    "image/Pasted image 20250219134135.png",
-    "image/Pasted image 20250219134011.png",
-    "image/Pasted image 20250219133749.png",
+    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
+    "2 ACTIONS/_Focus.md",
+    "Body Language Decoder with MediaPipe.md",
+    "image/Pasted image 20250220081623.png",
     "Human Activity Recognition Methods using RNN + LSTM.md",
+    "Edge Detection.md",
+    "image/Pasted image 20250219202835.png",
+    "image/Pasted image 20250219202653.png",
+    "image/Pasted image 20250219202524.png",
+    "image/Pasted image 20250219202152.png",
+    "image/Pasted image 20250219201924.png",
+    "image/Pasted image 20250219201232.png",
+    "image/Pasted image 20250219201056.png",
+    "image/Pasted image 20250219200942.png",
+    "image/Pasted image 20250219165458.png",
+    "Taylor Series.md",
     "1 PROJECTS/AIO - Basic LSTM, GRU (Time-series and Text).md",
-    "Edge Detection Using Gradients.md",
     "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
     "Dropout - A Simple Way to Prevent Neural Networks from Overfitting.md",
     "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
-    "image/Pasted image 20250219103959.png",
-    "image/Pasted image 20250219095509.png",
-    "image/Pasted image 20250219094740.png",
-    "image/Pasted image 20250219094518.png",
-    "2 ACTIONS/_Focus.md",
     "Master Psudo Planche (GYM + CALISTHENICS).md",
     "Python.md",
-    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
     "Smartest Way to Use Protein To Build Muscle.md",
     "Creatine.md",
-    "image/Pasted image 20250218121556.png",
-    "image/Pasted image 20250218120737.png",
     "AIO2024 - Text Classification and POS Tagging.md",
     "Analyse Layer Effect for Deep Learning Network.md",
     "AIO - RNN.md",
     "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
     "1 PROJECTS/BigData HW/BDA - Lab 2.md",
     "1 PROJECTS/BigData HW/BDA - Lab 1 Week 1.md",
-    "image/Pasted image 20250218074826.png",
-    "image/Pasted image 20250218065500.png",
     "Application of AI in Medical Imaging Overview and Image Registration.md",
     "EHRs.md",
     "1 PROJECTS/NCKH 2025/NCKH 2025.md",
     "Histogram Equalization.md",
     "Lesson 2 - Probability Distributions.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Statistic and Probability for Machine Learning.md",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

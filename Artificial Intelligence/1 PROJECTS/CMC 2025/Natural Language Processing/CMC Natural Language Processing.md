@@ -1,3 +1,8 @@
+Score: HW (15 - 25%) + Midterm (20%) QA/Multiple-Choice + Final Project (60%)
+3 bài - mỗi bài bao gồm code (lấy từ bài tập đã học bắt đầu từ tuần 1) + báo cáo (thuật toán cài đặt, optinal: thuật toán mở rộng) 
+
+---
+
 **Hình thái của 1 từ**
 ![[maxresdefault.jpg]]
 
@@ -160,8 +165,6 @@ Machine Learning -> Human have to Engineer Features Manually.
 HW: Use skitlearn for Naive Bayes problem
 
 ---
-remove feature with unchanged weight   
-
 # Word Embedding
 function word (từ chức năng): a, the, thì, mà, con, cái, thằng, fetc..
 contents word (từ quan trọng, có ý nghĩa): 

@@ -136,3 +136,6 @@ sigmoid -> điều chỉnh lượng thông tin đi vào.
 ![[Pasted image 20250214101656.png]]
 [github code reference](https://github.com/Jaykumaran/Action_Recognition_UCF101_CNN_LSTM.git)
 
+---
+
+[[Body Language Decoder with MediaPipe]]

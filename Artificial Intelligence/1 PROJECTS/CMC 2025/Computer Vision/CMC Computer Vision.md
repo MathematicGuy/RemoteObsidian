@@ -130,7 +130,7 @@ The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tut
 ## Canny 
 **Note:** Like Contour but a set of dotted lines.
 
-## [[Edge Detection Using Gradients]]
+## [[Edge Detection]]
 
 
 
