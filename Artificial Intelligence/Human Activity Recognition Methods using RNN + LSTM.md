@@ -118,6 +118,7 @@ In Summary, there are 2 case:
 	
 
 ### Long Short Term Memory ([LSTM](https://phamdinhkhanh.github.io/2019/04/22/Ly_thuyet_ve_mang_LSTM.html))
+[LSTM Parameters](https://www.kaggle.com/code/kmkarakaya/lstm-understanding-the-number-of-parameters)
 [[Analyse Layer Effect for Deep Learning Network]]
 	Use gate to stabilize the gradient during the training -> avoid Exploding/Vanishing Gradient. 
 
@@ -139,3 +140,4 @@ sigmoid -> điều chỉnh lượng thông tin đi vào.
 ---
 
 [[Body Language Decoder with MediaPipe]]
+

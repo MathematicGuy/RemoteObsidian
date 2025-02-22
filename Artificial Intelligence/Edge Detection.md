@@ -5,6 +5,7 @@
 **(4) Canny Edge Detector**
 **(5) Corner Detection**
 [vid](https://www.youtube.com/watch?v=Z-65nqxUdl4&t=9388s)
+
 ### What is an Edge
 + ? **Cause of Edges:** **Rapid/Sudden changes in image intensity are caused by varios physical phenomena**.
 ![[Pasted image 20250219162602.png]]
@@ -22,7 +23,7 @@ Performance Requirements:
 + Good Localization -> Detect edge excactly where it take place.>
 + Low Noise Sensitivity. 
 
-## Edge Deteciton Using Gradients
+## Edge Detection Using Gradients
 ### 1D Edge Detection using 1st Derivative 
 >Edge is a rapid change in image intensity in a small region
 ![[Pasted image 20250219094518.png]]
