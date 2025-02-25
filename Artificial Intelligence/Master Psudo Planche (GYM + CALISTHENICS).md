@@ -4,8 +4,9 @@
 
 **note:** 
 + @ Don't Over Train. Because overtrain mean overrest, which disturb your workout routine. 
-+ [[Smartest Way to Use Protein To Build Muscle]]
 + Don't do 2 set until failure, because overtrain mean less set to take. 
++ [Hand Placement](https://www.youtube.com/shorts/8kdpPDsUYLw) is important for planche
++ [Pull Up Tips](https://youtube.com/shorts/JsiMoNzVz-8?si=pnl3m10yDDIa5Ceo)
 
 + ! Never do more than 5 reps on warmups
 + @ Rest Time between 5 to 8 minutes. .
@@ -151,3 +152,6 @@ Focus on your training section. **Don't rest more than you should.**
 >Know the detail on how to do Light workout, Heavy workout. The best method for every exercise.
 
 
+---
+# Archive
++ [[Smartest Way to Use Protein To Build Muscle]]

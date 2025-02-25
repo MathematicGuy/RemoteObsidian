@@ -175,3 +175,28 @@ contents word (từ quan trọng, có ý nghĩa):
 	but frequency doesn't show the real word importantness, overly frequent words like *the, it* or *they* are not very informative about the context. It's a paradox, how can we balance these 2 conflicts and constraints.
 	-> 
 2) Word2vec
+---
+### Code Explaination 
+[[Sentiment Analysis using LSTM]]
++ **drive .ipynb:** https://drive.google.com/file/d/1o0Rf-AvhuqNcQynUi4UVpaQi-o_wyjLH/view 
++ [Sentiment Analysis on IMDB Movie Reviews: A Beginner’s Guide](https://medium.com/@AMustafa4983/sentiment-analysis-on-imdb-movie-reviews-a-beginners-guide-d5136ec74e56)
++ [Sentimen Analysis Video Turtorial](https://www.youtube.com/watch?v=C5wRAlLuuY0)
+
+---
+# Seq2seq modal and application for machine translation
+
+Lịch sử Machine Translation
+Rule base -> Example base machine translation (EBMT) -> Statistical Base (Syntax base SMT, Hiearchical base SMT) -> Neural Machine (Attention base, Transformaer)
+
+What is NMT (Neural Machine Translation)
+NMT use single neural network (to avoid probabation errors - stack of errors)
+
+Encoder - Decoder Framwork
+note: log(0 -> 1) âm 
+
+Greedy Decoding (can't undo decision) -> better option: Beam Search (a search algo) to explore several *hypotheses* and select the best one. 
+
+### Advantage of NMT
+Compare to SMT, NMT has many advantages:
++ Better performance: more fluent, better use of context and phrase similarites.
+

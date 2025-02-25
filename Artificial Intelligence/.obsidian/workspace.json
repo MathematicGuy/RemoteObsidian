@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de4d7542e8e38bae",
+        "id": "9786cdeb190c3b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "45e0596d79416cc1",
+            "id": "5c8508cd551a7881",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "019a59c5668a375f",
+            "id": "2d18739228a55e23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sentiment Analysis using LSTM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sentiment Analysis using LSTM"
             }
           }
         ],
@@ -194,24 +198,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "019a59c5668a375f",
+  "active": "2d18739228a55e23",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
-    "Master Psudo Planche (GYM + CALISTHENICS).md",
     "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
+    "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/BigData HW/BDA - Lab 2.md",
+    "Sentiment Analysis using LSTM.md",
+    "image/Pasted image 20250225094035.png",
+    "image/Pasted image 20250225094025.png",
+    "image/Pasted image 20250225092519.png",
+    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "AIO - RNN.md",
+    "image/Pasted image 20250224230442.png",
+    "image/Pasted image 20250224225457.png",
+    "image/Pasted image 20250224225251.png",
+    "image/Pasted image 20250224223741.png",
+    "image/Pasted image 20250224221557.png",
+    "image/Pasted image 20250224221139.png",
+    "Master Psudo Planche (GYM + CALISTHENICS).md",
+    "image/Pasted image 20250224163516.png",
+    "AIO 2024.md",
     "Human Activity Recognition Methods using RNN + LSTM.md",
+    "Application of AI in Medical Imaging Overview and Image Registration - A Survey.md",
+    "AIO - Research Topic.md",
+    "AIO 2025.md",
+    "AIO2024 - Medical Image Analysis.md",
+    "AIO Team Research.md",
+    "AIO Research Survey.md",
     "Edge Detection.md",
     "Body Language Decoder with MediaPipe.md",
-    "image/Pasted image 20250220081623.png",
-    "image/Pasted image 20250219202835.png",
-    "image/Pasted image 20250219202653.png",
-    "image/Pasted image 20250219202524.png",
-    "image/Pasted image 20250219202152.png",
-    "image/Pasted image 20250219201924.png",
-    "image/Pasted image 20250219201232.png",
-    "image/Pasted image 20250219201056.png",
-    "image/Pasted image 20250219200942.png",
-    "image/Pasted image 20250219165458.png",
     "Taylor Series.md",
     "1 PROJECTS/AIO - Basic LSTM, GRU (Time-series and Text).md",
     "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
@@ -220,17 +235,6 @@
     "Python.md",
     "Smartest Way to Use Protein To Build Muscle.md",
     "Creatine.md",
-    "AIO2024 - Text Classification and POS Tagging.md",
-    "Analyse Layer Effect for Deep Learning Network.md",
-    "AIO - RNN.md",
-    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
-    "1 PROJECTS/BigData HW/BDA - Lab 2.md",
-    "1 PROJECTS/BigData HW/BDA - Lab 1 Week 1.md",
-    "Application of AI in Medical Imaging Overview and Image Registration.md",
-    "EHRs.md",
-    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
-    "Histogram Equalization.md",
-    "Lesson 2 - Probability Distributions.md",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

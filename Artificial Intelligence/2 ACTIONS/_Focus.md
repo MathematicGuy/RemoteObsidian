@@ -5,7 +5,7 @@
 **Crucial**
 - [ ] [[AIO - RNN]] 
 	[RNN YT](https://www.youtube.com/watch?v=Mdp5pAKNNW4&t=859s)
-- [ ] [[Application of AI in Medical Imaging Overview and Image Registration]]
+- [ ] [[Application of AI in Medical Imaging Overview and Image Registration - A Survey]]
 - [ ] Revision [[AIO - Basic LSTM, GRU (Time-series and Text)]] 
 - [ ] After RNN + LSTM -> Finish [[Human Activity Recognition Methods using RNN + LSTM]]
 - [x] Finish Deep Learning Lab HW  
@@ -23,6 +23,7 @@
 - [ ] Note KNN
 - [ ] Understading ADAM
 - [ ] [[AI Seminar]]
++ [ ] How to write a killer cover letter
 
 **Machine Learning**
 [[AIO 2024]]

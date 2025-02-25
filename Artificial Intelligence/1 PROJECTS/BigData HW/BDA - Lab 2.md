@@ -167,7 +167,6 @@ You'll work with **web store data** to perform SQL-like queries.
 Download and extract: [Click here](https://drive.google.com/file/d/1Otyp8MI5soC6qS1OeodHYuNkMbXFj6Tl/view?usp=sharing)
 
 Extract:
-
 - `Omniture.0.tsv.gz`
 - `users.tsv.gz`
 - `products.tsv.gz`
@@ -241,6 +240,103 @@ SELECT * FROM users LIMIT 5;
 SELECT * FROM products LIMIT 5;
 SELECT COUNT(*) FROM omniturelogs;
 ```
+
+
+```sql
+SELECT * from omniturelogs;
+SELECT * from omniturelogs;
+SELECT * from omniturelogs;
+```
+### In order to optimize your website and convert more visits into sales and revenue.
+
+**Analyze the clickstream data by location**
++ $ Find high-revenue locations.
++ ? This query count the **clickstream by user location**.
+```sql
+SELECT col_50, COUNT(*) AS total_vitis
+FROM omniturelogs
+GROUP BY col_50;
+```
+
+
+**Filter the data by product category**
++ $ Understand interest by category
++ ? This query retrieves **clickstream interactions** for a specific **product category**.
+```sql
+SELECT location, 
+       COUNT(*) AS total_visits, 
+       SUM(revenue) AS total_revenue
+FROM clickstream_data
+GROUP BY location
+ORDER BY total_revenue DESC;
+```
+![[Pasted image 20250225092519.png]]
+
+**Graph the website user data by age and gender**
++ $ Visualize user behavior
++ ? This query aggregates **user visits and revenue** based on **age and gender**.
+```sql
+SELECT birth_dt, 
+       CASE 
+           WHEN CAST(SUBSTRING(birth_dt, -2) AS INT) > 25 
+           THEN 1900 + CAST(SUBSTRING(birth_dt, -2) AS INT)  -- Convert '84' to 1984
+           ELSE 2000 + CAST(SUBSTRING(birth_dt, -2) AS INT)  -- Convert '05' to 2005
+       END AS birth_year,
+       2025 - (CASE 
+                   WHEN CAST(SUBSTRING(birth_dt, -2) AS INT) > 25 
+                   THEN 1900 + CAST(SUBSTRING(birth_dt, -2) AS INT)
+                   ELSE 2000 + CAST(SUBSTRING(birth_dt, -2) AS INT)
+               END) AS age,
+		gender_cd
+FROM users;
+```
+![[Pasted image 20250225094035.png]]
+![[Pasted image 20250225094025.png]]
+
+**Pick a target customer segment**
++ $ Choose high-revenue customer segments
++ ? Find the c based on revenue contribution.
+```sql
+SELECT 
+    CASE 
+        WHEN age BETWEEN 18 AND 24 THEN '18-24'
+        WHEN age BETWEEN 25 AND 34 THEN '25-34'
+        WHEN age BETWEEN 35 AND 44 THEN '35-44'
+        WHEN age BETWEEN 45 AND 54 THEN '45-54'
+        ELSE '55+'
+    END AS age_group,
+    COUNT(*) AS total_users
+FROM (
+    SELECT 
+        gender_cd, 
+        2025 - (
+            CASE 
+                WHEN CAST(SUBSTR(birth_dt, -2) AS INT) > 25 
+                THEN 1900 + CAST(SUBSTR(birth_dt, -2) AS INT)
+                ELSE 2000 + CAST(SUBSTR(birth_dt, -2) AS INT)
+            END
+        ) AS age
+    FROM users
+) 
+GROUP BY age_group, gender_cd
+ORDER BY total_users DESC
+LIMIT 1;
+
+```
+
+**Identify a few web pages with the highest bounce rates**
++ $ Optimize low-performing pages
++ ? Bounce rate = (single-page visits) ÷ (total visits).
+```sql
+SELECT page_url, 
+       COUNT(CASE WHEN exit_page = entry_page THEN 1 END) * 100.0 / COUNT(*) AS bounce_rate
+FROM clickstream_data
+GROUP BY page_url
+ORDER BY bounce_rate DESC
+LIMIT 10;
+```
+
+
 
 ---
 

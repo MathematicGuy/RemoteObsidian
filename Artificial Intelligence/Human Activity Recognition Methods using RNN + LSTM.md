@@ -137,7 +137,12 @@ sigmoid -> điều chỉnh lượng thông tin đi vào.
 ![[Pasted image 20250214101656.png]]
 [github code reference](https://github.com/Jaykumaran/Action_Recognition_UCF101_CNN_LSTM.git)
 
----
 
+**Bidirectional LSTM**
+![[Pasted image 20250224124218.png]]
++ ? Bidirectional LSTMs learn contexts from left to right and right to left then concatinate them.  
++ $ The example above show, because of the influence of the information "left to right" feed through $\hat{y}^{(3)}$ the model know "apple" a fruit or company.
+
+---
 [[Body Language Decoder with MediaPipe]]
 
