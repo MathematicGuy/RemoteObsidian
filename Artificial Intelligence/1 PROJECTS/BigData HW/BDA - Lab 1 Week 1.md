@@ -2,6 +2,11 @@
 ![[Pasted image 20250218074826.png]]
 ![[Pasted image 20250213151222.png]]
 
+note: rename file
+```sh
+mv old_name.csv new_name.csv
+```
+
 #### 2) Ambari Dashboard
 ![[Pasted image 20250212230210.png]]
 

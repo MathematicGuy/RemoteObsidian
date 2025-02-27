@@ -67,7 +67,6 @@ scan 'students'  # Retrieve all records
 ![[Pasted image 20250213083801.png]]
 
 ### **5️⃣ Modify Data**
-
 ```bash
 put 'students', '1003', 'info:age', '22'  # Update Charlie’s age
 ```
@@ -99,8 +98,7 @@ put 'students', '1001', 'contact:email', 'alice@example.com'
 ---
 
 ## Step 3: HBase and Pig Integration
-
-You'll run a **Pig script** to load data into HBase.
+>You'll run a **Pig script** to load data into HBase.
 
 ### **1️⃣ Download Required Files**
 ```bash
@@ -113,7 +111,7 @@ Check if File Uploaded in Root File)
 ls ~
 cd ~ # to to root file
 ```
-	
+
 ### **2️⃣ Upload Files to HDFS**
 
 ```bash
@@ -299,43 +297,39 @@ FROM users;
 ```sql
 SELECT 
     CASE 
-        WHEN age BETWEEN 18 AND 24 THEN '18-24'
-        WHEN age BETWEEN 25 AND 34 THEN '25-34'
-        WHEN age BETWEEN 35 AND 44 THEN '35-44'
-        WHEN age BETWEEN 45 AND 54 THEN '45-54'
-        ELSE '55+'
-    END AS age_group,
-    COUNT(*) AS total_users
-FROM (
-    SELECT 
-        gender_cd, 
-        2025 - (
-            CASE 
-                WHEN CAST(SUBSTR(birth_dt, -2) AS INT) > 25 
-                THEN 1900 + CAST(SUBSTR(birth_dt, -2) AS INT)
-                ELSE 2000 + CAST(SUBSTR(birth_dt, -2) AS INT)
-            END
-        ) AS age
-    FROM users
-) 
-GROUP BY age_group, gender_cd
-ORDER BY total_users DESC
-LIMIT 1;
-
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) < 18 THEN 'Under 18'
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) BETWEEN 18 AND 24 THEN '18-24'
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) BETWEEN 25 AND 34 THEN '25-34'
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) BETWEEN 35 AND 44 THEN '35-44'
+        ELSE '45+'
+    END AS customer_segment,
+    COUNT(*) AS total_clicks
+FROM users u
+GROUP BY 
+    CASE 
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) < 18 THEN 'Under 18'
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) BETWEEN 18 AND 24 THEN '18-24'
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) BETWEEN 25 AND 34 THEN '25-34'
+        WHEN year(current_date) - CAST(SUBSTR(u.birth_dt, 1, 4) AS INT) BETWEEN 35 AND 44 THEN '35-44'
+        ELSE '45+'
+    END
+ORDER BY total_clicks;
 ```
+![[Pasted image 20250227050904.png]]
 
 **Identify a few web pages with the highest bounce rates**
 + $ Optimize low-performing pages
 + ? Bounce rate = (single-page visits) ÷ (total visits).
 ```sql
-SELECT page_url, 
-       COUNT(CASE WHEN exit_page = entry_page THEN 1 END) * 100.0 / COUNT(*) AS bounce_rate
-FROM clickstream_data
-GROUP BY page_url
+SELECT col_10 as page_url, COUNT(DISTINCT col_2) AS total_sessions,
+	SUM(CASE WHEN col_20 = 1 THEN 1 ELSE 0 END) AS bounce_sessions,
+	(SUM(CASE WHEN col_20 = 1 THEN 1 ELSE 0 END)  / COUNT(DISTINCT col_2)) * 100 AS bounce_rate 
+FROM omniturelogs
+GROUP BY col_10
 ORDER BY bounce_rate DESC
 LIMIT 10;
 ```
-
+![[Pasted image 20250227073327.png]]
 
 
 ---

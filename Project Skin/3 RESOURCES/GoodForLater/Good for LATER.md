@@ -1,3 +1,6 @@
+
+[Proposal](https://youtube.com/shorts/sBs43-GVQbI?si=fqShhISFl03jLgGl)
+
 [Producthunt](https://www.producthunt.com/golden-kitty-awards/hall-of-fame?year=2023#ai-product)
 	Find the product I need (AI, Security, Productivity, etc..)
 

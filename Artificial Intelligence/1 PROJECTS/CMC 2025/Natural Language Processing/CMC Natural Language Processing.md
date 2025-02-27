@@ -200,3 +200,5 @@ Greedy Decoding (can't undo decision) -> better option: Beam Search (a search al
 Compare to SMT, NMT has many advantages:
 + Better performance: more fluent, better use of context and phrase similarites.
 
+
+[[Sequence to sequence (seq2seq)]]

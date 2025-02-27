@@ -133,10 +133,6 @@ The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tut
 ## [[Edge Detection]]
 
 
-
-
-
-
 ## Chapter 3: Image Classification 
 note: Harris Corner Detection
 
@@ -154,3 +150,7 @@ Key point -> get maxima from the image through a n by n kernel.
 Take 16x16 neighbour pixels. -> Histogram of that pixel
 
 **"blob-like feature"** refers to a distinct, localized area in an image that stands out from its surrounding. 
+
+---
+
+[[Transfer Learning]]
