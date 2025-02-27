@@ -2979,7 +2979,6 @@ Ausschlafen - sleep in (stay awake overnight)
 Ferien break
 	Wir frühstücken ein bisschen später in den Ferien - We eat breakfast a little later during the break
 
-
 Die Zeitung - the newspaper
 	Ich muss lernen, aber ich will die Zeitung leisen - I need to learn, but i want to read newspaper 
 Komöde comedy
@@ -2989,4 +2988,5 @@ Bitte request
 Kinderbuch children's book
 	Willst du mit deiner Nachte ein Kinderbuch lesen - Do you want o read a children's book with your niece ?
 
+Semesterende - the end of semester 
 

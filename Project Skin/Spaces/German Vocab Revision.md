@@ -933,7 +933,6 @@ Kuche cake
 Backt bake
 	Meiner Mama backt gut, ihr Kuchen schmeckt am besten / My mom bakes well, her cake taste the best 
 
-
 Noch still
 Fischen 
 	Gehst du noch mit deine Mama fischen - are you still going fishing with your mom ?
@@ -946,3 +945,7 @@ Backt du mit deine ..
 Früher - earlier 
 Bitte request 
 
+Ferien break 
+Hause 
+Fliege
+	Ich Fliege in den Ferien nach Hause 
