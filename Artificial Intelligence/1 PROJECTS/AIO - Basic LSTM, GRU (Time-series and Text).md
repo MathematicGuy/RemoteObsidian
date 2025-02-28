@@ -1,27 +1,29 @@
-+ ? Làm sao để giảm parameter mà ko giảm bộ nhớ
+![[Pasted image 20250227153305.png]]
 
-
-RNN: can be used to predict bitcoin dựa trên dữ liệu timeseries.
 >Được phát triển giống như cách não ghi nhớ thông tin -> tập trung vào shorterm memory.
 ![[Pasted image 20241220200750.png]]
 
-**Recurrent (hồi quy)** means **Feedback loops**
++ ? **Recurrent (hồi quy)** means **Feedback loops**
 ![[Pasted image 20241220201325.png]]
-**Also mean Sharing Weights**. 3 neurons nhưng dùng chung 3 cái weights. 
++ ? **Also mean Sharing Weights**. 3 neurons nhưng dùng chung 3 cái weights. 
 ![[Pasted image 20241220201448.png]]
-RNN - R + NN: Recurrent + Neural Network
+RNN vd NN: Each RNN nodes only have 2 output (i.e. connected to other 2 nodes) 1 in the hidden state, and 1 in the output. 
 ![[Pasted image 20241220201553.png]]
++ ? **Each Nodes directly impact the node after it**, unlike MLP where each nodes in the previous layer connected to each nodes in the later layer. 
+![[Pasted image 20250227154639.png]]
 
 **Traditional NN vs RNN**
 ![[Pasted image 20241220201729.png]]
 ![[Pasted image 20241220201740.png]]
 >This features allow NN to remember and predict the future better base on past experiment.
 
-Instead of taking weight from inputs of the 1st layers, RNN take weight directly from the activation function.
+**Neural Network:** Feed forward predictions are only base on the target value in the training data.. 
+![[Pasted image 20250227155242.png]]
+**Recurrent Neural Network:** Each prediction are **depend on the training data and the previous prediction Weight**.
 ![[Pasted image 20241220201922.png]]
 By this method, weight and bias are Shared across every inputs. No matter how many times we unroll a recurrent NN, we never increase number of weights and bias to train.
 ![[Pasted image 20241220202004.png]]
-A more intuitive way to look at RNN: previous layers not responding to making prediction but passing experience.
+**A more intuitive way to look at RNN:** previous layers not responding to making prediction but passing experience.
 ![[Pasted image 20241220202127.png]]
 
 **Different types of RNNs** (the same method as above but Many)
@@ -38,14 +40,20 @@ Vì là tham số truyền tới tham số nên sẽ gây ra vấn đề Gradien
 Or Vanishing Gradient
 ![[Pasted image 20241220203149.png]]
 
+## Three Stages in a Single LSTM Unit
+
+
+
 ### How to avoid Exploding-Vanishing Gradient 
 By skipping connection: instead of go through one by one, each layers go directly to the last layers or n layer after it.
 
-![[Pasted image 20241220203912.png]]
++ ? **Long-term memories:** weight past through from the previous layer, this memory contain the knowledge of the previous layer passing through the next. The first node "Multiply" with the sigmoid function of the current layer to decide how much memory is kept from the last layer . 
++ ? **Short-term memories:** weight of the current layer  
+![[Pasted image 20250227225810.png]]
 
-+ @ kind of Xây dựng dựa trên sơ đồ mạch điện 
++ @ Kind of Xây dựng dựa trên sơ đồ mạch điện 
 ![[Pasted image 20241220204125.png]]
-purpose of multiplication block
+Purpose of multiplication block
 ![[Pasted image 20241220204522.png]]
 **Forget Gate (white block): value range from 0 to 1**. use to determine how much information pass to the next layer.
 ![[Pasted image 20241220204635.png]]
