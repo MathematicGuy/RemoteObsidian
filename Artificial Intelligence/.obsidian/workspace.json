@@ -4,37 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "983e7159bd6ccb75",
-        "type": "tabs",
+        "id": "d164b7da2748e9fc",
+        "type": "split",
         "children": [
           {
-            "id": "93d87afebd3bf031",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md",
-                "mode": "source",
-                "source": false
+            "id": "983e7159bd6ccb75",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "93d87afebd3bf031",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 ACTIONS/_Focus.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "_Focus"
+                }
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "_Focus"
-            }
+              {
+                "id": "c81e33e13185eb67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BDA - Lab 5 MongoDB.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "BDA - Lab 5 MongoDB"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "b448e1cbd4a0d593",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
+            "id": "f6890c0c8d820ef3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b448e1cbd4a0d593",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MongoDB.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MongoDB"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -196,7 +227,10 @@
   },
   "active": "b448e1cbd4a0d593",
   "lastOpenFiles": [
+    "BDA - Lab 5 MongoDB.md",
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "MongoDB.md",
     "Edge Detection.md",
     "1 PROJECTS/NCKH 2025/NCKH 2025.md",
     "1 PROJECTS/NCKH 2025/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.md",
@@ -230,9 +264,6 @@
     "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
     "MLS Week 2 - Regression with multiple input variables.md",
     "MLS Week 3 - Classification with logistic regression.md",
-    "Machine Learning Technique.md",
-    "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
-    "expected predicted value.md",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",
     "3 RESOURCES/Book for AI/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",

@@ -5,6 +5,7 @@ Tuần 7-8: Kiểm tra giữa kì
 ---
 [[BDA - HW1]]
 [[BDA - Lab 2]]
+[[BDA - Lab 5 MongoDB]]
 
 ---
 
