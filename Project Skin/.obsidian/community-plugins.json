@@ -1,7 +1,6 @@
 [
   "obsidian-better-codeblock",
   "cm-editor-syntax-highlight-obsidian",
-  "omnisearch",
   "obsidian-git",
   "obsidian-mind-map",
   "homepage",
@@ -10,5 +9,6 @@
   "quickadd",
   "make-md",
   "obsidian-enhancing-export",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "omnisearch"
 ]

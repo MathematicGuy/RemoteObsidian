@@ -119,7 +119,6 @@ The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tut
 ### Openning (Phép mở: co -> giãn)
 
 
-
 ### Closing (Phép đóng: giãn -> co)
 
 

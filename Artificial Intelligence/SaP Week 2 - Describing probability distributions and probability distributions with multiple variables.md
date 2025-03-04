@@ -25,7 +25,7 @@ For **continuous variables**, it the **Equilibrium point** of the **Probability 
 >For Uniform Distribution, $\mathbb{E}[X]$ always locate in the middle point since data are distributed equally. 
 ![[Pasted image 20241029150846.png]]
 
-**Common Misconception**: Expected value is not the centrel point. It the point where data are balance the most. Spread out data might look small but it bring a heavy punch.
+**Common Misconception**: Expected value is not the center point. It the point where data are balance the most. Spread out data might look small but it bring a heavy punch.
 
 ### Other Measure of central tendency
 **Median**: Motivation

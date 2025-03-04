@@ -17,7 +17,7 @@
   "showCreateButton": false,
   "highlight": true,
   "showPreviousQueryResults": true,
-  "simpleSearch": false,
+  "simpleSearch": true,
   "tokenizeUrls": false,
   "fuzziness": "1",
   "weightBasename": 3,

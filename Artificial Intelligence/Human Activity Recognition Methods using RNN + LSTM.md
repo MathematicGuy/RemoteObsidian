@@ -146,3 +146,18 @@ sigmoid -> điều chỉnh lượng thông tin đi vào.
 ---
 [[Body Language Decoder with MediaPipe]]
 
++ ? **Câu hỏi bảo vệ dự án:**
+So sánh phương pháp (giống và khác giữa các phương pháp)
+Dataset (so sánh hiệu quả giữa các dataset khác nhau)
+
+Ý nghĩa của các chỉ số Validation
+
+Tham số ? 
+Công thức nào đưa vào phải giải thích dc, so sánh vs công thức (mà cùng giải quyết đc 1 vấn đề)
+
+Đồ án tốt nghiệp làm theo hình thức nhóm. 
+
+**Đồ án của mình tốt hơn như thế nào ? khi mình mới làm đồ án**
+
+Thầy Đông - xử lý ngôn ngữ tự nhiên 
+

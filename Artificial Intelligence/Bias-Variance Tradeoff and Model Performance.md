@@ -2,7 +2,7 @@
 
 ### Bias and Variance Fomula
 $$Bias(\hat{Y})= \mathbb{E}[\hat{Y}] - Y$$$$Variance = \mathbb{E}[(\hat{Y} - \mathbb{E}[\hat{Y}])^2]$$
-where $\mathbb{E}[\hat{Y}]$ is the expected predicted value, and $Y$ is the true value.
+where $\mathbb{E}[\hat{Y}]$ is the [[expected predicted value]], and $Y$ is the true value.
 
 
 ### Bias vs Variance Tradeoff 
@@ -13,11 +13,11 @@ $$\text{MSE} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$$
 **Summary**
 ![[Pasted image 20241117160551.png]]
 + Green: predicted value, Black: true value.
-+ **Bias** indicate **the average distance of the predicted values to the true value** 
++ **Bias** (thiên vị) indicate **the average distance of the predicted values to the true value** 
 	**High Bias:** *predicted values* far from the *true value*. -> Model is underfit (i.e. pays very little attention to the training data and oversimplified)
 	**Low Bias:** *predicted values* close to the *true value* -> Model have the ability to capture the true underlying patterns or relationship (of each datapoints) present in the data. 
 	
-+ **Variance** indicate **the distance between the predicted values**. 
++ **Variance** (đa dạng) indicate **the distance between the predicted values**. 
 	**High Variance:** *predicted values* are scatter from eachother
 	**Low Variance:** *predicted values* are close to eachother.  
 
@@ -28,7 +28,7 @@ $$\text{MSE} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$$
 
 **Low Bias, Low Variance:** predicted values close to to true value and close from eachother. 
 
-**High Bias, High Variance:** predicted values far from the true value and far from eachother.
+**High Bias, High Variance:** **predicted values far from the true value and far from eachother.**
 ```
 
 
@@ -68,7 +68,7 @@ $$\text{MSE} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$$
 4. Increase the number of [epochs](https://www.geeksforgeeks.org/epoch-in-machine-learning/) or increase the duration of training to get better results.
 
 
-**Overfitting/Overlycomplex:** fit the current data so good that it starts learning from noise and inaccurate data too (e.g. like a overly obey child learning in a cult) The model doesn not categorize the data correctly, because of too many noise and details. 
+**Overfitting/Overlycomplex:** **fit the current data so good that it starts learning from noise and inaccurate data too** (e.g. like a overly obey child learning in a cult) The model doesn not categorize the data correctly, because of too many noise and details. 
 
 **Reasons for Overfitting:**
 1.  High variance and low bias.
@@ -128,7 +128,6 @@ Subbu Mahadevan
 
 
 I want you to go into these functions code and Explain the method these functions used in detail, I want you to explain why do they used it? and the method results
-
 
 Bây giờ hãy giải thích lại tổng quan dự án và cải thiện phần giải thích ở preprocessing sử dụng thông tin bạn vừa giải thích
 

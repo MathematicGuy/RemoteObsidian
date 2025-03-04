@@ -2990,3 +2990,11 @@ Kinderbuch children's book
 
 Semesterende - the end of semester 
 
+#deinen_vs_deinem
++ "deinen" is used in the accusative case:
++ ? "your [thing]"
+
+
+
++ "deinem" is used in the dative case, when the noun is the indirect object of the sentence.
++ ? "to your [thing]"

@@ -1,44 +1,123 @@
-# Decision Tree
-![[Pasted image 20240806100509.png]]
- Bc Bond only decision is 20, it 1 decision either ways so we just need 1 branch of 20. 
+[[Decision Tree Archive]]
 
-> Calc the Probability, we found the best expected value is 20.2. So the decision is to invest in Stocks.
-![[Pasted image 20240806100603.png]]
-
-+ ? Play or Not Example
-	![[Pasted image 20240806101520.png]]
-
-
- Note: Make De scision Tree fromt Scratch and applied it to solve real world problem.
-Define Entropy, Define Gain
-
-+ ? Calc Entropy, Calc Gain of each Features, we got:  
-![[Pasted image 20240806111352.png]]
-
-![[Pasted image 20240806111430.png]]
-+ ? Repeat and Calc Entropy of each Features then Calc the Gain of each Features (for each branch)  
-![[Pasted image 20240806113035.png]]
-![[Pasted image 20240806113120.png]]
-**Final Result**: Node raning base on how important they are to the whole dataset. (how much information they give out)
-	![[Pasted image 20240806113308.png]]
-Time Complexity: $O(log_n)$. where n is the number of rows of data and the tree is assumed to be relatively balanced.
-	Assuming number of features is m, the run time is $O(mnlog_n)$.
-
-
-**How does the Decision Tree algorithm Work?**
-- **Step-1:** Begin the tree with the root node, says S, which contains the complete dataset.
-	
-- **Step-2:** Find the best attribute in the dataset using Attribute Selection Measure (ASM).
-	
-- **Step-3:** Divide the S into subsets that contains possible values for the best attributes.
-	
-- **Step-4:** Generate the decision tree node, which contains the best attribute.
-	
-- **Step-5:** Recursively make new decision trees using the subsets of the dataset created in step 3. Continue this process until a stage is reached where you cannot further classify the nodes and called the final node as a leaf node.
-	
-+ **Visualize**![[main-qimg-a2967f1eaecd002401e501c3232841d5-lq.jpg]]
-
+---
 
 [Decision Tree Read More](https://www.quora.com/How-do-I-calculate-the-time-complexity-of-a-decision-tree-machine-learning-algorithm)
 ![[Pasted image 20240806121053.png]]
 	Decision trees are helpful, not only because they are a visual representation that help you visualize what you are thinking, but also because design of a decision tree requires a documented thought process. Decision trees help formalize the brainstorming process so we can identify more potential solutions.
+
+---
+
+Decision Tree **classified things into categories** -> Classification Tree
+![[image.webp]]
+Decision Tree **predict numerical value** -> Regression Tree  
+![[image/Untitled 5.png]]
+**Internal Nodes:** These **nodes** **represent questions** or tests applied to a **specific attribute of the data.**
+**Branches:** **Each branch represents the possible outcomes of the test** at an internal node.
+**Leaf Nodes:** These **represent the final decision or prediction made by the tree.**
+
+### Decision Tree Example
+How to quantify the impurity -> Gini Impurity (Linear)/Entropy/Information Gain
+**Gini Impurity** (điểm không thuần khiết/tạp chấtchất gini) - **Purity:** thuần khiết
+![[Pasted image 20250302163723.png]]
+![[Pasted image 20250302163744.png]]
+Because the amount of people on the left was 4 and right was 3
+![[Pasted image 20250302163826.png]]
+
+We start by calc the weight of the leaf on the left. We divide the total people on the left: 4 by the total peoples on the right and left: 4+3=7 and multiply the Gini Impurity in the left: 0.375
+![[Pasted image 20250302164224.png]]
+Do the same for the right. (Right Total) / (Total both side) * Gini Impurity
+![[Pasted image 20250302164303.png]]
+So the **Gini Impurity for love popcorn is 0.405.**
+![[Pasted image 20250302164411.png]]
+Like wise **for Love Soda, we got Gini Impurity of 0.214**
+
+For calculating Gini value by age (numerical value), first thing we do is sort the rows by Age, from lowest to highest value. 
+![[Pasted image 20250302164531.png]]
+Then we calculate the average age for **adjacent people**. (Ex: $\frac{7+12}{2}=9.5$, $\frac{12+18}{2}=15$)
+Lastly we calculate the Gini Impurity values for each average age.
+![[Pasted image 20250302164734.png]]
+To calculate the Gini probability of Age = 7, we first categorize people   
++ who Age **$< 9.5$** 
++ who Age **$\geq 9.5$** into 2 categories 
+For example, there only 7 under 9.5 and is not loves cool as ice, so number of No is 1. 
+![[Pasted image 20250302164828.png]]
+And there are 6 people who Age >= 0.5 so we categorized them to the left. And count the number of Yes or No. 
+
+Next we calculate the Gini Impurity of both side.
+![[Pasted image 20250302165626.png]]
+![[Pasted image 20250302165719.png]]
+Now we calculate the Weighted Average of the two Impurities to get the Total Gini Impurity
+![[Pasted image 20250302165809.png]]
+This repeat for all Ages in the table. And we find 2 lowest impurity candidate of 0.343 are 15 and 44. So we **can pick either on,** in this case we pick 15. 
+-> So the **Gini Impurity for Age (column) is 0.343**
+![[Pasted image 20250302165905.png]]
+
+In Summarize we got:
+**Gini Impurity for love popcorn as 0.405.**
+**Gini Impurity for Love Soda as 0.214** -> Leaf with lowest Impurity (tạp chất)
+**Gini Impurity for Age (column) as 0.343**
+>Because Loves Soda has the lowes Gini Impurity overall, we know that its Leaves have the lowest impurity. So we put "Loves Soda" branch at the top of the tree.  
+![[Pasted image 20250302170904.png]]
+>There are 3 people who Loves Sode that also Loves Cool as Ice and 1 doesn't. So this leaf is Impurity. 
++ ? Impurity is when a leaf answer/choice is not absolute/clear, like 100% Yes or 100% No. 
+![[Pasted image 20250302171009.png]]
+So let's see if we can **reduce the Impurity by splitting the people that Love soda based on Loves Popcorn or Age.**
++ Because there are **2 people who Love Soda and Popcorn**, so there are 2 total people on the left.
++ The remainining **2 people who Loves Sodas and do not Love Popcorn** end up on the right.
+So we get the **total Gini Impurity for this Popcorn split (only) is 0.25**
+![[Pasted image 20250302171940.png]]
+For like above, we **only consider 4 Ages who Love Soda**. And calculate the Impurity of each leaves.
+![[Pasted image 20250302172955.png]]
+We see both leaves have no Impurity at all, the **Gini Impurity for Age < 12.5** is 0. 
+Now because **0 is less than 0.25, we use Age < 12.5 to split this Node into Leaves**
+![[Pasted image 20250302174356.png]]
+Because there're no Impurity left. We can assign output for each leaf base on the majority of the people:
+![[Pasted image 20250302174811.png]]
+Now, when there new data comes along. We just run the data down our tree.  
+![[Pasted image 20250302174850.png]]
+
+Remember, at the start there only 1 person make it to this Leaf. So few that it's hard to have confidence that it will do a great job making predictions with future data -> Possible for overfit -> [[Regression and Decision Tree Prunning]]
+![[Pasted image 20250302175051.png]]
+So we prune that leaf. This give a better sense of accurary of our prediction because we know that only 75% of people in leaf "Loves Cool As Ice" -> we put the leaf as "Loves Cool As Ice" as label for the Decision Tree model. 
+![[Pasted image 20250302180237.png]]
++ ! When we build a tree, we don't know in advance if it is better to require 3 people per leaf or some other number, so we test different values with something called [[Cross Validation]] and pick the one that works best.
+
+---
+
+If the sample is **completely [[homogeneous]] the entropy is zero** and if the sample is an **equally divided it has entropy of one.**
+![[Pasted image 20250302185206.png]]
+
+
+---
+
+### Compare Entropy and Gini Impurity in Decision Tree
+
+**Entropy**
+![[Pasted image 20250302191824.png]]
+![[Pasted image 20250302191829.png]]
+![[Pasted image 20250302191838.png]]
+
+
+**Gini Impurity**
+![[Pasted image 20250302190349.png]]
+
+- **Range**:
+    - Entropy lies in the range $[ 0,log⁡_{2}(C)]$ For binary classification ($C=2$), the maximum is 1 (when $p=0.5$).
+    - Gini for a node with C classes has range $[\,0, 1-\frac{1}{C}\,]$. For a binary classification with $p=0.5$, the maximum Gini impurity is 0.5
+    - $ **Gini Impurity is generally more computationally efficient than entropy.** The graph of **entropy increases up to 1** and then starts decreasing, while **Gini Impurity only goes up to 0.5** before decreasing, thus **requiring less computational power.** The range of entropy is from 0 to 1, whereas the range of Gini Impurity is from 0 to 0.5.
+	  ![[Pasted image 20250302190440.png]]  
+- **Sensitivity**:
+	- **Entropy tends to penalize impure nodes** (i.e., near-even splits) more heavily than Gini does when the classes are evenly mixed. This is because the $\log_2$ in **entropy grows more quickly than the linear term in Gini** as $p$ approaches 0.5.
+	    ![[Binary_logarithm_plot_with_ticks.svg.png]]
+	- Gini tends to give slightly higher values for moderate degrees of impurity, which can affect which split is considered “best.”
+```ad-summary
+- **Entropy and Gini measure “impurity” in different ways**: Entropy uses the log-based definition of **information content**, while Gini measures the **probability of misclassification**.
+.
+- **Practically**, **both usually produce similar splits and result in similar performance**.
+.
+- **Existed Biases**:
+    + **Entropy** more heavily penalizes near-even splits (i.e., encourages more “decisive” splits), which can help in certain minority-class conditions.
+    + **Gini** can be slightly faster and is sometimes considered more straightforward as a measure of node “purity” (misclassification probability).
+```
+
