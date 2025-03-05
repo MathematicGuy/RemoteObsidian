@@ -177,6 +177,8 @@ contents word (từ quan trọng, có ý nghĩa):
 2) Word2vec
 ---
 ### Code Explaination 
+[[Trigram_model]]
+[[Language_Modeling_with_Trigrams]]
 [[Sentiment Analysis using LSTM]]
 + **drive .ipynb:** https://drive.google.com/file/d/1o0Rf-AvhuqNcQynUi4UVpaQi-o_wyjLH/view 
 + [Sentiment Analysis on IMDB Movie Reviews: A Beginner’s Guide](https://medium.com/@AMustafa4983/sentiment-analysis-on-imdb-movie-reviews-a-beginners-guide-d5136ec74e56)
@@ -200,5 +202,19 @@ Greedy Decoding (can't undo decision) -> better option: Beam Search (a search al
 Compare to SMT, NMT has many advantages:
 + Better performance: more fluent, better use of context and phrase similarites.
 
-
 [[Sequence to sequence (seq2seq)]]
+
+---
+### Schedule
+1. Transformer (4/3)
+2. Practice x 2 (6/30 + 11/3)
+3. Review of Project (13/3)
+4. LLMs (ChatGPT) (10/3)
+5. Practice
+6. Prompting + Practice
+7. Review Project 
+
+---
+
+
+ 

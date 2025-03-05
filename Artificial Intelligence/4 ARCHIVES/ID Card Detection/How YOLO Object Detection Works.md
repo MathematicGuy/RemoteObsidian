@@ -1,3 +1,6 @@
+### YOLO-1
+(Additional: Problems higher yolo version solve, their improvement through each generation)
+
 ![[Pasted image 20241120112308.png]]
 
 Each Cell in the SxS Grid have a class probabilities and multiple Bouding Box vector for multiple object prediction.

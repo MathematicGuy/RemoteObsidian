@@ -3,12 +3,10 @@
 Store in Binary Json (BJ file type)
 Mongol is short for Humongous (big) 
 
-![[Pasted image 20240405080142.png]]
-![[Pasted image 20240405080200.png]]
-![[Pasted image 20240405080249.png]]
+![[Pasted image 20250304083703.png]]
+![[Pasted image 20250304083715.png]]
 
 > Prerequisites: learn OOP (python, C#, java, etc..)
-
 ### [Mongo Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/#helpers)
 + ? Collection (~ table in SQL)
 

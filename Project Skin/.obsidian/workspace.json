@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4f361ef4aa7809",
+        "id": "476275813e7d4980",
         "type": "tabs",
         "children": [
           {
-            "id": "65a48be3861e1ed6",
+            "id": "18bfc25907e9a9b5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "d6303d9678c3d344",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,10 +81,13 @@
             "id": "ba7b6b392f5dfffc",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -238,7 +230,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d6303d9678c3d344",
+  "active": "18bfc25907e9a9b5",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",
