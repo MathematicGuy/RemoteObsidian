@@ -108,3 +108,6 @@ note luyện code phần:
 
 
 ![[Pasted image 20241129213935.png]]
+
+
+![[Pasted image 20250305114452.png]]

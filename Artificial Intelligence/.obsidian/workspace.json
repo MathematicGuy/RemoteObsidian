@@ -24,21 +24,35 @@
             }
           },
           {
-            "id": "ae54f2048698480d",
+            "id": "8031751782ab7651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Auto Encoder Decoder Deep Learning.md",
+                "file": "Trigram_model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto Encoder Decoder Deep Learning"
+              "title": "Trigram_model"
+            }
+          },
+          {
+            "id": "c9dec9729fdc5605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language_Modeling_with_Trigrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Language_Modeling_with_Trigrams"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,28 +212,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ae54f2048698480d",
+  "active": "c9dec9729fdc5605",
   "lastOpenFiles": [
-    "image/Pasted image 20250305102325.png",
-    "image/Pasted image 20250305102308.png",
-    "image/Pasted image 20250305100304.png",
-    "image/Pasted image 20250305095642.png",
-    "image/Pasted image 20250305095601.png",
-    "image/Pasted image 20250305093559.png",
-    "image/Pasted image 20250305093405.png",
-    "image/Pasted image 20250305093222.png",
-    "4 ARCHIVES/ID Card Detection/How YOLO Object Detection Works.md",
-    "YOlO (You Only Look Once).md",
-    "Auto Encoder Decoder Deep Learning.md",
-    "image/Pasted image 20250305092822.png",
-    "image/Pasted image 20250305092136.png",
-    "image/Pasted image 20250305092115.png",
-    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
-    "2 ACTIONS/_Focus.md",
     "Trigram_model.md",
     "Language_Modeling_with_Trigrams.md",
-    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
     "Sentiment Analysis using LSTM.md",
+    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
+    "image/Pasted image 20250305161519.png",
+    "2 ACTIONS/_Focus.md",
+    "Auto Encoder Decoder Deep Learning.md",
+    "image/Pasted image 20250305114452.png",
+    "image/Pasted image 20250305104243.png",
+    "image/Pasted image 20250305104236.png",
+    "image/Pasted image 20250305103900.png",
+    "image/Pasted image 20250305103845.png",
+    "image/Pasted image 20250305103827.png",
+    "image/bocchi-bocchitherock.gif",
+    "image/Pasted image 20250305102325.png",
+    "image/Pasted image 20250305102308.png",
+    "4 ARCHIVES/ID Card Detection/How YOLO Object Detection Works.md",
+    "YOlO (You Only Look Once).md",
+    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Sequence to sequence (seq2seq).md",
     "BDA - Lab 5 MongoDB.md",
     "elbow method.md",

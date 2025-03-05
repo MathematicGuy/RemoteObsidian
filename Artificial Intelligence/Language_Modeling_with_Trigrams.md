@@ -1,28 +1,26 @@
 ## Preprocess
-### HàmHàm Tokenize
+### Hàm Tokenize
 Đoạn code trên tiền xử lý dữ liệu văn bản để xây dựng mô hình trigram dự đoán từ tiếng Việt. Quá trình tiền xử lý bao gồm:
 - Tách văn bản thành các câu.
 - Tách từng câu thành các token (các từ đơn lẻ).
 - Loại bỏ các dấu câu không cần thiết.
 - Chuẩn bị dữ liệu sạch hơn để mô hình dễ dàng học quy luật và dự đoán từ kế tiếp một cách hiệu quả.
 ### Chi tiết các bước
-
 1. **Định nghĩa hàm `tokenize(doc)`:**
-    
     - Chuyển văn bản sang chữ thường bằng `doc.lower()`.
     - Tách văn bản thành một danh sách token bằng `word_tokenize(...)`.
     - Tạo bảng dịch (translate table) loại bỏ hầu hết dấu câu (trừ ký tự “_”), sau đó áp dụng lên từng token.
     - Loại bỏ những token trống (nếu có).
     - Kết quả trả về là danh sách các token đã được làm sạch.
+	
 2. **Tạo chuỗi dữ liệu lớn `full_data`:**
-    
     - `". ".join(full)`: Gộp tất cả các đoạn văn/bản ghi trong `full` thành một chuỗi lớn, các đoạn cách nhau bằng dấu chấm và khoảng trắng.
     - `full_data.replace("\n", ". ")`: Thay các ký tự xuống dòng bằng dấu chấm và khoảng trắng để thống nhất cách ngắt câu.
+	
 3. **Tách câu bằng biểu thức chính quy:**
-    
     - `re.split(r'(?<=[^A-Z].[.?]) +(?=[A-Z])', full_data)`: Tách chuỗi `full_data` thành danh sách các câu (`sents`) dựa trên quy tắc tìm dấu chấm hoặc chấm hỏi, rồi khoảng trắng, và ký tự tiếp theo in hoa. Điều này giúp chia văn bản thành các câu cơ bản.
+	
 4. **Tạo `corpus`:**
-    
     - Khởi tạo danh sách rỗng `corpus`.
     - Duyệt qua mỗi câu trong `sents` với vòng lặp kèm `tqdm` (chỉ để theo dõi tiến độ).
     - Gọi hàm `tokenize(sent)` để chuyển từng câu thành danh sách token, sau đó thêm vào `corpus`.
@@ -31,26 +29,23 @@ Kết quả cuối cùng là `corpus` – một danh sách các câu, trong đó
 
 
 ### Hàm N-Gram
-
 Hàm `n_gram(tokens, n)` được thiết kế để tạo danh sách **n-gram** từ một danh sách token. Trong xử lý ngôn ngữ tự nhiên, **n-gram** là một chuỗi gồm _n_ token liên tiếp, đóng vai trò quan trọng trong việc xây dựng các mô hình thống kê ngôn ngữ (như trigram, bigram, v.v.). Mục tiêu là thu thập tất cả các **n-gram** có thể có trong tập token đầu vào để hỗ trợ quá trình huấn luyện hoặc phân tích ngôn ngữ.
 
 ### Chi tiết các bước
-
 1. **Nhận đầu vào**:
-    
     - `tokens`: Danh sách các token (chuỗi).
     - `n`: Số nguyên cho biết độ dài mỗi n-gram (chẳng hạn `n=3` cho trigram).
+	
 2. **Khởi tạo danh sách kết quả**:
-    
     - `n_gram_list = []`: Danh sách rỗng để lưu các n-gram.
+	
 3. **Tạo n-gram**:
-    
     - Lặp qua các vị trí _i_ từ `0` đến `len(tokens) - n + 1`.
     - Mỗi lần lặp, lấy _n_ token liên tiếp từ vị trí _i_ bằng `tokens[i:i+n]`.
     - Chuyển đoạn token đó thành tuple: `tuple(tokens[i:i+n])`.
     - Thêm tuple này vào `n_gram_list`.
+	
 4. **Trả về kết quả**:
-    
     - Kết thúc vòng lặp, hàm trả về toàn bộ danh sách n-gram (`n_gram_list`).
 
 ## 3.1 N-gram counts
@@ -59,36 +54,32 @@ Hàm `get_ngram_counts(corpus, n)` có nhiệm vụ tạo danh sách các từ �
 ### Chi tiết các bước
 
 1. **Khởi tạo danh sách kết quả**
-    
-    ```python
+```python
     result = []
-    ```
-    
-    - `result` sẽ chứa _n_ phần tử (tương ứng với i-gram từ 1 đến n), mỗi phần tử là một từ điển lưu trữ tần suất i-gram.
+```
+- `result` sẽ chứa _n_ phần tử (tương ứng với i-gram từ 1 đến n), mỗi phần tử là một từ điển lưu trữ tần suất i-gram.
+	
 2. **Tính tần suất cho từng i-gram (vòng lặp i)**
-    
     ```python
     for i in range(1, n+1):
         ngram_dict = {}
         ...
         result.append(ngram_dict)
     ```
-    
-    - Duyệt từ `i = 1` đến `i = n`.
-    - Với mỗi giá trị `i`, tạo một từ điển `ngram_dict` rỗng để lưu i-gram cùng tần suất của chúng.
-    - Sau khi xử lý xong i-gram, thêm `ngram_dict` vào `result`.
+- Duyệt từ `i = 1` đến `i = n`.
+- Với mỗi giá trị `i`, tạo một từ điển `ngram_dict` rỗng để lưu i-gram cùng tần suất của chúng.
+- Sau khi xử lý xong i-gram, thêm `ngram_dict` vào `result`.
+	
 3. **Lặp qua từng câu (tokens) trong `corpus`**
-    
     ```python
     for tokens in tqdm(corpus):
         n_gram_list = n_gram(tokens, n=i)
         ...
     ```
-    
     - Dùng `tqdm` để theo dõi tiến độ khi duyệt qua danh sách các câu.
     - Gọi hàm `n_gram(tokens, n=i)` để tạo danh sách i-gram cho câu hiện tại.
+	
 4. **Cập nhật tần suất i-gram**
-    
     ```python
     for tmp_n_gram in n_gram_list:
         if tmp_n_gram in ngram_dict:
@@ -96,16 +87,14 @@ Hàm `get_ngram_counts(corpus, n)` có nhiệm vụ tạo danh sách các từ �
         else:
             ngram_dict[tmp_n_gram] = 1
     ```
-    
     - Lặp qua từng i-gram (được lưu trong `n_gram_list`).
     - Nếu i-gram đã có trong `ngram_dict`, tăng giá trị đếm lên 1.
     - Nếu chưa, khởi tạo giá trị tần suất bằng 1.
+	
 5. **Trả về danh sách tần suất i-gram**
-    
     ```python
     return result
     ```
-    
     - Kết thúc vòng lặp, `result` là một danh sách gồm _n_ phần tử, mỗi phần tử là một từ điển chứa tần suất xuất hiện của i-gram trong `corpus`.
     - Kết cấu:
         - `result[0]` chứa tần suất unigram (1-gram).
@@ -118,11 +107,10 @@ Hàm `get_ngram_counts(corpus, n)` có nhiệm vụ tạo danh sách các từ �
 Hàm `calc_ngram_prob(context, word)` được dùng để tính **xác suất có điều kiện** (dưới dạng log) của từ `word` dựa trên bối cảnh (`context`). Cụ thể, nó tính xác suất `P(word | w_2, w_1)` trong mô hình **trigram**. Xác suất này giúp chúng ta biết mức độ khả thi khi `word` xuất hiện sau cặp từ `(w_2, w_1)`. Đây là bước quan trọng để mô hình có thể dự đoán từ tiếp theo với ngôn ngữ tiếng Việt (hoặc bất kỳ ngôn ngữ nào) dựa trên các thống kê từ tập dữ liệu.
 
 ### Chi tiết các bước
-
 1. **Nhận tham số đầu vào**  
    - `context`: Là một bộ (tuple) chứa 2 từ, `(w_2, w_1)`, đại diện cho bối cảnh (2 từ đứng trước).  
    - `word`: Từ cần tính xác suất xuất hiện tiếp theo.
-
+	
 2. **Trích xuất giá trị đếm**  
 ```python
 w_2, w_1 = context
@@ -131,7 +119,7 @@ bigram_count = bigram_coll.get((w_2, w_1), 0)
 ```
    - `trigram_count`: Số lần xuất hiện của bộ 3 (w_2, w_1, word) trong ngữ liệu (nếu không có, mặc định 0).  
    - `bigram_count`: Số lần xuất hiện của bộ 2 (w_2, w_1) trong ngữ liệu (nếu không có, mặc định 0).
-
+	
 3. **Kiểm tra trigram có tồn tại**  
 ```python
 if trigram_count == 0:
@@ -139,7 +127,7 @@ if trigram_count == 0:
 ```
    - Nếu `trigram_count` bằng 0, nghĩa là bộ 3 `(w_2, w_1, word)` **chưa hề xuất hiện** trong dữ liệu.  
    - Hàm trả về `float('-inf')`, thể hiện xác suất cực kỳ thấp (log-probability âm vô cùng).
-
+	
 4. **Tính toán xác suất (dưới dạng log)**  
 ```python
 prob = math.log(trigram_count) - math.log(bigram_count)
@@ -158,46 +146,39 @@ $$\log P(\text{word} | w_2, w_1) = \log \Big(\frac{\text{trigram count}}{\text{b
 
 ---
 
-#### Chi tiết các bước hàm 
-`calc_ngram_prob_with_add_one(context, word)`:
-
+#### Chi tiết các bước hàm  `calc_ngram_prob_with_add_one`:
 1. **Nhận `context` và tách từ**
-    
-    - Em đọc hai từ trong bối cảnh (context) bằng cách: `w1, w2 = context`. Như vậy, `(w1, w2)` chính là cặp từ đi trước.
+    - Ta đọc hai từ trong bối cảnh (context) bằng cách: `w1, w2 = context`. Như vậy, `(w1, w2)` chính là cặp từ đi trước.
+	
 2. **Lấy số lần xuất hiện (count)**
-    
     ```python
     trigram_count = trigram_coll.get(((w1, w2), word), 0)
     bigram_count  = bigram_coll.get(((w1, w2), word), 0)
     ```
-    
     - `trigram_count`: Số lần xuất hiện của bộ ba `(w1, w2, word)`. Nếu chưa có trong dữ liệu, hàm `get` sẽ trả về 0.
     - `bigram_count`: Số lần xuất hiện của cặp `(w1, w2)`.
+	
 3. **Kiểm tra điều kiện đặc biệt**
-    
     ```python
     if trigram_count == 0 or bigram_count == 0:
         return float('-inf')
     ```
-    
     - Nếu chưa gặp trường hợp nào của bigram hoặc trigram trong ngữ liệu (nghĩa là count = 0), hàm sẽ trả về `-inf` (logarithm của 0). Đây là cách biểu diễn “xác suất bằng 0” trong không gian log.
+	
 4. **Tính kích thước từ vựng (V)**
-    
     - `V = len(vocab)`: Em xác định độ lớn tập từ vựng. Trong Add-One Smoothing, con số này sẽ được thêm vào số lần đếm bigram trong phần mẫu.
+	
 5. **Áp dụng công thức Add-One Smoothing**
-    
     ```python
     prob = (trigram_count + 1) / (bigram_count + V)
     return math.log(prob)
     ```
-    
     - Công thức này chia (trigram_count + 1) cho (bigram_count + V).
-    - Sau đó, để thuận tiện cho các phép tính xác suất nhỏ, em trả về `math.log(prob)` thay vì trả về xác suất thô.
+    - Sau đó, để thuận tiện cho các phép tính xác suất nhỏ, ta trả về `math.log(prob)` thay vì trả về xác suất thô.
 
 Nhờ Add-One Smoothing, mô hình sẽ không bị rơi vào tình huống xác suất 0 khi gặp các n-gram hiếm hoặc hoàn toàn mới. 
 
 ### 3.2.2 Stupid backoff
-
 #### Mục đích và ý nghĩa
 Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều kiện của một từ dựa trên bối cảnh bằng **thuật toán Stupid Backoff**.
 - Nếu bộ n-gram đầy đủ tồn tại trong dữ liệu, xác suất sẽ được tính trực tiếp từ tần suất xuất hiện của nó.
@@ -206,7 +187,6 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 - Hàm sử dụng **bộ nhớ đệm** (`prob`) để tránh tính toán lại những giá trị đã được xử lý trước đó.
 
 #### Chi tiết các bước
-
 1. **Kiểm tra từ ngoài từ vựng**  
    ```python
    for token in context:
@@ -215,10 +195,9 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
    if word not in vocab:
        return float('-inf')
 ```
-
 - Kiểm tra xem từ trong `context` và từ cần tính xác suất (`word`) có trong từ vựng `vocab` hay không.
 - Nếu có bất kỳ từ nào không có trong từ vựng, trả về `-inf` (log-probability bằng 0), nghĩa là không thể tính được xác suất.
-
+	
 1. **Kiểm tra và trả về giá trị đã tính toán trước đó**
     ```python
     if word in prob[context]:
@@ -276,7 +255,7 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
     ```
     - Lưu giá trị `log_prob` tính được vào bộ nhớ đệm `prob` cho bối cảnh `context` và từ `word`.
     - Trả về giá trị log probability của từ `word` dựa trên bối cảnh `context`.
-
+	
 + ? Hàm sử dụng **Stupid Backoff** để tính xác suất có điều kiện cho các từ trong n-gram, và sử dụng mô hình hồi lại (backoff) với hệ số giảm khi không thể tính toán xác suất đầy đủ từ trigram hoặc bigram.
 
 
@@ -699,77 +678,63 @@ Với tùy chọn `mode='random'`, văn bản thu được sẽ **đa dạng** h
 - Mỗi beam bắt đầu với `pre_words` và log-probability là `0.0`.
 
 1. **Mở rộng mỗi beam**
-    
     ```python
     for _ in range(num_words):
         new_beams = []
         ...
     ```
-    
     - Vòng lặp sẽ chạy tối đa `num_words` lần để sinh thêm từ.
     - **`new_beams`** chứa các beam mở rộng trong mỗi bước.
-3. **Sinh từ tiếp theo cho mỗi beam**
     
+2. **Sinh từ tiếp theo cho mỗi beam**
     ```python
     for beam_sentence, beam_score in beams:
         candidate_list = model.generate(1, text_seed=beam_sentence[-(model.order-1):])
     ```
-    
     - Mỗi beam sẽ được mở rộng, tức là cho mỗi `beam_sentence`, gọi `model.generate()` để sinh một từ tiếp theo.
     - **`text_seed=beam_sentence[-(model.order-1):]`** là bối cảnh của câu hiện tại, sử dụng `(n-1)` từ cuối cùng để làm bối cảnh cho mô hình trigram (với `n=3`, ta cần 2 từ cuối làm bối cảnh).
-4. **Kiểm tra và xử lý khi không có ứng viên**
-    
+	
+3. **Kiểm tra và xử lý khi không có ứng viên**
     ```python
     if not candidate_list:
         new_beams.append((beam_sentence, beam_score))
         continue
     ```
-    
     - Nếu không có từ nào được sinh ra (`candidate_list` trống), beam sẽ tiếp tục mà không thay đổi. Điều này đảm bảo mô hình không bị kẹt khi không có từ khả dĩ nào.
-5. **Mở rộng beam với các ứng viên**
     
+4. **Mở rộng beam với các ứng viên**
     ```python
     for word in candidate_list:
         new_sentence = beam_sentence + [word]
         new_score = beam_score + model.logscore(word, new_sentence[-(model.order-1):])
         new_beams.append((new_sentence, new_score))
     ```
-    
     - **Mở rộng beam**: Duyệt qua từng từ trong `candidate_list`, thêm từ vào `beam_sentence` hiện tại để tạo thành một câu mới `new_sentence`.
     - **Cập nhật điểm số**: Tính tổng log-probability của câu mới bằng cách cộng điểm số cũ với log-probability của từ mới (`new_score`).
-6. **Sắp xếp các beam theo điểm số**
     
+5. **Sắp xếp các beam theo điểm số**
     ```python
     new_beams.sort(key=lambda x: x[1], reverse=True)
     ```
-    
     - Sau khi tất cả các beam được mở rộng, sắp xếp chúng theo **log-probability** giảm dần. Điều này giúp **giữ lại** các beam có xác suất cao nhất.
-7. **Giữ lại top `num_beam` beam**
-    
+	
+6. **Giữ lại top `num_beam` beam**
     ```python
     beams = new_beams[:num_beam]
     ```
-    
     - **Chỉ giữ lại `num_beam` beam tốt nhất**: Chỉ giữ các beam có điểm số log-probability cao nhất.
-8. **Dừng nếu không có beam nào**
-    
+	
+7. **Dừng nếu không có beam nào**
     ```python
     if not beams:
         break
     ```
-    
     - Nếu sau khi mở rộng các beam mà không còn beam nào khả dĩ (tức `beams` trống), hàm sẽ dừng sớm để tránh vòng lặp vô tận.
-9. **Trả về câu sinh ra**
-    
+	
+8. **Trả về câu sinh ra**
     ```python
     best_sentence = beams[0][0]
     return ' '.join(best_sentence)
     ```
-    
     - Sau khi hết vòng lặp hoặc khi đạt đủ số từ cần sinh (`num_words`), **trả về câu tốt nhất** từ beam đứng đầu (với log-probability cao nhất).
     - Câu được trả về dưới dạng chuỗi từ, loại bỏ dấu bắt đầu câu `<s>` nếu có.
-
-### Tổng kết
-
-- Thuật toán **Beam Search** duy trì một tập hợp các câu khả dĩ và liên tục mở rộng chúng theo các từ tiếp theo, chỉ giữ lại những câu có khả năng cao nhất.
-- Điều này giúp mô hình không bị **kẹt** vào các lựa chọn không tốt như trong phương pháp **greedy** (chọn từ có xác suất cao nhất ngay lập tức).

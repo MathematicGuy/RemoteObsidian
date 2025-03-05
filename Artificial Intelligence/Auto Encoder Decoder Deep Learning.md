@@ -41,4 +41,19 @@ MRI scan - Classified gender using MRI based on their latent representation.
 ![[Pasted image 20250305102308.png]]
 ![[Pasted image 20250305102325.png]]
 
-#### Limitation
+#### Limitations
++ ! Oftenly, **clusters are not as well defined** as we would like them to be. 
+
++ ? Another noticeable problem is if a points locate in between 2 clusters of the latent space, we expect its to be the mixture of the two. 
++ ! Unfortunatly, this was not the case. Such **middle point results in nonsense for most of the intermediate points.** [visualisation](https://youtu.be/hZ4a4NgM3u0?si=EpOl8dknltBnsRJ_&t=644)
+![[Pasted image 20250305103827.png]]
++ ? Nonsense ???
+![[Pasted image 20250305103845.png]]
+![[Pasted image 20250305103900.png]]
+
++ ! For Noise Input, the autoencoder may not be able to reconstruct the original image at all. ![[Pasted image 20250305104243.png]]
++ $ **This is why most autoencoder regularize the latent space**. One of the most poppular type is the **Variational Auto-Encoders**
+
+### Variational Autoencoder (VAT) | Generative AI
+>Why not Autoencoders ?
+
