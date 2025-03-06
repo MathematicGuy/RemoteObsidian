@@ -104,40 +104,40 @@ print(len(full))
 ### Chi tiết các bước
 
 1. **Khởi tạo mô hình n-gram**  
-   ```python
+```python
    vi_model = KneserNeyInterpolated(n)
 ```
 - **`vi_model`**: Mô hình **Kneser-Ney Interpolated** với **n=3**, tức là mô hình **trigram**.
 - **Kneser-Ney**: Là phương pháp smoothing cải tiến, giúp xử lý tốt hơn cho những từ chưa xuất hiện trong dữ liệu huấn luyện.
 	
 1. **Tiền xử lý dữ liệu**
-    ```python
+```python
     train_data, padded_sents = padded_everygram_pipeline(n, corpus)
-    ```
+```
 - **`corpus`**: Là tập văn bản gốc, sẽ được chia thành các n-gram (cả trigram trong trường hợp này).
 - **`train_data`**: Chứa các n-gram đã được chuẩn hóa và chia tách từ dữ liệu.
 - **`padded_sents`**: Là tập các câu đã được **padding** (thêm các token đặc biệt như `<s>` và `</s>`) để xử lý các từ xuất hiện ở đầu và cuối câu.
 	
 2. **Huấn luyện mô hình**
-    ```python
+```python
     vi_model.fit(train_data, padded_sents)
-    ```
+```
 - Huấn luyện mô hình n-gram **Kneser-Ney** bằng cách sử dụng các **n-gram** từ `train_data` và các câu đã được padding `padded_sents`.
 - Mô hình sẽ học các xác suất có điều kiện giữa các từ dựa trên bối cảnh của chúng.
 	
 3. **Kiểm tra kích thước của từ vựng**
-    ```python
+```python
     print(len(vi_model.vocab))
-    ```
+```
 - **`vi_model.vocab`** chứa **từ vựng** của mô hình (tất cả các từ đã được thấy trong quá trình huấn luyện).
 - `len(vi_model.vocab)` in ra số lượng từ có trong từ vựng.
 
 4. **Lưu mô hình vào tệp**
-    ```python
+```python
     model_dir = "/content/drive/My Drive/Colab Notebooks/Ngram_model"
     with open(os.path.join(model_dir, 'kneserney_1st_ngram_model.pkl'), 'wb') as fout:
         pickle.dump(vi_model, fout)
-    ```
+```
 - Mô hình sau khi huấn luyện sẽ được **lưu lại** dưới dạng tệp pickle (`.pkl`) vào thư mục `model_dir`.
 - Sau khi lưu trữ, mô hình có thể được tải lại sau này để sử dụng mà không cần huấn luyện lại từ đầu.
 
@@ -150,16 +150,16 @@ print(len(full))
 
 ### Chi tiết các bước
 1. **Khởi tạo hàm detokenize**
-    ```python
+```python
     from nltk.tokenize.treebank import TreebankWordDetokenizer
     detokenize = TreebankWordDetokenizer().detokenize
-    ```
+```
 - **Đầu vào**: Không có đầu vào cụ thể, chỉ cần import thư viện.
 - **Đầu ra**: Một hàm `detokenize` dùng để **ghép danh sách các token** (từng từ đã được sinh ra) thành một chuỗi văn bản (câu hoàn chỉnh).
 - Thư viện `TreebankWordDetokenizer` cung cấp chức năng chuyển đổi danh sách từ (tokens) thành một câu có định dạng chuẩn (chẳng hạn thêm khoảng trắng giữa các từ).
 	
 2. **Định nghĩa hàm generate_sent**
-    ```python
+```python
     def generate_sent(model, num_words, pre_words=[]):
         """
         :param model: An ngram language model from `nltk.lm.model`.
@@ -175,7 +175,7 @@ print(len(full))
                 break
             content.append(token)
         return detokenize(content)
-    ```
+```
 - **Đầu vào**:
 	- **`model`**: Mô hình ngôn ngữ đã được huấn luyện (ví dụ: mô hình n-gram như vi_model) có khả năng dự đoán từ tiếp theo dựa trên ngữ cảnh.
 	- **`num_words`**: Số lượng từ tối đa sẽ được sinh thêm sau seed.
@@ -195,9 +195,9 @@ print(len(full))
 		- Sau khi vòng lặp kết thúc (do đạt đủ số từ hoặc gặp token kết thúc), danh sách `content` được chuyển thành một chuỗi văn bản bằng hàm `detokenize`.
 
 3. **Gọi hàm generate_sent để sinh câu**
-    ```python
+```python
     generate_sent(vi_model, 10, ["đất", "nước"])
-    ```
+```
 - **Đầu vào**:
 	- **`vi_model`**: Mô hình ngôn ngữ đã được huấn luyện.
 	- **`10`**: Số từ tối đa sẽ được sinh thêm (không tính các từ seed ban đầu).
@@ -243,7 +243,7 @@ print(len(model_loaded.vocab))
 - **Đầu ra chung**: Một tập hợp chứa tất cả các biến thể có dấu của từ đầu vào, giúp phục vụ cho các ứng dụng như phục hồi dấu trong văn bản hoặc cải thiện xử lý ngôn ngữ tiếng Việt.
  
 1. **Hàm `remove_vn_accent`**
-    ```python
+```python
     def remove_vn_accent(word):
         word = re.sub('[áàảãạăắằẳẵặâấầẩẫậ]', 'a', word)
         word = re.sub('[éèẻẽẹêếềểễệ]', 'e', word)
@@ -253,7 +253,7 @@ print(len(model_loaded.vocab))
         word = re.sub('[ýỳỷỹỵ]', 'y', word)
         word = re.sub('đ', 'd', word)
         return word
-    ```
+```
 - **Đầu vào**:
 	- **`word`**: Một từ tiếng Việt, có thể chứa dấu. Ví dụ: `"hoàng"`.
 - **Quá trình hoạt động**:
@@ -264,7 +264,7 @@ print(len(model_loaded.vocab))
 	- Trả về phiên bản của từ đã được **loại bỏ tất cả dấu**, ví dụ từ `"hoàng"` sẽ trở thành `"hoang"`.
 
 2. **Hàm `gen_accents_word`**
-    ```python
+```python
     def gen_accents_word(word):
         word_no_accent = remove_vn_accent(word.lower())
         all_accent_word = {word}
@@ -273,7 +273,7 @@ print(len(model_loaded.vocab))
             if w_no_accent == word_no_accent:
                 all_accent_word.add(w)
         return all_accent_word
-    ```
+```
 + **Đầu vào**:
 	- **`word`**: Một từ tiếng Việt cần tìm các biến thể có dấu. Ví dụ: `"hoang"`.
 + **Quá trình hoạt động**:
@@ -292,9 +292,9 @@ print(len(model_loaded.vocab))
 		- Hàm trả về tập hợp **`all_accent_word`** chứa tất cả các biến thể của từ đã tìm được.
 		
 + **Đầu ra**:  Một tập hợp các biến thể có dấu của từ đầu vào. Ví dụ: với input `"hoang"`, kết quả có thể là:
-	```python
+```python
 	{'hoang', 'hoàng', 'hoáng', 'hoãng', 'hoăng', 'hoạng', 'hoảng', ...}
-	```
+```
  Tập hợp này giúp ta biết tất cả các cách viết có dấu của từ "hoang" theo dữ liệu trong tệp.
 
 

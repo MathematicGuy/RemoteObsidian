@@ -621,7 +621,6 @@ Với tùy chọn `mode='random'`, văn bản thu được sẽ **đa dạng** h
 - Mô hình được huấn luyện sử dụng thư viện **NLTK**, và kết quả mô hình sau khi huấn luyện được **lưu trữ** dưới dạng tệp pickle để có thể sử dụng lại sau này.
 
 ####  Chi tiết các bước
-
 1. **Khởi tạo mô hình n-gram**  
    ```python
    vi_model = KneserNeyInterpolated(n)
