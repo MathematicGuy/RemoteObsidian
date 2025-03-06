@@ -564,8 +564,7 @@ lebst do you live/live/are you live
 
 Russland Russia
 Anwältin lawyer ( well tin) - female
-	 Du bist Anwältin are you an lawyer
-+ Anwalt (sie/er)
+	 Du bist Anwältin are you an lawyer+ Anwalt (sie/er)
 Schweden Sweden
 
 Freut Mich Sehr nice to meet you
@@ -887,8 +886,7 @@ Frühstücke breakfast (ending: -e,-st,-t,-en)
 	Wo Frühstückt 
 Basketball Basketball
 Volleyball Vollezball
-	Es tut mir leid, dein arzt spielt volleyball
-Singe/Singt/Singst sing
+	Es tut mir leid, dein arzt spielt volleyballSinge/Singt/Singst sing
 	Ich singe gern - I like to sing
 	Er singe sehr laut
 Gern like to/ do like to
@@ -2998,3 +2996,6 @@ Semesterende - the end of semester
 
 + "deinem" is used in the dative case, when the noun is the indirect object of the sentence.
 + ? "to your [thing]"
+
+Spielst du in den fernsehen mit deiner Mama Klavier 
+Mit wem gehst du zum Strand 
