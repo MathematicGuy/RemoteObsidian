@@ -178,7 +178,7 @@ contents word (từ quan trọng, có ý nghĩa):
 ---
 ### Code Explaination 
 [[Trigram_model]]
-[[Language_Modeling_with_Trigrams]]
+[[Language_Modeling_with_Trigrams_explain]]
 [[Sentiment Analysis using LSTM]]
 [[NLTK_&_Spacy_practice]]
 
@@ -209,7 +209,7 @@ Compare to SMT, NMT has many advantages:
 ---
 ### Schedule
 1. Transformer (4/3)
-2. Practice x 2 (6/30 + 11/3)
+2. Practice [Code Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) x 2 (6/30 + 11/3)
 3. Review of Project (13/3)
 4. LLMs (ChatGPT) (10/3)
 5. Practice
@@ -218,3 +218,4 @@ Compare to SMT, NMT has many advantages:
 
 ---
  [Beam Search](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)
+

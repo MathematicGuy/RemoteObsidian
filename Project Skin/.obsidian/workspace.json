@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc7a9c12f59fb5f",
+        "id": "27496fbebdcaa8d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d71cfbc737bad805",
+            "id": "de06c895ca49adbc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,23 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "4253dd789b29cd92",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Black forest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +76,7 @@
             }
           },
           {
-            "id": "ed59e206a56045df",
+            "id": "82edaa1085064420",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +85,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +141,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -165,10 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 RESOURCES/How to/Obsidian/Annotation.md"
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Annotation"
+              "title": "Outline"
             }
           },
           {
@@ -218,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -238,7 +230,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4253dd789b29cd92",
+  "active": "de06c895ca49adbc",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",

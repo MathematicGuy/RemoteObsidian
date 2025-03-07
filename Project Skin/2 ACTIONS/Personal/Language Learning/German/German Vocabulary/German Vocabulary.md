@@ -1260,7 +1260,9 @@ Fällt vs Stornieren
 	oh nein, mein zug nach München fällt aus 
 + ? why `aus` to the last place of the sentence 
 
-Abfahrt - departure
+Abfahrt - train departure
+Abflug - plane departure
+
 Kaputt broken
 Keine Ahnung - no idea
 helfen help

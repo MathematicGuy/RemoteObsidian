@@ -170,17 +170,106 @@ text = ("When Sebastian Thrun started working on self-driving cars at "
 doc = nlp(text)
 ```
 
+
 ## Syntax Analyzing
++ ? Đoạn code dưới đây cho phép mình trích xuất 1 danh sách những cụm danh từ và 1 danh sách gồm các token từ gốc (i.e. lemma) thuộc loại động từ.  
 ```python
 # Analyze syntax
 print("Noun phrases:", [chunk.text for chunk in doc.noun_chunks])
 print("Verbs:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
 ```
-**Pruning Strategies**, **Parallel Computing**, Memory Optimization, **Batch Processing**
++ `doc.noun_chunks` trong đoạn code đầu cho phép mình truy cập thuộc tính của SpaCy object `doc`, tự động trích xuất 1 danh sách chứa cụm danh từ (e.g. `["I", "natural language processing"]`) sau đó được đưa về dạng text sử dụng `chunk.text`. 
+	
++ `token.pos_` trong đoạn code thứ 2 cho phép mình truy cập Loại từ của token (e.g. VERB là động từ) rồi trả về hình thái ngữ nghĩa của nó sử dụng `token.lemma_` (e.g. running -> run)
 
 ## Entity extraction
++ ? Đoạn code dưới minh họa cách **nhận dạng và trích xuất các thực thể (Named Entity Recognition - NER) từ văn bản** đã được xử lý bởi SpaCy. 
+```python
+for entity in doc.ents:
+    print(entity.text, entity.label_)
+```
++ `doc.ents`:
+	+ là thuộc tính chứa các thực thể đã được SpaCy phát hiện trong văn bản.
+	+ mỗi thực thể đều là 1 cụm từ có ý nghĩa đặc biệt như tên người, tổ chức, địa điểm, etc..  (e.g. cụm từ `["Sebastian", "Thrun"]` có là tên người)
++ `entity` là các biến được trích xuất từ `doc.ents` trong đó
+	+ `entity.text`: là văn bản gốc của thực thể (e.g. `["Sebastian", "Thrun"]` -> `"Sebastian Thrun"`) 
+	+ `entity.label_` là nhãn của thực thể bao gồm các nhãn 
+		+ `PERSON`: người
+		+ `ORG`: tổ chức
+		+ `GPE`: viết tắt của Geog-Political Entities đại diện cho tên quốc gia, thành phố, địa điểm địa lý.
+		+ `DATE`: Thời gian, ngày tháng
+		+ `NORP`: Quốc tịch hoặc nhóm tôn giáo/chính trị
+
+## Exercise (Count total NER in Vietnamese Text)
++ @ **Mục tiêu bài tập:** đếm số lượng của mỗ thực thể trong văn bản tiếng việt được tiền sử xử lý lấy trừ trên web. 
++ ? Đoạn code dưới đây trích xuất văn bản trong thẻ `html` từ  `url` và chuyển đổi nội dung sang cấu trúc dữ liệu dễ trích xuất hơn với  `html.parser` của BeautifulSoup. Rồi tìm mọi thẻ paragraph `p` có class Normal để ghép văn bản trong các thẻ `p` vào `content` để đọc.   
+```python
+import tqdm
+from bs4 import BeautifulSoup, NavigableString, Tag
+import requests
+url = "https://vnexpress.net/tong-bi-thu-tiep-tuc-doi-moi-quyet-liet-va-toan-dien-4836938.html"
+content = requests.get(url).content
+soup = BeautifulSoup(content, "html.parser")
+content = ""
+for p_tag in soup.find_all("p", class_='Normal'):
+  content += p_tag.get_text(" ", strip=True) + "\n"
+  
+content
+```
+
++ ? Vì SpaCy không còn hỗ trợ mô hình xử lý tiếng việt như `vi_core_news_lg` nữa, mình có thể tải 1 thư viện xử lý tiếng việt mới khác là underthesea
+```python
+pip install underthesea
+```
+```python
+from underthesea import text_normalize, word_tokenize
+```
+
++ ? Trước khi tokenized mình cần loại bỏ các ký tự thừa trong văn bản lấy từ trong thẻ `p` như là ký hiệu xuống dòng `\n` 
+```python
+normalized_text = text_normalize(content)
+normalized_text
+```
+![[Pasted image 20250306180306.png]]
++ ? Tokenize văn bản 
+```python
+tokens = word_tokenize(normalized_text)
+tokens
+```
+![[Pasted image 20250306171956.png]]
 
 
++ ? Hàm `ner` nhận vào 1 chuỗi văn bản (`content`) sau đó xử lý và trả về kết quả là danh sách các tuple, mỗi tuple tương ứng 1 token (từ) trong câu. Với mỗi tuple có cấu trúc 4 thành phần `(token, POS-tag, chunking-tag, NER-tag)`
+	`token`: từ đã được tokenize 
+	`POS-tag` nhãn từ loại (Part-of-speech) của từ
+	`chunking-tag` nhãn cụm từ (chunking), xác định via trò của từ trong cụm (e.g. NP, VP, PP)
+	`NER-tag`: nhãn thực thể, dùng hệ nhãn [BIO](https://datascience.stackexchange.com/questions/63399/what-is-bio-tags-for-creating-custom-ner-named-entity-recognization) (Begin-Interior-Out)
+```python
+from underthesea import ner
 
-## Excerices (NLTK with VietNamese)
+ner_list = ner(content)
+ner_list
+```
+![[Pasted image 20250306172037.png]]
 
++ ? Biết rằng mỗi tuple trong `ner_list` có cấu trúc 4 thành phần `(token, POS-tag, chunking-tag, NER-tag)`, mình có thể phân loại `token` vào các list `ner_tag` sử dụng tính chất `key:value` và đẩy `token` ở index 0 vào mỗi `ner_tag` ở index 3. Cuối cùng lưu các cặp `ner_tag:token` vào 1 từ điển `ner_tag_dict`  
+```python
+ner_tag_dict = {}
+
+for element in ner_list:
+  word = element[0]
+  ner_tag = element[3]
+  if ner_tag not in ner_tag_dict:
+    ner_tag_dict[ner_tag] = []
+  ner_tag_dict[ner_tag].append(word)
+
+for k, v in ner_tag_dict.items():
+  print(k, ":", v)
+```
+![[Pasted image 20250306172024.png]]
++ ? Để đếm số `token` của mỗi `ner_tag`, mình chỉ cần sử dụng module `.item()` của python dict để trích xuất các cặp `ner_tag:token` rồi đếm số lượng `token` sử dụng `len`
+```python
+for k, v in ner_tag_dict.items():
+  print(k, ":", len(v))
+```
+![[Pasted image 20250306180517.png]]

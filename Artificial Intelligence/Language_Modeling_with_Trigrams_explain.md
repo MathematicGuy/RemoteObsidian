@@ -1,37 +1,105 @@
 ## Preprocess
-### Hàm Tokenize
-Đoạn code trên tiền xử lý dữ liệu văn bản để xây dựng mô hình trigram dự đoán từ tiếng Việt. Quá trình tiền xử lý bao gồm:
-- Tách văn bản thành các câu.
-- Tách từng câu thành các token (các từ đơn lẻ).
-- Loại bỏ các dấu câu không cần thiết.
-- Chuẩn bị dữ liệu sạch hơn để mô hình dễ dàng học quy luật và dự đoán từ kế tiếp một cách hiệu quả.
-### Chi tiết các bước
-1. **Định nghĩa hàm `tokenize(doc)`:**
-    - Chuyển văn bản sang chữ thường bằng `doc.lower()`.
-    - Tách văn bản thành một danh sách token bằng `word_tokenize(...)`.
-    - Tạo bảng dịch (translate table) loại bỏ hầu hết dấu câu (trừ ký tự “_”), sau đó áp dụng lên từng token.
-    - Loại bỏ những token trống (nếu có).
-    - Kết quả trả về là danh sách các token đã được làm sạch.
-	
-2. **Tạo chuỗi dữ liệu lớn `full_data`:**
-    - `". ".join(full)`: Gộp tất cả các đoạn văn/bản ghi trong `full` thành một chuỗi lớn, các đoạn cách nhau bằng dấu chấm và khoảng trắng.
-    - `full_data.replace("\n", ". ")`: Thay các ký tự xuống dòng bằng dấu chấm và khoảng trắng để thống nhất cách ngắt câu.
-	
-3. **Tách câu bằng biểu thức chính quy:**
-    - `re.split(r'(?<=[^A-Z].[.?]) +(?=[A-Z])', full_data)`: Tách chuỗi `full_data` thành danh sách các câu (`sents`) dựa trên quy tắc tìm dấu chấm hoặc chấm hỏi, rồi khoảng trắng, và ký tự tiếp theo in hoa. Điều này giúp chia văn bản thành các câu cơ bản.
-	
-4. **Tạo `corpus`:**
-    - Khởi tạo danh sách rỗng `corpus`.
-    - Duyệt qua mỗi câu trong `sents` với vòng lặp kèm `tqdm` (chỉ để theo dõi tiến độ).
-    - Gọi hàm `tokenize(sent)` để chuyển từng câu thành danh sách token, sau đó thêm vào `corpus`.
+#### Mục đích và ý nghĩa
++ @ Đoạn code này nhằm mục đích tiền xử lý dữ liệu văn bản thô bằng cách tách văn bản thành các câu và sau đó tách từng câu thành các token (từ). Việc tokenization này rất quan trọng trong các ứng dụng xử lý ngôn ngữ tự nhiên, bởi nó chuyển đổi văn bản thành dạng dữ liệu có cấu trúc để phục vụ cho các bước phân tích hoặc mô hình ngôn ngữ sau này. Code sử dụng biểu thức chính quy để tăng tốc độ xử lý và multiprocessing để tận dụng hiệu quả đa lõi, đặc biệt hữu ích khi xử lý tập dữ liệu lớn.
 
-Kết quả cuối cùng là `corpus` – một danh sách các câu, trong đó mỗi câu được biểu diễn dưới dạng một danh sách token đã qua xử lý và làm sạch, sẵn sàng cho bước xây dựng mô hình trigram dự đoán từ.
+#### Chi tiết các bước thực hiện
+
+1. **Nhập các thư viện và tiền biên dịch các mẫu regex:**
+    ```python
+    from tqdm import tqdm
+    import multiprocessing as mp
+    import re
+    
+    # Precompile regex patterns:
+    TOKEN_REGEX = re.compile(r"[\w_]+")
+    SENT_REGEX = re.compile(r'(?<=[^A-Z].[.?]) +(?=[A-Z])')
+    ```
+    - **Ý tưởng & Liên hệ:**
+        - Trước tiên, ta nhập các thư viện cần thiết:
+            - `re` để làm việc với biểu thức chính quy,
+            - `tqdm` để hiển thị progress bar, và
+            - `multiprocessing` để thực hiện xử lý song song.
+        - Sau đó, ta tiền biên dịch hai mẫu regex:
+            - `TOKEN_REGEX` nhằm nhận diện các chuỗi ký tự (chữ, số, dấu gạch dưới) dùng cho việc tách từ,
+            - `SENT_REGEX` dùng để tách văn bản thành các câu dựa trên dấu câu và khoảng trắng kèm theo chữ hoa.
+        - Việc tiền biên dịch giúp tăng hiệu suất vì regex không phải được biên dịch lại mỗi khi sử dụng.
+	
+2. **Định nghĩa hàm tokenize:**
+    ```python
+    def tokenize(doc):
+        """
+        Tokenizes the document by converting to lowercase and extracting words.
+        This version uses a precompiled regex, which is faster than nltk.word_tokenize.
+        """
+        return TOKEN_REGEX.findall(doc.lower())
+    ```
+    - **Ý tưởng & Liên hệ:**
+        - Hàm `tokenize` nhận đầu vào là một chuỗi văn bản (`doc`), chuyển nó về dạng chữ thường để đồng nhất.
+        - Sau đó, sử dụng `TOKEN_REGEX.findall()` để tìm tất cả các chuỗi khớp, từ đó trích xuất các token.
+    - **Chi tiết hoạt động:**
+        - `doc.lower()` đảm bảo rằng việc so sánh không bị phân biệt chữ hoa chữ thường.
+        - `TOKEN_REGEX.findall(...)` quét toàn bộ văn bản và trả về danh sách các token, ví dụ như ["this", "is", "a", "sample"].
+	
+3. **Định nghĩa hàm process_sentence:**
+    ```python
+    def process_sentence(sent):
+        """
+        Helper function to tokenize a single sentence.
+        """
+        return tokenize(sent)
+    ```
+    - **Ý tưởng & Liên hệ:**
+        - Hàm `process_sentence` là một hàm trợ giúp đơn giản, chỉ gọi `tokenize` trên một câu (`sent`).
+        - Điều này giúp tích hợp dễ dàng với quá trình xử lý song song, khi mỗi câu sẽ được token hóa riêng biệt.
+    - **Chi tiết hoạt động:**
+        - Mỗi câu được truyền vào hàm này và kết quả trả về là danh sách các token của câu đó.
+	
+4. **Xử lý dữ liệu văn bản ban đầu:**
+    ```python
+    full_text = ". ".join(full_data).replace("\n", ". ")
+    ```
+    - **Ý tưởng & Liên hệ:**
+        - Nếu `full_data` là một danh sách các chuỗi văn bản, ta cần nối chúng thành một chuỗi văn bản duy nhất để xử lý thống nhất.
+        - Đồng thời, việc thay thế ký tự xuống dòng (`\n`) bằng dấu chấm và khoảng trắng giúp đảm bảo rằng mỗi dòng mới được coi như kết thúc của một câu.
+    - **Chi tiết hoạt động:**
+        - `". ".join(full_data)` nối các chuỗi lại với nhau, chèn dấu chấm và khoảng trắng giữa các phần tử.
+        - `.replace("\n", ". ")` chuyển đổi các dòng mới thành dấu chấm, giúp regex tách câu hoạt động hiệu quả hơn.
+	
+5. **Tách văn bản thành các câu:**
+    ```python
+    sents = SENT_REGEX.split(full_text)
+    ```
+    - **Ý tưởng & Liên hệ:**
+        - Sử dụng mẫu `SENT_REGEX` để phân chia văn bản thành các câu, dựa vào dấu câu kết thúc và khoảng trắng theo sau là chữ hoa.
+        - Điều này tạo ra danh sách `sents` với mỗi phần tử là một câu riêng biệt.
+    - **Chi tiết hoạt động:**
+        - `SENT_REGEX.split(full_text)` cắt chuỗi `full_text` thành các mảnh dựa trên mẫu regex, tạo nên danh sách các câu để xử lý tiếp theo.
+	
+6. **Tokenization song song sử dụng multiprocessing:**
+    ```python
+    with mp.Pool() as pool:
+        corpus = list(tqdm(pool.imap(process_sentence, sents), total=len(sents), desc="Tokenizing sentences"))
+    ```
+    - **Ý tưởng & Liên hệ:**
+        - Để tăng tốc quá trình tokenization cho nhiều câu, ta sử dụng `multiprocessing.Pool` để xử lý song song.
+        - `pool.imap(process_sentence, sents)` áp dụng hàm `process_sentence` cho từng câu trong danh sách `sents`.
+    - **Chi tiết hoạt động:**
+        - `mp.Pool()` tạo ra một pool các tiến trình, mỗi tiến trình có thể xử lý một phần của danh sách.
+        - `tqdm(...)` bọc quanh iterator của `pool.imap` để hiển thị progress bar, cho biết số câu đã được token hóa so với tổng số.
+        - Kết quả được chuyển thành danh sách `corpus`, trong đó mỗi phần tử là danh sách token của một câu.
+	
+7. **In kết quả tokenization:**
+    ```python
+    print("Tokenization complete. Number of sentences:", len(corpus))
+    ```
 
 
 ### Hàm N-Gram
-Hàm `n_gram(tokens, n)` được thiết kế để tạo danh sách **n-gram** từ một danh sách token. Trong xử lý ngôn ngữ tự nhiên, **n-gram** là một chuỗi gồm _n_ token liên tiếp, đóng vai trò quan trọng trong việc xây dựng các mô hình thống kê ngôn ngữ (như trigram, bigram, v.v.). Mục tiêu là thu thập tất cả các **n-gram** có thể có trong tập token đầu vào để hỗ trợ quá trình huấn luyện hoặc phân tích ngôn ngữ.
+#### Mục đích và ý nghĩa
++ @ Hàm `n_gram(tokens, n)` được thiết kế để tạo danh sách **n-gram** từ một danh sách token. Trong xử lý ngôn ngữ tự nhiên, **n-gram** là một chuỗi gồm _n_ token liên tiếp, đóng vai trò quan trọng trong việc xây dựng các mô hình thống kê ngôn ngữ (như trigram, bigram, v.v.). Mục tiêu là thu thập tất cả các **n-gram** có thể có trong tập token đầu vào để hỗ trợ quá trình huấn luyện hoặc phân tích ngôn ngữ.
 
-### Chi tiết các bước
+#### Chi tiết các bước
+
 1. **Nhận đầu vào**:
     - `tokens`: Danh sách các token (chuỗi).
     - `n`: Số nguyên cho biết độ dài mỗi n-gram (chẳng hạn `n=3` cho trigram).
@@ -48,8 +116,10 @@ Hàm `n_gram(tokens, n)` được thiết kế để tạo danh sách **n-gram**
 4. **Trả về kết quả**:
     - Kết thúc vòng lặp, hàm trả về toàn bộ danh sách n-gram (`n_gram_list`).
 
-## 3.1 N-gram counts
-Hàm `get_ngram_counts(corpus, n)` có nhiệm vụ tạo danh sách các từ điển (dictionary), trong đó mỗi từ điển biểu diễn tần suất xuất hiện của i-gram (với i = 1 đến n) trong toàn bộ tập dữ liệu `corpus`. Đây là bước chuẩn bị quan trọng trong quá trình xây dựng mô hình ngôn ngữ thống kê (như bigram, trigram), giúp ta nắm được số lần mỗi i-gram xuất hiện.
+
+## 3.1 Get N-gram counts
+#### Mục đích và ý nghĩa
++ @ Hàm `get_ngram_counts(corpus, n)` có nhiệm vụ tạo danh sách các từ điển (dictionary), trong đó mỗi từ điển biểu diễn tần suất xuất hiện của i-gram (với i = 1 đến n) trong toàn bộ tập dữ liệu `corpus`. Đây là bước chuẩn bị quan trọng trong quá trình xây dựng mô hình ngôn ngữ thống kê (như bigram, trigram), giúp ta nắm được số lần mỗi i-gram xuất hiện.
 
 ### Chi tiết các bước
 
@@ -104,7 +174,7 @@ Hàm `get_ngram_counts(corpus, n)` có nhiệm vụ tạo danh sách các từ �
 
 ## 3.2 Next word probability
 ### Mục đích và ý nghĩa
-Hàm `calc_ngram_prob(context, word)` được dùng để tính **xác suất có điều kiện** (dưới dạng log) của từ `word` dựa trên bối cảnh (`context`). Cụ thể, nó tính xác suất `P(word | w_2, w_1)` trong mô hình **trigram**. Xác suất này giúp chúng ta biết mức độ khả thi khi `word` xuất hiện sau cặp từ `(w_2, w_1)`. Đây là bước quan trọng để mô hình có thể dự đoán từ tiếp theo với ngôn ngữ tiếng Việt (hoặc bất kỳ ngôn ngữ nào) dựa trên các thống kê từ tập dữ liệu.
++ @ Hàm `calc_ngram_prob(context, word)` được dùng để tính **xác suất có điều kiện** (dưới dạng log) của từ `word` dựa trên bối cảnh (`context`). Cụ thể, nó tính xác suất `P(word | w_2, w_1)` trong mô hình **trigram**. Xác suất này giúp chúng ta biết mức độ khả thi khi `word` xuất hiện sau cặp từ `(w_2, w_1)`. Đây là bước quan trọng để mô hình có thể dự đoán từ tiếp theo với ngôn ngữ tiếng Việt (hoặc bất kỳ ngôn ngữ nào) dựa trên các thống kê từ tập dữ liệu.
 
 ### Chi tiết các bước
 1. **Nhận tham số đầu vào**  
@@ -141,8 +211,8 @@ $$\log P(\text{word} | w_2, w_1) = \log \Big(\frac{\text{trigram count}}{\text{b
 
 ### 3.2.1 Propability with Add-1 smoothing
 #### Mục đích và ý nghĩa  
-- Trong mô hình trigram, ta cần tính xác suất từ tiếp theo dựa vào hai từ trước đó. Hàm này sử dụng kỹ thuật **Add-One Smoothing** (còn gọi là Laplace Smoothing) để tránh xác suất bằng 0 trong trường hợp cặp (bigram) hoặc bộ ba (trigram) chưa từng xuất hiện.
-- Thay vì để đếm (count) bằng 0 dẫn đến xác suất bằng 0, em cộng thêm 1 vào số đếm của trigram, đồng thời cộng thêm “V” (kích thước từ vựng) vào số đếm bigram khi tính xác suất, rồi lấy log.
+- @ Trong mô hình trigram, ta cần tính xác suất từ tiếp theo dựa vào hai từ trước đó. Hàm này sử dụng kỹ thuật **Add-One Smoothing** (còn gọi là Laplace Smoothing) để tránh xác suất bằng 0 trong trường hợp cặp (bigram) hoặc bộ ba (trigram) chưa từng xuất hiện.
+- ? Thay vì để đếm (count) bằng 0 dẫn đến xác suất bằng 0, em cộng thêm 1 vào số đếm của trigram, đồng thời cộng thêm “V” (kích thước từ vựng) vào số đếm bigram khi tính xác suất, rồi lấy log.
 
 ---
 
@@ -180,23 +250,23 @@ Nhờ Add-One Smoothing, mô hình sẽ không bị rơi vào tình huống xác
 
 ### 3.2.2 Stupid backoff
 #### Mục đích và ý nghĩa
-Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều kiện của một từ dựa trên bối cảnh bằng **thuật toán Stupid Backoff**.
-- Nếu bộ n-gram đầy đủ tồn tại trong dữ liệu, xác suất sẽ được tính trực tiếp từ tần suất xuất hiện của nó.
-- Nếu không, thuật toán sẽ **lùi về mô hình nhỏ hơn** (trigram → bigram → unigram) với một hệ số giảm (`0.4`).
-- Nếu không có dữ liệu nào, xác suất unigram được sử dụng.
-- Hàm sử dụng **bộ nhớ đệm** (`prob`) để tránh tính toán lại những giá trị đã được xử lý trước đó.
++ @ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều kiện của một từ dựa trên bối cảnh bằng **thuật toán Stupid Backoff**.
+	- Nếu bộ n-gram đầy đủ tồn tại trong dữ liệu, xác suất sẽ được tính trực tiếp từ tần suất xuất hiện của nó.
+	- Nếu không, thuật toán sẽ **lùi về mô hình nhỏ hơn** (trigram → bigram → unigram) với một hệ số giảm (`0.4`).
+	- Nếu không có dữ liệu nào, xác suất unigram được sử dụng.
+	- Hàm sử dụng **bộ nhớ đệm** (`prob`) để tránh tính toán lại những giá trị đã được xử lý trước đó.
 
 #### Chi tiết các bước
 1. **Kiểm tra từ ngoài từ vựng**  
-   ```python
+	```python
    for token in context:
        if token not in vocab:
            return float('-inf')
    if word not in vocab:
        return float('-inf')
-```
-- Kiểm tra xem từ trong `context` và từ cần tính xác suất (`word`) có trong từ vựng `vocab` hay không.
-- Nếu có bất kỳ từ nào không có trong từ vựng, trả về `-inf` (log-probability bằng 0), nghĩa là không thể tính được xác suất.
+	```
+	- Kiểm tra xem từ trong `context` và từ cần tính xác suất (`word`) có trong từ vựng `vocab` hay không.
+	- Nếu có bất kỳ từ nào không có trong từ vựng, trả về `-inf` (log-probability bằng 0), nghĩa là không thể tính được xác suất.
 	
 1. **Kiểm tra và trả về giá trị đã tính toán trước đó**
     ```python
@@ -261,9 +331,9 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 
 ### 3.2.3 Knesser-Ney Smoothing (Only for bigram)
 #### Mục đích và ý nghĩa
-- Hàm `kesser_ney_smoothing(context, word, discount=0.75)` tính xác suất theo phương pháp **Kneser-Ney smoothing** cho mô hình bigram (với bối cảnh là unigram).
-- Kneser-Ney khắc phục hạn chế của các phương pháp đơn giản như Stupid Backoff và Interpolation (vốn phụ thuộc nhiều vào MLE) bằng cách tận dụng thông tin về số lượng “bối cảnh duy nhất” (unique preceding words) của từ để đánh giá khả năng xuất hiện của từ đó.
-- Với **Kneser-Ney**, xác suất được phân rã thành hai thành phần chính:
+- @ Hàm `kesser_ney_smoothing(context, word, discount=0.75)` tính xác suất theo phương pháp **Kneser-Ney smoothing** cho mô hình bigram (với bối cảnh là unigram).
+- ? Kneser-Ney khắc phục hạn chế của các phương pháp đơn giản như Stupid Backoff và Interpolation (vốn phụ thuộc nhiều vào MLE) bằng cách tận dụng thông tin về số lượng “bối cảnh duy nhất” (unique preceding words) của từ để đánh giá khả năng xuất hiện của từ đó.
+- @ Với **Kneser-Ney**, xác suất được phân rã thành hai thành phần chính:
     1. **Phần giảm trừ (discounted)** dựa trên tần suất bigram.
     2. **Phần bù (continuation)** dựa trên số bối cảnh duy nhất mà từ có thể xuất hiện.
 
@@ -317,9 +387,9 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 
 ## 3.3 Possible next words
 #### Mục đích và ý nghĩa
-- Hàm `get_possible_next_words(sentence)` nhằm dự đoán các từ kế tiếp có khả năng xuất hiện sau một câu đã cho.  
-- Hàm này sử dụng thông tin **trigram** (thông qua `calc_ngram_prob`) để tính xác suất cho mỗi từ trong `vocab` khi đứng sau 2 từ cuối cùng trong câu đầu vào.  
-- Kết quả là một danh sách các từ khả dĩ kèm theo xác suất, sắp xếp theo thứ tự giảm dần để ta có thể chọn ra từ dự đoán cao nhất hoặc xem một số gợi ý có khả năng xuất hiện kế tiếp.
+- @ Hàm `get_possible_next_words(sentence)` nhằm dự đoán các từ kế tiếp có khả năng xuất hiện sau một câu đã cho.  
+- ? Hàm này sử dụng thông tin **trigram** (thông qua `calc_ngram_prob`) để tính xác suất cho mỗi từ trong `vocab` khi đứng sau 2 từ cuối cùng trong câu đầu vào.  
+- @ Kết quả là một danh sách các từ khả dĩ kèm theo xác suất, sắp xếp theo thứ tự giảm dần để ta có thể chọn ra từ dự đoán cao nhất hoặc xem một số gợi ý có khả năng xuất hiện kế tiếp.
 
 #### Chi tiết các bước
 1. **Tiền xử lý và tách câu**  
@@ -343,8 +413,8 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 
 ## 3.4 Most likely next word
 #### Mục đích và ý nghĩa
-- Hàm `predict_next_word(sentence)` trả về **từ dự đoán** có khả năng cao nhất sẽ xuất hiện tiếp theo trong câu.  
-- Hàm này dựa trên **danh sách ứng viên** từ `get_possible_next_words(sentence)`, nơi mỗi từ tiềm năng được gán một log-probability theo mô hình trigram.
+- @ Hàm `predict_next_word(sentence)` trả về **từ dự đoán** có khả năng cao nhất sẽ xuất hiện tiếp theo trong câu.  
+- ? Hàm này dựa trên **danh sách ứng viên** từ `get_possible_next_words(sentence)`, nơi mỗi từ tiềm năng được gán một log-probability theo mô hình trigram.
 
 #### Chi tiết các bước
 1. **Lấy danh sách ứng viên**  
@@ -362,8 +432,8 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 
 ## 3.5 Generating text
 ### Mục đích và ý nghĩa
-- Hàm `generate_text(sentence, n)` **tự động sinh thêm n từ** kế tiếp cho một câu đầu vào.  
-- Hàm dựa trên **hàm dự đoán từ** (`predict_next_word`) để tìm ra từ khả dĩ xuất hiện kế tiếp, sau đó nối vào câu hiện tại.
+- @ Hàm `generate_text(sentence, n)` **tự động sinh thêm n từ** kế tiếp cho một câu đầu vào.  
+- ? Hàm dựa trên **hàm dự đoán từ** (`predict_next_word`) để tìm ra từ khả dĩ xuất hiện kế tiếp, sau đó nối vào câu hiện tại.
 
 ### Chi tiết các bước
 1. **Khởi tạo kết quả**  
@@ -397,23 +467,21 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 
 ## Perplexity
 ### Mục đích và ý nghĩa
-- Hàm `perplexity(corpus)` đo lường **mức độ “bối rối”** mà mô hình ngôn ngữ (ở đây là **trigram**) gặp phải khi dự đoán các từ trong một bộ **corpus**.  
-- Dựa trên công thức:
-  $$
+- @ Hàm `perplexity(corpus)` đo lường **mức độ “bối rối”** mà mô hình ngôn ngữ (ở đây là **trigram**) gặp phải khi dự đoán các từ trong một bộ **corpus**.  
+- ? Dựa trên công thức: $$
   PP(W) = \exp\Bigl(-\frac{1}{N}\sum_{i=1}^{N}\log P(w_i \mid w_{i-n+1}, \dots, w_{i-1})\Bigr),
-  $$
-  hàm sẽ tính **trung bình** perplexity trên toàn bộ câu (sentence) trong **corpus**.  
-- Một giá trị perplexity nhỏ hơn chứng tỏ mô hình dự đoán các từ trong câu tốt hơn, tức khả năng sinh/nghiệm tốt hơn.
+  $$ hàm sẽ tính **trung bình** perplexity trên toàn bộ câu (sentence) trong **corpus**.  
+- ? Một giá trị perplexity nhỏ hơn chứng tỏ mô hình dự đoán các từ trong câu tốt hơn, tức khả năng sinh/nghiệm tốt hơn.
 
 ### Chi tiết các bước
 
 1. **Khởi tạo biến theo dõi**  
-   ```python
+	```python
    total_neg_log_prob = 0.0
    total_count = 0
-```
-- **`total_neg_log_prob`**: Tổng **log probability âm** của các từ được dự đoán.
-- **`total_count`**: Số lượng **token** thật sự được dùng trong tính perplexity (trừ 2 token đầu ở mỗi câu, vì cần ít nhất 2 token để tạo bối cảnh trigram).
+	```
+	- **`total_neg_log_prob`**: Tổng **log probability âm** của các từ được dự đoán.
+	- **`total_count`**: Số lượng **token** thật sự được dùng trong tính perplexity (trừ 2 token đầu ở mỗi câu, vì cần ít nhất 2 token để tạo bối cảnh trigram).
 	
 2. **Duyệt qua mỗi câu trong corpus**
     ```python
@@ -470,20 +538,20 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 
 ## Beam-search
 ### Mục đích và ý nghĩa
-- Hàm `beam_search(sentence, n, num_beam=5)` sinh văn bản bằng cách áp dụng **Beam Search**, thay vì chỉ chọn từ xác suất cao nhất tại mỗi bước (greedy).  
-- **Beam Search** duy trì nhiều “đường đi” (câu) tiềm năng. Tại mỗi vòng lặp, nó mở rộng tất cả các đường đi, sau đó **chỉ giữ lại một số lượng hạn chế** (`num_beam`) các đường đi hứa hẹn nhất (có log-probability cao nhất).  
-- Cách tiếp cận này giúp tránh bị “kẹt” trong một đường đi duy nhất có thể dẫn đến kết quả kém (so với xác suất chuỗi tổng thể).
+- @ **Beam Search** duy trì nhiều “đường đi” (câu) tiềm năng. Tại mỗi vòng lặp, nó mở rộng tất cả các đường đi, sau đó **chỉ giữ lại một số lượng hạn chế** (`num_beam`) các đường đi hứa hẹn nhất (có log-probability cao nhất).
+- ?  Hàm `beam_search(sentence, n, num_beam=5)` sinh văn bản bằng cách áp dụng **Beam Search**, thay vì chỉ chọn từ xác suất cao nhất tại mỗi bước (greedy).   
+- ? Cách tiếp cận này giúp tránh bị “kẹt” trong một đường đi duy nhất có thể dẫn đến kết quả kém (so với xác suất chuỗi tổng thể).
 
 ### Chi tiết các bước
 
 1. **Khởi tạo các beam**  
-   ```python
+	```python
    beams = [(sentence, 0.0)]
-```
-- **`beams`** là danh sách các **beam**. Mỗi beam gồm:
-    1. **Câu đã sinh ra** (`beam_sentence`).
-    2. **Tổng log-probability** tích lũy (`beam_score`).
-- Khởi đầu chỉ có một beam: câu gốc `sentence` với điểm số `0.0` (log(1)).
+	```
+	- **`beams`** là danh sách các **beam**. Mỗi beam gồm:
+	    1. **Câu đã sinh ra** (`beam_sentence`).
+	    2. **Tổng log-probability** tích lũy (`beam_score`).
+	- Khởi đầu chỉ có một beam: câu gốc `sentence` với điểm số `0.0` (log(1)).
 	
 2. **Vòng lặp sinh từ**
     ```python
@@ -543,21 +611,20 @@ Hàm `calc_ngram_prob_with_backoff(context, word)` tính xác suất có điều
 
 ## 3.6 Generating more text
 ### Mục đích và ý nghĩa
-- **`sample_next_word(sentence)`**: Thay vì luôn chọn từ có **log-probability** cao nhất, hàm này sẽ **lấy mẫu ngẫu nhiên** (random sampling) một từ từ danh sách ứng viên, dựa trên **xác suất** của chúng.  
-- **`generate_text(sentence, n, mode='top'|'random')`**: Mở rộng hàm sinh văn bản, cho phép chọn chế độ:
+- @ **`sample_next_word(sentence)`**: Thay vì luôn chọn từ có **log-probability** cao nhất, hàm này sẽ **lấy mẫu ngẫu nhiên** (random sampling) một từ từ danh sách ứng viên, dựa trên **xác suất** của chúng.  
+- @ **`generate_text(sentence, n, mode='top'|'random')`**: Mở rộng hàm sinh văn bản, cho phép chọn chế độ:
   1. `"top"`: Chọn **từ có log-probability cao nhất** (giống `predict_next_word`).  
   2. `"random"`: Chọn **từ có xác suất được lấy mẫu** theo `sample_next_word`.
 
-### Chi tiết các bước
-Hàm `sample_next_word(sentence)`
+### Chi tiết các bước 
 
 1. **Lấy danh sách ứng viên**  
    ```python
    candidate_list = get_possible_next_words(sentence)
    candidate_list = [(word, log_prob) for word, log_prob in candidate_list if log_prob != float('-inf')]
-```
-- **`candidate_list`**: Kết quả của `get_possible_next_words`, gồm `(word, log_prob)`.
-- Lọc bỏ những ứng viên có `log_prob` bằng `-inf`, bởi chúng tương ứng với xác suất 0.
+	```
+	- **`candidate_list`**: Kết quả của `get_possible_next_words`, gồm `(word, log_prob)`.
+	- Lọc bỏ những ứng viên có `log_prob` bằng `-inf`, bởi chúng tương ứng với xác suất 0.
 
 1. **Kiểm tra danh sách ứng viên**
     ```python
@@ -617,16 +684,17 @@ Với tùy chọn `mode='random'`, văn bản thu được sẽ **đa dạng** h
 
 ### Khởi Tạo Mô Hình
 #### Mục đích và ý nghĩa
-- Huấn luyện mô hình **Kneser-Ney Interpolated** để dự đoán **n-gram** (trigram ở đây, với `n=3`) từ một bộ **corpus** văn bản.  
-- Mô hình được huấn luyện sử dụng thư viện **NLTK**, và kết quả mô hình sau khi huấn luyện được **lưu trữ** dưới dạng tệp pickle để có thể sử dụng lại sau này.
+- @ Huấn luyện mô hình **Kneser-Ney Interpolated** để dự đoán **n-gram** (trigram ở đây, với `n=3`) từ một bộ **corpus** văn bản.  
+- ? Mô hình được huấn luyện sử dụng thư viện **NLTK**, và kết quả mô hình sau khi huấn luyện được **lưu trữ** dưới dạng tệp pickle để có thể sử dụng lại sau này.
 
 ####  Chi tiết các bước
+
 1. **Khởi tạo mô hình n-gram**  
    ```python
    vi_model = KneserNeyInterpolated(n)
-```
-- **`vi_model`**: Mô hình **Kneser-Ney Interpolated** với **n=3**, tức là mô hình **trigram**.
-- **Kneser-Ney**: Là phương pháp smoothing cải tiến, giúp xử lý tốt hơn cho những từ chưa xuất hiện trong dữ liệu huấn luyện.
+	```
+	- **`vi_model`**: Mô hình **Kneser-Ney Interpolated** với **n=3**, tức là mô hình **trigram**.
+	- **Kneser-Ney**: Là phương pháp smoothing cải tiến, giúp xử lý tốt hơn cho những từ chưa xuất hiện trong dữ liệu huấn luyện.
 	
 2. **Tiền xử lý dữ liệu**
     ```python
@@ -659,81 +727,170 @@ Với tùy chọn `mode='random'`, văn bản thu được sẽ **đa dạng** h
     - Mô hình sau khi huấn luyện sẽ được **lưu lại** dưới dạng tệp pickle (`.pkl`) vào thư mục `model_dir`.
     - Sau khi lưu trữ, mô hình có thể được tải lại sau này để sử dụng mà không cần huấn luyện lại từ đầu.
 
-### Generate Sent
-#### Mục đích và ý nghĩa
-- Hàm `beam_search_generate_sent(model, num_words, pre_words=[], num_beam=5)` sinh ra một câu mới bằng cách sử dụng thuật toán **Beam Search**.  
-- Thuật toán **Beam Search** duy trì một số lượng **beam candidates** nhất định, mở rộng từng beam theo các từ tiếp theo và giữ lại các beam có **log-probability** cao nhất.
+6. Tải mô hình lên hệ thống từ Drive 
+```python
+import os
 
-#### Chi tiết các bước
-
-1. **Khởi tạo các beam**  
-   ```python
-   beams = [(pre_words, 0.0)]
+model_dir = "/content/drive/My Drive/Colab Notebooks/Ngram_model"
+with open(os.path.join(model_dir, 'kneserney_1st_ngram_model.pkl'), 'rb') as fin: # model train with nltk 3.5
+    model_loaded = pickle.load(fin)
 ```
++ ? **Chú ý:** phiên bản `nltk` khi huấn luyện mô hình phải cùng phiên bản `nltk` lúc tải lên để tránh lỗi không cần thiết. 
 
-- **`beams`** là danh sách các beam, mỗi beam gồm:
-    1. **Câu đã sinh ra** (`beam_sentence`).
-    2. **Tổng log-probability** (`beam_score`).
-- Mỗi beam bắt đầu với `pre_words` và log-probability là `0.0`.
+### Generate Sent 
+#### Mục đích và ý nghĩa
+- @ Hàm `generate_sent(model, num_words, pre_words=[])` được thiết kế để sinh ra một câu văn dựa trên mô hình ngôn ngữ n-gram đã được huấn luyện (sử dụng thư viện `nltk.lm.model`).
+- ? Ý tưởng của hàm là bắt đầu với một số từ khởi tạo (`pre_words`) và sau đó tiếp tục sinh thêm từ cho đến khi đạt số từ tối đa (`num_words`) hoặc gặp ký hiệu kết thúc câu (`</s>`). Việc sử dụng hàm detokenize giúp chuyển danh sách các token thành một câu văn có cấu trúc chính xác.
 
-1. **Mở rộng mỗi beam**
+#### Chi tiết các bước thực hiện
+
+1. **Khởi tạo nội dung từ các từ ban đầu:**
     ```python
-    for _ in range(num_words):
-        new_beams = []
-        ...
+    content = pre_words
     ```
-    - Vòng lặp sẽ chạy tối đa `num_words` lần để sinh thêm từ.
-    - **`new_beams`** chứa các beam mở rộng trong mỗi bước.
-    
-2. **Sinh từ tiếp theo cho mỗi beam**
+	- Bắt đầu bằng cách gán biến `content` với danh sách các từ khởi tạo (`pre_words`), đây là nền tảng cho câu sẽ được sinh ra.
+	- Việc này đảm bảo rằng quá trình sinh từ sẽ dựa vào ngữ cảnh ban đầu đã được cung cấp.
+
+2. **Sinh từ liên tiếp qua vòng lặp:**
     ```python
-    for beam_sentence, beam_score in beams:
-        candidate_list = model.generate(1, text_seed=beam_sentence[-(model.order-1):])
+    for i in range(num_words):
+        token = model.generate(1, text_seed=content[-2:])
+        if token == '<s>':
+            continue
+        if token == '</s>':
+            break
+        content.append(token)
     ```
-    - Mỗi beam sẽ được mở rộng, tức là cho mỗi `beam_sentence`, gọi `model.generate()` để sinh một từ tiếp theo.
-    - **`text_seed=beam_sentence[-(model.order-1):]`** là bối cảnh của câu hiện tại, sử dụng `(n-1)` từ cuối cùng để làm bối cảnh cho mô hình trigram (với `n=3`, ta cần 2 từ cuối làm bối cảnh).
+	- Vòng lặp chạy tối đa `num_words` lần, mỗi lần sinh ra một token mới bằng cách sử dụng hàm `model.generate(1, text_seed=content[-2:])`.
+	- **Sử dụng ngữ cảnh:** Ở mỗi bước, hàm sử dụng 2 từ cuối cùng của `content` (`content[-2:]`) làm bối cảnh để dự đoán từ tiếp theo. Điều này giúp duy trì tính liên tục của câu dựa trên mô hình n-gram.
+	- **Xử lý ký hiệu đặc biệt:**
+		- Nếu token sinh ra là ký hiệu bắt đầu câu (`<s>`), nó sẽ bị bỏ qua với lệnh `continue`, vì không cần lặp lại ký hiệu bắt đầu trong quá trình sinh.
+		- Nếu token là ký hiệu kết thúc câu (`</s>`), vòng lặp sẽ dừng lại với lệnh `break`, báo hiệu rằng câu đã hoàn chỉnh.
+	- **Cập nhật nội dung:** Các token hợp lệ sau đó được thêm vào danh sách `content`, mở rộng ngữ cảnh cho các bước sinh tiếp theo.
 	
-3. **Kiểm tra và xử lý khi không có ứng viên**
+3. **Chuyển đổi danh sách token thành câu hoàn chỉnh:**
     ```python
-    if not candidate_list:
-        new_beams.append((beam_sentence, beam_score))
-        continue
+    return detokenize(content)
     ```
-    - Nếu không có từ nào được sinh ra (`candidate_list` trống), beam sẽ tiếp tục mà không thay đổi. Điều này đảm bảo mô hình không bị kẹt khi không có từ khả dĩ nào.
-    
-4. **Mở rộng beam với các ứng viên**
-    ```python
-    for word in candidate_list:
-        new_sentence = beam_sentence + [word]
-        new_score = beam_score + model.logscore(word, new_sentence[-(model.order-1):])
-        new_beams.append((new_sentence, new_score))
+	- Sau khi vòng lặp kết thúc, danh sách `content` chứa toàn bộ các token của câu đã sinh ra.
+	- Hàm `detokenize` từ `TreebankWordDetokenizer` được sử dụng để chuyển danh sách token thành một chuỗi văn bản liền mạch, đảm bảo định dạng ngữ pháp và khoảng trắng đúng cách.
+
+
+### Beam Generate Sent
+#### Mục đích và ý nghĩa
++ $ **Cải Tiến:** **Pruning Strategies**, **Parallel Computing**, **Memory Optimization**. 
++ @ Hàm `beam_search_generate_sent` mở rộng quá trình sinh câu sử dụng thuật toán Beam Search, cải tiến với các yếu tố như pruning (cắt tỉa các beam kém khả năng), xử lý song song (parallel processing) và tối ưu bộ nhớ. Ý tưởng là tại mỗi bước, ta mở rộng các beam (các câu đang được xây dựng) bằng cách sinh từ mới dựa trên ngữ cảnh của chúng, sau đó sắp xếp và giữ lại các beam có tổng log-probability cao nhất. Các bước dưới đây giải thích chi tiết cách hoạt động của các đoạn code phức tạp và vai trò của các biến liên quan.
+
+#### Chi tiết các bước thực hiện
+
+1. **Xác định ngữ cảnh của beam hiện tại:**
+	```python
+    context = beam_sentence[-(model.order - 1):] if model.order > 1 else []
     ```
-    - **Mở rộng beam**: Duyệt qua từng từ trong `candidate_list`, thêm từ vào `beam_sentence` hiện tại để tạo thành một câu mới `new_sentence`.
-    - **Cập nhật điểm số**: Tính tổng log-probability của câu mới bằng cách cộng điểm số cũ với log-probability của từ mới (`new_score`).
-    
-5. **Sắp xếp các beam theo điểm số**
+	- **Ý tưởng & Liên hệ:**
+		- Dựa trên thứ tự của mô hình n-gram (`model.order`), ta cần sử dụng các từ cuối cùng của câu hiện tại để làm ngữ cảnh cho việc sinh từ tiếp theo.
+		- Nếu `model.order` lớn hơn 1, ngữ cảnh được xác định là danh sách con chứa `(model.order - 1)` từ cuối của `beam_sentence`; nếu không, ngữ cảnh sẽ là một danh sách rỗng.
+		
+	- **Chi tiết hoạt động:**
+		- `beam_sentence` là danh sách các từ của beam hiện tại.
+		- Biểu thức `beam_sentence[-(model.order - 1):]` lấy các phần tử từ vị trí `-(model.order - 1)` đến hết danh sách, đảm bảo rằng ta lấy đúng số từ cần làm ngữ cảnh.
+		- Nếu `model.order` không vượt quá 1, không có ngữ cảnh nào cần lấy, do đó trả về danh sách rỗng (`[]`).
+		
+2. **Sinh từ mới dựa trên ngữ cảnh:**
     ```python
+    candidate = model.generate(1, text_seed=context)
+    ```
+	- **Ý tưởng & Liên hệ:**
+		- Dựa vào ngữ cảnh đã xác định, ta sử dụng mô hình ngôn ngữ để sinh ra một từ ứng viên tiếp theo.
+		- Đây là bước quan trọng để mở rộng beam hiện tại.
+		
+	- **Chi tiết hoạt động:**
+		- Hàm `model.generate(1, text_seed=context)` yêu cầu mô hình sinh ra 1 từ, sử dụng `context` (là danh sách các từ cuối của câu hiện tại) làm dữ liệu đầu vào cho việc dự đoán.
+		- Kết quả trả về là một chuỗi (token) đại diện cho từ được sinh ra.
+	
+3. **Tính toán điểm số mới cho beam mở rộng:**
+	```python
+    new_score = beam_score + model.logscore(word, new_sentence[-(model.order - 1):])
+	```
+	- **Ý tưởng & Liên hệ:**
+		- Khi một từ mới được thêm vào beam, ta cần cập nhật tổng log-probability cho beam đó để phản ánh xác suất của toàn bộ câu mới.
+		- Việc cộng logscore của từ mới vào `beam_score` giúp tích lũy điểm số từ đầu câu đến từ hiện tại.
+		
+	- **Chi tiết hoạt động:**
+		- `beam_score` là tổng log-probability của câu hiện tại trong beam trước khi mở rộng.
+		- `model.logscore(word, new_sentence[-(model.order - 1):])` tính log-probability của từ `word` dựa trên ngữ cảnh mới được tạo thành từ các từ cuối của `new_sentence` (sau khi thêm từ mới).
+		- Biểu thức `new_sentence[-(model.order - 1):]` lấy ngữ cảnh cần thiết từ câu mới, đảm bảo tính nhất quán với mô hình n-gram.
+		
+4. **Mở rộng các beam theo xử lý song song:**
+    ```python
+    new_beams = []
+    if parallel:
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            results = list(executor.map(expand_beam, beams))
+        for res in results:
+            new_beams.extend(res)
+    ```
+	- **Ý tưởng & Liên hệ:**
+		- Khi có nhiều beam cần mở rộng, ta có thể xử lý song song để tăng tốc độ.
+		- Nếu tham số `parallel` là `True`, các beam sẽ được mở rộng cùng lúc bằng cách sử dụng `ThreadPoolExecutor`.
+		
+	- **Chi tiết hoạt động:**
+		- `new_beams = []`: Khởi tạo danh sách rỗng để lưu trữ tất cả các beam mở rộng.
+		- `with concurrent.futures.ThreadPoolExecutor() as executor:`: Tạo một executor cho phép chạy các tác vụ song song.
+		- `executor.map(expand_beam, beams)` áp dụng hàm `expand_beam` cho mỗi beam trong danh sách `beams`.
+		- Kết quả trả về là một iterator chứa danh sách các beam mở rộng cho từng beam gốc.
+		- Vòng lặp `for res in results: new_beams.extend(res)` duyệt qua từng kết quả (một danh sách các beam mở rộng) và hợp nhất chúng vào `new_beams`.
+		
+5. **Sắp xếp các beam theo điểm số và xác định beam tốt nhất:**
+```python
     new_beams.sort(key=lambda x: x[1], reverse=True)
-    ```
-    - Sau khi tất cả các beam được mở rộng, sắp xếp chúng theo **log-probability** giảm dần. Điều này giúp **giữ lại** các beam có xác suất cao nhất.
+    best_score = new_beams[0][1]
+```
+- **Ý tưởng & Liên hệ:**
+	- Sau khi mở rộng, ta cần sắp xếp các beam theo tổng log-probability để xác định beam nào có khả năng cao nhất.
+	- Điều này giúp dễ dàng áp dụng các bước cắt tỉa tiếp theo.
 	
-6. **Giữ lại top `num_beam` beam**
-    ```python
-    beams = new_beams[:num_beam]
-    ```
-    - **Chỉ giữ lại `num_beam` beam tốt nhất**: Chỉ giữ các beam có điểm số log-probability cao nhất.
+- **Chi tiết hoạt động:**
+	- `new_beams.sort(key=lambda x: x[1], reverse=True)`: Sắp xếp danh sách `new_beams` dựa trên phần tử thứ hai của mỗi tuple (đại diện cho tổng log-probability), theo thứ tự giảm dần.
+	- `best_score = new_beams[0][1]`: Lấy điểm số của beam đứng đầu (beam tốt nhất) làm chuẩn để so sánh trong bước cắt tỉa.
 	
-7. **Dừng nếu không có beam nào**
-    ```python
-    if not beams:
-        break
-    ```
-    - Nếu sau khi mở rộng các beam mà không còn beam nào khả dĩ (tức `beams` trống), hàm sẽ dừng sớm để tránh vòng lặp vô tận.
-	
-8. **Trả về câu sinh ra**
-    ```python
-    best_sentence = beams[0][0]
+6. **Cắt tỉa (pruning) các beam không đủ khả năng:**
+	```python
+    pruned_beams = [beam for beam in new_beams if best_score - beam[1] <= beam_pruning_threshold]
+    beams = pruned_beams[:num_beam]
+	```
+	- **Ý tưởng & Liên hệ:**
+		- Để tránh lãng phí tài nguyên cho các beam có khả năng thấp, ta cắt tỉa bỏ các beam có điểm số thấp hơn so với beam tốt nhất vượt quá ngưỡng `beam_pruning_threshold`.
+		- Sau đó, chỉ giữ lại một số lượng giới hạn (`num_beam`) beam tốt nhất để tiếp tục mở rộng.
+		
+	- **Chi tiết hoạt động:**
+		- `pruned_beams = [beam for beam in new_beams if best_score - beam[1] <= beam_pruning_threshold]`: Tạo danh sách mới chỉ bao gồm các beam có hiệu số giữa `best_score` và điểm số của beam không vượt quá `beam_pruning_threshold`.
+		- `beams = pruned_beams[:num_beam]`: Lấy top `num_beam` beam từ danh sách đã cắt tỉa để sử dụng cho vòng lặp tiếp theo.
+		
+7. **Lấy câu tốt nhất từ beam cuối cùng:**
+	```python
+    best_sentence = beams[0][0] if beams else pre_words
     return ' '.join(best_sentence)
-    ```
-    - Sau khi hết vòng lặp hoặc khi đạt đủ số từ cần sinh (`num_words`), **trả về câu tốt nhất** từ beam đứng đầu (với log-probability cao nhất).
-    - Câu được trả về dưới dạng chuỗi từ, loại bỏ dấu bắt đầu câu `<s>` nếu có.
+	```
+	- **Ý tưởng & Liên hệ:**
+		- Khi quá trình mở rộng kết thúc (sinh đủ số từ hoặc không còn beam nào khả thi), ta lấy beam đứng đầu – tức là beam có tổng log-probability cao nhất – làm kết quả.
+		- Nếu không còn beam nào, trả về câu khởi tạo (`pre_words`).
+		
+	- **Chi tiết hoạt động:**
+		- `beams[0][0]`: Lấy phần đầu của tuple trong beam đầu tiên, đó là danh sách các từ của câu.
+		- `' '.join(best_sentence)`: Chuyển danh sách các từ thành một chuỗi văn bản, tạo thành câu hoàn chỉnh với các khoảng trắng phù hợp.
+
+**Tóm lại:**
+- **Đầu vào:**
+    - `model`: Mô hình ngôn ngữ n-gram từ `nltk.lm.model`.
+    - `num_words`, `pre_words`, `num_beam`, `beam_pruning_threshold`, `parallel`: Các tham số điều khiển quá trình sinh từ, số lượng beam và việc xử lý song song.
+	
+- **Quá trình:**
+    - Mỗi beam được mở rộng bằng cách sử dụng ngữ cảnh từ các từ cuối cùng của câu hiện tại.
+    - Từ mới được sinh ra dựa trên ngữ cảnh và điểm số của beam được cập nhật dựa trên log-probability của từ đó.
+    - Các beam được mở rộng song song (nếu được bật) và sau đó sắp xếp, cắt tỉa dựa trên ngưỡng cho phép.
+    - Cuối cùng, câu từ beam tốt nhất được trích xuất và chuyển đổi thành chuỗi văn bản.
+	
+- **Đầu ra:**
+    - Một câu được sinh ra dưới dạng chuỗi, phản ánh khả năng dự đoán của mô hình n-gram với các cải tiến về pruning và xử lý song song.
+
