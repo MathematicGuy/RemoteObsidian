@@ -938,7 +938,7 @@ Fischen
 	Gehst du noch mit deine Mama fischen - are you still going fishing with your mom ?
 
 Kekse cookies
-Lieb nice
+	Lieb nice
 	Meine Oma ist lieb, sie backt für mich kekse
 
 Backt du mit deine .. 
@@ -950,6 +950,15 @@ Hause
 Fliege
 	Ich Fliege in den Ferien nach Hause 
 
-
 Aufregen - excite
 Ferien Holidays
+
+Schmutzige Wohnung - dirty apartment 
+Igitt yuck 
+Richtig that's right
+Igitt, das ist dein T-Shirt. Es ist schmutzig 
+Verstehen understand
+Auschlafen sleep in (wake up over night)
+
+Do you play the piano with your mom during the break ? - 
+Spielst du in den Ferien mit deiner Mama Klavier

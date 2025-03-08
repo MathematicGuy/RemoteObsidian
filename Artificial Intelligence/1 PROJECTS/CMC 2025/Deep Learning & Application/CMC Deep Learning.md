@@ -53,5 +53,5 @@ BT: lấy ví dụ đơn giản cho TF-IDF
 
 [[CMC Deep Learning Midterm Test]]
 
-## [[Auto Encoder Decoder Deep Learning]]
+## [[Autoencoder and Variational Autoencoder]]
 

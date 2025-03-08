@@ -368,7 +368,7 @@ oft often
 mein beruf ist insteressant, auch stressig. Ich bin Schauspielerin
 
 Exercise: Zum Bahnhof - to the rail station 
-+ fährt driving
++ fährt driving 
 + da here 
 + Wir we
 	Wir sind da - we are here
@@ -3001,3 +3001,9 @@ Semesterende - the end of semester
 
 Spielst du in den fernsehen mit deiner Mama Klavier 
 Mit wem gehst du zum Strand 
+
+Fährt - ride 
++ ? some mode of transport do not require an article (eine, deine, das, der, die) when used with verbs expressing transport like fahren (to ride / drive), gehen (to go) or kommen (to come)
+	 Example of "a transport" without using an artical
+	+ Fahrrad fahren - to ride a bicycle
+	+ Auto fahren - to drive a car

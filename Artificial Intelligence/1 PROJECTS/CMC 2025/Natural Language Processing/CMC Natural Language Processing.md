@@ -203,10 +203,12 @@ Greedy Decoding (can't undo decision) -> better option: Beam Search (a search al
 ### Advantage of NMT
 Compare to SMT, NMT has many advantages:
 + Better performance: more fluent, better use of context and phrase similarites.
-
-[[Sequence to sequence (seq2seq)]]
+ 
+ 
 
 ---
+
+[[Sequence to sequence (seq2seq)]]
 ### Schedule
 1. Transformer (4/3)
 2. Practice [Code Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) x 2 (6/30 + 11/3)

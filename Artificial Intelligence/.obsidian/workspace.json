@@ -24,17 +24,35 @@
             }
           },
           {
-            "id": "7a6463466b453113",
+            "id": "6f8befd4c12918fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Autoencoder and Variational Autoencoder.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Autoencoder and Variational Autoencoder"
+            }
+          },
+          {
+            "id": "d5e1e470e46b3094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Seek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Seek"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,9 +212,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7a6463466b453113",
+  "active": "d5e1e470e46b3094",
   "lastOpenFiles": [
+    "Deep Seek.md",
+    "Autoencoder and Variational Autoencoder.md",
     "2 ACTIONS/_Focus.md",
+    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
+    "AIO - Vision Transformer.md",
+    "AIO 2024.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Sequence to sequence (seq2seq).md",
+    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
+    "CMC Deep Learning Midterm Test.md",
     "NLTK_&_Spacy_practice.md",
     "Language_Modeling_with_Trigrams_explain.md",
     "image/Pasted image 20250306180517.png",
@@ -205,18 +231,14 @@
     "image/Pasted image 20250306172037.png",
     "image/Pasted image 20250306172024.png",
     "image/Pasted image 20250306171956.png",
-    "1 PROJECTS/CMC 2025/Natural Language Processing/CMC Natural Language Processing.md",
     "image/Pasted image 20250306110136.png",
     "image/Pasted image 20250306094011.png",
     "image/Pasted image 20250306093339.png",
     "image/Pasted image 20250306092955.png",
     "Trigram_model.md",
     "Sentiment Analysis using LSTM.md",
-    "Auto Encoder Decoder Deep Learning.md",
     "4 ARCHIVES/ID Card Detection/How YOLO Object Detection Works.md",
     "YOlO (You Only Look Once).md",
-    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Sequence to sequence (seq2seq).md",
     "BDA - Lab 5 MongoDB.md",
     "elbow method.md",
     "MongoDB.md",
@@ -228,9 +250,6 @@
     "AIO - CNN Summary.md",
     "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
     "Imbalanced Data in Classification.md",
-    "Shannon Entropy.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "Decision Analysis.md",
     "image/Pasted image 20250302182359.png.~tmp",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",
