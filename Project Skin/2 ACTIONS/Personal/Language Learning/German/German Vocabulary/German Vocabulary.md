@@ -3007,3 +3007,5 @@ Fährt - ride
 	 Example of "a transport" without using an artical
 	+ Fahrrad fahren - to ride a bicycle
 	+ Auto fahren - to drive a car
+
+Den ganzen tag - the whole day

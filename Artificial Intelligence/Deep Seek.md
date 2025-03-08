@@ -78,4 +78,3 @@ Lý thuyết đồ thị & Toán rời rạc
 Tối ưu hóa và Phương pháp số
 Hình học xạ ảnh & Vi phân
 
-\
