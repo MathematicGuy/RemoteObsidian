@@ -7,6 +7,18 @@
 + Don't do 2 set until failure, because overtrain mean less set to take. 
 + [Hand Placement](https://www.youtube.com/shorts/8kdpPDsUYLw) is important for planche
 + [Pull Up Tips](https://youtube.com/shorts/JsiMoNzVz-8?si=pnl3m10yDDIa5Ceo)
++ [[Calisthenics Diet]]
+
++ ? **Double your pull-up** in 30 days -> What important is the Total volumn of your whole sets.
+	Note: 
+	+ Never train 2 days in a row (so **Twice per Week**)
+	+ Rest 2-5 minutes between sets
+	+ Focus on quality over number 
+	
+	More Reps -> More Strength (long term) -> first few reps get easier overtime 
+		(Current Progress: **4 Reps of 6 Sets**)
+		![[Pasted image 20250311214112.png]]
+
 
 + ! Never do more than 5 reps on warmups
 + @ Rest Time between 5 to 8 minutes. .

@@ -3,6 +3,7 @@
 ![[Pasted image 20240702204427.png]]
 
 ![[Pasted image 20240702204506.png]]
+**Norm of a vector:** chuẩn của một vectơ
 
 # Projection
 > Using a flashligh project it onto a, we should have A. But on the side, what we get is I

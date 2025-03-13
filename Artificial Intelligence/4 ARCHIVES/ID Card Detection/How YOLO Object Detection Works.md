@@ -10,9 +10,10 @@ In real world, Class and Bounding Box vector are put into 1 vector size $(B \tim
 	B: Bounding Box
 	n: Number of cell
 	S: grid size
-![[Pasted image 20241120112616.png]]
+![[Pasted image 20250310093221.png]]
 
-Turn input image into vector using CNN
+
+Turn input image into vectors using CNN
 ![[Pasted image 20241120112830.png]]
 
 **Ground truth**
@@ -112,13 +113,11 @@ Compared to traditional object detection methods, YOLO stands out by processing 
 For example, with a $7 \times 7$ grid, $B = 2$ bounding boxes, and $N = 20$ classes, each grid cell outputs a vector of length 30.
 
 ---
-
 ### CNN Architecture:  
 - A stack of **convolutional layers** extracts abstract image features.  
 - **Fully connected layers** transform features into output vectors.  
 
 ---
-
 ## Training YOLO  
 ### Key Concepts:  
 1. **Ground Truth Values**:  
@@ -190,10 +189,6 @@ Here:
 
 ---
 
-## Conclusion  
-YOLO revolutionized object detection with its simplicity and speed, using a single CNN for bounding box regression and classification. While early versions like YOLO v1 had limitations, subsequent iterations introduced significant improvements.  
-
-For further learning, explore newer YOLO versions and advancements.  
 
 
-T
+

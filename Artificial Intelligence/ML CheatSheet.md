@@ -3,6 +3,7 @@
 [Code ML/DL from Scratch Challenge](https://www.deep-ml.com/problems)
 
 ### [[Bias-Variance Tradeoff and Model Performance]] 
+Solution: [Interpreting Validation and Loss](https://medium.com/@frederik.vl/interpreting-training-validation-accuracy-and-loss-cf16f0d5329f)
 (Độ Lệch và Phương Sai)
 ![[467150686_3955519991394694_4489904189673430091_n.jpg]]
 

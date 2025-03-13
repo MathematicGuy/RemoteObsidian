@@ -227,17 +227,16 @@ db.customers.aggregate([
 ![[Pasted image 20250304091555.png]]
 
 
+# Tasks Included in `connect.ipynb` file
 ## Data Visualization
 (Use Python Matplotlib, Seaborn)
 ### 5. Draw a Pie Chart: Customer Gender Distribution
 Use aggregation to count the number of customers by gender, then plot a pie
 chart.
-
 ### 6. Draw a Bar Chart: Total Spending of Each Customer
 Retrieve total spending per customer and visualize it using a bar chart.
 ### 7. Line Graph: Spending Trends Over Time
 Group purchases by date and plot total spending trends over time.
-
 ## Advanced Analysis
 ### 8. Customer Segmentation
 Use clustering techniques (e.g., K-Means, DBSCAN to segment customers based

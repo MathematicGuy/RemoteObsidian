@@ -45,13 +45,19 @@ Key Note:
 
 **Count Parameters**
 ![[Pasted image 20241009111146.png]]
-**Parameters:** all internal variables within a model. 
+**Parameters:** all internal variables within a model. There for **parameters** are superset of bias and weight since bias and weight are calculated within parameters.
 **Parameter of each feature maps:** $$\text{parameters} = ((kernel \textunderscore height \times kernel \textunderscore width) \times number \textunderscore of \textunderscore input \textunderscore channels + 1) \times \text{number of filters}$$
+
 First Conv2D Layer:
 + 28 x 28 x 5 x 16  
 
 + ? **Kernel vs Filter in CNN**, what the different ? 
 **Kernel:** Number of Kernel corresponding to each color channel. Because each Kernel Channel multiply with their corresponding Input Channel.   
 **Filter:** Number of time you perform "*Input_Channel* $\odot$ *Kernel*" and output Feature Map of a Image.   
-+ ? **Example:** Image below have 3 Kernel, and 1 Filter. 
-	![[Pasted image 20250207103807.png]]
++ ? **Example:** Image below have 3 Kernel, and 1 Filter. 	![[Pasted image 20250207103807.png]]
+
+### Receptive Field
+![[1_k97NVvlMkRXau-uItlq5Gw.png]]
+
+---
+

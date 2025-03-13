@@ -1,8 +1,9 @@
 [[Decision Tree Archive]]
+Gradient Boosting Machine: cây sau đc xây (cải thiện) dựa vào cây tr'c.   
 
 ---
 
-[Decision Tree Read More](https://www.quora.com/How-do-I-calculate-the-time-complexity-of-a-decision-tree-machine-learning-algorithm)
+[Decision Tree Read More](https://towardsdatascience.com/decision-trees-explained-entropy-information-gain-gini-index-ccp-pruning-4d78070db36c/)
 ![[Pasted image 20240806121053.png]]
 	Decision trees are helpful, not only because they are a visual representation that help you visualize what you are thinking, but also because design of a decision tree requires a documented thought process. Decision trees help formalize the brainstorming process so we can identify more potential solutions.
 
@@ -13,12 +14,15 @@ Decision Tree **classified things into categories** -> Classification Tree
 Decision Tree **predict numerical value** -> Regression Tree  
 ![[image/Untitled 5.png]]
 **Internal Nodes:** These **nodes** **represent questions** or tests applied to a **specific attribute of the data.**
+
 **Branches:** **Each branch represents the possible outcomes of the test** at an internal node.
+
 **Leaf Nodes:** These **represent the final decision or prediction made by the tree.**
+
 
 ### Decision Tree Example
 How to quantify the impurity -> Gini Impurity (Linear)/Entropy/Information Gain
-**Gini Impurity** (điểm không thuần khiết/tạp chấtchất gini) - **Purity:** thuần khiết
+**Gini Impurity** (điểm không thuần khiết/tạp chất gini) - **Purity:** thuần khiết
 ![[Pasted image 20250302163723.png]]
 ![[Pasted image 20250302163744.png]]
 Because the amount of people on the left was 4 and right was 3
@@ -57,7 +61,7 @@ In Summarize we got:
 **Gini Impurity for love popcorn as 0.405.**
 **Gini Impurity for Love Soda as 0.214** -> Leaf with lowest Impurity (tạp chất)
 **Gini Impurity for Age (column) as 0.343**
->Because Loves Soda has the lowes Gini Impurity overall, we know that its Leaves have the lowest impurity. So we put "Loves Soda" branch at the top of the tree.  
+>Because Loves Soda has the lowes Gini Impurity overall, its Leaves have the lowest impurity. So we put "Loves Soda" branch at the top of the tree.  
 ![[Pasted image 20250302170904.png]]
 >There are 3 people who Loves Sode that also Loves Cool as Ice and 1 doesn't. So this leaf is Impurity. 
 + ? Impurity is when a leaf answer/choice is not absolute/clear, like 100% Yes or 100% No. 
@@ -88,9 +92,7 @@ So we prune that leaf. This give a better sense of accurary of our prediction be
 If the sample is **completely [[homogeneous]] the entropy is zero** and if the sample is an **equally divided it has entropy of one.**
 ![[Pasted image 20250302185206.png]]
 
-
 ---
-
 ### Compare Entropy and Gini Impurity in Decision Tree
 
 **Entropy**
@@ -120,4 +122,9 @@ If the sample is **completely [[homogeneous]] the entropy is zero** and if the s
     + **Entropy** more heavily penalizes near-even splits (i.e., encourages more “decisive” splits), which can help in certain minority-class conditions.
     + **Gini** can be slightly faster and is sometimes considered more straightforward as a measure of node “purity” (misclassification probability).
 ```
+
+---
+
+### Prunning
+> reduce overfitting
 

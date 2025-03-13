@@ -11,11 +11,14 @@ note:
   Công thức
 ![[Pasted image 20241106051757.png]]
 
-**One-hot encoding**
+**One-hot encoding** (Use for Matrix Multiplication)
 ![[Pasted image 20241105210031.png]]
 >index = 0 -> y tại vị trí 0 bằng 1
 >index = 1 -> y tại vị trí 1 bằng 0
-+ ? Tại sao cần nhân one-hot vector ? Nếu nhân 1 thì cần gì nhân.
+
+
+>The softmax function, often used in the final layer of a classification NN model for classification tasks, **converts raw output scores - also known as logits - into probabilities by taking the exponential of each output and normalizing these values by dividing by the sum of all the exponentials**.
+![[images 1.png]]
 
 ### Softmax Loss function Intuition
 **Goal:** classifiying multiple class using Cross-Entropy loss. 
@@ -42,15 +45,14 @@ Say for 4 label y = { 1, 2, 3, 4 }.
 >![[Pasted image 20241106060500.png]] 
 + ? **Example:**
 >= $a_{1}^{y_1^{(i)}}.a_{1}^{y_2^{(i)}}.a_{1}^{y_3^{(i)}}.a_{1}^{y_4^{(i)}}$ 
->Because , there is ony 1 true label Y in each sample X. So if $P(Y=1|X)$ is true, then all others probability are False: 
+>Because , there is only 1 true label Y in each sample X. So if $P(Y=1|X)$ is true, then all others probability are False: 
 >= $a_{1}^1.a_{2}^0.a_{3}^{0}.a_{4}^{0}$ 
 >= $a_{1}$. c
 + $ **Simplify Equation using product sign** $P(Y|X) = \prod^{c}_{k=1}P(y=c|x)$ 
 	this represent prob of Y to happened given sample X.
 
 Note: $\theta$ represent Neural Network weight
-$P(Y|X)$ can be rewrite as $h_{\theta}(X)$  $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$
-where $h_{\theta}$ is the probability of $h$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1  represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
+$P(Y|X)$ can be rewrite as $h_{\theta}(X)$  $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$where $h_{\theta}$ is the probability of $h$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1 represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
 
 
 Note:
@@ -91,10 +93,10 @@ $$-\sum^{m}_{i=1}y^{(i)}\log(h_{\theta}(X^{(i)}))$$
 For multiple samples where $X$ and $y$ are both Matrix (which represent all of it elements), the Loss Log likelihood function can be:   
 $$L = -\frac{1}{N}trace(Y^T\log(\hat{Y}))$$
 where:
-+ $Y$ is the $N$ x $C$ matrix of one-hot encoded true true lables for all samples
++ $Y$ is the $N$ x $C$ matrix of one-hot encoded true lables for all samples
 + $\hat{Y}$ is the $N$ x $C$ matrix of predicted probabilities for all classes for each sample.
 + $\log(\hat{Y})$ applies the logarithm element-wise to each entry in $\hat{Y}$.
-+ [[trace]]: $trace(A)$ is the **sum of the elements along the main diagnol** (from top left to bottom right) **of matrix (A).** Say after matrix multiplication, $Y^T\log(\hat{Y})$ become matrix A. 
++ [[trace]]: $trace(A)$ is the **sum of the elements along the main diagnol** (from top left to bottom right) **of matrix (A).** Say after matrix multiplication, $Y^T\log(\hat{Y})$ become matrix A.  
 	+ ? **Each element along the diagonal** of the matrix $Y^T \log(\hat{Y})$ **corresponds to the loss for each individual sample in the dataset**, based on the true class and predicted probability for that class. Using the **trace function effectively sums these diagonal elements, giving the total loss across all samples**. By **dividing by $N$ (the number of samples), we obtain the average loss across the dataset.**
 
 This approach is efficient because it leverages matrix operations to compute the sum of losses, making it ideal for handling large datasets in a vectorized form.
@@ -121,7 +123,7 @@ Thay y đối vs TH y=0 và y=1 vào loss function $L(\theta)$.
 + y = 1 -> $-\log(\hat{y}_{1})$
 + ? Do 2 bộ tham số độc lập nên xs cũng độc lập. Để y=1 và y=0 có khả năng xảy ra ta sẽ muốn xs của cả y=1, y=0 đều tiến gần 1.  (Khác với logistic regression là nếu 1 tham số xs tăng thì tham số còn lại sẽ giảm)
 ![[Pasted image 20241106203633.png]]
-(note: chỉnh sửa hàm binary cross-entropu sẽ ra hàm loss trên)
+(note: chỉnh sửa hàm binary cross-entropy sẽ ra hàm loss trên)
 
 **1-D features and 3 Class**
 + ? Output phụ thuộc vào số class y (label) ko phụ thuộc vào số input x.

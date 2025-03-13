@@ -9,5 +9,7 @@
   "obsidian-latex-environments",
   "omnisearch",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-completr",
+  "obsidian-statusbar-pomo"
 ]

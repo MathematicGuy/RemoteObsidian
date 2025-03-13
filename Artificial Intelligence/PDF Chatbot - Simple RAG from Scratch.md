@@ -1,5 +1,4 @@
 ## Why RAG?
-
 The main goal of RAG is to improve the generation outptus of LLMs.
 
 Two primary improvements can be seen as:
@@ -11,7 +10,6 @@ Two primary improvements can be seen as:
 ---
 ## Where we appiled it ?
 Textbook, Research Paper - Mostly PDF paper form.
-
 
 ## Why ?
 > To Understand the Model better and Inspect its core functionality. While keeping privacy, and allowing for further customization.
@@ -43,7 +41,6 @@ pip3 install -U torch torchvision torchaudio --index-url https://download.pytorc
 
 **RAG Pipeline**
 ![[Pasted image 20240823210801.png]]
-
 - [ ]  Split Header (10%)
 - [ ] Understand RAG by reading Document in 4 Step. (40%)
 - [ ] Code Analysis (50%)

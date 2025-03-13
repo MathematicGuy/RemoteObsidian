@@ -1,13 +1,13 @@
 ![[Pasted image 20250227153305.png]]
 
->Được phát triển giống như cách não ghi nhớ thông tin -> tập trung vào shorterm memory.
+>LSTM được phát triển giống như cách não ghi nhớ thông tin -> tập trung vào shorterm memory kết hợp vs long-term memory.
 ![[Pasted image 20241220200750.png]]
 
 + ? **Recurrent (hồi quy)** means **Feedback loops**
 ![[Pasted image 20241220201325.png]]
 + ? **Also mean Sharing Weights**. 3 neurons nhưng dùng chung 3 cái weights. 
 ![[Pasted image 20241220201448.png]]
-RNN vd NN: Each RNN nodes only have 2 output (i.e. connected to other 2 nodes) 1 in the hidden state, and 1 in the output. 
+**RNN vs NN:** Each RNN nodes only have 2 output (i.e. connected to other 2 nodes) 1 in the hidden state, and 1 in the output. 
 ![[Pasted image 20241220201553.png]]
 + ? **Each Nodes directly impact the node after it**, unlike MLP where each nodes in the previous layer connected to each nodes in the later layer. 
 ![[Pasted image 20250227154639.png]]
@@ -82,7 +82,7 @@ Its **produces**
 + The new **Hidden state** $h_{t}$ (i.e. fresh updated memory)
 + The **updated Cell state** $C_{t}$ (i.e. fresh updated long-term memory)
 
-LSTM's gates:
+**LSTM's Gates:**
 + **Input** gate $i_{t}$ (`i` for input)
 + **Forget** gate $f_{t}$ (`f` for forget)
 + **Output** gate $o_{t}$ (`o` for output)
@@ -91,7 +91,6 @@ LSTM's gates:
 #### 2.3.2. LSTM Fomular Explanation
 **NOTE:**
 + What Sigmoid and Tanh doing is compress/squash inputs to a value range (non-linearity) 
-	
 + ? Each gate in an LSTM, forget gate `f_t`, input gate `i_t` and output gate `o_t` has its own unique set of weights (e.g. `W_f, W_i, W_o`) and biases (e.g. `b_f, b_i, b_o`) . These weights are learned during training and are distinct for each gate, making the model roburst to changes. 
 	(i.e. how much of the long-term memory to forget, how much of the new information to add to long-term memory, how much of the updated information to output)
 	

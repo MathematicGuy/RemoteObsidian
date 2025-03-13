@@ -68,7 +68,8 @@ HARMONIC: predict weather data base on pre-trained model + some of the best and 
 
 có ngành nhìn mô hình AI no a blackbox. ???
 
-Graph Theory & Discrete Mathematics
+Graph Theory & Dis
+crete Mathematics
 Advanced Linear Algebra & Matrix Factorization
 Optimization & Numerical Methods
 Projective & Differential Geometry

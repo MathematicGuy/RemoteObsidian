@@ -1,29 +1,27 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
-[scientific research](https://www.facebook.com/share/v/19mtSEZVsn/)
+[DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
+`Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
+
 
 #TODO
 **Crucial**
 - [ ] [[AIO - RNN]] 
 	[RNN YT](https://www.youtube.com/watch?v=Mdp5pAKNNW4&t=859s)
-- [ ] [[Application of AI in Medical Imaging Overview and Image Registration - A Survey]]
-- [ ] Revision [[AIO - Basic LSTM, GRU (Time-series and Text)]] 
-- [ ] After RNN + LSTM -> Finish [[Human Activity Recognition Methods using RNN + LSTM]]
-- [x] Finish Deep Learning Lab HW  
-- [ ] Behaviour Detection Research
-- [ ] Understand Semential Detection for NLP class
-- [ ] Re-Explain how Filtering & Thresholding, and code work. 
-- [ ] **CV HW:** Finish Morphological Note and Code, Contour, Canny (Note + Code)
-- [x] Finalize my Final Project for Computer Vision Class 
-- [x] NOTE GROUP REPORTTTTTTTTTTTTTTT
+- [ ] After RNN + LSTM -> Finish [[Human Activity Recognition]]
+- [ ] [[3rd Years 1st Term Final Project]]
+- [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 
 **Interest**
 - [x] Understand 2-Set Method in Calisthenics Training
 - [x] Test 2-Set Method
-- [ ] Understand SVM
-- [ ] Note KNN
+- [x] Understand SVM
+- [x] Note KNN
 - [ ] Understading ADAM
 - [ ] [[AI Seminar]]
 + [ ] How to write a killer cover letter
+
+**[[MIT Deep Learning]]**
+
 
 **Machine Learning**
 [[AIO 2024]]

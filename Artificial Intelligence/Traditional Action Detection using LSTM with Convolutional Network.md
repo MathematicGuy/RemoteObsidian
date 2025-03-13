@@ -60,7 +60,7 @@ In Summary, there are 2 case:
     - The output produced by the RNN at each time step.
     - May be emitted at every time step (e.g., sequence-to-sequence tasks) or only at the final time step (e.g., sequence-to-vector tasks).
 	
-1. **Recurrent Connection:**
+4. **Recurrent Connection:**
     - The mechanism through which the hidden state of one time step ($h_t$​) is passed to the next time step $(h_{t+1})$.
     - This enables the RNN to capture temporal dependencies.
       
@@ -77,7 +77,7 @@ In Summary, there are 2 case:
 	
 **Types of using RNNs**
 ![[Pasted image 20250120135153.png]]
-1)  **Sequence to sequence (Seq2Seq):** squence of inputs and sequence of outputs. This usually used in predicting stock price where all previous elements (predictions) affect the prediction after its. *(price forecasting, translation)*
+8)  **Sequence to sequence (Seq2Seq):** squence of inputs and sequence of outputs. This usually used in predicting stock price where all previous elements (predictions) affect the prediction after its. *(price forecasting, translation)*
 	- **Example**: **Language Translation**
 	    - Input: A sentence in English: _"How are you?"_
 	    - Output: The same sentence in German: _"Wie bist du ?"_
@@ -86,7 +86,7 @@ In Summary, there are 2 case:
 	    - Summarization
 	    - Speech-to-Text
 	      
-2)  **Sequence-to-Vector (Seq2Vec):** also called as sequence to single but most RNN have multiple output thus vector is more accurate. This type only output at the last layer while ignoring all its previous outputs making its perfect for predicting result in realtime like word by word where each word make a impact to the final prediction.
+9)  **Sequence-to-Vector (Seq2Vec):** also called as sequence to single but most RNN have multiple output thus vector is more accurate. This type only output at the last layer while ignoring all its previous outputs making its perfect for predicting result in realtime like word by word where each word make a impact to the final prediction.
 	+  **Example: Scam or not**
 		+ Input: Sequence of Text.
 		+ Output: `Yes/No`
@@ -95,7 +95,7 @@ In Summary, there are 2 case:
 		- Sentiment analysis
 		- Emotion detection
 		
-3) **Vector-to-Sequence (image captioning):** this type only take 1 input from the first layer then passing its output as input of the next layer and repeat. This way, the RNN can predict mulltiple outputs with only 1 input, which is prefect for captioning image where are features vector extractad by a CNN (typically). 
+10) **Vector-to-Sequence (image captioning):** this type only take 1 input from the first layer then passing its output as input of the next layer and repeat. This way, the RNN can predict mulltiple outputs with only 1 input, which is prefect for captioning image where are features vector extractad by a CNN (typically). 
 	- **Example**: **Image Captioning**
 	    - Input: An image (i.e. a feature vector extracted by a CNN).
 	    - Output:  `"A" -> "cat" -> " sitting" -> "on" -> "a" -> "couch"` 
@@ -104,7 +104,7 @@ In Summary, there are 2 case:
 	    - Music generation from a theme vector
 	    - Text generation based on an idea or topic
 		
-4) **Encoder-Decoder:** 
+11) **Encoder-Decoder:** 
 	**Encoder** be **given input for a couple of time-steps then output vectorized data** to the **Decoder** for **translation**. **Since the context can change if you don't see the whole context** so by Encoding the whole context before decoding can improve accuracy rather than encode then decode word by word.
 		  Applied in POS (Part-of-Speech)
 
@@ -144,7 +144,6 @@ sigmoid -> điều chỉnh lượng thông tin đi vào.
 + $ The example above show, because of the influence of the information "left to right" feed through $\hat{y}^{(3)}$ the model know "apple" a fruit or company.
 
 ---
-[[Body Language Decoder with MediaPipe]]
 
 + ? **Câu hỏi bảo vệ dự án:**
 So sánh phương pháp (giống và khác giữa các phương pháp)
