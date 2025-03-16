@@ -2995,7 +2995,6 @@ Semesterende - the end of semester
 + ? "your [thing]"
 
 
-
 + "deinem" is used in the dative case, when the noun is the indirect object of the sentence.
 + ? "to your [thing]"
 
@@ -3012,7 +3011,6 @@ Den ganzen tag - the whole day
 
 ---
 
-
 Grillparty barbecue
 Lake see
 
@@ -3021,3 +3019,5 @@ Was für - what kind/type of
 
 Einkaufen shop
 	Möchtest du Bier für die grillparty einkaufen - Do you have to shop for beer for the barbecue 
+
+

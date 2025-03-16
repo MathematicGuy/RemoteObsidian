@@ -6,7 +6,6 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/Priority  
 - [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club) - can use ChatGPT
 
-
 #Todo/[[GoalsThisWeek]]
 
 
