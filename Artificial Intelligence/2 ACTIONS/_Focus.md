@@ -5,19 +5,12 @@
 
 #TODO
 **Crucial**
-- [ ] [[AIO - RNN]] 
-	[RNN YT](https://www.youtube.com/watch?v=Mdp5pAKNNW4&t=859s)
 - [ ] After RNN + LSTM -> Finish [[Human Activity Recognition]]
 - [ ] [[3rd Years 1st Term Final Project]]
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 
 **Interest**
-- [x] Understand 2-Set Method in Calisthenics Training
-- [x] Test 2-Set Method
-- [x] Understand SVM
-- [x] Note KNN
 - [ ] Understading ADAM
-- [ ] [[AI Seminar]]
 + [ ] How to write a killer cover letter
 
 **[[MIT Deep Learning]]**
@@ -102,7 +95,6 @@ note luyện code phần:
 + Library: Sckit-Learn, XGBoost, Pandas
 + Data Cleansing.
 + A lot about Statistic
-
 
 
 ![[Pasted image 20241129213935.png]]

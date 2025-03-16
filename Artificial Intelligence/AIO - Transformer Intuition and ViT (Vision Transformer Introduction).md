@@ -34,7 +34,6 @@ Then **Convert $e^t$ to Softmax Distribution/Attention Distribution** for **Atte
 + $ **Softmax to Attention Score:** The softmax function converts **raw attention scores into probability distribution**, determind how much focus the query $q$ should give to each key $k$. The dot product $q.k$ measure similarity, and softmax ensure all keys contribute proportionally instead of attending to just 1 or 2. This allow model to consider all possible keys while focusing more on the most relevant one.
 	+ ? Softmax help find **which key** $k$ **is most relavent** to a given **query** $q$ **(i.e. give the most context)**. With **key** $k$ represents the available information (e.g. words that provide context) and query q represent what we are looking for (e.g. word needing context).
 ![[Pasted image 20250308175331.png]]
-+ ? VD: Phép Attention có ý nghĩa là hãy search những giá trị quan trọng hay có liên quan tới giá trị $q_{1}$ với 1 tập các cái tập kết quả tìm kiếm {$k_{1}, k_{2}, k_{3}, k_{n}$}    
 + $ Finally, repeat calculating Attention Score for each $q$
 
 V value of Key K for query $Q_{n}$. 

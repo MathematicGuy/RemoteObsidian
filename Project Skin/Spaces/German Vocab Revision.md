@@ -962,3 +962,5 @@ Auschlafen sleep in (wake up over night)
 
 Do you play the piano with your mom during the break ? - 
 Spielst du in den Ferien mit deiner Mama Klavier
+
+Möchtest du machen - would you like to make

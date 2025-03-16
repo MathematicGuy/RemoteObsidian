@@ -3009,3 +3009,15 @@ Fährt - ride
 	+ Auto fahren - to drive a car
 
 Den ganzen tag - the whole day
+
+---
+
+
+Grillparty barbecue
+Lake see
+
+Was für - what kind/type of
+	Was für einen salat - what type of salat
+
+Einkaufen shop
+	Möchtest du Bier für die grillparty einkaufen - Do you have to shop for beer for the barbecue 
