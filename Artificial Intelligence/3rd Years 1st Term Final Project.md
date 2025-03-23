@@ -7,13 +7,15 @@
 **Phân tích dữ liệu đơn hàng bán hàng trực tuyến**
 **Yêu cầu:**
 1. Lưu trữ dữ liệu đơn hàng trong cơ sở dữ liệu MongoDB. (Dữ liệu có thể tự tạo hoặc lấy trên các nguồn như Kaggle, GitHub, …).
-2. Phân tích hành vi khách hàng, bao gồm số lượng đơn hàng theo khách hàng, giá trị trung bình của mỗi đơn hàng.
+2. **Phân tích hành vi khách hàng, bao gồm số lượng đơn hàng theo khách hàng, giá trị trung bình của mỗi đơn hàng.**
 3. Phân tích các xu hướng sản phẩm, như các sản phẩm bán chạy nhất, các sản phẩm có nhiều đơn hàng nhất.
 4. Xây dựng báo cáo tài chính, bao gồm tổng doanh thu theo từng tháng, từng khu vực.
 5. Tối ưu hóa truy vấn MongoDB để xử lý dữ liệu bán hàng lớn hiệu quả.
 ```
++ ? Rút kinh nghiệm: kiểm tra correlation giữa mọi yếu tố (features) và kiểm tra sự quan trọng của từng yếu số dựa trên Y (yếu tố muốn dự đoán) trước khi sử dụng PCA để giảm số chiều, có thể loại bỏ các yếu tố ít quan trọng bằng tay chứ ko bắt buộc phải sử dụng PCA khi nó quá rõ ràng. 
 
-### Final Term
+
+### [[BDA Final Term]]
 + $ **Can use tools for Data Analysis.** like **h2o**  
 + ? Construct a Latex Big Data Analysis Report Form  
 ```ad-info
@@ -105,10 +107,6 @@ Báo cáo: 15-20 trang
 
 
 
-
-
-
-
 ---
 
 # 2 Birds with 1 Stone: Computer Vision
@@ -116,3 +114,7 @@ Báo cáo: 15-20 trang
 
 ### NCKH:  Nghiên cứu và xây dựng mô-đun nhận diện hành vi của sinh viên trong giảng đường
 
+![[images 2.png]]
+
+
+$$dist(A, B) = \sqrt{  }$$

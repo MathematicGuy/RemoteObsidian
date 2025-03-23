@@ -1,3 +1,5 @@
+
+
 Dưới đây là phiên bản code hoàn chỉnh (chạy trên Google Colab) chỉ sử dụng mô hình RNN và LSTM. Code này:
 
 - Tải dữ liệu Reuters (46 chủ đề) từ `tensorflow.keras.datasets.reuters`.

@@ -55,5 +55,6 @@ MRI scan - Classified gender using MRI based on their latent representation.
 + $ **This is why most autoencoder regularize the latent space**. One of the most poppular type is the **Variational Auto-Encoders**
 
 ### Variational Autoencoder (VAT) | Generative AI
->Why not Autoencoders ?
 
+Build a probabilistic model that approximate p most. 
+![[Pasted image 20250317142912.png]]

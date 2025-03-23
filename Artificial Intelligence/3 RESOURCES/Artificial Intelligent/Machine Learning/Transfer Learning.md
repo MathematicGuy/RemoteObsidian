@@ -66,10 +66,6 @@ model = tf.keras.Model(inputs, outputs)
 Reason that Validation Loss is clearly better than Train Loss is because of `BatchNormalization` and `Dropout` affect accuracy during training and they turned off then calculating validation loss.
 -> Thus training metrics report the average for an epoch, while validation metrics are evaluate after the epoch so validation metrics so its see a model that been training slightly longer (i.e.  trainned model version). 
 
-
-
-
-
 ---
 [ResNet Architecture](https://youtu.be/nc7FzLiB_AY?si=62M-gm4N3Rr_UTBa)
 [Transfer Learning](https://www.youtube.com/watch?v=3gyeDlZqWko)

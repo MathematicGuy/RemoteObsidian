@@ -18,6 +18,7 @@ r: input value
 ## Intensity Correction
 >Adjust image brightness using function 
 ![[Pasted image 20250110093527.png]]
+
 ### Log Correction
 ![[Pasted image 20250110092951.png]]
 > Help balance out image bright intensity. With log, if the image is too light or too dark, log convert image brightness back to the average value.   
@@ -99,27 +100,6 @@ matched_image = match_histograms(image, image2)
 [Otsu's Method](https://medium.com/@vignesh.g1609/image-segmentation-using-otsu-threshold-selection-method-856ccdacf22)
 [Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)
 
-## Morphological (hình thái) Operation
-The most [basic morphological operations](https://docs.opencv.org/3.4/db/df6/tutorial_erosion_dilatation.html) are: Erosion and Dilation. They have a wide array of uses, i.e. :
-- Removing noise
-- Isolation of individual elements and joining disparate elements in an image.
-- Finding of intensity bumps or holes in an image
-
- **Original Image**
-	![[Pasted image 20250207091354.png]]
-
-### Dilation (phép giãn)
-![[Pasted image 20250207091443.png]]
->Dialation include **convolving an image (A) with some kernel (B)** which can have any shape and size, usually square or circle. Each **convolve pick the maximum value inside the kernel each pixel across the image**. (e.g. 1 out of `[0, 1]`)
-
-### Erosion (phép co)
-![[Pasted image 20250207091514.png]]
->Erosion is the same as Dilation except for it picking Minimum value (e.g. 0 out of `[0, 1]`) 
-
-### Openning (Phép mở: co -> giãn)
-
-
-### Closing (Phép đóng: giãn -> co)
 
 
 ## Contour (research)
@@ -152,4 +132,80 @@ Take 16x16 neighbour pixels. -> Histogram of that pixel
 
 ---
 
-[[Transfer Learning]]
+### Basic Image Processing Technique:
+Normalization -> divide to 255
+**opencv default:** read image as bgr
+Rescaling Image
+Cropping part of the Image
+Adjust Brightness
+Color Space Conversion -> convert bgr to Grayscale, HSV
+Image Blurring & Smoothing  
+
+
+**Filtering** (apply kernel value to filter image)
+**Sobel kernel:** The operator uses two 3×3 kernels which are convolved (tích chập) with the original image. 
++ G_x -> horizontal
++ G_y -> vertical
+	![[Pasted image 20250319080911.png]]
+	![[Pasted image 20250319085029.png]]
++ ? For full edge detection, apply Sobel-X and Sobel-Y kernel to extract both x and y edge, then combine them together. 
+
+
+**Spatial filtering** - slide and apply the kernel though the whole image
+	Smoothing (Averaging) Spatial filtering ->  average image value, reduce noise
+		![[Pasted image 20250319081324.png]]
+	**Gaussian Bluring** -> Increase focus pixel value, reduce noisse 
+		 $\sigma$ standard deviation
+		![[Pasted image 20250319081426.png]]
+		![[Normal+Distribution+Variations-1.png]]![[1_vOCU6Tje1M3IoBiXsm6EtQ.png]]
+	
+	
+**Thresholding**
++ simple thresholding (in .ipynb file) - global thresholding 
++ convolve thresholding - kernel apply thresholding across the whole image
++ adaptive gaussian threshold -> the same but with gaussian kernel 
++ adaptive mean thresholding -> The threshold value is the mean of the neighbourhood area minus the constant **C**.
++ adapative gaussian thresholding -> The threshold value is the mean of the neighbourhood area minus the constant **C**.
+
+### Edge Detection
+**Good Edge Detection Example:** decrease false edge or pixels created by noise (during conv), new edge close to the original/true edge. 
+![[Pasted image 20250319084317.png]]
+
+### Sobel Edge Detection 
++ Basic: Sobel Operator. Detect Edges but prone to noise 
++ Canny Edge Detector 
+	+ Apply Gaussian blur - Smoothen Image to remove noise 
+	+ Compute Gradient Magnitude and Direction - Uses Sobel filters
+	+ Non-Max Suppression - Thin edges by keeping only local maxima 
+	+ Hysteresis Thresholding - Use 2 threshold
+		+ High Threshold: strong edge are kept
+		+ Low Threshold: weak edges are removed unless connected to strong edge
+
+
+
+note: 
++ Tính thời gian trung bình cho từng phần trình bày 
++ 
+
+### Histogram
+[[Histogram Equalization]]
+
+### [[YOLOv1]] 
+
+### [[Morphological Operation]]
+
+### CNN
+[[CNN from Scratch]] + [[AIO - CNN Summary]]
+
+### Image classification 
+[flower](https://colab.research.google.com/drive/1N7MEixSe3O4bCLYUbICZcWulwYsMoZub) 
+
+### Transfer Learning
+[Transfer Learning Code](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb?force_kitty_mode=1&force_corgi_mode=1#scrollTo=ro4oYaEmxe4r) + [[Transfer Learning]]
+
+
+Mô tả hoạt động
+Giải thích code từng dòng 1. Liên hệ công thức vs code
+Mô tả ảnh hưởng của code vs kết quả. e.g. tăng giá trị c trong GAN thì ảnh hưởng ntn đến kết quả. 
+
+

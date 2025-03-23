@@ -4,7 +4,7 @@
 + From Transformer to Vision Transformer
 + How Vision Transformer work in a forward pass
 ```
-note: check my midterm nlp score
+## [Key ideas of ViT Summarization](https://www.pinecone.io/learn/series/image-search/vision-transformers/) 
 
 ## Seq2Seq: Encoder and Decoder in LSTM
 + $ Seq2Seq mean (input) Sequence to (output) Sequence (array of text), it like google translate vietnamese to english.
@@ -114,7 +114,6 @@ note: `N x` bên phải khung hình chứa Multi-Head Attention đến `Add & No
 >![[Pasted image 20250310152658.png]]
 
 ![[Pasted image 20250310152356.png]]
-
 
 #### Linear Projection
 + ? Project mean **Encode higher dimension vector to lower dimension vector**. (e.g. 3D -> 1D) 

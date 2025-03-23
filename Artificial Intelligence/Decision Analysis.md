@@ -1,4 +1,5 @@
 [[Decision Tree Archive]]
+[[Regression Trees and Regression Tree Prunning]]
 Gradient Boosting Machine: cây sau đc xây (cải thiện) dựa vào cây tr'c.   
 
 ---
@@ -81,7 +82,7 @@ Because there're no Impurity left. We can assign output for each leaf base on th
 Now, when there new data comes along. We just run the data down our tree.  
 ![[Pasted image 20250302174850.png]]
 
-Remember, at the start there only 1 person make it to this Leaf. So few that it's hard to have confidence that it will do a great job making predictions with future data -> Possible for overfit -> [[Regression and Decision Tree Prunning]]
+Remember, at the start there only 1 person make it to this Leaf. So few that it's hard to have confidence that it will do a great job making predictions with future data -> Possible for overfit -> [[Regression Trees and Regression Tree Prunning]]
 ![[Pasted image 20250302175051.png]]
 So we prune that leaf. This give a better sense of accurary of our prediction because we know that only 75% of people in leaf "Loves Cool As Ice" -> we put the leaf as "Loves Cool As Ice" as label for the Decision Tree model. 
 ![[Pasted image 20250302180237.png]]

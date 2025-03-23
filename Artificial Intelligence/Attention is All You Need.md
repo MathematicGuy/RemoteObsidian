@@ -4,7 +4,7 @@
 
 [How Attention Mechanism Works in Transformer Architecture](https://www.youtube.com/watch?v=KMHkbXzHn7s)
 
-[Annotated Transformer](https://colab.research.google.com/drive/1o9JBx9J0PHarF6ax8j_3Y0JlWQdtz0Ao#scrollTo=sqGdmRR7jooq)
+[Annotated Transformer](https://colab.research.google.com/drive/1o9JBx9J0PHarF6ax8j_3Y0JlWQdtz0Ao#scrollTo=sqGdmRR7jooq)**
 
 ### Transformer Neural Networks Derived from Scratch
 + ? Motivation behind the Transformer

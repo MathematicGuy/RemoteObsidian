@@ -95,6 +95,8 @@ A color image 64x64 present in 1 tensor as 64x64x3. So the input to the NN would
 + $ Apply convlution operator in Neural Network to process large scale image while keeping its core features.
 
 #### First Convolution layer
++ ! CNN Color Channel doesn't mean CNN Dimension. e.g. r,g,b and bg image both use 2D CNN. 3D CNN refer to when we processing 3 frame at a time of a video to extract the spatial temporal information (thông tin không gian thời gian). Basically, CNN capture information in the represent and future/past at once by process 3 frame at a time. 
+
 > Goals: Minimize Data size while maintaing its core features.
 > As for 3D 64 x 64 x 3 images (H x W x D) 
 ![[Pasted image 20241009100137.png]]

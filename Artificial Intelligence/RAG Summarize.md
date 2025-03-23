@@ -49,15 +49,11 @@ We don't faster cars (e.g. GPT-5), infrastructure is all we need right now. e.g.
 
 
 
-
-
 + ? **Optimization Retrieval**: 
 	+ ? Leiden Algorithm to segment similar information into a cluster -> Faster retrieval using Knowledge Graph  ![[Pasted image 20250311111227.png]]
 	+ ? **Top-K Retrieval:** Instead of retrieving once, Retrieves top-k results.    
 	-> Make mistake much more traceble and preventable because irrelevant information can be ignore. ![[Pasted image 20250311111336.png]]
-+ ? **Optimize Response:** A Re-Writing LLM to help condense or even transform query (original infor) into key information which then transformed into vectors which again used to compare and search within in the vectors database or the knowledge graph to retrieve accurate information.
-
-
+	+ ? **Optimize Response:** A Re-Writing LLM to help condense or even transform query (original infor) into key information which then transformed into vectors which again used to compare and search within in the vectors database or the knowledge graph to retrieve accurate information.
  
 
 **Hybrid Search**
