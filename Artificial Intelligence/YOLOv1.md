@@ -66,7 +66,6 @@
 - Uses **spatial constraints (grid system)** to prevent excessive duplicate detections.
 
 ---
-
 ## **4. Generalization to Unseen Domains**
 
 ### Problem: Poor Generalization in Traditional Methods
@@ -144,6 +143,9 @@
 2. **Fast Inference:** The CNN processes the full image in one forward pass.
 3. **Downsampling via Strides & Pooling:** Reduces computation while maintaining relevant spatial information.
 
+
+Activation: ReLU
+
 # Summary of Architecture Layers:
 
 | **Layer Type**  | **Filter Size** | **Stride** | **Number of Filters** | **Output Size** |
@@ -208,7 +210,7 @@ Each grid cell predicts **$B$** bounding boxes, so the loss function iterates th
 - **Bounding boxes ($B$) per cell**. (1 Object can have many Bounding Box)
 - ![[Pasted image 20250310102527.png]]
 ![[Pasted image 20250310093221.png]]
-#### 1. Localization Loss (Bounding Box Coordinates)
+#### 1. Localization Loss (Bounding Box **Coordinates**)
 
 $$\lambda_{\text{coord}} \sum_{i=0}^{S^2} \sum_{j=0}^{B} \mathbf{1}^{\text{obj}}_{ij} \left[ (x_i - \hat{x}_i)^2 + (y_i - \hat{y}_i)^2 \right]$$
 
@@ -217,9 +219,9 @@ $$\lambda_{\text{coord}} \sum_{i=0}^{S^2} \sum_{j=0}^{B} \mathbf{1}^{\text{obj}}
     - $x_i, y_i$ → Ground truth center coordinates.
     - $\hat{x}_i, \hat{y}_i$ → Predicted center coordinates.
     - $\mathbf{1}^{\text{obj}}_{ij}$ → Indicator function (=1 if object exists in the cell, else =0).
-    - **$\lambda_{\text{coord}} = 5$** → Increases weight for coordinate errors.
+    - **$\lambda_{\text{coord}} = 5$** → Increases weight for coordinate errors. 
 
-#### 2. Localization Loss (Bounding Box Size)
+#### 2. Localization Loss (Bounding Box **Size**)
 
 $$\lambda_{\text{coord}} \sum_{i=0}^{S^2} \sum_{j=0}^{B} \mathbf{1}^{\text{obj}}_{ij} \left[ (\sqrt{w_i} - \sqrt{\hat{w}_i})^2 + (\sqrt{h_i} - \sqrt{\hat{h}_i})^2 \right]$$
 
@@ -247,15 +249,17 @@ $$\lambda_{\text{noobj}} \sum_{i=0}^{S^2} \sum_{j=0}^{B} \mathbf{1}^{\text{noobj
 
 - **Purpose:** Prevents false positives in empty grid cells.
 - **$\lambda_{\text{noobj}} = 0.5$** reduces the penalty for background regions.
+(Need $\lambda$ to remedy high background losses in every image because many grid cells do not contain any object. This pushes the “confidence” scores of those cells towards zero)
+
 
 #### 5. Classification Loss
-
 $$\sum_{i=0}^{S^2} \mathbf{1}^{\text{obj}}_{i} \sum_{c \in \text{classes}} (p_i(c) - \hat{p}_i(c))^2$$
+
 
 - **Purpose:** Measures how well YOLO predicts the correct object class.
 - **Variables:**
-    - $p_i(c)$ → True probability of class cc.
-    - $\hat{p}_i(c)$ → Predicted probability of class cc.
+    - $p_i(c)$ → True probability of class c.
+    - $\hat{p}_i(c)$ → Predicted probability of class c.
 
 ## Summary of Loss Function Components
 

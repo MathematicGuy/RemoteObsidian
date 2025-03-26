@@ -13,9 +13,8 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 + Accurate **sementic representation** that **correlates well human judgements of textuals similarity.**
 ![[68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a416a582d7866613455764e5675396a732e6a7067.png]]
 
-
-
-## RAG Pipe Line
+---
+## [[Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database]] 
 ### Inference
 + ? This forms the final stage of your RAG pipeline:
 	- **Retrieval**: SBERT retrieves the most relevant PDF text chunks.
@@ -30,6 +29,7 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 + [Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka)
 + [[BERT]] - Bidirectional Encoder Representation Transformers
 + [[SBERT]] - Sentence Bidirectional Encoder Representation Transformers
++ [Prompting General Knowledge](https://huyenchip.com/2024/01/16/sampling.html)
 
 
 **Main Contents**: [Improving RAG Retrieval by 60% with Fine-Tuned Embeddings](https://www.youtube.com/watch?v=v28Pu7hsJ0s)
@@ -37,14 +37,22 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 **Secondary Contents:** 
 + [Sentence Embedding - Sentence Similarity, Semantic Search and Clustering Code Note](https://github.com/PradipNichite/Youtube-Tutorials/blob/main/Youtube_Course_Sentence_Transformers.ipynb) + [Code Explanation](https://www.youtube.com/watch?v=OlhNZg4gOvA)
 
-
 **Improvement Content:**
 + [Reranking with Cross Encoders, and Cohere API](https://www.youtube.com/watch?v=ZFbaA9eM0uo)
 + [Customize SBERT document](https://sbert.net/docs/sentence_transformer/training_overview.html#trainer)
 + [Unleasing Power of BERT](https://arize.com/blog-course/unleashing-bert-transformer-model-nlp/)
++ [Transformers From Scratch + Pre-training and Transfer Learning With BERT/GPT](https://youtu.be/acxqoltilME?si=cXNSpTwz5NR2M7HO)
+
 
 **Improve Understanding**
++ [BERT from Scratch using Pytorch](https://www.youtube.com/watch?v=v5cyVwAXR1I)
 + [Coding SBERT with pytorch](https://www.youtube.com/results?search_query=Coding+BERT+from+scratch)
 + [Pre-Train BERT from scratch: Solution for Company Domain Knowledge Data with  PyTorch](https://www.youtube.com/watch?v=IcrN_L2w0_Y)
++ [MordernBERT fine-tunning Example](https://colab.research.google.com/drive/1iWIruk02fGib9RZWdS51SJStIrHx4hMK?usp=sharing#scrollTo=Kphi220PlmDb)
 
+token: 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
+
+![[Pasted image 20250325105721.png]]
+
+correlation: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6uu4sFl1avE&psig=AOvVaw1ZdOV58rZGiwm5PtRzVja7&ust=1742962822024000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLia6uCwpIwDFQAAAAAdAAAAABAK
 

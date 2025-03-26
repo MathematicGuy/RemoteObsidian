@@ -12,6 +12,7 @@
 	+ Both **RGB (3-channel) and grayscale (1-channel) images use 2D CNN** because **CNN dimension refers to spatial dimensions** (height, width) only.
 		
 	+ A **3D CNN refers to processing multiple frames simultaneously,** capturing both spatial and temporal `([time, height, width])` information, not to the number of color channels.
+	
 **Example:**
 - Single image (RGB): $[height \times width \times 3]$ → 2D CNN
 - Multiple frames (video): $[frames \times height \times width \times channels]$ → 3D CNN
@@ -25,15 +26,24 @@ $$[(k_w \times k_h) \times C_{in} + b] \times C_{out}$$
 **Where:**
 - $[k_w, k_h]$: width and height of kernel/filter.
 - $[C_{in}]$: number of input channels.
-- $[C_{out}]$: number of output channels (number of filters).
+- $[C_{out}]$: number of output channels (**number of filters**).
 - $+ \space b$: represents one bias term per filter.
 
 + ? **Kernel and Filter** are the same. But really **Kernel is a sub-set of Filter,** for example in 2D Convolution for RGB image, each channel apply a kernel so there're **3 kernel (color) channel, but 1 filter**. Filter describe whole multiplication inside the Convolution layer.  ![[Pasted image 20250317074107.png]]
 + ? Example: For a convolutional layer with 32 filters and input having 3 channels (e.g., RGB):
-	Total filters = 32
-	Total kernels (channel-wise kernels) = 32 filters × 3 kernels per filter = 96 kernels
+	Total filters = 16
+	Total kernels (channel-wise kernels) = 16 filters × 3 kernels per filter = 48 channel kernels.
+```python
+model = tf.keras.models.Sequential([
+    # Note the input shape is the desired size of the image 300x300 with 3 bytes color
 
-
+    #? This is the first convolution
+    #? ((3 x 3) x 3 + 1) x 16 = (kernel_shape x total_channels + bias) x total_filter = 448
+    #? Output shape: (298, 298, 16) because there is no padding meaning leaving 1 pixel/layer off from each size of width and height.  
+    tf.keras.layers.Conv2D(16, (3,3), activation='relu', input_shape=(300, 300, 3)), 
+    # Divided feature map by 2 
+    tf.keras.layers.MaxPooling2D(2, 2), #? (149, 149, 16) 
+```
 
 
 28x28x1 -> image 28 pixels in height and 28 pixels in width. 

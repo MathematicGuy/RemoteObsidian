@@ -58,3 +58,5 @@ BT: lấy ví dụ đơn giản cho TF-IDF
 
 ### [[Transformer Model Introduction (Attention Is All You Need)]]
 
+![[Pasted image 20250324094459.png]]
+

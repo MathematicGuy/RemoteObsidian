@@ -20,3 +20,11 @@ min
 Lang
 pUB
 trained
+vector
+Vector
+vectors
+Vectors
+vectorize
+vectorized
+vectorization
+Vectorization

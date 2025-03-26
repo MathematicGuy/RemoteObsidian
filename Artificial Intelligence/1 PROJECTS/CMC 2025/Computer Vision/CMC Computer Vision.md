@@ -1,8 +1,7 @@
 **CV** docs: https://docs.opencv.org/4.x/d0/d86/tutorial_py_image_arithmetics.html
 
-### HW
-+ Read about Color Space, Color Space Conversion
-+ How Human Vision relate to Computer Vision
+Quay Video 
+Tài liệu + Code + Dataset + Canvas 
 
 ---
 
@@ -101,7 +100,6 @@ matched_image = match_histograms(image, image2)
 [Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)
 
 
-
 ## Contour (research)
 [OpenCV Contour](https://docs.opencv.org/3.4/d3/d05/tutorial_py_table_of_contents_contours.html)
 **Note:** Describe object border  
@@ -114,7 +112,6 @@ matched_image = match_histograms(image, image2)
 
 ## Chapter 3: Image Classification 
 note: Harris Corner Detection
-
 
 The **SIFT (Scale Invariant Feature Transform)**
 	Extract features from images
@@ -131,7 +128,6 @@ Take 16x16 neighbour pixels. -> Histogram of that pixel
 **"blob-like feature"** refers to a distinct, localized area in an image that stands out from its surrounding. 
 
 ---
-
 ### Basic Image Processing Technique:
 Normalization -> divide to 255
 **opencv default:** read image as bgr
@@ -142,12 +138,12 @@ Color Space Conversion -> convert bgr to Grayscale, HSV
 Image Blurring & Smoothing  
 
 
-**Filtering** (apply kernel value to filter image)
+### Filtering (apply kernel value to filter image)
 **Sobel kernel:** The operator uses two 3×3 kernels which are convolved (tích chập) with the original image. 
 + G_x -> horizontal
 + G_y -> vertical
 	![[Pasted image 20250319080911.png]]
-	![[Pasted image 20250319085029.png]]
+	![[1_3hDhkzqJStXTp37lS_M5aA.png]]
 + ? For full edge detection, apply Sobel-X and Sobel-Y kernel to extract both x and y edge, then combine them together. 
 
 
@@ -171,7 +167,8 @@ Image Blurring & Smoothing
 **Good Edge Detection Example:** decrease false edge or pixels created by noise (during conv), new edge close to the original/true edge. 
 ![[Pasted image 20250319084317.png]]
 
-### Sobel Edge Detection 
+note: Canny can also be used for edge detection
+### Canny Edge Detection 
 + Basic: Sobel Operator. Detect Edges but prone to noise 
 + Canny Edge Detector 
 	+ Apply Gaussian blur - Smoothen Image to remove noise 
@@ -182,13 +179,18 @@ Image Blurring & Smoothing
 		+ Low Threshold: weak edges are removed unless connected to strong edge
 
 
-
-note: 
-+ Tính thời gian trung bình cho từng phần trình bày 
-+ 
-
 ### Histogram
-[[Histogram Equalization]]
+When creating a histogram for an image:
++ Pixel Intensity Range:
+	+ For grayscale images: Pixel values range from 0 to 255.
+	+ For color images (RGB or HSV): Each channel has a range of 0 to 255.
+	
++ Bins Divide the Range:
+	+ If you set bins=256, each bin corresponds to exactly one intensity level (0, 1, 2, ..., 255).
+	+ If you set bins=64, each bin represents a range of 4 intensity levels (e.g., bin 0: 0–3, bin 1: 4–7, ..., bin 63: 252–255).
+
+
+### [[Histogram Equalization]]
 
 ### [[YOLOv1]] 
 
@@ -204,8 +206,10 @@ note:
 [Transfer Learning Code](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb?force_kitty_mode=1&force_corgi_mode=1#scrollTo=ro4oYaEmxe4r) + [[Transfer Learning]]
 
 
+
+
+---
+
 Mô tả hoạt động
 Giải thích code từng dòng 1. Liên hệ công thức vs code
 Mô tả ảnh hưởng của code vs kết quả. e.g. tăng giá trị c trong GAN thì ảnh hưởng ntn đến kết quả. 
-
-

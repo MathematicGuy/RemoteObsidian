@@ -24,6 +24,8 @@ Larger than 2D: a tensor (a * b * h) (with h as the image's depth)
 Thus, an image is a 3D tensor since each pixel value present by 3 matrix r, g and b collapse on top of each other. So 3D tensor for 800x600 image is 800x600x3 
 	(with 3 as the depth of the image)
 	![[Pasted image 20241008172056.png]]
+(Trắng đen 2D vì nó có Heigh-Width)
+(3D vì có 3 lớp màu cho mỗi ảnh, Heigh-Width $\times 3$ )
 
 
 The same logic for Grey scale image (i.e. black and white image). It still have 800x600 pixels but only need 2 color ranging `[0, 255]` (i.e. back and white) instead of (r, g, b). 

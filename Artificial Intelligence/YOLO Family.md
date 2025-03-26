@@ -52,6 +52,7 @@ A residual block is a layer stack arranged so that the output of one layer is ta
 	
 + In NLP. LSTM/GRU, skip connections help reduce gradient exploding/vanishing and represent a pipe line to transfer long-term memory from layer to layer.
 
+-
 ## Downsampling
 + ? After extracting features from first layer of CNN , if we directly give the output to second layer then the **process becomes computationally expensive**. To **reduce the size of output** we **extract the minimal effect features and give to the next layer**. 
 + $ **This process done to reduce the output size without loosing important information** is called **Downsampling**. **Most common approach** use for Downsampling **is Max pooling**.

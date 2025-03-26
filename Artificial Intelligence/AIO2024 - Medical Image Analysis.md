@@ -8,7 +8,7 @@
 **Technical Solutions**
 ![[Pasted image 20250206202945.png]]
 ![[Pasted image 20250206202957.png]]
-- [ ] **Prioritize:** Accuracy, rather to diasnoised patient have illness than none illness at all. ~~~~
+- [ ] **Prioritize:** Accuracy, rather to diasnoised patient have illness than none illness at all. 
 
 ### Digital Image Processing (DIP) 
 ![[Pasted image 20250206204206.png]]

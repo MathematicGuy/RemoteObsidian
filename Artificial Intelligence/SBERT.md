@@ -1,12 +1,8 @@
-```yaml
-tags: [SBERT, NLP, SentenceEmbeddings, BERT]
-created: 2025-03-23
-```
+[[Sentence Transformer Evolution]]
 
-> **Note:** _Siamese_ means twin or joint. SBERT is inspired by Siamese networks (as seen in Joint-BERT) that use shared weights.
+
 
 ---
-
 # 1. Motivation for SBERT
 
 **Sentence-BERT** (SBERT), introduced by Reimers and Gurevych (2019), modifies the BERT architecture to produce high-quality, fixed-length **sentence embeddings** that **can be compared** (e.g., via cosine similarity) for tasks like **semantic similarity, clustering, and information retrieval**.
@@ -20,12 +16,12 @@ created: 2025-03-23
     BERT is highly effective as a **cross-encoder** (i.e., you feed in two sentences concatenated with special tokens, letting BERT perform attention across both). But for tasks like semantic similarity across large numbers of sentence pairs or building similarity search applications, you need to run BERT for _each pair_.
     
     - If you have **n** sentences, you’d have to do O(n²) forward passes to compare all pairs. This is computationally infeasible for big datasets or real-time applications.
+    
 3. **Poor Performance with Simple Cosine Similarity**  
     Even if you try to use the `[CLS]` token (or an average pooling over tokens) from the last layer of BERT as your sentence embedding, it often **does not** align well with semantic similarity tasks unless the model is fine-tuned explicitly to produce embeddings that map semantically similar sentences close together.
     
 
 Hence, a more specialized approach was needed—one that would allow:
-
 - **Fast** retrieval and similarity comparison between sentences (i.e., produce a single embedding per sentence).
 - **Accurate** semantic representation that correlates well with human judgments of textual similarity.
 
@@ -83,11 +79,12 @@ SBERT can be trained or fine-tuned with different objectives, typically on **sen
 3. **Triplet Loss (Optional)**:
     - Another popular approach is using a triplet (anchor, positive, negative).
     - The model is trained to ensure that the embedding of the anchor is closer to the positive sentence than to the negative sentence. This method is used in some setups for direct contrastive learning.
+	![[Pasted image 20250324153547.png]]
+
 
 By training on large-scale datasets with such pairwise or triplet objectives, SBERT learns to map semantically similar sentences to nearby regions in the embedding space.
 
 ---
-
 # 4. How SBERT Solves BERT’s Problems
 
 1. **Efficient Similarity Computation**
