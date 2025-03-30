@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a316dfb5ee1df280",
+        "id": "1375f07f7c212561",
         "type": "tabs",
         "children": [
           {
-            "id": "9f845007abf1ab0d",
+            "id": "21b5fd38fbcb5aee",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "db24c1c724de2a77",
+            "id": "62e7c9ae0085f76f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Grammar/Common German Mistake.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "German Vocabulary"
+              "title": "Common German Mistake"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fährt",
+                "query": "entschuldigung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             }
           },
           {
-            "id": "4fd8121b72424ee4",
+            "id": "a0c9b14f665ee541",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -160,7 +159,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -248,7 +247,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "db24c1c724de2a77",
+  "active": "6847846e1adde012",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",
