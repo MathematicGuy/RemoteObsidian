@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Grammar/Common German Mistake.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Common German Mistake"
+              "title": "German Vocabulary"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entschuldigung",
+                "query": "ersten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,7 +247,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6847846e1adde012",
+  "active": "62e7c9ae0085f76f",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",

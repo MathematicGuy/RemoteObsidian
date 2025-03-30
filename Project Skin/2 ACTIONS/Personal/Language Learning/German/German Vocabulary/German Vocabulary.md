@@ -1484,8 +1484,11 @@ wir feiern deinen geburtstag im restaurant
 
 Ersten - first of
 	Ersten April - first of April
+Ersten mal - first time
+
 Meine Mutter hat am ersten März Geburtstag.
 	My mother's birthday is on the first of March
+
 
 Fahren Sie mit Bus Nummer Dreizehn
 	take bus number thirdteen
