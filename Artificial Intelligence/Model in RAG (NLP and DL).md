@@ -15,6 +15,8 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 
 ---
 ## [[Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database]] 
+## [[Sentence Transformer Evolution]]
+
 ### Inference
 + ? This forms the final stage of your RAG pipeline:
 	- **Retrieval**: SBERT retrieves the most relevant PDF text chunks.

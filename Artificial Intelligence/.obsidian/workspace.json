@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "51b3b40ebbd84095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BERT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BERT"
-            }
-          },
-          {
-            "id": "3622d380cbf48e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentence Transformer Evolution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sentence Transformer Evolution"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,44 +184,43 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "3622d380cbf48e8e",
+  "active": "43a0e75b1027c65e",
   "lastOpenFiles": [
+    "BDA Cleaned dataset info.md",
+    "BDA Final Term Steps.md",
+    "ESL contents.md",
+    "image/Pasted image 20250331014245.png",
+    "2 ACTIONS/_Focus.md",
+    "BDA Final Term.md",
+    "Student Engagement Metrics Survey.md",
+    "BDA Cleaned dataset info 1.md",
+    "image/Pasted image 20250330163532.png",
+    "3rd Years 1st Term Final Project.md",
+    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "Person Correlation.md",
+    "3 RESOURCES/Good for later/Big Tech.md",
+    "YOLOv1.md",
+    "image/Pasted image 20250328161342.png",
+    "image/Understanding_The_Pearson_Correlation_Coefficient_03.png",
+    "Data Analysis - Impute Data.md",
+    "Python.md",
+    "Pandas Code.md",
+    "image/Pasted image 20250327154109.png",
+    "image/Pasted image 20250327102657.png",
+    "image/Pasted image 20250327080840.png",
+    "Sentence Transformer Evolution.md",
+    "Model in RAG (NLP and DL).md",
+    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
+    "BERT.md",
+    "image/image3_HGAXYmV.original.png",
+    "Regression Trees and Regression Tree Prunning.md",
+    "Decision Analysis.md",
+    "Decision Tree Archive.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Regression.md",
     "image/Pasted image 20250326155959.png",
     "image/Pasted image 20250326153327.png",
-    "2 ACTIONS/_Focus.md",
-    "Sentence Transformer Evolution.md",
-    "BERT.md",
-    "Model in RAG (NLP and DL).md",
     "Why Do Neural Network love Softmax.md",
-    "image/image3_HGAXYmV.original.png",
     "AIO2024 - Medical Image Analysis.md",
-    "Triplet Loss.md",
-    "image/Pasted image 20250326091905.png",
-    "image/Pasted image 20250326090159.png",
-    "image/Pasted image 20250326090055.png",
-    "image/Pasted image 20250326085920.png",
-    "image/Pasted image 20250326085840.png",
-    "image/Pasted image 20250326085327.png",
-    "image/Pasted image 20250326085005.png",
-    "image/Pasted image 20250326084957.png",
-    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
-    "SBERT.md",
-    "Attention is All You Need.md",
-    "Transformer Model Introduction (Attention Is All You Need).md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/LLM (Large Language Model).md",
-    "Computer Vision.md",
-    "BẺT.md",
-    "1 PROJECTS/CMC 2025/Computer Vision/CMC Computer Vision.md",
-    "3rd Years 1st Term Final Project.md",
-    "CNN from Scratch.md",
-    "YOLO Family.md",
-    "Introduction to Computer Vision.md",
-    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
-    "Morphological Operation.md",
-    "YOLOv1.md",
-    "Histogram Equalization.md",
-    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
-    "BDA Final Term.md",
     "image/Pasted image 20250302182359.png.~tmp",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",

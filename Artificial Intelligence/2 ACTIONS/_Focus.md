@@ -9,6 +9,7 @@
 - [ ] [[3rd Years 1st Term Final Project]]
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] [RAG turtorial](https://www.youtube.com/watch?v=qN_2fnOPY-M) 
+- [ ] [[ESL contents]]
 
 **Interest**
 - [ ] Understading ADAM
@@ -98,10 +99,12 @@ note luyện code phần:
 + A lot about Statistic
 
 
+![[Pasted image 20250327154109.png]]
+
 ![[Pasted image 20241129213935.png]]
 
 
-![[Pasted image 20250305114452.png]]
+
 
 Dataset: 
 + [dataset archive](https://archive.ics.uci.edu/datasets/?skip=0&take=10&sort=desc&orderBy=NumHits&search=&Types=Sequential)

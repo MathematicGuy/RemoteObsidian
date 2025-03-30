@@ -86,6 +86,10 @@ BERT is good at Word Representation, but we want a model that good at Sentence R
 
 
 
+---
+### [fine-tunining BERT](https://thepythoncode.com/article/finetune-bert-for-semantic-textual-similarity-in-python)
+
+
 
 
 
@@ -105,14 +109,19 @@ With logits computed from the last layer are `[1, 3]`
 A language model work with vocab size of 100,000. Which mean the probabilities of many token can be too small to be represent. Small number might be rounded down to 0, log scale help reduce this problem.  
 ![[Pasted image 20250326155959.png]]
 
+
+**Re-Explain:** https://huyenchip.com/2024/01/16/sampling.html#temperature
 ## Top-K
++ ? Top-K is a sampling strategy to reduce computation workload by only choosing k best value, making text more predictable but less interesting. Softmax require 2 passes over all possible value: 1 
+
+
+
+
+
+
 
 
 
 ---
-
-
-
-**Gemma 2b-it**
+**Llamma 2b - instruction**
 + ? **Giải Thích:** từng block làm gì   
-![[image3_HGAXYmV.original.png]]

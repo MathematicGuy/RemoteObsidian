@@ -28,3 +28,4 @@ vectorize
 vectorized
 vectorization
 Vectorization
+daT

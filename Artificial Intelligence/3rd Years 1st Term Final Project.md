@@ -14,7 +14,6 @@
 ```
 + ? Rút kinh nghiệm: kiểm tra correlation giữa mọi yếu tố (features) và kiểm tra sự quan trọng của từng yếu số dựa trên Y (yếu tố muốn dự đoán) trước khi sử dụng PCA để giảm số chiều, có thể loại bỏ các yếu tố ít quan trọng bằng tay chứ ko bắt buộc phải sử dụng PCA khi nó quá rõ ràng. 
 
-
 ### [[BDA Final Term]]
 + $ **Can use tools for Data Analysis.** like **h2o**  
 + ? Construct a Latex Big Data Analysis Report Form  
@@ -52,6 +51,7 @@ Báo cáo: 15-20 trang
 - [ ] Connect MongoDb and Analyze Data
 ```
 
+
 + ? Answer question why for each todo
 ```ad-todo
 ## Student Performance Analysis and Prediction Dataset
@@ -79,7 +79,6 @@ Báo cáo: 15-20 trang
 - [ ] Convert the model to pickle file
 - [ ] Conclusion
 ```
-
 
 ---
 # 2 Birds with 1 Stone: NLP + DL
@@ -117,4 +116,5 @@ Báo cáo: 15-20 trang
 ![[images 2.png]]
 
 
-$$dist(A, B) = \sqrt{  }$$
+---
+

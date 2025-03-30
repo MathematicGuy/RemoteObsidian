@@ -19,7 +19,7 @@
 	
 **Indexing**
 >Retrieve data by index
-- `df.loc['label_name']` is label-based indexing (looking up by row label or column label) - *loc mean location*
+- `df.loc['label_name']` is label-based indexing (looking up by row label or column label) - *loc mean location* 
 - `df.iloc[index_range, label_name/label_index]` is integer-based indexing (like standard Python indexing using row number or position) - *iloc mean index location*
 + ? Example `.iloc()`: Accessing first 5 rows of the data frame
 	**Method 1:** `df_student[['name', 'score']].head()`

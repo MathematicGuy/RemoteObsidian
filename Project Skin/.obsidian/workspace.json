@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc15ea42a7cb61cc",
+            "id": "9f845007abf1ab0d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "9f845007abf1ab0d",
+            "id": "db24c1c724de2a77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "German Vocabulary"
             }
           }
         ],
@@ -89,7 +94,7 @@
             }
           },
           {
-            "id": "0345468f1dcc9ccd",
+            "id": "4fd8121b72424ee4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -243,7 +248,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9f845007abf1ab0d",
+  "active": "db24c1c724de2a77",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",

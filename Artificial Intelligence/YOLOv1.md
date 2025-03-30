@@ -6,6 +6,7 @@
 + $ Uses **HOG features (Histogram of Oriented Gradients) + SVM classifiers** to detect objects with part-based models.
 + ? HOG features analyzing the distribution of gradient orientations (hướng gradient) within localized regions -> Good at pedestrian detection where detailed shape information is crucial -> Negative side: It slow.
 ![[Pasted image 20250310093906.png]]
+
 ### R-CNN 
 + $ Uses **Selective Search** for region proposals to generate approximately 2,000 region proposals from an input image. Each proposed region is then resized and fed into a **Convolutional Neural Network (CNN)** to extract features. These features are then classified (usually) with SVM. 
 ![[Pasted image 20250310094012.png]]
