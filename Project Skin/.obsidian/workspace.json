@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1375f07f7c212561",
+        "id": "b7f421f4f6c56d26",
         "type": "tabs",
         "children": [
           {
-            "id": "21b5fd38fbcb5aee",
+            "id": "2ae217aa569af561",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,28 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "62e7c9ae0085f76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "German Vocabulary"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +76,7 @@
             }
           },
           {
-            "id": "a0c9b14f665ee541",
+            "id": "fb2c0c1b705f0aab",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -104,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -247,7 +229,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62e7c9ae0085f76f",
+  "active": "2ae217aa569af561",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",
