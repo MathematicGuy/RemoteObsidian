@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f421f4f6c56d26",
+        "id": "b8ffd35ee7371aa4",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae217aa569af561",
+            "id": "332c7ff366ef2c3b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
@@ -76,7 +78,7 @@
             }
           },
           {
-            "id": "fb2c0c1b705f0aab",
+            "id": "fefe410968c85073",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -86,11 +88,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -229,7 +232,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2ae217aa569af561",
+  "active": "332c7ff366ef2c3b",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",
