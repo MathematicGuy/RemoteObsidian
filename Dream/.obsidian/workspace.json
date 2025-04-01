@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fdbc5b5191ab02a",
+        "id": "53805246211484e8",
         "type": "tabs",
         "children": [
           {
-            "id": "4ce3e82c8e3e6c59",
+            "id": "e88db79403e0696f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,8 +16,8 @@
               "state": {
                 "file": "_Focus.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -25,34 +25,22 @@
             }
           },
           {
-            "id": "7d31723f536c00e7",
+            "id": "567fd56b8ccd3488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philopsophy that brought me back to life.md",
+                "file": "Daily Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Philopsophy that brought me back to life"
-            }
-          },
-          {
-            "id": "fdd599db156a9155",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Daily Note"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdd599db156a9155",
+  "active": "567fd56b8ccd3488",
   "lastOpenFiles": [
-    "Philopsophy that brought me back to life.md",
-    "2 ACTIONS/_My Life/_My Life.md",
+    "Daily Note.md",
     "_Focus.md",
+    "2 ACTIONS/_My Life/_My Life.md",
+    "Philopsophy that brought me back to life.md",
     "ADHD.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
     "2 ACTIONS/_My Life/Deepthought.md",
@@ -241,7 +230,6 @@
     "How to Study.md",
     "How to remember everything you learn.md",
     "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
-    "Flow.md",
     "image/Pasted image 20241112093724.png",
     "image/Pasted image 20241112093621.png",
     "image/Pasted image 20241112093034.png",

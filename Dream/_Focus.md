@@ -6,7 +6,7 @@
 # AKTION
 > My [[Deepthought]] is what define who I want to be
 - [ ] Make [[22 lessons in 22 years]] video to celebrating my last and first ever new year.
-
+- [ ] [[Daily Note]]
 
 ### [[_My Life]]
 

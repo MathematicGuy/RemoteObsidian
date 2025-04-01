@@ -6,3 +6,5 @@ Knowing what it mean doesn't mean you know what it is.
 # Who we are ?
 Characteristic are patterns of bahaviours.
 
+---
+

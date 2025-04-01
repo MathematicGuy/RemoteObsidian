@@ -4,13 +4,19 @@ banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
 #Todo/Priority  
-- [ ] Write an act and practice my speaking skill by follow up. (See how effective it is then Implement it back to our club) - can use ChatGPT
+- [ ] check BDA report Latex
+- [ ] check my code - noting each steps
+- [ ] Make Canvas Slides
+- [ ] Prep for my Presentation
+- [ ] Prepare to make Slides for NLP
+
 
 #Todo/[[GoalsThisWeek]]
 
 
+
+
 #Todo/[[GoalsThisMonth]]
-- [ ] Learn German Direct and Indirect case
 
 
 #MyRuleThat_I_SwearToLiveBy
