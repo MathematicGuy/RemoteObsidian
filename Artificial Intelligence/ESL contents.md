@@ -10,6 +10,9 @@ Think about it, A world where nobody sees learning new things as a burden while 
 
 ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png)Now, what is the last time I think about being a Dictator
 
-
-
 _Adolescence_
+
+
+**comic:** https://www.facebook.com/share/p/1BfXABRF4W/
+
+w

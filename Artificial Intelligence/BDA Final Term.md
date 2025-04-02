@@ -50,7 +50,6 @@
 | **incomplete_flag**   | A flag indicating if there is any missing information in the student's record. (Boolean)                    |
 + @ Understand more about each data field in [[Student Engagement Metrics Survey]]  
 
-
 This data set support Education Research, help researchers understand trends in online education.
 + ? There are **2 research path way**: 
 	
@@ -168,8 +167,6 @@ note: Remember all column name and re-explain each column to understand and get 
 	- State possible solutions and tools
 	- Select solutions and tools: analyze advantages and disadvantage and reasons for choosing the solution. 
 
-
-
 ```txt
 ### RESPONSES ###
 Act as a Data Analysis specialized in Machine Learning, Data Science and MongoDB.
@@ -183,3 +180,11 @@ A Mentor, A Friend
 ### IMPROVEMENT ###
 (Optional) Make sure to ask me if my question is too complex or hard to understand. Then think twice , 1st for your first Answers/Response, 2nd to check and refine yours Answers/Replies (to me) 
 ```
+
+- [x] check BDA report Latex
+	**Missing content:** Impute with emperical probability distribution.
+	
+- [ ] [[predict online course engagement summarize]]
+- [ ] Make Canvas Slides
+- [ ] Prep for my Presentation
+- [ ] Prepare to make Slides for NLP

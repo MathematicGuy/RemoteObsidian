@@ -85,14 +85,10 @@ BERT is good at Word Representation, but we want a model that good at Sentence R
 **Pass 4: Sentence Transformer Inference**
 
 
-
 ---
 ### [fine-tunining BERT](https://thepythoncode.com/article/finetune-bert-for-semantic-textual-similarity-in-python)
 
-
-
-
-
+[[Fine-Tuning BERT to SBERT Documentation]]
 
 ---
 # Sampling
@@ -113,10 +109,6 @@ A language model work with vocab size of 100,000. Which mean the probabilities o
 **Re-Explain:** https://huyenchip.com/2024/01/16/sampling.html#temperature
 ## Top-K
 + ? Top-K is a sampling strategy to reduce computation workload by only choosing k best value, making text more predictable but less interesting. Softmax require 2 passes over all possible value: 1 
-
-
-
-
 
 
 

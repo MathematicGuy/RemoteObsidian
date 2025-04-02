@@ -21,7 +21,7 @@ Note: all use case (&) are spam email classification
 $$\text{Recall (or TPR)} = \frac{\text{correctly classified actual positive}}{\text{all actual positive}}
 = \frac{TP}{TP+FN}$$
 
-+ ? False Negatives are actual Positive but classified as Negatives hence why they appear in the denominator, 
++ ? False Negatives are actual Positive but classified as Negatives hence why they appear in the denominator.
 + & **Recall** measure the fraction of *spam email* that were correctly *classifed as spam* which is why recall another name is **probability of detection.** (out of all that can be detect, how many of them you've detected)
 
 

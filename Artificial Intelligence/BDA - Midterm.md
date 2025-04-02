@@ -62,7 +62,6 @@
 
  
 ![[box-plot-explained.gif]]
-
 Giá trị nhỏ hơn PC1 thể hiện khách hàng mua hàng có giá trị thấp hơn so vs trung bình.
 Giá trị nhỏ hơn PC2 thể hiện khách hàng mua ít hàng vs tổng chi tiêu thấp hơn trung bình.
 
@@ -71,3 +70,15 @@ Râu Đáy - giá tị thấp nhất
 Upper Part -> 25% of data is > than this value 
 Lower part mean 25% of data < than this value 
 Outlier - mean they're less than 3/2 value of the upper-lower quartile 
+
+For example given `[5, 7, 8, 12, 14, 18, 21, 23, 24, 26, 30]`, 
++ Median (middle value) is 18
++ Lower half (before median): `[5, 7, 8, 12, 14]` -> Q1 is 8 (middle)
++ Upper half (after median): `[21, 23, 24, 26, 30]`  -> Q3 is 24. 
+
+IQR (Interquarile range) - between Upper Quartile Q3 and Lower Quartile Q1 calculated by Q3 - Q1 = 16. 
+
+Outlier have 2 bound, upper outlier and lower outlier.
++ The Upper bound define as $Q_{3} + 1.5 \times IQR$. This mean value larger than the `max upper quartile + 1.5 * interquartile range`   are Upper Bound Outlier.  
++ The Lower Bound define as $Q_{1} - 1.5 \times IQR$, this mean values less than the Lower Bound are Lower Bound Outlier.  
+

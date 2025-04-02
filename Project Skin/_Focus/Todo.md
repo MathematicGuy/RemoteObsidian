@@ -4,11 +4,7 @@ banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
 #Todo/Priority  
-- [ ] check BDA report Latex
-- [ ] check my code - noting each steps
-- [ ] Make Canvas Slides
-- [ ] Prep for my Presentation
-- [ ] Prepare to make Slides for NLP
+
 
 
 #Todo/[[GoalsThisWeek]]
