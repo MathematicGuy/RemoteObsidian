@@ -1,4 +1,4 @@
-[[OpenPose vs MediaPipe - How They Work and Key Differences]]
+[[OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences]]
 
 1. **Dữ liệu đầu vào (Classroom Camera):**
     

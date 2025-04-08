@@ -90,7 +90,7 @@ Add **Positional Embedding to each token** (like the Encoder)
 	+ **Odd** use **cosine**. Then add PE vector to a sentence.
 	+ Note: Use the same PE for all input sentence. 
 ![[Pasted image 20250323141728.png]]
-
+	
 ### Self Attention and Causal Mask (Multi-head Attention)
 #### Self-Attention Mechanism
 note: dim mean the dimension of the vector, how many value a vector have. 

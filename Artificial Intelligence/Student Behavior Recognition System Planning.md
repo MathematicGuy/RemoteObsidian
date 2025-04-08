@@ -1,3 +1,9 @@
+**Resources:**
++ [OpenCV + Mediapipe](https://www.kaggle.com/code/refat094/opencv-mediapipe)
+
+
+
+---
 ### 1. System Overview
 
 1. **Skeleton Data Collection and Preprocessing**

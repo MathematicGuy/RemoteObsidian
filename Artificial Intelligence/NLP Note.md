@@ -1,17 +1,25 @@
-![[Pasted image 20250325160344.png]]
+Focus on METHODOLOGY and experiment result and my argument. 
+Make time for Slides. 
 
+RAG Explaination 
+```
+I want to clear out the explanation path I want to take. I would like the Overview should starting from Recurrent Networks for text generation and stating what problem its solve and fail to solve (repeat this pattern of what its solve and problem its fail to solve (i.e. disadvantage) for each mode), working up to the Transformer then BERT and Sentence Transformer, and explain why I Sentence Transformer for RAG.
+
+These are one of my note ideas you represent what I aim to represent in Introduction, Overview, ... to "Existing Solution and Our Approach". You should keep the introduction simple and capture the big picture between the solution written in my code and the main problem I want to solve. In the Overview section, please introduce my solution base on my code and my note ideas (sentence transformer evolution and its application in RAG)
+
+### My Note Ideas:
 + ? RNN fail to understand the real meaning of word due to it fail to understand the sentence as a whole.  
  + ? Even when Bidirectional RNN try to address this, but with left and right context **learned seperately** then concatinated some of the **true context is loss**. 
 ![[Pasted image 20250325160446.png]]
 + ? **Transformer Networks (2017)** try to address these issue by using Multi-Head Attention and allow parallel token processing of the entire sentence. 
 + $ The Encoder layer take in entire sentence and output a encoded vector sitanuously, these encoded vector **better than RNN because they understand the bidirectional context thought Attention unit**.
 + ! Eventhough Transformer work well for sequence-to-sequence problem, to train a Transformer from scratch need a lot of data and **their architecture may not be complex enough** to solve many language **problem like Question Answering, Text Summarization, Translation, Intent Classification**.  
-w
+
 ### BERT Networks
 BERT address these concern with the ideology that **different NLP problems all rely on the same fundamental understanding of language.**  ![[Pasted image 20250326071919.png]]
 
 BERT incluce 2 Phrases:
-1. **Pre-Training:** Understand Language -> Focus on understandin g the language
+1. **Pre-Training:** Understand Language -> Focus on understanding the language
 2. **Fine-Tuning:** Understand Language specific task -> Focus on language specific tasks.
 
 **Advantages over Transformers**:
@@ -64,49 +72,30 @@ BERT is good at Word Representation, but we want a model that good at Sentence R
 **During Inference**:
 + We no longer need Siamese Network
 + Only 1 SBERT model (BERT + Mean Pooling) is needed to encode sentences into meaningful embeddings.  
+
+ **Sentence Text Similarity (STS)**: Given 2 sentences, rate how similar they are. ![[Pasted image 20250326085840.png]]
+	+ ? STS work the same as above but use Cosine Similarity Function as output. Like other network its Minimize Squared Error Loss to train the model. ![[Pasted image 20250326085920.png]]
 ```
 
 
-2. **Sentence Text Similarity (STS)**: Given 2 sentences, rate how similar they are. ![[Pasted image 20250326085840.png]]
-	+ ? STS work the same as above but use Cosine Similarity Function as output. Like other network its Minimize Squared Error Loss to train the model. ![[Pasted image 20250326085920.png]]
-	 
-3. **Triplet Dataset**: Includes 3 sentence per example:
-	+ **Anchor** sentence: (e.g. I loves to study) 
-	+ **Positive** sentence: semantically similar or related (e.g. He loves to sleep)
-	+ **Negative** sentence: semantically distant or unrelated (e.g. They not like us)
-	![[Pasted image 20250326090055.png]]
-	![[Pasted image 20250326090159.png]]![[Pasted image 20250326091905.png]]
-	+ ? This work well because **positive example closer in the embedding space whereas the negative example is distant**. Thus, **[[Triplet Loss]]. training is a classic example of contrastive learning.** 
-	
-+ $ **Goal:** produce **embeddings where semantically related sentences cluster closer**, and **unrelated** sentences **move apart clearly** in embedding space.
+```
+I want to clear out the explanation path I want to take. I would like the Overview should starting from Recurrent Networks for text generation and stating what problem its solve and fail to solve (repeat this pattern of what its solve and problem its fail to solve (i.e. disadvantage) for each mode), working up to the Transformer then BERT and Sentence Transformer, and explain why I Sentence Transformer for RAG.
+
+These are one of my note ideas you represent what I aim to represent in Introduction, Overview, ... to "Existing Solution and Our Approach".
+```
 
 
-
-**Pass 4: Sentence Transformer Inference**
-
-
----
-### [fine-tunining BERT](https://thepythoncode.com/article/finetune-bert-for-semantic-textual-similarity-in-python)
-
-[[Fine-Tuning BERT to SBERT Documentation]]
-
----
-# Sampling
-## Temperature
-Basically **Softmax** but logit $z_{i}$ divided by $T$:  $$\frac{z_{i}}{T}$$ where $T$ is the **Temperature**. Softmax fomula with temperature:
-$$P_{i} = \frac{e^{z_{j} / T}}{\sum^{K}_{j=1}e^{z_{j} / T}}$$
-With logits computed from the last layer are `[1, 3]`
-+ When $T=1$: equivilent to no temperature, or softmax probabilities are `[0.12, 0.88]` 
-+ When $T = 0.5 < 1$:  the probabilities are `[0.02, 0.98]`, so output become more bias toward higher value.
-+ When $T = 2 > 1$: the probabilties are `[0.27, 0.73]`, the model seem more balancely distributed. 
-+ $ The **higher temperature is, the Less likely model is going to pick the dominance** option (value with highest logit), making model's output more creative but potentially less coherent. The **lower the temperature, the more Likely the model to pick the most dominance value** -> Model become more consistent but more boring.![[Pasted image 20250326153327.png]]
-+ ? Base on your need, temperature of 0.7 is recommended for creative use cases, as it creativity and determinism. But oft you should experiment to find which value suit most.
-
-A language model work with vocab size of 100,000. Which mean the probabilities of many token can be too small to be represent. Small number might be rounded down to 0, log scale help reduce this problem.  
-![[Pasted image 20250326155959.png]]
+![[Untitled 7.png]]
 
 
-**Re-Explain:** https://huyenchip.com/2024/01/16/sampling.html#temperature
-## Top-K
-+ ? Top-K is a sampling strategy to reduce computation workload by only choosing k best value, making text more predictable but less interesting. Softmax require 2 passes over all possible value: 1 
-
+```
+epoch,Training Loss,Valid. Loss,Training Time,Validation Time
+1,0.03246011824822455,0.036346876590037124,0:03:15,0:00:14
+2,0.029030066280158157,0.03447335168218953,0:03:15,0:00:14
+3,0.026816207701171928,0.033344628885041604,0:03:16,0:00:14
+4,0.02484442626731017,0.03245195230355169,0:03:16,0:00:14
+5,0.023665292580354238,0.03170548259042837,0:03:17,0:00:15
+6,0.02281792249539621,0.031382544888827475,0:03:18,0:00:14
+7,0.0222980306731208,0.0312071775056501,0:03:18,0:00:15
+8,0.021720228198933853,0.031141090068094273,0:03:17,0:00:15
+```

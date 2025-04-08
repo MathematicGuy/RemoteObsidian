@@ -108,13 +108,12 @@ Báo cáo: 15-20 trang
 
 ---
 
-# 2 Birds with 1 Stone: Computer Vision
-### Computer Vision: Violent Behaviour Detection in Public
+# 2 Birds with 1 Stone: Computer Vision + NCKH
+Dataset: [HBD21](https://data.mendeley.com/datasets/xh9pgb3w8c/1)
+### Violent behaviour detection in the school enviroment
 
 ### NCKH:  Nghiên cứu và xây dựng mô-đun nhận diện hành vi của sinh viên trong giảng đường
 
 ![[images 2.png]]
 
-
----
-
+[[Violent Behaviour Detection in the School Enviroment Outline.canvas|Violent Behaviour Detection Outline]]

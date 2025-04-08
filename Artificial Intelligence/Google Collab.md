@@ -30,3 +30,4 @@ These options allow you to select the type of hardware accelerator you want to u
 - **L4 GPU**: Good for AI inference and general ML tasks.
 - **T4 GPU**: Balanced option for most ML/DL tasks.
 - **TPU v2**: Optimal for TensorFlow models and deep learning.
+

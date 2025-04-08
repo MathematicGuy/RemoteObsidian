@@ -45,7 +45,6 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 + [Unleasing Power of BERT](https://arize.com/blog-course/unleashing-bert-transformer-model-nlp/)
 + [Transformers From Scratch + Pre-training and Transfer Learning With BERT/GPT](https://youtu.be/acxqoltilME?si=cXNSpTwz5NR2M7HO)
 
-
 **Improve Understanding**
 + [BERT from Scratch using Pytorch](https://www.youtube.com/watch?v=v5cyVwAXR1I)
 + [Coding SBERT with pytorch](https://www.youtube.com/results?search_query=Coding+BERT+from+scratch)

@@ -15,7 +15,9 @@ _sort:
   asc: false
   group: false
 ---
-w## Learning How to Learn
+## Learning How to Learn
+
+[[Learn 10x Faster Starting Tonight]]
 
 [[Scott Young on the Best Way to Learn Anything]]
 
