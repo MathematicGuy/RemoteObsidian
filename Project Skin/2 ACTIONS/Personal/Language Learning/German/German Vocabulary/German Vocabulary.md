@@ -3024,3 +3024,5 @@ Einkaufen shop
 	Möchtest du Bier für die grillparty einkaufen - Do you have to shop for beer for the barbecue 
 
 
+Was für einen - what kind of 
+	What für einen Fisch - what kind of fisch
