@@ -51,7 +51,6 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 + [Pre-Train BERT from scratch: Solution for Company Domain Knowledge Data with  PyTorch](https://www.youtube.com/watch?v=IcrN_L2w0_Y)
 + [MordernBERT fine-tunning Example](https://colab.research.google.com/drive/1iWIruk02fGib9RZWdS51SJStIrHx4hMK?usp=sharing#scrollTo=Kphi220PlmDb)
 
-token: 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
 
 ![[Pasted image 20250325105721.png]]
 
