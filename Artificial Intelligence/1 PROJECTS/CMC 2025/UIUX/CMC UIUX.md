@@ -41,3 +41,26 @@ A **User Journey Map** breaks down the steps a user takes when interacting with 
 9. **Pain Points**: Challenges or obstacles the user experiences while navigating the platform.
     
 10. **Opportunities**: Potential improvements that can be made to enhance the user experience and address pain points.
+
+---
+
+Phần 1 (Đức): trang 1-15: https://quizizz.com/join?gc=03379236
+Phần 2 (Thành): 
++ trang 16 - 19: https://quizizz.com/join?gc=48760356
++ trang 19 - 31 : https://quizizz.com/join?gc=24905252
+Phần 3 (An): trang 32-46: https://quizizz.com/join?gc=07278628
+
+Left indentation is a design principle 
+Line height should be 1.5 or 150%
+Heuristic Evaluation - đánh giá theo các nguyên tắc mà chuyên gia quyết định
+card design - news list, list in general, article 
+60 - 30 - 10: Chủ đạo, bổ trợ, nhấn 
+grid-system: column is the most popular 
+SVG to help image not lossing quality in website
+Small Icon (16px) - keep the icon minimal to preserve it apprerance. 
+Line height should always double font size to increase readablity. 
+
+
+Anologouos color scheme - use color that **adjacent** in the color wheel.
+Easiest font to read: Arial 
+IMportant factor when choosing font type - font variety.

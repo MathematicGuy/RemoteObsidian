@@ -2083,6 +2083,8 @@ Extracts
 Evaluates
 Ease
 EPOCH
+Empathy
+Easiest
 the
 that
 transformation
@@ -10072,6 +10074,9 @@ Ayg
 Affm
 Ageeg
 Arj
+Awareness
+Anologouos
+Arial
 eigenbasis
 entirely
 eigenvectors
@@ -12219,6 +12224,10 @@ esoy
 eukn
 explanations
 eKd
+emotions
+engages
+excitement
+experiences
 is
 in
 image
@@ -14457,6 +14466,8 @@ ieDg
 iac
 iot
 iZe
+interacts
+indentation
 basis
 by
 because
@@ -18548,6 +18559,7 @@ fills
 finalizing
 facing
 fdJ
+frustration
 space
 say
 same
@@ -20974,6 +20986,8 @@ seamlessly
 specifics
 skeletons
 scheduling
+syllabus
+shares
 consists
 can
 change
@@ -23539,6 +23553,7 @@ conflict
 clarify
 compatibility
 ctB
+completes
 linear
 lambda
 left
@@ -29809,6 +29824,7 @@ TKm
 TDPY
 TIK
 TiI
+Touchpoints
 after
 and
 as
@@ -32024,6 +32040,9 @@ analogies
 advice
 aZG
 aLJ
+achievements
+attitudes
+apprerance
 notate
 nhau
 normal
@@ -33962,6 +33981,7 @@ nMc
 nLB
 nmR
 njB
+navigating
 Change
 Class
 Comunity
@@ -41863,6 +41883,7 @@ wom
 woaag
 wording
 wzv
+wheel
 have
 has
 ho
@@ -45779,6 +45800,7 @@ LkS
 LjV
 Logical
 Logically
+Loyalty
 you
 yield
 yk
@@ -49737,6 +49759,9 @@ planning
 protobuf
 popularity
 persons
+profession
+pain
+pricing
 You
 Yes
 YX
@@ -55607,6 +55632,7 @@ Superior
 Susceptible
 SXb
 SIZE
+Service
 result
 reduced
 repeated
@@ -57816,6 +57842,7 @@ rJo
 rRkk
 reviewed
 rAL
+researches
 Non
 Need
 No
@@ -77331,6 +77358,7 @@ Oyr
 Oia
 OiF
 OkL
+Opportunities
 IntelliJ
 Isolation
 Interactive
@@ -79595,6 +79623,8 @@ Iil
 Isyys
 Implements
 Installing
+Icon
+IMportant
 Prerequisite
 PCB
 Project
@@ -81735,6 +81765,8 @@ PAGE
 Placeholders
 PPW
 PATIENCE
+Persona
+Pain
 Defecs
 Defects
 Dataset
@@ -83856,6 +83888,7 @@ DiW
 Designs
 Downloading
 Designing
+Demography
 Visual
 Variables
 Visualization
@@ -87711,6 +87744,7 @@ Jwu
 JqS
 June
 JWq
+Journey
 just
 jjj
 jFD
