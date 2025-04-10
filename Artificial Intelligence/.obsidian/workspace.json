@@ -51,8 +51,7 @@
               "title": "CMC UIUX"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "0d85e2aa88cc07de",
+  "active": "c5d723284607b30a",
   "lastOpenFiles": [
-    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
     "Model in RAG (NLP and DL).md",
+    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
     "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
     "2 ACTIONS/_Focus.md",
     "BERT.md",
