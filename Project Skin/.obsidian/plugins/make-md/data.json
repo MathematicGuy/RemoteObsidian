@@ -22,7 +22,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 3,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -38,9 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//4 ARCHIVES",
-    "spaces://#CMC",
-    "IELST"
+    "2 ACTIONS/Personal/Language Learning/German",
+    "IELST",
+    "2 ACTIONS/Personal/Language Learning/German/2 ACTIONS/Personal/Language Learning/German/German Vocabulary",
+    "2 ACTIONS/Personal/Language Learning/German/2 ACTIONS/Personal/Language Learning/German/German Note"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
