@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#seine_vs_seinen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271,
+    "width": 323,
     "collapsed": true
   },
   "right": {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for German Vocabulary Note"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from German Vocabulary Note"
             }
           },
           {
@@ -224,10 +224,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3 RESOURCES/How to/Obsidian/Annotation.md"
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary Note.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Annotation"
+              "title": "File properties for German Vocabulary Note"
             }
           },
           {
@@ -241,11 +241,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 741
+    "width": 340
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,18 +264,20 @@
   },
   "active": "c3c15cff7a8ba036",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary Note.md",
+    "_Focus/Todo.md",
+    "Untitled.canvas",
+    "Spaces/third person form - german.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "IELST/SPEAKING IELST .md",
     "IELST/NOTE IELST .md",
     "IELST/IELST.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary Note.md",
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Technology Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Learning German Tips and Tricks.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/Gefällt.md",
     "2 ACTIONS/Personal/Language Learning/German/German Note/German Freestyles.md",
-    "_Focus/Todo.md",
     "Images/Pasted image 20240829200722.png",
     "Images/Pasted image 20240824225439.png",
     "Images/Pasted image 20240824225536.png",
@@ -296,13 +298,10 @@
     "IELST/IELST Writing.md",
     "IELST",
     "Spaces/Vault.md",
-    "Untitled.canvas",
     "rep.md",
     "Spaces/Classification Techniques.md",
     "Classification Ensemble.md",
     "Classification Bayes.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "2 ACTIONS/Workout/Calisthenics.md",
     "1 PROJECTS/UI_UX",
     "Images",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",

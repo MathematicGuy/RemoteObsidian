@@ -2320,8 +2320,6 @@ Motorradschlüssel - motocycle keys
 ### Are Germans Too Direct ?
 Denkst du - do you think
 Endet - Does 
-### End
-
 
 Einzelzimmer - single room
 Doppelzimmer - double room
