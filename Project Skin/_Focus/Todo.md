@@ -3,6 +3,8 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
+
+## [Calendar]
 #Todo/Priority  
 
 
@@ -30,7 +32,6 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] [The Experimental Generation of Interpersonal Closeness](https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH)
 + Single match in pair. They were asked to work through 36 questions and then stare into each other's eyes for four minutes. To see if they fall in love
-- [ ] Practice Trading using virtual money with [WeBull](https://www.webull.com/ko-yield/bdspecial?inviteCode=teswNy2AosKi&inviteSource=wb_inf&source=TradingLab&hl=en)
 
 
 >  Giáo sư Andrew Huberman bàn luận với giáo sư Adam Grant về những chủ đề rất thiết thực liên quan đến tâm lý và thần kinh học như là cách để khai phá khả năng của con người, mặt trái của động lực nội tại, sự thật về tính chân thực (authenticity) cùng rất rất nhiều nội dung thú vị khác

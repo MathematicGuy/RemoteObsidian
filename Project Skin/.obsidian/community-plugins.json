@@ -2,5 +2,14 @@
   "obsidian-admonition",
   "obsidian-better-codeblock",
   "obsidian-annotator",
-  "obsidian-git"
+  "obsidian-git",
+  "homepage",
+  "obsidian-latex-suite",
+  "obsidian-list-callouts",
+  "obsidian-icon-folder",
+  "table-editor-obsidian",
+  "omnisearch",
+  "make-md",
+  "link-exploder",
+  "obsidian-outliner"
 ]
