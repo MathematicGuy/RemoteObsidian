@@ -6,6 +6,12 @@ banner: Images/Pasted image 20240402135259.png
 
 ## [Calendar]
 #Todo/Priority  
+- [ ] Re-format Deutsch learning process
+- [ ] Plan for my IELST revision
+- [ ] List out movie to watch and translate while learning IELST
+- [ ] Book to read and translate 
+- [ ] Plan out learning time-frame
+
 
 
 

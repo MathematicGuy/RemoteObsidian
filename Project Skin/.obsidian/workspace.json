@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 340,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,9 +265,9 @@
   },
   "active": "c3c15cff7a8ba036",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary Note.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocabulary Note.md",
+    "2 ACTIONS/Personal/Language Learning/German/German.md",
     "Untitled.canvas",
     "Spaces/third person form - german.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
