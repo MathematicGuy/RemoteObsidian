@@ -1,1 +1,0 @@
-Người Viết: Đinh Nhật Thành

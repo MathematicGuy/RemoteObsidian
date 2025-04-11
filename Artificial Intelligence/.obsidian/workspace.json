@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "4407d7581134736a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMC UIUX"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +184,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4407d7581134736a",
+  "active": "c5d723284607b30a",
   "lastOpenFiles": [
-    "3 RESOURCES/How to/Anaconda Command.md",
     "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
+    "3 RESOURCES/How to/Anaconda Command.md",
     "2 ACTIONS/_Focus.md",
     "3 RESOURCES/How to/Anaconda.md",
     "image/images 2.jpg",

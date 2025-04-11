@@ -1,14 +1,6 @@
 [
-  "obsidian-better-codeblock",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-git",
-  "obsidian-mind-map",
-  "homepage",
-  "obsidian-list-callouts",
   "obsidian-admonition",
-  "quickadd",
-  "make-md",
-  "obsidian-enhancing-export",
+  "obsidian-better-codeblock",
   "obsidian-annotator",
-  "omnisearch"
+  "obsidian-git"
 ]

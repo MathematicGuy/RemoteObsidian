@@ -2963,6 +2963,7 @@ Saft juice
 	orangensaft - orange juice
 
 ---
+###  Section 3, Unit 7: Use the dative case
 
 Wem whom 
 + Mit wem gehst du inst Kino ? - With whom are you go to the movies theater with ? 
@@ -3013,6 +3014,7 @@ Fährt - ride
 Den ganzen tag - the whole day
 
 ---
+### Section 3, Unit 8: Plan a Barbecue 
 
 Grillparty barbecue
 Lake see
@@ -3026,5 +3028,4 @@ Einkaufen shop
 
 Was für einen - what kind of 
 	What für einen Fisch - what kind of fisch
-
 
