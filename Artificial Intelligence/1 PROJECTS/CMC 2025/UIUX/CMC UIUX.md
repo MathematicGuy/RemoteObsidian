@@ -47,20 +47,46 @@ A **User Journey Map** breaks down the steps a user takes when interacting with 
 Phần 1 (Đức): trang 1-15: https://quizizz.com/join?gc=03379236
 Phần 2 (Thành): 
 + trang 16 - 19: https://quizizz.com/join?gc=48760356
-+ trang 19 - 31 : https://quizizz.com/join?gc=24905252
++ trang 19 - 31 : https://quizizz.com/join?gc=32978468
 Phần 3 (An): trang 32-46: https://quizizz.com/join?gc=07278628
 
 Left indentation is a design principle 
 Line height should be 1.5 or 150%
 Heuristic Evaluation - đánh giá theo các nguyên tắc mà chuyên gia quyết định
 card design - news list, list in general, article 
-60 - 30 - 10: Chủ đạo, bổ trợ, nhấn 
+60 - 30 - 10: trung tính, chủ đạo, nhấn 
 grid-system: column is the most popular 
 SVG to help image not lossing quality in website
 Small Icon (16px) - keep the icon minimal to preserve it apprerance. 
 Line height should always double font size to increase readablity. 
 
-
 Anologouos color scheme - use color that **adjacent** in the color wheel.
 Easiest font to read: Arial 
-IMportant factor when choosing font type - font variety.
+Important factor when choosing font type - font variety. (số lg biến thể của font)
+icon đảm bảo cho ng khiếm thị -> sử dụng thuộc tính arial-label hoặc dùng alt-text
+
+WebAIM Constract checker
+Design System: UI Component, 
+Giả số lg yêu cầu bằng cách gộp file CSS và JS
+ethonographic research - understand user in their natural environment.
+
+Think-Aloud Protocol - say aloud what they think when doing a task
+human & machine interaction (HCI)
++ Persona (hồ sơ khách hàng lý tưởng dựa trên thực tế)
++ User flow
++ ...
+usuability - customer satisfastion 
+define clear research goal - is crucial for UX 
+to make sure usabulity is ready -> use customer feedback (repeatedly refine product using customer feedback)
+
+UI/UX main job: mockup and research customer behaviour
+Siteframe - sơ đồ kiến trúc thông tin 
+Heuristic Evaluation - khả năng điều hướng và tổ chức thông tin 
+wireframe detail level - 3 level: low, mid, high
+empathy map : listen, say, do, feel
+Breadcrumb navigation
+![[images 2.jpg]]
+
+Progressive Disclosure (tiết lộ dần) - 
+Qualitative - định tính
+Quantitative - định lượng

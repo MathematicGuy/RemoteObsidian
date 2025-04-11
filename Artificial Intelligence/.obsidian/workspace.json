@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "0d85e2aa88cc07de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Model in RAG (NLP and DL).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Model in RAG (NLP and DL)"
-            }
-          },
-          {
             "id": "4407d7581134736a",
             "type": "leaf",
             "state": {
@@ -51,7 +37,8 @@
               "title": "CMC UIUX"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,12 +199,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c5d723284607b30a",
+  "active": "4407d7581134736a",
   "lastOpenFiles": [
-    "Model in RAG (NLP and DL).md",
-    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
+    "3 RESOURCES/How to/Anaconda Command.md",
     "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
     "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/How to/Anaconda.md",
+    "image/images 2.jpg",
+    "Model in RAG (NLP and DL).md",
+    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
     "BERT.md",
     "SBERT.md",
     "Violent Behaviour Detection in the School Enviroment Outline.canvas",
@@ -236,7 +226,6 @@
     "image/Pasted image 20250405165143.png",
     "image/Pasted image 20250405164918.png",
     "image/Pasted image 20250405164902.png",
-    "image/Pasted image 20250405164700.png",
     "Compare ML Model.md",
     "Human Activity Recognition.md",
     "Example Prompts.md",
@@ -250,8 +239,6 @@
     "Student Engagement Metrics Survey.md",
     "Python OOP.md",
     "Introduction to Python OOP.md",
-    "Python.md",
-    "RAG Summarize.md",
     "image/Pasted image 20250302182359.png.~tmp",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",

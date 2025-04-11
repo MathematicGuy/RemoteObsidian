@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b310ceec425de477",
+        "id": "b9ac4642b2b4773a",
         "type": "tabs",
         "children": [
           {
-            "id": "04bf5560010b3c3b",
+            "id": "801aa638c091d324",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,12 +18,22 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "40ea567dae35cb79",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +87,7 @@
             }
           },
           {
-            "id": "351de5f82774c4e9",
+            "id": "c1d9befbf775f3af",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -232,7 +241,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "04bf5560010b3c3b",
+  "active": "40ea567dae35cb79",
   "lastOpenFiles": [
     "rep.png",
     "rep.md",
