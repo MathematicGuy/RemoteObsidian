@@ -14,7 +14,7 @@ _sort:
 color: ""
 sticker: emoji//1f525
 ---
-[[German Vocabulary Note]]
+[[German Vocabulary ]]
 + [[German Technology Vocabulary]]
 + [[German Vocab Revision]]
 [Remember Strategy](https://www.facebook.com/share/v/WEUf9MeBLeUkNN2M/)
