@@ -14,48 +14,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Todo"
-            }
-          },
-          {
-            "id": "c3c15cff7a8ba036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
               "title": "German Vocab"
             }
-          },
-          {
-            "id": "3d2b3e135e29f6bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "German Vocab archive"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,16 +78,6 @@
             }
           },
           {
-            "id": "d0e176e576fc0780",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "13b4c1158c353740",
             "type": "leaf",
             "state": {
@@ -129,9 +88,18 @@
               "icon": "lucide-file",
               "title": "IELST"
             }
+          },
+          {
+            "id": "11dc0739f9691b3b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 353,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,14 +233,21 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c3c15cff7a8ba036",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
+    "AI Engineering Job.md",
+    "Spaces/#todo",
+    "german friend prompts.md",
+    "Doodles/Doodles1.md",
+    "Doodles",
+    "IELST/Untitled.md",
     "Untitled.canvas",
     "German Vocabulary.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
@@ -292,7 +268,6 @@
     "Images/Pasted image 20240824225753.png",
     "Images/Pasted image 20240825000528.png",
     "Python Command.md",
-    "Untitled",
     "Untitled/Pasted image 20240625115735.png",
     "Images/Pasted image 20240620175704.png",
     "Images/Pasted image 20240618094216.png",
@@ -302,12 +277,7 @@
     "Writing CV Skill.md",
     "Tổng Hợp LS Đảng.md",
     "1 PROJECTS/CMC Summer 2024/Summer Project 2024.md",
-    "1 PROJECTS/My Travel Plan by myself.md",
-    "IELST/IELST Writing.md",
     "IELST",
-    "Spaces/Vault.md",
-    "rep.md",
-    "Spaces/Classification Techniques.md",
     "1 PROJECTS/UI_UX",
     "Images",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
@@ -315,7 +285,6 @@
     "4 ARCHIVES/2024",
     "4 ARCHIVES/2024/CMC Spring 2024",
     "3 RESOURCES/Untitled",
-    "Spaces",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "_Focus/This is my Life.canvas",

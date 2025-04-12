@@ -2,6 +2,8 @@
 sticker: emoji//1f5ef-fe0f
 ---
 # SECTION 1:
+[[german friend prompts]] 
+
 ## Unit 1: Order in a cafe
 + $ In German, you **Capitalize** all **Nouns**.
 + ? e.g. Katze, Kaffee und Tee
@@ -29,97 +31,199 @@ sticker: emoji//1f5ef-fe0f
 
 ## Unit 6: Say where you're from 
 + $  To **Ask Question** in german, you just **switch the position of subject and verb**  
-+ ? Example: Vietnam is schön, Ist Vietname schön ?
++ ? Example: Vietnam is schön -> Ist Vietname schön ?
+note: Rest mean Everything Else in the sentence, when converting a normal conversation to question. 
+#### 1. Yes / No Question: Verbs take the Leads
++ $ **Verb + Subject + Rest**
 
-
-[asking q in deutsch](https://youtu.be/HdDmddOPs5I?si=XewE3w2FvI09sChz)
-
+#### 2. W-Questions: Question Word + Verb + Subject 
++ $ **W-Question + Verb + Subject + Rest**. That it !
++ ? [W-Question include](https://preply.com/en/blog/questions-in-german/): 
+	+ Wo, Woher, Wohin - Where
+	+ Warum - Why
+	+ Wie - How
+	+ Was - What
+	+ Wann - When
+	+ Weich - Which 
 
 ## Unit 7: Talk about work 
++ $ "*What mein is dein !*" **All gender nouns** have the **same ending**, **mein and meine** rule is the same for **dein and deine**.
++ ? e.g. Mein Vater ist Schauspieler, deine Mutter ist Schauspielerin.
 
 
 ## Unit 8: Use the present tense 
++ $ **Verb use different endings** depending on the subject of the sentence. 
+
+| **Subject** | **Verb (schwinmmen)** |
+| ----------- | --------------------- |
+| ich         | schwimme              |
+| du          | schwimmst             |
+| es / sie    | schwimmt              |
+
 
 
 ## Unit 9: Ask for directions
++ $ In summary, all nouns have gender: masculine, femenine, neuter
+
+| **gender** | **noun**                    |
+| ---------- | --------------------------- |
+| masculine  | der Bahnhof, ein Bahnhof    |
+| feminine   | die Wohnung, eine Wohnung   |
+| neuter     | das Mottorrad, ein Motorrad |
+
 
 
 # SECTION 2:
 ## Unit 1: Speak formally
++ $ Different way to anounce yourself (i.e. **to say you**) depending on who you talking to. For **stranger and important people** (authority figures), you'll say **Sie** (anh/chú) to show respect, while using **du/dich** (bạn) showed friendliness. note: *dich is the accusative of du.* 
++ ? e.g. Wohin kommt Sie (where to you come from), Es ist schön dich zu treffen (nice to meet you), Wie heißst du (what is your name)
 
+### German 101: Why *du, dich* and *dir* exist ?
++ $ Think of each Case--**nominative, accusative, dative**--are like tools used for the right scenario, **each form has a specific role**. For "du"  (informal singular of you), these cases change the word from *du* to *dich* or *dir* (nó) depending on whether "you" is the *doer*, *the one being acted on*, *something else*.    
+
+**Examples:** 
++ ? **Du** - Nominative (Subject: You're doing the action)
+	Du spielst videospiele - you play video games
+	
++ ? **Dich** - Accusative (Direct Subject: You're receiving the action)
++ 
 
 ## Unit 2: Shop at a market
++ $ 
++ ? 
 
 
 ## Unit 3: Describe the weather 
++ $ 
++ ? 
 
 ## Unit 4: Use the accusative case 
++ $ 
++ ? 
 
 
 ## Unit 5: Talk about language
++ $ 
++ ? 
 
 
 ## Unit 6: Talk about hobbies
++ $ 
++ ? 
 
 ## Unit 7: Use modals 
++ $ 
++ ? 
 
 ## Unit 8: Describe a new apartment 
++ $ 
++ ? 
 
 
 ## Unit 9: Talk about shopping 
++ $ 
++ ? 
 
 
 ## Unit 10: Discess train travel 
-
++ $ 
++ ? 
 
 ## Unit 11: Order at a restaurant  
++ $ 
++ ? 
+
 
 
 ## Unit 12: Use commands
++ $ 
++ ? 
 
 
 ## Unit 13: Talk about birthdays 
++ $ 
++ ? 
 
 
 ## Unit 14: Make plans to go out 
++ $ 
++ ? 
 
 
 ## Unit 15: Give health advice
++ $ 
++ ? 
 
 ## Unit 16: Use adverbs 
++ $ 
++ ? 
 
 ## Unit 17: Discuss Oktoberfest
++ $ 
++ ? 
 
 ## Unit 18:  Discuss your habits
++ $ 
++ ? 
 
 ## Unit 19: Describe shared housing 
++ $ 
++ ? 
 
 ## Unit 20: Discus hotel stays
++ $ 
++ ? 
 
 ## Unit 21: Refer to extended family
++ $ 
++ ? 
 
 ## Unit 22: Talk about food likes
++ $ 
++ ? 
 
 ## Unit 23: Form verbs
++ $ 
++ ? 
 
 ## Unit 24: Plan to travel abroad
++ $ 
++ ? 
 
 
 # SECTION 3:
 ## ## Unit 1: Discuss a new job 
++ $ 
++ ? 
 
 ## Unit 2: Tak about your habits 
++ $ 
++ ? 
 
 ## Unit 3: Pack for a vacation 
++ $ 
++ ? 
 
 ## Unit 4: Plan dinner 
++ $ 
++ ? 
 
 ## Unit 5: Use complex verbs
++ $ 
++ ? 
 
 ## Unit 6: Argue with a roomate
++ $ 
++ ? 
 
 ## Unit 7: Use a dative case
++ $ 
++ ? 
 
 ## Unit 8: Plan a barbecue 
++ $ 
++ ? 
 
 ## Unit 9: Use the accusative case
++ $ 
++ ? 

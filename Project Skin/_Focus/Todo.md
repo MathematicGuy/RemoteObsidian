@@ -11,7 +11,7 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] List out movie to watch and translate while learning IELST
 - [ ] Book to read and translate 
 - [ ] Plan out learning time-frame
-
+- [ ] Organize and Map out [[AI Engineering Job]] and RoadMap   
 
 
 
