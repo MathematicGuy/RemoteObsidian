@@ -79,14 +79,30 @@ note: Rest mean Everything Else in the sentence, when converting a normal conver
 + ? e.g. Wohin kommt Sie (where to you come from), Es ist schön dich zu treffen (nice to meet you), Wie heißst du (what is your name)
 
 ### German 101: Why *du, dich* and *dir* exist ?
-+ $ Think of each Case--**nominative, accusative, dative**--are like tools used for the right scenario, **each form has a specific role**. For "du"  (informal singular of you), these cases change the word from *du* to *dich* or *dir* (nó) depending on whether "you" is the *doer*, *the one being acted on*, *something else*.    
++ $ Think of each Case--**nominative, accusative, dative**--are like tools used for the right scenario, **each form has a specific role**. For "du"  (informal singular of you), these cases change the word from *du/ich* to *dich/mich* or *dir/mir*  depending on whether "you" is the *doer*, *the one being acted on*, *something else*.    
+note:
++ Subject: the one doing the action
++ Object: the one receive the action
 
 **Examples:** 
-+ ? **Du** - Nominative (Subject: You're doing the action)
-	Du spielst videospiele - you play video games
++ ? **Du** - Nominative *(Subject: You're doing the action)* - **Answer the question who "doing the action".** Use in casual scenario with a friend, who doing something.
+	+ Du spielst videospiele - you're playing video games
+	+ Liebst du mich - do you love me 
 	
-+ ? **Dich** - Accusative (Direct Subject: You're receiving the action)
-+ 
++ ? **Dich** - Accusative *(Direct Object: You're receiving the action)* - **Answer the question "who receiving the action" / "whom the action affected directly"**. Perfect to pointing someone/something taking or **Receiving The Action**.
+	+ Ich *sehe dich* - I *see you* (the *action sehe land directly on you*) 
+	+ Das ist für dich - that is for you
+	+ Nicht Ohne dich - not without you  
+	+ Wenn ich ein Wurm wäre, würdest du mich lieben - If I were a worm, would you love me ? 
+		"möchtest du" mean "would you like to", "würdest du" mean "would you (do something)"
+		
+	+ Liebst du mich, Auch wenn ich Wurm wäre. 
+	
++ ? **Dir** - Dative *(Indirect Object: You're indirectly involve)* - **Answer the question "To/for whom"**.  Use when "you" are benefiting from or **Receiving The Result of an action**.
+	+ Ich gebe dir ein Buch - I'm giving you a book *"ein Buch" (an direct object) is given,  to you (dir) the direct receiver* 
+		
+		"dir" == "you" receiving the result (the book)
+	+ Ich hab' nur Augen für dich  - I only have eyes for you
 
 ## Unit 2: Shop at a market
 + $ 
