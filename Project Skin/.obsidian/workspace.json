@@ -14,14 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "file": "_Focus/Todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "German Vocab"
+              "title": "Todo"
             }
           }
         ]
@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "11dc0739f9691b3b",
+            "id": "350ea87f7df8da3e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
