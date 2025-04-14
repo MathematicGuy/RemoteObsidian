@@ -6,22 +6,20 @@ banner: Images/Pasted image 20240402135259.png
 
 ## [Calendar]
 #Todo/Priority  
-- [ ] Re-format Deutsch learning process
-- [ ] Plan for my IELST revision
+- [x] Re-format Deutsch learning process
+- [x] Plan for my IELST revision
 - [ ] List out movie to watch and translate while learning IELST
-- [ ] Book to read and translate 
 - [ ] Plan out learning time-frame
 - [ ] Organize and Map out [[AI Engineering Job]] and RoadMap   
 
 
-
 #Todo/[[GoalsThisWeek]]
-
-
-
+- [ ] Find Decision Tree Paper to follow-allong for my AIO
+- [ ] Refine paper and Re-train my Action Detection Model then apply Yolo for multiple-person action detection.  
+- [ ] Survey MC-OCR project to understand how their system work, Outline the system in abstract flow-chart.
 
 #Todo/[[GoalsThisMonth]]
-
+- [ ] 8h-10h study AIO
 
 #MyRuleThat_I_SwearToLiveBy
 - [ ] No LoL after 16:00 (4PM)

@@ -232,13 +232,35 @@ note:
 + $ 
 + ? 
 
-## Unit 7: Use a dative case
-+ $ 
-+ ? 
+## Unit 7: Use a [dative case](https://youtu.be/wiojrisJtcA?si=v0KN2iOmj1wzB8Ej)
++ $ **Dative case describe someone or something receive the results of a action**, so whoever you're giving a thing to? They get a **dative case** 
++ ? Same thing when you giving something to someone. The thing you giving gets the *accusative case*. The person receive the *dative case*. 
+```ad-example
+Der Hund gibt *einem Mann* ein Glas Wein
+
+Die Lehrerin gibt *die Schüler* viele Hausaufgaben
+```
+
++ ? Basic form to Dative form
+	der Mann -> dem Mann
+	die Frau -> der Frau
+	das Kind  -> dem Kin
+	die Katzen -> den Katzen 
 
 ## Unit 8: Plan a barbecue 
-+ $ 
-+ ? 
++ $ Some **german's verbs get** *split up*, such as *bekannt*geben (to announce), *an*rufen (to call up) and *vor*haben (to have a plan). The first part runs off to the end of the sentence leaving the second part called first. 
+```ad-example
+Die Eltern geben den Namen vor ihrem Kind *bekannt* - The parents announce the name of their child
+
+Ruf mich *an* ! - Call me up !
+
+Hast du schon was *vor* ? - Do you have a plan yet ?
+```
+
+Feiertag - holiday 
+	Heute ist ein Feierstag 
+
+
 
 ## Unit 9: Use the accusative case
 + $ 
