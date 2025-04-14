@@ -38,9 +38,19 @@
               "icon": "lucide-file",
               "title": "IELST Road Map"
             }
+          },
+          {
+            "id": "366a07e66510bf26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +195,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELST Road Map.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IELST Road Map"
+              "title": "Outline"
             }
           },
           {
@@ -254,10 +263,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3c15cff7a8ba036",
+  "active": "366a07e66510bf26",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "IELST Road Map.md",
+    "_Focus/Todo.md",
     "IELST/NOTE IELST .md",
     "IELST/SPEAKING IELST .md",
     "IELST Writing.md",

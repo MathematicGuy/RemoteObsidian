@@ -49,5 +49,20 @@ Note: Focus on what I'm good at rather than what I'm bad at.
 + Simulate example conditions: write on computer, time myself strictly.
 
 # IELST Reading Revision Roadmap
+**Practice rephrasing/summarizing** ideas & thought.
+Review 11 IELTS Reading question types: multiple-choice, True/False/NotGiven, Matching Heading, Sentence Completion. 
+
++ **Skimming & Scanning:** Practice skimming to grasp main ideas fast by *reading the first & last sentence of paragraphs*. Scan for important information (*numbers, names, synonyms*) to locate answers. 
++ **Write down & Explain rare/academic synonym**.
++ **locate infor** from **signal words** (e.g. "however", "therefor") **for arguments**. 
++ **Analyze Error:**
++ **Time Management:** estimate time to complete a part confidently (can be over requirement time) but reduce them down little by little. (accuracy > speed)  
+
+
+# IELST Listening Revision
+Identify weak section then practice more. Write down which part you mis-heard or misunderstood. 
+Use prediction, predict their though, ideas. 
+Note synonyms from common topics. 
+Practice under real exam conditions. 
 
 
