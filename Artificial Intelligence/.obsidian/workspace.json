@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "786d01cf60873cbf",
+        "id": "7d06300d91e6cc51",
         "type": "tabs",
         "children": [
           {
@@ -75,8 +75,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "c3551d6a531e528f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,9 +173,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "6883addd4be61207",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -173,35 +194,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "graph:Open graph view": true
     }
   },
   "active": "c5d723284607b30a",
   "lastOpenFiles": [
+    "AI Engineer/AI Engineer Road Map.md",
+    "2 ACTIONS/_Focus.md",
+    "AI Engineer/AI Engineer.md",
+    "Python OOP.md",
+    "AI Engineer",
+    "Untitled.canvas",
+    "Fine-Tuning BERT to SBERT Documentation.md",
+    "Machine Learning Model Time Complexity.md",
+    "BDA Cleaned dataset info.md",
+    "BDA Final Term.md",
+    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "2025-04-13.md",
     "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
     "3 RESOURCES/How to/Anaconda Command.md",
-    "2 ACTIONS/_Focus.md",
     "3 RESOURCES/How to/Anaconda.md",
     "image/images 2.jpg",
     "Model in RAG (NLP and DL).md",
     "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
     "BERT.md",
     "SBERT.md",
-    "Violent Behaviour Detection in the School Enviroment Outline.canvas",
     "Sentence Transformer Evolution.md",
     "Computer Vision.md",
     "CV_Final_results.md",
     "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
     "OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
-    "Fine-Tuning BERT to SBERT Documentation.md",
     "image/Pasted image 20250406204842.png",
     "image/Pasted image 20250406204840.png",
     "image/Pasted image 20250406204839.png",
@@ -217,13 +249,6 @@
     "Example Code.md",
     "3rd Years 1st Term Final Project.md",
     "Violent Behaviour Detection Outline.md",
-    "Human Pose Detection Planning (Behaviour Detection).md",
-    "Student Behavior Recognition System Planning.md",
-    "NLP Note.md",
-    "Google Collab.md",
-    "Student Engagement Metrics Survey.md",
-    "Python OOP.md",
-    "Introduction to Python OOP.md",
     "image/Pasted image 20250302182359.png.~tmp",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",
@@ -234,7 +259,6 @@
     "1 PROJECTS/NCKH 2025/Books",
     "1 PROJECTS/CMC 2025/UIUX",
     "1 PROJECTS/CMC 2025/Computer Vision",
-    "1 PROJECTS/CMC 2025/Deep Learning & Application",
     "Research.canvas",
     "ID Card Brain Storm.canvas"
   ]

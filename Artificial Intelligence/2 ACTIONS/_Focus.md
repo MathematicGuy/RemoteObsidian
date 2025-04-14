@@ -5,11 +5,9 @@
 
 #TODO
 **Crucial**
-- [ ] After RNN + LSTM -> Finish [[Human Activity Recognition]]
-- [ ] [[3rd Years 1st Term Final Project]]
+- [ ] [[Human Activity Recognition]]
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] [RAG turtorial](https://www.youtube.com/watch?v=qN_2fnOPY-M) 
-- [ ] [[ESL contents]]
 
 **Interest**
 - [ ] Understading ADAM

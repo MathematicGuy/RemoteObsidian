@@ -2,14 +2,14 @@
   "homepage",
   "obsidian-list-callouts",
   "obsidian-admonition",
-  "obsidian-tikzjax",
-  "quickadd",
   "quick-latex",
   "obsidian-latex-suite",
   "obsidian-latex-environments",
   "omnisearch",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-annotator",
-  "obsidian-completr",
-  "obsidian-statusbar-pomo"
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "make-md"
 ]

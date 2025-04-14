@@ -1,6 +1,4 @@
 # OOP
-![[Pasted image 20240923101844.png]]
-
 the `__init__` method allow class attribute to be modified directly without adding any function like `speak()` below
 ```python
 class Dog:
