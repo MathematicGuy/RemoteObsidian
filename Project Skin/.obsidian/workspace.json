@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "979d049d40300299",
+            "id": "c1f2b34a29875f7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IELST READING.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IELST READING"
             }
           }
         ],
@@ -89,6 +94,16 @@
             }
           },
           {
+            "id": "d0e176e576fc0780",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
             "id": "13b4c1158c353740",
             "type": "leaf",
             "state": {
@@ -99,23 +114,14 @@
               "icon": "lucide-file",
               "title": "IELST"
             }
-          },
-          {
-            "id": "ed93a7cde3156f29",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 271
+    "width": 271,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -179,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELST Road Map.md",
+                "file": "IELST READING.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IELST Road Map"
+              "title": "Outline of IELST READING"
             }
           },
           {
@@ -248,20 +254,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "979d049d40300299",
+  "active": "c1f2b34a29875f7c",
   "lastOpenFiles": [
+    "IELST READING.md",
     "_Focus/Todo.md",
-    "IELST Road Map.md",
     "IELST/NOTE IELST .md",
-    "IELST/SPEAKING IELST .md",
     "IELST Writing.md",
+    "IELST/SPEAKING IELST .md",
+    "Untitled.canvas",
+    "Spaces/Vault.md",
+    "IELST Road Map.md",
     "Excalidraw/Drawing 2025-04-14 11.21.05.excalidraw.md",
     "Excalidraw",
     "Images/Pasted image 20250414105506.png",
     "IELST/Untitled.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
-    "Untitled.canvas",
     "AI Engineering Job.md",
     "Spaces/#todo",
     "german friend prompts.md",
@@ -288,8 +296,6 @@
     "Images/Pasted image 20240620175704.png",
     "Images/Pasted image 20240618094216.png",
     "Images/Pasted image 20240618095801.png",
-    "German Song.md",
-    "Writing CV Skill.md",
     "IELST",
     "1 PROJECTS/UI_UX",
     "Images",
