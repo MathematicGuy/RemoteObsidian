@@ -1,4 +1,4 @@
-![[Pasted image 20250404175615.png]]
+- [ ] ![[Pasted image 20250404175615.png]]
 This include 5 Major Methods
 
 # SHORT-TERM MEMORY
