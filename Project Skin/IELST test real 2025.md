@@ -1,3 +1,6 @@
+https://thuviennhadat.vn/bvtk/dia-danh/tinh-binh-duong/de-thi-ielts-22-2-2025-reading-va-writing-vi-sao-de-thi-ielts-22-2-la-3-bao-do-goi-y-dia-diem-thue-p-9063.html
+
+
 **READING PASSAGE 2** *wrong 2* 
 You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 on pages 7 and 8.
 

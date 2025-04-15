@@ -86,6 +86,6 @@ In the last paragraph, what does the writer say about scientists?
 A sociological view of science argues that ~~A~~ *-> G*
 The writer suggests that an opponent of fluoridation may conclude that -> ~~E~~ -> *C*
 
+[[IELST test real 2025]]
 
 
-[[IELST test real]]
