@@ -9,15 +9,12 @@ You should spend about 20 minutes on Questions 14-26, which are based on Reading
 A near-perfect frozen mammoth offers clues to a great vanished species
 
 **A**
-
 On a May morning in 2007, on the Yamal Peninsula in northwestern Siberia, a Nenets reindeer herder named Yuri Khudi stood on a sandbar on the Yuribey River, looking carefully at a diminutive corpse. Although he'd never seen such an animal before, Khudi had seen many mammoth tusks, the thick corkscrew shafts that his people found each summer, and this persuaded him the corpse was a baby mammoth. It was eerily well preserved. Apart from its missing hair and toenails, it was perfectly intact. Khudi **realised the find might be significant and he knew he couldn't just return home** and forget all about it. He therefore decided to travel to the small town of Yar Sale to consult an old friend named Kirill Serotetto. His friend took him to meet the director of the local museum, who persuaded the local authorities to fly Khudi and Serotetto back to the Yuribey River to collect the baby mammoth.
 
 **B**
-
 Mammoths became extinct between 14,000 and 10,000 years ago and since the extinctions coincided with the end of the most recent Ice Age, many researchers believe that the primary cause of the great die-off was the sharp rise in temperature, which dramatically altered the vegetation. _'We have strong evidence that the temperature rise played a significant part in their extinction,'_ says **Adrian Lister**, a palaeontologist and mammoth expert at London's Natural History Museum. _'In Eurasia, the timing of the two events matches closely.'_ The extinctions also coincided, however, with the arrival of modern humans. In addition to exploiting mammoths for food, they used their bones and tusks to make weapons, tools, and even dwellings. **Some scientists believe humans were as much to blame as the temperature rise for the great die-off.** Some say they caused it.
 
 **C**
-
 The body of the baby mammoth was eventually sent to the St Petersburg Zoological Museum in Russia. Alexei Tikhonov, the museum's director, was one of the first scientists to view the baby, a female. According to **Tikhonov**, **Khudi** had rescued _"the best preserved mammoth to come down to us from the Ice Age"_, and he gratefully **named her Lyuba,** after Khudi's wife. Tikhonov knew that no one would be more excited by the find than Dan Fisher, an American colleague at the University of Michigan who had spent 30 years researching the lives of mammoths. Tikhonov invited Fisher, along with Bernard Buigues, a French mammoth hunter, to come and view the baby mammoth. **CFisher and Buigues had examined other specimens together, including infants, but these had been in a relatively poor state.**
 
 Lyuba was another story entirely. Other than the missing hair and toenails, the only flaw in her pristine appearance was a curious dent above the trunk.

@@ -39,8 +39,6 @@ substantial - significant / considerable amount of sth (đáng kể)
  *Lesson learned: pay close attention to similar ideas, and words that differentiate those ideas*
 + ? ...For example,'when a rat is kept in isolation, the animal's brain shrinks, but if we put that rat with other rats in a large cage and give them an assortment of toys, we can show, after four days, significant differences in its brain.'says Diamond. After a month in the enriched surroundings, the whole cerebral cortex has expanded, as has its blood supply. '**But even in the enriched surroundings, rats get bored unless the toys are varied. Animals are just like we are. They need stimulation**,'says **Diamond**. **A busy mental lifestyle keeps the human mind fit,** *just like human are -> both animals & humans*) says **Warner Schaie** of Penn State University. **‘People who regularly participate in challenging tasks retain their intellectual abilities better than mental couch potatoes.'** -> "*regularly participate" give "open to new way" idea.* 
 
-
-
 + $ *~~NOT GIVEN~~ -> FALSE* - Most nongovernment-owned seed banks are bigger than Seed Savers Exchange. (*as long as the context mentioned, its FALSE, not NOT GIVEN*)
 + ?  It is home to the Seed Savers Exchange, one of the largest non government-owned seed banks in the United States.
 
