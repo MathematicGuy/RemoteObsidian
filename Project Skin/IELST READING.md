@@ -90,5 +90,48 @@ The writer suggests that an opponent of fluoridation may conclude that -> ~~E~~ 
 ---
 ### January Test 2
 [16/4 Test Score](https://ieltsonlinetests.com/score/46323569?mode=practice_test&parts=full&duration=60) - 5, 4, 0 (9)
++ @ **Achivement:** *Successfully Skim Reading*, know that I must be comfortable with reading paragraph, summarize sentences, predict new words and own adequate vocabulary (vốn từ vựng đầy đủ).
 
-+ $ *FALSE -> TRUE* Brantingham and Beekman were the first researchers to investigate the relationship between health problems and flat floors.
++ $ *~~FALSE~~ -> TRUE* Brantingham and Beekman were the first researchers to investigate the relationship between health problems and flat floors.
++ ? Research into the idea that flat floors could be detrimental to our health **was pioneered back in the late 1960s in Long Beach, California. Podiatrist Charles Brantingham and physiologist Bruce Beekman** were concerned with the growing epidemic of high blood pressure, varicose veins and deep-vein thromboses and reckoned they might be linked to the uniformity of the surfaces that we tend to stand and walk on. *If a sentece doesn't specifically mentions anyone, the people after that sentence get Accuse (the one being mentions)*
+
+
++ $ *~~TRUE~~ -> FALSE* Fisher based his ideas on what he saw during an overseas trip.
++ ? *Fisher admits he got the concept from regular visits to the country.* (*"regular visits country" show he been travel overseas, not within his contry*) Here, city dwellers take daily walks along cobbled paths for five or ten minutes, perhaps several times a day, to improve their health. The idea is now taking off in Europe too. 
+
+
+What claim is made by the designers of the cobblestone mats"?
+- A  They need to be used continuously in order to have a lasting effect.
+- ~~B~~  They would be as beneficial to younger people as to older people
+- *C*  They could be an effective alternative to medical intervention.
+- D  Their effects may vary depending on individual users.
+	
++ ? ...John Fisher and colleagues at the Oregon Research Institute in Eugene **designed a mat intended to replicate the effect** of **walking on cobblestones***... (*"replicate the effect of walking on cobblestones", key word is Replicate, its show they've found another ways to treatment since walking on stone is replacing flat surface and the following sentences show its does improve mobility and reduce blood pressure, hence its a alternative treatments"*)
++ @ Focus on find synonym and analyzing sentences close to question's keyword like "cobblestone mats", "designers". 
+
+Choose **ONE WORD ONLY** from the passage for each answer.
+
+In their research, Brantingham and Beekman looked at the complex physical ~~9. problems~~ *-> 9. anatomy* of the foot and noted that the surfaces of modem environments restrict its movement. They invented a mat which they tried out on factory workers. Whenever the workers walked on it, the different levels of *10. resistance*  in the mat would encourage greater muscle action. In turn, this lessened the effect of *11. stress*  on the cardiovascular system.
+	
++ ? *9)* ...**They understood that the anatomy of the foot** paralltròn)
+
+#### Vocabs: 
++ $ ~~NOT GIVEN~~ *-> FALSE* The colours in **Margaret's Berowra prints were very bright.**
++ ? ...Prior to this, the native flowers that featured in her paintings and prints had been purchased from local florists; they now grew in abundance around her home. **Preston's prints became larger, less complex and less reliant on the use of bright colours.** *I mis-read the word "prints" and focus on the current paragraph rather than finding the true paragraph & sentence to read. Next time, drive my though by keywords & context around its*
+
++ $ ~~NOT GIVEN~~ *-> TRUE* When living in **Berowra**, Margaret **painted flowers in their natural location.**
++ ? From 1932 to 1939, **Preston moved away from Sydney and lived with her husband at Berowra**, on the upper reaches of the Hawkesbury River. The area was one of rugged natural beauty, and for the first time Preston found herself living in a home surrounded bush. **Prior to this, the native flowers that featured in her paintings** and prints had been purchased from local florists; they now grew in abundance around her home. Preston's prints became larger, less complex and less reliant on the use of bright colours. Flowers were no longer arranged in vases, and **Preston began to concentrate instead on flowers that were growing wild.** *I see Berowra in a paragraph and instantly focus my vision on without thinking other paragraph might contain this keyword & the correct information as well, this is a good trick using the keyword "Berowra" multiple times. Next time, use multiple keywords like "Berowra, flowers and natural" to identify/detect the correct paragraph that contain needed information*. 
+
+**Aboriginal influence**
++ $ Interest in Aboriginal art was **inspired by seeing rock engravings close to her Berowra home incorporated** ~~22. dried~~ *-> 22 symbols*  and **colours from Aboriginal art in her own work often referred to Aboriginal sources** in the ~~23. period~~ *-> 23 titles*  she gave her artworks. 
++ ? During the 1940s, **symbols used by Aboriginal people, together with dried, burnt colours** (*"symbols" Together with "dried, burned colors" mentioned, How can I missed this. Read the whole sentence next time, don't just focus on a short phrase*) found in traditional Aboriginal paintings, became increasingly prominent in her prints. **The artist's titles from this period frequently acknowledge her sources**, and **reveal the extent to which she drew inspiration from traditional Aboriginal art to create her own art.**  (*"artist's title" mean the "name" that the artist gave to her artworks* -> *thus the whole sentence mean the name of the art work from this period often acknowledge her sources, and we know her source is "Aboriginal art"*)
+
+```ad-seealso
+If she created a print influenced by Aboriginal rock art, she might have titled it:	
+- **“Rock Engraving Dreaming”**
+    
+- **“Aboriginal Symbols”**
+    
+- **“Berowra Totem”**
+```
+
