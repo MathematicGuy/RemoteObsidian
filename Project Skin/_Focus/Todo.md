@@ -20,6 +20,7 @@ banner: Images/Pasted image 20240402135259.png
 
 #Todo/[[GoalsThisMonth]]
 - [ ] 8h-10h study AIO
+- [ ] Note [Phỏng vấn AI](https://itviec.com/blog/cau-hoi-phong-van-ai-engineer/?utm_medium=multiple_images_post&utm_source=facebook&utm_campaign=interview_questions_blog&utm_content=130425_3pm&fbclid=IwY2xjawJqqxhleHRuA2FlbQIxMAABHiOm4p8yTV_75GpJLL54me1QvBTYTJIw8AUmavUYEiqojzFEzNOeyZfU3Ebo_aem_uj2nufodClJRhwqw7efLyg)
 
 #MyRuleThat_I_SwearToLiveBy
 - [ ] No LoL after 16:00 (4PM)

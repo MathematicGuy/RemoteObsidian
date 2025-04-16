@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "c1f2b34a29875f7c",
+            "id": "6b7d7291e8c544c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,16 +94,6 @@
             }
           },
           {
-            "id": "d0e176e576fc0780",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "13b4c1158c353740",
             "type": "leaf",
             "state": {
@@ -114,9 +104,19 @@
               "icon": "lucide-file",
               "title": "IELST"
             }
+          },
+          {
+            "id": "34b6c7ee3d3d27ea",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -254,12 +254,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1f2b34a29875f7c",
+  "active": "6b7d7291e8c544c4",
   "lastOpenFiles": [
-    "IELST test real 2025.md",
-    "IELST READING.md",
-    "Untitled.md",
     "_Focus/Todo.md",
+    "IELST READING.md",
+    "IELST test real 2025.md",
+    "Untitled.md",
     "IELST/NOTE IELST .md",
     "IELST Writing.md",
     "IELST/SPEAKING IELST .md",

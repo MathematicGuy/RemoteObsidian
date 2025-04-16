@@ -1,6 +1,6 @@
 ## IELST MOCK TEST 2024 
 ### January Test 4
-[15/4 Score](https://ieltsonlinetests.com/score/46261573?mode=practice_test&parts=full&duration=60) - 6 1 3 (10)
+[14/4 Score](https://ieltsonlinetests.com/score/46261573?mode=practice_test&parts=full&duration=60) - 6 1 3 (10)
 
 **Achievements** (thành tích) - refers to the outcomes they attain through their efforts. If the learner improve, their achievement improve. (thành tích là học giỏi hơn)
 
@@ -28,8 +28,9 @@ Much of the discussion about implementing e-learning has focused on the technolo
 Choose **ONE WORD ONLY** from the passage for each answer.
 Recent research has suggested that teaching synaesthesia to non-synaesthetes can enhance *~~cognition~~ -> memory (bc the follow-up ideas mention the improvement for cognitive already)* and guard against the *deterioration (already mean decline)* of cognitive *~~decline~~ -> function*  unfortunately, it might be a while before we come up with a beneficial way to *teach* it to the general population.
 
+---
 ### January Test 1
-[Test Score](https://ieltsonlinetests.com/score/46293883?mode=practice_test&parts=full&duration=60) - 3 3 7 (13)
+[15/4 Test Score](https://ieltsonlinetests.com/score/46293883?mode=practice_test&parts=full&duration=60) - 3 3 7 (13)
 
 infringement - violation (sự vi phạm) 
 adequately - đủ (enough in a manor way)
@@ -86,4 +87,8 @@ The writer suggests that an opponent of fluoridation may conclude that -> ~~E~~ 
 
 [[IELST test real 2025]]
 
+---
+### January Test 2
+[16/4 Test Score](https://ieltsonlinetests.com/score/46323569?mode=practice_test&parts=full&duration=60) - 5, 4, 0 (9)
 
++ $ *FALSE -> TRUE* Brantingham and Beekman were the first researchers to investigate the relationship between health problems and flat floors.
