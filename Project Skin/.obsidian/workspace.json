@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "e95572d1008e214c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             }
           },
           {
-            "id": "16322389a6bf51dd",
+            "id": "185067d5606f9401",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -238,7 +249,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e95572d1008e214c",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
