@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d1f541fc411d17e4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "1cb84531be47a347",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "e95572d1008e214c",
+            "id": "7cc00deea0ee7f99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IELST READING.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IELST READING"
             }
           }
         ],
@@ -249,7 +254,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e95572d1008e214c",
+  "active": "7cc00deea0ee7f99",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",

@@ -265,8 +265,40 @@ zu fuß - by foot
 	Möchtest du zu fuß zum Hotel gehen - would you like to go to the hotel by foot
 
 bis morgen - see you tomorrow
+Zu viel - too much
 
+Nussallergy - nut allergy
++ Nuss nut
++ allergy 
 
+Reisen traveling 
+Dort there
+	Du reist nach Ho Chi Minh, was machst du dort ?  - you are traveling to HCM, what are you doing there ?
+
+Socken sock 
+Der apfelkuchen ist zu suß für ihn - the apple cake ist too sweet for him
+Bekomme/Bekommt/Bekommst get 
+Frisch fresh
+
+Nichts schmeckt zurzeit gut - nothing taste good recently  
+Zurzeit currently
+Nichts nothing 
+Liebling essen - favourite food 
+Scharf spicy 
+Obst fruit
+Ich liebe dich nitch - I don't love you
+Voll full
+	The koffer sind voll - the suitcase is full
+
+isst (3rd person) vs essen (1st person)
++ Use **Isst** when **someone else (other than you) eating something**.
++ Use **Esse** when you describe **yourself eating something.**
+
+Waschen - wash 
+Ein flasche
+Zwei flaschen 
+Der Fisch trinkt zwei flaschen wasser pro tag - the fish drink 2 bottle of water every day 
+Gemüse - vegetable
 ## Unit 9: Use the accusative case
 + $ 
 + ? 

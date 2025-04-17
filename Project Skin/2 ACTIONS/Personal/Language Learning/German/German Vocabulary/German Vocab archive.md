@@ -167,7 +167,8 @@ kase cheese
 heiB hot (hot)
 lecker delicious
 
-ei the egg
+Ei the egg
+Eier (many) eggs
 ein mineralwasser mineral water
 
 Hier here
@@ -2543,6 +2544,7 @@ bekommt - gets
 Weniger - less
 Kekse - cookie/cake
 	Das Kinder isst nur Kekse
+	Das kekse sind lecker, aber nicht gesund - Those cookie are delicious, but not healthy  
 grün green
 Flaschen - bottle of water
 
