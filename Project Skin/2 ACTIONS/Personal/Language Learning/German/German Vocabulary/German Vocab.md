@@ -105,9 +105,8 @@ note:
 	+ Ich hab' nur Augen für dich  - I only have eyes for you
 
 ## Unit 2: Shop at a market
-+ $ 
-+ ? 
-
++ $ In german there is **no "s" for plural**, so **Two Euros in English are just "Two Euro"** in German.
++ ? Fünf Kartoffeln kostet sechsunddreißig Euro.
 
 ## Unit 3: Describe the weather 
 + $ 
@@ -260,6 +259,12 @@ Hast du schon was *vor* ? - Do you have a plan yet ?
 Feiertag - holiday 
 	Heute ist ein Feierstag 
 
+Warten Sie - Wait (you) 
+
+zu fuß - by foot
+	Möchtest du zu fuß zum Hotel gehen - would you like to go to the hotel by foot
+
+bis morgen - see you tomorrow
 
 
 ## Unit 9: Use the accusative case

@@ -1,6 +1,7 @@
 ## IELST MOCK TEST 2024 
 ### January Test 4
-[14/4 Score](https://ieltsonlinetests.com/score/46261573?mode=practice_test&parts=full&duration=60) - 6 1 3 (10)
+[14/4 Score](https://ieltsonlinetests.com/score/46261573?mode=practice_test&parts=full&duration=60) - 6 1 3 (10) 
+![[Pasted image 20250416210141.png]]
 
 **Achievements** (thành tích) - refers to the outcomes they attain through their efforts. If the learner improve, their achievement improve. (thành tích là học giỏi hơn)
 
@@ -30,7 +31,8 @@ Recent research has suggested that teaching synaesthesia to non-synaesthetes can
 
 ---
 ### January Test 1
-[15/4 Test Score](https://ieltsonlinetests.com/score/46293883?mode=practice_test&parts=full&duration=60) - 3 3 7 (13)
+[15/4 Test Score](https://ieltsonlinetests.com/score/46293883?mode=practice_test&parts=full&duration=60) - 3 3 7 (13) - 27/40 - 6.5
+![[Pasted image 20250416210157.png]]
 
 infringement - violation (sự vi phạm) 
 adequately - đủ (enough in a manor way)
@@ -89,7 +91,9 @@ The writer suggests that an opponent of fluoridation may conclude that -> ~~E~~ 
 
 ---
 ### January Test 2
-[16/4 Test Score](https://ieltsonlinetests.com/score/46323569?mode=practice_test&parts=full&duration=60) - 5, 4, 0 (9)
+[16/4 Test Score](https://ieltsonlinetests.com/score/46323569?mode=practice_test&parts=full&duration=60) - 5, 4, 0 (9) - 31/40 - 7.0
+![[Pasted image 20250416210225.png]]
+
 + @ **Achivement:** *Successfully Skim Reading*, know that I must be comfortable with reading paragraph, summarize sentences, predict new words and own adequate vocabulary (vốn từ vựng đầy đủ).
 
 + $ *~~FALSE~~ -> TRUE* Brantingham and Beekman were the first researchers to investigate the relationship between health problems and flat floors.
@@ -134,4 +138,5 @@ If she created a print influenced by Aboriginal rock art, she might have titled 
     
 - **“Berowra Totem”**
 ```
+
 
