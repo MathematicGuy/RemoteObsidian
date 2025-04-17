@@ -140,4 +140,33 @@ If she created a print influenced by Aboriginal rock art, she might have titled 
 ```
 
 ---
+### Rare word in IELST
+Abrogate (bãi bỏ) - to remove a law/right or formal agreement
 
+Artless - without deceit, natural & simple 
+
+Asperity (nghiêm khắc / khắc nghiệt) - hardness of manner-behavior or of temper
+
+Rudimentary (thô sơ) - often refer as undevelop, basic or elementary form of development
+
+Extruder - (a reverse drill that pull material backward from top to bottom rather than outside) 
+
+quantum leap - a significant change, can be use to describe a big sudden change 
+	"it takes a quantum leap of imagination to accept..."
+
+cumbersome (cồng kềnh) - sth that is large & heavy and hard to use 
+	The software update is rather cumbersome than optimize the system
+
+innumerable - too much/many to count
+
+siesta - a afternoon rest or nap (in hot climate)
+
+sleep dept - the cumulative effect of not getting enough sleep 
+	average Vietnamese collet an anual sleep dept of 300 hours
+
+Resurgence - describe a high rise after a long period of low activity (like a revival of business or discord server in the summer)
+
+Quintessential (tinh túy) - most important part of something, like representing the most perfect or typical example of a quality or class. 
+	The shrimp's head is its quintessential features - cái đầu là phần tinh túy nhất của con tôm (every Asian mother) 
+
+Prohibition - action of forbidding sth by law (cấm)
