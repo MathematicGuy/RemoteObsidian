@@ -119,7 +119,6 @@ In their research, Brantingham and Beekman looked at the complex physical ~~9. p
 	
 + ? *9)* ...**They understood that the anatomy of the foot** paralltròn)
 
-#### Vocabs: 
 + $ ~~NOT GIVEN~~ *-> FALSE* The colours in **Margaret's Berowra prints were very bright.**
 + ? ...Prior to this, the native flowers that featured in her paintings and prints had been purchased from local florists; they now grew in abundance around her home. **Preston's prints became larger, less complex and less reliant on the use of bright colours.** *I mis-read the word "prints" and focus on the current paragraph rather than finding the true paragraph & sentence to read. Next time, drive my though by keywords & context around its*
 
@@ -138,6 +137,91 @@ If she created a print influenced by Aboriginal rock art, she might have titled 
     
 - **“Berowra Totem”**
 ```
+
+#### Vocabs: 
+chronic illnesses and disabilities: bệnh mãn tính và tàn tật
+
+pioneered - the one that push the boundary of a field (tiên phong)
+
+city dweller - người sống trong thành phố, dân phố
+
+crack - vỡ, nứt
+
+pavement - path next to a road, sidewalk   
+
+commercial market - market with commercial activity 
+
+detrimental (có hại) - sth have tendency to cause harm 
+	saying racial slurs could be detrimental if you're famous
+
+reckoned (dự tính) - count or estimate, to make calculation, consider or think of as 
+	in high school hes always reckoned among the smartest; I reckon she finished by two-thirdty
+
+uniformity - quality or state of being uniform (consistency, steadily, homogenity) 
+	These songs have exactly the same rythm, they're uniformity
+
+epidemic - a wirespreed of an infectious dieses in a particular time. Basically a disease outbreak that is rapidly spreading in a limited region.  
+	covid epidemic was disasterous
+epidemic is an dieses outbreak in a region
+pandemic is an dieses outbreak in multiple region
+
+conducive (thuận lợi) - providing the right condition for sth good to happen or exist.
+	The night fall silently was conducive to a good night's sleep. 
+ 
+orientations (định hướng) - state of oriented desribe the relative position of sth (trend for example)
+	What is the ball orientation at x and y.
+
+tendons - tissue that connect muscle to bones (gân)
+
+ligaments - tissue connect bones to other bones. (dây chằng)
+
+irregularity - unnatural in shape and form (describe sth that not expected to usual rules)
+
+soles - bottom of the feets (lòng bàn chân)
+	The indian walked using only the soles of their feets; a bullet hit the soles of his feet.  
+
+wobbling - walking/moving unbalancely, unsteadily  
+	The baby wobbling to the kitchen 
+
+the flooring  - physical location where trading activity occurs like "trading floor"
+
+relentlessly - non-stop (doing sth extreme continuously without stopping)
+
+revived - make something back alive, back in active 
+
+toots - chân trần
+	walk on the toots of their bare feet 
+
+mats (thảm) - surface of material 
+ 
+scaled up - increse in size, amount or production of something. Made sth bigger in scope.  
+
+nonpharmacological - healthy approaches that don't rely on medication
+
+hypertension (tăng huyết áp) -  high blood pressure 
+	my grandmother got hypertension 
+
+Reflexologists - practioner of reflexology
+
+advocated - publicly support / suggest an ideas
+
+soles of the feet - lòng bàn chân - bottom surface of the feet
+
+acupoints (huyệt đạo, điểm huyệt) acupuncture points 
+
+moss (rêu)
+
+appeal
+	v (kêu gọi, kháng cáo): to address an issue, formal legal decision to be change. (appeal to the higher court)  
+	n: attractive
+
+detrimental - deadly/significant negative effect  
+
+dwindling - gradually dimishing (suy giảm dần)
+	Hololive stock is dwindling by month 
+
+amenity: phương pháp trị liệu 
+hubris - high ego, exessive pride 
 
 ---
 ### Rare word in IELST
@@ -170,3 +254,9 @@ Quintessential (tinh túy) - most important part of something, like representing
 	The shrimp's head is its quintessential features - cái đầu là phần tinh túy nhất của con tôm (every Asian mother) 
 
 Prohibition - action of forbidding sth by law (cấm)
+
+---
+### July Test 4
+[17/4 Test Score](https://ieltsonlinetests.com/score/46349616?mode=practice_test&parts=full&duration=60) -  35/40 - 8.0
+
+
