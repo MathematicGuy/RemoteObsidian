@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "7cc00deea0ee7f99",
+            "id": "06b32c6d880e2417",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,21 +37,6 @@
               },
               "icon": "lucide-file",
               "title": "IELST READING"
-            }
-          },
-          {
-            "id": "9ff102f9b754b3fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELST Writing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "IELST Writing"
             }
           }
         ],
@@ -126,8 +111,8 @@
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -269,12 +254,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7cc00deea0ee7f99",
+  "active": "06b32c6d880e2417",
   "lastOpenFiles": [
-    "Spaces/#habit",
     "_Focus/Todo.md",
     "IELST Writing.md",
     "IELST READING.md",
+    "Images/Pasted image 20250418155512.png",
+    "Images/Pasted image 20250418154838.png",
+    "Spaces/#habit",
     "IELST/NOTE IELST .md",
     "IELST/IELST.md",
     "Images/Pasted image 20250417154921.png",
@@ -309,15 +296,12 @@
     "Images/Pasted image 20240829200722.png",
     "Images/Pasted image 20240824225439.png",
     "Images/Pasted image 20240824225536.png",
-    "Images/Pasted image 20240824225753.png",
-    "Images/Pasted image 20240825000528.png",
     "IELST",
     "1 PROJECTS/UI_UX",
     "Images",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "4 ARCHIVES/2024",
-    "4 ARCHIVES/2024/CMC Spring 2024",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "_Focus/This is my Life.canvas",

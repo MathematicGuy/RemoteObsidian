@@ -264,4 +264,39 @@ Prohibition - action of forbidding sth by law (cấm)
 
 ---
 
-https://ieltsonlinetests.com/score/46381376?mode=simulation_test
+## Test 2023 January
+### January Test 1 
+[18/4 Test Score](https://ieltsonlinetests.com/score/46381376?mode=simulation_test) - 31/40 - 7.0
+![[Pasted image 20250418154838.png]]
+
+
++ $ **Origins:** Word ‘Viking’ is ~~Norsemen~~ *-> obscure* (ko rõ ràng/1 thứ gì đó ko chắn chắn) 
++ ? In English, **Vikings are also known as Norse or Norsemen. Their language greatly inﬂuenced English, with the nouns, ‘Hell’, ‘husband’, ‘law’, and ‘window’, and the verbs, ‘blunder’, ‘snub’, ‘take’, and ‘want’, all coming from Old Norse. However, the origins of the word ‘Viking’, itself, are obscure**: it may mean ‘a Scandinavian pirate’. *If sth have many name & form, rather than force a name to it, I can use a word that describe those names like obscure*
+
++ $ Vikings had assimilated into 4  ~~Christians~~ *-> local population* & adopted a new 5 *religious*  system.
++ ? The issue of control and extent is complex because **many Vikings did not return to Scandinavia after raiding but assimilated into local populations, often becoming Christian** (*notice the phrase "often becoming Christian", nextime always check the context twice before approve a answer*). To some degree, the Viking Age is defined by religion. Initially, Vikings were polytheists, believing in many gods, **but by the end of the age, they had permanently accepted a new monotheistic religious system** – Christianity.
+
+
+
+~~A~~ *-> D* philosopher classifies cultures hierarchically.
+
+~~D~~ *-> A* Young people learn about Viking cultural and economic activities.
+
+
+**Which might be a suitable title for passage?**
++ ~~A  A brief history of Vikings~~ (definitly wrong)
++ ~~B  Recent Viking discoveries~~ (definitly wrong)
+- C  A modem fascination with Vikings (why not this)
+- *D*  *Interpretations of Viking history* (I correct ???)
+- ~~E  Viking history and nationalism~~ (definitly wrong)
+
+
+
+
++ $ The Earth could become uninhabitable, like other planets, through a major change in the ~~21 atmosphere~~ -> *21. temperature*. Volcanic eruptions of ~~22. Yellowstone~~ *-> 22. (molten) rock/ash*  can lead to shortages of ~~23. food production~~ *-> food* (*"food production" refers to the process or systems of producing food, you don't have a "shortage" of a "process", but of the end result "food"*) in a wide area. An asteroid hitting the Earth could create a *24. tidal wave* that would result in a new *25. ice age* Plans are being made to use *26. rockets*  to deflect asteroids heading for the Earth. 
+
++ ? *21)* ...**Other planets in the solar system are quite beyond habitation, because their temperature is far too high or too low to be endured**, and ours, too, in principle could tip either way....  *always find a specific answer, "atmosphere" although lead to the main cause but it not the main cause. Be specific*
+
++ ? *22)* **...The core of the Earth is hot... molten rock bursts through volcanoes on the surface... Tambora expelled so much ash into the upper atmosphere that climatic effects seriously harmed food production...**  *the sentence is talking about the thing being erupted that is "molten rock/ash" not the vocalno itself. The reason is Context Misunderstanding, make sure to re-read & check if the context is reasonaly with this/that answer, I ask my self "what erupts from vocalno and causes disruption of food (not the vocalno itself)* - *Also Yellowstone get mentioned later in Paragraph D, not the subject of this specific sentence.*
+
+
