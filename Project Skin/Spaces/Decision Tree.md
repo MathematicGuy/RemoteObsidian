@@ -1,3 +1,4 @@
+
 ## Example
 ![[Pasted image 20240612172033.png]]
 + Choose a attribute to be the top, Other attributes are split out into branch
@@ -69,7 +70,7 @@ Greedy approach (use when data are more bias to 1 side)
 	+ n = total number of records
 
 ### Gain Ratio: **:** This is the Information Gain normalized by the Split Information:
-	![[Pasted image 20240612180234.png]]
+![[Pasted image 20240612180234.png]]
 
 ```ad-summary
 **Key Points**
@@ -77,7 +78,8 @@ Greedy approach (use when data are more bias to 1 side)
 - Gain Ratio helps prevent overfitting by penalizing overly complex splits.
 - It's a good choice when dealing with attributes that have a large number of values.
 - The best attribute for splitting is the one with the highest Gain Ratio.
-```
+
+
 + ? So is Decision Tree Based Classification good?
 ![[Pasted image 20240612180824.png]]
 
@@ -94,5 +96,3 @@ Greedy approach (use when data are more bias to 1 side)
 + Entropy(Risk) = - (5/8) * log2(5/8) - (3/8) * log2(3/8) ≈ 0.954
 
 **2. Calculate Information Gain for Each Attribute:**
-
-

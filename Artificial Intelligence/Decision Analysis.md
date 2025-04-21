@@ -1,5 +1,6 @@
 [[Decision Tree Archive]]
 [[Regression Trees and Regression Tree Prunning]]
+[[Decision Tree DIY]]
 Gradient Boosting Machine: cây sau đc xây (cải thiện) dựa vào cây tr'c.   
 
 ---

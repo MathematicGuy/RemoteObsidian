@@ -299,6 +299,11 @@ Ein flasche
 Zwei flaschen 
 Der Fisch trinkt zwei flaschen wasser pro tag - the fish drink 2 bottle of water every day 
 Gemüse - vegetable
+
+Teller plate 
+Ehefrau wife
+	Meine Ehefrau braucht neunundzwanzig Teller 
+
 ## Unit 9: Use the accusative case
 + $ 
 + ? 

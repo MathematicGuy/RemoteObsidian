@@ -77,13 +77,13 @@
             }
           },
           {
-            "id": "becb41e12fbf126d",
+            "id": "a0a4951d20a12342",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -209,8 +209,14 @@
   },
   "active": "c5d723284607b30a",
   "lastOpenFiles": [
-    "AI Engineer/AI Engineer Road Map.md",
     "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20250420191911.png",
+    "Decision Tree DIY.md",
+    "image/Pasted image 20250420191858.png",
+    "image/Pasted image 20250420191836.png",
+    "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
+    "Decision Analysis.md",
+    "AI Engineer/AI Engineer Road Map.md",
     "AI Engineer/AI Engineer.md",
     "Python OOP.md",
     "AI Engineer",
@@ -240,15 +246,8 @@
     "image/Pasted image 20250405165240.png",
     "image/Pasted image 20250405165158.png",
     "image/Pasted image 20250405165151.png",
-    "image/Pasted image 20250405165143.png",
-    "image/Pasted image 20250405164918.png",
-    "image/Pasted image 20250405164902.png",
     "Compare ML Model.md",
     "Human Activity Recognition.md",
-    "Example Prompts.md",
-    "Example Code.md",
-    "3rd Years 1st Term Final Project.md",
-    "Violent Behaviour Detection Outline.md",
     "image/Pasted image 20250302182359.png.~tmp",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",

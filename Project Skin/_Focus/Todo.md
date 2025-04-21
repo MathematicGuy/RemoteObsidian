@@ -8,13 +8,12 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/Priority  
 - [x] Re-format Deutsch learning process
 - [x] Plan for my IELST revision
-- [ ] List out movie to watch and translate while learning IELST
 - [ ] Plan out learning time-frame
 - [ ] Organize and Map out [[AI Engineering Job]] and RoadMap   
 
 
 #Todo/[[GoalsThisWeek]]
-- [ ] Find Decision Tree Paper to follow-allong for my AIO
+- [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
 - [ ] Refine paper and Re-train my Action Detection Model then apply Yolo for multiple-person action detection.  
 - [ ] Survey MC-OCR project to understand how their system work, Outline the system in abstract flow-chart.
 
