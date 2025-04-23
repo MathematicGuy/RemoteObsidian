@@ -2389,7 +2389,7 @@ Persönlichkeit - personality
 Gute Besserung - feel better
 ### Die Elefanten
 Elefant elephant
-Laufen run
+Laufen run/ice skate
 	 Wir können läufen 
 	Warum läufen wir ? - Why are we running ?
 Warte wait

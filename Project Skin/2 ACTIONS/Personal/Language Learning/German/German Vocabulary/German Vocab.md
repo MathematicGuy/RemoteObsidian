@@ -305,5 +305,21 @@ Ehefrau wife
 	Meine Ehefrau braucht neunundzwanzig Teller 
 
 ## Unit 9: Use the accusative case
-+ $ 
-+ ? 
++ $ Like some words before nouns change their endings in German like "einen Garten, eine Grau". **Group of masculine nouns that end with** **-e** such as *"der Junge or der Name"* **add an -n to the end when in Accusative**.
++ ? (3rd Person) *Der Name ist gut -> Kennst du seinen Namen ?* (Do you know his name ?)  
++ ? Die Wonungen sind neu und teuer - the apartment are new and expensive. 
+
+Stadtviertel - neightborhood 
+	Stadt city
+	Viertel quarter
++ $ Die Stadtvertel (Plural), das Stadtvertel (Singular)
++ Examples:
+	Es gibt drei Park in die Stadtviertel 
+	Kennest du dieses Stadvertel - do you know this neighborhood 
+
+
+
+
+Kennen know
+
+
