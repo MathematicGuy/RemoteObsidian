@@ -1,3 +1,5 @@
++ @ **Key Word:** layoutlm, graph rag, [NER label variation](https://arxiv.org/pdf/2312.15751), SciREX,  scientific information extraction, 
+
 
 ```ad-abstract
 RAG: improve LLM text generation capability by combining its current with external knowledge.
