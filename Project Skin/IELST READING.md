@@ -331,10 +331,18 @@ Prohibition - action of forbidding sth by law (cấm)
 
 
 **An example of how one parrot species may survive at the expense of another** ~~15 F~~ *15 I*
-+ ? 
++ $ Rephrase: which passage show one species survice at the cost of another. 
++ ? New conditions also sometimes **favour an incoming species over one that originally inhabited the area** *telling new species comming*. For example, after farmers cleared large areas of forest on Kangaroo Island off the coast of South Australia, the island was **colonised by galahs** *a parrot species mentioned earlier*. They were soon **going down holes and destroying black cockatoo eggs in order to take the hole for their own use**. **Their success precipitated a partial collapse in the black cockatoo population** *the new species destroy & steal old species habitat* when the later lost the struggle for scarce nesting hollows. *This is incorrect because I misunderstand "expense" mean 2 species need each other to survive, but truth meaning is "at the cost of". The whole passage mean which passage describe "for 1 species to survice, another species must dies"*
 
 **A description of how plants may adapt to attract birds** ~~16 D~~ *16 F* 
-+ ? 
++ ? ...Like all of Australia's many honey eating birds, the rainbow-coloured lorikeets and the flowers on which they feed have long co­evolved **with features such as the shape and colour of the flowers adapted to the bird's particular needs**, and physical a example, red is the... *Again prioritize "keyword and evidence" than my own deduce*
 
-34, 35 C, D -> B, D
-39 delication 
+
+Which **TWO** of the following statements does the writer make about legal skills in today's world?
+![[Pasted image 20250424141437.png]]
+~~34-35  C-D~~ *-> 34-35 B-D* 
++ ? This, of course, **puts law in a very significant position**. In our rapidly developing world, **all sorts of skills and knowledge are valuable**. Those people, for example, with knowledge of computers, the internet, and communications technology are relied upon by the rest of us. There is now someone with **IT skills or an IT help desk in every UK school, every company**, every hospital, every local and central government office. **Without their knowledge, many parts of commercial and social life today would seize up in minutes.** **But legal understanding is just as vital and as universally needed.** *The passage talking about skills that are important to society such as IT skills, IT help desk, but legal understanding is essential in all life aspect* 
+
++ $ However, criticising lawyers because their work is concerned with people's problems would be similar to attacking IT staff or 38  for the same reason. In fact, many lawyers focus on questions relating, **for example, to housing or civil liberties, which requires them to have** ~~39. professional~~ *-> 39. dedication* **to their work.**
++ ? ...Such work is not lavishly remunerated, and the **quality of service provided by these lawyers relies on considerable professional dedication**... *"professional" is a adjective supporting the noun "dedication", if it just professional then its okay, I completely ignore that professional is just a support adjective in this context*
+
