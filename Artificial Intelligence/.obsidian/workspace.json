@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d06300d91e6cc51",
+        "id": "dc7dc1b9f55caa53",
         "type": "tabs",
         "children": [
           {
-            "id": "c5d723284607b30a",
+            "id": "c0fa06e48482658a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,33 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "776b1a8214a807dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invoice_OCR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Invoice_OCR"
-            }
-          },
-          {
-            "id": "b30f4f7bd467405c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             }
           },
           {
-            "id": "245fd810d1ae96bd",
+            "id": "277aa4874418953e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -232,19 +207,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b30f4f7bd467405c",
+  "active": "c0fa06e48482658a",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
-    "Invoice_OCR.md",
+    "Gini Impurity.md",
+    "Shannon Entropy.md",
+    "image/Pasted image 20250324134721.png",
+    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
+    "Model in RAG (NLP and DL).md",
     "RAG Summarize.md",
+    "image/Pasted image 20250423194831.png",
+    "image/Pasted image 20250423153731.png",
+    "Decision Analysis.md",
+    "image/Pasted image 20250302163744.png",
+    "Decision Tree DIY.md",
+    "Regression Trees and Regression Tree Prunning.md",
+    "Decision Tree Archive.md",
+    "Invoice_OCR.md",
     "image/493139748_122150552126512279_4999582009770747605_n.jpg",
     "ID Card OCR.md",
     "image/Pasted image 20250420191911.png",
-    "Decision Tree DIY.md",
     "image/Pasted image 20250420191858.png",
     "image/Pasted image 20250420191836.png",
     "1 PROJECTS/CMC 2025/Big Data Analysis/CMC Big Data Analysis.md",
-    "Decision Analysis.md",
     "AI Engineer/AI Engineer Road Map.md",
     "AI Engineer/AI Engineer.md",
     "Python OOP.md",
@@ -260,20 +245,9 @@
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "image/images 2.jpg",
-    "Model in RAG (NLP and DL).md",
-    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
     "BERT.md",
-    "SBERT.md",
-    "Sentence Transformer Evolution.md",
-    "Computer Vision.md",
-    "CV_Final_results.md",
     "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
-    "OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
     "image/Pasted image 20250406204842.png",
-    "image/Pasted image 20250406204840.png",
-    "image/Pasted image 20250406204839.png",
-    "image/Pasted image 20250405165240.png",
-    "image/Pasted image 20250405165158.png",
     "image/Pasted image 20250302182359.png.~tmp",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",

@@ -299,4 +299,8 @@ Prohibition - action of forbidding sth by law (cấm)
 
 + ? *22)* **...The core of the Earth is hot... molten rock bursts through volcanoes on the surface... Tambora expelled so much ash into the upper atmosphere that climatic effects seriously harmed food production...**  *the sentence is talking about the thing being erupted that is "molten rock/ash" not the vocalno itself. The reason is Context Misunderstanding, make sure to re-read & check if the context is reasonaly with this/that answer, I ask my self "what erupts from vocalno and causes disruption of food (not the vocalno itself)* - *Also Yellowstone get mentioned later in Paragraph D, not the subject of this specific sentence.*
 
+### January Test 3
+[18/4 Test Score](https://ieltsonlinetests.com/score/46523732?passage=2) - 4 2 2 - 31/40 - 7.0
+![[Pasted image 20250423133438.png]]
 
+Check Later

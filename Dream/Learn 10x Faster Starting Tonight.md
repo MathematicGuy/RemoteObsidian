@@ -1,4 +1,4 @@
-- [ ] ![[Pasted image 20250404175615.png]]
+![[Pasted image 20250404175615.png]]
 This include 5 Major Methods
 
 # SHORT-TERM MEMORY
@@ -40,11 +40,9 @@ How and when to review ? How to Retain it.
 + $ **Multiple-Choice Quiz**  
 + $ **Space Repetition**, This method aim to remembering right when the forgeting curve begin. 
 	1st review within 1 hours of learning.
-	2nd review is a day later.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+	2nd review is a day later
 	3rd review is gonna be 3 days after the 2nd,
 	4th review gonna be a week later
 	5th review 2 week later. and so on and so on. 
 	**With each review the forgeting curve get flatten**. Your knowledge retain longer and need to revised even fewer. **Effective but Tough to apply**
 
-
- 

@@ -38,9 +38,24 @@
               "icon": "lucide-file",
               "title": "Learn 10x Faster Starting Tonight"
             }
+          },
+          {
+            "id": "c988663abd090681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Prioritize your Task like a PRO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Prioritize your Task like a PRO"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,11 +216,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f5a5dcc09cff2e2d",
+  "active": "c988663abd090681",
   "lastOpenFiles": [
+    "image/10bb9d1f378d5cf64d2f22a7657c6ef5-1.jpg",
+    "How to Prioritize your Task like a PRO.md",
+    "Learn 10x Faster Starting Tonight.md",
     "3 RESOURCES/_How To/_How To Study/_How To Study.md",
     "_Focus.md",
-    "Learn 10x Faster Starting Tonight.md",
     "image/Pasted image 20250404175615.png",
     "Daily Note.md",
     "2 ACTIONS/_My Life/_My Life.md",
@@ -229,7 +246,6 @@
     "48 Laws of Power.md",
     "Escapsing Reality & Addiction.md",
     "If you're in your 20's watch this..md",
-    "How to Study.md",
     "image/Pasted image 20241112093724.png",
     "image/Pasted image 20241112093621.png",
     "image/Pasted image 20241112093034.png",

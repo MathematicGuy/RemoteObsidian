@@ -23,10 +23,13 @@ Decision Tree **predict numerical value** -> Regression Tree
 
 
 ### Decision Tree Example
-How to quantify the impurity -> Gini Impurity (Linear)/Entropy/Information Gain
+How to quantify the impurity ->[[Gini Impurity]] (Linear)/Entropy/Information Gain
 **Gini Impurity** (điểm không thuần khiết/tạp chất gini) - **Purity:** thuần khiết
++ ? **the prob of "YES"** in "Cool As Ice" leaf only calc the prob of "YES" in the current leaf. The same for the probability of "No".
 ![[Pasted image 20250302163723.png]]
 ![[Pasted image 20250302163744.png]]
+
+
 Because the amount of people on the left was 4 and right was 3
 ![[Pasted image 20250302163826.png]]
 

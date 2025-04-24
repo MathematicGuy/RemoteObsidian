@@ -4,3 +4,11 @@
 
 ![[Pasted image 20250420191858.png]]
 ![[Pasted image 20250420191911.png]]
+
+---
+
+Tabular Form -> Decision Tree.
+Tyoes of Data Names: (but kind of the same) 
++ Table/Dataset/DataFrame/Matrix 
++ Columns/Characters traits/Attributes/Features
+

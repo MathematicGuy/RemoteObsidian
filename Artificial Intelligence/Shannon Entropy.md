@@ -14,7 +14,7 @@ note: the more uncertain you are the more information needed to know the outcome
 
 ![[Pasted image 20241108122449.png]]
 With n bits as the prob of an event. 
-> The example below show only 1 bit required to send information about the event outcomes: tail 0 or head 1
+> The example below show only 1 bit required to send information about the event outcomes: tail 0 or head 1.
 ![[Pasted image 20241108122616.png]]
 
 Another event, with 8 diffs outcome so we use **3 bits** because 3 bits is $2^3=8$
@@ -44,7 +44,7 @@ Most distribution is not uniform. But for M outcome (i.e. uniform), each outcome
 ![[Pasted image 20241108143004.png]]
 + $ This many needed to encoded the outcome. 
 
->For all M, this is "**the measure of how much information (binary bits) on average is needed to describe outcomes of a distribution**" it is linked tightly with uncertainty. 
+>For all M, this is "**the measure of how much information (using binary bits) on average is needed to describe outcomes of a distribution**" it is linked tightly with uncertainty. 
 ![[Pasted image 20241108143100.png]]
 > Since **if we're less certain of an outcome we may need more information to describe.**
 
