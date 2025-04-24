@@ -346,3 +346,8 @@ Which **TWO** of the following statements does the writer make about legal skill
 + $ However, criticising lawyers because their work is concerned with people's problems would be similar to attacking IT staff or 38  for the same reason. In fact, many lawyers focus on questions relating, **for example, to housing or civil liberties, which requires them to have** ~~39. professional~~ *-> 39. dedication* **to their work.**
 + ? ...Such work is not lavishly remunerated, and the **quality of service provided by these lawyers relies on considerable professional dedication**... *"professional" is a adjective supporting the noun "dedication", if it just professional then its okay, I completely ignore that professional is just a support adjective in this context*
 
++ $ Diseases sent from the gods were thought to be caused by disobeying a spiritual ~~7. guardians~~ *-> 7. rule* 
+*again, I just focus on 1 passage and don't look for further information*
++ ? Illness was often seen as spiritually based. **Maori saw themselves as guardians of the earth**, and the focus of their existence was to remain at one with the natural and supernatural world. **Rather than a medical problem, sickness was often viewed as a symptom of disharmony with natures**.           
+*while this is the passage that hold the correct information*
++ ?  In Maori culture, illnesses were divided into diseases of the gods (mate atua) and physical diseases (mate tangata). Diseases sent by the gods were often attributed to attacks by evil spirits, because the person had broken a religious rule....
