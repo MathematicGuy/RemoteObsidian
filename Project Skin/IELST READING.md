@@ -303,4 +303,38 @@ Prohibition - action of forbidding sth by law (cấm)
 [18/4 Test Score](https://ieltsonlinetests.com/score/46523732?passage=2) - 4 2 2 - 31/40 - 7.0
 ![[Pasted image 20250423133438.png]]
 
-Check Later
+**2) The writer mentions bottled water in order to show that**
+- *A  consumers buy it because of the fact that it is marketed.*
+- B  people purchase it despite the fact that it has no taste.
+- ~~C~~  marketers need not do taste tests when a campaign is effective.
+- D  tests prove that people cannot differentiate it from tap water.
+	
++ ? In the case of bottled water, we are **swayed by advertising into paying for something that we can obtain for free**. Most people cannot distinguish bottled from tap water, much less between brands of bottled water, **which is why you rarely hear of a bottled water company proposing a blind taste test.** *The paragraph mentions comsumers was lured into buying (Main point). But instead of focusing on the main point, I make up a conclusion combine the 2 highlighted ideas above.*
+
+**5) According to the writer, how does television advertising exploit the human tendency to imitate others ?**
+- A  It shows buying behaviour that marketers want to encourage in viewers.
+- *B  It features people who have a desirable image.*
+- C  It shows older people whom teenagers admire.
+- ~~D~~  It features successful people endorsing products responsible for their success.
+	
+*The paragraph that I should read*
++ ? A component of advertising relies on the marketer's ability to tap into the brain’s propensity for imitation. **Anybody who has watched TV knows advertisements are disproportionately populated with attractive, successful looking individuals**. If we are going to imitate someone, we are more inclined to imitate those who appear to be popular and appealing. 
+*Paragraph that I read, MISREAD, next time MAKE SURE THE KEYWORDS MATCH*
++ ? ...**When athlete Dick Fosbury revolutionised the high jump by jumping over the bar backward in 1968, imitators obviously copied his jumping style, not his brand of sports shoes.**
+
+
+9 ~~NO~~ *-> YES* There is still some uncertainty about whether animals copy the behaviour of the most powerful animals among them.
++ ? ...If **we are going to imitate someone, we are more inclined to imitate those who appear to be popular and appealing** *The first paragraph express the ideas, so I conclude too soon*...**Although not all researchers are convinced by the findings**, a number of studies indicate that some animals also imitate dominant members of their group. 
+
+10 ~~YES~~ *-> NO* Consumers make a logical connection between celebrities achievements and the products they promote.
++ ? ...*Rationally,* **we know these people's success did not depend on these products, so it seems our propensity to purchase products relates more to neural programs** that evolved to **encourage imitation of those further up the social ladder...** *Rational is a synonym for logical, the paragraph say the buyers does make a logical connect but its related to the neural programs (of the brains) that encourage imitation of those further up the social ladder--not celebrities achievements* 
+
+
+**An example of how one parrot species may survive at the expense of another** ~~15 F~~ *15 I*
++ ? 
+
+**A description of how plants may adapt to attract birds** ~~16 D~~ *16 F* 
++ ? 
+
+34, 35 C, D -> B, D
+39 delication 
