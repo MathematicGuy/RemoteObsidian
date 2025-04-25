@@ -317,9 +317,8 @@ Stadtviertel - neightborhood
 	Es gibt drei Park in die Stadtviertel 
 	Kennest du dieses Stadvertel - do you know this neighborhood 
 
-
-
-
 Kennen know
 
+Du sitz allein im Park, ist alles OK 
+Mörgen - like 
 
