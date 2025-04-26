@@ -76,8 +76,8 @@ The natural logarithm is widely used in calculus and exponential growth models d
 + ? $\ln()$ is more common in pure mathematics particularly in calculus and integration, since it can be use to represent continous value and because $e$ has **unique properties related to differentiation and integration.**
 	For example, the derivative of $e^x$ is $e^x$, and the derivative of $\ln(x)$ is $\frac{1}{x}$, making $\ln$ very **useful for continous scenarios.**
 
- **Logistic and Exponential Regression Models**
- > models such as logistic regression in machine learning, which models binray outcomes: 
+**Logistic and Exponential Regression Models**
+ > models such as logistic regression in machine learning, which models binary outcomes: 
  > $$\ln\left( \frac{p}{1-p}\right) = \beta_{0} + \beta_{1}x_{1} + \beta_{1}x_{1} + \dots + \beta_{n}x_{n}$$
  > The natural logarithm is also used in **maximum likelihood estimation** (MLE), which involves maximizing the log-likelihood function.
 	
@@ -107,17 +107,17 @@ This formula can be useful when you need to switch between $\log()$ and $\ln()$ 
 
 # Likelihood Function
 
-**Probability:** Assume how likely sth to happend (i.e. prob without tested)
+**Probability:** Assume how likely sth to happend (i.e. **prob WITHOUT TESTED**)
 + $ Suppose you have an **unbiased** coin. If you flip the coin, the probability of getting head and a tail is equal, which is 0.5. 
 + ? **When calculating the probability of coin getting heads, you assume that P(head) = 0.5**
 
-**Likelihood:** Calc the probability sth actually happened (i.e. prob after tested)
+**Likelihood:** Calc the probability sth actually happened (i.e. **prob AFTER TESTED**)
 + $ However, when calculating the likelihood, you are **trying to find if the model parameter (p = 0.5) is correctly specified or not.**
 + ? The **fact that a coin only lands on heads 14 times out of 50 makes you highly suspicious that the true probability of a coin landing on heads on a given toss is p = 0.5.**
 
-Here is the updated version with the `$` formatting applied:
 
 ---
+
 ### **Likelihood vs. Probability**
 
 - **Probability**: Refers to the likelihood of future events given known parameters.

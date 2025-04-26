@@ -52,10 +52,9 @@ Regression Tree is like **Linear Regression but apply for Discrete of the Data**
 ![[Pasted image 20250316155551.png]]
 $$\sum^{p}_{i \in R_{j}}(y_{i} - \hat{y}_{_{R_{j}}})^2$$
 where
-+ p is the number of Predicted value. 
++ p is the number of predicted value. 
 + y is the observe value 
 + $\hat{y}_{i}$ is the predict value 
-
 
 Save the sum of squared residual we just calculate for later comparison. 
 ![[Pasted image 20250316155624.png]]
@@ -64,23 +63,29 @@ Save the sum of squared residual we just calculate for later comparison.
 ![[Pasted image 20250317071430.png]]
 
 + ? The **plot below** show all **Sum Squared Residual of all the seperation** (i.e. red dotted line). 
-+ $ That it, now we **repeat until we have calculated the sum of squared residual for all of the remaining threshold.** (e.g. SoS residual of the 2nd and 3rd value, SoS residual of the 3rd and 4th value, etc.) ![[Pasted image 20250316160618.png]]
-$$\sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}}})^2$$
-+ ? Then, we take the **smallest Sum of Squared residuals**. That mean `Dosage <= 14.5` will be the root of the tree.  ![[Pasted image 20250316160933.png]]
++ $ That it, now we **repeat $J$ times until we have calculated the sum of squared residual for all of the remaining threshold.** (e.g. SoS residual of the 2nd and 3rd value, SoS residual of the 3rd and 4th value, etc.) ![[Pasted image 20250316160618.png]]
+$$RSS(s) = \sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}}})^2$$ where $s$ is the splits.  
 
-+ $ In summary, we splot the data into 2 groups by finnding the threshold that gave us the smallest sum of squared residuals. (Tổng bình phương giữa kết quả quan sát và các kết quả dự đoán)
++ ? Then, we take the **smallest Sum of Squared residuals**. That mean **Dosage <= 14.5** will be the root of the tree.  ![[Pasted image 20250316160933.png]]
+	
++ $ In summary, we split the data into 2 groups by finnding the threshold that gave us the smallest sum of squared residuals. (Tổng bình phương giữa kết quả quan sát và các kết quả dự đoán)
 + @ In other word,**find the split point s** that minimizes the **sum of squared residuals (RSS)**. $$\arg \min_{x}  \sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}}})^2$$
-+ ? **$arg_{min}$** means "find the argument (variable) that gives the minimum value," NOT "choose the smallest number from a sum."
++ @ **Simplfied Argument: with $s^{*}$ as the split that minimizes RSS(s)**  $$s^{*} =  \arg \min_{x}  RSS(s)$$
++ where 
+	+ $J$ is the "number of candidate splits" 
+	+ $p$ is the "number of points in a cadidate split"
+	  
++ ? **$arg_{min}$** means "find the argument's variable that gives the minimum value, *" NOT "choose the smallest number from a sum but find the value that made this function minima"*. 
 
 
 Reference fomula:
 ![[Pasted image 20250316182144.png]]
 Now we repeat all the step above.  
-+ ? We could **split these 6 observation into 2 smaler groups just like we did before**, then **calc the Sum of Square residual for different threshold**, and **chosing the threshold with the lowest sum of squared** residuals, that is `dosages <= 14.5` with `SoS value equal 20`. (i.e. the first node before the 14.5 threshold). 
++ ? We could **split these 6 observation into 2 smaler groups just like we did before**, then **calc the SoS (i.e. Sum of Square) residual for different threshold**, and **chosing the threshold with the lowest sum of squared** residuals, that is `dosages <= 14.5` with `SoS value equal 20`. (i.e. the first node before the 14.5 threshold). 
 + ? Because the 1st `dosages <= 14.5` observation can't be split anymore, we will call this note a leaf.
 ![[Pasted image 20250316161201.png]]
 + ? However since the **remaining 5 observation go to the other node, we can split them once more**. 
-+ $ In Constract, the left leaf contain 4 **observations that all have the same Drug Effectiveness**, so we **don't need to split them into smallar groups**.  
++ $ In Constract, the left leaf contain 4 **observations that all have the same Drug Effectiveness**, so we **don't need to split them into smaller groups**.  
 ![[Pasted image 20250316161755.png]]
 
 + ? You can test the Regression to check if it accurate, but **if it too accurate** like 100% it **probably overfit and will not perform well with new data.**  
@@ -94,7 +99,6 @@ $$R_{j} = \arg_{min}  \sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}
  + $ And we do that by finding the threshold that gives us the smallest sum of squared residual (like before).
 + ? Because the **node on the left** indicate `< 29` have **less than 7 nodes**, we make it a **Leaf** with **average Drug Effectiveness of 2.5%** 
 ![[Pasted image 20250316163948.png]]
-
 
 + ? For the other half, since we have **more than 7 observations we can split them into 2 groups.** by finding the threshold that gives us the minimum sum of squared residuals.
 + $ Because both half contain less than 7 observations, this is the last split. With both half have their **average Drug Effectiveness** as value: left for Dosage < 23.5% is 52.8% effectiveness, where the right is 100% effectiveness when Dosage >= 23.5.

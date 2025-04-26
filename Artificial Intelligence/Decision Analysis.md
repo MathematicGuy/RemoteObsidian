@@ -1,13 +1,21 @@
 [[Decision Tree Archive]]
 [[Regression Trees and Regression Tree Prunning]]
 [[Decision Tree DIY]]
+[[Gini Index vs Entropy]]
+
 Gradient Boosting Machine: cây sau đc xây (cải thiện) dựa vào cây tr'c.   
+
+## Classification and Regression Trees (CART)
+![[1665584415139.jpg]]
+
 
 ---
 
 [Decision Tree Read More](https://towardsdatascience.com/decision-trees-explained-entropy-information-gain-gini-index-ccp-pruning-4d78070db36c/)
 ![[Pasted image 20240806121053.png]]
 	Decision trees are helpful, not only because they are a visual representation that help you visualize what you are thinking, but also because design of a decision tree requires a documented thought process. Decision trees help formalize the brainstorming process so we can identify more potential solutions.
+
++ @ **Classification Tree Model** are **Non-parametric models**, are the ones that **cannot be indexed by a fixed number of parameters**. **The number of parameters describing the model/hypothesis usually grows with the dataset.**  
 
 ---
 
@@ -32,11 +40,19 @@ How to quantify the impurity -> By using [[Gini Index]] (Linear)/Entropy/Informa
 Because the amount of people on the left was 4 and right was 3
 ![[Pasted image 20250302163826.png]]
 
+### Total Gini Impurity of 2 Leafs
+$$\text{Total Gini Impurity} = 
+(\text{Left Leaf Gini Impurity}.\text{Left Leaf Probability}) 
++ 
+(\text{Right Gini Impurity} \times \text{Right Leaf Probability})$$
+
 We start by calc the weight of the leaf on the left. We divide the total people on the left: 4 by the total peoples on the right and left: 4+3=7 and multiply the Gini Impurity in the left: 0.375
 ![[Pasted image 20250302164224.png]]
 Do the same for the right. (Right Total) / (Total both side) * Gini Impurity
 ![[Pasted image 20250302164303.png]]
-So the **Gini Impurity for love popcorn is 0.405.**
+So the **Gini Impurity for Popcorn Leaf is 0.405.**
+
+
 ![[Pasted image 20250302164411.png]]
 Like wise **for Love Soda, we got Gini Impurity of 0.214**
 

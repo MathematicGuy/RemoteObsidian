@@ -54,9 +54,8 @@ Say for 4 label y = { 1, 2, 3, 4 }.
 Note: $\theta$ represent Neural Network weight
 $P(Y|X)$ can be rewrite as $h_{\theta}(X)$  $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$where $h_{\theta}$ is the probability of $h$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1 represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
 
-
 Note:
-+ IID mean Independent and Identically Distributed: độc lập và ko phân phối
++ [[IID]] mean Independent and Identically Distributed: độc lập và ko phân phối
 + Homogenous (đồng biến) basically mean all function's variable change together. Example for $\lambda$ as the scaling factor, the whole funcion will be scale (that it) $$f(λx,λy)=λx+λy=λ(x+y)=λf(x,y).$$ 
 Same as above, for the whole dataset for m IID datapoints: $(x^{(1)}, y^{(1)}), \dots, (x^{(m)}, y^{(n)})$ we got the product of all prob:
 $$P(Y|X)=P(Y^{(1)}|X^{(1)}),\dots, P(Y^{(m)}|X^{n)}) = \prod^{m}_{i=1}P(Y^{(i)}|X^{(i)})$$

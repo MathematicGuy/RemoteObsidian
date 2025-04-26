@@ -120,12 +120,12 @@ You roll two dice. Find the probability that either:
 
 ## [[Product of Multiple Independent Events]]
 ### Independent 
-> Independence happens when the occurrence of one event does not affect the probability of the occurrence of another even. (opposite of chess)
+> **Independence event** happens **when the occurrence of one event does not affect the probability of the occurrence of another even.** (opposite of chess)
 
 **Example**
 In a school with 100 kids, where 40 like soccer and 60 don't, if we randomly split the kids in two rooms with 30 kids in one room and 70 in other, what is your best estimate on the number of kids in room 1 that like soccer?
 -> 40% of the kids being in the 1st room of 30 kids are: 12 kids. (Calc independently with room 2)
--> and 40% of room 2 with 60 kids are: 24
+-> So 40% of room 2 with 60 kids are: 24 
 
 **Product Rule**: only when A and B are independent
 ![[Pasted image 20241004104857.png]]
