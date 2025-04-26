@@ -9,5 +9,8 @@
   "baseFontSize": 14,
   "nativeMenus": true,
   "baseFontSizeAction": true,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "custom-bg"
+  ]
 }
