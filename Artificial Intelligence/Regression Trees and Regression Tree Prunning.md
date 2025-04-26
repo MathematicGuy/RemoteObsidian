@@ -69,14 +69,12 @@ $$\sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}}})^2$$
 + ? Then, we take the **smallest Sum of Squared residuals**. That mean `Dosage <= 14.5` will be the root of the tree.  ![[Pasted image 20250316160933.png]]
 
 + $ In summary, we splot the data into 2 groups by finnding the threshold that gave us the smallest sum of squared residuals. (Tổng bình phương giữa kết quả quan sát và các kết quả dự đoán)
-
 + @ In other word,**find the split point s** that minimizes the **sum of squared residuals (RSS)**. $$\arg \min_{x}  \sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}}})^2$$
 + ? **$arg_{min}$** means "find the argument (variable) that gives the minimum value," NOT "choose the smallest number from a sum."
 
-reference fomula:
+
+Reference fomula:
 ![[Pasted image 20250316182144.png]]
-
-
 Now we repeat all the step above.  
 + ? We could **split these 6 observation into 2 smaler groups just like we did before**, then **calc the Sum of Square residual for different threshold**, and **chosing the threshold with the lowest sum of squared** residuals, that is `dosages <= 14.5` with `SoS value equal 20`. (i.e. the first node before the 14.5 threshold). 
 + ? Because the 1st `dosages <= 14.5` observation can't be split anymore, we will call this note a leaf.
@@ -92,7 +90,6 @@ In Machine Learning, we say the model has no **Bias** (thiên vị) but potentia
 + $ A simple technique to solve this problem is to **only split observations when there are more then some minimum number**. The minimum **Threshold usually 20 but for this example, let set the minimum observations for split is 7.**  
 + ? In other word, since there are **only 6 observations with Dosage < 14.5  we will not split the observation in this node**. Instead that node will become a **Leaf.** ![[Pasted image 20250316162704.png]]
 $$R_{j} = \arg_{min}  \sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}}})^2$$
-
  + ? Since we have more than 7 observations, on the right side (Dosage >= 14.5), we can split them into 2 groups. 
  + $ And we do that by finding the threshold that gives us the smallest sum of squared residual (like before).
 + ? Because the **node on the left** indicate `< 29` have **less than 7 nodes**, we make it a **Leaf** with **average Drug Effectiveness of 2.5%** 
@@ -105,10 +102,8 @@ $$R_{j} = \arg_{min}  \sum^{J}_{j=1} \sum^{p}_{i \in j}(y_{i} - \hat{y}_{_{R_{j}
 ![[Pasted image 20250316164402.png]]
 + @ That how you build a tree using a single predictor **Dosage** to predict **Drug Effectiveness**![[Pasted image 20250316164739.png]]
 
-
 + @ Now let's talk about **how to build a tree to predict Drug Effectiveness using a bunch of predictors.**
 + ? Like Before, we **start by using Dosage to predict Drug Effectiveness**. Try different thresholds for **Dosage** and calculate the sum of squared residuals (SSRs) at each step. And **pick the threshold that gives us the lowest SSRs.** ![[Pasted image 20250316170754.png]]
-
 + ? Just like Dosage, we try **different threshold for Age and calculate the sum of square residual at each step and pick the minimum sum of squared residuals**.
 ![[Pasted image 20250316165128.png]]
 The best threshold become a candidate for the root. 
@@ -203,7 +198,6 @@ There are two types of pruning:
 
 
 ## 2. How Does Post-Pruning Work?
-
 ### Step 1: Grow a Full Tree
 
 - Start by **growing the regression tree fully** (i.e., until every leaf contains only a few samples or **no further reduction in RSS is possible).**

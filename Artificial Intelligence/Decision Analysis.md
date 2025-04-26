@@ -21,9 +21,8 @@ Decision Tree **predict numerical value** -> Regression Tree
 
 **Leaf Nodes:** These **represent the final decision or prediction made by the tree.**
 
-
 ### Decision Tree Example
-How to quantify the impurity ->[[Gini Impurity]] (Linear)/Entropy/Information Gain
+How to quantify the impurity -> By using [[Gini Index]] (Linear)/Entropy/Information Gain
 **Gini Impurity** (điểm không thuần khiết/tạp chất gini) - **Purity:** thuần khiết
 + ? **the prob of "YES"** in "Cool As Ice" leaf only calc the prob of "YES" in the current leaf. The same for the probability of "No".
 ![[Pasted image 20250302163723.png]]

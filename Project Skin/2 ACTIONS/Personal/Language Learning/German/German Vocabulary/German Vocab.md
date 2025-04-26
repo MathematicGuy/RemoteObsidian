@@ -322,3 +322,28 @@ Kennen know
 Du sitz allein im Park, ist alles OK 
 Mörgen - like 
 
+Unten downstairs
+
+#dieser_dieses_diese
++ ? Note: **Nominative case** *identify the subject who doing the action*. e.g. She wrote a letter (She is the subject of the Nominative case)
+```ad-info
+In the nominative case
+
++ Dieser: used for masculine nouns.
++ Diese: feminine nouns and plural noun.
++ Dieses: neutral nouns in the nominative case. (e.g. dieses Haus - this house)
+```
+
+
+Dieser Student wohnt unten im Haus - This student living in the house downstairs
+Ja, ich kenne Junge. Er ist mein Bruder - Yes, I know this boy he is my brother. 
+Natürlich kenne ich dieses Student. Ich bin er Professorin 
+
+Kollege colleague (friend at work/school)
+Verheiratet married
+	Ist dein Kollege verheiratet ?
+
+Einladen invite 
+	Ich möchtet meine Kollegen zum Abendessen einladen - I would like to invite my colleague to dinner
++ ? Add -s to verb after "third-person singular" (he, she, it) 
+

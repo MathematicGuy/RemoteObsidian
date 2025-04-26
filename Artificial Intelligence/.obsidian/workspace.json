@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "fe2f7a6753de10a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gini Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gini Index"
+            }
+          },
+          {
+            "id": "459304d1ab43ce0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regression Trees and Regression Tree Prunning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regression Trees and Regression Tree Prunning"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,24 +104,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "277aa4874418953e",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "5b429f276e830688",
@@ -207,10 +224,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c0fa06e48482658a",
+  "active": "459304d1ab43ce0c",
   "lastOpenFiles": [
+    "Gini Index.md",
     "2 ACTIONS/_Focus.md",
-    "Gini Impurity.md",
+    "Regression Trees and Regression Tree Prunning.md",
+    "Decision Analysis.md",
+    "Attention is All You Need.md",
+    "Untitled Kanban.md",
+    "4 ARCHIVES/SIC/SIC - AI Intro.md",
+    "4 ARCHIVES/Image/Pasted image 20240717101950.png",
+    "Decision Tree DIY.md",
+    "Decision Tree Archive.md",
     "Shannon Entropy.md",
     "image/Pasted image 20250324134721.png",
     "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
@@ -218,11 +243,7 @@
     "RAG Summarize.md",
     "image/Pasted image 20250423194831.png",
     "image/Pasted image 20250423153731.png",
-    "Decision Analysis.md",
     "image/Pasted image 20250302163744.png",
-    "Decision Tree DIY.md",
-    "Regression Trees and Regression Tree Prunning.md",
-    "Decision Tree Archive.md",
     "Invoice_OCR.md",
     "image/493139748_122150552126512279_4999582009770747605_n.jpg",
     "ID Card OCR.md",
@@ -243,11 +264,8 @@
     "2025-04-13.md",
     "1 PROJECTS/CMC 2025/UIUX/CMC UIUX.md",
     "3 RESOURCES/How to/Anaconda Command.md",
-    "3 RESOURCES/How to/Anaconda.md",
     "image/images 2.jpg",
-    "BERT.md",
     "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
-    "image/Pasted image 20250406204842.png",
     "image/Pasted image 20250302182359.png.~tmp",
     "Anstler Palace.canvas",
     "1 PROJECTS/BigData HW",
