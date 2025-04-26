@@ -347,3 +347,12 @@ Einladen invite
 	Ich möchtet meine Kollegen zum Abendessen einladen - I would like to invite my colleague to dinner
 + ? Add -s to verb after "third-person singular" (he, she, it) 
 
+Das Gebäude - The building 
+	Das Gebäude ist ein Supermarkt
+Hoch tall
+	Das Gebäude dort drüben ist sehr alt und wirklich hoch - the build 
+
+Elefant - Elephant 
+	Ich kenne deinen Elefanten (plural), er ist mein Freund. 
+Geschäft store
+

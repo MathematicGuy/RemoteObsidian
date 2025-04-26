@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "ae26550a14a22cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "German Vocab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,12 +252,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ae26550a14a22cce",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Chapter 4 - Tree.md",
-    "_Focus/Todo.md",
     "IELST READING.md",
     "Images/Pasted image 20250424141437.png",
     "Images/Pasted image 20250423133438.png",
