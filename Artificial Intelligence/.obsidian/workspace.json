@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "992bb39f0af5e30c",
+            "id": "bc1a45f7e0aad84c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +37,7 @@
               "title": "Decision Tree DIY"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
+    "width": 387.5,
     "collapsed": true
   },
   "right": {
@@ -208,14 +207,21 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "992bb39f0af5e30c",
+  "active": "c0fa06e48482658a",
   "lastOpenFiles": [
-    "Decision Analysis.md",
     "Decision Tree DIY.md",
     "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Lecture_07_on_Decision_Trees.pdf",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/DecisionTree Lecture.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Optimization.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/News Settler.md",
+    "Decision Analysis.md",
     "Decision Tree Archive.md",
     "image/Pasted image 20250426170554.png",
     "image/Pasted image 20250426170424.png",
@@ -245,9 +251,6 @@
     "Untitled Kanban.md",
     "4 ARCHIVES/SIC/SIC - AI Intro.md",
     "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
-    "Model in RAG (NLP and DL).md",
-    "RAG Summarize.md",
-    "Invoice_OCR.md",
     "AI Engineer",
     "Untitled.canvas",
     "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
@@ -261,7 +264,6 @@
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
     "1 PROJECTS/NCKH 2025/Books",
     "1 PROJECTS/CMC 2025/UIUX",
-    "1 PROJECTS/CMC 2025/Computer Vision",
     "Research.canvas",
     "ID Card Brain Storm.canvas"
   ]

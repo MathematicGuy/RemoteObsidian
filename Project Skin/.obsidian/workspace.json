@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1ab740ead61cb748",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/Todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Todo"
-            }
-          },
-          {
-            "id": "d12799932f07f4a2",
+            "id": "417f51e6671db38a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Decision Tree.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Decision Tree"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Decision Tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +83,7 @@
             }
           },
           {
-            "id": "8ff9a18a45ca0fa7",
+            "id": "d15ccdb6e8430db8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -116,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -252,9 +229,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d12799932f07f4a2",
+  "active": "417f51e6671db38a",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Spaces/Classification Techniques.md",
+    "Spaces/Decision Tree.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Chapter 4 - Tree.md",
@@ -263,7 +242,6 @@
     "Images/Pasted image 20250423133438.png",
     "IELST/IELST.md",
     "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
-    "Spaces/Decision Tree.md",
     "IELST Writing.md",
     "Images/Pasted image 20250418155512.png",
     "Images/Pasted image 20250418154838.png",
@@ -293,7 +271,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Technology Vocabulary.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German.md",
-    "Spaces/third person form - german.md",
     "Images/Pasted image 20240829200722.png",
     "IELST",
     "1 PROJECTS/UI_UX",

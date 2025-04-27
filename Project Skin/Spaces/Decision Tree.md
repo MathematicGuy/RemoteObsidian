@@ -1,16 +1,18 @@
-
 ## Example
 ![[Pasted image 20240612172033.png]]
 + Choose a attribute to be the top, Other attributes are split out into branch
 + More than 1 value can be use to represent a branch. Like Single and Divorced  
 
+
 ## Design Issues of Decision Tree Induction
-#### How should training records be split
+
+**How should training records be split ?**
 + Method for specifying test condition
 		+ Depending on attribute types: binary, nominal, ordinal, continuous
 		+ Depending on number of ways to split: 2-way split, multi-way split
 + Measure for evaluating the goodness of a test condition
-#### When should the splitting procedure stop?
+
+**When should the splitting procedure stop ?**
 + Stop splitting if all records belong to the same class or have identical attribute values
 
 ## Split
@@ -96,3 +98,4 @@ Greedy approach (use when data are more bias to 1 side)
 + Entropy(Risk) = - (5/8) * log2(5/8) - (3/8) * log2(3/8) ≈ 0.954
 
 **2. Calculate Information Gain for Each Attribute:**
+```

@@ -1,3 +1,4 @@
+[[Lecture_07_on_Decision_Trees.pdf]]
 **Classification:** base on the inputs predict sth categorical (like spam or not spam label)
 **Regression:** base on the inputs predict a number (like assign an accurate number)
 
@@ -22,7 +23,5 @@ Gini Impurity (using [[Gini Index]]) can also be understand as the prob for the 
 
  
  
-
-
 
 
