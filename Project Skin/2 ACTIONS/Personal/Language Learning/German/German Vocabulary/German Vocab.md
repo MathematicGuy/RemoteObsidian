@@ -356,3 +356,4 @@ Elefant - Elephant
 	Ich kenne deinen Elefanten (plural), er ist mein Freund. 
 Geschäft store
 
+Die Bäume sind sehr alt - the trees are very old 
