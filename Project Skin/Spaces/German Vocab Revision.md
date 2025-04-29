@@ -965,3 +965,14 @@ Do you play the piano with your mom during the break ? -
 Spielst du in den Ferien mit deiner Mama Klavier
 
 Möchtest du machen - would you like to make
+
+Den the 
+Bruder 
+Kenne known
+Jungen
+	Ja, Ich kenne den Jungen, he is my neighbor. 
+
+Grün
+Stadtviertel 
+Dieses neutral noun (dative case - someone receive the result of the action)
+	Dieses Stadtviertel ist grün, 

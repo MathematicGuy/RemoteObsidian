@@ -364,3 +364,7 @@ Benutzt uses
 
 Café - coffee shop
 Kaffee - yacoffee
+
+Nachbarn neighbor
+Stadtviertel neighborhood
+
