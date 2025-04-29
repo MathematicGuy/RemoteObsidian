@@ -357,3 +357,10 @@ Elefant - Elephant
 Geschäft store
 
 Die Bäume sind sehr alt - the trees are very old 
+Der S-Bahn light rail 
+	Der S-Bahn kommt heute später - the light rail come later today 
+Benutzt uses 
+	Benutzt deine Tochter das Fahrrad, oder fährst du ihr ? - Does your daughter use the bicycle, or  do you drive her. 
+
+Café - coffee shop
+Kaffee - yacoffee

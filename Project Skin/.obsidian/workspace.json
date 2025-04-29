@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab740ead61cb748",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "417f51e6671db38a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "file": "_Focus/Todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "German Vocab"
+              "title": "Todo"
             }
           }
         ]
@@ -88,7 +90,7 @@
             }
           },
           {
-            "id": "d15ccdb6e8430db8",
+            "id": "3df22d0c34b2b3b2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -234,12 +236,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "417f51e6671db38a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "_Focus/Todo.md",
     "Spaces/Classification Techniques.md",
     "Spaces/Decision Tree.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Chapter 4 - Tree.md",
     "IELST READING.md",
