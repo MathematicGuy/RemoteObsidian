@@ -351,3 +351,8 @@ Which **TWO** of the following statements does the writer make about legal skill
 + ? Illness was often seen as spiritually based. **Maori saw themselves as guardians of the earth**, and the focus of their existence was to remain at one with the natural and supernatural world. **Rather than a medical problem, sickness was often viewed as a symptom of disharmony with natures**.           
 *while this is the passage that hold the correct information*
 + ?  In Maori culture, illnesses were divided into diseases of the gods (mate atua) and physical diseases (mate tangata). Diseases sent by the gods were often attributed to attacks by evil spirits, because the person had broken a religious rule....
+
+
+
+
+https://ieltsonlinetests.com/score/46844521?mode=practice_test&parts=full&duration=60
