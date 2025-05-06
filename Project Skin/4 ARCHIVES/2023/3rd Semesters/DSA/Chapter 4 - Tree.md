@@ -104,9 +104,6 @@ Key - số cần tìm
 
 ## [[AVL Trees]]
 
-
-
-
 # Algorithm Design Strategy
 
 ## Devide and Conquer
