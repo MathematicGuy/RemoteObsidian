@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "b1019f14dd7a084f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Graph Theory"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +90,7 @@
             }
           },
           {
-            "id": "11dffe9b63cb329f",
+            "id": "1dc4f9af015bc387",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -252,10 +236,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b1019f14dd7a084f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Graph Theory.md",
     "_Focus/Todo.md",
+    "Graph Theory.md",
     "IELST READING.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "Spaces/Decision Tree.md",

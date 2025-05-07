@@ -5,14 +5,25 @@
 ![[Pasted image 20250420191858.png]]
 ![[Pasted image 20250420191911.png]]
 
-# TODO
-**Engineered Features**
+## Data Analysis Methodology
+There are 2 way to predict diabetes - by focusing on predicting people who have diabetes or by predicting people who doesn't.
+
++ ! Note: Excluding Outlier favor Bias. How to handle outlier. How to handle data imbalance (Outlier) -> Robust Scaler.
++ ! N/A data fill with "median by target/outcome"
++ ? Validation Method: k-fold validation. 
+
+
+1) Visualize scatter plot 
+2) Using real world information to identify areas that concentrate healthy/diebetes individual. (or using intuition)
+
+**PCA -> SVD**
+
+
+---
+## Feature Engineered Dataset (contribution 1)
 ![[Pasted image 20250505143425.png]]
 
 ![[Pasted image 20250505143442.png | ]]
-
-
-## Feature Engineered Dataset (contribution 1)
 
 ### 1. Glucose: Impaired Glucose Tolerance (New_Glucose_Class_Prediabetes)
 **Glucose**: *Plasma glucose* concentration a 2 hours in an oral glucose tolerance test
