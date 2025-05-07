@@ -273,11 +273,36 @@ Prohibition - action of forbidding sth by law (cấm)
 
 
 22 -  ~~duiker~~ *(the) royal antelope*  
+	The first paragraph
+	....**at one extreme is the royal antelope of West Africa, which stands a mere 25 cm at the shoulder**; **at the other,** the massively built bison of North America and Europe, **growing to a shoulder height of 2.2m.**
+	*I admit that I don't expect this situation to happend. "At one extreme...at the other" phrase use to comparing 2 side of something that is in size (smallest - biggest), in length (shortest - longest), etc..*
+	.
+	*Lesson learned: sometime there will be 2 clues of what I need "smallest species", a clue that point out a small species like "duiker" but not smallest and a clue describe 2 species size at 2 extreme. I fail for the first one while the latter was correct because I was out of time and really need a answer. Sometime, if I cannot found out the real clue is, just re-read from the beginning, there always a chance that I misread it*
+	(*Can't find the correct evidence -> Re-read from the start*)
+
 #### Part 3
-27 - ~~A~~ *C*
-29 - ~~D~~ *B*
-31 - ~~B~~ *D*
-33 - ~~YES~~ *NO*
+27 ~~A~~ *C*
+	...The animals respond by **turning motionless, making them impossible for even a trained eye to pick out.’ They look like grains of dirt.**’ said Gonzalo Giribet... *They look like a grains of dirt say it all, I chose the most relevant answer but not the most obvious answer*
+
+29 ~~D~~ *B*
+	...The **Earth’s landmasses have slowly collided and broken apart again several times, carrying animals and plants with them**. These **species** have **provided clues to the continents’ paths**.
+	.
+	The notion of **continental drift originally came from such clues**. In 1911, the German scientist Alfred Wegener was struck by the fact that **fossils of similar animals and plants could be found on either side of the Atlantic. The ocean was too big for the species to have traveled across it on their own**. Wegener speculated correctly, as it turned out that the surrounding continents had originally been welded together in a single landmass, which he called Pangea. *First of, both sides of Atlantic living condition cannot be the same, this mean I was guessing the answer out of desperate.*
+	.
+	*This time, I was very sure that clue doesn't include negative information, I was so so wrong. Contradict information like "The ocean was too big for the species to have traveled across it on their own" still provided information to "Factor contributed to Wegener's idea" (multiple-choice question).  The question ask for a "Factor" not a "positive or negative ideas" just factor, this mean it could be a opposite to a choice but as long it lead to the idea, it a factor* 
+	.
+	*Lesson learned: idea is absolute, factor is not. Recognizing constrasting evidence can still contribute to an FACTOR
+	Note:
+	 + IDEA refer to a complte, define though or theory-sth more absolute or self-contained.
+	 + FACTOR refer to contributing part, which mean it doesn't have to be complete or absolute-can be partial, indirect or even constradictory on the surface*
+
+
+31 ~~B~~ *D - the Hawaiian goose became flightless after it had reached Hawaii.*
+	...The island of Hawaii, for example, **was home to a giant flightless goose that has become extinct**. Studies on DNA extracted from its bones show that it **evolved from the Canada goose**. Having colonized Hawaii, it **branched off from that species, losing its ability to fly**. This evolution occurred half a million years ago, when geologists estimate that Hawaii emerged from the Pacific.
+	*Note: run out of time and make stupid guesses, the answer was so obvious*
+
+33 ~~YES~~ *NO - The colonization of Hawaii by geese provides evidence of continental drift.*
+	...**Biogeographers can learn clues about continental drift by comparing related species. However, they must also recognize cases where species have spread for other reasons, such as by crossing great stretches of water**. **The island of Hawaii, for example**...*Note: Geese is the plural of Goose* - *"However" annotate constradict the opinion before it "cludes about continetal drift by comparing related species", thus This should be NO instead of YES*
 
 
 ---
