@@ -260,7 +260,24 @@ Prohibition - action of forbidding sth by law (cấm)
 [17/4 Test Score](https://ieltsonlinetests.com/score/46349616?mode=practice_test&parts=full&duration=60) -  35/40 - 8.0
 
 ### February Test 2
+[7/5 Test Score](https://ieltsonlinetests.com/score/46844521?mode=practice_test&parts=full&duration=60) -  33/40 - 7.5
 
+#### Part 2
+14 - ~~B~~ *D*
+	....**Bovids are well represented in most parts of Eurasia and Southeast Asian islands**, but they are by far the **most numerous and diverse in the latter**... *I got Baamboozle, in the latter ??? Next time make sure to read until the end of sentence (EoS) bc if there are 2 correct choice, there would be another sentence to clarify which one is the correcter*
+
+18 - ~~A~~ *B* includes the ox and the cow
+	Five groups, or sub-families, may be distinguished: Bovinae, Antelope, Caprinae, Cephalophinae and Antilocapridae.The **sub-family Bovinae comprises most of the larger bovids, including the African bongo, and nilgae, eland, bison and cattle**...*okay, I admit that I have read those, but not focus on articulating the information i've readed. Bison refer to ox and cattle often refer to cow, how did I miss that ? The answer is I am too relied on straigh forward answers. And I see that after every hint there will be a answers, for example after "The sub-family Bovinate..." hint, the paragraph give infor about Bovinate but I was uncaution because I though the answer after the hint isn't straight forward.*
+	.
+	*Lesson learned: After any hint or evidence  "The sub-family Bovinate..." there will be a answers for that "...bison and cattle..."* 
+
+
+22 -  ~~duiker~~ *(the) royal antelope*  
+#### Part 3
+27 - ~~A~~ *C*
+29 - ~~D~~ *B*
+31 - ~~B~~ *D*
+33 - ~~YES~~ *NO*
 
 
 ---
@@ -354,6 +371,3 @@ Which **TWO** of the following statements does the writer make about legal skill
 + ?  In Maori culture, illnesses were divided into diseases of the gods (mate atua) and physical diseases (mate tangata). Diseases sent by the gods were often attributed to attacks by evil spirits, because the person had broken a religious rule....
 
 
-
-
-https://ieltsonlinetests.com/score/46844521?mode=practice_test&parts=full&duration=60
