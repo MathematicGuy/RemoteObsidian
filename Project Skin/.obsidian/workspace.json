@@ -10,21 +10,32 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "03ee2e6a7409c12a",
+            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "German Vocab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             }
           },
           {
-            "id": "1dc4f9af015bc387",
+            "id": "2db92620d677ca39",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -236,7 +247,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "03ee2e6a7409c12a",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Graph Theory.md",
