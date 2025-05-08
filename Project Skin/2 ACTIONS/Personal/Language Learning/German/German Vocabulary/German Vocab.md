@@ -369,3 +369,4 @@ Nachbarn neighbor
 Stadtviertel neighborhood
 
 Gefährlich dangerous 
+Hoch tall

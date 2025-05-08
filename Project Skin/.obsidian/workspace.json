@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "958e1645c10ff7fe",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ab08d05e6a16f30c",
             "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "03ee2e6a7409c12a",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "file": "_Focus/Todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "German Vocab"
+              "title": "Todo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             }
           },
           {
-            "id": "2db92620d677ca39",
+            "id": "5e1a4e59fbce24d9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -247,12 +234,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "03ee2e6a7409c12a",
+  "active": "ab08d05e6a16f30c",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "Graph Theory.md",
+    "IELST Reading Note.md",
     "IELST READING.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+    "_Focus/Todo.md",
+    "Graph Theory.md",
     "Spaces/Decision Tree.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Chapter 4 - Tree.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
@@ -288,7 +276,6 @@
     "Doodles/Doodles1.md",
     "Doodles",
     "German Vocabulary.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Images/Pasted image 20240829200722.png",
     "IELST",
     "1 PROJECTS/UI_UX",

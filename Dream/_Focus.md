@@ -1,7 +1,8 @@
-# [[PROBLEM]] 
+# [[PROKLEM]] 
 - [ ] Not Discipline and Feeling Dependent 
 - [ ] Not waking up on time
-- [ ] Not yet master the art of Not Trying + Discipline
+- [x] Not yet master the art of Not Trying + Discipline
+
 
 # AKTION
 > My [[Deepthought]] is what define who I want to be
