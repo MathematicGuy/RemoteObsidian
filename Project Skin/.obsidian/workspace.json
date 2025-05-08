@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "ab1f94ee0536bb12",
+            "id": "4b9ec5ae280bba6d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +34,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             }
           },
           {
-            "id": "1d75cb0642f37563",
+            "id": "8cf98a78317247a2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -245,10 +246,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4b9ec5ae280bba6d",
   "lastOpenFiles": [
-    "IELST READING.md",
     "_Focus/Todo.md",
+    "IELST READING.md",
     "IELST Reading Note.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "Graph Theory.md",

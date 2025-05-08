@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7dc1b9f55caa53",
+        "id": "edca666e34375f88",
         "type": "tabs",
         "children": [
           {
-            "id": "c0fa06e48482658a",
+            "id": "61092c3bb3a2a051",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,33 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "321aa5839fd5ddfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Tree DIY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decision Tree DIY"
-            }
-          },
-          {
-            "id": "9163bd56713b26dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,12 +200,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9163bd56713b26dc",
+  "active": "61092c3bb3a2a051",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "Decision Tree DIY.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "Week 3 - Optimization in Neural Network and Newton's Method.md",
+    "Gini Index.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
+    "ALA Week 2 - Neural Network Training.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
+    "MLS Week 2 Lab - Feature Scaling and Leaarning Rate (Multi-Variable).md",
     "SVD.md",
     "Eigenvalues and Eigenvectors.md",
-    "2 ACTIONS/_Focus.md",
     "Affine Transformation.md",
     "image/Pasted image 20250507163451.png",
     "image/Pasted image 20250507163411.png",
@@ -243,7 +229,6 @@
     "image/Pasted image 20250507155244.png",
     "image/hqdefault.jpg",
     "Week 1 Matrix System.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
     "Data Analysis.md",
     "SVD Singular Value Decomposition in Dimensionality Reduction.md",
@@ -255,22 +240,12 @@
     "Python OOP.md",
     "4 ARCHIVES/Untitled.md",
     "4 ARCHIVES/leetcode.py",
-    "Python.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/Convolution_NeuralNetworkPaper.pdf",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/Exercise 12 Decision Trees, Nearest Neighbor Classifier, Regression Trees.pdf",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/solution_12.pdf",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/MachineLearningExercise.pdf",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/Lecture_07_on_Decision_Trees.pdf",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/DecisionTree Lecture.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Optimization.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/News Settler.md",
-    "Decision Analysis.md",
-    "Decision Tree Archive.md",
-    "Gini Index vs Entropy.md",
-    "Gini Index.md",
-    "Noting Methods.md",
-    "Logarithm and Log-Likelihood Function.md",
     "AI Engineer",
     "Untitled.canvas",
     "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",

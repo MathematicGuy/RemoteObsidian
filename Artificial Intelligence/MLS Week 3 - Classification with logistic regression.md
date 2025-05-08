@@ -59,6 +59,7 @@ Let's figure out when wx plus b is **greater than equal to 0 and when wx plus b 
 >+ f get closer to 1, loss (y-axis) decrease to 0
 ![[Pasted image 20241018161323.png]]
 
+
 >On this slide, let's look at the second part of the loss function corresponding to when y is equal to 0.
 ![[Pasted image 20241018163452.png]]
 

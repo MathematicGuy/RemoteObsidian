@@ -143,7 +143,11 @@ So how Newton's Method can be use for optimization.
 + $ In other word, if I let F of X be the derivative of G of X, then by finding the zeros of F of X, I am minimizing G prime of X. And the derivative of F prime of X, is simply the derivative of G of X and the derivative of that.
 
 In NM, we first initiate $x_0$ as the starting point and update it. For Optimization, because by finding the derivative of $f(x_{k})$ also minimizing $g(x)'$. We replace F of X with G prime of X.
-	![[Pasted image 20241001103540.png]]![[Pasted image 20241001103933.png]]
+![[Pasted image 20241001103540.png]]
+
+![[Pasted image 20241001103933.png]]
+
+
 
 
 ## Newton's Method Example
@@ -268,7 +272,6 @@ now let Iterate again, and repeat it until we reach the minimum point (very clos
 ![[Pasted image 20241001150558.png]]
 ![[Pasted image 20241001150646.png]]
 > This is incredibly fast for finding the minimum point of higher dimension function.
-
 
 ### Gradient Descent vs Newton's Method in calc Multiple Variables
 

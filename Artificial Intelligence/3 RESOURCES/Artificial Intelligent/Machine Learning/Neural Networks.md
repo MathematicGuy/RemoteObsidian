@@ -1,4 +1,3 @@
-
 # [[Neural Network Summary]]
 
 ### [[Why Neural Networks can learn (almost) anything]]

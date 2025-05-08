@@ -1,5 +1,3 @@
-
-
 **Interactive tool**
 [3x3 Matrix](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/ZR44d/interactive-tool-system-of-equations-as-planes-3x3) 
 [Linear System with 2 varible](https://www.coursera.org/learn/machine-learning-linear-algebra/supplement/0u0Uy/interactive-tool-graphical-representation-of-linear-systems-with-2-variables)
@@ -27,15 +25,11 @@ Ending Assignment
 + Programming Assignment: Eigenvalues and Eigenvectors
 + [[Week 4 Summary]]
 
-
 ---
-
 
 **Organize Later:**
 ![[Pasted image 20231121091256.png]]
 > từng phần tử trong hàng nhân với từng phần tử trong cột.
-
-
 
 Chapter 2: Linear combinations, span and bases
 
