@@ -397,3 +397,5 @@ Which **TWO** of the following statements does the writer make about legal skill
 + ?  In Maori culture, illnesses were divided into diseases of the gods (mate atua) and physical diseases (mate tangata). Diseases sent by the gods were often attributed to attacks by evil spirits, because the person had broken a religious rule....
 
 
+---
+

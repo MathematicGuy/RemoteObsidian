@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "958e1645c10ff7fe",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab08d05e6a16f30c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +19,19 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
+            }
+          },
+          {
+            "id": "ab1f94ee0536bb12",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +100,7 @@
             }
           },
           {
-            "id": "5e1a4e59fbce24d9",
+            "id": "1d75cb0642f37563",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,8 +109,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,12 +245,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab08d05e6a16f30c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IELST Reading Note.md",
     "IELST READING.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "_Focus/Todo.md",
+    "IELST Reading Note.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "Graph Theory.md",
     "Spaces/Decision Tree.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Chapter 4 - Tree.md",
