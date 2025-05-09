@@ -23,6 +23,7 @@ note: cực đại giống cực tiểu, chỉ là thêm dấu trừ tr'c hàm.
 large learning rate can miss global minimum on a non-convex cost function. While large learning rate sometime help to avoid local minimum. 
 ![[Pasted image 20241122202501.png]]
 
+
 **Remember Derivative positive on the right, and negative on the left**. *Thus x will increase itself if x is negative and x will decrease itself if x is positive*. (add substract sign to visualize)
 ![[Pasted image 20241122203107.png]]
 

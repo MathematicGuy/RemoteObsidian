@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "4b9ec5ae280bba6d",
+            "id": "158d9e6a8ee21ff9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IELST READING.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IELST READING"
             }
           }
         ],
@@ -77,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neighborhood",
+                "query": "Stochastic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +106,7 @@
             }
           },
           {
-            "id": "8cf98a78317247a2",
+            "id": "d05db37fc2b59ebc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,7 +115,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -246,7 +252,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4b9ec5ae280bba6d",
+  "active": "158d9e6a8ee21ff9",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "IELST READING.md",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "edca666e34375f88",
+        "id": "354cf514a825f359",
         "type": "tabs",
         "children": [
           {
-            "id": "61092c3bb3a2a051",
+            "id": "94a8fec102982b88",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eigen value",
+                "query": "Stochastic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "5b429f276e830688",
@@ -200,10 +199,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "61092c3bb3a2a051",
+  "active": "94a8fec102982b88",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
+    "AIO - Optimizer for Neural Network.md",
+    "AIO - Logistic Regression HW.md",
+    "Machine Learning Technique.md",
+    "Pytorch.md",
+    "Optimizers.md",
     "Decision Tree DIY.md",
+    "Decision Analysis.md",
+    "Logarithm and Log-Likelihood Function.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
     "MLS Week 3 - Classification with logistic regression.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
@@ -231,14 +237,7 @@
     "Week 1 Matrix System.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
     "Data Analysis.md",
-    "SVD Singular Value Decomposition in Dimensionality Reduction.md",
-    "PCA Dimensionality Reduction.md",
-    "ML CheatSheet.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/PCA_BachKhoa.pdf",
-    "One-Hot Encoding and Label Encoding.md",
-    "f89c3932cff665f76a4b52466dc2ffcb.jpg.md",
-    "Python OOP.md",
-    "4 ARCHIVES/Untitled.md",
     "4 ARCHIVES/leetcode.py",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/Convolution_NeuralNetworkPaper.pdf",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/Exercise 12 Decision Trees, Nearest Neighbor Classifier, Regression Trees.pdf",

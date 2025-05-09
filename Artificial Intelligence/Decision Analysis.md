@@ -36,7 +36,6 @@ How to quantify the impurity -> By using [[Gini Index]] (Linear)/Entropy/Informa
 ![[Pasted image 20250302163723.png]]
 ![[Pasted image 20250302163744.png]]
 
-
 Because the amount of people on the left was 4 and right was 3
 ![[Pasted image 20250302163826.png]]
 
@@ -51,7 +50,6 @@ We start by calc the weight of the leaf on the left. We divide the total people 
 Do the same for the right. (Right Total) / (Total both side) * Gini Impurity
 ![[Pasted image 20250302164303.png]]
 So the **Gini Impurity for Popcorn Leaf is 0.405.**
-
 
 ![[Pasted image 20250302164411.png]]
 Like wise **for Love Soda, we got Gini Impurity of 0.214**
