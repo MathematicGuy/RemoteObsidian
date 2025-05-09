@@ -399,3 +399,6 @@ Which **TWO** of the following statements does the writer make about legal skill
 
 ---
 
+[CAM9 - Reading Test 2](https://dolacademy.vn/static/full-test/test-result/681c4239046fc55991431c7b?) 
+**Vocabularies:** 
+Imperative (cấp thiết) - a demand 
