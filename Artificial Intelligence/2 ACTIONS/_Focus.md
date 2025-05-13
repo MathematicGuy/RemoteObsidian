@@ -5,16 +5,19 @@
 
 #TODO
 **Crucial**
-- [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
-- [ ] [RAG turtorial](https://www.youtube.com/watch?v=qN_2fnOPY-M) 
-- [ ] [Decision Tree Turtorial](https://www.youtube.com/watch?app=desktop&v=pR-Of1ua6Dc)
+- [ ] 
 
 
 **Interest**
-- [ ] Understading ADAM
-+ [ ] How to write a killer cover letter
+- [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
+- [ ] [RAG turtorial](https://www.youtube.com/watch?v=qN_2fnOPY-M) 
+- Coding Base to code ML
+- Dynamic Programming Practice
+- SVD -> PCA
+- Daily IELST Reading
+- Khan Academy Information Theory - Understanding Markov Chain 
 
-**[[MIT Deep Learning]]**
+- [ ] [[MIT Deep Learning]]
 
 **Machine Learning**
 [[AIO 2024]]

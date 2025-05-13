@@ -1,3 +1,94 @@
+## Data Imbalance
+![[Pasted image 20250510133404.png]]
+e.g. Negative have 200 while Positive only have 4 example
+![[Pasted image 20250510133912.png]]
+
+- [**Downsampling**](https://developers.google.com/machine-learning/glossary#downsampling) means Instead of taking all examples in the majority class for training, we **only take a portion of it by a factor of n** so that the data in neg & pos can balance out better. (e.g. factor of 10 is 1/10)
+		+ ? Downsampling by a **factor of 10 would involve selecting a random subset of 20 neg samples out of 200 neg to match the 1 pos**, resulting in a less balanced dataset of 1 pos and 20 neg. 
+	
+- [**Upweighting**](https://developers.google.com/machine-learning/glossary#upweighting) means **adding an example weight to the downsampled class equal to the factor by which you downsampled**.
+	+ ? Downsample by a factor of 10, the example weight should be 10.  
+
+**Step 1: Downsample the majority class**  
++ ? Consider the original ratio of pos and neg is 1 pos label for every 200 neg label. *Downsampling by a factor of 10 help reduce the ratio to 1 pos for every 20 neg* (i.e. 5% ratio) which involve. Although the training set is still moderately imbalanced, the proportion of pos is much better than the original extremely imbalanced proportion (0.5%). 
+**note:** data imbalance also information which help reduce overfitting so a bit of imbalance not always bad.  
+![[Pasted image 20250510133802.png]]
+
+**Step 2: Upweight the dowmsampled class**
++ ? After downsampling by a factor of 10, the example weight should be 10. (Yes, this might seem counterintuitive, but I'll explain why later on) added to each 
+![[Pasted image 20250510140404.png]]
++ ? The term *weight* doesn't refer to mode paremeters (like w1, w2). Here, *weight* refers to example weights, which increase the importance of an individual example during training, for example weight of 10 mean the model treat the negative example 10 times as important (*when computing loss*). 
+$$\text{example weight} = \text{original example weight} \times \text{downsample factor}$$
+
+**note:** **prediction bias** is a value indicating **how far apart the average prediction is to the label average of labels in the dataset.** 
+	not to be confucsed with the **bias term (b)** in ML models.  
+```ad-example
+**REGRESSION**
+You’re predicting house prices.
+- True average house price in the test set: **$300,000**
+    
+- Your model's average predicted price: **$270,000**
+    
+→ The **prediction bias = -$30,000** → your model **underpredicts on average**.
+.
+.
+**CLASSIFICATION**
+- **9000 "not spam"** emails
+- **1000 "spam"** emails
+
+After testing:
+- **Actual proportion of spam**: 10%
+    
+- **Average model prediction for spam**: 4%
+    
+-> **Prediction bias** = **4% (predicted)** – **10% (actual)** = **-6% bias**
+```
++ ? It **may seem couterintuitive to decrease the size of a class then increase its important.** After all, we are trying to improve the model performance on the minority class, so why upweight the majority class ? 
++ $ Because **Upweighting tends to reduce prediction bias**. That is Upweighting after Downsampling tends to reduce the delta between the average of your model's predictions and the average of your dataset's labels. 
+```ad-seealso
+You might also be wondering whether upweighting cancels out downsampling. Yes, to some degree. However, the combination of upweighting and downsampling enables [**mini-batches**](https://developers.google.com/machine-learning/glossary#mini-batch) to contain enough minority classes to train an effective model.
+
+Upweighting the _minority class_ by itself is usually easier to implement than downsampling and upweighting the _majority class_. However, upweighting the minority class tends to increase prediction bias.
+
+Downsampling the majority class brings the following benefits:
+
+- **Faster convergence**: During training, the model sees the minority class more often, which helps the model converge faster.
+- **Less disk space**: By consolidating the majority class into fewer examples with larger weights, the model uses less disk space storing those weights. This savings allows more disk space for the minority class, so the model can collect a greater number and a wider range of examples from that class.
+
+Unfortunately, you must usually downsample the majority class manually, which can be time consuming during training experiments, particularly for very large datasets.
+```
+
+### Rebalance Ratios
+**Like other hyperparameters** (e.g. weights). To determine how much you should downsample and upweight to rebalance the daaset, we **should experiment with the rebalancing ratio**. That said, the answers ultimately **depend on the following factors**: 
++ The **batch size**
++ The **imabalance ratio**
++ The **number of examples in the training set**. 
+Ideally each batch should tain multiple minority class examples. Batches **don't contain sufficient minority classes will perform poorly**. The **batch size should at least larger then the imbalance ratio**. For example, if the imbalance ratio is 100:1, then the batch size should be at least 500. 
+
+Note: xác định cấu trúc của phần tự giải thích để tránh mất thời gian note vs giải thích lại. 
+
+## Method to handle Data Imbalancing
+### Undersampling
+>Decrease Majority class data size to balance out the size of 2 class. 
+![[Pasted image 20250511151244.png]]
+
+### Oversampling
+**Random Oversampling** 
+-> Re-Sample the Minority class data with their own data. e.g. re-select example from Minority class until both class balance out.  
+
+**SMOTE**
+![[Pasted image 20250511151528.png]]
+
+**How it work ?** 
+ 
+Entire History of Coputer Vision 
+
+
+
+---
+
+## Visualize Data Imbalancing
+
 Say you have threshold probability called classification threshold where:
 + **Positive Class:** Examples with probability above the threshold value.
 + **Negative class:** Examples with lower probability value than the threshold.
