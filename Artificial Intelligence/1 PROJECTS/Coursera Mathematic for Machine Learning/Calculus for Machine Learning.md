@@ -20,6 +20,5 @@ Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 ### [[Lesson 1 - Optimization in Neural Network]]
 ### [[Lesson 2 - Newton's Method]]
 + [[Optimization in Neural Networks and Newton's Method]]
-
-[[Optimization in Neural Network and Newton's Method Final Test]]
++ [[Optimization in Neural Network and Newton's Method Final Test]]
 

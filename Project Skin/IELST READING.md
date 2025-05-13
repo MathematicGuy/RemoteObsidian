@@ -415,3 +415,14 @@ Promulgate [v] law announcement
 + ? I had had not pratice coding when I join University. 
 
 
+Understand context from not 1 but 2 or more sentence. Do not relied on a single sentence for context. 
++ ? **Beispiele:** to get correct answer for question like *"The concept of the social brain is useful to iconoclasts because it"*. I have to read 80% of the paragraph for context *"In the last decade there has been an explosion of knowledge about the social brain and how the brain works when groups coordinate decision making. Neuroscience has revealed which brain circuits are responsible for functions like understanding what other people think, empathy, fairness, and social identity. These brain regions play key roles in whether people convince others of their ideas."* To extract information base on *keywords "social brain" & "brain region play key role"*.
++ $ To better understand the answer, **first I need to understand the question by asking myself: "How social brain is useful ?"**
+
+
+Always look for rephrased question answers. Never only relied on the word itself. 
+**Beispiele Question:** *an account of a national policy initiative*
++ Policy initiative = strategy (triển khai chính sách)
+	Ko hiể initiative thì có thể dùg từ policy làm keyword. -> find paragraph with National policy. Ask myself, which country give out a policy. 
++ National ~ can be represent as a Nation Name
+
