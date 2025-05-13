@@ -160,6 +160,7 @@ This function tells us how likely different values of $p$ are, given our observe
 **The coefficient $b_{0}, b_{1}$ are the ones that result in the maximum likelihood of the model.**
 ![[Pasted image 20241021085608.png]] ![[Pasted image 20241021085639.png]]
 
+
 #### LL Null Model (Likelihood Null Model)
 > **LL Null Model is a Model with an intercept** $b_{0}=0$ 
 > $$P\left( \text{cancer} \right) = \frac{1}{1+e^{-b_{0}}} = 0.5$$  The null model therefor present a horizontal line in this plot at 0.5. Since we got an equal sample 

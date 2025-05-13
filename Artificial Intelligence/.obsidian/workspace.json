@@ -36,9 +36,37 @@
               "icon": "lucide-file",
               "title": "Calculus for Machine Learning"
             }
+          },
+          {
+            "id": "0f2fa9511755c7de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO - Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIO - Logistic Regression"
+            }
+          },
+          {
+            "id": "2af188e5d933263c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logarithm and Log-Likelihood Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logarithm and Log-Likelihood Function"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,9 +242,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c71917cf63caf021",
+  "active": "2af188e5d933263c",
   "lastOpenFiles": [
+    "AIO - Logistic Regression.md",
     "Logarithm and Log-Likelihood Function.md",
+    "AIO - Logistic Regression HW.md",
     "Logistic Regression.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Optimization in Neural Network and Newton's Method Final Test.md",
@@ -250,10 +280,8 @@
     "image/Pasted image 20250510133912.png",
     "image/Pasted image 20250510133802.png",
     "image/Pasted image 20250510133404.png",
-    "Important AI Research Paper of the 21 century.md",
     "image/Pasted image 20250509133012.png",
     "image/Pasted image 20250509132953.png",
-    "AIO - Optimizer for Neural Network.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/PCA_BachKhoa.pdf",
     "4 ARCHIVES/leetcode.py",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/Convolution_NeuralNetworkPaper.pdf",

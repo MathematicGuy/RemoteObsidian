@@ -94,7 +94,7 @@ Reason why for y=0 and y=1, yhat have log like above. Replace y=0 and y=1 to Bin
 **Logistic Regression Summary**
 ![[Pasted image 20241031002805.png]]
 Information Theory để hiểu log hơn. Log-Loss Entropy đến từ Information Theory.
-
+ 
 Đạo hàm bậc 2 của Binary Cross-Entropy nếu >= 0 hay ko? nếu có thì f(x) sẽ convex -> loss tối ưu về giá trị nhỏ nhất. 
 ![[Pasted image 20241030222339.png]]
 ![[Pasted image 20241030223026.png]]
