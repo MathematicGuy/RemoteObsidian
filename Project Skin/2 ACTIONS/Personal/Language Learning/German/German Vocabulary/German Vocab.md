@@ -370,3 +370,9 @@ Stadtviertel neighborhood
 
 Gefährlich dangerous 
 Hoch tall
+
+**Listenning**
+Das Künstwerk - the artwork  
+Künstmuseum 
+	Note: Künst mean art, Künstler mean artist, Künstliche Intelligenz mean artificial intelligenz. 
+Bild painting 

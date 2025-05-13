@@ -976,3 +976,20 @@ Grün
 Stadtviertel 
 Dieses neutral noun (dative case - someone receive the result of the action)
 	Dieses Stadtviertel ist grün, 
+
+
+
+Spiegelei fried eggs 
+Bottle of Mineral Water 
+	Ich esse gern Brot mit Spiegelei, und trinke Mineralwasserflasche
+
+Früher early (original) -> Frühen (adjektivform)
+Frühen Morgen - early morning
+
+Ich trinke keinen Tee und keinen Kaffe am frühen morgen, nur am Nachmittag um vierzehn Uhr.  
+	Warum "keinen" nicht "kein", Denn
++ **"Tee" und "Kaffee"** sind maskulin **objekt** (Der Tee, Der Kaffe)
++ und wir benutzen (we use) **"kein" im Akkusativ**, da es direcktes Objekt ist (du trinkst etwas - you drink something) 
+**Beispiele:**
++ Ich trinke keinen Tee (no tea)
++ Ich essen keinen Brot 

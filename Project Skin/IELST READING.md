@@ -401,4 +401,17 @@ Which **TWO** of the following statements does the writer make about legal skill
 
 [CAM9 - Reading Test 2](https://dolacademy.vn/static/full-test/test-result/681c4239046fc55991431c7b?) 
 **Vocabularies:** 
-Imperative (cấp thiết) - a demand 
+Imperative [adj] in a hurry 
+	*Beispiele:* we are under an absolute imperative to work on these bugs 
+Initiative [n] (a suggest in politic policy) 
+Embark [v] (start doing sth)
+Reverberation [n] echoing of smt (sound, heat, light, etc..)
+Promulgate [v] law announcement 
+	Beispiele: Vietnam has officially promulgate new real estate law
+
++ $ *"had had"* mean already had (sth) before another past event.
+	+ The *first had* is the auxiliary (helping) verb
+	+ The *second had* is the *main verb* in the past participle form.
++ ? I had had not pratice coding when I join University. 
+
+
