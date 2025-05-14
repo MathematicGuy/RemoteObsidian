@@ -426,3 +426,4 @@ Always look for rephrased question answers. Never only relied on the word itself
 	Ko hiể initiative thì có thể dùg từ policy làm keyword. -> find paragraph with National policy. Ask myself, which country give out a policy. 
 + National ~ can be represent as a Nation Name
 
+https://dolacademy.vn/static/full-test/test-result/6822f2ada06c3e3699245075?
