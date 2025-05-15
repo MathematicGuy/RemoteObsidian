@@ -24,49 +24,34 @@
             }
           },
           {
-            "id": "c71917cf63caf021",
+            "id": "1a207e01b2abb4d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+                "file": "NCKH Debate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus for Machine Learning"
+              "title": "NCKH Debate"
             }
           },
           {
-            "id": "0f2fa9511755c7de",
+            "id": "41c5bb1462c57a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO - Logistic Regression.md",
+                "file": "RAG Road Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO - Logistic Regression"
-            }
-          },
-          {
-            "id": "2af188e5d933263c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logarithm and Log-Likelihood Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logarithm and Log-Likelihood Function"
+              "title": "RAG Road Map"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,41 +227,41 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2af188e5d933263c",
+  "active": "94a8fec102982b88",
   "lastOpenFiles": [
+    "RAG Road Map.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
+    "NCKH Debate.md",
+    "2 ACTIONS/_Focus.md",
+    "Attention is All You Need.md",
+    "Traditional Action Detection using LSTM with Convolutional Network.md",
+    "RAG Summarize.md",
+    "Sentence Transformer Evolution.md",
+    "Sentiment Analysis using LSTM.md",
+    "Fine-Tuning BERT to SBERT Documentation.md",
+    "Model in RAG (NLP and DL).md",
+    "AIO - RNN.md",
+    "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
+    "AI NEWS.md",
+    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "AIO - Logistic Regression.md",
     "Logarithm and Log-Likelihood Function.md",
     "AIO - Logistic Regression HW.md",
     "Logistic Regression.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Optimization in Neural Network and Newton's Method Final Test.md",
     "Optimization in Neural Networks and Newton's Method.md",
     "Lesson 2 - Newton's Method.md",
     "Lesson 1 - Optimization in Neural Network.md",
     "Calculus_Derivative.md",
     "Gradient and Gradient Descent.md",
-    "Linear Regression Using Gradient Descent Exercise.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning - MML.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Neural Networks.md",
-    "2 ACTIONS/_Focus.md",
-    "Back Propagation.md",
-    "Neural Network Summary.md",
-    "NCKH Debate.md",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
-    "1 PROJECTS/NCKH 2025/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.md",
     "image/Pasted image 20250512085958.png",
     "image/Pasted image 20250512085953.png",
-    "Imbalanced Data in Classification.md",
-    "4 ARCHIVES/ML Project/Image Compression using PCA/PCA.md",
-    "HoG.md",
-    "Graduation Project.md",
     "image/Pasted image 20250511151528.png",
     "image/Pasted image 20250511151244.png",
-    "ML CheatSheet.md",
-    "Decision Tree DIY.md",
     "image/Pasted image 20250510140404.png",
-    "AIO 2025.md",
     "image/Pasted image 20250510133912.png",
     "image/Pasted image 20250510133802.png",
     "image/Pasted image 20250510133404.png",

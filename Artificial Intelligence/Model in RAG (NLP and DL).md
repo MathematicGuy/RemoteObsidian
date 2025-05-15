@@ -1,5 +1,3 @@
-![[Pasted image 20250323163143.png]]
-
 ## Embedding Model
 ![[Pasted image 20250323094817.png]]
  

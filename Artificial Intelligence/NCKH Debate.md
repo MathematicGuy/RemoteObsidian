@@ -632,4 +632,275 @@ X_final[0][0] = [
 	Punching (30s - 50s)
 	Kicking (30s - 50s) 
 3) Algorithm (predict hidden limbs)
-$\theta$
+
+```python
+data = np.load(f"extracted_data/pose_dataset_yolo.npz", allow_pickle=True)
+X_sequences = list(data["X"])
+y_labels = list(data["y"])
+
+print(f"✅ Loaded {len(X_sequences)} sequences.")
+
+import numpy as np
+
+STRIDE = 1
+
+def segment_sequence_with_tail(seq, max_seq_len=5, stride=1):
+    """
+    Breaks a long pose sequence into fixed‑length segments:
+      1) All full windows of length max_seq_len, stepping by stride
+      2) One final 'leftover' segment (the tail), padded to max_seq_len
+    If seq is shorter than max_seq_len, returns one padded segment.
+    Returns an array of shape (n_segments, max_seq_len, n_features).
+    """
+    segments = []
+    L = len(seq) 
+
+    # 1) Full windows
+    for i in range(0, L - max_seq_len + 1, stride):
+        segments.append(seq[i : i + max_seq_len])
+
+    # 2) Tail leftover
+    if L > max_seq_len:
+        # compute where the next window would start
+        last_full_start = ((L - max_seq_len) // stride) * stride
+        next_start = last_full_start + stride
+        if next_start < L:
+            tail = seq[next_start:]
+            # pad tail up to max_seq_len
+            pad_amt = max_seq_len - tail.shape[0]
+            tail_padded = np.vstack([
+                tail,
+                np.zeros((pad_amt, seq.shape[1]), dtype=seq.dtype)
+            ])
+            segments.append(tail_padded)
+    else:
+        # seq is shorter than max_seq_len: pad entire seq once
+        pad_amt = max_seq_len - L
+        padded = np.vstack([
+            seq,
+            np.zeros((pad_amt, seq.shape[1]), dtype=seq.dtype)
+        ])
+        segments = [padded]
+
+    return np.array(segments)
+
+X_seq_padded = []
+y_seq_labels = []
+
+for seq, label in zip(X_sequences, y_labels):
+    # get _all_ segments including the leftover tail
+    segs = segment_sequence_with_tail(
+        seq,
+        max_seq_len=MAX_SEQ_LEN,
+        stride=1
+    )
+    for s in segs:
+        X_seq_padded.append(s)
+        y_seq_labels.append(label)
+
+# X_seq_padded = np.array(X_seq_padded)    # shape (total_segments, MAX_SEQ_LEN, n_features)
+# y_seq_labels = np.array(y_seq_labels)    # shape (total_segments,)
+
+X_seq_padded = np.array(X_seq_padded, dtype=np.float32)
+y_seq_labels = np.array(LabelEncoder().fit_transform(y_seq_labels), dtype=np.int32)
+
+print("Final X shape:", X_seq_padded.shape)      # (n_segments, MAX_SEQ_LEN, 132)
+print("Final y shape:", y_seq_labels.shape)      # (n_segments,)
+
+label_encoder = LabelEncoder()
+y_int = label_encoder.fit_transform(y_seq_labels)  
+# e.g. "Kick"->0, "Punching"->2, "Standing"->1 (the mapping depends on alphabetical order)
+
+# Convert to NumPy
+y_int = np.array(y_int)
+print(y_int.shape)
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(
+    X_seq_padded, 
+    y_int, 
+    test_size=0.2, 
+    stratify=y_int,  # keep classes balanced
+    random_state=42
+)
+
+print("Train shape:", X_train.shape, "Test shape:", X_test.shape)
+print("Train labels shape:", y_train.shape, "Test labels shape:", y_test.shape)
+
+N, MAX_SEQ_LEN, NUM_FEATURES = X_seq_padded.shape
+NUM_CLASSES = len(np.unique(y_int))
+
+PATIENCE = 8
+EPOCH = 20
+BATCH_SIZE = 8
+
+print("N:", N, "\nMAX_SEQ_LEN:", MAX_SEQ_LEN, "\nNUM_FEATURES:", NUM_FEATURES, "\nnum_classes:", NUM_CLASSES)
+
+def build_lstm_model(
+	max_seq_len=MAX_SEQ_LEN, 
+	num_features=NUM_FEATURES, 
+	num_classes=NUM_CLASSES,
+	dropout_rate=0.4, 
+	recurrent_dropout_rate=0.4,
+ 	l2_reg=1e-4
+):
+	model = tf.keras.Sequential([
+		layers.Input(shape=(max_seq_len, num_features)),
+		layers.LSTM(64, return_sequences=True, 
+				   dropout=dropout_rate, recurrent_dropout=recurrent_dropout_rate,
+				   kernel_regularizer=regularizers.l2(l2_reg)),
+
+		layers.LSTM(32, 
+				   dropout=dropout_rate, recurrent_dropout=recurrent_dropout_rate,
+				   kernel_regularizer=regularizers.l2(l2_reg)),
+		
+		layers.Dense(64, 
+					activation='relu', 
+					kernel_regularizer=regularizers.l2(l2_reg)),
+		
+  		layers.Dropout(0.5),
+		layers.Dense(num_classes, activation='softmax')
+	])
+	model.compile(
+		optimizer='adam',
+		loss='sparse_categorical_crossentropy',
+		metrics=['accuracy']
+	)
+	return model
+	
+def build_gru_model(
+    max_seq_len=MAX_SEQ_LEN, 
+    num_features=NUM_FEATURES, 
+    num_classes=NUM_CLASSES,
+    dropout_rate=0.4, 
+    recurrent_dropout_rate=0.4,
+	l2_reg=1e-4	
+):
+    model = tf.keras.Sequential([
+        layers.Input(shape=(max_seq_len, num_features)),
+        
+        layers.GRU(
+            		64, return_sequences=True, 
+					dropout=dropout_rate, recurrent_dropout=recurrent_dropout_rate,
+        			kernel_regularizer=regularizers.l2(l2_reg)),
+        layers.GRU(
+            		32, 
+					dropout=dropout_rate, recurrent_dropout=recurrent_dropout_rate,
+					kernel_regularizer=regularizers.l2(l2_reg)),
+       
+        layers.Dense(num_classes, activation='softmax')
+    ])
+    model.compile(
+        optimizer='adam',
+        loss='sparse_categorical_crossentropy',
+        metrics=['accuracy']
+    )
+    return model
+
+def build_dnn_model(input_dims, num_classes=NUM_CLASSES, dropout_rates=(0.3, 0.2), l2_reg=1e-4):
+    """
+    Returns a freshly compiled DNN model that exut_dim`.
+    The model outputs `num_classes` with 'softmax' for multi-class classification. 
+    The `input_dim` is the number of features in the input data.
+	The `num_classes` is the number of classes for classification.
+    
+    dropout_rates is a tuple indicating the dropout after each Dense layer.
+    Example: (0.3, 0.2) => 30% dropout after first layer, 20% after second layer.
+    """
+	
+    model = tf.keras.Sequential([
+        layers.Input(shape=(input_dims,)),
+        layers.Dense(128, activation='relu', kernel_regularizer=regularizers.l2(l2_reg)),
+        layers.Dropout(dropout_rates[0]),
+        layers.Dense(64, activation='relu', kernel_regularizer=regularizers.l2(l2_reg)),
+        layers.Dropout(dropout_rates[1]),
+        layers.Dense(num_classes, activation='softmax')
+    ])
+
+    model.compile(
+        optimizer='adam',
+        loss='sparse_categorical_crossentropy',
+        metrics=['accuracy']
+    )
+    return model
+
+# 1) Pre‑flatten for DNN once
+X_train_flat = X_train.reshape((X_train.shape[0], -1))
+X_test_flat  = X_test.reshape((X_test.shape[0], -1))
+
+# 2) Parameter grid
+param_grid = {'dropout_rate': [0.3, 0.4, 0.5]}
+grid = list(ParameterGrid(param_grid))
+
+# 3) Map each model type to its builder and input dims
+builders = {
+    # 'lstm': (build_lstm_model, (MAX_SEQ_LEN, NUM_FEATURES, NUM_CLASSES)),
+    # 'gru':  (build_gru_model,  (MAX_SEQ_LEN, NUM_FEATURES, NUM_CLASSES)),
+    'dnn':  (build_dnn_model,  (X_train_flat.shape[1], NUM_CLASSES))
+}
+
+results = []
+
+
+#? 4) Grid search with a single fit() per model
+for model_type, (builder, dims) in builders.items():
+	for p in tqdm(grid, desc=f'{model_type} grid', leave=False):
+		dr = p['dropout_rate']
+		
+		# Instantiate model
+		if model_type in ('lstm', 'gru'):
+			model = builder(
+				*dims,
+				dropout_rate=dr,
+				recurrent_dropout_rate=dr
+			)
+			Xtr, Xte = X_train, X_test
+			ytr, yte = y_train, y_test
+		else:  # dnn
+			model = builder(
+				*dims,
+				dropout_rates=(dr, dr)
+			)
+			Xtr, Xte = X_train_flat, X_test_flat
+			ytr, yte = y_train, y_test
+		
+		# Train once with validation_data
+		hist = model.fit(
+			Xtr, ytr,
+			validation_data=(Xte, yte),
+			epochs=2,
+			batch_size=8,
+			verbose=0
+		)
+		
+		# Extract final accuracies
+		train_acc = hist.history['accuracy'][-1]
+		test_acc  = hist.history['val_accuracy'][-1]
+		print(f'{model_type} - train acc: {train_acc}, test_acc: {test_acc}')
+
+		# Save the trained model to .h5 for later inference
+		filename = f"model_weights2\{model_type}_dr{int(dr*100)}.keras"
+		model.save(filename)
+		
+		results.append({
+			'model':        model_type,
+			'dropout_rate': dr,
+			'train_acc':    train_acc,
+			'test_acc':     test_acc,
+			'saved_file':   filename
+		})
+
+"""output
+# Plot Test Accuracy vs. Dropout Rate
+for model_type in df['model'].unique():
+    subset = df[df['model'] == model_type]
+    plt.figure()
+    plt.plot(subset['dropout_rate'], subset['test_acc'], marker='o')
+    plt.title(f'{model_type.upper()} Test Accuracy vs Dropout Rate')
+    plt.xlabel('Dropout Rate')
+    plt.ylabel('Test Accuracy')
+    plt.xticks(subset['dropout_rate'])
+    plt.ylim(0, 1.0)
+    plt.show()
+"""
+```

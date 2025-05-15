@@ -49,8 +49,6 @@ We don't faster cars (e.g. GPT-5), infrastructure is all we need right now. e.g.
 **NEURAL RETRIEVAL**
 
 
-
-
 + ? **Optimization Retrieval**: 
 	+ ? Leiden Algorithm to segment similar information into a cluster -> Faster retrieval using Knowledge Graph  ![[Pasted image 20250311111227.png]]
 	+ ? **Top-K Retrieval:** Instead of retrieving once, Retrieves top-k results.    
@@ -60,5 +58,7 @@ We don't faster cars (e.g. GPT-5), infrastructure is all we need right now. e.g.
 
 **Hybrid Search**
 ![[Pasted image 20250311111807.png]]
+
 ![[Pasted image 20250311111836.png]]
+
 

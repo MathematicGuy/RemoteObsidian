@@ -6,7 +6,7 @@
 + ? **Transformer Networks (2017)** try to address these issue by using Multi-Head Attention and allow parallel token processing of the entire sentence. 
 + $ The Encoder layer take in entire sentence and output a encoded vector sitanuously, these encoded vector **better than RNN because they understand the bidirectional context thought Attention unit**.
 + ! Eventhough Transformer work well for sequence-to-sequence problem, to train a Transformer from scratch need a lot of data and **their architecture may not be complex enough** to solve many language **problem like Question Answering, Text Summarization, Translation, Intent Classification**.  
-w
+
 ### BERT Networks
 BERT address these concern with the ideology that **different NLP problems all rely on the same fundamental understanding of language.**  ![[Pasted image 20250326071919.png]]
 

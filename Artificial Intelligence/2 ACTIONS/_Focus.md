@@ -5,7 +5,6 @@
 
 #TODO
 **Crucial**
-- [ ] 
 
 
 **Interest**
@@ -18,6 +17,7 @@
 - Khan Academy Information Theory - Understanding Markov Chain 
 
 - [ ] [[MIT Deep Learning]]
+- [ ] [[AI NEWS]]
 
 **Machine Learning**
 [[AIO 2024]]

@@ -113,9 +113,6 @@ In Summary, there are 2 case:
 
 + ? Vanishing Gradient problem
 	Gating mechanism
-	
-	
-	
 
 ### Long Short Term Memory ([LSTM](https://phamdinhkhanh.github.io/2019/04/22/Ly_thuyet_ve_mang_LSTM.html))
 [LSTM Parameters](https://www.kaggle.com/code/kmkarakaya/lstm-understanding-the-number-of-parameters)

@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
@@ -88,7 +90,7 @@
             }
           },
           {
-            "id": "dc4d5b387d633581",
+            "id": "302116f6cc00fcf6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -236,8 +238,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IELST READING.md",
     "_Focus/Todo.md",
+    "IELST READING.md",
     "Spaces/German Vocab Revision.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
