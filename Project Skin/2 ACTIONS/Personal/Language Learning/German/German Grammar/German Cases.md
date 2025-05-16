@@ -47,3 +47,6 @@
 **Dative**: Indirect object (e.g., Ich gebe dem Kind ein Buch).
 **Accusative**: Direct object (e.g., Er hat den Ball).
 ```
+
+
+### German V2 Word Order (Practice a Lot)

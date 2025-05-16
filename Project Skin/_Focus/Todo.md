@@ -6,25 +6,21 @@ banner: Images/Pasted image 20240402135259.png
 
 ## [Calendar]
 #Todo/Priority  
-- [x] Re-format Deutsch learning process
-- [x] Plan for my IELST revision
-- [ ] Plan out learning time-frame
-- [ ] Organize and Map out [[AI Engineering Job]] and RoadMap   
 
 
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
-- [ ] Refine paper and Re-train my Action Detection Model then apply Yolo for multiple-person action detection.  
-- [ ] Survey MC-OCR project to understand how their system work, Outline the system in abstract flow-chart.
+
 
 #Todo/[[GoalsThisMonth]]
-- [ ] 8h-10h study AIO
-- [ ] Note [Phỏng vấn AI](https://itviec.com/blog/cau-hoi-phong-van-ai-engineer/?utm_medium=multiple_images_post&utm_source=facebook&utm_campaign=interview_questions_blog&utm_content=130425_3pm&fbclid=IwY2xjawJqqxhleHRuA2FlbQIxMAABHiOm4p8yTV_75GpJLL54me1QvBTYTJIw8AUmavUYEiqojzFEzNOeyZfU3Ebo_aem_uj2nufodClJRhwqw7efLyg)
+- [ ] Learning **German Accusative & Nominative**
+- [ ] English Pronunciation
+- [ ] German Pronunciation
+
 
 #MyRuleThat_I_SwearToLiveBy
-- [ ] No LoL after 16:00 (4PM)
-- [ ] Exercise right after waking up 
 - [ ] To be the person that I am. I must let the person that I not. Die
+
 
 [[Calisthenics]]
 
@@ -35,7 +31,6 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
 - [ ] [The Experimental Generation of Interpersonal Closeness](https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH)
-+ Single match in pair. They were asked to work through 36 questions and then stare into each other's eyes for four minutes. To see if they fall in love
 
 
 >  Giáo sư Andrew Huberman bàn luận với giáo sư Adam Grant về những chủ đề rất thiết thực liên quan đến tâm lý và thần kinh học như là cách để khai phá khả năng của con người, mặt trái của động lực nội tại, sự thật về tính chân thực (authenticity) cùng rất rất nhiều nội dung thú vị khác
@@ -90,10 +85,10 @@ banner: Images/Pasted image 20240402135259.png
 
  
 
-
 Luck 
 ![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
 
 12/5/2024
 ![[Pasted image 20241205142934.png]]
+
 
