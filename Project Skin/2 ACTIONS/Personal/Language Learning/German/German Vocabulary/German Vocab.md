@@ -377,3 +377,5 @@ Künstmuseum
 	Note: Künst mean art, Künstler mean artist, Künstliche Intelligenz mean artificial intelligenz. 
 Bild painting 
 
+Gleich shortly 
+
