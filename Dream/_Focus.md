@@ -11,6 +11,7 @@
 
 ### [[_My Life]]
 
+### [[Styles]]
 ### [[THOUGH]]
 
 # RESOURCES
