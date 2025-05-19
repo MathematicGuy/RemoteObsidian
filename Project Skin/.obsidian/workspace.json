@@ -28,10 +28,15 @@
             "id": "6e1fdd99ad4a463f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Business Negotiation Skills.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business Negotiation Skills"
             }
           }
         ],
@@ -248,8 +253,8 @@
   },
   "active": "6e1fdd99ad4a463f",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "1 PROJECTS/Business Negotiation Skills.md",
+    "_Focus/Todo.md",
     "Images/Pasted image 20250519092957.png",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",

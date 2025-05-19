@@ -27,7 +27,7 @@ Khi đàm phán phải dựa trên cả luật pháp, bao gồm cả các yếu 
 
 ## Negotication Types
 
-**Accommodative negotiation** (đàm phán thích nghi)** -> Small Win or even Loss while they Win ~ but win their **Trust & Loyalty**. 
+**Accommodative negotiation** (đàm phán thích nghi)** -> **accept losses sometime to win their Trust & Loyalty**. 
 >This type is build from a greater willingness to concrede (nhượng bộ) in order to preserve harmony and foster long-term ralationships. 
 	e.g. US decrease Vietnam tariff for Vietnam to decrease US tariff as well.
 
@@ -35,15 +35,14 @@ Khi đàm phán phải dựa trên cả luật pháp, bao gồm cả các yếu 
 >This type rotate around the allocation of finite resources, where the success of one party implies the loss of the other.   
 
 **Collaborative negotiation (đàm phán hợp tác)** aim for -> **Win-Win** 
-> This type aim to maximize mutual benefits. It emphasizes creative solutions and employes the "win-win" negotiation technique.  
+>This type aim to maximize mutual benefits. It emphasizes creative solutions and employes the "win-win" negotiation technique.  
 
-**Negotiation by compromise** -> both parties accept losses to achieve a middle ground.
+**Negotiation by compromise (đàm phán theo thỏa hiệp)** -> both parties accept losses to achieve a middle ground.
 >This involves **parties striving for equitable agreements through mutual concesions.** It entails an intermediate level of cooperation and compromise to attain a middle ground.  
 
-**Negotiation by compromise (đàm phán theo thỏa hiệp)**
+**Avoidant negotiation** -> evades a forsees unprofit negotiation.  
+> Marked by a desire to evade conflicts and challenging situations, often by to postpone or altogether avoiding (hoàn toàn né tránh) the negotiation process. It is employed when *it is deemed* (đc coi là) more advantagous to *forego* (từ bỏ) negotiation, as there is an *anticipation (mong đợi)* of no benefit from reaching an agreement. (vì có sự dự đoán rằng sẽ không có lợi ích từ việc đạt được thỏa thuận) 
 
-
-**Avoidant negotiation** -> evades a forsees not profit negotiation.  
 
 
 **Multilatera negotiation (đàm phán đa phương)** - involve three or more nations negotiating simultaneously to reach an agreement acceptable for all participants.  
@@ -61,8 +60,14 @@ Khi đàm phán phải dựa trên cả luật pháp, bao gồm cả các yếu 
 
 ## 2. Negotiation Technique
 
-## 2.1. Negotiation Openning Technique 
 
+
+
+
+
+
+
+## 2.1. Negotiation Openning Technique 
 
 
 ## 2.2. Kỹ thuật truyền đạt thông tin
