@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,28 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "7f8971c19907bf0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/Business Negotiation Skills.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Business Negotiation Skills"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +88,7 @@
             }
           },
           {
-            "id": "4086d2d5eeb9063b",
+            "id": "6e654bdcc031bf0f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -251,10 +233,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f8971c19907bf0a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "1 PROJECTS/Business Negotiation Skills.md",
+    "_Focus/Todo.md",
     "Images/Pasted image 20250519092957.png",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",

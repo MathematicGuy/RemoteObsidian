@@ -1,3 +1,4 @@
+
 ![[Pasted image 20250227153305.png]]
 
 >LSTM được phát triển giống như cách não ghi nhớ thông tin -> tập trung vào shorterm memory kết hợp vs long-term memory.
