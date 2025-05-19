@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "10c418188c202198",
+            "id": "f2da077f0b1d6fa8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Skills for Enterprise.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Skills for Enterprise"
             }
           }
         ],
@@ -101,7 +106,7 @@
             }
           },
           {
-            "id": "92c6e05a352e9fd0",
+            "id": "d986e21fad24507b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,8 +115,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,9 +251,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10c418188c202198",
+  "active": "f2da077f0b1d6fa8",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "1 PROJECTS/Skills for Enterprise.md",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
@@ -286,7 +291,6 @@
     "Excalidraw/Drawing 2025-04-14 11.21.05.excalidraw.md",
     "Excalidraw",
     "Images/Pasted image 20250414105506.png",
-    "IELST/Untitled.md",
     "Spaces/#todo",
     "Doodles",
     "Images/Pasted image 20240829200722.png",
