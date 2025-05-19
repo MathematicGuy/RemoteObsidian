@@ -24,7 +24,9 @@ Solution: [Interpreting Validation and Loss](https://medium.com/@frederik.vl/int
 **Intuition:** think Accuracy and Recall 
 
 
-# [[PCA Dimensionality Reduction]] -> [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+# [[Feature Engineering]]
+ [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+## [[PCA Dimensionality Reduction]]
 ![[Pasted image 20241117133409.png]]
 
 

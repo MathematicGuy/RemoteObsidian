@@ -86,7 +86,7 @@ note luyện code phần:
 + Note: don't believe ChatGPT, learn from reliable source like LinkedIn or GeeksforGeeks.  
 
 
-![[Pasted image 20240611193343.png# image|]]
+![[Pasted image 20240611193343.png|]]
 
 **Type of thinker:** https://www.facebook.com/share/v/ugMCx8db4voZLUeW/
 **Income Comparison:** https://www.facebook.com/share/v/9s4BfrjrdE6XqYxW/

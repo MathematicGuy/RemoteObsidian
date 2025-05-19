@@ -1,10 +1,10 @@
 [
   "table-editor-obsidian",
-  "oz-image-plugin",
   "calendar",
   "highlightr-plugin",
   "homepage",
   "obsidian-list-callouts",
   "obsidian-style-settings",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-image-toolkit"
 ]
