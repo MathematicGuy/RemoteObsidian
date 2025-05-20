@@ -1,6 +1,12 @@
 This plan balances strength, hypertrophy, and mobility while aligning with your "2 days on, 1 day off + light weekend" structure.  
 *(Minimal equipment required: pull-up bar, parallel bars, floor space.)*
 
+### Weighted Calisthenics
+![[Pasted image 20250520224806.png]]
+>Narrow hand placement, might create more force at first but block your muscle movement in long duration. 
+
+
+
 ---
 
 ### **Weekly Schedule**  
