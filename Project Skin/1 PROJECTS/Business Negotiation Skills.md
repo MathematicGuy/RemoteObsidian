@@ -129,6 +129,14 @@ for each party, prepare a one-page "role brief" with
 	Attitudes to time (monochronic vs polychronic)
 	
 3. **Interests & BATNA**
+	Top 3 interests (e.g. cost saving, market access)
+	Reservation point and Best Alternative To a Negotiated Agreement
+	
+4. **Sensitive Issues & Taboos**
+	Topics to avoid or handle delicately (e.g. direct criticism, personal question)
+
+
+
 
 ### Cross-Culture Negotiation 
 > Negotiation between individual from different national, ethic or cultural background, where cultural practice differences significantly affect communication, behaviour, decision-making and expectations. 
@@ -141,6 +149,7 @@ for each party, prepare a one-page "role brief" with
 	+ Derail a big deals by Miscommunication
 	+ Damage relationship if misunderstand their culture
 	+ A lack of cultural awareness may lead to **offense**, **mistrust**, or **missed opportunities**.
+
 
 
 
