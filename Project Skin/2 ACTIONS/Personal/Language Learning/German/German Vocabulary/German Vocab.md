@@ -378,4 +378,7 @@ Künstmuseum
 Bild painting 
 
 Gleich shortly 
+Das Problem 
+Im dem - in the
+	Im dem Stadviertel - in the neighborhood 
 

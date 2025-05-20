@@ -116,6 +116,7 @@ For scenrio, **define:**
 + **Context & Background** (industry, market, stakes)
 + **Key Issues** (price, timeline, quality, staffing, IP right, etc.)
 + **Desired Outcomes** for each side. 
++ ? The first homework only include Part 1 + 2. TODO: Set up realistic Negotiation Scenario.w 
 
 #### 3. Create Detailed Role Briefs
 for each party, prepare a one-page "role brief" with
@@ -134,8 +135,6 @@ for each party, prepare a one-page "role brief" with
 	
 4. **Sensitive Issues & Taboos**
 	Topics to avoid or handle delicately (e.g. direct criticism, personal question)
-
-
 
 
 ### Cross-Culture Negotiation 
