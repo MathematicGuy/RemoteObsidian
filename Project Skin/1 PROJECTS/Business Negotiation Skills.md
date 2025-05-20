@@ -58,35 +58,111 @@ Khi đàm phán phải dựa trên cả luật pháp, bao gồm cả các yếu 
 + ? **Question:** How to construct a Negotiation scenario. 
 
 
+## How to negotiate Techniques 
++ $ Negotiate technique is specific methods used during negotiation process aim to achieving beneficial outcome for all parties involved. 
+
+**#1 Harvard Method** -> aim for finding collaborative solutions to **achieve mutual beneficial agreement** by **identifying shared interests, encourage open dialogue (both party can negotiation freely) and collaborative solutions.**
++ *Prioritizing uncovering underlying* interests (interest the other party haven't talk about) rather fixating on rigif positions. 
++ See negotiation as promoting collaboration instead of a competition. 
++ Seeking to detach emotion and personal relationship from the problem at hand (Tìm cách tách rời cảm xúc và mqh cá nhân khỏi cấn đề hiện tại)
++ Encourage creative solution that *address the intersts of all parties involved.* (giải quyết vấn đề lợi ích của các bên tham gia) 
++ Finally, strive to *foster mutual commitment* (thúc đẩy cam kết lẫn nhau) in working toward the solutions. 
+
++ ? Negotiation not ony used for political purpose, *Not all negotiation happend between human to human, it can be between humans and the problems too*. Such as negotiation in helping business client finding their optimal solutions. These are methods are:
+
+**#2 SPIN Method -> techinical support, finding business solution** 
++ ? *This approach identifying and comprehending the client's Situations, Problems, Implications (Ý Nghĩa) and Needs* to tailor the negotiation strategy and optimal solutions for the client.
+ + $ in summary, SPIN method fous in **understanding client's circumstances, probing (thăm dò) their problems and challenges** to *comprehence* (hiểu được) the severity of their problems and **tailor the optimal solution.** 
+
+**#3 AIDA Method**
++ ? *AIDA representing Attention, Interest, Desire and Action*, serves as a sales negotiation technique. 
++ $ In summary, AIDA focus in captuering customer Attention, Sparking their Interest, Generating their desire and need to dirving the customer a desired action, such as purchase, registering or contacting. 
+
+**#4 Win-Win Technique**
++ ? Win-Win technique centerd around building Trust, long-term business relationship and maximuze joint value where both collatorate parties  explored and understanding each other's interests and needs, foster open and honest communication.  
+
+**#5 Strategic Empathy ("Kill them with kindness" without the manipulation part, not to disarm (the problem) or gaining favor but to align interest and create value)** -> this technique similar to Harbard Method or SPIN, all create a win-win situation.  
++ ? As it name suggest, this technique entails *understanding the emotions, needs and perspectives of the other party to fostering a "win-win" negotiation*, *leverage empathy to positively influence the other party's perception and disposition (thái độ) during the negotiation process* (tận dụng sự đồng cảm để gây ảnh hưởng tích cực đến nhận thức và thái độ của bên kia trong quá trình đàm phán) 
+
+**Negotiation Examples:**
++ ? **Negotiating within a company is a fundamental activity that encompasses various fields (bao gồm nhiều lĩnh vực khác nhau)**. Consider a **salary negotiation**, whether during the hiring process or an annual review. By applying win-win negotiation techniques and focusing on interests, solutions can be reached that satisfy the expectations of both the employer and the employee.
++ $ For example: Instead of just asking for higher salary by clamming you are irreplaceable (sounds like a threat), approach collaboratively by offering what more you wish to contribute for the company if the salary goes up (Basically you give me more, I do more)
+
++ Reaching **contractual agreements** with suppliers, customers, or business partners (đạt được thỏa thuận hợp đồng vs nhà cung cấp, khách hàng hoặc đối tác kinh doanh)
+	
++ Negotiating **purchase and sales conditions, prices, and terms** with suppliers and customers. (đàm phán điều kiện mua bán, giá cả và điều khoản với nhà cung cấp và khách hàng)
+	
++ Reaching an agreement on **terms and conditions in corporate merger processes**. (Đạt được thỏa thuận trên điều khoản và điều lệ)
+
+### How to build a Negotiation Scenario
++ ? **Homework: Hãy lấy ví dụ về 1 cuộc đàm phán trong thực tế**, nêu rõ các giai đoạn trong cuộc đàm phán đó. Dài 5 phút (rất ngắn). Đơn giản là lấy ví dụ, nêu hoàn cảnh và vấn đề, rồi nêu giải pháp và điều mình học đc. 
++ $ Note: mọi kĩ năng đều là vừa làm vừa học. Phải làm vs học đc vì đây là giao tiếp. 
+
+#### 1. Define Your Learning Objectives
+Before you jump in, decide what you want participants to practice:
+	
+- **Cultural awareness** (e.g. recognizing high‑ vs. low‑context styles)
+    
+- **Communication skills** (active listening, clarifying questions)
+    
+- **Negotiation tactics** (anchoring, integrative bargaining)
+    
+- **Relationship building** (rapport, trust)
+    
+- **Conflict resolution** (managing misunderstandings)
+
+#### 2. Select a Realistic Scenario
+For scenrio, **define:**
++ **Context & Background** (industry, market, stakes)
++ **Key Issues** (price, timeline, quality, staffing, IP right, etc.)
++ **Desired Outcomes** for each side. 
+
+#### 3. Create Detailed Role Briefs
+for each party, prepare a one-page "role brief" with
+1. **Organizational Profile**
+	Company description
+	Strategic priorities
+	
+2. **Culture Profile**
+	Communication style (high- vs low-context)
+	Decision making norms (hierarchical vs consensus)
+	Attitudes to time (monochronic vs polychronic)
+	
+3. **Interests & BATNA**
+
+### Cross-Culture Negotiation 
+> Negotiation between individual from different national, ethic or cultural background, where cultural practice differences significantly affect communication, behaviour, decision-making and expectations. 
++ ? This **involve understanding values, norms, communication styles, and negotiation practice that vary across cultures.**
++ $ Why this matter, why should i f-up their culture ? **Being culural competent helps negotiators:** 
+	+ **Build trust faster**
+	+ Avoid unintended disrespect
+	+ Tailor offers and strategies more effectively
++ ! Without this, you can
+	+ Derail a big deals by Miscommunication
+	+ Damage relationship if misunderstand their culture
+	+ A lack of cultural awareness may lead to **offense**, **mistrust**, or **missed opportunities**.
+
+
+
 ## 2. Negotiation Technique
++ ? 5Q, 3F, BID
+
+### 2.1. Negotiation Openning Technique 
 
 
+### 2.2. Kỹ thuật truyền đạt thông tin
 
 
+### 2.3. Kỹ thuật lập luận
 
 
+### 2.4. Kỹ thuật vô hiệu hoá ý kiến đối tác
 
 
-## 2.1. Negotiation Openning Technique 
+### 2.5. Kỹ thuật kết thúc đàm phán
 
 
-## 2.2. Kỹ thuật truyền đạt thông tin
-
-
-
-## 2.3. Kỹ thuật lập luận
-
-
-
-## 2.4. Kỹ thuật vô hiệu hoá ý kiến đối tác
-
-
-
-## 2.5. Kỹ thuật kết thúc đàm phán
-
-
-
-## 2.6. Công cụ đàm phán
+### 2.6. Công cụ đàm phán
 
 
 ## 2.7. Nghệ thuật đàm phán
