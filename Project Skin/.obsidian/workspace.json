@@ -28,14 +28,34 @@
             "id": "50b679a8e7802e9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Business Skills/Entrepreneurial Thinking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entrepreneurial Thinking"
+            }
+          },
+          {
+            "id": "6c478f8835fffa04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Business Negotiation Skills"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,11 +266,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "50b679a8e7802e9f",
+  "active": "6c478f8835fffa04",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "1 PROJECTS/Business Negotiation Skills.md",
+    "Images/Pasted image 20250521081338.png",
+    "3 RESOURCES/Save for later/Save for later.md",
+    "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
+    "1 PROJECTS/Business Skills/Entrepreneurial Thinking.md",
+    "1 PROJECTS/Business Skills",
     "IELST READING.md",
+    "Images/Pasted image 20250521071148.png",
+    "_Focus/Todo.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "Images/Pasted image 20250520224806.png",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
@@ -270,7 +295,7 @@
     "Images/Pasted image 20250424141437.png",
     "Images/Pasted image 20250423133438.png",
     "IELST/IELST.md",
-    "1 PROJECTS/CMC Summer 2024/Machine Learning and Data Mining.md",
+    "4 ARCHIVES/CMC Summer 2024/Machine Learning and Data Mining.md",
     "IELST Writing.md",
     "Images/Pasted image 20250418155512.png",
     "Images/Pasted image 20250418154838.png",
@@ -280,21 +305,16 @@
     "Images/Pasted image 20250416210225.png",
     "IELST test real 2025.md",
     "Images/Pasted image 20250416210157.png",
-    "Images/Pasted image 20250416210141.png",
     "Untitled.md",
-    "IELST/SPEAKING IELST .md",
     "Untitled.canvas",
-    "Spaces/Vault.md",
-    "IELST Road Map.md",
     "Excalidraw",
     "Spaces/#todo",
     "Doodles",
     "IELST",
-    "1 PROJECTS/UI_UX",
+    "4 ARCHIVES/UI_UX",
     "Images",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "2 ACTIONS/Personal/Language Learning/Languages Notes",
-    "4 ARCHIVES/2024",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "_Focus/This is my Life.canvas",

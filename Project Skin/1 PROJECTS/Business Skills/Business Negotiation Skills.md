@@ -137,7 +137,9 @@ for each party, prepare a one-page "role brief" with
 	Topics to avoid or handle delicately (e.g. direct criticism, personal question)
 
 
-### Cross-Culture Negotiation 
+### Communication in Cross-Culture Negotiation 
+source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtube.com/watch?v=PTWRlEtE5i0), 
+
 > Negotiation between individual from different national, ethic or cultural background, where cultural practice differences significantly affect communication, behaviour, decision-making and expectations. 
 + ? This **involve understanding values, norms, communication styles, and negotiation practice that vary across cultures.**
 + $ Why this matter, why should i f-up their culture ? **Being culural competent helps negotiators:** 
@@ -149,11 +151,19 @@ for each party, prepare a one-page "role brief" with
 	+ Damage relationship if misunderstand their culture
 	+ A lack of cultural awareness may lead to **offense**, **mistrust**, or **missed opportunities**.
 
+![[Pasted image 20250521071148.png]] 
++ Ex: German open to confrontation as long as it represented calmly. 
+
+![[Pasted image 20250521081338.png]]
+**Upgraders**: strengthen the agreements
 
 
+**Downgraders**: words like "maybe", "just a little bit" that help you solve a disagreement. 
 
+  
 ## 2. Negotiation Technique
 + ? 5Q, 3F, BID
+ 
 
 ### 2.1. Negotiation Openning Technique 
 
