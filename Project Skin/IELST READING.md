@@ -430,7 +430,7 @@ https://dolacademy.vn/static/full-test/test-result/6822f2ada06c3e3699245075?
 
 ---
 
-### Test 2
+### CAM15 - Reading Test 1
 [21/5 Test Score](https://dolacademy.vn/static/full-test/test-result/682c32824b98484a7ad7de37?) - 1 3 3 - 34/40 - 7.5
 
 **chronological** - according to the order of time *(is the adjective)*
@@ -442,3 +442,9 @@ Depictions - miêu tả
 Subjective Depictions - miêu tả chủ quan 
 Polarised - phân cực
 	polarised  the participants' attitudes - phân cực người tham gia -> DO NOT make people change their opinions about automation. Because no matter if the film was positive or negative, there always 2 sides of opinion 
+
+---
+
+### CAM15 - Reading Test 4
+[21/5 Test Score](https://dolacademy.vn/static/full-test/test-result/682c32824b98484a7ad7de37?) - 1 2 3 - 34/40 - 7.5
+![[Pasted image 20250521151252.png]]
