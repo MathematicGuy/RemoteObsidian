@@ -431,11 +431,14 @@ https://dolacademy.vn/static/full-test/test-result/6822f2ada06c3e3699245075?
 ---
 
 ### Test 2
-[21/5 Test Score](https://dolacademy.vn/static/full-test/test-result/682c32824b98484a7ad7de37?) - 4 2 2 - 33/40 - 7.5
+[21/5 Test Score](https://dolacademy.vn/static/full-test/test-result/682c32824b98484a7ad7de37?) - 1 3 3 - 34/40 - 7.5
 
 **chronological** - according to the order of time *(is the adjective)*
 **chronological order** - means **arranging events or thing in the order they happend or occur in time** (noun phrase describing the arrangement)
 + ? **For example**, a historical timeline using the dates of events would be in chronological order, as each event is placed according to when it happened. **Similarity arranging a list of events from earliest to latest is in chronological order.** The adjective "chronological" describes the way these events are organized. 
 
 
-
+Depictions - miêu tả
+Subjective Depictions - miêu tả chủ quan 
+Polarised - phân cực
+	polarised  the participants' attitudes - phân cực người tham gia -> DO NOT make people change their opinions about automation. Because no matter if the film was positive or negative, there always 2 sides of opinion 
