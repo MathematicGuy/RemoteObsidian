@@ -449,3 +449,9 @@ Polarised - phân cực
 [21/5 Test Score](https://dolacademy.vn/static/full-test/view-result/682c51e142221a6ac2d34bef) - 1 2 3 - 34/40 - 7.5
 ![[Pasted image 20250521151252.png]]
 
+---
+
+Cảnh 1: kê 2 bàn cho 2 người lãnh đạo trump + putin ngồi 2 đầu đối diện.
+Chuyển cảnh -> kê tr'c bàn hình chữ U, có người đứng ở giữa là Thư ký nhà Trắng phát ngôn. 
+![[Pasted image 20250521210729.png]]
+
