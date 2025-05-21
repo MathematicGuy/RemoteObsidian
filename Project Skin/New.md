@@ -1,1 +1,0 @@
-What the f* are you doing to me why are
