@@ -137,8 +137,8 @@ for each party, prepare a one-page "role brief" with
 	Topics to avoid or handle delicately (e.g. direct criticism, personal question)
 
 
-### Communication in Cross-Culture Negotiation 
-source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtube.com/watch?v=PTWRlEtE5i0), 
+## Communication in Cross-Culture Negotiation 
+source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtube.com/watch?v=PTWRlEtE5i0)
 
 > Negotiation between individual from different national, ethic or cultural background, where cultural practice differences significantly affect communication, behaviour, decision-making and expectations. 
 + ? This **involve understanding values, norms, communication styles, and negotiation practice that vary across cultures.**
@@ -151,19 +151,29 @@ source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtu
 	+ Damage relationship if misunderstand their culture
 	+ A lack of cultural awareness may lead to **offense**, **mistrust**, or **missed opportunities**.
 
+### Nuances of Disagreeement
 ![[Pasted image 20250521071148.png]] 
-+ Ex: German open to confrontation as long as it represented calmly. 
-
++ Emotionally Unexpressive mean having a negative view in Expressing Negative emotion -> toward a peaceful confrontation.  
+	+ ? German open to confrontation as long as it represented calmly. 
+	+ ? While the American more openly to emotion outburst with confrontation.  
+	
++ $ **To prepare for Cross-Culture Negotiation, Linguistic expert said the key is to Analyze Verbal Cue**
 ![[Pasted image 20250521081338.png]]
-**Upgraders**: strengthen the agreements
+**Upgraders**: Strengthen the disagreements, word like absolutely, completely. 
+**Downgraders**: Soften the disgreement, words like "maybe", "just a little bit" that help you solve a disagreement. 
 
-**Downgraders**: words like "maybe", "just a little bit" that help you solve a disagreement. 
++ $ **In some country, YES actually mean NO**. What the hell ???
+![[Pasted image 20250521104254.png]]
++ ? Egypt use both natural and body language to express their idea, so yes with a bad grun in their face mean "No, I think a little about it, I really want but not now, etc..." . While yes with a high positive tone mean Yes.
++ $ You still can use YES or NO bit make sure to analyze their body language![[Pasted image 20250521104743.png]]
 
-  
++ $ To help conversation more straight forward, instead of asking YES/NO question, ask open ended question with expectation 
+
+
+
 ## 2. Negotiation Technique
 + ? 5Q, 3F, BID
  
-
 ### 2.1. Negotiation Openning Technique 
 
 
@@ -173,7 +183,7 @@ source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtu
 ### 2.3. Kỹ thuật lập luận
 
 
-### 2.4. Kỹ thuật vô hiệu hoá ý kiến đối tác
+### 2.4. Kỹ thuật vô hiệu hoá ý kiến đối tác (bác bỏ)
 
 
 ### 2.5. Kỹ thuật kết thúc đàm phán
