@@ -446,5 +446,6 @@ Polarised - phân cực
 ---
 
 ### CAM15 - Reading Test 4
-[21/5 Test Score](https://dolacademy.vn/static/full-test/test-result/682c32824b98484a7ad7de37?) - 1 2 3 - 34/40 - 7.5
+[21/5 Test Score](https://dolacademy.vn/static/full-test/view-result/682c51e142221a6ac2d34bef) - 1 2 3 - 34/40 - 7.5
 ![[Pasted image 20250521151252.png]]
+
