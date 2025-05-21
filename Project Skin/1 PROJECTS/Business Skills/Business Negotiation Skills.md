@@ -157,7 +157,6 @@ source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtu
 ![[Pasted image 20250521081338.png]]
 **Upgraders**: strengthen the agreements
 
-
 **Downgraders**: words like "maybe", "just a little bit" that help you solve a disagreement. 
 
   
