@@ -452,3 +452,5 @@ Polarised - phân cực
 ---
 
 [Reading Note with Lean Thinking](https://www.youtube.com/watch?v=slXTO4yOnnU)  
+
+Regarding - about or relating to
