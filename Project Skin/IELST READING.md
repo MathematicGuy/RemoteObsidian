@@ -451,7 +451,4 @@ Polarised - phân cực
 
 ---
 
-Cảnh 1: kê 2 bàn cho 2 người lãnh đạo trump + putin ngồi 2 đầu đối diện.
-Chuyển cảnh -> kê tr'c bàn hình chữ U, có người đứng ở giữa là Thư ký nhà Trắng phát ngôn. 
-![[Pasted image 20250521210729.png]]
-
+[Reading Note with Lean Thinking](https://www.youtube.com/watch?v=slXTO4yOnnU)  
