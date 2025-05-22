@@ -200,14 +200,15 @@ Note:
 + ? In economics, the term "self-interest" refers to the idea that people act in ways that are designed to maximize their own well-being.  But when everyone is a self-interest the only way to maximize your self is by cooraporating with others while maybe suppress other along the way, but who they suppress are good or bad people are up to consideration/debate.
 	reference: [self-interest vs social interest and the invisible hand](https://www.youtube.com/watch?v=P08cWVYZwmg)  
 	
--> **The problem still trace back to what is their Interest ?**
+-> **The problem still trace back to what is their Interest ?** 
 
 
-+ $ **Clearing Argument:** What if everyone are self-interest,  
++ $ **Clearing Argument:** What if everyone are self-interest, give example of how self-interst actually help social-interest giving both social and student example. 
 	
-+ $ **Argument 1:** As human, there multiple element that dictate our actions other than self-interest such as empathy, moral compass and intelligent. A person with self-interest with Low Moral Compass often steal people work and effort, in constract a person with self-interest and empathy will adjust their prioritize from I will get it all to I can help you as long as you help me get what I want.  
++ $ **Supporting Argument 1: What made a bad self-interest** As human, there multiple element that dictate our actions other than self-interest such as empathy, moral compass and intelligent. A person with self-interest with Low Moral Compass tend to steal others work and effort, in constract a person with self-interest and empathy will adjust their prioritize from I will get it all to I can help you as long as you help me get what I want.  
 	
-+ $ **Argument 2:** In reality everyone have self-interest, this make people who puting themself second vulnerable to manipulation.  
++ $ **Argument Argument 2: People without self-interest are vulnerable** In reality everyone have self-interest, this make people who don't puting themself as self-interest vulnerable to manipulation, especially recruiting company, their close one such as friend and family. 
+
 
 
 **My Opinion**
