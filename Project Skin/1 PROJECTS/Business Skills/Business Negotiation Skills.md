@@ -169,11 +169,57 @@ source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtu
 
 + $ To help conversation more straight forward, instead of asking YES/NO question, ask open ended question with expectation 
 
+### Negotiation Practicing Topic (HW)
+#### **Technology:** ChatGPT in education Should or Should Not. 
+
+#### **Lifestyle:** Self-Interest than other-interest (Lợi ích bản thân luôn lớn hơn lợi ích người khác)
+
+Note: 
++ $ First **Really Understand the Question**. Secondly, make sure you and the Negotiator are having the same ideas
++ Self-Interest synonym is egoistic individual.
++ **Empathy is when you feel other person feeling** & have the urge to offer support. **Sympathy is when you understand why that person feel that way** but you not really care about their emotionally. 
++ Does "Prioritizing self-interest than other-interest" simply mean "Putting yourself first". 
+
+**Self-Interest Problem Examples**
++ Guy want to destroy the world. 
++ Investor want to sucks all the profit regard the company going bankrupts or collapse or not.
++ Guy showup good in public but bad when home. 
++ Student fake their results just to have a good degree and please people eyes -> Good but also Bad. 
++ Influencer raise charity just to look good -> Good. 
++ Policieans help people along the path of overthrowing their government.
++ Competent students leaving a group of incompetent student 
+	-> Absolutely Good
+	  
+-> **Commons:** Their Interest.
+-> **Self-Interest Good or Bad ?** -> *Depend on their interest* 
+
+
++ $ **Self-Interest definition:**
++ ? Is the act of considering yourself higher than other when making decisions and deciding what best for you. 
+	
++ ? In economics, the term "self-interest" refers to the idea that people act in ways that are designed to maximize their own well-being.  But when everyone is a self-interest the only way to maximize your self is by cooraporating with others while maybe suppress other along the way, but who they suppress are good or bad people are up to consideration/debate.
+	reference: [self-interest vs social interest and the invisible hand](https://www.youtube.com/watch?v=P08cWVYZwmg)  
+	
+-> **The problem still trace back to what is their Interest ?**
+
+
++ $ **Clearing Argument:** What if everyone are self-interest,  
+	
++ $ **Argument 1:** As human, there multiple element that dictate our actions other than self-interest such as empathy, moral compass and intelligent. A person with self-interest with Low Moral Compass often steal people work and effort, in constract a person with self-interest and empathy will adjust their prioritize from I will get it all to I can help you as long as you help me get what I want.  
+	
++ $ **Argument 2:** In reality everyone have self-interest, this make people who puting themself second vulnerable to manipulation.  
+
+
+**My Opinion**
+Self-Interest 
+
+
+**Reference POV and Opinion**
 
 
 ## 2. Negotiation Technique
 + ? 5Q, 3F, BID
- 
+
 ### 2.1. Negotiation Openning Technique 
 
 
@@ -192,4 +238,6 @@ source: [Effect Cross-Cultural Communications and Negotiation](https://www.youtu
 ### 2.6. Công cụ đàm phán
 
 
-## 2.7. Nghệ thuật đàm phán
+### 2.7. Nghệ thuật đàm phán
+
+
