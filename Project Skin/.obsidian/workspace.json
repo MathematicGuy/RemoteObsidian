@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "42aa26e6ccc34212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELST READING.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "IELST READING"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +90,7 @@
             }
           },
           {
-            "id": "5e7548b9ece0a722",
+            "id": "0f90bac9cf0f6517",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -251,11 +235,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "42aa26e6ccc34212",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Images/Pasted image 20250521210729.png",
-    "IELST READING.md",
     "_Focus/Todo.md",
+    "IELST READING.md",
+    "Images/Pasted image 20250521210729.png",
     "New.md",
     "Images/Pasted image 20250521151252.png",
     "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
@@ -287,7 +271,6 @@
     "IELST/IELST.md",
     "4 ARCHIVES/CMC Summer 2024/Machine Learning and Data Mining.md",
     "IELST Writing.md",
-    "Images/Pasted image 20250418155512.png",
     "Spaces/#habit",
     "IELST/NOTE IELST .md",
     "IELST test real 2025.md",
