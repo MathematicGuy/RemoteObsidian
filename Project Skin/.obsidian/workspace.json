@@ -14,48 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Focus/Todo.md",
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "German Vocab"
             }
           },
           {
-            "id": "ca064d69eb83d147",
+            "id": "d43d3b660d93e7f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELST READING.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "IELST READING"
-            }
-          },
-          {
-            "id": "3f72d4ae0986f5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Business Negotiation Skills"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +100,7 @@
             }
           },
           {
-            "id": "0f90bac9cf0f6517",
+            "id": "3244c736296890b7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -266,11 +245,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3f72d4ae0986f5d7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
     "_Focus/Todo.md",
     "IELST READING.md",
+    "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
     "Images/Pasted image 20250521210729.png",
     "New.md",
     "Images/Pasted image 20250521151252.png",

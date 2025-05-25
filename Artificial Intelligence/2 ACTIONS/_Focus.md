@@ -1,4 +1,4 @@
-### [[Anstler Palace.canvas|Anstler Place]]
+- [ ] y### [[Anstler Palace.canvas|Anstler Place]]
 [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
@@ -17,7 +17,7 @@
 - Khan Academy Information Theory - Understanding Markov Chain 
 
 - [ ] [[MIT Deep Learning]]
-- [ ] [[AI NEWS]]
+- [ ] [[AI NEWS]]0
 
 **Machine Learning**
 [[AIO 2024]]
