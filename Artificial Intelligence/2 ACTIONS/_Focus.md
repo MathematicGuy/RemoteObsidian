@@ -9,15 +9,12 @@
 
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
-- [ ] [RAG turtorial](https://www.youtube.com/watch?v=qN_2fnOPY-M) 
-- Coding Base to code ML
-- Dynamic Programming Practice
+- [ ] Apply LoRA for RAG Optimization 
 - SVD -> PCA
-- Daily IELST Reading
 - Khan Academy Information Theory - Understanding Markov Chain 
 
 - [ ] [[MIT Deep Learning]]
-- [ ] [[AI NEWS]]0
+- [ ] [[AI NEWS]]
 
 **Machine Learning**
 [[AIO 2024]]

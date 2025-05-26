@@ -1,3 +1,14 @@
+## Basic Pytorch
+
+
+
+
+
+
+
+
+## Pytorch Operation
+
 **Create zeros matrix**
 ```python
 import torch
@@ -42,7 +53,7 @@ Shape with indexing: torch.Size([2, 3])
 
 
 ----
-# Model Training 
+## NLP Model Training 
 
 ### Basic Import
 ```python
