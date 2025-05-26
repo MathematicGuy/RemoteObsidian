@@ -8,3 +8,7 @@ Super excited to head out with Linh and her mom, get free coffee & stuff, chit c
 
 ## Daily Note 7/5/2025
 Alarm ring at 7AM but sleep until 10AM due to stress, my god I need to straighen up my discipline. Head to school to working on IELST reading till 12h40-ish, doing a good job analyzing my though. At noon, I get distracted with my brain refusing to learn, struggling with SVD in understanding why U transpose  orthoganol matrix get eliminate while V doesn't. Head to the gym at 5PM feeling quite tired, I should wait until my arms recovered so I could go back to my workout routine.  
+
+---
+## Daily Note 25/05/2025
+Finally delete Steam to accept to dive into my academic carrer. To be happy I need to cut off what is me today, so that I can become that of me tomorrow. Tomorrow I will wake up at 5h30 and the first thing I do is practice IELST Reading. 

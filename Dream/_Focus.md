@@ -1,8 +1,8 @@
 # [[PROKLEM]] 
-- [ ] Not Discipline and Feeling Dependent 
-- [ ] Not waking up on time
+- [x] Not Discipline and Feeling Dependent 
+- [x] Not waking up on time
 - [x] Not yet master the art of Not Trying + Discipline
-
+- [ ] Write THOUGH Note daily for a week
 
 # AKTION
 > My [[Deepthought]] is what define who I want to be

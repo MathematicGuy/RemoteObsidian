@@ -381,4 +381,9 @@ Gleich shortly
 Das Problem 
 Im dem - in the
 	Im dem Stadviertel - in the neighborhood 
-*oIE*
+
+## Unit 10: Form Compound Words 
+
+Lieblingsteam - favourite team 
+Lieblingsband - favourite band 
+Wollen want to 

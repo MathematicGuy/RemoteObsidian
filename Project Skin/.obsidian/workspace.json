@@ -14,27 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "file": "_Focus/Todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "German Vocab"
+              "title": "Todo"
             }
           },
           {
-            "id": "d43d3b660d93e7f7",
+            "id": "22850c7316100b94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business Negotiation Skills"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +106,7 @@
             }
           },
           {
-            "id": "3244c736296890b7",
+            "id": "0a3646fe972446f4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -245,9 +251,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "22850c7316100b94",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "IELST READING.md",
     "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
     "Images/Pasted image 20250521210729.png",
@@ -262,7 +269,6 @@
     "Images/Pasted image 20250521071148.png",
     "2 ACTIONS/Workout/Calisthenics.md",
     "Images/Pasted image 20250520224806.png",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "Images/Pasted image 20250519092957.png",
     "2 ACTIONS/Personal/Interest/Music/jONE CENA theme song.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Cases.md",
