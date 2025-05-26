@@ -448,9 +448,20 @@ Polarised - phân cực
 ### CAM15 - Reading Test 4
 [21/5 Test Score](https://dolacademy.vn/static/full-test/view-result/682c51e142221a6ac2d34bef) - 1 2 3 - 34/40 - 7.5
 ![[Pasted image 20250521151252.png]]
+Regarding - about or relating to (về)
+
 
 ---
 
-[Reading Note with Lean Thinking](https://www.youtube.com/watch?v=slXTO4yOnnU)  
+## LEAN THINKING - Skip this technique, take too much time to master
+Linear Thinking: ![[Pasted image 20250526073925.png]]
+>Rephrase the whole paragraph while trying to reserve the main Subject, Verb and Object. 
 
-Regarding - about or relating to
+**EXAMPLE PARAGRAHPH**
+1) Compound-Complex sentence (Cấu trúc câu phức - ghép) - include a Independent Sentence/Clause (contain main information) or Dependent Clause (have support information)
+2) PARAGRAPH core phrase follow `Subject - Verb - Object` (often independent clause -> provide the main context of the sentence - CAN NOT CUTOUT. 
+3) Side clause can be cut off without changing meaning. 
+![[Pasted image 20250526074849.png]]
+
+
+

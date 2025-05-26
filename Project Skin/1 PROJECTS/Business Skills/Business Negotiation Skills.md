@@ -1,4 +1,5 @@
-# Negotiation Introduction
+
+ Negotiation Introduction
 
 **Prequisites:** Nhóm 8 - 10 người. 1 Video + 1 Report for negotiation scenario between 2 foreign element (i.e. global topic across culture).
 
@@ -34,7 +35,7 @@ Khi đàm phán phải dựa trên cả luật pháp, bao gồm cả các yếu 
 **Competitive or Distributive negotiation (đàm phán cạnh tranh hoặc phân phối)** -> **Win-Lose**
 >This type rotate around the allocation of finite resources, where the success of one party implies the loss of the other.   
 
-**Collaborative negotiation (đàm phán hợp tác)** aim for -> **Win-Win** 
+**-Collaborative negotiation (đàm phán hợp tác)** aim for -> **Win-Win** 
 >This type aim to maximize mutual benefits. It emphasizes creative solutions and employes the "win-win" negotiation technique.  
 
 **Negotiation by compromise (đàm phán theo thỏa hiệp)** -> both parties accept losses to achieve a middle ground.
@@ -210,12 +211,6 @@ Note:
 + $ **Argument Argument 2: People without self-interest are vulnerable** In reality everyone have self-interest, this make people who don't puting themself as self-interest vulnerable to manipulation, especially recruiting company, their close one such as friend and family. 
 
 
-
-**My Opinion**
-Self-Interest 
-
-
-**Reference POV and Opinion**
 
 
 ## 2. Negotiation Technique
