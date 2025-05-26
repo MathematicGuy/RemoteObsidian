@@ -387,3 +387,8 @@ Im dem - in the
 Lieblingsteam - favourite team 
 Lieblingsband - favourite band 
 Wollen want to 
+
+Ausverkauft - sold out
+Gerade - right now
+glaube - comming
+
