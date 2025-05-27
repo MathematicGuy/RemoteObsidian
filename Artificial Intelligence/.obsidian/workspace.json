@@ -37,8 +37,7 @@
               "title": "Pytorch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +213,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7d26ab8593d9e3e7",
+  "active": "94a8fec102982b88",
   "lastOpenFiles": [
-    "German voca.md",
     "Pytorch.md",
+    "German voca.md",
     "2 ACTIONS/_Focus.md",
     "AIO Team Research - Computer Vision.md",
     "Xplainable AI (xAI).md",
