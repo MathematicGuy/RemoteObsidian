@@ -392,3 +392,14 @@ Ausverkauft - sold out
 Gerade - right now
 glaube - comming
 
+Stadion station 
+Nehmen take 
+	welche Wohnung ich muss nehmen - which apartment do I have to take 
+
+Anfangen start/beign 
+	Die spiel anfangen/beginnen am Abend 
+
+Uns each other
+Treffen meet 
+	Wann müssen wir unds treffen - when do we have to meet each other 
+

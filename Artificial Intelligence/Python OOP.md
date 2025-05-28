@@ -36,7 +36,7 @@ Tommy.speak()
 
 + **instance: phiên bản/ví dụ** == **object: đối tượng**
 	When printing out datatype of any variable, you can see each of them are instances/object of a class. 
-		![[Pasted image 20240923103507.png]]
+		![[Untitled 3.jpg]]
 
 Initialize a Class
 ```python
@@ -93,7 +93,7 @@ Boat.start()  # Output: Boat engine started.
 ```
 
 ## Constructor: `__init__(self)`
-> A special method used to initialize the attribute of a newly created Object/Instance by pre-define attribute the Object' class attribute.
+> A special method used to **initialize the attribute of a newly created Object** by pre-define attribute the Object' class attribute.
 
 `__init__(self, attribute_1, attribute_1, etc..)`: define class attribute, making them accessible from both in and out side of the class.
 + ? Keyword **self** represent the class itself. when you calling **self** you calling **Item** class. 
@@ -185,7 +185,7 @@ print(item1.__dict__) # list all the attributes for instance level
 ```python
 Item.pay_rate = 0.2
 
-item1 = Item("Phone", 1000, 22) # create instance of a class
+item1 = Item("Phone", 1000, 22) # <- This is a Instance
 item1.apply_discount()
 item2 = Item("Phone2", 1000, 10) # create instance of a class
 item2.apply_discount()
@@ -195,7 +195,7 @@ print('discount rate: ', item2.price) # STILL GET 80% DISCOUNT
 ```
 >discount rate:  200.0
 >discount rate:  200.0
-+ ? E.g. **Modify attribute at instance level**  using `self.pay_rate`, `pay_rate` can be modify outside the class. Using `self.pay_rate` allow us to modify only the instance not the whole class, this mean `item1` and `item2` can have a different `pay_rate`
++ ? E.g. **Modify attribute at instance level**  using `self.pay_rate`, `pay_rate` can be modify outside the class. Using `self.pay_rate` allow us to **modify only the instance not the whole class**, this mean `item1` and `item2` can have a different `pay_rate`
 ```python
 class Item:
 	...
@@ -240,6 +240,7 @@ class Item:
 print(Item.all)
 ```
 > [Item(Phone, 100, 2), Item(Phone2, 200, 3), Item(Cable, 10, 5), Item(Mouse, 50, 5), Item(Keyboard, 75, 5)]
+
 ### Class & Static Methods
 + ? "Instantiate Method" (Class Method) can only be access through Class Level.
 ```python
@@ -262,6 +263,7 @@ Item.instantiate_from_csv() # call classmethod
 > Class reference must be pass as the first augument: cls for instant
 ![[Pasted image 20240923161111.png]]
 
+
 ####  When to use class methods and when to use static methods ?
 + $ `@classmethod`: used when yo **need to do sth** at the **class level** rather than the instance level, take `cls` as first argument. **e.g. modify class level attribute**. 
 + $ It can be called **on the class itself**, or **on instances** (gọi hàm trong class), but it **operates on the class data**.
@@ -277,7 +279,7 @@ item1 = Item('Phone', 1000)
 item1.change_pay_rate(0.7)
 print(Item.pay_rate)  # Output: 0.7
 ```
-
+ 
 + $ `@staticmethod`: is a method that belongs to the class , but it **does not receive any special first augment like** `self` or `cls` (like `@classmethod` ) while still **can be access like a normal function with parameter** 
 + $ The method doesn’t need access to instance or class data.
 	they could be standalone functions, but they are grouped within the class for organizational purporses.
@@ -458,7 +460,7 @@ class Item:
 	
 	
 	 @name.setter
-    def name(self, value): # parameter set as value
+	    def name(self, value): # parameter set as value
         self.__name = value
 ```
 

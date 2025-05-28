@@ -37,6 +37,7 @@ print("Shape with slicing:", result_slice.shape)
 result_index = tensor[..., 0]
 print("Shape with indexing:", result_index.shape)
 ```
+
 ```python
 # output:
 tensor([[[0.9826, 0.4277, 0.6385, 0.3960],
@@ -53,6 +54,12 @@ Shape with indexing: torch.Size([2, 3])
 
 
 ----
+
+## Neural Network from Scrach using pytorch
+![[Pasted image 20250527092925.png]]
+
+
+
 ## NLP Model Training 
 
 ### Basic Import

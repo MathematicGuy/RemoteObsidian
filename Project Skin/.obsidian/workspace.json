@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +19,19 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
+            }
+          },
+          {
+            "id": "3d1f83321d3d678f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +100,7 @@
             }
           },
           {
-            "id": "a3abce8d2d4f3c4e",
+            "id": "deebb99c11360a5e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -101,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.01103591918945,
-    "collapsed": true
+    "width": 206.01103591918945
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -233,10 +244,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cbc53dc6bb856fb8",
   "lastOpenFiles": [
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "IELST READING.md",
     "Images/Pasted image 20250526074849.png",
     "Images/Pasted image 20250526073925.png",
@@ -259,7 +271,6 @@
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Accusative Case.md",
     "2 ACTIONS/Personal/Language Learning/German/German Grammar/German Grammar.md",
     "Spaces/German Vocab Revision.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "IELST Reading Note.md",
     "Graph Theory.md",
     "Spaces/Decision Tree.md",

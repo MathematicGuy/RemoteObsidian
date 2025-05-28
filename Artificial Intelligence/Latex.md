@@ -1,5 +1,6 @@
 Mathematic Logic Sign: https://tanphong.wordpress.com/latex/mot-so-lenh-latex-thuong-su-dung/
 
+![[13161.jpeg]]
 
 ##### `\Left` and `\Right`
 > **Left and Right make the parenthesis look bigger and scale the parenthesis size to the fomula size**  
