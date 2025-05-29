@@ -100,7 +100,7 @@ Vector DB **stored embedding vector in fixed dimensions** such that we can then 
 ![[Pasted image 20250324162426.png]]
 
 ### Hierarchical Navigable Small Worlds (HNSW) 
-+ ? **Trade Precision for Speed**. HNSW is an evolution of the Nevigable Small Worlds algorithm for **Approximate Nereast Neighbor**, which based on the concept of **Six Degrees of Seperation**. 
++ ? **Trade Precision for Speed**. HNSW is an evolution of the Navigable Small Worlds algorithm for **Approximate Nereast Neighbor**, which based on the concept of **Six Degrees of Seperation**. 
 
 + ? Six Degrees of Seperation: ![[Pasted image 20250324163339.png]]
 
