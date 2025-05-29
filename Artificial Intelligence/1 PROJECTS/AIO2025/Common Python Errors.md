@@ -101,3 +101,8 @@ print("hehe, value is 5")
 >> AssertionError: 'The value is not 5'
 ```
 
+---
+# OOP Errors
+### OOP Types Error -> Datatype is incorrect
++ ? Occurs due to incorrect method calls, attribute access or object instatiation. 
+

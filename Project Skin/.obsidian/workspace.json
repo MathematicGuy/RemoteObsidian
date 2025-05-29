@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "3d1f83321d3d678f",
+            "id": "706622b7cab41be5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +34,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             }
           },
           {
-            "id": "deebb99c11360a5e",
+            "id": "b3d05397140dd5b1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -113,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.01103591918945
+    "width": 206.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -244,10 +246,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cbc53dc6bb856fb8",
+  "active": "706622b7cab41be5",
   "lastOpenFiles": [
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "_Focus/Todo.md",
+    "1 PROJECTS/Business Skills/Startup.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "IELST READING.md",
     "Images/Pasted image 20250526074849.png",

@@ -381,7 +381,7 @@ print(Phone.all)
 ```
 > [Item(phonev1, 500, 4), Item(phonev2, 600, 4)]
 
-+ ? **Question:** What if I **only want to calculate total Phone Price**, not including Item. should I remove super() function? Well you don't have to
++ ? **Question:** What if I **only want to calculate total Phone Price** of all Instances. should I remove super() function? Well you don't have to
 + $ `@classmethod` are made for this, class method only access attributes and instance of that class. 
 ```python
 class Phone(Item): # inherit Item class
@@ -406,8 +406,8 @@ class Phone(Item): # inherit Item class
 phone1 = Item('phonev1', 500, 4)
 
 # This is just fine
-phone3 = Phone('phonev3', 700, 4, 1)
-phone4 = Phone('phonev4', 800, 4, 2)
+phone3 = Phone('phonev3', 700, 4, 1) # 4-1 = 3 PHONE IN TOTAL
+phone4 = Phone('phonev4', 800, 4, 2) # 4 - 2 = 2 PHONE IN TOTAL
 print(Phone.total_assets())
 ```
 > output: 3700 ($700*3 + 800*2 = 3700$)
@@ -441,7 +441,7 @@ class Item:
 ```
 However, it not authentic to show the underscore along with attribute, we could hide it using not underscore `__`, a double underscore. 
 ![[Pasted image 20240924112925.png]]
-> Using double underscore, private sign will not be show. 
+> **Using double underscore, private sign will not be show**. 
 ```python
 class Item:
 	def __init__(self, name):
@@ -459,8 +459,8 @@ class Item:
 	    self.__name = name # private attribute
 	
 	
-	 @name.setter
-	    def name(self, value): # parameter set as value
+	@name.setter
+	def name(self, value): # parameter set as value
         self.__name = value
 ```
 
@@ -471,7 +471,7 @@ class Item:
     def __init__(self, name: str, price: float, quantity: int):
         self.name = name
         self.price = price
-        self.quantity = quantity
+		self.quantity = quantity
 		
     # Compute total price based on price and quantity
     @property
@@ -510,7 +510,7 @@ class Vehicle(ABC):
     @abstractmethod
     def start_engine(self):
         pass
-
+	
     @abstractmethod
     def stop_engine(self):
         pass
@@ -518,14 +518,14 @@ class Vehicle(ABC):
 class Car(Vehicle):
     def start_engine(self):
         print("Car engine started.")
-
+	
     def stop_engine(self):
         print("Car engine stopped.")
-
+	
 class Motorcycle(Vehicle):
     def start_engine(self):
         print("Motorcycle engine started.")
-
+	
     def stop_engine(self):
         print("Motorcycle engine stopped.")
 
