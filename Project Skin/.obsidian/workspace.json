@@ -28,13 +28,19 @@
             "id": "41113e661bc821d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IELST SPEAKING.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IELST SPEAKING"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,11 +251,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "41113e661bc821d5",
   "lastOpenFiles": [
+    "IELST SPEAKING.md",
+    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "Images/Untitled.jpg",
-    "_Focus/Todo.md",
     "1 PROJECTS/Business Skills/Startup.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "IELST READING.md",
