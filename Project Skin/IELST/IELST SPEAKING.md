@@ -78,6 +78,6 @@ The same as PEOPLE:
 `Improve version:` 
 "Without my top 5 essential gadget I my live would be the same, if I have to choose one a Timepiece would be my top choice. It's a G-Shock watch that I got from my father, it's actually the first prize that my father won from a lucky draws game, so to me the watch resemble luck and success. " 
 
-
+study: https://www.youtube.com/watch?v=i8q7m6zCfUo&list=PLJiq3ZKumuIpZVrhxUR4yIf45LvbrErm5&t=189s
 
 ### 2. Combine Model Subjects
