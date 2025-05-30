@@ -1,3 +1,4 @@
+[Cool sword swing technique step by step](https://www.facebook.com/share/r/1FoZErtv4C/)
 
 [Proposal](https://youtube.com/shorts/sBs43-GVQbI?si=fqShhISFl03jLgGl)
 
