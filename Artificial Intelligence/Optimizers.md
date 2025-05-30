@@ -1,3 +1,8 @@
+### Baysian Optimization 
+Using statistic to find the best parameter
+
+### Stochastic Gradient Descent
+
 **Stochastic (adj):** randomly determined; **A variable or process is stochastic if there is uncertainty or randomness involved in the outcomes.** 
 
 Many machine learning algorithms are stochastic because they explicitly use randomness during optimization or learning.

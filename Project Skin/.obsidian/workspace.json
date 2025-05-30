@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "cd1b4593a958f74c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELST/IELST SPEAKING.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "IELST SPEAKING"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,11 +251,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cd1b4593a958f74c",
   "lastOpenFiles": [
-    "IELST READING.md",
+    "Images/Pasted image 20250530183722.png",
+    "Images/Pasted image 20250530183609.png",
+    "IELST LISTENING.md",
+    "IELST/IELST.md",
     "_Focus/Todo.md",
-    "IELST SPEAKING.md",
+    "IELST/IELST WRITING.md",
+    "IELST/IELST SPEAKING.md",
+    "IELST/IELST READING.md",
     "Images/Pasted image 20250529130741.png",
     "Images/Pasted image 20250529130210.png",
     "IELST/SPEAKING IELST .md",
@@ -255,7 +276,6 @@
     "Images/Pasted image 20250521210729.png",
     "New.md",
     "Images/Pasted image 20250521151252.png",
-    "Images/Pasted image 20250521104743.png",
     "3 RESOURCES/Save for later/Save for later.md",
     "1 PROJECTS/Business Skills/Entrepreneurial Thinking.md",
     "1 PROJECTS/Business Skills",
@@ -270,9 +290,6 @@
     "Spaces/Decision Tree.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/Chapter 4 - Tree.md",
     "3 RESOURCES/History & Politic/Palestine Story.md",
-    "Spaces/Classification Techniques.md",
-    "IELST/IELST.md",
-    "4 ARCHIVES/CMC Summer 2024/Machine Learning and Data Mining.md",
     "Spaces/#habit",
     "Untitled.canvas",
     "Excalidraw",
