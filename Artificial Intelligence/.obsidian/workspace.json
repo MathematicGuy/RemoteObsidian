@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "db07253c0e231e62",
+            "id": "015ce7cdfa59e91b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AIO - Genetic Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AIO - Genetic Algorithm"
             }
           }
         ],
@@ -210,10 +214,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "db07253c0e231e62",
+  "active": "015ce7cdfa59e91b",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
     "AIO - Genetic Algorithm.md",
+    "2 ACTIONS/_Focus.md",
+    "Python Bugs.md",
     "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
     "image/Pasted image 20250324163651.png",
     "RAG Road Map.md",

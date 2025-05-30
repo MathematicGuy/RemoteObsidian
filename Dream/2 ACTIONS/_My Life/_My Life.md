@@ -47,3 +47,5 @@ _sort:
 [[Recipe for a Disastrous Life]]
 
 [[Philopsophy that brought me back to life]]
+
+[[Delusion]]
