@@ -110,3 +110,4 @@ In case where you can't apply the Model Subject, so make sure to prepare at leas
 
 **fluency**: https://youtu.be/QANVgr_QVtE?si=K8D2-dCzQdLRRiAv
 **top-5 speaking strategies:** https://youtu.be/A8C4QbLMn5M?si=YUMQet4eCGNbxANX
+https://youtu.be/QANVgr_QVtE?si=oNglrGQUn2LJYXpo

@@ -409,4 +409,4 @@ Aufhören - end
 Höft Auf - stop
 
 Fängt start 
-Oper opera
+Oper 
