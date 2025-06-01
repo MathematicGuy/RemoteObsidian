@@ -407,3 +407,6 @@ Treffen meet
 Wichtig - important
 Aufhören - end
 Höft Auf - stop
+
+Fängt start 
+Oper opera
