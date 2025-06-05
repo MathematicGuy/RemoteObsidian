@@ -36,19 +36,9 @@
               "icon": "lucide-file",
               "title": "AIO2025 - Intro"
             }
-          },
-          {
-            "id": "a9a8aa613cb7de30",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +214,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a9a8aa613cb7de30",
+  "active": "ae63d6b8b6569398",
   "lastOpenFiles": [
+    "image/Pasted image 20250605080230.png",
+    "image/Pasted image 20250605075154.png",
+    "image/Pasted image 20250605075007.png",
+    "image/Pasted image 20250605074846.png",
     "AIO2025 - Intro.md",
     "2 ACTIONS/_Focus.md",
     "image/Pasted image 20250601195113.png",
@@ -235,9 +229,6 @@
     "image/Pasted image 20250601160948.png",
     "image/Pasted image 20250601160845.png",
     "image/Pasted image 20250601160832.png",
-    "image/Pasted image 20250601160407.png",
-    "image/Pasted image 20250601160320.png",
-    "image/Pasted image 20250601160209.png",
     "AIO 2025.md",
     "Optimizers.md",
     "AIO - Genetic Algorithm.md",

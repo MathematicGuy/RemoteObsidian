@@ -237,3 +237,11 @@ Note:
 ### 2.7. Nghệ thuật đàm phán
 
 
+---
+
+When you cooraborating with both sides, nagivate their benefit as yours, even as an excuse why you working with the other side. 
+e.g.
++ American: why are you buying so much material with the Chinese
++ Viet Nam: There multiple American tech giants company currently operating in Viet Nam.... 
++ ? lesson learned: start with what they want.... 
+

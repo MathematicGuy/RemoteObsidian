@@ -2,7 +2,6 @@
 **Secondary Class:** 2,3,5 and 7.
 
 **Research path (my team):** 
-[Mentorship Choices](https://docs.google.com/spreadsheets/d/1EunruXbKC_B9g3Q_zyTG0AZ-L6wfhlUOf8PKMO_DdYY/edit?gid=185037336#gid=185037336)
 
 
 ---
@@ -80,12 +79,42 @@ Choose out 10 best teams (adjustable)
 
 + ~ **Prequisites:** complete activity 1 + 2 and have enought cummulative score. ![[Pasted image 20250601195038.png]]
 
-for every direction, continue at
++ ? For every research driven path, follow
 ![[Pasted image 20250601195113.png]]
+![[Pasted image 20250605074846.png]]
+
+
+![[Pasted image 20250605075007.png]]
+
+---
+## Leadership Team: Self-Introduction
+![[Pasted image 20250605075154.png]]
++ $ His Motivation:  
+
+
+### [NLP Research Group](https://docs.google.com/spreadsheets/d/1EunruXbKC_B9g3Q_zyTG0AZ-L6wfhlUOf8PKMO_DdYY/edit?gid=185037336#gid=185037336) 
+**TA Thanh Dương** -> chuyên AI Agent 
+![[Pasted image 20250605080230.png]]
+**Entering Requirements:**
+1) **Must Have:** **Intermediate Python** skills, High **Commitment for Research**
+	
+2) **Nice to Have**
+	+ Moderate Pytorch, Transformer Skills or above
+	+ Curiosity about VQA and AI agent (yes)
+	+ Experience in AI Research on any topic (yes)
+	
+3) **Weekly Activities**
+	+ weekly/montly meeting
+	+ paper reading and idea testing
+	+ offline meeting if availabel
+	
+4) **Recruitment Time:** July - August, 2025
 
 
 
-### NLP Research Group (TA Thái)
+
+
+**TA Thái**
 ![[Pasted image 20250601101351.png]]
 **TA Thái:** Language Models, Text Embedding, RAG Agentic AI, Machine Translation. 
 
