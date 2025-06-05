@@ -1,11 +1,58 @@
+Ha Nam restaurant 
+would die for
+out of this word
+mouth watering
+foamy
+
+family - sister, mother, father, brother. all food lover, eager to new experience  
+3 starts michelin - 12 dishes - 
+3 appetizer - fruit smoothy, rice cake 
+7 main course - roasted lamb, goat, cream egg, 7 colors rice, Phonix spring roll, porkchop, sticky rice with gac fruit. 
+drink - water melon, mineral water
+2 dessert - ceramel, lemon cake
+
+service there is excellent, glass always full, always someone there as you raise your hand. 
+
+1 in a life time experience 
+
+---
+
+Road way to map by Space X
+How they build the eco system 
+multi-planetary spicies, earth help mars and mars help earth 
+rare material 
+
+Experience
+Life on other planet, Plantary Science - build life on other planet 
+
+---
+
+understand the basic of math 
+applied mathematic for machine learning
+everything was on point 
+took the course online
+feel like sastisfaction, really learn something, worth every penny
+respect mentors
+
+---
+
+> học thêm từ + câu khi chuyển ý
+
+Reduce carbon dioxide, reduce emission and encourage the use if renewable energy. 
+
+Speaking part 3: make sure both of your statement 1 + 2 are related to eachother. 
+
+
+----
+
+
 Moreover
 Nevertheless
 Furthemore
 
 I guess
-I reckon 
+I reckon ~ I think
 I suppose 
-
 I'd say 
 ![[Pasted image 20250529130210.png]]
 
@@ -111,3 +158,10 @@ In case where you can't apply the Model Subject, so make sure to prepare at leas
 **fluency**: https://youtu.be/QANVgr_QVtE?si=K8D2-dCzQdLRRiAv
 **top-5 speaking strategies:** https://youtu.be/A8C4QbLMn5M?si=YUMQet4eCGNbxANX
 https://youtu.be/QANVgr_QVtE?si=oNglrGQUn2LJYXpo
+
+
+RAG - AI project, text processing, machine learning, deep learning
+pdf - file 
+goal: optmimize, help people understand their document more efficiecy
+me, chatGPT, youtube
+about 1 weeks to be done, 3 weeks for improvements. 
