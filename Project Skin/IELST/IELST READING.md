@@ -465,3 +465,4 @@ Linear Thinking: ![[Pasted image 20250526073925.png]]
 
 
 
+https://youtu.be/Zcbte9XIM-E?si=ajieGsRLzBT9pXxR
