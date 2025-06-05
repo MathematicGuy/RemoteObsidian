@@ -93,7 +93,7 @@ Choose out 10 best teams (adjustable)
 
 
 ### [NLP Research Group](https://docs.google.com/spreadsheets/d/1EunruXbKC_B9g3Q_zyTG0AZ-L6wfhlUOf8PKMO_DdYY/edit?gid=185037336#gid=185037336) 
-**TA Thanh Dương** -> chuyên AI Agent 
+#### TA Thanh Dương -> chuyên AI Agent 
 ![[Pasted image 20250605080230.png]]
 **Entering Requirements:**
 1) **Must Have:** **Intermediate Python** skills, High **Commitment for Research**
@@ -109,15 +109,73 @@ Choose out 10 best teams (adjustable)
 	+ offline meeting if availabel
 	
 4) **Recruitment Time:** July - August, 2025
+	
+ + Advice for learning AI: Have a decent programming skill, ML/DL model and methods (learn the basic, understand how fomulas and algorithms works)
 
-
-
-
-
-**TA Thái**
+#### TA Nguyễn Quốc Thái
 ![[Pasted image 20250601101351.png]]
-**TA Thái:** Language Models, Text Embedding, RAG Agentic AI, Machine Translation. 
+**Background:** MSc in Computer Science, join AIO from 2020
++ $ **Research Focus:** **Language Models**, **Text Embedding**, **RAG** Agentic AI, **Machine Translation.** 
 
+### Begin the Journey - AIO 2025 Kickoff
+#### TA Nguyen Vu (PathologyAILab)
+![[Pasted image 20250605082909.png]]
+**Summary: work so hard success is inevitable**
 
+#### TA Tiến Huy (GenAI4E)
+![[Pasted image 20250605085612.png]]
+**Research Team: GenAI4E** - *Exploitation, Exploration, Evolution, Efficiency*
+Slogan: More sharing, more gain. 
+**GenAI4E Activity Orientation (challenge & research) - up to data achievments**
+![[Pasted image 20250605090303.png]]
+**Future Plan:** focus on well-know organization or *top-tier conference* with support from TA. 
+
+**Research Focus: Vision Language Model (VLM)**
+![[Pasted image 20250605090918.png]]
+**What you get:**
++ research skills and mindset
++ learn how to make a good research question
++ learn how to approach new research paper
++ learn how to find motivation behind their research statements (important) -> optimize reserach methods.
+
+**Requirements: dare to shared (that how science strive)**  
++ Start in November (tháng 11)
++ Don't expect your Research Journey to be less than 3 months, there won't be much you can learn. 
+![[Pasted image 20250605091802.png]]
+
+**Motivations (research path, orientation)** 
++ ? *What stories do you want to tell ?* so that University would accept you. 
+ + $ You achieve what you want, what have you don't. 
+-> Research AI == Coding + Research Mindset
+
+#### TA Thanh Huy (AIMA Research Group - Medical Field)
+**Research Direction:** Computer Vision, Bioinformatics, Medical Image Analusis. 
+**Related Field:** Time Series 
+![[Pasted image 20250605094736.png]]
+**About Thanh Huy -> Specialize in Research** 
++ Have relationships with various PhD in both American and South Korean.  
++ **Research papers:** include 3 main field/research units, each research unit hold different Projects and Research direction. 
+	![[Pasted image 20250605094846.png]]
+	+ **CV/ML Theory & Algorithm:** Read paper & algorithm and code *-> Good for AI Engineer Direction but doesn't gain much support* 
+	+ **Medical Image Computation: e.g. image segmentation for lung cancer**
+	+ **Clinical Application: verify AI performance to real docter performance, identify pros and cons of the AI System**
+	
+![[Pasted image 20250605095837.png]]
+	Carnegie -> focus on cell, biology.
+	Harvard -> cardiovascular.
+	Prestont -> liver, prostate.  
+	
+**AIMA Roles: act as a bridge for Collaboration between universities and researching groups as well as recommend letter.** 
+![[Pasted image 20250605100119.png]]
+**AIMA Member Roles:** focus on research on how everything work
+![[Pasted image 20250605100444.png]]
+**Mentorship Program**
+![[Pasted image 20250605100712.png]]
+
+**Note:** working for companies doesn't give you what you want.
++ **Publication** -> prove of ability
++ **LOR:** Letter of Recommendation -> prove of your academic journey  
++ **SOT:** Statement of Purpose 
+![[Pasted image 20250605102346.png]]
 
 
