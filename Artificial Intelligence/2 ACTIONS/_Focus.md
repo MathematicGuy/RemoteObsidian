@@ -12,6 +12,7 @@
 - [ ] Apply LoRA for RAG Optimization 
 - SVD -> PCA
 - Khan Academy Information Theory - Understanding Markov Chain 
+- [ ] Hair Dye Guy Intergram: @gaustinpyt 
 
 - [ ] [[MIT Deep Learning]]
 - [ ] [[AI NEWS]]
