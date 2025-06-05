@@ -35,10 +35,6 @@ prie pool pf 100 mil  vnd, reputation
 
 ---
 
-
-
----
-
 understand the basic of math 
 applied mathematic for machine learning
 everything was on point 
@@ -55,6 +51,14 @@ Reduce carbon dioxide, reduce emission and encourage the use if renewable energy
 Speaking part 3: make sure both of your statement 1 + 2 are related to eachother. 
 
 ----
+
+Note: 
++ ? How to pull words out of my mind. I do have a lots of vocabulary.
++  
+
+
+
+---
 
 Moreover
 Nevertheless
