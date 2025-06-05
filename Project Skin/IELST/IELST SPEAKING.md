@@ -27,6 +27,18 @@ Life on other planet, Plantary Science - build life on other planet
 
 ---
 
+creative ideas summarization AIO learning module
+cooperation with my team 
+code + report + summarize with good explanation of what I have learned. 
+AIO program 
+prie pool pf 100 mil  vnd, reputation
+
+---
+
+
+
+---
+
 understand the basic of math 
 applied mathematic for machine learning
 everything was on point 
@@ -42,9 +54,7 @@ Reduce carbon dioxide, reduce emission and encourage the use if renewable energy
 
 Speaking part 3: make sure both of your statement 1 + 2 are related to eachother. 
 
-
 ----
-
 
 Moreover
 Nevertheless
@@ -53,7 +63,7 @@ Furthemore
 I guess
 I reckon ~ I think
 I suppose 
-I'd say 
+I'd say  
 ![[Pasted image 20250529130210.png]]
 
 Alternative to But
