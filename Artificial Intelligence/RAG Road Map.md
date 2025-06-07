@@ -75,13 +75,16 @@ Basically **RAG = Embedding Model (Encoder) + LLM**, to comsume contents RAG, I 
 
 ## RAG Explaind Intuitively & In detail
 + [Retrieval Augmented Generation (RAG) Explained: Embedding, Sentence BERT, Vector Database (HNSW)](https://youtu.be/rhZgXNdhWDY?si=4ht6ocrBjo5fEpi5)
++ [[Model in RAG (NLP and DL)]]
 
 ## Coding from ScratchTurtorial
 + [Self-Attention with Pytorch](https://youtu.be/FepOyFtYQ6I?si=zH_JweohsxzWtBA2)
 + [RAG Coding from Scratch (Coding Turtorial)](https://youtu.be/qN_2fnOPY-M?si=C4ucjMsA27Ej7Piu)
 
 
-### Here's a 9-hour crash course curriculum for learning to build LLM applications. All resources are free.
+### [HCM AI - AIO Custom Course](https://drive.google.com/drive/folders/1TAWPTAE2QavFTYvNkn7P4K0gitfCJnIC)
+
+### Here's a 9-hour crash course curriculum for learning to build LLM applications. All resources are free (Thay Dong recommendation)
 𝗣𝗔𝗥𝗧 𝟭 - 𝗔 𝗚𝗘𝗡𝗧𝗟𝗘 𝗜𝗡𝗧𝗥𝗢 𝗧𝗢 𝗟𝗟𝗠𝗦 (1h 30m)
 Intro & overview of language models, next-word prediction, embeddings, cosine similarity, semantic search
 Resources: 
@@ -128,5 +131,30 @@ Resources:
 📖 15m: Complete Guide On Fine-Tuning LLMs using RLHF (Labellerr) bit.ly/3VnRA8K
 📖 15m: LoRA (Hugging Face) bit.ly/4aKfr6X
 
+---
+**Vocab**
++ **holistic:** fit for all, work in general (toàn diện)
+
+
+
+---
+## Full Stack RAG
+![[Pasted image 20250606131129.png]]
+**Query Transformation -** Structure your input query 
++ **Multi-Query:** add more query to your base/original query.
+	![[Pasted image 20250606133819.png]]
++ **Parent Document Retriever** ![[Pasted image 20250606134005.png]]
+
+**Index -**  Adjust data structures of your embedding
++ **Multi-Vector:** like multi-query, add multiple embedding to the normal embedding like embedding for summary , custom text, hypothetical question (câu hỏi giả thuyết).  
+	![[Pasted image 20250606133841.png]]
+
+**Retrieval Methods -** Retrieve or Get your documents from the knowledge base (folder)
++ **Top-K Similarity Search:** select top 5 best documents.
++ **[[Hierarchical Navigable Small Worlds (HNSW)]]:** HNSM is the improved version of HNS which base on the concept of 6 degree of seperations, with additional of [[Skip List]] for faster search speed. 
++ **Other Methods:** **MMR** ([[Maximum Marginal Relevance]]), **LSH** (Locality Sensitive Hashing) or **IVFPQ** (Inverted File Format with Product Quantization)
+
+**Document Transform -** Compress Context of Relevant Information from your Retrieved Docs. 
+![[Pasted image 20250606133911.png]]
 
 

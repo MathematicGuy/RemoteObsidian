@@ -2,14 +2,9 @@
   "homepage",
   "obsidian-list-callouts",
   "obsidian-admonition",
-  "quick-latex",
   "obsidian-latex-suite",
   "obsidian-latex-environments",
-  "omnisearch",
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
-  "pdf-plus",
-  "obsidian-emoji-toolbar"
+  "obsidian-excalidraw-plugin"
 ]

@@ -94,6 +94,8 @@ Vector DB **stored embedding vector in fixed dimensions** such that we can then 
 + Vector DB also used for finding similar songs, image or product. 
 ![[Pasted image 20250324161825.png]]
 
+
+## ANN Algorithm (Approximate Nearest Neighbor Algorithm)
 ### K-NN: a naive approach
 + ? Comparing query with all vectors in VectorDB then sorting them by distance, only keeping the top K.
 + ! This approach is not scalable, if there are N embedding vector, each has D dimensions the computational complexity is **O(N * D), too slow.**
@@ -104,26 +106,39 @@ Vector DB **stored embedding vector in fixed dimensions** such that we can then 
 
 + ? Six Degrees of Seperation: ![[Pasted image 20250324163339.png]]
 
+
 HNSW in real world ![[Pasted image 20250324162950.png]]
 
++ ? Each **Node** is a **Chunk of Text.**
 + $ **Navigable Small Worlds** algorithms build a graph that mimic six degress of separation by **connects close vectors with each other but keeping the total number of connections small.**  e.g. every vector can connectd up to 6 other vectors. ![[Pasted image 20250324163651.png]]Where each Node represent a Text
 
 ### Nagivable Small Worlds: idea 1 searching for K-NN 
 + ? So how to we query in this graph.
-+ $ **Goals:** find the node that is most similar to the query.
-	1) Randomly chosen a entry point (as the best node).
++ $ **Goals:** **find the best node** that is **most similar to the query**.
+	1) **Randomly chosen a entry point** (as the best node).
 	2) **Compare similarity of the query and chosen node**. and all of its **neighboring node**. 
 	3) If one of the friend node have **better similarity score, we MOVE the "best node" there**.  (e.g. node 2 have better similarity score so move to node 2)![[Pasted image 20250324164037.png]]
 	4) **Repeat until all the friend nodes don't have a better similarity score** than the best node.  ![[Pasted image 20250324164216.png]]
 + ? For inserting a new node, we **query for best node then connect the new node to the top k**. (Like above but connect to best node).
-
-#### HNSW: idea 2 
+ 
+#### HNSW: idea 2 - SKIP LIST
 ![[Pasted image 20250324165235.png]]
-Learn Skip List to understand this. 
+- **X**: The number we want to search for.
+- **a**: The current node’s value.
+- **DOWN, RIGHT**: Directions for pointer movement (and **LEFT** later in the algorithm).
+- **H**: Current layer, where **H ≠ H₀** means not the bottom layer, and **H = H₀** means the bottom layer.
+
+**For every Search:**
+1) **Search start from the top** of the Hiarchy (Top layer)
+2) **IF** $H \neq H_0:$ (**If not the Last layer**)
+	+ IF `Current` is **smaller or equal** to `Search` (`a < X`)  -> **DOWN**
+	+ ELIF `Current` is **greater than  `Search` (`a > X`) or there no next node**  -> **RIGHT**
+	+ ELIF `Current` > `Search` < `Next` -> Move to 
+	**ELIF:**
+	+ **IF** `Current` is equal to `Search` (`a < X`)  -> **BREAK**
 
 ### HNSW: idea 1 + 2 Hierarchical Navigable Small Worlds
 ![[Pasted image 20250324171413.png]]
 + Repeat the search with randomly chosen starting points (on the top layer) and then keep the top K among all the visited nodes. 
-
-
++ ? Basically searching each layer and save the local best. 
 

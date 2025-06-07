@@ -7,7 +7,6 @@
 ---
 
 ![[Pasted image 20250524211405.png]]
-
 **AIO2025 Openning: overview -> study plan -> research roadmap -> Teaching Assistant Team Review -> Questioning** 
 ![[Pasted image 20250601160948.png]]
 
@@ -52,14 +51,13 @@ Choose out 10 best teams (adjustable)
 	Presentation talking about Improvement compare to the original Project.
 + ? *Presentation discuss about main improvement*, original project weakness  
 ![[Pasted image 20250601153557.png]]
-+ ~ One dis-encourage team member affect the whole team, and its the other way around as well. So always encourage your team.    
++ ~ One disencourage team member affect the whole team, and its the other way around as well. So always encourage your team.    
 
 **Prizes**
 ![[Pasted image 20250601154146.png]]
 
 
 ## Research Program (TA Nguyễn Thành Tâm)
-
 ![[Pasted image 20250601160209.png]]
 
 **Activity 1 + 2:** can be active in parallel (at the same time)
@@ -69,8 +67,7 @@ Choose out 10 best teams (adjustable)
 ![[Pasted image 20250601160407.png]]
 
 **Activity 2 Roadmaps**
-
-*Activity 2 - If you're Research Oriented *
+*Activity 2 - If you're Research Oriented*
 ![[Pasted image 20250601160832.png]]
 ![[Pasted image 20250601160845.png]]
 
@@ -92,7 +89,7 @@ Choose out 10 best teams (adjustable)
 + $ His Motivation:  
 
 
-### [NLP Research Group](https://docs.google.com/spreadsheets/d/1EunruXbKC_B9g3Q_zyTG0AZ-L6wfhlUOf8PKMO_DdYY/edit?gid=185037336#gid=185037336) 
+### [NLP Research Group Excel](https://docs.google.com/spreadsheets/d/1EunruXbKC_B9g3Q_zyTG0AZ-L6wfhlUOf8PKMO_DdYY/edit?gid=185037336#gid=185037336) 
 #### TA Thanh Dương -> chuyên AI Agent 
 ![[Pasted image 20250605080230.png]]
 **Entering Requirements:**

@@ -11,8 +11,8 @@
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] Apply LoRA for RAG Optimization 
 - SVD -> PCA
-- Khan Academy Information Theory - Understanding Markov Chain 
 - [ ] Hair Dye Guy Intergram: @gaustinpyt 
+- [ ] (Giải Thích) ilakantha, (Chứng Minh) Gregory-Leibniz, Newton Method
 
 - [ ] [[MIT Deep Learning]]
 - [ ] [[AI NEWS]]
