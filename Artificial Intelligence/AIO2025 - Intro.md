@@ -12,7 +12,7 @@
 
 ---
 
-+ ! **DON'T SHARING AIO PRIVATE DOCUMENTS.** Every document been integrated with ID. If your AIO friend need document, text admin Phúc.   
++ ! **DON'T SHARE AIO PRIVATE DOCUMENTS.** Every document been integrated with ID. If your AIO friend need document, text admin Phúc.   
 + ? **Q&A Office Hours:** Weekends 8AM until the end of Sunday.   
 	Publish Quiz publictly on AIO2024.
 	Don't understand how AIO work -> Official AI Viet Nam page.
@@ -86,7 +86,6 @@ Choose out 10 best teams (adjustable)
 ---
 ## Leadership Team: Self-Introduction
 ![[Pasted image 20250605075154.png]]
-+ $ His Motivation:  
 
 
 ### [NLP Research Group Excel](https://docs.google.com/spreadsheets/d/1EunruXbKC_B9g3Q_zyTG0AZ-L6wfhlUOf8PKMO_DdYY/edit?gid=185037336#gid=185037336) 

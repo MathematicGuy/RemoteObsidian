@@ -5,15 +5,23 @@
 
 #TODO
 **Crucial**
+**Finish on Weekend**
+- [ ] [[Google Acquire Android Deal (Report)]]
+- [ ] AIO2025 Friday + Saturday 
+- [ ] Công Thức - (Giải Thích) ilakantha, (Chứng Minh) Gregory-Leibniz, Newton Method
 
+**Finish on Weekday**
+- [ ] RAG demo  
 
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] Apply LoRA for RAG Optimization 
 - SVD -> PCA
 - [ ] Hair Dye Guy Intergram: @gaustinpyt 
-- [ ] (Giải Thích) ilakantha, (Chứng Minh) Gregory-Leibniz, Newton Method
 
+- [ ] Tìm kiếm TA phù hợp với chuyên môn 
+
+ 
 - [ ] [[MIT Deep Learning]]
 - [ ] [[AI NEWS]]
 
