@@ -25,16 +25,22 @@
             }
           },
           {
-            "id": "2b15087853f16b71",
+            "id": "8cdbb9503a6ebec6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "German Vocab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,12 +251,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8cdbb9503a6ebec6",
   "lastOpenFiles": [
-    "IELST/IELST SPEAKING.md",
     "_Focus/Todo.md",
-    "IELST/![[Pasted image 20250529130210.png]].md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+    "IELST/IELST SPEAKING.md",
+    "IELST/![[Pasted image 20250529130210.png]].md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
     "IELST/IELST READING.md",
