@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "5229ad8310753de3",
+            "id": "2b15087853f16b71",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,8 +34,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             }
           },
           {
-            "id": "5149fb8355ba16dc",
+            "id": "ad753a2efa4087c5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -246,10 +245,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5229ad8310753de3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "IELST/IELST SPEAKING.md",
+    "_Focus/Todo.md",
     "IELST/![[Pasted image 20250529130210.png]].md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",

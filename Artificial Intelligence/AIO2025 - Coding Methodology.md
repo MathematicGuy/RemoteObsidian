@@ -1,13 +1,47 @@
+
+### Road Map for Learning Data Science 
+Nguyễn Thái Hà - Ph.D
+![[Pasted image 20250609165200.png]]
+**Project in this Module** 
+![[Pasted image 20250609165225.png]]
+**Excel is very important (even nowaday)** for Data Analysis. 
+**Databricks** - an organized platform for Data Analysis and Data Engineer working together. (platform tiềm năng)
+Explainable AI -> Debug for Model, Identify the True Flaws (e.g. sometime its the Model fault, not your solution fault)
+
+### Today Learning Objectives
++ Understand Clean Code and PEP-8 in python coding principle. 
++ Building "Pythonic" Thinking
++ Apply some of programming principles for better coding (DRY, KISS, YADNI)
++ Learn how to structure your source code (SOLID rule for Senior), Design Patterns. 
+
+----
 ### Clean Code and PEP-8
+#### Clean Code (TREM)
+T - Testable 
+R - Readable
+E - Extensable 
+M - Maintainable
++ ? You don't have to be CLEAN right away, 5%, 10% cleaner everydays is enough.
+
+**When to skip Clean Code:** 
++ Small Testing Code
++ Temporary Code
++ Code to debug 
+
 #### PEP-8 Rule (Python Enhancement Proposal)
-**Clean Code:** better codes that are easy to understand at the first glance (Readable), easier to modify (Maintainable), easy for testing (Testable) and easy to expand and upgrade (Extensible). 
-Note: tool for checking PEP-8 -> flask8
+**Clean Code:** better **codes that are easy to understand at the first glance** (Readable), easier to modify (Maintainable), easy for testing (Testable) and easy to expand and upgrade (Extensible). 
+Note: tool for checking PEP-8 -> flake8
+![[Pasted image 20250609171526.png]]
++ ? Strive for Consistent and Unified code with comment.
+
+**Naming Convention:** snake_case, PascalCase, UPPER_CASE. 
+
 
 **PEP-8** Basically a proposal for Python standard coding style, **so your code has the right look for anyone else reading or modifying it.** 
 + Indent 4 Space
 + Single space between items
 + Space after Comma/Colon
-+ Consistent Quote Mark, single-quote `'` or double-quote `"`. Recommend `'` before `"`
++ **Consistent Quote Mark,** single-quote `'` or double-quote `"`. Recommend `'` before `"`
 + DO NOT WRITE `if var == TRUE:` in a in/while test but `if var:` 
 ```python
 
@@ -238,7 +272,7 @@ print(a[::-1])
 **Prefix** under string (`_variable`) -> Indicate Private attribute, shouldn't be access directly from outside of the function. 
 
 **Python Context Manager**
-+ $ Manage resource, ensure file are open and close accordingly while resource are freeup when operation end. 
++ $ Manage resource, ensure file get open and close accordingly while resource are freeup when the operation end. 
 + ? Resource include
 	+ File
 	+ Database Connection
@@ -246,8 +280,7 @@ print(a[::-1])
 	+ Lock in Multi-Threaded  
 
 
-**What `@property` does ?** use to Encapsulate attribute inside a class. Making only readable, to access or modify them you have to use `setter, getter`. 
-
+**What `@property` does ?** Allow accessing method like they are attributes, make cleaner code and easy access.  
 
 ### General Law of Clean Code
 **DRY (Don't Repeat Yourself) principle:** avoid repeated code, every function do exactly 1 job, transparent (straight forward,  easy to understand) and have purpose.
@@ -275,11 +308,13 @@ def apply_discount(price, discount=0.1):
 
 **YAGNI (You Aren't Gonna Need It)** says devs should only build features only when they're needed, instead of trying to predict and adding future need.
 
-
 ### SOLID rule and Design Patterns (Advance)
-#### Liskov Substitution Principle (LSP) 
++ $ These are coding principle, your code still run weather you you followed it or not.
+
+#### Liskov Substitution Principle (LSP) -  Subclass must act like the base class
 >LSP states that **if class `B` is a subclass of `A`, then object of type `A` should be replaceacle with objects of type `B` without breaking the program.** 
-+ ? Kind of like **OOP Interface principle.**  LSP 
++ ? 🧬 **LSP**: "If `B` is a `A`, then using `B` should behave like `A`."
+
 
 ❌ **Bad Code (violates LSP):**
 ```python
@@ -296,6 +331,9 @@ def make_it_fly(bird: Bird):
 
 make_it_fly(Ostrich())  # 💥 Error!
 ```
++ You wrote your program expecting **any `Bird` to be movable**
+- When a subclass (`Ostrich`) **breaks that assumption**, it **violates LSP**.
+	
 ✅ **Good Code (follows LSP):**
 ```python
 class Bird:
@@ -318,7 +356,8 @@ make_it_move(Sparrow())  # ✅ Also works
 ```
 
 #### Dependency Inversion Principle (DIP)
->DIP state that High-level modules should not depend on low-level modules. Both should depend on abstractions (Interfaces) -> Basically Interface in Java and C#. 
+>DIP state that **High-level modules should not depend on low-level modules**. Both should depend on abstractions (Interfaces/protocols) -> **Basically Interface in Java and C#.** 
++ ? 🔌 **DIP**: "Don’t depend on **concrete classes**, depend on **interfaces**."
 
 ❌ **Bad Code (violates DIP):**
 ```python
@@ -333,6 +372,7 @@ class App:
     def run(self):
         self.db.connect()
 ```
+
 ✅ **Good Code (follows DIP):**
 ```python
 class DatabaseInterface:
