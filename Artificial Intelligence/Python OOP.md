@@ -422,11 +422,34 @@ print(f'{self.__class__.__name__}')
 
 ## Getters and Setters
 
-**read-only-method**: use @property to make variables cannot be change, only readable. this called Encapsulation. Read-only method doesn't modify any constance's or class's attributes, it just read them.
+**read-only-method**: 
++ **@property** is use to **make a method behave like a read-only attribute**. 
++ This called **Encapsulation** (i.e. **Encapsulation** means *hiding internal data and only exposing what's necessary*) In this case:
+	- `_name` is _hidden_ (a private detail).
+	    
+	- `@property` exposes it safely—**only for reading**, not writing.
+	  
++ Read-only method doesn't modify any constance's or class's attributes, it just read them. Used to read private attribute without allowing direct modification. 
 ```python
+class Item:
+	def __init__(self, name):
+	    self._name = name # private attribute
+	
 @property
 def read_only_name(self):
-	self.name = name # private attribute
+	return self._name # private attribute
+```
+**usage**
+```python
+p = Person("D")
+print(p.name)   # ✅ Output: D
+p.name = "New"  # ❌ Error: can't set attribute
+```
+to modify private `name` attribute, you have to add a `setter`:
+```python
+@name.setter
+def name(self, value):
+    self._name = value
 ```
 
 **private attribute**: in python **private attribute annotate with a underscore** `_name`, private attribute prevent access to the attribute from outside of the class. (`_` is **just a annotation, it doesn't affect the code**)

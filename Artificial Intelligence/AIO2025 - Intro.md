@@ -1,8 +1,13 @@
 **Primary Class:** 4, 6 and Sunday
 **Secondary Class:** 2,3,5 and 7.
 
-**Research path (my team):** 
-
+**Trusted Research Source**
++ Google Scholar: https://scholar.google.com/
++ IEEE: https://ieeexplore.ieee.org/
++ PubMed: https://pubmed.ncbi.nlm.nih.gov/
++ Springer Link: https://link.springer.com/
++ Arxiv: https://arxiv.org/
++ bioRxiv: https://arxiv.org/
 
 ---
 
