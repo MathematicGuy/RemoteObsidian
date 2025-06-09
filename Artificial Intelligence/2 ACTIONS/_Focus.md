@@ -1,13 +1,13 @@
-- [ ] y### [[Anstler Palace.canvas|Anstler Place]]
+### [[Anstler Palace.canvas|Anstler Place]]
 [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
 
 #TODO
 **Crucial**
-**Finish on Weekend**
-- [ ] [[Google Acquire Android Deal (Report)]]
-- [ ] AIO2025 Friday + Saturday 
+- [ ] [RAG pipeline Planning]()
+- [ ] Explain the **successful factors behind Google's Acquisition of Android**
+- [ ] Progress this Afternoon AIO2025 Friday + Saturday 
 - [ ] Công Thức - (Giải Thích) ilakantha, (Chứng Minh) Gregory-Leibniz, Newton Method
 
 **Finish on Weekday**
@@ -15,11 +15,8 @@
 
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
-- [ ] Apply LoRA for RAG Optimization 
 - SVD -> PCA
 - [ ] Hair Dye Guy Intergram: @gaustinpyt 
-
-- [ ] Tìm kiếm TA phù hợp với chuyên môn 
 
  
 - [ ] [[MIT Deep Learning]]

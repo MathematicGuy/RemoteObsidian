@@ -56,7 +56,7 @@
 
 + #### [[Code]]
 
-+ #### [[Mathematics for Machine Learning - MML]]
++ #### [[Mathematics for Machine Learning]]
 
 + #### [[Books]]
 
