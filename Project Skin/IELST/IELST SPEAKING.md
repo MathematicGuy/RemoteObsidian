@@ -64,7 +64,7 @@ I guess
 I reckon ~ I think
 I suppose 
 I'd say  
-![[Pasted image 20250529130210.png]]
+[[IELST/![[Pasted image 20250529130210.png]].md|![[Pasted image 20250529130210.png]]]]
 
 Alternative to But
 	That Said
