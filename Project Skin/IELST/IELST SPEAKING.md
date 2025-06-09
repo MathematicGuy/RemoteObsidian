@@ -47,16 +47,12 @@ respect mentors
 > học thêm từ + câu khi chuyển ý
 
 Reduce carbon dioxide, reduce emission and encourage the use if renewable energy. 
-
 Speaking part 3: make sure both of your statement 1 + 2 are related to eachother. 
 
 ----
 
 Note: 
 + ? How to pull words out of my mind. I do have a lots of vocabulary.
-
-
-
 
 ---
 
