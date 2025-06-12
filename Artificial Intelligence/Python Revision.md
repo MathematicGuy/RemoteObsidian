@@ -2,3 +2,8 @@
 
 ---
 ### [[Python OOP]]
+
+### Python List
+
+
+

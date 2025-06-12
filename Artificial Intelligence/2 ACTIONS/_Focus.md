@@ -5,12 +5,9 @@
 
 #TODO
 **Crucial**
-- [ ] [RAG pipeline Planning]()
-- [ ] Explain the **successful factors behind Google's Acquisition of Android**
-- [ ] Progress this Afternoon AIO2025 Friday + Saturday 
-- [ ] Công Thức - (Giải Thích) ilakantha, (Chứng Minh) Gregory-Leibniz, Newton Method
+>
 
-**Finish on Weekday**
+**Finish on This Week**
 - [ ] RAG demo  
 
 **Interest**

@@ -27,7 +27,6 @@ Train Text Detection Model (VietOCR)
 
 
 
-
 ---
 
 **Run Detection Model**

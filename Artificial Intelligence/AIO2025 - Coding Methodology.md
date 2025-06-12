@@ -28,13 +28,57 @@ M - Maintainable
 + Temporary Code
 + Code to debug 
 
+**Whitespace and Function/Class Structure**
++ White space 
+	+ Between outer Function and Class. Function within class seperate by 1 space.  
+	+ **Standard Class Structure:** `docstring` -> `class name variable` -> `__init__()` -> `methods` -> `private methods` (`__method`) -> `static method`.
+	+ **Standard Function Structure:** `docstring` -> `input validation` (avoid unwanted input) -> `main code` -> return. *Each function should serve 1 single purpose.* 
+
+**Google Docstring style**
+```python
+"""
+function summary
+
+Args: input arguments
+	...
+Returns: return results
+	...
+"""
+```
+
+**Annotations (PEP 484) and type hints**
+• **Kiểu cơ bản:** def add(a: int, b: float) -> float
+• **Kiểu phức tạp:** from typing import List, Dict, Tuple, Optional
+• **Kiểu Union:** `def process(data: Union[str, bytes])` -> `None`:
+• **Công cụ kiểm tra:** mypy, Pyright, PyCharm để phát hiện lỗi trước khi chạy.
+![[Pasted image 20250610083704.png]]
+
+
+**Module and Project Standard Document** 
+(Important docs highlighted)
++ **Module docstring:** Đặt ở đầu file, mô tả mục đích và các hàm chính
++ **README.md:** Hướng dẫn cài đặt, ví dụ đơn giản, cấu trúc project
++ **CONTRIBUTING.md:** Quy trình đóng góp, quy tắc code
++ Sphinx: Tự động tạo tài liệu API từ docstring
++ Wiki: Tài liệu chi tiết cho các tính năng phức tạp
+
++ ? Do I have to remember these thing ? Answer is NO. You have **tools** for this alone. ![[Pasted image 20250610083856.png]] Các công cụ trên *có thể tích hợp vào CI/CD pipeline, pre-commit hooks hoặc IDEs* như PyCharm và VSCode *để tự động kiểm tra code trước khi commit.*
+
+**Standard Python Project**
+![[Pasted image 20250610103504.png# left]]
++ ? Sử dụng các file cấu hình như .gitignore, pyproject.toml, và tập tin README.md để đảm bảo dự án được quản lý hiệu quả và dễ dàng cho người khác hiểu và đóng góp.
+	e.g. https://github.com/khoanta-ai/python_project_template.git
+
+**Standard Data Science Project Structure** ([Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org/) for quick setup)
+![[Pasted image 20250610103926.png]]
+
+
 #### PEP-8 Rule (Python Enhancement Proposal)
 **Clean Code:** better **codes that are easy to understand at the first glance** (Readable), easier to modify (Maintainable), easy for testing (Testable) and easy to expand and upgrade (Extensible). 
 Note: tool for checking PEP-8 -> flake8
 ![[Pasted image 20250609171526.png]]
 + ? Strive for Consistent and Unified code with comment.
-
-**Naming Convention:** snake_case, PascalCase, UPPER_CASE. 
+![[Pasted image 20250610090056.png]]
 
 
 **PEP-8** Basically a proposal for Python standard coding style, **so your code has the right look for anyone else reading or modifying it.** 
@@ -124,7 +168,7 @@ def calculation(a, b, operation):
 | **Real Benefit** | Scales better and avoids breaking old code                   |
 
 ### Pythonic Code
-**What is PYTHONIC?** writing Python in way that is both readable and efficient. Simple and Efficient Code.  
+**What is PYTHONIC?** writing Python in way that is both readable and efficient by using the most of PYTHON builtin features.  
 #### Permutation
 **Bad**
 ```python
@@ -221,6 +265,21 @@ if attr is None:
 	print 'attr is True'
 ```
 
+By using True or False condition checker, we can check if a list or dictionary is Empty or not, or if a value is present or not:
+```python
+name = "Python"
+if name:
+	print(name)
+
+items = []
+if not items:
+	print("Empty") 
+```
+Think of Pythonic logic is just human logic, use "in" to check if a variable in side a list. 
+![[Pasted image 20250610113545.png]]
+Or compare value like you do in math
+![[Pasted image 20250610113635.png]]
+
 #### Array Actions
 **Bad**
 ```python
@@ -269,7 +328,16 @@ a = [3, 4, 5]
 print(a[::-1])
 ```
 
-**Prefix** under string (`_variable`) -> Indicate Private attribute, shouldn't be access directly from outside of the function. 
+#### Pythonic Comparison
+![[Pasted image 20250610112737.png]]
++ ? None là **singleton object (object chỉ có 1 thuộc tính)**, phải dùng is/is not để so sánh về mặt identity, không phải equality. Sử dụng `==`có thể dẫn đến những kết quả không mong muốn.
+
+### Decorators Properties & Underscore 
+ underscore (`_variable`) -> Indicate Private attribute, can't be directly access (e.g. x=2 to x=3) but indirectly through method or function. 
+
+`@property` cho phép sử dụng method như thuộc tính,
+![[Pasted image 20250610114059.png]]
+
 
 **Python Context Manager**
 + $ Manage resource, ensure file get open and close accordingly while resource are freeup when the operation end. 
@@ -281,6 +349,15 @@ print(a[::-1])
 
 
 **What `@property` does ?** Allow accessing method like they are attributes, make cleaner code and easy access.  
+
+### Context Managers (with)
+Context Managers is a resource management machanism using "with" command, help to free up resource (close file, close DB connection, free up lock)  after the program end, even if there errors.
+![[Pasted image 20250610111952.png]]
+![[Pasted image 20250610112010.png]]
+-> Không phải đóng mở file, dữ liệu bằng tay. 
+
+**Create Custom Context Manager with Decorator** 
+![[Pasted image 20250610112522.png# left]]
 
 ### General Law of Clean Code
 **DRY (Don't Repeat Yourself) principle:** avoid repeated code, every function do exactly 1 job, transparent (straight forward,  easy to understand) and have purpose.
@@ -309,7 +386,8 @@ def apply_discount(price, discount=0.1):
 **YAGNI (You Aren't Gonna Need It)** says devs should only build features only when they're needed, instead of trying to predict and adding future need.
 
 ### SOLID rule and Design Patterns (Advance)
-+ $ These are coding principle, your code still run weather you you followed it or not.
++ $ These are coding principle and pattern, your code still run weather you you followed it or not.
++ **Common Design Pattern include:** Factory, Singleton, Adapter, Decorator, Command. 
 
 #### Liskov Substitution Principle (LSP) -  Subclass must act like the base class
 >LSP states that **if class `B` is a subclass of `A`, then object of type `A` should be replaceacle with objects of type `B` without breaking the program.** 
@@ -394,3 +472,17 @@ class App:
 app = App(MySQLDatabase())
 app.run()
 ```
+
+#### Defensive Programming
+Programming technique that always assume there errors. Include input validation, exception validation and boundary conditions (condition that less likely to happend) to avoid unwanted errors.
+![[Pasted image 20250610115927.png]]
++ **Basic rule:** Check inputs, validate users data, file API and other data source. *Never trust input from any source.* (anything can happend).
++ **Benefit:** help create sustainable code (long lasting), able to counter unpredicted scenario and easy to debug when there a problems. In python, use "assert" and "try-except" to catch predicted errors.  
+
++ $ Good error handling is more about how you catch the error than just catching the error.  ![[Pasted image 20250610120907.png]]
++ ? Use `logging` *instead of* `print` and create `custom exception` when you need to clarify error context.![[Pasted image 20250610121740.png]]
+
+**Seperation of Concerns** (phân chia trách nhiệm)
+Seperate your code into modules, class or independent class where each part only responsible for 1 specific feature -> make codes maintainable, testable and reusable. 
+![[Pasted image 20250610121348.png]]
+

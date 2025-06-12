@@ -1,4 +1,3 @@
-
 ### Python Good Habit
 > This will improve your coding readbility and performance.
 
@@ -95,40 +94,4 @@ list(path.iterdir())
 	+ `uint8` represents integers in the range `[0, 255]`
 	-> Convert image datatype to `unit8`: `.astype('unit8)` to display image with `imshow()`
 
-
-## Numpy
-+ ? random.choice()
-```python
-import numpy as np
-
-# Example 1: Choose one element from a list
-elements = ['a', 'b', 'c', 'd']
-chosen_element = np.random.choice(elements)
-print(f"Chosen element: {chosen_element}")
-
-# Example 2: Choose multiple elements with replacement
-elements = [1, 2, 3, 4, 5]
-num_choices = 3
-choices = np.random.choice(elements, size=num_choices)
-print(f"Choices with replacement: {choices}")
-
-# Example 3: Choose multiple elements without replacement
-elements = [1, 2, 3, 4, 5]
-num_choices = 3
-choices = np.random.choice(elements, size=num_choices, replace=False)
-print(f"Choices without replacement: {choices}")
-
-# Example 4: Choose elements with specified probabilities
-elements = ['A', 'B', 'C']
-probabilities = [0.1, 0.3, 0.6]  # Probabilities must sum to 1
-num_choices = 5
-choices = np.random.choice(elements, size=num_choices, p=probabilities)
-print(f"Choices with probabilities: {choices}")
-```
-```output
-Chosen element: b
-Choices with replacement: [3 3 1]
-Choices without replacement: [4 2 3]
-Choices with probabilities: ['C' 'C' 'C' 'A' 'C']
-```
 
