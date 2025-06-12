@@ -245,3 +245,9 @@ e.g.
 + Viet Nam: There multiple American tech giants company currently operating in Viet Nam.... 
 + ? lesson learned: start with what they want.... 
 
+----
+
+## Negotiation Culture
+Phải mềm dẻo đề đạt được mục tiêu chung (giống như ngọn cỏ) -> mục tiêu cuối: hưởng lợi
+Ngoài hiểu văn hóa quốc gia, còn phải hiểu văn hóa của công ty. 
+Xác nhận thông tin (qua nguồn uy tín và người quen)
