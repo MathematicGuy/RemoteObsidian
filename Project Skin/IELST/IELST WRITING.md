@@ -29,7 +29,7 @@ Overview: 2 sen
 Paragraph 1: 4 sen
 Paragraph 1: 3-4 sen
 
-
+[Constrast and Comparison Topic](https://ielts.idp.com/vietnam/prepare/article-compare-and-contrast-essay)
 
 #### Structure for Bar, Line graph, Table, Pie Chart
 

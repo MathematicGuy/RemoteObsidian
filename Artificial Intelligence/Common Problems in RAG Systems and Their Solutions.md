@@ -35,3 +35,4 @@ There are *multiple complex factors in real-life documents contributes to the de
 			+ Integrate this information in RAG for more comprehensive serach capability.
 
 
+![[506396273_687079714199523_2910371698844386261_n.jpg]]
