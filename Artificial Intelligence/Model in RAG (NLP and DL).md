@@ -23,7 +23,7 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 
 ---
 ### Save Contents
-**Plan:** Read BERT + SBERT main ideas -> Code BERT -> Code SBERT -> Understand Matryoshka Embedding Models -> (Main Content) ->   
+**Plan:** Read BERT + SBERT main ideas -> Code BERT -> Code SBERT -> Understand Matryoshka Embedding Models -> (Main Content) 
 
 **Primary Contents (prequisites for main content):**
 + [Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka)
@@ -50,7 +50,5 @@ That where **SBERT** or **Sentence Bidirectional Encoder Representation Transfor
 + [MordernBERT fine-tunning Example](https://colab.research.google.com/drive/1iWIruk02fGib9RZWdS51SJStIrHx4hMK?usp=sharing#scrollTo=Kphi220PlmDb)
 
 
-![[Pasted image 20250325105721.png]]
-
-correlation: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6uu4sFl1avE&psig=AOvVaw1ZdOV58rZGiwm5PtRzVja7&ust=1742962822024000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLia6uCwpIwDFQAAAAAdAAAAABAK
+**correlation:** https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6uu4sFl1avE&psig=AOvVaw1ZdOV58rZGiwm5PtRzVja7&ust=1742962822024000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLia6uCwpIwDFQAAAAAdAAAAABAK
 
