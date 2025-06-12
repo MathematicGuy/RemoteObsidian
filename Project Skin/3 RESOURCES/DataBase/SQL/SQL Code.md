@@ -372,8 +372,8 @@ ADD CONSTRAINT fk_customer_id
 FOREIGN KEY(trans_customer_id) REFERENCES customers(customer_id)
 ```
 
-SELF-REFERENCING FOREIGN KEY
-	Foreign key that reference the Primary Key of it's Table
+**SELF-REFERENCING FOREIGN KEY**
+	**Foreign key** that **reference the Primary Key of it's Table**
 ```sql
 CREATE TABLE Employees (
     employee_id INT PRIMARY KEY,
@@ -402,6 +402,9 @@ CREATE TABLE employees (
 Go 
 ```
 ![[Pasted image 20240406143152.png]]
+
+`Update Cascade` use to **update value from reference table (Child)**, **when the main table (Parent) are updated.** -> Đảm bảo dữ liệu ở cả 2 bảng thống nhất, tránh TH 1 bảng update dữ liệu, còn 1 bảng thì không khi 2 bảng đều lưu trữ cùng 1 trường thông tin (`Parent_ID`). 
+![[Pasted image 20250612212512.png]]
 
 
 ORDER BY (kind of like SORT) - can sort Date

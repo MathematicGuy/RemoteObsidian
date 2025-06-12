@@ -1,3 +1,4 @@
+## Introduction to Entity Relationship Diagram
 **Derived Attribute**: attribute that can be calculated using other attributes.
 ![[Pasted image 20250612202242.png]]
 
@@ -34,3 +35,5 @@ Line instead of foot mean One. One + Optional mean Zero or One (One or Nothing b
 
 + ? e.g. Student have only 1 seat. 1 seat have only 1 student
 ![[Pasted image 20250612211102.png]]
+
+## Introduction to Database Normalization

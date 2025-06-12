@@ -14,9 +14,6 @@ _sort:
 
 ## [[SQL tips and tool]]
 
-## [[SQL Table Command]]
-
-
 ## [[Normalization - 1NF, 2NF, 3NF, 4NF, 5NF]]
 
 
