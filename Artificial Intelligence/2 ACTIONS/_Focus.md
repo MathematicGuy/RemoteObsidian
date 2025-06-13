@@ -5,7 +5,6 @@
 
 #TODO
 **Crucial**
->
 
 **Finish on This Week**
 - [ ] RAG demo  

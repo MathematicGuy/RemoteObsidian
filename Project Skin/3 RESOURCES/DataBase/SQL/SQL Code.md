@@ -456,6 +456,8 @@ where continent = 'Europe'
 ![[Pasted image 20231128153152.png]]
 
 ### **[[SQL JOIN]]**  
+![[Pasted image 20250613071359.png]]
+
 [[JOIN Tables]]
 note: JOIN doesn't have to have condition, but RIGHT/LEFT JOIN must have condition 
 + ? Why using Join but not CASESIAN product

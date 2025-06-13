@@ -408,7 +408,9 @@ Wichtig - important
 Aufhören - end
 Höft Auf - stop
 
-Fängt start 
+Fängt start (3rd person present tense of the verb "fangen" which mean to capture)Uns
+Anfangen start now
 Oper 
 Neffe nephew 
+Das Stadion - stadium
 
