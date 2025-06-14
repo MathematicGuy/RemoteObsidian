@@ -6,6 +6,7 @@
 
 ### Tools: 
 [[Langchain vs LlamaIndex]]
+[llm prompting website](https://learnprompting.org/docs/basic_applications/mc_tutorial)
 
 
 

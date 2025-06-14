@@ -14,7 +14,7 @@ There are *multiple complex factors in real-life documents contributes to the de
 		+ Hierarchical retrieval (e.g. parent-child chunk)
 		+ Contextual retrieval 
 		  
-2) **Mismatch Between Questions and Document Formats:**
+2) **Mismatch Between Questions and Document Formats:** 
 	+ **Problem:** User queries may not align with the way information structured in docs.  
 	+ **Solutions:**
 		- Hypothetical Document Embeddings (HyDE)
