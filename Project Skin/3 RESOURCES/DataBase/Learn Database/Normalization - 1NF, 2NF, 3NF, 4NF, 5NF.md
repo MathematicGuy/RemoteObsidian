@@ -101,6 +101,7 @@ The Ex below is not in BCNF
 ![[Pasted image 20240117094614.png]]
 + Professor depend on std_id and subj 
 + This is where we have a problem bc: **prime attr depend on a non-prime attr**
++ 
 **How to make the table satisfy BCNF?** We have to break the table
 ![[Pasted image 20240117095146.png]]
 ![[Pasted image 20240117095155.png]]

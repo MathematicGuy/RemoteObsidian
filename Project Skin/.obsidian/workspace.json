@@ -28,10 +28,15 @@
             "id": "d386032c9481de6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/Workout/Calisthenics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Calisthenics"
             }
           },
           {
@@ -50,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,9 +266,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bbcd5cefd7c2dce2",
+  "active": "d386032c9481de6c",
   "lastOpenFiles": [
+    "Images/Pasted image 20250614124046.png",
+    "Images/Pasted image 20250614123914.png",
     "3 RESOURCES/DataBase/SQL/SQL.md",
+    "3 RESOURCES/DataBase/Learn Database/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "_Focus/Todo.md",
     "1 PROJECTS/Business Skills/Startup.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
@@ -281,7 +289,6 @@
     "3 RESOURCES/DataBase/DB HomeWork/3.2 Hãy cho biết kết quả của các câu truy vấn sau trong cơ sở dữ liệu ở bài tập 2.4.md",
     "3 RESOURCES/DataBase/DB HomeWork/Summary DB_HW2.md",
     "3 RESOURCES/DataBase/DB HomeWork/DB HW Chap1.md",
-    "3 RESOURCES/DataBase/Learn Database/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20250613071359.png",
     "3 RESOURCES/Web/Web API/Connect WebApp DB.md",
     "Images/Pasted image 20250612215421.png",
@@ -297,8 +304,6 @@
     "IELST/IELST WRITING.md",
     "Ragdoll.md",
     "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
-    "IELST/IELST SPEAKING.md",
-    "Images/Pasted image 20250531004015.png",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
