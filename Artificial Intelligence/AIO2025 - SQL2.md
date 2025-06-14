@@ -37,3 +37,34 @@ Line instead of foot mean One. One + Optional mean Zero or One (One or Nothing b
 ![[Pasted image 20250612211102.png]]
 
 ## Introduction to Database Normalization
+**Database Normalization help** reduce data redundancy and data anomaly (e.g. missing data, un-synchonize data between 2 tables) 
+
+**Data Normalization** is the act of divides larger tables into smaller tables and link them to create relationship between tables. 
+### Type of Data Anomalies (in un-normalized table)
+
+![[Pasted image 20250614165917.png]]
+
+1. **Insertion Anomaly:** happened when attributes are missing or un-synchronize at insertion time. Insertion in unnormalize database can create these problem:
+	 
+	 **Redundant Data:** Insertion of a student lead to value repeation of 'CourseName' and 'Professor'. Thus you have to insert these value again although these value already exist.
+	  ![[Pasted image 20250614170410.png]]
+	**Partial Data Insertion:** Insertion of New Course with no enrolled Student will allow missing value for student ID and Name. (often NULL value)
+	![[Pasted image 20250614170701.png| 450]]
+	  
+	**Null Value Issues:** Like partial data insertion, insertion of student who haven't enroll to any course will create null value for Courses and Professor columns.
+	![[Pasted image 20250614171111.png]]
+	
+2. **Updation anomalies:** this occur when multiple data are repeated in the same table lead to inefficiency. 
+	   ![[Pasted image 20250614172047.png]]
+	**Redundant Data Update:** Update of 1 row mean the update of multiple rows because. e.g. when a Professor change his name to Dr.Brown, all row with Dr.Smith would also have to updated for data consistancy.
+	![[Pasted image 20250614172305.png]]
+	**Inconsistant Data:** when you update 1 row but forget to update other rows. LIke when you update 1 Professor name but not synchronized the rest.
+	![[Pasted image 20250614172316.png]]
+	
+3. **Delete Anomalies:** Delete of 1 data lead to the unwanted deletion of other data.
+	![[Pasted image 20250614173016.png]]
+	**Unwanted Data Loss:** Delete Student Data also delete Course & Professor data. 
+	This can create *Orphan Records* if Course Name are depend on CourseID.
+	 ![[Pasted image 20250614173027.png]] 
+
+

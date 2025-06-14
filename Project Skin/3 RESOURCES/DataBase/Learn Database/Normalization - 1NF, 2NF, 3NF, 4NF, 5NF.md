@@ -18,10 +18,12 @@ Why Normalization? to avoid DB vurnerbility causes by data anomaly.
 	**Delete Anomalies:** delete student mean delete all columns of that rows, if course 101 within the deleted row, the course data also get deleted while we only want to delete the student.  
 
 ## Terminology
-A super key
-Composite Key
-Candidate Key
-Alternate Key
+![[Pasted image 20250614223855.png]]
+**Primary Key** - The only key used to identify a database record uniquely.  
+**Candidate Key** -  
+**Super Key** - a group of keys (multiple keys combine create a super key)
+**Composite Key** - 
+**Alternate Key** - 
 
 
 ## Normalization Form
