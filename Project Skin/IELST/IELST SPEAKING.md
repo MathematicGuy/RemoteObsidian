@@ -86,8 +86,12 @@ Besides
 
 That said
 ![[Pasted image 20250529130741.png]]
-
 As a matter of fact -> use when "give out a counter statement"
+
+From which (i.e. from the place that) - indicate the origin or starting point fo something, whether it's a place, a time, or a state of being.  ("from that place", "from that state" you can do this, do that)
++  The Village just over there, from which you can meet my neighbour 
++ The University offer serveral program, from which (từ đó) students can choose base on their interests.  
+
 
 ---
 

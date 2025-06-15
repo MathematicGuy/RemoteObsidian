@@ -25,9 +25,8 @@
             }
           },
           {
-            "id": "afc34d6d19dc2a86",
+            "id": "b0b1e059e02b2808",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -36,7 +35,6 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "THOUGH"
             }
@@ -249,14 +247,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "afc34d6d19dc2a86",
+  "active": "b0b1e059e02b2808",
   "lastOpenFiles": [
+    "_Focus.md",
+    "Productivity Note.md",
+    "Daily Note.md",
+    "THOUGH.md",
     "Delusion.md",
     "2 ACTIONS/_My Life/_My Life.md",
-    "_Focus.md",
-    "THOUGH.md",
     "22 lessons in 22 years.md",
-    "Daily Note.md",
     "2 ACTIONS/_My Life/Styles.md",
     "image/Pasted image 20250517195139.png",
     "image/Pasted image 20250517195109.png",
@@ -285,7 +284,6 @@
     "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "Studying Abroad.md",
     "Recipe for a Disastrous Life.md",
-    "How to achieve so much in 24 hours that it feels illegal.md",
     "image/Pasted image 20241112093724.png",
     "image",
     "fitness",

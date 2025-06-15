@@ -19,13 +19,24 @@ Why Normalization? to avoid DB vurnerbility causes by data anomaly.
 
 ## Terminology
 ![[Pasted image 20250614223855.png]]
-**Primary Key** - The only key used to identify a database record uniquely.  
-**Candidate Key** -  
-**Super Key** - a group of keys (multiple keys combine create a super key)
-**Composite Key** - 
-**Alternate Key** - 
+**Primary Key** - **A column or combination of columns that uniquely identify each rows in a table**. (only 1 per table) 
+	e.g. StudentCode or StudentID (must be Unique and not NULL)
+	
+**Candidate Key** -  is a **set of possible keys from which the primary key is chosen**.
+	e.g. StudentID and Email are candidate key but only 1 are chosen as Primary Key. 
+	
+**Alternate Key** - is a **candidate key that is not chosen as the primary key**.  
+	e.g. With StudentID chosen as Primary Key, Email become the Alternate key. 
+	
+**Super Key** - **any combination of Candidate Keys** (and any subsets of Candidate Keys) that uniquely identify record within a tables. 
+	Note: key within {} create a super key. 
+	e.g. {StudentID}, {Email}, {StudentID, Email}, {Email, StudentName}, {StudentID, Email, StudentName}
+	
+**Composite Key** - like a **superkey with > 1 attribute**. Specifically a **minimal combination of keys that identify record uniquely**. This mean if 2 keys are enough to identify each rows in the tables, then only 2 keys are selected as Composite Key.
+	While super key can be more than enough {StudentID, Email, StudentName} for example. 
+![[Pasted image 20250615142230.png| 450]]
 
-
+ 
 ## Normalization Form
 ### 1NF
 + ? All it attributes have an atomic value. This mean doesn't contain multi-valued attributes like Phone Numer (2 values in 1 attribute) ![[Pasted image 20250612214230.png]]
