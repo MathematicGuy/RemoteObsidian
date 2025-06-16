@@ -12,7 +12,7 @@
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - SVD -> PCA
-- [ ] Hair Dye Guy Intergram: @gaustinpyt 
+- [ ] Hair Dye Guy Instagram: @gaustinpyt 
 
  
 - [ ] [[MIT Deep Learning]]

@@ -414,3 +414,4 @@ Oper
 Neffe nephew 
 Das Stadion - stadium
 
+Hören die Spiele immer so schnell auf - Do the games always end so quickly ?

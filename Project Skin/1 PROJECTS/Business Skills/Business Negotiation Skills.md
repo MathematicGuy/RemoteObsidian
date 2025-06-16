@@ -246,8 +246,20 @@ e.g.
 + ? lesson learned: start with what they want.... 
 
 ----
-
 ## Negotiation Culture
 Phải mềm dẻo đề đạt được mục tiêu chung (giống như ngọn cỏ) -> mục tiêu cuối: hưởng lợi
 Ngoài hiểu văn hóa quốc gia, còn phải hiểu văn hóa của công ty. 
 Xác nhận thông tin (qua nguồn uy tín và người quen)
+
+### Use Case when Big Company Fail due to Culture Inappropriate
+**Tesla and Indian**
+Có luật "Indian Product First" - Tesla không ngờ tới hoặc giả vờ ko bik dẫn tới kí kết thấy bại. 
+
+**German**
+Walmart (siêu thị lớn nhất TG) 
++ *Muốn bán rẻ* -> vi phạm luật cạnh tranh lành mạnh
++ *Vi phạm luật lao động* -> chính sách của Mỹ là nhân viên pải cười và báo cáo vi phạm đồng nghiệp, tuy nhiên quy định này vi phạm luật lao động và quyền cá nhân của ng lao động đức, nơi quy định rõ về quyèn riêng tư. 
+
+**UNIQLO and India**
+UNIQLO không xem xét yếu tố Nhiệt độ tại ấn độ dẫn tới các dòng sản phẩm chống nóng (HEATeach), AIRism bị quăn co lại khi nhiệt độ > 60 độ.
+
