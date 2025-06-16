@@ -29,30 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Ultimate.md",
+                "file": "AIO2025 - SQL2_vn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG Ultimate"
-            }
-          },
-          {
-            "id": "1249d5eef75ab5bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO2025 - SQL2_en.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIO2025 - SQL2_en"
+              "title": "AIO2025 - SQL2_vn"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5,
+    "width": 243.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -223,65 +209,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "2a2919a6be20a9b5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "58ea642aea321732",
-        "type": "window",
-        "children": [
-          {
-            "id": "28380e3c19718501",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dc2a3a7b4bbbdd87",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AIO2025 - SQL2_vn.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "AIO2025 - SQL2_vn"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "dc2a3a7b4bbbdd87",
+  "active": "9d8b9665e149dd4c",
   "lastOpenFiles": [
-    "AIO2025 - SQL2_en.md",
-    "AIO2025 - SQL2_vn.md",
-    "RAG Ultimate.md",
     "2 ACTIONS/_Focus.md",
+    "AIO2025 - SQL2_vn.md",
+    "image/Pasted image 20250616122049.png",
+    "image/Pasted image 20250616113736.png",
+    "RAG Ultimate.md",
+    "AIO2025 - SQL2_en.md",
+    "image/Pasted image 20250616111955.png",
+    "image/Pasted image 20250616110611.png",
+    "image/Pasted image 20250616103045.png",
+    "image/Pasted image 20250616102622.png",
     "AIO2025 - Intro.md",
     "AIO 2025.md",
     "image/Pasted image 20250615203105.png",
     "image/Pasted image 20250615201925.png",
     "image/Pasted image 20250615201949.png",
     "image/Pasted image 20250615201944.png",
-    "image/Pasted image 20250615160733.png",
-    "image/Pasted image 20250615160717.png",
     "AIO2025 - Data Structure 2.md",
     "AIO2025 - Data Structure 2_en.md",
-    "image/Pasted image 20250615190538.png",
-    "image/Pasted image 20250615183556.png",
-    "image/Pasted image 20250615183256.png",
-    "image/Pasted image 20250615173325.png",
     "AIO 2024.md",
     "Model in RAG (NLP and DL).md",
     "Common Problems in RAG Systems and Their Solutions.md",
@@ -299,7 +246,6 @@
     "ID Card OCR Note.md",
     "Learning and Application Checklist for Extract Text from ID Card using OpenCV.md",
     "1 PROJECTS/AIO2025/Common Python Errors.md",
-    "AIO2025 - Basic Python (String and Loops ~ Text preprocessing).md",
     "Excalidraw",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",

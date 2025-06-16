@@ -87,9 +87,28 @@ Line thay cho foot nghĩa là One. One + Optional nghĩa là Zero or One (Một 
     ![[Pasted image 20250614173027.png]]
 
 ## Thuật ngữ
+Note: Thuộc tính là Tên của mỗi cột trong bảng. e..g StudentID, StudentName, CourseID, CourseName, Professor. 
+![[Pasted image 20250614173027.png]]
 
 ![[Pasted image 20250615144249.png]]  
-Sơ đồ Venn cho thấy **không phải tất cả Primary Key đều là Candidate Key** _vì chỉ một số Candidate Key được chọn làm Primary Key_, **không phải tất cả Super Key đều là Candidate Key** vì _Super Key bao gồm tổ hợp của Key với các thuộc tính không phải là prime_.
+Qua sơ đồ Venn, ta thấy có 3 lớp khóa SuperKey -> CandidateKey -> PrimaryKey, với mỗi tầng đại diện cho sự mở rộng của khóa. 
++ *Cách Giải thích 1:* Nghĩa là tầng 1 bao gồm 1 khóa, tầng hai bao gồm mọi khóa tầng 1 có thể chọn ra, tầng 3 bao gồm mọi khóa ở tầng 2 + các thuộc tính khác.
++ *Cách Giải thích 2:* Tầng trên là 1 tổ hợp khóa mở rộng ra từ tổ hợp khóa ở tầng dưới)
+	
++ *SuperKey = Candidate Key + Các thuộc tính khác* có thể là khóa hoặc không phải là khóa.  Có thể hiểu SuperKey là 1 list chứa mọi tổ hợp (i.e. khóa + khóa và thuộc tính) có thể dùng để lấy ra làm Khóa Chính sau này. 
+	![[Pasted image 20250616110611.png]]
+	Ví dụ:
+	+ Nếu `StudentID` là duy nhất thì StudentID có thể là SuperKey. 
+	+ `{StudentID, Name}, {StudentID, Age}, {StudentID, Name, Age}` cũng là super key (vì nó vẫn đảm bảo duy nhất dù có thừa).
+	+ `SuperKey = { {StudentID, Name}, {StudentID, Age}, {StudentID, Name, Age}, {StudentID} }`   
+	
++ *Candidate Key = Chứa mọi thuộc tính có thể là khóa*. 
+	e.g. Candidate Key={StudentID, Email}
+	
++ *Primary Key* = Khóa Chính của 1 bảng, được chọn ra từ SuperKey hoặc Candidate Key. Với điều kiện khóa được chọn ra là tối giản, nghĩa là *luôn chọn số khóa ít nhất*, chỉ chọn nhiều hơn 1 khóa là nó cần thiết đề thể hiện sự Duy Nhất. 
+	+ ? Ví dụ, trong bảng trên ta có `SuperKey = { {StudentID, Name}, {StudentID, Age}, {StudentID, Name, Age}, {StudentID} }`  thì chỉ chọn `StudentID` là được.
+	
++ Chính vì thế, mọi **Primary Key** đều là **Candidate Key**, bởi vì nó được chọn ra trực tiếp từ một candidate key. Tương tự, mọi **Candidate Key** đều là **Super Key**, vì Super Key là bao gồm mọi Candidate Key + các thuộc tính khác.    
 
 Chúng ta biết rằng tất cả Super, Candidate đều xây dựng dựa trên Primary Key. Vậy hãy bắt đầu từ cơ bản, bằng cách hiểu Primary Key là gì, và nó được tạo nên từ gì.
 
@@ -113,8 +132,11 @@ Hơn nữa, Primary Key là **tối thiểu**, nên nếu **không cần thiết
     Attribute này cũng **không là một phần của Candidate Key** (không thể được chọn làm primary key vì tính lặp lại). Ví dụ: Name, Age, SchoolName
     
 
-**Candidate Key** - là **tập hợp các key có thể được chọn làm Primary Key**. Do đó, prime attribute là một phần của Candidate Key.  
-Ví dụ: StudentID và Email là Candidate Key nhưng chỉ một được chọn làm Primary Key.
+**Candidate Key** - là **TẬP HỢP các thuộc tính có thể được chọn làm Primary Key**. Do đó, prime attribute là một phần của Candidate Key (vì prime-attribute là thuộc tính có thể được chọn làm Primary Key).  
+**Ví dụ:** 
+`{StudentID}, {Email}` là prime-attribute trong `Candidate Key = {{StudentID}, {Email}}`. Và chỉ 1 khóa (`{StudentID}` hoặc `{Email}`) trong Candidate Key được chọn làm Primary Key. 
+![[Pasted image 20250616103045.png]]
+note: *không nên viết* `CandidateKey={StudentID, Email, CCCD}` vì nó sẽ giống như CompositeKey mà ta học sau này.  
 
 **Alternate Key** - là **Candidate Key không được chọn làm Primary Key**.  
 Ví dụ: Nếu StudentID được chọn làm Primary Key, thì Email trở thành Alternate Key.
@@ -127,10 +149,8 @@ Ví dụ: {StudentID}, {Email}, {StudentID, Email}, {Email, StudentName}, {Stude
 ```ad-note
 Sự khác biệt giữa Primary Key và Super Key là *Super Key bao gồm mọi tổ hợp khóa có thể được chọn là khóa chính*, còn *PrimaryKey là khóa chính thức* được chọn làm Khóa Chính trong 1 bảng.  
 
-**Candidate Key** 
+**Candidate Key** trong **SuperKey** 
 ```
-
-
 
 
 **Composite Key** 1 cách gọi khác của Primary Key (khóa chính) khi **Primary Key nhưng có nhiều hơn 1 thuộc tính**. Cụ thể là **Composite Key cũng là khóa tối thiểu giống Primary Key, vì có > 1 khóa nên gọi Composite Key có là tổ hợp khóa tối thiểu**.  
@@ -163,7 +183,8 @@ Ví dụ:
 
 Giải thích 1NF → 3NF, tại BCNF giải thích sự khác biệt giữa BCNF và 3NF → 4NF đến 5NF.
 
-**1NF: thêm sự phụ thuộc giữa các Attributes** điều này nghĩa là mỗi bản ghi (row) trong bảng được xác định là duy nhất. Không có hàng nào trùng lặp.
+**1NF: Loại bỏ các thuộc tính đa giá trị trong 1 cột và lặp dòng** điều này nghĩa là ô trong bảng chỉ chứa 1 giá trị và mỗi bản ghi (row) trong bảng được xác định là duy nhất. Không có hàng nào trùng lặp.
+![[Pasted image 20250616111955.png]]
 
 **2NF: loại bỏ partial dependency** tức là không còn phụ thuộc một phần trong bảng, nghĩa là mọi attribute không phải là PrimaryKey đều phụ thuộc hoàn toàn vào 1 primary key (i.e. ko nhiều 1 khóa).
 
@@ -184,8 +205,7 @@ Ví dụ:
 - $ Thay vào đó, nếu ta tách StudentZipcode và StudentCity ra riêng và dùng StudentZipcode để tham chiếu tới bảng Student từ bảng Student_Location thì ta chỉ cần cập nhật StudentCity một lần, vì mỗi bản ghi trong Student_Location được xác định duy nhất, không lặp lại như ở ví dụ đầu tiên.  
     ![[Pasted image 20250615160425.png]]
 
-
-**Khác biệt chính giữa 3NF và BCNF:** Trong **3NF**, một **non-prime attribute có thể phụ thuộc vào một prime attribute hoặc một superkey. Không bắt buộc phải phụ thuộc hoàn toàn vào PrimaryKey**, attribute **có thể phụ thuộc vào primary key nằm trong superkey**  
+**Khác biệt chính giữa 3NF và BCNF:** Trong **3NF**, một **non-prime attribute có thể phụ thuộc vào 1 PrimaryKey hoặc 1 prime attribute bên trong PrimaryKey. Chứ không bắt buộc phải phụ thuộc hoàn toàn vào PrimaryKey**.  
 Ví dụ:  
 `Instructor` phụ thuộc vào `PrimaryKey(StudentCode, Course)`  
 `Instructor` cũng phụ thuộc vào `Course` → **không phụ thuộc hoàn toàn vào PrimaryKey.**  
@@ -197,7 +217,7 @@ Ví dụ:
     `Instructor` cũng phụ thuộc vào `Course` → **vi phạm BCNF**
     
     **Tóm lại:** Mọi attribute chỉ được phép phụ thuộc vào toàn bộ super key (ví dụ: phụ thuộc cả Student_Code và ProjectID), chứ không được phụ thuộc vào một prime attribute đơn lẻ (tức là chỉ phụ thuộc vào ProjectID hoặc StudentCode).
-    
+
 
 Tách bảng thành $R_{1}$ và $R_2$ để thỏa mãn BCNF.  
 $R_{1}(Course, Instructor)$  
@@ -235,10 +255,41 @@ Lưu ý: A và B là các attribute, do đó chúng có thể chứa 1 hoặc nh
     
 - Lưu ý: A có thể là primary key trong bảng riêng của nó (ví dụ bảng `Course`) và cả $R1$ và $R_2$ có thể tham chiếu tới nó thông qua foreign key.
 
-**TODO:**
+## Thực Hành: từ 0NF tới 4NF 
++ $ **Mục Tiêu:** hiểu được hướng tiếp cận và áp dụng chuẩn hóa.
 
-- Ví dụ về 5NF
+![[Pasted image 20250616122049.png]]
+
+| StudentID | StudentName | Courses                   | Instructor                  | Hobbies                 |
+| --------- | ----------- | ------------------------- | --------------------------- | ----------------------- |
+| S01       | An          | Math, Physics             | Dr. Nam, Dr. Phuc           | Reading, Playing Guitar |
+| S02       | Binh        | Chemistry                 | Dr. Hanh                    | Swimming                |
+| S01       | An          | Literature, History       | Dr. Thao, Dr. Tuan          | Reading, Playing Guitar |
+| S03       | Cuong       | Math, Literature, Physics | Dr. Nam, Dr. Thao, Dr. Phuc | Drawing                 |
+
+**Các vấn đề tồn tại (vi phạm từ 1NF trở xuống):**
+	
+- Ô Courses chứa nhiều giá trị (vi phạm nguyên tử).
     
-- So sánh 4NF và 5NF
+- Ô Instructor cũng chứa danh sách (vi phạm nguyên tử).
     
-- Case Study
+- Hobbies cũng chứa nhiều sở thích trong một ô.
+    
+- Lặp dữ liệu (S01 xuất hiện hai lần).
+    
+- Instructor không rõ là dạy môn nào.
+
+### 1NF: Loại bỏ thuộc tính đa giá trị, đảm bảo tính độc nhất cho mỗi dòng
+| StudentID | StudentName | CoursesID                 | Instructor                  | Hobbies                 |
+| --------- | ----------- | ------------------------- | --------------------------- | ----------------------- |
+| S01       | An          |                           | Dr. Nam, Dr. Phuc           | Reading, Playing Guitar |
+| S02       | Binh        | Chemistry                 | Dr. Hanh                    | Swimming                |
+| S01       | An          | Literature, History       | Dr. Thao, Dr. Tuan          | Reading, Playing Guitar |
+| S03       | Cuong       | Math, Literature, Physics | Dr. Nam, Dr. Thao, Dr. Phuc | Drawing                 |
+
+| StudentID | StudentName | Courses                   | Instructor                  | Hobbies                 |
+| --------- | ----------- | ------------------------- | --------------------------- | ----------------------- |
+| S01       | An          | Math, Physics             | Dr. Nam, Dr. Phuc           | Reading, Playing Guitar |
+| S02       | Binh        | Chemistry                 | Dr. Hanh                    | Swimming                |
+| S01       | An          | Literature, History       | Dr. Thao, Dr. Tuan          | Reading, Playing Guitar |
+| S03       | Cuong       | Math, Literature, Physics | Dr. Nam, Dr. Thao, Dr. Phuc | Drawing                 |
