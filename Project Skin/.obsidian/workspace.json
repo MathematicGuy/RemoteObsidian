@@ -25,48 +25,18 @@
             }
           },
           {
-            "id": "75a6448a79401bab",
+            "id": "210614c027379dc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "file": "3 RESOURCES/DataBase/Learn Database/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "German Vocab"
-            }
-          },
-          {
-            "id": "e773d1390f8b2402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "German Vocab archive"
-            }
-          },
-          {
-            "id": "37e913cdf8ba02eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Business Negotiation Skills"
+              "title": "Normalization - 1NF, 2NF, 3NF, 4NF, 5NF"
             }
           }
         ],
@@ -136,7 +106,7 @@
             }
           },
           {
-            "id": "1b1b919e0ca44df5",
+            "id": "ef3c1ad6c4c2b549",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -281,14 +251,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75a6448a79401bab",
+  "active": "210614c027379dc0",
   "lastOpenFiles": [
-    "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
+    "3 RESOURCES/DataBase/SQL/SQL.md",
     "_Focus/Todo.md",
+    "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "German Vocabulary.md",
-    "3 RESOURCES/DataBase/SQL/SQL.md",
     "3 RESOURCES/DataBase/Learn Database/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "Images/Pasted image 20250615142230.png",
     "Images/Pasted image 20250614223855.png",

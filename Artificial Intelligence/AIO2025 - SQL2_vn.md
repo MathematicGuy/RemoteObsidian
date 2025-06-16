@@ -104,14 +104,12 @@ Trong một bảng có các cột và hàng, mỗi cột đại diện cho một
 
 Vậy nên **Primary Key** là **một cột hoặc tổ hợp cột dùng để xác định duy nhất mỗi hàng trong bảng**. (chỉ có 1 trong mỗi bảng)  
 Hơn nữa, Primary Key là **tối thiểu**, nên nếu **không cần thiết kết hợp** `ProjectID` và `Project_leader` làm Primary Key thì chỉ cần chọn 1 attribute (`ProjectID` hoặc `Project_Leader`) làm Primary Key.
-
-- ? Lưu ý: Primary Key không giới hạn phải là tổ hợp giữa prime và non-prime attribute, miễn là nó cần thiết để xác định duy nhất các attribute khác trong bảng.  
-    ví dụ: StudentID hoặc Email (phải Unique và không NULL) hoặc {StudentID, Email} nếu cần cả 2 để xác định duy nhất các attribute khác.
-    
-- **Prime Attribute (có thể là Primary Key):** thuộc tính là duy nhất, có thể dùng để xác định duy nhất các attribute khác. Ví dụ: StudentID hoặc Email.  
++ ?  Ví dụ cho PrimaryKey: StudentID, Email (vs điều kiện là Unique và không NULL)
+	
+- **Prime Attribute (thuộc tính có thể là Primary Key):** thuộc tính là duy nhất, có thể dùng để xác định duy nhất các attribute khác. Ví dụ: StudentID hoặc Email.  
     Prime attribute cũng là **một phần của Candidate Key** (key có thể được chọn làm primary key)
     
-- **Non-Prime Attribute (không thể là Primary Key):** thuộc tính không duy nhất và lặp lại như Name hoặc SchoolName.  
+- **Non-Prime Attribute (thuộc tính không thể là Primary Key):** thuộc tính không duy nhất và lặp lại như Name hoặc SchoolName.  
     Attribute này cũng **không là một phần của Candidate Key** (không thể được chọn làm primary key vì tính lặp lại). Ví dụ: Name, Age, SchoolName
     
 
@@ -126,13 +124,21 @@ Lưu ý: thuộc tính trong {} biểu diễn một Super Key.
 Ví dụ: {StudentID}, {Email}, {StudentID, Email}, {Email, StudentName}, {StudentID, Email, StudentName}
 - $ Tóm lại, Super Key bao gồm tất cả tổ hợp khóa có thể tổ hợp được. 
 
+```ad-note
+Sự khác biệt giữa Primary Key và Super Key là *Super Key bao gồm mọi tổ hợp khóa có thể được chọn là khóa chính*, còn *PrimaryKey là khóa chính thức* được chọn làm Khóa Chính trong 1 bảng.  
 
-**Composite Key** - là **Primary Key gồm > 1 thuộc tính**. Cụ thể là **tổ hợp tối thiểu của các khóa để xác định bản ghi một cách duy nhất**.  
-Điều này có nghĩa nếu 2 khóa là đủ để xác định mỗi hàng trong bảng, thì chỉ 2 khóa đó được chọn làm Composite Key.  
+**Candidate Key** 
+```
+
+
+
+
+**Composite Key** 1 cách gọi khác của Primary Key (khóa chính) khi **Primary Key nhưng có nhiều hơn 1 thuộc tính**. Cụ thể là **Composite Key cũng là khóa tối thiểu giống Primary Key, vì có > 1 khóa nên gọi Composite Key có là tổ hợp khóa tối thiểu**.  
+	Điều này có nghĩa nếu 2 khóa là đủ để xác định mỗi hàng trong bảng, thì chỉ 2 khóa đó được chọn làm Composite Key.  
 Trong khi Super Key có thể dư thừa, ví dụ {StudentID, Email, StudentName}.  
 ![[Pasted image 20250615144314.png]]
 
-Lưu ý: Prime và Non-Prime không giống với Candidate và Alternate Key. Nó mô tả xem một thuộc tính **có thể trở thành key** hay không, trong khi Candidate và Alternate Key mô tả xem một thuộc tính (có thể là key) **đã được chọn làm key hay chưa**.
+Lưu ý: Prime và Non-Prime không giống với Candidate và Alternate Key. Nó mô tả xem một thuộc tính **có thể trở thành key** hay không, trong khi Candidate và Alternate Key mô tả xem một Prime Attribute **đã được chọn làm Primary Key hay chưa**.
 
 Lưu ý: $X \to Y$ biểu thị sự phụ thuộc hàm (functional dependency - FD), nghĩa là nếu 2 hàng có cùng giá trị X, thì chúng phải có cùng giá trị Y.  
 Ví dụ: nếu $StudentID \to Name$, thì $StudentID$ xác định duy nhất Name.
@@ -141,13 +147,14 @@ Ví dụ: nếu $StudentID \to Name$, thì $StudentID$ xác định duy nhất N
 Giả sử $Z$ và $Y$ là non-prime. $X$ là primary key.  
 Vì $X \to Y$ và $Z \to Y$ nên ta có thể xác định $X \to Y \to Z$ (xác định X thông qua Y và Y thông qua Z) $\to$ dẫn đến dư thừa dữ liệu.
 
-**Tóm tắt:** X $\to$ Y là trivial nếu $Y \in X$, còn $X \to Y$ là non-trivial ngược lại.  
-**Trivial Dependency:** Phụ thuộc **cung cấp thông tin mới**. Không rõ ràng  
+**Tóm tắt:** X $\to$ Y là trivial (tầm thường) nếu $Y \in X$, còn $X \to Y$ là non-trivial (không tầm thường) ngược lại. 
+
+**Trivial Dependency:** Phụ thuộc **cung cấp thông tin mới**. Trong thuật ngữ, ta nói đây là 1 phụ tuộc "Không hiển nhiên" (i.e. nghĩa là cung cấp thông tin đã biết rồi)
 Ví dụ:  
 + ${StudentID, Course} \to Instructor$  
 + $Course \to Department$
 
-**Non-Trivial Dependency:** Phụ thuộc **không cung cấp thông tin mới**. Hiển nhiên  
+**Non-Trivial Dependency:** Phụ thuộc **không cung cấp thông tin mới** -> Trong thuật ngữ, có thể nói đây là 1 phụ thuộc "Hiển nhiên".
 Ví dụ:  
 + ${StudentID, Course} \to StudentID$  
 + $StudentID \to StudentID$
@@ -156,13 +163,11 @@ Ví dụ:
 
 Giải thích 1NF → 3NF, tại BCNF giải thích sự khác biệt giữa BCNF và 3NF → 4NF đến 5NF.
 
-**1NF: thêm sự phụ thuộc giữa các Attributes** điều này nghĩa là mỗi bản ghi (row) trong bảng được xác định duy nhất. Không có hàng nào trùng lặp.
+**1NF: thêm sự phụ thuộc giữa các Attributes** điều này nghĩa là mỗi bản ghi (row) trong bảng được xác định là duy nhất. Không có hàng nào trùng lặp.
 
-**2NF: loại bỏ partial dependency** tức là không còn phụ thuộc một phần trong bảng, nghĩa là mọi attribute (bao gồm cả alternate key, prime-attribute) đều phụ thuộc hoàn toàn vào 1 primary key.
+**2NF: loại bỏ partial dependency** tức là không còn phụ thuộc một phần trong bảng, nghĩa là mọi attribute không phải là PrimaryKey đều phụ thuộc hoàn toàn vào 1 primary key (i.e. ko nhiều 1 khóa).
 
 - ! Hạn chế phụ thuộc của attributes vào nhiều primary key nhưng không hạn chế phụ thuộc giữa Attribute và Attribute.
-    
-
 > Ví dụ: nếu {Player_ID, Item_Type} → Item_Quantity, Player_Rating - thì là 2NF  
 > ![[Pasted image 20250615153211.png]]
 
@@ -178,54 +183,57 @@ Ví dụ:
     
 - $ Thay vào đó, nếu ta tách StudentZipcode và StudentCity ra riêng và dùng StudentZipcode để tham chiếu tới bảng Student từ bảng Student_Location thì ta chỉ cần cập nhật StudentCity một lần, vì mỗi bản ghi trong Student_Location được xác định duy nhất, không lặp lại như ở ví dụ đầu tiên.  
     ![[Pasted image 20250615160425.png]]
+
+
+**Khác biệt chính giữa 3NF và BCNF:** Trong **3NF**, một **non-prime attribute có thể phụ thuộc vào một prime attribute hoặc một superkey. Không bắt buộc phải phụ thuộc hoàn toàn vào PrimaryKey**, attribute **có thể phụ thuộc vào primary key nằm trong superkey**  
+Ví dụ:  
+`Instructor` phụ thuộc vào `PrimaryKey(StudentCode, Course)`  
+`Instructor` cũng phụ thuộc vào `Course` → **không phụ thuộc hoàn toàn vào PrimaryKey.**  
+![[Pasted image 20250615203105.png]]
+
+- Trong **BCNF**, là _3NF nhưng không attribute nào (prime hay non-prime) được phép phụ thuộc vào bất kỳ thứ gì khác ngoài PrimaryKey_  
+    Ví dụ:  
+    `Instructor` phụ thuộc vào `PrimaryKey(StudentCode, Course)`  
+    `Instructor` cũng phụ thuộc vào `Course` → **vi phạm BCNF**
+    
+    **Tóm lại:** Mọi attribute chỉ được phép phụ thuộc vào toàn bộ super key (ví dụ: phụ thuộc cả Student_Code và ProjectID), chứ không được phụ thuộc vào một prime attribute đơn lẻ (tức là chỉ phụ thuộc vào ProjectID hoặc StudentCode).
     
 
-**3NF vs BCNF Sự khác biệt chính:**
-
-- Trong **3NF**, một **non-prime attribute** có thể phụ thuộc vào prime attribute trong candidate key hoặc superkey, miễn là không có tính chất bắc cầu. Điều này có nghĩa là attributes không cần phụ thuộc vào toàn bộ superkey mà chỉ cần phụ thuộc vào candidate key.
-    
-- Trong **BCNF, là 3NF nhưng không attribute nào (prime hay non-prime) được phép phụ thuộc vào bất kỳ tập hợp attribute nào không phải superkey**. Điều này loại bỏ cả functional dependency vào prime attribute không phải superkey. 
-- **Giải thích rõ hơn:** 
-	**Mọi attribute chỉ được phép phụ thuộc vào toàn bộ super key**. 
-	VD: *Phụ thuộc và cả 2 khóa Student_Code và ProjectID chứ không phụ thuộc đơn lẻ vào 1 prime attribute* như ProjectID hoặc StudentCode.
-    
-
-![[Pasted image 20250615160717.png]]  
-
-![[Pasted image 20250615160733.png]]
+Tách bảng thành $R_{1}$ và $R_2$ để thỏa mãn BCNF.  
+$R_{1}(Course, Instructor)$  
+![[Pasted image 20250615201944.png]]  
+$R_{2}(StudentCode, Course)$  
+![[Pasted image 20250615201949.png]]
 
 **4NF: loại bỏ multi-value dependency** (trong bảng có ít nhất 3 cột)  
-Bảng thỏa mãn **4NF cũng thỏa mãn BCNF và không có bất kỳ Multi-valued Dependency nào.**  
-Lưu ý: A và B là các attribute, nên có thể chứa 1 hoặc nhiều giá trị.
+Bảng thỏa mãn **4NF cũng sẽ thỏa mãn BCNF và không được có bất kỳ Multi-valued Dependency nào.**  
+Lưu ý: A và B là các attribute, do đó chúng có thể chứa 1 hoặc nhiều giá trị.
 
-**Multi-valued Dependency** ($\to \to$) nghĩa là:  
+**Multi-valued Dependency** ($\to \to$) nghĩa là  
 ![[Pasted image 20250615183556.png]]
 
 1. Với phụ thuộc $A \to B$, nếu với một giá trị A duy nhất `ví dụ: Course=CS101`, tồn tại nhiều giá trị B `ví dụ: Teacher={Smith, Jones}`. (tức là A xác định một tập giá trị của B)
     
-2. Một bảng phải có ít nhất 3 cột để xảy ra Multi-valued Dependency `ví dụ: R(Course, Teacher, Book)` (_để đảm bảo điều kiện thứ 3_)
+2. Một bảng cần có ít nhất 3 cột để xảy ra Multi-valued Dependency `ví dụ: R(Course, Teacher, Book)` (_tạo điều kiện để chứng minh điều kiện 3._)
     
-3. Với quan hệ `R(Course, Teacher, Book)`, nếu tồn tại multi-valued dependency giữa Course và Teacher, thì Book phải độc lập.
+3. Với quan hệ `R(Course, Teacher, Book)`, nếu tồn tại Multi-valued Dependency giữa Course và Teacher, thì Book phải độc lập.
     
 
-**Bảng có Multi-valued Dependency (tức là vi phạm 4NF) có thể được tách thành** $R_1(Course, Teacher)$ và $R_2(Course, Book)$, với yêu cầu có ít nhất 3 thuộc tính trong quan hệ ban đầu.  
+**Bảng có Multi-valued Dependency (tức là vi phạm 4NF) có thể được tách thành** $R_1(Course, Teacher)$ và $R_2(Course, Book)$, yêu cầu bảng gốc phải có ít nhất 3 attribute.  
 ![[Pasted image 20250615190538.png]]  
 **Trong đó:**
 
 - B `Teacher` không phụ thuộc vào C `Book`
     
 
-- Primary key $R_1(A, B)$ nhưng `Course` là attribute liên kết.
+- Primary key của $R_1(A, B)$ nhưng `Course` là attribute liên kết.
     
-- Primary key $R_2(A, C)$ nhưng `Course` là attribute liên kết. Course chỉ đơn giản là thuộc tính chia sẻ.
+- Primary key của $R_2(A, C)$ nhưng `Course` là attribute liên kết. Course chỉ đơn giản là thuộc tính chung.
     
 
 - $A \to \to B$ và $A \to \to C$ ($\to \to$ nghĩa là multi-valued dependency)
     
-- Lưu ý: A có thể là primary key trong bảng riêng (ví dụ bảng `Course`) và cả $R1$ và $R_2$ có thể tham chiếu đến nó qua foreign key.
-    
-
----
+- Lưu ý: A có thể là primary key trong bảng riêng của nó (ví dụ bảng `Course`) và cả $R1$ và $R_2$ có thể tham chiếu tới nó thông qua foreign key.
 
 **TODO:**
 

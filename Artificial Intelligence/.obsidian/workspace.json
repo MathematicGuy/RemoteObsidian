@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "9d8b9665e149dd4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG Ultimate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Ultimate"
+            }
+          },
+          {
+            "id": "1249d5eef75ab5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO2025 - SQL2_en.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIO2025 - SQL2_en"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,13 +223,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94a8fec102982b88",
+  "floating": {
+    "id": "2a2919a6be20a9b5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "58ea642aea321732",
+        "type": "window",
+        "children": [
+          {
+            "id": "28380e3c19718501",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc2a3a7b4bbbdd87",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AIO2025 - SQL2_vn.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AIO2025 - SQL2_vn"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dc2a3a7b4bbbdd87",
   "lastOpenFiles": [
+    "AIO2025 - SQL2_en.md",
     "AIO2025 - SQL2_vn.md",
+    "RAG Ultimate.md",
     "2 ACTIONS/_Focus.md",
     "AIO2025 - Intro.md",
     "AIO 2025.md",
-    "AIO2025 - SQL2_en.md",
     "image/Pasted image 20250615203105.png",
     "image/Pasted image 20250615201925.png",
     "image/Pasted image 20250615201949.png",
@@ -214,7 +283,6 @@
     "image/Pasted image 20250615183256.png",
     "image/Pasted image 20250615173325.png",
     "AIO 2024.md",
-    "RAG Ultimate.md",
     "Model in RAG (NLP and DL).md",
     "Common Problems in RAG Systems and Their Solutions.md",
     "AIO2025 - Coding Methodology.md",

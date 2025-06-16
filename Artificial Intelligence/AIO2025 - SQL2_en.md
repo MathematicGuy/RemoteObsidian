@@ -151,7 +151,7 @@ e.g.
 ![[Pasted image 20250615160425.png]]
 
 
-**3NF vs BCNF Key Difference:** In **3NF**, a **non-prime attribute can depend on a prime attribute or a superkey. Not strictly require to be depend entirely on the PrimaryKey alone,** attributes **can depend on primary key within the superkey**
+**3NF vs BCNF Key Difference:** In **3NF**, a **non-prime attribute can depend on a prime attribute or a superkey. Not strictly require to be depend entirely on the PrimaryKey alone,** attributes **can depend on candidate  within the superkey**
 	e.g.
 		`Instructor` depend on `PrimaryKey(StudentCode, Course)` 
 		`Instructor` also depend on `Course`  -> **not depend entirely on the PrimaryKey.** ![[Pasted image 20250615203105.png]]
