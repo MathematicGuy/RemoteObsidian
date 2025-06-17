@@ -8,14 +8,15 @@
 
 **Finish on This Week**
 - [ ] RAG demo  
+- [ ] Fix my shirt when standing up
 
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] SVD -> PCA
-- [ ] Hair Dye Guy Instagram: @gaustinpyt 
-- [ ] [SQL_Thang](https://beryl-freckle-b85.notion.site/AIO2025-Case-Study-Thi-t-K-C-S-D-Li-u-Cho-ng-D-ng-Deep-Learning-T-i-T-p-o-n-C-ng-Ngh-Conne-211302d8792c803180ecccd728194067#211302d8792c802dad98ca82c0d1ab32)
- 
-- [ ] [[MIT Deep Learning]]
+- [ ] Hair Dye Guy Instagram @gaustinpyt 
+- [ ] [FocusMate](https://www.focusmate.com/science/)
+
+- [ ] [[MIT Deep Learning]]T
 - [ ] [[AI NEWS]]
 
 **Machine Learning**
