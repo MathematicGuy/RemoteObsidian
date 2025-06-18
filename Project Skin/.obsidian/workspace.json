@@ -25,18 +25,15 @@
             }
           },
           {
-            "id": "230596823cbdd47a",
+            "id": "f031c4edaf1cf5f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "3 RESOURCES/Git/Github for Beginners.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "spaces://#todo/later"
               },
               "icon": "lucide-file",
-              "title": "Github for Beginners"
+              "title": "#todo"
             }
           }
         ],
@@ -106,7 +103,7 @@
             }
           },
           {
-            "id": "f57a024acbd2e491",
+            "id": "887e1b8cff0db2d6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -251,14 +248,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "230596823cbdd47a",
+  "active": "f031c4edaf1cf5f8",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "3 RESOURCES/Git/Github for Beginners.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git for Professionals.md",
     "3 RESOURCES/Git/How GIT works under the HOOD.md",
     "3 RESOURCES/Git/How to be a Git Expert.md",
-    "3 RESOURCES/Git/Github for Beginners.md",
-    "_Focus/Todo.md",
     "3 RESOURCES/Git/Git.md",
     "2 ACTIONS/Workout/Calisthenics.md",
     "Images/Pasted image 20250616134344.png",
