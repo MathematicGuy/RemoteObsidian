@@ -28,12 +28,15 @@
             "id": "f031c4edaf1cf5f8",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "spaces://#todo/later"
+                "file": "1 PROJECTS/Business Skills/Startup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "#todo"
+              "title": "Startup"
             }
           }
         ],
@@ -250,6 +253,8 @@
   },
   "active": "f031c4edaf1cf5f8",
   "lastOpenFiles": [
+    "Images/Pasted image 20250618074912.png",
+    "Images/Market-Technology-Execution-Risk-Matrix-and-team-execution-performance-26-Prediction.png",
     "_Focus/Todo.md",
     "3 RESOURCES/Git/Github for Beginners.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
@@ -280,12 +285,10 @@
     "3 RESOURCES/Web/BackEnd/DB_HW4-1.md",
     "3 RESOURCES/DataBase/DB HomeWork/DB_HW6.md",
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
-    "3 RESOURCES/DataBase/SQL/SQL tips and tool.md",
     "Images/Pasted image 20250613071359.png",
     "Images/Pasted image 20250612215421.png",
     "Images/Pasted image 20250612215118.png",
     "Images/Pasted image 20250612215011.png",
-    "Images/Pasted image 20250612214259.png",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
