@@ -225,7 +225,24 @@ for i in Item:
 ```
 
 #repr_vs_str: like f string
-![[Pasted image 20240923142039.png]]
+```python
+class ExampleClass:  
+    def __init__(self, attribute1, attribute2):  
+        self.attribute1 = attribute1  
+        self.attribute2 = attribute2  
+  
+    def __repr__(self):  
+        return "%s(%r)" % (self.__class__, self.__dict__)  
+  
+# Creating an instance of ExampleClass  
+example = ExampleClass('value1', 'value2')  
+  
+# Printing the instance to see the output of __repr__  
+print(example)
+```
++ ? The `__init__` method initializes attribute1 and attribute2 when an instance of ExampleClass is created.
++ ? The `__repr__` method provides a string representation of the instance
+
 + use `__str__` to display information to user
 + use `__repr__` to debugging, allow dev to modify print output format 
 

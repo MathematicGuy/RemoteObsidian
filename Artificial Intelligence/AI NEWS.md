@@ -16,3 +16,6 @@ BLT: CÁCH MẠNG LLM, ĐẬP TOKENIZATION XÂY MỚI
 [Automatically Build Website or App using MCP](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 
 
+new paper release - this mean this paper had been worked on 3 - 6 months ago. 
+-> update news (paper) daily to know today trend. 
+

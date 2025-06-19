@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "cdc9481a5c33963b",
+            "id": "279e26925dc6ad9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business Negotiation Skills"
             }
           }
         ],
@@ -101,7 +106,7 @@
             }
           },
           {
-            "id": "223b586660cb0c30",
+            "id": "751f17498bbd04d3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -246,7 +251,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cdc9481a5c33963b",
+  "active": "279e26925dc6ad9f",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "1 PROJECTS/Business Skills/Startup.md",

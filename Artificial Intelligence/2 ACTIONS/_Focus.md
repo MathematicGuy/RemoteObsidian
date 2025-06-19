@@ -8,7 +8,7 @@
 
 **Finish on This Week**
 - [ ] RAG demo  
-- [ ] Fix my shirt when standing up
+- [ ] How to Manage mental fatigue after a hard workout 
 
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
