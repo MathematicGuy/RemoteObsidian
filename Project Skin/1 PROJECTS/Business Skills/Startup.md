@@ -64,3 +64,25 @@ Note: Nội dung chính trong 5-10 phút.
 + **Marketing:** so sánh kết quả trả lời trc và sau khi Prompting hiệu quả. 
 
 **Key Partnerships:** nhà cung cấp dịch vụ gì đó, đối tác. 
+
+----
+
+## Lean Canvas Model (must use mid-term)
+![[Pasted image 20250620073430.png|400]]
+Key activity example: cho khách hàng tham gia vào làm sản phẩm.
+
+![[Pasted image 20250620074023.png]]
+Product-need fit (xác thực ý tưởng) -> Learn Canvas tập trung vào đây
+Product-market fit (xác thực sản phẩm vs thị trường)
+
+Risk - Risk
+**Uncertanty -** uncertain risk
+**Unfair Advantages (lợi thế cạnh tranh) -** thứ mà khó để sao chép -> lợi thế bền vững.  
+
+MVP (Minimal Viable Product) - sản phẩm tối thiểu có thể bán đc. 
+	Liên tục thử nghiệm - đo lường - cải tiến *học và cải thiện dựa trên phản hồi của thị trường*
+	.
+	Bắt đầu từ sản phẩm sơ cấp, thứ cấp, cao cấp. 
+![[Pasted image 20250620085832.png]]
+Design Thinking and Lean startup
+

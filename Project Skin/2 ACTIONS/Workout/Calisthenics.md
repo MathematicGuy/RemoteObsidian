@@ -13,13 +13,15 @@ Due to Fatigue management, 2 per week is recommend.
 
 In the **Early Day, a Simple Structure is a Better Structure.**
 **Strenght Phrase:** 3 - 7 reps per set. 
-If you able to pull 60% of your body weight. e.g. 75kg x 60% = 45. 10kg of extra shouldn't be a problem, you still able to pull 60% body weight. 
-**Reps and Sets:** `4x6` or `5x5` - You can slowed down if you body not able to take it. Just comtinue gradually. ($+-1.25$)
+	If you able to pull 60% of your body weight e.g. 55kg x 60% = 33kg. 10kg of extra shouldn't be a problem, you still able to pull 60% body weight. 
+**Reps and Sets:** `4x6` or `5x5`.
+	You can slowed down if you body not able to take it. Just comtinue gradually. ($+-1.25$)
 ![[Pasted image 20250616134344.png|300]]
 + ? For better muscle building and steady progression, stop at the range where you weak at. i.e. pull 1/3 way stop, pull, 2/3 ways stop, 3/3 stop repeat. 
 
 
-[Better Dips](https://youtu.be/bD8z4Jyax90?si=08ueCiDKVEwXhH_1) 
+### [[Calisthenics Dip]]
+[Better Dips](https://youtu.be/bD8z4Jyax90?si=08ueCiDKVEwXhH_1)
 + Keep your shoulder blades depressed.
 + Push your shoulder slightly forward. 
 + Finally restract, keep your shoulder blades always from eachother. Which tucked the chest in closed position. -> Put less stress on the back and shoulder because this distribute the weight. 
