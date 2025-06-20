@@ -411,7 +411,29 @@ Höft Auf - stop
 Fängt start (3rd person present tense of the verb "fangen" which mean to capture)Uns
 Anfangen start now
 Oper 
-Neffe nephew 
 Das Stadion - stadium
 
 Hören die Spiele immer so schnell auf - Do the games always end so quickly ?
+Dauert - last
+
+`Mögen` in present tense are `ich mag`. 
+mögen - to like (gern) ([german norminative case](https://germanwithlaura.com/nominative-case/))
+![[Pasted image 20250619110514.png|400]]
+
+Zum - to the 
+	zum Bahnof - to the train station
+	   
+Klassische Musik - classical music
++ ? Note: Freunde is plural. "Meine Freunde" mean "my friends". And "von" mean "of"
+
+Are there - gibt es
+	... Gibt es im Sommer - ... are there in Sommer
+
+
++ ? Meine use i Accusative Case
+	Meine Liebelingband - my favourite band
+
+Mitkommen - comming along
+	Möchtest du 
+Kommt ganz bestimmt - definitely comming
+Anzung - vest suit

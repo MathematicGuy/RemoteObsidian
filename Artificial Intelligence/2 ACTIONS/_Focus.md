@@ -13,10 +13,9 @@
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] SVD -> PCA
-- [ ] Hair Dye Guy Instagram @gaustinpyt 
 - [ ] [FocusMate](https://www.focusmate.com/science/)
 
-- [ ] [[MIT Deep Learning]]T
+- [ ] [[MIT Deep Learning]]
 - [ ] [[AI NEWS]]
 
 **Machine Learning**

@@ -1,8 +1,9 @@
 # OOP
-the `__init__` method allow class attribute to be modified directly without adding any function like `speak()` below
+#### `__init__`
++ ? The `__init__()` function is called automatically every time the class is being used by a Object, it just empty when you don't initialize it. But if you do, `__init__()` can be used to initialize attribute of a class with specific value. 
+	e.g. Dog class with `name` attribute. 
 ```python
 class Dog:
-
     # class attribute
     attr1 = "mammal"
 
@@ -29,6 +30,18 @@ def speak(self):
 Tommy.speak() 
 ```
 >output: My name is Tommy
+
++ ? `self` is just a naming convention on how you declare a pointer. Its can be anything really, but you shouldn't.
+```python
+class Cat:
+    def describe(age, name):
+        age.__age = 9
+        print(age.__age, name)
+
+cat = Cat()
+cat.describe(1) # 9 1
+```
+
 
 # Getting Started
 ## What is a Class in Python OOP
@@ -240,9 +253,7 @@ example = ExampleClass('value1', 'value2')
 # Printing the instance to see the output of __repr__  
 print(example)
 ```
-+ ? The `__init__` method initializes attribute1 and attribute2 when an instance of ExampleClass is created.
-+ ? The `__repr__` method provides a string representation of the instance
-
++ The `__repr__` method provides a string representation of the instance
 + use `__str__` to display information to user
 + use `__repr__` to debugging, allow dev to modify print output format 
 
@@ -257,6 +268,10 @@ class Item:
 print(Item.all)
 ```
 > [Item(Phone, 100, 2), Item(Phone2, 200, 3), Item(Cable, 10, 5), Item(Mouse, 50, 5), Item(Keyboard, 75, 5)]
+
+
+`__call__(self)` -> return class information when calling the class a a function
+	e.g. `deer = Animal()` -> calling `deer()` will trigger `__call__(self)` 
 
 ### Class & Static Methods
 + ? "Instantiate Method" (Class Method) can only be access through Class Level.
@@ -328,8 +343,8 @@ class Item:
         assert price >= 0, f"Price {price} is not greater than or equal to zero" 
         assert quantity >= 0, f"Quantity {quantity} is not greater than or equal to zero"
         
-        self.__name = name 
-        self.__price = price
+        self.__name = name # private access modifier 
+        self._price = price # protected access modifier
         self.quantity = quantity
         
         # Action to execute
@@ -378,7 +393,7 @@ phone4 = Phone('phonev4', 800, 4, 2)
 print(Phone.all)
 ```
 >[Item(phonev1, 500, 4), Item(phonev2, 600, 4), Phone(phonev3, 700, 4), Phone(phonev4, 800, 4)]
-	
+
 + ? without `super().__init__`, only print out Phone Class 
 ```python
 class Phone(Item): # inherit Item class
@@ -435,6 +450,32 @@ print(Phone.total_assets())
 + `__name__`: class function use to get class name
 ```python
 print(f'{self.__class__.__name__}')
+```
+
+### Inheritance Example using `super()`
+```python
+class Employee:
+    def __init__(self, name, salary):
+        self._name = name
+        self._salary = salary
+
+    def compute_salary(self):
+        return self._salary + 1000
+
+class Manager(Employee):
+    def __init__(self, salary, bonus):
+        self._salary = salary
+        self.bonus = bonus
+
+    def compute_salary(self):
+        #? Inheritance allow merging function together
+        #? return self._salary + 1000 + self.bonus
+        return super().compute_salary() + self.bonus
+
+n = Employee(3,4)
+print(n.compute_salary()) # output: 1004
+m = Manager(2, 4)
+m.compute_salary() # output: 1006
 ```
 
 ## Getters and Setters

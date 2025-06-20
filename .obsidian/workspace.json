@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7dbc3c51b566352",
+        "id": "65bc5c4575e52743",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee0bdb064c3dfa9",
+            "id": "9fd6ff3e88ed1eb2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -152,11 +152,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph-new:Global 3D Graph": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6ee0bdb064c3dfa9",
+  "active": "9fd6ff3e88ed1eb2",
   "lastOpenFiles": [
     "Artificial Intelligence/1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
     "Artificial Intelligence/Week 3 - Optimization in Neural Network and Newton's Method.md",

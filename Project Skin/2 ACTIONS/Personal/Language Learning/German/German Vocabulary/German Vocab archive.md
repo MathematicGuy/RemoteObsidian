@@ -1109,7 +1109,7 @@ Schreibtisch Desk
 + Hospital Krankenhaus
 + Sad traurig
 	Herr Merkel, Sind sie traurig, ich muss helfen 
-- Plants planzen
+- Plants Pflanzen
 
 
 ### Unit 5: 
@@ -2878,7 +2878,8 @@ It's more complicated in German, because German has four cases -- which means th
 Putzen - clean
 	Der haus sind schmutzig, wir muss putzen - the house is dirty, we must clean it.
 
-Wichtiger important 
+Wichtich important
+Wichtiger / more important 
 	Bist morgen ganz bestimmt ein wichtiger tag - tomorrow is definetely an important day
 
 Vom - from for plural 

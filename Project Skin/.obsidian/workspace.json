@@ -23,6 +23,16 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "1d43d2314c16bde8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -90,7 +100,7 @@
             }
           },
           {
-            "id": "efea1f373af9897b",
+            "id": "074534f961b62e68",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -237,8 +247,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
+    "Images/Pasted image 20250619110514.png",
+    "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
     "1 PROJECTS/Business Skills/Startup.md",
     "Images/Pasted image 20250618074912.png",
     "Images/Market-Technology-Execution-Risk-Matrix-and-team-execution-performance-26-Prediction.png",
@@ -252,8 +265,6 @@
     "Images/Pasted image 20250616134344.png",
     "3 RESOURCES/DataBase/Learn Database/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "German Vocabulary.md",
     "Images/Pasted image 20250615142230.png",
     "Images/Pasted image 20250614223855.png",
@@ -271,7 +282,6 @@
     "3 RESOURCES/DataBase/SQL/SQL Code.md",
     "Images/Pasted image 20250613071359.png",
     "Images/Pasted image 20250612215421.png",
-    "Images/Pasted image 20250612215118.png",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
