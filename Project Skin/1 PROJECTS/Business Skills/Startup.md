@@ -1,6 +1,3 @@
-Get Market Share
-Brute force
-
 ## Competetive Analysis and Risk in Business
 5 áp lực cạnh tranh (Michael Porter) - (xác định đối thủ, áp lực cạnh tranh.)
 + ? Sản phẩm dịch vụ mình có thể thay thế sản phẩm dịch vụ nào, và ngược lại.
@@ -85,4 +82,6 @@ MVP (Minimal Viable Product) - sản phẩm tối thiểu có thể bán đc.
 	Bắt đầu từ sản phẩm sơ cấp, thứ cấp, cao cấp. 
 ![[Pasted image 20250620085832.png]]
 Design Thinking and Lean startup
+
+---
 
