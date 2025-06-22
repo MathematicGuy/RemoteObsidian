@@ -25,8 +25,49 @@ Resolving external pressure is simple, we can either finish the tasks that causi
 
 However for Internal pressure to be release its cannot be ignore. One need to stay really honest with themself because these stresses are embedded into their subliminal mind. This mean the only way to solve the problem is by accepting the problem cannot be solve or fighting for its every day.  
 
-Ability to Study = Ability to identify main problem + Memory to retain problems (for comparison between problems) -> where learning started (Compare information then give out personal opinion)
+Ability to Study (a Problem) = Ability to identify main problem and key points (_FIRST_)+ Memory to retain problems (for comparison between problems) -> where learning started (Compare information then give out personal opinion)
 1) Define "what do I want"
 2) Optional (if feasable) how do I want my note to be organized
 3) Where can I retrieve information to get what I want fast
+
+## Daily Note 22/06/2025 - The Important of Studying Strategy
+To .... save TIME while creating more value to my life, duh. 
+
+Define what I want to study -> Prioritize what I want to study -> Organize what I will study -> Execution AS PLANNED. 
+
+Wait, isn't that the ONLY REASON why a person **DON'T UNDERSTAND the SOLUTION** is **because** they **DON'T UNDERSTAND THE PROBLEM.**
+	The reason why I don't immediately understand LEFT OUTER JOIN and RIGHT OUTER JOIN is because I don't understand the SPECIFIC PROBLEM each function solved.
+
+**Efficient Linear Teaching/Learning** 
++ $ **Avoid knowledge overloading** in 1 teaching session or chapter by going from smaller problem to bigger problem and unpacking more problems as we go -> give *more time for critical thinking and encourage creative solution.*  
++ ? When ? when you *STARTED TO LEARN* a new subject. 
++ ! Not so great if you only *Reviewing* the Subject and *Already Understand it.* That why Cheatsheet are great for Reviewing. 
+
+**Blog for Reviewing vs Blog for Reader**
++ Section -> distinct group of paragraphs
++ Part -> distinct ideas or a paragraph inside the Section. 
+	
+As you study linearly, you can: 
++ **method 0:** Write down your idea linearly and correct any misunderstood notes 
+	-> This way other reader can catch your thinking flow easily as/considering every problem get define and solve clearly. 
+	+ **0.1:** Then improve apply Method 1 after finish all your note. 
+	+ **0.2** Refine note for linear thinking.
+	
++ **method 1:** Or you can Refine your notes and adding more information after each Section (i.e. bottom to top) which improve the transparency and logic for all the information before and after.  
+
+
+
+Is it saturday, Monsieur ? YES it's Lock In day. What I want to study:
+**Saturday Evening**
++ AIO2025 SQL Core Knowledge and HW. (1h45 - 3h50)
++ AIO2025 OOP and Data Structure (4h10 - 6h15)
+
+**Saturday Night,** read AIO "how python stack work" and Finish OOP Exercise week 3. 
+**Monday Morning (wake up early)** 
++ AIO2025 OOP + Data Structure and HW (5h30 -> 6h30) 
++ Breakfast (6h30 - 7h) 
++ Activate Viettel Sim Card for Phone Number (7h - 8h30) then go to school
++ Startup HW planning, what to do, task management (9h10 -10h10)
++ Ask Quynh Anh about Ky Nang Bo Tro homework, what I should prepare for it, my experience after Xuan presentation. 
+
 

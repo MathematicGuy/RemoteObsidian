@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "516b5a9cdea8c08e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multimodel RAG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multimodel RAG"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,29 +194,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "516b5a9cdea8c08e",
+  "active": "f8f32700c42f51be",
   "lastOpenFiles": [
+    "AIO2025 - SQL in Data Analysis.md",
+    "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20250622163227.png",
+    "image/Pasted image 20250622163102.png",
+    "image/Pasted image 20250622162150.png",
+    "image/Pasted image 20250622155416.png",
+    "image/Pasted image 20250622155354.png",
+    "image/Pasted image 20250622153848.png",
+    "image/Pasted image 20250622153811.png",
+    "image/Pasted image 20250622153340.png",
+    "image/Pasted image 20250622152706.png",
+    "image/Pasted image 20250622144623.png",
+    "AIO 2025.md",
+    "RAG Implementation Documentation.md",
+    "Common Problems in RAG Systems and Their Solutions.md",
     "RAG Ultimate.md",
+    "RAG Road Map.md",
     "Multimodel RAG.md",
     "RAG Agents in Production.md",
-    "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20250619204309.png",
-    "image/Pasted image 20250619204135.png",
-    "AIO2025 - SQL in Data Analysis.md",
-    "image/Pasted image 20250619150505.png",
-    "image/Pasted image 20250619150142.png",
-    "AIO 2025.md",
     "AIO2025 - OOP.md",
     "Python OOP.md",
     "Introduction to Python OOP.md",
-    "4 ARCHIVES/Image/Pasted image 20240807104022.png",
-    "4 ARCHIVES/Image/Pasted image 20240807103411.png",
-    "4 ARCHIVES/Image/Pasted image 20240807103105.png",
-    "4 ARCHIVES/Image/Pasted image 20240807102948.png",
-    "4 ARCHIVES/Image/Pasted image 20240807102434.png",
     "AIO2025 - Intro.md",
     "AI NEWS.md",
-    "image/Pasted image 20250618070959.png",
     "How to Use Generative AI.md",
     "AIO2025 - Git & Github for Version Control.md",
     "gitignore.md",
@@ -243,9 +231,6 @@
     "AIO2025 - Data Structure 2.md",
     "AIO2025 - Data Structure 2_en.md",
     "AIO 2024.md",
-    "Model in RAG (NLP and DL).md",
-    "Common Problems in RAG Systems and Their Solutions.md",
-    "AIO2025 - Coding Methodology.md",
     "Excalidraw",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",

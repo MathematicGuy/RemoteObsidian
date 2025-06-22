@@ -428,8 +428,6 @@ Klassische Musik - classical music
 
 Are there - gibt es
 	... Gibt es im Sommer - ... are there in Sommer
-
-
 + ? Meine use i Accusative Case
 	Meine Liebelingband - my favourite band
 
@@ -437,3 +435,9 @@ Mitkommen - comming along
 	Möchtest du 
 Kommt ganz bestimmt - definitely comming
 Anzung - vest suit
+hat recht - is right
+	Der Kellner hat recht - the waiter is right
+
+Nehmen (will) take
+Der Wein schmeckt fantastisch zusammen mit dem Fisch
+	The wine taste delicious with the fish

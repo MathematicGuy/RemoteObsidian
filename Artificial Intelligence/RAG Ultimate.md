@@ -8,6 +8,8 @@
 
 ### [[Multimodel RAG]]
 
+### [[RAG Implementation Documentation]]
+
 **Code:**
 + [Multi-Model RAG](https://colab.research.google.com/gist/alejandro-ao/47db0b8b9d00b10a96ab42dd59d90b86/langchain-multimodal.ipynb#scrollTo=91106e31)
 + [RAG Multiple Choice](https://colab.research.google.com/drive/1KtWMSZP_sEifMIJ63eBYk3aWqgNyvN30#scrollTo=sDF9UemkiM9t)
