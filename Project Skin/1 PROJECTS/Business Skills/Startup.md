@@ -48,17 +48,44 @@ Sản phẩm tối thiểu khả dụng - MVP (**demo** của sản phẩm thự
 Slides nên ít hơn 30 Slides
 Note: Nội dung chính trong 5-10 phút. 
 
-**Lên ý tưởng kinh doanh:** Dạy cách prompting hiệu quả cho học sinh
-	Vấn đề: nhiều học sinh hiện tại đang prompt 1 cách thiếu hiệu quả, đôi khi là vô thức khiến vấn đề trở nên phức tạp hơn. 
-	Giải pháp:
-		+ Hiểu Chatbot hoạt động ntn ?
-		+ Giải đáp khi nào cần hỏi ?
-		+ Prompt như thế nào ?
-		+ Đối xử với ChatBot như thế nào ?
-		+ Phân tích và giải quyết vấn đề sử dụng Chatbot như thế nào ?
-		+ Sử dụng Chatbot để hỏi Chatbot ? 
-	
-+ **Marketing:** so sánh kết quả trả lời trc và sau khi Prompting hiệu quả. 
+---
+
+**Ý tưởng kinh doanh:** Dạy cách prompting hiệu quả cho học sinh
+
+Mô hình: Dịch vụ phần mềm, B2B (business 2 business) - (chốt)
+
+Vấn đề: nhiều học sinh hiện tại đang prompt 1 cách thiếu hiệu quả, đôi khi là vô thức khiến vấn đề trở nên phức tạp hơn. Việc học thụ động và đôi khi thiếu hiệu quả khiến việc học trở nên BUỒN NGỦ và NHÀM CHÁN.
+
+Giải pháp: cải thiện khả năng tiếp thu kiến thức qua First Principle Thinking (tăng hứng thú học tập, cải thiện chất lượng kiến thức tiếp thu) sử dụng Chatbot.  
+
++ Hiểu Chatbot hoạt động ntn ? 
+-> cải thiện khả năng hỏi đáp giữa ng và máy.
+
++ Khi nào nên hỏi Chatbot? 
+-> tối giản quy trình học và tiết kiệm thời gian.
+
++ Đối xử với ChatBot như thế nào (như 1 người bạn hay 1 công cụ) ? 
+-> Giảm sự phụ thuộc vào chatbot trong học tập, tăng khả năng nhìn nhận vấn đề vì theo mặc định Chatbot sẽ luon nghe theo người dùng. 
+
++ Phân tích và giải quyết vấn đề sử dụng Chatbot như thế nào ? 
+-> tiếp cận vấn đề tốt hơn để tiết kiệm thời gian học. 
+
++ Các phong cách Prompt để tăng khả năng hỏi đáp ?
+-> tăng sự thú vị khi học tập 
+
++ Sử dụng Chatbot để hỏi Chatbot ? 
+-> hiểu hơn về cách đặt 1 câu hỏi tốt. 
+
+Khách Hàng: học sinh muốn cải thiện khả năng học. 
+
+Marketing: so sánh kết quả trả lời trước và sau khi Prompting hiệu quả.
+
+Giáng Cấp: hạ cấp sản phẩm độc quyền, ít ng tiếp cận đc xuống thành 1 sản phẩm bình dân. đại chúng. 
+    e.g. điện thoại giá rẻ, vé máy bay giá rẻ, Canvas là côg cụ thiết kế đơn giản. 
+
+Thu Hẹp: thu hẹp thị trường xuống còn 1 nhóm người có cùng vấn đề. 
+
+---
 
 **Key Partnerships:** nhà cung cấp dịch vụ gì đó, đối tác. 
 
@@ -72,7 +99,6 @@ Key activity example: cho khách hàng tham gia vào làm sản phẩm.
 Product-need fit (xác thực ý tưởng) -> Learn Canvas tập trung vào đây
 Product-market fit (xác thực sản phẩm vs thị trường)
 
-Risk - Risk
 **Uncertanty -** uncertain risk
 **Unfair Advantages (lợi thế cạnh tranh) -** thứ mà khó để sao chép -> lợi thế bền vững.  
 
