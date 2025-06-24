@@ -11,13 +11,8 @@ There are 2 way to predict diabetes - by focusing on predicting people who have 
 + ! Note: Excluding Outlier favor Bias. How to handle outlier. How to handle data imbalance (Outlier) -> Robust Scaler.
 + ! N/A data fill with "median by target/outcome"
 + ? Validation Method: k-fold validation. 
-
-
 1) Visualize scatter plot 
 2) Using real world information to identify areas that concentrate healthy/diebetes individual. (or using intuition)
-
-**PCA -> SVD**
-
 
 ---
 ## Feature Engineered Dataset (contribution 1)
@@ -103,11 +98,6 @@ The tree can directly ask
 **Advantages and Disadvantages** of decision tree. 
 Basic Ad and Disad
 ![[Pasted image 20250505132500.png]]
-
-Prunning Testing ? 
-Data Imbalance
-
-
 
 ---
 

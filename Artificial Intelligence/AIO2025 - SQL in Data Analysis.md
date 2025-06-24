@@ -156,7 +156,7 @@ OPTION(MAXRECURSION 50)
 
 ### Subqueries
 + $ Subqueries **allow to use a query as a variable Inside another query**, hence the name Subqueries. ![[Pasted image 20250622162150.png]]This help save time when your Queries is small since you don't have to join 2 or some tables for a simple Query.  
-
++ ? Can go along with other queries like: `SELECT, FROM, WHERE, HAVING, INSERT, UPDATE, DELETE.`  
 
 ```ad-warning
 Both **CTE and Subqueries both have the same problem.** It **have to re-evaluate all of ours query every time we run it**. As we know, CTE only exist during the executin of a single query, this mean we can only call a CTE once per execution. 
@@ -187,7 +187,7 @@ WITH CTE_Sample AS (
     SELECT 2, 'Tina'
 )
 
--- Use it to create a permanent table
+-- create a permanent table first and insert the selected data 
 CREATE TABLE MyPermanentTable AS (SELECT * FROM CTE_Sample);
 ```
 1) SQL Server will return ERROR if we use `WITH` and `INSERT` as a subquery for `CREATE`. This only work in PostgreSQL.
@@ -195,22 +195,40 @@ CREATE TABLE MyPermanentTable AS (SELECT * FROM CTE_Sample);
 	+ You can't reuse this logic without copy-pasting the query. 
 	+ You can't add control flow like `IF`, `LOOP` and `EXCEPTION`
 		*Without control flow, you can't insert more data later from the CTE* (it disappears after the query)
-	
+
 ### Stored Procedures
-+ ? We know that each *CTEs can only be execute once as subquery* and *TempTable running at Session level.* 
++ ? Because *TempTable running at Session level* and CTEs is not idea for creating permanent function because  *CTEs can only be execute once as subquery* for simple Query without control flow (e.g. IF, LOOP, EXCEPTION)
++ $ **PROCEDURE** allow you to save your function and created table permanently.   ![[Pasted image 20250623141050.png]]
+PROCEDURE function store into
+![[Pasted image 20250623141204.png]]
 
-[What the difference between Procedure and WITH clause CTE](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=what+the+differenece+between+Prodedure+and+WITH+clause+CTE+)
-[ChatGPT](https://chatgpt.com/c/6857e0a3-ab70-8007-b813-9de183167fe1)
-[HW](https://docs.google.com/forms/d/e/1FAIpQLSd0NXDMFs9A8mO983dRHE6DFCE8QUFkuz8-xYjBatRTx4koDg/viewform)
-[Zoom Video](https://zoom.us/rec/play/QmIM36G5miOEKrLzaqx-VuS-bEUv3NE1iNEPdf9rzRkQi4800BYKpAtwQBPzAX8yAZTA-sDdttYrti0E.RJsGf2VTrpRWG23r?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2F7oBuN1J3iQwkp-SjKAl9kqoD4o6pMPsMIhtdirCwKIKTgUEkhpJd32zYpCeZ2Wi5.tnqJZzlW1p8Perjo)
-[Slides](https://aivnlearning.edu.vn/api/files/68317ac3519c0e157fb5148a/Documents%2F2025-5%2FM01W03%20-%20Database%20-%20SQL%20(3)%2FAIO2025_SQL3_v3.pdf)
+**CALL PROCEDURE**
+```sql
+CALL procedure_function()
+```
+
+**EXECUTE PROCEDURE**
+```sql
+EXEC procedure_function()
+```
 
 
-+ *Trigger (if this event happened -> trigger another event to happend), Trigger Validation* **(IMPORTANT)**
-+ PRACTICE SECTION. 
+### Trigger
++ $ Trigger (if this event happened -> Trigger another event to happend), trigger validation **(IMPORTANT)**.  ![[Pasted image 20250623141411.png]]
+```sql
+create trigger [trigger_name] 
+[before | after]  
+{insert | update | delete}  
+on [table_name]  
+FOR EACH ROW
+BEGIN
+END;
+```
 
-Data Analyst SQL Queries
+**Trigger Validation** 
+![[Pasted image 20250623141425.png]]
+
+### [CODE and Data for HW](https://drive.google.com/drive/folders/1uJejxO4AmoJ1MOeJxk9BQZI7Dhl8Ihi9) 
 ![[Pasted image 20250619150505.png]]
-
 **Extra:** RECURSIVE in SQL, Data Mining. 
 
