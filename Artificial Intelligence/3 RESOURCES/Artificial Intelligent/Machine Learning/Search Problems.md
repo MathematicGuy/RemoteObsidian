@@ -92,6 +92,7 @@ Explored set - Save Used Node*
 This is what we called 
 **DEPTH-FIRST SEARCH** (Search to the bottom then backup and repeat) or Greedy Algorithm
 	Go Deeper and Deeper in to the Tree. And if we hit a Dead end then we go back up and repeat. 
+	
 Cons: Might not recognize the Optimal solution while it avaiable
 	![[Pasted image 20230822070003.png]]
 

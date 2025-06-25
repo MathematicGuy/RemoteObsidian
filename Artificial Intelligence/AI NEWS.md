@@ -15,7 +15,9 @@ BLT: CÁCH MẠNG LLM, ĐẬP TOKENIZATION XÂY MỚI
 	+ $ Text-2-LoRA tiết kiệm tham số và nó tạo ra LoRA trong 1 bước duy nhất, chi phí thấp hơn, chỉ dựa vào mô tả văn bản về nhiệm vụ. 
 [Automatically Build Website or App using MCP](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 
-
-new paper release - this mean this paper had been worked on 3 - 6 months ago. 
+New Research Paper Release - this mean this paper had been worked on 3 - 6 months ago. 
 -> update news (paper) daily to know today trend. 
 
+**RLVR (Reinforcement Learning from Verifiable Rewards)** 
+different from RLHF (RL from Human Feedback -> subject feedback)
++ $ Calc Loss with Verifiable with reward mechanism.  ![[Pasted image 20250625071604.png|400]]

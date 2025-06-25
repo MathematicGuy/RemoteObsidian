@@ -181,3 +181,13 @@ Slogan: More sharing, more gain.
 ![[Pasted image 20250605102346.png]]
 
 
+
+
+Medical AI: https://www.researchgate.net/profile/Minh-Huu-Nhat-Le
+![[Pasted image 20250624223037.png|600]]
+![[Pasted image 20250624220612.png| 600]]
+
+![[Pasted image 20250624223934.png]]
+![[Pasted image 20250624224037.png]]
+
+
