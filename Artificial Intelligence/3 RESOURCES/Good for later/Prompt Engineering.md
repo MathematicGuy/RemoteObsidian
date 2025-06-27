@@ -7,7 +7,17 @@
 - Include important **context**: If there are specific limitations or requirements, make them clear in your prompt.
 - Provide **examples**
 
-#### chatGPT prompt
+#### Custom Prompt
+**Prompt for note pre-explaination**
+This is my note structure, base on the pdf file, I want you to write note base on the outline I will give you later and the file I send you combine with your understand, so that can be easily understand even for a beginner who have no knowledge about UnixLinux. Before I send Note outline for you, please explain what you have understand and what you planning to do
+
+Requirements:
++ Illustrate example using `.txt` don't generate image for example. 
+
+
+
+
+#### ChatGPT Prompt
 Certainly, D! Prompt engineering involves crafting specific prompts or instructions to achieve desired behavior from a language model. It's a crucial aspect in getting accurate and relevant responses. Let's break down the key components with real-world examples:
 
 1. **Clarity of Instruction:**
