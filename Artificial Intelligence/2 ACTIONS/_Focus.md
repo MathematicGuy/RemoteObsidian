@@ -15,9 +15,9 @@
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] SVD -> PCA
 - [ ] [FocusMate](https://www.focusmate.com/science/)
-
 - [ ] [[MIT Deep Learning]]
 - [ ] [[AI NEWS]]
+- [ ] Grounding for Hallucination
 
 **Machine Learning**
 [[AIO 2024]]

@@ -25,18 +25,13 @@
             }
           },
           {
-            "id": "990eda7e59b5d8c1",
+            "id": "1b0e019eee24883c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "German Vocab"
+              "title": "New tab"
             }
           }
         ],
@@ -106,7 +101,7 @@
             }
           },
           {
-            "id": "01e1edfed01a4627",
+            "id": "00af6e1e8d3e1d96",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -251,13 +246,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "990eda7e59b5d8c1",
+  "active": "1b0e019eee24883c",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
+    "German Vocabulary.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE OVERVIEW.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE in 15 Min.md",
     "1 PROJECTS/Business Skills/Startup.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "Images/Pasted image 20250620085832.png",
     "Calisthenics Dip.md",
     "Images/Pasted image 20250620084349.png",
@@ -269,7 +266,6 @@
     "Images/Pasted image 20250620081119.png",
     "Images/Pasted image 20250620074023.png",
     "Images/Pasted image 20250620073430.png",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "Images/Pasted image 20250619110514.png",
     "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
     "3 RESOURCES/Git/Github for Beginners.md",
@@ -280,7 +276,6 @@
     "3 RESOURCES/Git/Git.md",
     "3 RESOURCES/DataBase/Learn Database/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "3 RESOURCES/DataBase/SQL/SQL.md",
-    "German Vocabulary.md",
     "IELST/IELST SPEAKING.md",
     "IELST/IELST WRITING.md",
     "IELST/SPEAKING IELST .md",

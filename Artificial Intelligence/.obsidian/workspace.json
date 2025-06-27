@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8154ebfc94eb45b",
+        "id": "a7332d2ca2823852",
         "type": "tabs",
         "children": [
           {
-            "id": "f8f32700c42f51be",
+            "id": "eb526c50bed09c6d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,31 @@
             }
           },
           {
-            "id": "359b42ff3c6b9448",
+            "id": "7a5ab1284e09b68b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI NEWS.md",
+                "file": "AIO 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI NEWS"
+              "title": "AIO 2025"
+            }
+          },
+          {
+            "id": "aa04df6039d91dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG Implementation Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Implementation Documentation"
             }
           }
         ]
@@ -208,33 +222,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8f32700c42f51be",
+  "active": "eb526c50bed09c6d",
   "lastOpenFiles": [
+    "RAG Implementation Documentation.md",
+    "image/Pasted image 20250621074603.png",
+    "image/Pasted image 20250621074421.png",
+    "image/Pasted image 20250621075611.png",
+    "image/Pasted image 20250621085948.png",
+    "Multimodel RAG.md",
+    "AIO 2025.md",
+    "AIO2025 - Intro.md",
+    "Multi-Agent-Architecture.md",
+    "2 ACTIONS/_Focus.md",
     "AI NEWS.md",
     "image/Pasted image 20250625071604.png",
-    "2 ACTIONS/_Focus.md",
     "AIO2025 - OOP - Tree - Data Structure.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Search Problems.md",
-    "AIO2025 - Intro.md",
     "image/Pasted image 20250624224037.png",
     "image/Pasted image 20250624223934.png",
     "image/Pasted image 20250624223037.png",
     "image/Pasted image 20250624220612.png",
-    "AIO 2025.md",
     "image/Pasted image 20250624104536.png",
-    "image/Pasted image 20250624094705.png",
-    "image/Pasted image 20250624093443.png",
-    "image/Pasted image 20250624093357.png",
-    "image/Pasted image 20250624093326.png",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Harvard CS50’s Artificial Intelligence with Python.md",
     "Decision Analysis.md",
     "Decision Tree DIY.md",
     "AIO2025 - SQL in Data Analysis.md",
-    "RAG Implementation Documentation.md",
     "Common Problems in RAG Systems and Their Solutions.md",
     "RAG Ultimate.md",
     "RAG Road Map.md",
-    "Multimodel RAG.md",
     "RAG Agents in Production.md",
     "AIO2025 - OOP.md",
     "Python OOP.md",
@@ -244,7 +259,6 @@
     "gitignore.md",
     "AIO2025 - Week 2 Summary.md",
     "Week 4 Summary.md",
-    "AIO2025 - Introduct to NLP.md",
     "Excalidraw",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
