@@ -12,6 +12,23 @@ note: pwsh is powershell in short
 ```bashnote
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/illusi0n.omp.json" | Invoke-Expression
 ```
+huvix.omp.jsone
+```
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+```
+kali.omp.jsone
+zash.omp.jsone
+tokyonight_storm.omp.jsone
+the-unnamed.omp.jsone
+star.omp.jsone
+smoothie.omp.jsone
+sim-web.omp.jsone
+robbyrussell.omp.jsone
+patriksvensson.omp.jsone
+pararussel.omp.jsone
+neko.omp.jsone
+negligible.omp.jsone
+emodipt-extend.omp.jsone\emodipt-extende]8;;e\
 
 
 1) **Get Profile**
@@ -50,3 +67,16 @@ oh-my-posh init pwsh --config 'C:\Users\boboi\OneDrive - CMC University\Document
 . $PROFILE
 ```
 
+
+
+
+```sh
+# Load Oh My Posh theme
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\illusi0n.omp.json" | Invoke-Expression
+
+# Optional: Enable history-based suggestions
+Import-Module PSReadLine
+Set-PSReadLineOption -PredictionSource History
+Set-PSReadLineOption -PredictionViewStyle InlineView
+Set-PSReadLineOption -Colors @{ "InlinePrediction" = [ConsoleColor]::DarkGray }
+```

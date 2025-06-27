@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,13 +223,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0d0e8a878c6f8c8a",
+  "active": "9ca80087c83a7640",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "UnixLinux for Data Science - Distill Core Concept from ChatGPT.md",
     "AIO2025 - UnixLinux for Data Science.md",
     "AIO 2025.md",
     "3 RESOURCES/Good for later/Prompt Engineering.md",
-    "2 ACTIONS/_Focus.md",
     "AIO2025 - OOP.md",
     "image/Pasted image 20250627153528.png",
     "image/Pasted image 20250627153427.png",
