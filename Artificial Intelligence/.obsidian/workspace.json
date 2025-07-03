@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "c4c5aae34e288d2a",
+            "id": "82c94030f30a0e8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAG Ultimate.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RAG Ultimate"
             }
           }
         ],
@@ -205,8 +209,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4c5aae34e288d2a",
+  "active": "82c94030f30a0e8f",
   "lastOpenFiles": [
+    "Numpy.md",
+    "RAG Ultimate.md",
     "2 ACTIONS/_Focus.md",
     "UnixLinux for Data Science - Distill Core Concept from ChatGPT.md",
     "image/content.png",
@@ -220,7 +226,6 @@
     "image/Pasted image 20250701102955.png",
     "image/Pasted image 20250701101635.png",
     "RAG Implementation Documentation.md",
-    "RAG Ultimate.md",
     "AIO2025 - Intro.md",
     "Common Problems in RAG Systems and Their Solutions.md",
     "AIO2025 - OOP.md",

@@ -7,9 +7,9 @@
 **Crucial**
 
 **Finish on This Week**
-- [ ] RAG demo  
-- [ ] How to Manage mental fatigue after a hard workout (Don't train too much, only get what you want) -> Sleep at least 7 hours, be optimistic about what comming, discipline. 
-
+- [ ] Bài giữa kỳ Kỹ Năng Làm Việc 
+- [ ] RAG Latex Report 
+- [ ] RAG Project Working like chị Hà. 
 
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
