@@ -24,17 +24,13 @@
             }
           },
           {
-            "id": "db8830c44b79097b",
+            "id": "c4c5aae34e288d2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UnixLinux for Data Science - Distill Core Concept from ChatGPT.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "UnixLinux for Data Science - Distill Core Concept from ChatGPT"
+              "title": "New tab"
             }
           }
         ],
@@ -209,12 +205,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db8830c44b79097b",
+  "active": "c4c5aae34e288d2a",
   "lastOpenFiles": [
-    "image/content.png",
     "2 ACTIONS/_Focus.md",
-    "AIO2025 - UnixLinux for Data Science.md",
     "UnixLinux for Data Science - Distill Core Concept from ChatGPT.md",
+    "image/content.png",
+    "AIO2025 - UnixLinux for Data Science.md",
     "AIO 2025.md",
     "image/Pasted image 20250701151448.png",
     "image/515320397_1022983993383161_7186292225342398507_n.jpg",
