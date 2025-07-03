@@ -18,7 +18,7 @@
     ```
     
     This one‑liner reads every log, filters “ERROR” lines, tallies IPs, and prints a summary—no GUI needed!
-    
+
 
 ---
 
@@ -348,3 +348,24 @@ Keeps your long‑running model training safe from accidental disconnection .
 • Processes: ps, top, kill, nohup for running and managing jobs  
 ```
 
+### Part 3
+
+`[^}]*\` mean for every pattern. 
+`{[^}]*\}` mean for every pattern inside `{}` 
+**Apply Regex:** `\` to `a_pattern` e.g. `\a_pattern`. This work the same for Pattern already have  `\` like `\item`, just do `\\item` -> work like normal. 
+**Replace Text Pattern using Regex**. Regex but wrap with `()`, the pattern inside will automatically set as `\1` 
+	e.g. `( text pattern to replace )`![[Pasted image 20250701151448.png]]
+All Case Study below apply the same logic. Which is `\` to apply Regex Expression, `()` to wrap a regex expression pattern for replacement.  
+
+**Apply Regex and Replace single Pattern**
+Replace Item: `( \\item \\texttt\{[^}]*\})` -> can also be call as `\1` 
+With: `{\\item \\texttt\{[^}]*\}}` or `{\1}` -> do the same thing
++ ? In VSCode, `\1` is set as  `$1`.  
+
+**Apply Regex and Replace multiple Pattern**
+Replace Item: `(\\item) (\\texttt\{[^}]*\})` -> automatically set as `\1\2`
+With: `{\\item} [\\texttt\{[^}]*\}]` or `{\1}[\2]` -> do the same thing
+
+**Apply Regex and Replace between Pattern**
+Replace Item: `(\\item) (\\texttt\{[^}]*\})` -> automatically set as `\1\2`
+With: ``\1  \\colorbox{codehighlight} {\2}`` 

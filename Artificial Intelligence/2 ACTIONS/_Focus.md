@@ -8,7 +8,7 @@
 
 **Finish on This Week**
 - [ ] RAG demo  
-- [ ] How to Manage mental fatigue after a hard workout (Don't train too much, only get what you want)
+- [ ] How to Manage mental fatigue after a hard workout (Don't train too much, only get what you want) -> Sleep at least 7 hours, be optimistic about what comming, discipline. 
 
 
 **Interest**
@@ -105,6 +105,7 @@ note luyện code phần:
 ![[Pasted image 20241129213935.png]]
 
 
+![[515320397_1022983993383161_7186292225342398507_n.jpg|400]]
 
 
 Dataset: 

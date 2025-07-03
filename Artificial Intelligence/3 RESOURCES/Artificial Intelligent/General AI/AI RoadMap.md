@@ -45,5 +45,50 @@ You can learn these skills through a variety of means, such as taking college co
 
 Becoming an AI engineer can be a **challenging but rewarding career path**. AI engineers are in high demand, and they are compensated well. If you are interested in working with AI to solve real-world problems, then AI engineering may be the right career for you.
 
+---
 
- 
+Dành cho bất kỳ ai muốn học AI từ cơ bản đến triển khai agent sản phẩm thật. Miễn phí, rõ ràng, đầy đủ project thực chiến.
+![1️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/t7a/1/16/31_20e3.png) **ML for Beginners – Microsoft**  
+Học máy cổ điển qua scikit-learn với dữ liệu thực, có quiz, project, bài học 12 tuần.  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/microsoft/ML-For-Beginners
+
+ ![2️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/32_20e3.png) **AI for Beginners – Microsoft**  
+Học về mạng neuron, NLP, thị giác máy tính, transformer, đạo đức AI… dùng PyTorch + TensorFlow.  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/microsoft/AI-For-Beginners
+
+ ![3️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/tb8/1/16/33_20e3.png) **Neural Networks: Zero to Hero – Karpathy**  
+Xây dựng mạng neuron từ A-Z, kể cả GPT. Giải thích sâu sắc, dễ hiểu.  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/karpathy/nn-zero-to-hero
+
+ ![4️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/td7/1/16/34_20e3.png) **Deep Learning Paper Implementations**  
+Code lại 60+ mô hình từ các paper nổi tiếng: Transformers, GAN, Diffusion... (PyTorch).  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/lucidrains _(repo nhiều project, ví dụ:_ _DALLE-pytorch__)_
+
+ ![5️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/1/16/35_20e3.png) **Made With ML**  
+Hướng dẫn đưa mô hình AI từ notebook lên production với MLOps, CI/CD, best practices.  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/GokuMohandas/made-with-ml
+
+ ![6️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/t15/1/16/36_20e3.png) **Hands-on LLMs**  
+Từ tokenization, fine-tuning, đến RAG, prompt engineering — repo này giải thích cực trực quan.  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/pacman100/llms-for-programmers
+
+ ![7️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/t34/1/16/37_20e3.png) **Advanced RAG Techniques**  
+30+ kỹ thuật tối ưu hóa RAG: HyDE, GraphRAG, clustering, reranking...  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/phidatahq/rag-stack
+
+ ![8️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/t53/1/16/38_20e3.png) **AI Agents for Beginners – Microsoft**  
+Repo thực hành xây agent AI bằng các framework như AutoGen.  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/microsoft/autogen
+
+ ![9️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/t72/1/16/39_20e3.png) **Agents Towards Production**  
+Học cách triển khai agent thực tế: memory, orchestration, tool use, bảo mật...  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/jerryjliu/llama_index _(hướng tới agent-ready pipelines)_
+
+ ![🔟](https://static.xx.fbcdn.net/images/emoji.php/v9/t62/1/16/1f51f.png) **AI Engineering Hub**  
+70+ project thực chiến về LLM, RAG, AI Agent bạn có thể học, chỉnh sửa, và ship.  
+![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png) GitHub: https://github.com/AI-Engineering-Community/AI-Engineering-Hub
+
+ ![💡](https://static.xx.fbcdn.net/images/emoji.php/v9/t3c/1/16/1f4a1.png) **Gợi ý lộ trình học**:  
+→ Bắt đầu từ repo 1–2 để nắm cơ bản  
+→ Repo 3–5 để lên deep learning & deploy  
+→ Repo 6–10 để làm LLMs, RAG, Agents thực tế

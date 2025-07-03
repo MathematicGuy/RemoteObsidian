@@ -71,3 +71,52 @@ Is it saturday, Monsieur ? YES it's Lock In day. What I want to study:
 + Ask Quynh Anh about Ky Nang Bo Tro homework, what I should prepare for it, my experience after Xuan presentation. 
 
 
+### Ransom Note 1/7/2025
+Một trong những sai lầm phổ biến nhất mà con người thường mắc phải là tưởng rằng: nếu mình đã nhìn ra vấn đề, thì người khác cũng phải thấy giống như vậy.
+
+Khi bạn nhìn ra một điều gì đó — một bất công trong gia đình, một điểm yếu trong cách tổ chức công việc, hay một thói quen xấu của người thân — bạn cho rằng điều đó rõ ràng đến mức người khác cũng nên nhìn thấy như bạn.
+
+Và nếu họ không thấy, bạn kết luận rằng họ cố chấp, bảo thủ hoặc thiếu hiểu biết. Nhưng chính tại đây, cảm giác khổ của bạn bắt đầu.
+
+Bạn nghĩ mình đã đúng. Và bạn nghĩ cái đúng đó là hiển nhiên. Nhưng bạn quên mất một điều căn bản: mỗi người sống với một bản đồ nhận thức khác nhau. Và bản đồ chỉ là mô tả, không phải là vùng đất thực tế.
+
+Điều bạn thấy rõ là vì bạn đang đứng ở một vị trí cho phép bạn thấy nó. Họ không thấy, không phải vì họ ngu, mà vì họ đứng ở một góc khác — nơi điều bạn thấy nằm ngoài tầm mắt của họ.
+
+Giống như việc bạn đứng trên tầng 10 và hét xuống người dưới đường rằng: “Tránh ra đi! Đằng sau có xe chạy tới kìa!” Nhưng họ không thấy. Và thay vì cảm ơn, họ nổi cáu vì bị hét vào tai.
+
+Nếu bạn thực sự muốn họ thấy, bạn phải xuống đúng chỗ họ đang đứng. Phải từ bỏ góc nhìn của mình tạm thời, đặt mình vào hoàn cảnh người kia, và dẫn dắt từ bên trong — thay vì áp đặt từ bên ngoài.
+
+Người khôn ngoan không hét vào tai người khác điều mình thấy. Họ tìm cách dịch lại góc nhìn của mình thành ngôn ngữ người khác có thể hiểu, và chấp nhận được.
+
+Đây là lỗi lớn của nhiều người học rộng hiểu sâu: Họ quên rằng hiểu biết là vô dụng nếu không thể truyền đạt. Càng biết nhiều mà càng không ai nghe, thì vấn đề không nằm ở độ hiểu, mà nằm ở năng lực kết nối.
+
+Ray Dalio từng nói: “Nếu bạn đang đúng mà người khác không theo, thì bạn cần xét lại cách trình bày – không phải mặc định họ sai.”
+
+Vấn đề không nằm ở đạo đức. Cũng không nằm ở tri thức. Mà nằm ở cách vận hành giữa hai bản đồ nhận thức không tương thích.
+
+Không phải bạn sai. Nhưng đúng mà không thể khiến người khác muốn nghe, thì cái đúng ấy chỉ là một phiên bản cô lập. Mà đúng trong cô lập, thì khổ là chuyện hiển nhiên — không phải vì bạn thiếu may mắn, mà vì bạn hiểu sai cơ chế giao tiếp giữa người với người.
+
+Muốn bớt khổ, trước hết hãy thôi nghĩ rằng mình đang nói sự thật. Thay vào đó, hãy học cách diễn dịch sự thật đó đúng cách — theo bản đồ của người khác, không phải bản đồ của riêng bạn.
+
+
+Vì bản đồ của bạn chỉ có giá trị khi nó giúp được người khác tìm được đường đi trong thế giới của họ.
+
+### Daily Note Card Like Thought
+
+```ad-error
+# Main Title
+
+---- 
+**Lorem Ipsum is simply dummy text** of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+```
+
+
+### Daily Note 3/7/2025
+
+Anxiety came from Ignorant. That why *Effort kill Anxiety.* 
+
+Every moment is a new moment. We shouldn't condemn ourself, don't let past actions define what you doing right now, infact, it's just you drainning your mental energy with negative though. *Efftort overcome Fear.* 
+
+After letting go of my part, I just reliased I too letting what could happened, what might happened control myself, its like a chain pulling me always from being the best I could be.
+
+Why we play games, entertain ourself with games, doom scrolling when we don't even like it. Simply, to escapse reality. A man doesn't get addicted because he want to, its because hes lonliness and have no body to shared his pain with, like they say *Connection kill Addiction.*  

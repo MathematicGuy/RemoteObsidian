@@ -138,6 +138,36 @@ Xác minh lại cấu trúc thư mục và quyền truy cập của các tệp v
 ## 3. Process Data with Command Line
 **How ?** Pipe and redirect, filter data with `grep/awk/sed,` process CSV/JSON, `xargs` for parallel processing, data downloading, working with compressed file.
 
+`F` mean field 
+`\t` mean tab
+`>` mean copy file to another file
+note: advance processing trong linux giống cách xử lý ở C. 
+`alias` linux advance command line
+	`alias > file.txt` : copy and write all alias command to file.txt 
+
+**Regular Expression** (biểu thức chính quy)
++ ? giải thích ký thiệu, công dụng, điểm khó, công cụ luyện tập. 
+-> Can be use for search with ctr+f, Can be use everywhere for searching text use to improve productivity and saving time
+
+Set permission as number e.g. x=1, w=2, r=4.
+![[Pasted image 20250701102955.png]]
+
+`ls -l ./setup_script.sh`: nhìn vào -rw-r--r--@ để nhận biết quyền truy cập.
+Dùng `chmod 755` để gán quyền truy cập và thực thi.
+	`chmod 755`  original form is `chmod ugo` this allow you to assign 
+	![[Pasted image 20250701103302.png#left |400]]
+	permission (with number) to each type of user.  So `ugo` as `755` mean `user` can `rwx` read write execute, `group` can `r-x` and `other` can `r-x`.    
+	 
+`chmod u+x` (*chmod ~ change mode*) -> add execute permission.
+`chowner` mean change owner
+
+**File Permission & Permission system:** read-write-execute
+
+ 
+Note: giải thích các kí tự, thành phần trong 1 dòng command.  
+![[Pasted image 20250701101635.png]]
+
+
 ### Pipe and Redirect - Powerful Tools
 
 
@@ -206,3 +236,6 @@ recall < 0.75 theo ngày)
 
 
 
+
+
+![[content.png]]
