@@ -30,7 +30,6 @@ def speak(self):
 Tommy.speak() 
 ```
 >output: My name is Tommy
-
 + ? `self` is just a naming convention on how you declare a pointer. Its can be anything really, but you shouldn't.
 ```python
 class Cat:
@@ -41,6 +40,7 @@ class Cat:
 cat = Cat()
 cat.describe(1) # 9 1
 ```
+
 
 
 # Getting Started

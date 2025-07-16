@@ -12,7 +12,7 @@
 	subsets of Ω, and for discrete probability distributions (Section 6.2.1) A is often the power set of Ω.
 
 **The probability P**
-	With each event A ∈ A, we associate a number P (A) that measures the
+	With each event A ∈ $\Omega$, we associate a number P (A) that measures the
 	probability or degree of belief that the event will occur. P (A) is called
 	the probability of A.
 

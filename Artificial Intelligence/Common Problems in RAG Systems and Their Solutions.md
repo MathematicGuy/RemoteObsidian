@@ -2,6 +2,8 @@ Usually the retrieval part. It's may be wrong or duplicate due to semantic searc
 ![[Recall_Precision_in_RAG_Diagram.png]]
 >Precision and Recell in Document Retrieval are similar to Machine Learning, that is when you retrieves more information than the amount of relevant information your knowledgebase have to offer. 
 
+
+
 There are *multiple complex factors in real-life documents contributes to the decrease in overall retrieveal accurary*, so various techniques are created to counter these issues:
 1) **Long Documents**
 	+ **Problem:** LLM context windown, token limitation, computing power lead to difficulty in processing and retrieving information from lengthy docs.

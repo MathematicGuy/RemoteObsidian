@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d283f84e64b9b160",
+        "id": "531f9d24412b5a10",
         "type": "tabs",
         "children": [
           {
-            "id": "25c0d7f2f246545f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "_Focus"
-            }
-          },
-          {
-            "id": "b0b1e059e02b2808",
+            "id": "138a3c9e4729bbc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,6 +20,16 @@
               },
               "icon": "lucide-file",
               "title": "THOUGH"
+            }
+          },
+          {
+            "id": "c2598111abffd3c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -247,16 +240,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b0b1e059e02b2808",
+  "active": "c2598111abffd3c3",
   "lastOpenFiles": [
     "THOUGH.md",
     "_Focus.md",
+    "2 ACTIONS/_My Life/Styles.md",
+    "2 ACTIONS/_My Life/_My Life.md",
+    "22 lessons in 22 years.md",
+    "Untitled.md",
+    "image/Pasted image 20250710005419.png",
     "Productivity Note.md",
     "Daily Note.md",
     "Delusion.md",
-    "2 ACTIONS/_My Life/_My Life.md",
-    "22 lessons in 22 years.md",
-    "2 ACTIONS/_My Life/Styles.md",
     "image/Pasted image 20250517195139.png",
     "image/Pasted image 20250517195109.png",
     "Cheat Code.md",
@@ -283,8 +278,6 @@
     "3 RESOURCES/_Productivity & Improvement/Ultra Learning -  How to Rapidly Learn and Master New Skills (SUMMARY).md",
     "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "Studying Abroad.md",
-    "Recipe for a Disastrous Life.md",
-    "image/Pasted image 20241112093724.png",
     "image",
     "fitness",
     "3 RESOURCES/Fitness",

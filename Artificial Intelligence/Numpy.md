@@ -1,3 +1,4 @@
+## Python List Limitations
 List - slow and Numpy fast 
 Why -> numpy is Fixed type 
 + ? This is because computer see number as binary but numpy and list see number in 2 diff ways
@@ -14,6 +15,82 @@ Why -> numpy is Fixed type
 + ? How List different from Numpy
 	![[Pasted image 20240531152019.png]]
 	Numpy also core component of Pandas
+
+----
+![[Pasted image 20250707162338.png]]
+
+![[Pasted image 20250707162806.png]]
+
+1) **Element Overhead** 
+	Ngoài việc lưu trữ giá trị nó còn lưu trữ các phần tử khác như độ dài của list -> tốn nhiều tài nguyên hơn. 
+	
+2) **Memory Fragmentation**
+	Dữ liệu phân mảnh, không tối ưu bộ nhớ. Tính toán Numerical chậm hơn khi dữ liệu phức tạp lên. List chứa hiều loại data, trong khi kiểu dữ liệu trong Numpy array là Homogeneous (đồng nhất) 
+	
+3) **Performance**: performance thay đổi rõ rệt khi số tính toán tăng lên càng cao.
+4) **Functionality**
+
+
+# Basic Numpy Operation
+**Indexing:** Find value index 
+```python
+
+arr = np.array([2,1,5,8,5,9])
+np.where(arr==5)[0] #? return position of every '5' inside the array
+# np.where(arr==5) = (array([2, 4]),) 
+# (array([2, 4]),)[0] -> [2, 4] 
+```
+
+**Count total number of time a index appear** `np.sum(arr == element_to_count)
+```python
+arr = np.array([2,1,4,5,5])
+np.sum(arr = 5) # count toal
+# return: np.int(2)
+```
+
+**Get value from both list as pair** using `zip`
+```python
+pred = [1,2,3]
+ground_truth = [4,5,6]
+
+for pred, true in zip(pred, ground_truth): #? get a pair of values from both list at the same index
+    print(pred, true) #? value1: list1, value2: list2
+```
+
+**Delete an element**
+1) **Delete element based on its index**
+```python
+np.delete(arr, 2) # delete element in arr at index 2
+```
+2) **Delete elements based on value** by extract indices of the elements
+```python
+del_indices = np.where(arr==5)[0] # get the first 5 value inside array
+np.delete(arr, del_indices) # delete element inside arr with value of del_indices
+```
+
+**Extract index of each position within a matrix** using `ndenumerate` 
+`ndenumerate` is a **Multidimensional index iterator** which return an iterator yielding (mang lại, trả lại) pairs of array coordination and value. (Basically return coordination of each value within the matrix)
+1) **1D Array**
+```python
+arr = np.array([[4,5,6]])
+for i, v in np.ndenumerate(arr):
+    print(i, v)
+```
+![[Pasted image 20250707161844.png# left]]
+
+```python
+arr = np.array([[4,5,6], [8,8,8], [9,9,0]])
+for i, v in np.ndenumerate(arr): 
+    print(i, v)
+```
+![[Pasted image 20250707161909.png# left]]
+
+**Numpy Array is easier to access and better presented**
+![[Pasted image 20250707162258.png# left | 670]]
+
+**Reshape Orders:** in `C-like index order` or `Fortran-like index order`
+![[Pasted image 20250707163319.png]]
+
 
 # Basic Numpy Command 
 + $ Remember numpy shape always: **Row x Column** written in integer.
@@ -177,6 +254,28 @@ b= [[0 1]
  [4 5]]
 ```
 
++ ? Reshape to row, control number of column. This mean **reshape this array into rows so that number of column is 4.**
+```python
+arr = np.array([[1,2,4, 5],[5,6,7, 9]])
+arr.reshape(-1, 4) #? reshape to row, control number of column
+```
+```Output
+array([[1, 2, 4, 5],
+       [5, 6, 7, 9]])
+```
++ ? Reshape to column, control number of row. This mean **reshape this array into column so that number of row is 4**
+```python
+arr = np.array([[1,2,4, 5],[5,6,7, 9]])
+arr.reshape(4, -1) #? reshape to column, control number of row
+```
+```Output:
+array([[1, 2],
+       [4, 5],
+       [5, 6],
+       [7, 9]])
+```
+
+
 **Slicing**: slicing indecies using 3 value ($start:stop:step$) 
 ```python
 #vector 2-D slicing operations
@@ -306,6 +405,8 @@ squeezed_array_axis1 = np.squeeze(array, axis=0)  # Remove axis 0 if it's size 1
 print("Shape after squeeze on axis 0:", squeezed_array_axis1.shape)  # Output: (3, 1, 4)
 ```
 
+
+
 ### Shallow Copy vs Deep Copy 
 + ? **Shallow Copy:** **Modify a mutable** (có thể thay đổi) **object within the shallow copied object, the change will reflect in the original object** bc they share the same reference (địa chỉ) 
 **Example**
@@ -338,3 +439,6 @@ print("Deep Copied:", deep_copied)  # Output: Deep Copied: [[99, 2, 3], [4, 5, 6
 ```
 
 ### Normalization Method
+divide then take average
+
+

@@ -15,8 +15,6 @@ w = T(v)
 
 print("Original vector:\n", v, "\n\n Result of the transformation:\n", w)
 ```
-
-
 ![[Pasted image 20240702115527.png]]
 ```python
 u = np.array([[1], [-2]])

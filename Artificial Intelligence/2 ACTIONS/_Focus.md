@@ -7,17 +7,19 @@
 **Crucial**
 
 **Finish on This Week**
-- [ ] Bài giữa kỳ Kỹ Năng Làm Việc 
-- [ ] RAG Latex Report 
-- [ ] RAG Project Working like chị Hà. 
+- [ ] Statistic for Machine Learning 
+
 
 **Interest**
 - [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
 - [ ] SVD -> PCA
 - [ ] [FocusMate](https://www.focusmate.com/science/)
 - [ ] [[MIT Deep Learning]]
-- [ ] [[AI NEWS]]
-- [ ] Grounding for Hallucination
+- [ ] Grounding for Hallucination, LLMCache for faster response time.
+- [ ] [Build AI Agent for Your Website](https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/)
+- [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
+- [ ] Improve speaking by visualizing myself
+
 
 **Machine Learning**
 [[AIO 2024]]

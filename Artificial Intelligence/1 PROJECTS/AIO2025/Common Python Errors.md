@@ -76,6 +76,31 @@ def a_func(n):
 a_func(5) # RecursionError: maximum recursion depth exceeded
 ```  
 
+11. **AttributeError**
+With every variable in python is a Object. AttributeError mean the object you attempt to access or assign an attribute (which can be a variable or a method of the Object).   
+For example, calling mew() method with dog Class. 
+```python
+class Dog:
+    def bark(self):
+        print("Woof!")
+
+my_dog = Dog()
+my_dog.bark()  # This works fine
+
+try:
+    my_dog.meow() # This will raise an AttributeError
+except AttributeError as e:
+    print(f"Caught an AttributeError: {e}")
+
+# Example of NoneType error
+my_cat = None
+try:
+    my_cat.sleep() #? Accessing a method that doesn't exist
+except AttributeError as e:
+    print(f"Caught an AttributeError for NoneType: {e}")
+```
+
+
 **B. Lý thuyết Assert**
 **assert** basically **try-catch statement** but shorter, its **validate values by condition and return a message if the condition is False**. Assert often use to  **Customize Error Statement.**
 ```python

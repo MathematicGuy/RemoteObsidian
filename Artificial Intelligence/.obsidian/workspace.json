@@ -24,21 +24,34 @@
             }
           },
           {
-            "id": "82c94030f30a0e8f",
+            "id": "29050cf43bea4056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Ultimate.md",
+                "file": "AIO2025 - Statistic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG Ultimate"
+              "title": "AIO2025 - Statistic"
+            }
+          },
+          {
+            "id": "6d4d6039baafc946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numpy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Numpy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,44 +222,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "82c94030f30a0e8f",
+  "active": "8b5f78a0d3427361",
   "lastOpenFiles": [
     "Numpy.md",
-    "RAG Ultimate.md",
+    "AIO2025 - Statistic.md",
     "2 ACTIONS/_Focus.md",
-    "UnixLinux for Data Science - Distill Core Concept from ChatGPT.md",
-    "image/content.png",
-    "AIO2025 - UnixLinux for Data Science.md",
+    "2 ACTIONS/Mein Resume.md",
     "AIO 2025.md",
-    "image/Pasted image 20250701151448.png",
-    "image/515320397_1022983993383161_7186292225342398507_n.jpg",
-    "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
-    "3 RESOURCES/Good for later/Prompt Engineering.md",
-    "image/Pasted image 20250701103302.png",
-    "image/Pasted image 20250701102955.png",
-    "image/Pasted image 20250701101635.png",
-    "RAG Implementation Documentation.md",
-    "AIO2025 - Intro.md",
-    "Common Problems in RAG Systems and Their Solutions.md",
+    "AIO2025 - Oversea study, How to study, EQ and Stress Mangement.md",
+    "image/Pasted image 20250714230648.png",
+    "image/Pasted image 20250714225827.png",
+    "image/Pasted image 20250714225547.png",
+    "image/Pasted image 20250714224943.png",
+    "image/Pasted image 20250714224202.png",
+    "image/Pasted image 20250714223629.png",
+    "image/Pasted image 20250714223506.png",
+    "image/Pasted image 20250714223453.png",
+    "image/Pasted image 20250714223100.png",
+    "image/Pasted image 20250714222448.png",
     "AIO2025 - OOP.md",
-    "image/Pasted image 20250627153528.png",
-    "image/Pasted image 20250627153427.png",
-    "image/Pasted image 20250627153335.png",
-    "AIO2025 - SQL in Data Analysis.md",
-    "AIO2025 - OOP - Tree - Data Structure.md",
-    "AIO2025 - SQL2_vn.md",
-    "image/Pasted image 20250627152647.png",
-    "Multimodel RAG.md",
-    "Multi-Agent-Architecture.md",
+    "AI NEWSx.md",
     "AI NEWS.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Search Problems.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Harvard CS50’s Artificial Intelligence with Python.md",
-    "Decision Analysis.md",
-    "Decision Tree DIY.md",
-    "RAG Road Map.md",
-    "RAG Agents in Production.md",
-    "Python OOP.md",
-    "Introduction to Python OOP.md",
+    "LangChain.md",
+    "1 PROJECTS/AIO2025/Common Python Errors.md",
+    "3 RESOURCES/How to/Anaconda Command.md",
+    "3 RESOURCES/How to/Anaconda.md",
+    "RAG Ultimate.md",
+    "RAG Implementation Documentation.md",
+    "LangGraph for AI Agents.md",
+    "Langchain.md",
+    "RAG system in Production.md",
+    "Multimodel RAG.md",
+    "AIO2025 - README Rag Streamlit.md",
+    "Pasted image 20250711222358.png.md",
+    "4 ARCHIVES/ML Project/Image Compression using PCA/Image Compression using PCA - Principal Component Analysis.md",
+    "CV_Final_results.md",
+    "Lesson 1 - Introduction to Probability.md",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "Statistic and Probability for Machine Learning.md",
+    "AIO2025 - Logic Thinking and Problem Solving for DS",
     "Excalidraw",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
@@ -256,7 +270,6 @@
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/Exercise 12 Decision Trees, Nearest Neighbor Classifier, Regression Trees.pdf",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/solution_12.pdf",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/MachineLearningExercise.pdf",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Books",
     "Untitled.canvas",
     "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
     "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",

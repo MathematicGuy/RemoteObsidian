@@ -4,11 +4,16 @@
 
 ### [[Common Problems in RAG Systems and Their Solutions]]
 
-### [[RAG Agents in Production]]
+### RAG Frameworks and Tools
++ [[RAG system in Production]]
++ [[Multimodel RAG]]
++ [[LangGraph for AI Agents]]
 
-### [[Multimodel RAG]]
+### [[LangChain]]
 
 ### [[RAG Implementation Documentation]]
+
+### [[Context Engineering]] (NEW)
 
 
 **Code:**
@@ -16,14 +21,14 @@
 + [RAG Multiple Choice](https://colab.research.google.com/drive/1KtWMSZP_sEifMIJ63eBYk3aWqgNyvN30#scrollTo=sDF9UemkiM9t)
 
 ### Tools: always ask what problems do they solve ? 
-[[Langchain vs LlamaIndex]]
+[[LangChain]]
 [llm prompting website](https://learnprompting.org/docs/basic_applications/mc_tutorial)
 
 **Langchain:** provide basic components for a AI application. (e.g. API connection between model, Prompting, human to model Responses).  
 ![[Pasted image 20250618070959.png| 600]]
 **LangGraph:** Allow dev to make prototype for AI application.
 **LangFlow:** Workflow for Multi-Agent.
-**LangSmith:** provide testing environment at all stages of development.
+**LangSmith:** provide testing environment at all stages of development. Very detail and coherent debug enviroment. Allow you to track and trace every step.
 
 ---
 **AIO RAG Goals:**
@@ -70,3 +75,8 @@
 		+ $ Operation in programming *allow a program to continue execute other tasks while waiting for another task to complete* (often long-running operation) without blocking the main thread.
 		+ ? Note that when running Asynchronous in a single thread its just the single thread switches between different tasks creating the illusion of parallelism. 
 		+ $ Benefits of Asynchronous mainly get recognized in User Interface. 
+
+
+**Full-Stack RAG Web App Architecture Overview**
+![[518011308_1297923515669551_604386552809920044_n.jpg]]
+

@@ -1,10 +1,13 @@
 SQL
 pro: query
 
-
 NoSQL
-pro: when data changes constantly
-cons: duplicate, abnormal data
+pro: 
++ when data changes constantly
++ document have different format. Mongo is schema-less so it allow different format
+cons:
++ duplicate, abnormal data
+
 
 **Project summary:** Quản lý công việc của các nhân viên tham gia trong các dự án ở các ban. 
 
@@ -23,7 +26,7 @@ SQL có 1 bảng riêng cho từng thể loại film
 NoSQL có thể thêm tùy ý vô số lần. 1 người có thể gán thêm hàng trăm thể loại film thì ko bị ràng buộc.
 + Tra cứu tệ. Tra theo ràng buộc 
 
-
+note: `use database` dùng để truy cập 1 database hoặc đổi sang 1 database khác.  
 ```json
 /*
     1.	Add a document to the "movies" collection with specified details 
@@ -118,6 +121,16 @@ db.comments.deleteOne({
   email: "student@nbcc.ca"
   // Add additional fields if necessary to uniquely identify the document
 });
-
-
 ```
+
+
+In the following operation, `find()` method returns all documents that match the query. In the result set, only the `item` and `qty` fields with `1` flag, by default, the _id field return in the matching documents_.
+```sql
+db.inventory.find( { type: 'food' }, { item: 1, qty: 1 } )
+``` 
+with `0` flag, document _only returned the `roll` field_ (and _exclude the `_id`_).
+```javascript
+db.students.find({}, {roll:1, _id:0})
+```
+
+`$or` 

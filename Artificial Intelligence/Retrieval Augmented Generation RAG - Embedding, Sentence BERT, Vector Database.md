@@ -142,3 +142,40 @@ HNSW in real world ![[Pasted image 20250324162950.png]]
 + Repeat the search with randomly chosen starting points (on the top layer) and then keep the top K among all the visited nodes. 
 + ? Basically searching each layer and save the local best. 
 
+# Vector Database
+Convert Data Object like Image, Text, Audio into vector for faster retriever and lighter storage.
+![[Pasted image 20250709142951.png# left | 800]]
+**Example:** each word broken down into vector
+![[Pasted image 20250709143046.png# left | 300]] ![[Pasted image 20250709143127.png# right | 300]]
+
+
+An Image often broken into parts, part then converted into vectors for search. 
+![[Pasted image 20250709143245.png| 500]]
+
+a row inside vector database 
+`{text: Hello World, vector: [0.0232232324, 0.0239148999, 0.0233453245,..., 0.0893843] }`
+
+### Why are Vectors Used in a Vector Database ? 
+The higher the dimension (i.e. more number) a vector have , the more datas its able to represent. 
+1) **Efficient Representation of Complex Data**
+	a. Dimensionality - represent data in higher-dimension space
+	b. Uniformity - data can be cconverted into a uniform format (numerical vectors)
+	
+2) Enabling Similarity Search using Math
+3) Leveraging Machine Learning Models
+4) Optimizing Performance and Scalability
+5) Improving User Experience 
+ -> Since vectordb alolow Real-Time interaction (Recommendations, search resuls or data analysis outputs)
+6) **Use Case**
++ Image Retrieval & Similarity Search (google image search, bing)
++ Recommendation Systems (spotify) ![[Pasted image 20250709145415.png# left | 600]]
+	
++ Natural Language Processing (NLP) - (Customer Support)
+	*Uses a vector database to understand and respond to user queries more efficiently* ![[Pasted image 20250709145628.png]]
++ **Fraud Detection**
+	Use a vector database to quickly compare user behaviour patterns and flag anomalies.
+	
++ **Bioinformatics**
+	Uses a vector database to compare gene expression profiles from different patient samples. 
+
+
