@@ -19,7 +19,7 @@
 - [ ] [Build AI Agent for Your Website](https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/)
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] Improve speaking by visualizing myself
-
+- [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
 
 **Machine Learning**
 [[AIO 2024]]

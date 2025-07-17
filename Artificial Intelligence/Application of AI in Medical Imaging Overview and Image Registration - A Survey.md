@@ -202,7 +202,6 @@ Công Thức: Affine Transformation
 > **Histogram Equalization stretch the histogram to include all ranges** `[0, 255]`. **CLAHE** divide a image into `n 8x8 tiles/grids, then **apply Histogram Equalization into each tile**. 
 
 
-
 ## Affine Transformation in Image Registration
 ### Image Transformation
 + ? How to do all of these Transformation using JUST 1 MATRIX.

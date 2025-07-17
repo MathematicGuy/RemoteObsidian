@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "THOUGH"
             }
-          },
-          {
-            "id": "c2598111abffd3c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +229,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2598111abffd3c3",
+  "active": "138a3c9e4729bbc2",
   "lastOpenFiles": [
     "THOUGH.md",
     "_Focus.md",

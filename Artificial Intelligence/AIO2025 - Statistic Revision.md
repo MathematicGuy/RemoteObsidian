@@ -88,8 +88,5 @@ P(H1) is the prob of H having red marble, given that A1 get chosen where A1 is t
 
 ## Chương 6: Xác Suất Hình Học
 
-p R|Co, St, Si = p Co, St, Si R p(R)
-p(Co, St, Si)
 
-$P(R|Co, St, Si) = \frac{P(Co, St, Si | R).P(R)}{P(Co,St,Si)}$
 
