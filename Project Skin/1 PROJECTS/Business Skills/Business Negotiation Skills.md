@@ -263,3 +263,7 @@ Walmart (siêu thị lớn nhất TG)
 **UNIQLO and India**
 UNIQLO không xem xét yếu tố Nhiệt độ tại ấn độ dẫn tới các dòng sản phẩm chống nóng (HEATeach), AIRism bị quăn co lại khi nhiệt độ > 60 độ.
 
+----
+### Bài tập đa văn hóa (phần chuẩn bị cho bài cuối kì)
++ $ Chỉ cần xây dựng tình huống, không cần diễn. 
+Bối cảnh tình huống, lý do xung đột, hướng giải quyết (Áp dụng kỹ thuật đàm phán từng học)

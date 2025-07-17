@@ -22,8 +22,19 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "16c8258158448cb9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b5f78a0d3427361",
+  "active": "16c8258158448cb9",
   "lastOpenFiles": [
-    "AIO2025 - Extra Basic Statistic.md",
     "2 ACTIONS/_Focus.md",
+    "AIO2025 - Extra Basic Statistic.md",
     "AIO 2025.md",
     "AIO2025 - Applied Statistic for Classification.md",
     "image/Pasted image 20250716142359.png",
