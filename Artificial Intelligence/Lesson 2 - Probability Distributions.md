@@ -1,3 +1,8 @@
+**From Event to Random Variables**
+![[Pasted image 20250717213431.png]]
++ **Discrete** - Finite number of values (within a range) -> ony take a countable number of values. 
++ **Continous** - Infinite number of values (within a range) -> takes values on an interval, thus there're infinite value within that range. 
+
 **Discrete random variables**: finite number of values (could also be infinite too) 
 + ? Have infinite range of values but only take a countable number of values (e.g. 1,2,3 12313213, 42432423) as long as it countable. 
 + $ represent a List
@@ -12,7 +17,10 @@ Continous random variables (Infinite number of values.)
 
 **Probability Distributions (Discrete)**
 Flip a coin 32 times and **list out all the outcome in a Histogram**, we have the posibility of all senario, this called **Probability Mass Function (PMF)**. This is define as the probability that the random variable takes at a particular value $p_{X}(x) \geq 0$. 
-![[Pasted image 20241028102839.png]]![[Pasted image 20241028104001.png]]
+
+![[Pasted image 20241028102839.png]]
+
+![[Pasted image 20241028104001.png]]
 
 # Binomial Distribution
 + ? Binomial Distribution is a **prob distribution that describe the number of success in $n$ independent Bernoulli trials**, each with the same probability of success $p$.
@@ -38,14 +46,14 @@ Another way to express binomial distirbution
 ![[Pasted image 20241028151647.png]]
 
 #### Probability Distribution (Continuous)
-what is the probability that a call would take exactly one minute to the dot? 
+What is the probability that a call would take exactly one minute to the dot? 
 + ? Think the call lasts some time between a certain window. say 0 and 1; 0 and 0.25; 0.25 and 0.5, etc...![[Pasted image 20241028160642.png]]
 Split the interval infinite, we get this curve (i.e. many very very skinny bar represent the probability of each super small interval)
 ![[Pasted image 20241028161020.png]]
 **Discrete:** Sum of heights equals 1
 **Continuous:** Area under the curve equals 1
 
-### Probability Density Function
+### Probability Density Function (PDF - Continous)
 When talk about continous distributions, we cannot talk about probability like in throw a coin ten times and 3 of them and heads in a certain number. For example, if I make a phone call, the probability that the phone call lasts exactly two minutes to the dot at is zero.
 But I can still talk about intervals. I can talk about the probability that a phone call lasts between two certain interval like $[2, 3]$ minute is $\frac{1}{5}$ 
 ![[Pasted image 20241028161255.png]]
@@ -58,7 +66,8 @@ When the areas become so smaller, the probability at exactly 1 point is Approxim
 > In summary, we divided the intervals into smaller and smaller, also the areas get smaller and smaller until they get to zero.
 ![[Pasted image 20241028162226.png]]
 
-This called Probability Density Function (PDF), it tells you the **rate you accumulate probability around each point**. Only **defined for continuous variables**. 
+
+This called **Probability Density Function (PDF)**, it tells you the **rate you accumulate probability around each point**. Only **defined for continuous variables**. 
 ![[Pasted image 20241028162456.png]]
 $$P(a < X < b) = \text{area under } f_{X}(x)$$
 ![[Pasted image 20241028162803.png]]

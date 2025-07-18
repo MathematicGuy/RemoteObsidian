@@ -258,7 +258,10 @@ Hast du schon was *vor* ? - Do you have a plan yet ?
 Feiertag - holiday 
 	Heute ist ein Feierstag 
 
+Wart Wait
 Warten Sie - Wait (you) 
+Wartest du 
+
 
 zu fuß - by foot
 	Möchtest du zu fuß zum Hotel gehen - would you like to go to the hotel by foot
@@ -442,4 +445,23 @@ Der Wein schmeckt fantastisch zusammen mit dem Fisch
 	The wine taste delicious with the fish
 
 Autoschlüssel - car key 
+Jahrestag - first of 
+
+Herzlichen Glückwunch - Congratulation 
+Feiern celerating 
+Jahrestag anniversary
+
+#ihr_vs_wir
++ *wir* mean we, referring to a group of people including the speaker
++ *Ihr*  reffering to the group of people being address, not include yourself. ("you" in plurall)
+	
++ e.g. Ihr feiert euren (Granpa & Grandma) Jahrestag, Herzlichen Glückwunch - We we celebrating your Anniversary, congratulation 
+
+Ruf - 'to call' or 'to shout' in a more general term (use when talking about someone on the phone)
++ ? Structure: Ruf [Subject] .... an
+	Ruf dein Date an / call your date
+	Ich rufe dich morgen an / I will call you tomorrow
+	
+Anrufen (v) is a specific verb used for "to call" in the sense of telephoning,
+
 

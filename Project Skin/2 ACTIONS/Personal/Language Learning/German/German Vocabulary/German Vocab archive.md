@@ -1483,7 +1483,7 @@ Hast du im April oder im Mai Geburtstag?
 
 Danke ich kann am siebten Juli kommen
 
-wir feiern deinen geburtstag im restaurant
+wir feiern deinen geburtstag im restaurant - we celebrating your birthday in resterant
 
 Ersten - first of
 	Ersten April - first of April

@@ -7,7 +7,20 @@
 **Crucial**
 
 **Finish on This Week**
-- [ ] Statistic for Machine Learning 
+- [ ] Statistic for Machine Learning (Start from Lesson 2 - Probability Distribution)
+	- [ ] Lesson 2 - Probability Distribution
+		- [ ] PMF, PDF and CDF
+		- [ ] Uniform, Normal Distribution. 
+	- [ ] Week 2 - Lesson 1 - Describing Distribution 
+		- [ ] Mean/Expected Value
+		- [ ] Median 
+		- [ ] Variance
+		- [ ] Standard Deviation
+	- [ ] Week 2 - Lesson 1 - Describing Distribution 
+		- [ ] Covariance, Covariance Matrix
+		- [ ] Correlation Coefficient
+		- [ ] Multivariate Gaussian Distribution
+
 
 
 **Interest**
@@ -20,6 +33,9 @@
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] Improve speaking by visualizing myself
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
+- [ ] [AI Project Demand](https://www.facebook.com/share/v/17BimAahPw/)
+- [ ] Bài tập BÁO CÁO PHẢN TƯ SAU KHÓA HỌC KHỞI NGHIỆP
+
 
 **Machine Learning**
 [[AIO 2024]]

@@ -147,7 +147,14 @@ That why I love psychology so much.
 ### 16/7/2025
 Note for problem solving, next time I want to simulate/translate a mathematic problem into code, please list down all the questions I want to ask/know. Then sorted the best question out of them all. Some hours long problem might just be 1 or 5 questions alway from the anwers, that why how you ask is how you solve them.
 
-
 ### 17/7/2025
-Think I realize after marriage for 10 years
-https://www.facebook.com/share/v/19oaDJ9E3C/
+Think I realize after marriage for 10 years: https://www.facebook.com/share/v/19oaDJ9E3C/
+ 1) The *Core* of the *Family* is ofcourse *MONEY*. 
+ 2) Marriage is your life biggest business. So sort your soul mate, one you with her, you do not leave her.  
+ 3) Marriage without Voice is worst than marriage without sex. Silent is not the answers.
+	 forcing expectation on your love one
+4) A man cannot make money, doesn't deserve marriage at all. (literally everyone)
+5) Betwen humans, "seeing, empathy, loving, being together" is the result of one's sacrified (accept losing) Expect  
+
+I have been long creating this habits where I would watching mindless video, doomscroll every time I get too tired. This is the biggest barrior between me and my bestself. Before my birthday, I will take back my life by trying my best. This time for once, I'll really living live. 
+
