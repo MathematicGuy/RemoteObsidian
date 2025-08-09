@@ -1,3 +1,18 @@
++ ? LLM is like the CPU and its Context Windown is RAM. How can we optimize so that only important information get feed into the LLM. Context Engineer allow u to reduce the scope from everything else to what you only want.
++ $ Describe the context so good that the AI can have the same awareness as human. By defining its:
+	+ **Define Tasks** the Agent should do. What to do step-by-steps.
+		![[Pasted image 20250804104348.png| 433]] 
+		![[Pasted image 20250804104415.png| 233]]
+	+ **Input** (where does the input comming from, type of inputs)
+	+ **What the Output** should contain which include the Output format e.g. bullet point 
+	![[Pasted image 20250804104308.png| 333]]and Output Constaint e.g. limit to 300 tokens
+	![[Pasted image 20250804104228.png| 244]]
+	+ **Information Constrain:** what to focus on 
+	![[Pasted image 20250804104638.png| 344]]
+	+ **What to AWARE ?** Capability and Reminder, telling the Agent what are the different tools and knowledge bases that it have access to. And telling its reminder.
+	![[Pasted image 20250804105055.png| 344]]
+
+
 **Problem for Agents:** 
 + Long-running tasks and accumulating feedback from tool calls
 + Agents often utilize a large number of tokens!

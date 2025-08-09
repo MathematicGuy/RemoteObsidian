@@ -182,7 +182,7 @@ For the last line (red), we line the line up where all points projected to it sp
 
 
 Problem: giá trị trên x và y giống nhau nhưng khi nhìn thì rõ ràng các điểm giá trị là khác nhau.
-	**Variance helps us quantify how spread out your data is but now consider a situation where variance alone wouldn't be helpful. These two datasets have three observations each. They would have identical y variance and x variance and yet, it's obvious that there's a significant difference in the patterns of these datasets.**
+	**Variance helps us quantify how spread out your data is but now consider a situation where variance alone wouldn't be helpful. These two datasets have three observations each. They would have identical y variance and x variance and yet, it's obvious that there's a significant difference in the patterns of these datasets.** 
 	![[Pasted image 20240702220401.png]]
 	Left: X Inscre, Y Descre
 	Right: Y Inscre, X Descre

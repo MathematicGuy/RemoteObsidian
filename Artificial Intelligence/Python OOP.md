@@ -293,8 +293,6 @@ class Item:
 Item.instantiate_from_csv() # call classmethod
 ```
 > Class reference must be pass as the first augument: cls for instant
-![[Pasted image 20240923161111.png]]
-
 
 ####  When to use class methods and when to use static methods ?
 + $ `@classmethod`: used when yo **need to do sth** at the **class level** rather than the instance level, take `cls` as first argument. **e.g. modify class level attribute**. 

@@ -25,12 +25,22 @@
 	**Method 1:** `df_student[['name', 'score']].head()`
 	**Method 2:** `df_student.iloc[0:5, [0, 1]]` where `name` is column 0 and `score` is column 1.
 
----
 
-Describe count, mean, std, min, and value at 25%, 50%, 75% 
+### Indexing
+Common usage patterns:
+- **Selecting a single row by label:** `df.loc['row_label']`
+- **Selecting a single column by label:** `df.loc[:, 'column_label']`
+- **Selecting a specific cell by row and column labels:** `df.loc['row_label', 'column_label']`
+- **Selecting multiple rows by a list of labels:** `df.loc[['label1', 'label2']]`
+- **Selecting multiple columns by a list of labels:** `df.loc[:, ['col1', 'col2']]`
+- **Slicing rows by label:** `df.loc['start_label':'end_label']`
+- **Slicing columns by label:** `df.loc[:, 'start_column':'end_column']`
+- **Conditional selection using a boolean array:** `df.loc[df['column_name'] > value]`
+
 ```python
-iris.describe()
+df2 = pd.read_csv(dataset_path, index_col=['Title', 'Year'])
+get_cols = df2.loc[(slice(None), 2010), ['Rank', 'Genre']]
+get_cols.head()
 ```
-![[Pasted image 20250203150852.png]]
-
+![[Pasted image 20250804163442.png# left |355]]
 

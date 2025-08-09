@@ -67,3 +67,5 @@ What is Histogram and What can it do
 *HE Use Case*
 
 **Extension: CLAHE** (HE but apply to each n by n GRID)
+
+

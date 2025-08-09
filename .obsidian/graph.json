@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -18,7 +18,7 @@
       "query": "path:\"Artificial Intelligence\"  ",
       "color": {
         "a": 1,
-        "rgb": 7315938
+        "rgb": 3010768
       }
     },
     {
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1.88645833333333,
   "lineSizeMultiplier": 0.40625,
   "collapse-forces": false,
-  "centerStrength": 0.302083333333333,
-  "repelStrength": 20,
-  "linkStrength": 0.229166666666667,
-  "linkDistance": 360,
+  "centerStrength": 0.244791666666667,
+  "repelStrength": 18.2291666666667,
+  "linkStrength": 0.359375,
+  "linkDistance": 199,
   "scale": 0.030182895067324182,
   "close": false
 }

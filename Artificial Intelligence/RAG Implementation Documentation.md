@@ -17,3 +17,8 @@ Nhưng thiếu khả năng so sánh các thông tin chính xác với nhau. Hay 
 Ví dụ:
 	Module Retrieval có vấn đề khi nó không thể truy vấn đúng thông tin cần thiêt đối với TỪ có cấu trúc giống nhau như 1NF, 2NF, 3NF -> Retrieval nhận diện cả 3 gần giống nhau. 
 
+**Dataprep:** huấn luyện LLM để đảm bảo đầu ra output đưa ra luôn đúng định dạng. 
+
+**Enum datatype (like python enumeration):** a special datatype that enable for a variables to be a set of predefined constants. If  initiate days in week as string, they will have value from 0 to 6 by default if not assigned. 
+![[Pasted image 20250806145917.png| 544]]
+

@@ -32,6 +32,10 @@ $$\text{MSE} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$$
 ```
 
 
++ ? Give **Example of Bias and Variance in KNN**
+
+
+
 ```ad-abstract
 **Bias:** Bias refers to the error due to **overly simplistic model & assumption**. This **make model easier to comprehend and learn but might not capture the underlying complexities of the data**.  It is the error due to the model’s **inability to represent the true relationship between input and output** accurately. When a model has poor performance both on the training and testing data means high bias because of the simple model, indicating **underfitting**.   
 
@@ -59,14 +63,13 @@ $$\text{MSE} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$$
 2. The input features which is used to train the model is not the adequate representations of underlying factors influencing the target variable.
 3. The size of the training dataset used is not enough.
 4. Excessive regularization are used to prevent the overfitting, which constraint the model to capture the data well.
-5. Features are not scaled.
+	1. Features are not scaled.
  
 **Techniques to Reduce Underfitting**
 1. Increase model complexity.
 2. Increase the number of features, performing [feature engineering](https://www.geeksforgeeks.org/what-is-feature-engineering/).
 3. Remove noise from the data.
 4. Increase the number of [epochs](https://www.geeksforgeeks.org/epoch-in-machine-learning/) or increase the duration of training to get better results.
-
 
 **Overfitting/Overlycomplex:** **fit the current data so good that it starts learning from noise and inaccurate data too** (e.g. like a overly obey child learning in a cult) The model doesn not categorize the data correctly, because of too many noise and details. 
 

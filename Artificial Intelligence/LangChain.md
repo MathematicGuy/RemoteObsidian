@@ -139,3 +139,5 @@ As we know, **LlamaIndex is for data-intensive search tasks while LangChain is f
 	**Ideal for** chatbots, content generatin, multi-step workflows. 
 
 Although, **Langchain has stronger contexts retention while LlamaIndex has basic memory features.**
+
+

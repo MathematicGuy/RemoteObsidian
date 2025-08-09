@@ -74,5 +74,4 @@ Here is an explanation of the mathematical symbols shown in Part I: Mathematical
 
 - __Argument of the Minimum (x_ ∈ argmin$_x$ f(x)): $*$ Denotes the value(s) $x*$ that minimize function $f$. Note that argmin returns a set of values.
 	
-
-Please note that this explanation covers the common interpretations of the symbols in the context of the provided source. Some symbols might have different meanings in other mathematical contexts.
++ **Elaborate:** to further explain. 

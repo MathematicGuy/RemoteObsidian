@@ -1,4 +1,4 @@
-o## Chapter 1: Basic Statistic Definition
+## Chapter 1: Basic Statistic Definition
 What is probability ? probability is likelihood (khả năng xảy ra) of sth to happened, but what is likelihood. 
 
 In statistic, we define probability as a measurement of how likely something to happend heuristically (trực giác), and likelihood describe how likely something to happened base on what actually happend when tested.   
@@ -30,7 +30,6 @@ In statistic, we define probability as a measurement of how likely something to 
 ## Chapter 2: Counting Technique (Tổ Hợp và Chỉnh Hợp)
 
 
-
 ## Chapter 3: Các Quy Tắc Xác Suất Cơ Bản
 **Independet Event:** outcome of 1 event doesn't affect outcome of another event.
 **Dependent Event:** outcome of 1 event affect outcome of another event. 
@@ -56,6 +55,7 @@ Say that we only open the door on the 3rd attempt, this mean attempt 1st and 2nd
 -> $P(\bar{A_{1}})$ then $P(\bar{A_{2}} | \bar{A_{1}})$ (attempt 2 not success given attempt 1 not success) then $P(A_{3} | \bar{A_{1}} \bar{A_{2}})$ all multiply to each other to describe sequence of events. 
 <-> $P(\bar{A_{1}} \bar{A_{2}} A_{3})$ = $P(\bar{A_{1}}).P(\bar{A_{2}} | \bar{A_{1}}).P(A_{3} | \bar{A_{1}} \bar{A_{2}})$
 From here we just plug in the numbers.
+ 
 ![[Pasted image 20250714162930.png|600]]
 
 
@@ -76,17 +76,64 @@ Happened in parallel (event happened independetly) -> Addition
 Happened in sequence (event A afect event B) -> Multiply
 ![[Pasted image 20250714165815.png]]
 Step 1: choose bag (3 independent cases)
-Step 2: choose read marble from that bag. (depend on which bag get chosen i.e. prob of the bag which is 1/3 since there're 3 bags)
+Step 2: choose red marble from that bag. (depend on which bag get chosen i.e. prob of the bag which is 1/3 since there're 3 bags)
  $\to .75 \times \frac{1}{3} + .60 \times \frac{1}{3} + .45 \times \frac{1}{3} = \frac{1}{3} \times (.75 + .60 + .45) = \frac{P_{1} + P_{2} + P_{3}}{3}$ 
- + ! Warning: this is a simple way to calculate average of the probability, in realife prob of choosing red might be hight because of bias, each P would have their own weight as bag's probability. e.g. $P(red) = \alpha P_{1} + \alpha P_{2} + \alpha P_{3}$ (This call Weighted Average, use when each cases have a diff probability)
+ + ! Warning: this is a simple way to calculate average of the probability, in realife prob of choosing red might be high because of bias, each P would have their own weight as bag's probability. e.g. $P(red) = \alpha P_{1} + \alpha P_{2} + \alpha P_{3}$ (This call Weighted Average, use when each cases have a diff probability)
+
 ![[Pasted image 20250714170609.png]]
 A1 is bag 1
 P(H1) is the prob of H having red marble, given that A1 get chosen where A1 is the prob of bag 1 getting chosen and H is the prob space where of red marble.  
+**Note: $$P(H_{1}, H_{2}, H_{3} | C) = P(H_{1}|C).P(H_{2}|C).P(H_{3}|C)$$ 
 
-## Chương 5: Công Thức Xác Suất Toàn Phần.
+## Baye's Rule
+### Bernoulli Naive Bayes for Single Feature
+Probability of a feasible even / Probability for all event to happend. 
+$$P(C|X=x) = \frac{P(C).P(X|C)}{P(X)}$$
+where 
++ $C$ is the Class and X is the Feature
++ $P(X)$ probability of a Features to happend 
++ $P(X|C)$ probability of the Feature to happend given the Class
++ $P(C)$ probability of all Conditional Event that is that class. e.g. $= P(C)P(X_{1}|C) + P(C)P(X_{2}|C)$
+
+![[Pasted image 20250729090000.png]]
+$P(R=r|S=s)=\frac{P(S).P(S|R)}{P(R)}$
+$P(S) = P(R_{1}).P(R_{1}|S) + P(R_{2}).P(R_{2}|S)$
+$P(R_{1}).P(R_{1}|S) = \frac{3}{6}.\frac{1}{3}=\frac{1}{6}$
+$P(R_{2}).P(R_{2}|S) = \frac{3}{6}.\frac{2}{3}=\frac{1}{3}$
+$P(S) = \frac{1}{2}$
+
+$$P(R_{1}=Fail|S=Studied)=\frac{P(R_{1}).P(R_{1}|S)}{P(S)} = \frac{1}{3}$$
+
+$$P(R_{2}=Pass|S=Studied)=\frac{P(R_{2}).P(R_{2}|S)}{P(S)}=\frac{2}{3}$$
+note: $a \propto b$ mean as a increase, b increaase 
+```ad-seealso
+In Summary, P(C=c|X=x) is the probability that c happend divive to "every event of $C$ given X" where c is a class inside Class.  
+```
+
+### Bernoulli Naive Bayes for Multiple Feature
+![[Pasted image 20250729100700.png|550]]
+
+### Gaussian Naive Bayes Classifier
+[gaussian naive bayes from scratch in python](https://youtu.be/AqW3aPSPIhc?si=LOZLH3Uz4ojjp7uG)
++ ? Use Gaussian Naive Bayes instead of Basic Conditional Probability
+![[Pasted image 20250729102212.png|555]]
 
 
-## Chương 6: Xác Suất Hình Học
+Một lập trình viên có thể debug thành công một đoạn mã lỗi trong 2 bước như sau:
++ Nếu họ tìm đúng module đầu tiên, xác suất sửa lỗi là 80%.
++ Nếu họ chọn sai module đầu tiên, họ có thể thử lại một lần (tổng cộng 2 lần). Xác suất tìm đúng trong lần thứ hai là 60%. 
+	
+	Biết rằng xác suất chọn đúng module ngay từ đầu là 40%.
+	Hỏi xác suất để lập trình viên sửa được lỗi sau 2 lần thử là bao nhiêu?
 
+**Naive Bayes:** $$P(x_{1},x_{2},\dots,xn|lass)=P(x_{1}|class).P(x_{2}|class)\dots P(x_{n}|class)$$-> xác suất xảy ra của mẫu (tập hợp các đặc trưng x1,x2,...,xn) với điều kiện biết trước class.
++ ? e.g. **Với một mẫu** mới có Length = 5.5 và Width = 3.0, hãy tính xác suất P(Class 1 | Length=5.5, Width=3.0) sử dụng Gaussian Naive Bayes.
+
+**Bayes Theorem:** $$P(class|x)=\frac{P(x)P(x|class)}{P(class)}$$--> xác suất để một sample thuộc về class nào đó sau khi đã quan sát đặc trưng x
++ ? e.g. Cho trước 3 features là Confidence, Studied, Sick thuộc về 2 class Pass và Fail. Hãy dự đoán Class của quan sát mới P(yes, yes, yes). Note: tính Posterior của P(pass) và P(fail) rồi nhân xác suất từng Class vs P(yes, yes, yes) để xem class nào có khả năng xảy ra cao hơn.  
+![[Pasted image 20250729145950.png]]
+
+----
+Đề thi sẽ có khoảng **53 câu** chia đều cho các **kiến thức ở** những **buổi thứ 3, thứ 4, thứ 6** **và chủ nhật ở module 2.** Các câu hỏi **phần lớn yêu cầu các tính tay cho các bài toán xác suất** và **cuối bài sẽ có khoảng 6-7 câu** yêu cầu **code**.
 
 

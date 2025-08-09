@@ -127,6 +127,15 @@ HNSW in real world ![[Pasted image 20250324162950.png]]
 - **a**: The current node’s value.
 - **DOWN, RIGHT**: Directions for pointer movement (and **LEFT** later in the algorithm).
 - **H**: Current layer, where **H ≠ H₀** means not the bottom layer, and **H = H₀** means the bottom layer.
++ **E**: End of List, return null. Not Found. 
+where 
++ About 50% of elements appear in level H₁.
+    
+- About 25% appear in level H₂.
+    
+- About 12.5% in level H₃.
+    
+- …and so on.
 
 **For every Search:**
 1) **Search start from the top** of the Hiarchy (Top layer)

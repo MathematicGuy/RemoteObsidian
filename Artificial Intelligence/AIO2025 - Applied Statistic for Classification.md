@@ -5,7 +5,6 @@ Events **A and B are conditionally are independent given C if** and only if:
 
 Note: *independent event -> P(A|B) = P(A)*
 
-
 ## Naive Bayes Classifier (Foundation of Science)
 Class: Fail, Pass -> 2 outcome
 Features: Confident, Studied, Sick
@@ -42,4 +41,4 @@ $= p(Co = \text{yes} | R=\text{pass}) * P(St=\text{yes} | R=\text{pass}) * p(Si 
 	**Example for Trained Data Posterior Probability**, apply Naives Bayes Theorem we have: 
 $$p(R|Co, St, Si) = \frac{p(Co, St, Si|R)p(R)}{p(Co, St, Si)}$$
 
-
+ 

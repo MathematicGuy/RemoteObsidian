@@ -1,4 +1,9 @@
-> k as in k total time 
+1) Initialize 2 or more centroid.
+2) Compute distance between centroid to each points. 
+	If distance to point a closer to centroid 1 -> classified as class 1. Else class 0 
+	Repeat until there are no point to classified.
+3) Calculate mean of each class, apply euclidean distanct to calc distant each point to the Mean. Assign closest point to the Mean as the new centroid. 
+4) Repeat until the los
 
 Number of Cluster = number of solution/output/type
 

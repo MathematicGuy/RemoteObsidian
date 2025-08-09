@@ -179,7 +179,7 @@ BERT's architectire is made up of layers of Transformer Encoder.
 +-----------------------------+
 ```
 
-### Masked Language Model (MLM)
+## Masked Language Model (MLM)
 + $ This model train by masking token (using `[MASK]`) and predicting the masked tokens. **Basically help model generalize language and understand context**. *kind of like human ngl*
 + ? Its randomly select a masked words in the sentence and the model must predict the right word given the left and right context.  
 ![[Pasted image 20250324103204.png]]
@@ -235,3 +235,4 @@ note: remmeber BERT embedding size is 768
 	- **Loss** is computed by comparing predicted positions vs. ground truth (e.g., start: TK10 → end: TK10).
 		
 	+ Finally **Backpropagation** to **update start and end token's weights**. 
+

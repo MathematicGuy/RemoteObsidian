@@ -2,50 +2,59 @@
 [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
-
 #TODO
 **Crucial**
+**ARETO PRINCIPLE (80/20)**
+- [x] Outline Blogs PySpark: [[AIO2025 - PySpark for Data Processing]]
+- [x] Làm bài tập PySpark
+- [ ] Quay nốt video edit
+- [ ] Ôn Tập Môn Khởi Nghiệp
 
-**Finish on This Week**
-- [ ] Statistic for Machine Learning (Start from Lesson 2 - Probability Distribution)
-	- [ ] Lesson 2 - Probability Distribution
-		- [ ] PMF, PDF and CDF
-		- [ ] Uniform, Normal Distribution. 
-	- [ ] Week 2 - Lesson 1 - Describing Distribution 
-		- [ ] Mean/Expected Value
-		- [ ] Median 
-		- [ ] Variance
-		- [ ] Standard Deviation
-	- [ ] Week 2 - Lesson 1 - Describing Distribution 
-		- [ ] Covariance, Covariance Matrix
-		- [ ] Correlation Coefficient
-		- [ ] Multivariate Gaussian Distribution
 
+**Top of the List Tasks** - [[organize.excalidraw]]
+
+| Task                                                                                                         | Description                                                                                                                             | Estimate Time Taken | Deadline |
+| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------- |
+| Blog M3W1D6                                                                                                  |                                                                                                                                         |                     |          |
+| Blog M3W1D7                                                                                                  |                                                                                                                                         |                     |          |
+| Deploy mcq-api to Docker                                                                                     |                                                                                                                                         |                     |          |
+| Deploy mcq-api to ASW                                                                                        |                                                                                                                                         |                     |          |
+| Pandas M3W1 Hw                                                                                               |                                                                                                                                         |                     |          |
+| KNN M3W2 Hw                                                                                                  |                                                                                                                                         |                     |          |
+| Revision Startup Knowledge                                                                                   |                                                                                                                                         |                     |          |
+| Organize my Explaination flow for HCM AI Base-Line web Dev Code Structure.                                   | Explain file and code structure and create a simple code flow for [example](https://chatgpt.com/c/6892cfd7-9210-8328-be72-23383b22b589) |                     |          |
+| Organize HCM task and work to assign work using LOGIC TREE and MECE (basically the same just diff structure) |                                                                                                                                         |                     |          |
+| Finish AIChallange Note                                                                                      |                                                                                                                                         |                     |          |
+| Cải tiến khả năng tự sort cho bảng công việc.                                                                |                                                                                                                                         |                     |          |
+
+**Eisenhower matrix**
+
+| **Impact/Feasibility** | **Low**                                                 | **High**                               |
+| ---------------------- | ------------------------------------------------------- | -------------------------------------- |
+| **High**               | **Consider**                     __<br><br><br><br><br> | **Do First**                        __ |
+| **Low**                | **Deperioritize**<br><br><br><br><br>                   | **Quick Wins**<br><br><br><br>         |
+
+**QUẢN LÝ KỲ VỌNG**
+-> Quản lý kỳ vọng cho những việc 20% cần làm. Ví dụ trước khi họp thì kì vọng buổi họp như thế nào ?  
+![[Pasted image 20250806144946.png| 644]]
 
 
 **Interest**
-- [ ] [Median - Understand Vector Similarity](https://medium.com/advanced-deep-learning/understanding-vector-similarity-b9c10f7506de)
-- [ ] SVD -> PCA
 - [ ] [FocusMate](https://www.focusmate.com/science/)
 - [ ] [[MIT Deep Learning]]
 - [ ] Grounding for Hallucination, LLMCache for faster response time.
 - [ ] [Build AI Agent for Your Website](https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/)
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
-- [ ] Improve speaking by visualizing myself
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
-- [ ] [AI Project Demand](https://www.facebook.com/share/v/17BimAahPw/)
-- [ ] Bài tập BÁO CÁO PHẢN TƯ SAU KHÓA HỌC KHỞI NGHIỆP
 
 
 **Machine Learning**
-[[AIO 2024]]
 [[AIO 2025]]
 [[ML CheatSheet]]
 [Deep Dive to Deep Learning](https://d2l.ai/)
-note luyện code phần:
-+ Data Splitting
-+ Normalization
-+ Download Data -> Pre-Processing -> Code LeNet Model -> Train & Evaluation Function -> Train & Evaluate Model  -> Evaluate on Test Dataset -> Inititate Apps.
+
+**Datasets:** 
++ [ML Dataset Archive](https://archive.ics.uci.edu/datasets/?skip=0&take=10&sort=desc&orderBy=NumHits&search=&Types=Sequential)
 
 ****
 
@@ -87,7 +96,6 @@ note luyện code phần:
 + [[weekly report]]
 	+ [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
 
-
 #System
 - [ ] [[Intuition]]
 - [ ] [[Courses Pipeline]]
@@ -104,7 +112,6 @@ note luyện code phần:
 + Note: don't believe ChatGPT, learn from reliable source like LinkedIn or GeeksforGeeks.  
 
 
-![[Pasted image 20240611193343.png|]]
 
 **Type of thinker:** https://www.facebook.com/share/v/ugMCx8db4voZLUeW/
 **Income Comparison:** https://www.facebook.com/share/v/9s4BfrjrdE6XqYxW/
@@ -125,6 +132,3 @@ note luyện code phần:
 
 ![[515320397_1022983993383161_7186292225342398507_n.jpg|400]]
 
-
-Dataset: 
-+ [dataset archive](https://archive.ics.uci.edu/datasets/?skip=0&take=10&sort=desc&orderBy=NumHits&search=&Types=Sequential)

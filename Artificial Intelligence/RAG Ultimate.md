@@ -8,21 +8,27 @@
 + [[RAG system in Production]]
 + [[Multimodel RAG]]
 + [[LangGraph for AI Agents]]
++ [[Prompt Optimization]]
 
 ### [[LangChain]]
-
 ### [[RAG Implementation Documentation]]
-
 ### [[Context Engineering]] (NEW)
-
 
 **Code:**
 + [Multi-Model RAG](https://colab.research.google.com/gist/alejandro-ao/47db0b8b9d00b10a96ab42dd59d90b86/langchain-multimodal.ipynb#scrollTo=91106e31)
 + [RAG Multiple Choice](https://colab.research.google.com/drive/1KtWMSZP_sEifMIJ63eBYk3aWqgNyvN30#scrollTo=sDF9UemkiM9t)
 
+**Golden Courses for RAG from 0 to hero to production grade**
++ [mcq using databrick](https://www.rearc.io/blog/quizzes-with-rag-and-llms-on-databricks)
++ [LLM Chatbot With Retrieval Augmented Generation (RAG) and DBRX](https://notebooks.databricks.com/demos/llm-rag-chatbot/index.html)
+
 ### Tools: always ask what problems do they solve ? 
 [[LangChain]]
 [llm prompting website](https://learnprompting.org/docs/basic_applications/mc_tutorial)
+[Free fine-tune model for faster performance](https://huggingface.co/unsloth/Qwen2.5-7B-Instruct-bnb-4bit)
+[databrick](https://dbc-3fe06193-c2eb.cloud.databricks.com/?autoLogin=true&o=3785398076682090&dbx_source=www)
+[short-guide to prompt-engineering](https://maliknaik.medium.com/prompt-engineering-for-small-llms-llama-3b-qwen-4b-and-phi-3-mini-de711d38a002) 
+
 
 **Langchain:** provide basic components for a AI application. (e.g. API connection between model, Prompting, human to model Responses).  
 ![[Pasted image 20250618070959.png| 600]]
@@ -79,4 +85,8 @@
 
 **Full-Stack RAG Web App Architecture Overview**
 ![[518011308_1297923515669551_604386552809920044_n.jpg]]
+
+
+**Fine-Tune or Not**
+![[Pasted image 20250720195533.png]]
 

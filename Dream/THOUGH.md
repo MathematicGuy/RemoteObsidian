@@ -158,3 +158,38 @@ Think I realize after marriage for 10 years: https://www.facebook.com/share/v/19
 
 I have been long creating this habits where I would watching mindless video, doomscroll every time I get too tired. This is the biggest barrior between me and my bestself. Before my birthday, I will take back my life by trying my best. This time for once, I'll really living live. 
 
+### 19/7/2025
+Such an exhausting morning with my brother Tai....
+
+### 21/07/2025:  End of 40 days
+You are the best de-motivation speak I've ever had. Out of everyones you and mom are the only who made me forget my dream.
+
+Nonetheless you strive high enough to made me proud, although there some disapointment in it...but that life, there're always flaws in what people called perfection.
+
+I hope you can fully enjoy peace in heaven, you always told us that you want to retire so bad.
+Rest in peace father, see you again soon in another life. I love you.
+
+### 23/07/2025: 36 hours of writing AIO docs marathon
+
+Feeling pround, motivated, flow state is hier. Just do it, not avoiding it. Face the True. Pain is un-avoidable. 
+![[Pasted image 20250723004651.png]]
+
+### 25/7/2025: Is AI actually thinking if it have Intuition
+
+Intuition is sth that you sense that cannot be teached to other, that what people say. 
+
+But, what if you can teach people a framework that develop their intuition. Like how scientist and mathematics stimulate THINKING in AI ?
+-> If you can replicate the sense of intuition, or just approximate it. Does that mean Intuition can be teach ? or instead of asking how can I have their Intuition, asks what material that I need do develop their sense of intuition. 
+
+**Good intuition vs Bad Intuition:** with that same materials and resources, ppl with good intuition can invented and develop way more ideas in their mind. Again, *the "how can I have his intuition at this moment" is not what importance, its the "what can I do to develop my intuition to be closer to him or high as him".*
+
+
+### 30/07/2025
+Hurray, finally its my birthday. 
+
+To myself. I glad you make that one decision for recognizing the only way to be happy is to live a hard life and simply enjoy its.  
+
+To my younger self, don't force just be with the flow, 
+
+About note taking: https://youtu.be/b5MxrCKohxw?si=It8jCIyJD61gwGzi
+
