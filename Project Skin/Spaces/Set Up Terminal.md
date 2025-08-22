@@ -16,21 +16,21 @@ huvix.omp.jsone
 ```
 winget upgrade JanDeDobbeleer.OhMyPosh -s winget
 ```
-kali.omp.jsone
-zash.omp.jsone
-tokyonight_storm.omp.jsone
-the-unnamed.omp.jsone
-star.omp.jsone
-smoothie.omp.jsone
-sim-web.omp.jsone
-robbyrussell.omp.jsone
-patriksvensson.omp.jsone
-pararussel.omp.jsone
-neko.omp.jsone
-negligible.omp.jsone
+kali.omp.json
+zash.omp.json
+tokyonight_storm.omp.json
+the-unnamed.omp.json
+star.omp.json
+smoothie.omp.json
+sim-web.omp.json
+robbyrussell.omp.json
+patriksvensson.omp.json
+pararussel.omp.json
+neko.omp.json
+negligible.omp.json
 emodipt-extend.omp.jsone\emodipt-extende]8;;e\
 
-
++ @ Basically *Create Profile -> add "oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\negligible.omp.json" | Invoke-Expression" to the profile -> Save profile.*
 1) **Get Profile**
 ```bash
 notepad $PROFILE
@@ -56,10 +56,10 @@ Ex:
 C:\Users\boboi\OneDrive - CMC University\Documents\WindowsPowerShell
 ```
 
-**2.1) Add the path to your profile****
-***PROFILE.txt*
+**2.1) Add the path to your profile***
+*Microsoft.PowerShell_profile.ps1*
 ```bash
-oh-my-posh init pwsh --config 'C:\Users\boboi\OneDrive - CMC University\Documents\WindowsPowerShell' | Invoke-Expression
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\negligible.omp.json" | Invoke-Expression
 ```
 
 3) **Save the Profile**
