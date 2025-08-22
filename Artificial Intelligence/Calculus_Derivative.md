@@ -10,16 +10,17 @@ We would like to train the Model to tweak the classifier line to this position.
 ## Motivation to Derivatives - Part 1
 + $ Goal: **find the rate of change between 2 points**
 ![[Pasted image 20240710075538.png]]
-> No, you calculate the speed by the distance t travel by the time: v = s / t
+> How to know if the car moving at a constant speed, you can calculate the speed by the distance `t` travel by the time: `v = s / t` between 2 times period A and B.
 > Or calculate the distance it travel after a period of times.
 + ? In simple term: **Rate of Change**
 > ![[Pasted image 20240710075744.png]]
 
-+ ? **Problem**: what if we move point A to point B closer and closer....
++ ? **Problem**: what if we move point A to point B closer and closer.... (Làm sao để tính vận tốc tại 1 mốc thời gian, khi ta chỉ có thông tin về khoảng thời gian. Từ trung bình, ước lượng -> chính xác)
 > We can calculate the the average speed between a time interval and distance by dividing the changes in distances to times. **rise (y) over run (x)**
 ![[Pasted image 20240710080116.png]]
 
-+ ? But, can we estimate the velocity of the car at time t = 12.5. Let's try using the slope 
+
++ ? But, **can we estimate the velocity of the car at exactly t = 12.5.** 12.5 seem quite close to the speed from 12 to 13. Let's try using the slope 
 	![[Pasted image 20240710080426.png]]
 	![[Pasted image 20240710081706.png]]
 	So the speed is more accurate this time. When we make the interval of time (t) and 
@@ -28,13 +29,12 @@ We would like to train the Model to tweak the classifier line to this position.
 	+ $\Delta t$ **: range between t1 and t2.** The closer 2 point are the smaller $\Delta t$ become. (The same as y, but it name is "t")
 	-> Thus derivative is when $\Delta$ value reaching 0. e.g. $\Delta x \to 0$
 	![[Pasted image 20240710082554.png]]
-	And if we put the interval to be super close to each others. You get the limit which is dx over dt and that is **precisely the tangent line to the curve at t equals 12.5
+	And if we put the interval to be super close to each others. You get the limit which is dx over dt and that is **precisely the tangent line (đg tiếp tuyến) to the curve at t equals 12.5
 	![[Pasted image 20240930020758.png]]**
 	+ $ **Instantaneous rate of change is a measure of how fast the relation between two variables is changing at any point**. In other words, **imagine you move a tiny distance, dx in a tiny interval of time dt**. This is the instantaneous rate of change. -> It's also called **Derivative.**
 
-> Like anything else, v = 0, if no distance changes in time.
-![[Pasted image 20240710084453.png]]
-![[Pasted image 20240710084453.png]]
+> Like anything else, V = 0 <-> s / t = 0, if no distance changes in time. ![[Pasted image 20240710084453.png]]
+>![[Pasted image 20240710084453.png]]
 
 
 ## Derivatives and their notation
@@ -47,12 +47,14 @@ We would like to train the Model to tweak the classifier line to this position.
 ![[Pasted image 20240710085528.png]]
 
 ### Development of Derivative Function
++ @ Summary: **$$\frac{\text{Change of X}}{\text{Change of Y}}$$ Simplified the fomula for the line function -> Derivative Fomula.**
+
 + ? [[Slope]] is the changes of rise over run. Using Pythagorean, we conclude that $\frac{\nabla y}{\nabla x} = a$ 
 ![[Pasted image 20240710093127.png]]
-So when 2 points are so close to each other it like they're in 1 position. We can say that f(x)' = a. Let's proven it more clearly
+So when 2 points are so close to each other it like they're in 1 position. We can say that `f(x)' = a`. Let's proven it more clearly
 ![[Pasted image 20240710085720.png]]
-we have f(x) = y(x) as the line function
-The 1st point have x as x and y as ax + b (typical line's function)
+we have `f(x) = y(x)` as the line function
+The 1st point have x as x and y as `ax + b` (typical line's function)
 The 2nd point have  x as (x + $\nabla x$) so y must be a(x + $\nabla x$) + b
 + $ Now, apply the derivative for those 2 points. we achieve:
 ![[Pasted image 20240710090540.png]]
@@ -93,7 +95,6 @@ So the result is as close as $3*0.5^{2} \approx 0.75$. This seem true since the 
 
 
 ## The Inverse Function and Its Derivative
-
 If a function does a thing, the inverse function inverse that thing:
 + ? F(x) turn 1 to 5. So the inverse of F(x) will turn 5 into 1
 ### Inverse function
@@ -142,6 +143,8 @@ $\frac{\Delta(\sin x)}{\Delta x} = \cos x$  and  $-\frac{\Delta(\cos x)}{\Delta 
 ![[Pasted image 20240712103604.png]]
 
 ## Meaning of the Exponential (e) 
+Use 1 because it present 100%. $$1 + 1 * \frac{1}{n}$$ where $\frac{1}{n}$ is the profit percentage + original money. 
+
 ![[Pasted image 20240712162717.png]]
 
 ![[Pasted image 20240712163316.png]]
@@ -236,7 +239,8 @@ So as the velocity![[Pasted image 20240717095441.png]]
 ![[Pasted image 20240717095537.png]]
 ![[Pasted image 20240717095605.png]]
 
-### The Product Rule
+### The Product Rule 
++ @ Describe the changes between 2 dimension or variables. 
 $f = gh$ then $$f' = g'h + gh'$$
 ![[Pasted image 20240717095942.png]]
 Let look at the house from the top
@@ -244,8 +248,8 @@ Let look at the house from the top
 + ? As $\Delta t$ come closer to 0. $\Delta g(t), \Delta h(t)$ become neligible (so small that it doesn't even matter). Well because it is the derivative (g' as the y' and h' as the x'). Thus we can simplified it into $$f'(t) = g'(t).h(t) + g(t).h'(t)$$
 
 ### The chain rule (Product of a Product)
-Suppose you have a composite function f(g(x))f(g(x))f(g(x)), where:
-
++ @ Describe the changes of multipe variables. 
+Suppose you have a composite function $f(g(x))f(g(x))f(g(x))$, where:
 - $g(x)$ is an "inner function"
 - $f(u)$, where $u=g(x)$, is an "outer function"
 The **chain rule** states that the derivative of the composite function $g(f(t))$ with respect to t is
@@ -258,14 +262,14 @@ It call the chain rule bc you can composing function (hàm hợp) (put a functio
 ![[Pasted image 20240717101306.png]]
 
 **Intuition behind chain rule:**
-(Mqh giữa sự biến thiên của 2 tính năng/đặc điểm)
-To understand this intuitively, think of the output of $g(h(t))$ changing as t change:
++ @ (**Mqh giữa sự biến thiên của 2 features/đặc điểm**)
+To understand this intuitively, think of the **output of $g(h(t))$ changing as t change:**
 1. When **x change by a small amount**, the inner function **h(t)** change by a certain rate $h(t)'$.
-2. The change in **h(t)** also affect the composite function $g(h(t))$ , depending on how sentitive $f$ is to changes in its input $f'(g(h(t)))$
+2. The change in **h(t)** also **affect the composite function $g(h(t))$** , depending on how sentitive $f$ is to changes in its input $f'(g(h(t)))$
 ![[Pasted image 20240717101430.png]]
-In other word, you want to know how much $g(f(x))$ change in response to small change in $x$. And to do that you need to consider how $f$ change with respect of $x$, how $g$ change with respect of $f$.
+In other word, **you want to know how much $g(f(x))$ change in response to small change in $x$**. And to do that you need to consider how $f$ change with respect of $x$, how $g$ change with respect of $f$.
 
-The Derivative of the Temperature with Time is the Product of Tempreture with Height and Time with Height. 
+The **Derivative of the Temperature with Time** is the **Product of Tempreture with Height and Time with Height.** 
 ![[Pasted image 20240717101648.png]]
 As $Delta T \to 0$
 (note: Derivative is just the changes between 2 points) 

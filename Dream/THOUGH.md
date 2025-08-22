@@ -193,3 +193,118 @@ To my younger self, don't force just be with the flow,
 
 About note taking: https://youtu.be/b5MxrCKohxw?si=It8jCIyJD61gwGzi
 
+### 10/8/2025
+
+My Eternal grateful to all of my AIO2025 Teammate Thanh Ha Nguyen Huan Pham Linh Vũ Nguyễn Ái Phương Trần Anh Tùng for our success :)) You guy are the GOAT.
+
+__Here a little bit of cringe, just don't hold your breath, okay ?__
+
+When ours journey started 5 months ago, I didn't feel the confidence about doing anything great except for continue to push forward and hoping that I could find that Spark in my life again. 
+
+Then one day, you all came like 5 salvation angels pulling me back up, and lit up my Passion and Desire for learning again ...something I had loss since High School. This feels like a feaver dream, although I really have Living My Dream Life right now.
+
+__More Thoughs and Grateful__
+You all show me something different from anyone else, you all take the steps where few would have the courage to go, endure working overnight to achieve ours goals and are always be there when anyone in need, your work ethics make me cry. WOAH, there's so much positivety I really coudn't listed them all. Once again, thank you so much !!!
+
+You’re truly that one friend whom I’ve been longing for — the one who dares. If money were created to buy happiness, then right now I'm the richest man alive
+
+### 12/8/2025: Interesting Facebook Post:
+
+Lưu ý, bài viết này không đơn thuần thuật lại lời của Bret Taylor, mà còn có cả góc nhìn cá nhân của mình.
+
+I. Sự thành thật trong câu chuyện ta kể cho bản thân
+
+Bret Taylor kể về một sai lầm chí mạng của ông ấy khi xây dựng FriendFeed.
+
+FriendFeed là nền tảng để người dùng cập nhật tất cả những thông tin mới nhất, từ những người họ muốn kết nối, cho đến những trang blog họ theo dõi, những thông tin họ bookmark,…
+
+Bởi vì hầu hết đội ngũ của FriendFeed là những kỹ sư từ Google, nên họ rất tự tin vào sản phẩm.
+
+Trong khi hệ thống của Twitter thường xuyên sập, hệ thống của FriendFeed thường chạy ổn định 24/7.
+
+FriendFeed còn là bên đầu tiên tạo ra nút like.
+
+Tuy nhiên họ vẫn thua.
+
+Lý do là bởi khi họ không có nhiều người dùng, họ vẫn đinh ninh rằng lý do là vì sản phẩm và vẫn đâm đầu vào cải thiện công nghệ lõi.
+
+Trong khi đó, vấn đề không chỉ nằm ở mỗi sản phẩm.
+
+Trên thực tế, với một mạng xã hội cập nhật thông tin, việc có người nổi tiếng sử dụng là rất quan trọng, vì đây là những người ai cũng muốn follow để cập nhật.
+
+Trong khi Twitter thu hút được những người như Oprah Winfrey, Justin Bieber, Obama,… Friendfeed vẫn bỏ qua khía cạnh marketing để tập trung hoàn toàn vào sản phẩm.
+
+Kết quả là Friendfeed trở thành một mạng xã hội nửa vời, để cập nhật thông tin thì không bằng Twitter, mà để kết nối thì lại không bằng Facebook.
+
+FriendFeed thua là bởi họ đã quá dễ dãi trong câu chuyện họ kể cho bản thân. Vì họ là những người làm sản phẩm, rất dễ để họ đổ lỗi sự thất bại của mình cho sản phẩm.
+
+Bret khuyên rằng:
+
+Khi tự hỏi lý do tại sao sản phẩm thất bại, đừng vội tin vào câu trả lời hiện ra nhanh và dễ dàng nhất trong đầu bạn, bởi đó khả năng cao là câu trả lời sai. (Mình đang diễn đạt lại chứ không trích nguyên văn)
+
+Không chỉ trong kinh doanh, mà trong cuộc sống cũng thế.
+
+Để tăng tốc độ học từ những trải nghiệm, bạn nên tránh gắn liền bản thân với bất kỳ “câu chuyện” nào.
+
+Nếu bạn luôn tự cho mình là người thông minh, khi người khác chửi bạn ngu, bạn sẽ bị sự giận dữ choán hết tâm trí, không còn đủ chỗ để tự hỏi “hành động nào của mình khiến người khác nói vậy”.
+
+Nếu bạn tự cho mình là một người không giỏi toán, bạn sẽ mất đi cơ hội hiểu được bản chất của những hệ thống phức tạp như trí tuệ nhân tạo, hay vĩ mô hơn là quy luật tự nhiên.
+
+Đối với mình, chỉ có một câu chuyện duy nhất mình chắc chắn khi kể về bản thân, đó là:
+
+“Tôi là người ham học hỏi”.
+
+Mình sẵn sàng làm nhận bất kỳ lời chửi bới nào, miễn là mình có cơ hội học.
+
+II. Nhận lời khuyên
+
+Bret chia sẻ rằng một trong những lý do FriendFeed thất bại là bởi họ không nhận (hoặc không chịu nhận) lời khuyên từ những người ngoài cuộc, những người sẵn lòng nói cho họ sự thật họ có thể không muốn nghe, nhưng cần nghe.
+
+Ngoài ý kiến của bản thân, lắng nghe lời khuyên của người khác cũng rất quan trọng, vì họ có thể giúp ta chỉ ra những điểm mù tư duy.
+
+Tuy nhiên, một câu hỏi cũng không kém phần quan trọng là:
+
+“Chọn lời khuyên của ai để nghe?”
+
+Có một sự thật trong 10 lời khuyên bạn nhận được, thường chỉ có một lời khuyên đáng tin cậy, còn lại là bullshit.
+
+Ta cần chú ý rằng sự tự tin của người nói ra lời khuyên không có quan hệ nhân-quả với tính chính xác của lời khuyên đó.
+
+Nhiều người nói năng lắp ba lắp bắp, nhưng nếu chú ý nghe sẽ thấy lời khuyên của họ thực có giá trị.
+
+Trong khi đó, có những người nói năng mượt mà như gió thổi vào tai, nhưng nếu chú ý kỹ sẽ thấy lập luận có nhiều khúc gãy. Như kiểu mấy con LLMs như GPT hay hallucinate.
+
+Một cách chúng ta có thể làm là tìm lời khuyên từ không chỉ một mà nhiều người khác nhau, sau đó tiếp tục lọc chúng qua 3 câu hỏi sau
+
+1) Tại sao lời khuyên đó lại hiệu quả với người đưa ra lời khuyên. Bối cảnh của họ trong thời điểm đưa ra lời khuyên đó là gì. Một lời khuyên có thể hiệu quả đối với một công ty đã có quy mô triệu đô, nhưng chưa chắc hiệu quả với Start-up giai đoạn đầu.
+
+2) Điểm chung của những lời khuyên bạn nhận được là gì? Nếu có một điều bạn nghe đi nghe lại từ nhiều người khác nhau, thường đó là một điều đáng lưu ý.
+
+3) Lời khuyên đó có khiến bạn cảm thấy thoải mái không? Nếu có… bạn cần phải cẩn trọng vì có thể cảm giác thoải mái đó được tạo ra bởi “thiên kiến xác nhận” - bản năng tìm kiếm những điều tương tự với niềm tin sẵn có - của con người.
+
+Thường những điều nào khiến bạn thấy khó chịu đều đáng để bạn dành thời gian suy nghĩ thêm.
+
+Sau khi lọc những lời khuyên bạn nhận được qua 3 “phễu” này, bạn chưa chắc sẽ tìm được một lời khuyên hoàn toàn chính xác, nhưng ít nhất cũng tăng thêm ít nhất 60% khả năng.
+
+Mục tiêu không phải là tìm được một lời khuyên đúng nhất, mà là chắt lọc từ những lời khuyên ta nhận được.
+
+III. Cách tốt nhất để dự đoán tương lai là xây dựng nó
+
+“The best way to predict the future is to invent it"
+
+Đây là câu “khẩu quyết” yêu thích của Bret Taylor, và cũng là lý do ông tham gia vào tạo dựng rất nhiều doanh nghiệp.
+
+Nếu bạn không biết, Bret còn từng là người dẫn dắt team tạo ra Google Map, cựu CTO của Meta, Cựu CEO của SalesForce, board member của Shopify, và Co-founder của Sierra.
+
+Đây cũng là lý do dạo này mình học rất nhiều về AI, và tham gia một early-stage Start-up để đóng góp cho sự phát triển của họ.
+
+Mình không muốn chỉ là người quan sát sự phát triển của công nghệ và nhân loại, mình muốn tham gia xây dựng một điều gì đó có ích cho xã hội.
+
+Nếu chỉ ở nhà đọc sách và viết lách, mình sẽ bị thiếu đi góc nhìn thực tiễn, và kỹ năng thực hiện hóa những ý tưởng của mình.
+
+Mình còn rất trẻ, còn rất nhiều điều cần phải học, nhưng mình sẽ không ngừng tiến về phía trước.
+
+
+### 22 / 8 / 2025
+[Devil's Advocate](https://youtube.com/shorts/uzSKEas2BTg?si=VJZmEnNtbjvEuPAP) - **Talent means nothing if pressure make you crumble.** Some people you squeeze, they focus, others fold. 
+

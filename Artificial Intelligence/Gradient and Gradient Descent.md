@@ -7,16 +7,12 @@ Tangent Plane: mặt phẳng tiếp tuyến
 	![[Pasted image 20240805104205.png]]
 
 ### Partial Derivative - Part 1 (Đạo hàm riêng)
-+ ? **A partial derivative is derivative taken with respect to 1 variable while keeping all other variables constant.** It is used when u are dealing with functions with multiple variable.
-> In simpler terms, partial derivative mean to calculate the derivative of each variable, it measures how a function changes as 1 of its variables changes, while others remain fixed.  
++ ? **A partial derivative is derivative taken with respect to 1 variable while keeping all other variables constant.** It is **used when** u are dealing with **functions with multiple variable.**
+> In simpler terms, partial derivative mean **to calculate the derivative of each variable**, it **measures how a function changes as 1 of its variables changes**, while **others remain fixed.**  
 	![[Pasted image 20240805102659.png]]
 	![[Pasted image 20240805102942.png]]
 + $ Treat the not derivative one as a Constant. Ex: Derivative of x, see y as a constant. 
 	$f_{x} = 2x$ and $f_{y} = 2y$
-
-```ad-check
-
-```
 
 ### Partial Derivative - Part 2
 $f(x, y) = 2x^2y^3$
@@ -69,7 +65,7 @@ plug the answer back to the 2nd equation -> get b
 >Which use to solve a problem where you have a bunch of points and
    you try to find the closest line to them
 ![[Pasted image 20240805160427.png]]
-+ ? Is there a easier way to do this => Gradient Descent 
++ ? Is there a easier way to do this instead of calc func then calc partial derivative => Gradient Descent 
 [[Partial Derivative and Gradient HW]]
 
 ## Optimization using Gradient Descent in 1 Variable
@@ -87,7 +83,7 @@ Knowing the answer x=0.5671, is there a much easier way to approach this problem
 	By moving in the opposite direction, we can always move downhill towards the minimum point. 
 		![[Pasted image 20240930104249.png]]
 	
-+ If the function in a very steep part of the curve. The derivative will be large (i.e large right over run) so we would want to control how big a steep we take in that direction. To do that we simply multiply the function with $\alpha$ (as learning_rate). 
++ If the function in a very steep part of the curve. The derivative will be large (i.e large right over run) so we would want to control how big a steep we take in that direction. To do that we simply multiply the function with $\alpha$ (as learning_rate). - multi alpha so each step is smaller & smaller as the function getting smaller. 
 	![[Pasted image 20240809054927.png]]
 	
 + With $\alpha$, at steep slope, x can move modarate step without overshooting and move slower by default when approach the minimum (i.e. bc less rise over run).  Avoiding oscillations around it (giao động khiến phương trình khó hội tụ e.g. x văng trái, văn phải liên tục chứ ko tiến tới hội tụ)![[Pasted image 20240809054947.png]]

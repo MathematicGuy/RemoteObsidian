@@ -1,3 +1,6 @@
+reference source: https://mirror-feeling-d80.notion.site/Context-Engineering-for-Agents-21f808527b17802db4b1c84a068a0976
+
+
 + ? LLM is like the CPU and its Context Windown is RAM. How can we optimize so that only important information get feed into the LLM. Context Engineer allow u to reduce the scope from everything else to what you only want.
 + $ Describe the context so good that the AI can have the same awareness as human. By defining its:
 	+ **Define Tasks** the Agent should do. What to do step-by-steps.

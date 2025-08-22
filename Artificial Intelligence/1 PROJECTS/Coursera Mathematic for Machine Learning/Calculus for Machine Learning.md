@@ -8,14 +8,13 @@ Why Derivitive and Calculus -> Optimize function. Find Maximum and Minimum value
 ## [[Calculus_Optimization]]
 > [[Derivative and Optimization Test]]
 
-
-# Week 2: Gradient and Gradient Descent
+## Week 2: Gradient and Gradient Descent
 > Learn function with 2 or more variable. 
 > Using Gradient Descent to Optimize functions.
 ## [[Gradient and Gradient Descent]]
 + [[Linear Regression Using Gradient Descent Exercise]]
 
-# [[Week 3 - Optimization in Neural Network and Newton's Method]]
+## [[Week 3 - Optimization in Neural Network and Newton's Method]]
 
 ### [[Lesson 1 - Optimization in Neural Network]]
 ### [[Lesson 2 - Newton's Method]]

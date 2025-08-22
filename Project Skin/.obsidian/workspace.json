@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "c2ebf3d06b6234c7",
+            "id": "1e21e3834ef7bd3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO 2025.md",
+                "file": "Spaces/Set Up Terminal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AIO 2025"
+              "title": "Set Up Terminal"
             }
           }
         ],
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "d4e0f0887c876c66",
+            "id": "3bd31414506922df",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -239,6 +239,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": false,
@@ -251,7 +252,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c2ebf3d06b6234c7",
+  "active": "1e21e3834ef7bd3f",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "AIO 2025.md",

@@ -1,57 +1,34 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
-[DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
 #TODO
 **Crucial**
 **ARETO PRINCIPLE (80/20)**
-- [x] Outline Blogs PySpark: [[AIO2025 - PySpark for Data Processing]]
-- [x] Làm bài tập PySpark
-- [ ] Quay nốt video edit
-- [ ] Ôn Tập Môn Khởi Nghiệp
 
-
-**Top of the List Tasks** - [[organize.excalidraw]]
-
-| Task                                                                                                         | Description                                                                                                                             | Estimate Time Taken | Deadline |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------- |
-| Blog M3W1D6                                                                                                  |                                                                                                                                         |                     |          |
-| Blog M3W1D7                                                                                                  |                                                                                                                                         |                     |          |
-| Deploy mcq-api to Docker                                                                                     |                                                                                                                                         |                     |          |
-| Deploy mcq-api to ASW                                                                                        |                                                                                                                                         |                     |          |
-| Pandas M3W1 Hw                                                                                               |                                                                                                                                         |                     |          |
-| KNN M3W2 Hw                                                                                                  |                                                                                                                                         |                     |          |
-| Revision Startup Knowledge                                                                                   |                                                                                                                                         |                     |          |
-| Organize my Explaination flow for HCM AI Base-Line web Dev Code Structure.                                   | Explain file and code structure and create a simple code flow for [example](https://chatgpt.com/c/6892cfd7-9210-8328-be72-23383b22b589) |                     |          |
-| Organize HCM task and work to assign work using LOGIC TREE and MECE (basically the same just diff structure) |                                                                                                                                         |                     |          |
-| Finish AIChallange Note                                                                                      |                                                                                                                                         |                     |          |
-| Cải tiến khả năng tự sort cho bảng công việc.                                                                |                                                                                                                                         |                     |          |
 
 **Eisenhower matrix**
 
-| **Impact/Feasibility** | **Low**                                                 | **High**                               |
-| ---------------------- | ------------------------------------------------------- | -------------------------------------- |
-| **High**               | **Consider**                     __<br><br><br><br><br> | **Do First**                        __ |
-| **Low**                | **Deperioritize**<br><br><br><br><br>                   | **Quick Wins**<br><br><br><br>         |
+| **Impact/Feasibility** | **Low**                                                                                                                                                                                                                             | **High**                                                                                                                                                                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **High**               | **Consider**                     <br>Improvement: RAG Agent using RLAIF<br>[CLIP simple code](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb#scrollTo=C5zvMxh8cU6m)<br><br> | **Do First**<br>Multi Modality Embedding (extract science fomula, )                                                                                                                                                                        |
+| **Low**                | **Deperioritize**<br><br><br><br><br>                                                                                                                                                                                               | **Quick Wins**<br><br>Set up [Databrick](https://polite-girl-c97.notion.site/H-ng-d-n-t-o-t-i-kho-n-Databricks-cho-bu-i-h-c-Introduction-to-Data-Processing-with-Databricks-and--250b9d8a152780429515fd5d052572cd) before Saturday<br><br> |
 
-**QUẢN LÝ KỲ VỌNG**
--> Quản lý kỳ vọng cho những việc 20% cần làm. Ví dụ trước khi họp thì kì vọng buổi họp như thế nào ?  
-![[Pasted image 20250806144946.png| 644]]
 
 
 **Interest**
+- [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 - [ ] [FocusMate](https://www.focusmate.com/science/)
 - [ ] [[MIT Deep Learning]]
 - [ ] Grounding for Hallucination, LLMCache for faster response time.
-- [ ] [Build AI Agent for Your Website](https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/)
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
-
 
 **Machine Learning**
 [[AIO 2025]]
 [[ML CheatSheet]]
 [Deep Dive to Deep Learning](https://d2l.ai/)
+[When to use ML/DS](https://beryl-freckle-b85.notion.site/AIO2025-B-i-to-n-n-y-c-p-d-ng-c-ML-DL-hay-kh-ng-24e302d8792c80fe8b65dc9a3463148e)
+
 
 **Datasets:** 
 + [ML Dataset Archive](https://archive.ics.uci.edu/datasets/?skip=0&take=10&sort=desc&orderBy=NumHits&search=&Types=Sequential)
@@ -132,3 +109,5 @@
 
 ![[515320397_1022983993383161_7186292225342398507_n.jpg|400]]
 
+**Cool Stuffs**
+- [ ] [Building a web search engine froms scracht in 2 months](https://blog.wilsonl.in/search-engine/)

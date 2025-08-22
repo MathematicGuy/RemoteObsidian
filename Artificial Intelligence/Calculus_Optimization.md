@@ -44,7 +44,7 @@ or Left
 ![[Pasted image 20240724131032.png]]
 
 There are 2 ways to approach this: 
-+ ? Both use Product Rule then appiled the Chain Rule
++ ? Both use **Product Rule then appiled the Chain Rule**
 **Traditional method**
 ![[Pasted image 20240724134416.png]]
 **Logarithm**
@@ -53,7 +53,6 @@ Useful function in machine learning
 ![[Pasted image 20240724134515.png]]
 + ? The reason that we actually take **negative g of p instead of g of p** is that **logarithm of p is actually a negative number when p is in between zero and one.**
 + $ We want **negative g of p to be a positive number**, and instead of maximizing it, like we did here, we **minimize negative g of p.**
-
 
 **Why the Logarithm ?** because it optimize traditional derivative method. (Log compare to the traditional method is like compare GPU to a CPU). It allow to calc the derivative of all function at once. ![[Pasted image 20240724142312.png]]
 

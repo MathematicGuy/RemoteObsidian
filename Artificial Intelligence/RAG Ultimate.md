@@ -9,6 +9,7 @@
 + [[Multimodel RAG]]
 + [[LangGraph for AI Agents]]
 + [[Prompt Optimization]]
++ LangExact (free Entity, Relationship extractor)
 
 ### [[LangChain]]
 ### [[RAG Implementation Documentation]]
@@ -90,3 +91,5 @@
 **Fine-Tune or Not**
 ![[Pasted image 20250720195533.png]]
 
+
+![[532164314_24840484335536279_8672648987564453147_n.jpg| 500]]

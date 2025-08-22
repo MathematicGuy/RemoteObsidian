@@ -4,6 +4,7 @@ Usually the retrieval part. It's may be wrong or duplicate due to semantic searc
 
 
 
+
 There are *multiple complex factors in real-life documents contributes to the decrease in overall retrieveal accurary*, so various techniques are created to counter these issues:
 1) **Long Documents**
 	+ **Problem:** LLM context windown, token limitation, computing power lead to difficulty in processing and retrieving information from lengthy docs.
@@ -38,3 +39,9 @@ There are *multiple complex factors in real-life documents contributes to the de
 
 
 ![[506396273_687079714199523_2910371698844386261_n.jpg]]
+
+
+---
+
+**Problems:**
++ Spacing 

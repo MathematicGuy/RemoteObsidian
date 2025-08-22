@@ -69,7 +69,7 @@ by create subplot for loop each features (column) within the data (df)
 
 `.add_axes` -> create sub-plot within the main plot.
 
-### [[Box Plots]] (Already Explain)
+### [[Box Plot]] (Already Explain)
 ![[Pasted image 20250801210845.png]]
 Box Plot visualize Data Distribution and outlier.
 + ! Outlier do convey information -> so in reality, you don't alway remove outlier. 
@@ -141,3 +141,8 @@ Even More Type of Charts
 **Big Case Study: Uber Trips Analysis** 
 ![[Pasted image 20250801224022.png]]
 + ? How to visualize so that we get the Ideas in yellow.
+
+
+----
+
+

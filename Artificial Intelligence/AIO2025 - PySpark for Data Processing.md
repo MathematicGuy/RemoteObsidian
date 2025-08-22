@@ -1,6 +1,5 @@
 ## Phần 1. Big Data là gì ?
-1) Thử Thách -> Động Lực của BigData đối vs tăng trưởng mạnh của Internet  
--> Dữ liệu được gọi BigDSpark  
+Thử Thách -> Động Lực của BigData đối vs tăng trưởng mạnh của Internet  -> Dữ liệu được gọi là  Big Data khi   
 
 Big Data Framework we learning today
 ![[Pasted image 20250807202436.png|444]]
@@ -9,76 +8,19 @@ Big Data Framework we learning today
 
 Preprocessing data
 	**Streaming (real-time data)** coming from mobile app like facebook, X (Twitter) -> Kafka.
-	**Static Data (already downloaded data)** - index and process with Elastic Search
-**Env to RDD
-
-**HDFS:** giải thích cách Hadoop hoạt động 
-![[Pasted image 20250807235352.png|444]]
-**Map Reduce**
-![[Pasted image 20250807235418.png|444]]
-
-
-**Spark RDD (Resilient Distributed Dataset)**
-Note: Explain RDD with python function terminology.
-+ $ Transform data into each Partition, e.g. each data within a list get transform into a partition independently. Not like multi-threading where all thread share the same memory.
-+ $ RDD is an Action. 
-+ ? If a RDD i.e. Action fail, then it take data from RDD2 to recalculate.
-![[Pasted image 20250807212103.png|533]]
-Mỗi dữ liệu, biến trong mảng được chia vào 1 partition.
-
-
-Ensured Partition to not broken. 
-![[Pasted image 20250807204407.png|544]]
-
-Each `RDD_n` perform a different task. So if a RDD_2 fail, we only have to re-perform RDD_2, not RDD_1.
-![[Pasted image 20250807204215.png]]
-
-+ $ Hadoop vs PySpark và tác vụ chuyên dụng của chúng
-![[Pasted image 20250807204603.png|544]]
-**Hadoop shuffle** -> if 1 step fail -> re-do all over again. (process linearly) - **1 system optimizing 1 tasks.**
-**Spark divided to multiple RDD_d for each task**, this allow stable processing. If 1 step fail, only that step need toPySpark
-Apache Spark provide tools for Data Sciecne, Engineering and Machine Learning.
-	MLflow for version and meta data ![[Pasted image 20250807204847.png| 344]]
-	![[Pasted image 20250807204953.png|433]]
-	![[Pasted image 20250807205002.png| 344]]
-
-Infrastructure create for initializing system e.g. Spark, Kubernetes for resource magement.
-
-+ ? RDD is above Apache Spark Core API
-![[Pasted image 20250807205020.png|344]]
-Newest Spark version have another layer name Spark Connect above Tools.
-
-SparkSQL integrate SQL queries to perform retrieval data like Parquet, Json, Csv.
-
-MLib integrate algorithm for ML training, features extraction, tools for building pipelines. ![[Pasted image 20250807205240.png]]
-
-**Spark Streaming** -> efficient real time data processing
-	**Streaming** mean **data get generate rapidly** in real-time.
-![[Pasted image 20250807205342.png|444]]
-
-**Spark GraphX** -> for parallel execution, for graph analytical engine
-![[Pasted image 20250807205436.png|444]]
-
-Spark Connect - protocol for connect application with remote Spark server. (giao thức kết nối như TCP-IP)
-	Why connect ? for submit data to Spark server. 
-	1. establisth connect
-	2.  translate query to logical plan, not processing but filter query as logical plan.
-	3.  seriealize query
-	4. perform query
-![[Pasted image 20250807205749.png|444]]
-Spark Conenct **version:** **3.5.1**
+	**StatiConnect version: 3.5.1
 
 ## Phần 3. Pyspark: python version of spark - Áp dụng Spark trong Python
+
 Common error when connecting Spark: **v4.0.0** -> set-up with **v3.5.x**
 ![[Pasted image 20250807205831.png|544]]
-
 Kiến trúc tương tự như Spark. Cũng có RDD và tools.
 ![[Pasted image 20250807205927.png|344]]
 
 ### Giải thích RDD hoạt động rõ hơn với PySpark
 ![[Pasted image 20250807210700.png|544]]
 Without Action Transformation stay in 1 stage, thus didn't evolve/transform.
-
+w
 
 RDD comming partition like Disk. Parallelize data -> Partialize data for parallel processing.
 ![[Pasted image 20250807211053.png]]
@@ -121,12 +63,14 @@ Repartition -> gộp lại.
 
 **Lazy Evaluation** - doesn execute immediately, but build a Execution plan (DAG or Directed Acrylic Graph) of the operation. 
 	hold the evaluation process of an expression untils its value is needed, this avoid repeated evaluations.
-
+	
 Checkpoint - checkpoint for error. almost like git or cache. (When DAG is too long or error prone)
+
 ### Đi Qua các Phương Pháp Tối Ưu PySpark
 
 
-### So sánh Flow hoạt động của Sklearn và PySpark để dễ hơn
+
+## Phần 4. So sánh Flow hoạt động của Sklearn và PySpark để dễ hơn
 **Different Name, Same Function for ML**
 In sklearn, we have  
 ![[Pasted image 20250807220355.png]]

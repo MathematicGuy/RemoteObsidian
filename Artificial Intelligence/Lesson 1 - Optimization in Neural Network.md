@@ -10,7 +10,6 @@ alternate to gradiend descent called Newton's method (very fast and useful)
 ![[Pasted image 20240926151419.png]]
 ![[Pasted image 20240926152102.png]]
 
-
 Using Gradient Descent to find Loss Function, we first need to find the Partial Derivative of $\hat{y}$. Apply the chain rule, there are 3 partial derivative for each constant:
 ![[Pasted image 20240926152432.png]]
 Loss function: $\frac{1}{m}\left(Y- \hat{Y}\right)^2$.
@@ -19,8 +18,9 @@ Loss function: $\frac{1}{m}\left(Y- \hat{Y}\right)^2$.
 
 Let simplied this for what need to be calculated:
 ![[Pasted image 20240926153352.png]]
+
 ![[Pasted image 20240926153335.png]]
-Let update these Partial Derivative to find w1, w2 and b
+Let update these Partial Derivative to find w1, w2 and b 
 ![[Pasted image 20240926153510.png]] 
 
 ### Classification with Perceptron
@@ -31,7 +31,7 @@ We have a word table contain 2 unique word with their repeated time. Since our m
 >Now we need a function represent the line which divide the plot if emotion are happy or sad (0 & 1)
 ![[Pasted image 20240927090004.png]]
 
->Our perceptron will have 2 nodes: W_1 and W_2 determine how important any other features are, say the word `aack` is really **correlated with happiness** then **W_1 going to be a larger number**, if `beep` is really **irrelevant (ko liên quan)** then **W2 is going to be a small number**.
+>Our perceptron will have 2 nodes: `W_1` and `W_2` determine how important any other features are, say the word `aack` is really **correlated with happiness** then **W_1 going to be a larger number**, if `beep` is really **irrelevant (ko liên quan)** then **W2 is going to be a small number**.
 + ? **How can we turn entire number line 0 and 1**, we're going to use what's called the activation function, denoted by the letter **Sigmoid of z**
 ![[Pasted image 20240927085639.png]]
 
