@@ -385,7 +385,6 @@ Im dem - in the
 	Im dem Stadviertel - in the neighborhood 
 
 ## Unit 10: Form Compound Words 
-
 Lieblingsteam - favourite team 
 Lieblingsband - favourite band 
 Wollen want to 
@@ -407,7 +406,7 @@ Treffen meet
 
 ![[Images/Untitled.jpg]]
 Wichtig - important
-Aufhören - end
+Aufhören -   
 Höft Auf - stop
 
 Fängt start (3rd person present tense of the verb "fangen" which mean to capture)Uns
@@ -464,4 +463,42 @@ Ruf - 'to call' or 'to shout' in a more general term (use when talking about som
 	
 Anrufen (v) is a specific verb used for "to call" in the sense of telephoning,
 
+Zugtür - train door
+Hinten - back
+	Is der zugtür in der hinten
 
+## Revision
+Abfahr departure 
+Erdbeeren strawberries
+Gut Schmeck - taste good
+	Schmeck taste
+Schicken store
+Überraschung suprise
+
+Lied - song (like lie in English but read as lead)
+Mitbringen - (bring) along
+Singen sing
+	Ich will meinem Opa ein lied singen, Kanst du deine Gitarre mitbringen - I'm going to sing a song with my father can you bring the guitar along
+
+Ich gebe immer geld, das ist immer praktisch
+	gebe is the first-person singular form of geben. meaning "to give"
+
+Bestellen order (stuff) 
+Ja, ich kann die Ohrringe online bestehen  
+	yes, I can order the earing online 
+
+alle all
+Gäste guest 
+Ich kenne alle eure Gäste hier
+
+Einladung invitation 
+Who kommt mit / who is comming
+
+Ausverkauftsold out -> excluded purchase (make sense)
+	Ausver excluded
+	Kauf buy / purchase 
+Eintriskartten - admission ticker (proof of payment, like cinema ticket)
+Basketballspiel basketball game
+Schade too bad
+Lieblingsteam favourite team
+	Die Einstriskarten sind ausverkauft, Schade das ist meine lieblingstream  
