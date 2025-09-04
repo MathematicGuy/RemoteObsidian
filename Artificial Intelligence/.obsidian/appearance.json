@@ -3,8 +3,8 @@
   "translucency": false,
   "baseFontSizeAction": true,
   "cssTheme": "Everforest Enchanted",
-  "theme": "obsidian",
-  "baseFontSize": 17,
+  "theme": "moonstone",
+  "baseFontSize": 16,
   "nativeMenus": true,
   "enabledCssSnippets": [
     "custom-bg"

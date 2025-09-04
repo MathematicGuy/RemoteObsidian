@@ -2,8 +2,9 @@
 
 ### [[AIVNRG25 - Act 1.2 Research]]
 **67. Rlaif: Scaling reinforcement learning from human feedback with ai feedback**
-	https://drive.google.com/file/d/1AzGsVo_bo7vjucusjI2jrugOHEAMAbrp/view?usp=sharing
 	Reinforcement learning, AI feedback, RLHF, large language models, model alignment.
+
+### [[Research Paper Research]]
 
 ### [[AIVNRG25 Research Topic Analysis for Job Alignment]]
 #### Mục tiêu của chương trình
@@ -51,20 +52,95 @@ Sự kiện hoạt động 1 là **bắt buộc với MỌI thành viên**.
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
 | ![[Pasted image 20250810161502.png# left]] | ![[Pasted image 20250810161542.png# left]] | ![[Pasted image 20250810161638.png# left]] |
 
-
-| Mã tổ đội | Mã TV/HTV  | Vai trò            | Họ và tên         | Tên Facebook                                                                                 | Link Facebook                                                             | Các lĩnh vực, khía cạnh, chủ đề quan tâm trong AI | Từ khóa Chuẩn hóa các lĩnh vực, khía cạnh AI |
-| --------- | ---------- | ------------------ | ----------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------- |
-| 1T1-27    | M25-325    | Thành viên         | Nguyễn Viết Quang | Nguyễn Viết Quang                                                                            | [https://www.facebook.com/qq2719/](https://www.facebook.com/qq2719/)      | GNN, Deeplearning, ChatBot, Agent                 | Lý thuyết AI/ML, NLP & LLMs, AI Agent        |
-| M25-337   | Thành viên | Nguyen Thi Thu Tam | Tam Socola        | [https://www.facebook.com/tam.socola](https://www.facebook.com/tam.socola)                   | AI Agent, LLM, NLP, GenAI                                                 | AI Agent, NLP & LLMs, Generative AI               |                                              |
-| M25-338   | Thành viên | Đỗ Đức Tâm         | Tam Do Duc        | [https://www.facebook.com/tam.doduc.54/](https://www.facebook.com/tam.doduc.54/)             | NLP, Agent, MLOps, LLMOps                                                 | NLP & LLMs, AI Agent, Vận hành Học máy (MLOps)    |                                              |
-| M25-352   | Thành viên | Đinh Nhật Thành    | D. Nhật Thành     | [https://www.facebook.com/post.elion.35/](https://www.facebook.com/post.elion.35/)           | NLP, CV (trong đó NLP > CV), AI Agent (automate a sequence of tasks), MoE | NLP & LLMs, Computer Vision, AI Agent             |                                              |
-| M25-364   | Thành viên | Huỳnh Văn Thịnh    | Văn Thịnh         | [https://www.facebook.com/huynhvan.thinh.144/](https://www.facebook.com/huynhvan.thinh.144/) | Multi-Agent Systems, Vision-Language, Agentic AI                          | AI Agent, Multimodal                              |                                              |
-| M23-287   | Thành viên | Trà Nguyễn         | Trà Nguyễn        | [https://www.facebook.com/nguyen.tra0721/](https://www.facebook.com/nguyen.tra0721/)         | embedding models, ai agents.                                              | NLP & LLMs, AI Agent                              |                                              |
-
-
-
 [Image Captioning with Transformers](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 	Image Captioning PyTorch, Encoder-Decoder model, Attention mechanism tutorial, Flickr8k dataset, CNN-Transformer image captioning.
 
 [OpenCLIP](https://github.com/mlfoundations/open_clip)
 	OpenCLIP tutorial, Contrastive learning, Zero-shot image classification, Image-text 
+
+---
+
+### Lecture 1: How to read an Research Paper 
+
+*Time for a paper to be accept:* may take from 6 months to 1 year or 2 years (worst case scenario) 
+1. Know how to read a research paper -> for insight and vision 
+2. Research direction should not be broad -> focus on 1 or few that is trending & *align with your personel opinion (Make sure you really like it)* 
+3. Relevant to you and your field of study. 
+4. Repeat: make sure the topic **Spark your Interest**. 
+
+![[Pasted image 20250823210215.png]]
+
+Paper *may be review for many times for fixing* (don't expect to be accept on the first place, there will be improvement) - also make sure to check with AI. 
+	There're *many types of reviewers,* some are harsh, some are nice, etc... you got the idea. 
+
+Your paper *can be accept at 1 journal but rejected by another journal.* Mostly because of format. 
+	Journal also recommend u should publish at .... journal if they have connection. 
+
+Journal Publication workflow.  
+![[Pasted image 20250823210228.png]]
+	Minor - fix a little bit about grammar
+	Major - fix a lot - shows your paper have gap. 
+
+**Note: Conference vs Journal (2 different writing format and method)**
+
+International Journal Types (bộ quy chuẩn tạp chí nghiên cứu) - các loại tạp chí
+![[Pasted image 20250823213043.png]]
+
+**Impact factor of a Journal** 
+![[Pasted image 20250823213703.png]]
+So if a Journal that are less popular with less people involve will have less Impact score eventhough it high quality. 
+	Make sure to check Publishcation and Citation for correct validation. 
+
+**h-index: Average Citation per Article** 
+h-index is define when your citation at index-$h$ have more citation then index-$h + 1$.
+![[Pasted image 20250823213952.png]]
+
+H10-index: among all publication by 1 author, 10 of these publication have received at least 10 citations each. 
+
+## Types of Plagiarism (các loại đạo văn)
++ $ Avoid Plagiarism by accident. 
+Please:
++ use proper citation
++ paraphrase
++ original writing
++ use plagiarism checker tool
+
+1) *Global plagiarism:* Ctr + C and Ctr + V. Copy 100%.
+	
+2) *Verbatim plagiarism:* copying 100% a part of text directly from another article.
+	Make sure to *cites original source* if you copy a small part of the article.  
+	
+3) *Paraphrase:* copy the same idea 100% and rewrite it.   
+	
+4) *Patchwork plagiarism:* copying multiple source then patch/stitching it together. - Turnitin can easily detect it. 
+	
+5) *Self plagiarism* - copying your own work ??? for publication purpose -> the same as doesn't contribute anything. 
+
+**Find a suitable journal**
+	Journal suggester from springer.
+
+**Research Paper Structure**
+![[Pasted image 20250823215314.png]]
+0. **Title** does the title spark your interest.
+	
+1. **Abstract**  summarize your paper in 100 - 150 words. 
+	
+2. **Conclusion**:
+	+ check if the research paper is valid/proper or not. Include the main finding
+	+ result for *research question* - *answer the research objective* -> sees if their method align with your research hypothesis and goal.   
+	+ result for *research objective* - profound or unexpected result ?  
+	+ *limitation or weakness of the study* mentioned in the conclusion. 
+	+ *reseach gap for future improvement* 
+	-> if the abstract and conclusion doesn't answer your problem or spark/align your interest. NEXT paper. 
+	
+3. **Introduction:** may include literature review
+	
+4. **Experiment Result:** to see does the presented result persude you ? -> *key finding visualization*, sees if the *dataset* is trustable or not, which *condition they're testing* 
+	
+5. **Proposed Method:** *match the current and past limitation as you reading through this*. Can you reproduce this method. 
+	
+6. **Finally: Related Work**
+	 *all the papers that lead to the idea of this paper,* relevant study in the past. Gap and limitation in the past this paper address. 
+
+
+

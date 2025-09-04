@@ -18,7 +18,7 @@ nhược điểm khi lấy Cố Định số Frames
 What a optimal Temporal Search Function ??
 
 ![[Pasted image 20250811202941.png|500]]
-Thuật toán so sánh độ tương đồng của Frames sau Frames hiện tại tới T Frames phía sau nó. (T giống như N, nhưng đại diện cho Temporal Frames)
+	Thuật toán so sánh độ tương đồng của Frames sau Frames hiện tại tới T Frames phía sau nó. (T giống như N, nhưng đại diện cho Temporal Frames)
 -> Độ tương đồng của T Frames liền kề phía sau. 
 
 T tối ưu ko bik là gì -> Giả định T bằng 0,1,2,3, ....

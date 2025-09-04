@@ -124,5 +124,23 @@
       ],
       "key": "F"
     }
+  ],
+  "obsidian-day-planner:clock-in": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-day-planner:clock-out": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "X"
+    }
   ]
 }

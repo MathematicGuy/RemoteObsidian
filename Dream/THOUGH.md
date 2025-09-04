@@ -1,4 +1,4 @@
-[[Deepthought]]
+f[[Deepthought]]
 
 # May
 ## Daily Note 5/5/2025
@@ -304,7 +304,19 @@ Nếu chỉ ở nhà đọc sách và viết lách, mình sẽ bị thiếu đi 
 
 Mình còn rất trẻ, còn rất nhiều điều cần phải học, nhưng mình sẽ không ngừng tiến về phía trước.
 
-
 ### 22 / 8 / 2025
 [Devil's Advocate](https://youtube.com/shorts/uzSKEas2BTg?si=VJZmEnNtbjvEuPAP) - **Talent means nothing if pressure make you crumble.** Some people you squeeze, they focus, others fold. 
 
+### 23 / 8 / 2025
+1) Avoid inactivity like sitting still for a long time.
+2) Create focus enviroment, limiting screen time. 
+3)  Dont eat a lot of carb
+For people with ADHD, consume *less carb* because food like *sugar paste, potatoes, rice, fruit and juice* -> increase seretonin -> make you happy
+But *when seretonin counter balance dopamint, so seretonin increase then  dopamint decrease*. (ADHD mean you lack Dopamint)
+
+gET OUt Of Your own head, just doing something in general that is not meaningless. Shift your focus, Tamping your MIND by Tamping your body, especialy you are ADHD. 
+
+
+### 2 / 9 / 2025
+What made emotion and legacy so valuable even logic can't counquer
+https://youtube.com/shorts/nE2a0_yWlkk?si=FaM2f0mk7YBZuoJh

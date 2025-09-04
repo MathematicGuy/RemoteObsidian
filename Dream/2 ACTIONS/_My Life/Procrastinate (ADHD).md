@@ -19,7 +19,7 @@ Why it **not working for me? -> Only for others people?**
 	+ Bunch of task -> confuse
 		+ Doing unnecessary part
 		Even know that you know but you don't do it. and apply self-Stress.
-	 => Solution: break down step -> two much step -> distractions
+	 => Solution: break down step -> too much step -> distractions
 	  -> delay -> negative loop repeat (self-destruct)
 	Problem are ADHD brain are Motivate by foresee :
 			**CAPTIVATE** 
@@ -28,8 +28,8 @@ Why it **not working for me? -> Only for others people?**
 				ADHD brain is very creative -> find what excite you (Seeable outcome)
 			**COMPETE** 
 				Love it, give the dopamine rush. Because it exist constantly.
-			 **COMPLETE** (special power - edges runner )
-				 Last day before test, Deadline rush. 
+		 **COMPLETE** (special power - edges runner )
+			 Last day before test, Deadline rush. 
 		**=> Power COME FROM THE MOMENTUM**
 
 
@@ -46,7 +46,7 @@ Use 1 one the way to start Momentum.
 	"None of these are going to work for everyone, and even the
 	ones that for you, they're not going to work every time "
 
-	" Take these and try them out, and if they work, use it while it    works, and if it doesn't, put it down for a while and try a         different method " -> can come back for it latter ofcourse.
+	" Take these and try them out, and if they work, use it while it works, and if it doesn't, put it down for a while and try a different method " -> can come back for it latter of course.
 
 => Don't invested too much into 1 method. Why? because ADHD brain doesn't like 1 thing, it's creative so it's hate the one tone kind of method.
 => Need to constantly changes.
@@ -74,11 +74,11 @@ Conclusion:
 + ADHD Brain **doesn't like One-Tone kind of things, needs creative.** You **need** to **constantly trying out different studying methods, environments, and experiences.**
 
 + To have the **motivation, ADHDs** need to **really feel the deadline**, then the **competition feeling and mindset**, and more importance Captivate which is **trying out new thing.** 
-+ => To open these motivations. **First I must have the Momentum.** Because my brain **doesn't work well with complicated info.**
+	=> To open these motivations. **First I must have the Momentum.** Because my brain **doesn't work well with complicated info.**
 	+ **To Building Momentum, start with small tasks and goals.** Remember **don't getting too complicated**. Set **small goals and short-commitment**
 	+ And if you **ever get bored** -> **change its**. *That may work for you but like always not for long.*
-
+	
 + **ADHD love Competition and close to ass Deadline** -> Create a *metal environment using the POMODORO technique.* (deadline delusion)
-+ 
+
 #### => Expect the unexpected, Just constantly trying to improve. Even if it 1% you will be surprise how much you can accomplish.
 

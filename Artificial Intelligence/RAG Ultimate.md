@@ -10,6 +10,13 @@
 + [[LangGraph for AI Agents]]
 + [[Prompt Optimization]]
 + LangExact (free Entity, Relationship extractor)
++ [Doc2MarkDown - MarkItDown library from microsoft](https://github.com/microsoft/markitdown)
+
+| Tiêu chí                                                             | Phương pháp đánh giá của hệ thống và giảng viên                                                                                                                                                                | Tỉ lệ đạt theo validation hệ thống RAG | Tỉ lệ đạt theo đánh giá của giảng viên | Nhận xét                                                                                                                                           |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Truy hồi đúng dữ liệu của môn học từ vector DB                       | Hệ thống: Đo độ tương đồng trung bình giữa văn bản được truy hồi và câu hỏi được sinh ra của mỗi câu trắc nghiệm. <br><br>Giảng viên: kiểm tra nếu văn bản được truy hồi thực sự có trong văn bản.             | 89 %                                   | 100%                                   | Hệ thống có khả năng truy vấn nội dung tốt tuy nhiên khi truy vấn nhiều văn bản có chứa 1 số văn bản nhiễu không quá tương đồng với seed sentence. |
+| Độ chính xác của cặp câu hỏi và câu trả lời được hệ thống cho đúng . | Tính tổng số đáp án đúng trên toàn bộ đáp án. <br><br>Hệ thống: 1 câu hỏi được cho là đúng khi quality_score > 50. <br><br>Đối với giảng viên: Đối chiếu đáp án của RAG và đáp án thực sự đúng trong tài liệu. | 73% <br><br>(81/110)                   | 100%                                   | Mô hình gpt-oss-120b hoàn thành nhiệm vụ tốt trong tác vụ tạo sinh câu trắc nghiệm tuy nhiên                                                       |
+
 
 ### [[LangChain]]
 ### [[RAG Implementation Documentation]]
