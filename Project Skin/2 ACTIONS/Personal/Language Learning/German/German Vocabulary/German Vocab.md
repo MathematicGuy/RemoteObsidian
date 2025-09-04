@@ -502,3 +502,15 @@ Basketballspiel basketball game
 Schade too bad
 Lieblingsteam favourite team
 	Die Einstriskarten sind ausverkauft, Schade das ist meine lieblingstream  
+
+Jemand someone
+fliegen fly
+Ich mögen dieses Stadviertel - I like these neighborhood 
+	mögen like 
+	Stadviertel neighbourhood
+
+Nachbarin neighbor
+Verheiratet married
+	Wir sind verheiratet - we are married
+Suche looking for
+	Ich suche meinen Nachbarn 
