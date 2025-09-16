@@ -2,12 +2,7 @@
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
-
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
-- [x] Đảm bảo code đúng output format của btc. Tự động chạy theo tên file.  
-- [ ] Finish MCQ Parsing by Wednesday (today) - 1st
-- [ ] Nghiên cứu phần Trake 
-- [ ] 27/8 AIOResearch Activity 1 for 1T-27 (Presentation) - 3rd
 
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**

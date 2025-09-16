@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f5ef-fe0f
 ---
-# SECTION 1:
+n# SECTION 1:
 [[german friend prompts]] 
 
 ## Unit 1: Order in a cafe

@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "fff86efa623735cd",
+            "id": "d0a86df643fe4e29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Ultimate.md",
+                "file": "3 RESOURCES/How to/Anaconda Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG Ultimate"
+              "title": "Anaconda Command"
             }
           }
         ],
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
+    "width": 408.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -226,12 +226,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "fff86efa623735cd",
+  "active": "d0a86df643fe4e29",
   "lastOpenFiles": [
+    "3 RESOURCES/How to/Anaconda.md",
+    "AIO2025 - Ada Boost.md",
     "2 ACTIONS/_Focus.md",
+    "AIO 2025.md",
     "RAG Ultimate.md",
     "AIO2025 - Random Forest.md",
-    "AIO 2025.md",
     "Untitled 2.md",
     "AIO2025 - Intro.md",
     "AIO2025 - PySpark for Data Processing.md",
@@ -256,8 +258,6 @@
     "AIVNRG25 Act 1.1 - Multi Model - LLM.md",
     "Research Paper Research.md",
     "Critical Thinking & Mental System.md",
-    "DAILY/2025-08-25.md",
-    "Excalidraw/AI Concepts.md",
     "Untitled.canvas",
     "Anstler Palace.canvas",
     "image/388b903da6cfdefd84d656d3c8ee15e9.jpg",

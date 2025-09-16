@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "fe0b7aaf21a93fc5",
+            "id": "9a3eb25d6af2f784",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
+                "file": "Spaces/Set Up Terminal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "German Vocab"
+              "title": "Set Up Terminal"
             }
           }
         ],
@@ -101,12 +101,12 @@
               "state": {
                 "path": "IELST"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "mk-space"
             }
           },
           {
-            "id": "da09c0989aed0c05",
+            "id": "fc7e0b319f235d4a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,8 +199,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -252,12 +252,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fe0b7aaf21a93fc5",
+  "active": "9a3eb25d6af2f784",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "AIO 2025.md",
     "Spaces/Set Up Terminal.md",
-    "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "Venture Capital.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
