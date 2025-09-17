@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
@@ -32,8 +34,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.01103591918945,
-    "collapsed": true
+    "width": 206.01103591918945
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -248,7 +248,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c60831db52b82f0d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/Set Up Terminal.md",

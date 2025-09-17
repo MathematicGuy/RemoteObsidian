@@ -20,7 +20,7 @@ banner: Images/Pasted image 20240402135259.png
 
 #MyRuleThat_I_SwearToLiveBy
 - [ ] To be the person that I am. I must let the person that I not. Die
-
+****
 
 [[Calisthenics]]
 
