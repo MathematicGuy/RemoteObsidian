@@ -9,8 +9,12 @@ Active file
 note: pwsh is powershell in short
 
 **Active Theme**
+oh-my-posh init pwsh --config "jandedobbeleer" | Invoke-Expression
+
 ```bashnote
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/illusi0n.omp.json" | Invoke-Expression
+
+oh-my-posh init pwsh --config "emodipt-extend" | Invoke-Expression
 ```
 huvix.omp.jsone
 ```

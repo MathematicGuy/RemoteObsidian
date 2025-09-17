@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,24 +18,18 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
           },
           {
-            "id": "9a3eb25d6af2f784",
+            "id": "c60831db52b82f0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Set Up Terminal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Set Up Terminal"
+              "title": "New tab"
             }
           }
         ],
@@ -109,10 +102,13 @@
             "id": "fc7e0b319f235d4a",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -252,12 +248,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9a3eb25d6af2f784",
+  "active": "c60831db52b82f0d",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Spaces/Set Up Terminal.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "AIO 2025.md",
-    "Spaces/Set Up Terminal.md",
     "Venture Capital.md",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab archive.md",
     "1 PROJECTS/Business Skills/Business Negotiation Skills.md",
