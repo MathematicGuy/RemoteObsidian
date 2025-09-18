@@ -30,7 +30,7 @@ Prefer Price ~ 28tr for PC. Then the rest add up to 30tr.
 **Prioritize**:
 - GPU: ~ **15.5M** (RTX 5060 Ti 16GB) - notice fan size (triple fan demand higher case cost)
 	https://phongvu.vn/search?router=productListing&query=RTX%205060%20Ti%2016GB
-- CPU: ~ **3M - 4M** -> resonable is okay. (Intel Core i5‑12400F ‑ PhongVũ ~3.29 M) 
+- CPU: ~ **3M** -> resonable is okay. (Intel Core i5‑12400F ‑ PhongVũ ~3.29 M) 
 - Mainboard: ~ **3M - 3.5M** (có wifi đi )
 - PSU: ~ **1.5M - 2.0M** (650 - 750W) -> remain resonable for GPU to not broken. (thường đi kèm dây )
 
