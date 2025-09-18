@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "bc5f1d84e0dd30e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +90,7 @@
             }
           },
           {
-            "id": "5cb71edd27e6f3ac",
+            "id": "433c0b0236d873f4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -247,7 +236,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bc5f1d84e0dd30e1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Building PC.md",
     "_Focus/Todo.md",
@@ -298,4 +287,11 @@
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "_Focus/This is my Life.canvas",
-    "4 ARCHIVES/2024/WebProject2024/W
+    "4 ARCHIVES/2024/WebProject2024/WebProjectGroup5.canvas",
+    "WebDev/SlotMachine/Slot_Machine_Design.canvas",
+    "Personal/FocusCanvas.canvas",
+    "4 ARCHIVES/2024/Club/Club & Event/Programming Club/PC Overall.canvas",
+    "remoteObsidian/Project Skin/Club & Event/Programming Club/PC Overall.canvas",
+    "remoteObsidian/Project Skin/Personal/FocusCanvas.canvas"
+  ]
+}
