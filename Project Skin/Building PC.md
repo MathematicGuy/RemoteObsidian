@@ -23,38 +23,38 @@ Prefer Price ~ 28tr for PC. Then the rest add up to 30tr.
 + **GPU & CPU performance tradeoff**. CPU requirements (6 nhân / 12 luồng) ?  
 + **Big Case to support GPU air flow** -> might lead to higher price. Is every case in the same price range is the same ? 
 + **No water cooling**.
-
 + **Goal: optimize the GPU for 16VRAM** 
 	CPU for data loading, weak CPU can lead to bottle neck even if I have good GPU. But for now, what all matter is the GPU because I can only buy it once. 
++ Make sure to **take account for Additional Costs** (does thermal paste & windowns key free if I buy directly ?) - 350-550k for caple & thermal paste if buy independently maybe.
 
- 
 **Prioritize**:
 - GPU: ~ **15.5M** (RTX 5060 Ti 16GB) - notice fan size (triple fan demand higher case cost)
 	https://phongvu.vn/search?router=productListing&query=RTX%205060%20Ti%2016GB
 - CPU: ~ **3M - 4M** -> resonable is okay. 
-- Mainboard: ~ **3M - 3.5M**
-- PSU: ~ **1.5M - 2.0M** (650 - 750W) -> remain resonable for GPU to not broken.
+- Mainboard: ~ **3M - 3.5M** (có wifi đi )
+- PSU: ~ **1.5M - 2.0M** (650 - 750W) -> remain resonable for GPU to not broken. (thường đi kèm dây )
 
 **Cut Cost:**
 - RAM: ~ **1.8M** (16GB can be DDR4 for economic) - DDR4 & DDR5 can't work together. 
-- SSD: ~ **1.5M** (512GB) -> cut cost 
+- SSD: ~ **1.5M** (512GB) -> cut cost (tend to have go-along fan)
 - Case + tản nhiệt: ~ **1.2M** (No need for water cooling Air cooling is fine) -> cut cost
 	+ https://phongvu.vn/vo-may-tinh-case-xigmatek-fly-3f-mat-kinh-en42553--s240300612
 	+ https://phongvu.vn/thung-may-case-mik-dt03-red-luffy--s210502030
++ Monitor tend to have go-along cable (HDMI  DP)
 + Buy for Cheap: Monitor (500 - 800K for 60hz) + Keyboard (300k in shopee) 
 
 
 
 
-| **Linh kiện**            | **Sản phẩm gợi ý**                                                                                                                                                                                                                                    | **Giá ước tính**       | **Ghi chú**                                                                                                                |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **GPU**                  | Colorful RTX 5060 Ti NB DUO 16GB-V (~ 15.500.000 đ) ([Hoàng Hà PC](https://hoanghapc.vn/vga-colorful-rtx-5060-ti-nb-duo-16gb-v?utm_source=chatgpt.com "VGA COLORFUL GEFORCE RTX 5060 Ti NB DUO 16GB-V (GDDR7, 128-bit, HDMI +DP, 1x8-pin)"))          | ~15.5M                 | Chọn bản có 8-pin/ nguồn phụ chuẩn, tản nhiệt tốt.                                                                         |
-| **CPU**                  | Intel Core i5-14400F (~4.590.000 đ tại Phong Vũ) ([maytinhphongvu.com.vn](https://www.maytinhphongvu.com.vn/danh-muc-san-pham/linh-kien-may-tinh/cpu-bo-vi-xu-ly/?utm_source=chatgpt.com "CPU - Bộ Vi xử lý - Máy tính Phong Vũ \| Laptop Phong Vũ")) | ~4.6M                  | 10 nhân / 16 luồng; tương đối mạnh, hợp với GPU.                                                                           |
-| **Mainboard**            | Bo mạch chủ LGA1700 hỗ trợ gen 13/14, khe PCIe ≥ 4.0, có cổng NVMe M.2 Gen4                                                                                                                                                                           | ~3.000.000-3.500.000 đ | Ví dụ bo B760 / B660 nếu rẻ hơn, tốt hơn dùng DDR5 nếu có ngân sách; nếu DDR4 rẻ hơn vẫn chấp nhận được nếu CPU/bo hỗ trợ. |
-| **RAM**                  | 16GB DDR5 hoặc DDR4 (2x8)                                                                                                                                                                                                                             | ~1.500.000-2.000.000 đ | Ban đầu chỉ 16GB, nâng lên 32GB sau là được.                                                                               |
-| **SSD**                  | NVMe M.2 500GB Gen3/Gen4                                                                                                                                                                                                                              | ~1.200.000-1.800.000 đ | Dùng để chứa hệ điều hành + model + dữ liệu chính.                                                                         |
-| **PSU**                  | 650-750W, chuẩn 80 PLUS Bronze hoặc tốt hơn (nếu có Gold)                                                                                                                                                                                             | ~1.500.000-2.200.000 đ | PSU rất quan trọng để đảm bảo GPU hoạt động ổn định; nếu PSU yếu / lởm → dễ bị sập / giảm xung.                            |
-| **Case + tản nhiệt CPU** | Case thoáng + tản khí tốt hoặc AIO nhỏ                                                                                                                                                                                                                | ~1.000.000-1.500.000 đ | Nếu làm workloads nặng, tản nhiệt tốt sẽ giúp hiệu suất duy trì.                                                           |
+| **Linh kiện**            | **Sản phẩm gợi ý**                                                                                                                                                                                                                           | **Giá ước tính**       | **Ghi chú**                                                                                                                |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **GPU**                  | Colorful RTX 5060 Ti NB DUO 16GB-V (~ 15.500.000 đ) ([Hoàng Hà PC](https://hoanghapc.vn/vga-colorful-rtx-5060-ti-nb-duo-16gb-v?utm_source=chatgpt.com "VGA COLORFUL GEFORCE RTX 5060 Ti NB DUO 16GB-V (GDDR7, 128-bit, HDMI +DP, 1x8-pin)")) | ~15.5M                 | Chọn bản có 8-pin/ nguồn phụ chuẩn, tản nhiệt tốt.                                                                         |
+| **CPU**                  | (6 nhân / 12 luồng)                                                                                                                                                                                                                          | ~2.5M-3M               | 10 nhân / 16 luồng; tương đối mạnh, hợp với GPU.                                                                           |
+| **Mainboard**            | Bo mạch chủ LGA1700 hỗ trợ gen 13/14, khe PCIe ≥ 4.0, có cổng NVMe M.2 Gen4                                                                                                                                                                  | ~3.000.000-3.500.000 đ | Ví dụ bo B760 / B660 nếu rẻ hơn, tốt hơn dùng DDR5 nếu có ngân sách; nếu DDR4 rẻ hơn vẫn chấp nhận được nếu CPU/bo hỗ trợ. |
+| **RAM**                  | 16GB DDR5 hoặc DDR4 (2x8)                                                                                                                                                                                                                    | ~1.500.000-2.000.000 đ | Ban đầu chỉ 16GB, nâng lên 32GB sau là được.                                                                               |
+| **SSD**                  | NVMe M.2 500GB Gen3/Gen4                                                                                                                                                                                                                     | ~1.200.000-1.800.000 đ | Dùng để chứa hệ điều hành + model + dữ liệu chính.                                                                         |
+| **PSU**                  | 650-750W, chuẩn 80 PLUS Bronze hoặc tốt hơn (nếu có Gold)                                                                                                                                                                                    | ~1.500.000-2.200.000 đ | PSU rất quan trọng để đảm bảo GPU hoạt động ổn định; nếu PSU yếu / lởm → dễ bị sập / giảm xung.                            |
+| **Case + tản nhiệt CPU** | Case thoáng + tản nhiệt khí                                                                                                                                                                                                                  | ~1.000.000-1.500.000 đ | Nếu làm workloads nặng, tản nhiệt tốt sẽ giúp hiệu suất duy trì.                                                           |
 
 Second Choice: https://mygear.com.vn/pc-gaming-cyberpower-rtx-5060-ti-i7-14700f-ram-32gb-500gb-ssd
 
