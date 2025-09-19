@@ -1,4 +1,4 @@
-f[[Deepthought]]
+[[Deepthought]]
 
 # May
 ## Daily Note 5/5/2025

@@ -156,19 +156,9 @@
               "icon": "lucide-ghost",
               "title": "advanced-tables-toolbar"
             }
-          },
-          {
-            "id": "344eea364dc92d30",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "59faa5fbf72c2291",
