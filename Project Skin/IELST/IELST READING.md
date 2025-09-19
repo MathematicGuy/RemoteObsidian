@@ -466,7 +466,7 @@ Linear Thinking: ![[Pasted image 20250526073925.png]]
 Methodology - methods used in a particular study. Often describe step by step. 
 
 ----
-## 2023 IELST Reading Test  
+## 2023 IELST Reading Test  (7.5 - 32/40)
 london pop grow, area poorly built, 1h5 to travel 8km by hourse or bus, solution propose few success.
 
 Charles Pearson, gain popu among bussi men 1951.
@@ -478,56 +478,56 @@ smoke fumes remain problem for train
 tunnul have, locomotive train cant fit into
 
 ![[Pasted image 20250919090636.png| 555]]
-1. population
-2. suburbs
-3. businessmen
-4. funding
-5. critical articles
+1. **population**
+2. **suburbs**
+3. **businessmen**
+4. **funding**
+5. critical articles -> **PRESS**
 
 ![[Pasted image 20250919090713.png | 555]]
-7. FALSE
-8. NOT GIVEN
-9. TRUE
-10. FALSE (NOT AN OPTION)
-11. FALSE
-12. FALSE
-13. NOT GIVEN
+7. **FALSE**
+8. NOT **GIVEN**
+9. **TRUE**
+10. FALSE (NOT AN OPTION) -> **TRUE**
+11. **FALSE**
+12. **FALSE**
+13. **NOT GIVEN**
 
 ![[Pasted image 20250919090723.png | 555]]
-14. A 
-15. 
-16.
-17.
+14. **A** ****
+15. **F**
+16. G -> **E**
+17. **D**
 
 ![[Pasted image 20250919090729.png | 555]]
-18.
-19.
-20.
-21.
-22.
+18. **fortress**
+19. **bullfight**
+20. **opera**
+21. **salt**
+22. **shops**
 
 ![[Pasted image 20250919090735.png | 555]]
-23.
-24.
-25.
-26.
+23. **D** 
+24. **C**
+25. **B**
+26. **E** 
 
 ![[Pasted image 20250919090744.png | 555]]
-27.
-28.
-29.
-30.
-31.
+27. political debate -> **H. strategic alliance**
+28. **J. religious conviction**
+29. **F. decisive victory**
+30. **B. large reward**
+31. **D. relative safety**
 
 ![[Pasted image 20250919090750.png | 555]]
-32.
-33.
-34.
-35.
+32. **NOT GIVEN**
+33. **NO**
+34. YES -> **NO**
+35. **YES**
 
 ![[Pasted image 20250919090808.png | 555]]
-36.
-37.
-38.
-39.
-40.
+36. **B**
+37. D -> **C**
+38. **A**
+39. D -> **B**
+40. A -> **D**
