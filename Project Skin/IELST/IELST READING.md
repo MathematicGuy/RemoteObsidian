@@ -423,7 +423,7 @@ Understand context from not 1 but 2 or more sentence. Do not relied on a single 
 Always look for rephrased question answers. Never only relied on the word itself. 
 **Beispiele Question:** *an account of a national policy initiative*
 + Policy initiative = strategy (triển khai chính sách)
-	Ko hiể initiative thì có thể dùg từ policy làm keyword. -> find paragraph with National policy. Ask myself, which country give out a policy. 
+	Ko hiểu initiative thì có thể dùg từ policy làm keyword. -> find paragraph with National policy. Ask myself, which country give out a policy. 
 + National ~ can be represent as a Nation Name
 
 https://dolacademy.vn/static/full-test/test-result/6822f2ada06c3e3699245075?
@@ -462,7 +462,72 @@ Linear Thinking: ![[Pasted image 20250526073925.png]]
 2) PARAGRAPH core phrase follow `Subject - Verb - Object` (often independent clause -> provide the main context of the sentence - CAN NOT CUTOUT. 
 3) Side clause can be cut off without changing meaning. 
 ![[Pasted image 20250526074849.png]]
+	https://youtu.be/Zcbte9XIM-E?si=ajieGsRLzBT9pXxR
+Methodology - methods used in a particular study. Often describe step by step. 
 
+----
+## 2023 IELST Reading Test  
+london pop grow, area poorly built, 1h5 to travel 8km by hourse or bus, solution propose few success.
 
+Charles Pearson, gain popu among bussi men 1951.
 
-https://youtu.be/Zcbte9XIM-E?si=ajieGsRLzBT9pXxR
+5 years, 1 mil raise 
+
+smoke fumes remain problem for train 
+1880 london congestion worsten 
+tunnul have, locomotive train cant fit into
+
+![[Pasted image 20250919090636.png| 555]]
+1. population
+2. suburbs
+3. businessmen
+4. funding
+5. critical articles
+
+![[Pasted image 20250919090713.png | 555]]
+7. FALSE
+8. NOT GIVEN
+9. TRUE
+10. FALSE (NOT AN OPTION)
+11. FALSE
+12. FALSE
+13. NOT GIVEN
+
+![[Pasted image 20250919090723.png | 555]]
+14. A 
+15. 
+16.
+17.
+
+![[Pasted image 20250919090729.png | 555]]
+18.
+19.
+20.
+21.
+22.
+
+![[Pasted image 20250919090735.png | 555]]
+23.
+24.
+25.
+26.
+
+![[Pasted image 20250919090744.png | 555]]
+27.
+28.
+29.
+30.
+31.
+
+![[Pasted image 20250919090750.png | 555]]
+32.
+33.
+34.
+35.
+
+![[Pasted image 20250919090808.png | 555]]
+36.
+37.
+38.
+39.
+40.
