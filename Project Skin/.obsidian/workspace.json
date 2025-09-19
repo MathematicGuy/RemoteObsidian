@@ -25,18 +25,28 @@
             }
           },
           {
-            "id": "c804644862b0d350",
+            "id": "c1f5ff681e2a00e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELST/IELST READING.md",
+                "file": "3 RESOURCES/Web/FrontEnd/Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IELST READING"
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "fad540dd9b0d17f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -106,7 +116,7 @@
             }
           },
           {
-            "id": "2c00224e3d847cc0",
+            "id": "258ade3305332cf1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -252,11 +262,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c804644862b0d350",
+  "active": "c1f5ff681e2a00e8",
   "lastOpenFiles": [
-    "IELST/IELST.md",
     "_Focus/Todo.md",
     "IELST/IELST READING.md",
+    "IELST/IELST.md",
     "Images/Pasted image 20250919090808.png",
     "Images/Pasted image 20250919090750.png",
     "Images/Pasted image 20250919090744.png",
