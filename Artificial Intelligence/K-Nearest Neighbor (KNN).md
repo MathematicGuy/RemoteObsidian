@@ -32,6 +32,6 @@ Giải quyết sử dụng Normalization -> trừ cho Mean rồi chia cho Standa
 
 
 ![[Pasted image 20250805230709.png]]
-
 +1 để có thêm giá trị. 
+
 

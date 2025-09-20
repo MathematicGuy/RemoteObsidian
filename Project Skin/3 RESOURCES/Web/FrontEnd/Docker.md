@@ -1,7 +1,6 @@
 [Docker in 100s](https://youtu.be/Gjnup-PuquQ?si=qhHV2MuiRhgwhLhU)
 [[Docker PostgresSQL]]
 [Learn Docker in 7 Easy Steps](https://youtu.be/gAkwW2tuIqE?si=iFCKMldzyn4zfPRa)
-
 [[Docker tips & bugs]]
 
 ### [[Docker Q&A]]
@@ -21,16 +20,14 @@
  **note:**
 + Container orchestration platforms like Kubernetes and Docker Swarm
 
-
-
 ---
 ### Docker offer an Isolated environments called containers.
 ```ad-summary
 Docker provides you with portable environments (containers) that you can build once and use for any project, giving you flexibility and incredible consistency across different systems.
 ```
 
+
 **What is Docker?**
-	
 - ? **Containerization Platform:** Docker is a powerful tool that simplifies the process of packaging, shipping, and running applications within isolated environments called containers.
 	
 + ? **Lightweight Packages:** Think of a container as a neatly wrapped package that holds everything your application needs to run smoothly. This includes the code itself, **all the necessary libraries, system tools, and configuration files.**

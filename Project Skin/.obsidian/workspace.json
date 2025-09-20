@@ -23,34 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "c1f5ff681e2a00e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/Web/FrontEnd/Docker.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
-          },
-          {
-            "id": "fad540dd9b0d17f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +90,7 @@
             }
           },
           {
-            "id": "258ade3305332cf1",
+            "id": "57f6dbdb1ee2b54d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -262,9 +236,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1f5ff681e2a00e8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Building PC.md",
     "_Focus/Todo.md",
+    "3 RESOURCES/Web/FrontEnd/Docker.md",
+    "3 RESOURCES/Web/Docker/Docker Learning Motivation.md",
+    "3 RESOURCES/Web/Docker/Docker Q&A.md",
+    "3 RESOURCES/Web/Docker/Docker tips & bugs.md",
     "IELST/IELST READING.md",
     "IELST/IELST.md",
     "Images/Pasted image 20250919090808.png",
@@ -275,7 +254,6 @@
     "Images/Pasted image 20250919090723.png",
     "Images/Pasted image 20250919090713.png",
     "Images/Pasted image 20250919090636.png",
-    "Building PC.md",
     "Images/Pasted image 20250918011442.png",
     "Images/Pasted image 20250917221548.png",
     "Spaces/Set Up Terminal.md",
@@ -296,10 +274,6 @@
     "3 RESOURCES/Git/Github for Beginners.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "3 RESOURCES/Git/Git for Professionals.md",
-    "3 RESOURCES/Git/How GIT works under the HOOD.md",
-    "3 RESOURCES/Git/How to be a Git Expert.md",
-    "3 RESOURCES/Git/Git.md",
-    "3 RESOURCES/DataBase/Learn Database/Normalization - 1NF, 2NF, 3NF, 4NF, 5NF.md",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
