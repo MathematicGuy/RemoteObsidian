@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "e9cdef0a4889ccdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELST/IELST WRITING.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "IELST WRITING"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,10 +252,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e9cdef0a4889ccdd",
   "lastOpenFiles": [
-    "Spaces/Set Up Terminal.md",
+    "Images/Pasted image 20250922132035.png",
+    "Images/Pasted image 20250922131534.png",
+    "IELST/IELST WRITING.md",
+    "Images/Pasted image 20250922131551.png",
+    "IELST Writing Task Guide.md",
     "_Focus/Todo.md",
+    "Spaces/Set Up Terminal.md",
     "Building PC.md",
     "3 RESOURCES/Web/FrontEnd/Docker.md",
     "3 RESOURCES/Web/Docker/Docker Learning Motivation.md",
@@ -255,8 +276,6 @@
     "Images/Pasted image 20250919090723.png",
     "Images/Pasted image 20250919090713.png",
     "Images/Pasted image 20250919090636.png",
-    "Images/Pasted image 20250918011442.png",
-    "Images/Pasted image 20250917221548.png",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "AIO 2025.md",
     "Venture Capital.md",
@@ -271,9 +290,6 @@
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE in 15 Min.md",
     "Calisthenics Dip.md",
     "2 ACTIONS/Workout/Calisthenics.md",
-    "3 RESOURCES/Git/Github for Beginners.md",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "3 RESOURCES/Git/Git for Professionals.md",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
