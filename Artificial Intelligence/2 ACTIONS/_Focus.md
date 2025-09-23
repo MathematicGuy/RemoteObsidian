@@ -7,7 +7,9 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - Determine Study & HW Priority
 - Noting Structure (no more than 2 file)
 - Estimate Time taken
-- Determine what I will say at tomorrow metting. 
+
+- [ ]
+
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
