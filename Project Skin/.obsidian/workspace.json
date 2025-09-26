@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "d4c7540cae515e61",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +90,7 @@
             }
           },
           {
-            "id": "4e2259ca2d18cbbd",
+            "id": "4b0424c98d73b81d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -247,10 +236,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d4c7540cae515e61",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "IELST/IELST WRITING.md",
+    "IELST/IELST.md",
+    "_Focus/Todo.md",
     "Images/Pasted image 20250922132035.png",
     "Images/Pasted image 20250922131534.png",
     "Images/Pasted image 20250922131551.png",
@@ -262,7 +252,6 @@
     "3 RESOURCES/Web/Docker/Docker Q&A.md",
     "3 RESOURCES/Web/Docker/Docker tips & bugs.md",
     "IELST/IELST READING.md",
-    "IELST/IELST.md",
     "Images/Pasted image 20250919090808.png",
     "Images/Pasted image 20250919090750.png",
     "Images/Pasted image 20250919090744.png",

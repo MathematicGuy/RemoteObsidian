@@ -8,7 +8,6 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - Noting Structure (no more than 2 file)
 - Estimate Time taken
 
-- [ ]
 
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
