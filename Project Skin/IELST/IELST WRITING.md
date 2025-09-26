@@ -1,6 +1,6 @@
 ### [[IELST Writing Task Guide]]
 ### Writing 1: Tea & Coffee Survey
-![[Pasted image 20250922132035.png | 455]]
+![[Pasted image 20250926095048.png]]
 **Length:** 4 - 5 đoạn văn.
 Focus on **"Introduction -> Overview"(1 - 2 sentence each)** then Detail 1 & 2. 
 
@@ -22,3 +22,22 @@ graph fluctuation/changes over time:
 + ? Like Abstract in research, show the Summary of the whole topic. Should start the paragraph with Overall, In general or As can be seen that, What is notable from the chart is that, etc.. Focus on most notable points of the graph like its trend, similarity, constract, topic, etc..
 + ! Make sure to not include your opinion bc the report focus on the graph, not anything else.
 + noticeble point -> point of each categories -> overall of all catefories  (comment directly)
+
+![[Pasted image 20250926095048.png]]
+**Overview Analysis:** Deconstructing the Bar Chart with First Principles. What are the Entities (5 cities), Categories (fresh, instance, cafe for coffee and tea), Unit being Measured (%). 
+	**Entities:** 5 australia biggest cities. (Sydney, Melbourne, Brisbance, Adelaide, Hobart)
+	**Categories:** bought fresh/instant coffee, went to cafe for coffee or tea 
+	**Measured:** % of city resident in the last 4 weeks
+	
+**Pattern Analysis:** 
++ What *value* are Highest/Lowest overall.
++ Find the biggest *constrast* (i.e. max & min) overall.
++ *similarities/pattern* across cities ?
+	Across 5 cities, people who went to cafe for tea and coffee remain the highest with percentage around a half and above while instant coffee just around (35 - 45%) 
+
+
+**Introduction** -> what chart shows, time, place, units
+*Base:* The bar chart *illustrates* people's coffee and tea drinking habits percentage in five australia cities during the last four weeks.  
+*Improvised:* The bar chart *compare* the percentage (*more specific*) of australian people's beverage comsumption for tea and coffee, during the last four weeks. 
+
+**Overview** -> 
