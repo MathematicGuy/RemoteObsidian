@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "fa644126a22094c3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/Todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Todo"
-            }
-          },
-          {
-            "id": "c5bbc667d864d7de",
+            "id": "dc9bfdb2203f7168",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,9 +21,20 @@
               "icon": "lucide-file",
               "title": "IELST WRITING"
             }
+          },
+          {
+            "id": "1545cf55d9b36e08",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250926095048.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250926095048"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,12 +246,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c5bbc667d864d7de",
+  "active": "dc9bfdb2203f7168",
   "lastOpenFiles": [
+    "Images/Pasted image 20250926121500.png",
     "Images/Pasted image 20250926095048.png",
-    "Images/Pasted image 20250922132035.png",
     "IELST/IELST WRITING.md",
+    "Images/Pasted image 20250926095048.png.~tmp",
     "_Focus/Todo.md",
+    "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
+    "Images/Pasted image 20250922132035.png",
     "IELST/IELST READING.md",
     "IELST/IELST.md",
     "Images/Pasted image 20250922131534.png",
@@ -275,7 +272,6 @@
     "Images/Pasted image 20250919090735.png",
     "Images/Pasted image 20250919090729.png",
     "Images/Pasted image 20250919090723.png",
-    "Images/Pasted image 20250919090713.png",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "AIO 2025.md",
     "Venture Capital.md",
@@ -289,7 +285,6 @@
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE OVERVIEW.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE in 15 Min.md",
     "Calisthenics Dip.md",
-    "2 ACTIONS/Workout/Calisthenics.md",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
@@ -300,7 +295,6 @@
     "4 ARCHIVES/UI_UX",
     "Images",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "_Focus/This is my Life.canvas",

@@ -25,19 +25,41 @@ graph fluctuation/changes over time:
 
 ![[Pasted image 20250926095048.png]]
 **Overview Analysis:** Deconstructing the Bar Chart with First Principles. What are the Entities (5 cities), Categories (fresh, instance, cafe for coffee and tea), Unit being Measured (%). 
-	**Entities:** 5 australia biggest cities. (Sydney, Melbourne, Brisbance, Adelaide, Hobart)
-	**Categories:** bought fresh/instant coffee, went to cafe for coffee or tea 
-	**Measured:** % of city resident in the last 4 weeks
+	**Entities:** 5 australia biggest cities. (Sydney, Melbourne, Brisbance, Adelaide, Hobart).
+	**Categories:** bought fresh/instant coffee, went to cafe for coffee or tea.
+	**Measured:** % of city resident in the last 4 weeks.
 	
 **Pattern Analysis:** 
 + What *value* are Highest/Lowest overall.
 + Find the biggest *constrast* (i.e. max & min) overall.
 + *similarities/pattern* across cities ?
-	Across 5 cities, people who went to cafe for tea and coffee remain the highest with percentage around a half and above while instant coffee just around (35 - 45%) 
+	Across 5 cities, people who went to cafe for tea and coffee remain the highest with percentage around a half and above while instant coffee just around a quarter (35 - 45%) and instant coffee comsumption rate being just around a half (45 - 55%). 
+	
+**Good to have:** 
++ symnonym for 
+	+ People (cities resident, urband dwellers)
+	+ percentage (proportions)
+	+ highest/lowest (most consump, least common)
+	+ similar (around, roughtly)
+	+ buying (purchased)
+	+ "X% of" - accounted for X%, instant coffee comprised/accounted Y% of Sydney..., remain stable at.
+	+ comparison word: while, whereas. 
+	+ **percentages:**
+		![[Pasted image 20250926121500.png| 444]]
+
 
 
 **Introduction** -> what chart shows, time, place, units
 *Base:* The bar chart *illustrates* people's coffee and tea drinking habits percentage in five australia cities during the last four weeks.  
 *Improvised:* The bar chart *compare* the percentage (*more specific*) of australian people's beverage comsumption for tea and coffee, during the last four weeks. 
 
-**Overview** -> 
+**Overview** -> highest/lowest, constrast, overall
+*Base:* In general, across 5 cities, fresh coffee consistently the least common purchased coffee while the number of residents visiting cafes for coffee and tea remains the highest, with the exception of Adelaide where people are somewhat more probable to buy instant coffee.
+
+**Main Paragraph 1: talk about the most noticeble**
+lorem
+
+**Main Paragraph 2: talk about the least noticeble**
+lorem
+
+
