@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e90bf22e5c01f97",
+        "id": "f1d0ea0a2b432d28",
         "type": "tabs",
         "children": [
           {
-            "id": "220aa126bf5bef19",
+            "id": "8f84f29c4499b31f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Skin/Spaces/Set Up Terminal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set Up Terminal"
+              "type": "3d-graph-view-local",
+              "state": {},
+              "icon": "orbit",
+              "title": "Local 3D Graph"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff9a1382dabaf3ec",
@@ -162,8 +157,14 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "220aa126bf5bef19",
+  "active": "8f84f29c4499b31f",
   "lastOpenFiles": [
+    "Project Dream Catcher/Welcome.md",
+    "Project Dream Catcher/Untitled.md",
+    "Artificial Intelligence/AIO 2024.md",
+    "Project Skin/3 RESOURCES/DataBase/SQL/DataBase.md",
+    "README.md",
+    "Project Skin/Spaces/Set Up Terminal.md",
     "Dream/_Focus.md",
     "Simplified-Guide-for-Customizing-Obsidian-Background-Image/custom-bg.css",
     "Simplified-Guide-for-Customizing-Obsidian-Background-Image/README.md",

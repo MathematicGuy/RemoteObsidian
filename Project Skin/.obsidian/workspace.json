@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "60c6fac689e91175",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             }
           },
           {
-            "id": "f52ccd649d601451",
+            "id": "1f8c171c208b51da",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -99,7 +110,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,8 +194,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -227,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 798
+    "width": 354,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,10 +257,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "60c6fac689e91175",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_Focus/Todo.md",
+    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20250926121500.png",
     "Images/Pasted image 20250926095048.png",
     "Images/Pasted image 20250922131551.png",

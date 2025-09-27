@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d4e732a841033fde",
+    "id": "2033ac6b5f5aab37",
     "type": "split",
     "children": [
       {
-        "id": "663f3a1dadbf939e",
+        "id": "1140e9d2fc34cf0f",
         "type": "tabs",
         "children": [
           {
-            "id": "f09fee20124cb787",
+            "id": "60ccd9cea13b89bf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,54 +24,36 @@
             }
           },
           {
-            "id": "8b38becaccc87711",
-            "id": "1512dedace270a52",
+            "id": "b14e1feb79018503",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO2025 - Random Forest.md",
-                "file": "5G Basics - What it all about.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIO2025 - Random Forest"
-            }
-          },
-          {
-            "id": "00e9ab9ba4648e37",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-              "title": "5G Basics - What it all about"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7c4caac05eeb37b0",
+    "id": "88192e773544ad06",
     "type": "split",
     "children": [
       {
-        "id": "f92db5b25d25c4de",
+        "id": "3aeeb4ad871240f2",
         "type": "tabs",
         "children": [
           {
-            "id": "071da20bef53fc13",
+            "id": "be48f39812b668dc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -79,12 +61,12 @@
             }
           },
           {
-            "id": "dbc61dc1b0a26cb8",
+            "id": "1254cea9b1ab36db",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"annotation-target\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +78,7 @@
             }
           },
           {
-            "id": "3af4179c2ed191f6",
+            "id": "ea38b953b6e91905",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,43 +86,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "e0993c9e53013bed",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 344.51103591918945,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "5b429f276e830688",
+    "id": "9144e9947a997ba4",
     "type": "split",
     "children": [
       {
-        "id": "ef264f4c5d3315f6",
+        "id": "17a2e13919d534e1",
         "type": "tabs",
         "children": [
           {
-            "id": "1a124e27f563919f",
+            "id": "38d809ea8a17f1b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,25 +117,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "27e1d1b0f43efc65",
+            "id": "f5969a2e67ae1a5c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "698061f4331a6cac",
+            "id": "4518dce2e0fe3f70",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,42 +149,35 @@
             }
           },
           {
-            "id": "85f35245e27faef0",
+            "id": "e03d34ee61667613",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fc03c96013878c44",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Focus"
+              "title": "Outline"
             }
           },
           {
-            "id": "6883addd4be61207",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "a64f736a5ddc2846",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "f4791026d63278b7",
+            "id": "13e069ec47933803",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -227,84 +186,31 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
-      "graph:Open graph view": true,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "00e9ab9ba4648e37",
-  "active": "f09fee20124cb787",
+  "active": "b14e1feb79018503",
   "lastOpenFiles": [
     "5G Basics - What it all about.md",
-    "image/Pasted image 20250926134203.png",
-    "2 ACTIONS/_Focus.md",
-    "AIO2025 - Random Forest.md",
-    "3 RESOURCES/How to/Anaconda Command.md",
-    "3 RESOURCES/How to/Anaconda.md",
-    "RAG Ultimate.md",
-    "AIO2025 - LightXGBoost a practical approach.md",
-    "Multimodel RAG.md",
-    "AIO 2025.md",
-    "image/Pasted image 20250923164528.png",
-    "image/Pasted image 20250923152456.png",
-    "image/Pasted image 20250923152439.png",
-    "image/Pasted image 20250923151507.png",
-    "image/Pasted image 20250923145217.png",
-    "image/Pasted image 20250923144929.png",
-    "image/Pasted image 20250923144816.png",
-    "image/Pasted image 20250923144232.png",
-    "image/Pasted image 20250923143657.png",
-    "AIVNRG25.md",
-    "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
-    "Courses Pipeline.md",
-    "AIVNRG25 - Act 1.2 Research.md",
-    "AIO2025 Update Conquer and Research.md",
-    "AIO2025 - TimeSeries.md",
-    "K-Nearest Neighbor (KNN).md",
-    "AIO2025 - Random Forest.md",
-    "Docker.md",
-    "AIO2025 - XGBoost.md",
-    "AIO2025 - Ada Boost.md",
-    "Untitled 2.md",
-    "AIO2025 - Intro.md",
-    "AIO2025 - PySpark for Data Processing.md",
-    "2 ACTIONS/ACTION.base",
-    "Untitled.base",
-    "DAILY",
-    "Untitled.canvas",
-    "Anstler Palace.canvas",
-    "research_topic_analysis.markdown",
-    "1 PROJECTS/TODO CANVAS.canvas",
-    "image/The Organic Chemistry Tutor - Sample Mean and Population Mean - Statistics [cmtBUWCC-6A - 1161x653 - 3m14s].png.~tmp",
-    "AIO2025 - Logic Thinking and Problem Solving for DS",
-    "Excalidraw",
-    "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
-    "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Books/PCA_BachKhoa.pdf",
-    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
-    "4 ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
-    "Research.canvas",
-    "ID Card Brain Storm.canvas"
+    "2 ACTIONS/_Focus.md"
   ]
 }
