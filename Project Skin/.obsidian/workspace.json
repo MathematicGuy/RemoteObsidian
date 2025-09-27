@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "60c6fac689e91175",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +90,7 @@
             }
           },
           {
-            "id": "1f8c171c208b51da",
+            "id": "36a53a0bb1c8220a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -257,7 +246,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "60c6fac689e91175",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "conflict-files-obsidian-git.md",

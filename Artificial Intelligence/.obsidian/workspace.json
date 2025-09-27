@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "b14e1feb79018503",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,9 +197,9 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "b14e1feb79018503",
+  "active": "60ccd9cea13b89bf",
   "lastOpenFiles": [
-    "5G Basics - What it all about.md",
-    "2 ACTIONS/_Focus.md"
+    "2 ACTIONS/_Focus.md",
+    "5G Basics - What it all about.md"
   ]
 }

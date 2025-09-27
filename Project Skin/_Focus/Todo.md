@@ -3,7 +3,7 @@ sticker: emoji//2705
 banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
-
+g
 ## [Calendar]
 #Todo/Priority  
 
