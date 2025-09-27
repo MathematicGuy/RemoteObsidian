@@ -93,18 +93,20 @@
             "id": "57f6dbdb1ee2b54d",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.01103591918945,
-    "collapsed": true
+    "width": 206.01103591918945
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -238,8 +240,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Building PC.md",
     "_Focus/Todo.md",
+    "Spaces/#habit+calisthenics",
+    "Building PC.md",
     "3 RESOURCES/Web/FrontEnd/Docker.md",
     "3 RESOURCES/Web/Docker/Docker Learning Motivation.md",
     "3 RESOURCES/Web/Docker/Docker Q&A.md",
@@ -273,7 +276,6 @@
     "2 ACTIONS/Workout/Calisthenics.md",
     "3 RESOURCES/Git/Github for Beginners.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "3 RESOURCES/Git/Git for Professionals.md",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
@@ -284,7 +286,6 @@
     "4 ARCHIVES/UI_UX",
     "Images",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
-    "2 ACTIONS/Personal/Language Learning/Languages Notes",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "_Focus/This is my Life.canvas",

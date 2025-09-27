@@ -1,4 +1,4 @@
-Fav theme
+Fav theme 
 ![[Pasted image 20240601234808.png]]
 
 0) **Get Theme**
@@ -68,7 +68,7 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\negligible.omp.json" | Invo
 
 3) **Save the Profile**
 ```bash
-. $PROFILE
+.`Set-ExecutionPolicy Unrestricted -Scope CurrentUser`
 ```
 
 
