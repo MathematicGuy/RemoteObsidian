@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "ecf0b480856cd422",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +90,7 @@
             }
           },
           {
-            "id": "ddcea4768499cce4",
+            "id": "f52ccd649d601451",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,8 +99,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,8 +244,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ecf0b480856cd422",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled.base",
     "_Focus/Todo.md",
     "Spaces/#habit+calisthenics",
     "Building PC.md",
@@ -303,7 +292,6 @@
     "IELST",
     "4 ARCHIVES/UI_UX",
     "Images",
-    "4 ARCHIVES/2023/3rd Semesters/DSA/DSA Docs/Dr. Basant Agarwal - Hands-On Data Structures and Algorithms with Python_ Store, manipulate, and access data effectively, 3rd Edition-Packt (2022).pdf",
     "3 RESOURCES/Programming/OOP/Student Management Application (JAVA).canvas",
     "3 RESOURCES/Code/Fundamental of Programming.canvas",
     "_Focus/This is my Life.canvas",
