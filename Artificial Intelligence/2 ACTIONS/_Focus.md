@@ -28,10 +28,9 @@ set up cuda for RAG and Fine-tunning
 [ML Dataset Archive](https://archive.ics.uci.edu/datasets/?skip=0&take=10&sort=desc&orderBy=NumHits&search=&Types=Sequential)
 
 
-### [[Critical Thinking & Mental System]] _where I analyze my gnikniht & engineer systems for better life 
-- [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh) 
+### [[Critical Thinking & Mental System]] _where I analyze my gnikniht & engineer systems for better life
+- [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh)
 - [ ] [Dr.Art Math](https://www.dr-aart.nl/Fractions-menu.html)
 - [ ] [[how_my_thinking_work]]
 - [[Aha]]
 + [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
-

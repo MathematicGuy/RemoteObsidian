@@ -223,14 +223,23 @@
               "icon": "lucide-info",
               "title": "File properties for Annotation"
             }
+          },
+          {
+            "id": "ca48c8af5006f4ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 353,
-    "collapsed": true
+    "width": 798
   },
   "left-ribbon": {
     "hiddenItems": {

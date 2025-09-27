@@ -1,11 +1,11 @@
-Fav theme 
+Fav theme
 ![[Pasted image 20240601234808.png]]
 
 0) **Get Theme**
 ```bash
 Get-PoshThemes
 ```
-Active file 
+Active file
 note: pwsh is powershell in short
 
 **Active Theme**
@@ -55,7 +55,7 @@ oh-my-posh init powershell | Invoke-Expression
 ```bash
 New-Item -Path $PROFILE -Type File -Force
 ```
-Ex: 
+Ex:
 ```bash
 C:\Users\boboi\OneDrive - CMC University\Documents\WindowsPowerShell
 ```

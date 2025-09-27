@@ -1,91 +1,65 @@
-### Writing Task 1: Criteria
-![[Pasted image 20250414105506.png]]
-+ **Lexical Resource:** word with percise meaning, is the word appropriate in the current context and is a uncommon word. 
-+ **Collocation:** How word go together. Able to combine word in a natural and accurate way (meaningful *sentence*)   
-  
+### [[IELST Writing Task Guide]]
+### Writing 1: Tea & Coffee Survey
+![[Pasted image 20250926095048.png]]
+**Length:** 4 - 5 đoạn văn.
+Focus on **"Introduction -> Overview"(1 - 2 sentence each)** then Detail 1 & 2. 
 
-### Writing Task 1: Structure 
-1) Introduction + Overview
+**Step 1: Topic analysis**
+main topic: coffee & tea drinking habit in 5 cities in Australia
+analysis categories & object: 
++ ppl  who Bought fresh/instance coffee in the last 4 weeks & 
++ ppl who went to cafe for tea & cafe in the last 4 weeks
+
+which unit used for this chart: bar chart % 
+graph fluctuation/changes over time: 
++ `%` fluctuate but doesn't change went to coffe remain highest overall, then bought instance coffee with bought fresh coffe being the last
+
+**Intro:** The bar chart illustrate australia citites's coffee & tea consumption trend of Sydney, Melbourne, Brisbane, Adeleide & Hobart over four-week period.
+
+**Overview:** In general, instant coffee make more sales than fresh coffee in the five cities with their lowest sales is 45% compare to 34% for fresh coffee. In all five cities, people who went to cafe or tea remain the highest then instance coffee and fresh coffee remain the lowest being consumed.   
 
 
-### Do & Don't
-+ $ **DO:**
-	+ start each paragraph with a linking phrase. Use linking phrase when changing ideas/sentence. 
-	+ use many verbs & tenses. 
-	+ use clause (when, where, why, how)
-	+ Group similar elements together to describe. 
++ ? Like Abstract in research, show the Summary of the whole topic. Should start the paragraph with Overall, In general or As can be seen that, What is notable from the chart is that, etc.. Focus on most notable points of the graph like its trend, similarity, constract, topic, etc..
++ ! Make sure to not include your opinion bc the report focus on the graph, not anything else.
++ noticeble point -> point of each categories -> overall of all catefories  (comment directly)
 
-+ ! **DON'T**
-	+ Limit your sentences. No more than 5 sentence in a paragraph. 
-	+ Only use 1 sentence for describe 1 characteristic. -> Group similar elements together to describe. 
-	+ Don't use too many simple sentence. 
-	+ Don't use the word "it" too much.
-
-### IELST Writing Tips
-#### General Structure for Part 1
-note: sen ~ sentence
-Introducton: 1-2 sen 
-Overview: 2 sen
-Paragraph 1: 4 sen
-Paragraph 1: 3-4 sen
-
-[Constrast and Comparison Topic](https://ielts.idp.com/vietnam/prepare/article-compare-and-contrast-essay)
-
-#### Structure for Bar, Line graph, Table, Pie Chart
-
-Intro: 1 sen
-	+ paraphrase using "title prompt" + "visual summarization"
-	+ describe using "where, when, who, what"
-	+ also use reporting verb (e.g. show, illustration, provide infor on, compare) don't use "present"
-	+ don't use inversion sentence like "It is shown in the graph" instead of "The graph shows..." 
-	+ If there're multiple illustrates say "the [graph] shows...while the [table] provides" (replace table and graph)
+![[Pasted image 20250926095048.png]]
+**Overview Analysis:** Deconstructing the Bar Chart with First Principles. What are the Entities (5 cities), Categories (fresh, instance, cafe for coffee and tea), Unit being Measured (%). 
+	**Entities:** 5 australia biggest cities. (Sydney, Melbourne, Brisbance, Adelaide, Hobart).
+	**Categories:** bought fresh/instant coffee, went to cafe for coffee or tea.
+	**Measured:** % of city resident in the last 4 weeks.
 	
+**Pattern Analysis:** 
++ What *value* are Highest/Lowest overall.
++ Find the biggest *constrast* (i.e. max & min) overall.
++ *similarities/pattern* across cities ?
+	Across 5 cities, people who went to cafe for tea and coffee remain the highest with percentage around a half and above while instant coffee just around a quarter (35 - 45%) and instant coffee comsumption rate being just around a half (45 - 55%). 
 	
-Overview: 1-2 sen
-+ Don't analyze in detail (i.e. using numbers), just give the overview insight as a introduction for paragraph 1 + 2. Try to mentions all subjects, if there're too many then group them by a similar attributes, for example 3 company from american -> mention them using american companies, **Highlight the most noticible trend**.
-+ ! Don't use abbreviation
-	+ Templates: 
-		1) "Overall it can clearly be seen that...while all..."
-		2) "Overall it is evident that...while all"
-		
-	
-Paragraph 1 + 2: 3-4 sen
-+ Describe using specfic numbers.  
-
-#### Structure for Map
-
-Intro: 1 sen
-	+ paraphrase using "title prompt" + "visual summarization"
-	+ describe using "where, when, who, what"
-	+ also use reporting verb (e.g. show, illustration, provide infor on, compare) don't use "present"
-	+ don't use inversion sentence like "It is shown in the graph" instead of "The graph shows..." 
-	
-Overview: 1-2 sen
-	+ Talk about the general changes, trend. (like mordenization, deforestation) 
-	
-Paragraph 1 + 2: 3-4 sen
-+ Describe the specfic changes, close region in location describe their changes together.
-+ Vocab:
-	+ Verb to describe changes: imerge, demolish, build, construct, clear, knock-down, cut-down, strike-down.
-	+ Tone: Both Active (I see) & Passive. (There is) 
-	+ Location Word: West of, North of. (The fishing port locate in the South of the Map), Next to, By the..., Right outside, Opposite of.   
-	
-
-### Structure for Process (Flow & Diagram) 
-Intro: 1 sen
-	+ paraphrase using "title prompt" + "visual summarization"
-	+ describe using "where, when, who, what"
-	+ also use reporting verb (e.g. show, illustration, provide infor on, compare) don't use "present"
-	+ don't use inversion sentence like "It is shown in the graph" instead of "The graph shows..." 
-	
-Overview: 1-2 sen
-	+ Talk about number of steps, and the main stages. Talk about the required tools for that process
-	
-Paragraph 1 + 2: 3-4 sen
-	+ Describe each part in detail, but if there're similar steps then group them together to describe. 
-	+ Grammars: present simple, passive. Describe in sequence, combine with present simple (e.g. once, when, after - like once the tee has been transported,...) 
+**Good to have:** 
++ symnonym for 
+	+ People (cities resident, urband dwellers)
+	+ percentage (proportions)
+	+ highest/lowest (most consump, least common)
+	+ similar (around, roughtly)
+	+ buying (purchased)
+	+ "X% of" - accounted for X%, instant coffee comprised/accounted Y% of Sydney..., remain stable at.
+	+ comparison word: while, whereas. 
+	+ **percentages:**
+		![[Pasted image 20250926121500.png| 444]]
 
 
-college *ˈkälij* (lệch)
-colleagues (lịt)
+
+**Introduction** -> what chart shows, time, place, units
+*Base:* The bar chart *illustrates* people's coffee and tea drinking habits percentage in five australia cities during the last four weeks.  
+*Improvised:* The bar chart *compare* the percentage (*more specific*) of australian people's beverage comsumption for tea and coffee, during the last four weeks. 
+
+**Overview** -> highest/lowest, constrast, overall
+*Base:* In general, across 5 cities, fresh coffee consistently the least common purchased coffee while the number of residents visiting cafes for coffee and tea remains the highest, with the exception of Adelaide where people are somewhat more probable to buy instant coffee.
+
+**Main Paragraph 1: talk about the most noticeble**
+lorem
+
+**Main Paragraph 2: talk about the least noticeble**
+lorem
+
 
