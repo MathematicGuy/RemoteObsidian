@@ -4,34 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fa644126a22094c3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9bfdb2203f7168",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELST/IELST WRITING.md",
+                "file": "_Focus/Todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "IELST WRITING"
-            }
-          },
-          {
-            "id": "1545cf55d9b36e08",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20250926095048.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250926095048"
+              "title": "Todo"
             }
           }
         ]
@@ -100,7 +90,7 @@
             }
           },
           {
-            "id": "5f55ff1646215715",
+            "id": "566b0afdf0782f3e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -246,13 +236,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dc9bfdb2203f7168",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Images/Pasted image 20250926121500.png",
+    "_Focus/Todo.md",
     "Images/Pasted image 20250926095048.png",
     "IELST/IELST WRITING.md",
+    "Images/Pasted image 20250926121500.png",
     "Images/Pasted image 20250926095048.png.~tmp",
-    "_Focus/Todo.md",
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
     "Images/Pasted image 20250922132035.png",
     "IELST/IELST READING.md",
@@ -271,7 +261,6 @@
     "Images/Pasted image 20250919090744.png",
     "Images/Pasted image 20250919090735.png",
     "Images/Pasted image 20250919090729.png",
-    "Images/Pasted image 20250919090723.png",
     "2 ACTIONS/Personal/Language Learning/German/German Vocabulary/German Vocab.md",
     "AIO 2025.md",
     "Venture Capital.md",
