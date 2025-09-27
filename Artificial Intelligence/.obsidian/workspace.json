@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "AIO2025 - Random Forest"
             }
+          },
+          {
+            "id": "00e9ab9ba4648e37",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,10 +246,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "f09fee20124cb787",
+  "active": "00e9ab9ba4648e37",
   "lastOpenFiles": [
-    "AIO2025 - Random Forest.md",
     "2 ACTIONS/_Focus.md",
+    "AIO2025 - Random Forest.md",
     "3 RESOURCES/How to/Anaconda Command.md",
     "3 RESOURCES/How to/Anaconda.md",
     "K-Nearest Neighbor (KNN).md",
