@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "ecf0b480856cd422",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,14 +212,23 @@
               "icon": "lucide-info",
               "title": "File properties for Annotation"
             }
+          },
+          {
+            "id": "ca48c8af5006f4ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 353,
-    "collapsed": true
+    "width": 798
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,7 +245,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ecf0b480856cd422",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "Spaces/#habit+calisthenics",
