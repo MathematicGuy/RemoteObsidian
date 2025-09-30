@@ -45,4 +45,8 @@ You not getting brainwashed if you have no worried of asking question.
 ### How Society Collapse
 
 Cycle of wealth and power. 
-Average -> Noble. So they want to have as many kids as 
+Average -> Noble. So they want to have as many kids as possible to pass down their wealth -> this lead to too many people in power but none of them wanted to work -> so they hired migrant to work for them -> but migrant create culture instabiility. 
+
+(High class is the Boss) - (Middle class is the manager) - (Lower class is the worker)
+To create more wealth ppl in power need citizen work harder -> exploit the worker class -> to avoid confrontation they use war as a form of distraction. 
+
