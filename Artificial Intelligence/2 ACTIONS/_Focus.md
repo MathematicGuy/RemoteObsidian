@@ -7,12 +7,12 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - Determine Study & HW Priority
 - Noting Structure (no more than 2 file)
 - Estimate Time taken
++ cuML for machine learning
 
-**Setup**
-cuML for machine learning
-set up cuda for RAG and Fine-tunning
-
-
+**Create System**
++ Convince myself with logic & knowledge.
++ Reduce friction in creating Habit -> made studying fun.
++ get back on track.
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2033ac6b5f5aab37",
+    "id": "11de5b3d9d22cc99",
     "type": "split",
     "children": [
       {
-        "id": "1140e9d2fc34cf0f",
+        "id": "8c41927d551408eb",
         "type": "tabs",
         "children": [
           {
-            "id": "60ccd9cea13b89bf",
+            "id": "0dd1098d915e38b4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -29,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "88192e773544ad06",
+    "id": "25afb8235e6f8ef0",
     "type": "split",
     "children": [
       {
-        "id": "3aeeb4ad871240f2",
+        "id": "3be6af5161ba7224",
         "type": "tabs",
         "children": [
           {
-            "id": "be48f39812b668dc",
+            "id": "15cbfc3981273ffb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "1254cea9b1ab36db",
+            "id": "f20653e3c2556967",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "ea38b953b6e91905",
+            "id": "b8f070a3b686267b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,19 +84,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "9144e9947a997ba4",
+    "id": "38133e48d1fcebfb",
     "type": "split",
     "children": [
       {
-        "id": "17a2e13919d534e1",
+        "id": "a1e641e23d3c11a8",
         "type": "tabs",
         "children": [
           {
-            "id": "38d809ea8a17f1b2",
+            "id": "85d2b2f2dcc5cb2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,24 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "f5969a2e67ae1a5c",
+            "id": "d3e25b045c4ddb9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "4518dce2e0fe3f70",
+            "id": "50644b2b33a46c11",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +140,7 @@
             }
           },
           {
-            "id": "e03d34ee61667613",
+            "id": "03fcc42ac045f2d6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,21 +154,22 @@
             }
           },
           {
-            "id": "fc03c96013878c44",
+            "id": "8d16712f08d889b8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of _Focus"
             }
           },
           {
-            "id": "13e069ec47933803",
+            "id": "9536f02b28eac683",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -197,9 +200,6 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "60ccd9cea13b89bf",
-  "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
-    "5G Basics - What it all about.md"
-  ]
+  "active": "0dd1098d915e38b4",
+  "lastOpenFiles": []
 }
