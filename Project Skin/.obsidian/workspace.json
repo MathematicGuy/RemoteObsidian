@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "4f9da42ed50da8d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELST/IELST WRITING.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "IELST WRITING"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +90,7 @@
             }
           },
           {
-            "id": "b30746cce3d74ea9",
+            "id": "cda23b989e3994a2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -115,11 +99,13 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 264,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -261,8 +247,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f9da42ed50da8d5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "IELST/IELST WRITING.md",
     "_Focus/Todo.md",
     "IELST/IELST.md",
     "conflict-files-obsidian-git.md",
