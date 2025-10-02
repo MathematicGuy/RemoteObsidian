@@ -7,8 +7,12 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - Determine Study & HW Priority
 - Noting Structure (no more than 2 file)
 - Estimate Time taken
++ cuML for machine learning
 
-
+**Create System**
++ Convince myself with logic & knowledge.
++ Reduce friction in creating Habit -> made studying fun.
++ get back on track.
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
@@ -24,10 +28,9 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 [ML Dataset Archive](https://archive.ics.uci.edu/datasets/?skip=0&take=10&sort=desc&orderBy=NumHits&search=&Types=Sequential)
 
 
-### [[Critical Thinking & Mental System]] _where I analyze my gnikniht & engineer systems for better life 
-- [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh) 
+### [[Critical Thinking & Mental System]] _where I analyze my gnikniht & engineer systems for better life
+- [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh)
 - [ ] [Dr.Art Math](https://www.dr-aart.nl/Fractions-menu.html)
 - [ ] [[how_my_thinking_work]]
 - [[Aha]]
 + [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
-

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d4e732a841033fde",
+    "id": "11de5b3d9d22cc99",
     "type": "split",
     "children": [
       {
-        "id": "663f3a1dadbf939e",
+        "id": "8c41927d551408eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f09fee20124cb787",
+            "id": "0dd1098d915e38b4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,20 +22,6 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "1512dedace270a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5G Basics - What it all about.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5G Basics - What it all about"
-            }
           }
         ]
       }
@@ -43,20 +29,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c4caac05eeb37b0",
+    "id": "25afb8235e6f8ef0",
     "type": "split",
     "children": [
       {
-        "id": "f92db5b25d25c4de",
+        "id": "3be6af5161ba7224",
         "type": "tabs",
         "children": [
           {
-            "id": "071da20bef53fc13",
+            "id": "15cbfc3981273ffb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -64,12 +50,12 @@
             }
           },
           {
-            "id": "dbc61dc1b0a26cb8",
+            "id": "f20653e3c2556967",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"annotation-target\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +67,7 @@
             }
           },
           {
-            "id": "3af4179c2ed191f6",
+            "id": "b8f070a3b686267b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,38 +75,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "e0993c9e53013bed",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 344.51103591918945,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "5b429f276e830688",
+    "id": "38133e48d1fcebfb",
     "type": "split",
     "children": [
       {
-        "id": "ef264f4c5d3315f6",
+        "id": "a1e641e23d3c11a8",
         "type": "tabs",
         "children": [
           {
-            "id": "1a124e27f563919f",
+            "id": "85d2b2f2dcc5cb2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -139,7 +111,7 @@
             }
           },
           {
-            "id": "27e1d1b0f43efc65",
+            "id": "d3e25b045c4ddb9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -153,7 +125,7 @@
             }
           },
           {
-            "id": "698061f4331a6cac",
+            "id": "50644b2b33a46c11",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,7 +140,21 @@
             }
           },
           {
-            "id": "85f35245e27faef0",
+            "id": "03fcc42ac045f2d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8d16712f08d889b8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -183,17 +169,7 @@
             }
           },
           {
-            "id": "6883addd4be61207",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "a64f736a5ddc2846",
+            "id": "9536f02b28eac683",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -201,24 +177,34 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "9f7dc6e7186ee34a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
-      "graph:Open graph view": true,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,

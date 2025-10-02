@@ -1,4 +1,3 @@
-
 Fav theme
 ![[Pasted image 20240601234808.png]]
 
@@ -6,7 +5,7 @@ Fav theme
 ```bash
 Get-PoshThemes
 ```
-Active file 
+Active file
 note: pwsh is powershell in short
 
 **Active Theme**
@@ -56,7 +55,7 @@ oh-my-posh init powershell | Invoke-Expression
 ```bash
 New-Item -Path $PROFILE -Type File -Force
 ```
-Ex: 
+Ex:
 ```bash
 C:\Users\boboi\OneDrive - CMC University\Documents\WindowsPowerShell
 ```
@@ -69,7 +68,7 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\negligible.omp.json" | Invo
 
 3) **Save the Profile**
 ```bash
-. $PROFILE
+.`Set-ExecutionPolicy Unrestricted -Scope CurrentUser`
 ```
 
 
