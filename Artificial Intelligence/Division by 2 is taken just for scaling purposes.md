@@ -1,7 +1,6 @@
 In the context of linear regression and gradient descent optimization, the cost function is defined as:
 $$E\left(m, b\right) = \frac{1}{2n}\sum_{i=1}^{n} \left(\hat{y}^{(i)} - y^{(i)}\right)^2 =
 \frac{1}{2n}\sum_{i=1}^{n} \left(mx^{(i)}+b - y^{(i)}\right)^2,\tag{1}$$
-
 Say we **divided by 2**, the function will be **simplified without effecting the final result as we can just mul by 2 after**. Without 2, ours **partial derivative can be calculated more easily since gradient descent is all about getting closer to a expected value** (the more origin the function are, the easier to calculate)
 + **Partial Derivative with Respect to $m$:**
 	$$
@@ -15,10 +14,8 @@ Say we **divided by 2**, the function will be **simplified without effecting the
 
 
 ### Example:
-
 Suppose we have a single training example for simplicity:
-
-- $ x^{(1)} = 2 $
+- $x^{(1)} = 2$
 - $y^{(1)} = 5$
 - Initial parameters: $m = 0,\space b = 0$
 - Learning rate: $alpha = 0.1$

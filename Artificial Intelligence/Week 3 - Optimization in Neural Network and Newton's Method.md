@@ -24,7 +24,7 @@ Let update these Partial Derivative to find w1, w2 and b
 #### Motivation: classified output base on input features
 ![[Pasted image 20240927085659.png]]
 
-We have a word table contain 2 unique word with their repeated time. Since our models take numerical input, we can plot  the point on 2 features axis: Aack and Beep, their repeated times as value.
+We have a word table c ontain 2 unique word with their repeated time. Since our models take numerical input, we can plot  the point on 2 features axis: Aack and Beep, their repeated times as value.
 >Now we need a function represent the line which divide the plot if emotion are happy or sad (0 & 1)
 ![[Pasted image 20240927090004.png]]
 
