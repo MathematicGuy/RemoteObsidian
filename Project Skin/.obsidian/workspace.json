@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "917813fbdcd83628",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.01103591918945
+    "width": 206.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -248,10 +236,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cbc53dc6bb856fb8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IELST/IELST.md",
     "Untitled.canvas",
+    "IELST/IELST.md",
     "Untitled.base",
     "_Focus/Todo.md",
     "Images/Pasted image 20250926095048.png",
