@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "9e057ae5591ac960",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +96,8 @@
               "state": {
                 "path": "IELST"
               },
-              "icon": "lucide-ghost",
-              "title": "mk-space"
+              "icon": "lucide-file",
+              "title": "IELST"
             }
           },
           {
@@ -99,13 +110,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.01103591918945,
-    "collapsed": true
+    "width": 600
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -247,16 +256,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cbc53dc6bb856fb8",
   "lastOpenFiles": [
+    "IELST/IELST.md",
     "_Focus/Todo.md",
-    "Untitled 1.md",
     "conflict-files-obsidian-git.md",
+    "Untitled.base",
+    "Untitled 1.md",
     "Images/Pasted image 20250926121500.png",
     "Images/Pasted image 20250926095048.png",
     "Images/Pasted image 20250922131551.png",
     "IELST Writing Task Guide.md",
-    "Untitled.base",
     "Spaces/#habit+calisthenics",
     "Building PC.md",
     "3 RESOURCES/Web/FrontEnd/Docker.md",
@@ -264,7 +274,6 @@
     "3 RESOURCES/Web/Docker/Docker Q&A.md",
     "3 RESOURCES/Web/Docker/Docker tips & bugs.md",
     "IELST/IELST READING.md",
-    "IELST/IELST.md",
     "Images/Pasted image 20250919090808.png",
     "Images/Pasted image 20250919090750.png",
     "Images/Pasted image 20250919090744.png",
@@ -286,7 +295,6 @@
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE OVERVIEW.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE in 15 Min.md",
     "Calisthenics Dip.md",
-    "2 ACTIONS/Workout/Calisthenics.md",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
