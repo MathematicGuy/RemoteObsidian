@@ -58,7 +58,9 @@ graph fluctuation/changes over time:
 **Main Paragraph 1: talk about the/those MOST noticeble**
 	*Base:* People who went to café for coffee and tea account for more than three-fifths of Sydney, Melbourne and Hobart. In addition, city dweller that like coffee or tea and also bought instant coffee make up rought half of Brisbane and Adelaide. While Hobart remain the highest comsumer for instant coffee, Sydney and Melbourne buying rate remain sub 50 percent. 
 	.
-	*Improvised:* 
-
+	*Improvised:* People who tends to buy coffee or tea from a cafe make up three-fifths of Sydney, Melbourne and Hobart. By contrast, about a half of Brisbane and Adelaide prefer to bought instant coffee, while purchase rate in Hobart is slightly higher, thought Sydney and Melbourne remained below 50%.   
+	
 **Main Paragraph 2: talk about the/those Least noticeble**
-	In Constact, fresh coffee is the lowest comsumed beverage with both Brisbane and Adelaide only take up approximately a third. Along with Sydney and Melbourne accounted for roughtly two-fifths of the city. 
+	*Base:* In Constact, fresh coffee is the lowest comsumed beverage with both Brisbane and Adelaide only take up approximately a third. Along with Sydney and Melbourne accounted for roughtly two-fifths of the city. 
+	.
+	*Improvised:* Fresh coffee purchased were the least common in every city. With only a third of Brisbane and Adelaide buying it, compared to roughtly 40% in Sydney and Melbourne 
