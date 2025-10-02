@@ -1,3 +1,6 @@
+**Learning New Word**
+![[Pasted image 20250417154921.png | 244]]
+
 
 + **Ambiguous**: Không sáng tỏ
 + **Kernel**: Lõi
