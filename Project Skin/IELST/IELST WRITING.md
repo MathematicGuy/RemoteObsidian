@@ -17,9 +17,7 @@ graph fluctuation/changes over time:
 **Intro:** The bar chart illustrate australia citites's coffee & tea consumption trend of Sydney, Melbourne, Brisbane, Adeleide & Hobart over four-week period.
 
 **Overview:** In general, instant coffee make more sales than fresh coffee in the five cities with their lowest sales is 45% compare to 34% for fresh coffee. In all five cities, people who went to cafe or tea remain the highest then instance coffee and fresh coffee remain the lowest being consumed.   
-
-
-+ ? Like Abstract in research, show the Summary of the whole topic. Should start the paragraph with Overall, In general or As can be seen that, What is notable from the chart is that, etc.. Focus on most notable points of the graph like its trend, similarity, constract, topic, etc..
++ ? Like Abstract in research, show the Summary of the whole topic. Should start the paragraph with Overall, In general or as can be seen that, What is notable from the chart is that, etc.. Focus on most notable points of the graph like its trend, similarity, constract, topic, etc..
 + ! Make sure to not include your opinion bc the report focus on the graph, not anything else.
 + noticeble point -> point of each categories -> overall of all catefories  (comment directly)
 
@@ -46,8 +44,6 @@ graph fluctuation/changes over time:
 	+ comparison word: while, whereas. 
 	+ **percentages:**
 		![[Pasted image 20250926121500.png| 444]]
-
-
 
 **Introduction** -> what chart shows, time, place, units
 *Base:* The bar chart *illustrates* people's coffee and tea drinking habits percentage in five australia cities during the last four weeks.  
