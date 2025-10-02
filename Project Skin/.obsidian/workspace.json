@@ -25,16 +25,15 @@
             }
           },
           {
-            "id": "68e411f81e5cf0de",
+            "id": "917813fbdcd83628",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "release-notes",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "currentVersion": "1.9.14"
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ],
@@ -99,12 +98,12 @@
               "state": {
                 "path": "IELST"
               },
-              "icon": "lucide-ghost",
-              "title": "mk-space"
+              "icon": "lucide-file",
+              "title": "IELST"
             }
           },
           {
-            "id": "35ab2ebd6362ce20",
+            "id": "f029c57a9369ede1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -113,8 +112,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,10 +248,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "68e411f81e5cf0de",
+  "active": "cbc53dc6bb856fb8",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
+    "IELST/IELST.md",
+    "Untitled.canvas",
     "Untitled.base",
+    "_Focus/Todo.md",
     "Images/Pasted image 20250926095048.png",
     "IELST/IELST WRITING.md",
     "Images/Pasted image 20250926121500.png",
@@ -261,7 +261,6 @@
     "2 ACTIONS/Personal/Language Learning/Languages Notes/Vocabulary.md",
     "Images/Pasted image 20250922132035.png",
     "IELST/IELST READING.md",
-    "IELST/IELST.md",
     "Images/Pasted image 20250922131534.png",
     "Images/Pasted image 20250922131551.png",
     "IELST Writing Task Guide.md",
@@ -291,7 +290,6 @@
     "Calisthenics Dip.md",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
-    "Untitled.canvas",
     "Excalidraw",
     "Spaces/#todo",
     "Doodles",
