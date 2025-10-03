@@ -80,4 +80,3 @@ graph fluctuation/changes over time:
 **Paragraph 2:**
 
 
-		QCCFF'.j.;.'
