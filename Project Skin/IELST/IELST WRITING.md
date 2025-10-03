@@ -68,15 +68,13 @@ graph fluctuation/changes over time:
 #### Rewrite 2nd times
 ![[Pasted image 20250926095048.png]]
 
-**Intro**
+**Intro:** The bar chart shows people drinking habits percentage across fives Australian's cities for fresh, instant coffee and went to cafe for coffee or tea during 4 weeks period. 
 
 
-**Overall**
+**Overall:** In general, while fresh coffee are the least prefer, most people come to cafe for coffee or  tea from cafe across five Australian cities except for Adelaide where people are more likely to bought instant coffee.  
 
+**Paragraph 1:** Across Sydney Melborne and Hobart, more than three-fifths of people have the habits of going for cafe for coffee or tea while others cities make up around a half. Similary, citizen who to bought instant coffee also accounted for a half Brisbane and Adelaide while Hobart being the highest being just under 55%. Whereas Sydney and Melbourne remain slightly above two-fifths. (45%) 
 
-**Paragraph 1:**
-
-
-**Paragraph 2:**
+**Paragraph 2:** Fresh coffee is the least common drink with purchase rate in Sydney and Melbourne made up roughtly two-fifth. In additionally, only a third of people in Brisbane and Adelaide went for fresh coffee while Hobart is around two-fifths.   
 
 

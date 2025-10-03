@@ -28,6 +28,25 @@
             "id": "f20088cdc02ae1fd",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250926095048.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250926095048"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f36bfd4d258f6b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3781ca7e67a63ebf",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "IELST/IELST WRITING.md",
@@ -39,8 +58,7 @@
               "title": "IELST WRITING"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,16 +281,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f20088cdc02ae1fd",
+  "active": "3781ca7e67a63ebf",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
+    "Images/Pasted image 20250926095048.png",
     "IELST/IELST WRITING.md",
+    "_Focus/Todo.md",
     "IELST/IELST.md",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Untitled 1.md",
     "Images/Pasted image 20250926121500.png",
-    "Images/Pasted image 20250926095048.png",
     "Images/Pasted image 20250922131551.png",
     "IELST Writing Task Guide.md",
     "Spaces/#habit+calisthenics",
@@ -302,7 +320,6 @@
     "German Vocabulary.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE OVERVIEW.md",
     "4 ARCHIVES/2023/3rd Semesters/DSA/DATA STRUCTURE in 15 Min.md",
-    "Calisthenics Dip.md",
     "1 PROJECTS/Business Skills",
     "Spaces/#habit",
     "Untitled.canvas",
