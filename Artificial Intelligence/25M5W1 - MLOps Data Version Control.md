@@ -11,4 +11,5 @@ AWS - github for dataset ?
 ![[Pasted image 20251002204135.png]]
 
 **With & Without DvC**![[Pasted image 20251002204405.png]]'
+Always add DvC first before git. Because git will update the data first and causes in-sync.
 

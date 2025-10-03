@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "cda23b989e3994a2",
+            "id": "8b22a5c1af14cc82",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -249,8 +249,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IELST/IELST WRITING.md",
     "_Focus/Todo.md",
+    "IELST/IELST WRITING.md",
     "IELST/IELST.md",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
