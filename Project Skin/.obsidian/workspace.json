@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
@@ -88,7 +90,7 @@
             }
           },
           {
-            "id": "3f021fe6d1e5497b",
+            "id": "5ba54479c0f63dcd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -246,12 +248,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "IELST/IELST WRITING.md",
     "Images/Pasted image 20251005153106.png",
     "Images/Pasted image 20251005152339.png",
     "Images/Pasted image 20251005150619.png",
     "IELST/IELST.md",
-    "_Focus/Todo.md",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Untitled 1.md",
