@@ -1,5 +1,17 @@
-### [[IELST Writing Task Guide]]
-### Writing 1: Tea & Coffee Survey
+# Writing Task 1: 
++ [[IELST Writing Task Guide]]
+	
+- Overview cho biểu đồ có thay đổi theo thời gian (Change Chart)
+    
+- Overview cho biểu đồ không có thay đổi theo thời gian (Comparison Chart)
+    
+- Overview cho dạng biểu đồ hỗn hợp (Mixed Charts)
+    
+- Overview cho biểu đồ Quy trình (Process)
+    
+- Overview cho bản đồ (Map)
+
+## Writing 1: Tea & Coffee Survey
 ![[Pasted image 20250926095048.png]]
 **Length:** 4 - 5 đoạn văn.
 Focus on **"Introduction -> Overview"(1 - 2 sentence each)** then Detail 1 & 2. 
@@ -75,4 +87,67 @@ graph fluctuation/changes over time:
 **Paragraph 1:** Across Sydney Melborne and Hobart, more than three-fifths of people have the habits of going for cafe for coffee or tea while others cities make up around a half. Similary, citizen who to bought instant coffee also accounted for a half Brisbane and Adelaide while Hobart being the highest being just under 55%. Whereas Sydney and Melbourne remain slightly above two-fifths. (45%) 
 
 **Paragraph 2:** Fresh coffee is the least common drink with purchase rate in Sydney and Melbourne made up roughtly two-fifth. In additionally, only a third of people in Brisbane and Adelaide went for fresh coffee while Hobart is around two-fifths.
+
+### Improved Version (Band 8.5+)
+**STEP 1: Introduction**  (data number, only describe)
+The bar chart compares the **percentages of residents** (UNIT OF MEASUREMENT) in five **Australian** (WHERE) cities **who purchased fresh or instant coffee** (WHAT 1), or visited a **café for coffee and tea** (WHAT 2), over a **four-week** (WHEN) period.
+
+**STEP 2: FILTERING, GROUPING** the **most noticeble (highest/lowest)**, similar/overall **trend**. (no specific number also)
+![[Pasted image 20251005150619.png | 400]]
+**Overview**  
+Overall, visiting cafés was the most popular activity in all five cities, whereas buying fresh coffee was the least common. The only exception was Adelaide, where more people bought instant coffee than went to cafés.
+
+**Paragraph 1**  (Most Noticeble 1)
+In Sydney, Melbourne and Hobart, more than 60% of residents visited cafés, making this the dominant habit. By contrast, around half of the population in Brisbane and Adelaide purchased instant coffee, with Hobart recording the highest proportion of instant coffee buyers at just under 55%. In comparison, Sydney and Melbourne had slightly lower figures, at around 45%.
+
+**Paragraph 2**  (Most Noticeble 2)
+Purchasing fresh coffee was the least popular option overall. Only about one third of residents in Brisbane and Adelaide bought it, while figures in Sydney, Melbourne and Hobart were slightly higher, at around two-fifths.
+
+## **“Lexical Resource & Grammatical Range”** for bar chart type. 
+### 1. Verb and Noun describe trend (bar chart with time element)
++ **Increase** - rose, grew, climbed, went up, surged, rocketed/a rise, an increase, growth, a surge. 
++ **decrease** - fell, declined, dropped, pluged, slumped (verb) / a fall, a deline, a drop, a slump. 
++ **stable** - steady, balance, unchanged, stabilized (verb), levelled of, stability (noun)
++ **fluctuation** - votile, volatility (noun), fluctuated. 
++ **highest/lowest** - reach a peak of / bottomd out, hit a trought / the lowest point (noun).
+
+### 2.  Adverb and Adjective describe rate of change (derivative ?)
+**What Adverb use for ?** adverbs are used to modify verbs, adjective or other adverbs by *providing more information such as how, when, where, why or to what degree something happens. * 
+> Adverbs don’t create new actions — they modify _how_ an existing action behaves. Example in Code term: move(quickly), move(forward), move(quickly, forward) -> modify the original "move". 
+![[Pasted image 20251005152339.png]]
++ **Dramatic changes** - dramatically, sharly, signiicantly, substantially, considerably, steeply (adverb), significant, considerable, steep (adj).
+	
++ **Gentle changes** - gradually, moderately, sightly, marginally (adverb) / gradual, moderate, slight, marginal (adj). 
+
+
+## Writing 2:  Study expenditure across four contries
+The table and chart provide a breakdown of the **total expenditure and the average amount of money spent by students** *per week* while **studying abroad in four countries.** Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+![[Pasted image 20251005153106.png | 555]]
+**Note:** Define changes -> inspect opposites of those changes -> Comparison -> That it. 
+**Noticeble** exception of country D where tuition is higher than their living cost while their expenditure being the lowest over all fours. 
+
+**MOST** 
+- living cost take up the most up to $430 in country A. 
+- country A & B have the highest cost in costrast rought $250 in city C and D. 
+
+**LEAST**
+- accomodation being the lowest expenditure, remain around $200 in all four countries. 
+**TREND**
+- graduate decrease in living cost from country A to D. 
+- Living cost and tuition in country C and D 
+
+
+**Intro:** The bar chart illustrate student's total expenditure in accomodation, intuition and living cost when studying abroad across four countries in the span of four weeks.  
+
+
+
+**Overview (most, least, trend):** The most striking feature of the diagram is living cost which remain the highest in countries A, B and C with the exception of country D where tuition is higher than living cost. In constrast, accomodation persist around 200 dollars in all four country with B is the highest at 280 dollars. 
+
+
+**Paragraph 1:**
+
+
+
+**Paragraph 2:**
+
 
