@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "70a96622cba93327",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,13 +110,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264,
-    "collapsed": true
+    "width": 264
   },
   "right": {
     "id": "2274cd5bb7462f92",
@@ -225,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -247,12 +256,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cbc53dc6bb856fb8",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
-    "IELST/IELST WRITING.md",
     "IELST/IELST.md",
+    "_Focus/Todo.md",
     "conflict-files-obsidian-git.md",
+    "IELST/IELST WRITING.md",
     "Untitled.base",
     "Untitled 1.md",
     "Images/Pasted image 20250926121500.png",

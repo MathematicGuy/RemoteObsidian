@@ -63,4 +63,20 @@ graph fluctuation/changes over time:
 **Main Paragraph 2: talk about the/those Least noticeble**
 	*Base:* In Constact, fresh coffee is the lowest comsumed beverage with both Brisbane and Adelaide only take up approximately a third. Along with Sydney and Melbourne accounted for roughtly two-fifths of the city. 
 	.
-	*Improvised:* Fresh coffee purchased were the least common in every city. With only a third of Brisbane and Adelaide buying it, compared to roughtly 40% in Sydney and Melbourne 
+	*Improvised:* Fresh coffee purchased were the least common in every city. With only a third of Brisbane and Adelaide buying it, compared to roughtly 40% in Sydney and Melbourne.
+
+#### Rewrite 2nd times
+![[Pasted image 20250926095048.png]]
+
+**Intro**
+
+
+**Overall**
+
+
+**Paragraph 1:**
+
+
+**Paragraph 2:**
+
+

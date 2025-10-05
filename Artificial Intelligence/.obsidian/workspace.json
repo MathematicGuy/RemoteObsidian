@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "2d7ece34f3b8dd08",
+            "id": "d0cb225c18eeb9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -226,14 +226,15 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "2d7ece34f3b8dd08",
+  "active": "d0cb225c18eeb9cf",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "25M5W1 - MLOps Data Version Control.md",
+    "AIO 2025.md",
+    "AIO2025 - Git & Github for Version Control.md",
     "image/Pasted image 20251002204405.png",
     "image/Pasted image 20251002204135.png",
-    "25M5W1 - MLOps Data Version Control.md",
     "image/Pasted image 20251002203416.png",
-    "AIO 2025.md",
-    "2 ACTIONS/_Focus.md",
     "25M5W1 - A Bridge to Linear Regression.md",
     "Calculus_Optimization.md",
     "Linear Regression Using Gradient Descent Exercise.md",
