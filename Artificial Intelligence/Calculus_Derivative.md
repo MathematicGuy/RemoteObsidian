@@ -119,7 +119,6 @@ The 1st function have y = f(X) thus g(y) = $\sqrt{f(x)}$
 
 ## Derivative of Trigonometic  
 note: revison some trigonometry ![[Pasted image 20240712093458.png]]
-
 ![[Pasted image 20240712093939.png]]
 
 + ? $\sin(x + \nabla x)$ is a point with $\nabla x$ as a natural number. We see that $\sin (x + \nabla x) > \sin x$
@@ -143,7 +142,7 @@ $\frac{\Delta(\sin x)}{\Delta x} = \cos x$  and  $-\frac{\Delta(\cos x)}{\Delta 
 ![[Pasted image 20240712103604.png]]
 
 ## Meaning of the Exponential (e) 
-Use 1 because it present 100%. $$1 + 1 * \frac{1}{n}$$ where $\frac{1}{n}$ is the profit percentage + original money. 
+Use 1 because it present 100%. $$1 + \left(1 * \frac{1}{n}\right)= 100\% + \text{profit}$$ where $\frac{1}{n}$ is the profit percentage + original money. 
 
 ![[Pasted image 20240712162717.png]]
 
@@ -162,8 +161,8 @@ Use 1 because it present 100%. $$1 + 1 * \frac{1}{n}$$ where $\frac{1}{n}$ is th
 
 ## Derivative of $e^x$
 ![[Pasted image 20240713141928.png]]
-> To Theory, e^x cannot be larger than ~ 2.71828. And if there is it just a super minimum amount. Therefor e^x2 ~ e^x1. So The Derivative should just be $e^x$.
-+ $ The rate of change of $e^x$ is $e^x$ since no matter how $x$ increase $e$ remain the same.
+> To Theory, e^x cannot be larger than ~ 2.71828. And if there is it just a super minimum amount. Therefor $e^{2.x} \approx e^{x1}$. So The Derivative should just be $e^x$.
++ $ The rate of change of $e^x$ is $e^x$ since no matter how $x$ increase $e$ remain the same. ![[Pasted image 20251005215552.png# left | 333]]
 
 To verify that let calc the Slope of $e^x$. Since $\Delta x \to 0$,  $e^{x + \Delta x}$ will come closer to $e^x$ , calc the Slope for every x we see that the Slope will always end up with 7.39 which is $e^2$
 ![[Pasted image 20240713143208.png]]
@@ -176,7 +175,8 @@ To verify that let calc the Slope of $e^x$. Since $\Delta x \to 0$,  $e^{x + \De
 ![[Pasted image 20240713151048.png]]
 > In short, the b (base) raise to the p (power) of what equal to the n (number)
 
-Let understand 3 furthur more, we know that:
+
+**We know that:**
 ![[Pasted image 20240713161337.png]]
 replace 1/n with k
 ![[Pasted image 20240713161443.png]]

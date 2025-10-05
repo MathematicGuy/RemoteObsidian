@@ -1,7 +1,7 @@
 In the context of linear regression and gradient descent optimization, the cost function is defined as:
 $$E\left(m, b\right) = \frac{1}{2n}\sum_{i=1}^{n} \left(\hat{y}^{(i)} - y^{(i)}\right)^2 =
 \frac{1}{2n}\sum_{i=1}^{n} \left(mx^{(i)}+b - y^{(i)}\right)^2,\tag{1}$$
-Say we **divided by 2**, the function will be **simplified without effecting the final result as we can just mul by 2 after**. Without 2, ours **partial derivative can be calculated more easily since gradient descent is all about getting closer to a expected value** (the more origin the function are, the easier to calculate)
+Say we **divided by 2**, the function will be **simplified without effecting the final result as we can JUST MUL BY 2 AFTER**. Without 2, ours **partial derivative can be calculated more easily since gradient descent is all about getting closer to a expected value** (the more origin the function are, the easier to calculate)
 + **Partial Derivative with Respect to $m$:**
 	$$
 	\frac{\partial E}{\partial m} = \frac{1}{2n}. 2\sum_{i=1}^{n} \left(mx^{(i)}+b - y^{(i)}\right)x^{(i)}   = \frac{1}{n} \sum_{i=1}^{n} \left(mx^{(i)}+b - y^{(i)}\right)x^{(i)}   
@@ -54,6 +54,5 @@ $$\frac{\partial E'}{\partial b} = 2(mx^{(1)} + b - y^{(1)}) = 2(0 + 0 - 5) = -1
 
 
 ### Conclusion:
-
 - Without division by 2, the gradient steps are larger due to the extra factor of 2.
 - With division by 2, the steps are smaller and may lead to more stable convergence depending on the learning rate.

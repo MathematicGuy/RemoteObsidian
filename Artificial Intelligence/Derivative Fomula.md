@@ -83,30 +83,28 @@
   $$
 
 - $$
-  \frac{d}{dx} (\arccot x) = -\frac{1}{1 + x^2}
+  \frac{d}{dx} (arccot x) = -\frac{1}{1 + x^2}
   $$
 
 - $$
-  \frac{d}{dx} (\arcsec x) = \frac{1}{|x| \sqrt{x^2 - 1}}
+  \frac{d}{dx} (arcsec x) = \frac{1}{|x| \sqrt{x^2 - 1}}
   $$
 
 - $$
-  \frac{d}{dx} (\arccsc x) = -\frac{1}{|x| \sqrt{x^2 - 1}}
+  \frac{d}{dx} (arccsc x) = -\frac{1}{|x| \sqrt{x^2 - 1}}
   $$
 
 ### Hyperbolic Functions
-
-- $$
+$$
   \frac{d}{dx} (\sinh x) = \cosh x
-  $$
+$$
 
-- $$
+$$
   \frac{d}{dx} (\cosh x) = \sinh x
-  $$
+$$
 
-- $$
-  \frac{d}{dx} (\tanh x) = \text{sech}^2 x
-  $$
+$$
+  \frac{d}{dx} (\tanh x) = \text{sech}^2 x$$
 
 - $$
   \frac{d}{dx} (\coth x) = -\text{csch}^2 x
@@ -165,7 +163,7 @@
 - $$
   \frac{d}{dx} [f(x) \cdot g(x)] = f'(x) g(x) + f(x) g'(x)
   $$
-
+ 
 ### Quotient Rule
 
 - $$
@@ -177,6 +175,9 @@
 - $$
   \frac{d}{dx} [f(g(x))] = f'(g(x)) \cdot g'(x)
   $$
+
+| wx + b - y | -> (wx + b - y) / | wx + b - y |  
+
 
 ## Other Useful Formulas
 

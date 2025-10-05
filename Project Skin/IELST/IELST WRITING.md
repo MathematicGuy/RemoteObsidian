@@ -129,7 +129,6 @@ The table and chart provide a breakdown of the **total expenditure and the avera
 **MOST** 
 - living cost take up the most up to $430 in country A. 
 - country A & B have the highest cost in costrast rought $250 in city C and D. 
-
 **LEAST**
 - accomodation being the lowest expenditure, remain around $200 in all four countries. 
 **TREND**
@@ -139,15 +138,11 @@ The table and chart provide a breakdown of the **total expenditure and the avera
 
 **Intro:** The bar chart illustrate student's total expenditure in accomodation, intuition and living cost when studying abroad across four countries in the span of four weeks.  
 
-
-
 **Overview (most, least, trend):** The most striking feature of the diagram is living cost which remain the highest in countries A, B and C with the exception of country D where tuition is higher than living cost. In constrast, accomodation persist around 200 dollars in all four country with B is the highest at 280 dollars. 
 
-
-**Paragraph 1:**
-
+**Paragraph 1:** 
 
 
-**Paragraph 2:**
+**Paragraph 2:** 
 
 
