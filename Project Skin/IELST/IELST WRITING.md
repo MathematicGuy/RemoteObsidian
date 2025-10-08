@@ -128,7 +128,7 @@ The table and chart provide a breakdown of the **total expenditure and the avera
 
 **MOST**
 - living cost take up the most up to $430 in country A.
-- country A & B have the highest cost in costrast rought $250 in city C and D.
+		- country A & B have the highest cost in costrast rought $250 in city C and D.
 **LEAST**
 - accomodation being the lowest expenditure, remain around $200 in all four countries.
 **TREND**
