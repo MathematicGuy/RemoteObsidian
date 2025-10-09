@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "97b8cbb98c0bc156",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +199,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "97b8cbb98c0bc156",
   "lastOpenFiles": [
-    "IELST/IELST WRITING.md",
     "_Focus/Todo.md",
+    "IELST/IELST WRITING.md",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Images/Pasted image 20251005153106.png",

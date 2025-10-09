@@ -70,3 +70,15 @@ Taylor Series, Taylor Series with imaginary number $i$ -> Euler's Fomular.
 $$e^{ix}=\cos(x) + i.\sin(x)$$
 ![[Pasted image 20251005220917.png]]
 
+
+
+
+----
+
+Linear Regression multiply shape:
+$$X \in \mathbb{R}^{N \times (d+1)}. \theta \in \mathbb{R}^{(d+1 \times 1)}, \hat{y} \in \mathbb{R}^{N \times 1}$$
+where N is the number of samples (data points) and $d$ is the number of features, the input data matrix $X$ is often represent with an addition column of ones for the bias term. This result in a matrix with $N$ rows (for each data points) and $d + 1$ columns (for the $d$ feature plus the bias term), so its shape is $N \times (d + 1)$. The weight vector $\theta$ (including the bias term) corresponding to these $d + 1$ feature, so its shape is $(d + 1) \times 1$. The predicted output vector $\hat{y}$ has one value for each of the $N$ data points, so its shape is $N \times 1$. The matrix multiplication $X.\theta$ to calculate $\hat{y}$ is then $\mathbb{R}^{N \times (d + 1)} \times \mathbb{R}^{(d+1) \times 1}$, which results in an $\mathbb{R}^{N \times 1}$ matrix, matching the shape of $\hat{y}$. 
+
+
+
+
