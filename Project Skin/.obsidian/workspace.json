@@ -39,8 +39,7 @@
               "title": "Github"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +203,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a395ba8782fb8aad",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "_Focus/Todo.md",
     "IELST/IELST WRITING.md",
     "conflict-files-obsidian-git.md",
