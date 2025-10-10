@@ -12,9 +12,7 @@ banner: Images/Pasted image 20240402135259.png
 
 
 #Todo/[[GoalsThisMonth]]
-- [ ] Learning **German Accusative & Nominative**
-- [ ] English Pronunciation
-- [ ] German Pronunciation
+- [ ] Accquite Basic skill so I can confidendly go on a job interview 
 
 
 #MyRuleThat_I_SwearToLiveBy
