@@ -178,4 +178,7 @@ git push origin master --force
 git revert better-days
 ```
 
-	
+---
+## Git Definition
+### Staged Changes vs Merge Changes
+Staged Changes - allow to select specific changes to your commit (explicit change)
