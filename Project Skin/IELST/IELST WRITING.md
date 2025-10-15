@@ -1,14 +1,9 @@
 # Writing Task 1:
 + [[IELST Writing Task Guide]]
-
 - Overview cho biểu đồ có thay đổi theo thời gian (Change Chart)
-
 - Overview cho biểu đồ không có thay đổi theo thời gian (Comparison Chart)
-
 - Overview cho dạng biểu đồ hỗn hợp (Mixed Charts)
-
 - Overview cho biểu đồ Quy trình (Process)
-
 - Overview cho bản đồ (Map)
 
 ## Writing 1: Tea & Coffee Survey
@@ -56,22 +51,22 @@ graph fluctuation/changes over time:
 	+ comparison word: while, whereas.
 	+ **percentages:**
 		![[Pasted image 20250926121500.png| 444]]
-
+	
 **Introduction** -> what chart shows, time, place, units
 	*Base:* The bar chart *illustrates* people's coffee and tea drinking habits percentage in five australia cities during the last four weeks.
 	.
 	*Improvised:* The bar chart *compares* the percentage (*more specific*) of australian people' tea and coffee drinking habits, during the last four weeks.
-
+	
 **Overview** -> highest/lowest, constrast, overall
 	*Base:* In general, across five Australian cities, fresh coffee consistently the least common purchased coffee while the number of residents visiting cafes for coffee and tea remains the highest, with the exception of Adelaide where people are somewhat more probable to buy instant coffee.
 	.
 	*Improvised:* Overall, arcoss fives Australian cities while fresh coffee being least purchased beverage, people who went to cafe for coffee or tea make up the most proportion, with the exception of Adelaide where people are more likely to buy instant coffee.
-
+	
 **Main Paragraph 1: talk about the/those MOST noticeble**
 	*Base:* People who went to café for coffee and tea account for more than three-fifths of Sydney, Melbourne and Hobart. In addition, city dweller that like coffee or tea and also bought instant coffee make up rought half of Brisbane and Adelaide. While Hobart remain the highest comsumer for instant coffee, Sydney and Melbourne buying rate remain sub 50 percent.
 	.
 	*Improvised:* People who tends to buy coffee or tea from a cafe make up three-fifths of Sydney, Melbourne and Hobart. By contrast, about a half of Brisbane and Adelaide prefer to bought instant coffee, while purchase rate in Hobart is slightly higher, thought Sydney and Melbourne remained below 50%.
-
+	
 **Main Paragraph 2: talk about the/those Least noticeble**
 	*Base:* In Constact, fresh coffee is the lowest comsumed beverage with both Brisbane and Adelaide only take up approximately a third. Along with Sydney and Melbourne accounted for roughtly two-fifths of the city.
 	.
@@ -79,7 +74,6 @@ graph fluctuation/changes over time:
 
 #### Rewrite 2nd times
 ![[Pasted image 20250926095048.png]]
-
 **Intro:** The bar chart shows people drinking habits percentage across fives Australian's cities for fresh, instant coffee and went to cafe for coffee or tea during 4 weeks period.
 
 **Overall:** In general, while fresh coffee are the least prefer, most people come to cafe for coffee or tea from cafe across five Australian cities except for Adelaide where people are more likely to bought instant coffee.
@@ -102,6 +96,7 @@ In Sydney, Melbourne and Hobart, more than 60% of residents visited cafés, maki
 
 **Paragraph 2**  (Most Noticeble 2)
 Purchasing fresh coffee was the least popular option overall. Only about one third of residents in Brisbane and Adelaide bought it, while figures in Sydney, Melbourne and Hobart were slightly higher, at around two-fifths.
+
 
 ## **“Lexical Resource & Grammatical Range”** for bar chart type.
 ### 1. Verb and Noun describe trend (bar chart with time element)
@@ -136,12 +131,12 @@ The table and chart provide a breakdown of the **total expenditure and the avera
 - Living cost and tuition in country C and D
 
 
-**Intro:** The bar chart illustrate student's total expenditure in accomodation, intuition and living cost when studying abroad across four countries in the span of four weeks.
+**Intro:** The bar chart illustrate student's total expenditure in accomodation, intuition and living cost when studying abroad (*international student*) across four countries in the span of four weeks.
 
-**Overview (most, least, trend):** The most striking feature of the diagram is living cost which remain the highest in countries A, B and C with the exception of country D where tuition is higher than living cost. In constrast, accomodation persist around 200 dollars in all four country with B is the highest at 280 dollars.
+**Overview (most, least, trend):** Overall, country A have the highest cost while country D is the most affordable. In all fours countries, the living cost "remain the highest/made up the most portion" except for country D where its tuition slightly exceed the living cost.
 
-**Paragraph 1:**
+**Paragraph 1:** 
 
 
-**Paragraph 2:**
+**Paragraph 2:**    
 
