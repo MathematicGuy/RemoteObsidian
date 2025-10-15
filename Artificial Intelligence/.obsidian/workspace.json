@@ -24,20 +24,17 @@
             }
           },
           {
-            "id": "585ae81888bdebcb",
+            "id": "be0b5a3a13d2faf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25M5W1 - A Bridge to Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "25M5W1 - A Bridge to Linear Regression"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,11 +222,18 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "0dd1098d915e38b4",
+  "active": "be0b5a3a13d2faf7",
   "lastOpenFiles": [
-    "25M5W1 - A Bridge to Linear Regression.md",
-    "Calculus_Derivative.md",
     "2 ACTIONS/_Focus.md",
+    "AIO 2025.md",
+    "AIO2025 - UnixLinux for Data Science.md",
+    "UnixLinux for Data Science - Core Concept Distill  from ChatGPT.md",
+    "25M5W1 - A Bridge to Linear Regression.md",
+    "Week 1 Matrix System.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "Linear Regression.md",
+    "Viettel.md",
+    "Calculus_Derivative.md",
     "Derivative Fomula.md",
     "image/Pasted image 20251005220917.png",
     "image/Pasted image 20251005215552.png",
@@ -243,13 +247,9 @@
     "Linear Regression Using Gradient Descent Exercise.md",
     "image/Pasted image 20251005174704.png",
     "Linear Approximation.md",
-    "Linear Regression.md",
     "Division by 2 is taken just for scaling purposes.md",
-    "AIO 2025.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
-    "Week 1 Matrix System.md",
     "25M5W1 - MLOps Data Version Control.md",
     "AIO2025 - Git & Github for Version Control.md",
     "Calculus_Optimization.md",
