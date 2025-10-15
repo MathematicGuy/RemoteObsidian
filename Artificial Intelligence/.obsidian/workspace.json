@@ -37,8 +37,7 @@
               "title": "25M5W1 - A Bridge to Linear Regression"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +225,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "585ae81888bdebcb",
+  "active": "0dd1098d915e38b4",
   "lastOpenFiles": [
-    "Calculus_Derivative.md",
     "25M5W1 - A Bridge to Linear Regression.md",
+    "Calculus_Derivative.md",
     "2 ACTIONS/_Focus.md",
     "Derivative Fomula.md",
     "image/Pasted image 20251005220917.png",

@@ -178,4 +178,16 @@ git push origin master --force
 git revert better-days
 ```
 
+---
+# Git Definition
+### Changes vs Staged Changes
+**Changes (Unstaged Changes) -** 
++ *(file) changes in your working directory that Git is currently tracking but not yet been explicitly selected for the next commit.*   
++ When you edit a file, create a file or delete an existing file, these modification initially exist as 'changes' or 'unstaged changes'. 
++ *Git tracks all changes in your working directory, but they are not yet part of the 'staging area'* or 'index'. 
 	
+**Staged Changes -** allow to select specific changes to your commit (explicit change) 
++ These are *specific modifications from your working directoy that you have explicit marked for the next commit*. 
++ The *'staging area'* (i.e. index) acts as a *temporary holding area where you add all the changes you want to commit.*
++ Only the changes in the staging area will be included when you execute a `git commit` command. 
+
