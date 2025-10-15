@@ -4,9 +4,6 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 Select skills that I can answer. 
-- [ ] Revision about ML pipeline
-- [ ] RAG pipeline 
-
 - Determine what to study (Random Forest, AdaBoost, XGBoost, etc..)
 - Determine Study & HW Priority
 - Noting Structure (no more than 2 file)
