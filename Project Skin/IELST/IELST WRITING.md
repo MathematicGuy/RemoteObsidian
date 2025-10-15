@@ -131,7 +131,7 @@ The table and chart provide a breakdown of the **total expenditure and the avera
 - Living cost and tuition in country C and D
 
 
-**Intro:** The bar chart illustrate student's total expenditure in accomodation, intuition and living cost when studying abroad (*international student*) across four countries in the span of four weeks.
+**Intro:** The bar chart illustrate student's total expenditure in accomodation, intuition and living cost when studying abroad (*international student*) across four countries per weeks.
 
 **Overview (most, least, trend):** Overall, country A have the highest cost while country D is the most affordable. In all fours countries, the living cost "remain the highest/made up the most portion" except for country D where its tuition slightly exceed the living cost.
 
