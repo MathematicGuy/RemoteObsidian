@@ -135,8 +135,8 @@ The table and chart provide a breakdown of the **total expenditure and the avera
 
 **Overview (most, least, trend):** Overall, country A have the highest cost while country D is the most affordable. In all fours countries, the living cost "remain the highest/made up the most portion" except for country D where its tuition slightly exceed the living cost.
 
-**Paragraph 1:** 
+(Analyze total expenditure table, go into detail for overall)
+**Paragraph 1:** When it come to total living expenditure where living cost is the biggest cost factor, country A is the most expensive overall, cost up to 875 dollars, followed by contry B at 735 dollars and country C at 540 dollars. Although country D is the most affordable/economical their tuition remain highest at 235 dollars. 
 
-
-**Paragraph 2:**    
-
+(Analyze across each category not country, and within that category which contry remain the most noticeble)
+**Paragraph 2:** Living cost staying on top of the list where it peaked at 430 dollars in country A, second at 350 dollars in country B and average around 250 dollars for C and D. Across all four country, accomodation remain the bottommost with cost laying around 220 dollar for A, C and D and highest at 280 in country B. While tuition is the second most expensive expenditure which take up 358 in country A followed by 320 in country B and 250 in C, though its cost topped in country D at 235 dollars,  
