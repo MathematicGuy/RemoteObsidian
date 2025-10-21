@@ -10,7 +10,10 @@ banner: Images/Pasted image 20240402135259.png
 	- ? Getting annoyed when doing the less prefer deadlines -> Solution..... 
 	+ ! Break momentum. Causing massive delay. 
 	+ $ Need solution to do shitty work. maybe it not meaningful enough ???
-
+	-> Root causes: The document lack clarity causing a high learning curve ? 1 hrs in but I can't still doing the docs. In constast of the first report, which I done passionately. 
+	+ @ **Resolution:** **clear up the problems as quick as possible no matter the cost** to compromise my short attention windows (2-5 minutes), that it, for boring task, the longer it take to understand a problem, the more painful its become, the more "I don't want to do it" feeling get build up.  
+		past experience: feeding deplay feeling by delaying it, the longer it take to solve the problem the more I convince myself I coudn't do it.  
+	
 
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
