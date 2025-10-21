@@ -5,9 +5,13 @@ banner: Images/Pasted image 20240402135259.png
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
 #Todo/Priority  
+- [ ] **Main Weakpoint:** when there're **2 deadlines where 1 are more prefer**, I **can't not focus** on that other deadline but constantly thinking I must do the less prefer one first, my brain got paralysed -> harder to focus or get into flow unless sensing danger or until I convince myself with clarity, thus causing massive delay. Even though I can design plans to compromise both end effectively.
+	- ? I can get into flow easily with the prefer deadline.
+	- ? Getting annoyed when doing the less prefer deadlines -> Solution..... 
+	+ ! Break momentum. Causing massive delay. 
+	+ $ Need solution to do shitty work. maybe it not meaningful enough ???
 
 
-	
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
 
@@ -18,6 +22,8 @@ banner: Images/Pasted image 20240402135259.png
 
 #MyRuleThat_I_SwearToLiveBy
 - [ ] To be the person that I am. I must let the person that I not. Die
+
+
 ****
 
 [[Calisthenics]]
