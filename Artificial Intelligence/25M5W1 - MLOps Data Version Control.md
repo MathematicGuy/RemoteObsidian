@@ -22,4 +22,13 @@ Before running dvc repro you need:
 + git repo initialized
 **DvC determine a stage need to rerun by** *comparing the stages* of the workspace *with the info stored in the dvc.lock file and the dvc.yaml* stage definition. In short, any changes in hash code, dependency or parameters defined in .dvc's stage trigger a rerun. 
 
+---
+Data Leaking - your model might have cheat if you have this, your training data includes infor that would not be available at prediction time in the real world, **unexpected data got leaked at model's prediction.** 
+	Your model learns from the future, making it look very accurate during training but fail badly in the real world. 
+
+### Feast 
+Given that your prediction and trainining step use the same dataset, how to make sure the data that you used to train your model is clean and doesn't conflict with the data that used for prediction. Cause in a same dataset, its very likely for data leakage (model use future timeseries data for training thus achieve 100% accuracy). 
+![[Pasted image 20251021204731.png]]
+
+
 
