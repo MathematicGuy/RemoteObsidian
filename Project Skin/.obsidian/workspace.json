@@ -77,12 +77,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a6cc1c68d6f69f9",
@@ -188,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f25d566fb123cc4a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "IELST/IELST WRITING.md",
