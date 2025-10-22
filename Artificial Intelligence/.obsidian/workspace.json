@@ -27,10 +27,14 @@
             "id": "729a0b6d6c87e94e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AIO 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AIO 2025"
             }
           }
         ],
@@ -224,6 +228,8 @@
   },
   "active": "729a0b6d6c87e94e",
   "lastOpenFiles": [
+    "25M5W1 - MLOps Data Version Control.md",
+    "AIO 2025.md",
     "2 ACTIONS/_Focus.md",
     "AIO25 - DevJob.md",
     "image/Pasted image 20251020231744.png",
@@ -236,9 +242,7 @@
     "image/Pasted image 20251020221036.png",
     "image/Pasted image 20251020214828.png",
     "image/Pasted image 20251020212927.png",
-    "AIO 2025.md",
     "25M5 - Data Science.md",
-    "25M5W1 - MLOps Data Version Control.md",
     "AIO2025 - PySpark for Data Processing.md",
     "AIO2025 - UnixLinux for Data Science.md",
     "UnixLinux for Data Science - Core Concept Distill  from ChatGPT.md",
