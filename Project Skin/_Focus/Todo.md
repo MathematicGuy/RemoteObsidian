@@ -4,19 +4,20 @@ banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
-#Todo/Priority  
-
+#Todo/Priority
 
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
 
 
 #Todo/[[GoalsThisMonth]]
-- [ ] Accquite Basic skill so I can confidendly go on a job interview 
+- [ ] Accquite Basic skill so I can confidendly go on a job interview
 
 
 #MyRuleThat_I_SwearToLiveBy
 - [ ] To be the person that I am. I must let the person that I not. Die
+
+
 ****
 
 [[Calisthenics]]
@@ -54,16 +55,16 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
 - [x] [[Git Requirement]] (learn basics on Youtube)
-- [ ] Pipeline Familarity (github actions) 
-- [x] Basic Database Knowledge  
-- [ ] Basic Knowledge of Linux 
+- [ ] Pipeline Familarity (github actions)
+- [x] Basic Database Knowledge
+- [ ] Basic Knowledge of Linux
 - [ ] Basic Docker Knowledge (learn docker in 1 hour)
 - [x] Basic API knowledge  (API for each language)
 
 
 #Todo/Entertainment
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
+	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8)
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 
@@ -72,7 +73,7 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
 - [ ] [AI for everyone](https://www.coursera.org/learn/ai-for-everyone?trk_ref=articleProductCard)
 - [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
-- [ ] [Linear Algebra - Beginner Level - Imperial College of London](https://www.coursera.org/learn/linear-algebra-machine-learning) 
+- [ ] [Linear Algebra - Beginner Level - Imperial College of London](https://www.coursera.org/learn/linear-algebra-machine-learning)
 - [ ] [Probability and Statistic for ML](https://www.facebook.com/groups/dsmlvietnam/permalink/335898699190258/)
 - [ ] [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [ ] [HUST AI and DS](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)
@@ -80,12 +81,10 @@ banner: Images/Pasted image 20240402135259.png
 
 [[Obsidient System]]
 
- 
 
-Luck 
+
+Luck
 ![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
 
 12/5/2024
 ![[Pasted image 20241205142934.png]]
-
-

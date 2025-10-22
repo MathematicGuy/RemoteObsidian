@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,7 +18,6 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Todo/Priority",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,10 +196,6 @@
     "Untitled.base",
     "Images/Pasted image 20251005153106.png",
     "Images/Pasted image 20251005152339.png",
-    "Images/Pasted image 20251005150619.png",
-    "Images/Pasted image 20250926121500.png",
-    "Images/Pasted image 20250926095048.png",
-    "Images/Pasted image 20250922131551.png",
-    "IELST Writing Task Guide.md"
+    "Images/Pasted image 20251005150619.png"
   ]
 }
