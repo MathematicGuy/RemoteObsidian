@@ -1,11 +1,9 @@
 
 Out of the box, linear regression provides a means of building models of the form:
 $$f_{\mathbf{w},b} = w_0x_0 + w_1x_1+ ... + w_{n-1}x_{n-1} + b \tag{1}$$ 
-What if your features/data are non-linear or are combinations of features? For example,  Housing prices do not tend to be linear with living area but penalize very small or very large houses resulting in the curves shown in the graphic above. Answer is Feature Scaling which is the ability to modify parameter $w, b$ in $(1)$ to 'fit' the equation to the training data.
-
+What if your features/data are non-linear or are combinations of features ? For example,  Housing prices do not tend to be linear with living area but penalize very small or very large houses resulting in the curves shown in the graphic above. Answer is Feature Scaling which is the ability to modify parameter $w, b$ in $(1)$ to 'fit' the equation to the training data.
 
 ## Polynomial Features
-
 As for non-linear data $y = 1 + x^2$ obsivously would not fit. 
 ```python
 # create target data
@@ -67,7 +65,7 @@ This mean:
 # create target data
 x = np.arange(0,20,1)
 X = np.c_[x, x**2, x**3]
-print(f"Peak to Peak range by column in Raw        X:{np.ptp(X,axis=0)}")
+print(f"Peak to Peak range by column in Raw X:{np.ptp(X,axis=0)}")
 
 # add mean_normalization 
 X = zscore_normalize_features(X)     
@@ -88,7 +86,7 @@ plt.plot(x,X@model_w + model_b, label="Predicted Value"); plt.xlabel("x"); plt.y
 ```
 ![[Pasted image 20241016150658.png]]
 > Feature scaling allows this to **converge much faster**. 
-> Note again the values of 𝐰. The 𝑤1 term, which is the $x^2$ term is the most emphasized. Gradient descent has all but eliminated the $x^3$ term.
+> Note again the values of 𝐰. The $𝑤_1$ term, which is the $x^2$ term is the most emphasized. Gradient descent has all but eliminated the $x^3$ term.
 
 
 ### Complex Functions

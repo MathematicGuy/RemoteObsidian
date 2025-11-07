@@ -316,7 +316,26 @@ But *when seretonin counter balance dopamint, so seretonin increase then  dopami
 
 gET OUt Of Your own head, just doing something in general that is not meaningless. Shift your focus, Tamping your MIND by Tamping your body, especialy you are ADHD. 
 
-
 ### 2 / 9 / 2025
 What made emotion and legacy so valuable even logic can't counquer
 https://youtube.com/shorts/nE2a0_yWlkk?si=FaM2f0mk7YBZuoJh
+
+### 26 / 10 / 2025
+**Problems:** What causes Procrastination if it not procrastination itself. Contrary to popular belief, procrastinators are not under-motivated or lazy; rather, they often experience overmotivation characterized by two conflicting forces: 
+1) **Over-motivation:** 
+	+ **2 Conflicting** forces that dismiss eachother *a strong desire to succeed (approach motivation to be perfect in both tasks or deadlines, etc..) and a simultaneous strong fear of failure (avoidance motivation, don't want to do the work or doesn't accept to sacrificed).* This dual motivation creates a psychological “stuckness,” where the *individual is caught between wanting to start and fearing the consequences of potential failure*. This internal conflict manifests as procrastination, which is often described as feeling stuck or immobilized despite being agitated and anxious.
+	
+2) 1 Force overwhelm another
+
+
+
+**Example Story:**
+Long story short: people procrastinate because they couldn't accept themselve to underperform, think about it, everytime you sacrificed sleep in order to wake up tomorrow just to come back to sleep again or when you have so many important things to do but can't accept the fact that your products aren't going to be perfect so you started to Delay until the end is near then you rush & end up with a imperfect product anyway. After that maybe u make an excused to protect your Ego. 
+
+In other word, ppl self-sabotage themself by increase life difficulty like sacrifing sleep to wake up early for deadline to save their self-image and social judgement. "If success is achieved despite procrastination, it reinforces their self-image as capable beyond expectations. This brinksmanship—thriving under last-minute pressure—is humorously noted as a defining trait of students at competitive universities."
+
+Let analyze, sacrified sleep + delaying out of perfection + `[whatever reason]` -> All are Causing Stress. Maybe stress is the problem right, here are ways to reduce stress:
+1) Allow yourself to have a comfortable timewindows to do yourwork, NO CONSTRAIN, you DON'T have to FINISH your WORK, you could save it for LATER. This mean, it doesn't need to end up perfectly finished.
+2) Change your perspective about your Deadline from being stressful to being thoughful for example, like they isn't going mad if you don't do your work, what the worst possible scenario :)) Then allow yourself like method 1. 
+
+**Strategy:** Detach performance from ability and ability from self-worth. 

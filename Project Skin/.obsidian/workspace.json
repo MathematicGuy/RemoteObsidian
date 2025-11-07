@@ -25,13 +25,18 @@
             }
           },
           {
-            "id": "91356e180e6977b9",
+            "id": "008b4c4c5af9a308",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -198,12 +203,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "91356e180e6977b9",
+  "active": "ef0842481c4a2540",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "conflict-files-obsidian-git.md",
     "AI Engineering Job.md",
     "jobDB.md",
-    "conflict-files-obsidian-git.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",
     "IELST/IELST WRITING.md",
     "Untitled.base",

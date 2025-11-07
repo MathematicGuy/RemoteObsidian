@@ -24,17 +24,45 @@
             }
           },
           {
-            "id": "729a0b6d6c87e94e",
+            "id": "d1c59758bf93962f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO 2025.md",
+                "file": "25W1 - From Linear Regression to Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO 2025"
+              "title": "25W1 - From Linear Regression to Logistic Regression"
+            }
+          },
+          {
+            "id": "c78321643e667f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIO 2024"
+            }
+          },
+          {
+            "id": "f16b9a733ae6e678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logarithm and Log-Likelihood Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logarithm and Log-Likelihood Function"
             }
           }
         ],
@@ -226,43 +254,43 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "729a0b6d6c87e94e",
+  "active": "d1c59758bf93962f",
   "lastOpenFiles": [
-    "image/Pasted image 20251021223950.png",
-    "image/Pasted image 20251021215927.png",
-    "image/Pasted image 20251021213933.png",
-    "image/Pasted image 20251021213837.png",
-    "image/Pasted image 20251021204731.png",
-    "25M5W1 - MLOps Data Version Control.md",
-    "AIO 2025.md",
     "2 ACTIONS/_Focus.md",
-    "AIO25 - DevJob.md",
-    "image/Pasted image 20251020231744.png",
-    "image/Pasted image 20251020230246.png",
-    "image/Pasted image 20251020224248.png",
-    "image/Pasted image 20251020224238.png",
-    "image/Pasted image 20251020223307.png",
-    "image/Pasted image 20251020224218.png",
-    "25M5 - Data Science.md",
-    "AIO2025 - PySpark for Data Processing.md",
-    "AIO2025 - UnixLinux for Data Science.md",
-    "UnixLinux for Data Science - Core Concept Distill  from ChatGPT.md",
-    "25M5W1 - A Bridge to Linear Regression.md",
-    "Week 1 Matrix System.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
-    "Linear Regression.md",
-    "Viettel.md",
-    "Calculus_Derivative.md",
-    "Derivative Fomula.md",
-    "Linear Regression Using Gradient Descent Exercise.md",
-    "Linear Approximation.md",
-    "Division by 2 is taken just for scaling purposes.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
-    "AIO2025 - Git & Github for Version Control.md",
-    "Calculus_Optimization.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "Gradient and Gradient Descent.md"
+    "Logarithm and Log-Likelihood Function.md",
+    "AIO 2024.md",
+    "25W1 - From Linear Regression to Logistic Regression.md",
+    "Cost function.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "Machine Learning & Data Science Main.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "Feature Engineering and Polynomial Regression.md",
+    "image/Không có tiêu d_.png",
+    "image/Không có tiêu d_.jpg",
+    "BERT.md",
+    "image/Pasted image 20251105224222.png",
+    "image/Pasted image 20251105223957.png",
+    "Pasted image 20241014170929.png",
+    "Matrix Multiplication.md",
+    "image/Pasted image 20251105220944.png",
+    "Machine Learning Interview.md",
+    "Internship Revision 2.md",
+    "AIO - Multiple Layers Perceptron.md",
+    "AIO Loss Functions for Classification.md",
+    "AIO Metrics for Regression (from metrics to loss functions).md",
+    "AIO4 - Summary.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+    "image/Pasted image 20251105211902.png",
+    "image/Pasted image 20251105211809.png",
+    "Pasted image 20241014113413.png",
+    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+    "image/Pasted image 20251105210646.png",
+    "Supervised Machine Learning - Regression and Classification.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Algorithm.md",
+    "AIO - Logistic Regression.md",
+    "AIO 2025.md",
+    "AIO - Speed up Model Inferencing Using Numba+TorchScript.md"
   ]
 }

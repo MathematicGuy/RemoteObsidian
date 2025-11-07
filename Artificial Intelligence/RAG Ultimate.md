@@ -11,6 +11,7 @@
 + [[Prompt Optimization]]
 + LangExact (free Entity, Relationship extractor)
 + [Doc2MarkDown - MarkItDown library from microsoft](https://github.com/microsoft/markitdown)
++ [Agentic Deep Thinking RAG](https://levelup.gitconnected.com/building-an-agentic-deep-thinking-rag-pipeline-to-solve-complex-queries-af69c5e044db)
 
 | Tiêu chí                                                             | Phương pháp đánh giá của hệ thống và giảng viên                                                                                                                                                                | Tỉ lệ đạt theo validation hệ thống RAG | Tỉ lệ đạt theo đánh giá của giảng viên | Nhận xét                                                                                                                                           |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |

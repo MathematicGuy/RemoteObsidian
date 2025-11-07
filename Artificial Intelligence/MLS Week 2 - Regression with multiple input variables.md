@@ -37,18 +37,21 @@ Example for house price prediction base on features the house have, we can plot 
 ![[Pasted image 20241014162327.png]]
 
 # Feature Scaling 
-> Allow Gradient Descent to converge faster
++ @ Allow Gradient Descent to converge faster by rescale all features so they all take on a comparable range of values. (Đưa các features về cùng 1 khoảng giá trị 0 và )
  
 **Features and Parameters:** with **large value** model often choose **small parameters**, likewise for **small value** model often choose **large parameter** since it make the prediction **more reasonable.** 
 ![[Pasted image 20241014164249.png]]
 
 For feature with large value, `size in feet`  for example (as $x_{2}$) and bedroom as $x_{1}$. A **little change in $x_{1}$ (say 200) can affect a large change in the cost function/prediction**, while a **large change in x1 (say 5) didn't make a little change at all.** To encounter this problem, we must **rescale/normalize both value into 1 value range.**  
-![[Pasted image 20241014165034.png]] c
+![[Pasted image 20241014165034.png]] 
 With Rescaling, the contour plot (parabol from top down view) now even and represent a circle. 
 ![[Pasted image 20241014164820.png]]
 
 #### So how do you actually scale the vales? by dividing by it maximum value
-![[Pasted image 20241014165801.png]]
+
+![[Pasted image 20241014165801.png | 344]]
+
+![[Pasted image 20251105223957.png]]
 
 #### other way is to use Mean Normalization
 1) find the feature average (axis average value) 
@@ -56,11 +59,12 @@ With Rescaling, the contour plot (parabol from top down view) now even and repre
 ![[Pasted image 20241014170400.png]]
 
 #### Z-score Normalization
-(understand standard deviation $\sigma$)
-![[Pasted image 20241014170929.png]]
+![[Pasted image 20251105224222.png]]
 
+**When to Rescaling ?**
 ![[Pasted image 20241014171619.png]]
 (Too small/Too Big -> recale to the average norm of all features)
+
 ### Checking gradient descent for convergence
  + ? **Converged** mean the algorithm has reached a point **where every update is very small** indicating that the **loss function has reached the optimal or nearly optimal value** and **further iteration would not significantly reduce loss.**  
  You can use $\epsilon$ (epsilon) for automatic convergence test:
@@ -72,20 +76,18 @@ With Rescaling, the contour plot (parabol from top down view) now even and repre
 + ? **Learning rate too big the convergen become unstable**. What we want is a learning rate allowed big step but not too big at the start and take smaller and smaller step when the curvature is more flat (i.e. parabol curve become flatter at the center point). (This also indicate bugs might be in your code) 
 + ? Choosing a **too small learning rate lead the function unconvergerable.** Since each step become  smaller and smaller, it would take forever which is not optimal.
 + $ We want to choose **the right learning rate**. Let learn how to do that !!!
-## Feature Engineering
 
+
+## Feature Engineering
 Normal way to choose features
 ![[Pasted image 20241015221722.png]]
-
-Create new features by using **intuition** to design **new features**, by transforming or combining original features.
+**Feature Engineer:** create new features by using **intuition** to design **new features**, by transforming or combining original features.
 ![[Pasted image 20241015222100.png]]
 
 #### Polynomial Regression (đa thức hồi quy)
 > Fit curve, non-linear function into your data.
-+ ? note: explain Polynomial and Regression later 
- 
-**Note:** Linear represent a straight line, if sth called linear, meaning it is **Proportionality:** If x increase then y increase $y=2x$. increase or decrease at a constant rate and **Additivity** like 1+1=2.
 
+**Note:** Linear represent a straight line, if sth called linear, meaning it is **Proportionality:** If x increase then y increase $y=2x$. increase or decrease at a constant rate and **Additivity** like 1+1=2.
 
 Example of Polynomial Regression with non-linear features: feature may be $x, x^{2}, x^{3}$. Since the feature value is exponential, feature scaling would be very important. Especially in Gradient Descent
 ![[Pasted image 20241016140747.png]]
@@ -94,5 +96,5 @@ Example of Polynomial Regression with non-linear features: feature may be $x, x^
 >So how can we chose the right type of features. Which to include or not include. In Course 2, you can learn it.
 ![[Pasted image 20241016140833.png]]
 
-[[Feature Engineering and Polynomial Regression]]
-[[Practice Lab Linear Regression - predict best aplace to open restaurant]]
+**Exercise:** [[Feature Engineering and Polynomial Regression]]
+

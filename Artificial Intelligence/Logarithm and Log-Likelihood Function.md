@@ -106,7 +106,6 @@ This formula can be useful when you need to switch between $\log()$ and $\ln()$ 
 
 
 # Likelihood Function
-
 **Probability:** Assume how likely sth to happend (i.e. **prob WITHOUT TESTED**)
 + $ Suppose you have an **unbiased** coin. If you flip the coin, the probability of getting head and a tail is equal, which is 0.5. 
 + ? **When calculating the probability of coin getting heads, you assume that P(head) = 0.5**
@@ -128,7 +127,6 @@ This formula can be useful when you need to switch between $\log()$ and $\ln()$ 
 ### **Example of a Likelihood Function**
 
 **Coin Toss Experiment**:
-
 - **Scenario**: Toss a coin $n$ times; let $k$ be the number of heads observed.
 - **Goal**: Estimate the probability $p$ of getting heads.
 - **Likelihood Function**:
@@ -136,7 +134,6 @@ This formula can be useful when you need to switch between $\log()$ and $\ln()$ 
   L(p | \text{data}) = P(\text{data} | p) = \binom{n}{k} p^k (1 - p)^{n - k}
   $$
 $\left(\text{Likelihood of an Event} = \text{Event Success Possibility} * \text{Event Fail Possiblility} \right)$
-
   - $\binom{n}{k}$ is the binomial coefficient (number of ways to choose $k$ successes in $n$ trials).
   - $p^k$ is the probability of getting heads $k$ times. 
   - $(1 - p)^{n - k}$ is the probability of getting tails $n - k$ times.

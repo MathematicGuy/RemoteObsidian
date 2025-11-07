@@ -5,7 +5,7 @@
     
 - **Example**: Tossing a coin is a classic Bernoulli trial:
     
-    - Success (Heads) with probability ppp
+    - Success (Heads) with probability *ppp*
     - Failure (Tails) with probability $1 - p$
 
 ![[Pasted image 20241018142147.png]]

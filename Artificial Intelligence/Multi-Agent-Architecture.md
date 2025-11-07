@@ -18,3 +18,12 @@ User Prompt
 🧑‍⚖️ Critic Agent (đánh giá output, phát hiện lỗi logic)
    ↓
 🏁 Final Answer trả về User
+
+----
+
+1) Plan: multi-query -> simplified query
+2) Retrieve -> dynamic for text, image + text, etc..
+3) Refine -> rerank initial result for best evidence 
+4) Reflect -> agent summarize finding and update its research history for revision (cumulative understand of the problem)
+5) Critique: a policy agent inspects revision history -> decide to continue the current research step or not, revise its plan if it hits a dead end or finish. 
+6) Synthesize -> Summarize result, gathered evidence from all src into a single file, comprehensive and citable answer. 

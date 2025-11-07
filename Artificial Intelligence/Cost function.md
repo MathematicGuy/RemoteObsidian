@@ -33,7 +33,6 @@ where $\theta$ represents the parameters of the model.
 Now that we've established what a cost function is, let's delve into the specific cost function used in logistic regression.
 
 #### **Why Not Use Mean Squared Error (MSE)?**
-
 In linear regression, the Mean Squared Error (MSE) is commonly used:
 
 $$ \text{MSE} = \frac{1}{N} \sum_{i=1}^{N} (y_i - \hat{y}_i)^2 $$
@@ -68,7 +67,6 @@ For logistic regression, the likelihood for each sample is:
 $$ P(y_i | x_i; \theta) = \hat{y}_i^{y_i} (1 - \hat{y}_i)^{1 - y_i} $$
 
 To simplify optimization, we take the **logarithm** of the likelihood function to obtain the **log-likelihood function**:
-
 $$ \ell(\theta) = \sum_{i=1}^{N} [y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)] $$
 
 ##### **Cost Function Definition**

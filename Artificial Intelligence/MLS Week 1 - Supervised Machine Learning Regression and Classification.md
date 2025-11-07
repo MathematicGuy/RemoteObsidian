@@ -30,12 +30,12 @@
 > Fitting a linear equation to the observed data. (predict the right equation by tweaking $w$ and $b$)
 
 **Regression vs Classification Model**
-+ Regression model predict number, can handle large amount of features (e.g. predict salary base on n features) - infinite possible of outputs.
-+ Classification predicts categories data (go in) with small number of possible outputs. (e.g. hair color (red, blonde, or black)
++ **Regression** model **predict number**, can handle large amount of features (e.g. predict salary base on n features) - **infinite possible of outputs.**
++ **Classification predicts categories data** (go in) with finite (limited) number of outputs. **(e.g. hair color (red, blonde, or black)**
 
 ![[Pasted image 20241014093306.png]]
 $\hat{y}$: prediction for $y$ (target variable)
-Univariate linear regression (Linear regression with 1 model) with Uni mean 1 in latin. (fancy way to call it)
+**Univariate linear regression** (Linear regression with **1 model**) with Uni mean 1 in latin. (fancy way to call it)
 >1 variable as for 1 input. 
 ![[Pasted image 20241014093706.png]]
 
@@ -57,24 +57,24 @@ Goals: choose w and b so that the line as close to all data points as possible.
 #### cost function intuition
 Given that b=0, the line pass through 0. So let focus on minimize $J(w)$
 ![[Pasted image 20241014102458.png]]
-Because b=0, cost function simplified to $\frac{1}{2m} \sum^{m}_{i=1} wx^{(i)}-y^{(i)}$ and if w=1, the cost function will be just be 0.
+Because b=0, cost function simplified to $\frac{1}{2m} \sum^{m}_{i=1} (wx^{(i)} + b) -y^{(i)}$ and if w=1, the cost function will be just be 0.
 ![[Pasted image 20241014102818.png]]
 Example:
 ![[Pasted image 20241014103437.png]]
-
 >**The cost function resemble a parabol if you calc all of its value from largest to lowest** (0).
 ![[Pasted image 20241014112735.png]]
+ 
 For example If w is negative the cost funtion equal a large number: 5.25 
 ![[Pasted image 20241014113105.png]]
 
-#### Visualize cost function
+#### Visualize cost function (what the cost function look like, intuitively)
 Cost function have the similar shape to a bow.
 ![[Pasted image 20241014113304.png]]
-The height of the surface above is J(w, b)
+The **height** of the surface above is **J(w, b)**
 **Contour Map:** show the high or depth using flat plain. 
 ![[Pasted image 20241014110254.png]]
 Using a contour map, we can plot the cost function value, the closer it is to the center the lower the cost (see it as a 3D parabol)
-![[Pasted image 20241014113413.png]]
+![[Pasted image 20251105211902.png]]
 
 
 # Train Model with Gradient Descent

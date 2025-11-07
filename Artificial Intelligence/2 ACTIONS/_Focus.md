@@ -3,11 +3,17 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
-Select skills that I can answer.
-- [ ] Feast
-- [ ] Viettel AI Race Module Improvement
-- [ ] Module Project
 
+*Logistic Regression Revision*
+Linear Regression -> Logistic Regression -> Sigmoid -> Softmax -> Hessian Matrix
+Traditional -> Vectorize
+
+Overview LinearR & LogisR 
+Different between LinearR & LogisR
+Go from Mathematical Foundation like entropy and log loss
+then explain activation function Sigmoid 
+then go deeper, connect information to explain Softmax. 
+After that explain tradition and vectorize briefly. 
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
