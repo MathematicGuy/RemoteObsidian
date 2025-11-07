@@ -4,23 +4,14 @@ banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
-#Todo/Priority  
-- [ ] **Main Weakpoint:** when there're **2 deadlines where 1 are more prefer**, I **can't not focus** on that other deadline but constantly thinking I must do the less prefer one first, my brain got paralysed -> harder to focus or get into flow unless sensing danger or until I convince myself with clarity, thus causing massive delay. Even though I can design plans to compromise both end effectively.
-	- ? I can get into flow easily with the prefer deadline.
-	- ? Getting annoyed when doing the less prefer deadlines -> Solution..... 
-	+ ! Break momentum. Causing massive delay. 
-	+ $ Need solution to do shitty work. maybe it not meaningful enough ???
-	-> Root causes: The document lack clarity causing a high learning curve ? 1 hrs in but I can't still doing the docs. In constast of the first report, which I done passionately. 
-	+ @ **Resolution:** **clear up the problems as quick as possible no matter the cost** to compromise my short attention windows (2-5 minutes), that it, for boring task, the longer it take to understand a problem, the more painful its become, the more "I don't want to do it" feeling get build up.  
-		past experience: feeding deplay feeling by delaying it, the longer it take to solve the problem the more I convince myself I coudn't do it.  
-	
+#Todo/Priority
 
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
 
 
 #Todo/[[GoalsThisMonth]]
-- [ ] Accquite Basic skill so I can confidendly go on a job interview 
+- [ ] Accquite Basic skill so I can confidendly go on a job interview
 
 
 #MyRuleThat_I_SwearToLiveBy
@@ -64,16 +55,16 @@ banner: Images/Pasted image 20240402135259.png
 #Todo/ProgrammingSkills
 - [ ] Cloud Computing (Be Cloud Certified AWS/Google/Azure)
 - [x] [[Git Requirement]] (learn basics on Youtube)
-- [ ] Pipeline Familarity (github actions) 
-- [x] Basic Database Knowledge  
-- [ ] Basic Knowledge of Linux 
+- [ ] Pipeline Familarity (github actions)
+- [x] Basic Database Knowledge
+- [ ] Basic Knowledge of Linux
 - [ ] Basic Docker Knowledge (learn docker in 1 hour)
 - [x] Basic API knowledge  (API for each language)
 
 
 #Todo/Entertainment
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) 
+	[why](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8)
 - [ ] [Customize NeoVim](https://youtu.be/fFHlfbKVi30?si=sOr-n_o1gUcHHC5j)
 - [ ] [Latex OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 
@@ -82,7 +73,7 @@ banner: Images/Pasted image 20240402135259.png
 - [ ] [Data Science](https://www.facebook.com/groups/dsmlvietnam/permalink/347976844649110/)
 - [ ] [AI for everyone](https://www.coursera.org/learn/ai-for-everyone?trk_ref=articleProductCard)
 - [ ] [Mathematics for Machine Learning - Imperial College of London](https://www.coursera.org/specializations/mathematics-machine-learning?myLearningTab=IN_PROGRESS)
-- [ ] [Linear Algebra - Beginner Level - Imperial College of London](https://www.coursera.org/learn/linear-algebra-machine-learning) 
+- [ ] [Linear Algebra - Beginner Level - Imperial College of London](https://www.coursera.org/learn/linear-algebra-machine-learning)
 - [ ] [Probability and Statistic for ML](https://www.facebook.com/groups/dsmlvietnam/permalink/335898699190258/)
 - [ ] [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [ ] [HUST AI and DS](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)
@@ -90,12 +81,10 @@ banner: Images/Pasted image 20240402135259.png
 
 [[Obsidient System]]
 
- 
 
-Luck 
+
+Luck
 ![[d2f6b972e66ac5b301da731024dd16b3.jpg]]
 
 12/5/2024
 ![[Pasted image 20241205142934.png]]
-
-

@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "be0b5a3a13d2faf7",
+            "id": "729a0b6d6c87e94e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25M5W1 - MLOps Data Version Control.md",
+                "file": "AIO 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25M5W1 - MLOps Data Version Control"
+              "title": "AIO 2025"
             }
           }
         ],
@@ -226,16 +226,25 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "be0b5a3a13d2faf7",
+  "active": "729a0b6d6c87e94e",
   "lastOpenFiles": [
     "image/Pasted image 20251021223950.png",
     "image/Pasted image 20251021215927.png",
     "image/Pasted image 20251021213933.png",
     "image/Pasted image 20251021213837.png",
-    "AIO 2025.md",
-    "25M5W1 - MLOps Data Version Control.md",
     "image/Pasted image 20251021204731.png",
+    "25M5W1 - MLOps Data Version Control.md",
+    "AIO 2025.md",
     "2 ACTIONS/_Focus.md",
+    "AIO25 - DevJob.md",
+    "image/Pasted image 20251020231744.png",
+    "image/Pasted image 20251020230246.png",
+    "image/Pasted image 20251020224248.png",
+    "image/Pasted image 20251020224238.png",
+    "image/Pasted image 20251020223307.png",
+    "image/Pasted image 20251020224218.png",
+    "25M5 - Data Science.md",
+    "AIO2025 - PySpark for Data Processing.md",
     "AIO2025 - UnixLinux for Data Science.md",
     "UnixLinux for Data Science - Core Concept Distill  from ChatGPT.md",
     "25M5W1 - A Bridge to Linear Regression.md",
@@ -245,12 +254,6 @@
     "Viettel.md",
     "Calculus_Derivative.md",
     "Derivative Fomula.md",
-    "image/Pasted image 20251005220917.png",
-    "image/Pasted image 20251005215552.png",
-    "image/Pasted image 20251005214022.png",
-    "image/Pasted image 20251005212615.png",
-    "image/Pasted image 20251005212429.png",
-    "image/Pasted image 20251005211844.png",
     "Linear Regression Using Gradient Descent Exercise.md",
     "Linear Approximation.md",
     "Division by 2 is taken just for scaling purposes.md",
@@ -260,7 +263,6 @@
     "Calculus_Optimization.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "Gradient and Gradient Descent.md",
-    "1st Derivative vs 2nd Derivative.md"
+    "Gradient and Gradient Descent.md"
   ]
 }

@@ -20,6 +20,7 @@ Before running dvc repro you need:
 + define dvc .yaml 
 + library: dvc, dvc-s3
 + git repo initialized
+
 **DvC determine a stage need to rerun by** *comparing the stages* of the workspace *with the info stored in the dvc.lock file and the dvc.yaml* stage definition. In short, any changes in hash code, dependency or parameters defined in .dvc's stage trigger a rerun. 
 
 ---
