@@ -83,7 +83,9 @@ Now that we understand how to calc Self-Attention, let shrink the math model dow
 	+ easy and quickly train in paralle.  
 
 ### 5.3 Transformers Decoder 
-+ ? Just like the Encoder but for output vocaulary, which consists of the Spanish words. We start by calculating the **Self-Attention** score for the `<EOS>` token (note:  people may use `<SOS>` for `Start of Sentence` or `Start of Sequence` to intialize the process and that fine too, but for this example let's use `<EOS>`) ![[Pasted image 20250315091058.png]]![[Pasted image 20250316072836.png]]
++ ? Just like the Encoder but for output vocaulary, which consists of the Spanish words. We start by calculating the **Self-Attention** score for the `<EOS>` token (note:  people may use `<SOS>` for `Start of Sentence` or `Start of Sequence` to intialize the process and that fine too, but for this example let's use `<EOS>`) 
+ ![[Pasted image 20250315091058.png# left | 333]]![[Pasted image 20250316072836.png | 203]]
+
 
 And like wise, when we decode and translate the input, we want a single unit that we can copy for each translate word for the same reason.   
 + ! Set of **Weights** we used for **Decoder Self-Attention** `Query`, `Key` and `Value` is different from the sets we used in the `Encoder`. 
@@ -97,7 +99,13 @@ And like wise, when we decode and translate the input, we want a single unit tha
 ![[Pasted image 20250316072647.png]]
 + ? and **2 values for each words in the Encoder** called `Key` values.
 
-+ ? For **Encoder-Decoder Attention** value, we **calculate the similarity score** between the `<EOS>` token  in the **Decoder** and each word in the **Encoder** using **Dot Product** just like before. Then we apply the **Softmax** function to calc probabilty distribute of each **similarity score**. Finally add the pair of scaled values together to get the **Encoder-Decoder Attention** values![[Pasted image 20250316073303.png]]![[Pasted image 20250315094502.png]]
++ ? For **Encoder-Decoder Attention** value, we **calculate the similarity score** between the `<EOS>` token  in the **Decoder** and each word in the **Encoder** using **Dot Product** just like before. Then we apply the **Softmax** function to calc probabilty distribute of each **similarity score**. Finally add the pair of scaled values together to get the **Encoder-Decoder Attention** values
+
+![[Pasted image 20250316073303.png]]
+
+![[Pasted image 20250315094502.png]]
+
+
 + ! **Note:** The set of **Weights** that we use to calc the **Queries, Keys and Values** for **Encoder-Decoder Attention** are **different from the sets of Weights we use for Self-Attention**. However, just like **Self-Attention** the sets of **Weights** are copied and **reused for each word**.  ![[Pasted image 20250315095301.png]]
 + ? Also, we can stack **Encoder-Decoder Attention** just like we can stack **Self-Attention** to keep track words in complicated phrases.
 
@@ -118,9 +126,20 @@ note: `vamos` is the Spanish translation for `let's go`
 4)  Re-calculate the **Encoder-Decoder Attention** of `vamos` by  between `let's` and `go` using the same sets of Weights for `<EOS>` token.
 5) Lastly, we run the values that represent `vamos` through the same `Fully Connected Layer` and `SoftMax` that we used for the `<EOS>` token. 
 ![[Pasted image 20250316062619.png]]
-
-
-
 ### 5.4 Lab: Implementing Attention, Self-Attention, Positional Encoding, and Transformer
 
 
+
+
+![[Pasted image 20251030204002.png]]
+Each head represernt a diff way to represent word. 
+
+**LoRA** update weight.
+![[Pasted image 20251030204952.png]]
+
+Chi phí huấn luyện giảm 
+**Loại bỏ cột mà ko mất đi thông tin.** 
+Remove Linearly dependent column.  Because we can get that column using other column from the matrix. e.g. col2 can be calc using col1. This call Low-Rank decomposition. -> reduce computational cost.
+![[Pasted image 20251030205157.png| 433]]
+
+![[Pasted image 20251030205148.png | 433]]

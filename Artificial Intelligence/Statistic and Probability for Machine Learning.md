@@ -7,5 +7,4 @@
 
 ### SaP Week 4 - Confidence Intervals and Hypothesis testing
 
-[[Statistics Fomulas]]
-
+### [[Make Probability Click]] 

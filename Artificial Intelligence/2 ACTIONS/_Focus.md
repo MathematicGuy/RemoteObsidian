@@ -3,11 +3,12 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
-Select skills that I can answer.
-- [ ] Feast
-- [ ] Viettel AI Race Module Improvement
-- [ ] Module Project
+- [ ] Note nhanh cách prompt LLM
+- [ ] Hiểu fine-tunning cần những gì, validate như thế nào, kết quả mong đợi là gì ?
+- [ ] Hiểu dataset qua phân tích video chị Hà gửi. 
+- [ ] How to start to live [Minimal](https://www.reddit.com/r/digitalminimalism/comments/1fxzyrq/my_new_literally_guide_to_minimalism_everything/)
 
+### [[Daily Machine Learning]]
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)

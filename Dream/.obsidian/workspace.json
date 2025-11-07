@@ -25,33 +25,18 @@
             }
           },
           {
-            "id": "f250ae5b418468b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret History Work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Secret History Work"
-            }
-          },
-          {
             "id": "e17369252ecb079a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/_How To/_How To Thing/_How To.md",
+                "file": "How to Study.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_How To"
+              "title": "How to Study"
             }
           }
         ],
@@ -253,12 +238,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f250ae5b418468b7",
+  "active": "e17369252ecb079a",
   "lastOpenFiles": [
+    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
+    "Learn 10x Faster Starting Tonight.md",
     "3 RESOURCES/_How To/_How To Thing/_How To.md",
+    "3 RESOURCES/_How To/_How To Thing/HOW TO SET SYSTEMS INSTEAD OF GOALS.md",
     "_Focus.md",
-    "2 ACTIONS/_My Life/Styles.md",
     "Secret History Work.md",
+    "2 ACTIONS/_My Life/Styles.md",
     "THOUGH.md",
     "ADHD.md",
     "2 ACTIONS/_My Life/Inattentive ADHD.md",
@@ -282,15 +270,12 @@
     "image/Checkboxes.png",
     "image/Pasted image 20250508104030.png",
     "image/Pasted image 20250508102747.png",
-    "3 RESOURCES/_How To/_How To Study/_How To Study.md",
     "Make Any Conversation More Fun and Fulfilling.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
-    "Learn 10x Faster Starting Tonight.md",
     "How to Prioritize your Task like a PRO.md",
     "2 ACTIONS/_My Life/Deepthought.md",
     "image/10bb9d1f378d5cf64d2f22a7657c6ef5-1.jpg",
     "image/Pasted image 20250404175615.png",
-    "Philopsophy that brought me back to life.md",
     "image",
     "fitness",
     "3 RESOURCES/Fitness",
