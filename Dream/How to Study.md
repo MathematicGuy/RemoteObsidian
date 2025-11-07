@@ -7,3 +7,10 @@ Ex:
 + [[inverse]] of y is the logarithm of y because **e to the logarithm of x is x** and **logarithm of $e^y$ is y
 	I re-read this sentence and find out I subconciously don't understand what F inverse mean (inverse the result of the function). 
 
+---
+Have a morning routine - but here the trick, don't study right away. 
+**wake up then chill out for 15-20 minutes then study, let your mind settle**. **Reduce as much stress as possible** by reminding yourself how grateful you are. 
+	Can't sleep - maybe mediatate - woke up energize ???
+
+
+

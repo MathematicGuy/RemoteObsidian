@@ -2,6 +2,8 @@
 ### [[RAG Summarize]]
 ### [[Model in RAG (NLP and DL)]]
 
+### [[RAG Crash Course]]
+
 ### [[Common Problems in RAG Systems and Their Solutions]]
 
 ### RAG Frameworks and Tools

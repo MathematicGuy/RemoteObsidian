@@ -20,7 +20,8 @@ We don't faster cars (e.g. GPT-5), infrastructure is all we need right now. e.g.
 
 Basically **RAG = Embedding Model (Encoder) + LLM**, to comsume contents RAG, I personally encourage you to learn the *basic of RAG from the top-down then understand the math from the ground-up*, this way you both understand why do we need RAG and what RAG comprise of both intuively (top-down) & logically (ground-up).
 
-+ ? In short, here what you need to learn. Note: `==` mean `require`.  
+
++ ? In short, here what you need to learn. Note: "==" mean require.
 	+ **RAG == Embedding Model (Encoder) + LLM**. (This mean *RAG reuiqre you to learn*)
 		
 	+ **Embedding Model (Encoder) + LLM == Sentence Transformer**

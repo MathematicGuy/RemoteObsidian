@@ -9,6 +9,7 @@
 >MinerU is a tool that converts PDFs into machine-readable formats (e.g., markdown, JSON)
 >[Installation Guide Win11-CUDA]([MinerU/docs/README_Windows_CUDA_Acceleration_en_US.md at master · opendatalab/MinerU](https://github.com/opendatalab/MinerU/blob/master/docs/README_Windows_CUDA_Acceleration_en_US.md))
 
+[Fast LLM Inference using CUDA](https://andrewkchan.dev/posts/yalm.html)
 
 **Photography**
 [Photography Layout](https://www.facebook.com/share/p/1BBFtYCNHB/)

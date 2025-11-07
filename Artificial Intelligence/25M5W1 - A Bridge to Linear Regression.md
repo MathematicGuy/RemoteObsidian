@@ -2,7 +2,7 @@
 Bias - Tại sao lại bỏ tham số b với 1 số dataset nhất định ? 
 Use 1 sample to update 1 and multiple parameter 
 ![[Pasted image 20251005174704.png# left ]]
-Có thể thay đổi được nhưng scale sẽ khác và đạo hàm chậm, tốc độ hội tụ chậm hơn và pải điều chỉnh learning rate bé hơn. 
+Có thể thay đổi được nhưng scale sẽ khác và đạo hàm chậm, tốc độ hội tụ chậm hơn và pải điều chỉnh learning rate bé hơn. **
 
 ![[Pasted image 20251005180611.png# left | 444]]
 Bước tính Loss ít quan trọng nhất vì bước Cập Nhật trọng số ở Bước 1. Bước 2 chỉ tính Loss để kiểm tra chất lượng mô hình. 

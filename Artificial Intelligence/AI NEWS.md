@@ -21,3 +21,6 @@ New Research Paper Release - this mean this paper had been worked on 3 - 6 month
 **RLVR (Reinforcement Learning from Verifiable Rewards)** 
 different from RLHF (RL from Human Feedback -> subject feedback)
 + $ Calc Loss with Verifiable with reward mechanism.  ![[Pasted image 20250625071604.png|400]]
+
+### DeepSeek OCR- revolutionary in image encoding (3B model)
+It's not about OCR, it about Data Compresion. Encode up to x10 information from Text to Image. "1 image worth 100 word"
