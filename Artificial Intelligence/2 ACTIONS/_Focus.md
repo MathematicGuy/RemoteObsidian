@@ -4,20 +4,13 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 
-*Logistic Regression Revision*
-Linear Regression -> Logistic Regression -> Sigmoid -> Softmax -> Hessian Matrix
-Traditional -> Vectorize
+*Logistic Regression Blog*
+Growth Fomula -> Sigmoid -> Logistic Regression -> Sigmoid -> Softmax -> Traditional -> Hessian Matrix
 
-Overview LinearR & LogisR
-Different between LinearR & LogisR
-Go from Mathematical Foundation like entropy and log loss
-then explain activation function Sigmoid
-then go deeper, connect information to explain Softmax.
-After that explain tradition and vectorize briefly.
-- [ ] Note nhanh cách prompt LLM
 - [ ] Hiểu fine-tunning cần những gì, validate như thế nào, kết quả mong đợi là gì ?
 - [ ] Hiểu dataset qua phân tích video chị Hà gửi.
 - [ ] How to start to live [Minimal](https://www.reddit.com/r/digitalminimalism/comments/1fxzyrq/my_new_literally_guide_to_minimalism_everything/)
+
 
 ### [[Daily Machine Learning]]
 
