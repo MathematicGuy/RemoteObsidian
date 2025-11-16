@@ -28,10 +28,15 @@
             "id": "c2fcbbc324cadc52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Audiophile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Audiophile"
             }
           }
         ],
@@ -202,6 +207,7 @@
   "active": "c2fcbbc324cadc52",
   "lastOpenFiles": [
     "_Focus/Todo.md",
+    "Audiophile.md",
     "conflict-files-obsidian-git.md",
     "AI Engineering Job.md",
     "jobDB.md",
