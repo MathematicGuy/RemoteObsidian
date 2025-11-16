@@ -7,6 +7,8 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 *Logistic Regression Blog*
 Growth Fomula -> Sigmoid -> Logistic Regression -> Softmax -> Traditional -> Hessian Matrix
 
+*Get quick before it END*
+[SIMGOT](https://www.linsoul.com/products/simgot-ea500-lm?_pos=1&_sid=f9a441ff0&_ss=r&sca_ref=3431839.SsadRUmJUJ): (Mid-Worth It Value) https://tainghe.com.vn/tai-nghe-simgot-ea500-lm.html (1tr850) - [Maps](https://maps.app.goo.gl/UCLEvSLXafE8QMD49)
 
 
 ### [[Daily Machine Learning]]
