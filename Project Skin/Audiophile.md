@@ -27,3 +27,5 @@ Consideration:
 [Audio Search RAG ?](https://www.ragie.ai/blog/how-we-built-multimodal-rag-for-audio-and-video)
 Test with [AutoEQ](https://autoeq.app/) and sound [equalizer reddit](https://www.reddit.com/r/headphones/comments/1m2tkex/fun_on_the_cheap_kz_zsx_autoeq_app/)
 
+![[Pasted image 20251117023557.png]]![[Pasted image 20251117023620.png]]
+
