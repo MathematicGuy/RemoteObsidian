@@ -101,10 +101,10 @@ r - growth rate = (birth - death) / N -> return pos or neg pop's rate of growth.
 ### [Logistic Regression with Maximum Likelihood](https://youtu.be/TM1lijyQnaI?si=--OOiSPPTybNRGzw)
 
 ----
+
 ## Lecture Analysis
 + @ Làm Lý Thuyết và Ý Tưởng trước -> Code Sau.  
 ($\theta_1$)
-
 ### From Linear Regression to Logistic Regression
 + @ **Main Problem:** explain how to choose the right Loss function, start from Linear Regression to Logistic Regression. **How to design a Learning Algorithm ?**
 Linear Regression Revision (intuition + calculation + ideas)

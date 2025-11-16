@@ -207,7 +207,7 @@ Logarithm: If $e^{y}= x$, then $y=\log(x)$
 
 ![[Pasted image 20240717093619.png]]
 However, there're my some exception:
-Like then x = 0 in this function. There cannot be a derivative if the line only pass 1 point. 
+Like then x = 0 in this function. There cannot be a derivative if the line only pass 1 point.  
 + ! The Derivitive must exist for all points in the Domain (Fuction must be continuos)
 ![[Pasted image 20240717093826.png]]
 
