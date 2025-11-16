@@ -325,7 +325,7 @@ https://youtube.com/shorts/nE2a0_yWlkk?si=FaM2f0mk7YBZuoJh
 1) **Over-motivation:** 
 	+ **2 Conflicting** forces that dismiss eachother *a strong desire to succeed (approach motivation to be perfect in both tasks or deadlines, etc..) and a simultaneous strong fear of failure (avoidance motivation, don't want to do the work or doesn't accept to sacrificed).* This dual motivation creates a psychological “stuckness,” where the *individual is caught between wanting to start and fearing the consequences of potential failure*. This internal conflict manifests as procrastination, which is often described as feeling stuck or immobilized despite being agitated and anxious.
 	
-2) 1 Force overwhelm another
+2) 1 Force overwhelm another 
 
 
 
@@ -339,3 +339,7 @@ Let analyze, sacrified sleep + delaying out of perfection + `[whatever reason]` 
 2) Change your perspective about your Deadline from being stressful to being thoughful for example, like they isn't going mad if you don't do your work, what the worst possible scenario :)) Then allow yourself like method 1. 
 
 **Strategy:** Detach performance from ability and ability from self-worth. 
+
+---
+### 16 /11 / 2025
+Why the life of a Person who living on the edge of Living and Dead radiate more life than someone having everything they wanted but still depressed. I one though it was greed or there nothing to pursue, but by applying the "life is simple but people make it hard" and "keep moving" rule [`1`](https://youtu.be/7l_0ZcSuRwg?si=j2irdBxFkZw6wMFW), turn out life only have meaning as long as you keep moving, no matter what, similar to what happened when a river stop flowing or information stop flowing, there nothing created & connect. Even if it was shit, having something is still better than standing still & do nothing. Or it just the combination of grit, spirit and kinetics. 

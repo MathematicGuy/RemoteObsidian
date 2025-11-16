@@ -103,9 +103,19 @@ r - growth rate = (birth - death) / N -> return pos or neg pop's rate of growth.
 ----
 ## Lecture Analysis
 + @ Làm Lý Thuyết và Ý Tưởng trước -> Code Sau.  
+($\theta_1$)
 
 ### From Linear Regression to Logistic Regression
++ @ **Main Problem:** explain how to choose the right Loss function, start from Linear Regression to Logistic Regression. **How to design a Learning Algorithm ?**
 Linear Regression Revision (intuition + calculation + ideas)
+
+$\hat{y} = H(x) = \sum_{i=0}^j \theta_i X_i$
+
+
++ ? [What is "First Order" in First Order Trend](https://www.reddit.com/r/AskEngineers/comments/1kdz6on/first_order_effect_for_the_eng_word_geeks_what/): 
+	+ **"To first order"** is **colloquial for** the notion that you're **discussing the biggest effects and ignoring others.**
+	+ Mathematically, **"first order (1D)" suggests the first term of a taylor expansion, ignoring higher order (ie 2D, 3D, 4D, etc...)**. In perturbation theoreis first order is the base theory, maybe with only a linear term for correction. There are other specific definitions, but it's not a single well defined concept.
+
 Give new problem -> The need for Logistic Regression...
 + Goal: Fit the data best. Find the func that describe (predict) the data pattern. Author solve this problem by using a already proven fomula. 
 + Try with Linear Regression -> not fit bc of straight line. 

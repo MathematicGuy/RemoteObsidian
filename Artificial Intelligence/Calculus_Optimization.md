@@ -38,7 +38,6 @@ or Left
 # Optimization of log-loss
 ## Optimization of log-loss Part 1
 >Log-Loss: Giúp tối ưu việc tính đạo hàm và chống giá trị hội tụ ở 0 trong tích đạo hàm.
-
 ![[Pasted image 20240724130751.png]]
 > What maximize the chace of achieving this: head 7, tail 3
 ![[Pasted image 20240724131032.png]]

@@ -44,7 +44,7 @@ To Calculate the the function minimum, we **calc the Derivative of 2 variables a
 ### Optimization using Gradients - Analytical Method (Important)
 > Back to power line example, the cost is the area of the square starting from the points to the line.
 	![[Pasted image 20240805154215.png]]
-> the line can have an equation such as y equals mx plus b, where m is the slope and b is the y intercept
+> the line can have an equation such as y equals mx plus b, where m is the slope and b is the y intercept. 
 
 + Before calc the total cost, we need to calc the cost from 1 point like a to b first, with x = 1, we have y=m+b. So the cost from a to b is $(m+b - 2)^2$ for blue. for orange is $(2m + b - 5)^2$, for green is $(3x + b - 3)^2$.
 	![[Pasted image 20240920164817.png]] 
@@ -63,7 +63,7 @@ plug the answer back to the 2nd equation -> get b
 ![[Pasted image 20240805160346.png]]
 **This actually call Linear Regression: Optimal Solution**
 >Which use to solve a problem where you have a bunch of points and
-   you try to find the closest line to them
+   you try to find the closest line to them.
 ![[Pasted image 20240805160427.png]]
 + ? Is there a easier way to do this instead of calc func then calc partial derivative => Gradient Descent 
 [[Partial Derivative and Gradient HW]]

@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "531f9d24412b5a10",
+        "id": "800330b7f73bac46",
         "type": "tabs",
         "children": [
           {
-            "id": "138a3c9e4729bbc2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "_Focus"
-            }
-          },
-          {
-            "id": "59f6d725ed93db09",
+            "id": "8538977b0d089f6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THOUGH.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "THOUGH"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +215,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "59f6d725ed93db09",
+  "active": "e88db79403e0696f",
   "lastOpenFiles": [
     "_Focus.md",
     "THOUGH.md",

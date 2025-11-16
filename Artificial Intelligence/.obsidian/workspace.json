@@ -24,49 +24,21 @@
             }
           },
           {
-            "id": "d1c59758bf93962f",
+            "id": "ee366a1761919d98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25W1 - From Linear Regression to Logistic Regression.md",
+                "file": "25W1 - Softmax Exercise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25W1 - From Linear Regression to Logistic Regression"
-            }
-          },
-          {
-            "id": "f16b9a733ae6e678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logarithm and Log-Likelihood Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logarithm and Log-Likelihood Function"
-            }
-          },
-          {
-            "id": "e59557963d290bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIO - Softmax"
+              "title": "25W1 - Softmax Exercise"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,32 +226,42 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "e59557963d290bbe",
+  "active": "ee366a1761919d98",
   "lastOpenFiles": [
-    "Logarithm and Log-Likelihood Function.md",
-    "25W1 - From Linear Regression to Logistic Regression.md",
-    "AIO 2024.md",
+    "25W1 - Softmax Exercise.md",
+    "Fix Laptop.md",
     "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20251116211117.png",
+    "image/Pasted image 20251116210958.png",
+    "image/Pasted image 20251116210858.png",
+    "image/Pasted image 20251116210826.png",
+    "image/Pasted image 20251116205730.png",
+    "image/Pasted image 20251116205412.png",
+    "image/Pasted image 20251116205112.png",
+    "image/Pasted image 20251116205019.png",
+    "AIO 2025.md",
+    "Pretraining LLMs vs Finetunning LLMs.md",
+    "AIVNRG25 Act 1.1 - Multi Model - LLM.md",
+    "Paper Reading - Understanding Naturalistic Facial Expressions with Deep Learning and Multimodal Large Language Models.md",
+    "fine-tuning.md",
+    "25W1 - From Linear Regression to Logistic Regression.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Calculus_Optimization.md",
+    "Week 3 - Optimization in Neural Network and Newton's Method.md",
+    "Gradient and Gradient Descent.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/Linear Algebra for Machine Learning.md",
+    "Derivative and Optimization Test.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 4 Determinants and Eigenvector.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Week 3 Vector and Linear Transformations.md",
+    "25M5W1 - A Bridge to Linear Regression.md",
+    "image/Pasted image 20251110024401.png",
+    "image/Pasted image 20251110024205.png",
+    "AIO 2024.md",
+    "Logarithm and Log-Likelihood Function.md",
     "Cost function.md",
     "MLS Week 3 - Classification with logistic regression.md",
     "Machine Learning & Data Science Main.md",
     "MLS Week 2 - Regression with multiple input variables.md",
-    "Feature Engineering and Polynomial Regression.md",
-    "BERT.md",
-    "Matrix Multiplication.md",
-    "Machine Learning Interview.md",
-    "Internship Revision 2.md",
-    "AIO - Multiple Layers Perceptron.md",
-    "AIO Loss Functions for Classification.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "AIO4 - Summary.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Supervised Machine Learning - Regression and Classification.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning Algorithm.md",
-    "AIO - Logistic Regression.md",
-    "AIO 2025.md"
+    "Feature Engineering and Polynomial Regression.md"
   ]
 }
