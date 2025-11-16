@@ -10,7 +10,8 @@ Preference from [Jay's IEM Ranking List](https://docs.google.com/spreadsheets/d/
 [Flagship KZ Zenith](https://ncstore.net/product/tai-nghe-kz-zenith/) (Mid-Worth It Value) - 1tr560 - (0.75mm 2-pin) (Have *Foam Noise Cancelation Ear Tips*) - Dynamic Drivers IEM Earphones
 
 *10$ DAC for KZ:* Improve Audio Quality
-+ [KZ AM01 Type-C](https://ncstore.net/product/dac-amp-kz-am01/)
++ [KZ AM01 Type-C](https://ncstore.net/product/dac-amp-kz-am01/) - 220k
++ [KZ AM02](https://shopee.vn/KZ-AM02-Di-%C4%90%E1%BB%99ng-K%E1%BB%B9-Thu%E1%BA%ADt-S%E1%BB%91-Tai-Nghe-Khu%E1%BA%BFch-%C4%90%E1%BA%A1i-USB-DAC-Ch%E1%BB%89nh-Type-c-Sang-3.5-Mm-Adapter-C%C3%A1p-V%E1%BB%9Bi-DAC-Chip-Tai-Nghe-Amp-i.126607628.40465454381) - 229k
 
 *KZ Earhook:* Bluetooth Buy Later Bluetooth Connector for Wireless and Noise Cancelation
 + [KZ AN01 Earhook](https://kz-audio.com/kz-an01.html) - *Recommened for KZ Zenith*(ANC Noise Cancellation, Ambient Sound Mode, Al Call Noise Cancellation, Zero-Latency Experience, Bluetooth 5.4, LDAC High-Definition Audio Decoding) - [Shopee](https://shopee.vn/Kz-AN01-Bluetooth-Earhooks-B%E1%BB%99-chuy%E1%BB%83n-%C4%91%E1%BB%95i-kh%C3%B4ng-d%C3%A2y-Bluetooth-5.4-HD-Micro-0-75-0-78mm-C-PIN-kh%C3%B4ng-c%C3%B3-tai-nghe-cho-EDX-PRO-ZSN-PRO-Castor-ZS10-PRO-v.v.-i.432277685.27723668263)
