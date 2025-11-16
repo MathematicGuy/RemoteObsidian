@@ -25,4 +25,5 @@ Consideration:
 [KZ sth](https://shopee.vn/Tai-Nghe-Nh%C3%A9t-Tai-KZ-X-HBB-PR2-C%C3%B3-D%C3%A2y-Jack-13.2MM-%C3%82m-Thanh-S%E1%BB%91ng-%C4%90%E1%BB%99ng-i.459032809.23640802726?extraParams=%7B%22display_model_id%22%3A221544292724%2C%22model_selection_logic%22%3A3%7D&sp_atk=ea72138b-de94-4bc0-a26d-00c371407573&xptdk=ea72138b-de94-4bc0-a26d-00c371407573)
 [KZ AS10 Pro](https://kz-audio.com/kz-as10-pro.html) - balance armature
 [Audio Search RAG ?](https://www.ragie.ai/blog/how-we-built-multimodal-rag-for-audio-and-video)
+Test with [AutoEQ](https://autoeq.app/) and sound [equalizer reddit](https://www.reddit.com/r/headphones/comments/1m2tkex/fun_on_the_cheap_kz_zsx_autoeq_app/)
 
