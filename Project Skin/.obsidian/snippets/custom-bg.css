@@ -1,7 +1,7 @@
 :root{
   /* Background Opacity Percent*/
   --opacity: 0.38;
-  --background-opacity: 0.34567; 
+  --background-opacity: 0.34567;
   /* Background Blur */
   --background-blur: 4.56789px;
 }
@@ -22,4 +22,8 @@ body::before {
   position: fixed; inset: 0;
   background: var(--background-image-url) center/cover no-repeat;
   filter: blur(var(--background-blur));
+}
+/* rgb(114 118 155) */
+.cm-comment, .cm-meta {
+	color: rgb(114 118 155);
 }
