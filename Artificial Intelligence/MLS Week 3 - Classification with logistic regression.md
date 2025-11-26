@@ -132,6 +132,7 @@ So we have 100 parameters W1 through W100, because we **don't know which of thes
 	+ If $\lambda=10^{10}$, the regulization term will be too large so $w_{j}$ force to shrink to zero, and become very small $\to$ effectively simplifying the model to the point where it might not learn from the data, leading to underfitting.
 		![[Pasted image 20241021161936.png]]
 		![[Pasted image 20241021162026.png]]
+Note: [Ridge vs Lasso in depth explain in VN](https://www.studocu.vn/vn/document/international-university-vnu-hcm/mathematics-for-economics-and-business/ridge-and-lasso-final-presentation/90480980)
 
 + @ **Summary:** The cost function goal is to minimize value. 
 	+ @  **For large $\lambda$:**  heavily penalizes large weights ($w_j$), encouraging the model to **decrease $w_j$ to minimize the cost function**. However, this can result in the **model ignoring important features**, leading to **underfitting**, as it **becomes too simple to capture meaningful patterns in the data**.

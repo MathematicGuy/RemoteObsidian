@@ -14,3 +14,6 @@ There **2 popular fine-tunning categories:**
 - Image Description 
 - Image Grounding
 - Video Fine Tunning
+
+---
+**Grounding DINO (GDINO)** for Detection and Grounding Dataset.

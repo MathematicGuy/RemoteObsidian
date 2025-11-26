@@ -165,3 +165,19 @@ Note: *p value < 0.05 mean the variable truly have infludence to the dependent v
 (5 câu) 8 ->13: Tính Loss, MSE
 (8 câu) 14 -> 22: Tính Đạo hàm và Các hàm Loss 
 (27 câu) 24 -> 31 Genetic Algorithm
+
+---
+## Application: House Price Prediction (Advanced Regression Technique)
+![[Pasted image 20251116225855.png]]
+
+### SECTION 1: Linear Regression
+
+
+### SECTION 2: Non-linear Regression
+
+
+### SECTION 3: Regularization
+
+
+### SECTION 4: House Price Prediction
+

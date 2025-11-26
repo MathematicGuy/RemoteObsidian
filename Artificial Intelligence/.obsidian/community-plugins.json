@@ -2,11 +2,11 @@
   "homepage",
   "obsidian-list-callouts",
   "obsidian-admonition",
-  "obsidian-latex-environments",
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
-  "quick-latex",
   "obsidian-linter",
   "obsidian-day-planner",
-  "dataview"
+  "dataview",
+  "quick-latex",
+  "obsidian-latex-suite"
 ]
