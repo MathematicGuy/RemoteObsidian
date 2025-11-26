@@ -1,3 +1,7 @@
+**A lot of real world systems are nonlinear in nature, but given a certain operating point or region these systems can be approximated to be linear.** This can be done using the Taylor series, and this video shows you a step by step way to show if a system is linear or not and how you can linearize it: https://youtu.be/V1uvK4Ii_ks?si=P-XlMQ8nB08c0s_U
+
+
+
 > **Linear Approximation** is the process of a**pproximating the curve by a straight line at a specific point.** The idea is that for **small changes in $x$ near $a$, the straight line will behave very similarly to the function $f(x)$.**
  
 note: 2 function or values combine can be called an *expression*.

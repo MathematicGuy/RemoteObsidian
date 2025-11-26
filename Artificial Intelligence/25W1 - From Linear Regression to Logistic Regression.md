@@ -99,4 +99,31 @@ Example of Polynomial Regression with non-linear features: feature may be $x, x^
 N - pop size
 r - growth rate = (birth - death) / N -> return pos or neg pop's rate of growth.
   
- 
+
+### Linear Regression
+x and theta/w as vector. Make sure to transpose. 
+bunch of data - fit model - predict (y = h as hypothesis present prediction confidence)
+hypothesis h (x and theta parameters) + epsilon (acceptable error)
+![[Pasted image 20251107141142.png]]
+Matrix mult
+![[Pasted image 20251107142652.png]]
+Nhân giữa 2 ma trận. Phải nhân nghịch đảo. Thêm giải thích vì sao 
+
+### Logistic Regression 
+reason pick sigmoid is 2 fold
++ squash value from 0 to 1.
++ derivative of sigmoid is convenient. 
+
+Bernoulli Distribution (Binary Classification)
+![[Pasted image 20251107153018.png]]
+Expand to multi-class classification. 
+
+Independence Class
+Multiple -> assume data is independence. Need a model to predict likelikhood of class 1, for independent variable. 
+-> Because its convert to 0 as prob multiply -> use log to transform to addition. 
+-> calculate derivative like nzorm al. 
+
+Maximum Loglikelihood Approach to maximize the likelihood of the model to predict categorical independent variable given a input X (independent Variable)
+-> In short, log likelihood is used to predict an input that belong to a certain category.
+![[Pasted image 20251107154936.png]]
+

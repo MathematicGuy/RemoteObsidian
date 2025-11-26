@@ -8,16 +8,6 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 Linear Regression -> Logistic Regression -> Sigmoid -> Softmax -> Hessian Matrix
 Traditional -> Vectorize
 
-Overview LinearR & LogisR
-Different between LinearR & LogisR
-Go from Mathematical Foundation like entropy and log loss
-then explain activation function Sigmoid
-then go deeper, connect information to explain Softmax.
-After that explain tradition and vectorize briefly.
-- [ ] Note nhanh cách prompt LLM
-- [ ] Hiểu fine-tunning cần những gì, validate như thế nào, kết quả mong đợi là gì ?
-- [ ] Hiểu dataset qua phân tích video chị Hà gửi.
-- [ ] How to start to live [Minimal](https://www.reddit.com/r/digitalminimalism/comments/1fxzyrq/my_new_literally_guide_to_minimalism_everything/)
 
 ### [[Daily Machine Learning]]
 
@@ -27,13 +17,13 @@ After that explain tradition and vectorize briefly.
 - [ ] Grounding for Hallucination, LLMCache for faster response time.
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
-
+- [ ] [[Research Idea using AI]]
+ 
 ### [[Machine Learning & Data Science Main]] _storage for future learning resource
-[[ML CheatSheet]]
 [Deep Dive to Deep Learning](https://d2l.ai/)
 [When to use ML/DS](https://beryl-freckle-b85.notion.site/AIO2025-B-i-to-n-n-y-c-p-d-ng-c-ML-DL-hay-kh-ng-24e302d8792c80fe8b65dc9a3463148e)
 [ML Dataset Archive](https://archive.ics.uci.edu/datasets/?skip=0&take=10&sort=desc&orderBy=NumHits&search=&Types=Sequential)
-
+### [[ML CheatSheet]]
 
 ### [[Critical Thinking & Mental System]] _where I analyze my gnikniht & engineer systems for better life
 - [ ] [[Discrete Mathematics for Computer Science Specialization]] - [source](https://youtu.be/i8sphCg1yTs?si=d3uwJBPkiRNVRBqh)

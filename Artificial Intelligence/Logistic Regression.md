@@ -21,6 +21,6 @@ where:
 ![[Pasted image 20241018144217.png]]
 
 
-## Note about coefficients
+## Note about *coefficients*
 + **Regression coefficient for logistic regression are calculated using maximum likelihood estimateion or MLE.**
  

@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "f524c7d5c7bafd35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a6cc1c68d6f69f9",
@@ -187,10 +199,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f524c7d5c7bafd35",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_Focus/Todo.md",
+    "conflict-files-obsidian-git.md",
     "AI Engineering Job.md",
     "jobDB.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",

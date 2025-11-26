@@ -151,15 +151,15 @@ Note for problem solving, next time I want to simulate/translate a mathematic pr
 Think I realize after marriage for 10 years: https://www.facebook.com/share/v/19oaDJ9E3C/
  1) The *Core* of the *Family* is ofcourse *MONEY*. 
  2) Marriage is your life biggest business. So sort your soul mate, one you with her, you do not leave her.  
- 3) Marriage without Voice is worst than marriage without sex. Silent is not the answers.
+ 3) Marriage *without Voice is worst than* marriage *without sex*. Silent is not the answers.
 	 forcing expectation on your love one
-4) A man cannot make money, doesn't deserve marriage at all. (literally everyone)
+4) A man cannot make money, doesn't deserve marriage at all. (that basically everyone, lol)
 5) Betwen humans, "seeing, empathy, loving, being together" is the result of one's sacrified (accept losing) Expect  
 
 I have been long creating this habits where I would watching mindless video, doomscroll every time I get too tired. This is the biggest barrior between me and my bestself. Before my birthday, I will take back my life by trying my best. This time for once, I'll really living live. 
 
 ### 19/7/2025
-Such an exhausting morning with my brother Tai....
+University Festival day. Such an exhausting morning with my brother Tai....
 
 ### 21/07/2025:  End of 40 days
 You are the best de-motivation speak I've ever had. Out of everyones you and mom are the only who made me forget my dream.
@@ -170,12 +170,10 @@ I hope you can fully enjoy peace in heaven, you always told us that you want to 
 Rest in peace father, see you again soon in another life. I love you.
 
 ### 23/07/2025: 36 hours of writing AIO docs marathon
-
 Feeling pround, motivated, flow state is hier. Just do it, not avoiding it. Face the True. Pain is un-avoidable. 
 ![[Pasted image 20250723004651.png]]
 
 ### 25/7/2025: Is AI actually thinking if it have Intuition
-
 Intuition is sth that you sense that cannot be teached to other, that what people say. 
 
 But, what if you can teach people a framework that develop their intuition. Like how scientist and mathematics stimulate THINKING in AI ?
@@ -240,11 +238,11 @@ FriendFeed thua là bởi họ đã quá dễ dãi trong câu chuyện họ kể
 
 Bret khuyên rằng:
 
-Khi tự hỏi lý do tại sao sản phẩm thất bại, đừng vội tin vào câu trả lời hiện ra nhanh và dễ dàng nhất trong đầu bạn, bởi đó khả năng cao là câu trả lời sai. (Mình đang diễn đạt lại chứ không trích nguyên văn)
+*Khi tự hỏi lý do tại sao sản phẩm thất bại, đừng vội tin vào câu trả lời hiện ra nhanh và dễ dàng nhất trong đầu bạn, bởi đó khả năng cao là câu trả lời sai.* (Mình đang diễn đạt lại chứ không trích nguyên văn)
 
 Không chỉ trong kinh doanh, mà trong cuộc sống cũng thế.
 
-Để tăng tốc độ học từ những trải nghiệm, bạn nên tránh gắn liền bản thân với bất kỳ “câu chuyện” nào.
+*Để tăng tốc độ học từ những trải nghiệm, bạn nên tránh gắn liền bản thân với bất kỳ “câu chuyện” nào.*
 
 Nếu bạn luôn tự cho mình là người thông minh, khi người khác chửi bạn ngu, bạn sẽ bị sự giận dữ choán hết tâm trí, không còn đủ chỗ để tự hỏi “hành động nào của mình khiến người khác nói vậy”.
 
@@ -258,9 +256,9 @@ Mình sẵn sàng làm nhận bất kỳ lời chửi bới nào, miễn là mì
 
 II. Nhận lời khuyên
 
-Bret chia sẻ rằng một trong những lý do FriendFeed thất bại là bởi họ không nhận (hoặc không chịu nhận) lời khuyên từ những người ngoài cuộc, những người sẵn lòng nói cho họ sự thật họ có thể không muốn nghe, nhưng cần nghe.
+Bret chia sẻ rằng một trong *những lý do FriendFeed thất bại là bởi họ không nhận (hoặc không chịu nhận) lời khuyên từ những người ngoài cuộc,* những người sẵn lòng nói cho họ sự thật họ có thể không muốn nghe, nhưng cần nghe.
 
-Ngoài ý kiến của bản thân, lắng nghe lời khuyên của người khác cũng rất quan trọng, vì họ có thể giúp ta chỉ ra những điểm mù tư duy.
+*Ngoài ý kiến của bản thân, lắng nghe lời khuyên của người khác cũng rất quan trọng, vì họ có thể giúp ta chỉ ra những điểm mù tư duy.*
 
 Tuy nhiên, một câu hỏi cũng không kém phần quan trọng là:
 
@@ -286,7 +284,7 @@ Thường những điều nào khiến bạn thấy khó chịu đều đáng đ
 
 Sau khi lọc những lời khuyên bạn nhận được qua 3 “phễu” này, bạn chưa chắc sẽ tìm được một lời khuyên hoàn toàn chính xác, nhưng ít nhất cũng tăng thêm ít nhất 60% khả năng.
 
-Mục tiêu không phải là tìm được một lời khuyên đúng nhất, mà là chắt lọc từ những lời khuyên ta nhận được.
+*Mục tiêu không phải là tìm được một lời khuyên đúng nhất, mà là chắt lọc từ những lời khuyên ta nhận được.*
 
 III. Cách tốt nhất để dự đoán tương lai là xây dựng nó
 
@@ -311,8 +309,9 @@ Mình còn rất trẻ, còn rất nhiều điều cần phải học, nhưng m�
 1) Avoid inactivity like sitting still for a long time.
 2) Create focus enviroment, limiting screen time. 
 3)  Dont eat a lot of carb
+
 For people with ADHD, consume *less carb* because food like *sugar paste, potatoes, rice, fruit and juice* -> increase seretonin -> make you happy
-But *when seretonin counter balance dopamint, so seretonin increase then  dopamint decrease*. (ADHD mean you lack Dopamint)
+But *when seretonin counter balance dopamint, so seretonin increase then dopamint decrease*. (ADHD mean you lack Dopamint)
 
 gET OUt Of Your own head, just doing something in general that is not meaningless. Shift your focus, Tamping your MIND by Tamping your body, especialy you are ADHD. 
 
@@ -326,8 +325,7 @@ https://youtube.com/shorts/nE2a0_yWlkk?si=FaM2f0mk7YBZuoJh
 	+ **2 Conflicting** forces that dismiss eachother *a strong desire to succeed (approach motivation to be perfect in both tasks or deadlines, etc..) and a simultaneous strong fear of failure (avoidance motivation, don't want to do the work or doesn't accept to sacrificed).* This dual motivation creates a psychological “stuckness,” where the *individual is caught between wanting to start and fearing the consequences of potential failure*. This internal conflict manifests as procrastination, which is often described as feeling stuck or immobilized despite being agitated and anxious.
 	
 2) 1 Force overwhelm another
-
-
+ 
 
 **Example Story:**
 Long story short: people procrastinate because they couldn't accept themselve to underperform, think about it, everytime you sacrificed sleep in order to wake up tomorrow just to come back to sleep again or when you have so many important things to do but can't accept the fact that your products aren't going to be perfect so you started to Delay until the end is near then you rush & end up with a imperfect product anyway. After that maybe u make an excused to protect your Ego. 
@@ -335,7 +333,31 @@ Long story short: people procrastinate because they couldn't accept themselve to
 In other word, ppl self-sabotage themself by increase life difficulty like sacrifing sleep to wake up early for deadline to save their self-image and social judgement. "If success is achieved despite procrastination, it reinforces their self-image as capable beyond expectations. This brinksmanship—thriving under last-minute pressure—is humorously noted as a defining trait of students at competitive universities."
 
 Let analyze, sacrified sleep + delaying out of perfection + `[whatever reason]` -> All are Causing Stress. Maybe stress is the problem right, here are ways to reduce stress:
-1) Allow yourself to have a comfortable timewindows to do yourwork, NO CONSTRAIN, you DON'T have to FINISH your WORK, you could save it for LATER. This mean, it doesn't need to end up perfectly finished.
+1) *Allow yourself to have a comfortable timewindows to do yourwork, NO CONSTRAIN, you DON'T have to FINISH your WORK NOW, you could save it for LATER*. This mean, it doesn't need to end up perfectly finished.
 2) Change your perspective about your Deadline from being stressful to being thoughful for example, like they isn't going mad if you don't do your work, what the worst possible scenario :)) Then allow yourself like method 1. 
 
 **Strategy:** Detach performance from ability and ability from self-worth. 
+
+---
+
+### 25 / 11 / 2025
+Just watch this Podcast *"# Life belongs to those who understand their bodies | This Book May Save Your Life | Better Version".* Seems like everyone, i mean **human started with a holes**, which concatinate your mouth and your anus together, sound crazy but its true. Also close the toilet lid when you flush your things, help prevent the dirty particle reach your mouth, and your clothes and your eyes, yearh, just close the lid. 
+
+**Observing your poop** help you idenitfy problem with your digestion system, for example gray poop , floating poop with oil alert that your prepancreatic (tiền tụy)  have problem. Btw Crouch is the best way to shit, and shit in a specific time for routine.  
+
+Better eyes - eat green vegetable. Fiber is the preminum food that help probiotics growth better while ultra processed food do in reverse.  
+
+**Activate your sixth sense** by doing calistheics to prevent "thoát vị đĩa đệm / herniated disc". 
+
+**Your brain need to refresh jeden tag:** sleep well to prevent yourself from going crazy and alzheimer's disease (dimentia). Mean while, allow your brain to rest by not eating while working or playing, its simply let your brain doing nothing, because nothing is the best thing for resting :))) 
+
+Studying skills help your brain staying young, cold water reduce stress. 
+
+**Understand your Heart.** Eat less bad fat, reduce blood sugar (rice, bún, bánh bao, bột tinh chế), a good strategy is to eat Vegetable first then rice (starch's food later), should eat cereal, fruits (natural ingredient). Control your Emotion as well.       
+
+**Protect your Lungs, the door to life.** 
+
+### 26 / 11 / 2025
+Rare Creature that play when it Examine Time. 
+https://www.facebook.com/share/r/1AC9ZL7nqY/
+
