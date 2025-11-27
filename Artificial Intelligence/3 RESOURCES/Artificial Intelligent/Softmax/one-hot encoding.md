@@ -8,7 +8,6 @@ In the softmax log-likelihood, one-hot encoding allows us to:
 3. **Easily implement the loss function using linear algebra operations**, making it much more efficient when implemented in software (especially with large datasets and multiple classes).
 
 ### 2. How It Works with Matrix/Vector Multiplication
-
 Let’s say we have:
 - $N$ samples in our dataset.
 - $C$ possible classes (e.g., for a 4-class problem, $C = 4$).
@@ -25,7 +24,6 @@ $$
 where $y_j^{(i)} = 1$ if $j$ is the true class, and $y_j^{(i)} = 0$ otherwise.
 
 ### 3. Using One-Hot Encoding in the Log-Likelihood Calculation
-
 The softmax log-likelihood for each sample is the log of the probability assigned to the correct class. With one-hot encoding, we can express this directly in a compact, vectorized form.
 
 The likelihood (or probability) for the true class is:

@@ -5,17 +5,23 @@ Cost Function overview
 $y^{(i)}$ - true target
 $\hat{y}^{(i)} - y^{(i)}$ - subtract predict valuey hat to y.
 
-### Cost funciton Intuition (understanding the cost function)
-If you set *w=1 & b=0*. And calculate the loss of $f_w(x)$ over all *predict datapoint (point map to the blue line*) and *grounth truth datapoint* (*RED*) we get a Loss Function Value of *0.58.*
+### Cost function Intuition (understanding the cost function)
+If you set *w=1 & b=0*. And calculate the loss of $f_w(x)$ over all *predict datapoint (point map to the blue line*) and *grounth truth datapoint* (*annotate in RED*) we get a Loss Function Value of *0.58.*
 ![[Pasted image 20251105210015.png]]
 Repeat this step for w=0&b=0 and we get Loss Func value of 2.3
 ![[Pasted image 20251105210238.png]]
+<<<<<<< HEAD
+**Repeat for this step for all other value** then we get this beautiful parralbol line. 
+	+ $ So when you trace what the Cost function $J$ by W for all x. The loss/cost function $J$ look like this. 
+=======
 **Repeat for this step for all other value** then we get this beautiful parralbol line.
 + $ So when you trace what the Cost function $J$ by W for all x. The loss/cost function $J$ look like this.
+>>>>>>> origin/main
 + ? However, *how can we choose the correct value of $w$ that minimize $J$.*
 ![[Pasted image 20241014112735.png| 244]]
 That also how you adjust the weight to minimize the loss function.
 ![[Pasted image 20251105210646.png]]
+
 
 ### Visualize the cost function (How $f_{w,b}$ relate to the Cost function $J$ )
 Like the previous example, for the given W and all input x, we can calculate the loss function value. In 3D, it the same, for the given $f_{w,b}$ you can see whether the loss value on the loss function graph is minimal (ie. at the center) or not.
@@ -103,12 +109,14 @@ r - growth rate = (birth - death) / N -> return pos or neg pop's rate of growth.
 ----
 
 ## Lecture Analysis
+<<<<<<< HEAD
+=======
 + @ Làm Lý Thuyết và Ý Tưởng trước -> Code Sau.
 ($\theta_1$)
+>>>>>>> origin/main
 ### From Linear Regression to Logistic Regression
 + @ **Main Problem:** explain how to choose the right Loss function, start from Linear Regression to Logistic Regression. **How to design a Learning Algorithm ?**
 Linear Regression Revision (intuition + calculation + ideas)
-
 $\hat{y} = H(x) = \sum_{i=0}^j \theta_i X_i$
 
 
@@ -141,9 +149,15 @@ Thầy giảng thiếu phần nhược điểm của MSE ??
 ![[Pasted image 20251110000357.png]]
 Khi tính đạo hàm ta thấy MSE ko phù hợp để làm hàm mất mát vì ... nó là non-convex.
 + ? 1 Hàm Loss non-convex sẽ:
+<<<<<<< HEAD
+		+ sẽ là 1 hàm không lồi. Nghĩa là nó có nhiều local-minimal (giải thích thêm phần này sử dụng Coursera) khiến thuật toán sử dụng Gradient Descent bị mắc kẹt ko tiến đến đc Global minimal. 
+	+ Đạo hàm rất nhỏ vì công thức sử dụng Nhân, nên càng cập nhật nhiều sẽ càng chậm -> hiện tượng này gọi là Vanishing Gradient, đạo hàm ít tới mức có thể coi như là không cập nhật gì. 
+	+ Hàm mất mát không có ý nghĩa thống kê vì nó đc thiết kế cho bài toán Regression với mục tiêu dự đoán các giá trị biến động liên tục. Trong khi Logistic Regression là 1 bài toán phân loại dự đoán xác suất thuộc về 1 lớp nhất định. (Regression có nhiều giá trị, Classification có 1 số giá trị nhưng vẫn có thể đếm đc), sử dụng Cross-Entropy, 1 hàm thuần xác suất để phân loại nhị phân sẽ có ý nghĩa thống ke tốt hơn. 
+=======
 	+ sẽ là 1 hàm không lồi. Nghĩa là nó có nhiều local-minimal (giải thích thêm phần này sử dụng Coursera) khiến thuật toán sử dụng Gradient Descent bị mắc kẹt ko tiến đến đc Global minimal.
 	+ Đạo hàm rất nhỏ vì công thức sử dụng Nhân, nên càng cập nhật nhiều sẽ càng chậm -> hiện tượng này gọi là Vanishing Gradient, đạo hàm ít tới mức có thể coi như là không cập nhật gì.
 	+ Hàm mất mát không có ý nghĩa thống kê vì nó đc thiết kế cho bài toán Regression với mục tiêu dự đoán các giá trị biến động liên tục. Trong khi Logistic Regression là 1 bài toán phân loại dự đoán xác suất thuộc về 1 lớp nhất định. (Regression có nhiều giá trị, Classification có 1 số giá trị nhưng vẫn có thể đếm đc), sử dụng Cross-Entropy, 1 hàm thuần xác suất để phân loại nhị phân sẽ có ý nghĩa thống ke tốt hơn.
+>>>>>>> origin/main
 + ? Giải thích tính Convex của 1 hàm bằng cách chứng minh liệu 1 hàm có convex hay không. i.e. đạo hàm bậc nhất và đạo hàm bậc 2. Nếu đạo hàm bậc 2 > thì Convex, =0 sẽ ... < 1 sẽ ... Note: tính convex theo số lượng tham số $w_{0}, w_{1}, etc..$
 
 2u - 4 = 2(3x + 2) - 4 = 6x

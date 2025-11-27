@@ -155,7 +155,8 @@ This function tells us how likely different values of $p$ are, given our observe
 > Use to **estimate the parameters in logistic regression.** 
 
 **The coefficient $b_{0}, b_{1}$ are the ones that result in the maximum likelihood of the model.**
-![[Pasted image 20241021085608.png]] ![[Pasted image 20241021085639.png]]
+![[Pasted image 20241021085608.png# left | 244]] 
+![[Pasted image 20241021085639.png]]
 
 
 #### LL Null Model (Likelihood Null Model)
@@ -260,7 +261,7 @@ Using the earlier coin toss example:
   - $z_i = \theta^T x_i$ is the linear combination of input features and parameters.
 
 ### **Likelihood Function in Logistic Regression**
-
+	
 - **For Independent Observations**:
   $$
   L(\theta) = \prod_{i=1}^{n} P(y_i | x_i; \theta)
@@ -336,7 +337,7 @@ Remember, q(y) is the probability of a point being sampled, that is $\frac{1}{N}
 ![[Pasted image 20241025122331.png]]
  ![[Pasted image 20241025123303.png]]
 + Ratio of a probability that an event occurs to the probability that it doesn't occur. 
- + Probabilty of Y=1 given X, Abbreviated as P of X with 1 here is not a number but rather the class or category.
++ Probabilty of Y=1 given X, Abbreviated as P of X with 1 here is not a number but rather the class or category.
 + So as mentioned before, we need to model a probability using a curve where the predictor domain X can be anything and the range of P of X or the conditional probability that Y is true given X is between 0 and 1.
 -> Logistic use sigmoid function to accomplish this. 
 
