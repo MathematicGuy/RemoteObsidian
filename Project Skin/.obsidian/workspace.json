@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "68fcfadf5e50633b",
+            "id": "07df6e292793990d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,10 +204,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "68fcfadf5e50633b",
+  "active": "07df6e292793990d",
   "lastOpenFiles": [
-    "4 ARCHIVES/2023/Last Semester/Programming Fundamental.md",
+    "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/Pointer in C.md",
+    "4 ARCHIVES/2023/Last Semester/Programming Fundamental.md",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",
     "3 RESOURCES/Programming/Fundamental of Programming/C Group Project.md",
@@ -218,7 +219,6 @@
     "3 RESOURCES/Web/FrontEnd/C Code Note.md",
     "3 RESOURCES/Web/BackEnd/C Note.md",
     "3 RESOURCES/Programming/Fundamental of Programming/Struct in C.md",
-    "_Focus/Todo.md",
     "Dynamic Memory Allocation.md",
     "3 RESOURCES/Programming/Fundamental of Programming/bitShift_bitWise.md",
     "3 RESOURCES/Programming/Fundamental of Programming/Number Systems.md",

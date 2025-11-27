@@ -61,8 +61,10 @@ and * p -> pointer value
 
 value with the same name (a) with difference memory address
 ![[Pasted image 20240112084641.png]]
+ 
+
 ![[Pasted image 20240112084811.png]]
-+ what happened?  
++ what happened ?  
  ![[Pasted image 20240112085139.png]]
 > When a function is called, it goes into a stack frame. Therefor it memory address is also difference from the one in main. 
 
