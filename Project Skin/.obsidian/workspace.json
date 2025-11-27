@@ -25,18 +25,13 @@
             }
           },
           {
-            "id": "a061f50bff2d9de5",
+            "id": "bb553c3ce8b6e2a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Audiophile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Audiophile"
+              "title": "New tab"
             }
           }
         ],
@@ -204,12 +199,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a061f50bff2d9de5",
+  "active": "bb553c3ce8b6e2a4",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
+    "Audiophile.md",
     "Images/Pasted image 20251117023620.png",
     "Images/Pasted image 20251117023557.png",
-    "Audiophile.md",
-    "_Focus/Todo.md",
     "conflict-files-obsidian-git.md",
     "AI Engineering Job.md",
     "jobDB.md",

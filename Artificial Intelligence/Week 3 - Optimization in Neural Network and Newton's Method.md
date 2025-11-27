@@ -158,7 +158,7 @@ After 5 iterations we found it. Quite like Gradient Descent right:
 ![[Pasted image 20241001105555.png]]
 
 ### Second Derivative
-> Rate of change of "the rate of change"
+> 	Rate of change of "the rate of change"
 
 note:
 + derivative of a func is a constance mean that func is a line.
@@ -196,7 +196,6 @@ Note: Inconclusive (ko có kết luận) mean we don't know it maximum or minimu
 [[1st Derivative vs 2nd Derivative]]
 ![[Pasted image 20241001115337.png]]
 > The 2nd Derivative tell at how the "rate of change" (1st Derivative) is changing.
-
 ```ad-summary
 - The **first derivative** gives the **rate of change** or **slope** of the function.
 - The **second derivative** gives information about the **concavity** or **curvature**.

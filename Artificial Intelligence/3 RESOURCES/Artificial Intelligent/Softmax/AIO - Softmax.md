@@ -1,12 +1,34 @@
+link: [Software 2.0. I sometimes see people refer to neural… | by Andrej Karpathy | Medium](https://karpathy.medium.com/software-2-0-a64152b37c35)
+==Software 2.0==
+	programming that uses machine learning
+	algorithms and neural networks to build
+	autonomous systems that can learn from data
+	and improve their operation without human input.
+==Software 1.0==
+	Writing code that governs the behavior of the software.
+
 note:
 + Hadamard devision (Element-Wise product)
 + Softmax is like logisitc regression
 + $k$-th mean element at position $k$. The same for other letter $a,b,c,d,i,j,etc\dots$ 
 + [[Why Do Neural Network love Softmax]]
 + [Sigmoid vs Softmax](https://towardsdatascience.com/sigmoid-and-softmax-functions-in-5-minutes-f516c80ea1f9) (Sigmoid is for 1 class, Softmax is for multi-class)
- 
-# Softmax Regression
-> Giống Logistic Regression nhưng để phân loại nhiều lớp/đặc trưng (multiple class). Vd trong Logistic Regression nếu z=3 có xs là 0.88 thì TH còn lại là z=1 sẽ là 0.12, vậy tổng các xs là 1 đối vs 2 TH. Với Softmax, nếu có n TH thì tổng xs của n TH là 1 như vd ở dưới:     
+
+## From Logistic Regression to Softmax Regression
+ **Logistic Regression for Binary Classification**
+ $z = wx + b$
+$$a_{1} = g(z) = \frac{1}{1+e^{-z}} = P(\vec{x})$$
+
+**Softmax = Multi-Class Classification -> How about Multiple Logistic Regression ? where each Class is a binary classification** (Softmax Regression is a generalization model of Logistic Regression)
+![[Pasted image 20251127161017.png]]
+
+![[Pasted image 20251127163113.png]]
+
+![[Pasted image 20251127163044.png]]
+
+
+
+> Giống Logistic Regression nhưng để phân loại nhiều lớp/đặc trưng (multiple class). Vd trong Logistic Regression nếu z=3 có xs là 0.88 thì TH còn lại là z=1 sẽ là 0.12, vậy tổng các xs là 1, đối vs 2 TH. Với Softmax, nếu có n TH, thì tổng xs của n TH là 1 như vd ở dưới:     
 ![[Pasted image 20241106050754.png]]
   Công thức **mô tả cách tính xác suất xảy ra của từng Class.** 
 ![[Pasted image 20241106051757.png]]
@@ -15,7 +37,6 @@ note:
 ![[Pasted image 20241105210031.png]]
 >index = 0 -> y tại vị trí 0 bằng 1
 >index = 1 -> y tại vị trí 1 bằng 0
-
 
 >The softmax function, often used in the final layer of a classification NN model for classification tasks, **converts raw output scores - also known as logits - into probabilities by taking the exponential of each output and normalizing these values by dividing by the sum of all the exponentials**.
 ![[images 1.png]]
@@ -28,14 +49,13 @@ note:
 A data set with $\mathbb{N}$ independent samples
 Each sample $x^{(i)}$ has a **true class label** $y^{(i)}$ which can be one of $k$ possible classes (e.g. class 1, 2, 3, 4, etc...)
 note:
-+ **true class label** can be called "**class** in general context" and "**label** in ML context" in short. And label it is for our case: 
++ **true class label** can be called "**class** in general context" and "**label** in ML context" in short. And label it is for our case.
 + $x^{(i)}$ is the feature vector (input) corresponding to the $i$-th example in your dataset.
 
 **true label** mean only 1 label is true out of all labels. 
 + So $y_{1}=1$ meaning that class 1 is the correct class
 + Thus $y_{2}=0, y_{3}=0, y_{4}=0$ are not the correct class.
 In mathematical terms, we **encode the true label** $y$ as **one-hot** vector $[y_{1}, y_{2}, y_{3}, y_{4}]$ where **exactly one of the entries is 1** (indicate the correct class), and **the rest are 0**.
-
 
 Say for 4 label y = { 1, 2, 3, 4 }. 
 >We know the probs of each label can be calc using Softmax: ![[Pasted image 20241106060300.png]]
@@ -56,7 +76,7 @@ $P(Y|X)$ can be rewrite as $h_{\theta}(X)$  $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{
 
 Note:
 + [[IID]] mean Independent and Identically Distributed: độc lập và ko phân phối
-+ Homogenous (đồng biến) basically mean all function's variable change together. Example for $\lambda$ as the scaling factor, the whole funcion will be scale (that it) $$f(λx,λy)=λx+λy=λ(x+y)=λf(x,y).$$ 
++ Homogenous (đồng biến) basically mean all function's variable change together. Example for $\lambda$ as the scaling factor, the whole funcion will be scale (that it) $$f(λx,λy)=λx+λy=λ(x+y)=λf(x,y).$$
 Same as above, for the whole dataset for m IID datapoints: $(x^{(1)}, y^{(1)}), \dots, (x^{(m)}, y^{(n)})$ we got the product of all prob:
 $$P(Y|X)=P(Y^{(1)}|X^{(1)}),\dots, P(Y^{(m)}|X^{n)}) = \prod^{m}_{i=1}P(Y^{(i)}|X^{(i)})$$
 Simplified the fomula we got Softmax Likelihood Function:
@@ -102,7 +122,6 @@ This approach is efficient because it leverages matrix operations to compute the
 
 ---
 # AIO2024: Softmax
-
 Nhiều tham số hơn (more parameters) thì có tiềm năng làm đc nhiều thứ hơn. Basically more data
 
 What about a explicit task (1 việc riêng biệt) ?
@@ -149,8 +168,9 @@ With one-hot encoding, loss function follow y:
 The loss function become:
 ![[Pasted image 20241106211739.png]]
 
+![[Pasted image 20241106212526.png]]
 
-![[Pasted image 20241106212526.png]]![[Pasted image 20241106212710.png]]
+![[Pasted image 20241106212710.png]]
 
 ![[Pasted image 20241106213013.png]]
 Cho NN 2 nodes, do L phụ thuộc vào 2 nodes y0 và y1 nên tính chain rule của tổng 2 nodes.
