@@ -29,7 +29,9 @@ Say that `int a` address is 2022, then the address of `&a + 1` will be 2026, bec
 ![[Pasted image 20251126154643.png | 444]]
 
 ## referencing pointer (con trỏ tham chiếu)
-+ ? a reference to a pointer is essentially another pointer that points to an existing pointer. This is often called a "pointer to a pointer".
+![[Pasted image 20251127093003.png]]
++ ? a reference to a pointer is essentially another *pointer that points to an existing pointer. This is often called a "pointer to a pointer".* Essentially, when variable A hold variable B adress, the first pointer extract A's value (ie. B address), since we now have B's address, the next pointer will be pointed to B's value. 
+	
 	+ `int *p = &x;` - Here, `p` is a pointer that holds the address of `x`, so `p` is a reference to `x`
     
 	+ `int **r = &p;` - Here, `r` is a pointer that holds the address of `p`, so `r` is a reference to `p`, or a pointer to a pointer. When you dereference `r` once with `*r`, you get `p`. When you dereference `r` twice with `**r`, you get the value that `p` points to, which is `x`.
