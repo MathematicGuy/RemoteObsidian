@@ -22,11 +22,10 @@ $$a_{1} = g(z) = \frac{1}{1+e^{-z}} = P(\vec{x})$$
 **Softmax = Multi-Class Classification -> How about Multiple Logistic Regression ? where each Class is a binary classification** (Softmax Regression is a generalization model of Logistic Regression)
 ![[Pasted image 20251127161017.png]]
 
+
 ![[Pasted image 20251127163113.png]]
 
 ![[Pasted image 20251127163044.png]]
-
-
 
 > Giống Logistic Regression nhưng để phân loại nhiều lớp/đặc trưng (multiple class). Vd trong Logistic Regression nếu z=3 có xs là 0.88 thì TH còn lại là z=1 sẽ là 0.12, vậy tổng các xs là 1, đối vs 2 TH. Với Softmax, nếu có n TH, thì tổng xs của n TH là 1 như vd ở dưới:     
 ![[Pasted image 20241106050754.png]]
