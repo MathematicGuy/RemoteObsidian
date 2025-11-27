@@ -40,9 +40,11 @@ Say that `int a` address is 2022, then the address of `&a + 1` will be 2026, bec
 (reference -> 1 con trỏ trỏ tới trỏ khác)
 a -> b (a reference b)
 
+ 
+
+
 float, int - 4 bytes
 short - 2 bytes
-
 ![[Pasted image 20240110175703.png]]
 
 Changing value of a with pointer p
@@ -61,7 +63,9 @@ and * p -> pointer value
 
 value with the same name (a) with difference memory address
 ![[Pasted image 20240112084641.png]]
- 
+
+
+
 
 ![[Pasted image 20240112084811.png]]
 + what happened ?  

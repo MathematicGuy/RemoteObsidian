@@ -22,8 +22,19 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "9f0b9f0cf91ff742",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -211,8 +222,10 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "0dd1098d915e38b4",
+  "active": "9f0b9f0cf91ff742",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "Study Music Playlist.md",
     "image/Pasted image 20251116225855.png",
     "image/Pasted image 20251116211117.png",
     "image/Pasted image 20251116210958.png",
@@ -223,10 +236,8 @@
     "image/Pasted image 20251116205112.png",
     "image/Pasted image 20251116205019.png",
     "image/Pasted image 20251110024401.png",
-    "image/Pasted image 20251110024205.png",
     "Fix Laptop.md",
     "25W1 - Softmax Exercise.md",
-    "2 ACTIONS/_Focus.md",
     "AIO - Optimizer for Neural Network.md",
     "AIO 2024.md",
     "AIO - Multiple Layers Perceptron.md",
