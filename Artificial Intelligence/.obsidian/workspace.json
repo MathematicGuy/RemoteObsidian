@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "9f0b9f0cf91ff742",
+            "id": "5b37abbf5bd00e70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AIO - Softmax"
             }
           }
         ],
@@ -222,8 +226,10 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "9f0b9f0cf91ff742",
+  "active": "5b37abbf5bd00e70",
   "lastOpenFiles": [
+    "25W6M2 - Loss function for Classification.md",
+    "AIO 2025.md",
     "2 ACTIONS/_Focus.md",
     "Study Music Playlist.md",
     "image/Pasted image 20251116225855.png",
@@ -242,11 +248,9 @@
     "AIO 2024.md",
     "AIO - Multiple Layers Perceptron.md",
     "AIO - Gradient Vanishing.md",
-    "AIO 2025.md",
     "Bias-Variance Tradeoff and Model Performance.md",
     "ML CheatSheet.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "25W6M2 - Loss function for Classification.md",
     "Research Direction.md",
     "AIVNRG25.md",
     "25M6W2 - MLflow for Model Tracking and Versoning.md",

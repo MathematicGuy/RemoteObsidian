@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,9 +191,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Focus/Todo.md",
     "3 RESOURCES/Programming/Fundamental of Programming/Pointer in C.md",
     "4 ARCHIVES/2023/Last Semester/Programming Fundamental.md",
-    "_Focus/Todo.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",
