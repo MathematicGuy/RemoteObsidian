@@ -6,6 +6,7 @@ Linear Regression Revision (intuition + calculation + ideas)
 $\hat{y} = H(x) = \sum_{i=0}^j \theta_i X_i$
 
 
+<<<<<<< HEAD
 + ? [What is "First Order" in First Order Trend](https://www.reddit.com/r/AskEngineers/comments/1kdz6on/first_order_effect_for_the_eng_word_geeks_what/): 
 	+ **"To first order"** is **colloquial for** the notion that you're **discussing the biggest effects and ignoring others.**
 	+ Mathematically, **"first order (1D)" suggests the first term of a taylor expansion, ignoring higher order (ie 2D, 3D, 4D, etc...)**. In perturbation theoreis first order is the base theory, maybe with only a linear term for correction. There are other specific definitions, but it's not a single well defined concept.
@@ -86,3 +87,8 @@ Sau cùng Traditional -> Vectorize và so sánh.
 	2) Loss phạt các dự đoán sai khác nhau ![[Pasted image 20251110010008.png | 333]] 
 6) 1 Cách tiếp cận khác là sử dụng Entropy
 7) [LoRes code](https://youtu.be/HovUiBPojwo?si=97UDcm7Hu37-cd5S)
+=======
+## Note about *coefficients*
++ **Regression coefficient for logistic regression are calculated using maximum likelihood estimateion or MLE.**
+ 
+>>>>>>> origin/main

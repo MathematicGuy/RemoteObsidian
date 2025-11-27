@@ -8,7 +8,28 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
+            "id": "138a3c9e4729bbc2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Focus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Focus"
+            }
+          },
+          {
+            "id": "f1bce5d665020b57",
+=======
             "id": "8538977b0d089f6a",
+>>>>>>> 9838d5a5caf4d692f2a0150d184b8bec8cec9d0e
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -215,12 +236,17 @@
       "homepage:Open homepage": false
     }
   },
+<<<<<<< HEAD
+  "active": "f1bce5d665020b57",
+=======
   "active": "e88db79403e0696f",
+>>>>>>> 9838d5a5caf4d692f2a0150d184b8bec8cec9d0e
   "lastOpenFiles": [
-    "_Focus.md",
     "THOUGH.md",
-    "Daily Note.md",
+    "_Focus.md",
     "2 ACTIONS/_My Life/_My Life.md",
+    "2 ACTIONS/_My Life/Deepthought.md",
+    "Daily Note.md",
     "3 RESOURCES/_How To/_How To Thing/_How To.md",
     "Secret History Work.md",
     "2 ACTIONS/_My Life/Styles.md",
@@ -247,7 +273,6 @@
     "Make Any Conversation More Fun and Fulfilling.md",
     "3 RESOURCES/_Happiness/_Happiness.md",
     "How to Prioritize your Task like a PRO.md",
-    "2 ACTIONS/_My Life/Deepthought.md",
     "image/10bb9d1f378d5cf64d2f22a7657c6ef5-1.jpg",
     "image/Pasted image 20250404175615.png",
     "image",

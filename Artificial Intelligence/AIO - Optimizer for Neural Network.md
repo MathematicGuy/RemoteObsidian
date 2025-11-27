@@ -138,3 +138,4 @@ cách 1: nhiệt độ hiện tại là 5 tiếng tr;c chia trung bình (ko đú
 cách 2: càng gần phụ thuộc càng nhiều, càng xa phụ thuộc càng tốt. -> lấy từ time series (exponential weight average)
 
 
+![[Pasted image 20251125115448.png]]

@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "bb553c3ce8b6e2a4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +188,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb553c3ce8b6e2a4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20251127093003.png",
+    "Images/Pasted image 20251126154643.png",
+    "Images/Pasted image 20251126153726.png",
+    "Dynamic Memory Allocation.md",
     "_Focus/Todo.md",
     "Audiophile.md",
     "Images/Pasted image 20251117023620.png",
     "Images/Pasted image 20251117023557.png",
-    "conflict-files-obsidian-git.md",
     "AI Engineering Job.md",
     "jobDB.md",
     "4 ARCHIVES/2023/Challenges & Guides/Github.md",

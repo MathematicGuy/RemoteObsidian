@@ -95,7 +95,6 @@ int main() {
 }
 ```
 
-
 **Itoa**
 > `itoa()` is a function in C that converts an integer value to a string of character using (DECIMAL or HEX form)
 ```c
@@ -457,14 +456,14 @@ int main(){
 }
 ```
 > rows: 2
-cols: 3
-1
-2
-3
--
-4
-5
-6
+> cols: 3
+	1
+	2
+	3
+	-
+	4
+	5
+	6
 
 
 Array of String

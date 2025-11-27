@@ -1,3 +1,16 @@
+## Introduct Pointer in C/C++
++ ? Pointer is a *variable that store the address* of other variable. ![[Pasted image 20251126153726.png]]
+Given:
++ `P` is the address
++ `*P` is the value at at the address. 
++ `&a` get the value a's address. It a operation that give the address of a. 
+To *access a value in C* *from the Memory* directly, you have to *pull the value out from its address,* this concept called *Dereferencing pointer.* 
+For example: 
+1) You create the integer value `a`, and the pointer `*p`.  
+	In C, a value address is automatically alocated when you initialize them so now what we need to do is access `a` address, because we want to pull the value from `a` address
+2) By create `p = &a` we are accessing a's address at 204
+3) By pointing the pointer `*` to `p` or `&a` which is 204, we are accessing the value 8 the address 204.
+
 ## Dereferencing pointer (con trỏ hội thảo) 
 + ? Dereferencing a pointer means getting the value that is stored in the memory location pointed by the pointer. The dereference operator `*` is used to do this in C.
 	+  `*p = 99;` - Here, `p` is a pointer to `x`. `*p` dereferences the pointer, meaning it accesses the value stored at the memory location `p` is pointing to (which is `x`). So `*p = 99;` changes the value of `x` to 99.
@@ -9,9 +22,17 @@
 + !  Remember, **each** `*` **in front of a pointer variable in C is a level of dereferencing**, accessing the value that the pointer (or chain of pointers) points to.
 (dereference -> lấy giá trị ở địa chỉ của con trỏ)
 
+
+Note: int, float - 4 bytes, char - 1 bytes.
+`a++` increase the memory stored in a.
+Say that `int a` address is 2022, then the address of `&a + 1` will be 2026, because *each unit of integer take up 4 bytes of memory.*  But the value at `&a + 1` will be a very negative random number like -85672737, because *C allocate a garbage value when there're no value being allocated.*  
+![[Pasted image 20251126154643.png | 444]]
+
 ## referencing pointer (con trỏ tham chiếu)
-+ ? a reference to a pointer is essentially another pointer that points to an existing pointer. This is often called a "pointer to a pointer".
-	+ `int *p = &x;` - Here, `p` is a pointer that holds the address of `x`, so `p` is a reference to `x`.
+![[Pasted image 20251127093003.png]]
++ ? a reference to a pointer is essentially another *pointer that points to an existing pointer. This is often called a "pointer to a pointer".* Essentially, when variable A hold variable B adress, the first pointer extract A's value (ie. B address), since we now have B's address, the next pointer will be pointed to B's value. 
+	
+	+ `int *p = &x;` - Here, `p` is a pointer that holds the address of `x`, so `p` is a reference to `x`
     
 	+ `int **r = &p;` - Here, `r` is a pointer that holds the address of `p`, so `r` is a reference to `p`, or a pointer to a pointer. When you dereference `r` once with `*r`, you get `p`. When you dereference `r` twice with `**r`, you get the value that `p` points to, which is `x`.
     
@@ -21,9 +42,11 @@
 (reference -> 1 con trỏ trỏ tới trỏ khác)
 a -> b (a reference b)
 
+ 
+
+
 float, int - 4 bytes
 short - 2 bytes
-
 ![[Pasted image 20240110175703.png]]
 
 Changing value of a with pointer p
@@ -42,8 +65,12 @@ and * p -> pointer value
 
 value with the same name (a) with difference memory address
 ![[Pasted image 20240112084641.png]]
+
+
+
+
 ![[Pasted image 20240112084811.png]]
-+ what happened?  
++ what happened ?  
  ![[Pasted image 20240112085139.png]]
 > When a function is called, it goes into a stack frame. Therefor it memory address is also difference from the one in main. 
 

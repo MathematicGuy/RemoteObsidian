@@ -21,7 +21,6 @@ Why Learn C? It the mother of languages
 Runtime Dependent -> Need specific compiler for each OS system
 
 [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=9VE7p-he4fA)
-
 [Pointers in C / C++](https://www.youtube.com/@freecodecamp)
 
 Note:
@@ -53,7 +52,6 @@ Data types
 	most common char: ([ASCII Chart – CommFront](https://www.commfront.com/pages/ascii-chart))
 
 ### C Variable
-
 **Output variable**
 	To output variables in C, you must get familiar with something called "format specifiers".
 > For example, to output the value of an `int` variable, you must use the format specifier `%d` or `%i` surrounded by double quotes, inside the `printf()` function:
@@ -62,9 +60,8 @@ int myNum = 15;
 printf("%d", myNum);  // Outputs 15
 ```
 > To print other types, use `%c` for `char` and `%f` for `float`:
-
 ![[Pasted image 20231101141639.png]]
-and -> 1 when a and b are the same. 
+	and -> 1 when a and b are the same. 
 	0 + 0 = 1,
 	1 + 1 = 1,
 	1 + 0 = 0 and 0 + 1 = 0
@@ -102,7 +99,7 @@ void main(){
     printf("Enter a Integer: ");
     scanf("%d", &m);
 
-    // Lấy biểu diễn nhị phân của m
+    // Lấy biểu diễn nhị phân của *m*
     itoa(m, st, 2);
     printf("\n Binary of (%d)=%s", m, st);
 
