@@ -18,11 +18,22 @@ note:
  **Logistic Regression for Binary Classification**
  $z = wx + b$
 $$a_{1} = g(z) = \frac{1}{1+e^{-z}} = P(\vec{x})$$
+$z = [0.9, -0.4]$.  
+e^(0.9 - 0.9) / (e^(0.9-0.9) + e^(-0.4-0.9)) = 0.7858349830
+e^(-0.4 - 0.9) / (e^(0.9-0.9) + e^(-0.4-0.9)) = 0.2141650170
+
+z1 = 0.6
+z2 = 2.3
+z2 = e^(2.3 -  2.3) / (e^(2.3-2.3) + e^(0.6- 2.3)) = 0.845
+z1 = e^(0.6 -  2.3) / (e^(2.3-2.3) + e^(0.6- 2.3)) = 0.155
+$[0.155, -0.155]$
+
 
 **Softmax = Multi-Class Classification -> How about Multiple Logistic Regression ? where each Class is a binary classification** (Softmax Regression is a generalization model of Logistic Regression)
 ![[Pasted image 20251127161017.png]]
-
-
++ ? Calculate Softmax parameters. 
++ ? A parameters is any value that being **initialize before training** and get **updated during training (ie. by gradient descent).**
+Say that we have 6 features and 3 classes. With $\vec{x}$ represent those 6 features multiply with its weight, so *6 weights* count as *6 parameters + 1 bias (because weight and bias update during training)*, so that *7 parameters for each z*, because in softmax *each class have their own parameters z*. And 7 * 4 = 28 parameters in total.      
 ![[Pasted image 20251127163113.png]]
 
 ![[Pasted image 20251127163044.png]]
@@ -66,7 +77,7 @@ Say for 4 label y = { 1, 2, 3, 4 }.
 >= $a_{1}^{y_1^{(i)}}.a_{1}^{y_2^{(i)}}.a_{1}^{y_3^{(i)}}.a_{1}^{y_4^{(i)}}$ 
 >Because , there is only 1 true label Y in each sample X. So if $P(Y=1|X)$ is true, then all others probability are False: 
 >= $a_{1}^1.a_{2}^0.a_{3}^{0}.a_{4}^{0}$ 
->= $a_{1}$. c
+>= $a_{1}. c$
 + $ **Simplify Equation using product sign** $P(Y|X) = \prod^{c}_{k=1}P(y=c|x)$ 
 	this represent prob of Y to happened given sample X.
 
@@ -74,8 +85,7 @@ Note: $\theta$ represent Neural Network weight
 (vậy là lặp lại như vậy cho mỗi class)
 
 **Spared Categorical Cross-Entropy**
-$P(Y|X)$ can be rewrite as $h_{\theta}(X)$  $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$ 
-where $h_{\theta}$ is the probability of $h$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1 represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
+$P(Y|X)$ can be rewrite as $h_{\theta}(X)$ with $y^{(i)}$ represent each the one-hot vector with 1 of the zeros vector and $k$ as the class index from 1 to k class.    $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$where $h_{\theta}$ is the probability of $h$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1 represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
 
 Note:
 + [[IID]] mean Independent and Identically Distributed: độc lập và ko phân phối
@@ -91,7 +101,7 @@ Like likelihood function in Logistic Regression, the **prob will get infinitely 
 $$-\sum^{m}_{i=1}\sum^{c}_{k=1} (y^{(i)} _{k}) \log(h_{\theta}(X^{(i)})_{k})$$
 The function now become **Maximum Log Likelihood** because log function is [[homogenous]] (đồng biến) so $arg_{\theta} \max(L(\theta)) = arg_{\theta} \max(LL(\theta))$, this mean when the Loss function is maximize then Log Likelihood is also maximize) 
 
-(note: 
+Note: 
 + $LL$ mean Loglikelihood, $L$ mean Loss
 + Other benefit of using log is easier derivative.
 + $k$-th represent element index so don't mind it much. If 2 element have k-th that mean they calc at the same time at k element.
