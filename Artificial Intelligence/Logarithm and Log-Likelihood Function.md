@@ -309,6 +309,12 @@ $$L(\theta) = \sum^{n}_{i=1} y_{i}\log(\sigma(\theta^{T}\bar{x_{i}})) + \dots+ (
 
 ![[Pasted image 20241021112606.png]]
 
+### Logistic Regression Cost Function Note
+![[Pasted image 20251129165222.png]]
+We use ${y^{(i)} = k}$ to identify class so we can accounted both class 0 and 1 flexibly with k represent both class 0 and 1, and $y^{(i)}$ represent the True class. Yes, we're using for loop to eliminate False class with 0 on this one. 
+![[Pasted image 20251129170048.png]]
++ $ This way, $\{y^{(i)}=k\}$ term eliminate only the undesirable class and keeping only the True class. 
+
 
 ---
 

@@ -85,12 +85,12 @@ Note: $\theta$ represent Neural Network weight
 (vậy là lặp lại như vậy cho mỗi class)
 
 **Spared Categorical Cross-Entropy**
-$P(Y|X)$ can be rewrite as $h_{\theta}(X)$ with $y^{(i)}$ represent each the one-hot vector with 1 of the zeros vector and $k$ as the class index from 1 to k class.    $$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$where $h_{\theta}$ is the probability of $h$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1 represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
+$P(Y|X)$ can be rewrite as $h_{\theta}(X)$ with $y^{(i)}$ represent each the one-hot vector and $k$ as the class index from 1 to k class.$$\prod^{c}_{k=1}h_{\theta}(X)_{k}^{y^{(i)}}$$where $h_{\theta}$ is the probability of class $y$ to happend given input $X$ and weights $\theta$ with $c$ represent total number of label and $k$ represent $h_{\theta}(x)$ index (i.e. label index). Finally $y^{(i)}$ equal 0 or 1 represent the plausibility of $h$ (khả năng xảy ra của $h$). Also yes, $y^{(i)}$ can be use to represent one-hot encoding vector.
 
 Note:
-+ [[IID]] mean Independent and Identically Distributed: độc lập và ko phân phối
++ [[IID]] mean Independent and Identically Distributed: độc lập và ko phân phối.
 + Homogenous (đồng biến) basically mean all function's variable change together. Example for $\lambda$ as the scaling factor, the whole funcion will be scale (that it) $$f(λx,λy)=λx+λy=λ(x+y)=λf(x,y).$$
-Same as above, for the whole dataset for m IID datapoints: $(x^{(1)}, y^{(1)}), \dots, (x^{(m)}, y^{(n)})$ we got the product of all prob:
+Same as above, but for the whole dataset for $m$ IID datapoints: $(x^{(1)}, y^{(1)}), \dots, (x^{(m)}, y^{(n)})$ we got the product of all prob:
 $$P(Y|X)=P(Y^{(1)}|X^{(1)}),\dots, P(Y^{(m)}|X^{n)}) = \prod^{m}_{i=1}P(Y^{(i)}|X^{(i)})$$
 Simplified the fomula we got Softmax Likelihood Function:
 $$\prod^{m}_{i=1}\prod^{c}_{k=1}h_{\theta}(X^{(i)})_{k} ^{y^{(i)}_{k}}$$
