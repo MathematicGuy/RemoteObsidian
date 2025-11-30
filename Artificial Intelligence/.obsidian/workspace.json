@@ -51,8 +51,7 @@
               "title": "Logarithm and Log-Likelihood Function"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +239,11 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "edb2cffd69a765e0",
+  "active": "0dd1098d915e38b4",
   "lastOpenFiles": [
+    "Softmax Regression.md",
     "image/Pasted image 20251129171117.png",
     "image/Pasted image 20251129171045.png",
-    "Softmax Regression.md",
     "image/Pasted image 20251129170921.png",
     "image/Pasted image 20251129170918.png",
     "image/Pasted image 20251129170907.png",
@@ -258,7 +257,6 @@
     "Why Do Neural Network love Softmax.md",
     "image/Pasted image 20251129160835.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
-    "image/Pasted image 20251129142921.png",
     "AIO 2025.md",
     "25W6M2 - Loss function for Classification.md",
     "Study Music Playlist.md",
