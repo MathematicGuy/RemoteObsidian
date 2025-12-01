@@ -37,8 +37,7 @@
               "title": "Softmax Regression"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +225,9 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "95c8798ad4a0c44f",
+  "active": "0dd1098d915e38b4",
   "lastOpenFiles": [
+    "Softmax Regression.md",
     "AIO 2025.md",
     "2 ACTIONS/_Focus.md",
     "ML Refresher - Softmax Regresion.md",
@@ -240,7 +240,6 @@
     "image/Pasted image 20251129160835.png",
     "image/Pasted image 20251129142921.png",
     "image/Pasted image 20251129140814.png",
-    "Softmax Regression.md",
     "Fundamental of C and C++.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
     "25W6M2 - Loss function for Classification.md",
