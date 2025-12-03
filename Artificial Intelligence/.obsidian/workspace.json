@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "95c8798ad4a0c44f",
+            "id": "edb2cffd69a765e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,38 +225,26 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-<<<<<<< HEAD
   "active": "0dd1098d915e38b4",
   "lastOpenFiles": [
     "Softmax Regression.md",
+    "Logarithm and Log-Likelihood Function.md",
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20251129171117.png",
     "image/Pasted image 20251129171045.png",
-=======
-  "active": "95c8798ad4a0c44f",
-  "lastOpenFiles": [
-    "AIO 2025.md",
-    "2 ACTIONS/_Focus.md",
-    "ML Refresher - Softmax Regresion.md",
-    "image/Pasted image 20251129171117.png",
->>>>>>> origin/main
     "image/Pasted image 20251129170921.png",
     "image/Pasted image 20251129170918.png",
+    "image/Pasted image 20251129170907.png",
     "image/Pasted image 20251129170451.png",
     "image/Pasted image 20251129170048.png",
     "image/Pasted image 20251129165222.png",
+    "image/Pasted image 20251129165158.png",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "Why Do Neural Network love Softmax.md",
     "image/Pasted image 20251129160835.png",
-<<<<<<< HEAD
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
     "AIO 2025.md",
-=======
-    "image/Pasted image 20251129142921.png",
-    "image/Pasted image 20251129140814.png",
-    "Softmax Regression.md",
-    "Fundamental of C and C++.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
->>>>>>> origin/main
     "25W6M2 - Loss function for Classification.md",
-    "image/Pasted image 20251127163113.png",
     "Study Music Playlist.md",
     "Fix Laptop.md",
     "25W1 - Softmax Exercise.md",
@@ -273,7 +261,6 @@
     "25W1 - Logistic Regression Evaluation Metrics.md",
     "Research Idea using AI.md",
     "Person Correlation.md",
-    "Correlation Coeficient.md",
-    "4 ARCHIVES/Thought & Ideas/Rain World.md"
+    "Correlation Coeficient.md"
   ]
 }
