@@ -1,266 +1,214 @@
 {
-  "main": {
-    "id": "11de5b3d9d22cc99",
-    "type": "split",
-    "children": [
-      {
-        "id": "8c41927d551408eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0dd1098d915e38b4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "_Focus"
-            }
-          },
-          {
-            "id": "edb2cffd69a765e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softmax Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Softmax Regression"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "25afb8235e6f8ef0",
-    "type": "split",
-    "children": [
-      {
-        "id": "3be6af5161ba7224",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "15cbfc3981273ffb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "f20653e3c2556967",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "b8f070a3b686267b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
-  "right": {
-    "id": "38133e48d1fcebfb",
-    "type": "split",
-    "children": [
-      {
-        "id": "a1e641e23d3c11a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85d2b2f2dcc5cb2f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
-            }
-          },
-          {
-            "id": "d3e25b045c4ddb9a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
-            }
-          },
-          {
-            "id": "50644b2b33a46c11",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "03fcc42ac045f2d6",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "8d16712f08d889b8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2 ACTIONS/_Focus.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of _Focus"
-            }
-          },
-          {
-            "id": "9536f02b28eac683",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "9f7dc6e7186ee34a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          }
-        ],
-        "currentTab": 6
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
-      "homepage:Open homepage": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-day-planner:Open Timeline": true,
-      "obsidian-day-planner:Open Multi-Day View": true
-    }
-  },
-  "active": "0dd1098d915e38b4",
-  "lastOpenFiles": [
-    "Softmax Regression.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20251129171117.png",
-    "image/Pasted image 20251129171045.png",
-    "image/Pasted image 20251129170921.png",
-    "image/Pasted image 20251129170918.png",
-    "image/Pasted image 20251129170907.png",
-    "image/Pasted image 20251129170451.png",
-    "image/Pasted image 20251129170048.png",
-    "image/Pasted image 20251129165222.png",
-    "image/Pasted image 20251129165158.png",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Why Do Neural Network love Softmax.md",
-    "image/Pasted image 20251129160835.png",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
-    "AIO 2025.md",
-    "25W6M2 - Loss function for Classification.md",
-    "Study Music Playlist.md",
-    "Fix Laptop.md",
-    "25W1 - Softmax Exercise.md",
-    "AIO - Optimizer for Neural Network.md",
-    "AIO 2024.md",
-    "AIO - Multiple Layers Perceptron.md",
-    "AIO - Gradient Vanishing.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "ML CheatSheet.md",
-    "Research Direction.md",
-    "AIVNRG25.md",
-    "25M6W2 - MLflow for Model Tracking and Versoning.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "25W1 - Logistic Regression Evaluation Metrics.md",
-    "Research Idea using AI.md",
-    "Person Correlation.md",
-    "Correlation Coeficient.md"
-  ]
+	"main": {
+		"id": "b5ca3fd546a27d0b",
+			"type": "split",
+				"children": [
+					{
+						"id": "33c1a2ebe084c7cb",
+						"type": "tabs",
+						"children": [
+							{
+								"id": "31f9d641e2dbce90",
+								"type": "leaf",
+								"pinned": true,
+								"state": {
+									"type": "markdown",
+									"state": {
+										"file": "2 ACTIONS/_Focus.md",
+										"mode": "source",
+										"source": false
+									},
+									"pinned": true,
+									"icon": "lucide-file",
+									"title": "_Focus"
+								}
+							}
+						]
+					}
+				],
+					"direction": "vertical"
+	},
+	"left": {
+		"id": "32fd8f6785a608a5",
+			"type": "split",
+				"children": [
+					{
+						"id": "9c565b43c009b58c",
+						"type": "tabs",
+						"children": [
+							{
+								"id": "d159992cdf38d744",
+								"type": "leaf",
+								"state": {
+									"type": "file-explorer",
+									"state": {
+										"sortOrder": "alphabetical",
+										"autoReveal": false
+									},
+									"icon": "lucide-folder-closed",
+									"title": "Files"
+								}
+							},
+							{
+								"id": "1f1ee91a069ce1e4",
+								"type": "leaf",
+								"state": {
+									"type": "search",
+									"state": {
+										"query": "",
+										"matchingCase": false,
+										"explainSearch": false,
+										"collapseAll": false,
+										"extraContext": false,
+										"sortOrder": "alphabetical"
+									},
+									"icon": "lucide-search",
+									"title": "Search"
+								}
+							},
+							{
+								"id": "39b0911ea51f23df",
+								"type": "leaf",
+								"state": {
+									"type": "bookmarks",
+									"state": {},
+									"icon": "lucide-bookmark",
+									"title": "Bookmarks"
+								}
+							}
+						]
+					}
+				],
+					"direction": "horizontal",
+						"width": 300,
+							"collapsed": true
+	},
+	"right": {
+		"id": "a188c18826874b8a",
+			"type": "split",
+				"children": [
+					{
+						"id": "217e401ac54f7a68",
+						"type": "tabs",
+						"children": [
+							{
+								"id": "3d733b66f62519de",
+								"type": "leaf",
+								"state": {
+									"type": "backlink",
+									"state": {
+										"file": "AIO2025 - Intro.md",
+										"collapseAll": false,
+										"extraContext": false,
+										"sortOrder": "alphabetical",
+										"showSearch": false,
+										"searchQuery": "",
+										"backlinkCollapsed": false,
+										"unlinkedCollapsed": true
+									},
+									"icon": "links-coming-in",
+									"title": "Backlinks for AIO2025 - Intro"
+								}
+							},
+							{
+								"id": "d9daa0d75506e781",
+								"type": "leaf",
+								"state": {
+									"type": "outgoing-link",
+									"state": {
+										"file": "AIO2025 - Intro.md",
+										"linksCollapsed": false,
+										"unlinkedCollapsed": true
+									},
+									"icon": "links-going-out",
+									"title": "Outgoing links from AIO2025 - Intro"
+								}
+							},
+							{
+								"id": "96a1734250610236",
+								"type": "leaf",
+								"state": {
+									"type": "tag",
+									"state": {
+										"sortOrder": "frequency",
+										"useHierarchy": true,
+										"showSearch": false,
+										"searchQuery": ""
+									},
+									"icon": "lucide-tags",
+									"title": "Tags"
+								}
+							},
+							{
+								"id": "4c9c85b2daac285a",
+								"type": "leaf",
+								"state": {
+									"type": "all-properties",
+									"state": {
+										"sortOrder": "frequency",
+										"showSearch": false,
+										"searchQuery": ""
+									},
+									"icon": "lucide-archive",
+									"title": "All properties"
+								}
+							},
+							{
+								"id": "13eba102a78848f2",
+								"type": "leaf",
+								"state": {
+									"type": "outline",
+									"state": {
+										"file": "AIO2025 - Intro.md",
+										"followCursor": false,
+										"showSearch": false,
+										"searchQuery": ""
+									},
+									"icon": "lucide-list",
+									"title": "Outline of AIO2025 - Intro"
+								}
+							},
+							{
+								"id": "18ca0090385f0581",
+								"type": "leaf",
+								"state": {
+									"type": "planner-timeline",
+									"state": {},
+									"icon": "calendar-with-checkmark",
+									"title": "Timeline"
+								}
+							}
+						]
+					}
+				],
+					"direction": "horizontal",
+						"width": 300,
+							"collapsed": true
+	},
+	"left-ribbon": {
+		"hiddenItems": {
+			"switcher:Open quick switcher": false,
+				"graph:Open graph view": false,
+					"canvas:Create new canvas": false,
+						"daily-notes:Open today's daily note": false,
+							"templates:Insert template": false,
+								"command-palette:Open command palette": false,
+									"bases:Create new base": false,
+										"homepage:Open homepage": false,
+											"table-editor-obsidian:Advanced Tables Toolbar": false,
+												"obsidian-day-planner:Open Timeline": false,
+													"obsidian-day-planner:Open Multi-Day View": false
+		}
+	},
+	"active": "31f9d641e2dbce90",
+		"lastOpenFiles": [
+			"Daily Machine Learning.md",
+			"2 ACTIONS/_Focus.md",
+			"AIO2025 - Intro.md",
+			"AIVNRG25.md",
+			"Research Paper Research.md",
+			"AIVNRG25 Research Topic Analysis for Job Alignment.md",
+			"AIO 2025.md",
+			"Research Direction.md"
+		]
 }
