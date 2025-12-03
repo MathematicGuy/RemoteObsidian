@@ -3,11 +3,8 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
+_Focus on AIO Course for today and tomorrow revision only. 
 
-*Logistic Regression Blog*
-Growth Fomula -> Sigmoid -> Logistic Regression -> Softmax -> Traditional -> Hessian Matrix
-
-### [[Daily Machine Learning]]
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
