@@ -4,12 +4,17 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _Focus on AIO Course for today and tomorrow revision only. 
+- [ ] Revision Loss Function Classification & Regression + Use Case
+- [ ] Machine Learning Project Life Cycle description for one of my Project
+- [ ] L1 vs L2 for regression
+- [ ] Research Paper Understanding
 
+### [[Fun Research Paper Analysis]]
 
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 - [ ] [FocusMate](https://www.focusmate.com/science/)
-- [ ] Grounding for Hallucination, LLMCache for faster response time.
+	- [ ] Grounding for Hallucination, LLMCache for faster response time.
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
 - [ ] [[Research Idea using AI]]

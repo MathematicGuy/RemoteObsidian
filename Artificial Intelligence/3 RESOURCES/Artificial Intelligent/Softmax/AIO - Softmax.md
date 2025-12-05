@@ -15,18 +15,14 @@ note:
 + [Sigmoid vs Softmax](https://towardsdatascience.com/sigmoid-and-softmax-functions-in-5-minutes-f516c80ea1f9) (Sigmoid is for 1 class, Softmax is for multi-class)
 
 ## From Logistic Regression to Softmax Regression
- **Logistic Regression for Binary Classification**
+![[Mutliclass-Classification-vs-multilabel-classification-(1).png | 555]]
++ $  Label - Options. Class - Correct Options/Label. Label is something you can use to categorize and Class is something that you categorize as True, in other word class mean Correct Label. That why Label are a subset of Class. 
++ ? Multi-Class mean there are multiple correct class and multi-label. Multi-Label have only 1 correct class and multiple label, so its called multi-label.
+
+
+**Logistic Regression for Binary Classification**
  $z = wx + b$
 $$a_{1} = g(z) = \frac{1}{1+e^{-z}} = P(\vec{x})$$
-$z = [0.9, -0.4]$.  
-e^(0.9 - 0.9) / (e^(0.9-0.9) + e^(-0.4-0.9)) = 0.7858349830
-e^(-0.4 - 0.9) / (e^(0.9-0.9) + e^(-0.4-0.9)) = 0.2141650170
-
-z1 = 0.6
-z2 = 2.3
-z2 = e^(2.3 -  2.3) / (e^(2.3-2.3) + e^(0.6- 2.3)) = 0.845
-z1 = e^(0.6 -  2.3) / (e^(2.3-2.3) + e^(0.6- 2.3)) = 0.155
-$[0.155, -0.155]$
 
 
 **Softmax = Multi-Class Classification -> How about Multiple Logistic Regression ? where each Class is a binary classification** (Softmax Regression is a generalization model of Logistic Regression)

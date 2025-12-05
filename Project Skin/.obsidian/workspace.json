@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "dfccd292af1108d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +200,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dfccd292af1108d6",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "conflict-files-obsidian-git.md",

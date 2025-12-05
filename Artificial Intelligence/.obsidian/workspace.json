@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "edb2cffd69a765e0",
+            "id": "02c11a47d7646983",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +35,20 @@
               },
               "icon": "lucide-file",
               "title": "AIO 2025"
+            }
+          },
+          {
+            "id": "85d2a199f8de88bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fun Research Paper Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fun Research Paper Analysis"
             }
           }
         ],
@@ -226,25 +240,35 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "edb2cffd69a765e0",
+  "active": "02c11a47d7646983",
   "lastOpenFiles": [
-    "ML Refresher - Softmax Regresion.md",
-    "AIO 2025.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Softmax Regression.md",
     "2 ACTIONS/_Focus.md",
+    "Fun Research Paper Analysis.md",
+    "AIO 2025.md",
+    "AIO - Metrics for Classification v2.md",
+    "AIO - Stock Prediction Note.md",
+    "image/Pasted image 20251205132542.png",
+    "AIO - Multiple Layers Perceptron.md",
+    "image/Pasted image 20251204172352.png",
+    "image/Pasted image 20251204170839.png",
+    "Logistic Regression.md",
+    "Derivative Fomula.md",
     "Logarithm and Log-Likelihood Function.md",
+    "Optimization in Neural Network and Newton's Method Final Test.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Optimization in Neural Networks and Newton's Method.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "image/Mutliclass-Classification-vs-multilabel-classification-(1).png",
+    "ML Refresher - Softmax Regresion.md",
+    "image/Pasted image 20251203140703.png",
+    "Softmax Regression.md",
     "image/Pasted image 20251129171117.png",
     "image/Pasted image 20251129171045.png",
     "image/Pasted image 20251129170921.png",
     "image/Pasted image 20251129170918.png",
     "image/Pasted image 20251129170907.png",
-    "image/Pasted image 20251129170451.png",
-    "image/Pasted image 20251129170048.png",
-    "image/Pasted image 20251129165222.png",
-    "image/Pasted image 20251129165158.png",
     "Why Do Neural Network love Softmax.md",
-    "image/Pasted image 20251129160835.png",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
     "25W6M2 - Loss function for Classification.md",
     "Study Music Playlist.md",
@@ -252,17 +276,7 @@
     "25W1 - Softmax Exercise.md",
     "AIO - Optimizer for Neural Network.md",
     "AIO 2024.md",
-    "AIO - Multiple Layers Perceptron.md",
     "AIO - Gradient Vanishing.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "ML CheatSheet.md",
-    "Research Direction.md",
-    "AIVNRG25.md",
-    "25M6W2 - MLflow for Model Tracking and Versoning.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "25W1 - Logistic Regression Evaluation Metrics.md",
-    "Research Idea using AI.md",
-    "Person Correlation.md",
-    "Correlation Coeficient.md"
+    "Bias-Variance Tradeoff and Model Performance.md"
   ]
 }
