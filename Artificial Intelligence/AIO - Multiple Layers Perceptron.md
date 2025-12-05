@@ -5,9 +5,10 @@ Note:
 File gồm 60000 ảnh được nén dưới dạng 1 array: 60000 * 784 pixles
 ![[Pasted image 20241113203743.png]]
 
-Mỗi ảnh được thể hiện bằng 4 bytes ~ 32bits
+Mỗi ảnh được thể hiện bằng 4 bytes ~ 32bits. 
++ ? Trong Numpy 16 (0 to 15) giá trị đầu tiên sẽ đc dùng để khai báo, giá trị pixel bắt đầu  giá trị thứ 17 là 0016
+	e.g. 4 địa chỉ đầu tiên 0000, 0004, 0008, 0012 sẽ dùng để khai báo giá trị biến như magic number - loại file viết dưới dạng array đa , lg ảnh, số lg hàng, số lg cột, etc..)
 ![[Pasted image 20241113204027.png]]
-
 ```python
 .reshape(-1, 28*28) # -1 để tự xác định số hàng là 60000
 ```
@@ -18,12 +19,13 @@ download dataset from online url
 
 > Read file dataset
 ![[Pasted image 20241113205217.png]]
-+ 'rb': reade bytes
-+ uint8 - 0 to 255
-+ offset: ?
++ 'rb': read bytes
++ np.uint8 - nói vs máy là giá trị trong files nên đc đối xử là int 8-bit (ie. int thuộc khoảng 0 tới 255)
++ offset - skip 16 giá trị bytes đầu tiên trong memory address. Bỏ giá trị từ 0 tới N trong bộ nhớ. ![[Pasted image 20251203140703.png# left]]
++ .reshape(-1, 28\*28) -  Khai báo số cột và hàng. -1 nghĩa là tự động tính số Hàng, còn lại là số pixels trong mỗi ảnh có 784 pixels. 
+
 
 PIL-image: 1 kiểu dữ liệu ảnh
-
 ![[Pasted image 20241113211220.png]]
 + 1 kênh màu, 28 hàng, 28 cột (dữ liệu có dạng này vì pytorch đc thiết kế vs tâm lý cho ảnh 3D, CNN)
 
@@ -44,6 +46,10 @@ batch size = 10
 batch_size: 5
 hàng x cột: 28x28
 
+Batch Norm help Convergence faster and more stable. 
++ ? With the outer margin as the highest point and inner circle as the lowest point. *Close Inner & Outer margin indicate a steep slope and Gradual slope in reserse*. 
++ $ With Batch Norm, the Gradient is less steep (smoothing the landscape of the Loss function), this really help because it help the starting/initializaton point to be equally as good.  ![[Pasted image 20251204172352.png]]
+
 Lưu ý: nếu **normalize cho 1 data thì phải normalize hết mọi data**, test, train, etc...
 
 Lý do hidden layer thực chất chỉ cần 1 activation function nếu có 1 hay n node:
@@ -54,17 +60,13 @@ written X as a matrix. $Z$ basically 1 function: $Z = \theta^T.X$
 
 
 Motivation: softmax regression ko làm tốt cho dữ liệu ảnh
-
-
 ![[Pasted image 20241113224348.png]]
-1 sample có 784 tham số, sau khi đi qua linear array 1D trở thành 256, đi qua reLu vẫn là 256, đi qua Linear trở thành 10 tham số.
+1 sample có 784 tham số, sau khi đi qua linear array 1D trở thành 256, đi qua ReLU vẫn là 256, đi qua Linear trở thành 10 tham số.
 note: 'bs' là batch size
 ![[Pasted image 20241113224435.png]]
-
-vanishing gradient: giá trị đạo hàm sau cập nhập quá nhỏ. Vd sau khi đi qua 1 hàm kích hoạt giá trị bị chia 4, thì giá trị sẽ dễ dàng bị siêu bé sau nhiều lần đạo hàm -> vanishing gradient.
+**Vanishing Gradient:** giá trị đạo hàm sau cập nhập quá nhỏ. Vd sau khi đi qua 1 hàm kích hoạt giá trị bị chia 4, thì giá trị sẽ dễ dàng bị siêu bé sau nhiều lần đạo hàm -> vanishing gradient.
 
 Improve model -> Add more layers
-
 
 # Results
 LR = 0.01 (quite high), normalize 0-255 to 0-1

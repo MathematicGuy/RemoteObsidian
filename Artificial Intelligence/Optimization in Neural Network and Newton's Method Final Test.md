@@ -1,16 +1,15 @@
 ## 1 - Classification Problem
 ![[Pasted image 20241002153710.png]]
 + ? Each layer distinguish by the integer called superscript (i.e. number above) in the square brackets $^{[1]}$ denotes the layer number. 
-+ ? nx as the number of input for input layer, nh as the number of nodes in hidden layer, ny as the number of nodes in output layer. 
++ ? nx as the number of input for input layer, n as the number of nodes in hidden layer, ny as the number of nodes in output layer. 
 
 Simplified the first 2 parameters:
 The training examples $x^{(i)}=\begin{bmatrix}x_1^{(i)} \\ x_2^{(i)}\end{bmatrix}$ from the input layer of size $n_x = 2$ are first fed into the hidden layer of size $n_h = 2$ along with b (i.e. scaler):
 ![[Pasted image 20241002154045.png]]
 rewritten in matrix form.
 + ? z hat 1 i represent each vector in layer 1. 
-+ ? W hat 1 represent the weight of each node in layer 1. W hat 1 1 mean weights from layer 1 node 1 which contain: $w_{1,1}$ and $w_{2,1}$ the same for w hat 1 2. 
++ ? W hat 1 represent the weight of each node in layer 1. W hat "1,1" mean weights from layer 1 node 1 which contain: $w_{1,1}$ and $w_{2,1}$ the same for w hat 1 2. 
 + ? b hat 1 mean b in the 1st layer, b hat 1 1 mean b of the first node and b hat 1 2 mean b of the 2nd node (both in the 1st layer)
-
 + $ These **expressions for one training example** $x^{(i)}$ can be rewritten in a matrix form :
 $$z^{[1](i)} = W^{[1]} x^{(i)} + b^{[1]},\tag{2}$$
 
@@ -26,19 +25,17 @@ rewrite all the expression, group them for convenience.
 ![[Pasted image 20241002162221.png]]
 
 Finally, the predictions for some example $x^{(i)}$ (i.e. input $x^{(i)}$) can be made taking the output $a^{[2](i)}$ and calculating $\hat{y}$ as: $\hat{y} = \begin{cases} 1 & \mbox{if } a^{[2](i)} > 0.5, \\ 0 & \mbox{otherwise }. \end{cases}$
-
-
+ 
 ### 2.2 - Neural Network Model with Two Layers for Multiple Training examples
-+ $ Goals: perform training of the model: find such set of parameters $𝑊^{[1]}$, $𝑏^{[1]}$ (i.e. layer 1), $𝑊^{[2]}$, $𝑏^{[2]}$ (i.e. layer 2), that will minimize the cost function.
-+ ? True Label: Correct output $y^{(i)}$ of the function. (either 0 and 1)
-+ ? Test Label:  Label use to test and compare with true label.
++ $ *Goals:* perform training of the model: find such set of parameters $𝑊^{[1]}$, $𝑏^{[1]}$ (i.e. layer 1), $𝑊^{[2]}$, $𝑏^{[2]}$ (i.e. layer 2), that will minimize the cost function.
++ ? *True Label:* Correct output $y^{(i)}$ of the function. (either 0 and 1)
++ ? *Test Label:*  Label use to test and compare with true label.
 + note: $\hat{y}$ now replace as $a^{[2](i)}$
 	Like in the previous example of a single perceptron neural network, the cost function can be written as:
-$$\mathcal{L}\left(W^{[1]}, b^{[1]}, W^{[2]}, b^{[2]}\right) = \frac{1}{m}\sum_{i=1}^{m} L\left(W^{[1]}, b^{[1]}, W^{[2]}, b^{[2]}\right)$$$$=  \frac{1}{m}\sum_{i=1}^{m}  \large\left(\small - y^{(i)}\log\left(a^{[2](i)}\right) - (1-y^{(i)})\log\left(1- a^{[2](i)}\right)  \large  \right), \small\tag{8}$$where $y^{(i)} \in \{0,1\}$ are the original labels and $a^{[2](i)}$ are the continuous output values of the forward propagation step (elements of array $A^{[2]}$).
+$$\mathcal{L}\left(W^{[1]}, b^{[1]}, W^{[2]}, b^{[2]}\right) = \frac{1}{m}\sum_{i=1}^{m} L\left(W^{[1]}, b^{[1]}, W^{[2]}, b^{[2]}\right)$$$$=  \frac{1}{m}\sum_{i=1}^{m}  \large\left(\small - y^{(i)}\log\left(a^{[2](i)}\right) + (1-y^{(i)})\log\left(1 - a^{[2](i)}\right)  \large  \right), \small\tag{8}$$where $y^{(i)} \in \{0,1\}$ are the original labels and $a^{[2](i)}$ are the continuous output values of the forward propagation step (elements of array $A^{[2]}$).
 + $ **Loss Function Purpose**: Measures the discrepency (khác biệt, tương phản) between predicted probability and the true label. 
 
-To minimize loss we updating the parameters using gradient descent:
-$$\begin{align}
+To minimize loss we updating the parameters using gradient descent:$$\begin{align}
 W^{[1]} &= W^{[1]} - \alpha \frac{\partial \mathcal{L} }{ \partial W^{[1]} },\\
 b^{[1]} &= b^{[1]} - \alpha \frac{\partial \mathcal{L} }{ \partial b^{[1]} },\\
 W^{[2]} &= W^{[2]} - \alpha \frac{\partial \mathcal{L} }{ \partial W^{[2]} },\\
@@ -46,7 +43,6 @@ b^{[2]} &= b^{[2]} - \alpha \frac{\partial \mathcal{L} }{ \partial b^{[2]} },\\
 \tag{9}
 \end{align}
 $$where $\alpha$ is the learning rate.
-
 
 To perform training of the model you need to calculate now $\frac{\partial \mathcal{L} }{ \partial W^{[1]}}$, $\frac{\partial \mathcal{L} }{ \partial b^{[1]}}$, $\frac{\partial \mathcal{L} }{ \partial W^{[2]}}$, $\frac{\partial \mathcal{L} }{ \partial b^{[2]}}$ (i.e. Derivative of Weight and bias from 1st and 2nd layer annotation in $^{[1], \space [2]}$)  
 
@@ -91,14 +87,13 @@ x_2^{(i)}\right)  \\
 x_1^{(i)}\right) & 
 \sum_{i=1}^{m} \left( \left(a^{[2](i)} - y^{(i)}\right) w_2^{[2]} \left(a_2^{[1](i)}\left(1-a_2^{[1](i)}\right)\right)
 x_2^{(i)}\right)\end{bmatrix}\tag{12}$$
-+ $  We called this the Loss Function of each parameters (i.e. weight ans biases). Basically, normally what we do is calculate the loss of a weight and biases of each node by the derivative of it and $\mathcal{L}$ using the chain rule: $\frac{\partial\mathcal{L}}{\partial W_{11}}$. This does just that but in 
++ $  We called this the Loss Function of each parameters (i.e. weight and biases). Basically, normally what we do is calculate the loss of a weight and biases of each node by the derivative of it and $\mathcal{L}$ using the chain rule: $\frac{\partial\mathcal{L}}{\partial W_{11}}$. This does just that but in 
 + a greater scale which calc the weight and bias of 2 input with 2 nodes (in hidden layer) 
-	reference: ![[Pasted image 20241003101310.png]]
-	
-
+	reference:![[Pasted image 20241003101310.png]]
 
 note: understand how they compress chain rule into a loss function
 ```python
+
 np.log([1, np.e, np.e**2, 0])
 ```
 

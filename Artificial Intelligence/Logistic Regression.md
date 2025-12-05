@@ -36,7 +36,7 @@ Sau khi biết cách làm -> Cần cập nhật trọng số -> Tính đạo hà
 ![[Pasted image 20251110000357.png]]
 Khi tính đạo hàm ta thấy MSE ko phù hợp để làm hàm mất mát vì ... nó là non-convex. 
 + ? 1 Hàm Loss non-convex sẽ:
-		+ sẽ là 1 hàm không lồi. Nghĩa là nó có nhiều local-minimal (giải thích thêm phần này sử dụng Coursera) khiến thuật toán sử dụng Gradient Descent bị mắc kẹt ko tiến đến đc Global minimal. 
+		+ sẽ là 1 hàm không lồi. Nghĩa là nó có nhiều local-minimal (giải thích thêm phần này sử dụng Coursera) khiến thuật toán sử dụng Gradient Descent bị mắc kẹt ko tiến đến đc Global minimal. ln()
 	+ Đạo hàm rất nhỏ vì công thức sử dụng Nhân, nên càng cập nhật nhiều sẽ càng chậm -> hiện tượng này gọi là Vanishing Gradient, đạo hàm ít tới mức có thể coi như là không cập nhật gì. 
 	+ Hàm mất mát không có ý nghĩa thống kê vì nó đc thiết kế cho bài toán Regression với mục tiêu dự đoán các giá trị biến động liên tục. Trong khi Logistic Regression là 1 bài toán phân loại dự đoán xác suất thuộc về 1 lớp nhất định. (Regression có nhiều giá trị, Classification có 1 số giá trị nhưng vẫn có thể đếm đc), sử dụng Cross-Entropy, 1 hàm thuần xác suất để phân loại nhị phân sẽ có ý nghĩa thống ke tốt hơn. 
 + ? Giải thích tính Convex của 1 hàm bằng cách chứng minh liệu 1 hàm có convex hay không. i.e. đạo hàm bậc nhất và đạo hàm bậc 2. Nếu đạo hàm bậc 2 > thì Convex, =0 sẽ ... < 1 sẽ ... Note: tính convex theo số lượng tham số $w_{0}, w_{1}, etc..$
