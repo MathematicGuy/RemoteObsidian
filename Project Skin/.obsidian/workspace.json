@@ -166,13 +166,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5a38013114b1b6c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,13 +201,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "conflict-files-obsidian-git.md",
+    "_Focus/Todo.md",
+    "Audiophile.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",
     "Dynamic Memory Allocation.md",
-    "Audiophile.md",
     "Images/Pasted image 20251117023620.png",
     "Images/Pasted image 20251117023557.png",
     "AI Engineering Job.md",
