@@ -1,3 +1,157 @@
+## Make sense of Git
+>Understand how Git Actually Work - finally understand *commits, branches, reset, rebase & more*. 
+
++ @ **Git is a database of Snapshot (ie. commit)** (history of your code stage). Sticky Note (HEAD, commit name or message, branch name, etc..) show where you are. 
+![[Pasted image 20251208135134.png# left | 244]]
+
+![[Pasted image 20251208135237.png]]
++ $ `git merge` - merge 2 commits into a new commit. New Commit now have 2 parents. Oh and the first commit obviously don't include any commit.    
++ ? HEAD - "You Are Here" pointer. 
++ ? When you checkout to fix an old Commit -> create a seperate branch or Git won't save your changes. 
+
+When you add any file to git, it move to the `staging` area before getting `git commit -m "sth"` push to `changes`.
+![[Pasted image 20251208135837.png# left | 433]]
+
+`git checkout a_branch` - *check all of your code* of a Commit from anywhere. Basically it allow you to revert all of your code to a commit and made changes. 
+![[Pasted image 20251208140315.png# left | 332]]
+
+`git reset` - move the branch pointer. **(IMPORTANT)**
+	 `--soft` : *Re-commit.* If you have 3 commits push to main already git **move all those changes to Stages (staging area)**, so you can ready to Commit them (again) or probably trash them.   
+	 `--mixed` : **Your changes still exist in your File, just unstaged.**
+	 `--hard` : **Delete all changes** (file, fodler, data, etc..) and return to your previous commit. A Fresh Restart. ![[Pasted image 20251208141620.png]]
+ 
+`git revert` - Revert changes by **create a new Commit instead of deleting new changes**. Create a new commit thats *not include any changes that already push and shared.* You can't rewrite history but you can add to it. 
+![[Pasted image 20251208142039.png]]
+We remeber that `git merge` combine 2 commits into 1 new commit, 
+
+`git rebase` (**most Obnoxious for newbie**) -  **Rewrite History** 
+![[Pasted image 20251208143656.png]]
+
+
+![[Pasted image 20251208143733.png | 444]]
+
+![[Pasted image 20251208143750.png | 444]]
+
+![[Pasted image 20251208143835.png | 355]]
+
+![[Pasted image 20251208143951.png# left | 544]] 
++ ? **Explain:** C is a branch create from Y. This mean C is the same as Y but on a different branch. When rebase, you're basically 
+
+(**RIGHT - New Commit, LEFT - Old Commit**)
+The **old B and C still exist briefly** (in relog) - but **they're orphaned and will be garbage collected.** 
+![[Pasted image 20251208144030.png]]
++ ? This is why you never rebase Commit that other have seen on REMOTE. 
++ $ While rebase are horrible and chaos in REMOTE, rebase really useful LOCALLY, it help your commit line linear and clean, not  multiple branch branching out.  
+
++ ? Again, like the above. `git rebase merge new feature into the main branch`
+![[Pasted image 20251208153427.png | 233]]
+
+
+`git reflog` - your safety net. Show history and address (hash) for all your COMMITs. Include all your checkout, all your commit and revert. 
+![[Pasted image 20251208144537.png]]
+`git branch recovery [address]` (b2c3d4e is a address)
++ @ Reflog can expire so act fast.  ![[Pasted image 20251208144717.png | 322]]
+
+![[Pasted image 20251208145025.png]]
+```ad-summary
++ Each time you save your code using git, you create a Commit. A Commit is a Snapshot of all your codes.
+
++ Git is just a Database of Commit. 
+
++ Your future commit are connect to your old commit create a commit tree, follow the DAG structure. Direct (one way) - Acrylic (no loop) - Graph (tree-base structure)
+
++ Each Commit contain a address and a point that point to the next Commit.
+
++ Sticky note HEAD above show which Commit you currently at. Each branch have a note above to show it name. 
+
++ Merge connect code from 2 commits into 1 commit.
+
++ `git add` - move all changes to waiting areas (ie. stages). Like a waiting room, you can pick specificaly which change you want to commit.    
+
++ `git commit` - move all (file) changes you choose to the `changes` area. File in changes can be push to the repository in github using `git push`.
+  
++ `git reset` have 3 types. `--soft` move all changes from commit area (ie. changes) to staging area (ie. stages). `--mixed` remove all changes from the staging area, but preserve all changes in your code folder, basically return back before you even use `git add`. `--hard` reset everything back to the previous Commit by deleting every new changes. 
+  
++ `git revert` instead of messing with git stages/changes, it create a new Commit, a replica of the original code before any changes was made.
+  
++ `git rebase` - Move the Feature branch as the Head (Lastest Commit) of the Main branch.  
+```
+
+![[Pasted image 20251208160821.png]]
+`~` mean *move backward*. 
+	`git checkout HEAD~` : move backward 1 step
+	`git checkout HEAD~2`  : move backward 2 step. 
+`^` switch branch
+	`git checkout HEAD^2` : Swap HEAD to side branch. (`HEAD^1` move to main Branch) 
++ ? Example: To move to C3 in 1 line, we could do:
+	`git checkout HEAD~; git checkout HEAD^2; git checkout HEAD~2`: move backward 1 Commit, move to second branch, move backward 2 Commit.
+
+`git branch -f main o/main` - move main and o/main sticky note from other Commit to HEAD Commit.  
+`git branch feature C2` - add feature branch at C2 Commit. 
+![[Pasted image 20251208174540.png# left | 141]]
+
+
+`git fetch` - **JUST Download Commit as a NEW BRANCH from Remote** and Fill 'em up in Local if missing. 
+`git pull` - **Download Commit as a NEW BRANCH from Remote  AND MERGE them with LOCAL commit.** Basically `git fetch` + `git merge` in 1 command. 
+![[Pasted image 20251208171705.png# left  | 283]]
+
+
+*Base repo*
+![[Pasted image 20251208173010.png# left | 144]]
+- Clone your repo `git clone`
+- Fake some teamwork (1 commit) `git fakeTeamwork`
+- Commit some work yourself (1 commit) `git commit` 
+- Publish your work via _rebasing_ `git pull --rebase` + `git push`
+	+ ! If you use `git fetch + rebase C2 C3` then you will get this error "That branch name "HEAD" is not allowed !". 
+	+ $ Use `git fetch + git rebase C2`
+![[Pasted image 20251208172910.png# left | 544]]
+
+### Remote Tracking 
++ @ **Track** mean **Remote branch always follow the Local branch** even though they have different name. Both Local and Remote branch sync through a intermediate call address, the remote addresss in our example is: `o/main`.  
+
+**Create new branch with remote tracking**
+`git checkout -b totallyNotMain o/main` - Creates a new branch named `totallyNotMain` and sets it to track `o/main`.
+![[Pasted image 20251208182020.png]]
+
+![[Pasted image 20251208182033.png]]
+
+**Add remote tracking to Existed Branch**
+`git branch -u o/main foo` - will set the `foo` branch to track `o/main`. If `foo` is currently checked out you can even leave it off: `git branch -u o/main`
+![[Pasted image 20251208182130.png]]
+
++ ? **Example:** You want remote main always follow your new Feature branch name `side`. So you use `git branch -b side o/main` to make the remote branch `o/main` always follow local branch `side` and in reverse. When `git pull --rebase`, `main` from remote will rebase to `side` (not `main`), and changes from `side` will be push to `main`. 
++ @ Intermedia often called "main" or "master" in real world. 
++ $ Just think `o/main` as the connection between Local and Remote. Whichever branch connected to `o/main` sync together   
+![[Pasted image 20251208183615.png | 533]]
+
+![[Pasted image 20251208183604.png | 633]]
+
+### Push Local Code straight up to New Remote Branch
+`git push origin <source>:<destination>` - This is commonly referred to as a colon refspec. Refspec is just a fancy name for a location that git can figure out (like the branch `foo` or even just `HEAD~1`). 
+
++ $ Like a pointer, `^` refer to the previous Commit of the Current Commit. `^foo` refer to the Commit previous `foo`. 
++ ? `^` (caret) symbol is used to refer to a **parent commit in the commit history**. It's a way to **navigate the commit graph relative to a specific commit**.
+![[Pasted image 20251208184926.png]]
+
+![[Pasted image 20251208184941.png]]
+
+
+`git push origin main^:foo`
+`git push origin foo:main`
+![[Pasted image 20251208190421.png]]
+
+
+### Cherry-pick
+`git cherry-pick` - Allow you to cherry-pick specific Commit and connect it to the current Commit. 
++ ? Example: `git checkout C1; cherry-pick main side test` -> now 3 commit `main side test` are connected into a line with C1 as their root/first Commit. 
+
+`git rebase -i HEAD~2`: rebase iteratively 2 COMMIT below. 
+`git rebase -i C5`: If before `C5` was `C4 C3 C2` and the HEAD is `C1`, then all of them will be rebase to the `C1` as `C4' C3' C2'` while the original `C4 C3 C2` become Orphan Commit which will be clean up after that.  
+
+**Basic workflow when pulling code from Remote.**
+![[Pasted image 20251208174741.png]]
+
+## Git & Github for Version Control
 ![[Pasted image 20250617094558.png# left]]
 
 ### Version Control Systen (VCS)
@@ -118,7 +272,6 @@ The image show from the 1 Version from Remote, each local machine can make a cop
 **In Summary:** different branch allow independent development, testing and debug without affect the original code, this improve teamwork efficiency and avoid conflict. 
 
 
-
 + ? Ví dụ: Tạo và sử dụng nhánh. vs file login trong folder feature  
 ![[Pasted image 20250617152700.png]]
 **Tạo và chuyển nhánh**
@@ -142,7 +295,6 @@ In case you want to start a completely new branch that is not related to the ori
 When to use `git rebase` 
 
 
-
 ## Exercises
 ![[Pasted image 20250617153914.png]]
 
@@ -151,38 +303,3 @@ When to use `git rebase`
 ![[Pasted image 20250617153934.png]]
 
 
-
-## Tài Liệu và Công Cụ Học Git
-### 📚 Tài liệu chính thức
-- [Pro Git Book](https://git-scm.com/book/en/v2) – Sách chính thống về Git  
-- [Git Documentation](https://git-scm.com/doc) – Tài liệu chính thức từ Git  
-- [GitHub Docs](https://docs.github.com) – Tài liệu GitHub chính thức  
-- [GitHub Guides](https://guides.github.com) – Hướng dẫn GitHub cơ bản  
-
-### 🎓 Khóa học trực tuyến
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) – Hướng dẫn từ Atlassian  
-- [GitHub Learning Lab](https://lab.github.com) – Học Git tương tác  
-- [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git) – Khóa học Git cơ bản  
-
-### ✍️ Blog & Bài viết hữu ích
-- [Atlassian Blog về Git](https://www.atlassian.com/blog/git)  
-- [Git Tower Blog](https://www.git-tower.com/blog)  
-- [GitHub Blog](https://github.blog)  
-
-### 🖥️ Công cụ GUI (Giao diện đồ họa)
-- [GitKraken](https://www.gitkraken.com) – UI đẹp, nhiều tính năng  
-- [Sourcetree](https://www.sourcetreeapp.com) – Hỗ trợ Git & Mercurial  
-- [GitHub Desktop](https://desktop.github.com) – Tích hợp sâu với GitHub  
-- **VS Code + Git Extensions** – Dùng Git trực tiếp trong trình soạn thảo  
-
-### 💻 Công cụ dòng lệnh (CLI)
-- [GitHub CLI](https://cli.github.com) – Tương tác với GitHub từ terminal  
-- [Lazygit](https://github.com/jesseduffield/lazygit) – CLI UI trực quan  
-- [tig](https://jonas.github.io/tig) – Trình duyệt repo trong terminal  
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Làm đẹp `git diff`  
-
-### 🧩 Tiện ích mở rộng & Công cụ nâng cao
-- [Git Flow](https://github.com/petervanderdoes/gitflow-avh) – Mô hình quản lý branch chuyên nghiệp  
-- [Git LFS](https://git-lfs.github.com) – Quản lý file lớn trong Git  
-- [Husky](https://typicode.github.io/husky) – Tạo Git hooks dễ dàng  
-- [Conventional Commits](https://www.conventionalcommits.org) – Chuẩn hóa thông điệp commit  
