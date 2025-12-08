@@ -27,7 +27,6 @@ We remeber that `git merge` combine 2 commits into 1 new commit,
 `git rebase` (**most Obnoxious for newbie**) -  **Rewrite History** 
 ![[Pasted image 20251208143656.png]]
 
-
 ![[Pasted image 20251208143733.png | 444]]
 
 ![[Pasted image 20251208143750.png | 444]]

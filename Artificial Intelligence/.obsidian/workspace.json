@@ -24,20 +24,21 @@
             }
           },
           {
-            "id": "85d2a199f8de88bb",
+            "id": "5b57bf1fe1074896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO2025 - Git & Github for Version Control.md",
+                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO2025 - Git & Github for Version Control"
+              "title": "Churn Prediction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,14 +226,14 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "0dd1098d915e38b4",
+  "active": "5b57bf1fe1074896",
   "lastOpenFiles": [
-    "image/Pasted image 20251205212525.png",
     "AIO2025 - Git & Github for Version Control.md",
-    "image/Pasted image 20251204205743.png",
-    "image/Pasted image 20251204205227.png",
-    "image/Pasted image 20251204202440.png",
-    "25W1 - Olympic AI 2025.md",
+    "2 ACTIONS/_Focus.md",
+    "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
+    "AIO 2025.md",
+    "25M6 Project Module  - Customer Analysis",
+    "25M6W2 - Loss function for Classification.md",
     "image/Pasted image 20251208190421.png",
     "image/Pasted image 20251208184941.png",
     "image/Pasted image 20251208184926.png",
@@ -240,28 +241,29 @@
     "image/Pasted image 20251208183604.png",
     "image/Pasted image 20251208182130.png",
     "image/Pasted image 20251208182033.png",
-    "25M5W1 - MLOps Data Version Control.md",
-    "Fun Research Paper Analysis.md",
-    "AIO 2025.md",
-    "2 ACTIONS/_Focus.md",
-    "AIO - Metrics for Classification v2.md",
-    "AIO - Stock Prediction Note.md",
-    "AIO - Multiple Layers Perceptron.md",
-    "Logistic Regression.md",
-    "Derivative Fomula.md",
-    "Logarithm and Log-Likelihood Function.md",
+    "image/Pasted image 20251208182020.png",
+    "image/Pasted image 20251208174741.png",
+    "image/Pasted image 20251208174540.png",
     "Optimization in Neural Network and Newton's Method Final Test.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/convert softmax log likelihood into sum of probability.md",
+    "AIO - Stock Prediction Note.md",
+    "Fun Research Paper Analysis.md",
+    "AIO 2024.md",
+    "25W1 - Olympic AI 2025.md",
+    "AIO - Multiple Layers Perceptron.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Optimization in Neural Networks and Newton's Method.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "Multi-label guided graph attention network for education image retrieval.md",
     "ML Refresher - Softmax Regresion.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
     "Softmax Regression.md",
+    "Logarithm and Log-Likelihood Function.md",
     "Why Do Neural Network love Softmax.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
-    "25W6M2 - Loss function for Classification.md",
     "Study Music Playlist.md",
     "Fix Laptop.md",
-    "25W1 - Softmax Exercise.md"
+    "25W1 - Softmax Exercise.md",
+    "AIO - Optimizer for Neural Network.md",
+    "AIO - Gradient Vanishing.md",
+    "Bias-Variance Tradeoff and Model Performance.md",
+    "ML CheatSheet.md"
   ]
 }
