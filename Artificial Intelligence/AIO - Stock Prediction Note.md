@@ -3,9 +3,9 @@
 + ! Nhớ bao gồm cả cách tính điểm. (tính MSE cho từng điểm trong vòng 50-100 ngày)
 + ? **Main Problem Statement (Liệt kê vấn đề chính nổi bật nhất):** Theo logic thì model học máy chỉ sử dụng dữ liệu cổ phiếu thuần thì việc dự đoán đúng 1 pattern nó chưa từng được học là gần như không thể. **Trong bài, cổ phiếu FPT giảm sâu tới -28.74%, 1 trend mà các mô tuyến tính không thể ngờ tới, nhất là khi TREND của cổ phiếu đang ĐI LÊN và chưa từng giảm Sau 1 Thời Gian Dài.**  
 + @ Vì thế mình cần có thêm các yếu tố thứ 3, như 1 quy luật trong cổ phiếu, threshold đảm bảo dự đoán cô phiếu sẽ âm, phân tích cảm xúc để xác định tính thiên vị của tin tức về công cty đó, vân vân và mây mây.
-+ $ Vì bài toán yêu cầu chỉ dùng model tuyến tính, nên việc tích hợp các quy luật trong cổ phiếu là điều tất yếu để giúp mô hình hiểu khi nào là lúc giảm sau 1 thời gian tăng đều đặn.    
-![[Pasted image 20251205132542.png]]
++ $ Vì bài toán yêu cầu chỉ dùng model tuyến tính, nên việc tích hợp các quy luật trong cổ phiếu là điều tất yếu để giúp mô hình hiểu khi nào là lúc giảm sau 1 thời gian tăng đều đặn.   ![[Pasted image 20251205212525.png]]
 + ? VÌ có rất nhiều kiến thức Kinh Tế về cổ phiếu, thay vì overload ng đọc, đi tới đâu giải thích tới đó. 
+
 
 ### **PROBLEM STATEMENT LIST: FPT STOCK PREDICTION (2020-2025)**
 

@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "dfccd292af1108d6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,10 +200,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dfccd292af1108d6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_Focus/Todo.md",
+    "conflict-files-obsidian-git.md",
     "Audiophile.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
