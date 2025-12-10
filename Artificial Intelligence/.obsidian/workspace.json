@@ -37,8 +37,7 @@
               "title": "Churn Prediction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,16 +183,6 @@
             }
           },
           {
-            "id": "9536f02b28eac683",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "9f7dc6e7186ee34a",
             "type": "leaf",
             "state": {
@@ -204,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -221,29 +210,29 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "homepage:Open homepage": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-day-planner:Open Timeline": true,
-      "obsidian-day-planner:Open Multi-Day View": true
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5b57bf1fe1074896",
+  "active": "0dd1098d915e38b4",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
     "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
+    "image/Pasted image 20251209233203.png",
+    "image/Pasted image 20251209232956.png",
+    "image/Pasted image 20251209232248.png",
+    "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20251209215236.png",
+    "image/Pasted image 20251209214658.png",
+    "image/Pasted image 20251209213913.png",
+    "image/Pasted image 20251209213421.png",
+    "image/Pasted image 20251209213335.png",
+    "image/Pasted image 20251209212332.png",
+    "elbow method.md",
+    "Derivative Fomula.md",
+    "image/Pasted image 20251209211756.png",
     "AIO2025 - Git & Github for Version Control.md",
     "AIO 2025.md",
     "25M6 Project Module  - Customer Analysis",
     "25M6W2 - Loss function for Classification.md",
-    "image/Pasted image 20251208190421.png",
-    "image/Pasted image 20251208184941.png",
-    "image/Pasted image 20251208184926.png",
-    "image/Pasted image 20251208183615.png",
-    "image/Pasted image 20251208183604.png",
-    "image/Pasted image 20251208182130.png",
-    "image/Pasted image 20251208182033.png",
-    "image/Pasted image 20251208182020.png",
-    "image/Pasted image 20251208174741.png",
-    "image/Pasted image 20251208174540.png",
     "Optimization in Neural Network and Newton's Method Final Test.md",
     "AIO - Stock Prediction Note.md",
     "Fun Research Paper Analysis.md",
@@ -261,9 +250,6 @@
     "Study Music Playlist.md",
     "Fix Laptop.md",
     "25W1 - Softmax Exercise.md",
-    "AIO - Optimizer for Neural Network.md",
-    "AIO - Gradient Vanishing.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "ML CheatSheet.md"
+    "AIO - Optimizer for Neural Network.md"
   ]
 }

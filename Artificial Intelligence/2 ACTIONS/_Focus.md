@@ -9,7 +9,6 @@ _Focus on AIO Course for today and tomorrow revision only.
 - [ ] Define Study Style & Approach 
 
 
-
 - [ ] Revision Loss Function Classification & Regression + Use Case
 - [ ] Machine Learning Project Life Cycle description for one of my Project
 - [ ] L1 vs L2 for regression
