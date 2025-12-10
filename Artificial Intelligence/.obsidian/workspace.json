@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Churn Prediction"
             }
+          },
+          {
+            "id": "036562bcb99f7bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO2025 - Git & Github for Version Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIO2025 - Git & Github for Version Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,11 +240,11 @@
       "obsidian-day-planner:Open Multi-Day View": true
     }
   },
-  "active": "5b57bf1fe1074896",
+  "active": "036562bcb99f7bd2",
   "lastOpenFiles": [
+    "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
     "AIO2025 - Git & Github for Version Control.md",
     "2 ACTIONS/_Focus.md",
-    "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
     "AIO 2025.md",
     "25M6 Project Module  - Customer Analysis",
     "25M6W2 - Loss function for Classification.md",

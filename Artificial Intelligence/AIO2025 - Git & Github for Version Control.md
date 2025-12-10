@@ -12,11 +12,11 @@
 When you add any file to git, it move to the `staging` area before getting `git commit -m "sth"` push to `changes`.
 ![[Pasted image 20251208135837.png# left | 433]]
 
-`git checkout a_branch` - *check all of your code* of a Commit from anywhere. Basically it allow you to revert all of your code to a commit and made changes. 
+`git checkout a_branch` - *check all of your code* of a Commit from anywhere. Allow you to access any version of your code in the past.
 ![[Pasted image 20251208140315.png# left | 332]]
 
 `git reset` - move the branch pointer. **(IMPORTANT)**
-	 `--soft` : *Re-commit.* If you have 3 commits push to main already git **move all those changes to Stages (staging area)**, so you can ready to Commit them (again) or probably trash them.   
+	 `--soft` : *Re-commit.* If you have 3 commits push to main already git **Remove changes from Tree to Staging area (Stages)**, so you can ready to Commit them (again) or probably trash them.   
 	 `--mixed` : **Your changes still exist in your File, just unstaged.**
 	 `--hard` : **Delete all changes** (file, fodler, data, etc..) and return to your previous commit. A Fresh Restart. ![[Pasted image 20251208141620.png]]
  
@@ -106,7 +106,7 @@ The **old B and C still exist briefly** (in relog) - but **they're orphaned and 
 ![[Pasted image 20251208172910.png# left | 544]]
 
 ### Remote Tracking 
-+ @ **Track** mean **Remote branch always follow the Local branch** even though they have different name. Both Local and Remote branch sync through a intermediate call address, the remote addresss in our example is: `o/main`.  
++ @ **Track** mean **Remote branch always follow the Local branch** even though they have different name. Both Local and Remote branch sync through a intermediate call address, the remote addresss in our example is: `o/main`.  Real remote example: `origin/HEAD` `origin/main`
 
 **Create new branch with remote tracking**
 `git checkout -b totallyNotMain o/main` - Creates a new branch named `totallyNotMain` and sets it to track `o/main`.
