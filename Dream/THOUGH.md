@@ -366,3 +366,24 @@ Studying skills help your brain staying young, cold water reduce stress.
 ### 26 / 11 / 2025
 Rare Creature that play when it Examine Time.
 https://www.facebook.com/share/r/1AC9ZL7nqY/
+
+### 12/12/ 2025
+After watching both of these videos, i see why the idea of freedom feels different depending on the world that raised you.
+1) I Grew up in Russia. Here’s why we’re afraid of Freedom - https://youtu.be/4hqz1NRUPy4?si=ycifcaMAWyfGyFGK
+2) I’m Russian. Here’s How Corruption Really Works - https://youtu.be/0B8AyBhwasI?si=enztCnOol9u-DoYk
+I learned that how environment reevaluate how we or better to say Russian People look at freedom and actions. Being born in a newly form (kinda) communist contry, I do have a sense of corruption feel like, where Bride are nothing than a commodity for easy way out and a transportation to saving time from cumbersome work. For underpay workers, bride is a way to survive but this create a hiarchy that benefit mostly the rich at the top, thinking of your parent bride the teacher to have you more attention in class (if u a specific bad child that need more effort), at a perspective, bride is a way to show respect and appriciation to teacher's effort for their extra work, then for your teacher to have more chance for promotion/be in good term, he/she also bride school mangemer, then the manager bride the school supervisor to keep the school at its best, the ladder go on and on. 
++ *Corruption as a Necessity:* Because the "official" system is slow, broken and hostile, corruption becomes the "parallel transportation system" to help things run smoother (as we say, bride keep things moving).  
++ *Hiarchircal Complexity:* It is a "ladder" where everyone brides up and takes from below, to fasten their task -> Priority become a task to manage instead of job to get done. 
++ *Bride dismiss sense of trust:* when everything can be bride, trust only exists between individuals, not a group.
+
+But for Freedom especially, the reason go far more complicated in Russia than the West. Like PTST, people who suffer from Chaos, Unstability for many years want sense of security, their enviroment force them to be alert all the time, even when they laugh, because when the system run with bride, trust is fragile and trust is the pillar of Democracy. Not like in the West where ppl are praise to take risk and support to fall on, Russian does not gaurantee that, its a place where being different say you are higher than other and taking "reponsibility/leadership" mean you will be the one blamed if thing go wrong. Therefor, political passivity "be with the group" is a rational survival instinct, not a sign of agreement.
++ *Environment require Cautions and Alert from child to adult*. "To understand Russians you have to understand how instability raises you... You learn to live under a certain weight not crushing not unbearable just constant like carrying a heavy coat everywhere after a while you forget you're wearing it."
++ *Freedom = Chaos*.  The concept of freedom carries the "memory of instability" and the fear of losing everything. Live the Soviet in the 90s, because the collapse of the SoViet Union is described not as liberation, but as a time of raw survival. This generational trauma created a "daily atmosphere" of instability, teaching children that "the ground you stand on may not be stable".
++ Unlike the West
+	+ where Responsibility is empowering it means having trusted and stading up for other, in Russia its mean you are someone to blame if thing go wrong. 
+	+ where Chaos is often linked to creativity, and unpredictability is seen as exciting, in Russia, Chaos synonymous with danger - the risk of "losing structure, safety, losing the ability to plan your life", in addition of the great SoViet collapse, the Russian mind sees it as a threat to survival. 
+
+**Conclusion**
++ *Survival PTSD:* after century of instability and war, most of the older population is paralyze by the fear of sudden change. The asmosphere is heavy, children inherit constant alert composure from adult. *Russia teach survival quickly rather than freedom.* 
++ *Systemic Trap:* Russian base on Bureaucracy, Corruption is not a crime but the jeil to keep thing going fast & smoothly. 
+

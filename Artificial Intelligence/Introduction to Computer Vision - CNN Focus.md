@@ -27,7 +27,6 @@ Thus, an image is a 3D tensor since each pixel value present by 3 matrix r, g an
 (Trắng đen 2D vì nó có Heigh-Width)
 (3D vì có 3 lớp màu cho mỗi ảnh, Heigh-Width $\times 3$ )
 
-
 The same logic for Grey scale image (i.e. black and white image). It still have 800x600 pixels but only need 2 color ranging `[0, 255]` (i.e. back and white) instead of (r, g, b). 
 	![[Pasted image 20241008172519.png]]
 	Therefor, we only need 1 matrix because each only need 1 variable. 

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f75426284bd34c10",
+    "id": "11de5b3d9d22cc99",
     "type": "split",
     "children": [
       {
-        "id": "4497bb19e56c1917",
+        "id": "8c41927d551408eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4d33856cbb2da275",
+            "id": "0dd1098d915e38b4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,22 +24,17 @@
             }
           },
           {
-            "id": "384f192783b03986",
+            "id": "5b57bf1fe1074896",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "25M7 CNN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "todo"
+              "icon": "lucide-file",
+              "title": "25M7 CNN"
             }
           }
         ],
@@ -49,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "056cb19cd49e4719",
+    "id": "25afb8235e6f8ef0",
     "type": "split",
     "children": [
       {
-        "id": "43a1fa3a84bb2e68",
+        "id": "3be6af5161ba7224",
         "type": "tabs",
         "children": [
           {
-            "id": "16419475fb6c3a6c",
+            "id": "15cbfc3981273ffb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +65,7 @@
             }
           },
           {
-            "id": "faa299431f3a3bfe",
+            "id": "f20653e3c2556967",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +82,7 @@
             }
           },
           {
-            "id": "e29ce83a9e87ae18",
+            "id": "b8f070a3b686267b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,23 +95,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "55cc0a271e8c9f90",
+    "id": "38133e48d1fcebfb",
     "type": "split",
     "children": [
       {
-        "id": "5b6fc831a8034b9e",
+        "id": "a1e641e23d3c11a8",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd8195a7b211446",
+            "id": "85d2b2f2dcc5cb2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,25 +122,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Churn Prediction"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "b4494b4d6af3f32a",
+            "id": "d3e25b045c4ddb9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Churn Prediction"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "408305523f970922",
+            "id": "50644b2b33a46c11",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,7 +155,7 @@
             }
           },
           {
-            "id": "878c3e4231111b50",
+            "id": "03fcc42ac045f2d6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,21 +169,32 @@
             }
           },
           {
-            "id": "7d4203fc50b94fb2",
+            "id": "8d16712f08d889b8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Churn Prediction"
+              "title": "Outline of _Focus"
+            }
+          },
+          {
+            "id": "9f7dc6e7186ee34a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,50 +203,93 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "homepage:Open homepage": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "384f192783b03986",
+  "floating": {
+    "id": "86e49aef3aa73271",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a5b95df80fd60fbe",
+        "type": "window",
+        "children": [
+          {
+            "id": "73dcdf616fedb754",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee61a3c344568169",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Introduction to Computer Vision - CNN Focus.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Introduction to Computer Vision - CNN Focus"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 845,
+        "height": 864,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5b57bf1fe1074896",
   "lastOpenFiles": [
+    "Introduction to Computer Vision - CNN Focus.md",
+    "25M7 CNN.md",
+    "AIO 2025.md",
+    "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
     "2 ACTIONS/_Focus.md",
-    "Untitled Kanban.md",
-    "2 ACTIONS/todo.md",
-    "2 ACTIONS/Mein Resume and CV.md",
-    "2 ACTIONS/Untitled.base",
-    "2 ACTIONS/Untitled.md",
-    "2 ACTIONS/ACTION.base",
-    "25M7W2 - CICD.md",
     "image/Pasted image 20251211213502.png",
     "image/Pasted image 20251211213304.png",
     "image/Pasted image 20251211210725.png",
-    "AIO 2025.md",
-    "Introduction to Computer Vision - CNN Focus.md",
-    "CNN from Scratch.md",
-    "25M7 CNN.md",
-    "Introduction to TensorFlow.md",
-    "Week 2 Assignment - FashionMNIST.md",
-    "TensorFlow Code.md",
-    "Week 1 Assignment - Housing Prices.md",
-    "Using Real World Images.md",
-    "Course 4 - Convolutional Neural Network.md",
-    "TensorFlow CNN.md",
-    "1 PROJECTS/Deep Learning/Deep Learning.md",
-    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
-    "GAN.md",
-    "Autoencoder and Variational Autoencoder.md",
-    "Transformer Model Introduction (Attention Is All You Need).md",
-    "CMC Deep Learning Midterm Test.md",
-    "AIO - CNN Training and Generalization.md",
-    "Computer Vision.md",
-    "Object Detection Series.md"
+    "Untitled Kanban.md",
+    "25M7W2 - CICD.md",
+    "2 ACTIONS/todo.md",
+    "image/Pasted image 20251209233203.png",
+    "image/Pasted image 20251209232956.png",
+    "image/Pasted image 20251209232248.png",
+    "image/Pasted image 20251209215236.png",
+    "image/Pasted image 20251209214658.png",
+    "image/Pasted image 20251209213913.png",
+    "image/Pasted image 20251209213421.png",
+    "elbow method.md",
+    "Derivative Fomula.md",
+    "AIO2025 - Git & Github for Version Control.md",
+    "25M6 Project Module  - Customer Analysis",
+    "25M6W2 - Loss function for Classification.md",
+    "Optimization in Neural Network and Newton's Method Final Test.md",
+    "AIO - Stock Prediction Note.md",
+    "Fun Research Paper Analysis.md",
+    "AIO 2024.md",
+    "25W1 - Olympic AI 2025.md",
+    "AIO - Multiple Layers Perceptron.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "Multi-label guided graph attention network for education image retrieval.md",
+    "ML Refresher - Softmax Regresion.md",
+    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
+    "Softmax Regression.md",
+    "Logarithm and Log-Likelihood Function.md",
+    "Why Do Neural Network love Softmax.md"
   ]
 }
