@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "11de5b3d9d22cc99",
+    "id": "f75426284bd34c10",
     "type": "split",
     "children": [
       {
-        "id": "8c41927d551408eb",
+        "id": "4497bb19e56c1917",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd1098d915e38b4",
+            "id": "4d33856cbb2da275",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,49 +24,40 @@
             }
           },
           {
-            "id": "5b57bf1fe1074896",
+            "id": "384f192783b03986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
-                "mode": "source",
-                "source": false
+                "file": "2 ACTIONS/todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Churn Prediction"
-            }
-          },
-          {
-            "id": "036562bcb99f7bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO2025 - Git & Github for Version Control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIO2025 - Git & Github for Version Control"
+              "icon": "lucide-trello",
+              "title": "todo"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "25afb8235e6f8ef0",
+    "id": "056cb19cd49e4719",
     "type": "split",
     "children": [
       {
-        "id": "3be6af5161ba7224",
+        "id": "43a1fa3a84bb2e68",
         "type": "tabs",
         "children": [
           {
-            "id": "15cbfc3981273ffb",
+            "id": "16419475fb6c3a6c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +70,7 @@
             }
           },
           {
-            "id": "f20653e3c2556967",
+            "id": "faa299431f3a3bfe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +87,7 @@
             }
           },
           {
-            "id": "b8f070a3b686267b",
+            "id": "e29ce83a9e87ae18",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,24 +100,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "38133e48d1fcebfb",
+    "id": "55cc0a271e8c9f90",
     "type": "split",
     "children": [
       {
-        "id": "a1e641e23d3c11a8",
+        "id": "5b6fc831a8034b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "85d2b2f2dcc5cb2f",
+            "id": "4cd8195a7b211446",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,25 +126,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for Churn Prediction"
             }
           },
           {
-            "id": "d3e25b045c4ddb9a",
+            "id": "b4494b4d6af3f32a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links from Churn Prediction"
             }
           },
           {
-            "id": "50644b2b33a46c11",
+            "id": "408305523f970922",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,7 +159,7 @@
             }
           },
           {
-            "id": "03fcc42ac045f2d6",
+            "id": "878c3e4231111b50",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,42 +173,21 @@
             }
           },
           {
-            "id": "8d16712f08d889b8",
+            "id": "7d4203fc50b94fb2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Focus"
-            }
-          },
-          {
-            "id": "9536f02b28eac683",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "9f7dc6e7186ee34a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of Churn Prediction"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,57 +196,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
-      "homepage:Open homepage": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-day-planner:Open Timeline": true,
-      "obsidian-day-planner:Open Multi-Day View": true
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "036562bcb99f7bd2",
+  "active": "384f192783b03986",
   "lastOpenFiles": [
-    "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
-    "AIO2025 - Git & Github for Version Control.md",
     "2 ACTIONS/_Focus.md",
+    "Untitled Kanban.md",
+    "2 ACTIONS/todo.md",
+    "2 ACTIONS/Mein Resume and CV.md",
+    "2 ACTIONS/Untitled.base",
+    "2 ACTIONS/Untitled.md",
+    "2 ACTIONS/ACTION.base",
+    "25M7W2 - CICD.md",
+    "image/Pasted image 20251211213502.png",
+    "image/Pasted image 20251211213304.png",
+    "image/Pasted image 20251211210725.png",
     "AIO 2025.md",
-    "25M6 Project Module  - Customer Analysis",
-    "25M6W2 - Loss function for Classification.md",
-    "image/Pasted image 20251208190421.png",
-    "image/Pasted image 20251208184941.png",
-    "image/Pasted image 20251208184926.png",
-    "image/Pasted image 20251208183615.png",
-    "image/Pasted image 20251208183604.png",
-    "image/Pasted image 20251208182130.png",
-    "image/Pasted image 20251208182033.png",
-    "image/Pasted image 20251208182020.png",
-    "image/Pasted image 20251208174741.png",
-    "image/Pasted image 20251208174540.png",
-    "Optimization in Neural Network and Newton's Method Final Test.md",
-    "AIO - Stock Prediction Note.md",
-    "Fun Research Paper Analysis.md",
-    "AIO 2024.md",
-    "25W1 - Olympic AI 2025.md",
-    "AIO - Multiple Layers Perceptron.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Multi-label guided graph attention network for education image retrieval.md",
-    "ML Refresher - Softmax Regresion.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Softmax Regression.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "Why Do Neural Network love Softmax.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Mathematics for AI/Mathematics for AI Vocabulary.md",
-    "Study Music Playlist.md",
-    "Fix Laptop.md",
-    "25W1 - Softmax Exercise.md",
-    "AIO - Optimizer for Neural Network.md",
-    "AIO - Gradient Vanishing.md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "ML CheatSheet.md"
+    "Introduction to Computer Vision - CNN Focus.md",
+    "CNN from Scratch.md",
+    "25M7 CNN.md",
+    "Introduction to TensorFlow.md",
+    "Week 2 Assignment - FashionMNIST.md",
+    "TensorFlow Code.md",
+    "Week 1 Assignment - Housing Prices.md",
+    "Using Real World Images.md",
+    "Course 4 - Convolutional Neural Network.md",
+    "TensorFlow CNN.md",
+    "1 PROJECTS/Deep Learning/Deep Learning.md",
+    "1 PROJECTS/CMC 2025/Deep Learning & Application/CMC Deep Learning.md",
+    "GAN.md",
+    "Autoencoder and Variational Autoencoder.md",
+    "Transformer Model Introduction (Attention Is All You Need).md",
+    "CMC Deep Learning Midterm Test.md",
+    "AIO - CNN Training and Generalization.md",
+    "Computer Vision.md",
+    "Object Detection Series.md"
   ]
 }
