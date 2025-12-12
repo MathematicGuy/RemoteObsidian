@@ -44,11 +44,6 @@ Each training dataset, we randomly remove a subset of neurons.
 ### Cross-Validation
 **K-fold Cross-Validation:** divide to each part for test, validate, 
 
-
-# RNN
-Độ quan trọng của từ trong mẫu $\times$ độ quan trọng của từ trong văn bản 
-BT: lấy ví dụ đơn giản cho TF-IDF 
-
 ---
 
 [[CMC Deep Learning Midterm Test]]

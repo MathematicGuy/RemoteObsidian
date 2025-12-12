@@ -1,4 +1,4 @@
-[[Introduction to Computer Vision]]
+[[Introduction to Computer Vision - CNN Focus]]
 [[OpenCV]]
 [[Image Processing]]
 [[Tensorflow Object Detection with Python]]

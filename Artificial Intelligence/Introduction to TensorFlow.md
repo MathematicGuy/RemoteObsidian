@@ -6,7 +6,7 @@ Keras (api in tensorflow)
 [[Week 2 Assignment - FashionMNIST]]
 [[Week 4 Assignment - Handling Complex Images ]]
 
-[[Introduction to Computer Vision]]
+[[Introduction to Computer Vision - CNN Focus]]
 
 [[Course 4 - Convolutional Neural Network]]
 

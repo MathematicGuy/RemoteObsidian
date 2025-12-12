@@ -4,9 +4,6 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _Focus on AIO Course for today and tomorrow revision only. 
-- [ ] Quick Overview - Core Ideas - Outline
-- [ ] Define What I want to study most 
-- [ ] Define Study Style & Approach 
 
 
 - [ ] Revision Loss Function Classification & Regression + Use Case
@@ -15,7 +12,6 @@ _Focus on AIO Course for today and tomorrow revision only.
 - [ ] Research Paper Understanding
 
 ### [[Fun Research Paper Analysis]]
-
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 - [ ] [FocusMate](https://www.focusmate.com/science/)

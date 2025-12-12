@@ -67,7 +67,8 @@ model = tf.keras.models.Sequential([
 **Max Pooling**
 ![[Pasted image 20250317085020.png]]
 
-### Back Propagation
+### Back Propagation 
++ ? Explain why rotate 180 degree. 
 ![[Pasted image 20250317085400.png]]
 
 ![[Pasted image 20250317085413.png]]
@@ -77,13 +78,14 @@ model = tf.keras.models.Sequential([
 + ? Focus on how to update the Kernel. (Update a kernel value base on it previous kernel value) ![[Pasted image 20250317085514.png]]
 
 ![[Pasted image 20250317085655.png]]
+
 ![[Pasted image 20250317085713.png]]
 
 Follow the same logic for all other weights/kernel value
 ![[Pasted image 20250317085814.png]]
 Partial Derivative. Only the partial is value, everything else is constant
 ![[Pasted image 20250317085952.png]]
-Apply the same logic for $w_1$ to $w_4$
+Apply the same logic for $w_1$ to $w_4$ 
 ![[Pasted image 20250317090025.png]]
 
 ![[Pasted image 20250317090053.png]]
@@ -98,8 +100,8 @@ And calculate matrix mult to get the derivative of the first kernel.
 
 Finally update the weights (i.e. kernel value)
 ![[Pasted image 20250317090625.png]]
-source: https://youtu.be/z9hJzduHToc?si=cIVG_XCyMQbk6esM
-coding CNN from scratch: https://youtu.be/Lakz2MoHy6o?si=YgPaHUrBECJPjlrF
+CNN Back Propagation in depth: https://youtu.be/z9hJzduHToc?si=cIVG_XCyMQbk6esM
+Coding CNN from scratch: https://youtu.be/Lakz2MoHy6o?si=YgPaHUrBECJPjlrF
 
 
 ### 1 by 1 Convolution: Intuition and Explanation (Pointwise Convolution)

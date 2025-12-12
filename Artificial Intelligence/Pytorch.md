@@ -1,12 +1,3 @@
-## Basic Pytorch
-
-
-
-
-
-
-
-
 ## Pytorch Operation
 
 **Create zeros matrix**

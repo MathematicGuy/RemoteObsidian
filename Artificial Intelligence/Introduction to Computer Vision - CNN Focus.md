@@ -1,4 +1,4 @@
-	### RGB Color
+### RGB Color
 > Red, Green, Blue each 256 color degree (i.e. 256 different way to represent each color respectively)
 ![[Pasted image 20241008165504.png]]
 
@@ -112,7 +112,7 @@ note:
 	
 + Each Kernel's value $\otimes$ each available input value + 1 (1 as bias) thus the total parameters of a convolution layers are: $F*F*D + 1$. And convolutio layer apply k kernel so the total parameter of a layer is $K*F*F*D + 1$
 
-#### Pooling Layers
+### Pooling Layers
 > Use to compress image while still maintain its core features. 
 > It work like this: slide a FxF grid through X matrix and apply max pooling or average pooling:
 	+ max pooling: choosed the maximum value of the FxF grid 
