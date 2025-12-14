@@ -52,21 +52,21 @@
             }
           },
           {
-            "id": "175d82cf8c4830f6",
+            "id": "2d49d9155cbfc68f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO 2025.md",
+                "file": "2 ACTIONS/Mein Resume and CV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO 2025"
+              "title": "Mein Resume and CV"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,11 +243,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5b57bf1fe1074896",
+  "active": "2d49d9155cbfc68f",
   "lastOpenFiles": [
-    "Introduction to Computer Vision - CNN Focus.md",
     "25M7 CNN.md",
     "AIO 2025.md",
+    "image/Pasted image 20250712040910.png",
+    "2 ACTIONS/Mein Resume and CV.md",
+    "image/cv_example.png",
+    "Introduction to Computer Vision - CNN Focus.md",
     "2 ACTIONS/_Focus.md",
     "Save4Later.md",
     "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
@@ -262,8 +265,6 @@
     "image/Pasted image 20251209232248.png",
     "image/Pasted image 20251209215236.png",
     "image/Pasted image 20251209214658.png",
-    "image/Pasted image 20251209213913.png",
-    "image/Pasted image 20251209213421.png",
     "elbow method.md",
     "Derivative Fomula.md",
     "AIO2025 - Git & Github for Version Control.md",
@@ -279,8 +280,6 @@
     "Multi-label guided graph attention network for education image retrieval.md",
     "ML Refresher - Softmax Regresion.md",
     "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Softmax Regression.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "Why Do Neural Network love Softmax.md"
+    "Softmax Regression.md"
   ]
 }
