@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "2020ef5d12bccc62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +200,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2020ef5d12bccc62",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_Focus/Todo.md",
+    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",
