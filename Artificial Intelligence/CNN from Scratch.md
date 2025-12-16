@@ -47,7 +47,7 @@ model = tf.keras.models.Sequential([
 
 
 28x28x1 -> image 28 pixels in height and 28 pixels in width. 
-1) Go into a Convolution layer with padding  = 1. and 3x3 kernel. Each kernel perform a 3x3 element wise multiplication to the 3x3 pixels grid inside the image, where **kernel is the Weight** + a bias -> $y = X.W + b$ with $X$ as the image's pixels, $W$ as kernel/weight, $b$ as bias. 
+1) Go into a Convolution layer with padding = 1. and 3x3 kernel. Each kernel perform a 3x3 element wise multiplication to the 3x3 pixels grid inside the image, where **kernel is the Weight** + a bias -> $y = X.W + b$ with $X$ as the image's pixels, $W$ as kernel/weight, $b$ as bias. 
 	note: weight or trọng số is a sub-set of parameters. (parameter is the general idea of function $y$ input, and weight is a input), in other word, we can call weight as a parameter.
 	+ $ Basically Conv act as a Linear layer to extract features from the image. ![[Pasted image 20250317074107.png]]
 	+ ? After this, we apply the ReLU function to the features map to activate (i.e. keep) positive value and remove negative value which represent un-important pixel. This is reasonable since pixels value range are within 0 to 255.
