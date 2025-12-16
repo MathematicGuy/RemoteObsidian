@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "11de5b3d9d22cc99",
+    "id": "e50416222337fae9",
     "type": "split",
     "children": [
       {
-        "id": "8c41927d551408eb",
+        "id": "3486be412c4076f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd1098d915e38b4",
+            "id": "e337763d331a5b76",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,63 +24,34 @@
             }
           },
           {
-            "id": "4e7efbef939e7df7",
+            "id": "ea9aeaeaa537c61f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25M7 CNN.md",
+                "file": "Pose Estimation Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25M7 CNN"
-            }
-          },
-          {
-            "id": "530d5e596cdccdcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Computer Vision - CNN Focus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Computer Vision - CNN Focus"
-            }
-          },
-          {
-            "id": "39b4e96d22ab2158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNN from Scratch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CNN from Scratch"
+              "title": "Pose Estimation Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "25afb8235e6f8ef0",
+    "id": "85c392847c9d444f",
     "type": "split",
     "children": [
       {
-        "id": "3be6af5161ba7224",
+        "id": "323287c739946a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "15cbfc3981273ffb",
+            "id": "ebab6e3dc41bca00",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,7 +64,7 @@
             }
           },
           {
-            "id": "f20653e3c2556967",
+            "id": "f18b49ff56d6ee80",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -110,7 +81,7 @@
             }
           },
           {
-            "id": "b8f070a3b686267b",
+            "id": "c4c596ecbe4151d0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -127,15 +98,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "38133e48d1fcebfb",
+    "id": "c242d3158be55dfb",
     "type": "split",
     "children": [
       {
-        "id": "a1e641e23d3c11a8",
+        "id": "486519a711f8ba67",
         "type": "tabs",
         "children": [
           {
-            "id": "85d2b2f2dcc5cb2f",
+            "id": "b70dfe8945bc6416",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -154,7 +125,7 @@
             }
           },
           {
-            "id": "d3e25b045c4ddb9a",
+            "id": "a651698ad556bc55",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -168,7 +139,7 @@
             }
           },
           {
-            "id": "50644b2b33a46c11",
+            "id": "58da78183d29756e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,7 +154,7 @@
             }
           },
           {
-            "id": "03fcc42ac045f2d6",
+            "id": "182312e8112dd29f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -197,7 +168,7 @@
             }
           },
           {
-            "id": "8d16712f08d889b8",
+            "id": "c760c09cb8e16520",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -210,19 +181,8 @@
               "icon": "lucide-list",
               "title": "Outline of _Focus"
             }
-          },
-          {
-            "id": "9f7dc6e7186ee34a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,94 +191,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
-      "homepage:Open homepage": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "86e49aef3aa73271",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a5b95df80fd60fbe",
-        "type": "window",
-        "children": [
-          {
-            "id": "73dcdf616fedb754",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ee61a3c344568169",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Introduction to Computer Vision - CNN Focus.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Introduction to Computer Vision - CNN Focus"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 845,
-        "height": 864,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4e7efbef939e7df7",
+  "active": "e337763d331a5b76",
   "lastOpenFiles": [
-    "Introduction to Computer Vision - CNN Focus.md",
-    "CNN from Scratch.md",
-    "25M7 CNN.md",
+    "Pose Estimation Note.md",
     "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20251212155124.png",
-    "image/Pasted image 20251212154825.png",
-    "AIO 2025.md",
-    "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
-    "image/Pasted image 20251211213502.png",
-    "image/Pasted image 20251211213304.png",
-    "image/Pasted image 20251211210725.png",
-    "Untitled Kanban.md",
-    "25M7W2 - CICD.md",
-    "2 ACTIONS/todo.md",
-    "image/Pasted image 20251209233203.png",
-    "image/Pasted image 20251209232956.png",
-    "image/Pasted image 20251209232248.png",
-    "image/Pasted image 20251209215236.png",
-    "image/Pasted image 20251209214658.png",
-    "elbow method.md",
-    "Derivative Fomula.md",
-    "AIO2025 - Git & Github for Version Control.md",
-    "25M6 Project Module  - Customer Analysis",
-    "25M6W2 - Loss function for Classification.md",
-    "Optimization in Neural Network and Newton's Method Final Test.md",
-    "AIO - Stock Prediction Note.md",
-    "Fun Research Paper Analysis.md",
-    "AIO 2024.md",
-    "25W1 - Olympic AI 2025.md",
-    "AIO - Multiple Layers Perceptron.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Multi-label guided graph attention network for education image retrieval.md",
-    "ML Refresher - Softmax Regresion.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Softmax Regression.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "Why Do Neural Network love Softmax.md"
+    "Traditional Action Detection using LSTM with Convolutional Network.md",
+    "image/Pasted image 20250119110734.png",
+    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
+    "Human Activity Recognition.md",
+    "Human Pose Detection Planning (Behaviour Detection).md",
+    "OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
+    "Student Behavior Recognition System Planning.md",
+    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "CNN from Scratch.md",
+    "Introduction to Computer Vision - CNN Focus.md"
   ]
 }

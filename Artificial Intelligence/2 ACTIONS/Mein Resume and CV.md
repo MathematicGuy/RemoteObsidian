@@ -14,7 +14,8 @@ Keyword:
 ![[Screenshot 2025-07-11 at 22-27-15 2025 AI Engineer Resume Example ( Free Template).png]]
 
 
-[LinkedIn](https://www.linkedin.com/in/hai-hoang-minh/)
+[LinkedIn](https://www.linkedin.com/in/hai-hoang-minh/) 
 ![[Pasted image 20250712040910.png]]
+
 
 
