@@ -33,18 +33,19 @@ Encoder thường trả lời “ảnh nói về cái gì”, còn **encoder for
 **--> Thì contribution là** sau cái đó là zero shot training dùng cho nhiều ảnh fake detection khác mà k cần train lại và **phát hiện fake từ bản chất hình ảnh** chứ không phải chỉ vật trong ảnh
 ![[Pasted image 20251217022829.png]]
 **Các nguyên nhân chính gây ra "tần số cao bất thường" này:**
-Lỗi của mô hình AI (Artifacts): Các mô hình tạo ảnh (như GANs đời cũ) thường tạo ra các "lưới ô bàn cờ" (checkerboard artifacts) siêu nhỏ do cách chúng phóng to ảnh. Những lưới này là các cạnh sắc nét lặp đi lặp lại -> Tín hiệu tần số cao nhân tạo.
+**Lỗi của mô hình AI (Artifacts):** Các mô hình tạo ảnh *(như GANs đời cũ) thường tạo ra các "lưới ô bàn cờ" (checkerboard artifacts)* siêu nhỏ do cách chúng phóng to ảnh. *Những lưới này là các cạnh sắc nét lặp đi lặp lại -> Tín hiệu tần số cao nhân tạo.*
 
-Đường ghép không hoàn hảo: Khi ghép một khuôn mặt fake vào một cơ thể thật (deepfake), đường ranh giới dù được làm mờ nhưng ở cấp độ pixel, nó vẫn tạo ra một sự thay đổi đột ngột về đặc tính ảnh so với vùng xung quanh -> Tín hiệu tần số cao tại đường viền.
+**Đường ghép không hoàn hảo:** Khi ghép một khuôn mặt fake vào một cơ thể thật (deepfake), *đường ranh giới dù được làm mờ nhưng ở cấp độ pixel,* nó vẫn tạo ra một sự thay đổi đột ngột về đặc tính ảnh so với vùng xung quanh -> *Tín hiệu tần số cao tại đường viền.*
 
-Sự không nhất quán về nhiễu (Noise inconsistency): Ảnh chụp bằng camera thật luôn có một lớp hạt nhiễu tự nhiên (sensor noise) đồng nhất. Vùng ảnh fake được AI tạo ra thường quá "phẳng" và trơn láng, sau đó người ta cố thêm nhiễu giả vào cho giống thật, nhưng lớp nhiễu giả này không khớp với nhiễu thật của phần còn lại -> Tạo ra sự chênh lệch tần số cao.
-
+**Sự không nhất quán về nhiễu (Noise inconsistency):** Ảnh chụp bằng camera thật luôn có một lớp hạt nhiễu tự nhiên (sensor noise) đồng nhất. *Vùng ảnh fake được AI tạo ra thường quá "phẳng" và trơn láng, sau đó người ta **cố thêm nhiễu giả vào cho giống thật***, nhưng lớp nhiễu giả này **không khớp với nhiễu thật của phần còn lại** -> **Tạo ra sự chênh lệch tần số cao.**
+![[Pasted image 20251217023713.png]]
 
 
 **Difficulty Survey**
 
 
-
+**Class Imbalance Handling**
+The dataset comprises a total of **262,160 images, with 42,690 labeled as real and 219,470 labeled as fake**, resulting in a significant class imbalance. To address this imbalance, **In each epoch we use 25600 images**, with a **batch size of 256** where **half of the images are taken randomly from the real data set** and the **other half is taken randomly the fake data set**. We repeat this process for each epoc
 
 ---
 
