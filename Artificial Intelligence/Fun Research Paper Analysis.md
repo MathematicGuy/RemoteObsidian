@@ -41,9 +41,27 @@ Encoder thường trả lời “ảnh nói về cái gì”, còn **encoder for
 ![[Pasted image 20251217023713.png]]
 
 **Difficulty Survey**
-Convert Images pixel Domain to Wave Domain to detect anomalies in image patterns. 
-	**Require:** Signal Processing knowledge, Fourier Transform, spectral analysis. 
-	Difficulty: Medium (toán + CV)
+
+Frequency Domain Detection for DeepFake. 
+	Convert Images pixel Domain to Wave Domain to detect anomalies in image patterns. 
+	**Require:** Signal Processing knowledge, FFT (Fast Fourier Transform) ir DCT (Discrete Cosine Transform), spectral analysis. 
+	**Difficulty:** High (toán + CV)
+	This Method require deep understading in signal processing, Design Filter to isolate and capture fake skin frequency without image noise. 
+	Note: **Diffusion Models don't leave out grid-like artifacts like GAN.** Since image generation technique remove nosie naturally making their image's frequency much smoother.  
+
+*Detect artifact in Deepfake Face Swapping* Boundary artifact Integration.
+	Phương pháp này tập trung soi kỹ vào vùng rìa khuôn mặt (face boundary) để tìm các vết mờ (blurring), *sự chênh lệch độ phân giải, sự thay đổi đột ngột về màu da hoặc các đường viền không tự nhiên.*
+	.
+	**Difficulty:** Medium to High since Blending technique nowadays with post-processing and blending techniques like Poisson Blending blur the gap between real and fake. Difficulty increase even more for Full face synthesis. 
+	
+|**Phương pháp tiếp cận (Mục 4)**|**Độ khó Triển khai**|**Độ khó Tổng quát hóa (Cross-domain)**|**Độ khó Chống lại Deepfake mới (Diffusion/Multimodal)**|**Tiềm năng Tương lai**|
+|---|---|---|---|---|
+|**4.1 Pháp y Truyền thống**|Thấp|Rất Cao|**Rất Cao (Thất bại)**|Thấp|
+|**4.2 Tích hợp Artifact Vùng Biên**|Trung bình|Cao|**Cao (Thất bại với Full-synthesis)**|Trung bình - Thấp|
+|**4.3 Trích xuất Đặc trưng Học sâu**|Trung bình|**Cao**|Trung bình|Cao (Cần cải tiến kiến trúc)|
+|**4.4 Miền Tần số**|Cao|Cao|**Rất Cao (Cần định nghĩa lại cho Diffusion)**|Trung bình|
+|**4.5 Không nhất quán Thời gian**|**Cao**|Trung bình|Trung bình|**Rất Cao**|
+|**4.6 Tích hợp Đa phương thức**|**Rất Cao**|**Thấp** (Bền vững nhất)|**Thấp** (Hiệu quả nhất)|**Rất Cao**|
 
 
 
