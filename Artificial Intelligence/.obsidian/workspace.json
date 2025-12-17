@@ -10,6 +10,18 @@
           {
             "id": "0dd1098d915e38b4",
             "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md"
+              },
+              "icon": "lucide-file",
+              "title": "Skeleton Pose Estimation and Person Detection"
+            }
+          },
+          {
+            "id": "93890d1201f7b85d",
+            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
@@ -24,49 +36,21 @@
             }
           },
           {
-            "id": "ee61a3c344568169",
+            "id": "bee6e56e13d23cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Computer Vision - CNN Focus.md",
+                "file": "Fun Research Paper Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Computer Vision - CNN Focus"
-            }
-          },
-          {
-            "id": "5b57bf1fe1074896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25M7 CNN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25M7 CNN"
-            }
-          },
-          {
-            "id": "2d49d9155cbfc68f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 ACTIONS/Mein Resume and CV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mein Resume and CV"
+              "title": "Fun Research Paper Analysis"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Focus"
+              "title": "Outline of Skeleton Pose Estimation and Person Detection"
             }
           },
           {
@@ -222,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -240,18 +224,33 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "homepage:Open homepage": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2d49d9155cbfc68f",
+  "active": "bee6e56e13d23cf0",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "Research Idea using AI.md",
+    "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md",
+    "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
+    "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
+    "Human Activity Recognition.md",
+    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
+    "OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
+    "Pose Estimation Note.md",
+    "Human Pose Detection Planning (Behaviour Detection).md",
+    "Traditional Action Detection using LSTM with Convolutional Network.md",
+    "PCB Anomaly Detection Note & Resources.md",
+    "Student Behavior Recognition System Planning.md",
     "25M7 CNN.md",
+    "2 ACTIONS/Mein Resume and CV.md",
+    "Introduction to Computer Vision - CNN Focus.md",
     "AIO 2025.md",
     "image/Pasted image 20250712040910.png",
-    "2 ACTIONS/Mein Resume and CV.md",
     "image/cv_example.png",
-    "Introduction to Computer Vision - CNN Focus.md",
-    "2 ACTIONS/_Focus.md",
     "Save4Later.md",
     "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
     "image/Pasted image 20251211213502.png",
@@ -271,15 +270,6 @@
     "25M6 Project Module  - Customer Analysis",
     "25M6W2 - Loss function for Classification.md",
     "Optimization in Neural Network and Newton's Method Final Test.md",
-    "AIO - Stock Prediction Note.md",
-    "Fun Research Paper Analysis.md",
-    "AIO 2024.md",
-    "25W1 - Olympic AI 2025.md",
-    "AIO - Multiple Layers Perceptron.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "Multi-label guided graph attention network for education image retrieval.md",
-    "ML Refresher - Softmax Regresion.md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Softmax Regression.md"
+    "AIO - Stock Prediction Note.md"
   ]
 }

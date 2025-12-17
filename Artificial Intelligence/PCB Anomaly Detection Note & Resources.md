@@ -33,7 +33,6 @@ Defect Types:
 
 Note:
 > Nhận diện xử lý ảnh : ảnh 3D, ảnh Depth, các bài toán xác định dị vật, lệch chân, ...trên PCB... OpenCV, Halcon/ C++
-
 + Tài Liệu giới thiệu dự 
 + Làm Slide trình bày dự án
 

@@ -134,7 +134,12 @@ estimPose_video("../input/videos/one_pers_dance_1.mp4", nrows_frames=4, ncols_fr
 
 ### There for, Mediapipe prone to detect human pose when 
 + ? Case where Mediapipe fail or not very effective in detecting human pose. 
-#### Head not shown in the image                                                        ![[Pasted image 20250405163621.png]] ![[Pasted image 20250405163638.png]]
+
+#### Head not shown in the image
+![[Pasted image 20250405163621.png]]
+
+![[Pasted image 20250405163638.png]]
+
 
 
 

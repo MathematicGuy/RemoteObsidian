@@ -387,3 +387,16 @@ But for Freedom especially, the reason go far more complicated in Russia than th
 + *Survival PTSD:* after century of instability and war, most of the older population is paralyze by the fear of sudden change. The asmosphere is heavy, children inherit constant alert composure from adult. *Russia teach survival quickly rather than freedom.* 
 + *Systemic Trap:* Russian base on Bureaucracy, Corruption is not a crime but the jeil to keep thing going fast & smoothly. 
 
+### 16 / 12 / 2025
+[Illusion of learning the dander](https://thenext30years.substack.com/p/the-illusion-of-learning-the-danger)
+Note: pedagogical expertise - chuyên môn sư phạm.
+
+You have to westle with what you know in order to truly understand what you know.
+
+The problem with AI is its completely replace High-order thinking - the mentel operation that defined a well-educated person. Train us to trust than to test what we read.
+
+The more we relied on something, the more reliance and powerless we are.  
+
+
+[How to overcome the illusion of learning](https://psychologycompass.com/blog/how-to-overcome-the-illusion-of-learning/)
+

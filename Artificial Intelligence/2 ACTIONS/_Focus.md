@@ -17,7 +17,6 @@ _Focus on AIO Course for today and tomorrow revision only.
 	- [ ] Grounding for Hallucination, LLMCache for faster response time.
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
-- [ ] [[Research Idea using AI]]
  
 ### [[Machine Learning & Data Science Main]] _storage for future learning resource
 [Deep Dive to Deep Learning](https://d2l.ai/)
