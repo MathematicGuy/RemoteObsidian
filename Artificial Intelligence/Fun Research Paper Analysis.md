@@ -40,8 +40,12 @@ Encoder thường trả lời “ảnh nói về cái gì”, còn **encoder for
 **Sự không nhất quán về nhiễu (Noise inconsistency):** Ảnh chụp bằng camera thật luôn có một lớp hạt nhiễu tự nhiên (sensor noise) đồng nhất. *Vùng ảnh fake được AI tạo ra thường quá "phẳng" và trơn láng, sau đó người ta **cố thêm nhiễu giả vào cho giống thật***, nhưng lớp nhiễu giả này **không khớp với nhiễu thật của phần còn lại** -> **Tạo ra sự chênh lệch tần số cao.**
 ![[Pasted image 20251217023713.png]]
 
-
 **Difficulty Survey**
+Convert Images pixel Domain to Wave Domain to detect anomalies in image patterns. 
+	**Require:** Signal Processing knowledge, Fourier Transform, spectral analysis. 
+	Difficulty: Medium (toán + CV)
+
+
 
 
 **Class Imbalance Handling**
