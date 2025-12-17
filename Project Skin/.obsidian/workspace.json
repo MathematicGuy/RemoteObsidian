@@ -77,11 +77,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a6cc1c68d6f69f9",
@@ -189,8 +191,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Focus/Todo.md",
     "conflict-files-obsidian-git.md",
+    "_Focus/Todo.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",
