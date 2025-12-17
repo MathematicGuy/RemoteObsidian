@@ -42,7 +42,6 @@ DNN came into 2 different stages:
 Heat map for each of those keypoints (i.e. classes) - prob of a certain pixels to beyond that keypoint is encoded. 
 + $ **Encode each keypoints** and assign a confidence score. 
 + ? Ex: Green corresponding to the right shoulder, Blue to the left, etc.
-
 note: kps mean keypoints
 Each color channel in the tensors represent the elbows, shoulders, knees and diff types of kps.    
 + Output will then be post-process because we would have many positions (kp) using NMS or LMS (Local Maximum Search). 
@@ -55,14 +54,18 @@ Each color channel in the tensors represent the elbows, shoulders, knees and dif
 + ?  PAF is a *vector field* which come from 2 components x and y for each pixels. (**Each pixel assign as a Vectors**)  
 **Example:** **Encode person's behaviour by Vectors Orientation** and assign each orientation range with diff colors. So hand/limb point down is yellow, horizontal is red and raise up is green. 
 ![[Pasted image 20250119110156.png]]
-
+	
 ## OpenPose Overview
 + ? Open Pose seperate the inputs into 2 parts: 
 	+ **Part Confidence Maps (PCM):** Heat map showing the confidence of each parts (elbows and the shoulders in example below).
+	  
 	+ **Part Affinity Fields (PAF):** Encode each parts orientation with colors. (use to predict parts movements)   
+	
 The **post-processing** of those 2 kind of Maps (i.e. PCM and PAF) -> Lead to the first **matching of those parts** if we have 2 shoulders and 2 elbows.   
 ![[Pasted image 20250119110734.png]]
-+ ? **Problems:** which elbows to we connect that shoulder to. One we make up this part, we then merge it (i.e. elbow to shoulder) into the skeletons of the corresponding human. 
++ ? **Problems:** **which elbows to we connect that shoulder to.** One we make up this part, we then merge it (i.e. elbow to shoulder) into the skeletons of the corresponding human. 
+
+
 
 ## OpenPose: Network
 ![[Pasted image 20250119115319.png]]
@@ -72,12 +75,14 @@ $S^t:$ Confident Heat Map
 Each States output 18 vectors represent 18 parts of the skeletons.
 ![[Pasted image 20250119120115.png]]
 
+
 ## Merging parts to persons
 ```ad-abstract
 Merging parts to persons by choosing the highest PAF scores between each keypoints where Score are the sum of vectors between in the line connect keypoint 1 and keypoint 2. 
 ```
 > Using PAF scores. But first let see how do we do the Scoring parts.  
 ![[Pasted image 20250119123432.png]]
+
 
 ### Scoring pairs of parts
 Note:
