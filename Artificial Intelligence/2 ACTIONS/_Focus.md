@@ -10,7 +10,7 @@ _Focus on AIO Course for today and tomorrow revision only.
 - [ ] L1 vs L2 for regression
 - [ ] Research Paper Understanding
 
-### [[Fun Research Paper Analysis]]
+### [[Fun Research Paper & Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [DATA DRIVEN SCIENCE & ENGINEERING](https://databookuw.com/page-2/page-4/)
 - [ ] [FocusMate](https://www.focusmate.com/science/)
