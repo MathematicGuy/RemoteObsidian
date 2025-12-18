@@ -9,12 +9,14 @@ Feature match pieces of the images
 3. Add them up.
 4. Divide by the total number of pixels in the feature.
 
+**Apply Filtering**
 If match then equal 1 - this mean the matched percentage is 100%. 
 ![[Pasted image 20251218140523.png]]
 How about this pattern, this said 55% matched. 
 ![[Pasted image 20251218140604.png]]
 
-
+**Filtering answer the question:** is this pattern existed within this image.
+![[Pasted image 20251218140730.png]]
 
 
 
