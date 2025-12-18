@@ -1,10 +1,10 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
+**20 - 5 : 20 minutes Study then 5 minutes review** 
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _Focus on AIO Course for today and tomorrow revision only. 
-
 - [ ] Revision Loss Function Classification & Regression + Use Case
 - [ ] Machine Learning Project Life Cycle description for one of my Project
 - [ ] L1 vs L2 for regression

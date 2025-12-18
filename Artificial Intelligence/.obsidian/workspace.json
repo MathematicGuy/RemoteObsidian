@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "57ede51bf779e930",
+            "id": "93d4ce6c93915e23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "CNN from Scratch"
             }
-          },
-          {
-            "id": "93d4ce6c93915e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Convolutional Neural Network Garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Convolutional Neural Network Garden"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,14 +206,17 @@
   },
   "active": "93d4ce6c93915e23",
   "lastOpenFiles": [
-    "AIO - CNN Summary.md",
+    "image/Pasted image 20251218140604.png",
+    "image/Pasted image 20251218140523.png",
+    "2 ACTIONS/_Focus.md",
+    "CNN from Scratch.md",
+    "image/Pasted image 20251218140319.png",
     "Convolutional Neural Network Garden.md",
+    "AIO - CNN Summary.md",
     "AIO - CNN Training and Generalization.md",
     "AIO - Advance CNN.md",
     "25M7 CNN.md",
     "Course 4 - Convolutional Neural Network.md",
-    "CNN from Scratch.md",
-    "2 ACTIONS/_Focus.md",
     "Continuous Learning & Nested Learning.md",
     "Fun Research Paper & Direction Analysis.md",
     "Deepfake Survey.md",
@@ -240,8 +229,6 @@
     "image/Pasted image 20251217032345.png",
     "image/Pasted image 20251217032203.png",
     "image/Pasted image 20251217031845.png",
-    "image/Pasted image 20251217023713.png",
-    "image/Pasted image 20251217022829.png",
     "Pose Estimation Note.md",
     "Traditional Action Detection using LSTM with Convolutional Network.md",
     "1 PROJECTS/NCKH 2025/NCKH 2025.md",

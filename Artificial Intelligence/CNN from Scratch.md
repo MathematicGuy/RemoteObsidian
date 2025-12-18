@@ -1,3 +1,24 @@
+## How Convolutional Network work from Scratch
+Trick that CNN use for machine to understand image 
+
+Feature match pieces of the images
+![[Pasted image 20251218140319.png | 344]]
+-> Call **Filtering: the math behind the pattern matching** 
+1. Line up the feature and the image patch.
+2. Multiply each image pixel by the corresponding feature pixel.
+3. Add them up.
+4. Divide by the total number of pixels in the feature.
+
+If match then equal 1 - this mean the matched percentage is 100%. 
+![[Pasted image 20251218140523.png]]
+How about this pattern, this said 55% matched. 
+![[Pasted image 20251218140604.png]]
+
+
+
+
+
+
 ## Introduce
 ![[1_CnNorCR4Zdq7pVchdsRGyw.png]]
 
