@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dd1098d915e38b4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md"
-              },
-              "icon": "lucide-file",
-              "title": "Skeleton Pose Estimation and Person Detection"
-            }
-          },
-          {
             "id": "93890d1201f7b85d",
             "type": "leaf",
             "pinned": true,
@@ -36,21 +24,21 @@
             }
           },
           {
-            "id": "f7b3702c12658235",
+            "id": "d482cc46f0f0c410",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun Research Paper Analysis.md",
+                "file": "Research Direction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fun Research Paper Analysis"
+              "title": "Research Direction"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,9 +218,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f7b3702c12658235",
+  "active": "d482cc46f0f0c410",
   "lastOpenFiles": [
+    "Untitled Kanban 1.md",
     "2 ACTIONS/_Focus.md",
+    "Research Direction.md",
+    "AIO 2025.md",
+    "AIVNRG25.md",
     "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md",
     "Fun Research Paper Analysis.md",
     "image/Pasted image 20251217033245.png",
@@ -260,16 +252,12 @@
     "25M7 CNN.md",
     "2 ACTIONS/Mein Resume and CV.md",
     "Introduction to Computer Vision - CNN Focus.md",
-    "AIO 2025.md",
     "Save4Later.md",
     "25M6 Project Module  - Customer Analysis/Churn Prediction.md",
     "Untitled Kanban.md",
     "25M7W2 - CICD.md",
     "2 ACTIONS/todo.md",
     "elbow method.md",
-    "Derivative Fomula.md",
-    "AIO2025 - Git & Github for Version Control.md",
-    "25M6 Project Module  - Customer Analysis",
-    "25M6W2 - Loss function for Classification.md"
+    "25M6 Project Module  - Customer Analysis"
   ]
 }
