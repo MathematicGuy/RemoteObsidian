@@ -1,21 +1,27 @@
-Reference: [Deep Learning cơ bản CNN]( (https://nttuan8.com/bai-6-convolutional-neural-network/))
-Overview of everything + Conclusion of the Blog
+**Reference:**
++ [Deep Learning cơ bản CNN]( (https://nttuan8.com/bai-6-convolutional-neural-network/))
++ Super Good Reference for a straight forward outline: [How CNN work, in depth](https://youtu.be/JB8T_zN7ZC0?si=G7pMoNJv4teu0HQQ) 
+
+**Overview of everything + Conclusion of the Blog**
 + What you'll learned and discouver
 + Main Topic
 + Extras Topic
 + Credit and Reference
+Note - goes into each topic with Intuition. 
 
-Note - goes into each topic with Intuition
-*Intro to Image in Computer Vision*
-*Introduct to Tensor (1D, 2D and 3D)*
-*Problem with MLP for Image Classification* (**IMPORTANT**)
-*CNN Overview* 
+1. [[Introduction to Computer Vision - CNN Focus]]
+	*Intro to how Image presented in Computer Vision* 
+	*Introduct to Tensor (1D, 2D and 3D)*
+	*Problem with MLP for Image Classification* **(IMPORTANT)** 
+		MLP run too slow. How about we simplified all features before input it to the MLP -> Add CONV layers. So CNN not replacing MLP but **enhancing its feature extraction ability.**  
+	
+2. *CNN Overview* - [[CNN from Scratch]] - [how CNN work in depth](https://brandonrohrer.com/how_convolutional_neural_networks_work.html)
 	Describe CNN *architecture fully* and *each of its component along with their functionality and purpose*. Bonus: show Different before and After with [Real Example](https://poloclub.github.io/cnn-explainer/). 
-	Overall of CNN calculation in 1 paragraph:
+	*Overall of CNN calculation in 1 paragraph:*
 	(Image Pixels + bias) -> (Conv -> ReLU) x 2 -> Pooling) x 2 -> (Flatten + bias) -> Softmax -> Output
 	
-*CNN Operation in Depth* - (add more after the turtorial)
-(For each Operation explain. What it do ? Why do we need it)
+3. *CNN Operation in Depth* - [Stanford CNN](https://cs231n.github.io/convolutional-networks/)
+	(For each Operation explain. What it do ? Why do we need it)
 + *What is Convolution ?* (Interative Convolution Operation) 
 + *Padding* (when padding is necessary ?)
 + *Stride* (stride of 1 == the kernel move 1 pixel per dot product)
@@ -24,10 +30,10 @@ Note - goes into each topic with Intuition
 + *Explain ReLU function* 
 	Purpose: Introduce Non-Linearity (*Explain Non-Linearity and why*) and remove Noise ???  
 	[source](https://www.quora.com/What-are-the-main-role-of-ReLU-Activation-Function-in-deep-learning): In Image Processing using CNNs, we _use ReLU activation_ to _remove_ an unnecessary _noise_ due to negative _values_ that could persists. For those ...
-
-
-*CNN Backpropagation*
-
+	
+4. *CNN Backpropagation*
+	
+5. Advance CNN (Pooling, Batch Normalize, etc..)
 
 *Final:* Code with OOP
 *Extras:*
