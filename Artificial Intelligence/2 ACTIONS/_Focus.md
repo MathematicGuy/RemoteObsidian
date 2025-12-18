@@ -1,10 +1,20 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 **20 - 5 : 20 minutes Study then 5 minutes review** 
+ 
+**New Ideas:** **Hold my self accountable strategy:** print photography of my friend with handwritten information about them below (white paper)  ![[Pasted image 20251218143647.png]]
+
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
-_Focus on AIO Course for today and tomorrow revision only. 
+_TODAY
+- [ ] Revision my Blog's explaionation flow
+- [ ] Draw the whole CNN workflow (Forward only) - 1h30
+- [ ] Watch CNN backpropagation from Scratch + Note (~ 1h)
+- [ ] Improve CNN draw with backpropagation
+
+
+_Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case
 - [ ] Machine Learning Project Life Cycle description for one of my Project
 - [ ] L1 vs L2 for regression
@@ -30,3 +40,7 @@ _Focus on AIO Course for today and tomorrow revision only.
 - [ ] [[how_my_thinking_work]]
 - [[Aha]]
 + [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
+
+### [Brandon Rohrer Blog about Data Engineering, ML & DL, Signal Processing, Robotic, Networking](https://brandonrohrer.com/blog.html)
+
+

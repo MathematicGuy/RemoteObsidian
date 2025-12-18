@@ -1,3 +1,5 @@
+**Reference:** [Deep Learning cơ bản CNN](https://nttuan8.com/bai-6-convolutional-neural-network/)
+
 ### RGB Color
 > Red, Green, Blue each 256 color degree (i.e. 256 different way to represent each color respectively)
 ![[Pasted image 20241008165504.png]]
@@ -91,9 +93,9 @@ $$x_{i*k, \space j*k}$$
 
 
 ### Convolution Neural Network
-#### Neural Network Problem
+#### Probelm with Neural Network (MLP) in Image Classification when there are Too Much FEATURES 
 A color image 64x64 present in 1 tensor as 64x64x3. So the input to the NN would be 64x64x3=12288. Meaning network have to process 12288 nodes. If the 1st hidden layer is 1000, the paramater numbers would be outstraged. We need a better solution !!!
-+ $ Apply convlution operator in Neural Network to process large scale image while keeping its core features.
++ $ Apply Convolution operator in Neural Network to process large scale image while keeping its core features. In other word, Filter only the Important Feature from the Image. 
 
 #### First Convolution layer
 + ! CNN Color Channel doesn't mean CNN Dimension. e.g. r,g,b and bg image both use 2D CNN. 3D CNN refer to when we processing 3 frame at a time of a video to extract the spatial temporal information (thông tin không gian thời gian). Basically, CNN capture information in the represent and future/past at once by process 3 frame at a time. 

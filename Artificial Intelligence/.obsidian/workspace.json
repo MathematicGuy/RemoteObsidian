@@ -36,9 +36,37 @@
               "icon": "lucide-file",
               "title": "CNN from Scratch"
             }
+          },
+          {
+            "id": "e764a0f5f9310118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Computer Vision - CNN Focus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Computer Vision - CNN Focus"
+            }
+          },
+          {
+            "id": "7db0725d8b015c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25M7 CNN Blog Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25M7 CNN Blog Outline"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,31 +232,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "93d4ce6c93915e23",
+  "active": "7db0725d8b015c1a",
   "lastOpenFiles": [
-    "image/Pasted image 20251218140730.png",
-    "image/Pasted image 20251218140604.png",
-    "image/Pasted image 20251218140523.png",
-    "2 ACTIONS/_Focus.md",
+    "Introduction to Computer Vision - CNN Focus.md",
     "CNN from Scratch.md",
-    "image/Pasted image 20251218140319.png",
-    "Convolutional Neural Network Garden.md",
+    "25M7 CNN Blog Outline.md",
+    "+.md",
+    "Convolutional Neural Network Main.md",
+    "main-qimg-a2967f1eaecd002401e501c3232841d5-lq.jpg",
+    "2 ACTIONS/_Focus.md",
+    "What do Neural Network Learn.md",
+    "image/Pasted image 20251218160746.png",
+    "image/Pasted image 20251218160604.png",
+    "image/Pasted image 20251218160527.png",
+    "image/Pasted image 20251218155839.png",
+    "image/Pasted image 20251218155821.png",
+    "image/Pasted image 20251218155538.png",
+    "image/Pasted image 20251218155450.png",
+    "image/Pasted image 20251218155318.png",
+    "image/Pasted image 20251218153905.png",
+    "Gradient and Gradient Descent.md",
+    "Gradient Descent Example.md",
+    "AIO - From MLP to CNN.md",
     "AIO - CNN Summary.md",
     "AIO - CNN Training and Generalization.md",
     "AIO - Advance CNN.md",
-    "25M7 CNN.md",
     "Course 4 - Convolutional Neural Network.md",
     "Continuous Learning & Nested Learning.md",
     "Fun Research Paper & Direction Analysis.md",
     "Deepfake Survey.md",
     "FFT - Fourier Transform.md",
-    "image/Pasted image 20251217033245.png",
-    "image/Pasted image 20251217033211.png",
-    "image/Pasted image 20251217033135.png",
-    "image/Pasted image 20251217032916.png",
-    "image/Pasted image 20251217032542.png",
-    "image/Pasted image 20251217032345.png",
-    "image/Pasted image 20251217032203.png",
     "Pose Estimation Note.md",
     "Traditional Action Detection using LSTM with Convolutional Network.md",
     "1 PROJECTS/NCKH 2025/NCKH 2025.md",
@@ -236,7 +269,6 @@
     "Human Pose Detection Planning (Behaviour Detection).md",
     "OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
     "Student Behavior Recognition System Planning.md",
-    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
-    "Introduction to Computer Vision - CNN Focus.md"
+    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas"
   ]
 }
