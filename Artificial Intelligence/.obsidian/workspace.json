@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "e764a0f5f9310118",
+            "id": "7db0725d8b015c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,17 +52,17 @@
             }
           },
           {
-            "id": "7db0725d8b015c1a",
+            "id": "221aa98e11f3442e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25M7 CNN Blog Outline.md",
+                "file": "CNN Blog Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25M7 CNN Blog Outline"
+              "title": "CNN Blog Outline"
             }
           }
         ],
@@ -232,13 +232,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7db0725d8b015c1a",
+  "active": "221aa98e11f3442e",
   "lastOpenFiles": [
-    "Introduction to Computer Vision - CNN Focus.md",
-    "CNN from Scratch.md",
-    "25M7 CNN Blog Outline.md",
-    "+.md",
+    "CNN Blog Outline.md",
     "Convolutional Neural Network Main.md",
+    "CNN from Scratch.md",
+    "Introduction to Computer Vision - CNN Focus.md",
+    "+.md",
     "main-qimg-a2967f1eaecd002401e501c3232841d5-lq.jpg",
     "2 ACTIONS/_Focus.md",
     "What do Neural Network Learn.md",

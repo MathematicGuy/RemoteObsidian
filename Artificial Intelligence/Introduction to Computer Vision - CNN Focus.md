@@ -93,8 +93,8 @@ $$x_{i*k, \space j*k}$$
 
 
 ### Convolution Neural Network
-#### Probelm with Neural Network (MLP) in Image Classification when there are Too Much FEATURES 
-A color image 64x64 present in 1 tensor as 64x64x3. So the input to the NN would be 64x64x3=12288. Meaning network have to process 12288 nodes. If the 1st hidden layer is 1000, the paramater numbers would be outstraged. We need a better solution !!!
+#### Problem with Neural Network (MLP) in Image Classification when there are Too Much FEATURES 
+A  64x64 3 color channel image present in 1 tensor as 64x64x3. So the input to the NN would be 64x64x3=12288. Meaning network have to process 12288 nodes. If the 1st hidden layer is 1000, the paramater numbers would be outstraged. We need a better solution !!!
 + $ Apply Convolution operator in Neural Network to process large scale image while keeping its core features. In other word, Filter only the Important Feature from the Image. 
 
 #### First Convolution layer
