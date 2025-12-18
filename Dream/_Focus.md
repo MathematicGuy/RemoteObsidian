@@ -18,7 +18,7 @@
 ### [[THOUGH]]
 
 # RESOURCES
-
+	
 ### [[_Happiness]]
 
 ### [[_How To Study]]
