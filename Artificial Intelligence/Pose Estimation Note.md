@@ -106,10 +106,3 @@ We would expect each vector from p1 to p2 (i.e. point 1 and 2) having the same d
 
 ## Merging pairs to persons: merge by parts
 ![[Pasted image 20250119130343.png]]
-
-## Applications: Limitless
-**HW:** Looking for Failure case to analyse what going on in the Network. 
-
-
-
-
