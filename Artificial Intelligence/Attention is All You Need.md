@@ -1,4 +1,4 @@
-**Multi-head Attention** layer **act the same way** as a **Linear Layer** but much more efficient, in comparison for ChatGPT:
+w**Multi-head Attention** layer **act the same way** as a **Linear Layer** but much more efficient, in comparison for ChatGPT:
 + MhA use **x1000 less Computation than Linear**
 + MhA have **x4.000.000 less Parameters than Linear**
 

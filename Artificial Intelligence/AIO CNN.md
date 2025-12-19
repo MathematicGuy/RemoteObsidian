@@ -68,3 +68,108 @@ The flexibility *help avoid these problem:*
 + Keep variance stable from the start. 
 + Better Gradient from the start.
 + Less Negative Weight and Bias from the start. 
+
+---
+
+### LeNet
++ $ **Cải tiến:** Lookback Mechanism and Gaussian Connections.
+![[Pasted image 20251219205304.png]]
+**Cơ chế Lookback:** Học features từ các bảng trước đó. 
+![[Pasted image 20251219205140.png | 255]]
+
+
+### AlexNet
++ $ **Cải Tiến:** Overlapping Max POOL, thay Tanh -> ReLU, Drop Out (Drop tham số mỗi lớp về 0 vs xs 0.5%)  
+![[Pasted image 20251219210919.png]]
+
+![[Pasted image 20251219211652.png]]
+![[Pasted image 20251219211711.png]]
+
+![[Pasted image 20251219212000.png]]
+
+### ZFNet -> Foundation of CNN Visualization
++ ? fintuning AlexNet. ![[Pasted image 20251219212014.png]]
++ $ Cải tiến: Max Unpooling. 
+
+![[Pasted image 20251219212022.png]]
+
+Dùng Unpooling để dịch ngược lại. ie. *Obtain an approximate inverse by recording the locations of the maxima.* 
+![[Pasted image 20251219212133.png]]
+
+**DeConvolution technique for Visualization: reverse of Conv**
+![[Pasted image 20251219212438.png# left | 455]]
+**How DeConv work ?** 
+![[Pasted image 20251219212737.png]]
+Duplicated Conv get sum. Lấy tổng nhưng phần bị trùng.
+![[Pasted image 20251219213240.png]]
+
+![[Pasted image 20251219213345.png]]
+
+Low Frequency: góc cạnh - High Frequency - cong
+![[Pasted image 20251219213555.png]]
+
+Aliasing - image become Abstract. Alias Example:
+(Layer 2: (c) Aliasing artifacts in AlexNet and (d) much cleaner features in ZFNet)
+![[Pasted image 20251219214054.png | 444]]
+
+Nhận xét sau khi xác định Điểm Yếu -> Cải tiến Layer 1 + 2.  
+![[Pasted image 20251219214202.png]]
+
+**Các phương pháp Normalization**
++ Normalize theo Channel. 
++ Local Response Normalization ![[Pasted image 20251219214455.png]]
+![[Pasted image 20251219214649.png]]
+
+![[Pasted image 20251219214732.png]]
+
++ ? Bản thân trong 1 class có hiện tượng Shifting cái Features. Cần có cơ chế can thiệp để xem cái scale và shift tương ứng.
++ $ 
+![[Pasted image 20251219214927.png]]
+
+### VGG16Net (VGG 16 lớp)
+Nâng số lớp theo Compute của thời đại. 
+
+### GoogleLetNet: Inception Net
++ ! VGG thêm số Lớp nhưng không giả quyết đc vde Gradient Vanishing. **VGG add more layers but not Improving.**
+Sử dụng kĩ thuật **1x1 Conv.** 
+**Sử dụng kĩ thuật Trung Gian để giảm số lượng Params xuống.** 
+![[Pasted image 20251219220229.png]]
+
+Hỗ trợ cái Non-Linearity. 
+![[Pasted image 20251219220544.png]]
+
+Add 1x1 Conv at the beginning to reduce total Features ( asl well as params)
+![[Pasted image 20251219220714.png]]
+
+Cách chọn kiến trúc và số lớp -> thử nghiệm và ra đc V2 Module. 
+![[Pasted image 20251219220904.png]]
+
+![[Pasted image 20251219221017.png]]
++ ! Still suffer from Exploding and Vanishing Gradient. Unable to Improve Accuracy by Increasing Layer. 
+
+### ResNet
++ $ **Skip-Connection.** Allow up to 34 Layers.
+Càng nhiều Layer thì Error càng lớn, Layer cuối càng có ít thông tin từ Layer đầu hơn. 
+![[Pasted image 20251219221215.png]]
+
+![[Pasted image 20251219221428.png# left | 322]]
+
+Ý tưởng là giữ lại đặc trưng gốc từ Layer đầu. 
+![[Pasted image 20251219221400.png# left | 255]]
+
+Back Prop qua Skip-Connection. 
+![[Pasted image 20251219221844.png]]
+
+### MobileNet
+1.Using Depthwise Separable Convolutions (2D Conv)
+	Pointwise Conv (1D Conv)
+2.Using two Shrinking Hyperparameters:
+
+
+
+**Network in Network and 1x1 Convolution**
+
+**2D Convolution -> Depthwise Parameters**
+Giảm số lượng 
+
+
