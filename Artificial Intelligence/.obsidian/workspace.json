@@ -37,8 +37,7 @@
               "title": "AIO CNN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +203,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f8abb77c2f0b542b",
+  "active": "e337763d331a5b76",
   "lastOpenFiles": [
+    "AIO CNN.md",
+    "Untitled Kanban 1.md",
     "image/Pasted image 20251219221844.png",
     "image/Pasted image 20251219221428.png",
     "image/Pasted image 20251219221400.png",
@@ -216,8 +217,6 @@
     "image/Pasted image 20251219220544.png",
     "image/Pasted image 20251219220229.png",
     "image/Pasted image 20251219214927.png",
-    "image/Pasted image 20251219214732.png",
-    "AIO CNN.md",
     "2 ACTIONS/_Focus.md",
     "Foundation of Mixture of Expert in Statistical Learning in ML.md",
     "BERT.md",

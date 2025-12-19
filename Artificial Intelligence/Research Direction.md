@@ -12,10 +12,9 @@
 **1. Introduction**
 **1.1 History and Trends:**  
 Foundation models mark a shift from task-specific deep learning to **generalized, pre-trained systems** using multimodal data.  
-→ Key examples: **CLIP**, **DINO** (), **GPT-3**, **PaLM**.  
+→ Key examples: **CLIP**, **DINO**, **GPT-3**, **PaLM**.  
 → Impact: improved **zero/few-shot learning** and **cross-modal reasoning**.  
 → In healthcare: enhance **EHR analysis, diagnostics, and report automation** (e.g., BioViL, ChatDoctor).
-
 
 **1.2 Prior Reviews:**  
 Summarizes existing literature on CNNs, deep learning, and medical foundation models, noting the need for **interpretability**, **data balance**, and **clinical validation**.
@@ -46,7 +45,6 @@ MLLM -
 3. **Encoder–Decoder Integration** (e.g., Flamingo, VisualGPT) – generative; useful for **report generation** and **image synthesis**.
 
 
-
 **4. Foundation Models in Medical Imaging**
 **4.1 Specific Domain Transfer Applications**
 Grouped by modality:
@@ -70,10 +68,11 @@ Grouped by modality:
 - Aim: *unifying visual-text understanding across imaging types for holistic diagnosis (chẩn đoán toàn diện).*
 
 ![[Pasted image 20251026103103.png]]
-
-
 Proposes a **unified transformer architecture** for image-text tasks using **Prefix Language Modeling (PrefixLM)** — predicts future tokens conditioned on both image and text prefixes.
 
 
 **Adapting Vision-Language Foundation Models for Next-Generation Medical Ultrasound Image Analysis (2024)**
 Shows performance gains in **disease recognition, image captioning, and VQA**.
+
+---
+

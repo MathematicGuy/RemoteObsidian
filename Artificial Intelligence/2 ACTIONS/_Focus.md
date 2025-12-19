@@ -1,7 +1,7 @@
 ### [[Anstler Palace.canvas|Anstler Place]]
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
-**20 - 5 : 20 minutes Study then 5 minutes review** 
- 
+**20 - 5 : 20 minutes Study then 5 minutes review**
+
 **New Ideas:** **Hold my self accountable strategy:** print photography of my friend with handwritten information about them below (white paper)  ![[Pasted image 20251218143647.png]]
 
 
@@ -27,7 +27,7 @@ _Long Term
 	- [ ] Grounding for Hallucination, LLMCache for faster response time.
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
- 
+
 ### [[Machine Learning & Data Science Main]] _storage for future learning resource
 [Deep Dive to Deep Learning](https://d2l.ai/)
 [When to use ML/DS](https://beryl-freckle-b85.notion.site/AIO2025-B-i-to-n-n-y-c-p-d-ng-c-ML-DL-hay-kh-ng-24e302d8792c80fe8b65dc9a3463148e)
@@ -42,5 +42,3 @@ _Long Term
 + [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
 
 ### [Brandon Rohrer Blog about Data Engineering, ML & DL, Signal Processing, Robotic, Networking](https://brandonrohrer.com/blog.html)
-
-
