@@ -40,5 +40,25 @@ _Long Term
 - [ ] [[how_my_thinking_work]]
 - [[Aha]]
 + [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
+#### [Brandon Rohrer Blog about Data Engineering, ML & DL, Signal Processing, Robotic, Networking](https://brandonrohrer.com/blog.html)
 
-### [Brandon Rohrer Blog about Data Engineering, ML & DL, Signal Processing, Robotic, Networking](https://brandonrohrer.com/blog.html)
+### **Mathematics Course Playlists**
+- **Discrete Math**
+    - [Discrete Math (Full Course: Sets, Logic, etc.)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+	
+- **Linear Algebra**
+    - [Linear Algebra (Full Course)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+	
+- **Calculus Series**
+    - **Calculus I:** [Limits, Derivatives, Integrals](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
+    - **Calculus II:** [Integration Methods, Series, etc.](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n)
+    - **Multivariable Calculus (Calc III):** [Vectors, Partial Derivatives](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd)
+    - **Vector Calculus (Calc IV):** [Line Integrals, Surface Integrals](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
+	
+- **Differential Equations**
+    - [Ordinary Differential Equations (ODEs)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw)
+    - [Laplace Transforms and Solving ODEs](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1)
+	
+- **Game Theory**
+    - [Game Theory Full Course](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxdzD8KpTHz6_gsw9pPxRFlX)
+
