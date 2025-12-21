@@ -6,7 +6,7 @@
 
 + ? **Recurrent (hồi quy)** means **Feedback loops**
 ![[Pasted image 20241220201325.png]]
-+ ? **Also mean Sharing Weights**. 3 neurons nhưng dùng chung 3 cái weights. 
++ ? **Feedback loops also mean Sharing Weights**. 3 neurons nhưng dùng chung 3 cái weights. 
 ![[Pasted image 20241220201448.png]]
 **RNN vs NN:** Each RNN nodes only have 2 output (i.e. connected to other 2 nodes) 1 in the hidden state, and 1 in the output. 
 ![[Pasted image 20241220201553.png]]
@@ -18,13 +18,16 @@
 ![[Pasted image 20241220201740.png]]
 >This features allow NN to remember and predict the future better base on past experiment.
 
+![[Pasted image 20251221102738.png]]
+
+
 **Neural Network:** Feed forward predictions are only base on the target value in the training data.. 
 ![[Pasted image 20250227155242.png]]
 **Recurrent Neural Network:** Each prediction are **depend on the training data and the previous prediction Weight**.
 ![[Pasted image 20241220201922.png]]
 By this method, weight and bias are Shared across every inputs. No matter how many times we unroll a recurrent NN, we never increase number of weights and bias to train.
 ![[Pasted image 20241220202004.png]]
-**A more intuitive way to look at RNN:** previous layers not responding to making prediction but passing experience.
+**A more intuitive way to look at RNN:** previous layers not responding to making prediction but **passing experience.**
 ![[Pasted image 20241220202127.png]]
 
 **Different types of RNNs** (the same method as above but Many)
@@ -47,7 +50,7 @@ How to avoid Exploding-Vanishing Gradient: By skipping connection: instead of go
 
 ### 2.1. Key Components of an LSTM
 In LSTM there are 3 **gates**, plus an internal memory (**cell state**). Think of it like a valves controlling water flow in a pipeline:
-1. **Forget Gate:** decide how much past information to to keep (~ throw away).
+1. **Forget Gate:** decide how much past information to keep (~ throw away).
 2. **Input Gate:** decides how much new information to add
 3. **Output Gate** decide how much information the cell to output at the current timestep.
 
@@ -56,7 +59,7 @@ In LSTM there are 3 **gates**, plus an internal memory (**cell state**). Think o
 + **0** mean "remember NO information"
 + **1** mean "remember ALL information"
 
-**Tanh** outputs values between -1 to 1. Completely fit for **Updating** information using add (+) and substract (-):  
+**Tanh** outputs values between -1 to 1. Completely fit for **Updating** information **using add (+) and substract (-):**  
 + **Squashing the data into a manageble range** to **avoid exploding values**
 + **Adding or Substracting** from the cell State by **allowing both positive and negative signals**
 
@@ -91,7 +94,7 @@ Its **produces**
 
 #### 2.3.2. LSTM Fomular Explanation
 **NOTE:**
-+ What Sigmoid and Tanh doing is compress/squash inputs to a value range (non-linearity) 
++ What Sigmoid and Tanh doing is compress/squash inputs to a value range (non-linearity).
 + ? Each gate in an LSTM, forget gate `f_t`, input gate `i_t` and output gate `o_t` has its own unique set of weights (e.g. `W_f, W_i, W_o`) and biases (e.g. `b_f, b_i, b_o`) . These weights are learned during training and are distinct for each gate, making the model roburst to changes. 
 	(i.e. how much of the long-term memory to forget, how much of the new information to add to long-term memory, how much of the updated information to output)
 	
