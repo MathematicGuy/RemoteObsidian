@@ -21,7 +21,7 @@ Note - goes into each topic with Intuition.
 	(Image Pixels + bias) -> (Conv -> ReLU) x 2 -> Pooling) x 2 -> (Flatten + bias) -> Softmax -> Output
 	
 3. *CNN Operation in Depth* - [Stanford CNN](https://cs231n.github.io/convolutional-networks/)
-	(For each Operation explain. What it do ? Why do we need it)
+	For each Operation explain. What it do ? Why do we need it ?
 + *What is Convolution ?* (Interative Convolution Operation) 
 + *Padding* (when padding is necessary ?)
 + *Stride* (stride of 1 == the kernel move 1 pixel per dot product)
@@ -68,3 +68,28 @@ The flexibility *help avoid these problem:*
 + Keep variance stable from the start. 
 + Better Gradient from the start.
 + Less Negative Weight and Bias from the start. 
+
+---
+Note: 
++ Why use addition but not other function for merging feature ?
+
+## ResNet
++ @ reference paper: Deep Residual Learning for Image Recognition 
+
+![[Pasted image 20251221202824.png]]
+
++ ! **Motivation:** Vanishing Gradient. 
++ $ ResNet uses **residual connections** to allow deeper layer learn Previous layer features without forgetting it. 
+	Enable **easier training and improve performance as depth increase.**  
+
+**Resnet Bypass layers by adding shortcut paths.**
+![[Pasted image 20251221203931.png | 433]]
++ Enable the network to learn residual functions instead of direct mappings.
++ Allow gradients to flow more easily through the network.
++ Make optimization smoother and training more stable.
++ Accelerate convergence during training.
++ Enable the training of deeper models with improved accuracy.
++ ? When apply derivative, only the relevant information get kept. (Verify THIS LATER)
+
+## DenseNet
+

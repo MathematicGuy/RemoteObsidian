@@ -130,7 +130,6 @@ If your data is just as useful after swapping any of your columns with each othe
 
 # Introduce CNN from Scratch
 ![[1_CnNorCR4Zdq7pVchdsRGyw.png]]
-
 + **Color Channels**
 	- ? **Grayscale** (`[black, white]`):
 	    - Needs only **1 channel**, represented by **1 variable** with values in range `[0, 255]`.
@@ -152,7 +151,6 @@ If your data is just as useful after swapping any of your columns with each othe
 	Total parameters are calculated as the **sum of weights and biases**.
 	+ **Formula (clearly explained):**  
 $$[(k_w \times k_h) \times C_{in} + b] \times C_{out}$$
-
 **Where:**
 - $[k_w, k_h]$: width and height of kernel/filter.
 - $[C_{in}]$: number of input channels.
@@ -175,10 +173,10 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.MaxPooling2D(2, 2), #? (149, 149, 16) 
 ```
 
-
-28x28x1 -> image 28 pixels in height and 28 pixels in width. 
+**28x28x1 -> image 28 pixels in height and 28 pixels in width.** 
 1) Go into a Convolution layer with padding = 1. and 3x3 kernel. Each kernel perform a 3x3 element wise multiplication to the 3x3 pixels grid inside the image, where **kernel is the Weight** + a bias -> $y = X.W + b$ with $X$ as the image's pixels, $W$ as kernel/weight, $b$ as bias. 
 	note: weight or trọng số is a sub-set of parameters. (parameter is the general idea of function $y$ input, and weight is a input), in other word, we can call weight as a parameter.
+	
 	+ $ Basically Conv act as a Linear layer to extract features from the image. ![[Pasted image 20250317074107.png]]
 	+ ? After this, we apply the ReLU function to the features map to activate (i.e. keep) positive value and remove negative value which represent un-important pixel. This is reasonable since pixels value range are within 0 to 255.
 	
