@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "41059ba36fbb9a03",
+            "id": "a0b57a388fa4d430",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,9 +218,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "41059ba36fbb9a03",
+  "active": "a0b57a388fa4d430",
   "lastOpenFiles": [
     "AIO 2025.md",
+    "2 ACTIONS/_Focus.md",
+    "AIO CNN.md",
     "image/RNN_derivative.png",
     "image/RNN_BPTT_origin.png",
     "image/RNN_BPTT.png",
@@ -233,10 +235,8 @@
     "image/Pasted image 20251221155801.png",
     "CNN Blog Outline.md",
     "Foundation of Mixture of Expert in Statistical Learning in ML.md",
-    "AIO CNN.md",
     "25M7W3 - RNN.md",
     "Neural ODEs.md",
-    "2 ACTIONS/_Focus.md",
     "CNN from Scratch.md",
     "Research Direction.md",
     "What do Neural Network Learn.md",

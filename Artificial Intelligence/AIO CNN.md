@@ -38,6 +38,16 @@ Note - goes into each topic with Intuition.
 *Final:* Code with OOP
 *Extras:*
 + *Deepen Conv Understanding*: What 1 x 1 Convolution actually do.
++ *Why Flatten the last layer of CNN ?* 
+	Sau khi thực hiện qua nhiều mức trừu tượng hoá và tích luỹ thông tin bậc cao qua nhiều lớp CNN thì mỗi “điểm” mang nhiều thông tin tích luỹ hơn, đồng thời tính “phụ thuộc không gian” giảm rất nhiều (do đã nén vào các điểm ảnh cuối qua mạng sâu).  
+	  
+	Chính vì thế Flattern lúc này thì không ảnh hưởng nhiều lắm đến spatial gốc nữa. MLP lúc này là để “classifier” (ra quyết định) chứ không còn là “xử lý thông tin ảnh” nữa.  
+	  
+	Việc mất mát thuộc tính không gian ở cấp độ này sẽ rất ít vì dữ liệu không gian đã được nén trong các tầng CNN rồi.
+
+
+
+
 
 
 ----
@@ -64,6 +74,7 @@ The flexibility *help avoid these problem:*
 + $ Conclusion: *Batch Normalization help stabalize weight and bias* value and *improve convergence* speed since value are minimize to only 0 and 1 *during Training*.
 
 + ? So we Batch Normalization optimize parameters during Training, *what about optimization method during Initializtion*. Well, we have "He Initialization".
+
 **He Initialization** design solely for ReLU.
 + Keep variance stable from the start.
 + Better Gradient from the start.
@@ -165,18 +176,14 @@ Back Prop qua Skip-Connection.
 	Pointwise Conv (1D Conv)
 2.Using two Shrinking Hyperparameters:
 
-
-
 **Network in Network and 1x1 Convolution**
 
 **2D Convolution -> Depthwise Parameters**
 Giảm số lượng
 
 
-
 ## ResNet
 + @ reference paper: Deep Residual Learning for Image Recognition
-
 ![[Pasted image 20251221202824.png]]
 
 + ! **Motivation:** Vanishing Gradient.
@@ -193,3 +200,4 @@ Giảm số lượng
 + ? When apply derivative, only the relevant information get kept. (Verify THIS LATER)
 
 ## DenseNet
+
