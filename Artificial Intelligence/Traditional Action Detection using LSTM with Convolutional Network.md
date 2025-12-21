@@ -108,11 +108,9 @@ In Summary, there are 2 case:
 	**Encoder** be **given input for a couple of time-steps then output vectorized data** to the **Decoder** for **translation**. **Since the context can change if you don't see the whole context** so by Encoding the whole context before decoding can improve accuracy rather than encode then decode word by word.
 		  Applied in POS (Part-of-Speech)
 
-#### Backpropagation through time
+#### Backpropagation through time (BPTT) - RNN Backpropagation version
++ ! Vanishing Gradient problem. Need solution like Gating mechanism in LSTM. 
 
-
-+ ? Vanishing Gradient problem
-	Gating mechanism
 
 ### Long Short Term Memory ([LSTM](https://phamdinhkhanh.github.io/2019/04/22/Ly_thuyet_ve_mang_LSTM.html))
 [LSTM Parameters](https://www.kaggle.com/code/kmkarakaya/lstm-understanding-the-number-of-parameters)

@@ -31,8 +31,8 @@ Calculate **Attention Score** for each token (word) in the current time-step, th
 ![[Pasted image 20250308174003.png]]
 
 Then **Convert $e^t$ to Softmax Distribution/Attention Distribution** for **Attention Evaluation** (i.e. which word is the most important for $q_{1}$) with **each value** called **Attention Weight**.
-+ $ **Softmax to Attention Score:** The softmax function converts **raw attention scores into probability distribution**, determind how much focus the query $q$ should give to each key $k$. The dot product $q.k$ measure similarity, and softmax ensure all keys contribute proportionally instead of attending to just 1 or 2. This allow model to consider all possible keys while focusing more on the most relevant one.
-	+ ? Softmax help find **which key** $k$ **is most relavent** to a given **query** $q$ **(i.e. give the most context)**. With **key** $k$ represents the available information (e.g. words that provide context) and query q represent what we are looking for (e.g. word needing context).
++ $ **Softmax to Attention Score:** The softmax function converts **raw attention scores into probability distribution**, determind **how much focus the query $q$ should give to each key $k$.** The dot product **$q.k$ measure similarity**, and softmax ensure all keys contribute proportionally instead of attending to just 1 or 2. This **allow model to consider all possible keys while focusing more on the most relevant one.**
+	+ ? Softmax help find **which key $k$ is most relavent** to a given **query** $q$ **(i.e. give the most context)**. With **key** $k$ represents the available information (e.g. words that provide context) and query q represent what we are looking for (e.g. word needing context).
 ![[Pasted image 20250308175331.png]]
 + $ Finally, repeat calculating Attention Score for each $q$
 

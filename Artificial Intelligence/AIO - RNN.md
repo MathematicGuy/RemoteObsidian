@@ -55,7 +55,9 @@ Sau khi có được góc nhìn tổng quan, mình xem lại cách tính đượ
 2) ? **note: chiều dài (số cột) của W luôn tương ứng vs chiều rộng (số hàng) của X**. Và giá trị khởi đầu bằng 0 vì chỉ cộng vs bias.
 	![[Pasted image 20250224163516.png]]
 ### Text Deep Models
-![[Pasted image 20250224221139.png]]![[Pasted image 20250224221557.png]]
+![[Pasted image 20250224221139.png]]
+
+![[Pasted image 20250224221557.png]]
 **Tính parameters**
 In: 6 
 Out: 8

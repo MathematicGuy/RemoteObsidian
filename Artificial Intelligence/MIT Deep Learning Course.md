@@ -31,7 +31,6 @@ A base function represent a Straight Line. Activation funciton introduce non-lin
 
 >As a example for youtube search. We search each key (i.e. video title) by a query to compute Attention Mask (i.e. how similar is each key to the desired query). Then extracts values based on key with highest attention score ((i.e., the most relevant to your search query).  
 ![[Pasted image 20250314074421.png]]
-
 >**Back to ours sequence modeling problem**. We have a series of words (a sentence) and we want to predict the next word. Knowing that we don't want to process the information timestep by timestep.
 1) **Encode position information**
 	Since we **fed data all at once** **(in parallel)**. So we need to **encode position information to understand order of each word in the sequence**. This called **Positional Embedding** **(preserve sentence context)** ![[Pasted image 20250314075245.png]]

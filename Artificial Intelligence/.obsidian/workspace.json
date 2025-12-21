@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNN Blog Outline.md",
+                "file": "AIO CNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNN Blog Outline"
+              "title": "AIO CNN"
             }
           }
         ],
@@ -220,23 +220,25 @@
   },
   "active": "41059ba36fbb9a03",
   "lastOpenFiles": [
-    "image/Pasted image 20251221203931.png",
-    "image/Pasted image 20251221203141.png",
-    "image/Pasted image 20251221203137.png",
-    "image/Pasted image 20251221203038.png",
-    "image/Pasted image 20251221202824.png",
     "AIO 2025.md",
+    "image/RNN_derivative.png",
+    "image/RNN_BPTT_origin.png",
+    "image/RNN_BPTT.png",
+    "image/Pasted image 20251221172644.png",
+    "image/Pasted image 20251221162741.png",
+    "image/Pasted image 20251221161303.png",
+    "image/Pasted image 20251221161219.png",
+    "image/Pasted image 20251221160237.png",
+    "image/Pasted image 20251221155922.png",
+    "image/Pasted image 20251221155801.png",
+    "CNN Blog Outline.md",
+    "Foundation of Mixture of Expert in Statistical Learning in ML.md",
+    "AIO CNN.md",
+    "25M7W3 - RNN.md",
     "Neural ODEs.md",
     "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20251220160136.png",
-    "image/Pasted image 20251220160131.png",
-    "image/Pasted image 20251220160020.png",
     "CNN from Scratch.md",
-    "CNN Blog Outline.md",
     "Research Direction.md",
-    "image/Pasted image 20251218160746.png",
-    "image/Pasted image 20251218160604.png",
-    "image/Pasted image 20251218160527.png",
     "What do Neural Network Learn.md",
     "Fun Research Paper & Direction Analysis.md",
     "Deepfake Survey.md",
@@ -255,9 +257,6 @@
     "OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
     "Pose Estimation Note.md",
     "Human Pose Detection Planning (Behaviour Detection).md",
-    "Traditional Action Detection using LSTM with Convolutional Network.md",
-    "PCB Anomaly Detection Note & Resources.md",
-    "Student Behavior Recognition System Planning.md",
     "25M6 Project Module  - Customer Analysis"
   ]
 }

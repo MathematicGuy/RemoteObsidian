@@ -3,6 +3,8 @@
 **20 - 5 : 20 minutes Study then 5 minutes review**
 
 **New Ideas:** **Hold my self accountable strategy:** print photography of my friend with handwritten information about them below (white paper)  ![[Pasted image 20251218143647.png]]
+- [ ] **Organize** "Action Prediction" **Project workflow by time period for each Part**, each part add **reference sources + why those source + difficulty and knowledge areas**. Digest **(understand) time** for each part **to prioritize each part** and **allocate resource better.** 
+
 
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
@@ -40,5 +42,25 @@ _Long Term
 - [ ] [[how_my_thinking_work]]
 - [[Aha]]
 + [google ml resource](https://developers.google.com/machine-learning/glossary#l1-loss)
+#### [Brandon Rohrer Blog about Data Engineering, ML & DL, Signal Processing, Robotic, Networking](https://brandonrohrer.com/blog.html)
 
-### [Brandon Rohrer Blog about Data Engineering, ML & DL, Signal Processing, Robotic, Networking](https://brandonrohrer.com/blog.html)
+### **Mathematics Course Playlists**
+- **Discrete Math**
+    - [Discrete Math (Full Course: Sets, Logic, etc.)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+	
+- **Linear Algebra**
+    - [Linear Algebra (Full Course)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+	
+- **Calculus Series**
+    - **Calculus I:** [Limits, Derivatives, Integrals](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
+    - **Calculus II:** [Integration Methods, Series, etc.](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n)
+    - **Multivariable Calculus (Calc III):** [Vectors, Partial Derivatives](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd)
+    - **Vector Calculus (Calc IV):** [Line Integrals, Surface Integrals](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
+	
+- **Differential Equations**
+    - [Ordinary Differential Equations (ODEs)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw)
+    - [Laplace Transforms and Solving ODEs](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1)
+	
+- **Game Theory**
+    - [Game Theory Full Course](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxdzD8KpTHz6_gsw9pPxRFlX)
+

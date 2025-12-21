@@ -1,7 +1,7 @@
 ### [[CNN from Scratch]]
 ### [[Introduction to Computer Vision - CNN Focus]]
 ### [[Convolution_NeuralNetworkPaper.pdf]]
-### [[CNN Blog Outline]]
+### [[AIO CNN]]
 ### [[AIO - CNN Summary]]
 
 ### [[AIO - Advance CNN Architecture]]
