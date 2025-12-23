@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,9 +192,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_Focus/Todo.md",
-    "4 ARCHIVES/Images/d2f6b972e66ac5b301da731024dd16b3.jpg",
     "conflict-files-obsidian-git.md",
-    "3 RESOURCES/How to/Obsidian/Obsidient System.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",
