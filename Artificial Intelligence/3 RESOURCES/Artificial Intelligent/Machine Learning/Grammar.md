@@ -18,6 +18,10 @@
 + gratuitous: cho không
 + cumulative: cộng dồn
 + Heuristic: utmost simple 
++ Taxonomy (naming in a scientific way for classification and categorization). 
+	Originally, taxonomy referred only to the **classification of organisms**
+	 on the **basis of shared characteristics**
+
 
 
 **Subject-Verb-Agreement**

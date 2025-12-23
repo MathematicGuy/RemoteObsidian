@@ -5,7 +5,7 @@ associative memory - the ability to map and recall one thing based on another (l
 We show that the **training process itself,** specifically the [backpropagation](https://en.wikipedia.org/wiki/Backpropagation) process, can be **modeled as an associative memory**
 
 ---
-## [[Continuous Learning & Nested Learning]]
+## [[Continuous Learning & Nested Learning Survey]]
 
 ## [[Deepfake Survey]]
 -> Detect Deepfake by detect anomaly (too good to be true color scheme) Image Frequency. 
