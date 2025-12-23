@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "fab0d2727aac430d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuous Learning & Nested Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continuous Learning & Nested Learning"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,10 +192,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fab0d2727aac430d",
+  "active": "e337763d331a5b76",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
     "Continuous Learning & Nested Learning.md",
+    "2 ACTIONS/_Focus.md",
     "25M7W3 - RNN.md",
     "Traditional Action Detection using LSTM with Convolutional Network.md",
     "image/Pasted image 20251221172644.png",
