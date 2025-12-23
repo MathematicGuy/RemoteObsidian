@@ -1,12 +1,3 @@
-**Continous Learning -** Learn constantly without forgetting.
- 
-**Nested Learning -** new ML paradigm (eg. Google HOPE architecture) by structuring models as nested optimization problems with different update speeds, mimicking brain memory to prevent catestrophic forgetting and build **"living memory" for AI** (good at Needle in a Haystack problem). 
-	Inspired from the brain's layered memory consolidation (*fast for short-term*, *slow for long-term*)
-
-LLM remain static after training. 
-**All NN are associative memory system** that compress their own context flow. 
-
-Gradient Descent with momemtum is indeed a low-level optimization process, where the memory is optimized by simple gradient descent algorithm. 
 
 ![[Pasted image 20251222215957.png]]
 **-> Catastrophic Forgetting:** Model forget old task the second it learn the new one. 
@@ -22,14 +13,14 @@ The more you learn, the more you forget so you have to tradeoff between learning
 ![[Pasted image 20251222220310.png]]
 
 #### Regularizations
--> add penalty for changing old knowledge. 
+Add penalty for changing old knowledge. 
 ![[Pasted image 20251222220332.png]]
 
-![[Pasted image 20251222221216.png | 255]]
 
-
-#### Replay-Base approach: most Effective right now.**  
+#### Replay-Base approach: **most Effective right now.**  
+**Ideas:** replay old data while training new data. (quite the same as human)
 ![[Pasted image 20251222220352.png]]
+
 
 #### Optimization-Base approach
 Like Fast GPS for learning. Find a optimization algo for learning new knowledge without damaging the old.
@@ -44,13 +35,6 @@ AI **Structure Growth for each new task**. Although it have **perfect memory but
 + @ Idea: Don't overwrite - Expand or isolate diff information.
 + ? MoE - Mixture of Expert.
 ![[Pasted image 20251222220720.png]]
-
-
-
-
-
-
-
 
 ----
 #### Terms & Definitions
