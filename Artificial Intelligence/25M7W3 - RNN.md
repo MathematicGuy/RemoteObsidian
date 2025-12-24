@@ -87,3 +87,28 @@ First, let look at our derivative target of this cell. (other cell repeat the sa
 
 ![[Pasted image 20251221172644.png]]
 
+## RNN to Attention
+
+![[Pasted image 20251224150237.png]]
+Encoder Vector (context) is the **main bottleneck for Seq2Seq model**, bc it *contain all the necessary info of a source sentence* in a **fixed-length** 
+
+**Attention mechanism** in Transformer **achieves parallelization** by *capturing recurrence sequence with attention*. At the same time, *encoding each item's position* in the sequence based on the encoder-decoder architecture.
+
+**Self-Attention** - **apply attention mechanism** to **other sentence** **or** apply to the **same sentence**. 
+
+**LSTM Attention Score Func** have **diff implementation** for the Attention Score function with 2 trainable weights matrices as $v_{a}$ and $W_{a}$ 
+![[Pasted image 20251224150027.png | 444]]
+
+Encoder/Decoder - consists out of 2 sub-layers: *Self-Attention and a Feed Forward Neural Network.* 
+	Encoder-Decoder attention sub-layer in between work similarity to the Attention used in seq2seq model. 
+
+Multi-head Attention - improve performance of the att layer. 
++ $ Allow the model to jointy *attend to info from Different representation subspaces at diff position*. 
+	in other word, runs diff chunks in parallel and concatinates the results. 
+
+
+C - context matrix
+H - Hidden state matrix
+
+POS - Positional Encoding 
++ $ **Close words have closer encodings** while distant words have more different encodings. This is a method for binary encoding the position of a given sequence. (Why binary encoding ?)

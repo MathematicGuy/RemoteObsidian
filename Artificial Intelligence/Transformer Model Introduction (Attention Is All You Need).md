@@ -27,11 +27,11 @@ Finally, we add the Positional value to the Embedded value to get Positional Emb
 ![[Pasted image 20250314132957.png]]
 + ? **If the word 3rd word `Pizza` and 1st word `Squatch` get swap**, we **just swap the Embedding value** of `Pizza` with `Squatch` but the **Positional Value stay the same.** And we simply **end up with new Positional Encoding for 1st and 3rd word.** This way Positional Encoding allows a Transformer to keep track of word order.   ![[Pasted image 20250314133450.png]]
 
-Let's summarize with a simple example for the word "let's go". For 2 words we simply get the the Positional Encoding of the 1st sine (green) and cosine (yellow) that match the
+Let's summarize with a simple example for the word "let's go". For 2 words we simply get the the Positional Encoding of the 1st sine (green) and cosine (yellow) that match the 
 + 1st word position on the x-axis for word 'let's
 + 2nd word position on the x-axis for the word 'go'
 ![[Pasted image 20250314133753.png]]
-To consolidate the math diagram. We use the **Sine** and **Cosine** and **plus** symbols represent the **Positional Encoding.**
+To consolidate the math diagram. We use the **Sine** and **Cosine** and **plus** symbols represent the **Positional Encoding.** 
 ![[Pasted image 20250314134659.png]]
 
 ### 5.1 Self-Attention Mechanism 
@@ -130,7 +130,7 @@ note: `vamos` is the Spanish translation for `let's go`
 
 
 
-
+### Side Note: LoRA
 ![[Pasted image 20251030204002.png]]
 Each head represernt a diff way to represent word. 
 

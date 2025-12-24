@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "daf50f1c0e763cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuous Learning & Nested Learning Survey.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continuous Learning & Nested Learning Survey"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,29 +203,37 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "daf50f1c0e763cff",
+  "active": "93890d1201f7b85d",
   "lastOpenFiles": [
-    "25M7W3 - RNN.md",
-    "2 ACTIONS/_Focus.md",
+    "Continous Learning and Catastrophic Forgetting.md",
+    "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
     "Continuous Learning & Nested Learning Survey.md",
-    "AIO - RNN.md",
+    "Transformer Model Introduction (Attention Is All You Need).md",
+    "Attention is All You Need.md",
+    "image/Pasted image 20251224174428.png",
+    "AIO Research Survey.md",
+    "image/Pasted image 20251224173649.png",
+    "image/Pasted image 20251224173432.png",
+    "image/Pasted image 20251224161400.png",
+    "image/Pasted image 20251224160224.png",
+    "image/Pasted image 20251224160024.png",
+    "Untitled Kanban 3.md",
+    "image/Pasted image 20251224154411.png",
     "Continous Learning Survey.md",
+    "image/Pasted image 20251224153854.png",
+    "image/Pasted image 20251224153535.png",
+    "2 ACTIONS/_Focus.md",
+    "Untitled Kanban 2.md",
+    "image/Pasted image 20251224153430.png",
+    "25M7W3 - RNN.md",
+    "AIO 2025.md",
+    "Untitled 4.md",
+    "AIO - RNN.md",
     "VIsualize Catastrophic Forgetting.md",
-    "image/Pasted image 20251222221216.png",
-    "image/Pasted image 20251222220310.png",
-    "image/Pasted image 20251223091039.png",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
-    "image/Pasted image 20251222220720.png",
-    "image/Pasted image 20251222220651.png",
-    "image/Pasted image 20251222220632.png",
-    "image/Pasted image 20251222220352.png",
-    "image/Pasted image 20251222220332.png",
-    "image/Pasted image 20251222220229.png",
-    "image/Pasted image 20251222220212.png",
     "Fun Research Paper & Direction Analysis.md",
     "Research Paper Research.md",
     "AIO CNN.md",
-    "AIO 2025.md",
     "CNN Blog Outline.md",
     "Foundation of Mixture of Expert in Statistical Learning in ML.md",
     "Neural ODEs.md",
@@ -248,16 +241,8 @@
     "Research Direction.md",
     "What do Neural Network Learn.md",
     "Deepfake Survey.md",
-    "Convolutional Neural Network Main.md",
-    "Untitled Kanban 1.md",
-    "AIVNRG25.md",
-    "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md",
-    "Fun Research Paper Analysis.md",
-    "FFT - Fourier Transform.md",
-    "Research Idea using AI.md",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
-    "Human Activity Recognition.md",
     "25M6 Project Module  - Customer Analysis"
   ]
 }
