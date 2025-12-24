@@ -23,8 +23,8 @@ RNN born to solve the problem of dependency and capture the relation between seq
 ![[Pasted image 20251221150806.png]]
 At each Timestep, the previous cell will pass its experience to the next cell create a Feedback loops, thus connecting all cell together making weight become Shared Weight.   
 ![[Pasted image 20251221151244.png]]
-
 + $ This can be **very useful for predicting Sequence Information, this mean the previous piece of information give information to predict the next information.**  For example, predicting Next Word using the Previous Word or predicting stock, 
+
 
 ### Constructing RNN using MLP
 Another way to see RNN is throug practical practice. For the predicting "Next Word" problem.  
@@ -43,7 +43,7 @@ Before using RNN ideas, people often asked: "Why don't use MLP and Stuff", okay 
 
 After Non-Linear layer (z), we know that MLP have learn relationships between word but not the dependency/sequential information. 
 + ? How can we teach the model to predict the next infor using the previous infor.
-+ $ Simple, just passing them through eachother. So the next activation func, also use the information from the previous layer. 
+	+ $ Simple, just passing them through eachother. So the next activation func, also use the information from the previous layer. 
 ![[Pasted image 20251221155115.png]]
 + ! However, just connect Non-Linear with Non-Linear will ignore the normalization step at the activation function (Squash value to -1 and 1 using Tanh)
 + $ So we would need to add previous output value with the current next value before pass them through the Activation.

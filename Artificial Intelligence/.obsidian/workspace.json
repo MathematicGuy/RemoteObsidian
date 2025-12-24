@@ -24,31 +24,17 @@
             }
           },
           {
-            "id": "4c13bef2cf839dc0",
+            "id": "daf50f1c0e763cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25M7W3 - RNN.md",
+                "file": "Continuous Learning & Nested Learning Survey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25M7W3 - RNN"
-            }
-          },
-          {
-            "id": "ef955c002c2d0ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO - RNN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIO - RNN"
+              "title": "Continuous Learning & Nested Learning Survey"
             }
           }
         ],
@@ -232,13 +218,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4c13bef2cf839dc0",
+  "active": "daf50f1c0e763cff",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
     "25M7W3 - RNN.md",
+    "2 ACTIONS/_Focus.md",
+    "Continuous Learning & Nested Learning Survey.md",
     "AIO - RNN.md",
     "Continous Learning Survey.md",
-    "Continuous Learning & Nested Learning Survey.md",
     "VIsualize Catastrophic Forgetting.md",
     "image/Pasted image 20251222221216.png",
     "image/Pasted image 20251222220310.png",

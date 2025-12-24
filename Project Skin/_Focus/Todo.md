@@ -5,7 +5,8 @@ banner: Images/Pasted image 20240402135259.png
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
 #Todo/Priority
-
+- [ ] Optimize home env for focus/deepwork & activate flow ritual
+- [ ] Performance tracker and Effect of things on my wall.
 
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
