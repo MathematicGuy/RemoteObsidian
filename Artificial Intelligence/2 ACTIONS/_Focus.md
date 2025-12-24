@@ -29,7 +29,7 @@ _Long Term
 	- [ ] Grounding for Hallucination, LLMCache for faster response time.
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
-
+- [ ] [ViT Blog](https://tutorial.aivietnam.edu.vn/pdf/24)
 ### [[Machine Learning & Data Science Main]] _storage for future learning resource
 [Deep Dive to Deep Learning](https://d2l.ai/)
 [When to use ML/DS](https://beryl-freckle-b85.notion.site/AIO2025-B-i-to-n-n-y-c-p-d-ng-c-ML-DL-hay-kh-ng-24e302d8792c80fe8b65dc9a3463148e)

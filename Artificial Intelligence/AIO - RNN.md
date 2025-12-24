@@ -2,7 +2,7 @@
 + Tokenize: Chia các từ ra từng unique character
 + Processing: xóa bỏ những ký tự ko cần thiết/quan trọng
 + Embedding: Chuyển từng unique char thành số (số vector)
-	Tạo từ điển riêng cho từng câu khác nhau. "key : value" cho "chữ : số"	![[Pasted image 20241218201726.png]]
+	Tạo từ điển riêng cho từng câu khác nhau. "key : value" cho "chữ : số"	![[Pasted image 20241218201726.png# left | 222]]
 Nhưng nếu vs 1 từ nhiều nghĩa thì thể hiện như thế nào?
 different word are enormous, how to represent 'text' effectively. -> acronym. 
 
@@ -77,5 +77,4 @@ note: nhìn h1 truyền lên như là đầu vào X1, X2 thôi.
 
 Ví dụ tính tham số 2:
 Vocab_size = 8, emb_dim =4 -> Embedding có tổng tham số là 8 * 4 = 32.
-
 ![[Pasted image 20250224230442.png]]

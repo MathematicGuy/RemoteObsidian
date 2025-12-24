@@ -24,34 +24,35 @@
             }
           },
           {
-            "id": "af3913dc98e07db4",
+            "id": "4c13bef2cf839dc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continous Learning Survey.md",
+                "file": "25M7W3 - RNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continous Learning Survey"
+              "title": "25M7W3 - RNN"
             }
           },
           {
-            "id": "3fafbdbf1594a6e9",
+            "id": "ef955c002c2d0ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous Learning & Nested Learning Survey.md",
+                "file": "AIO - RNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuous Learning & Nested Learning Survey"
+              "title": "AIO - RNN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,11 +232,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "93890d1201f7b85d",
+  "active": "4c13bef2cf839dc0",
   "lastOpenFiles": [
-    "Continuous Learning & Nested Learning Survey.md",
-    "Continous Learning Survey.md",
     "2 ACTIONS/_Focus.md",
+    "25M7W3 - RNN.md",
+    "AIO - RNN.md",
+    "Continous Learning Survey.md",
+    "Continuous Learning & Nested Learning Survey.md",
+    "VIsualize Catastrophic Forgetting.md",
     "image/Pasted image 20251222221216.png",
     "image/Pasted image 20251222220310.png",
     "image/Pasted image 20251223091039.png",
@@ -253,7 +257,6 @@
     "AIO 2025.md",
     "CNN Blog Outline.md",
     "Foundation of Mixture of Expert in Statistical Learning in ML.md",
-    "25M7W3 - RNN.md",
     "Neural ODEs.md",
     "CNN from Scratch.md",
     "Research Direction.md",
@@ -269,7 +272,6 @@
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "Human Activity Recognition.md",
-    "1 PROJECTS/NCKH 2025/NCKH 2025.md",
     "25M6 Project Module  - Customer Analysis"
   ]
 }

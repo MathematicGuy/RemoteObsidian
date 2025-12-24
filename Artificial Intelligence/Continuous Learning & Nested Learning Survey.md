@@ -1,12 +1,15 @@
 ## [[Continous Learning Survey]]
 **Continous Learning -** Learn new information continously without forgetting old information.
 
+**Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
+
 ### The Root of Catastrophic Forgetting
 #### Mathematical Perspective
-
+[[VIsualize Catastrophic Forgetting]]
+Note: forgeting can be visualize using performance graph like t-SNE. 
 
 #### Technical Perspective
-
+ 
 
 ### Continous Learning vs RAG in solving Catastrophic Forgeting 
 + ? Why they are not substitutes.

@@ -6,35 +6,48 @@
 
 **Stability vs Plasticity**
 ![[Pasted image 20251222220050.png]]
-The more you learn, the more you forget so you have to tradeoff between learning new things and forgetting old things.
+The more you learn, the more you forget so you have to tradeoff between learning new things and forgetting old things. 
 ![[Pasted image 20251222220212.png | 444]]
 
 ### Five keys Strategies
 ![[Pasted image 20251222220310.png]]
 
 #### Regularizations
-Add penalty for changing old knowledge. 
+Add penalty for changing old knowledge, penalize importance weights.
 ![[Pasted image 20251222220332.png]]
-
++ ? **Related to human:** stick to well-know definition, understanding new information base on the old ones. 
++ $ Fast, low effort. 
++ ! Eventually block learning when all important infors slot are filled. 
 
 #### Replay-Base approach: **most Effective right now.**  
 **Ideas:** replay old data while training new data. (quite the same as human)
 ![[Pasted image 20251222220352.png]]
-
++ ? **Related to human:** Spaced repetition (Anki), Rehearsal old infors after learning new infors, Mixed problem set flashcards. 
++ $ -> Very Effective, update old information along with new information.
++ ! More computes, time consuming. 
 
 #### Optimization-Base approach
-Like Fast GPS for learning. Find a optimization algo for learning new knowledge without damaging the old.
+Like Fast GPS for learning. Find a optimization algo for **learning new knowledge without damaging the old.** 
 ![[Pasted image 20251222220632.png]]
++ ? **Related to human:** Learning with explicit constraints. *Proof-based learning*. Like studying math. *I'll learn this new method, but it must not violate the old theorem.*
++ $ Strong theoretical grounding, high precision. Like how Mathematicians learn - not how begineers do. 
++ ! Slow, Hard to scale. 
 
 #### Representation-Base approach
 **Learn the Alphabet before you learn to write a novel.** Base model -> Teach basic knowledge first then more advance, abstract knowledge later. 
 ![[Pasted image 20251222220651.png]]
++ ? **Related to human:** Learn the foundation and general knowledge before expand to more advance knowledge.
+
 
 #### Architecture-Base approach 
 AI **Structure Growth for each new task**. Although it have **perfect memory but its really heavy** (cost more compute).  
 + @ Idea: Don't overwrite - Expand or isolate diff information.
 + ? MoE - Mixture of Expert.
 ![[Pasted image 20251222220720.png]]
++ ? **Related to human:** Seperate notebooks per subject, *mental modularization* different mental 'models' for each subject (eg. Math brain vs Language brain). Context dependecy recall. 
++ $ Clean seperation for each task. 
++ ! **Lack connections:** Ace exams but fail to connect ideas across fields, like Specialist.
+
 
 ----
 #### Terms & Definitions
