@@ -1,10 +1,8 @@
-**Outlines:** Context + initial approaches -> Evaluation algorithms -> ALgorithms for CL.
-**Goal:** Learn new Data without forgetting old data. 
+**Goal:** Learn new Data without forgetting old data. *Aim to mimic human life long learning capability.* 
+**Continual Learning application:** CV - autonomous vehicles. 
 
-### Example Context for CL
-	autonomous vehicles
 
-Train on 2 dataset for each tasks -> minimize each task respectively.
+Train on 2 dataset for each tasks -> minimize Loss for both task A (old) and task B (new).  
 + ! results is Good perf task B but Worst perf task A. This called catastrophic forgetting/inference. 
 ![[Pasted image 20251224152049.png]]
 
@@ -20,7 +18,6 @@ Train on 2 dataset for each tasks -> minimize each task respectively.
 + @ **Dilema (trade-off): plasticity-stability** (new knowledge - old knowledge)
 
 ### Evaluating continual learning algorithms
-
 + ? Evaluation method to **test if model learn new data without forget old data **  To answer that cleanly, we want:
 	- Tasks that are **clearly different**
 	- But **not semantically different**
@@ -32,7 +29,7 @@ The method below create new data from itself (hence permutation).
 	$y_{i}$ - original output (ie. MNIST output like Task 1)
 
 
-+ $ **Incremental class learning.** learn a base task set, then learn addition classes. ![[Pasted image 20251224153430.png]]
++ $ **[[Incremental class learning (survey)]].** learn a base task set, then learn addition classes. ![[Pasted image 20251224153430.png]]
 
 + $ **Multimodel learning:** learn an *image classification task then learn its audio classification.* Then **Classified using both of those Features** ![[Pasted image 20251224153535.png]]
 	This can be difficult bc Features from Images is different from the audio features.
@@ -60,7 +57,7 @@ Note: The fact that This is a modified CE-Loss, its actually the Distillation Lo
 	  
 + $\lambda_{\theta}\mathcal{L}_{old}(Y_{o}, \hat{Y}_{o}):$ said *new net do not differ from the old net*. Performance of the old task on new data shoudn't change too much
 
-### 2. Optimization-Based Approach: Elastic Weight Consolitation (EWC) 
+### 2. Optimization-Based Approach: [[Elastic Weight Consolitation (EWC)]]
 	Kirkpatrick et all. 2017 - Compromised both new & old 
 	Loss, find the best of both world based on old task most 
 	important Weight. 
