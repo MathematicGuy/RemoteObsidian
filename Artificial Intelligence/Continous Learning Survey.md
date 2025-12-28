@@ -7,7 +7,17 @@
 **Stability vs Plasticity**
 ![[Pasted image 20251222220050.png]]
 The more you learn, the more you forget so you have to tradeoff between learning new things and forgetting old things. 
-![[Pasted image 20251222220212.png | 444]]
+
+**Catastrophic Forgeting in Bayes Perspective**
+When train on new task, model Gradient prioritize new task and forget old task -> Catastrophic forgeting. 
+	Continual Learning -> balance Gradient for both task A & B.
+![[Pasted image 20251222220212.png# left | 444]]
+Old task posterior become prior for new task. 
+![[Pasted image 20251225201719.png# left  | 333]]
+
+### Continual Learning Evaluation Technique
+![[Pasted image 20251225202510.png]]
+
 
 ### Five keys Strategies
 ![[Pasted image 20251222220310.png]]
@@ -47,7 +57,6 @@ AI **Structure Growth for each new task**. Although it have **perfect memory but
 + ? **Related to human:** Seperate notebooks per subject, *mental modularization* different mental 'models' for each subject (eg. Math brain vs Language brain). Context dependecy recall. 
 + $ Clean seperation for each task. 
 + ! **Lack connections:** Ace exams but fail to connect ideas across fields, like Specialist.
-
 
 ----
 #### Terms & Definitions

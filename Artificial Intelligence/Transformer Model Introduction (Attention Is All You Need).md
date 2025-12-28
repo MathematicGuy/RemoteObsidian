@@ -108,7 +108,7 @@ And like wise, when we decode and translate the input, we want a single unit tha
 
 + ! **Note:** The set of **Weights** that we use to calc the **Queries, Keys and Values** for **Encoder-Decoder Attention** are **different from the sets of Weights we use for Self-Attention**. However, just like **Self-Attention** the sets of **Weights** are copied and **reused for each word**.  ![[Pasted image 20250315095301.png]]
 + ? Also, we can stack **Encoder-Decoder Attention** just like we can stack **Self-Attention** to keep track words in complicated phrases.
-
+	
  + $ After having **Encoder-Decoder Attention score**, we **add another set of** **Residual Connections** to allow **Encoder-Decoder Attention** to **focus on relationships** between the **input word and the output word** without having to preserve the **Self-Attention** or **Positional-Encoder** in the ealier layers.![[Pasted image 20250315095948.png]]
 + ? Lastly, we **need a way to take these 2 values that represent the `<EOS>` token** in the **Decoder**  and select 1 of the 4 output tokens, `ir`, `vamos` or `<EOS>`.
 + $ To **Classifies which word are translated to**, we **run the 2 values through** a **Fully Conencted Layer** that has 1 input for each value that **represent the current token**. And when we do the math, we get 4 output values which represent `vamos` after we run though a **Softmax** function. 
@@ -118,7 +118,6 @@ note: `vamos` is the Spanish translation for `let's go`
 
 + ! But we not done yet, the translation is correct but the **Decoder** doesn't stop until it outut the `<EOS>` token. 
 + $ We need to plug the translated word `vamos` into a copy of the **Decoder's Embedding** layer.  ![[Pasted image 20250315184141.png]]
-
 
 1) Like before, first we calc the Word Embedding for `Vamos
 2) Then add the Positional Encoding
