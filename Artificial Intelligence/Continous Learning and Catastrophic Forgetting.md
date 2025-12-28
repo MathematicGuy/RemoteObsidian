@@ -2,7 +2,7 @@
 **Goal:** Learn new Data without forgetting old data. 
 
 ### Example Context for CL
-	autonomous vehicles
+autonomous vehicles
 
 Train on 2 dataset for each tasks -> minimize each task respectively.
 + ! results is Good perf task B but Worst perf task A. This called catastrophic forgetting/inference. 
@@ -20,7 +20,6 @@ Train on 2 dataset for each tasks -> minimize each task respectively.
 + @ **Dilema (trade-off): plasticity-stability** (new knowledge - old knowledge)
 
 ### Evaluating continual learning algorithms
-
 + ? Evaluation method to **test if model learn new data without forget old data **  To answer that cleanly, we want:
 	- Tasks that are **clearly different**
 	- But **not semantically different**
@@ -33,6 +32,8 @@ The method below create new data from itself (hence permutation).
 
 
 + $ **Incremental class learning.** learn a base task set, then learn addition classes. ![[Pasted image 20251224153430.png]]
+-> Không giống với thực tế lắm. Class incremental learning -> giống thực tế hơn.  q
+
 
 + $ **Multimodel learning:** learn an *image classification task then learn its audio classification.* Then **Classified using both of those Features** ![[Pasted image 20251224153535.png]]
 	This can be difficult bc Features from Images is different from the audio features.
