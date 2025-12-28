@@ -109,7 +109,21 @@ note: `N x` bên phải khung hình chứa Multi-Head Attention đến `Add & No
 > Bài Text Classification cần có 1 cái vector 1D để đẩy vào Classifier để dự đoán. 
 ![[Pasted image 20250309220758.png]]
 
-### Vision Transformer
+## Vision Transformer
+### Normalization
++ ? Technique for scaling and shifting input data to ensure it falls within a certain range or distribution. 
+![[Pasted image 20251228160153.png]]
+**H, W:** height & Width
+**C:** Channel **& N:** Number of Images. 
+1. **Batch Norm:** Normalize all Images of Height & Width for each Channel. 
+2. **Layer Norm:** Normalize all channels for a single image (single image each).
+3. **Instance Norm:** Normalize a single image for a single channel. (1 image & 1 channel) 
+4. **Group Norm:** Normalize a Image across a group of Channel. 
+
+**Layer Normalization (LN) -** ít ng quan tâm đến khi Transformer ra đời.  
+
+
+
 >Image contain spatial information. Can we tokenize an image ?
 >![[Pasted image 20250310152658.png]]
 
