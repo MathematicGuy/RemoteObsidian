@@ -90,3 +90,4 @@ Sử dụng biểu đồ nhiệt để *thể hiện xác suất vị trí các 
 
 **Kết Quả:**
 ![[Pasted image 20251228185647.png]]
+
