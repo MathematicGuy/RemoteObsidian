@@ -1,4 +1,4 @@
-### [[Anstler Palace.canvas|Anstler Place]]
+- [ ] ### [[Anstler Palace.canvas|Anstler Place]]
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 **20 - 5 : 20 minutes Study then 5 minutes review**
 
