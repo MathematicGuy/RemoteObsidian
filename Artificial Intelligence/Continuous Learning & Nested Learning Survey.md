@@ -2,6 +2,7 @@
 **Continous Learning -** Learn new information continously without forgetting old information.
 **Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
 
+### [[AIO - Action Recognition in Continual Learning]]
 ## [[Continous Learning and Catastrophic Forgetting]]
 
 ## [[Continous Learning vs RAG in solving Catastrophic Forgeting]] 
