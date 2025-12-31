@@ -44,6 +44,7 @@ The method below create new data from itself (hence permutation).
 - **Dynamic architectures** (Add neurons) ie. Architecture growth for new tasks.
 + **Complementary Learning System** (memory + replay) - train new tasks along with old tasks (like human revision).
 
+
 ### 1. Regularization Approach: Learning without Forgetting (LwF)
 	LitHoiem 2018 (simple regularization) - Focus on
 	Penalize Old Task's Loss.
@@ -52,7 +53,7 @@ The method below create new data from itself (hence permutation).
 + ? Shared params across tasks and some task specific params.
 	At new task. Update all params, new params and old params.
 	-> SO the new *task work well*, but *output of the old task on new data doesn't change too much.* (yeah, regularization)
-
+	
 ![[Pasted image 20251224154411.png]]
 Note: The fact that This is a modified CE-Loss, its actually the Distillation Loss.
 + $\lambda_{\theta}:$ quantified **plasticity to stability tradeoff.**

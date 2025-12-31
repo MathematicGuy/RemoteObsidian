@@ -142,7 +142,7 @@ Image divide into Patchs -> Flattened -> 1D vector
 To encode 3D channel into 1D channel, we simply apply a Convolution layer to extract feature that the same size patch size.   
 ![[Pasted image 20250310153205.png]]
 
-+ ? `[cls] Token` or class token acts as a special token that aggregates information from all patches during the forward pass.  Traditional ViT only have 1 `[cls] token` and can only produce 1 prediction, single-label classification.
++ ? `[cls] Token` or class token acts as a special token that aggregates information from all patches during the forward pass. Traditional ViT only have 1 `[cls] token` and can only produce 1 prediction, single-label classification.
 + ? MSA mean **Multi-head Self Attention**, MLP mean **Multi Layer Perceptron**, LN mean **Layer Norm**.
 ![[Pasted image 20250310161200.png]]
 
