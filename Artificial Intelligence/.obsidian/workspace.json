@@ -37,8 +37,7 @@
               "title": "AIO - Transformer Intuition and ViT (Vision Transformer Introduction)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +217,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4e33fd1ed89f3ea2",
+  "active": "93890d1201f7b85d",
   "lastOpenFiles": [
-    "AIO - Action Recognition in Continual Learning.md",
     "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
+    "2 ACTIONS/_Focus.md",
+    "AIO - Action Recognition in Continual Learning.md",
     "Continous Learning and Catastrophic Forgetting.md",
     "image/Pasted image 20251228190051.png",
     "image/Pasted image 20251228185647.png",
@@ -231,7 +231,6 @@
     "image/Pasted image 20251228160153.png",
     "image/Pasted image 20251226164042.png",
     "AIO 2025.md",
-    "2 ACTIONS/_Focus.md",
     "Continuous Learning & Nested Learning Survey.md",
     "AIO Research Survey.md",
     "image/Pasted image 20251225224319.png",
