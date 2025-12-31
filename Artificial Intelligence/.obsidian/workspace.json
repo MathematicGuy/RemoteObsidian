@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "ee55dcaa63cf21f5",
+            "id": "05e6919919057280",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +37,7 @@
               "title": "AIO - Action Recognition in Continual Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,8 +206,45 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ee55dcaa63cf21f5",
+  "active": "93890d1201f7b85d",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md"
+    "AIO - Action Recognition in Continual Learning.md",
+    "Heatmap Pooling for Action Recognition.md",
+    "2 ACTIONS/_Focus.md",
+    "Continuous Learning & Nested Learning Survey.md",
+    "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
+    "image/Pasted image 20251231174249.png",
+    "image/Pasted image 20251231171433.png",
+    "image/Pasted image 20251231162635.png",
+    "image/Pasted image 20251231162532.png",
+    "image/Pasted image 20251231161941.png",
+    "image/Pasted image 20251231141637.png",
+    "Untitled Kanban 4.md",
+    "Problem with SMOTE.md",
+    "Continous Learning and Catastrophic Forgetting.md",
+    "image/Pasted image 20251228190051.png",
+    "image/Pasted image 20251228185647.png",
+    "image/Pasted image 20251228184316.png",
+    "image/Pasted image 20251228184314.png",
+    "AIO 2025.md",
+    "AIO Research Survey.md",
+    "AIO CNN.md",
+    "Elastic Weight Consolitation (EWC).md",
+    "Continous Learning Survey.md",
+    "Traditional Action Detection using LSTM with Convolutional Network.md",
+    "25M7W3 - Transformer.md",
+    "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
+    "Transformer Model Introduction (Attention Is All You Need).md",
+    "Attention is All You Need.md",
+    "Untitled Kanban 3.md",
+    "Untitled Kanban 2.md",
+    "25M7W3 - RNN.md",
+    "Untitled 4.md",
+    "AIO - RNN.md",
+    "VIsualize Catastrophic Forgetting.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
+    "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
+    "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
+    "25M6 Project Module  - Customer Analysis"
   ]
 }

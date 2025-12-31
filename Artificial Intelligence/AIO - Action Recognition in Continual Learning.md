@@ -69,7 +69,6 @@ AI vision algorithms are very successful when measured on standard academic perf
 + ? For example model learning **person-specific quirks (đặc điểm nhất định) rather than the general action itself.**  ![[Pasted image 20251231161941.png | 444]]
 Not identically distributed bc the training set has data from specific group of people the model will never see during testing. 
 
-<<<<<<< HEAD
 #### Evaluating and Enhancing the IID Property of Data
 Data Sampling: 
 
@@ -99,8 +98,3 @@ Data Sampling:
 **References**
 [1] - [The Power of IID Data in Machine Learning and Deep Learning Models](https://medium.com/@kapooramita/the-power-of-iid-data-in-machine-learning-and-deep-learning-models-49651afb7882)
 [2] - [[Problem with SMOTE]]
-=======
-**Kết Quả:**
-![[Pasted image 20251228185647.png]]
-
->>>>>>> origin/main
