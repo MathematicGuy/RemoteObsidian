@@ -12,15 +12,6 @@
 | **SMIF**       | Short-term Motion | Focuses on "what changed" between frame $T$ and $T+1$.      |
 | **LMI**        | Long-term Motion  | Links information across the whole video duration.          |
 | **PatchEmbed** | Tokenization      | Converts visual data into a format Transformers can "read". |
-
-#### X. Planning 
-- [ ] Extract Frames and Understand Frames input Dimension
-- [ ] Create Training/Testing Dataset
-- [ ] Test Training on small dataset
-- [ ] Understand how wirtten method work
-- [ ] Understand ViT next morning and Connect Ideas. 
-
-
 #### A. Data Preprocessing & EDA
 **Frame Extraction** using *torchcodec.decoders.VideoDecoder* instead of regular frame processing *to optimize memory and performance (cpu & cuda)* 
 + ? Video have different Length 
@@ -54,39 +45,56 @@ The model processes the video through several specialized stages:
 
 ---
 ## Human Action Recognition (HAR) Method Survey
-**Applicatiton:** everything related to human action. A LOT.
-**Hướng mở rộng để cải thiện Accuracy cho bài toán HAR:** RGB frames, depth images, pose sequences, textual descriptions, human parsing, and point clouds.
+Survey Papers:
++ [[Heatmap Pooling for Action Recognition]]
 
-### Comparison between existing methods and HP-Net 
-![[Pasted image 20251228181644.png]]
-**(a) Các phương pháp dựa trên Feature Map thô với ảnh RGB** 
--> dễ bị *ảnh hưởng bởi nhiễu và các yếu tố can thiệp từ môi trường.*
-+ ? e.g. đưa nguyên cả bức ảnh vào máy tính, nó không chỉ nhìn thấy người đang hành động mà nhìn thấy cả hình nền (cây cối, xe cộ, ánh sáng đèn).
+### Investigate Normalization Method in Action Recognition problem
+#### IDD in Action Recognition
++ **Identical Distribution:** both **train and test dtset likely to have similar mix of all actions** and a variety of people.  
++ Independence: one existence not affect the ot
++ $ Assessing the IID property of data before using it for machine learning and, if needed, improving *the IID property is crucial for accurate and reliable results.* e.g. [using data sampling, data augmentation, data preprocessing](https://medium.com/@kapooramita/the-power-of-iid-data-in-machine-learning-and-deep-learning-models-49651afb7882). 
+	NO, we could not use regular SMOTE bc they synthetic data by adding a average value between 2 similar frame or action - [[Problem with SMOTE]].
 
-**(b) Các Phương pháp sử dụng pose-estimation sử dụng dữ liệu khung xương với thông tin giới hạn** (+ ví dụ vì sao lại giới hạn)  
--> Hỗ trợ nhận diện hành độg chi tiết (fine-grained) kém.
-+ ? e.g. Dữ liệu này chỉ là các "que và chấm" đại diện cho tay chân. Nó loại bỏ hoàn toàn thông tin về hình dáng bề ngoài và vật thể. *Ví dụ như hành động cầm thìa và nắm tay sẽ giống hệt nhau nếu cái thìa sẽ ko đc bao gồm* -> mất thông tin. 
+#### The Significant of IDD in ML and DL
+**Deep learning models particularly sensitive to the IID property of data**. These models are complex and **highly dependent on the data they are trained on.** 
++ ! Non-IID data can lead to biased or unreliable models, resulting in low accuracy and incorrect results.
 
-**(c) Phương pháp tổng hợp đặc trưng sử dụng Mạng Hợp Nhất (Fusion): Pose-Estimation + CNN**
--> Tốt nhưng quy trình "chồng chéo" nhiều bước này khiến máy tính *chạy chậm và tốn tài nguyên.*
+**Example of non-IDD case: [1](https://www.cs.jhu.edu/~ayuille/JHUcourses/VisionAsBayesianInference2025/20/Lecture20_BeyondMLparadigm.pdf)** 
+AI vision algorithms are very successful when measured on standard academic performance benchmarks. Their performance appears to be superhuman. 
++ ! But they are less successful in the Real World. In a recent talk A. Karpathy (Vision Group Tesla) reported that AI algorithms could not detect stop signs. But stop signs are designed to be easy to detect!
++ ? What is the problem? AI algorithms do not generalize from their training set to the real world.![[Pasted image 20251231162532.png]]
 
-**(d) Phương pháp sử dụng Heatmap**  
-Sử dụng biểu đồ nhiệt để *thể hiện xác suất vị trí các khớp.*
--> Thường chứa dữ liệu dư thừa và pháp sinh chi phí lưu trữ cao. 
-+ ? 1 ảnh *heatmap thường có kích thước lớn* (số pixel = toàn bộ cái ảnh) nhưng *thông tin hữu ích (vị trí khớp tay) chỉ là 1 điểm sáng nhỏ xíu, phần còn lại là màu đen (vô nghĩa).* Việc lưu trữ và xử lý cả vùng màu đen vô nghĩa gây lãng phí tài nguyên tính toán và bộ nhớ. 
+![[Pasted image 20251231162635.png | 444]]
 
-**(e) Our HP-Net proposed**  
-![[Pasted image 20251228184316.png]]
-**Module 1: HP-Net tích hợp Feedback Pooling Module (FPM)** 
-+ @ **Trực giác:** Làm sao để chỉ trích xuất thông tin quan trọng xung quanh các khớp -> Áp dụng Pooling xung quanh các tọa độ khớp.
-+ ? Bằng cách sử dụng Tọa độ khớp (từ pose-estimation) để khoanh vùng và **CHỈ TRÍCH XUẤT THÔNG TIN XUNG QUANH khớp đó.** 
-+ $ HP-Net thu về Heatmap hiệu quả hơn bằng cách **giảm thông tin dư thừa trong khi vẫn giữ lại các thông tin liên quan.** 
-  
-**Module 2: Làm giàu đặc trưng hình ảnh với Text: Text Refinement Modulation Module (TRMM)** - Cần 1 Người đọc source prefer trog file pdf để xem Feature Text + Feature Ảnh giúp mô hình học tốt hơn ntn. 
-+ @ **Trực giác:** Sử dụng cả thông tin của Text để giúp  
-+ ? Kết hợp đặc trưng hành động trích xuất từ HP-Net với đặc trưng của Text Label (encode bằng Text Encoder)
--> Sử dụng văn bản để dẫn dắt đặc trưng thị giác tốt hơn. 
-![[Pasted image 20251228190051.png# left | 333]]
++ ? For example model learning **person-specific quirks (đặc điểm nhất định) rather than the general action itself.**  ![[Pasted image 20251231161941.png | 444]]
+Not identically distributed bc the training set has data from specific group of people the model will never see during testing. 
 
-**Kết Quả:**
-![[Pasted image 20251228185647.png]]
+#### Evaluating and Enhancing the IID Property of Data
+Data Sampling: 
+
+## Normalization Technique to Reduce Statistical shift (mean/variance) when the task changes in Continual Learning 
+**Alternative Title:** Mitigating Catastrophic Forgetting via Statistics-Free Normalization, Reduce Moment Estimates (mean/variance) when the task changes in Continual Learning.
+
++ $ **Goal:** Reduce changes to the original weight even as new tasks are learned. 
++ ! **Challange:** Prevent the model from learning or adapting too much to new tasks (Catastrophic forgetting) while still learning effectively. *This is where specialized normalization like Continous Normalization come in.* 
+### [Normalization Technique](https://viblo.asia/p/normalization-and-normalization-techniques-in-deep-learning-QpmleJyn5rd) in Incremental learning Task 
+![[Pasted image 20251231174249.png]]
+
+**Continual Normalization (CN)**
+- **Problem Addressed**: Standard Batch Normalization (BN) uses running statistics biased towards the current task, hurting performance on past tasks.
+	
+- **Solution**: CN modifies BN for the online CL setting, keeping the benefits of BN (stable training) while reducing its negative cross-task effects, working well with replay methods.
+
+**Batch Normalization (BN)**
+- **The Issue**: In CL, data isn't i.i.d. (independent and identically distributed), causing BN's moment estimates to shift heavily, leading to worse performance on old tasks (catastrophic forgetting).
+	
+- **Workaround**: Techniques often involve careful management of running averages or combining with memory replay to expose the model to older data, counteracting BN's bias.
+
+**Layer Normalization & Group Normalization**:
++ Alternative to BN: normalize across (channels/layers instead of batchs), less reliant on batch statistics, making them potentially more stable in non-staionary CL env.  
+
+
+---
+**References**
+[1] - [The Power of IID Data in Machine Learning and Deep Learning Models](https://medium.com/@kapooramita/the-power-of-iid-data-in-machine-learning-and-deep-learning-models-49651afb7882)
+[2] - [[Problem with SMOTE]]

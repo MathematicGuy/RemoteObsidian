@@ -3,7 +3,7 @@
 **20 - 5 : 20 minutes Study then 5 minutes review**
 
 **New Ideas:** **Hold my self accountable strategy:** print photography of my friend with handwritten information about them below (white paper)  ![[Pasted image 20251218143647.png]]
-- [ ] **Organize** "Action Prediction" **Project workflow by time period for each Part**, each part add **reference sources + why those source + difficulty and knowledge areas**. Digest **(understand) time** for each part **to prioritize each part** and **allocate resource better.** 
+- [ ] **Organize** "Action Prediction" **Project workflow by time period for each Part**, each part add **reference sources + why those source + difficulty and knowledge areas**. Digest **(understand) time** 0for each part **to prioritize each part** and **allocate resource better.** 
 
 
 

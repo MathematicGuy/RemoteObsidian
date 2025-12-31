@@ -43,6 +43,11 @@ V value of Key K for query $Q_{n}$.
 VD: khi dự đoán, token đầu sẽ luon luon là `<Start>` và cuối là `<End>`, nếu thừa slot thì sẽ thêm `<PAD>` vào, nhưng do softmax nhiều khi `<PAD>` có thể là 1 từ nào đó.
 ![[Pasted image 20250309144623.png]]
 
+## Normalization
+![[Pasted image 20251231141637.png]]
+
+
+
 ## Transformer Encoder
 + ? Transformer is base on **Seq2Seq + Attention Mechanism**
 Architecture:
