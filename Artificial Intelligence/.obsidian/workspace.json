@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "11de5b3d9d22cc99",
+    "id": "4bfe4e5a1d280c10",
     "type": "split",
     "children": [
       {
-        "id": "8c41927d551408eb",
+        "id": "803f9f7f7ab7ab7f",
         "type": "tabs",
         "children": [
           {
-            "id": "93890d1201f7b85d",
+            "id": "60121d03a36e31cb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,21 +24,17 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "ebb774ec09c532c5",
-=======
-            "id": "4e33fd1ed89f3ea2",
->>>>>>> origin/main
+            "id": "ee55dcaa63cf21f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
+                "file": "AIO - Action Recognition in Continual Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO - Transformer Intuition and ViT (Vision Transformer Introduction)"
+              "title": "AIO - Action Recognition in Continual Learning"
             }
           }
         ],
@@ -48,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "25afb8235e6f8ef0",
+    "id": "f0320e2462a82926",
     "type": "split",
     "children": [
       {
-        "id": "3be6af5161ba7224",
+        "id": "134e0cb8cda267d5",
         "type": "tabs",
         "children": [
           {
-            "id": "15cbfc3981273ffb",
+            "id": "607c974961ade93a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +65,7 @@
             }
           },
           {
-            "id": "f20653e3c2556967",
+            "id": "cf7ef88dbf62db78",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,7 +82,7 @@
             }
           },
           {
-            "id": "b8f070a3b686267b",
+            "id": "8a4b87c47778eeaa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -103,20 +99,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "38133e48d1fcebfb",
+    "id": "fae6d5121c7f81ef",
     "type": "split",
     "children": [
       {
-        "id": "a1e641e23d3c11a8",
+        "id": "f9e088b123b6c2d6",
         "type": "tabs",
         "children": [
           {
-            "id": "85d2b2f2dcc5cb2f",
+            "id": "777eb33470456c60",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "AIO - Action Recognition in Continual Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,25 +122,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for AIO - Action Recognition in Continual Learning"
             }
           },
           {
-            "id": "d3e25b045c4ddb9a",
+            "id": "c4d410eb19c593f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "AIO - Action Recognition in Continual Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links from AIO - Action Recognition in Continual Learning"
             }
           },
           {
-            "id": "50644b2b33a46c11",
+            "id": "71cf33f8470d6d20",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,7 +155,7 @@
             }
           },
           {
-            "id": "03fcc42ac045f2d6",
+            "id": "d0b2d6e1617bbb0e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,32 +169,21 @@
             }
           },
           {
-            "id": "8d16712f08d889b8",
+            "id": "ea9ffbfbb3eee4bc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 PROJECTS/NCKH 2025/Skeleton Pose Estimation and Person Detection.md",
+                "file": "AIO - Action Recognition in Continual Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Skeleton Pose Estimation and Person Detection"
-            }
-          },
-          {
-            "id": "9f7dc6e7186ee34a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of AIO - Action Recognition in Continual Learning"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,86 +192,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
-      "homepage:Open homepage": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-<<<<<<< HEAD
-  "active": "ebb774ec09c532c5",
+  "active": "ee55dcaa63cf21f5",
   "lastOpenFiles": [
-    "image/Pasted image 20251231174249.png",
-    "Problem with SMOTE.md",
-    "AIO - Action Recognition in Continual Learning.md",
-    "[[Problem.md",
-    "image/Pasted image 20251231171433.png",
-    "image/Pasted image 20251231171216.png",
-    "2 ACTIONS/_Focus.md",
-    "Untitled Kanban 4.md",
-    "image/Pasted image 20251231162635.png",
-    "image/Pasted image 20251231162532.png",
-    "image/Pasted image 20251231162340.png",
-    "image/Pasted image 20251231161941.png",
-    "Heatmap Pooling for Action Recognition.md",
-    "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
-    "image/Pasted image 20251231141637.png",
-    "image/Pasted image 20251228190051.png",
-    "image/Pasted image 20251228185647.png",
-    "image/Pasted image 20251228184316.png",
-    "Continuous Learning & Nested Learning Survey.md",
-    "AIO 2025.md"
-=======
-  "active": "93890d1201f7b85d",
-  "lastOpenFiles": [
-    "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
-    "2 ACTIONS/_Focus.md",
-    "AIO - Action Recognition in Continual Learning.md",
-    "Continous Learning and Catastrophic Forgetting.md",
-    "image/Pasted image 20251228190051.png",
-    "image/Pasted image 20251228185647.png",
-    "image/Pasted image 20251228184316.png",
-    "image/Pasted image 20251228184314.png",
-    "image/Pasted image 20251228181644.png",
-    "image/Pasted image 20251228160153.png",
-    "image/Pasted image 20251226164042.png",
-    "AIO 2025.md",
-    "Continuous Learning & Nested Learning Survey.md",
-    "AIO Research Survey.md",
-    "image/Pasted image 20251225224319.png",
-    "AIO CNN.md",
-    "Elastic Weight Consolitation (EWC).md",
-    "Continous Learning Survey.md",
-    "Traditional Action Detection using LSTM with Convolutional Network.md",
-    "25M7W3 - Transformer.md",
-    "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
-    "Transformer Model Introduction (Attention Is All You Need).md",
-    "Attention is All You Need.md",
-    "Untitled Kanban 3.md",
-    "image/Pasted image 20251224154411.png",
-    "image/Pasted image 20251224153854.png",
-    "Untitled Kanban 2.md",
-    "25M7W3 - RNN.md",
-    "Untitled 4.md",
-    "AIO - RNN.md",
-    "VIsualize Catastrophic Forgetting.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Grammar.md",
-    "Fun Research Paper & Direction Analysis.md",
-    "Research Paper Research.md",
-    "CNN Blog Outline.md",
-    "Foundation of Mixture of Expert in Statistical Learning in ML.md",
-    "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
-    "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
-    "25M6 Project Module  - Customer Analysis"
->>>>>>> origin/main
+    "2 ACTIONS/_Focus.md"
   ]
 }
