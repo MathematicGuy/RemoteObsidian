@@ -35,7 +35,7 @@ The same logic for Grey scale image (i.e. black and white image). It still have 
 	(0 is black and 255 is white, the closer value to 255 the whiter it is)
 	![[Pasted image 20241009084232.png]]
 
-### Convolution Operant (Operation)
+### Convolution Operation
 ![[Pasted image 20241009085231.png]]
 	X as the 6x6 matrix.
 	Grid as the 3x3 matrix grid choosed from X.
@@ -72,7 +72,7 @@ $$x_{i*k, \space j*k}$$
 + ? By applying stride ours convolution called strided convolution.
 
 ### Purpose of Convolution
-> To Manipulated base image using a Kernel as filter to change and see a certain aspect of the image.
+> To Manipulated base image using a Kernel as filter to change and see a certain aspect of the image. 
 ![[Pasted image 20241009093042.png]]
 
 ### Edge Detection
@@ -94,7 +94,7 @@ $$x_{i*k, \space j*k}$$
 
 ### Convolution Neural Network
 #### Problem with Neural Network (MLP) in Image Classification when there are Too Much FEATURES 
-A  64x64 3 color channel image present in 1 tensor as 64x64x3. So the input to the NN would be 64x64x3=12288. Meaning network have to process 12288 nodes. If the 1st hidden layer is 1000, the paramater numbers would be outstraged. We need a better solution !!!
+A  64x64 3 color channel image present in 1 tensor as 64x64x3. So the input to the NN would be 64x64x3=12288. Meaning network have to process 12288 nodes. If the 1st hidden layer is 1000, the paramater numbers would be outrageous. We need a better solution !!!
 + $ Apply Convolution operator in Neural Network to process large scale image while keeping its core features. In other word, Filter only the Important Feature from the Image. 
 
 #### First Convolution layer
@@ -109,9 +109,9 @@ A  64x64 3 color channel image present in 1 tensor as 64x64x3. So the input to t
 Padding and stride rule are the same. (the same dimension, calculation method)
 ![[Pasted image 20241009102425.png]]
 note: 
-+ $F*F*D$ : kernel shape and Dimension (3x3x3, 3 3x3 matrices) output of a convolution layer will pass through activation function before become the input of the next convolution layers.
++ $F*F*D_{in}$ : kernel shape and Dimension (3x3x3, 3 3x3 matrices) output of a convolution layer will pass through activation function before become the input of the next convolution layers.
 	
-+ Each Kernel's value $\otimes$ each available input value + 1 (1 as bias) thus the total parameters of a convolution layers are: $F*F*D + 1$. And convolutio layer apply k kernel so the total parameter of a layer is $K*F*F*D + 1$
++ Each Kernel's value $\otimes$ each available input value + 1 (1 as bias) thus the total parameters of a convolution layers are: $F * F * D_{in} + 1$. And convolution layer apply k kernel so the total parameter of a layer is $K*(F*F*D_{in} + 1)$ 
 
 ### Pooling Layers
 > Use to compress image while still maintain its core features. 

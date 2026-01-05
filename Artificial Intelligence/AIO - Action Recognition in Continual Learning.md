@@ -22,7 +22,6 @@
 	*Oversampling* of the Minority class *and Undersampling* of the Majority Classes using **SMOTE**.
 ![[Pasted image 20251226164042.png]]
 
-
 #### B. Architecture (LS-ViT)
 The model processes the video through several specialized stages:
 
@@ -47,54 +46,18 @@ The model processes the video through several specialized stages:
 ## Human Action Recognition (HAR) Method Survey
 Survey Papers:
 + [[Heatmap Pooling for Action Recognition]]
++ [[Investigate Normalization Method in Action Recognition problem]] 
 
-### Investigate Normalization Method in Action Recognition problem
-#### IDD in Action Recognition
-+ **Identical Distribution:** both **train and test dtset likely to have similar mix of all actions** and a variety of people.  
-+ Independence: one existence not affect the ot
-+ $ Assessing the IID property of data before using it for machine learning and, if needed, improving *the IID property is crucial for accurate and reliable results.* e.g. [using data sampling, data augmentation, data preprocessing](https://medium.com/@kapooramita/the-power-of-iid-data-in-machine-learning-and-deep-learning-models-49651afb7882). 
-	NO, we could not use regular SMOTE bc they synthetic data by adding a average value between 2 similar frame or action - [[Problem with SMOTE]].
+1. Smooth Representation -> understand Core Ideas -> Draw the whole Architecture Transparent about input and output Dimension. 
+2. Effect of each Improvement ->Result Result.
+3. Deadline overview -> not looking to be the first, rather in the top 5. 
 
-#### The Significant of IDD in ML and DL
-**Deep learning models particularly sensitive to the IID property of data**. These models are complex and **highly dependent on the data they are trained on.** 
-+ ! Non-IID data can lead to biased or unreliable models, resulting in low accuracy and incorrect results.
-
-**Example of non-IDD case: [1](https://www.cs.jhu.edu/~ayuille/JHUcourses/VisionAsBayesianInference2025/20/Lecture20_BeyondMLparadigm.pdf)** 
-AI vision algorithms are very successful when measured on standard academic performance benchmarks. Their performance appears to be superhuman. 
-+ ! But they are less successful in the Real World. In a recent talk A. Karpathy (Vision Group Tesla) reported that AI algorithms could not detect stop signs. But stop signs are designed to be easy to detect!
-+ ? What is the problem? AI algorithms do not generalize from their training set to the real world.![[Pasted image 20251231162532.png]]
-
-![[Pasted image 20251231162635.png | 444]]
-
-+ ? For example model learning **person-specific quirks (đặc điểm nhất định) rather than the general action itself.**  ![[Pasted image 20251231161941.png | 444]]
-Not identically distributed bc the training set has data from specific group of people the model will never see during testing. 
-
-#### Evaluating and Enhancing the IID Property of Data
-Data Sampling: 
-
-## Normalization Technique to Reduce Statistical shift (mean/variance) when the task changes in Continual Learning 
-**Alternative Title:** Mitigating Catastrophic Forgetting via Statistics-Free Normalization, Reduce Moment Estimates (mean/variance) when the task changes in Continual Learning.
-
-+ $ **Goal:** Reduce changes to the original weight even as new tasks are learned. 
-+ ! **Challange:** Prevent the model from learning or adapting too much to new tasks (Catastrophic forgetting) while still learning effectively. *This is where specialized normalization like Continous Normalization come in.* 
-### [Normalization Technique](https://viblo.asia/p/normalization-and-normalization-techniques-in-deep-learning-QpmleJyn5rd) in Incremental learning Task 
-![[Pasted image 20251231174249.png]]
-
-**Continual Normalization (CN)**
-- **Problem Addressed**: Standard Batch Normalization (BN) uses running statistics biased towards the current task, hurting performance on past tasks.
-	
-- **Solution**: CN modifies BN for the online CL setting, keeping the benefits of BN (stable training) while reducing its negative cross-task effects, working well with replay methods.
-
-**Batch Normalization (BN)**
-- **The Issue**: In CL, data isn't i.i.d. (independent and identically distributed), causing BN's moment estimates to shift heavily, leading to worse performance on old tasks (catastrophic forgetting).
-	
-- **Workaround**: Techniques often involve careful management of running averages or combining with memory replay to expose the model to older data, counteracting BN's bias.
-
-**Layer Normalization & Group Normalization**:
-+ Alternative to BN: normalize across (channels/layers instead of batchs), less reliant on batch statistics, making them potentially more stable in non-staionary CL env.  
+**Priorities**
+- [ ] Sketch LS-ViT Architecture with Input and Output Dimension + Trick to reshape vector dimension note
 
 
----
-**References**
-[1] - [The Power of IID Data in Machine Learning and Deep Learning Models](https://medium.com/@kapooramita/the-power-of-iid-data-in-machine-learning-and-deep-learning-models-49651afb7882)
-[2] - [[Problem with SMOTE]]
+**LS-VIT Block Architecture**
+Input -> SMIF (pixel level motion) -> ViT Backbone (Patch Embed) -> Temporal Pooling  (Temporal Pooling)
+
+![[Pasted image 20260104034450.png]]
+
