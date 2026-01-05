@@ -37,7 +37,8 @@
               "title": "AIO - Action Recognition in Continual Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +218,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "93890d1201f7b85d",
+  "active": "05e6919919057280",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "AIO - Action Recognition in Continual Learning.md",
     "Heatmap Pooling for Action Recognition.md",
-    "2 ACTIONS/_Focus.md",
     "Continuous Learning & Nested Learning Survey.md",
     "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
     "image/Pasted image 20251231174249.png",
