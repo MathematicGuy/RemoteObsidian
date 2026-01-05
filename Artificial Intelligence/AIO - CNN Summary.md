@@ -11,7 +11,7 @@ Trong xử lý ảnh, mỗi ảnh có hàng ngàn pixels, mỗi pixles đc xem n
 -> **CNN xử lý vấn đề có quá nhiều tham số** vs **Shared parameters** (feature independence of location) của **Locally connected network** (feature loclization), đc gọi là Convolution Net.
 
 cụm pixels: n by n pixles block 
-+ $ **Locally Connected Layer:**  In the first hidden layer of a CNN, each node (or neuron) connects only to a small portion of the input image, rather than the entire image. This small portion is often referred to as the **receptive field** (*region of the image*). By limiting connections to these local regions, the model significantly reduces the number of parameters compared to a fully connected layer, making it more efficient
++ $ **Locally Connected Layer:**  In the first hidden layer of a CNN, each node (or neuron) connects only to a small portion of the input image, rather than the entire image. This small portion is often referred to as the **receptive field** (*region of the image*). By limiting connections to these local regions, the model significantly reduces the number of parameters compared to a fully connected layer, making it more efficient 
 + $ **Shared parameters:** In images, certain key features (e.g., edges, corners, or patterns) often appear repeatedly across different regions or feature maps. To efficiently capture these features, we use the same set of parameters (weights) across the entire image.
 + ? For example, in the inner curve of the digit "7," this pattern might appear in multiple locations across different feature maps. By sharing parameters, the CNN can detect these features regardless of their position, ensuring efficient and consistent feature extraction across the input.
 

@@ -2,10 +2,11 @@
 **Continous Learning -** Learn new information continously without forgetting old information.
 **Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
 
+### [[Nested Learning]]
 ### [[AIO - Action Recognition in Continual Learning]]
-## [[Continous Learning and Catastrophic Forgetting]]
+### [[Continous Learning and Catastrophic Forgetting]]
 
-## [[Continous Learning vs RAG in solving Catastrophic Forgeting]] 
+### [[Continous Learning vs RAG in solving Catastrophic Forgeting]] 
 + ? Why they are not substitutes.
 + $ **Want the model remember new infors directly (ie. update its params)**. *RAG* is just a tool for retrieving new infors, *retrieving too much then we started to have A PROBLEM called hallucination.* Yes, **RAG can be use as a 2nd Brain but there're limitation**.
 
