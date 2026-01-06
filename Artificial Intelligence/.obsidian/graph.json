@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -32,6 +32,6 @@
   "repelStrength": 17.5614100185529,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.0078125,
-  "close": true
+  "scale": 0.015355906606692752,
+  "close": false
 }

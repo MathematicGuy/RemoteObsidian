@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d0ea0a2b432d28",
+        "id": "3717cf9aecba3c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "8f84f29c4499b31f",
+            "id": "902e3657b8e4b9e1",
             "type": "leaf",
             "state": {
-              "type": "3d-graph-view-local",
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "15b3b22afd71d1e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {},
-              "icon": "orbit",
-              "title": "Local 3D Graph"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,13 +172,15 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "8f84f29c4499b31f",
+  "active": "15b3b22afd71d1e9",
   "lastOpenFiles": [
+    "README.md",
+    "Least confident examples.md",
+    "Project Skin/4 ARCHIVES/2024/WebProject2024/Admin RS demo.md",
     "Project Dream Catcher/Welcome.md",
     "Project Dream Catcher/Untitled.md",
     "Artificial Intelligence/AIO 2024.md",
     "Project Skin/3 RESOURCES/DataBase/SQL/DataBase.md",
-    "README.md",
     "Project Skin/Spaces/Set Up Terminal.md",
     "Dream/_Focus.md",
     "Simplified-Guide-for-Customizing-Obsidian-Background-Image/custom-bg.css",

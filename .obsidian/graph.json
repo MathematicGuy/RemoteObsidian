@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Artificial Intelligence\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Dream  ",
+      "color": {
+        "a": 1,
+        "rgb": 1309633
+      }
+    },
+    {
+      "query": "path:\"Project Skin\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.634823284823285,
+  "lineSizeMultiplier": 0.858939708939709,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.11660891579457275,
-  "close": true
+  "centerStrength": 0.483367983367983,
+  "repelStrength": 9.5010395010395,
+  "linkStrength": 0.91995841995842,
+  "linkDistance": 81,
+  "scale": 0.05932617187499942,
+  "close": false
 }
