@@ -59,5 +59,28 @@ Survey Papers:
 **LS-VIT Block Architecture**
 Input -> SMIF (pixel level motion) -> ViT Backbone (Patch Embed) -> Temporal Pooling  (Temporal Pooling)
 
-![[Pasted image 20260104034450.png]]
+
+#### **A. MixUp (Pha trộn tuyến tính)**
+**Cơ chế:** Thay vì đưa vào mạng 2 ảnh riêng biệt (Ví dụ: Ảnh A là "Kick Ball", Ảnh B là "Run"), MixUp sẽ tạo ra một ảnh mới bằng cách chồng mờ 2 ảnh này lên nhau theo một tỷ lệ λ (lambda).
+![[Pasted image 20260105215122.png]]
+- Các mô hình CNN/ViT thường hay "học vẹt" bằng cách chỉ nhìn vào một đặc điểm nổi bật (ví dụ: cứ thấy màu xanh lá cây là đoán "đá bóng").
+    
+- CutMix che mất một phần ngẫu nhiên của ảnh, ép mô hình phải **nhìn vào các phần khác** của bức ảnh để nhận diện hành động (học ngữ cảnh toàn cục).
+
+### **B. CutMix (Cắt và Dán)**
+**Cơ chế:** Thay vì chồng mờ (gây nhiễu ảnh), CutMix cắt một hình chữ nhật từ ảnh B và dán đè lên ảnh A.
+- Các mô hình CNN/ViT thường hay "học vẹt" bằng cách chỉ nhìn vào một đặc điểm nổi bật (ví dụ: cứ thấy màu xanh lá cây là đoán "đá bóng").
+    
+- CutMix che mất một phần ngẫu nhiên của ảnh, ép mô hình phải **nhìn vào các phần khác** của bức ảnh để nhận diện hành động (học ngữ cảnh toàn cục).
+
+Tối ưu hàm mất mát (Loss Function): Thay thế CrossEntropyLoss tiêu chuẩn bằng Label Smoothing Loss (với ϵ ≈ 0.1). Kỹ thuật này ngăn mô hình trở nên quá tự tin vào các nhãn nhiễu, đặc biệt hiệu quả với các hành động có tính nhập nhằng cao trong HMDB51
+
+Trực quan hóa Spatio-Temporal Attention: Xuất trọng số từ module LMIModule hoặc các lớp Attention để tạo bản đồ nhiệt (heatmap) đè lên video, giúp minh bạch hóa việc mô hình đang tập trung vào vùng không gian hay khung hình thời gian nào khi ra quyết định.
+
+#### **TSN-style Sampling / Segment Sampling)**
+1. Chia video (100 frames) thành T đoạn bằng nhau (ví dụ 16 đoạn).
+2. Trong **mỗi đoạn**, chọn ngẫu nhiên **1 frame**.
+- $ **Bao phủ toàn bộ video:** Đảm bảo từ đầu đến cuối video đều có đại diện.
+	
+- $ **Đa dạng hóa dữ liệu (Data Augmentation tự nhiên):** Ở epoch 1, đoạn thứ nhất bạn lấy frame 2. Ở epoch 2, đoạn thứ nhất bạn có thể lấy frame 4. Mô hình sẽ được nhìn thấy nhiều biến thể của video hơn mà không cần tăng bộ nhớ.
 
