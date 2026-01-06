@@ -24,20 +24,17 @@
             }
           },
           {
-            "id": "05e6919919057280",
+            "id": "8bacac0a2ee939ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO - Action Recognition in Continual Learning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AIO - Action Recognition in Continual Learning"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,27 +214,28 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "93890d1201f7b85d",
+  "active": "8bacac0a2ee939ce",
   "lastOpenFiles": [
-    "image/Pasted image 20260105000748.png",
+    "2 ACTIONS/_Focus.md",
+    "Step by Step CNN.md",
+    "image/Pasted image 20250317092133.png",
+    "image/Pasted image 20250317092106.png",
+    "CNN from Scratch.md",
+    "AIO - Action Recognition in Continual Learning.md",
+    "image/Pasted image 20260105215122.png",
     "image/Pasted image 20260104034450.png",
+    "Pasted image 20251218143647.png.md",
+    "image/Pasted image 20251218143647.png",
+    "image/Pasted image 20260105000748.png",
     "image/Pasted image 20260102215941.png",
     "image/Pasted image 20260102215707.png",
     "image/Pasted image 20260101095031.png",
     "image/Pasted image 20260101093234.png",
-    "image/Pasted image 20260101092307.png",
-    "image/Pasted image 20260101091112.png",
-    "image/Pasted image 20260101090854.png",
-    "Step by Step CNN.md",
     "Nested Learning.md",
     "Investigate Normalization Method in Action Recognition problem.md",
-    "AIO - Action Recognition in Continual Learning.md",
-    "2 ACTIONS/_Focus.md",
     "Heatmap Pooling for Action Recognition.md",
     "Continuous Learning & Nested Learning Survey.md",
     "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
-    "image/Pasted image 20251231174249.png",
-    "image/Pasted image 20251231171433.png",
     "Untitled Kanban 4.md",
     "Problem with SMOTE.md",
     "Continous Learning and Catastrophic Forgetting.md",
@@ -253,8 +251,6 @@
     "Attention is All You Need.md",
     "Untitled Kanban 3.md",
     "Untitled Kanban 2.md",
-    "25M7W3 - RNN.md",
-    "Untitled 4.md",
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "25M6 Project Module  - Customer Analysis"
