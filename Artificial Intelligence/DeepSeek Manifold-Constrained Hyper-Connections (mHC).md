@@ -76,17 +76,7 @@ However, when DeepS seek attempt to adapt this technique for their model trainin
 The first term corresponds to the features at a shallow layer successively transformed by the feature mixing matrices across the intermediate layers. The second term consists of the sum of the outputs from all previous residual functions.
 
 
-Suppose the initial value is one and the
-feature at layer L involves the
-successive multiplications of a scalar
-H. Let's see how the value evolves over
-the layers. When the value of edge is
-one, we have identity mapping. The
-output at a layer L is still one.
-However, if we increase the value of
-edge to 1.1, the output value exhibit a
-dramatic 100fold increase.
-
+Suppose the initial value is one and the feature at layer L involves the successive multiplications of a scalar H. Let's see how the value evolves over the layers. When the value of edge is one, we have identity mapping. The output at a layer L is still one. However, if we increase the value of edge to 1.1, the output value exhibit a dramatic 100 fold increase.
 ![[Pasted image 20260106165015.png | 555]]
 
 Conversely, when edge is less than one, the output value rapidly decays as it pass through the layers. The instability becomes even more significant when edge takes on negative values causing the output to oscillate dramatically.
@@ -96,52 +86,21 @@ But how do we stabilize the trending? To do so, we need to ensure that these lin
 
 + ? But how do we make this matrix doubly stochastic ? The first step is to make all the elements positive.
 
-To achieve this, we apply an exponential
-function for each individual element.
-The exponentiation ensures that each
-output is strictly positive and
-increases monotonically with its input.
-But now when we sum up all the rows and
-all the columns, their values are now
-one. We use a simple iterative algorithm
-that alternately rescale all rows and
-all columns of the matrix to sum up to
-one.  ![[Pasted image 20260106165343.png]]
-But after scaling, the sum of each row is still not one. Therefore, we rescale
-the sum of each row to one. But after
-rescaling all rows to sum to one, that
-changes the sum of the columns.
-Fortunately, we can apply the
-alternative rescaling iteratively.
-With only a few iterations, we make the
-feature mixing matrix very close to a
-doubly stoastic matrix. It's very
-simple.
+To achieve this, we apply an exponential function for each individual element. The exponentiation ensures that each output is strictly positive and increases monotonically with its input. But now when we sum up all the rows and all the columns, their values are now one. We use a simple iterative algorithm that alternately rescale all rows and all columns of the matrix to sum up to one.
+![[Pasted image 20260106165343.png]]
+But after scaling, the sum of each row is still not one. Therefore, we rescale the sum of each row to one. But after rescaling all rows to sum to one, that changes the sum of the columns.
+Fortunately, we can apply the alternative rescaling iteratively. With only a few iterations, we make the
+feature mixing matrix very close to a doubly stoastic matrix. It's very simple.
 ![[Pasted image 20260106165509.png]]
 + ? To make this sound more academic, we refer this process as projecting the feature mixing matrix onto the manifold of doubly stoastic matrices. Basically made them well behaved. This algorithm is known as the synch knob algorithm.
 ![[Pasted image 20260106165557.png]]
 
-
-For the other two matrices, the deepseek
-paper also made some slight adjustments
-in terms of their parameterizations.
-Here is the parameterizations of the
-hyperconnections papers discussed
-before. Here is the one from deepseek.
-The key difference is that they change
-the activation function from 10 edge to
-sigmoid.
+For the other two matrices, the deepseek paper also made some slight adjustments in terms of their parameterizations. Here is the parameterizations of the hyperconnections papers discussed before. Here is the one from deepseek. The key difference is that they change the activation function from 10 edge to sigmoid.
 ![[Pasted image 20260106165609.png]]
 The primary reasons are twofold.
 + First, this avoids negative coefficients.
-+ Second, the new parameterizations
-ensures that the aggregation and
-expansion weights are bounded. The
-values cannot be larger than one or two.
-Compared to the original
-parameterizations, the new design makes
-the linear mappings more well behaved.
-
++ Second, the new parameterizations 
+ensures that the aggregation and expansion weights are bounded. The values cannot be larger than one or two. Compared to the original parameterizations, the new design makes the linear mappings more well behaved.
 ![[Pasted image 20260106172010.png]]
 + ? But why is there a scalar two here ? Remember that this is the weight we use to rescale the layer output before adding back to each residual stream. At the initializations, the parameters alpha and bias vector B are set to be small numbers. This means that initially the input to the sigmoid is very close to zero and therefore the output is very close to 0.5. Multiplying it by two ensures that at the beginning of the training the hyperconnections behave exactly like the standard residual connections.
 
