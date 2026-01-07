@@ -147,3 +147,36 @@ AI **Structure Growth for each new task**. Although it have **perfect memory but
 #### Mathematical Perspective
 [[VIsualize Catastrophic Forgetting]]
 Note: forgeting can be visualize using performance graph like t-SNE.
+
+
+
+
+----
+
+
+
+![[Pasted image 20260106230855.png]]
+1) Sampling các sample quên nhiều nhất. 
+2) Tạo 1 buffer để học lại các sample quên nhiều nhất trong Sampling samples ~ sample có nhiều Entropy nhất. 
+-> Sample nào quên nhiều nhất thì cho vào Buffer để huấn luyện cùng dữ liệu mới. 
+
+
+**task boundary** ==marks the transition between distinct learning phases (tasks)==
+
+![[Pasted image 20260106233351.png]]
+
+![[Pasted image 20260106233340.png]]
+
+Here is a prompt designed to generate a comprehensive visualization of the HAL workflow. You can use this prompt with Gemini (or any AI tool capable of rendering **Mermaid.js** or **Graphviz** diagrams) to create a "Dynamic View" of the architecture.
+
+![[Pasted image 20260107002133.png | 544]]
+
+![[Pasted image 20260107001954.png]]
+
+![[Pasted image 20260107004214.png]]
+
+
+![[Pasted image 20260107105213.png]]
+
+![[Pasted image 20260107105342.png]]
+
