@@ -4,8 +4,10 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _TODAY
-- [ ] 2h30 tiếng Project Module 
-- [ ] 1h30 tiếng Hiểu Ideas bài của cô. 
+- [ ] 1h30 tiếng Hiểu Ideas bài của cô. (45' - 10') 
+- [ ] 1h30 Nested Learning (45' - 10')
+- [ ] 1h30 AIO ViT 
+
 
 _Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case
