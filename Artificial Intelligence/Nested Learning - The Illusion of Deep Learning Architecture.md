@@ -11,6 +11,7 @@ Complex **ML model** is actually *a set of coherent, **interconnected optimizati
 + Human brain adapts through **neuroplasticity** - a term to describe the remarkable capacity to **change its structure in response to new experiences**, memories and learning. 
 + **Associative memory - the ability to map and recall** one thing based on another (e.g. recalling a name when u see a face, where "name" & "face" are pairs of unrelated items)
 
+
 In the training process itself, specifically the *backpropagation process*, can be modeled as an *associative meory.* **The model learns to map a given data point to the value of its local error**, serve as a measure of how "Suprising" or unexpected that data point was.  
 	
 + ? What does it mean to say "The model learns to map a given data point to the value of its local error"
@@ -18,14 +19,14 @@ In the training process itself, specifically the *backpropagation process*, can 
 		By *updating the weight* ($W_{t+1}$), the models is *"storing" the connection between the Specific input data and that "Error" its causes* -> By using the Weight, next time the model sees that data point (Key), it recalls the correction (Value) to adjust its behaviour. 
 	-> **Weight store Connection of (Input (Key) -> Error (Value))** in a neural network. 
 	
-	What local Error mean ? 
++ ? What "Local Error" mean ? 
 		*Local Error is the "measure of suprise"*  (like loglikelihood loss function) -> Thus high loss/error also mean high level of unpredictable/suprise) where the "local" term say this "Error" is calculated the specific error comming back from  from the next layer. 
 		
 	+ **Low Surprise (Entropy)** -> The predicting datapoint is purfect, gradient (error) is zero ->  nothing to memorize to update.
 		   
 	+ High Surpise if the prediction is wrong, the gradient is large. 
 	
-+ @ **The Associative Mapping:** The goal of the training process is to treat the **input (**x**) as a Key** and this **gradient term ($\nabla$) as a Value**
++ @ **The Associative Mapping:** The goal of the training process is to treat the **input (x) as a Key** and this **gradient term ($\nabla$) as a Value**
 
 Nested Learning paradigm *reframe the training process* of an entire deep neural network with backpropagation *as a system of parallel optimization problems* **where each layer learns to map its specific input to its specific 'local surprise signal $\nabla \mathcal{L}$'** making the entire network a collection of these processes. 
 
@@ -36,7 +37,6 @@ Nested Learning paradigm *reframe the training process* of an entire deep neural
 	**Slow Blocks:** Update over millions of tokens, capturing global trends.
 	
 The model uses a **"self-referential"** process where it *generates its own learning rates and weight decays, effectively learning how to learn.* ![[Pasted image 20260107140348.png | 655]]
-
 Treats optimizer as something that can learn from its own memory/history. The optimizer become the learner itself. 
 
 The previous layer refine the next layer, its like having a mind where each layer watching & improve the one below. Just like how human learn, we don't just stop at understanding the information but keep on refining it. 
@@ -64,10 +64,50 @@ Understand CMS
 Understand Preliminaries Fomula
 Understand Ad-hoc Level Stacking: Bridging the Old and New (_Explain how to implement this without training from scratch._)
 
-Strategy: Paste Information by Group to Figma or Obsidian White Board to connect ideas and flow late.
-
-**Presentation Structure:**
+**Final Presentation Structure:**
 	Title
 	abstract | main Idea 1 | explain 1 -> explain 2 -> deeper explaination   
 	abstract | main Idea 2 | explain 1 -> explain 2 -> deeper explaination   
 	abstract | main Idea 2 | explain 1 -> explain 2 -> deeper explaination   
+
+**Plan: Explore (1 + 2 part) -> Structurelize**
++ Keep Explore - Write down with my own though (concrete & help transfer my ideas to other better) not copying the HIGH LIGHT. 
++ Structurelize
+
+-----
+# Nested Learning Abstract
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

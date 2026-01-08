@@ -146,10 +146,6 @@ AI **Structure Growth for each new task**. Although it have **perfect memory but
 ### The Root of Catastrophic Forgetting
 #### Mathematical Perspective
 [[VIsualize Catastrophic Forgetting]]
-Note: forgeting can be visualize using performance graph like t-SNE.
-
-
-
 
 ----
 
