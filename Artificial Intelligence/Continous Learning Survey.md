@@ -1,5 +1,4 @@
 [[Continual Learning Terms & Definitions]]
-
 ![[Pasted image 20251222215957.png]]
 **-> Catastrophic Forgetting:** Model forget old task the second it learn the new one. 
 + ! Danger in Medical when docter update a new infor leading to a performance decrease in old infor.  
@@ -65,10 +64,9 @@ AI **Structure Growth for each new task**. Although it have **perfect memory but
 
 **Prompt**
 "hay cho mình ví dụ tính tay từng bước, cho từng task, đừng bỏ qua bước nào, và ghi rõ công thức"
-
 ![[Pasted image 20260108000431.png]]
 K - số anchor point cho 1 task. 
 Overfitt - ko học kiến thức mới mà ôn đi ôn lại kiến thức cũ. 
-
 $\phi(e_{t})$ = phi của anchor
-![[Pasted image 20260108011110.png]]
+
+
