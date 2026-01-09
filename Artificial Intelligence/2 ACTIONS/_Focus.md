@@ -4,8 +4,8 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _TODAY
-- [ ] 1h30 AIO ViT 
-- [ ] [[Paper Review]]
+- [ ]
+
 
 _Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case
