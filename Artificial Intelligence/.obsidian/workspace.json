@@ -35,8 +35,7 @@
               "title": "Nested Learning Board"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "tldraw:Create new tldrawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,9 +206,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "93b4a394a97d8662",
+  "active": "60121d03a36e31cb",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
+    "Excalidraw/Nested Learning Board.md",
     "Continous Learning Survey.md",
     "image/Pasted image 20260108011110.png",
     "Paper Review.md",
@@ -233,7 +234,6 @@
     "1 PROJECTS/Nested_Learning.drawio",
     "DeepSeek Manifold-Constrained Hyper-Connections (mHC).md",
     "Continuous Learning & Nested Learning Survey.md",
-    "Excalidraw/Nested Learning Board.md",
     "Excalidraw/Scripts/Downloaded/Uniform size.md",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded",
