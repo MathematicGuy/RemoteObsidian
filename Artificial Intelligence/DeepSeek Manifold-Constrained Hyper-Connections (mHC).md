@@ -15,7 +15,7 @@
 **Identity Mapping (He. et al 2016)** - Improvement to Skip Connection
 + ! After Resnet, they found that the placement of activation function (ReLU) and normalization (BatchNorm) in the *original ResNet interfered slightly with the "clean" information flow through the shortcut connections.*
 + $ **Main Ideas:** theoretical derivation showed that **Information propagates best when the shortcut connection is a pure identity mapping (with no scaling or gating).**
-
+	
 	They proposed the "Pre-activation" ResNet. **Instead of putting BatchNorm and ReLU** *after* the convolution (Post-activation), they *moved them before* the convolution. This leaves the shortcut path completely open, **creating a direct path for gradients to propagate from the very last layer to the very first.** ![[Pasted image 20260106131909.png ]]
 + @ An improvement to Skip-Connection: proved that **deep networks train best when the signal path is clean.** This allows gradients to flow directly from the loss function to the early layers -> Improve training even in deeper network and reduce overfitting. $$x_{l+1} = x_{l} + F(x_{l})$$
 + ? A example of [[Identity Mapping Violation]] if the information stream *mixed 2 stream of information*.$$\mathbf{x}_{l+1} = \underbrace{0.7 \cdot \mathbf{x}_{spatial}}_{\text{Pre-trained Stream}} + \underbrace{0.3 \cdot \mathbf{x}_{motion}}_{\text{SMIF/LMI Stream}} + \mathcal{F}(\dots)$$
@@ -29,7 +29,9 @@
 The core idea of hyper-connections (HC) is to propose learnable depth-connections and width-connections.
 ![[Pasted image 20260106133112.png]]
 
+
 **Transformer with Hyper-Connection**
+
 ![[Pasted image 20260106141754.png | 455]]
 
 
@@ -60,7 +62,7 @@ From Hyper-Connection. Instead of learning from 1 residual connection, we learn 
 ![[Pasted image 20260106163732.png]]
 **Information exchange between residual stream is quite limited.** To address this, we introduce a **learnable linear transformation between the residual streams** $h_l^{(n)}$. Here, the transformation is parameterized by a 4x4 weight matrix. We can interpret the transformation as a feature router
 -> By specifying the weights, we form flexible connection patterns that route features from one residual stream to another. Also allow the model adaptedly control and combine the information.
-
+	
 **Math behind Hyper-Connection**
 ![[Pasted image 20260106164439.png]]
 *First params -> static mappings:* global ones that do not depend on the input referrend.
@@ -75,7 +77,6 @@ However, when DeepS seek attempt to adapt this technique for their model trainin
 ![[Pasted image 20260106164931.png]]
 The first term corresponds to the features at a shallow layer successively transformed by the feature mixing matrices across the intermediate layers. The second term consists of the sum of the outputs from all previous residual functions.
 
-
 Suppose the initial value is one and the feature at layer L involves the successive multiplications of a scalar H. Let's see how the value evolves over the layers. When the value of edge is one, we have identity mapping. The output at a layer L is still one. However, if we increase the value of edge to 1.1, the output value exhibit a dramatic 100 fold increase.
 ![[Pasted image 20260106165015.png | 555]]
 
@@ -85,33 +86,20 @@ Conversely, when edge is less than one, the output value rapidly decays as it pa
 
 To achieve this, we apply an exponential function for each individual element. The exponentiation ensures that each output is strictly positive and increases monotonically with its input. But now when we sum up all the rows and all the columns, their values are now one. We use a simple iterative algorithm that alternately rescale all rows and all columns of the matrix to sum up to one.
 ![[Pasted image 20260106165343.png]]
-But after scaling, the sum of each row is still not one. Therefore, we rescale the sum of each row to one. But after rescaling all rows to sum to one, that changes the sum of the columns.
-Fortunately, we can apply the alternative rescaling iteratively. With only a few iterations, we make the
-feature mixing matrix very close to a doubly stoastic matrix. It's very simple.
+But after scaling, the sum of each row is still not one. Therefore, we rescale the sum of each row to one. But after rescaling all rows to sum to one, that changes the sum of the columns. Fortunately, we can apply the alternative rescaling iteratively. With only a few iterations, we make the feature mixing matrix very close to a doubly stoastic matrix. It's very simple.
 ![[Pasted image 20260106165509.png]]
 + ? To make this sound more academic, we refer this process as *projecting the feature mixing matrix onto the manifold of doubly stoastic matrices*. Basically made them well behaved. This algorithm is known as the **synch knob algorithm.**
 ![[Pasted image 20260106165557.png]]
 
 
-For the other two matrices, the deepseek
-paper also made some slight adjustments
-in terms of their parameterizations.
-Here is the parameterizations of the
-hyperconnections papers discussed
-before. Here is the one from deepseek.
-The key difference is that they change
-the activation function from 10 edge to
-sigmoid.
+For the other two matrices, the deepseek paper also made some slight adjustments
+in terms of their parameterizations. Here is the parameterizations of the hyperconnections papers discussed before. Here is the one from deepseek. The key difference is that they change
+the activation function from 10 edge to sigmoid.
 ![[Pasted image 20260106165609.png]]
 The primary reasons are twofold.
 + First, this avoids negative coefficients.
 + Second, the new parameterizations
-ensures that the aggregation and
-expansion weights are bounded. The
-values cannot be larger than one or two.
-Compared to the original
-parameterizations, the new design makes
-the linear mappings more well behaved.
+ensures that the aggregation and expansion weights are bounded. The values cannot be larger than one or two. Compared to the original parameterizations, the new design makes the linear mappings more well behaved.
 
 ![[Pasted image 20260106172010.png]]
 But **why is there a scalar two here ?**  Remember that this is the weight we use to rescale the layer output before adding back to each residual stream. At the initializations, the parameters alpha and bias vector B are set to be small numbers. This means that **initially the input to the sigmoid is very close to zero and therefore the output is very close to 0.5.** **Multiplying it by two ensures** that at the beginning of the training the **hyperconnections behave exactly like the standard residual connections.**  $$0.5 \times 2 = 1$$

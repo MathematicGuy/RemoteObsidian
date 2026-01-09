@@ -53,7 +53,6 @@ Titan big limitation are its only learn at 2 levels, store knowledge at level 1 
 
 -> This is where **HOPE (Hierarchical Optimizing Processing Ensemble)** come in 
 Hope keeps Titans’ “surprise-based memory,” but adds **self-modification**. 
-
 ![[Pasted image 20260107144054.png]]
 
 ![[Pasted image 20260107153315.png]]
