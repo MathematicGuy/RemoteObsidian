@@ -481,7 +481,7 @@
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
   "aiEnabled": true,
-  "openAIAPIToken": "",
+  "openAIAPIToken": "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",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultTextModelMaxTokens": 4096,
   "openAIDefaultVisionModel": "gpt-4o",
