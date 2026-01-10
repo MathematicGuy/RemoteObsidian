@@ -1,9 +1,9 @@
 [
-  "table-editor-obsidian",
   "highlightr-plugin",
   "homepage",
   "obsidian-list-callouts",
   "obsidian-style-settings",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-excalidraw-plugin"
 ]

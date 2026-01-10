@@ -1,67 +1,4 @@
-NL reveals that components like optimizers and attention mechanisms are actually associative memory modules that compress information at different frequencies
-
-**Nested Learning, a new approach to machine learning that views models as a set of smaller, nested optimization problems, each with its own internal workflow**, in order to mitigate or even completely avoid the issue of “catastrophic forgetting”, where learning new tasks sacrifices proficiency on old tasks
-	nested optimization problems -> not 1 system, but a system of interconnected (multi-level learning with each level optimized a problem), that are optimized simultaneously. 
-
-Complex **ML model** is actually *a set of coherent, **interconnected optimization problems nested within each other** or running in parallel.* Each of these internal porblems has its own context flow - its own distinct set of infor which it is trying to learn. 
-
-**Deep Learning work by compressing their internal context flows.** allowing to build model with deeper computational depth. 
-
-**Inspiration**
-+ Human brain adapts through **neuroplasticity** - a term to describe the remarkable capacity to **change its structure in response to new experiences**, memories and learning. 
-+ **Associative memory - the ability to map and recall** one thing based on another (e.g. recalling a name when u see a face, where "name" & "face" are pairs of unrelated items)
-
-
-In the training process itself, specifically the *backpropagation process*, can be modeled as an *associative meory.* **The model learns to map a given data point to the value of its local error**, serve as a measure of how "Suprising" or unexpected that data point was.  
-	
-+ ? What does it mean to say "The model learns to map a given data point to the value of its local error"
-	*"mapping a data point to its local error"* means the model is actively trying to associate **"This specific input"** with **"The mistake I made on it."**
-		By *updating the weight* ($W_{t+1}$), the models is *"storing" the connection between the Specific input data and that "Error" its causes* -> By using the Weight, next time the model sees that data point (Key), it recalls the correction (Value) to adjust its behaviour. 
-	-> **Weight store Connection of (Input (Key) -> Error (Value))** in a neural network. 
-	
-+ ? What "Local Error" mean ? 
-		*Local Error is the "measure of suprise"*  (like loglikelihood loss function) -> Thus high loss/error also mean high level of unpredictable/suprise) where the "local" term say this "Error" is calculated the specific error comming back from  from the next layer. 
-		
-	+ **Low Surprise (Entropy)** -> The predicting datapoint is purfect, gradient (error) is zero ->  nothing to memorize to update.
-		   
-	+ High Surpise if the prediction is wrong, the gradient is large. 
-	
-+ @ **The Associative Mapping:** The goal of the training process is to treat the **input (x) as a Key** and this **gradient term ($\nabla$) as a Value**
-
-Nested Learning paradigm *reframe the training process* of an entire deep neural network with backpropagation *as a system of parallel optimization problems* **where each layer learns to map its specific input to its specific 'local surprise signal $\nabla \mathcal{L}$'** making the entire network a collection of these processes. 
-
-![[Pasted image 20260102215707.png | 655]]
-	HOPE fills the gap with multiple blocks that update at different **frequencies**:
-	**Fast Blocks:** Update every few tokens, capturing immediate context.
-	**Medium Blocks:** Update every few thousand tokens.
-	**Slow Blocks:** Update over millions of tokens, capturing global trends.
-	
-The model uses a **"self-referential"** process where it *generates its own learning rates and weight decays, effectively learning how to learn.* ![[Pasted image 20260107140348.png | 655]]
-Treats optimizer as something that can learn from its own memory/history. The optimizer become the learner itself. 
-
-The previous layer refine the next layer, its like having a mind where each layer watching & improve the one below. Just like how human learn, we don't just stop at understanding the information but keep on refining it. 
-
-Titan (base model) - only remember what "suprise & forget the rest", it update infor only in 2 layers and limited to first-order thinking. 
-
-HOPE - the model that learns to learn. *Automatically learns what to keep, what to remember and what to forget.* Example of memory refinement:
-![[Pasted image 20260107141716.png]]
-
-+ ? How the Titans model behave ? Also Inspired by the human brain, its prioritize storing its mark as important, in other word, titan remember what is "suprise" and forget what is routine or didn't match it expectation. This make Titan expecially good at remembering unexpected event and information while forget the usual/routine one.
-	just like how our brain remember special/unusual event than normal one.  
-		
-Titan big limitation are its only learn at 2 levels, store knowledge at level 1 and slightly adjusted it knowledge in level 2. And have fixed update rules like other deep learning model.  
-
--> This is where **HOPE (Hierarchical Optimizing Processing Ensemble)** come in 
-Hope keeps Titans’ “surprise-based memory,” but adds **self-modification**. 
-![[Pasted image 20260107144054.png]]
-
-![[Pasted image 20260107153315.png]]
-
-![[Pasted image 20260107144114.png]]
-
-Understand CMS
-Understand Preliminaries Fomula
-Understand Ad-hoc Level Stacking: Bridging the Old and New (_Explain how to implement this without training from scratch._)
+[[Nested Learning Overview Note]]
 
 **Final Presentation Structure:**
 	Title
@@ -72,12 +9,109 @@ Understand Ad-hoc Level Stacking: Bridging the Old and New (_Explain how to impl
 **Plan: Explore (1 + 2 part) -> Structurelize**
 + Keep Explore - Write down with my own though (concrete & help transfer my ideas to other better) not copying the HIGH LIGHT. 
 + Structurelize
+# Nested Learning 
+## Abstract 
+Nested Learning - machine learning model with a set of nested, multi-level, and/or parallel optimization problems, each of which with its own “context flow".  
+<-> Existing learning method learns from data through 
+compressing their own "context flow" 
 
------
-# Nested Learning Abstract
+![[Pasted image 20260110161418.png | 190]]
+
+Design Philopsophy: 
+-> More "levels" resulting in higher-order in-context learning + effective continual learning capabilities. 
+
+## Core Contribution Overview
+### (1) Expressive Optimizers 
+Gradient-based optimizers, such as Adam, SGD with Momentum, etc., are in fact associative memory modules. 
++ ? The momentum term in SGD compresses the history of gradients into a memory state to predict the next update. Therefore, an optimizer is just a learning module operating on a "context flow" of gradients
+
+### (2) Self-Modifying Learning Module: 
+Sequence model that learns how to modify itself by learning its own update algorithm
+
+### (3) Continuun Memory System
+>Control the update frequency of each levels. CMS creates a **spectrum of memory modules** updating at different rates, allowing the model to prioritize and retain information at varying timescales. 
+
+**What Spectrum of Memory Module Means ?**
+For Context, traditional DL like Transformers, memory is *binary (chose only 1:  short-term or long-term).* 
+ **Short-Term Memory:** The Activations / KV Cache (Attention). This is highly volatile and limited by the context window.
+ **Long-Term Memory:** The Weights (MLP layers). These are static (frozen) during inference and only updated during the massive pre-training phase -> so new update don't break old gradient. 
+-> CMS breaks this binary, instead of "Frozen Weight vs Activate token", CMS replaces FFN/MLP with a *chain of MLP blocks*, where each block operates at a different update frequency. 
+![[Pasted image 20260107144054.png]]
+**Spectrum** mean you have a hierarchy of layers ranging from **High-Frequency to Low-Frequency.** Where the 
++ high-frequency block *update weights every token or small chunk*. Act as a "Working memory" that adapts instantly to the **immediate** input stream. 
++ slow-frequency update weights very rarely *every 1M tokens*, acts like "long-term storage", only when the information are consolidate enough does the model change it fundamental world-view. 
+$$y_{t} = MLP^{f_{k}}(\dots MLP^{f_{k}} (o_{t})\dots)$$
++ $ In simple Term, CMS allow each MLP to Update by different TIME STEP.
++ ? Why and how CMS can help with longer context length and generally continual learning ?
+
+![[Pasted image 20260110173918.png]]
+![[Pasted image 20260102215707.png | 555]]
 
 
 
+## Core Philosophy: Architecture and Optimization are the same thing
+> "Old Philosophy" (Traditional Deep Learning) vs "New Philosophy" (Nested Learning) 
+
+### Multi-level Optimization Problem
+
+| **Philosophical Pillar**      | **Traditional Deep Learning View (The "Illusion")**                                                                                   | **Nested Learning View (The Reality)**                                                                                                                                          | **Practical Implication in NL**                                                                                                                                                                      |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Nature of Components**   | **Heterogeneous & Distinct:** Layers (Architecture) and Training Algorithms (Optimizers) are fundamentally different entities.        | **Uniform & Unified:** Architecture and Optimization are the _same concept_. Both are **Associative Memories** compressing a "context flow."                                    | **Deep Optimizers:** Optimizers are treated as neural networks (associative memories) that can be deepened (e.g., using MLPs instead of simple momentum) to better compress gradients.               |
+| **2. Time & Memory**          | **Binary:** Short-term (Attention/Activations) vs. Long-term (Frozen Weights). This leads to "Anterograde Amnesia" after training.    | **Spectrum (Continuum):** Memory is a **Continuum Memory System (CMS)** with varying update frequencies (from fast gamma-like updates to slow delta-like consolidation).        | **Online Consolidation:** High-frequency layers adapt instantly to new tokens, while low-frequency layers consolidate patterns over millions of tokens, preventing catastrophic forgetting.          |
+| **3. Learning Mechanism**     | **Static & External:** The model is a static artifact trained by an external "teacher" (optimizer) during a fixed pre-training phase. | **Recursive & Self-Referential:** The model is a "living" system of **nested loops**. It generates its own learning parameters (keys, values, learning rates) to modify itself. | **Self-Modifying Titans:** The "Hope" architecture generates its own optimization hyperparameters ($\eta_t, \alpha_t$) on the fly, effectively "rewriting its own learning code" based on the input. |
+| **4. The Role of "Surprise"** | **Error Signal:** Gradients are merely error signals used to nudge weights, then discarded.                                           | **Memory Content:** Learning is the **compression of surprise**. Backpropagation is an associative memory mapping input data to its "Local Surprise Signal" (LSS).              | **Data Filtering:** If data is predictable (low surprise), the memory doesn't update. If data is surprising (high gradient), it triggers a memory update, naturally filtering for importance.        |
+| **5. Definition of Context**  | **Fixed Window:** Context is limited to the immediate input window (e.g., 128k tokens). Pre-training is a separate past event.        | **Infinite Stream:** Pre-training is just **"In-Context Learning with an ultra-large context."** There is no boundary between training and testing.                             | **Lifelong Learning:** The model continuously metabolizes data. Fast loops handle the prompt; slow loops handle the "pre-training" data, treating both as context flows to be compressed.            |
+| **6. Topology**               | **Fixed Graph:** The neural network structure (number of layers, connections) is fixed at initialization.                             | **Dynamic & Evolutionary:** The hierarchy can evolve. **Dynamic Nested Hierarchies (DNH)** allow the model to add/prune levels based on distribution shifts.                    | **Neuroplasticity:** The model can physically restructure itself (adding new memory modules) when the environment changes, ensuring sublinear regret in non-stationary tasks.                        |
+
+### **Summary of the Paradigm Shift**
+
+- **From:** A static tool built by engineers, where "learning" happens once and stops.
+- **To:** A biological-like organism (a **Neural Learning Module**) composed of infinite loops of optimization, continuously metabolizing information at different speeds to achieve **Lifelong Intelligence**.
+
+
+### Context Flow Compression
+
+
+### Unified Learning Diagram 
+
+
+
+
+## Neurophysiology Motivation
+### Neuroplasticity
+
+
+### Multi-Time Scale Update
+
+
+### Uniform and Reusable Structure
+
+
+### Memory Consolidation (Online / Offline)
+
+
+## Key Contribution
+### Coninuum Memory System (CMS)
+```pseudo
+\begin{algorithm} \caption{Multi-scale Momentum Muon (M3)} \begin{algorithmic} \STATE \textbf{Input:} Initial weights $\Theta_0$, objective $\mathcal{L}(\cdot)$, learning rate $\eta > 0$, Newton-Schulz steps $T$, momentum factors $1 > \beta_1, \beta_2, \beta_3$, $\alpha \ge 0$, $\epsilon > 0$, frequency $f$. \STATE Initialize momentums: $M_0^{(1)}, M_0^{(2)} \leftarrow 0$, $V_0 \leftarrow 0$; \FOR{lower-frequency iteration $k = 0, 1, 2, \dots$ } \STATE Slow Memory: $M_t^{(2)} = M_{t-1}^{(2)} + \beta_3 \sum_{i=(k-1)f}^{kf} g_i$; \STATE $O_t^{(2)} \leftarrow \text{Newton-Schulz}_T(M_t^{(2)})$; \FOR{$t = kf+1, kf+2, \dots, (k+1)f$} \STATE Compute Gradient: $g_t = \nabla_{\Theta_t} \mathcal{L}(\Theta_t)$; \STATE First Momentum: $M_t^{(1)} = M_{t-1}^{(1)} + \beta_1 g_t$; \STATE Second Momentum: $V_t = V_{t-1} + \beta_2 g_t^2$; \STATE $O_t^{(1)} \leftarrow \text{Newton-Schulz}_T(M_t^{(1)})$; \STATE $\Theta_t \leftarrow \Theta_{t-1} - \eta \frac{O_t^{(1)} + \alpha O_t^{(2)}}{\sqrt{V_t + \epsilon}}$; \ENDFOR \ENDFOR \end{algorithmic} \end{algorithm}
+```
+
+
+
+
+![[Pasted image 20260110175928.png]]
+
+**Time-Complexity**
+![[Pasted image 20260110174758.png | 585]]
+
+
+
+## Hope Architecture 
+### Self-Modifying Titans
+
+
+### Continuum Memory Integration 
++ ? Integrate CMS into existing model (High Application)
 
 
 

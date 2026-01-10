@@ -23,8 +23,21 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "a476700265305800",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Life as a System.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Life as a System.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,16 +180,27 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "87a9346395dee7f4",
+  "active": "a476700265305800",
   "lastOpenFiles": [
-    "PROKLEM.md",
     "_Focus.md",
-    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
+    "Excalidraw/Life as a System.excalidraw.md",
+    "image/Pasted Image 20260110150517_066.png.~tmp",
+    "2 ACTIONS/_My Life/Deepthought.md",
+    "image/Pasted Image 20260110150517_066.png",
+    "image/Pasted Image 20260110122950_626.png",
+    "image/Pasted Image 20260110122846_486.png",
+    "image/Pasted Image 20260110122834_501.png",
+    "image/Pasted Image 20260110122759_499.png",
+    "Excalidraw/Drawing 2026-01-10 12.20.49.excalidraw.md",
+    "Excalidraw",
     "THOUGH.md",
+    "Daily Note.md",
+    "PROKLEM.md",
+    "3 RESOURCES/_Productivity & Improvement/_Productivity & Improvement.md",
     "2 ACTIONS/_My Life/_My Life.md"
   ]
 }
