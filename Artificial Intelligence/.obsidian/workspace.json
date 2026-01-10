@@ -34,8 +34,33 @@
               "icon": "excalidraw-icon",
               "title": "Nested Learning Board"
             }
+          },
+          {
+            "id": "785f6b4c99535284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nested Learning - The Illusion of Deep Learning Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nested Learning - The Illusion of Deep Learning Architecture"
+            }
+          },
+          {
+            "id": "0eb0512d7ebea6f8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO - Action Recognition in Continual Learning.md",
+                "file": "Nested Learning - The Illusion of Deep Learning Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AIO - Action Recognition in Continual Learning"
+              "title": "Backlinks for Nested Learning - The Illusion of Deep Learning Architecture"
             }
           },
           {
@@ -179,13 +204,23 @@
               "icon": "lucide-list",
               "title": "Outline of AIO - Action Recognition in Continual Learning"
             }
+          },
+          {
+            "id": "eb7353112a6c27f7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +238,17 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "60121d03a36e31cb",
+  "active": "eb7353112a6c27f7",
   "lastOpenFiles": [
+    "Excalidraw/Nested Learning Board.md",
+    "2 ACTIONS/_Focus.md",
+    "Fun Research Paper & Direction Analysis.md",
     "image/Pasted image 20260110175928.png",
     "image/Pasted image 20260110174758.png",
     "image/Pasted image 20260110173918.png",
@@ -220,12 +261,9 @@
     "image/Nested Learning The Illusion of Deep Learning Architecture_0.pdf",
     "image/Nested Learning The Illusion of Deep Learning Architecture.pdf",
     "Nested Learning Overview Note.md",
-    "2 ACTIONS/_Focus.md",
-    "Excalidraw/Nested Learning Board.md",
     "Continous Learning Survey.md",
     "image/Pasted image 20260108011110.png",
     "Paper Review.md",
-    "image/Pasted image 20260107215425.png",
     "Paper Review 2.md",
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "image/Tldraw 2026-01-08 2.19PM.md",
