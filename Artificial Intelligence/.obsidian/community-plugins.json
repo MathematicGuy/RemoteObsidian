@@ -3,11 +3,14 @@
   "obsidian-list-callouts",
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
   "obsidian-linter",
   "quick-latex",
   "obsidian-latex-suite",
+  "obsidian-kanban",
   "obsidian-annotator",
   "pdf-plus",
   "obsidian-excalidraw-plugin",
-  "pseudocode-in-obs"
+  "tldraw",
+  "smart-connections"
 ]

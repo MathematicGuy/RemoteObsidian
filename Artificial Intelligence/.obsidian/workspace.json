@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "801f9d8bee07eb23",
+        "id": "803f9f7f7ab7ab7f",
         "type": "tabs",
         "children": [
           {
-            "id": "d460520a191c0670",
+            "id": "60121d03a36e31cb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,7 +24,19 @@
             }
           },
           {
-            "id": "773de87b58f41263",
+            "id": "93b4a394a97d8662",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Nested Learning Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Nested Learning Board"
+            }
+          },
+          {
+            "id": "785f6b4c99535284",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,6 +56,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "6a629d0828b5e717",
             "type": "leaf",
             "state": {
@@ -83,9 +96,19 @@
               },
               "icon": "lucide-file",
               "title": "Nested Learning Preliminaries Annotation"
+=======
+            "id": "0eb0512d7ebea6f8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+>>>>>>> origin/main
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO - Action Recognition in Continual Learning.md",
+                "file": "Nested Learning - The Illusion of Deep Learning Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AIO - Action Recognition in Continual Learning"
+              "title": "Backlinks for Nested Learning - The Illusion of Deep Learning Architecture"
             }
           },
           {
@@ -221,25 +244,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper Review 2.md",
+                "file": "AIO - Action Recognition in Continual Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paper Review 2"
+              "title": "Outline of AIO - Action Recognition in Continual Learning"
+            }
+          },
+          {
+            "id": "eb7353112a6c27f7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "tldraw:Create new tldrawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -248,14 +281,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "d460520a191c0670",
+  "active": "eb7353112a6c27f7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "2 ACTIONS/_Focus.md",
     "Nested Learning Preliminaries Annotation.md",
@@ -282,24 +321,53 @@
     "Research Paper Research.md",
     "Research.canvas",
     "Continuous Learning & Nested Learning Survey.md",
+=======
+    "Excalidraw/Nested Learning Board.md",
+    "2 ACTIONS/_Focus.md",
+    "Fun Research Paper & Direction Analysis.md",
+    "image/Pasted image 20260110175928.png",
+    "image/Pasted image 20260110174758.png",
+    "image/Pasted image 20260110173918.png",
+    "image/Pasted image 20260110161418.png",
+    "image/Pasted Image 20260110182143_442.png",
+    "image/Pasted Image 20260110182043_514.png",
+    "image/Pasted Image 20260110181802_009.png",
+    "image/Pasted Image 20260110181704_838.png",
+    "image/Pasted Image 20260110180129_992.png",
+    "image/Nested Learning The Illusion of Deep Learning Architecture_0.pdf",
+    "image/Nested Learning The Illusion of Deep Learning Architecture.pdf",
+    "Nested Learning Overview Note.md",
+>>>>>>> origin/main
     "Continous Learning Survey.md",
-    "How to Review a Paper.md",
-    "Continous Learning and Catastrophic Forgetting.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "image/Pasted image 20260108011110.png",
+    "Paper Review.md",
+    "Paper Review 2.md",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "image/Tldraw 2026-01-08 2.19PM.md",
     "Excalidraw/Scripts/Downloaded/Text to Path.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
-    "NestedDraw.tldr",
-    "1 PROJECTS/Untitled.md",
-    "1 PROJECTS/Nested_Learning.drawio",
-    "image/Tldraw 2026-01-08 2.19PM.md",
     "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "1 PROJECTS/Nested_Learning.drawio",
+    "DeepSeek Manifold-Constrained Hyper-Connections (mHC).md",
+    "Continuous Learning & Nested Learning Survey.md",
     "Excalidraw/Scripts/Downloaded/Uniform size.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "2 ACTIONS/Nested Learning.canvas",
     "2 ACTIONS/Untitled.base",
+<<<<<<< HEAD
+=======
+    "2 ACTIONS/todo.md",
+    "Continual Learning Terms & Definitions.md",
+    "Identity Mapping Violation.md",
+    "Step by Step CNN.md",
+    "AIO CNN.md",
+    "CNN from Scratch.md",
+    "Introduction to Computer Vision - CNN Focus.md",
+>>>>>>> origin/main
     "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
     "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
     "25M6 Project Module  - Customer Analysis"
