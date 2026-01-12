@@ -6,13 +6,14 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 _TODAY
 - [ ] Nested Learning 
 - [ ] ViT Project Module tonigh (exclaimer: gurantee risk of Down Mood)
-- [ ] Workout at 5:30PM
 
 _Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case
 - [ ] Machine Learning Project Life Cycle description for one of my Project
 - [ ] L1 vs L2 for regression
 - [ ] Research Paper Understanding
+- [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
+
 
 ### [[Fun Research Paper & Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
@@ -55,3 +56,8 @@ _Long Term
 
 - **Game Theory**
     - [Game Theory Full Course](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxdzD8KpTHz6_gsw9pPxRFlX)
+
+
+## Tools
+[OpenSource AI Agent](https://opencode.ai/docs)
+

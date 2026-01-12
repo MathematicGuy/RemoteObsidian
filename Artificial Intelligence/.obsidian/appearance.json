@@ -6,9 +6,7 @@
   "theme": "obsidian",
   "baseFontSize": 15,
   "nativeMenus": true,
-  "enabledCssSnippets": [
-    "custom-bg"
-  ],
+  "enabledCssSnippets": [],
   "showViewHeader": true,
   "showRibbon": false
 }
