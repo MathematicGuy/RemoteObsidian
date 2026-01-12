@@ -5,8 +5,6 @@ banner: Images/Pasted image 20240402135259.png
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
 #Todo/Priority
-- [ ] Optimize home env for focus/deepwork & activate flow ritual
-- [ ] Performance tracker and Effect of things on my wall.9+
 
 
 #Todo/[[GoalsThisWeek]]
