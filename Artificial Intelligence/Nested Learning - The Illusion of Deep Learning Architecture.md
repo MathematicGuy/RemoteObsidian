@@ -20,6 +20,7 @@ compressing their own "context flow"
 Design Philopsophy: 
 -> More "levels" resulting in higher-order in-context learning + effective continual learning capabilities. 
 
+
 ## Core Contribution Overview
 ### (1) Expressive Optimizers 
 Gradient-based optimizers, such as Adam, SGD with Momentum, etc., are in fact associative memory modules. 
@@ -112,10 +113,6 @@ $$y_{t} = MLP^{f_{k}}(\dots MLP^{f_{k}} (o_{t})\dots)$$
 
 ### Continuum Memory Integration 
 + ? Integrate CMS into existing model (High Application)
-
-
-
-
 
 
 
