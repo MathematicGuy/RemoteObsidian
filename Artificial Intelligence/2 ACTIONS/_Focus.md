@@ -14,6 +14,8 @@ _Long Term
 - [ ] Research Paper Understanding
 - [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
 
+![[Pasted image 20260113214948.png]]
+
 
 ### [[Fun Research Paper & Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for**

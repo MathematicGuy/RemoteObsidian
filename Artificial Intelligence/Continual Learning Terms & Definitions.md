@@ -10,7 +10,6 @@
 
 **Regularization (EWC):** **Attaching a spring to the ball anchored at the bottom of Task A's valley**. The spring is stiff **(hard to pull) for important parameters and loose for unimportant ones.** This allows the ball to move toward Task B's valley but prevents it from leaving Task A's valley entirely.
 
-
 **Herding:** a deterministic strategy for selecting **which samples to store in memory (for replay)** based on finding **samples that best the approx class mean in feature space.** 
 
 **Methodological Approach** (Taxonomy - phân loại)
