@@ -24,7 +24,23 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "6dec29f3e7e811b4",
+=======
+            "id": "93b4a394a97d8662",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Nested Learning Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Nested Learning Board"
+            }
+          },
+          {
+            "id": "bdf68cf89be1a487",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +53,12 @@
               "title": "25M8W1 - ConvNeXt"
             }
           }
+<<<<<<< HEAD
         ]
+=======
+        ],
+        "currentTab": 2
+>>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -57,7 +78,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,12 +194,17 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Class Incremental Learning Survey.md",
+=======
+                "file": "Nested Learning - The Illusion of Deep Learning Architecture.md",
+>>>>>>> origin/main
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Class Incremental Learning Survey"
             }
           }
@@ -187,6 +213,37 @@
     ],
     "direction": "horizontal",
     "width": 300,
+=======
+              "title": "Outline of Nested Learning - The Illusion of Deep Learning Architecture"
+            }
+          },
+          {
+            "id": "d008e77e064f8d3e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "c2d4789594a3418a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 673.5,
+>>>>>>> origin/main
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,6 +267,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
+<<<<<<< HEAD
   "active": "ca5e6aab1d42a01b",
   "lastOpenFiles": [
     "25M8W1 - ConvNeXt.md",
@@ -237,5 +295,55 @@
     "Excalidraw/Nested Learning Board.md",
     "M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
     "Nested Learning Overview Note.md"
+=======
+  "active": "bdf68cf89be1a487",
+  "lastOpenFiles": [
+    "image/Pasted image 20260111220522.png",
+    "image/Pasted image 20260111215447.png",
+    "image/Pasted image 20260111213219.png",
+    "image/Pasted image 20260111213208.png",
+    "image/Pasted image 20260111213153.png",
+    "image/Pasted image 20260111211903.png",
+    "image/Pasted image 20260111211723.png",
+    "image/Pasted image 20260111211524.png",
+    "image/Pasted image 20260111211501.png",
+    "image/Pasted image 20260111211050.png",
+    "image/Pasted image 20260111210635.png",
+    "gradient suprise.md",
+    "Nested Learning Preliminaries Annotation.md",
+    "Multi-scale Momentum Muon - What to FOCUS ON.md",
+    "Excalidraw/Nested Learning Board.md",
+    "2 ACTIONS/_Focus.md",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "AIO 2025.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Cloud Services.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/AI For Everyone.md",
+    "Fun Research Paper & Direction Analysis.md",
+    "image/Nested Learning The Illusion of Deep Learning Architecture_0.pdf",
+    "image/Nested Learning The Illusion of Deep Learning Architecture.pdf",
+    "Nested Learning Overview Note.md",
+    "Continous Learning Survey.md",
+    "Paper Review.md",
+    "Paper Review 2.md",
+    "image/Tldraw 2026-01-08 2.19PM.md",
+    "Excalidraw/Scripts/Downloaded/Text to Path.md",
+    "Excalidraw/Scripts/Downloaded/Text Aura.md",
+    "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "1 PROJECTS/Nested_Learning.drawio",
+    "DeepSeek Manifold-Constrained Hyper-Connections (mHC).md",
+    "Continuous Learning & Nested Learning Survey.md",
+    "Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "2 ACTIONS/Nested Learning.canvas",
+    "2 ACTIONS/Untitled.base",
+    "1 PROJECTS/NCKH 2025/Books/STUDENT DANGEROUS BEHAVIOR DETECTION IN SCHOOL.pdf",
+    "1 PROJECTS/NCKH 2025/Books/Student Behavior Recognition System for the Classroom.pdf",
+    "25M6 Project Module  - Customer Analysis"
+>>>>>>> origin/main
   ]
 }
