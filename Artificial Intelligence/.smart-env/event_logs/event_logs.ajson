@@ -285,3 +285,5 @@
 >>>>>>> origin/main
 
 "event_logs:sources:modified": {"key":"sources:modified","ct":5274,"first_at":1768196993770,"last_at":1768321850529,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":4599,"obsidian:vault.modify":675}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":15906,"first_at":1768089396189,"last_at":1768321864035,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":4667,"first_at":1768089404372,"last_at":1768321865372,"class_name":"EventLog"},
