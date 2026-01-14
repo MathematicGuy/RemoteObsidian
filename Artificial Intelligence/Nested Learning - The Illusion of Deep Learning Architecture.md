@@ -9,10 +9,18 @@
 **Plan: Explore (1 + 2 part) -> Structurelize**
 + Keep Explore - Write down with my own though (concrete & help transfer my ideas to other better) not copying the HIGH LIGHT.
 + Structurelize
+<<<<<<< HEAD
+
+# Nested Learning 
+## Abstract 
+Nested Learning - machine learning model with a set of nested, multi-level, and/or parallel optimization problems, each of which with its own “context flow".  
+<-> Existing learning method learns from data through compressing their own "context flow" 
+=======
 # Nested Learning
 ## Abstract
 Nested Learning - machine learning model with a set of nested, multi-level, and/or parallel optimization problems, each of which with its own “context flow".
 <-> Existing learning method learns from data through compressing their own "context flow"
+>>>>>>> origin/main
 
 ![[Pasted image 20260110161418.png | 190]]
 
@@ -148,16 +156,21 @@ Figure 5: A comparison of Hope architectural backbone with Transformers (Normali
 ![[Pasted image 20260110173918.png]]
 ![[Pasted image 20260111210635.png]]
 
+Nested Learning is a perspective to develop CMS.
 ![[Pasted image 20260111205226.png]]
 
 #### **1. The Forward Pass (Equation 70)**
 $$y_{t} = MLP^{(f_{k})} \left( MLP^{(f_{k-1})} \left( \dots MLP^{(f_{1})}(x_{t}) \right) \right)$$
 
 #### **2. The Update Rule (Equation 71)**
+[[M3 Multi-scale Momentum Muon - What to FOCUS ON]] 
+Note: Adam + Muon + CMS = Multi-scale Momentum Muon (M3)
 ![[Pasted image 20260111211050.png]]
-	This is the core "Continuum" logic. It dictates that blocks do **not** update at every step. They **update only when their specific "time chunk" is full.**
-$$\theta_{i+1}^{(f_{t})} = \theta_{i}^{(f_{t})} - \begin{cases} \sum_{t=i-C^{(t)}}^{i} \eta_{t}^{(t)} f(\theta_{t}^{(f_{t})}; x_{t}) & \text{if } i \equiv 0 \pmod{C^{(l)}} \\ 0 & \text{otherwise} \end{cases}$$
+For each $k-iteration$, $O_t^{(2)}$ (CMS) update in parallel with $O_{t}^{(1)}$ (Muon), but if Chunk size $\hat{C}$ is not met, $O_{t}^{(2)}$ just return 0.
+![[Pasted image 20260112141205.png]]
 
+<<<<<<< HEAD
+=======
 - **$\theta_{i+1}^{(f_{t})} = \theta_{i}^{(f_{t})} - \dots$**:
 
     - **What it does:** This is the standard structure of a weight update (New Weight = Old Weight - Change).
@@ -190,6 +203,7 @@ $$\theta_{i+1}^{(f_{t})} = \theta_{i}^{(f_{t})} - \begin{cases} \sum_{t=i-C^{(t)
 ```pseudo
 \begin{algorithm} \caption{Multi-scale Momentum Muon (M3)} \begin{algorithmic} \STATE \textbf{Input:} Initial weights $\Theta_0$, objective $\mathcal{L}(\cdot)$, learning rate $\eta > 0$, Newton-Schulz steps $T$, momentum factors $1 > \beta_1, \beta_2, \beta_3$, $\alpha \ge 0$, $\epsilon > 0$, frequency $f$. \STATE Initialize momentums: $M_0^{(1)}, M_0^{(2)} \leftarrow 0$, $V_0 \leftarrow 0$; \FOR{lower-frequency iteration $k = 0, 1, 2, \dots$ } \STATE Slow Memory: $M_t^{(2)} = M_{t-1}^{(2)} + \beta_3 \sum_{i=(k-1)f}^{kf} g_i$; \STATE $O_t^{(2)} \leftarrow \text{Newton-Schulz}_T(M_t^{(2)})$; \FOR{$t = kf+1, kf+2, \dots, (k+1)f$} \STATE Compute Gradient: $g_t = \nabla_{\Theta_t} \mathcal{L}(\Theta_t)$; \STATE First Momentum: $M_t^{(1)} = M_{t-1}^{(1)} + \beta_1 g_t$; \STATE Second Momentum: $V_t = V_{t-1} + \beta_2 g_t^2$; \STATE $O_t^{(1)} \leftarrow \text{Newton-Schulz}_T(M_t^{(1)})$; \STATE $\Theta_t \leftarrow \Theta_{t-1} - \eta \frac{O_t^{(1)} + \alpha O_t^{(2)}}{\sqrt{V_t + \epsilon}}$; \ENDFOR \ENDFOR \end{algorithmic} \end{algorithm}
 ```
+>>>>>>> origin/main
 
 **CMS Varient**
 ![[Pasted image 20260111213219.png]]

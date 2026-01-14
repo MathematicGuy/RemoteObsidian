@@ -29,6 +29,7 @@ Add penalty for changing old knowledge, penalize importance weights.
 + $ Fast, low effort. 
 + ! Eventually block learning when all important infors slot are filled. 
 
+
 #### Replay-Base approach: **most Effective right now.**  
 **Ideas:** replay old data while training new data. (quite the same as human)
 ![[Pasted image 20251222220352.png]]
@@ -59,8 +60,6 @@ AI **Structure Growth for each new task**. Although it have **perfect memory but
 + ! **Lack connections:** Ace exams but fail to connect ideas across fields, like Specialist.
 
 ---
-
-![[Pasted image 20260107233331.png]]
 
 **Prompt**
 "hay cho mình ví dụ tính tay từng bước, cho từng task, đừng bỏ qua bước nào, và ghi rõ công thức"
