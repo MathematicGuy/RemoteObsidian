@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "610abbf255601e5f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Nested Learning Board.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Nested Learning Board"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,12 +217,13 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "610abbf255601e5f",
+  "active": "60121d03a36e31cb",
   "lastOpenFiles": [
+    "Excalidraw/Nested Learning Board.md",
+    "image/Pasted image 20260113214948.png",
     "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260113230254.png",
     "image/Pasted image 20260113223750.png",
-    "image/Pasted image 20260113214948.png",
     "image/Pasted image 20260113212857.png",
     "image/Pasted image 20260113212614.png",
     "image/Pasted image 20260113212545.png",
@@ -250,7 +238,6 @@
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "Multi-scale Momentum Muon - What to FOCUS ON.md",
     "Nested Learning Preliminaries Annotation.md",
-    "Excalidraw/Nested Learning Board.md",
     "gradient suprise.md",
     "AIO 2025.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Cloud Services.md",
