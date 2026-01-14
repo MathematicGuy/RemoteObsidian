@@ -15,7 +15,7 @@ while [ ! -e "$TEMP_FILE.response" ]; do
         echo "Trigger file got removed: Abort" >&2
         exit 1
     fi
-    sleep 0.1
+    sleep 0.5
 done
 
 RESPONSE=$(cat "$TEMP_FILE.response")
