@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "a476700265305800",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Life as a System.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Life as a System.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +171,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a476700265305800",
+  "active": "87a9346395dee7f4",
   "lastOpenFiles": [
-    "_Focus.md",
     "Excalidraw/Life as a System.excalidraw.md",
-    "image/Pasted Image 20260110150517_066.png.~tmp",
+    "Violin.md",
+    "_Focus.md",
     "2 ACTIONS/_My Life/Deepthought.md",
+    "image/Pasted image 20260113140957.png",
+    "image/Pasted image 20260113140914.png",
+    "image/Pasted image 20260113140053.png",
+    "image/Pasted image 20260113135904.png",
+    "image/Pasted Image 20260110150517_066.png.~tmp",
     "image/Pasted Image 20260110150517_066.png",
     "image/Pasted Image 20260110122950_626.png",
     "image/Pasted Image 20260110122846_486.png",
