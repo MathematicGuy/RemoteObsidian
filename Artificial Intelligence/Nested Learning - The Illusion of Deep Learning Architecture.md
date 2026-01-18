@@ -242,3 +242,4 @@ A comparison of Hope architectural backbone with Transformers (Normalization and
 
 ### Continuum Memory Integration
 + ? Integrate CMS into existing model (High Application)
+	

@@ -47,6 +47,9 @@ This is the paper's unique contribution. Focus on how they split the timeline in
 
 - Instead of updating everything every step, the **Slow Memory ($M^{(2)}$)** waits for a chunk of steps ($\hat{C}$) to pass, sums up everything that happened, and _then_ updates.
 
+---
+### Compare Nested Learning and CMS 
+Solve the question is
 
 ---
 

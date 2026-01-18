@@ -41,7 +41,7 @@
 
 ### Gemini Review
 #### Zbjt (Borderline Reject)
-- **Score:** Borderline Reject (Moderate Confidence)
+- **Score:** Borderline Reject (Moderate Confidence) -> **SKIP**
 - **Key Criticism:**
 	
     - ! **Unfair Fight:** As mentioned above, you compared your method mostly against `Continual-CLIP`, which isn't the strongest competitor anymore. They specifically requested you compare against **RAPF [ECCV 2024]** and **MG-CLIP [ICCV 2025]**.

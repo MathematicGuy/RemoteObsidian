@@ -5,7 +5,7 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _TODAY
 - [ ] Nested Learning 
-- [ ] ViT Project Module tonigh (exclaimer: gurantee risk of Down Mood)
+- [ ] ViT Project Module tonight (exclaimer: gurantee risk of Down Mood)
 
 _Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case
@@ -13,6 +13,7 @@ _Long Term
 - [ ] L1 vs L2 for regression
 - [ ] Research Paper Understanding
 - [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
+- [ ] [NL record](https://livemissouristate-my.sharepoint.com/personal/ln77s_login_missouristate_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fln77s%5Flogin%5Fmissouristate%5Fedu%2FDocuments%2FRecordings%2F%5BContinual%20Learning%5D%20Group%20Seminar%2D20260111%5F080222%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1a8d5fda%2D668a%2D48b5%2D856e%2D0a812bac3fca)
 
 ![[Pasted image 20260113214948.png]]
 
@@ -25,8 +26,6 @@ _Long Term
 - [ ] [LoRA AI Viet Nam](https://aivietnam.edu.vn/blog/finetune-lora-llms#load-backbone-model)
 - [ ] [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
 - [ ] [ViT Blog](https://tutorial.aivietnam.edu.vn/pdf/24)
-- [ ] https://youtu.be/OVQXiKnx3mE?si=28z-CU7knr20cS4Q
-
 
 ### [[Machine Learning & Data Science Main]] _storage for future learning resource
 [Deep Dive to Deep Learning](https://d2l.ai/)
