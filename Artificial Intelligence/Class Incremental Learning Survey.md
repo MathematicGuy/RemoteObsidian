@@ -5,12 +5,13 @@ Note: _Preliminary: The process of finding out what there is to find out_.
 <-> IL is not i.i.d (independent and Identically Distribution - Độc lập và phân phối đồng nhất). *violation of the IID assumption is what leads* to "Catastrophic Forgetting (CF)".
 -> Solve CF allow model to continously learn new data no matter their distribution is. 
 
+To understand Class-Incremental Learning better, let go through 3 types of Incremental learning. 
 ![[Pasted image 20260112142639.png]]
 **Class-Incremental Learning**
 (a) in [[class-incremental learning]], an algorithm must incrementally learn a set of clearly distinguishable tasks.
-	training data come in sequence instances with *each Task doens't contain overlapping class $Y_{b} \cap Y_{b}' = \varnothing$.* After each task, the trained model is evaluated over all seen classes in task $b$ $(Y_{b} = Y_{1} \cup \dots Y_{b})$  CILM aim to fit a model $f(x): X \to Y_{b}$ over all class b. 
+	training data come in sequence instances with *each Task doens't contain overlapping class $Y_{b} \cap Y_{b}' = \varnothing$.* Affter each task, the trained model is evaluated over all seen classes in task $b$ $(Y_{b} = Y_{1} \cup \dots Y_{b})$  CILM aim to fit a model $f(x): X \to Y_{b}$ over all class b. 
 	Note: If $Y_{b} \cap Y_{b}' \neq \varnothing$ then it Blurry CIL where old classes emerge in new tasks, this allow model to revision old knowledge ie. classes, which weaken the learning difficulty. 
-	
+
 
 
 (b) in task-incremental learning, an algorithm must incrementally learn to distinguish between a growing number of objects or classes. 

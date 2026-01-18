@@ -15,7 +15,6 @@ _Long Term
 - [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
 - [ ] [NL record](https://livemissouristate-my.sharepoint.com/personal/ln77s_login_missouristate_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fln77s%5Flogin%5Fmissouristate%5Fedu%2FDocuments%2FRecordings%2F%5BContinual%20Learning%5D%20Group%20Seminar%2D20260111%5F080222%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1a8d5fda%2D668a%2D48b5%2D856e%2D0a812bac3fca)
 
-![[Pasted image 20260113214948.png]]
 
 
 ### [[Fun Research Paper & Direction Analysis]]
