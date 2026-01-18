@@ -158,21 +158,10 @@ AI **Structure Growth for each new task**. Although it have **perfect memory but
 
 
 **task boundary** ==marks the transition between distinct learning phases (tasks)==
-
 ![[Pasted image 20260106233351.png]]
 
-![[Pasted image 20260106233340.png]]
-
-Here is a prompt designed to generate a comprehensive visualization of the HAL workflow. You can use this prompt with Gemini (or any AI tool capable of rendering **Mermaid.js** or **Graphviz** diagrams) to create a "Dynamic View" of the architecture.
-
-![[Pasted image 20260107002133.png | 544]]
-
-![[Pasted image 20260107001954.png]]
 
 ![[Pasted image 20260107004214.png]]
 
 
-![[Pasted image 20260107105213.png]]
-
-![[Pasted image 20260107105342.png]]
 
