@@ -38,7 +38,6 @@
 [5] **RAPF -** Huang, Linlan, et al. "Class-incremental learning with clip: Adaptive representation adjustment and parameter fusion." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024.
 [6] **MG-CLIP -** Huang, Linlan, et al. "Mind the gap: Preserving and compensating for the modality gap in clip-based continual learning." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2025.
 
-
 ### Gemini Review
 #### Zbjt (Borderline Reject)
 - **Score:** Borderline Reject (Moderate Confidence) -> **SKIP**
