@@ -36,16 +36,6 @@
               "icon": "lucide-file",
               "title": "Class Incremental Learning Survey"
             }
-          },
-          {
-            "id": "78fb1576770ebd30",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 1
@@ -244,6 +234,7 @@
   },
   "active": "6b97d4f531378217",
   "lastOpenFiles": [
+    "Class Incremental Learning Survey.md",
     "image/Pasted image 20260118183148.png",
     "image/Pasted image 20260118182542.png",
     "image/Pasted image 20260118175541.png",
@@ -261,13 +252,11 @@
     "image/Pasted image 20260116205905.png",
     "image/Pasted image 20260116204744.png",
     "image/Pasted image 20260116203830.png",
-    "image/Pasted image 20260116203621.png",
     "Paper Review 2.md",
     "Research Paper Research.md",
     "Excalidraw/Nested Learning Board.md",
     "class-incremental learning.md",
     "M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
-    "Class Incremental Learning Survey.md",
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "Multi-scale Momentum Muon - What to FOCUS ON.md",
     "Nested Learning Preliminaries Annotation.md",
