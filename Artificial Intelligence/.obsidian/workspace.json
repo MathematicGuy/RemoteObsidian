@@ -36,22 +36,9 @@
               "icon": "lucide-file",
               "title": "Class Incremental Learning Survey"
             }
-          },
-          {
-            "id": "9e2aa6bbfcbf2930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continous Learning Survey.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continous Learning Survey"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,8 +232,10 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "60121d03a36e31cb",
+  "active": "6b97d4f531378217",
   "lastOpenFiles": [
+    "image/Pasted image 20260119192056.png",
+    "2 ACTIONS/_Focus.md",
     "Class Incremental Learning Survey.md",
     "Continous Learning Survey.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/what does it mean to say - The solution for this system has 0 degrees of freedom..md",
@@ -258,7 +247,6 @@
     "image/Pasted image 20260118160950.png",
     "Continous Learning and Catastrophic Forgetting.md",
     "Incremental class learning (survey).md",
-    "2 ACTIONS/_Focus.md",
     "Paper Review.md",
     "image/Pasted image 20260117171201.png",
     "25M8W1 - ConvNeXt.md",
@@ -284,7 +272,6 @@
     "Nested Learning Overview Note.md",
     "image/Tldraw 2026-01-08 2.19PM.md",
     "Excalidraw/Scripts/Downloaded/Text to Path.md",
-    "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "1 PROJECTS/Nested_Learning.drawio",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
