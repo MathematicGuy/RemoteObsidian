@@ -36,9 +36,22 @@
               "icon": "lucide-file",
               "title": "Class Incremental Learning Survey"
             }
+          },
+          {
+            "id": "9e2aa6bbfcbf2930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continous Learning Survey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continous Learning Survey"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,9 +245,12 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "6b97d4f531378217",
+  "active": "60121d03a36e31cb",
   "lastOpenFiles": [
     "Class Incremental Learning Survey.md",
+    "Continous Learning Survey.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/what does it mean to say - The solution for this system has 0 degrees of freedom..md",
+    "image/Pasted image 20260118230708.png",
     "image/Pasted image 20260118183148.png",
     "image/Pasted image 20260118182542.png",
     "image/Pasted image 20260118175541.png",
@@ -251,7 +267,6 @@
     "25M8W1 - Swin Transformer.md",
     "image/Pasted image 20260116205905.png",
     "image/Pasted image 20260116204744.png",
-    "image/Pasted image 20260116203830.png",
     "Paper Review 2.md",
     "Research Paper Research.md",
     "Excalidraw/Nested Learning Board.md",
@@ -267,7 +282,6 @@
     "image/Nested Learning The Illusion of Deep Learning Architecture_0.pdf",
     "image/Nested Learning The Illusion of Deep Learning Architecture.pdf",
     "Nested Learning Overview Note.md",
-    "Continous Learning Survey.md",
     "image/Tldraw 2026-01-08 2.19PM.md",
     "Excalidraw/Scripts/Downloaded/Text to Path.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",

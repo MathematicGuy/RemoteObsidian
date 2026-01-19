@@ -153,4 +153,7 @@ At timestep 4
 Note: Task-boundary là TIL (Task-Incremental Learning) vì search domain đc thu hẹp trong 1 task (chỉ test các class ở trong 1 Task nhất định), ngược lại là CIL là ko có Task-Boundary vì nó test trên mọi class đc học mỗi khi train 1 task mới mà ko thu hẹp prediction domain trong task nào.
 
 
+### Anchor
+![[Pasted image 20260118230708.png]]
+
 
