@@ -238,8 +238,10 @@ Bây giờ mới bắt đầu tính anchor cho task vừa học xong.
     
 Công thức cập nhật anchor $e_t$ (Gradient Ascent):
 $$e_{t} \leftarrow e_{t} + \alpha \nabla_{e_{t}} \underbrace{\left( \mathcal{L}(f_{\theta_{\mathcal{M}}}(e_{t}, t), y_{t}) - \mathcal{L}(f_{\theta_{t}}(e_{t}, t), y_{t}) - \gamma \|\phi(e_{t}) - \bar{\phi}_{t}\|^2 \right)}_{\text{Maximize Forgetting - Regularize Location}}$$
-
- **Tóm lại:** HAL không cố giữ toàn bộ quá khứ. Nó chỉ giữ những chỗ mà nếu mất đi, model sẽ quên nhanh nhất (maximized forgetting anchors).
 	Tức là việc tạo nhiễu ở đây nghĩa là đặt bối cảnh tương lai khi model được học trên dữ liệu mới và weight bắt đầu thay đổi thì nó sẽ lệch so với model học hiện tại bao nhiêu. *Nếu lệch nhiều có nghĩa là à mày học cái mới rồi m quên cái cũ quá trời luôn nên performance mới khác nhau*, nên đó là maximizing forgeting, mình cố khiến cho tại anchor đó, model quên đi thật nhiều -> **thì mới tăng độ “ác” của anchor**. Cái *B_M là đại diện cho 1 dữ liệu mới, lạ nhằm kéo weight đi,* đừng tập trung vào cái việc là ủa sao lại lấy một dữ liệu cũ rồi đóng vai trò như dữ liệu mới, vì thật chất mình chỉ cần quan tâm *mục tiêu là mình cần phải kéo lệch cái model học hiện tại bằng 1 bộ dữ liệu khác v th*, nên bộ dữ liệu memory là tiện để làm điều này.
 
+**Tóm lại:** HAL không cố giữ toàn bộ quá khứ. Nó chỉ giữ những chỗ mà nếu mất đi, model sẽ quên nhanh nhất (maximized forgetting anchors).
 ![[Pasted image 20260119192056.png]]
+
+---
+
