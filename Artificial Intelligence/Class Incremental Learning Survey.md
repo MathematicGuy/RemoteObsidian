@@ -245,3 +245,39 @@ $$e_{t} \leftarrow e_{t} + \alpha \nabla_{e_{t}} \underbrace{\left( \mathcal{L}(
 
 ---
 
+**Neuron Expansion** (Mở rộng mạng Neuron cho task mới)
+1-2: dùng network cũ để train dữ liệu mới 
+3: Chỉ finetune những nodes hữu dụng nhất cho task mới. 
+4: sau khi train mà loss vẫn thấp thì mở rộng thêm các nodes (các Nodes này dùng cho task mới) 
+5: Loại những nodes ko hữu dụng (đóng góp ít cho mạng neuron)
+6: có những neuron xử lý 2 tác vụ thì chia ra cho mỗi neuron làm đúng 1 tác vụ. 
+![[Pasted image 20260120080253.png]]
+
+
+**Prompt Expansion**
+![[Pasted image 20260120082853.png]]
+
+
+**Distillation:** tính Loss bằng cách so sánh embedding (tính góc giữa embedding của teacher và student) hoặc prediction đầu ra. 
+
+
+Why CL ? -> Hiểu nguyên nhân của Catastrophic Forgetting thay vì chỉ sửa hậu quả (rectification, distrillation) 
++ BatchNorm gây ra bias vì BN's stats thay đổi theo task -> activation shift, old class bị đẩy ra khỏi decision region. 
++ Eigenvalue của data representation
+	Feature space có eigenvalue lớn (hướng mạnh) thì transfer thông tin tốt hơn, ít bị quên hơn. 
+
+Multual Information giữa old và new, *nếu feature mới chia sẻ nhiều thông tin với feature cũ thì ít quên hơn.* 
+**Task-ID và Within-task, CIL gồm 2 bài toán:**
+1. *Task-ID in TIL:* đoán class cho biết không gian search của task-id .    
+2. *Within Task in CIL:* phân loại class trên mọi task.    
+-> Nếu task-id prediction sai thì CIL fail. 
+
+1 số paper chỉ ra, *Replay có thể gây hại:* 
++ *representation lớp mới chồng lên lớp cũ.* 
++ gradient update *phá structure cũ.* 
+-> ko pải cứ replay là tốt. 
+
+---
+
+### TreeLoRA
+Nếu dùng Gradient của task cũ trên Sample mới thì hiệu suất sẽ ra sao -> Xác định Task cũ có liên quan, gần với task mới hay không.  

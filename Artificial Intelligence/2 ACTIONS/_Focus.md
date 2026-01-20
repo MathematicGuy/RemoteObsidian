@@ -5,7 +5,6 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _TODAY
 - [ ] Nested Learning 
-- [ ] ViT Project Module tonight (exclaimer: gurantee risk of Down Mood)
 
 _Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case
