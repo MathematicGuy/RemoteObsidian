@@ -24,17 +24,13 @@
             }
           },
           {
-            "id": "6b97d4f531378217",
+            "id": "ceaf93ec1beb766c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Incremental Learning Survey.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Class Incremental Learning Survey"
+              "title": "New tab"
             }
           }
         ],
@@ -232,13 +228,18 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "6b97d4f531378217",
+  "active": "ceaf93ec1beb766c",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "ConNeXt - CNN based improvement from ViT.md",
+    "25M8W1 - ConvNeXt.md",
+    "Energy-Based Model.md",
+    "image/Pasted image 20260120162302.png",
+    "image/Pasted image 20260120162116.png",
+    "Class Incremental Learning Survey.md",
     "image/Pasted image 20260120082853.png",
     "image/Pasted image 20260120080308.png",
     "image/Pasted image 20260120080253.png",
-    "2 ACTIONS/_Focus.md",
-    "Class Incremental Learning Survey.md",
     "image/Pasted image 20260119192056.png",
     "Continous Learning Survey.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/what does it mean to say - The solution for this system has 0 degrees of freedom..md",
@@ -246,13 +247,9 @@
     "image/Pasted image 20260118183148.png",
     "image/Pasted image 20260118182542.png",
     "image/Pasted image 20260118175541.png",
-    "image/Pasted image 20260118174129.png",
-    "image/Pasted image 20260118160950.png",
     "Continous Learning and Catastrophic Forgetting.md",
     "Incremental class learning (survey).md",
     "Paper Review.md",
-    "image/Pasted image 20260117171201.png",
-    "25M8W1 - ConvNeXt.md",
     "AIO 2025.md",
     "25M8W1 - Swin Transformer.md",
     "Paper Review 2.md",
@@ -271,7 +268,6 @@
     "image/Nested Learning The Illusion of Deep Learning Architecture.pdf",
     "Nested Learning Overview Note.md",
     "image/Tldraw 2026-01-08 2.19PM.md",
-    "Excalidraw/Scripts/Downloaded/Text to Path.md",
     "1 PROJECTS/Nested_Learning.drawio",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
