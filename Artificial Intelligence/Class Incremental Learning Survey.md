@@ -153,3 +153,131 @@ At timestep 4
 Note: Task-boundary là TIL (Task-Incremental Learning) vì search domain đc thu hẹp trong 1 task (chỉ test các class ở trong 1 Task nhất định), ngược lại là CIL là ko có Task-Boundary vì nó test trên mọi class đc học mỗi khi train 1 task mới mà ko thu hẹp prediction domain trong task nào.
 
 
+## Hindsight Anchor Learning (HAL) - Giải thích & Công thức
+
+|**Feature**|**Standard Experience Replay (ER)**|**Hindsight Anchor Learning (HAL)**|
+|---|---|---|
+|**Goal** (Mục tiêu)|Ôn tập lại dữ liệu cũ ngẫu nhiên để không quên.|Bảo vệ những điểm "yếu nhất" (dễ quên nhất) của kiến thức cũ.|
+|**Step 1** (Training)|Lấy mẫu ngẫu nhiên từ Memory + Dữ liệu mới $\to$ Update model.|Update model tạm thời ($\tilde{\theta}$) trên dữ liệu mới + memory.|
+|**Step 2** (Constraint)|Không có ràng buộc cụ thể nào khác ngoài Loss function.|**Anchoring Objective:** Update model thật ($\theta$) sao cho dự đoán tại Anchor không đổi so với Step 1.|
+|**Step 3** (The Test/Anchor)|N/A (Không tạo Anchor).|**Hindsight:** Tìm $e_t$ sao cho khi model bị "nhiễu" (fine-tune trên memory), dự đoán tại $e_t$ sai lệch nhiều nhất.|
+|**The Challenge** (Thách thức)|Model có thể vẫn quên các vùng dữ liệu biên (decision boundary) ít được sample lại.|Phải tìm ra được $e_t$ nằm ở ranh giới quyết định (decision boundary)8.|
+|**Difficulty**|**Easy**. Chi phí tính toán thấp.|**Medium/Hard**. Tốn thêm chi phí tính toán để tìm Anchor (gradient ascent).|
+|**Analogy**|Học sinh ôn bài cũ bằng cách đọc lại ngẫu nhiên sách giáo khoa.|Học sinh ôn bài bằng cách tự giải lại các **câu hỏi khó/câu hỏi bẫy** đã từng làm sai.|
+
+
+![[Pasted image 20260118230708.png# left ]]
+**Mục tiêu:** Với mỗi Task, sử dụng 1 Anchor đại diện cho dữ liệu khó học với mục đích giúp mô hình nhớ các dữ liệu khác tốt hơn. Học khó nhớ lâu. 
+
+## 1. Anchor là gì?
+Anchor ($e$) không phải dữ liệu thật mà là 1 input $x$ tổng hợp (synthetic) được đưa vào để test phản ứng model. Tại đó, khi model được train trên dữ liệu mới (hoặc giả lập dữ liệu mới), nó có sự thay đổi lớn nhất về prediction. 
+
+**Tức là:**
+- Nếu model còn nhớ task cũ $\rightarrow$ prediction tại anchor ổn định.
+- Nếu model quên task cũ $\rightarrow$ prediction tại anchor đổi rất nhiều.
+
+**Lưu ý:** Anchor này phải có embedding gần với dữ liệu thật nên ta cần một tiêu chí regularization để anchor không đi quá xa và thành nhiễu rác (giống kiểu câu hỏi bẫy quá xa rời kiến thức).
+
+Công thức regularization giữ anchor gần mean embedding $\bar{\phi}_t$: 
+$$\mathcal{L}_{reg} = \gamma \|\phi(e_{t}) - \bar{\phi}_{t}\|^2$$
+
+
+**B2: Khởi tạo Memory**
+Lấy ra tập Memory buffer ($\mathcal{M}$), lúc đầu rỗng, lúc sau sẽ được nhét data thật + label vào.
+
+**B3-B6: Chuẩn bị**
+Lấy danh sách anchor cũ, lặp qua task hiện tại $t$, khởi tạo vector embedding trung bình $\bar{\phi}_t$.
+
+**B7: Sample từ Memory**
+Lấy batch ngẫu nhiên từ memory buffer ($\mathcal{B}_{\mathcal{M}}$) để kết hợp với batch hiện tại ($\mathcal{B}$).
+
+**B8: Temporary Update (Update Giả)** 
+Thực hiện update giả - update này đóng vai trò "nhìn trước" *xem nếu học tự do (không bị anchor ràng buộc) thì model sẽ trôi đi đâu.*
+- $f_{\tilde{\theta}}$: model update bình thường, không quan tâm anchor.
+- Công thức update tham số tạm thời $\tilde{\theta}$:
+- $B_\mathcal{M}:$ Memory Buffer ($\mathcal{M}$ of batch $B$.
+$$\tilde{\theta} \leftarrow \theta - \alpha \nabla_{\theta} \mathcal{L}(\mathcal{B} \cup \mathcal{B}_{\mathcal{M}})$$
+
+
+**B9: Anchoring Objective (Update Thật)**
+Đây là update chính thức. Lúc này ta thêm ràng buộc để phạt sự sai lệch prediction tại các anchor cũ.
+	
+- Thành phần $\sum \| f_{\theta}(e_{t'}, t') - f_{\tilde{\theta}}(e_{t'}, t') \|^2$: Tính độ lệch giữa prediction của model hiện tại ($\theta$) và model "nhìn trước" ($\tilde{\theta}$) tại các anchor cũ. Note: *$\theta$ là tham số của mô hình.*
+	
+- Ý nghĩa: *Học dữ liệu mới nhưng không được để lệch prediction tại các điểm "dễ quên" (anchor) so với baseline.* Đây là **điểm mấu chốt để giữ kiến thức cũ, dạy model kiến thức KHÓ (Anchor) để nó ko dễ bị quên kiến thức CŨ.**
+	
+	Sự sai khác gây ra bởi anchor trên prediction này sẽ bị phạt nếu nó quá lớn. Nên việc thêm phần này vô giống như một tiêu chí regularization -> **học dữ liệu hiện tại kết hợp quá khứ nhưng cũng ko được để lệch prediction khi bị tác động bởi anchor** -> ĐÂY LÀ ĐIỂM MẤU CHỐT GIẢI QUYẾT MỤC TIÊU BÀI TOÁN, VÌ TA CẦN GIÚP MODEL RẰNG, ta phải *minimize khả năng dự đoán lệch của nó khi nó bị ràng buộc bởi "có tồn tại một vùng khiến model dễ quên task cũ".* Vậy **để minimize khả năng này, ta cần MAXIMIZE mức độ dễ quên để tìm ra anchor tệ nhất,**. Tưởng tượng như việc muốn ở trên đỉnh cao của muôn người thì phải chịu đựng thứ muôn người ko thể chịu nổi, nên ta đang maximize độ khó cho model bằng anchor. Kiểu như gặp gì càng khó thì càng kích năng lực con người lên đúng ko =))
+
+
+Note: Train Anchor gần biên phân loại. Mỗi Task đều có Anchor. Khi train trog for loop task $t \in \{1, \dots,T\}$ thif $\theta_{t}$ là đại diện cho mỗi task chứ ko phải của Batch.
+
+
+Công thức update tham số $\theta$:
+$$\theta \leftarrow \theta - \alpha \nabla_{\theta} \left( \mathcal{L}(\mathcal{B} \cup \mathcal{B}_{\mathcal{M}}) + \lambda \sum_{t'<t} \| f_{\theta}(e_{t'}, t') - f_{\tilde{\theta}}(e_{t'}, t') \|^2 \right)$$
+**Trực giác:** _"Khi có 1 update trong model θ làm nó lệch đi khỏi điểm neo (θ~) thì mình phạt."_ Điều này đúng, nhưng cần làm rõ tại sao lại chọn $\tilde{\theta}$ làm mốc (baseline) ?
+- Model  $\tilde{\theta}$ (Step 8) là model đã được học thử trên **Dữ liệu mới + Memory**. Tức là nó đã có "kinh nghiệm" xử lý cả cũ và mới (dù chỉ là kinh nghiệm sơ khởi).
+    
+- Chúng ta muốn model chính thức $\theta$ học theo hướng đi của $\tilde{\theta}$ (để tận dụng kinh nghiệm đó), **đặc biệt là tại các điểm nhạy cảm (Anchor)**.
+	
++  Nếu tại các điểm Anchor khó nhất ($e_{t'}$​), mà $\theta$ dự đoán khác quá xa so với  $\tilde{\theta}$ (vốn đã tham khảo Memory), thì chứng tỏ $\theta$ đang đi lạc hướng → Phạt.
+
+
+**B10-B11: Cập nhật thông tin**
+Update **mean embedding $\bar{\phi}_t$** (EMA) và thêm data hiện tại vào Memory.
+
+**B13: Tìm Anchor (Hindsight Optimization)**
+Bây giờ mới bắt đầu tính anchor cho task vừa học xong.
+	Feed dữ liệu cũ rồi finetune nó theo dữ liệu cũ (cố ý để task bị nhiễu bởi dữ liệu cũ) - giả lập tương lai, coi như model bị nhiễu bởi những task khác ko liên quan. 
+
+- **Mục tiêu:** Tìm ra điểm $e_t$ mà tại đó model dễ quên nhất.
+    
+- **Cách làm:** Giả lập tương lai bằng quá khứ. Ta lấy model hiện tại ($\theta_t$), đem fine-tune trên Memory (đóng vai trò như dữ liệu tương lai gây nhiễu) để tạo ra model $\theta_{\mathcal{M}}$ ($\theta$ bị nhiễu bởi $B_\mathcal{M}$).
+	$e_{t} \leftarrow \text{rand()}$ random 1 con Anchor
+	
+- **Tối ưu hóa:** Tìm $e_t$ sao cho sự sai lệch giữa $\theta_{\mathcal{M}}$ (model đã bị nhiễu) và $\theta_t$ (model gốc) là lớn nhất $\rightarrow$ **Maximize Forgetting** -> Tạo ra dữ liệu khó học hay còn gọi là nhiễu có liên quan tới Task. 
+    
+Công thức cập nhật anchor $e_t$ (Gradient Ascent):
+$$e_{t} \leftarrow e_{t} + \alpha \nabla_{e_{t}} \underbrace{\left( \mathcal{L}(f_{\theta_{\mathcal{M}}}(e_{t}, t), y_{t}) - \mathcal{L}(f_{\theta_{t}}(e_{t}, t), y_{t}) - \gamma \|\phi(e_{t}) - \bar{\phi}_{t}\|^2 \right)}_{\text{Maximize Forgetting - Regularize Location}}$$
+	Tức là việc tạo nhiễu ở đây nghĩa là đặt bối cảnh tương lai khi model được học trên dữ liệu mới và weight bắt đầu thay đổi thì nó sẽ lệch so với model học hiện tại bao nhiêu. *Nếu lệch nhiều có nghĩa là à mày học cái mới rồi m quên cái cũ quá trời luôn nên performance mới khác nhau*, nên đó là maximizing forgeting, mình cố khiến cho tại anchor đó, model quên đi thật nhiều -> **thì mới tăng độ “ác” của anchor**. Cái *B_M là đại diện cho 1 dữ liệu mới, lạ nhằm kéo weight đi,* đừng tập trung vào cái việc là ủa sao lại lấy một dữ liệu cũ rồi đóng vai trò như dữ liệu mới, vì thật chất mình chỉ cần quan tâm *mục tiêu là mình cần phải kéo lệch cái model học hiện tại bằng 1 bộ dữ liệu khác v th*, nên bộ dữ liệu memory là tiện để làm điều này.
+
+**Tóm lại:** HAL không cố giữ toàn bộ quá khứ. Nó chỉ giữ những chỗ mà nếu mất đi, model sẽ quên nhanh nhất (maximized forgetting anchors).
+![[Pasted image 20260119192056.png]]
+
+---
+
+**Neuron Expansion** (Mở rộng mạng Neuron cho task mới)
+1-2: dùng network cũ để train dữ liệu mới 
+3: Chỉ finetune những nodes hữu dụng nhất cho task mới. 
+4: sau khi train mà loss vẫn thấp thì mở rộng thêm các nodes (các Nodes này dùng cho task mới) 
+5: Loại những nodes ko hữu dụng (đóng góp ít cho mạng neuron)
+6: có những neuron xử lý 2 tác vụ thì chia ra cho mỗi neuron làm đúng 1 tác vụ. 
+![[Pasted image 20260120080253.png]]
+
+
+**Prompt Expansion**
+![[Pasted image 20260120082853.png]]
+
+
+**Distillation:** tính Loss bằng cách so sánh embedding (tính góc giữa embedding của teacher và student) hoặc prediction đầu ra. 
+
+
+Why CL ? -> Hiểu nguyên nhân của Catastrophic Forgetting thay vì chỉ sửa hậu quả (rectification, distrillation) 
++ BatchNorm gây ra bias vì BN's stats thay đổi theo task -> activation shift, old class bị đẩy ra khỏi decision region. 
++ Eigenvalue của data representation
+	Feature space có eigenvalue lớn (hướng mạnh) thì transfer thông tin tốt hơn, ít bị quên hơn. 
+
+Multual Information giữa old và new, *nếu feature mới chia sẻ nhiều thông tin với feature cũ thì ít quên hơn.* 
+**Task-ID và Within-task, CIL gồm 2 bài toán:**
+1. *Task-ID in TIL:* đoán class cho biết không gian search của task-id .    
+2. *Within Task in CIL:* phân loại class trên mọi task.    
+-> Nếu task-id prediction sai thì CIL fail. 
+
+1 số paper chỉ ra, *Replay có thể gây hại:* 
++ *representation lớp mới chồng lên lớp cũ.* 
++ gradient update *phá structure cũ.* 
+-> ko pải cứ replay là tốt. 
+
+---
+
+### TreeLoRA
+Nếu dùng Gradient của task cũ trên Sample mới thì hiệu suất sẽ ra sao -> Xác định Task cũ có liên quan, gần với task mới hay không.  
