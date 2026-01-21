@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "fc16b669948e5ff9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc16b669948e5ff9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_Focus/Todo.md",
     "2 ACTIONS/Workout/Calisthenics.md",

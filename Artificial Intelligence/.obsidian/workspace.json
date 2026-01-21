@@ -29,15 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Incremental Learning Survey.md",
+                "file": "25M8W1 - ConvNeXt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class Incremental Learning Survey"
+              "title": "25M8W1 - ConvNeXt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,9 +211,10 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "ca98d68e5d692511",
+  "active": "b8a41084c19d942c",
   "lastOpenFiles": [
     "Class Incremental Learning Survey.md",
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260118183148.png",
     "image/Pasted image 20260118182542.png",
     "image/Pasted image 20260118175541.png",
@@ -220,7 +222,6 @@
     "image/Pasted image 20260118160950.png",
     "image/Pasted image 20260112142639.png",
     "image/Pasted image 20260112143758.png",
-    "2 ACTIONS/_Focus.md",
     "Continous Learning and Catastrophic Forgetting.md",
     "image/Pasted image 20260106233340.png",
     "image/Pasted image 20260107002133.png",

@@ -4,7 +4,7 @@ banner: Images/Pasted image 20240402135259.png
 ---
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
-#Todo/Priority.
+#Todo/Priority
 
 
 #Todo/[[GoalsThisWeek]]
