@@ -37,8 +37,7 @@
               "title": "Class Incremental Learning Survey"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,22 +210,21 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "b8a41084c19d942c",
+  "active": "ca98d68e5d692511",
   "lastOpenFiles": [
+    "Class Incremental Learning Survey.md",
     "image/Pasted image 20260118183148.png",
     "image/Pasted image 20260118182542.png",
     "image/Pasted image 20260118175541.png",
     "image/Pasted image 20260118174129.png",
     "image/Pasted image 20260118160950.png",
     "image/Pasted image 20260112142639.png",
-    "Class Incremental Learning Survey.md",
     "image/Pasted image 20260112143758.png",
     "2 ACTIONS/_Focus.md",
     "Continous Learning and Catastrophic Forgetting.md",
     "image/Pasted image 20260106233340.png",
     "image/Pasted image 20260107002133.png",
     "image/Pasted image 20260107105342.png",
-    "image/Pasted image 20260107105213.png",
     "class-incremental learning.md",
     "Incremental class learning (survey).md",
     "Continous Learning Survey.md",
