@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "ceaf93ec1beb766c",
+            "id": "5c849e48db334f70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "25M8W1 - Gradient Descent with Momentum.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "25M8W1 - Gradient Descent with Momentum"
             }
           }
         ],
@@ -228,13 +232,19 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "ceaf93ec1beb766c",
+  "active": "5c849e48db334f70",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "25M8W1 - Gradient Descent with Momentum.md",
+    "image/Pasted image 20260121213508.png",
+    "image/Pasted image 20260121212359.png",
+    "image/Pasted image 20260121211427.png",
+    "image/Pasted image 20260121205747.png",
+    "AIO 2025.md",
+    "ConNeXt.md",
+    "ConNeXt - CNN based improvement from ViT.md",
     "image/Pasted image 20260121123234.png",
     "image/Pasted image 20260121123039.png",
-    "ConNeXt.md",
-    "2 ACTIONS/_Focus.md",
-    "ConNeXt - CNN based improvement from ViT.md",
     "25M8W1 - ConvNeXt.md",
     "Energy-Based Model.md",
     "image/Pasted image 20260120162302.png",
@@ -242,17 +252,11 @@
     "Class Incremental Learning Survey.md",
     "image/Pasted image 20260120082853.png",
     "image/Pasted image 20260120080308.png",
-    "image/Pasted image 20260120080253.png",
-    "image/Pasted image 20260119192056.png",
     "Continous Learning Survey.md",
     "1 PROJECTS/Coursera Mathematic for Machine Learning/what does it mean to say - The solution for this system has 0 degrees of freedom..md",
-    "image/Pasted image 20260118230708.png",
-    "image/Pasted image 20260118183148.png",
-    "image/Pasted image 20260118182542.png",
     "Continous Learning and Catastrophic Forgetting.md",
     "Incremental class learning (survey).md",
     "Paper Review.md",
-    "AIO 2025.md",
     "25M8W1 - Swin Transformer.md",
     "Paper Review 2.md",
     "Research Paper Research.md",
@@ -265,7 +269,6 @@
     "gradient suprise.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Cloud Services.md",
     "3 RESOURCES/Artificial Intelligent/General AI/AI For Everyone.md",
-    "Fun Research Paper & Direction Analysis.md",
     "image/Nested Learning The Illusion of Deep Learning Architecture_0.pdf",
     "image/Nested Learning The Illusion of Deep Learning Architecture.pdf",
     "1 PROJECTS/Nested_Learning.drawio",

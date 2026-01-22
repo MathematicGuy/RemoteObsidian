@@ -8,3 +8,4 @@ In ConvNeXt paper, ViT wa s mis-interpret by not training on augmentations -> Th
 
 **ConvNeXt inspiration: Swin Transformers**
 1x1 Convolution: maintain number of features while saving computation resource.  
+
