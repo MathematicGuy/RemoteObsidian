@@ -6,7 +6,6 @@ banner: Images/Pasted image 20240402135259.png
 ## [Calendar]
 #Todo/Priority
 
-
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
 
@@ -22,7 +21,7 @@ banner: Images/Pasted image 20240402135259.png
 [[Calisthenics]]
 
 **My Learning**
-[Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N) 
+[Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
 #Todo/Later

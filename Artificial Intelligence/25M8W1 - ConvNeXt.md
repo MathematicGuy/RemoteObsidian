@@ -1,11 +1,9 @@
 ![[Pasted image 20260117081557.png]]
 
 
-
 Conv tham khảo và áp dụng các ý tưởng của Transformer như LayerNorm
 Let Deep Dive into each Layer of ConvNeXt
 ![[Pasted image 20260113212545.png]]
-
 
 Depthwise don't modify anything like Standard Conv, just extract with Conv
 ![[Pasted image 20260113212614.png | 444]]
