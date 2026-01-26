@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "bd06ab10b35235d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "95208a25019371be",
             "type": "leaf",
             "state": {
@@ -211,22 +223,21 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "95208a25019371be",
+  "active": "bd06ab10b35235d6",
   "lastOpenFiles": [
+    "ConNeXt.md",
+    "image/Pasted image 20260121152134.png",
+    "image/Pasted image 20260121151803.png",
+    "image/Pasted image 20260121151227.png",
+    "image/Pasted image 20260121150850.png",
+    "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20260121144124.png",
     "image/Pasted image 20260121123234.png",
     "image/Pasted image 20260121123039.png",
-    "ConNeXt.md",
-    "2 ACTIONS/_Focus.md",
     "25M8W1 - ConvNeXt.md",
     "image/Pasted image 20260120082853.png",
     "image/Pasted image 20260120080308.png",
     "image/Pasted image 20260120080253.png",
-    "image/Pasted image 20260119192056.png",
-    "image/Pasted image 20260118230708.png",
-    "image/Pasted image 20260117171201.png",
-    "image/Pasted image 20260117081557.png",
-    "image/Pasted image 20260116205905.png",
-    "image/Pasted image 20260116204744.png",
     "25M8W1 - Swin Transformer.md",
     "Class Incremental Learning Survey.md",
     "Continous Learning and Catastrophic Forgetting.md",
