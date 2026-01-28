@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b9b1da0a33254bc6",
+    "id": "31fab23ef2efd2ab",
     "type": "split",
     "children": [
       {
-        "id": "092ee1913b0a9f43",
+        "id": "2582ddc50fcbcc1b",
         "type": "tabs",
         "children": [
           {
-            "id": "5d452a6206b9e3cc",
+            "id": "ca98d68e5d692511",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,22 +22,65 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "f91123c182612e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NL Slide 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NL Slide 2"
+            }
+          },
+          {
+            "id": "5e76030390406651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1 vs L2 Regression and Loss Revision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L1 vs L2 Regression and Loss Revision"
+            }
+          },
+          {
+            "id": "038bda42775e4eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLS Week 3 - Classification with logistic regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLS Week 3 - Classification with logistic regression"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5e397726d419172e",
+    "id": "42302d8445c3c1b8",
     "type": "split",
     "children": [
       {
-        "id": "d6be5ed93d852ff3",
+        "id": "507bc767d33954bd",
         "type": "tabs",
         "children": [
           {
-            "id": "7790bf504662d59d",
+            "id": "197bf3aecb087f9f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +93,7 @@
             }
           },
           {
-            "id": "25fdb99c31254a33",
+            "id": "fb33dc84395db8ce",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +110,7 @@
             }
           },
           {
-            "id": "68a5034633fede63",
+            "id": "54fb67a13b38062a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,23 +123,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "9a9200229cbae827",
+    "id": "dcd37d7004bf9ca1",
     "type": "split",
     "children": [
       {
-        "id": "c80a98e359ee6295",
+        "id": "3dfe3e69ddb9442b",
         "type": "tabs",
         "children": [
           {
-            "id": "20d8937a4e37bf67",
+            "id": "e709546fd05f7cc9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "Class Incremental Learning Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +150,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for Class Incremental Learning Survey"
             }
           },
           {
-            "id": "836c1b46c01b8267",
+            "id": "9c055e997aeada68",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "Class Incremental Learning Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links from Class Incremental Learning Survey"
             }
           },
           {
-            "id": "ad3af0de6e0a1f9f",
+            "id": "dcd246001ab29179",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +183,7 @@
             }
           },
           {
-            "id": "cc1151dd03078b1e",
+            "id": "74ffcc362704834d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,18 +197,18 @@
             }
           },
           {
-            "id": "538d215407cd3e0b",
+            "id": "b1f2adf6e5ea4abe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "Class Incremental Learning Survey.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Focus"
+              "title": "Outline of Class Incremental Learning Survey"
             }
           }
         ]
@@ -195,6 +239,44 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "5d452a6206b9e3cc",
-  "lastOpenFiles": []
+  "active": "f91123c182612e58",
+  "lastOpenFiles": [
+    "image/Pasted image 20260122104634.png",
+    "image/Pasted image 20260122094423.png",
+    "image/Pasted image 20260122094327.png",
+    "image/Pasted image 20260122091647.png",
+    "image/Pasted image 20260122091332.png",
+    "image/Pasted image 20260122082909.png",
+    "Tree LoRA.md",
+    "Multi-scale Momentum Muon - What to FOCUS ON.md",
+    "MoE - Mixture of Expert.md",
+    "25M8W3 Object Localization.md",
+    "2 ACTIONS/_Focus.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "L1 vs L2 Regression and Loss Revision.md",
+    "Machine Learning & Data Science Main.md",
+    "NL Slide 2.md",
+    "image/Pasted image 20260128165207.png",
+    "image/Pasted image 20260128165047.png",
+    "AIO Metrics for Regression (from metrics to loss functions).md",
+    "Bias-Variance Tradeoff and Model Performance.md",
+    "25M6W2 - Loss function for Classification.md",
+    "AIO Loss Functions for Classification.md",
+    "ML CheatSheet.md",
+    "Supervised Machine Learning - Regression and Classification.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "Feature Engineering and Polynomial Regression.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+    "Calculus_Derivative.md",
+    "image/Pasted image 20260128154255.png",
+    "image/Pasted image 20260128154115.png",
+    "image/Pasted image 20260128153655.png",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "Nested Learning Overview Note.md",
+    "NL Slide 1.md",
+    "image/Pasted image 20260128134608.png.~tmp",
+    "Untitled Kanban 5.md"
+  ]
 }
