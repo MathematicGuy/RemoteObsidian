@@ -29,26 +29,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NL Slide 1.md",
+                "file": "NL Slide 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NL Slide 1"
+              "title": "NL Slide 2"
             }
           },
           {
-            "id": "282805b087f85e75",
+            "id": "5e76030390406651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nested Learning - The Illusion of Deep Learning Architecture.md",
+                "file": "L1 vs L2 Regression and Loss Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nested Learning - The Illusion of Deep Learning Architecture"
+              "title": "L1 vs L2 Regression and Loss Revision"
+            }
+          },
+          {
+            "id": "038bda42775e4eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLS Week 3 - Classification with logistic regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLS Week 3 - Classification with logistic regression"
             }
           }
         ],
@@ -227,33 +241,41 @@
   },
   "active": "f91123c182612e58",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "L1 vs L2 Regression and Loss Revision.md",
+    "Machine Learning & Data Science Main.md",
+    "NL Slide 2.md",
+    "image/Pasted image 20260128165207.png",
+    "image/Pasted image 20260128165047.png",
+    "AIO Metrics for Regression (from metrics to loss functions).md",
+    "Bias-Variance Tradeoff and Model Performance.md",
+    "25M6W2 - Loss function for Classification.md",
+    "AIO Loss Functions for Classification.md",
+    "ML CheatSheet.md",
+    "Supervised Machine Learning - Regression and Classification.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "Feature Engineering and Polynomial Regression.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Machine Learning Assignment/GaussianElimination_Assignment.md",
+    "Calculus_Derivative.md",
+    "image/Pasted image 20260128154255.png",
+    "image/Pasted image 20260128154115.png",
+    "image/Pasted image 20260128153655.png",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "Nested Learning Overview Note.md",
+    "NL Slide 1.md",
     "image/Pasted image 20260128134911.png",
     "image/Pasted image 20260128134845.png",
     "image/Pasted image 20260128134817.png",
     "image/Pasted image 20260128134758.png",
     "image/Pasted image 20260128134742.png",
-    "image/Pasted image 20260128134720.png",
-    "image/Pasted image 20260128134704.png",
-    "image/Pasted image 20260128134650.png",
-    "image/Pasted image 20260128134608.png",
     "image/Pasted image 20260128134608.png.~tmp",
-    "NL Slide 1.md",
-    "2 ACTIONS/_Focus.md",
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
-    "Nested Learning Overview Note.md",
     "Untitled Kanban 5.md",
-    "image/$I03VK2J.png",
-    "image/Pasted image 20260107141716.png",
     "Class Incremental Learning Survey.md",
     "class-incremental learning.md",
     "Continous Learning Survey.md",
-    "Incremental class learning (survey).md",
-    "Energy-Based Model.md",
-    "25M8W1 - Gradient Descent with Momentum.md",
-    "ConNeXt.md",
-    "25M8W1 - ConvNeXt.md",
-    "25M8W1 - Swin Transformer.md",
-    "Continous Learning and Catastrophic Forgetting.md",
-    "Pasted image 20260113214948.png.md"
+    "Incremental class learning (survey).md"
   ]
 }

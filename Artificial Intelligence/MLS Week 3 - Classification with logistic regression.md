@@ -116,7 +116,6 @@ So we have 100 parameters W1 through W100, because we **don't know which of thes
 + ? $\lambda$: **regularization factor**, treat it like learning rate $\alpha$. (divided by 2 to scale equally to the cost function)
 + ? $b$ also **used for regularization for special cases**. but make a very low diff in practice. normally just use $\lambda$.
 
-
 >Can also regularized b bc do it or not, make a very small different.
 ![[Pasted image 20241021155934.png]]
 

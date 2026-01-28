@@ -30,10 +30,7 @@ $$\text{MSE} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$$
 
 **High Bias, High Variance:** **predicted values far from the true value and far from eachother.**
 ```
-
-
 + ? Give **Example of Bias and Variance in KNN**
-
 
 
 ```ad-abstract
