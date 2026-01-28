@@ -4,7 +4,7 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _TODAY
-- [ ] Nested Learning 
+- [ ] Chia các Trang trong Nested Learning ra và bảo NotebookLM tạo slides.   
 
 _Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case

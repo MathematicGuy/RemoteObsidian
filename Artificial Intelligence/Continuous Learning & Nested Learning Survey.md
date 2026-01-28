@@ -11,6 +11,8 @@
 + $ **Want the model remember new infors directly (ie. update its params)**. *RAG* is just a tool for retrieving new infors, *retrieving too much then we started to have A PROBLEM called hallucination.* Yes, **RAG can be use as a 2nd Brain but there're limitation**.
 
 ### [[Class Incremental Learning Survey]]
+
+### [[Tree LoRA]]
 ## Nested Learning
 **Nested Learning -** new ML paradigm (eg. Google HOPE architecture) by structuring models as **nested optimization problems with different update speeds**, *mimicking brain memory* to prevent catestrophic forgetting and build **"living memory" for AI** (*good at Needle in a Haystack* problem). 
 	Inspired from the brain's layered memory consolidation (*fast for short-term*, *slow for long-term*)

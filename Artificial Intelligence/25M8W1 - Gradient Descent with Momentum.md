@@ -10,9 +10,7 @@ $\gamma:$ thường có giá trị 0.9 (ie. dùng 90% giá trị momentum), dùn
 $v_{t-1}:$ là vận tốc tại thời điểm trước đó. $v_{t}$ là hiện tại
 $\theta:$ vị trí hiện tại của hòn bi.
 $\nabla J(\theta):$ "slope / đạo hàm" của điểm trước đó.
-
-Ta cập nhật tham số như bình thường:
-$\theta = \theta - v_{t}$
+-> Ta cập nhật tham số như bình thường: $\theta = \theta - v_{t}$
 
 
 Tuy Momentum giúp vượt qua Local Minimum để đi đến Global Minimum tốt hơn nhưng cũng chính vì Momentum mà nó mất quá nhiều Iteration để ổn định vị trí tại điểm cực tiểu chính.
