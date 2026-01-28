@@ -9,18 +9,10 @@
 **Plan: Explore (1 + 2 part) -> Structurelize**
 + Keep Explore - Write down with my own though (concrete & help transfer my ideas to other better) not copying the HIGH LIGHT.
 + Structurelize
-<<<<<<< HEAD
-
-# Nested Learning 
-## Abstract 
-Nested Learning - machine learning model with a set of nested, multi-level, and/or parallel optimization problems, each of which with its own “context flow".  
-<-> Existing learning method learns from data through compressing their own "context flow" 
-=======
 # Nested Learning
 ## Abstract
 Nested Learning - machine learning model with a set of nested, multi-level, and/or parallel optimization problems, each of which with its own “context flow".
 <-> Existing learning method learns from data through compressing their own "context flow"
->>>>>>> origin/main
 
 ![[Pasted image 20260110161418.png | 190]]
 
@@ -49,6 +41,8 @@ Prove backprop with momentum are 2 level associated memory.
 
 The same apply to Attention Module in Transformer with 2 layers of Linear, 1st layer for updating weight of Keys K,Q,V while the second update MLP params.
 ![[Pasted image 20260111204711.png]]
+
+![[Pasted image 20260107144114.png]]
 
 ### (2) Self-Modifying Learning Module:
 Sequence model that learns how to modify itself by learning its own update algorithm
