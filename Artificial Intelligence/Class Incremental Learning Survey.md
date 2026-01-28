@@ -65,6 +65,9 @@ Bonus: Blurry CIL mean the model get to revision, this mean old classes from old
 | Class-incremental learning  | The model sees only X. To get the answer right, it effectively must predict **both** the Context (C or "which task group this belongs to") and the specific label (y). | $f: X \to C \times y$ |
 Note: $X$ is the input space, $y$ is the within-context output space and $C$ is the context space. 
 
+source: Three types of incremental learning
+![[Pasted image 20260126140601.png]]
+
 ---
 
 ## Replay

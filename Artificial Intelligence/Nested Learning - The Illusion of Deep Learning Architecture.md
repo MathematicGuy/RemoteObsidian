@@ -1,4 +1,15 @@
-# Nested Learning (Làm Slide)
+[[Nested Learning Overview Note]]
+
+**Final Presentation Structure:**
+	Title
+	abstract | main Idea 1 | explain 1 -> explain 2 -> deeper explaination
+	abstract | main Idea 2 | explain 1 -> explain 2 -> deeper explaination
+	abstract | main Idea 2 | explain 1 -> explain 2 -> deeper explaination
+
+**Plan: Explore (1 + 2 part) -> Structurelize**
++ Keep Explore - Write down with my own though (concrete & help transfer my ideas to other better) not copying the HIGH LIGHT.
++ Structurelize
+# Nested Learning
 ## Abstract
 Nested Learning - machine learning model with a set of nested, multi-level, and/or parallel optimization problems, each of which with its own “context flow".
 <-> Existing learning method learns from data through compressing their own "context flow"
@@ -35,14 +46,10 @@ Prove backprop with momentum are 2 level associated memory.
 The same apply to Attention Module in Transformer with 2 layers of Linear, 1st layer for updating weight of Keys K,Q,V while the second update MLP params.
 ![[Pasted image 20260111204711.png]]
 
+![[Pasted image 20260107144114.png]]
+
 ### (2) Self-Modifying Learning Module:
 Sequence model that learns how to modify itself by learning its own update algorithm
-![[Pasted image 20260122091332.png]]
-**Black-box:** Hides internal gradient flows and treats the model as a flattened image.
-**White-box:** Makes internal gradient flows transparent, showing how each component updates itself.
-**Mechanism:** 
-+ Stacking static layers to extract features.
-+ Nesting optimization problems where "inner" loops optimize local objectives (e.g., in-context learning).
 
 ### (3) Continuun Memory System
 >Control the update frequency of each levels. CMS creates a **spectrum of memory modules** updating at different rates, allowing the model to prioritize and retain information at varying timescales.
@@ -104,19 +111,29 @@ $$\theta_{i+1}^{(f_{t})} = \theta_{i}^{(f_{t})} - \begin{cases} \sum_{t=i-C^{(t)
 
 - **$\theta_{i+1}^{(f_{t})} = \theta_{i}^{(f_{t})} - \dots$**: Weight update (New Weight = Old Weight - Change).
 
-- **$\text{if } i \equiv 0 \pmod{C^{(l)}}$**: Checks if the current time step $i$ is a multiple of the **Chunk Size $C^{(l)}$.**
-	
-	**Meaning:** "Is it time to update yet?" If the chunk size is 100, this block only updates at step 100, 200, 300, etc.
+- **$\text{if } i \equiv 0 \pmod{C^{(l)}}$**:
 
-- **$\sum_{t=i-C^{(t)}}^{i} \dots$** If it _is_ time to update, the model sums up the gradients (learning signals) from the **entire past chunk** (from $t = i - \text{ChunkSize}$ to now).
-	
-    **Meaning:** Instead of reacting to the last token, the block compresses the "experience" of the last 100 tokens into a single update. This creates a stable, long-term memory update.
+    - **What it does:** This condition checks if the current time step $i$ is a multiple of the **Chunk Size $C^{(l)}$.**
 
-- **$\eta_{t}^{(t)} f(\theta_{t}^{(f_{t})}; x_{t})$** Calculates the gradient (error) for a single specific moment $t$ inside that chunk, scaled by the learning rate $\eta_{t}^{(t)}$.
-	
-- $0 \text{ otherwise}$ If the *condition is not met* (e.g., at step 99 of a 100-step chunk), the *change is 0.*
-	
-    **Meaning:** The memory remains **frozen** and persistent during the chunk, acting as a stable storage of knowledge until the next scheduled update.
+    - **Meaning:** "Is it time to update yet?" If the chunk size is 100, this block only updates at step 100, 200, 300, etc.
+
+- **$\sum_{t=i-C^{(t)}}^{i} \dots$**:
+
+    - **What it does:** If it _is_ time to update, the model sums up the gradients (learning signals) from the **entire past chunk** (from $t = i - \text{ChunkSize}$ to now).
+
+    - **Meaning:** Instead of reacting to the last token, the block compresses the "experience" of the last 100 tokens into a single update. This creates a stable, long-term memory update.
+
+- **$\eta_{t}^{(t)} f(\theta_{t}^{(f_{t})}; x_{t})$**:
+
+    - **What it does:** This calculates the gradient (error) for a single specific moment $t$ inside that chunk, scaled by the learning rate $\eta_{t}^{(t)}$.
+
+- **$0 \text{ otherwise}$**:
+
+    - **What it does:** If the *condition is not met* (e.g., at step 99 of a 100-step chunk), the *change is 0.*
+
+    - **Meaning:** The memory remains **frozen** and persistent during the chunk, acting as a stable storage of knowledge until the next scheduled update14.
+
+
 
 ## Key Contribution
 ![[Pasted image 20260111211501.png]]
@@ -137,13 +154,10 @@ Nested Learning is a perspective to develop CMS.
 $$y_{t} = MLP^{(f_{k})} \left( MLP^{(f_{k-1})} \left( \dots MLP^{(f_{1})}(x_{t}) \right) \right)$$
 
 #### **2. The Update Rule (Equation 71)**
-[[M3 Multi-scale Momentum Muon - What to FOCUS ON]] 
+[[M3 Multi-scale Momentum Muon - What to FOCUS ON]]
 Note: Adam + Muon + CMS = Multi-scale Momentum Muon (M3)
 ![[Pasted image 20260111211050.png]]
-+ ? Remove **single** momentum vector ($m_t$​) and replace it with a **Continuum Memory System (CMS)** structure.
-Note: For each $k-iteration$, $O_t^{(2)}$ (CMS) update in parallel with $O_{t}^{(1)}$ (Muon), but if Chunk size $\hat{C}$ is not met, $M_{t}^{(2)}$ does not change. 
-![[Pasted image 20260111213153.png]]
-
+For each $k-iteration$, $O_t^{(2)}$ (CMS) update in parallel with $O_{t}^{(1)}$ (Muon), but if Chunk size $\hat{C}$ is not met, $O_{t}^{(2)}$ just return 0.
 ![[Pasted image 20260112141205.png]]
 
 
