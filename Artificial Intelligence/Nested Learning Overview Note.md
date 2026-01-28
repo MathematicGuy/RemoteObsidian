@@ -61,8 +61,8 @@ Give Visual Example of Nested Learning - explain it a perspective, ie. we see ML
 	Part 5 Experiments result 
 Note: Used the Nested Learning Author Inforgraphic as slide reference.
 Reference Slides: 
-+ [Notebook LM very detail slide](https://youtu.be/-Z_EWSw32sA?si=HoDR985QeezQXsUc)
-+ [The Author Ali Behrouz  ppt slide](https://www.youtube.com/watch?v=3WqZIja7kdA)
++ [Notebook LM very detail slide](https://youtu.be/-Z_EWSw32sA?si=HoDR985QeezQXsUc) - [[NL Slide 1]]
++ [The Author Ali Behrouz  ppt slide](https://www.youtube.com/watch?v=3WqZIja7kdA) - [[NL Slide 2]]
 
 
 ----

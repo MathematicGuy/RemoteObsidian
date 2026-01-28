@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nested Learning Overview Note.md",
+                "file": "NL Slide 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nested Learning Overview Note"
+              "title": "NL Slide 1"
             }
           },
           {
@@ -51,7 +51,8 @@
               "title": "Nested Learning - The Illusion of Deep Learning Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,29 +225,32 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "ca98d68e5d692511",
+  "active": "f91123c182612e58",
   "lastOpenFiles": [
-    "Nested Learning Overview Note.md",
-    "Untitled Kanban 5.md",
+    "image/Pasted image 20260128134911.png",
+    "image/Pasted image 20260128134845.png",
+    "image/Pasted image 20260128134817.png",
+    "image/Pasted image 20260128134758.png",
+    "image/Pasted image 20260128134742.png",
+    "image/Pasted image 20260128134720.png",
+    "image/Pasted image 20260128134704.png",
+    "image/Pasted image 20260128134650.png",
+    "image/Pasted image 20260128134608.png",
+    "image/Pasted image 20260128134608.png.~tmp",
+    "NL Slide 1.md",
     "2 ACTIONS/_Focus.md",
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "Nested Learning Overview Note.md",
+    "Untitled Kanban 5.md",
     "image/$I03VK2J.png",
     "image/Pasted image 20260107141716.png",
     "Class Incremental Learning Survey.md",
     "class-incremental learning.md",
-    "image/Pasted image 20260126140601.png",
     "Continous Learning Survey.md",
     "Incremental class learning (survey).md",
-    "image/Pasted image 20260121213508.png",
-    "image/Pasted image 20260121212359.png",
-    "image/Pasted image 20260121211427.png",
-    "image/Pasted image 20260121205747.png",
-    "image/Pasted image 20260120162302.png",
-    "image/Pasted image 20260120162116.png",
     "Energy-Based Model.md",
     "25M8W1 - Gradient Descent with Momentum.md",
     "ConNeXt.md",
-    "image/Pasted image 20260121152134.png",
     "25M8W1 - ConvNeXt.md",
     "25M8W1 - Swin Transformer.md",
     "Continous Learning and Catastrophic Forgetting.md",
