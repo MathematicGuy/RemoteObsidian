@@ -30,3 +30,6 @@
 "event_logs:collection:load_halted": {"key":"collection:load_halted","ct":27,"first_at":1768089395886,"last_at":1769582357303,"class_name":"EventLog"},
 "event_logs:collection:load_completed": {"key":"collection:load_completed","ct":38,"first_at":1768089395885,"last_at":1769582366544,"class_name":"EventLog"},
 "event_logs:sources:imported": {"key":"sources:imported","ct":47772,"first_at":1768089396189,"last_at":1769582366925,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":5577,"first_at":1768089404372,"last_at":1769582374015,"class_name":"EventLog"},
+"event_logs:sources:import_completed": {"key":"sources:import_completed","ct":14,"first_at":1768089459220,"last_at":1769582374048,"class_name":"EventLog"},
+"event_logs:blocks:cleaned": {"key":"blocks:cleaned","ct":13,"first_at":1768089459246,"last_at":1769582374087,"class_name":"EventLog"},
