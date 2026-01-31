@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "7e6879e70171581f",
+            "id": "c276bed39503b236",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,11 +211,17 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "7e6879e70171581f",
+  "active": "c276bed39503b236",
   "lastOpenFiles": [
-    "L1 vs L2 Regression and Loss Revision.md",
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "2 ACTIONS/_Focus.md",
+    "POS (Part-Of-Speech) Tagging.md",
+    "AIO 2025.md",
+    "Nested Learning Overview Note.md",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "image/Pasted image 20260129100813.png",
+    "image/Pasted image 20260129100730.png",
+    "L1 vs L2 Regression and Loss Revision.md",
+    "image/Pasted image 20260122091647.png",
     "image/Pasted image 20260128165207.png",
     "image/Pasted image 20260128154255.png",
     "image/Pasted image 20260128154115.png",
