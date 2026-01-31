@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "21595cb82aa992ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6963dde08c2ddf65",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Focus/Todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "New tab"
             }
           }
         ]
@@ -189,10 +182,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6963dde08c2ddf65",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Todo.md",
     "_Focus/Todo.md",
+    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",

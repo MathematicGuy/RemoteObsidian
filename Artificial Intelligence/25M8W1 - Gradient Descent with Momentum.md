@@ -1,4 +1,4 @@
-### 1.1 Momentum
+ ### 1.1 Momentum
 **Gradient Descent ban đầu:**
 $\theta = \theta - \eta \nabla_{\theta}J(\theta)$ có $\theta$ là tham số của mô hình cần cập nhật và $\nabla_{\theta}J(\theta)$ là đạo hàm của $\theta$.
 
