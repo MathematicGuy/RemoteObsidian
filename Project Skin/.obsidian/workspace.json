@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "21595cb82aa992ac",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6963dde08c2ddf65",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,18 +19,9 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
-            }
-          },
-          {
-            "id": "dfa4c7e343af1caf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -85,8 +77,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +187,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6963dde08c2ddf65",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Todo.md",
     "_Focus/Todo.md",
