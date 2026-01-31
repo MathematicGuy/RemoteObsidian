@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "21595cb82aa992ac",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6963dde08c2ddf65",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,18 +19,9 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
-            }
-          },
-          {
-            "id": "dfa4c7e343af1caf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -90,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a6cc1c68d6f69f9",
@@ -196,11 +189,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6963dde08c2ddf65",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Todo.md",
     "_Focus/Todo.md",
-    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
     "Images/Pasted image 20251126153726.png",
