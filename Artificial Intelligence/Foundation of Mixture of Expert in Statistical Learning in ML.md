@@ -7,8 +7,11 @@
 
 *MoE -> cheaper AI Model Scaling.*
 Khả năng dự đoán và giải thích chuyên sâu của mỗi expert tốt hơn so vs 1 model đơn lẻ. 
+![[Pasted image 20260122104634.png | 444]]
+
 
 Model đơn lẻ càng scale lên tính giải thích 1 chủ đề càng thấp so trí nhớ sụt giảm cho nhưng kiến thức đã học tr'c. 
+
 
 **Note:** Tr'c khi dữ liệu vào Gate thì **chỉ Scale data thoi**, ko đưa về 1 Domain. 
 
@@ -65,3 +68,5 @@ Làm sao có thể sử dụng Theory ở trên để cải thiện model Transf
 ## Boosting Performance of LoRA
 Simplified 4 variable into 2 shared parameters, 
 Add Non-Linear
+
+
