@@ -60,16 +60,12 @@ Nested System:
 	Each block have its own gradient flow, locally solve a new problem that we define based on an Optimization process and Objective  
 + regularization tại thời điểm $t$: trọng số mới không khác biệt quá nhiều.  
 
-### Nested Learning:
+### Nested Learning: Knowledge Transfer
 **How levels can be Inter-connected ?**
-Direct Connection of Levels (Prametric):
-A simple Way is through Direct conditioning of the output of the slow network on the ouput of the fast network.
 ![[Pasted image 20260131160629.png]]
+Direct Connection of Levels (Prametric):
+	A simple Way is through direct Conditioning of the output of the slow network on the ouput of the fast network.
+
 -> Fast-Level: Linear Attention. Slow-Level calc Attention QKV.
-
-
-Fast or Slow Frequency first is a design choice. 
-Understand the fomula and conenct it with TreeLoRA to see how I can use Nested Learning perspective to apply Nested Learning architecture in TreeLoRA -> Perfect presentation with theory and application.
-
 
 
