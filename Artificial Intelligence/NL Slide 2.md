@@ -17,6 +17,7 @@ Think of it as a dictionary, we have keys and values. *Learning is the process o
 Another update rule for the architecture and the memory that we have.
 
 
+
 ![[Pasted image 20260130122439.png]]
 The init params try to compress the context while the inner loop try to adopt/learn some of the context using gradient descent. 
 	-> Linear Attention is a form of 2 levels optimization problem, 1 is the Training process and 1 is the Adoption of the memory to the context.  
@@ -50,118 +51,25 @@ The init params try to compress the context while the inner loop try to adopt/le
 ### Nested Learning
 ![[Pasted image 20260131155857.png]]
 $f$ as update frequency
-Another Example: 
-+ Distillation create 2-levels learning structure where a small student network acts as an inner learner distilling knowledge from a larger teacher network (the outer learner)
+![[Pasted image 20260201145601.png]]
+*Another Example:* Distillation create 2-levels learning structure where a small student network acts as an inner learner distilling knowledge from a larger teacher network (the outer learner)
 
++ ? Explain all 3 Definition Here
 ![[Pasted image 20260131155842.png]]
 Nested System: 
 	Each block have its own gradient flow, locally solve a new problem that we define based on an Optimization process and Objective  
 + regularization tại thời điểm $t$: trọng số mới không khác biệt quá nhiều.  
 
-
+### Nested Learning:
 **How levels can be Inter-connected ?**
 Direct Connection of Levels (Prametric):
 A simple Way is through Direct conditioning of the output of the slow network on the ouput of the fast network.
 ![[Pasted image 20260131160629.png]]
 -> Fast-Level: Linear Attention. Slow-Level calc Attention QKV.
 
-Based on the **Nested Learning (NL)** paradigm and the architectures of **CMS (Continuum Memory Systems)** and **TreeLoRA** described in the sources, here is a visualization of a **Base-Transformer integrated with TreeLoRA and CMS**.
-
-![[Pasted image 20260131170037.png]]
 
 Fast or Slow Frequency first is a design choice. 
 Understand the fomula and conenct it with TreeLoRA to see how I can use Nested Learning perspective to apply Nested Learning architecture in TreeLoRA -> Perfect presentation with theory and application.
 
 
 
-### **The Concept: "The Organized Memory"**
-
-In this integrated architecture, we replace the standard static MLP block of a Transformer with a **CMS-TreeLoRA Hybrid Block**.
-
-- **CMS Role (Time):** Splits learning into "Fast" (immediate adaptation) and "Slow" (consolidation) frequencies,.
-- **TreeLoRA Role (Structure):** Organizes the "Slow" consolidation. Instead of overwriting long-term memory with a single average update (which causes forgetting), it dynamically routes the update to a specific branch of a LoRA tree based on gradient similarity,.
-
----
-
-### **Architecture Visualization**
-```
-================================================================================
-                INTEGRATED CMS-TREELORA TRANSFORMER BLOCK
-================================================================================
-INPUT (x_t)
-  │
-  ▼
-[ SELF-ATTENTION LAYER ]  <-- (Frequency: ∞) Updates/Mixes every token
-  │
-  ▼
-[ RESIDUAL + NORM ]
-  │
-  ▼
-┌──────────────────────────────────────────────────────────────────────────────┐
-│   THE CMS-TREELORA "SMART" MLP BLOCK                                         │
-│   (Replaces standard FFN)                                                    │
-│                                                                              │
-│   This block has two parallel tracks operating at different speeds:          │
-│                                                                              │
-│   TRACK A: FAST MEMORY (The "Worker")                                        │
-│   [ Standard MLP / Fast Weights ]                                            │
-│   • Update Freq: Every Step (f_1)                                      │
-│   • Optimizer:   Muon / SGD (Reacts to immediate context)               │
-│   • Role:        Adapts to current prompt/sentence instantly.                │
-│                                                                              │
-│             (+)  <-- Aggregation (Weighted Sum),                  │
-│                                                                              │
-│   TRACK B: SLOW MEMORY (The "Archivist" - TreeLoRA Integrated)               │
-│   [ Tree of LoRA Adapters ]                                                  │
-│   • Update Freq: Every Chunk (f_k) (e.g., every 1M tokens),       │
-│   • Trigger:     Wait for Chunk Completion -> Calculate Cumulative Gradient  │
-│   • Mechanism:   TreeLoRA Bandit Search                                │
-│                                                                              │
-│       1. Input: Cumulative Gradient of the Chunk (g_chunk)                   │
-│       2. Search: Bandit Algorithm (LCB) finds best Branch              │
-│       3. Selection:                                                          │
-│          ROOT [Shared Knowledge]                                             │
-│             │                                                                │
-│             ├── Branch A [Math Tasks] -> Update Adapter A                    │
-│             └── Branch B [Code Tasks] -> Update Adapter B                    │
-│                                                                              │
-│   • Role: Consolidates the chunk's knowledge into the specific               │
-│           branch that matches the task, preventing interference.             │
-└──────────────────────────────────────────────────────────────────────────────┘
-  │
-  ▼
-OUTPUT (y_t)
-```
-
----
-
-### **Detailed Workflow of the Integration**
-
-#### **1. The Fast Loop (CMS Layer)**
-
-- **Source:**,,
-- **Operation:** As tokens flow in, the **Fast Memory** (Track A) updates its weights immediately using a standard optimizer (like the Muon component of M3).
-- **Goal:** To minimize the immediate prediction error for the current sentence.
-- **State:** This memory is volatile; it might be reset or decay quickly after the context window shifts,.
-
-#### **2. The Slow Loop (TreeLoRA Layer)**
-
-- **Source:**,,
-- **Operation:**
-    1. **Accumulate:** The system accumulates gradients in the background for a specific **Chunk Size** (e.g., 1,000 steps). The Slow Memory is **frozen** during this time.
-    2. **Trigger:** Once the chunk ends, instead of a simple addition ($M^{(2)} + \sum g$), the **TreeLoRA Logic** activates.
-    3. **Route:** The **Bandit Algorithm** compares the chunk's gradient direction with the existing Tree Nodes (Root vs. Leaves). It finds the "Most Similar Task" in $O(1)$ time.
-    4. **Update:** It performs a **Sparse Update** only on the selected LoRA adapter (branch).
-- **Goal:** To store the knowledge from the last 1,000 steps permanently without overwriting (forgetting) the knowledge stored in other branches (e.g., overwriting "French grammar" with "Python syntax").
-
-#### **3. The Aggregation**
-
-- **Source:**,
-- **Operation:** The final output of the MLP block is a weighted sum of the Fast MLP and the active TreeLoRA adapter. $$ y_t = \text{MLP}_{\text{Fast}}(x_t) + \alpha \cdot \text{TreeLoRA}_{\text{Selected}}(x_t) $$
-- **Result:** The model has the "reflexes" of the Fast Learner and the "wisdom" of the organized TreeLoRA structure.
-
-### **Why this Integration Works (Synthesis)**
-
-- **CMS solves the "When":** It dictates that we shouldn't update long-term memory every second (which causes instability), but rather in consolidated chunks.
-- **TreeLoRA solves the "Where":** It dictates that when we _do_ update long-term memory, we shouldn't just mash it into one matrix (which causes catastrophic forgetting), but route it to a specific semantic branch.
-- **Efficiency:** TreeLoRA's Bandit search avoids calculating gradients for all past tasks, making it fast enough to run during the "Online Consolidation" phase of Nested Learning.

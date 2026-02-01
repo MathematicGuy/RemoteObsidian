@@ -41,12 +41,14 @@
             "id": "38deea07ac9109ce",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Nested Learning Board.md"
+                "file": "Nested Learning - The Illusion of Deep Learning Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Nested Learning Board"
+              "icon": "lucide-file",
+              "title": "Nested Learning - The Illusion of Deep Learning Architecture"
             }
           }
         ],
@@ -225,6 +227,12 @@
   },
   "active": "f91123c182612e58",
   "lastOpenFiles": [
+    "image/Pasted image 20260201145601.png",
+    "image/Pasted image 20260131170037.png",
+    "NL Slide 2.md",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "2 ACTIONS/_Focus.md",
+    "Excalidraw/Nested Learning Board.md",
     "image/Pasted image 20260131222626.png",
     "image/Pasted image 20260131221213.png",
     "image/Pasted image 20260131221016.png",
@@ -234,15 +242,9 @@
     "image/Pasted image 20260131220306.png",
     "image/Pasted image 20260131215811.png",
     "image/Pasted image 20260131215702.png",
-    "image/Pasted image 20260131215616.png",
-    "image/Pasted image 20260131215559.png",
     "VinUni AI Talent.md",
     "Excalidraw/Scaling Vision Transformers with Sparse Mixture of Experts.excalidraw.md",
-    "Excalidraw/Nested Learning Board.md",
-    "2 ACTIONS/_Focus.md",
     "25M8W1 - Gradient Descent with Momentum.md",
-    "NL Slide 2.md",
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "POS (Part-Of-Speech) Tagging.md",
     "MLS Week 3 - Classification with logistic regression.md",
     "L1 vs L2 Regression and Loss Revision.md",
