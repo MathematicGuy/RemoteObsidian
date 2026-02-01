@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "31fab23ef2efd2ab",
+    "id": "72bd42fc26bd850e",
     "type": "split",
     "children": [
       {
-        "id": "2582ddc50fcbcc1b",
+        "id": "3b96bd2393aeb066",
         "type": "tabs",
         "children": [
           {
-            "id": "ca98d68e5d692511",
+            "id": "2da88b094be0e366",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,6 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+<<<<<<< HEAD
+=======
           },
           {
             "id": "f91123c182612e58",
@@ -50,6 +52,7 @@
               "icon": "lucide-file",
               "title": "Nested Learning - The Illusion of Deep Learning Architecture"
             }
+>>>>>>> fac351bc39fc337316030c4d7bca2e1bc17e1241
           }
         ],
         "currentTab": 1
@@ -58,15 +61,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "42302d8445c3c1b8",
+    "id": "2f64fa3b00056cdc",
     "type": "split",
     "children": [
       {
-        "id": "507bc767d33954bd",
+        "id": "f40e0d45fa6b5adc",
         "type": "tabs",
         "children": [
           {
-            "id": "197bf3aecb087f9f",
+            "id": "39af076bd3e522a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +82,7 @@
             }
           },
           {
-            "id": "fb33dc84395db8ce",
+            "id": "e88d4d3c7da52328",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +99,7 @@
             }
           },
           {
-            "id": "54fb67a13b38062a",
+            "id": "5f95fe1ee302cfa3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,24 +112,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "dcd37d7004bf9ca1",
+    "id": "00be067e16609564",
     "type": "split",
     "children": [
       {
-        "id": "3dfe3e69ddb9442b",
+        "id": "94d008442c5827b5",
         "type": "tabs",
         "children": [
           {
-            "id": "e709546fd05f7cc9",
+            "id": "25e19ac7b85049b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Incremental Learning Survey.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,25 +138,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Class Incremental Learning Survey"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "9c055e997aeada68",
+            "id": "348a5678ed2b9a50",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Incremental Learning Survey.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Class Incremental Learning Survey"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "dcd246001ab29179",
+            "id": "0f88f9089ed47380",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,7 +171,7 @@
             }
           },
           {
-            "id": "74ffcc362704834d",
+            "id": "10d75cd27bc1ab9f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,18 +185,22 @@
             }
           },
           {
-            "id": "b1f2adf6e5ea4abe",
+            "id": "0d1d090906de645e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Incremental Learning Survey.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
+              "title": "Outline of _Focus"
+=======
               "title": "Outline of Class Incremental Learning Survey"
+>>>>>>> fac351bc39fc337316030c4d7bca2e1bc17e1241
             }
           }
         ]
@@ -225,7 +231,15 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
+<<<<<<< HEAD
   "active": "f91123c182612e58",
+=======
+<<<<<<< HEAD
+  "active": "2da88b094be0e366",
+  "lastOpenFiles": []
+=======
+  "active": "ca98d68e5d692511",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
@@ -264,4 +278,5 @@
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning.md",
     "image/Pasted image 20260128134608.png.~tmp"
   ]
+>>>>>>> fac351bc39fc337316030c4d7bca2e1bc17e1241
 }
