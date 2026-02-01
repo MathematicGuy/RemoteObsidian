@@ -51,7 +51,8 @@
               "title": "Nested Learning - The Illusion of Deep Learning Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,22 +225,22 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "ca98d68e5d692511",
+  "active": "f91123c182612e58",
   "lastOpenFiles": [
-    "NL Slide 2.md",
+    "2 ACTIONS/_Focus.md",
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "image/Pasted image 20260112141205.png",
+    "NL Slide 2.md",
+    "image/Pasted image 20260201154044.png",
+    "image/Pasted image 20260201153613.png",
+    "image/Pasted image 20260201152650.png",
+    "image/Pasted image 20260201152442.png",
+    "image/Pasted image 20260201152422.png",
+    "image/Pasted image 20260201152121.png",
     "image/Pasted image 20260201145601.png",
     "image/Pasted image 20260131170037.png",
-    "2 ACTIONS/_Focus.md",
     "Excalidraw/Nested Learning Board.md",
     "image/Pasted image 20260131222626.png",
-    "image/Pasted image 20260131221213.png",
-    "image/Pasted image 20260131221016.png",
-    "image/Pasted image 20260131220811.png",
-    "image/Pasted image 20260131220621.png",
-    "image/Pasted image 20260131220528.png",
-    "image/Pasted image 20260131220306.png",
-    "image/Pasted image 20260131215811.png",
     "VinUni AI Talent.md",
     "Excalidraw/Scaling Vision Transformers with Sparse Mixture of Experts.excalidraw.md",
     "25M8W1 - Gradient Descent with Momentum.md",
