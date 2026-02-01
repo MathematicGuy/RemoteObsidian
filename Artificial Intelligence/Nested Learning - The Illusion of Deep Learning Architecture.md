@@ -186,7 +186,7 @@ $$y_{t} = MLP^{(f_{k})} \left( MLP^{(f_{k-1})} \left( \dots MLP^{(f_{1})}(x_{t})
 Note: Adam + Muon + CMS = Multi-scale Momentum Muon (M3)
 ![[Pasted image 20260111211050.png]]
 For each $k-iteration$, $O_t^{(2)}$ (CMS) update in parallel with $O_{t}^{(1)}$ (Muon), but if Chunk size $\hat{C}$ is not met, $O_{t}^{(2)}$ just return 0.
-![[Pasted image 20260112141205.png]]
+	![[Pasted image 20260112141205.png]]
 
 
 **CMS Varient**

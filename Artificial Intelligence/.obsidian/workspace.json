@@ -211,6 +211,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
+<<<<<<< HEAD
   "active": "fd1ce248e0afe74b",
   "lastOpenFiles": [
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
@@ -219,5 +220,53 @@
     "image/Pasted image 20260131160629.png",
     "image/Pasted image 20260131155857.png",
     "image/Pasted image 20260131155842.png"
+=======
+<<<<<<< HEAD
+  "active": "f91123c182612e58",
+=======
+<<<<<<< HEAD
+  "active": "2da88b094be0e366",
+  "lastOpenFiles": []
+=======
+  "active": "ca98d68e5d692511",
+>>>>>>> origin/main
+  "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "image/Pasted image 20260112141205.png",
+    "NL Slide 2.md",
+    "image/Pasted image 20260201154044.png",
+    "image/Pasted image 20260201153613.png",
+    "image/Pasted image 20260201152650.png",
+    "image/Pasted image 20260201152442.png",
+    "image/Pasted image 20260201152422.png",
+    "image/Pasted image 20260201152121.png",
+    "image/Pasted image 20260201145601.png",
+    "image/Pasted image 20260131170037.png",
+    "Excalidraw/Nested Learning Board.md",
+    "image/Pasted image 20260131222626.png",
+    "VinUni AI Talent.md",
+    "Excalidraw/Scaling Vision Transformers with Sparse Mixture of Experts.excalidraw.md",
+    "25M8W1 - Gradient Descent with Momentum.md",
+    "POS (Part-Of-Speech) Tagging.md",
+    "MLS Week 3 - Classification with logistic regression.md",
+    "L1 vs L2 Regression and Loss Revision.md",
+    "Tree LoRA.md",
+    "Multi-scale Momentum Muon - What to FOCUS ON.md",
+    "MoE - Mixture of Expert.md",
+    "25M8W3 Object Localization.md",
+    "Machine Learning & Data Science Main.md",
+    "AIO Metrics for Regression (from metrics to loss functions).md",
+    "Bias-Variance Tradeoff and Model Performance.md",
+    "25M6W2 - Loss function for Classification.md",
+    "AIO Loss Functions for Classification.md",
+    "ML CheatSheet.md",
+    "Supervised Machine Learning - Regression and Classification.md",
+    "MLS Week 2 - Regression with multiple input variables.md",
+    "Feature Engineering and Polynomial Regression.md",
+    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning.md",
+    "image/Pasted image 20260128134608.png.~tmp"
+>>>>>>> 628010d3dbd782e2b0ff0620c0cc804b7670ff23
   ]
 }
