@@ -1801,3 +1801,16 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":53406,"first_at":1768089396189,"last_at":1769933239256,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":6318,"first_at":1768089404372,"last_at":1769933239309,"class_name":"EventLog"},
 >>>>>>> fac351bc39fc337316030c4d7bca2e1bc17e1241
+
+"event_logs:collection:load_completed": {"key":"collection:load_completed","ct":41,"first_at":1768089395885,"last_at":1769955419118,"class_name":"EventLog"},
+"event_logs:sources:imported": {"key":"sources:imported","ct":74551,"first_at":1768089396189,"last_at":1769955447637,"class_name":"EventLog"},
+"event_logs:embedding:progress_reported": {"key":"embedding:progress_reported","ct":46,"first_at":1768089403056,"last_at":1769955449454,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":6269,"first_at":1768089404372,"last_at":1769955450651,"class_name":"EventLog"},
+"event_logs:embedding:completed": {"key":"embedding:completed","ct":5,"first_at":1768089459037,"last_at":1769955450652,"class_name":"EventLog"},
+"event_logs:sources:import_completed": {"key":"sources:import_completed","ct":15,"first_at":1768089459220,"last_at":1769955450680,"class_name":"EventLog"},
+"event_logs:blocks:cleaned": {"key":"blocks:cleaned","ct":14,"first_at":1768089459246,"last_at":1769955450699,"class_name":"EventLog"},
+"event_logs:sources:modified": {"key":"sources:modified","ct":36472,"first_at":1768196993770,"last_at":1769955432870,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":32144,"obsidian:vault.modify":4328}},
+"event_logs:sources:created": {"key":"sources:created","ct":112,"first_at":1768186652444,"last_at":1769955432917,"class_name":"EventLog","event_sources":{"obsidian:vault.create":112}},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":4,"first_at":1768723970394,"last_at":1769955454324,"class_name":"EventLog"},
+"event_logs:sources:opened": {"key":"sources:opened","ct":196,"first_at":1768089595599,"last_at":1769955459583,"class_name":"EventLog","event_sources":{"active-leaf-change":182,"open_source method":14}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":197,"first_at":1768089595599,"last_at":1769955465539,"class_name":"EventLog","event_sources":{"active-leaf-change":183,"open_source method":14}},
