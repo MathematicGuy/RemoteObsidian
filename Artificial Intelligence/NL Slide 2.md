@@ -20,6 +20,8 @@ Another update rule for the architecture and the memory that we have.
 ![[Pasted image 20260130122439.png]]
 The init params try to compress the context while the inner loop try to adopt/learn some of the context using gradient descent. 
 	-> Linear Attention is a form of 2 levels optimization problem, 1 is the Training process and 1 is the Adoption of the memory to the context.  
+![[Pasted image 20260131091404.png | 444]]
+
 
 ### MIRAS: A General Framework for Designing Archirectures
 ![[Pasted image 20260130122855.png]]
