@@ -17,6 +17,7 @@ Think of it as a dictionary, we have keys and values. *Learning is the process o
 Another update rule for the architecture and the memory that we have.
 
 
+
 ![[Pasted image 20260130122439.png]]
 The init params try to compress the context while the inner loop try to adopt/learn some of the context using gradient descent. 
 	-> Linear Attention is a form of 2 levels optimization problem, 1 is the Training process and 1 is the Adoption of the memory to the context.  
@@ -46,3 +47,25 @@ The init params try to compress the context while the inner loop try to adopt/le
 ![[Pasted image 20260130125843.png]]
 + ? Explain the second $W_{t+1}$ equal to ... wth $u_{t+1}= \dots$
 	-> Backprop is a form of Associate Memory that map its input to the Error rate that it receives for the backprop process. 
+
+### Nested Learning
+![[Pasted image 20260131155857.png]]
+$f$ as update frequency
+![[Pasted image 20260201145601.png]]
+*Another Example:* Distillation create 2-levels learning structure where a small student network acts as an inner learner distilling knowledge from a larger teacher network (the outer learner)
+
++ ? Explain all 3 Definition Here
+![[Pasted image 20260131155842.png]]
+Nested System: 
+	Each block have its own gradient flow, locally solve a new problem that we define based on an Optimization process and Objective  
++ regularization tại thời điểm $t$: trọng số mới không khác biệt quá nhiều.  
+
+### Nested Learning: Knowledge Transfer
+**How levels can be Inter-connected ?**
+![[Pasted image 20260131160629.png]]
+Direct Connection of Levels (Prametric):
+	A simple Way is through direct Conditioning of the output of the slow network on the ouput of the fast network.
+
+-> Fast-Level: Linear Attention. Slow-Level calc Attention QKV.
+
+

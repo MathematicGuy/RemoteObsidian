@@ -1,4 +1,4 @@
- ### 1.1 Momentum
+### 1.1 Momentum
 **Gradient Descent ban đầu:**
 $\theta = \theta - \eta \nabla_{\theta}J(\theta)$ có $\theta$ là tham số của mô hình cần cập nhật và $\nabla_{\theta}J(\theta)$ là đạo hàm của $\theta$.
 
@@ -10,10 +10,11 @@ $\gamma:$ thường có giá trị 0.9 (ie. dùng 90% giá trị momentum), dùn
 $v_{t-1}:$ là vận tốc tại thời điểm trước đó. $v_{t}$ là hiện tại
 $\theta:$ vị trí hiện tại của hòn bi.
 $\nabla J(\theta):$ "slope / đạo hàm" của điểm trước đó.
--> Ta cập nhật tham số như bình thường: $\theta = \theta - v_{t}$
+-> Ta cập nhật tham số như bình thường: $\theta = \theta - v_{t}$ (Note: Initial $v_{t}$ is set to zero)
 
 
 Tuy Momentum giúp vượt qua Local Minimum để đi đến Global Minimum tốt hơn nhưng cũng chính vì Momentum mà nó mất quá nhiều Iteration để ổn định vị trí tại điểm cực tiểu chính.
+
 ![[Pasted image 20260121205747.png]]
 
 ### 1.2 Nesterov accelerated gradient (NAG)
@@ -30,4 +31,3 @@ So sánh 2 thuật toán cho bài toán LR, ta thấy rõ NAG hội tụ nhanh h
 ![[Pasted image 20260121213508.png]]
 
 
-c
