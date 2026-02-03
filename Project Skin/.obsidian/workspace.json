@@ -195,14 +195,13 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "67397bba6f74e70d",
   "lastOpenFiles": [
-    "Todo.md",
     "conflict-files-obsidian-git.md",
+    "Todo.md",
     "_Focus/Todo.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",
