@@ -56,8 +56,6 @@ The init params try to compress the context while the inner loop try to adopt/le
 ### (1) Expressive Optimizers
 Gradient-based optimizers, such as Adam, SGD with Momentum, etc., are in fact associative memory modules.
 + ? The momentum term in SGD compresses the history of gradients into a memory state to predict the next update. Therefore, an optimizer is just a learning module operating on a "context flow" of gradients
-
-![[Pasted image 20260111201333.png]]
 + ? Similar to associate Input Error to the Gradient
 
 In the training process itself, specifically the *backpropagation process*, can be modeled as an *associative memory.* **The model learns to map a given data point to the value of its local error**, serve as a measure of how "Suprising" or unexpected that data point was.
@@ -212,10 +210,3 @@ A comparison of Hope architectural backbone with Transformers (Normalization and
 
 
 
-
-
-
-
----
-
-![[Pasted image 20260122091647.png]]

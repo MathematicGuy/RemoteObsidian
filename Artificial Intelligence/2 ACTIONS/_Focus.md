@@ -4,7 +4,8 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _TODAY
-- [ ] Do everyone have jelousy ? 
+- [ ] 4.2 Momentum-based Optimizers as Associative Memories
+- [ ] Hiểu Code
 
 _Long Term
 - [ ] Revision Loss Function Classification & Regression + Use Case
