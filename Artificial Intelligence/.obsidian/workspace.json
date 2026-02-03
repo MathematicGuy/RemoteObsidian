@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "72bd42fc26bd850e",
+    "id": "c3f9134604eb1e4b",
     "type": "split",
     "children": [
       {
-        "id": "3b96bd2393aeb066",
+        "id": "eafdbca8ca848f63",
         "type": "tabs",
         "children": [
           {
-            "id": "2da88b094be0e366",
+            "id": "e1cd98f37c687c01",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,37 +22,20 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-<<<<<<< HEAD
-=======
           },
           {
-            "id": "f91123c182612e58",
+            "id": "b09996ba65e3277a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NL Slide 2.md",
+                "file": "Computer Vision Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NL Slide 2"
+              "title": "Computer Vision Revision"
             }
-          },
-          {
-            "id": "38deea07ac9109ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nested Learning - The Illusion of Deep Learning Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nested Learning - The Illusion of Deep Learning Architecture"
-            }
->>>>>>> fac351bc39fc337316030c4d7bca2e1bc17e1241
           }
         ],
         "currentTab": 1
@@ -61,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f64fa3b00056cdc",
+    "id": "ef72f12b9e5dc015",
     "type": "split",
     "children": [
       {
-        "id": "f40e0d45fa6b5adc",
+        "id": "670782ca18553f88",
         "type": "tabs",
         "children": [
           {
-            "id": "39af076bd3e522a0",
+            "id": "c5ac862489bec75c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -82,7 +65,7 @@
             }
           },
           {
-            "id": "e88d4d3c7da52328",
+            "id": "6a4a0a4ca399b919",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,7 +82,7 @@
             }
           },
           {
-            "id": "5f95fe1ee302cfa3",
+            "id": "cfd0b8e4f3e30eae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -112,23 +95,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "00be067e16609564",
+    "id": "b0b71a74ba264055",
     "type": "split",
     "children": [
       {
-        "id": "94d008442c5827b5",
+        "id": "ab63b42a15dda218",
         "type": "tabs",
         "children": [
           {
-            "id": "25e19ac7b85049b3",
+            "id": "3ab9e45a43d5fc31",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "ML Coding Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,25 +122,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for ML Coding Interview"
             }
           },
           {
-            "id": "348a5678ed2b9a50",
+            "id": "6939a22e26f84245",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "ML Coding Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links from ML Coding Interview"
             }
           },
           {
-            "id": "0f88f9089ed47380",
+            "id": "ec04a06ebd227f67",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,7 +155,7 @@
             }
           },
           {
-            "id": "10d75cd27bc1ab9f",
+            "id": "f7a4fd4c3a0f5d98",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -185,22 +169,18 @@
             }
           },
           {
-            "id": "0d1d090906de645e",
+            "id": "6a80077efedb13f9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "ML Coding Interview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of _Focus"
-=======
-              "title": "Outline of Class Incremental Learning Survey"
->>>>>>> fac351bc39fc337316030c4d7bca2e1bc17e1241
+              "title": "Outline of ML Coding Interview"
             }
           }
         ]
@@ -231,52 +211,13 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-<<<<<<< HEAD
-  "active": "f91123c182612e58",
-=======
-<<<<<<< HEAD
-  "active": "2da88b094be0e366",
-  "lastOpenFiles": []
-=======
-  "active": "ca98d68e5d692511",
->>>>>>> origin/main
+  "active": "b09996ba65e3277a",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
-    "image/Pasted image 20260112141205.png",
-    "NL Slide 2.md",
-    "image/Pasted image 20260201154044.png",
-    "image/Pasted image 20260201153613.png",
-    "image/Pasted image 20260201152650.png",
-    "image/Pasted image 20260201152442.png",
-    "image/Pasted image 20260201152422.png",
-    "image/Pasted image 20260201152121.png",
-    "image/Pasted image 20260201145601.png",
-    "image/Pasted image 20260131170037.png",
-    "Excalidraw/Nested Learning Board.md",
-    "image/Pasted image 20260131222626.png",
-    "VinUni AI Talent.md",
-    "Excalidraw/Scaling Vision Transformers with Sparse Mixture of Experts.excalidraw.md",
-    "25M8W1 - Gradient Descent with Momentum.md",
-    "POS (Part-Of-Speech) Tagging.md",
-    "MLS Week 3 - Classification with logistic regression.md",
-    "L1 vs L2 Regression and Loss Revision.md",
-    "Tree LoRA.md",
-    "Multi-scale Momentum Muon - What to FOCUS ON.md",
-    "MoE - Mixture of Expert.md",
-    "25M8W3 Object Localization.md",
-    "Machine Learning & Data Science Main.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "25M6W2 - Loss function for Classification.md",
-    "AIO Loss Functions for Classification.md",
-    "ML CheatSheet.md",
-    "Supervised Machine Learning - Regression and Classification.md",
-    "MLS Week 2 - Regression with multiple input variables.md",
-    "Feature Engineering and Polynomial Regression.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning.md",
-    "image/Pasted image 20260128134608.png.~tmp"
+    "image/Pasted image 20260203180836.png",
+    "image/Pasted image 20260203175230.png",
+    "ML Coding Interview.md",
+    "Computer Vision Revision.md",
+    "CNN Revision.md",
+    "2 ACTIONS/_Focus.md"
   ]
->>>>>>> fac351bc39fc337316030c4d7bca2e1bc17e1241
 }
