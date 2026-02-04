@@ -37,8 +37,7 @@
               "title": "Continual Learning Code"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +207,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "532b331743d0c91a",
+  "active": "98495cdeb4ee852e",
   "lastOpenFiles": [
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "Continual Learning Code.md",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260204121726.png",
     "Continuous Learning & Nested Learning Survey (main).md",
