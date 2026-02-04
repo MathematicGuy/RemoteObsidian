@@ -63,6 +63,16 @@ Span is like the magnitude of a vector (Eigenvalue) pointing to a direction
 > This mean there cannot be 2 indentical vectors with the same magnitude pointing toward a direction. (Matrix have the same span -> that span not a basis)
 
  A group of vectors is said to be **linearly independent if none of the vectors in the group can be obtained as a linear combination of the others.** or in other word
+Example:
+$v_{1}=(1, 0), v_{2}=(0, 1)$ as independent $v_{1}$ cannot transform into $v_{2}$ (and reverse), in other word $v_{1}$ is not a multiple/scaler for $v_{2}$ (and reverse).
+$u_{1}=(1, 2), u_{2}=(2, 4)$ as dependent because $u_{1}$ is depend on $u_{2}$ -> $u_{2} = 2u_{1}$
+
+**Another Linearly Independent Vectors Example:**
+Basis Vectors in $\mathbb{R}^2:(1, 0), (0, 1)$
+Standard Basis in $\mathbb{R}^{3}:{(1, 0, 0), (0, 1, 0), (0, 0, 1)}$ - Each vector introduces a new dimension. 
+Non-parallel Vectors $\{(1, 2), (3, 1)\}$ - no scaler $c$ exists such that $(1, 2) = c(3, 1)$
+
+
 + ? Ex: **A basis for a 3D vector space must consist of three linearly independent vectors. (n chiều thì n nghiệm**. vd: 3D -> 3 Nghiệm)
 ![[Pasted image 20240709124754.png]]
 + $ Since **one vector can be obtained as a linear combination of the others (2 blue = 1 red)**, this set of vectors is called **linearly dependent**. Notice also that **even though we added a new vector to our set, the span of these vectors did not change, it remained a straight line**.
