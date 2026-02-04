@@ -106,5 +106,40 @@ Tunning khó vì tính bất ổn
 
 Xem những bài trong thời giản 2 năm tr'c đó. Xem bài báo nào dc quan tâm nhiều nhất. 
 
+----
 
 
+![[Pasted image 20260202130649.png]]
+Top-1 Routing lấy Top-1 Expert từ mỗi GPU -> Mỗi GPU có 1 Expert thì với batch 8192 token chia đều cho các GPU là 8192 / 8 = 1024.
+
+
+![[Pasted image 20260202134117.png]]
+C (dung lượng mỗi Expert có thể xử lý đc) -> (400 / 4) * 1.2 = 120 
+Expert 1 nhận 150 token -> 150 (input) - 120 (capacity) = 30 token thừa (overflow)  
+Expert 2 nhận 70 token -> 70 (input) - 120 (capacity) = -50  token thiếu (padding)  
+
+![[Pasted image 20260202135500.png]]
+4 GPU, mỗi GPU nhận 250 gửi cho các GPU còn lại 250 tokens 
+-> 4 GPU nhận tổng 1000 tokens. Khi 1 GPU nhận tokens, các GPU còn lại nhận tổng 750 tokens.   
+
+![[Pasted image 20260202150613.png]]
+XS xử lý của expert A/B = xs chọn nhánh A/B * xs chọn Expert A/B
+
+![[Pasted image 20260202152104.png]]
+Y_perm là giá trị từ Permute_idx. 12 ở vị trí 2, 6 cũng ở vị trí thứ 2 trong list nghĩa là giá trị 6 có index 12. 
+
+![[Pasted image 20260202152155.png]]
+Công thức `Y[i]` nghĩa là nhân giá trị w và Y_perm tương ứng với index trong permute_index. 
+20 * 0.7 + 40 * 0.3 = 26
+
+![[Pasted image 20260202154221.png]]
+XS tiên nghiệm là XS của Router chọn Expert: 0.4 cho Expert1 và 0.6 cho Expert2
+Xác suất dc chọn của mỗi Expert: 0.8 * 0.4 + 0.6 * 0.2 = 0.44
+Xác xuất Expert 1 dc chọn: 0.8 (xs dữ liệu phù hợp vs Expert) * 0.4 (XS route chọn Expert)
+-> Sử dụng bayes cho h(1) = P(chọn expert 1) / P(xs mỗi expert)  = (0.8 * 0.4) / 0.44 = 0.7272727273
+
+![[Pasted image 20260202155013.png]]
+
+![[Pasted image 20260202154956.png]]
+
+![[Pasted image 20260202155058.png]]

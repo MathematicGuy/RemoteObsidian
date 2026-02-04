@@ -24,3 +24,4 @@ This mean every NxN local features reduced down to a single pixel, this is impor
 For visualization, this is how Image transformed after each layer of CNN. 
 
 ![[Pasted image 20260203180836.png]]
+

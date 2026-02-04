@@ -24,7 +24,7 @@ Train on 2 dataset for each tasks -> minimize Loss for both task A (old) and tas
 	- Tasks that are **clearly different**
 	- But **not semantically different**
 	- So difficulty comes **only from interference**, not from task complexity.
-
+f
 The method below create new data from itself (hence permutation).
 + $ **Data Permutation tasks**. Evaluate model performance on Permutation dataset after training on Task 1 dataset. ![[Pasted image 20251224152944.png]]
 	$P_{2}X_{i}$ - permuted input = *Shuffle pixels for every images from task 1*.
