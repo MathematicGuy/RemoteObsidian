@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c3f9134604eb1e4b",
+    "id": "7ed11ac79e8a7b0c",
     "type": "split",
     "children": [
       {
-        "id": "eafdbca8ca848f63",
+        "id": "4934d630d1ce8d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e1cd98f37c687c01",
+            "id": "7b04d1d66e123142",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,37 +22,22 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "b09996ba65e3277a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision Revision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Vision Revision"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ef72f12b9e5dc015",
+    "id": "f913f5b97ac0092b",
     "type": "split",
     "children": [
       {
-        "id": "670782ca18553f88",
+        "id": "0eec0109ef994595",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ac862489bec75c",
+            "id": "678e4aa493e2e01b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +50,7 @@
             }
           },
           {
-            "id": "6a4a0a4ca399b919",
+            "id": "4ddade46eab2d121",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +67,7 @@
             }
           },
           {
-            "id": "cfd0b8e4f3e30eae",
+            "id": "3f509ebd8b47c090",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,20 +84,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "b0b71a74ba264055",
+    "id": "bb8c924bd69287fd",
     "type": "split",
     "children": [
       {
-        "id": "ab63b42a15dda218",
+        "id": "15e32e9cda1b03e5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab9e45a43d5fc31",
+            "id": "15735fe7623e6f9e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML Coding Interview.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ML Coding Interview"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "6939a22e26f84245",
+            "id": "72dfc28a5b519510",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML Coding Interview.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ML Coding Interview"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "ec04a06ebd227f67",
+            "id": "c4666aebcd1f025d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,7 +140,7 @@
             }
           },
           {
-            "id": "f7a4fd4c3a0f5d98",
+            "id": "95d7552a43ce04d4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,18 +154,18 @@
             }
           },
           {
-            "id": "6a80077efedb13f9",
+            "id": "f7134d209dd2185a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML Coding Interview.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ML Coding Interview"
+              "title": "Outline of _Focus"
             }
           }
         ]
@@ -205,79 +190,9 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "b09996ba65e3277a",
-  "lastOpenFiles": [
-    "image/Pasted image 20260203180836.png",
-    "image/Pasted image 20260203175230.png",
-    "ML Coding Interview.md",
-    "Computer Vision Revision.md",
-    "CNN Revision.md",
-    "2 ACTIONS/_Focus.md"
-=======
-<<<<<<< HEAD
-  "active": "fd1ce248e0afe74b",
-  "lastOpenFiles": [
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
-    "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20260201145601.png",
-    "image/Pasted image 20260131160629.png",
-    "image/Pasted image 20260131155857.png",
-    "image/Pasted image 20260131155842.png"
-=======
-<<<<<<< HEAD
-  "active": "f91123c182612e58",
-=======
-<<<<<<< HEAD
-  "active": "2da88b094be0e366",
+  "active": "7b04d1d66e123142",
   "lastOpenFiles": []
-=======
-  "active": "ca98d68e5d692511",
->>>>>>> origin/main
-  "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
-    "image/Pasted image 20260112141205.png",
-    "NL Slide 2.md",
-    "image/Pasted image 20260201154044.png",
-    "image/Pasted image 20260201153613.png",
-    "image/Pasted image 20260201152650.png",
-    "image/Pasted image 20260201152442.png",
-    "image/Pasted image 20260201152422.png",
-    "image/Pasted image 20260201152121.png",
-    "image/Pasted image 20260201145601.png",
-    "image/Pasted image 20260131170037.png",
-    "Excalidraw/Nested Learning Board.md",
-    "image/Pasted image 20260131222626.png",
-    "VinUni AI Talent.md",
-    "Excalidraw/Scaling Vision Transformers with Sparse Mixture of Experts.excalidraw.md",
-    "25M8W1 - Gradient Descent with Momentum.md",
-    "POS (Part-Of-Speech) Tagging.md",
-    "MLS Week 3 - Classification with logistic regression.md",
-    "L1 vs L2 Regression and Loss Revision.md",
-    "Tree LoRA.md",
-    "Multi-scale Momentum Muon - What to FOCUS ON.md",
-    "MoE - Mixture of Expert.md",
-    "25M8W3 Object Localization.md",
-    "Machine Learning & Data Science Main.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "Bias-Variance Tradeoff and Model Performance.md",
-    "25M6W2 - Loss function for Classification.md",
-    "AIO Loss Functions for Classification.md",
-    "ML CheatSheet.md",
-    "Supervised Machine Learning - Regression and Classification.md",
-    "MLS Week 2 - Regression with multiple input variables.md",
-    "Feature Engineering and Polynomial Regression.md",
-    "1 PROJECTS/Coursera Mathematic for Machine Learning/Calculus for Machine Learning.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Mathematics for Machine Learning.md",
-    "image/Pasted image 20260128134608.png.~tmp"
->>>>>>> 628010d3dbd782e2b0ff0620c0cc804b7670ff23
->>>>>>> origin/main
-  ]
 }
