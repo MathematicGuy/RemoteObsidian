@@ -1,4 +1,4 @@
-	### [[Anstler Palace.canvas|Anstler Place]]
+### [[Anstler Palace.canvas|Anstler Place]]
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_

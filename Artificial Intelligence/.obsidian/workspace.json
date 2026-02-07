@@ -51,8 +51,7 @@
               "title": "Fun Research Paper & Direction Analysis"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,6 +205,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,8 +224,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef47d3f58c99a2fc",
+  "active": "98495cdeb4ee852e",
   "lastOpenFiles": [
+    "Fun Research Paper & Direction Analysis.md",
     "image/Pasted image 20260204180425.png",
     "image/Pasted image 20260204180152.png",
     "image/Pasted image 20260204180046.png",
@@ -235,7 +238,6 @@
     "image/Pasted image 20260204170948.png",
     "image/Pasted image 20260204170258.png",
     "image/Pasted image 20260204170136.png",
-    "image/Pasted image 20260204165843.png",
     "Vector Dot Product.md",
     "Orthogonal Projection Loss (2021).md",
     "Linearly Dependent and Independent.md",
