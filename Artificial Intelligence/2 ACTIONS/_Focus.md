@@ -4,10 +4,11 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
 _TODAY
-- [ ] 4.2 Momentum-based Optimizers as Associative Memories
-- [ ] Hiểu Code
 
 _Long Term
+- [ ] Structurelize Research Process so I can do Research and Work (Vittel/Vin) without inturruption
+
+
 - [ ] Revision Loss Function Classification & Regression + Use Case
 - [ ] Machine Learning Project Life Cycle description for one of my Project
 - [ ] L1 vs L2 for regression

@@ -1,4 +1,4 @@
-## [[Continous Learning Survey]]
+## [[Continous Learning Research Plan]]
 **Continous Learning -** Learn new information continously without forgetting old information.
 **Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
 
