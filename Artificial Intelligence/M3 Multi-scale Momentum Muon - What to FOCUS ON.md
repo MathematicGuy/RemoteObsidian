@@ -56,6 +56,12 @@ Solve the question is
 ### 3. Understanding the M3 Fomula (Algorithm 1)
 **Adam**, **Muon**, and **CMS** combine to form the M3 optimizer:
 $$\Theta_{t} \leftarrow \Theta_{t-1} - \eta \cdot \underbrace{\frac{\overbrace{O_{t}^{(1)}}^{\text{Muon}} + \overbrace{\alpha O_{t}^{(2)}}^{\text{CMS}}}{\sqrt{\underbrace{V_{t}}_{\text{Adam}} + \epsilon}}}_{\text{M3 Combination}}$$
+$\theta = \theta - \eta \nabla_{\theta}J(\theta)$
+
+
+$$v_{t} = \gamma v_{t-1} + \eta \nabla_{\theta}J(\theta)$$
+
+$$\Theta_{t} \leftarrow \Theta_{t-1} - \eta \cdot \underbrace{\frac{\overbrace{O_{t}^{(1)}}^{\text{Muon}} + \overbrace{\alpha O_{t}^{(2)}}^{\text{CMS}}}{\sqrt{\underbrace{V_{t}}_{\text{Adam}} + \epsilon}}}_{\text{M3 Combination}}$$
 
 ### **1. Adam: The Adaptive Denominator**
 

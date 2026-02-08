@@ -2,8 +2,9 @@ Note: _Preliminary: The process of finding out what there is to find out_.
 **Context**
 *In Classical ML*, all training data arrive at the same time.
 	In detail, traditional ML assume data distribution is static and IID.
++ ! In Normal Training problem, the model can see the WHOLE data distribution, but in continual learning you only see 1 sample of data at a time. 
 
-*In Incremental Learning (IL),* training data come in sequence or in number of steps, and the distribution of data shift/ overtime as new data arrived (like real world stream of continous data).
+*In Incremental Learning (IL),* training data *come in sequence or in number of steps, and the distribution of data shift/ overtime as new data arrived* (like real world stream of continous data).
 <-> IL is not i.i.d (independent and Identically Distribution - Độc lập và phân phối đồng nhất). *violation of the IID assumption is what leads* to "Catastrophic Forgetting (CF)".
 -> Solve CF allow model to continously learn new data no matter their distribution is. 
 
@@ -21,6 +22,8 @@ Detail Explaination:
 **Math:** $f(x) \to Y_\text{all}$​ (where $Y_\text{all}​=Y_{\text{task1}}​ \cup Y_{\text{task2}}$)
 **Real-world Example:** Google Photos, it learn to recognize your face at 15 years old, few years later you add a lot animal & people to your Photos gallary, but google photos still need to recognize the 15 years old you instead of other people or animal.   
 
+
+
 **Task-Incremental Learning**
 Training Task come in sequence like Class-Incremental Learning, **tested classes define only within a specific task.** 
 	For example, task 1 have "Bird and Dog" class -> only test for "Bird and Dog" class. task 2 have Tiger and Fish class -> only test on task 2's Tiger and Fish class.  
@@ -35,6 +38,7 @@ This method often apply *TIL in Multi-Head architecture*, so *each Head classifi
 **Difficulty:** Easiest. Because the model already given half the answer bc their search space is much smaller, it don't have to worry about guessing wrong among 100 of classes like CIL. 
 **Math:** $f(x,t)$ $\to Y_t$​ (predict label y given input x and task t)
 **Real-world Example:** Like how human minimize the problem scope, an Object Detection App with TIL will only search the Plant Domain when you open Plant_Detection feature, so that inference is faster and never accidentally a Plant as a Person (bc no Person include the Plant searching domain). 
+
 
 **Domain-incremental learning**
 Training come in sequence like CIL and all Tasks have the *same class/label (Dog)* but they're come from *different domain (e.g. Real Life Dog and Cartoon Dog).* 
@@ -54,6 +58,7 @@ Training come in sequence like CIL and all Tasks have the *same class/label (Dog
 **Real-world Example:** Teach the model to predict pedestrian & traffic sign in snowy Norway (Domain 1: Snowy) and pedestrian & pedestrian in sunny England (Domain 2: sunny). 
 
 Bonus: Blurry CIL mean the model get to revision, this mean old classes from old task get added to new task (this call classes overlapping, bc 2 task have the same class), which help mitigates CF. (kind of like replay)
+
 
 **Detail Example**
 ![[Pasted image 20260118160950.png]]

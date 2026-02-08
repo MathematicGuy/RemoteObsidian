@@ -74,6 +74,7 @@ The same apply to Attention Module in Transformer with 2 layers of Linear, 1st l
 *Another Example:* Distillation create 2-levels learning structure where a small student network acts as an inner 
 learner distilling knowledge from a larger teacher network (the outer learner)
 
+![[Pasted image 20260110161418.png | 190]]
 
 ![[Pasted image 20260131155857.png]]
 **Formal Definition:** Frequency $f_A$ is defined as the number of updates a component $A$ performs per unit of time (where one unit is typically one step over one data point).
@@ -86,6 +87,8 @@ learner distilling knowledge from a larger teacher network (the outer learner)
     - **Frequency $0$ (Slow):** The MLP weights are frozen after pre-training. Their update frequency during inference is zero.
     
 **The CMS Solution:** This definition drives the **Continuum Memory System (CMS)**, which fills the gap between $\infty$ and $0$ by introducing layers that update every 10, 100, or 1,000 steps (chunks).
+
+![[Pasted image 20260107144054.png]]
 
 
 **Definition 3 talk GENERAL**

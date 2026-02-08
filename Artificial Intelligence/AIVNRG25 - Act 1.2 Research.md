@@ -67,8 +67,3 @@ Key Idea: Multiple iterations may yield "additional gain"
 - Better responses -> Better AI labels -> Improved policy
 ```
 
-
-----
-## Reinforcement Learning with Human Feedback clearly explain Power Point
-### 3. Quá trình Viết lại Bài báo Khoa học
-Thử thách khi viết Proposed Method

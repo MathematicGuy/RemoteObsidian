@@ -44,7 +44,7 @@ Ex:
 **Challenges:** **difficulty of obtaining the ground truth labels**. For example, we can judge whether a person is likely to have depression from his/her posts on social media. However, we can only confirm the disease from the person’s EHR (**Electronic Health Record**)
 	yes, privacy problem
 
----
+
 
 # Research Team 
 
@@ -120,33 +120,4 @@ Ex:
     - **Nguyễn Lương Thanh Hà:** Nghiên cứu về độ tin cậy và khả năng giải thích của các mô hình AI dự đoán bệnh tật và các biến cố y tế, đặc biệt là khi đối mặt với dữ liệu nhiễu hoặc bị tấn công.
         
 - **Tiềm năng phát triển:** Xây dựng các framework và công cụ để đánh giá và tăng cường tính an toàn và tin cậy của các hệ thống AI được triển khai trong môi trường y tế.
-
-
----
-# Adversarial attacks 
-+ ? **Adversarial attacks** are a **type of machine learning attack that manipulate input data** to **trick a model into making incorrect predictions.**
-
-## Topic: Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges
-
-**Introduction:** 
-Thực chất các mô hình DL tồn tại rất nhiều lỗ hổng về bảo mật, Một số cách tấn công mô hình rất phổ biến đó là tạo nên **advesarial example** bằng các t**hêm "noise" hay sử dụng các véc tơ để bóp méo ảnh đầu** vào khiến cho ảnh tuy không có gì thay đổi với nhận thức của con người nhưng có thể khiến cho máy nhận định sai nhãn
-> **Deep Learning** nhạy cảm đến nỗi việc thay đổi **ngay cả 1 điểm của ảnh (1 pixel) cũng có thể khiến cho mô hình phán đoán sai.**
-
-
-
----
-### [Note](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12419?fbclid=IwZXh0bgNhZW0CMTAAAR0QyqiJkvVF23d7Oq627EsCku2zohhWEk3wjcwf_0DbrqTDmAnmtisBMEU_aem_Klk-6L7MiAjiKRJKPJVIYA)
-Loss Function for Inbalance Dataset
-
-**Weighted Entropy Loss**
-vùng tổn thương nhỏ hơn nhiều lần so vs vùng nền.
-
-Tối ưu vùng dự đoán và vùg thực tế
-
-Tverskz Loss
-phân loại não thất
-
-vấn đề: mất cân bằng dữ liệu. 
-
-Weight Cross-loss Entropy
 

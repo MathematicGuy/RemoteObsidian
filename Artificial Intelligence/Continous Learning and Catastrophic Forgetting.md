@@ -1,8 +1,20 @@
 **Goal:** Learn new Data without forgetting old data. *Aim to mimic human life long learning capability.*
 **Continual Learning application:** CV - autonomous vehicles.
 
-### Example Context for CL
-	autonomous vehicles
+### Differences From Other Paradigms
+![[Pasted image 20260204213527.png]]
+Meta-Learning -> Learning to learn 
+	meta mean refering to itself. That why meta-learning mean learning how to learn. 
+	by focused on training a model to adapt quickly to new, unseen tasks, domains, or languages using minimal data. 
+	
+Online-Learning -> testing and application occur as frequently as the training data with all data come from the same distribution. 
+	
+Continual learning -> in training, the model learn each task in a incremental sequence, after each epoch iteration the number of task model need to learn increase by 1 (that incremental). However that a example for Class-Incremental learning there are more. 
+
+### Why Continual, what the point ? 
+Well, if you want your model to *learn and adapt like human without re-training the whole model* for each new inputs you should learn this bro. 
+-> Application: Humanoi Robotic, Autonomous Driving for car to adapt the constantly changing environment or finance so model can detect new fraud pattern in live streaming data or even algorithm trading so model can adapt to market crash adaptably. 
+
 
 Train on 2 dataset for each tasks -> minimize Loss for both task A (old) and task B (new).
 + ! results is Good perf task B but Worst perf task A. This called catastrophic forgetting/inference.

@@ -3,9 +3,10 @@
 # Nested Learning
 ## Abstract
 ![[Pasted image 20260129100813.png]]
-Nested Learning - machine learning model with a set of nested, multi-level, and/or parallel optimization problems, each of which with its own “context flow".
-<-> Existing learning method learns from data through compressing their own "context flow"
+Nested Learning - machine learning model with a set of nested, *multi-level, and/or parallel optimization problems*, each of which with its *own “context flow"*.
+<-> Existing learning method learns from data through compressing their own "context flow".
 
+Example: in Attention, each QKV head learn a different problem.
 ![[Pasted image 20260110161418.png | 190]]
 Design Philopsophy:
 -> More "levels" resulting in higher-order in-context learning + effective continual learning capabilities.
@@ -14,7 +15,7 @@ Design Philopsophy:
 ![[Pasted image 20260129100730.png]]
 
 ### Associative Memory
-is the ability to remember relationship between related abd unrelated evens/items/.... 
+is the ability to remember relationship between related and unrelated evens/items/.... 
 	ability to remember and connect ideas. 
 Think of it as a dictionary, we have keys and values. *Learning is the process of acquiring the mapping.* (ie. *map the right key to value*, like human connect ideas or associating information)
 ![[Pasted image 20260130121818.png]]
@@ -32,26 +33,12 @@ The init params try to compress the context while the inner loop try to adopt/le
 **Retention Gate ->** How do you want to retain the knowledge from the past e.g. do u want forget gate or retain all the information in the past ?  
 **Memory Algorithm ->** How do we want to learn the internal process ? Do we want GD or more powerful algo like GD with momentum or even a non-parametric solution like Softmax Attention ? That another Design choice. 
 
-### Modern Architecture as Associate Memory
-![[Pasted image 20260130124249.png]]
-
-![[Pasted image 20260130124229.png]]
-**Oja rule -** improve the Hebian rule that discussed by adding the regularization term 
-**Omega rule -** objective agnostic
-	"objective-agnostic" mean a algo operates independently of any spectific goal, predefined target or optimization criteria. For example, a Flexible Optimization algorithm that adapt through click-rate and likes to promote best selling product.
--> Insted of optimizing the current state of memory of the key and values like Kt and Vt it optimize the memory for a local window of the past keys and values. 
--> Not online learning, bc it need to map some of the past keys and values. Note: online learning mean only learning new/up-to-date knowledge without past knowledge.
-+ $ Like Sliding Window Linear Attention: Instead of just updating the mem w.r.t $V_{i,}K_{i}$ we update to a past set of keys and values.
-+ ? What online and offline learning in this slide mean ? Why the architecture related to online and offline ? Isn't its just data, not architecture ?
-
 ### Optimization and Backpropagation: A Preliminary Example
 ![[Pasted image 20260130125843.png]]
 + ? Explain the second $W_{t+1}$ equal to ... wth $u_{t+1}= \dots$
 	-> Backprop is a form of Associate Memory that map its input to the Error rate that it receives for the backprop process. 
 
 
-
- 
 ## Core Contribution Overview
 ### (1) Expressive Optimizers
 Gradient-based optimizers, such as Adam, SGD with Momentum, etc., are in fact associative memory modules.
@@ -61,7 +48,6 @@ Gradient-based optimizers, such as Adam, SGD with Momentum, etc., are in fact as
 In the training process itself, specifically the *backpropagation process*, can be modeled as an *associative memory.* **The model learns to map a given data point to the value of its local error**, serve as a measure of how "Suprising" or unexpected that data point was.
 ![[Pasted image 20260122082909.png]]
 
-![[Pasted image 20240930164241.png | 554]]
 
 
 + ? What does it mean to say "The model learns to map a given data point to the value of its local error"
@@ -71,7 +57,7 @@ In the training process itself, specifically the *backpropagation process*, can 
 ![[Pasted image 20260111202804.png]]
 -> backpropagation can be viewed as an associative memory that maps each data sample to the error of its corresponding prediction
 
-Prove backprop with momentum are 2 level associated memory.
+Prove backprop with momentum are **2 level associated memory.**
 ![[Pasted image 20260111203553.png]]
 
 The same apply to Attention Module in Transformer with 2 layers of Linear, 1st layer for updating weight of Keys K,Q,V while the second update MLP params.
@@ -97,7 +83,6 @@ For Context, traditional DL like Transformers, memory is *binary (chose only 1: 
 $$y_{t} = MLP^{f_{k}}(\dots MLP^{f_{k}} (o_{t})\dots)$$
 + $ In simple Term, CMS allow each MLP to Update by different TIME STEP.
 + ? Why and how CMS can help with longer context length and generally continual learning ?
-
 
 
 ![[Pasted image 20260111205410.png]]
@@ -131,6 +116,7 @@ Instead of Frozen, how about we update the Pretrain Weight rarely over time.
 ### **2 - The Formulas Line-by-Line**
 The CMS is defined by two processes: **Processing the Data (Forward Pass)** and **Updating the Memory (Backward Pass/Update Rule)**.
 ![[Pasted image 20260111205226.png]]
+
 #### **1. The Forward Pass (Equation 70)**
 This formula describes how information flows through the hierarchy of memory blocks to generate an output. Where each layer update less frequence than the previous.
 $$y_{t} = MLP^{(f_{k})} \left( MLP^{(f_{k-1})} \left( \dots MLP^{(f_{1})}(x_{t}) \right) \right)$$
@@ -179,12 +165,15 @@ Nested Learning is a perspective to develop CMS.
 #### **1. The Forward Pass (Equation 70)**
 $$y_{t} = MLP^{(f_{k})} \left( MLP^{(f_{k-1})} \left( \dots MLP^{(f_{1})}(x_{t}) \right) \right)$$
 
+![[Pasted image 20260111211501.png]]
+
+
 #### **2. The Update Rule (Equation 71)**
 [[M3 Multi-scale Momentum Muon - What to FOCUS ON]]
-Note: Adam + Muon + CMS = Multi-scale Momentum Muon (M3)
+Note:  (Adam + Muon) + (CMS) = Multi-scale Momentum Muon (M3)
 ![[Pasted image 20260111211050.png]]
 For each $k-iteration$, $O_t^{(2)}$ (CMS) update in parallel with $O_{t}^{(1)}$ (Muon), but if Chunk size $\hat{C}$ is not met, $O_{t}^{(2)}$ just return 0.
-	![[Pasted image 20260112141205.png]]
+![[Pasted image 20260112141205.png]]
 
 
 **CMS Varient**

@@ -1,4 +1,4 @@
-**Code Tree Lora (rank 8) + Orthogonal Loss:** [https://github.com/Jennifer1907/Tree_LoRA_Ortho](https://github.com/Jennifer1907/Tree_LoRA_Ortho)
+****Code Tree Lora (rank 8) + Orthogonal Loss:** [https://github.com/Jennifer1907/Tree_LoRA_Ortho](https://github.com/Jennifer1907/Tree_LoRA_Ortho)
 ![[Pasted image 20260204121726.png# left | 344]]
 **Kết quả:**
 + Trước khi thêm Orthogonal Loss:
