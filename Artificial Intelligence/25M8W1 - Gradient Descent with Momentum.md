@@ -50,8 +50,7 @@ Note: $dW_{t} = \nabla W_{t}$ both mean derivative of $W_t$ but 1 is faster & ea
 -> Handle Sparse Gradients on noisy problem
 ### 1.4 Adam Optimizer (Adaptive Movement Estimation algorithm)
 + @ Adam is essentially take the best of  "SGD + Momentum" and  "RMSProp". It trakes both the "speed" (momentum) and the "acceleration" (squared gradients)
-	Note: $g_t = \nabla W_{t}$ and all $\beta$ are hyperparams
-![[Pasted image 20260208163637.png]]
+	Note: $g_t = \nabla W_{t}$ and all $\beta$ are hyperparams, the  $\hat{}$  sign in math represent an **estimated, predicted, or special modified version** of that variable.  ![[Pasted image 20260208163637.png]]
 
 **Step 1:** Calculate 2 Moving Average (2 mometum)
 1. $m_{t}$ (1st Moment - Momentum): Average of gradients (like SGD with Momentum)
@@ -65,8 +64,6 @@ $$\hat{m_{t}}=\frac{m_{t}}{1-\beta_{1}^{t}} \space , \space \hat{v_{t}}=\frac{v_
 
 **Step 3: Udpate Weights**
 $$W_{t} = W_{t-1} - \frac{\alpha}{\sqrt{\hat{v_{t}} + \epsilon}}\hat{m_{t}}$$
-
-
 
 
 
