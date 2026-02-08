@@ -3,11 +3,13 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
+- [ ] Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way
+
 _TODAY
 
 
 _Long Term
-- [ ] **Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way.**
+
 - [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
 
 

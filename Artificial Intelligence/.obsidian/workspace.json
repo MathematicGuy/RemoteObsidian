@@ -37,7 +37,8 @@
               "title": "25M8W4 Visual Grounding"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,14 +222,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "98495cdeb4ee852e",
+  "active": "0514bfd52ab128f7",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "image/Pasted Image 20260207161752_253.png",
     "image/Continual Learning Mind Map.png",
     "Excalidraw/Continous Learning Research Plan.md",
     "25M8W4 Visual Grounding.md",
     "AIO 2025.md",
-    "2 ACTIONS/_Focus.md",
     "AIVNRG25 - Act 1.2 Research.md",
     "AIO Research Survey.md",
     "AIO Team Research.md",
@@ -257,7 +258,6 @@
     "image/Pasted image 20260107144054.png",
     "Continous Learning and Catastrophic Forgetting.md",
     "Nested Learning Overview Note.md",
-    "Nested Learning Preliminaries Annotation.md",
-    "image/Pasted image 20260204213527.png"
+    "Nested Learning Preliminaries Annotation.md"
   ]
 }
