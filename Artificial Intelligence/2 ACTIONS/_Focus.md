@@ -7,7 +7,7 @@ _TODAY
 
 
 _Long Term
-- [ ] **Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way.** 
+- [ ] **Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way.**
 - [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
 
 ### [[Fun Research Direction Analysis]]
@@ -40,20 +40,20 @@ _Long Term
 ### **Mathematics Course Playlists**
 - **Discrete Math**
     - [Discrete Math (Full Course: Sets, Logic, etc.)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
-	
+
 - **Linear Algebra**
     - [Linear Algebra (Full Course)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
-	
+
 - **Calculus Series**
     - **Calculus I:** [Limits, Derivatives, Integrals](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
     - **Calculus II:** [Integration Methods, Series, etc.](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n)
     - **Multivariable Calculus (Calc III):** [Vectors, Partial Derivatives](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd)
     - **Vector Calculus (Calc IV):** [Line Integrals, Surface Integrals](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
-	
+
 - **Differential Equations**
     - [Ordinary Differential Equations (ODEs)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw)
     - [Laplace Transforms and Solving ODEs](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1)
-	
+
 - **Game Theory**
     - [Game Theory Full Course](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxdzD8KpTHz6_gsw9pPxRFlX)
 
