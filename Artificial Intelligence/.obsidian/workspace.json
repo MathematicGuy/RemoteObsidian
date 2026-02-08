@@ -24,44 +24,21 @@
             }
           },
           {
-            "id": "0e562e82350ee0cf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
-            "id": "e3dae70bcdd7c967",
+            "id": "2a5f235470ab9750",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous Learning & Nested Learning Survey (main).md",
+                "file": "25M8W1 - Gradient Descent with Momentum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuous Learning & Nested Learning Survey (main)"
-            }
-          },
-          {
-            "id": "a51b5e208ce2217c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Continous Learning Research Plan.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Continous Learning Research Plan"
+              "title": "25M8W1 - Gradient Descent with Momentum"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,31 +211,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "98495cdeb4ee852e",
+  "active": "2a5f235470ab9750",
   "lastOpenFiles": [
+    "image/Pasted image 20260208163637.png",
+    "2 ACTIONS/_Focus.md",
+    "25M8W1 - Gradient Descent with Momentum.md",
+    "image/Pasted image 20260208155600.png",
+    "Untitled Kanban 5.md",
+    "image/Pasted image 20260208155510.png",
+    "image/Pasted image 20260208154157.png",
+    "image/Pasted image 20260208143925.png",
+    "image/Pasted image 20260208153936.png",
+    "image/Pasted image 20260208153735.png",
+    "M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
+    "Nested Learning - The Illusion of Deep Learning Architecture.md",
+    "Multi-scale Momentum Muon - What to FOCUS ON.md",
+    "image/Pasted image 20260208144452.png",
+    "image/Pasted image 20260208144237.png",
+    "image/Pasted image 20260208144225.png",
+    "Continuous Learning & Nested Learning Survey (main).md",
+    "Excalidraw/Continous Learning Research Plan.md",
     "image/Pasted image 20260204213527.png",
     "Fun Research Direction Analysis.md",
     "25M8W4 Visual Grounding.md",
-    "Excalidraw/Continous Learning Research Plan.md",
-    "image/Continual Learning Mind Map.png",
-    "Continuous Learning & Nested Learning Survey (main).md",
-    "2 ACTIONS/_Focus.md",
-    "image/Pasted Image 20260207161752_253.png",
     "Continual Learning Code.md",
     "Fun Research Paper & Direction Analysis.md",
-    "image/Pasted image 20260204180425.png",
-    "image/Pasted image 20260204180152.png",
-    "image/Pasted image 20260204180046.png",
-    "image/Pasted image 20260204175352.png",
-    "image/Pasted image 20260204173815.png",
-    "image/Pasted image 20260204172546.png",
-    "image/Pasted image 20260204171309.png",
-    "image/Pasted image 20260204170948.png",
     "Vector Dot Product.md",
     "Orthogonal Projection Loss (2021).md",
     "Linearly Dependent and Independent.md",
     "FFT - Fast Fourier Transform.md",
-    "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "Continous Learning Survey.md",
     "Computer Vision Revision.md",
     "Python Revision.md",
@@ -267,9 +248,6 @@
     "Machine Learning Interview.md",
     "ML Coding Interview.md",
     "Computer Vision.md",
-    "Data.md",
-    "MoE - Mixture of Expert.md",
-    "NL Slide 2.md",
-    "Continous Learning and Catastrophic Forgetting.md"
+    "Data.md"
   ]
 }
