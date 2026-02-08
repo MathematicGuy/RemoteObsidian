@@ -10,6 +10,7 @@ _Long Term
 - [ ] **Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way.**
 - [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
 
+
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 
