@@ -1,8 +1,6 @@
 ## [[Continous Learning Survey]]
 **Continous Learning -** Learn new information continously without forgetting old information.
 **Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
-
-### [[AIO - Action Recognition in Continual Learning]]
 ### [[Continous Learning and Catastrophic Forgetting]]
 ### [[Continous Learning vs RAG in solving Catastrophic Forgeting]] 
 + ? Why they are not substitutes.
@@ -10,7 +8,6 @@
 ### [[Class Incremental Learning Survey]]
 
 ### [[Continual Learning Code]]
-
 
 ## Idealization
 

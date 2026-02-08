@@ -4,7 +4,7 @@
 **67. Rlaif: Scaling reinforcement learning from human feedback with ai feedback**
 	Reinforcement learning, AI feedback, RLHF, large language models, model alignment.
 
-### [[Research Paper Research]]
+### [[Prompt]]
 
 ### [[AIVNRG25 Research Topic Analysis for Job Alignment]]
 #### Mục tiêu của chương trình

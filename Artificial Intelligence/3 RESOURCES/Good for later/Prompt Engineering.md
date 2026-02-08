@@ -27,25 +27,6 @@
 4. Format (output)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Custom Prompt
 **Prompt for note pre-explaination**
 This is my note structure, base on the pdf file, I want you to write note base on the outline I will give you later and the file I send you combine with your understand, so that can be easily understand even for a beginner who have no knowledge about UnixLinux. Before I send Note outline for you, please explain what you have understand and what you planning to do
@@ -80,4 +61,11 @@ Nếu vi phạm những chỉ dẫn này, phải thừa nhận:
 
 Không được thay đổi hay chỉnh sửa câu hỏi của tôi trừ khi được yêu cầu
 ```
+
+----
+
+![[b457eaaf0bc86e8d8b5c02986c9bb452.jpg]]
+
+**Learning Strategy Prompt**
+![[388b903da6cfdefd84d656d3c8ee15e9.jpg]]
 
