@@ -24,17 +24,13 @@
             }
           },
           {
-            "id": "2a5f235470ab9750",
+            "id": "bb6e780fbdc924e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25M8W1 - Gradient Descent with Momentum.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "25M8W1 - Gradient Descent with Momentum"
+              "title": "New tab"
             }
           }
         ],
@@ -211,11 +207,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a5f235470ab9750",
+  "active": "bb6e780fbdc924e5",
   "lastOpenFiles": [
-    "image/Pasted image 20260208163637.png",
     "2 ACTIONS/_Focus.md",
     "25M8W1 - Gradient Descent with Momentum.md",
+    "image/Pasted image 20260208163637.png",
     "image/Pasted image 20260208155600.png",
     "Untitled Kanban 5.md",
     "image/Pasted image 20260208155510.png",
@@ -231,7 +227,6 @@
     "image/Pasted image 20260208144225.png",
     "Continuous Learning & Nested Learning Survey (main).md",
     "Excalidraw/Continous Learning Research Plan.md",
-    "image/Pasted image 20260204213527.png",
     "Fun Research Direction Analysis.md",
     "25M8W4 Visual Grounding.md",
     "Continual Learning Code.md",
