@@ -1,15 +1,15 @@
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
 #Todo/Priority
+- [ ] IELST planning & practice
+- [ ] 
 
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
 
 #Todo/[[GoalsThisMonth]]
-- [ ] Accquite Basic skill so I can confidendly go on a job interview
 
 #MyRuleThat_I_SwearToLiveBy
-- [ ] To be the person that I am. I must let the person that I not. Die
 
 
 ****
