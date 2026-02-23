@@ -34,7 +34,7 @@ Not identically distributed bc the training set has data from specific group of 
 
 
 
-**Batch Normalization (BN)**
+**Batch Normalization (BN)** ([visually explain how BN work](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739/))
 1. normalization activation func output $$\hat{z} = \frac{x - \mu }{\sqrt{ \sigma^{2} + \epsilon }}$$
 2. $$y_{i} = \gamma \hat{z_{i}} + \beta$$
 - **The Issue**: In CL, data isn't i.i.d. (independent and identically distributed), causing BN's moment estimates to shift heavily, leading to worse performance on old tasks (catastrophic forgetting). 
@@ -44,6 +44,9 @@ Not identically distributed bc the training set has data from specific group of 
 
 
 **Layer Normalization & Group Normalization**:
+
+![[Pasted image 20260219213841.png | 444]]
+
 + Alternative to BN: normalize across (channels/layers instead of batchs), less reliant on batch statistics, making them potentially more stable in non-staionary CL env.  
 + ? Unlike batch normalization, LN does not depend on the mini-batch size. It works effectively for small batch sizes and for single-sample training (e.g., in online learning). Moreover, **because it normalizes each sample independently it is particularly effective in sequential processing models** (like RNN) where the sequence length and structure may vary.
 

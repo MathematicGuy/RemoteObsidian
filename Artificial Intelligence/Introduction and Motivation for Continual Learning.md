@@ -72,15 +72,28 @@ Key word for Continuos Learning Topic - how are they interconnect
 
 
 ---
-
-
 ### Continous Learning to Continous Learning Modle
 [Continous Learning Model example](https://www.reddit.com/r/singularity/comments/1hcm93m/were_likely_much_closer_to_continuouslearning/) 
 1.	Recognize it’s failing or underperforming on the task 
-	-> Active Learning
+	-> Active Learning 
 2.	Hypothesize what kind of training or experience it needs to improve 
 	-> LLM ? 
 3.	Agentically search for existing datasets and create reinforcement simulations tailored to its specific deficits 
 	-> RAG / Agentic System
 4.	Run those simulations, fine-tune itself, and try again—without any hand-holding from developer 
 	-> Reinforcement Learning
+
+---
+**Time-Constrain:** 2hr max
+**Direction 1: Top-Down**  Focus on Real-World application and vision continual learning landscape. 
+**Direction 2: Bottom-Up** Watching youtube continual learning analysist video and generalize the research direction. 
+**Goals:** Đi từ Gốc để nhìn thấy và giải quyết vấn đề.  
+![[Pasted image 20260214014746.png | 544]]
++ Code baseline để cải tiến trên 1 số phương pháp đã có sẵn: [continual learning baseline github](https://github.com/ContinualAI/continual-learning-baselines) 
+![[Pasted image 20260214020636.png  | 544]]
+
+**Plan:** 
+Trước tiên -> Xác nhận lại các kiến thức nền tảng. 
+Có thể áp dụng continual learning để research và ra paper cho dự án ntn ? 
+
+

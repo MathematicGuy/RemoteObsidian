@@ -49,14 +49,10 @@ $8\log(p) + 2\log(1-p)$
 > Số mũ tự nhiên $e = \left( 1 + \frac{1}{n} \right)^{n}, \space n \to \infty$   (Tốc độ tăng trưởng tối đa của lãi suất sau vô tận ngày)
 > ![[Pasted image 20241018120257.png]]
 
-- **Base \( e \)**: The natural logarithm uses the irrational constant \( e \approx 2.71828 \) as its base.
-- **Notation**: The natural logarithm of \( x \) is written as \( \ln(x) \).
-- **Definition**:
-  $$e^{\ln x} = x$$    and 
-  $$
-   \ln(x) = \log_e(x)
-   $$
-   
+- **Base \( e \)**: The natural logarithm uses the irrational constant $e \approx 2.71828$ as its base.
+- **Notation**: The natural logarithm of $x$ is written as $\ln(x)$.
+- **Definition**: $$e^{\ln x} = x$$and $$\ln(x) = \log_e(x)$$
+
 + ? Example:
 	+ $\ln(4)=x \iff e^x=4 \implies x \approx 1.386$
 	+ $\ln(4) = \log_{e}(4)$ 
