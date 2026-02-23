@@ -1,3 +1,37 @@
+## Chapter 1: Understand the WHY of the Transformer's Encoder
+**The Problem**
+![[Pasted image 20260219195831.png]]
+1. *a word cost 1000 neurons.* With each word used a embedding vector of 1024. 37 would cost too much to process using a neural network -> *DNN is Impractical, need a new model for text embedding/understanding*
+	
+2. *input length is not fixed* (e.g. in word prediction task, the input sequence increased over time and sentence basically have different length) -> *The model must have shared params across words at different input positions.* For example, with 3 neuron/weight ABC, then AB represent 1st word and BC represent the 2nd word, where C is the shared params.
+	
+3. *language is ambiguos*, the pronoun "it" is unclear if there a lack of context. Is "it" refers to the restaurant or the sandwich ? In this context,"it" refer to the word "restaurant".  In other word, "it" should pay *"attention"* to "restaurant" *-> This implies there are connection between words and strength of the "attention/connection" depend on the word themselves.* e.g. it -> restaurant (0.75) while it -> sandwich (0.25). Moreover the word "Their" in the last sentence refer to the "restaurant" in the 1st sentence, this implies connection extend across large text spans. 
+
+**Dot-product self-attention**
+Calc Attention score of each word in $X=[x_{1},\dots,x_{n}]$ to $x_n$, including itself $x_{n}$ hence self-attention.
+![[Pasted image 20260219204043.png]]
+Self-attention between key (right) and values (left), one-to-many. visualization
+	Basically, in a sentence to calc connection/relationship between words, we calc attention score for x to itself and every words in the sentence. Repeat for every word in the sentence. 
+![[Pasted image 20260219210858.png]]
+Note: spare-matrix is matrix with zeros. in attention its the mask.
+
+## Chapter 2: Text Processing process
+**Tokenization**
+Split sentence into smaller unit called token from a vocabulary of possible token calld corpus (từ điển). However, to encode eacch word uniquely there multiple issue:
++ 1 word can have multiple form "go, going, goes" with different suffixes like "-ing, -es". There is no way to clarify that these variations are related.  
++ there always 1 word that isn't in the vocab.
++ punctuation like `?, !, ~, @, etc..` 
+
+
+**Positional Encoding Log Transformation**
+$$PE_{(pos, 2i)} = \sin\left( \frac{pos}{10000^{\text{2i}/d_{model}}} \right)$$
+have $$pos \times \frac{1}{10000^{\text{2i}/d\_model}}$$as the denominator, thus we have:
+$$10000^{-2i/d\_model}$$
+apply log transformation $x=e^{\ln(x)}$ then $\ln(x^y)=y\space.\ln(x)$
+$$\exp({\ln(10000^{-2i/d\_model})})=\exp({ \frac{-2i}{d\_model}\times \ln(10000)})$$ 
+
+
+
 ## Chapter 5: Transformer Models
 ### Word Embedding
 >Embed each word with one-hot encoder and multiply its weight through a Activation function.
