@@ -10,7 +10,6 @@ _TODAY
 
 _Long Term
 
-
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for**
 - [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
@@ -24,8 +23,9 @@ _Long Term
 [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
 [ViT Blog](https://tutorial.aivietnam.edu.vn/pdf/24)
 [FocusMate](https://www.focusmate.com/science/)
-[Latex Math Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-+ Grounding for Hallucination, LLMCache for faster response time
+[Latex Math Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) 
+
+Grounding for Hallucination, LLMCache for faster response time
 
 ### [[ML CheatSheet]]
 
