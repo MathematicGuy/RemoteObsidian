@@ -2,12 +2,16 @@
 ## [Calendar]
 #Todo/Priority
 - [ ] IELST planning & practice
-- [ ] 
+- [ ] Transformer Encoder & Decoder coding practice so I can visualize and modelize DL model better.
+- [ ] Research paper reading
+- [ ] AWS course praparation
+
 
 #Todo/[[GoalsThisWeek]]
 - [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO
 
 #Todo/[[GoalsThisMonth]]
+
 
 #MyRuleThat_I_SwearToLiveBy
 

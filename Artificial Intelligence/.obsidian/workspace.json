@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "9f8bd861551d2562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical of Continual Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mathematical of Continual Learning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +222,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "98495cdeb4ee852e",
+  "active": "9f8bd861551d2562",
   "lastOpenFiles": [
+    "image/Pasted image 20260223154140.png",
+    "image/Pasted image 20260223154110.png",
+    "2 ACTIONS/_Focus.md",
     "Mathematical of Continual Learning.md",
     "LoRA.md",
     "Excalidraw/Continous Learning Research Plan Board.md",
@@ -222,12 +240,10 @@
     "image/Pasted image 20260210164316.png",
     "image/Pasted image 20260210144122.png",
     "image/Pasted image 20260210143841.png",
-    "image/Pasted image 20260210142943.png",
     "Untitled Kanban 5.md",
     "Introduction and Motivation for Continual Learning.md",
     "25MLOps Project.md",
     "Training World Models.md",
-    "2 ACTIONS/_Focus.md",
     "Certificate AIO Module 7.md",
     "Module 8 Exam.md",
     "AIO 2025.md",
@@ -243,7 +259,6 @@
     "Class Incremental Learning Survey.md",
     "Logarithm and Log-Likelihood Function.md",
     "Jacobian Matrix.md",
-    "class-incremental learning.md",
-    "NL Slide 2.md"
+    "class-incremental learning.md"
   ]
 }
