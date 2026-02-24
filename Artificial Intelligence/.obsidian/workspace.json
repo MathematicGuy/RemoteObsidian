@@ -24,20 +24,33 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "64aa9ec70422a9d9",
+=======
+            "id": "9f8bd861551d2562",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Driving Test.md",
+=======
+                "file": "Mathematical of Continual Learning.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Driving Test"
+=======
+              "title": "Mathematical of Continual Learning"
+>>>>>>> origin/main
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "Class Incremental Learning Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for Class Incremental Learning Survey"
             }
           },
           {
@@ -181,8 +194,19 @@
               "icon": "lucide-list",
               "title": "Outline of _Focus"
             }
+          },
+          {
+            "id": "a2d849b218f901f7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,8 +234,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "98495cdeb4ee852e",
+  "active": "9f8bd861551d2562",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Driving Test.md",
     "Mathematical of Continual Learning.md",
     "2 ACTIONS/_Focus.md",
@@ -236,9 +261,32 @@
     "image/Pasted image 20260204172546.png.~tmp",
     "Continuous Learning & Nested Learning Survey (main).md",
     "Excalidraw/Continous Learning Research Plan Board.md",
+=======
+    "image/Pasted image 20260223154140.png",
+    "image/Pasted image 20260223154110.png",
+    "2 ACTIONS/_Focus.md",
+    "Mathematical of Continual Learning.md",
+    "LoRA.md",
+    "Excalidraw/Continous Learning Research Plan Board.md",
+    "Continual Learning Survey.md",
+    "image/Pasted image 20260212164911.png",
+    "image/Pasted image 20260212164804.png",
+    "image/Pasted image 20260212164708.png",
+    "image/Pasted image 20260210171920.png",
+    "image/Pasted image 20260210171813.png",
+    "image/Pasted image 20260210165532.png",
+    "image/Pasted image 20260210164316.png",
+    "image/Pasted image 20260210144122.png",
+    "image/Pasted image 20260210143841.png",
+    "Untitled Kanban 5.md",
+>>>>>>> origin/main
     "Introduction and Motivation for Continual Learning.md",
     "25MLOps Project.md",
+    "Training World Models.md",
+    "Certificate AIO Module 7.md",
+    "Module 8 Exam.md",
     "AIO 2025.md",
+<<<<<<< HEAD
     "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
     "Continous Learning and Catastrophic Forgetting.md",
     "LoRA.md",
@@ -249,5 +297,20 @@
     "M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
     "Nested Learning - The Illusion of Deep Learning Architecture.md",
     "Multi-scale Momentum Muon - What to FOCUS ON.md"
+=======
+    "25M8W4 Visual Grounding.md",
+    "Excalidraw/Continous Learning Research Plan.md",
+    "AIVNRG25 - Act 1.2 Research.md",
+    "AIO Research Survey.md",
+    "AIO Team Research.md",
+    "AIO Team Research Planning Weekly.md",
+    "Fun Research Direction Analysis.md",
+    "Prompt.md",
+    "3 RESOURCES/Good for later/Prompt Engineering.md",
+    "Class Incremental Learning Survey.md",
+    "Logarithm and Log-Likelihood Function.md",
+    "Jacobian Matrix.md",
+    "class-incremental learning.md"
+>>>>>>> origin/main
   ]
 }

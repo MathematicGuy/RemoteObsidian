@@ -3,12 +3,12 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
+- [ ] Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way
+
 _TODAY
 
 
 _Long Term
-- [ ] **Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way.**
-- [ ] [AIO RAG Full Course](https://tutorial.aivietnam.edu.vn/pdf/48)
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**
@@ -23,7 +23,7 @@ _Long Term
 [RAG Coursera](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
 [ViT Blog](https://tutorial.aivietnam.edu.vn/pdf/24)
 [FocusMate](https://www.focusmate.com/science/)
-[Latex Math Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) 
+[Latex Math Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 
 Grounding for Hallucination, LLMCache for faster response time
 
