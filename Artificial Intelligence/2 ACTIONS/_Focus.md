@@ -12,7 +12,7 @@ _Long Term
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**
-[good Deep Learning guide from real people](https://arikpoz.github.io/)
+- [ ] [good Deep Learning guide from real people](https://arikpoz.github.io/)
 
 ### [[Machine Learning & Data Science Main]] _storage for future learning resource
 [Deep Dive to Deep Learning](https://d2l.ai/)
