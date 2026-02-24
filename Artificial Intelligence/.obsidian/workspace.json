@@ -37,8 +37,7 @@
               "title": "Mathematical of Continual Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,12 +221,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f8bd861551d2562",
+  "active": "98495cdeb4ee852e",
   "lastOpenFiles": [
+    "Mathematical of Continual Learning.md",
     "image/Pasted image 20260223154140.png",
     "image/Pasted image 20260223154110.png",
     "2 ACTIONS/_Focus.md",
-    "Mathematical of Continual Learning.md",
     "LoRA.md",
     "Excalidraw/Continous Learning Research Plan Board.md",
     "Continual Learning Survey.md",
@@ -239,7 +238,6 @@
     "image/Pasted image 20260210165532.png",
     "image/Pasted image 20260210164316.png",
     "image/Pasted image 20260210144122.png",
-    "image/Pasted image 20260210143841.png",
     "Untitled Kanban 5.md",
     "Introduction and Motivation for Continual Learning.md",
     "25MLOps Project.md",
