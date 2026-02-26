@@ -1,3 +1,5 @@
+**Lý thuyết** (30 câu - đúng 27 câu để đỗ) - **Thi mô phỏng** (lái xe trong trường Phòng Cháy Chữa Cháy) - **Thi lái xe thật**.
+
 số gạch - Hết hạn tốc độ lái xe cho phép e.g 50 thì ko dc đi tối đa là 50 nữa. max zone  speed expire
 cấm đỗ xe - ngày lẻ (1 gạch trắng), ngày chẵn 2 gạch trắng
 viền xanh gạch đen - HẾT CẤM

@@ -77,8 +77,8 @@ Before calc correlation between variables, let revision about Variance. As you k
 To express the original value meter, we can take the square root of variance $\sqrt{\sigma^{2}}= \sigma$. This call **Standard Deviation.**
 
 ### Covariance
-+ $ Apply Variance for multiple variables, that basically what Co-variance mean, multiple-variance. 
-+ Covariance allow us to see relationship between variables (e.g. x, y) 
++ $ Apply Variance for multiple variables, that basically what Co-variance mean, *multiple-variance.* 
+	Covariance allow us to see **Relationship between Variables** (e.g. x, y) 
 ![[Pasted image 20250726145222.png# left | 555]]
 + ! Because **Covariance is base on variance**, so its really describe the relationship between variables's variance, thus **if we scale variables value, covariance will scale along too**. This make Covariance hard to interpret since large/small value always convey large/small covariance,  covariance can't fully interpret relationship between multiple-variable. 
 + ? So, how can we only measures the relationship between variables since Covariance convey both variables relationship and variance.
