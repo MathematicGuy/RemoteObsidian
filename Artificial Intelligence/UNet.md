@@ -51,6 +51,8 @@ Fomula explain:
 + $-2P$ because we *substract both the left & right padding* 
 + $(K - 1)$ when multiplying 2x2 matrix with 2x2 kernel, we only take a  column (on the right) for the multiplication. If you notice, for a 1x1 matrix to become a 2x2 matrix, we just need to add 1 columns, in other word subtract kernel size K by 1. 
 
+54 = 27 * S  
+
 **UNET Model Code demo**
 Conv Block is still conv block.
 ![[Pasted image 20260226175525.png]]
@@ -67,13 +69,13 @@ Conv Block is still conv block.
 **Concatination gộp feature map của Encoder và Decoder** - cứ gộp feature map của 2 mô hình thì dùng Concatination. 
 
 Note: down/up for each UNet layers.
-	Downsampling use MaxPooling2D 
-	Upsampling use TransposeConvolution2D.
+	**Downsampling** use *MaxPooling2D* 
+	**Upsampling** use *TransposeConvolution2D*.
 	
 Unet work well with limited training data because it just learn segmentation from same image i different scenario (ie. domain). This mean UNet heavily relies on data augmentation and skip connections. 
 	
-Kernel_size for transpose conv is 2x2.
-Kernel size for conv is 3x3.
+Kernel_size for **transpose conv is 2x2.**
+Kernel size for **conv is 3x3.**
 	
 Activation at Unet final layer for binary segmentation is Sigmoid (between 0 and 1), note that ReLu take 0 or 1 not between. 
 	
@@ -88,9 +90,8 @@ Chiều của Decoder giống Encoder nhưng thêm 1 chiều feature map. e.g. E
 
 Phân tích hàm `ConvTranspose2d`
 `upscale_factor` - dùng chiều rộng (HxW) để bù cho chiều sâu. HxW tăng thì chiều sâu $C_{out}$ giảm.
-![[Pasted image 20260226181604.png# left | 555]]
-
+![[Pasted image 20260226181604.png# left | 455]]
 Khi validate segmentation thì ignore background pixel đi. e.g ignore màu trắng 255.
 
----
+
 

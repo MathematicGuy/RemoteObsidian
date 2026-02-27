@@ -210,7 +210,10 @@
   },
   "active": "ca065481f15129f1",
   "lastOpenFiles": [
+    "AIO - Object Detection.md",
     "AIO 2025.md",
+    "Object Detection Series.md",
+    "UNet.md",
     "image/Pasted image 20260226220820.png",
     "image/Pasted image 20260226181604.png",
     "image/Pasted image 20260226181241.png",
@@ -223,7 +226,6 @@
     "image/Pasted image 20260226173822.png",
     "AIO - Object Tracking.md",
     "2 ACTIONS/_Focus.md",
-    "UNet.md",
     "Mathematical of Continual Learning.md",
     "AWS Partitioner.md"
   ]
