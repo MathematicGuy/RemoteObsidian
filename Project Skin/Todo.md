@@ -1,10 +1,6 @@
 ![[Pasted image 20240929225308.png]]
 ## [Calendar]
 #Todo/Priority
-- [ ] IELST planning & practice
-- [ ] Transformer Encoder & Decoder coding practice so I can visualize and modelize DL model better.
-- [ ] Research paper reading
-- [ ] AWS course praparation
 
 
 #Todo/[[GoalsThisWeek]]
