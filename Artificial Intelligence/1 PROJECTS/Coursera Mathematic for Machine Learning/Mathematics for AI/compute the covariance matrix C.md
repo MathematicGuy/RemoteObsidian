@@ -6,8 +6,7 @@ Sum all the variables/examples then divided by the numbers of variables (M) we h
 
 **2 - Substract mean from each rows of X (centering the data)** 
 ![[Pasted image 20240516031913.png]]
-	centering all the points by substract to its dimension means.
-	can be x, y, z (Phi(i) = Y(i) - Yˉ)
+	centering all the points by substract to its dimension means. can be x, y, z (Phi(i) = Y(i) - Yˉ)
 
 
 **3 - Form the matrix A**
