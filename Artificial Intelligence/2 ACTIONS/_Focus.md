@@ -3,12 +3,17 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
-- [ ] Remove the Victim, Dependence mindset complete. I do what I need to do, if there no way then I'll find a way
+- [ ] Enhance my Will by study the whole day without other's influence ie. study alone in my room for 1-2 days per week
+
 
 _TODAY
+- [ ] Transformer Encoder & Decoder coding practice so I can visualize and modelize DL model better.
+- [ ] TreeLoRA research paper reading
 
 
 _Long Term
+- [ ] [[AWS Partitioner]] (ask mum for money)
+- [ ] IELST planning & practice
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**
