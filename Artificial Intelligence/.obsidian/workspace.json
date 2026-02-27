@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "b983592ba2b49fd5",
+            "id": "ca065481f15129f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,8 +208,10 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "b983592ba2b49fd5",
+  "active": "ca065481f15129f1",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "AIO 2025.md",
     "image/Pasted image 20260224185628.png",
     "image/Pasted image 20260224184641.png",
     "image/Pasted image 20260224184528.png",
@@ -220,10 +222,8 @@
     "image/Pasted image 20260224182935.png",
     "image/Pasted image 20260224182827.png",
     "image/Pasted image 20260224182550.png",
-    "image/Pasted image 20260224182236.png",
     "UNet.md",
     "Mathematical of Continual Learning.md",
-    "2 ACTIONS/_Focus.md",
     "AWS Partitioner.md"
   ]
 }
