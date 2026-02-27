@@ -91,3 +91,6 @@ Phân tích hàm `ConvTranspose2d`
 ![[Pasted image 20260226181604.png# left | 555]]
 
 Khi validate segmentation thì ignore background pixel đi. e.g ignore màu trắng 255.
+
+---
+

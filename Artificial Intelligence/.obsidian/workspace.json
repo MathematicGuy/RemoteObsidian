@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO 2025.md",
+                "file": "UNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO 2025"
+              "title": "UNet"
             }
           }
         ],
@@ -210,6 +210,7 @@
   },
   "active": "ca065481f15129f1",
   "lastOpenFiles": [
+    "AIO 2025.md",
     "image/Pasted image 20260226220820.png",
     "image/Pasted image 20260226181604.png",
     "image/Pasted image 20260226181241.png",
@@ -220,10 +221,8 @@
     "image/Pasted image 20260226175638.png",
     "image/Pasted image 20260226175525.png",
     "image/Pasted image 20260226173822.png",
-    "image/Pasted image 20260226173722.png",
     "AIO - Object Tracking.md",
     "2 ACTIONS/_Focus.md",
-    "AIO 2025.md",
     "UNet.md",
     "Mathematical of Continual Learning.md",
     "AWS Partitioner.md"
