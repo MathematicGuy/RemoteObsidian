@@ -55,5 +55,3 @@ Basic geometry (never forget, via constraints & in subspaces)
 **From LMS to Affine Projection Algorithm (APA)**
 ![[Pasted image 20260224185628.png]]
 
-
-

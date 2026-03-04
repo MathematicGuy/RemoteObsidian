@@ -37,8 +37,6 @@
 | Architecture                           | 36          | 1      |
 
 
-
-
 ----
 **Note:** 
 + **Continual Learning Library:** Avalance vs LibContinual, when to use which.
@@ -57,4 +55,3 @@ Continuous learning model that handles evolving data distributions and new tasks
 **Catastrophic Forgetting Example:**
 + Multiple fine-tunning 
 + CIL, DIL, TIL
-+ 
