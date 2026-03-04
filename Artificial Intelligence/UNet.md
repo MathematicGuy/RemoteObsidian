@@ -50,8 +50,13 @@ Fomula explain:
 + $(M-1)*S$ because we only take account for 1 column (ie. the right column) at a time when adding stride. Remember if S = 3 then only 1 column get added to the feature map. The $+1$ is the remaining column on the left.
 + $-2P$ because we *substract both the left & right padding* 
 + $(K - 1)$ when multiplying 2x2 matrix with 2x2 kernel, we only take a  column (on the right) for the multiplication. If you notice, for a 1x1 matrix to become a 2x2 matrix, we just need to add 1 columns, in other word subtract kernel size K by 1. 
++ [Visualize TransposeConv](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 
-54 = 27 * S  
+For the **Intermediate Featuremap Size**
+$H_{\text{inter}}=(M-1)\times S + K$ 
+Note: 
++ W are the same but with value for width.
++ Stride are calculate between the left most pixel of the 2 matrixs.
 
 **UNET Model Code demo**
 Conv Block is still conv block.
