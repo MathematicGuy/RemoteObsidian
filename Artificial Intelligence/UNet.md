@@ -94,9 +94,18 @@ Chiều của Decoder giống Encoder nhưng thêm 1 chiều feature map. e.g. E
 ![[Pasted image 20260226181241.png]]
 
 Phân tích hàm `ConvTranspose2d`
+<<<<<<< HEAD
+`upscale_factor` - dùng chiều rộng (HxW) để bù cho chiều sâu. H  xW tăng thì chiều sâu $C_{out}$ giảm.
+![[Pasted image 20260226181604.png# left | 555]]
+
+Khi validate segmentation thì ignore background pixel đi. e.g ignore màu trắng 255.
+
+ 
+=======
 `upscale_factor` - dùng chiều rộng (HxW) để bù cho chiều sâu. HxW tăng thì chiều sâu $C_{out}$ giảm.
 ![[Pasted image 20260226181604.png# left | 455]]
 Khi validate segmentation thì ignore background pixel đi. e.g ignore màu trắng 255.
 
 
 
+>>>>>>> origin/main

@@ -2,7 +2,7 @@
 `Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
-**HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**
+**HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
 - [ ] Enhance my Will by study the whole day without other's influence ie. study alone in my room for 1-2 days per week
 
 
