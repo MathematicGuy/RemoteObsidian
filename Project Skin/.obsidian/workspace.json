@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a6cc1c68d6f69f9",
@@ -187,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f25d566fb123cc4a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Todo.md",
+    "conflict-files-obsidian-git.md",
     "_Focus/Todo.md",
     "Images/Pasted image 20251127093003.png",
     "Images/Pasted image 20251126154643.png",

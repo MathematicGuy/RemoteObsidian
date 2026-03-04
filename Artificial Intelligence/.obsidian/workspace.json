@@ -24,34 +24,21 @@
             }
           },
           {
-            "id": "30420eada37cf789",
+            "id": "4868adc0301599c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNet.md",
+                "file": "Continual Learning Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNet"
-            }
-          },
-          {
-            "id": "b2c8b0a72a0e34e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO - Object Tracking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIO - Object Tracking"
+              "title": "Continual Learning Code"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,25 +219,25 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "df3d679a42f275e4",
+  "active": "4868adc0301599c4",
   "lastOpenFiles": [
+    "image/Pasted image 20260228203305.png",
+    "Continual Learning Code.md",
+    "image/Pasted image 20260228181522.png",
+    "image/Pasted image 20260228181627.png",
+    "image/Pasted image 20260228201423.png",
+    "image/Pasted image 20260228201348.png",
+    "image/Pasted image 20260228201317.png",
+    "image/Pasted image 20260228201305.png",
+    "image/Pasted image 20260228181848.png",
+    "image/Pasted image 20260228181827.png",
+    "2 ACTIONS/_Focus.md",
+    "UNet.md",
+    "AIO - Object Tracking.md",
     "image/Pasted image 20260224143748.png",
     "AWS Partitioner.md",
-    "AIO - Object Tracking.md",
-    "image/Pasted image 20260226220820.png",
-    "UNet.md",
-    "2 ACTIONS/_Focus.md",
     "AIO 2025.md",
     "Object Detection Series.md",
-    "image/Pasted image 20260226181604.png",
-    "image/Pasted image 20260226181241.png",
-    "image/Pasted image 20260226181001.png",
-    "image/Pasted image 20260226175842.png",
-    "image/Pasted image 20260226175822.png",
-    "image/Pasted image 20260226175709.png",
-    "image/Pasted image 20260226175638.png",
-    "image/Pasted image 20260226175525.png",
-    "image/Pasted image 20260226173822.png",
     "Xplainable AI (xAI).md",
     "Continual Learning Survey.md",
     "AIO Team Research - Computer Vision.md",
@@ -265,7 +252,6 @@
     "Excalidraw/Continous Learning Research Plan Board.md",
     "Continual Learning Terms & Definitions.md",
     "Introduction and Motivation for Continual Learning.md",
-    "Continual Learning Code.md",
     "Research Direction.md",
     "Driving Test.md",
     "Mathematical of Continual Learning.md",
