@@ -24,11 +24,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "4868adc0301599c4",
-=======
             "id": "ca065481f15129f1",
->>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,8 +34,6 @@
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-=======
               "title": "UNet"
             }
           },
@@ -54,7 +48,6 @@
                 "source": false
               },
               "icon": "lucide-file",
->>>>>>> origin/main
               "title": "Continual Learning Code"
             }
           }
