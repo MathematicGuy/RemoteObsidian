@@ -17,11 +17,12 @@ aliases:
 
 ****
 
-[[Calisthenics]]
 
 **My Learning**
 [Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N)
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
+[[Calisthenics]]
+
 
 #Todo/Later
 - [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)
