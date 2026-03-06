@@ -46,10 +46,6 @@ Note - goes into each topic with Intuition.
 	Việc mất mát thuộc tính không gian ở cấp độ này sẽ rất ít vì dữ liệu không gian đã được nén trong các tầng CNN rồi.
 
 
-
-
-
-
 ----
 ### MLP Batch Norm
 ![[Pasted image 20251212154825.png]]
@@ -72,7 +68,6 @@ The flexibility *help avoid these problem:*
 
 3) **Recovering:** *In theory dividing $\gamma$ is the opposite of dividing $\sigma_{\beta}$ and adding $\beta$ is opposite of subtracting $\mu_{\beta}$.* Since the network learn both $\gamma$ and $\theta$ during backward propagation, it can recover the original input $z_{i}$ exactly. This guarantees that BatchNorm doesn't lose any information, it just recognize it to make training easier.
 + $ Conclusion: *Batch Normalization help stabalize weight and bias* value and *improve convergence* speed since value are minimize to only 0 and 1 *during Training*.
-
 + ? So we Batch Normalization optimize parameters during Training, *what about optimization method during Initializtion*. Well, we have "He Initialization".
 
 **He Initialization** design solely for ReLU.
