@@ -95,3 +95,23 @@ Don’t criticize your previous or current employers (prove for lack of responsi
 Don’t take about your age, marital status, religion, political affiliation (not irrelevant)
 
 
+---
+
+Understanding the Analytics Categories
+- **Descriptive/Diagnostic Analytics:** Looks at the **past and present**. (e.g., "What happened?" or "Why did it happen?")
+- **Predictive Analytics:** Looks at the **future**. (e.g., "What is likely to happen next?")
+- **Prescriptive Analytics:** Suggests **actions**. (e.g., "What should we do about it?")
+
+**Prescriptive**
+![[Pasted image 20260304220953.png]]
+**Answer:** How can we optimize our supply chain to reduce costs ? 
+	this question answer "What to do next ?" question
+
+**Predictive:** using past data to predict the future
+
+
+![[Pasted image 20260304221917.png]]
+**Answers:** Velocity bc its real-time.
+
+best price of the product > price that maximize prodfit.
+Null Hypothesis -> people spend an equal amount of time on the website.
