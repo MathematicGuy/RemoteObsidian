@@ -1,5 +1,6 @@
 [[MIT Deep Learning Course]]
 [[Machine Learning & Data Science Intuition]]
+[[AI Ethics]]
 
 [[Statistic and Probability for Machine Learning]]
 - [x] [[SaP Week 1 - Introduction to Probability and Probability Distributions]]
@@ -27,6 +28,7 @@
 - [ ] Course 3 Deep Learning
 - [ ] [[Course 4 - Convolutional Neural Network]]
 - [ ] [Intern Timeline](https://docs.google.com/spreadsheets/d/1ypLvhvAGNG4zNBU929T5bluPoKhwStQ4S47oB-2Ubns/edit?gid=0#gid=0)
+
 
 
 ----
