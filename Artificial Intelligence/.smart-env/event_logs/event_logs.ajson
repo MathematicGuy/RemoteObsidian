@@ -649,3 +649,4 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":272873,"first_at":1768089396189,"last_at":1772790214394,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":16520,"first_at":1768089404372,"last_at":1772790215524,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":22,"first_at":1768723970394,"last_at":1772794754840,"class_name":"EventLog"},
+"event_logs:sources:created": {"key":"sources:created","ct":279,"first_at":1768186652444,"last_at":1772856380840,"class_name":"EventLog","event_sources":{"obsidian:vault.create":279}},
