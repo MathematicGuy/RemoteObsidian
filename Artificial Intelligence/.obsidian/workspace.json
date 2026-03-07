@@ -24,53 +24,17 @@
             }
           },
           {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "bc8f2b62e7f2a21c",
-=======
-<<<<<<< HEAD
-            "id": "c7c03cd15a786d97",
-=======
-            "id": "9447059d603b1490",
->>>>>>> ce5f31097a3c37b1f5139a31974ba327b5df211d
->>>>>>> origin/main
-=======
             "id": "c5cdd57a4c012a76",
->>>>>>> b913e713bee4970995b2fc1b1cea5b81bd677416
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Machine Learning Interview.md",
-=======
-<<<<<<< HEAD
-                "file": "AI Ethics.md",
-=======
-                "file": "Fun Research Direction Analysis.md",
->>>>>>> ce5f31097a3c37b1f5139a31974ba327b5df211d
->>>>>>> origin/main
-=======
                 "file": "Normalization & Standardization.md",
->>>>>>> b913e713bee4970995b2fc1b1cea5b81bd677416
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "title": "Machine Learning Interview"
-=======
-<<<<<<< HEAD
-              "title": "AI Ethics"
-=======
-              "title": "Fun Research Direction Analysis"
->>>>>>> ce5f31097a3c37b1f5139a31974ba327b5df211d
->>>>>>> origin/main
-=======
               "title": "Normalization & Standardization"
->>>>>>> b913e713bee4970995b2fc1b1cea5b81bd677416
             }
           }
         ],
@@ -245,19 +209,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "bc8f2b62e7f2a21c",
-=======
-<<<<<<< HEAD
-  "active": "c7c03cd15a786d97",
-=======
   "active": "c5cdd57a4c012a76",
->>>>>>> b913e713bee4970995b2fc1b1cea5b81bd677416
   "lastOpenFiles": [
+    "image/Pasted image 20260304221917.png",
+    "image/Pasted image 20260304220953.png",
+    "image/Pasted image 20260304215311.png",
     "Untitled 4.md",
     "Logarithm and Log-Likelihood Function.md",
     "Normalization & Standardization.md",
@@ -268,52 +237,6 @@
     "AIO CNN.md",
     "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
     "2 ACTIONS/_Focus.md",
-<<<<<<< HEAD
-    "AI Ethics.md",
-    "image/Pasted image 20260304155941.png",
-    "image/Pasted image 20260304154015.png",
-    "image/Pasted image 20260304153443.png",
-    "image/Pasted image 20260304153047.png",
-    "image/Pasted image 20260304152819.png",
-    "image/Pasted image 20260304151450.png",
-    "image/Pasted image 20260304151202.png",
-    "Machine Learning & Data Science Main.md"
-=======
-  "active": "9447059d603b1490",
->>>>>>> origin/main
-  "lastOpenFiles": [
-    "image/Pasted image 20260304221917.png",
-    "image/Pasted image 20260304220953.png",
-    "2 ACTIONS/_Focus.md",
-    "Data Structure & Algorithm.md",
-    "image/Pasted image 20260304215311.png",
-    "Fun Research Direction Analysis.md",
-    "image/Pasted image 20260228203305.png",
-    "image/Pasted image 20260228201423.png",
-    "image/Pasted image 20260228201348.png",
-    "image/Pasted image 20260228201317.png",
-    "image/Pasted image 20260228201305.png",
-    "image/Pasted image 20260228181848.png",
-    "image/Pasted image 20260228181827.png",
-    "image/Pasted image 20260228181522.png",
-    "Continuous Learning & Nested Learning Survey (main).md",
-    "Mathematical of Continual Learning.md",
-    "Deepfake Survey.md",
-    "UNet.md",
-    "Continual Learning Code.md",
-    "Introduction and Motivation for Continual Learning.md",
-    "Continous Learning and Catastrophic Forgetting.md",
-    "Continual Learning Survey.md",
-    "Tree LoRA.md",
-    "Orthogonal Projection Loss (2021).md",
-    "M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
-    "AIO - Object Detection.md",
-    "AIO 2025.md",
-    "Object Detection Series.md",
-    "AIO - Object Tracking.md",
-    "AWS Partitioner.md"
->>>>>>> ce5f31097a3c37b1f5139a31974ba327b5df211d
-=======
     "AIO - CNN Training and Generalization.md",
     "Continuous Learning & Nested Learning Survey (main).md",
     "Continous Learning and Catastrophic Forgetting.md",
@@ -329,6 +252,5 @@
     "image/Pasted image 20250323102313.png",
     "Pytorch.md",
     "TensorFlow Code.md"
->>>>>>> b913e713bee4970995b2fc1b1cea5b81bd677416
   ]
 }
