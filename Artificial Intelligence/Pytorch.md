@@ -198,3 +198,27 @@ for epoch in range(EPOCHS):
     print(f"  Train Loss: {train_loss:.4f}, Acc: {train_acc:.4f}")
     print(f"  Val   Loss: {val_loss:.4f}, Acc: {val_acc:.4f}")
 ```
+
+---
+
+**Torch.view()**
+-> use to group Tensor dimension. 
+`-1` is the same as `:` which mean *get/choose all* or *group all*. `-1`. It can work in 2 ways:
++ if u only apply `-1` to 1 dim like `sample_size` it will group only `sample_size` which is still itself. 
+```python
+q = torch.randn(batch_size, sample_size, num_head, dim) # batch, sample_per_batch, seq_len, model_dim
+print(q.shape) # 1,3, 4, 4
+q = q.view(batch_size, -1, num_head, dim) # 1, 3, 4, 4 
+q.shape
+```
++ but if you choose to group all `sample_size, num_head, dim`, the result will be
+```python
+q = torch.randn(batch_size, sample_size, num_head, dim) # batch, sample_per_batch, seq_len, model_dim
+print(q.shape) # 1, 3, 4, 4
+	q = q.view(batch_size, -1) # 1, 3*4*4 ~ [1, 48]
+q.shape
+```
+*Output:*
+	`torch.Size([2, 3, 8, 4])
+	`torch.Size([2, 96])`
+

@@ -213,7 +213,7 @@ note: remmeber BERT embedding size is 768
 
 
 ### BERT fine-tuning 
-+ ! Main Different between the Original Encoder and BERT is that BERT use `[CLS}` token to capture the meaning of the whole sentence for 2 specific task: **Text Classification and Question Answeing.**
++ ! Main Different between the Original Encoder and BERT is that BERT use `[CLS]` token to capture the meaning of the whole sentence for 2 specific task: **Text Classification and Question Answeing.**
 
 #### Text Classification: Assigning label to Text
 + ? Basically Multi-label task -> use Softmax for Loss.

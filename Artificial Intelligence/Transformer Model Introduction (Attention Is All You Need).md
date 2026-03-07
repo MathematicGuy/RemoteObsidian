@@ -159,8 +159,6 @@ note: `vamos` is the Spanish translation for `let's go`
 4)  Re-calculate the **Encoder-Decoder Attention** of `vamos` by  between `let's` and `go` using the same sets of Weights for `<EOS>` token.
 5) Lastly, we run the values that represent `vamos` through the same `Fully Connected Layer` and `SoftMax` that we used for the `<EOS>` token. 
 ![[Pasted image 20250316062619.png]]
-### 5.4 Lab: Implementing Attention, Self-Attention, Positional Encoding, and Transformer
-
 
 
 ### Side Note: LoRA

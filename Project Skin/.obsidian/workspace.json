@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "75e6e538e3f9b1e6",
+    "id": "bbf490a2ab53beb2",
     "type": "split",
     "children": [
       {
-        "id": "5f81ccbc22e3ecf1",
+        "id": "54b1193288cfc847",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0842481c4a2540",
+            "id": "5c1d9e723a5cdb5a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +51,12 @@
             }
           },
           {
-            "id": "f25d566fb123cc4a",
+            "id": "f00216186bc8bf33",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Todo/Later",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "c84d72b3a8bf0556",
+            "id": "3aed60d37388bda7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +77,22 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "8a6cc1c68d6f69f9",
+    "id": "2e9e3b4c2bdc5527",
     "type": "split",
     "children": [
       {
-        "id": "68df87e07240a039",
+        "id": "e9678f2bc85cda64",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f72c2f7eea5d5b",
+            "id": "d73b0069c9434e31",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -112,7 +110,7 @@
             }
           },
           {
-            "id": "9c05146a198573a0",
+            "id": "bbe15f0df6c112c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -125,7 +123,7 @@
             }
           },
           {
-            "id": "2915fffd1782772e",
+            "id": "ac0cb443d0c1b8b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +138,7 @@
             }
           },
           {
-            "id": "f6d52d0b1576ee4f",
+            "id": "f5a3ed85abe6034a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,7 +152,7 @@
             }
           },
           {
-            "id": "eb0f56d10837e403",
+            "id": "3fe2a82043b95c9b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -189,28 +187,5 @@
     }
   },
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "2 ACTIONS/Workout/Calisthenics.md",
-=======
->>>>>>> ce5f31097a3c37b1f5139a31974ba327b5df211d
-    "Todo.md",
-    "conflict-files-obsidian-git.md",
-    "_Focus/Todo.md",
-    "Images/Pasted image 20251127093003.png",
-    "Images/Pasted image 20251126154643.png",
-    "Images/Pasted image 20251126153726.png",
-    "Dynamic Memory Allocation.md",
-    "Audiophile.md",
-    "Images/Pasted image 20251117023620.png",
-    "Images/Pasted image 20251117023557.png",
-    "AI Engineering Job.md",
-    "jobDB.md",
-    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
-    "IELST/IELST WRITING.md",
-    "Untitled.base",
-    "Images/Pasted image 20251005153106.png",
-    "Images/Pasted image 20251005152339.png",
-    "Images/Pasted image 20251005150619.png"
-  ]
+  "lastOpenFiles": []
 }
