@@ -187,6 +187,7 @@
     }
   },
   "active": "e7a7b303c61786dc",
+<<<<<<< HEAD
   "lastOpenFiles": [
     "Stress-Free Productivity.md",
     "2. The Essential of Software Requirement.md",
@@ -194,4 +195,30 @@
     "Ways to develop software applications.md",
     "Todo.md"
   ]
+=======
+<<<<<<< HEAD
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Todo.md",
+    "_Focus/Todo.md",
+    "Images/Pasted image 20251127093003.png",
+    "Images/Pasted image 20251126154643.png",
+    "Images/Pasted image 20251126153726.png",
+    "Dynamic Memory Allocation.md",
+    "Audiophile.md",
+    "Images/Pasted image 20251117023620.png",
+    "Images/Pasted image 20251117023557.png",
+    "AI Engineering Job.md",
+    "jobDB.md",
+    "4 ARCHIVES/2023/Challenges & Guides/Github.md",
+    "IELST/IELST WRITING.md",
+    "Untitled.base",
+    "Images/Pasted image 20251005153106.png",
+    "Images/Pasted image 20251005152339.png",
+    "Images/Pasted image 20251005150619.png"
+  ]
+=======
+  "lastOpenFiles": []
+>>>>>>> b913e713bee4970995b2fc1b1cea5b81bd677416
+>>>>>>> 0fc9e03baa055e13a1d7eadd52d4e1bd66a9e73a
 }

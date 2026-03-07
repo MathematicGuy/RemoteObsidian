@@ -1,9 +1,2 @@
-BFF, BSF
-Linked List
-Array
-Tree 
-
-Sort 
-Bubble sort
-
+![[Pasted image 20260304215311.png]]
 
