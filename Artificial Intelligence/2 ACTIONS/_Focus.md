@@ -3,17 +3,16 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] Enhance my Will by study the whole day without other's influence ie. study alone in my room for 1-2 days per week
+- [ ] Inspect how I learn and study - prevent Study Paralyze at all Cost
 
 
 _TODAY
-- [ ] Transformer Encoder & Decoder coding practice so I can visualize and modelize DL model better.
-- [ ] TreeLoRA research paper reading
+- [ ] 8 AM - AWS Cloud Partioner
 
 
 _Long Term
-- [ ] [[AWS Partitioner]] (ask mum for money)
-- [ ] IELST planning & practice
+- AI Engineer
+	[AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**
@@ -30,7 +29,7 @@ _Long Term
 [FocusMate](https://www.focusmate.com/science/)
 [Latex Math Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 
-Grounding for Hallucination, LLMCache for faster response time
+
 
 ### [[ML CheatSheet]]
 

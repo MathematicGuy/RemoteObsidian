@@ -1,5 +1,4 @@
 [Machine Learning and Deep Learning Visualization](https://www.youtube.com/@OptimisticFuturology/playlists)
-
 [Code ML/DL from Scratch Challenge](https://www.deep-ml.com/problems)
 
 ## [[Bias-Variance Tradeoff and Model Performance]] 
@@ -19,7 +18,7 @@ Solution: [Interpreting Validation and Loss](https://medium.com/@frederik.vl/int
 + $ It mean for the training set you train the mode, it gonna learn the training set too well. Although **there're some crucial pattern** which determint if student will or will not get in. But **there're also noises in these training set**, that mean there **patterns we could find in the training set but they aren't generalize to the general population** of student who are applying to medical school. So an overly **complex model** will **pick up those patterns that don't actually exist, it'll learn and think it important.** 
 > Basically, **while they learn the correct patterns, they'll also learn the noises**, which the model sometime think it important and make wrong prediction. 
 
-## [[Imbalanced Data in Classification]]
+## [[Imbalanced Data in Classification]] 
 ![[466784067_3955520168061343_6711482873865041696_n.jpg]]
 **Intuition:** think Accuracy and Recall 
 

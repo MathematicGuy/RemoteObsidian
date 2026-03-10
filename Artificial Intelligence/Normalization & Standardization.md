@@ -117,13 +117,13 @@ reference:
 + [simple layernorm explain](https://youtu.be/W9g7j22MO-Q?si=_SvkI9Le50L7T2RW) 
 + [LayerNorm in CNNs vs in Transformer](https://dkleine.substack.com/p/understanding-layer-normalization)
 
-Batch Normalization vs Layer Normalization
+**Batch Normalization vs Layer Normalization**
 ![[Pasted image 20260306162302.png]]
 Transformer's Input is a sequence of tokens (e.g. words) where each token has an embedding vector of size of the embedding dimensions. `(batch, seq_len, d_model)`
 
 **LayerNorm in Transformers**  compute the *mean and std along the embedding dim for each token independently.* This way, each token remain stable across layers which is essential for effective attention calculations (why ? )
 $$y_{i} = \frac{x_{i} - \mu_{layer}}{\sqrt{ \sigma^{2}_{layer}}}*\gamma_{i}+\beta_{i}$$
--> While *$x_i$ (each token), $\gamma$ and $\beta$ remain the same* as Batch Norm to learned per feature (column), the *mean and std is applied to the Embedding dimension.*
+-> While *$x_i$ (each token), $\gamma$ and $\beta$ remain the same* as Batch Norm to learned per feature (column), the *mean $\mu$ and std $\sigma$ is applied to the Embedding dimension.*
 -> Very useful for sequence base model where each sequence present a new distribution.
 ![[Pasted image 20260306160245.png]]
 Note: bc $\gamma$ multiplying and $\beta$ is adding to the feature matrix, they are vector size features.    

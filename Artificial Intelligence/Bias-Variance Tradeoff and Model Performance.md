@@ -1,8 +1,7 @@
 **Motivation:** **prediction errors** can be decomposed into 2 main components: **error from bias and error from variance**. The tradeoff between a model's ability to **minimize bias and variance is foundation to training machine learning models.** 
 
 ### Bias and Variance Fomula
-$$Bias(\hat{Y})= \mathbb{E}[\hat{Y}] - Y$$$$Variance = \mathbb{E}[(\hat{Y} - \mathbb{E}[\hat{Y}])^2]$$
-where $\mathbb{E}[\hat{Y}]$ is the [[expected predicted value]], and $Y$ is the true value.
+$$Bias(\hat{Y})= \mathbb{E}[\hat{Y}] - Y$$$$Variance = \mathbb{E}[(\hat{Y} - \mathbb{E}[\hat{Y}])^2]$$where $\mathbb{E}[\hat{Y}]$ is the [[expected predicted value]], and $Y$ is the true value.
 
 
 ### Bias vs Variance Tradeoff 
@@ -52,8 +51,7 @@ $$\text{MSE} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}$$
 ---
 
 ## Reasons and Technique to reduce Underfitting and Overfitting
-
-**Underfitting:** when you build **model that are too simple**, so it kinda dumb. Model underfit the most when it has **High bias and Low Variance**
+**Underfitting:** when you build **model that are too simple**, so it kinda dumb. Model underfit the most when it has **High bias and Low Variance.**
 
 **Reasons for Underfitting**
 1. The model is too simple, So it may be not capable to represent the complexities in the data.
