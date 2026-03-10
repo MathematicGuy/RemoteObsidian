@@ -1,13 +1,14 @@
 ## Data Imbalance
 ![[Pasted image 20250510133404.png]]
 e.g. Negative have 200 while Positive only have 4 example
-![[Pasted image 20250510133912.png]]
+![[Pasted image 20250510133912.png | 444]]
 
 - [**Downsampling**](https://developers.google.com/machine-learning/glossary#downsampling) means Instead of taking all examples in the majority class for training, we **only take a portion of it by a factor of n** so that the data in neg & pos can balance out better. (e.g. factor of 10 is 1/10)
 		+ ? Downsampling by a **factor of 10 would involve selecting a random subset of 20 neg samples out of 200 neg to match the 1 pos**, resulting in a less balanced dataset of 1 pos and 20 neg. 
 	
 - [**Upweighting**](https://developers.google.com/machine-learning/glossary#upweighting) means **adding an example weight to the downsampled class equal to the factor by which you downsampled**.
 	+ ? Downsample by a factor of 10, the example weight should be 10.  
+
 
 **Step 1: Downsample the majority class**  
 + ? Consider the original ratio of pos and neg is 1 pos label for every 200 neg label. *Downsampling by a factor of 10 help reduce the ratio to 1 pos for every 20 neg* (i.e. 5% ratio) which involve. Although the training set is still moderately imbalanced, the proportion of pos is much better than the original extremely imbalanced proportion (0.5%). 
@@ -80,7 +81,6 @@ Note: xác định cấu trúc của phần tự giải thích để tránh mấ
 ![[Pasted image 20250511151528.png]]
 
 **How it work ?** 
- 
 Entire History of Coputer Vision 
 
 
@@ -161,9 +161,7 @@ note: threshold start from left to right (low to high)
 	![[Pasted image 20241126113906.png]]
 
 ## Area under the curve (AUC)
- + $ **Area under the ROC curve (AUC)** represent the probability that the model, if given a randomly chosen positive and negative example, will rank the positive higher than the negative..
-
-
++ $ **Area under the ROC curve (AUC)** represent the probability that the model, if given a randomly chosen positive and negative example, will rank the positive higher than the negative..
 + @ AUC and ROC work well for **comparing models when the dataset is roughly balanced between classes**
 
 ### Precision-Recall curve

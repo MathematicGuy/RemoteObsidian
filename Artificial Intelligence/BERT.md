@@ -2,7 +2,10 @@
 
 ![[Pasted image 20250323102405.png]]
 
-![[Pasted image 20250323102255.png]]![[Pasted image 20250323102313.png]]
+![[Pasted image 20250323102255.png]]
+
+![[Pasted image 20250323102313.png | 400]]
+
 ![[Pasted image 20250323102322.png]]
 
 # Pre-train step that set BERT from Original Encoder

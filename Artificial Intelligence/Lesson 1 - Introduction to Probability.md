@@ -206,6 +206,7 @@ combine with P(sick and diagnoised sick) we got:
 ![[Pasted image 20241004140804.png]]
 ![[Pasted image 20241004160134.png]]
 
+
 ---
 ## [[Monty Hall Problem]]
 

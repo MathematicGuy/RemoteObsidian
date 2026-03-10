@@ -1,4 +1,5 @@
 ![[Pasted image 20251108200850.png]]
+
 # Evaluation Metrics for regression
 + ? From metrics to loss functions
 ![[Pasted image 20241121103348.png]]

@@ -36,7 +36,7 @@ Say that we have 6 features and 3 classes. With $\vec{x}$ represent those 6 feat
 
 > Giống Logistic Regression nhưng để phân loại nhiều lớp/đặc trưng (multiple class). Vd trong Logistic Regression nếu z=3 có xs là 0.88 thì TH còn lại là z=1 sẽ là 0.12, vậy tổng các xs là 1, đối vs 2 TH. Với Softmax, nếu có n TH, thì tổng xs của n TH là 1 như vd ở dưới:     
 ![[Pasted image 20241106050754.png]]
-  Công thức **mô tả cách tính xác suất xảy ra của từng Class.** 
+  Công thức **mô tả cách tính xác suất xảy ra của từng Class.**  
 ![[Pasted image 20241106051757.png]]
 
 **One-hot encoding** (Use for Matrix Multiplication)
@@ -65,7 +65,7 @@ In mathematical terms, we **encode the true label** $y$ as **one-hot** vector $[
 
 Say for 4 label y = { 1, 2, 3, 4 }. 
 >We know the probs of each label can be calc using Softmax: ![[Pasted image 20241106060300.png]]
-   In logistic regression, we use Bernoulli Distribution
+   In *logistic regression, we use Bernoulli Distribution*
 ![[Pasted image 20241106060334.png]]
 >In Softmax, to classified multiple class, we use Join Probability ([[Product of Multiple Independent Events]]) **for Y label is independent and for the sake of matrix/vector multiplication with [[one-hot encoding]] applied later**)
 >![[Pasted image 20241106060500.png]] 
