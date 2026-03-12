@@ -224,6 +224,7 @@
   },
   "active": "f183d0842bfefb84",
   "lastOpenFiles": [
+    "AWS Partitioner.md",
     "AIO 2025.md",
     "AIO - Face Recognition.md",
     "2 ACTIONS/_Focus.md",
@@ -258,7 +259,6 @@
     "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
     "AIO - Metrics for Classification v2.md",
     "AIO Loss Functions for Classification.md",
-    "expected predicted value.md",
-    "AIO CNN.md"
+    "expected predicted value.md"
   ]
 }
