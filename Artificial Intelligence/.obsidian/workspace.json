@@ -22,20 +22,6 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "e8a8751cc5141852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Partitioner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Partitioner"
-            }
           }
         ]
       }
@@ -223,6 +209,14 @@
   },
   "active": "9720491815b9763b",
   "lastOpenFiles": [
+    "AWS Partitioner.md",
+    "3 RESOURCES/Good for later/Prompt Engineering.md",
+    "Prompt.md",
+    "AIO - Face Recognition.md",
+    "2 ACTIONS/_Focus.md",
+    "Report TreeLoRA Experiment Result.md",
+    "image/Pasted image 20260312124819.png",
+    "AIO 2025.md",
     "image/out_attn.png",
     "image/Pasted image 20260309164417.png",
     "image/Pasted image 20260309164355.png",
@@ -232,13 +226,8 @@
     "image/Pasted image 20260309163747.png",
     "image/Pasted image 20260307165513.png",
     "image/Pasted image 20260307165323.png",
-    "image/Pasted image 20260307164726.png",
-    "image/Pasted image 20260307164555.png",
     "Transformer Neural Networks Derived from Scratch.md",
     "LLMOps.md",
-    "AWS Partitioner.md",
-    "2 ACTIONS/_Focus.md",
-    "AIO 2025.md",
     "AIO CNN.md",
     "Continual Learning Code.md",
     "Continual Learning Survey.md",
@@ -255,9 +244,6 @@
     "Problem with SMOTE.md",
     "AIO - Action Recognition in Continual Learning.md",
     "BERT.md",
-    "Transformer Model Introduction (Attention Is All You Need).md",
-    "Attention is All You Need.md",
-    "Sentence Transformer Evolution.md",
-    "Pytorch.md"
+    "Transformer Model Introduction (Attention Is All You Need).md"
   ]
 }
