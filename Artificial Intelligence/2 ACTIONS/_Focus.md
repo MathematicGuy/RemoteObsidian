@@ -5,9 +5,7 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
 - [ ] Inspect how I learn and study - prevent Study Paralyze at all Cost
 
-
 _TODAY
-- [ ] 8 AM - AWS Cloud Partioner
 
 
 _Long Term

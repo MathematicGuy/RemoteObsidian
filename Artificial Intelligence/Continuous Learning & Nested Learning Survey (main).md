@@ -5,7 +5,9 @@
 **Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
 ### [[Continous Learning and Catastrophic Forgetting]]
 ### [[Mathematical of Continual Learning]]
-### [[Continous Learning vs RAG in solving Catastrophic Forgeting]] 
+
+## [[When Continual Learning is useful]]
+[[Continous Learning vs RAG in solving Catastrophic Forgeting]] 
 + ? Why they are not substitutes.
 + $ **Want the model remember new infors directly (ie. update its params)**. *RAG* is just a tool for retrieving new infors, *retrieving too much then we started to have A PROBLEM called hallucination.* Yes, **RAG can be use as a 2nd Brain but there're limitation**.
 ### [[Class Incremental Learning Survey]]
@@ -46,12 +48,15 @@
 +  [Kullback-Leibler (KL) divergence](https://www.geeksforgeeks.org/machine-learning/kullback-leibler-divergence/) can be used to test Distribution shift, 
 + Why LoRA is so efficient for CL
 
-
 ### [[Introduction and Motivation for Continual Learning]]
-Continuous learning model that handles evolving data distributions and new tasks
-
----
-
 **Catastrophic Forgetting Example:**
 + Multiple fine-tunning 
 + CIL, DIL, TIL
+
+----
+
+**Research Question:**  3
+**Research Purpose:** 
+**Description:** 
+Currently find - **Research Problem"**
+

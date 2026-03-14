@@ -24,32 +24,11 @@ Supporter: Nguyễn Thọ Anh Khoa (Ph.D Candidate)
 	**Agenda:** Pipe and redirect, filter data with `grep/awk/sed,` process CSV/JSON, `xargs` for parallel processing, data downloading, working with compressed file.
 
 
-## Unix/Linux Overview 
-### What is Linux ? Why it is important ?
-
-
-### Common Linux Distribution 
-
-
-### Unix Phiopsophy 
-
-
-### What is Shell ?
-
-
-
-### Linux Folder Structure
-
+### Linux Command
+`Sudo` is short for `superuser do`
 
 
 ### Part 1 Unix/Linux Overview Summary
-```ad-summary
-summary of part 1
-```
-
-
-
-## Basic Commands
 **Why basic commands ?** for file/folder management, view content, search/retrieve data, vi/vim editor, processes management and decentralization (phân quyền)
 
 ### Basic Commands for Data Science
