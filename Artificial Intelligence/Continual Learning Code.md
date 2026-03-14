@@ -1,18 +1,24 @@
-****Code Tree Lora (rank 8) + Orthogonal Loss:** [https://github.com/Jennifer1907/Tree_LoRA_Ortho](https://github.com/Jennifer1907/Tree_LoRA_Ortho)
 ![[Pasted image 20260204121726.png# left | 344]]
-**Kết quả:**
-+ Trước khi thêm Orthogonal Loss:
-	All Average: 30.0991
-	Last Average: 27.7614
-	BWT: -17.6536
-	
-+ Sau khi thêm Orthogonal Loss: 
-	All Average: 32.4216 
-	Last Average: 27.9307 
-	BWT: -16.9429
+
+---
+
+**Câu Hỏi Nghiên cứu:**
+Khi nào cần áp dụng Continual Learning: Is this system required long-dependency context ? e.g. need LLM to solve needle-in-a-haystack problem, required to finetune 1 model continously. 
+**Mục đích nghiên cứu:** Xây dựng 1 mô hình có khả năng Học Kiến Thức Mới mà Không Quên Kiến Thức Cũ.
+**Key Research Direction:** 
+Ví dụ: CLFace - A Scalable Framework for Continual Face Recognition. 
+-> Mô tả bài toán càng rõ càng nhiều ng giúp đc hơn.
+Mục tiêu là Có được 1 bài toán cụ thể. 
 
 
 
+
+
+
+
+
+
+---
 ## Dataset
 [Permuted MNIST](https://www.kaggle.com/code/dlarionov/continual-learning-on-permuted-mnist#Part-2.-Catastrophic-Forgetting-on-permuted-MNIST):  {num_tasks} different permutations of the MNIST dataset are generated, each of which represents a separate task. Permutations are obtained by randomly rearranging pixels for each image in the original dataset in the same way for each task. The same neural network is trained on each task sequentially. Quality on each task is measured between task transitions.
 
