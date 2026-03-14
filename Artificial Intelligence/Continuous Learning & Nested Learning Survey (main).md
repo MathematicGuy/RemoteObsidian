@@ -48,12 +48,15 @@
 +  [Kullback-Leibler (KL) divergence](https://www.geeksforgeeks.org/machine-learning/kullback-leibler-divergence/) can be used to test Distribution shift, 
 + Why LoRA is so efficient for CL
 
-
 ### [[Introduction and Motivation for Continual Learning]]
-Continuous learning model that handles evolving data distributions and new tasks
-
----
-
 **Catastrophic Forgetting Example:**
 + Multiple fine-tunning 
 + CIL, DIL, TIL
+
+----
+
+**Research Question:**  3
+**Research Purpose:** 
+**Description:** 
+Currently find - **Research Problem"**
+
