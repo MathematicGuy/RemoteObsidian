@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "41042934563b4aaa",
@@ -188,7 +189,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Todo.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "Todo.md"
   ]
 }
