@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 *Main Concept - what are the step of ?* where the Input is a Image contain a Face
 0. Convert online Dataset format to your Dataset Format. 
@@ -67,3 +68,13 @@ bbox_x1 bbox_y1 bbox_x2 bbox_y2
 *MTCNN (Multi-task Cascaded Convolution Networks)* - Isolating faces and basic landmarks using limited computation overhead. (*Efficient Facial Detection & Alignment*)
 + $ Joint face detection and alignment using a stepped, three-stage cascade architecture (P-Net, R-Net, and O-Net) 
 + ? Usecase: Act like a Efficient filter, MTCNN process the video feed in 3 quick stages. 1st it scans the whole image to find which likely to be a face, then filter out the false positive, and finally outputs the confirmed faces along with 5 landmarks (eyes, nose, mouth corners) to ensure the face is correctly *ALIGNED before sending the face to model like DeepFace.*
+=======
+**Challange of Face Recognition**
+1. Accuracy & Reliability
+2. Bias & Discrimination
+3. Privacy Concems
+4. Environmental Constraints
+5. Ethical Consideration
+
+
+>>>>>>> origin/main
