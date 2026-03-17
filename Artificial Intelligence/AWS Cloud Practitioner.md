@@ -43,9 +43,9 @@ But good if you are a big company with privacy concern and need long term benefi
 
 Overall, in COST.
 ```ad-summary
-*OPEX (On Premise):* is more eco in the long-term and offer ultimate controlled. Use when u have a strong DevOps team, fast prod experient cycle or don't need expand DC over time or Globaly.
+*OPEX (Operating Expenditure):* is more eco in the **long-term invesment** and offer ultimate controlled. In DevOps, use when u have a strong DevOps team, fast prod experient cycle or don't need expand Data Center over time or Globaly.
 
-*CAPEX (Cloud):* is more eco shorterm and userbase-flow fluctuate a lot (not stable). But more costly in long term. Allow Global connection.
+*CAPEX (Capital Expenditure):* is more eco shorterm and userbase-flow fluctuate a lot (not stable). Keep the business running but more costly in long term
 ```
 ![[Pasted image 20260310163945.png]]
 
@@ -66,17 +66,6 @@ However, *why use 1 when you could use Both*. In LLMOps, we could run Small Mode
 
 *Elasticity* talk about *Optimize Resource usage with Auto-Scaling*, how *efficiency your system expand and shrink to handle fluctuated traffic* without over-provision.
 -> Question ask the user compare Agility and Elasticity.
-
-
-A startup is building a new custom web application. They have a small software engineering team to write the application code and manage user data, but they do not want to spend time managing or patching the underlying operating systems, runtime environments, or server hardware. Which cloud computing model should they choose?
-
-**A.** Infrastructure as a Service (IaaS), because it provides the team with full control over the operating system and runtime environment.
-**B.** Software as a Service (SaaS), because the cloud provider will manage everything including the application and data, eliminating the need for their engineering team.
-**C.** Platform as a Service (PaaS), because the provider manages the underlying infrastructure, operating system, and runtime, allowing the startup to focus solely on their application and data.
-**D.** On-Premises, because it allows their software engineering team to have complete control over the physical data center.
-
-**Explaination:** In a PaaS model, you rent the environment to run apps; the cloud provider manages the infrastructure, Operating System (OS), middleware, and runtime, leaving the customer responsible only for the Applications and Data
-
 
 ---
 ## Lesson 2: AWS Global Architecture
@@ -172,7 +161,6 @@ Note: CloudFront is the network that provide Cache.
 + **Recovery Point Objective (RPO) -** maximum amount of time since the last recovery point. *ie. How much data to you willing to lose to save money ?*
 ![[Pasted image 20260313005519.png]]
 
-
 *Disaster Recovery Strategy Ladder* the higher the better but more expensive. (so choose by Budget)
 ![[Pasted image 20260313005706.png]]
 + *Backup & Restore* - backup data in another Region and restore data after the incident.
@@ -181,6 +169,7 @@ Note: CloudFront is the network that provide Cache.
 + *Multi-Site (Active-Active)* - achieve zero-downtime by running prod workloads across Multi-Region at the same time.
 + @ **Exam Tips:** remember Multi-AZ HA help HA and Multi-Region HA help Regional DR.
 + ? Contries compliance and regional latency are often more important than cost in scenario question bc cheap region could not be ultilize it a useless server.
+
 
 *Multi-AZ (in 1 Region) ko thay thế đc Multi-Region Disaster Recovery* if the Disaster is over a Region.
 + ! Cons: *high cost for duplicated resources aross reigion* (inter region data transfer)
@@ -203,7 +192,7 @@ Multi-AZ for normal usage (protect data center failure) - low lantency - don't n
 	Must have multi-AZ for every workload (IMPORTANT invest)
 	Multi-Region required for mission critical.
 	Choose the right disaster recovery base on current budget.
-
+	
 + @ Goals: Draw the entire AWS infrastructure and explain the design.
 + ? Visualize traffict direction and AWS infrastructure as we explain.
 
@@ -214,3 +203,5 @@ Multi-AZ for normal usage (protect data center failure) - low lantency - don't n
 	send and receive at the same time.
 *Asynchronous* = Multi-Region (different region, lower speed, disaster recovery)
 	both size send data with latency gaps in between, allowing the receiver to process each byte as it arrives.
+
+## Lesson 1 + 2: Revision
