@@ -41,7 +41,7 @@ MoE - finetune the router.
 + ! Continuous learning is not portable - [what is so hard about continual learning](https://www.seangoedecke.com/continuous-learning/)
 	Say you have Claude-Sonnet-7-continuous running on your codebase for six months and it’s working great. What do you do when Anthropic releases Claude-Sonnet-8? How do you upgrade ?
 	.
-	Everything your model has learned from your codebase is encoded into its weights. At best, it might be encoded into a technically-portable LoRA adapter,
+	Everything your model has learned from your codebase is encoded into its weights. At best, it might be encoded into a technically-portable LoRA adapter/
 
 ---
 
