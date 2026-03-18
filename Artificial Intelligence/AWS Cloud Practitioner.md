@@ -209,8 +209,12 @@ Multi-AZ for normal usage (protect data center failure) - low lantency - don't n
 
 *AWS Shared Responsibility Model* -  AWS manages security **"of"** the cloud *(physical infrastructure, hardware, software, networking)*, while customers manage security **"in"** the cloud *(data, applications, OS patching, configurations)*
 
-
 *Synchronous* = Multi-AZ (same region, high speed, zero data loss)
 	send and receive at the same time. 
 *Asynchronous* = Multi-Region (different region, lower speed, disaster recovery)
 	both size send data with latency gaps in between, allowing the receiver to process each byte as it arrives.
+
+[Good Disaster Recovery Video](https://youtu.be/s_K-ntsb-cM?si=tpGSni0wVO01fGbl)
+
+----
+

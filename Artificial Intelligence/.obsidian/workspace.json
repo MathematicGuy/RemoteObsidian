@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "446ac9fa1ad2c19c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuous Learning & Nested Learning Survey (main).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continuous Learning & Nested Learning Survey (main)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,29 +207,32 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "446ac9fa1ad2c19c",
+  "active": "944d9a1d28e7ac78",
   "lastOpenFiles": [
+    "Continuous Learning & Nested Learning Survey (main).md",
     "Continual Learning Code.md",
+    "AIO2025 Module 9.md",
     "2 ACTIONS/_Focus.md",
+    "AIO 2025.md",
+    "Attention is All You Need.md",
     "AWS Cloud Practitioner.md",
+    "AWS Cloud Practitioner HARD QUIZ.md",
+    "image/Pasted image 20260315000238.png",
+    "image/Pasted image 20260314235857.png",
+    "image/Pasted image 20260314234441.png",
+    "image/Pasted image 20260314234102.png",
+    "image/Pasted image 20260314234045.png",
+    "image/Pasted image 20260314233913.png",
+    "AWS Partitioner.md",
+    "When Continual Learning is useful.md",
+    "image/Pasted image 20260312180513.png",
     "AIO2025 - UnixLinux for Data Science.md",
     "image/Pasted image 20260313013450.png",
     "image/Pasted image 20260313013443.png",
     "image/Pasted image 20260313011550.png",
-    "image/Pasted image 20260313005706.png",
-    "image/Pasted image 20260313005100.png",
-    "image/Pasted image 20260313005519.png",
-    "image/Pasted image 20260313005145.png",
-    "image/Pasted image 20260313004430.png",
-    "image/Pasted image 20260313004316.png",
-    "image/Pasted image 20260312212316.png",
     "AIO - Face Recognition.md",
-    "When Continual Learning is useful.md",
-    "Continuous Learning & Nested Learning Survey (main).md",
     "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
     "Cosine Similarity.md",
-    "AIO 2025.md",
-    "AWS Partitioner.md",
     "Example Prompts.md",
     "Prompt.md",
     "LLMOps.md",
@@ -256,9 +244,6 @@
     "Week 3 - Optimization in Neural Network and Newton's Method.md",
     "Shannon Entropy.md",
     "Softmax Regression.md",
-    "Lesson 1 - Introduction to Probability.md",
-    "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
-    "Statistic and Probability for Machine Learning.md",
-    "Bias-Variance Tradeoff and Model Performance.md"
+    "Lesson 1 - Introduction to Probability.md"
   ]
 }

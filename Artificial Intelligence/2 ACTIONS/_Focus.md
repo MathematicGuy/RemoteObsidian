@@ -4,6 +4,7 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
 - [ ] Inspect how I learn and study - prevent Study Paralyze at all Cost
+- [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98)
 
 _TODAY
 
