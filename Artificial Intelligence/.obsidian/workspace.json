@@ -222,76 +222,34 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-<<<<<<< HEAD
   "active": "4522dabe9684e6bd",
-=======
-<<<<<<< HEAD
-  "active": "944d9a1d28e7ac78",
   "lastOpenFiles": [
-    "Continuous Learning & Nested Learning Survey (main).md",
-    "Continual Learning Code.md",
-    "AIO2025 Module 9.md",
-=======
-  "active": "9720491815b9763b",
->>>>>>> ec02eb3eb5c8f7946edac05be25100d463f6abaa
-  "lastOpenFiles": [
->>>>>>> origin/main
-    "2 ACTIONS/_Focus.md",
-    "AIO 2025.md",
-    "Attention is All You Need.md",
-    "AWS Cloud Practitioner.md",
-<<<<<<< HEAD
-    "AWS Cloud Practitioner HARD QUIZ.md",
+    "image/Pasted image 20260318195917.png",
+    "image/Pasted image 20260318194623.png",
+    "image/Pasted image 20260318183012.png",
+    "image/Pasted image 20260318174203.png",
+    "image/Pasted image 20260318155558.png",
     "image/Pasted image 20260315000238.png",
     "image/Pasted image 20260314235857.png",
-    "image/Pasted image 20260314234441.png",
     "image/Pasted image 20260314234102.png",
     "image/Pasted image 20260314234045.png",
     "image/Pasted image 20260314233913.png",
-    "AWS Partitioner.md",
-    "When Continual Learning is useful.md",
-    "image/Pasted image 20260312180513.png",
-    "AIO2025 - UnixLinux for Data Science.md",
-    "image/Pasted image 20260313013450.png",
-    "image/Pasted image 20260313013443.png",
+    "AWS Cloud Practitioner HARD QUIZ.md",
+    "AIO2025 Module 9.md",
+    "AIO2025 - NER for Medical Data.md",
+    "2 ACTIONS/_Focus.md",
+    "AWS Cloud Practitioner.md",
     "image/Pasted image 20260313011550.png",
-    "AIO - Face Recognition.md",
-    "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
-    "Cosine Similarity.md",
-    "Example Prompts.md",
-=======
-    "image/Pasted image 20260313011550.png",
-    "image/Pasted image 20260313005706.png",
-    "image/Pasted image 20260313005519.png",
-    "image/Pasted image 20260313005145.png",
-    "image/Pasted image 20260313004430.png",
-    "image/Pasted image 20260313004316.png",
-    "image/Pasted image 20260312212316.png",
-    "image/Pasted image 20260312204014.png",
-    "image/Pasted image 20260312202641.png",
-    "image/Pasted image 20260312202430.png",
     "When Continual Learning is useful.md",
     "Continual Learning Code.md",
     "AWS Partitioner.md",
     "3 RESOURCES/Good for later/Prompt Engineering.md",
->>>>>>> origin/main
     "Prompt.md",
     "AIO - Face Recognition.md",
     "Report TreeLoRA Experiment Result.md",
     "AIO 2025.md",
     "Transformer Neural Networks Derived from Scratch.md",
     "LLMOps.md",
-<<<<<<< HEAD
-    "ML CheatSheet.md",
-    "Imbalanced Data in Classification.md",
-    "Machine Learning & Data Science Main.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "Shannon Entropy.md",
-    "Softmax Regression.md",
-    "Lesson 1 - Introduction to Probability.md"
-=======
     "AIO CNN.md",
     "Continual Learning Survey.md",
     "Normalization & Standardization.md",
@@ -301,10 +259,6 @@
     "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
     "AIO - CNN Training and Generalization.md",
     "Continuous Learning & Nested Learning Survey (main).md",
-    "Continous Learning and Catastrophic Forgetting.md",
-    "Mathematical of Continual Learning.md",
-    "Investigate Normalization Method in Action Recognition problem.md",
-    "Problem with SMOTE.md"
->>>>>>> origin/main
+    "Continous Learning and Catastrophic Forgetting.md"
   ]
 }
