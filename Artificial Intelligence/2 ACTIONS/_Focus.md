@@ -8,7 +8,7 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 
 
 _TODAY
-
+ 
 
 _Long Term
 - AI Engineer
