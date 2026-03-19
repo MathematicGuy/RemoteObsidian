@@ -17,4 +17,4 @@ To reduce required memory, new method called *Multi Query Attention (MQA)* ask i
 	e.g. Keep only 2 distince Key and Value for each tokens. The Key & Value are then shared across Attention Heads (Note that QKV dimension remain unchange)    
 ![[Pasted image 20260307165513.png]]
 -> Balance between memory efficiency and multi-head accuracy.
- 
+
