@@ -8,7 +8,7 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - [ ] Practice self-control, doesn't matter how big or small. Suffer first, Enjoy later. 
 
 _TODAY
-
+ 
 
 _Long Term
 - AI Engineer
