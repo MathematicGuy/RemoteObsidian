@@ -36,19 +36,9 @@
               "icon": "lucide-file",
               "title": "Attention is All You Need"
             }
-          },
-          {
-            "id": "22f356e01bc5622a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attention is All You Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Attention is All You Need"
             }
           },
           {
@@ -140,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attention is All You Need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Attention is All You Need"
             }
           },
           {
@@ -182,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Attention is All You Need.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Attention is All You Need"
             }
           }
         ]
@@ -218,8 +211,9 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "22f356e01bc5622a",
+  "active": "5380e640437fc44c",
   "lastOpenFiles": [
+    "Transformer Model Introduction (Attention Is All You Need).md",
     "Attention is All You Need.md",
     "2 ACTIONS/_Focus.md"
   ]
