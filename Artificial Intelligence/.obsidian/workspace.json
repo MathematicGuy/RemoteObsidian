@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "510e518953e270cf",
+    "id": "df21bc94ba1c0080",
     "type": "split",
     "children": [
       {
-        "id": "dd5fc917a751f839",
+        "id": "e437140310e33abb",
         "type": "tabs",
         "children": [
           {
-            "id": "9720491815b9763b",
+            "id": "811e1944c93eb7e8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,22 +22,47 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+          },
+          {
+            "id": "5380e640437fc44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention is All You Need.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attention is All You Need"
+            }
+          },
+          {
+            "id": "22f356e01bc5622a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "66357e1d04d6fac9",
+    "id": "0c831058e27e58ed",
     "type": "split",
     "children": [
       {
-        "id": "b8004a5cdd67de98",
+        "id": "04ec902b73715125",
         "type": "tabs",
         "children": [
           {
-            "id": "d2e7819174930da5",
+            "id": "1660cd254879a0cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +75,7 @@
             }
           },
           {
-            "id": "37958ece4664b5e6",
+            "id": "6d1a03206a4265f1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +92,7 @@
             }
           },
           {
-            "id": "2478cfe76e959f83",
+            "id": "c3814cdfa45ec02d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +109,19 @@
     "collapsed": true
   },
   "right": {
-    "id": "3730a2835862653c",
+    "id": "e09969989ab8aeca",
     "type": "split",
     "children": [
       {
-        "id": "3a1f125823018c42",
+        "id": "0cafb5c594015ba4",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c7e05738eb54c9",
+            "id": "a99bbbbe90c46ea4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalization & Standardization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +131,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Normalization & Standardization"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "58142982596f6d63",
+            "id": "2fd075193ed7f9da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pytorch"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bcccc9ffd1276b4a",
+            "id": "e62987640d1a5aae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +163,7 @@
             }
           },
           {
-            "id": "5260fd5d27d3d20a",
+            "id": "477baf1736ec21d0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,32 +177,20 @@
             }
           },
           {
-            "id": "32e24f833e3531f7",
+            "id": "d7653979ad86e36e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pytorch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pytorch"
-            }
-          },
-          {
-            "id": "9c4259ad897825b8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,85 +218,9 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-<<<<<<< HEAD
-  "active": "944d9a1d28e7ac78",
+  "active": "22f356e01bc5622a",
   "lastOpenFiles": [
-    "Continuous Learning & Nested Learning Survey (main).md",
-    "Continual Learning Code.md",
-    "AIO2025 Module 9.md",
-=======
-  "active": "9720491815b9763b",
-  "lastOpenFiles": [
->>>>>>> origin/main
-    "2 ACTIONS/_Focus.md",
-    "AIO 2025.md",
     "Attention is All You Need.md",
-    "AWS Cloud Practitioner.md",
-<<<<<<< HEAD
-    "AWS Cloud Practitioner HARD QUIZ.md",
-    "image/Pasted image 20260315000238.png",
-    "image/Pasted image 20260314235857.png",
-    "image/Pasted image 20260314234441.png",
-    "image/Pasted image 20260314234102.png",
-    "image/Pasted image 20260314234045.png",
-    "image/Pasted image 20260314233913.png",
-    "AWS Partitioner.md",
-    "When Continual Learning is useful.md",
-    "image/Pasted image 20260312180513.png",
-    "AIO2025 - UnixLinux for Data Science.md",
-    "image/Pasted image 20260313013450.png",
-    "image/Pasted image 20260313013443.png",
-    "image/Pasted image 20260313011550.png",
-    "AIO - Face Recognition.md",
-    "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
-    "Cosine Similarity.md",
-    "Example Prompts.md",
-=======
-    "image/Pasted image 20260313011550.png",
-    "image/Pasted image 20260313005706.png",
-    "image/Pasted image 20260313005519.png",
-    "image/Pasted image 20260313005145.png",
-    "image/Pasted image 20260313004430.png",
-    "image/Pasted image 20260313004316.png",
-    "image/Pasted image 20260312212316.png",
-    "image/Pasted image 20260312204014.png",
-    "image/Pasted image 20260312202641.png",
-    "image/Pasted image 20260312202430.png",
-    "When Continual Learning is useful.md",
-    "Continual Learning Code.md",
-    "AWS Partitioner.md",
-    "3 RESOURCES/Good for later/Prompt Engineering.md",
->>>>>>> origin/main
-    "Prompt.md",
-    "AIO - Face Recognition.md",
-    "Report TreeLoRA Experiment Result.md",
-    "AIO 2025.md",
-    "Transformer Neural Networks Derived from Scratch.md",
-    "LLMOps.md",
-<<<<<<< HEAD
-    "ML CheatSheet.md",
-    "Imbalanced Data in Classification.md",
-    "Machine Learning & Data Science Main.md",
-    "AIO Metrics for Regression (from metrics to loss functions).md",
-    "3 RESOURCES/Artificial Intelligent/Softmax/AIO - Softmax.md",
-    "Week 3 - Optimization in Neural Network and Newton's Method.md",
-    "Shannon Entropy.md",
-    "Softmax Regression.md",
-    "Lesson 1 - Introduction to Probability.md"
-=======
-    "AIO CNN.md",
-    "Continual Learning Survey.md",
-    "Normalization & Standardization.md",
-    "Incremental class learning (survey).md",
-    "Untitled 4.md",
-    "Logarithm and Log-Likelihood Function.md",
-    "AIO - Transformer Intuition and ViT (Vision Transformer Introduction).md",
-    "AIO - CNN Training and Generalization.md",
-    "Continuous Learning & Nested Learning Survey (main).md",
-    "Continous Learning and Catastrophic Forgetting.md",
-    "Mathematical of Continual Learning.md",
-    "Investigate Normalization Method in Action Recognition problem.md",
-    "Problem with SMOTE.md"
->>>>>>> origin/main
+    "2 ACTIONS/_Focus.md"
   ]
 }
