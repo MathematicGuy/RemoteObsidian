@@ -207,6 +207,4 @@ Multi-AZ for normal usage (protect data center failure) - low lantency - don't n
 
 ----
 
-
-
 ## Lesson 1 + 2: Revision
