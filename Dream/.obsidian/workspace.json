@@ -23,39 +23,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "2da36afbd5c78645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 Oddly Specific Childhood Trauma Issues.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "11 Oddly Specific Childhood Trauma Issues"
-            }
-          },
-          {
-            "id": "05ba836274bc513a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Theory - Epstein's World.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Theory - Epstein's World"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +171,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "05ba836274bc513a",
+  "active": "87a9346395dee7f4",
   "lastOpenFiles": [
-    "Predictive History.md",
-    "Game Theory - Epstein's World.md",
-    "11 Oddly Specific Childhood Trauma Issues.md",
-    "_Focus.md",
     "THOUGH.md",
+    "_Focus.md",
+    "11 Oddly Specific Childhood Trauma Issues.md",
+    "Game Theory - Epstein's World.md",
+    "Predictive History.md",
     "2 ACTIONS/_My Life/_My Life.md",
     "Violin.md",
     "Excalidraw/Life as a System.excalidraw.md",

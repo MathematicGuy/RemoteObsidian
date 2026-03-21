@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "d8e20822d717c901",
+            "id": "35f4c5b99ea52c6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +37,7 @@
               "title": "AWS Cloud Practitioner"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,20 +210,22 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "d8e20822d717c901",
+  "active": "811e1944c93eb7e8",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner.md",
     "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20260321010217.png",
+    "image/Pasted image 20260321005915.png",
+    "image/Pasted image 20260321005839.png",
+    "image/Pasted image 20260321005617.png",
+    "image/Pasted image 20260321005022.png",
+    "image/Pasted image 20260321004956.png",
+    "image/Pasted image 20260321004932.png",
+    "image/Pasted image 20260320221715.png",
+    "image/Pasted image 20260320213040.png",
+    "image/Pasted image 20260320212433.png",
+    "Driving Test.md",
     "Attention is All You Need.md",
-    "image/Pasted image 20260319163515.png",
-    "image/Pasted image 20260319163038.png",
-    "image/Pasted image 20260319161353.png",
-    "image/Pasted image 20260319160607.png",
-    "image/Pasted image 20260319160553.png",
-    "image/Pasted image 20260319154359.png",
-    "image/Pasted image 20260319153718.png",
-    "image/Pasted image 20260319153654.png",
-    "image/Pasted image 20260319153449.png",
-    "image/Pasted image 20260319153030.png",
     "Transformer Model Introduction (Attention Is All You Need).md",
     "Transformer Neural Networks Derived from Scratch.md"
   ]

@@ -206,5 +206,215 @@ Multi-AZ for normal usage (protect data center failure) - low lantency - don't n
 [Good Disaster Recovery Video](https://youtu.be/s_K-ntsb-cM?si=tpGSni0wVO01fGbl)
 
 ----
+## Lesson 3: AWS Infrastructure + Compute Cloud and Serverless 
++ @ Goal: Understand AWS serverless service (ESC Fargate, Lambda, Auto-Scaling) and What EC2 Instance type to choose. 
 
-## Lesson 1 + 2: Revision
+### 3.1 Review: AWS INFRASTRUCTURE
+*Decoupling -* design principle of separating system component so they ca operate independently and reduce inter dependency (ie. component A must run for Component B to run)
+*Consistency -* In term of latency and data, e.g. data storage in Asia is in sync with storage in Europe.
+-> For data to synchronize better, we *use a primary database* (new data update to this db) between these 2 region so Database within each Region just need to read without the need of update. 
+Reduce Latency -> Cloud Front Edge Location Cache.
+
+AWS Tổ Chức Infrastructure của nó như thế nào ? -> Peer2Peer
+![[Pasted image 20260320161437.png | 555]]
+Distributed System like Logistic Network, Rail Network.
+
+### 3.2 AWS Compute Cloud and Serverless
+EC2 Instance - server (CPU + GPU + stuff)
+EBS - Elastic Bucket Storage - for data storage 
+ELB - Elastic Load Balancing -> distirbute workload across EBS and EC2 server.
+ASG - Auto Scaling Group - auto scaling EC2 and EBS. 
+
+AMI (Amazone Machine Image) - pre-setup EC2 instance for specific used. 
+![[Pasted image 20260320203049.png]]
+Note that EC2 is like your Desktop, you install thing and setup the required software as well as env. Rent a server ~ Rent a Work Station Computer.
+
+There are 3 *types of AMIs*: 
+![[Pasted image 20260320203416.png]]
+
+*Boostrap EC2* - Basically write bash command within `User data` to *install pre-configuration to the computer/server during initial startup.* 
++ ? Example: run `.sh` scripts that download Pytorch, CUDA and python, uv and run pip install `requirements.txt` 
+![[Pasted image 20260320204158.png]]
+
+EC2 instance Naming Convention: `d` is for dev, `p` is for production. 
+
+#### Practical Questions
+*Which help to Control Traffic of AWS EC2*  
+
+*AWS Free Services*
++ EC2 Server instance (12 Months Free Trial), AWS Lambda (1M request / month) 
++ AWS S3 Bucket Storage (5GB) - 12 Months Free Trial
++ AWS DynamoDB (25GB), AWS RDS (first 75- hr of db.t2/t3 micro is free)
++ CloudFront (Cache) - 1st 1TB tranfer is free
++ BeanStalk & Cloud Watch is Free - [aws free web](https://aws.amazon.com/free/?ams%23interactive-card-vertical%23pattern-data-339318104.search=CloudWatch) 
+
+*AWS Lambda (Faas - Function as a Service)* - serverless compute service (not runtime env) which contain runtime ev like Python, Java, etc... To use Lambda, you must:
++ Zip your script and libraries then upload them via AWS Console
++ Or *Dockerize your code and push it into Amazon Elastic Container Registry (ECR)* where you could *store, deploy and manage your code* -> more neat. 
+
+AWS Lambda can be trigger by:
++ Defined API Call in your Code
++ S3 events - uploading a file to a bucket
++ Schedules - like Auto Run your AI validation & training Function every 2 weeks. 
++ Database changes - like when a row is added to DynamoDB
++ Internal AWS Events - EC2 shutting down
++ ? Lambda charge by the number of requests and the duration for your code to execute. e.g. 2 parallel function take up 2 min -> 4 min totals of cost.   
+	
++ Example: AWS Lambda *run your API defined Function within a Docker Container Image or Zip Code Package when a Input Event is Trigger.* - Kind of like Docker to be honest but their Cloud Server is your Desktop.  
+
+*EC2 Instance Family* ![[Pasted image 20260320171947.png]]
+**Use Case Note:**
++ General -> mid tier (good for general use in mid web/app)
++ Memory Optimized for in-memory cache optimize scenario (ie. in RAM)
+	`R-family` provides a *high RAM-to-CPU ratio* (ideal for in-memory cache and high-RAM database)
++ *Opposite of R-Family* which is have the best optimize RAM-to-CPU ratio, `Z-family` have *both high memory and CPU Compute.* 
++ `I-family` designed for high/low-latency workload, *random I/O to local storage*. IOPS - Input/Output Operations Per Second used for range Read-Write access to large datasets. 
+	Use for *Large Data Read & Write in Data Warehouse*, Large Database.  
++ `C` for CPU optimised instances to handles large batch data processing, ML workload.
++ `p` family for parallel processing -> `p6e`  used to handle large workload like Image Processing.  remember `p` is for picture. 
++ Suffix (at the end) `g` indicates instances powered by AWS *Graviton* processor *which is ARM-based.*  
++ F1 for custom hardware (e.g. FPGA)
++ Suffix `d` indicates the instansces includes local *NVMe-based SSD storage.* 
+	think `d` as disk
++ `t-family` for sudden spike workload but otherwize sit idle most of the time. 
+	t as in tiny (indle workload) and turbo (fast increase for large workload)
++ `x-family` for *extreme in-memory (RAM)* application workload 
++ `h1` with `h` stand for HDD have balanced compute and memory and is optimzed for MapReduce and HDFS workload.  
++ `n` suffix stand for high-bandwidth networking. 
+
+[EC2 instance Suffix rule:](https://sudoconsultants.com/ec2-instance-types-a-simple-guide/)
+![[Pasted image 20260320210324.png]]
+Common AWS Instance Suffix Meanings:
+- *g (Graviton):* Powered by AWS-designed ARM-based processors.
+- *i (Intel):* Uses Intel Xeon processors (e.g., `m7i`).
+- *a (AMD):* Uses AMD EPYC processors (e.g., `m6a`).
+- *n (Network Optimized):* Enhanced networking speed (e.g., `c6n`).
+- *d (Disk/NVMe):* Includes local NVMe SSD storage.
+- *e (Extended Memory/Storage):* Extra capacity per vCPU.
+- *z (High Frequency):* High compute frequency.
+- *b (Blackwell):* Indicates NVIDIA Blackwell GPU acceleration.
+
+
+*EC2 instance purchasing options:*	
++ Spot Instance: this Instance use only spare EC instance, but they can be interrupt. 
+	-> Use for processing workload that are 'interuption-tolerant'
+	
++ [On-Demand Instances](https://aws.amazon.com/compare/the-difference-between-on-demand-instances-and-reserved-instances/) (No commitment): Pay by the second, ideal for short-term, unpredictable workloads or testing.
+	
+- [Reserved Instances](https://aws.amazon.com/ec2/pricing/reserved-instances/) (1–3 year commitment): Significant discounts (up to 72%) compared to on-demand, suited for stable, predictable usage -> *Need Upfront Money.* e.g. Rent for 1 year, pay for 1 year. ![[Pasted image 20260320172111.png]] -> for Stable, long-term workload bc upfront payment in a *Fixed Region.* 
+	
++ *Savings Plans (flexible):* *Don't need Upfront Money*. *Dollar / hour Discount type*. e.g. `10$/hour` -> Use if you need to changes instance size or types frequenly like Fargate/Lambda.    
+	
+- *Dedicated Instances (No commitment):* Physically isolated at the host hardware level from other AWS account, often used for compliance.  *AWS choose a random dedicated instance for you* -> not share with anyone else.
+	
+- [Dedicated Hosts](https://aws.amazon.com/ec2/dedicated-hosts/) (1–3 year commitment): *Rent the entire Physical servers* dedicated to your use, offering visibility of cores/sockets for BYOL (Bring Your Own License) scenarios and strict compliance.  
+	-> You could use a **Host ID** to *force my EC2 instance to run on one specific piece of hardware I have already rented*, rather than letting AWS pick a random empty one for me. Because of *strict compliance* that *require licenses per-socket, per-core and per-VM.*
+
+
+
+![[Pasted image 20260320221715.png]]
+Ref: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-change-tenancy.html
+Rent Pricing at *On-Demand rate*
+
+*Serverless* mean you don't have to manage the server, just push your Code Package and run. e.g. Number of Server instance, OS, Runtime, etc..
+	Basically, you just upload your code and Lambda handle the runtime, scaling and high availability ie. the server.  
+
+*AWS Auto-Scaling* - scale instance more or less base on demand. Have the ability to:
++ Auto remove unhealthy instance
++ Predict when and how to Scale base on forecast data
++ Adjust resource base on target metric (question at here)
+![[Pasted image 20260320172556.png]]
+Note that AWS Auto-Scale doesn't responsible for Cyber Attack bc its not Physical Server related & Pay-as-you-go model.
+
+*EC2 - Private & Public IP (IPv4)*
+![[Pasted image 20260320211144.png]]
+
+*Elastic IPs* - If 1 EC2 instance fail, its IP address will be move to another EC2 instance replica to make sure the instance is always available. -> 2 diff instanec but the same IP -> that how website keep running even if 1 EC2 fail.
+
+*EC2 Hibernate*
+![[Pasted image 20260320212433.png]]
+*Load system state and application state from RAM to EBS volumn* (given that you setup EBS S3 bucket first) -> Faster STARTUP. 
++ ? Because EC2 calc COST by second -> every second save through faster startup mean every dollar saved. 
+
+(`Explain in Detail later`)
+*Security Groups:* act as a virtual firewall for your EC2 instances group to control incoming and outgoing traffic.
++ ? For example, you have to have specific IP Address to enter the Dash Board page (where only admin could enter).  The same for server, *some server are private so you need security group to only some specific people can come enter.* 
+![[Pasted image 20260320213040.png | 777]]
++ Inbound Rule - security for input Type (e.g SSH).
++ Outbound Rule - security for output Type. 
+
+
+**AWS ECR vs ECS**
+You store, manage and deploy your Docker Container Image on ECR -> then you pull 1 of that Docker Image from ECR to ECS to run on EC2 (server) or Fargate (serverless).  
+-> Basically *ECR to store and manage* your Docker's Image and *ECS to Orchestrate and run* your Docker *Image pull from ECS.*  
++ ? Note that *Deploy $\neq$ Run*
++ ECR is a storage repository for container images. 
++ ECS is the compute engine that run containers.
+
+
+*AWS ECR (Elastic Container Registry)* - manual Container setup and management. 
+
+*AWS ECS (Elastic Container Service)* full managed container orchestration service that simplifed deploying, managing and scaling Docker-based application. 
+Have 2 types:
++ AWS Fargate (serverless) - don't have to worry about the server as in serverless definition -> don't need to worry about Scaling, Patching, Securing and managing servers. 
++ AWS EC2 instances (server) - have ability to control your EC2 server. 
+```ad-caution
+*AWS Fargate* - often *cost more x6-10 times* than an well-optimize EC2 instance. However, its more convenience and fast. But *good for unpredictable traffic spike*. 
+-> use Fargate for inrrupt-tolerant task.
+-> use EC2 for predictable 24/7 workloads. 
+```
+
+#### Placement Groups
+*Cluster Placement Groups* - group of EC2 that close together in a single AZ -> Help reduce Latency between Instance.  ![[Pasted image 20260321004956.png]]
+*Spread Placement Groups* - Spread instances across multiple Availability Zone -> Help with High Availability (HA) ![[Pasted image 20260321004932.png | 666]]
+*Partition Placement Groups* (combination of Cluster and Spread) - Cluster of instance run on mutiple Hardware Rack and Across AZ for Partition -> Help reduce Latency on some Instance while maintain HA. ![[Pasted image 20260321005022.png]]
++ ! Number of partition per AZ limited to 7.
++ ? Use in Distributed System like HDFS, Hadoop, Cassandra and Kafka. 
+
+#### EC2 Storage
+*Elastic Block Store (EBS)* - *network-attached disk* that can be attached to a running EC2. AWS automatically attaches an EBS volume called the Root EBS Volume to EC2 instance at launch. 
+![[Pasted image 20260321005839.png]]
++ $ Data remains even if the EC2 instance stops or terminate bc they're network attached. 
++ ! Limited to 1 AZ.
++ ? Usually attached to ONE instance at a time (Except for io1/io2 multi-Attach)
+
+Optional: turn on Delete on termination to delete EBS along with EC2 instance. 
+![[Pasted image 20260321005915.png]]
+
+*Snapshots -* *point-of-time* backup of an Amazon EBS volume. 
+-> Can be Copied across regions or shared across AWS accounts ![[Pasted image 20260321010217.png |444]]
+
+---
+
+AWS service to host static website -> S3
+
+**Key S3 Glacier Storage Class Types:**
+S3 Glacier Instant Retrieval 
++ Use Case: Medical images, news media assets, or infrequently accessed data needing immediate access.
++ Retrieval Time: Milliseconds
++ Min Duration - 90 days
+
+
+S3 Glacier Flexible Retrieval (formerly S3 Glacier):
++ Use Case: Backup data, offsite storage, or data that does not need immediate access.
++ Retrieval Time: min to 12hrs (Expedited: 1–5 min, Standard: 3–5 hours, Bulk: 5–12 hours).
++ Min Duration - 90 day
+
+S3 Glacier Deep Archive:
++ Use Case: Long-term compliance (regulatory, legal) or data accessed less than once a year.
++ retrieval time: 12 to 48 hours
++ Min Duration - 180 days
+
+
+AWS EFS for Linux-base workload
+	stored file in folder, accessed by file path and *shared by several application server*
+
+**"AWS Intelligent-Tiering only (no further transition)"** means the storage class is set to **INTELLIGENT_TIERING**, but the optional, manual archiving tiers *(Archive Access or Deep Archive Access) have not been enabled*
+
+
+*S3 storage lifecycle*
+S3 Intelligent Tiering is genuenly the best for it automatic lifecycle management.
+-> Its move data from Frequent -> Infrequent -> Archive -> Deep Archive based on access frequency.
+
+Learn about OSI layer. 
+

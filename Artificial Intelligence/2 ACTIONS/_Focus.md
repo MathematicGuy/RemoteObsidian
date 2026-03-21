@@ -4,11 +4,12 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
 - [ ] Inspect how I learn and study - prevent Study Paralyze at all Cost
-- [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98) before 21/3
+- [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98) before 21/3 - Talk to Huan About This
 - [ ] Practice self-control, doesn't matter how big or small. Suffer first, Enjoy later. 
-
-_TODAY
-
+- [ ] AWS Test on Saturday (Thứ 7)
+- [ ] [[Driving Test]] Quiz Prepartion (11 Days Left - Update Everyday)
+- [ ] Tập Lùi xe Ô TÔ - (30-45')
+- [ ] Đặt lịch tập lái Sa Hình vào Tuần (23/3 - 30/3)
 
 _Long Term
 - AI Engineer
