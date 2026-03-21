@@ -19,3 +19,20 @@ Biển báo chướng ngại vật vàng đen - nhìn theo hướng đen, đi th
 
 Biển phụ - bổ trợ cho biển chính, cho biết biển chính có tác dụng ở hướng nào, trong khoảng thời gian 
 Biển trắng - hướng tác dụng của biên 
+
+
+![[Pasted image 20260320154858.png]]
+Đường vòng xuyến mà không có biển báo nghĩa là Vòng Xuyến có thể đi vào từ nhiều hướng thay vì chỉ 1 hướng khi có biển báo 
+-> Cần 1 quy tắc đảm bảo *quy tắc Đối Xứng* giữa các Xe để tránh va chạm -> Xe bên *phải đi trước.*
+![[Pasted image 20260320155436.png | 333]]
+
+----
+**Study Progress (174Q)** - 11 Days Left
++ Câu điểm liệt - 0Q but Cần ôn lại 60Q
++ Quy tắc chung và quy tắc GTĐB - 44Q
++ Văn hóa, đạo đức và kỹ năng PCCC - 10Q
++ Kỹ thuật lái xe - 20Q
++ Cấu tạo và sửa chữa - 10Q
++ Báo hiệu đường bộ - 60Q
++ Sa hình - 30Q 
+-> Pass Condition - At least 5 Test with FULL SCORE.

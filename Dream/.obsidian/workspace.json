@@ -23,6 +23,7 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+<<<<<<< HEAD
           },
           {
             "id": "5a255da4cc790aad",
@@ -41,6 +42,10 @@
           }
         ],
         "currentTab": 1
+=======
+          }
+        ]
+>>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -187,13 +192,22 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "5a255da4cc790aad",
   "lastOpenFiles": [
     "_Focus.md",
     "11 Oddly Specific Childhood Trauma Issues.md",
     "Game Theory - Epstein's World.md",
     "Predictive History.md",
+=======
+  "active": "87a9346395dee7f4",
+  "lastOpenFiles": [
+>>>>>>> origin/main
     "THOUGH.md",
+    "_Focus.md",
+    "11 Oddly Specific Childhood Trauma Issues.md",
+    "Game Theory - Epstein's World.md",
+    "Predictive History.md",
     "2 ACTIONS/_My Life/_My Life.md",
     "Violin.md",
     "Excalidraw/Life as a System.excalidraw.md",

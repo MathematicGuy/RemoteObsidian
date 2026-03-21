@@ -7,11 +7,12 @@
 	
 3. *language is ambiguos*, the pronoun "it" is unclear if there a lack of context. Is "it" refers to the restaurant or the sandwich ? In this context,"it" refer to the word "restaurant".  In other word, "it" should pay *"attention"* to "restaurant" *-> This implies there are connection between words and strength of the "attention/connection" depend on the word themselves.* e.g. it -> restaurant (0.75) while it -> sandwich (0.25). Moreover the word "Their" in the last sentence refer to the "restaurant" in the 1st sentence, this implies connection extend across large text spans. 
 
+
 **Dot-product self-attention**
 Calc Attention score of each word in $X=[x_{1},\dots,x_{n}]$ to $x_n$, including itself $x_{n}$ hence self-attention.
 ![[Pasted image 20260219204043.png]]
 Self-attention between key (right) and values (left), one-to-many. visualization
-	Basically, in a sentence to calc connection/relationship between words, we calc attention score for x to itself and every words in the sentence. Repeat for every word in the sentence. 
+	Basically, in a sentence to calc connection/relationship between words, we calc attention score for $x$ to itself and every words in the sentence. Repeat for every word in the sentence. 
 ![[Pasted image 20260219210858.png]]
 Note: spare-matrix is matrix with zeros. in attention its the mask.
 
@@ -29,6 +30,8 @@ have $$pos \times \frac{1}{10000^{\text{2i}/d\_model}}$$as the denominator, thus
 $$10000^{-2i/d\_model}$$
 apply log transformation $x=e^{\ln(x)}$ then $\ln(x^y)=y\space.\ln(x)$
 $$\exp({\ln(10000^{-2i/d\_model})})=\exp({ \frac{-2i}{d\_model}\times \ln(10000)})$$ 
+
+----
 
 
 

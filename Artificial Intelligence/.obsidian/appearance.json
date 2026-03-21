@@ -4,9 +4,11 @@
   "baseFontSizeAction": true,
   "cssTheme": "Everforest Enchanted",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 22,
   "nativeMenus": true,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "custom-bg"
+  ],
   "showViewHeader": true,
   "showRibbon": false
 }
