@@ -22,13 +22,33 @@ Avoid Single Point of Failure - occur when a large system designed so baddly it 
 
 **PaaS (Platform as a service)**
 ![[Pasted image 20260310161337.png]]
+*Application* - your Website/App Code
+*Data* - dataset, model weight, information stored or processed by the application. 
+*Runtime* - execution environment for the code to run e.g. Bash, C/Java/Python Interpreter
+*Middleware* - middleware function as software which support your code like Authentication function in ASP.NET (`Auth, UserAuthentication`), REST API service and Runtime environment too.
+*OS (Operating System)* - software that manages hardware and software resources  
+*Virtualization* -  tech that allows a single physical server to be partitioned into multi-server "instances" e.g Virtual Disk, Virtual OS -> Enables AWS give you EC2 instances without giving you the whole physical machine.
+*Servers* - other people computer (with CPUs, GPU & RAM) that perform computation,. 
+*Storage* - physical disk (SSDs or HDDs) where you store everything software related.
+*Networking* - *physical and virtual cables* (ie. software to encode & decode sound), routers and switches that allow your application to communicate with the internet or other service. 
 
 *Software Deployment - classified by responsibility*
 ![[Pasted image 20260310161440.png]]
-*IaaS - Infrastructure as a Service (Cloud basis)*
-e.g. amazonEC2
-PaaS - Platform as a Service
-SaaS - Software as a Service
+*IaaS - Infrastructure as a Service (You manage it)* e.g. AWS EC2
+	Providing raw computing infrastructure allow Connection and computation World Wide (server, storage, networking across the world) without the need of sacrifying control. 
+-> For company that priortize control, customization like Google Cloud and Red Hat.
+e.g. Digital Ocean (simple AWS), AWS S3 for Object Storage (ie. data), Azure Virtual Desktop (allow company to host entire Windows desktops in the cloud for remote employee)
++ ? Rent a Un-Setup Computer, you're freely to choose Deployment App like Docker, OS like Ubuntu or MacOS 
+
+*PaaS - Platform as a Service (You build on it - Tool for developers)* 
+	You just need to manage your app and data bc PaaS offers a complete develop and deployment env in the cloud. 
+e.g. AWS Elastic Beanstalk (for deploying and scaling web app), Vercel (frontend deployment), Supabase (Backend-as-a-service) provide instant PostgreSQL DB, Authentication service, *Heroku, Northflank.*
++ ? Basically Deployment Env where you push your code on.  
+
+*SaaS - Software as a Service (You use it)*
+	Other people software that take care of everything, you just have to pay and use it. 
+e.g. AWS itself, Google Calendar, Youtube, Slack, Zoom
+
 
 **Why do we use Cloud ?**
 Main Limitation:
@@ -205,8 +225,36 @@ Multi-AZ for normal usage (protect data center failure) - low lantency - don't n
 
 [Good Disaster Recovery Video](https://youtu.be/s_K-ntsb-cM?si=tpGSni0wVO01fGbl)
 
-----
+---
+## Lesson 3: AWS Compute & Serverless
+
+
+## Lesson 4: Storage Systems in Al & Data Platforms
++ @ Goals: hiểu được nên sử dụng Data Storage system nào.
+
+Best Practices: 
+	Phân tầng dữ liệu 
+SMB windows, NFS linux
+Partitioning chia dữ liệu để save trên nhiều node. 
+
+One Zone IA - IA for infrequence access in 1 AZ (low cost but lower resilient)
+
+Life cycles policy - automated moving data to cheaper storage after N days. 
+
+Source Bucket -> Destination Buck: support disaster recovery. 
+
+EBS - nhanh & ổn định hơn S3. 
+EBS snapshots - copy tại 1 thời điểm cụ thể (giống git nhưng automatic)
+EFS - nhiều EC2 instance tại 1 snapshot
+	ko trả tiền cho kích thước tổng của volumn, dùng bao nhiêu trả bấy nhiêu.
+
+FSR - fast snapshot restore.
+
+Có 1 hthong ecommer, PostSQL 
+EBS (Block storage) cho SQL
+S3 - scale lớn, chi phí pay-as-you-go
+cần dịch vụ có file dùng chung - EFS (shared file system)
+File lâu ko dùng - S3 file storage (bc 6 months worth of file) & life cycles glacier. 
 
 
 
-## Lesson 1 + 2: Revision
