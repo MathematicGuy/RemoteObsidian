@@ -1,4 +1,4 @@
-## [[Continuous Learning & Nested Learning Survey (main)]]
+## [[main_Continual Learning & Nested Learning Survey]]
 
 ## [[Deepfake Survey]]
 

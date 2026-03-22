@@ -24,20 +24,35 @@
             }
           },
           {
-            "id": "35f4c5b99ea52c6e",
+            "id": "7d99a525844c87b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Cloud Practitioner"
+              "title": "Few-Shot, No Problem - Descriptive Continual Relation Extraction"
+            }
+          },
+          {
+            "id": "d4df8fe8dcaca393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main_Continual Learning & Nested Learning Survey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main_Continual Learning & Nested Learning Survey"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,11 +225,19 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "811e1944c93eb7e8",
+  "active": "7d99a525844c87b1",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner.md",
     "2 ACTIONS/_Focus.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "AWS Cloud Practitioner.md",
+    "image/Pasted image 20260322143106.png",
+    "image/Pasted image 20260322141845.png",
     "image/Pasted image 20260321010217.png",
+    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
+    "Continual Learning Survey.md",
+    "Research Direction.md",
     "image/Pasted image 20260321005915.png",
     "image/Pasted image 20260321005839.png",
     "image/Pasted image 20260321005617.png",
@@ -222,8 +245,6 @@
     "image/Pasted image 20260321004956.png",
     "image/Pasted image 20260321004932.png",
     "image/Pasted image 20260320221715.png",
-    "image/Pasted image 20260320213040.png",
-    "image/Pasted image 20260320212433.png",
     "Driving Test.md",
     "Attention is All You Need.md",
     "Transformer Model Introduction (Attention Is All You Need).md",
