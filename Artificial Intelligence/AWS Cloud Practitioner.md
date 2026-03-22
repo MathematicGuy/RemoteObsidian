@@ -329,9 +329,11 @@ Common AWS Instance Suffix Meanings:
 
 - [Dedicated Hosts](https://aws.amazon.com/ec2/dedicated-hosts/) (1–3 year commitment): *Rent the entire Physical servers* dedicated to your use, offering visibility of cores/sockets for BYOL (Bring Your Own License) scenarios and strict compliance.
 	-> You could use a **Host ID** to *force my EC2 instance to run on one specific piece of hardware I have already rented*, rather than letting AWS pick a random empty one for me. Because of *strict compliance* that *require licenses per-socket, per-core and per-VM.*
++ ? A *dedicated host runs multiple dedicated instance* bc you rent the whole Machine. Often cost more and you pay for them even when they are not used.
 
-
-
+*Dedicated Instance vs Dedicated Host*
++ **Dedicated Instance** runs as a *virtual machine on hardware* reserved *for a single customer account.*
++ While a **Dedicated Host** provides an *entire physical server for exclusive use*, offering full control over instance placement d the underlying hardware detail.
 ![[Pasted image 20260320221715.png]]
 Ref: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-change-tenancy.html
 Rent Pricing at *On-Demand rate*
@@ -402,7 +404,15 @@ Optional: turn on Delete on termination to delete EBS along with EC2 instance.
 ![[Pasted image 20260321005915.png]]
 
 *Snapshots -* *point-of-time* backup of an Amazon EBS volume.
--> Can be Copied across regions or shared across AWS accounts ![[Pasted image 20260321010217.png |444]]
+-> Can be Copied across regions or shared across AWS accounts  ![[Pasted image 20260322141845.png]]
+*Sao lưu lũy kế (Cummulative Backup):* chỉ save những thay đổi mới (like github commit). Where each Snapshot version have a independence data (changes).
+	e.g. Day 1 snapshot store 2GB of changes, Day 2 snapshot delete 1 GB & update 2 GB so 3GB change, Day 3 don't have any update -> 0GB of change. Very Memory Efficient.
++ ? But what if you delete the previous snapshot ? will it affect the latter snapshot sequenctly.
++ $ Like github, it just push the necessary changes from Day 1 Snapshot to Day 2 Snapshot, so the latter snapshot stay intact.
+
+
+
+
 
 ---
 

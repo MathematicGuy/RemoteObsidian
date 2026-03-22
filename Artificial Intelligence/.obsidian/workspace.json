@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9da5c57fc1951c54",
+    "id": "df21bc94ba1c0080",
     "type": "split",
     "children": [
       {
-        "id": "da34224273a91f4d",
+        "id": "e437140310e33abb",
         "type": "tabs",
         "children": [
           {
-            "id": "ae5a4f8a87b41085",
+            "id": "811e1944c93eb7e8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,31 @@
             }
           },
           {
-            "id": "8bbceab32f8c5349",
+            "id": "7d99a525844c87b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25M9W2 - NLP Problems & Applications.md",
+                "file": "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25M9W2 - NLP Problems & Applications"
+              "title": "Few-Shot, No Problem - Descriptive Continual Relation Extraction"
+            }
+          },
+          {
+            "id": "d4df8fe8dcaca393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main_Continual Learning & Nested Learning Survey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main_Continual Learning & Nested Learning Survey"
             }
           }
         ],
@@ -44,15 +58,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6f91cab337894438",
+    "id": "0c831058e27e58ed",
     "type": "split",
     "children": [
       {
-        "id": "c9141d83324b4b85",
+        "id": "04ec902b73715125",
         "type": "tabs",
         "children": [
           {
-            "id": "cc614227d84360b9",
+            "id": "1660cd254879a0cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +79,7 @@
             }
           },
           {
-            "id": "fb53e6cc806487f2",
+            "id": "6d1a03206a4265f1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +96,7 @@
             }
           },
           {
-            "id": "21977363b7eacce4",
+            "id": "c3814cdfa45ec02d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,20 +113,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "b8685e963a2044e9",
+    "id": "e09969989ab8aeca",
     "type": "split",
     "children": [
       {
-        "id": "b40236c73dcd21db",
+        "id": "0cafb5c594015ba4",
         "type": "tabs",
         "children": [
           {
-            "id": "f051d76cb9809efc",
+            "id": "a99bbbbe90c46ea4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25M9W2 - NLP Problems & Applications.md",
+                "file": "Attention is All You Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +136,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25M9W2 - NLP Problems & Applications"
+              "title": "Backlinks for Attention is All You Need"
             }
           },
           {
-            "id": "0dc46a548e02e944",
+            "id": "2fd075193ed7f9da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25M9W2 - NLP Problems & Applications.md",
+                "file": "Attention is All You Need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 25M9W2 - NLP Problems & Applications"
+              "title": "Outgoing links from Attention is All You Need"
             }
           },
           {
-            "id": "82cd7296759cab79",
+            "id": "e62987640d1a5aae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,7 +169,7 @@
             }
           },
           {
-            "id": "c32ff7a85b143625",
+            "id": "477baf1736ec21d0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,18 +183,18 @@
             }
           },
           {
-            "id": "fce7d8b8db775a3c",
+            "id": "d7653979ad86e36e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "25M9W2 - NLP Problems & Applications.md",
+                "file": "Attention is All You Need.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 25M9W2 - NLP Problems & Applications"
+              "title": "Outline of Attention is All You Need"
             }
           }
         ]
@@ -211,15 +225,32 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "8bbceab32f8c5349",
+  "active": "7d99a525844c87b1",
   "lastOpenFiles": [
     "image/Pasted image 20260322212740.png",
     "image/Pasted image 20260322204834.png",
     "image/Pasted image 20260322204832.png",
     "image/Pasted image 20260322204314.png",
-    "AIO 2025.md",
-    "25M9W2 - NLP Problems & Applications.md",
     "AIO2025 - NER.md",
-    "2 ACTIONS/_Focus.md"
+    "25M9W2 - NLP Problems & Applications.md",
+    "2 ACTIONS/_Focus.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "AWS Cloud Practitioner.md",
+    "image/Pasted image 20260322143106.png",
+    "image/Pasted image 20260322141845.png",
+    "image/Pasted image 20260321010217.png",
+    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
+    "Continual Learning Survey.md",
+    "Research Direction.md",
+    "image/Pasted image 20260321005915.png",
+    "image/Pasted image 20260321005839.png",
+    "image/Pasted image 20260321005617.png",
+    "image/Pasted image 20260321005022.png",
+    "Driving Test.md",
+    "Attention is All You Need.md",
+    "Transformer Model Introduction (Attention Is All You Need).md",
+    "Transformer Neural Networks Derived from Scratch.md"
   ]
 }
