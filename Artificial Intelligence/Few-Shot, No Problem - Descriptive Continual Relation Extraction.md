@@ -1,4 +1,4 @@
-1.  **The Taxonomy & Classification:** *Goal: How do the authors categorize the existing work ?*
+  1.  **The Taxonomy & Classification:** *Goal: How do the authors categorize the existing work ?*
 
 *What are the main "branches" of this field according to the paper ?*
 Main branches in Continual Relation Extraction in Continual Learning listed in the paper: 
