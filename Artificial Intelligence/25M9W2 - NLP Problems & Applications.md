@@ -26,6 +26,6 @@ Fine the Exact Answer Location. e.g. extract "Ha Noi" word base on NER detected 
 ![[Pasted image 20260322212740.png]]
 -100 cho padding (ignore_index=-100) vì ko cần quan tâm đến padding token. 
 
-
+ 
 
 

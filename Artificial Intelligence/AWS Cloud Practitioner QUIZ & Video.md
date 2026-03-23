@@ -17,3 +17,9 @@
 ----
 *Strict Regulatory Compliance* and DB must run on *isolated hardware* -> Dedicated Host. Low Latency -> io2. Save Money up to 3-year -> Reserve Instance.  
 ![[Pasted image 20260322143106.png]]
+
+## Canary Deployment
+Basically, move user from Stable Version to the New Verion little by little in a incremental way. e.g. 90% stable / 10% new -> 80% stable / 20% new -> and so on. 
+![[Pasted image 20260322223216.png | 300]]
+
+ 
