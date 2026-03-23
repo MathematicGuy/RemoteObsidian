@@ -6,7 +6,7 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - [ ] Inspect how I learn and study - prevent Study Paralyze at all Cost
 - [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98)
 - [ ] Practice self-control, doesn't matter how big or small. Suffer first, Enjoy later. 
-
+- [ ] Set Goal at Night before Tomorrow Moning 
 
 _TODAY
 - [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98) before 21/3 - Talk to Huan About This

@@ -36,3 +36,31 @@ Biển trắng - hướng tác dụng của biên
 + Báo hiệu đường bộ - 60Q
 + Sa hình - 30Q 
 -> Pass Condition - At least 5 Test with FULL SCORE.
+
+
+**Quy tắc chung và quy tắc GTĐB - 44Q**
+Có 5 nhóm biển báo - báo cấm, nguy hiểm, hiệu lệnh (đc phép đi hay ko or như thế nào), chỉ dẫn (hướng đi) và phụ. 
+	e.g hiệu lệnh -  chỉ xe thô sơ đc đi vô. Chỉ dẫn - 500m phía sau ko đc đi quá 30km/h.
+
+CSGT giơ gậy thẳng lên - tất cả các hg dừng lại trừ các xe đã ở khu vực giao nhau (di chuyển phía sau đèn giao thông)
+
+Find Pattern in Giấy Phép lái xe X đc điều khiển phương tiện nào dưới đây. 
+Đc lái 29 chỗ thì đc lái 19 chỗ.
+
+*Tốc độ tối đa cho các loại xe:*
+xe chở hàng 4 bánh -  50
+xe máy - 40
+xe chở ng 4 bánh - 30
+
+if speed = 
++ 100 - 70
++ > 100 & <= 120 -> 100 (just choose max)
++ <= 100 -> 70 
++ <= 80 -> 55
++ < 60 -> 35m
+
+người lái xe *ko lái liên tục* quá 4 tiếng (có thể nghỉ xong lái tiếp). *Tối đa là 10 tiếng* 1 ngày.
+xe siêu trọng -> báo hiệu kích thước và trọng lg của hàng
+xe cứu hộ pải có dấu hiệu nhận diện và tuân thủ pháp luật. 
+
+Xe ưu tiên có đặc quyền gì - 
