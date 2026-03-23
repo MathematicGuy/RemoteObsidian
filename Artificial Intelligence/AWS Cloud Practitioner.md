@@ -268,11 +268,15 @@ EC2 instance Naming Convention: `d` is for dev, `p` is for production.
 + CloudFront (Cache) - 1st 1TB tranfer is free
 + BeanStalk & Cloud Watch is Free - [aws free web](https://aws.amazon.com/free/?ams%23interactive-card-vertical%23pattern-data-339318104.search=CloudWatch)
 
-*AWS Lambda (Faas - Function as a Service)* - serverless compute service (not runtime env) which contain runtime ev like Python, Java, etc... To use Lambda, you must:
+*AWS Lambda (Faas - Function as a Service)* - serverless *auto-scale compute service* which contain runtime ev like Python, Java, etc... This is *THE SAME as Python Lambda Function*, you could upload your scripts by:
 + Zip your script and libraries then upload them via AWS Console
-+ Or *Dockerize your code and push it into Amazon Elastic Container Registry (ECR)* where you could *store, deploy and manage your code* -> more neat.
++ Or Dockerize your code and push it into Amazon Elastic Container Registry (ECR) where you could store, deploy and manage your code -> more neat.
+To run, simply call your Scripts API function.
++ ! *Lambda Limits:* 15' runtime, 10GB RAM. 
++ @ Help to *test your code instantly* without the need of EC2 instance.
++ $ Could *Integrate other AWS serverless service.*
 
-AWS Lambda can be trigger by:
+AWS Lambda upon triggering:
 + Defined API Call in your Code
 + S3 events - uploading a file to a bucket
 + Schedules - like Auto Run your AI validation & training Function every 2 weeks.
@@ -281,6 +285,31 @@ AWS Lambda can be trigger by:
 + ? Lambda charge by the number of requests and the duration for your code to execute. e.g. 2 parallel function take up 2 min -> 4 min totals of cost.
 
 + Example: AWS Lambda *run your API defined Function within a Docker Container Image or Zip Code Package when a Input Event is Trigger.* - Kind of like Docker to be honest but their Cloud Server is your Desktop.
+
+**DynamoDB** - High-performance *NoSQL* that support massive scale (*Multi-AZ*). Auto-Scale, Low Operational Cost. ![[Pasted image 20260323173024.png]]
+*Read/Write Capacity Mode* 
++ Provisioned Capacity Mode (Default) - Pay for predefine resource (RCU - Read Capacity Units, WCU - Write Capacity Units).
++ One-Demand Capacity Mode - Auto-scaling, Pay for what you used but more Expensive. 
+![[Pasted image 20260323173148.png]]
+
+DynamoDB DAX - improve *READ* and *reduce load on tables.*
+![[Pasted image 20260323173422.png]]
+Data Steam Processing (act as the Main Processor Database) - DynamoDB only have 24hr data retention so *to save data you have to move data to Kinesis Data Streams.* 
+![[Pasted image 20260323173436.png]]
+
+*DynamoDB Streams*
+Kinesis act as the main storage manage continuous stream of data. 
+![[Pasted image 20260323173627.png]]
+
+*Global Tables* - replicated DynamoDB tables across multiple AWS Region. 
+![[Pasted image 20260323174110.png]]
+
+*API Gateway* - use to *call Lambda Function* to call REST API
+![[Pasted image 20260323174215.png]]
+
+
+
+
 
 *EC2 Instance Family* ![[Pasted image 20260320171947.png]]
 **Use Case Note:**
@@ -365,6 +394,8 @@ Note that AWS Auto-Scale doesn't responsible for Cyber Attack bc its not Physica
 + Inbound Rule - security for input Type (e.g SSH).
 + Outbound Rule - security for output Type.
 
+![[Pasted image 20260323175825.png]]
+
 
 **AWS ECR vs ECS**
 You store, manage and deploy your Docker Container Image on ECR -> then you pull 1 of that Docker Image from ECR to ECS to run on EC2 (server) or Fargate (serverless).
@@ -374,9 +405,10 @@ You store, manage and deploy your Docker Container Image on ECR -> then you pull
 + ECS is the compute engine that run containers.
 
 
-*AWS ECR (Elastic Container Registry)* - manual Container setup and management.
+*AWS ECR (Elastic Container Registry)* - Container setup and management. 
+![[Pasted image 20260323181059.png]]
 
-*AWS ECS (Elastic Container Service)* full managed container orchestration service that simplifed deploying, managing and scaling Docker-based application.
+*AWS ECS (Elastic Container Service)* full managed container orchestration service that simplifed deploying, managing and *scaling Docker-based application.*
 Have 2 types:
 + AWS Fargate (serverless) - don't have to worry about the server as in serverless definition -> don't need to worry about Scaling, Patching, Securing and managing servers.
 + AWS EC2 instances (server) - have ability to control your EC2 server.
@@ -386,6 +418,13 @@ Have 2 types:
 -> use EC2 for predictable 24/7 workloads.
 ```
 
+*ESC Cluster*
+![[Pasted image 20260323180230.png]]
++ $ If Auto-Scaling enable, ECS could deploy Container within each EC2 instance.  
+	+ ? Cần cài ECS Agent để autoscale docker bên trong EC2 instance.
+
+
+
 #### Placement Groups
 *Cluster Placement Groups* - group of EC2 that close together in a single AZ -> Help reduce Latency between Instance.  ![[Pasted image 20260321004956.png]]
 *Spread Placement Groups* - Spread instances across multiple Availability Zone -> Help with High Availability (HA) ![[Pasted image 20260321004932.png | 666]]
@@ -393,7 +432,9 @@ Have 2 types:
 + ! Number of partition per AZ limited to 7.
 + ? Use in Distributed System like HDFS, Hadoop, Cassandra and Kafka.
 
-#### EC2 Storage
+**AMI** - Template for EC2 instance with pre-configuration env, OS and EBS snapshots. 
+
+#### Elastic Block Store (EBS) 
 *Elastic Block Store (EBS)* - *network-attached disk* that can be attached to a running EC2. AWS automatically attaches an EBS volume called the Root EBS Volume to EC2 instance at launch.
 ![[Pasted image 20260321005839.png]]
 + $ Data remains even if the EC2 instance stops or terminate bc they're network attached.
@@ -403,18 +444,139 @@ Have 2 types:
 Optional: turn on Delete on termination to delete EBS along with EC2 instance.
 ![[Pasted image 20260321005915.png]]
 
-*Snapshots -* *point-of-time* backup of an Amazon EBS volume.
+*Snapshots -* *point-of-time* backup of an Amazon *EBS volume (Snapshot for data within the Disk itself - independent from the EC2)* 
 -> Can be Copied across regions or shared across AWS accounts  ![[Pasted image 20260322141845.png]]
+*Could be attached to a newly created AMI*
+![[Pasted image 20260323154030.png]]
+Note that Snapshot is still storage so u basically could SAVE MONEY by moving snapshot to archive although it took 24-72hrs. 
+![[Pasted image 20260323154151.png]]
+
+
+#### EBS Volumes come in 6 types
+![[Pasted image 20260323154443.png]]
++ *IOPS (Input/Output Operations Per Second):* I/O performance of an EBS *-> Latency of the Input/Output*
+	+ ? Number of read and write per second where each IOPS have N size.
+
++ *Throughput:* total volume of data transferred to and from the volume per second, typically expressed in MiB/s or MB/s  -> *Maximum amount of Data tranfer each Input/Output*.
+	+ ? Throughput = IOPS × I/O Size
+
+*SSD*-based Voumn for *Common Workload.* (small databases, and development environments.)
+![[Pasted image 20260323155135.png]]
+
+*Provisioned IOPS (PIOPS) SSD* is the Highest performance EBS storage designed for mission-critial and heavy workload.  ![[Pasted image 20260323155241.png | 555]]
+-> SSD provide high IOPS and Throughput at the cost of money. Use for real time workloads.
+
+
+*Hard Disk Drive (HDD)* design for storage. Have large, sequential throughput workloads with rather than high IOPS performance. There're 2 types: Cold HDD for slow tranfer speed and Throughput Optimized HDD for sequential workloads with decen throughput (~500MiB/s) both have large Storage. ![[Pasted image 20260323155815.png]]
+*-> Trade Data tranfer speed for Storage. Much cheaper for storage.* Mostly for storage and save for later types of data. Like data to retrain later. 
+
+
+*EC2 Instance Store* - *TEMPORARY* block storage located on cache of the physical host machine attached to the EC2 instance. 
+![[Pasted image 20260323153529.png]]
+
+
 *Sao lưu lũy kế (Cummulative Backup):* chỉ save những thay đổi mới (like github commit). Where each Snapshot version have a independence data (changes).
 	e.g. Day 1 snapshot store 2GB of changes, Day 2 snapshot delete 1 GB & update 2 GB so 3GB change, Day 3 don't have any update -> 0GB of change. Very Memory Efficient.
 + ? But what if you delete the previous snapshot ? will it affect the latter snapshot sequenctly.
 + $ Like github, it just push the necessary changes from Day 1 Snapshot to Day 2 Snapshot, so the latter snapshot stay intact.
 
+*EBS Encryption* - mã hóa ổ cứng. *The Catch* is you coudn't Encrypted a already running EBS Volumn. So simply, you could:
+1) Create a Replica of the current EBS volumn then Apply Encryption
+2) Detach the Old Volumn then Attach the New Volumn. (EC2 could be dettach/attach EBS volumn while running)
+3) Start the Instance Again. 
+
+Note that *Serverless mean you don't need to setup anything. Just Plug-n-Play.* Anything related to workloads AWS takecare of them for you at the cost of MONEY (Auto-Scaling, Multi-AZ, etc...) 
+![[Pasted image 20260323160421.png]]
+While *EBS is single AZ & Manual-Scaling*, *EFS is multi-AZ & HA & Auto-Scaling*. Allowing *great used as the Central Data/Content Management System* -> Simplified Shared Content across Region. *Where EFS act as the main DB* where EBS across Region retrieval just the right data from it.  
+![[Pasted image 20260323161146.png]]
 
 
+*EBS vs EFS vs Instance store* as a whole. 
+EBS act as the Long-Term storage within 1 AZ having their volumn's snap-shot stored in A3. 
+EC2 Instance act as the Cache so High Performance. 
++ act as the Cache Buffer (temp) between the Main EBS Storage and EFS.
++ only available when EC2 is running. 
+-> Like Copy and Paste, but on Globle Server Scale
+![[Pasted image 20260323161313.png]]
+Ref: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html
+
+*Scalability & HA*
+Vertical Scalability -> Upgrade a Instance (more CPU, GPU, RAM, etc..)
+Horizontal Scalability -> Copy & Paste More Instance/Template.
+	often for Distributed System Architecture. Workload distributed across Instances (virtual server) or Servers (1 Server could have multiple virtual instance/server).
+-> Improve Fault Tolerant (FT), Performance and Scability. 
+![[Pasted image 20260323161957.png | 888]]
+
+*Types of HA*
++ Passive HA:  run only the 1st EC2 (running mode) while sync data to the 2nd EC2 (standby mode) -> Disaster Recovery 
++ Active HA: Use EBL to distirbuted workloads across EC2s. 
+
+*Use ASG and ELB for Scalability* 
+![[Pasted image 20260323162706.png]]
+
+*Security Group use-case*
+*Isolate your backend servers* (EC2) so they **only** accept traffic from your Load Balancer (ELB), rather than the entire internet. ![[Pasted image 20260323163606.png]] -> EC2 instance will **only** accept traffic if it comes from a resource associated with that specific Load Balancer SG -> Help direct cyber-attack on the an EC2 Instance.
+
+Types of Load Balancer (Left is Newer, Older to the Right): 
+![[Pasted image 20260323163822.png]]
+
+**Application Load Balancer** - located in *Layer 7*
+![[Pasted image 20260323163926.png]]
+
+ELB could *route Traffic in 3 different Path:*
+![[Pasted image 20260323164046.png | 444]]
+
+*Target Groups:* allow Loadbalancer to *route traffic to multiple Group* instead of 1 single EC2 Instance -> *Target IP, instance, and AWS lambda function* target types.
+![[Pasted image 20260323164235.png]]
+**Example:**
+1. HTTP Based Traffic
+![[Pasted image 20260323164325.png | 777]]
+
+2. Query Strings/Parameters Routing
+![[Pasted image 20260323164418.png | 777]]
+
+
+**Network Load Balancer** - locate at *Layer 4* becore ALB -> *Point directly at TCP/UIP Instance*
+![[Pasted image 20260323164619.png]]
+NLB Target Group - Think this as *Group Balancer for Application Load Balancer* 
+![[Pasted image 20260323164814.png]]
+This mean, Like ALB Target Group but *could also Target of ALP* (Target types: *IP, instance, and ALB*)  
+![[Pasted image 20260323164911.png]]
+
+
+*Cross-Zone Load Balancing* - Regional Load Balancer.  
+-> This features is *Turn On automatically* when ALB is used. 
+![[Pasted image 20260323165738.png]]
+
+*Auto Scaling Group* -> *Create* new Instance *if the Condition is met.* 
+![[Pasted image 20260323170030.png]]
+*Max Size -* max size to prevent cost explosion. Highest mode. 
+*Desired Capacity -* AWS will target for the Desired Capacity. If traffic Hit, increase to this desirer capacity or Launch new istance to maintain this capacity if some instance fail. 
+*Min Size -* Size to keep when there are Low Traffic and No Traffic.Think of this as Maintainance mode.
+
+*Launch Template* - Auto-Created a pre-configuration EC2 Instance (Optional: add scaling policy for Auto-Scaling)
+![[Pasted image 20260323171004.png]]
+
+Cloud Watch - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling. 
+
+*Scaling Policies* - Auto-Scaling *Strategies* 
+![[Pasted image 20260323171400.png]]
+Dynamic Scaling - Only Scale within a range of value (e.. > 70% -> scale-up or < 30% -> scale-down) -> Fixed. 
+Scheduled Scaling - scale within a time-period (like 8AM - 12AM) -> Fixed
+Predictive Scaling - use ML algorithm to predict when to forcast scaling demand -> Automatic
+Scaling Cooldowns - *sometime resource could not distributed data fast enough* to the new EC2, so we need cooldown to prevent inefficient scaling. e.g. *FE loaded while BE isn't.*
+
+**Overview**
+![[Pasted image 20260323171907.png]]
+
+### Serverless
+*AWS Serverless stack* ![[Pasted image 20260323172057.png]]
 
 
 ---
+
+### 3.3 Storage System in AI & in Data Platform
+[quiz](https://forms.gle/xuyqzAUaZqDjnVHS8)
 
 AWS service to host static website -> S3
 
@@ -447,3 +609,8 @@ S3 Intelligent Tiering is genuenly the best for it automatic lifecycle managemen
 -> Its move data from Frequent -> Infrequent -> Archive -> Deep Archive based on access frequency.
 
 Learn about OSI layer.
+
+
++ $ **GOAL:** Identify what I want to focus on the most. THESE Concepts took too much time. 
+
+
