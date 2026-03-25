@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "a383c413c123116e",
+            "id": "5b18f9319f94da39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,11 +211,11 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "a383c413c123116e",
+  "active": "5b18f9319f94da39",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner QUIZ & Video.md",
-    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
     "2 ACTIONS/_Focus.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
     "image/Pasted image 20260322223216.png",
     "AWS Cloud Practitioner.md",
     "25M9W2 - NLP Problems & Applications.md",
