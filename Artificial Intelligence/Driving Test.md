@@ -63,4 +63,29 @@ người lái xe *ko lái liên tục* quá 4 tiếng (có thể nghỉ xong lá
 xe siêu trọng -> báo hiệu kích thước và trọng lg của hàng
 xe cứu hộ pải có dấu hiệu nhận diện và tuân thủ pháp luật. 
 
-Xe ưu tiên có đặc quyền gì - 
+Xe ưu tiên có đặc quyền gì: vượt đèn, đi ngược chiều, đi vào làn đg nghỉ
+
+Cấm dừng $\neq$ Cấm Đỗ
+1 Phương tiện Ko Ám chỉ Mọi phương tiện
+
+Có 2 biển xe xích lô (1 có máy, 1 ko có máy) -> Câu hỏi biển nào xe lam, xích lô đc vào là biển Ko Bao gồm Máy (dù vẫn là xe xích lô)
+
+Xe Máy - ám chỉ -> Mọi loại xe 2 bánh có bao gồm động cơ. 
+-> Tương tự đối với xe 4 bánh -> Ám chỉ các loại xe tương tự.  
+
+Biển tròn -> Hiệu lệnh phải tuân theo (tam giác là cảnh )
+
+Địa giới -> danh giới giữa các huyện, xã trong nước hoặc ngoài nước. 
+
+Vạch vàng -> ngược chiều. Trắng -> cùng chiều.
+Nét đứt -> đc phép đè lên vạch và qua vạch. Nét liền là tuyệt đối ko đc qua. 
+Khi lái xe pải luôn luôn quan sát. 
+
+Hạng B -> 8 chỗ (3500kg)
+Lái xe bus 29 chỗ or 750kg yêu cầu 27 tuổi trở lên. (Hạng D)
+
+Xe chở người -> giới hạn tốc độ nhiều nhất -> Càng nhiều người thi càng pải đi an toàn. 
+Xe chở hàng -> 50kg, Xe máy -> 40kg. Xe 4 bánh -> 30kg. 
+
+Câu hỏi cách xa Xe phía trước bao nhiêu -> Khoảng cách luôn gần ngưỡng tốc độ tối thiểu (threshold). e.g. Nếu đi nhanh hơn 80kg/h -> thì pải cách xa 77m. Nếu 100km'h thì cách xa 100m, nếu đii 60kg/h thì cách 55m 
+-> Luôn đi cách xe phía dưới khoảng cách gần nhỏ hơn và gần với tốc độ đang di chuyển.  

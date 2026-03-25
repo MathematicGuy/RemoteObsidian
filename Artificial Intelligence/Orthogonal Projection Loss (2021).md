@@ -20,8 +20,6 @@ Constrain:
 
 ![[Pasted image 20260204180046.png | 455]]
 
-
-
 Goals: 
 + Hiểu Orthogonal Project Loss (OPL)
 + OPL có kết hợp đc với M3 Optimizer hay không ? Có thì có thể tích hợp vào TreeLoRA

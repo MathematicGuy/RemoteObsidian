@@ -85,8 +85,6 @@ generate its own value. the value is not a projection of data anymore, it genera
 ## Nested Learning Facebook explain
 NESTED LEARNING (paper gần đây của Google) hoạt động như thế nào và tại sao lại được gọi là "Attention is all you need 2.0" ?
 
---------------------------------
-
 Attention là cơ chế cốt lõi nằm sau gần như tất cả các sản phẩm GenAI hiện nay. Vì vậy để được gọi là Attention 2.0 thì phải là một thứ gì đó rất vuýp.
 
 Lần đầu đọc qua thì mình cũng chưa hiểu sao nó được mệnh danh xịn như vậy, chắc do mình ngu ![😅](https://static.xx.fbcdn.net/images/emoji.php/v9/t53/1/16/1f605.png) Giờ có thời gian đọc kĩ hơn và xem các papers liên quan thì cũng hình dung được rõ hơn.

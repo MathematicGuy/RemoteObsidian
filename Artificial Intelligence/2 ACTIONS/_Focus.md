@@ -3,10 +3,8 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] Inspect how I learn and study - prevent Study Paralyze at all Cost
 - [ ] Practice self-control, doesn't matter how big or small. Suffer first, Enjoy later. 
 - [ ] Set Goal at Night before Tomorrow Moning 
-
 - [ ] Use **AI with Mastery Mindset** - AI for visualize concepts, compare, challanges my Understandig and give examples. NOT the THINKING WORK (this includes how to use AI itself - Answer come from identifying the problem, not the act of receiving the Answer itself)
 
 
