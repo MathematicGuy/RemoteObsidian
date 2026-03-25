@@ -70,7 +70,8 @@ Relation have multiple Usecase. Most challenging characteristic of the dataset i
 ![[Pasted image 20260325184538.png | 555]]
 
 
-[TACRED](https://nlp.stanford.edu/projects/tacred/#examples) - Relation Extraction (RE) dataset with *79.5% of its examples* are labeled as _no_relation_
+[TACRED](https://nlp.stanford.edu/projects/tacred/#examples) - Relation Extraction (RE) dataset with *79.5% of its examples* are labeled as _no_relation_. 
++ ? **TODO:** WHat it mean for "Few-Shot, No Problem - Descriptive Continual Relation Extraction" paper to achive high Accuracy in FCRE on TACRED dataset. 
 ![[Pasted image 20260325184352.png | 777]]
 ![[Pasted image 20260325194414.png | 555]]
 

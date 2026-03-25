@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d0beee07e5cfe6d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/_Focus.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Focus"
+            }
+          },
+          {
             "id": "474261edc1a2320b",
             "type": "leaf",
             "state": {
@@ -21,7 +37,8 @@
               "title": "Few-Shot, No Problem - Descriptive Continual Relation Extraction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +224,9 @@
   },
   "active": "474261edc1a2320b",
   "lastOpenFiles": [
-    "image/Pasted image 20260325194215.png",
+    "2 ACTIONS/_Focus.md",
     "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "image/Pasted image 20260325194215.png",
     "image/Pasted image 20260325194414.png",
     "image/Pasted image 20260325194404.png",
     "image/Pasted image 20260325192823.png",
@@ -218,7 +236,6 @@
     "image/Pasted image 20260325180521.png",
     "image/Pasted image 20260325180519.png",
     "Narrow and Interest Topic - Continual Relation Extraction.md",
-    "2 ACTIONS/_Focus.md",
     "main_Continual Learning & Nested Learning Survey.md",
     "Tree LoRA.md",
     "image/Pasted image 20260325155737.png",
