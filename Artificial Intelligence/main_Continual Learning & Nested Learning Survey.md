@@ -3,7 +3,7 @@
 ## [[Continual Learning Survey]]
 **Continous Learning -** Learn new information continously without forgetting old information.
 **Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
-### [[Continous Learning and Catastrophic Forgetting]]
+### [[Continual Learning and Catastrophic Forgetting]]
 ### [[Mathematical of Continual Learning]]
 
 ### [[When Continual Learning is useful]]
@@ -27,9 +27,14 @@
 	**All NN are associative memory system** that compress their own context flow. 
 	**Gradient Descent with momemtum** is indeed a **low-level optimization process**, where the memory is optimized by simple gradient descent algorithm. 
 
-### Continual Relation Extraction
+## [[Continual Learning a Big Topic Survey]]
+
+
+## Reading Survey of Narrow Topic
+### [[Narrow and Interest Topic - Continual Relation Extraction]]
 #### [[Few-Shot, No Problem - Descriptive Continual Relation Extraction]]
-### [[Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective]]
+#### [[Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective]]
+
 
 
 ### A Comprehensive Survey of Continual Learning Theory Method Application
@@ -107,4 +112,4 @@ Want to know more about - **"Real life Application for Continual Learning"**
 
 **Vấn đề giới hạn bộ nhớ (Memory Constraints):** mở rộng liên tục lớp phân lại (FC layer) cho hàng ngàn danh tính mới mỗi ngày sẽ làm cạn kiệt bộ nhớ và tài nguyên tính toán, do đó yêu cầu một kiến trúc không có lớp phân loại (classification-free architecture).
 
-**Concept Drift:** thích ứng tăng cường với những thay đổi về thuộc tính khuôn mặt của các danh tính đã biết (concept drift) theo thời gian, đảm bảo độ chính xác và độ tin cậy liên tục
+**Concept Drift:** thích ứng tăng cường với những thay đổi về thuộc tính khuôn mặt của các danh tính đã biết (concept drift) theo thời gian, đảm bảo độ chính xác và độ tin cậy liên tục\\\

@@ -11,7 +11,7 @@ centralized, monolithic models
 **Question to ask before building a Continual Learning system ?**
 Top Questions: *Is this system required long-dependency context* (e.g. long-converstation, stock prediction. timeseries dataset)
 + Is this systems required continual training for a model or not? 
-+ Could this problem be solved using RAG alone
++ Could this problem be solved ausing RAG alone
 
 Do you want a ultimate model or a moduler systems ? 
 *The problem is not could this system but SHOULD this system.*

@@ -36,7 +36,7 @@ Train on 2 dataset for each tasks -> minimize Loss for both task A (old) and tas
 	- Tasks that are **clearly different**
 	- But **not semantically different**
 	- So difficulty comes **only from interference**, not from task complexity.
-f
+
 The method below create new data from itself (hence permutation).
 + $ **Data Permutation tasks**. Evaluate model performance on Permutation dataset after training on Task 1 dataset. ![[Pasted image 20251224152944.png]]
 	$P_{2}X_{i}$ - permuted input = *Shuffle pixels for every images from task 1*.
@@ -55,7 +55,6 @@ The method below create new data from itself (hence permutation).
 - **Train whole network with regularization** -> Optimize new knowledge while penallize changes in old weight.
 - **Dynamic architectures** (Add neurons) ie. Architecture growth for new tasks.
 + **Complementary Learning System** (memory + replay) - train new tasks along with old tasks (like human revision).
-
 
 ### 1. Regularization Approach: Learning without Forgetting (LwF)
 	LitHoiem 2018 (simple regularization) - Focus on
@@ -86,7 +85,6 @@ Note: The fact that This is a modified CE-Loss, its actually the Distillation Lo
 + $F_{i}:$ **Like Attention Score** in Transformer, **determine or Coefficient of $\theta$ (ie. Weights) more important than others.**
 	*Treat Important/unimportant weights in diff way* that allow importance direction in task A treated diff than unimportant direction in task A.
 + $\lambda:$ plasticity-stability **trade-off hyperparam.**
-
 + @ **Original Idea:** Bayesian learning perspective.
 
 **The Graph measures how well the model remember each Task Across the training timeline: train on A -> train on both A+B -> train on all A+B+C)**

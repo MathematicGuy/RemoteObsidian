@@ -11,13 +11,6 @@ Ví dụ: CLFace - A Scalable Framework for Continual Face Recognition.
 Mục tiêu là Có được 1 bài toán cụ thể. 
 
 
-
-
-
-
-
-
-
 ---
 ## Dataset
 [Permuted MNIST](https://www.kaggle.com/code/dlarionov/continual-learning-on-permuted-mnist#Part-2.-Catastrophic-Forgetting-on-permuted-MNIST):  {num_tasks} different permutations of the MNIST dataset are generated, each of which represents a separate task. Permutations are obtained by randomly rearranging pixels for each image in the original dataset in the same way for each task. The same neural network is trained on each task sequentially. Quality on each task is measured between task transitions.

@@ -1,4 +1,5 @@
 Note: cần benchmark để đo đạc vấn đề (chỉ rõ vấn đề mà benchmark cho thấy)
+	[continual learning blog](https://jessylin.com/2025/10/20/continual-learning/)
 
 ![[Pasted image 20260214200246.png]]
 a. mô tả bài toán continual learning. 
@@ -12,13 +13,11 @@ Note: slide mô tả weight mô hình thay đổi sau khi học phân phối d�
 
 ### Sec. 2 Continual Learning Approaches & Scenarios
 **introduce the setups of continual learning,  including its basic formulation, typical scenarios and evaluation metrics.**
-
 #### Replay
 + $ Recovering old data distribution to prevent catastrophic forgetting. 
 + ? *Replay acts as a direct constraint on the gradient updates.* By mixing old data with new data, the optimization is forced to find the gradient that minimize loss between current task and replayed samples. 
 	in other term, recovers the distribution of old features/tasks through replay.
 ![[Pasted image 20260215095432.png | 677]]
-
 
 **Gradient Rectification** method like **GEM (Gradient Episodic Memory)** explicitly use replay data to constrain parameter updates. They ensure update vector for new task has *non-negative angle* (2 task moving in opposite direction) to prevent valid knowledge from being overwritten.
 	Like in [[Vector Dot Product]] If
@@ -36,7 +35,6 @@ GEM's allow update for similar gradient and project gradient (force orthogonalit
 A-GEM explicitly check for this "opposite direction" scenario. 
 
 **Synergy:** Replay is highly synergistic with **Regularization** (specifically Knowledge Distillation). Many state-of-the-art methods (e.g., iCaRL, DER) combine replay with distillation to mitigate the bias caused by limited buffer sizes.
-
 
 #### Architecture
 *Parameter Allocation* (assigning specific neurons or weights to specific tasks, often using masks)
@@ -129,6 +127,3 @@ Explicitly manipulates the optimization process to maintain performance across t
 ![[Pasted image 20260215230509.png]]
 
 ![[Pasted image 20260215225148.png]]
-
----
-

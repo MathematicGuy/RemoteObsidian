@@ -3,18 +3,15 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] Inspect how I learn and study - prevent Study Paralyze at all Cost
-- [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98)
 - [ ] Practice self-control, doesn't matter how big or small. Suffer first, Enjoy later. 
+- [ ] Set Goal at Night before Tomorrow Moning 
+- [ ] Use **AI with Mastery Mindset** - AI for visualize concepts, compare, challanges my Understandig and give examples. NOT the THINKING WORK (this includes how to use AI itself - Answer come from identifying the problem, not the act of receiving the Answer itself)
 
 
 _TODAY
 - [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98) before 21/3 - Talk to Huan About This
-- [ ] Practice self-control, doesn't matter how big or small. Suffer first, Enjoy later. 
-- [ ] AWS Test on Saturday (Thứ 7)
 - [ ] [[Driving Test]] Quiz Prepartion (11 Days Left - Update Everyday)
-- [ ] Tập Lùi xe Ô TÔ - (30-45')
-- [ ] Đặt lịch tập lái Sa Hình vào Tuần (23/3 - 30/3)
+- [ ] Đặt lịch tập lái Sa Hình vào thứ 4 (chuẩn bị cho thứ 5)
 [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
 
 
