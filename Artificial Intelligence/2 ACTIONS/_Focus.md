@@ -3,15 +3,20 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] Practice self-control, doesn't matter how big or small. Suffer first, Enjoy later. 
 - [ ] Set Goal at Night before Tomorrow Moning 
 - [ ] Use **AI with Mastery Mindset** - AI for visualize concepts, compare, challanges my Understandig and give examples. NOT the THINKING WORK (this includes how to use AI itself - Answer come from identifying the problem, not the act of receiving the Answer itself)
+
+- Setup Study Cycle *1 Big, 3 Medium* and 5 Small/Preserve task -> counter Study Paralysis & Axiety. 
+- *Read throughly paper before going to sleep*. Take nap occasionaly to digest complex concepts. 
+- *Useless & Small task > Slack off.* The trick is to preverse "beneficial" thing to do rather doing rotting.
+	-> Rotting is exactly what break the cycles.  
+
 
 
 _TODAY
 - [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98) before 21/3 - Talk to Huan About This
 - [ ] [[Driving Test]] Quiz Prepartion (11 Days Left - Update Everyday)
-- [ ] Đặt lịch tập lái Sa Hình vào thứ 4 (chuẩn bị cho thứ 5)
+- [ ] Đặt lịch tập lái Sa Hình cho Chủ Nhật
 [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
 
 
