@@ -74,10 +74,7 @@ Relation have multiple Usecase. Most challenging characteristic of the dataset i
 + ? **TODO:** WHat it mean for "Few-Shot, No Problem - Descriptive Continual Relation Extraction" paper to achive high Accuracy in FCRE on TACRED dataset. 
 ![[Pasted image 20260325184352.png | 777]]
 ![[Pasted image 20260325194414.png | 555]]
-
-
 [Tacred Error Rates Analysis](https://arxiv.org/pdf/2004.14855)
-
 
 
 
@@ -106,7 +103,6 @@ Experiment with BERT on 2 widely used benchmark for Relation Extraction:
 ## Primary Findings and Experiment Results
 Highlight the primary findings or results of the research. Use *clear and straightforward language* to communicate these findings. If the paper includes figures, tables, or graphs, refer to them as needed.
 ![[Pasted image 20260325155737.png | 555]]
-
 
 
 ## Summary and Assessment
@@ -143,6 +139,7 @@ what are the key challange you trying to solve e.g. *scarcity of samples availab
 -> To find the Query Image better using DCRE constractive learning. For example, give the Model 4 examples of the desired Objects -> Help me the model the find the desired Object better from N frames. 
 
 *Feasible:* yes, have access to LLM and academic resource. 
+
 
 ----
 ### What Next ?
