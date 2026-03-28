@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "f6a3899ed46b31a6",
+            "id": "75b7e42a0cf42369",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Cloud Practitioner"
+              "title": "Backlinks for AWS Cloud Practitioner QUIZ & Video"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS Cloud Practitioner"
+              "title": "Outgoing links from AWS Cloud Practitioner QUIZ & Video"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS Cloud Practitioner"
+              "title": "Outline of AWS Cloud Practitioner QUIZ & Video"
             }
           }
         ]
@@ -211,8 +211,24 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "f6a3899ed46b31a6",
+  "active": "75b7e42a0cf42369",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md"
+    "2 ACTIONS/_Focus.md",
+    "Continual Learning a Big Topic Survey.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "image/Pasted image 20260327225142.png",
+    "image/Pasted image 20260327224755.png",
+    "image/Pasted image 20260327225033.png",
+    "image/Pasted image 20260327225012.png",
+    "image/Pasted image 20260327214608.png",
+    "Autoencoder and Variational Autoencoder.md",
+    "image/Pasted image 20260327215135.png",
+    "image/Pasted image 20260327195921.png",
+    "image/Pasted image 20260327195852.png",
+    "image/Pasted image 20260327195843.png",
+    "AWS Cloud Practitioner.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "image/Pasted image 20260327173455.png"
   ]
 }

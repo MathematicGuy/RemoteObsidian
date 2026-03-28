@@ -30,7 +30,9 @@ In low dimension, although the laten representation is not perfect, this organis
 
 + ! If the latent space is too small, the Latent space may fail to encapture all of the data important features leading to poor construction quality.  ![[Pasted image 20250305093222.png]]
 + $ This essentially translate to: **Poor latent space organization == Poor Reconstruction quality**. Since **low dimension simply cannot comprehence the datapoint's real position**, leading to overlapped data, like 2D and 3D, 2D and 5D. 
-	Compare 2D with 5D ![[Pasted image 20250305095601.png]] In 5D  (i.e. latent representation) instance 1's cluster is much more well organized. As we see, just a portion of instance 1 (i.e. class 1) is misclassified (i.e. green dots on the left). ![[Pasted image 20250305095642.png]]
+	Compare 2D with 5D
+	 ![[Pasted image 20250305095601.png]]
+	In 5D  (i.e. latent representation) instance 1's cluster is much more well organized. As we see, just a portion of instance 1 (i.e. class 1) is misclassified (i.e. green dots on the left). ![[Pasted image 20250305095642.png]]
 	+ ? Btw, how are we visualised **5D space to 2D** plot, **simply put we project the latent space and keep only the 2 most important dimensions instead of 5 most important dimension.**   
 	
 	Even with 5D space, we have relatively sparse and diffuse clusters. Misclassified of the number 3 is poorly encoder resulting in it being reconstructed as a number 8. ![[Pasted image 20250305100304.png]]
@@ -41,13 +43,11 @@ MRI scan - Classified gender using MRI based on their latent representation.
 ![[Pasted image 20250305102308.png]]
 ![[Pasted image 20250305102325.png]]
 
-#### Limitations
+### Limitations
 + ! Oftenly, **clusters are not as well defined** as we would like them to be. 
-
 + ? Another noticeable problem is if a points locate in between 2 clusters of the latent space, we expect its to be the mixture of the two. 
 + ! Unfortunatly, this was not the case. Such **middle point results in nonsense for most of the intermediate points.** [visualisation](https://youtu.be/hZ4a4NgM3u0?si=EpOl8dknltBnsRJ_&t=644)
 ![[Pasted image 20250305103827.png]]
-+ ? Nonsense ???
 ![[Pasted image 20250305103845.png]]
 ![[Pasted image 20250305103900.png]]
 
@@ -55,6 +55,10 @@ MRI scan - Classified gender using MRI based on their latent representation.
 + $ **This is why most autoencoder regularize the latent space**. One of the most poppular type is the **Variational Auto-Encoders**
 
 ### Variational Autoencoder (VAT) | Generative AI
-
 Build a probabilistic model that approximate p most. 
 ![[Pasted image 20250317142912.png]]
+
+
+
+
+

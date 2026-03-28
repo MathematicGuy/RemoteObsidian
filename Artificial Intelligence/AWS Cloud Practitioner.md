@@ -630,7 +630,7 @@ Amazon Neptune vs Amazon Simple Storage Service (Amazon S3) vs Amazon Relational
 SQL: Aurora, RDS, RedShift
 NoSQL: DynamoDB, Neptune (Graph), ElastiCache, .
 Db Migration service: 
-+ AWS DMS: explain, example, usecase
++ AWS DMS (Database Message Storage)
 + Transit Gateway: ...
 
 AWS SQS - allow user to decouple and expand microservice. Distributed system and serverless application.  Use Queue.
@@ -876,7 +876,7 @@ Scenario: receive data from AWS Kinesis and automatically loads it into **Amazon
 *Write Down Note Compare SQS vs SNS vs Kinesis vs Firehose:*
 
 
-### Disaster Recovery (note detail later with Slides)
+### Disaster Recovery 
 *Scenario:*
 	On-premise → On-premise -> Traditional DR (high cost, complex)
 	On-premise → AWS Cloud -> Hybrid recovery approach AWS
@@ -911,3 +911,6 @@ Of course you need Multi-AZ and Multi-Region but how much ? what is the right Th
 
 **Multi-site Active/Active** - Runs full production workloads across two or more regions like nothing happened. 
 ![[Pasted image 20260324175911.png]]
+
+----
+

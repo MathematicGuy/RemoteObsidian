@@ -48,16 +48,99 @@ Detailed Description: This relation identifies the creator or co-creator of an e
 
 ## Concise Overview
 Provide a concise overview of the methodology or approach used in the study, including the data sources, data collection and analysis methods, and any statistical techniques
-
 ### Problems Fomulation
+
 **Main Problem:** in FCRE, *Replay sample have Under Representative sample* that worsen model continual learning capability in data scarcity scenario. 
 
 **N-way-K-shot Problem** *simulate* training model in *Data Scarcity scenario.*  
 - *1-Shot Learning (N-way 1-shot):* The model is given only one example per class (e.g., *5-way 1-shot* means *classifying 5 new classes with 1 example each class*).
 - *Zero-Shot Learning:* The model *classifies new data without any training examples*, relying on auxiliary information (like text descriptions).
 
-#### N-way-K-shot Evaluation Method (Understand Problem from Dataset level)
- [FewRel](https://github.com/thunlp/FewRel) - [FewRel 1.0](https://aclanthology.org/D18-1514.pdf), FewRel 2.0 ([FewRel 2.0 domain adaptation](https://thunlp.github.io/2/fewrel2_da.html) / [FewRel 2.0 none-of-the-above detection](https://thunlp.github.io/2/fewrel2_nota.html))
+
+**N-way-K-shot in Few-shot Continual Relation Extraction (FCRE)**   
++ For $t$-task, model training on the dataset $$D^t=\{(x^t_{i},y^t_{i})\}^{N\times K}_{i=1}$$ where N is *number of relations* in task $R^t$ and $K$ is number of *samples per relation.*
+
+### Latent Representation
+*Latent Space* is where Embedding Vectors live; it is a hidden, lower-dimensional space create from High Dimensional Raw Data (5D -> 2D for example).
+
+*Latent Representation* are the Embedding Vector in Latent Space, its feature extracted from multiple layer of ML models, these embedding capture semantic relationships and meaningful distance between items. 
+	Autoencoders (VAEs) or *Encoder's model like BERT, Word2Vec, GloVe, VAEs maps input data embedding to this Compressed Latent Space.*  
+
+### Encoding Latent Representation 
+Input Sentence $x:$ "Steve Jobs founded Apple."
+$e_{h}$ - head entity: "Steve Jobs"
+$e_{t}$ - tail entity: "Apple" 
+![[Pasted image 20260327215135.png]]
++ They aren't real words like "is" or "at."
++ They are "placeholders" (for BERT's `[UNUSED]` tokens) that the model trains to act as "connective tissue" to better extract the relation token for relation extraction. *Learnable parameters* added to give model more information. 
+	During fine-tuning, the weights of BERT are frozen, and only the values of $[\text{Soft Token}_{1}]$ and $[\text{Soft Token}_{2}]$ are updated via backpropagation to optimize the task performance.
+
+
+### Extracting the "Latent Representation" (z)
+Once the template $T(x)$ are fed into the backbone model (like BERT) the model produces a vector for every single token. But the paper only care about the vector at the `[MASK]` position. 
+
+In the Steve Jobs/Apple example, this vector *z* is the "Latent Representation." It is a numerical summary that essentially says: _"Based on the surrounding words and the entities provided, the relationship at this [MASK] spot is likely 'Founder'."_
+
+| **Component**   | **Simple Definition**                             | **Our Scenario Example**                             |
+| --------------- | ------------------------------------------------- | ---------------------------------------------------- |
+| Input $x$       | The raw text.                                     | "Steve Jobs founded Apple."                          |
+| Template $T(x)$ | The "fill-in-the-blank" structure.                | "[Sentence] ... Steve Jobs ... **[MASK]** ... Apple" |
+| Soft Tokens $v$ | Learnable "helper" vectors.                       | Invisible mathematical hints between words.          |
+| Latent Rep $z$  | The final mathematical "meaning" of the relation. | A vector representing the concept of "founding."     |
+
+**Supervised Constractive Loss**
+-> Enhance model's Discriminative capability. *Bring positive pairs of samples close together in the latent space while pushes negative pairs belonging to different classes further apart.* 
+	+ **Positive Pairs**: If the model sees "Mark Zuckerberg started Facebook," it pushes that vector $z_{p}$​ **closer** to our Steve Jobs vector $z_{x}$​ because they share the same relation label ("founder").
+	.
+	+ **Negative Pairs**: If it sees "Steve Jobs lives in California" (a "residence" relation), it pushes the vector $z_{n}$​ **further away** from our "founder" vector.
+	
++ ? Grouping by Label: Puts "Steve Jobs/Apple" and "Elon Musk/Tesla" in the same neighborhood
+
+$z_{x}$ represent the hidden vector for Raw *Description.* While show promising, limited due to its *reliance on a one-to-one mapping between input embeddings and a single label description representation* per task. 
+-> The author employ Gemini 1.5 to generate $K$ diverse, detailed and illustrative description for each relation. 
+
+![[Pasted image 20260327225012.png | 444]]
+
+
+**Hard Soft Margin Triplet Loss ($L_{ST}$)**
+-> Enhance **discrimination and boundaries**. Looks for the hardest cases to get right. 
+
+Learn from $(a, p, n)$ where $dist(a, p)$ is Minimized and $dist(a, n)$ is maximized. 
+![[Pasted image 20260327225142.png | 666]]
+**The "Hard" Positive:** "founder" sample that look very *unlike* ours but forces the model to recognize it anyway.
+	**Anchor:** "The movie was absolutely spectacular."
+	**Hard Positive:** "I highly recommend seeing this fantastic cinema production."
++ ?  Why ? The meaning is the same, but almost all words are different.
+
+**The Hard Negative:** "redisence" sample that looks very *similar* to ours "Steve Jobs was at Apple" and ensures the model can still tell them apart by a specific "margin". 
+	**Anchor:** "Steve Jobs was at Apple"
+	**Hard Negative:** Steve Jobs visited Apple
++ ? Most word are the Same -> Help *Distinguishing Boundaries* Ensures "Steve Jobs **founded** Apple" isn't confused with "Steve Jobs **visited** Apple". 
+
+![[Pasted image 20260327225033.png | 555]]
+
+
+
+## Methodology - Proposed Method (1h30 Ideas & Method Overview - 3h Connect Ideas and Deep Dive)
+Reference:  [Constractive Representative Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/), [The Beginner’s Guide to Contrastive Learning](https://www.v7labs.com/blog/contrastive-learning-guide)
+
+### Label Descriptions
+
+
+### Description-pivot Learning
+
+
+### Descriptive Retrieval Inference
+
+
+
+## Data sources
+Experiment with BERT on 2 widely used benchmark for Relation Extraction: 
++ FewRel (Han et al.2018): 10-way 5-shot
++ TACRED (Zhang et al. 2017): 5-way 5-shot
+
+#### N-way-K-shot Evalution Dataset
+[FewRel](https://github.com/thunlp/FewRel) - [FewRel 1.0](https://aclanthology.org/D18-1514.pdf), FewRel 2.0 ([FewRel 2.0 domain adaptation](https://thunlp.github.io/2/fewrel2_da.html) / [FewRel 2.0 none-of-the-above detection](https://thunlp.github.io/2/fewrel2_nota.html))
 In 3-way-2-shot (N=3, K=2) where *each Class/Relation contain 2 Example as labeled* training data, model need to distinguish between three new, previously unseen, relation types in the current task.  
 
 FewRel 1.0 have **64 relations** for training, **16 relations** for validation, **20 relations** for testing with Training Example potentially being Under-Representative.  
@@ -76,34 +159,23 @@ Relation have multiple Usecase. Most challenging characteristic of the dataset i
 ![[Pasted image 20260325194414.png | 555]]
 [Tacred Error Rates Analysis](https://arxiv.org/pdf/2004.14855)
 
+### Data Transformation
 
 
-**N-way-K-shot in Few-shot Continual Relation Extraction (FCRE)**   
-+ For $t$-task, model training on the dataset $$D^t=\{(x^t_{i},y^t_{i})\}^{N\times K}_{i=1}$$ where N is *number of relations* in task $R^t$ and $K$ is number of *samples per relation.*
-
-
-### Methodology 
-reference:  [Constractive Representative Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/), [The Beginner’s Guide to Contrastive Learning](https://www.v7labs.com/blog/contrastive-learning-guide)
-
-
-
-### Approaches
-
-
-
-### Data sources
-Experiment with BERT on 2 widely used benchmark for Relation Extraction: 
-+ FewRel (Han et al.2018): 10-way 5-shot
-+ TACRED (Zhang et al. 2017): 5-way 5-shot
-
-
-### Data collection
 
 
 ## Primary Findings and Experiment Results
 Highlight the primary findings or results of the research. Use *clear and straightforward language* to communicate these findings. If the paper includes figures, tables, or graphs, refer to them as needed.
 ![[Pasted image 20260325155737.png | 555]]
 
+
+![[Pasted image 20260327195843.png | 555]]
+
+
+![[Pasted image 20260327195852.png | 555]]
+
+
+![[Pasted image 20260327195921.png | 555]]
 
 ## Summary and Assessment
 Conclude your summary with a closing statement that provides an overall assessment of the paper, such as its *significance, relevance, or potential for future research*
@@ -125,21 +197,19 @@ In order to improve on these methods, we must not completely disregard them or d
 -> Why do so many methods use the memory bugger in the first place ? 
 
 Finding Insight -> *Based on this observation (insight)* we proposed a straightforward method: ...method explain...
-
 Then list out Contributions: 1,2,3
 
 **Background**
-Problem Fomulation 
+Problem Fomulation - 
 
 
 **Proposed Method**
-what are the key challange you trying to solve e.g. *scarcity of samples available for learning.* 
+What are the key challange you trying to solve e.g. *scarcity of samples available for learning.* 
 
 **Q&A:** combine DCRE method with "Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval" method. 
 -> To find the Query Image better using DCRE constractive learning. For example, give the Model 4 examples of the desired Objects -> Help me the model the find the desired Object better from N frames. 
 
 *Feasible:* yes, have access to LLM and academic resource. 
-
 
 ----
 ### What Next ?
