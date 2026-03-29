@@ -51,7 +51,7 @@ When we're talking about NAT and Bastion, we're talking about access between Pub
 
 
 *Why Bastion ?*
-Not every server can sit on the public internet - especially sensitive resources like production databases, app servers, or dashboards. But engineers still need access. That’s where *bastion hosts* come in.
+**Not every server can sit on the public internet - especially sensitive resources like production databases, app servers, or dashboards.** But engineers still need access. That’s where *bastion hosts* come in.
 + Instead of protecting 50 servers from the internet, you only need to harden and protect ONE server (the Bastion).
 + Network Isolation - maintain critical workload in private subnets (unchanging workload) and meeting compliance requirements (HIPAA, PCI-DSS).
 + Central Point for Logging access - easy to monitor. 
@@ -84,9 +84,6 @@ Note: Netflix use an Hardened Bastion Host Layer integrated with their Identity 
 
 *Private Subnet (invisible / no address)* - Where all of your Services lives (Database, Python Application, Web service, etc..)
 Could only *access through a single monitored SSH entry point from Bastion Host (Inbound).* 
-
-
-
 ![[Pasted image 20260327173455.png | 666]]
 Note: 
 + Auto-Scaling Group for Bastio Host - Self-Healing host usually use 1-1-1 setup, *min 1 max 1 desire 1 in Auto-Scaling Group* to make sure at least Bastion Host are always up if it go down.
