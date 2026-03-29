@@ -51,6 +51,7 @@ When we're talking about NAT and Bastion, we're talking about access between Pub
 
 
 *Why Bastion ?*
+Not every server can sit on the public internet - especially sensitive resources like production databases, app servers, or dashboards. But engineers still need access. That’s where *bastion hosts* come in.
 + Instead of protecting 50 servers from the internet, you only need to harden and protect ONE server (the Bastion).
 + Network Isolation - maintain critical workload in private subnets (unchanging workload) and meeting compliance requirements (HIPAA, PCI-DSS).
 + Central Point for Logging access - easy to monitor. 
@@ -61,6 +62,14 @@ If your Company have multiple Security layer (Bastion 1 for Company access, Bast
 ![[Pasted image 20260327161722.png | 666]]
 In Netflix, Bastion work with "AWS Access Control service" to direct user with specific Identity to Specific Application through SSH. Access Log will be save within AWS Logging service below. 1 Bastion
 ![[Pasted image 20260327161945.png]]
+Note: Netflix use an Hardened Bastion Host Layer integrated with their Identity Management platform 
+0.  Login with MFA - to start the Bastion Host section -> Ensure stolen SSH keys alone aren't enough go gain access. 
+1. Engineer may have SSH access to the application servers but not the Payment Database -> Enforce by AWS Security Group and IAM policies -> Engineer Only see what they suppose to see.
+2. Every SSH command run through the bastion is logged -> easy to monitor activity and respond quickly if any thing suspisus happend (AWS Athena to analyze data in S3).
+3. Access to the Bastion is Time Bound. Session Auto-Expire -> reducing the risk if an engineer's machine is compromised (hỏng hóc).
+-> However Bastion access can be revoke if want to allow freely access in case of need. And be locked again. 
++ ! If you only have one bastion host in a single AZ, and that AZ experiences an outage, you will lose access to all your private instances -> Need Multiple Bastion Host for HA and Fault Tolerance (Multi-AZ). Bastion Host is an EC2 Instance. 
+
 *Visibility:* Public address and could be Scan, but can limited Public Access in Security Group.  
 ![[Pasted image 20260327165529.png]]
 *Components Explain:*
@@ -88,9 +97,6 @@ Note:
 3. Internal Jump - The traffic is then "tunneled" or "forwarded" from the Bastion (using its private IP) to the **Backend Server's** private IP (10.0.2.x).
 4. This way No One know the Private Subnet IP Address. Help it stay completely hidden from the Internet (you could find 1 public IP address without having access to the Private subnet, bc their IP address doens't exist)
 
-
-
-
 *NAT Gateway (Outbound traffic)* - used when your app is 1-Way-Access ie. *App have access to the Internet but the Internet doesn't have access to your application.* For example, your app was deployed on Private Subnet instances and those subnet don't have a route to Internet Gateway (no internet access) 
 	-> Use in Automated Service or Backend Instance. Send order from inside, receive none.  
 Visibility: Invisible. Cannot be scan. 
@@ -98,3 +104,4 @@ Visibility: Invisible. Cannot be scan.
 Within a VPC, Company want initnitate connection between Private and Public Netowork -> NAT gateway bc its allow resource transit from Private subnet to the outside Internet but Prevent outside traffic/request. 
 + $ Allow Private subnet to communicate with outside Internet but prevent Request from entering private subnet. 
 	Note: traffic is the amount of data within each Request. e.g. data for image, text message, etc..
+

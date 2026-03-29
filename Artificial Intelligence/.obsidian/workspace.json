@@ -36,9 +36,22 @@
               "icon": "lucide-file",
               "title": "AWS Cloud Practitioner"
             }
+          },
+          {
+            "id": "f7070f335dd95dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Practitioner QUIZ & Video"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,9 +224,18 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "75b7e42a0cf42369",
+  "active": "29ff1f31794dbfd9",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "Driving Test.md",
     "2 ACTIONS/_Focus.md",
+    "AWS Cloud Practitioner.md",
+    "image/Pasted image 20260327173455.png",
+    "image/Pasted image 20260327165529.png",
+    "image/Pasted image 20260327161945.png",
+    "image/Pasted image 20260327161722.png",
+    "image/Pasted image 20260327162326.png",
+    "image/Pasted image 20260327164738.png",
     "Continual Learning a Big Topic Survey.md",
     "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
     "main_Continual Learning & Nested Learning Survey.md",
@@ -221,14 +243,6 @@
     "image/Pasted image 20260327224755.png",
     "image/Pasted image 20260327225033.png",
     "image/Pasted image 20260327225012.png",
-    "image/Pasted image 20260327214608.png",
-    "Autoencoder and Variational Autoencoder.md",
-    "image/Pasted image 20260327215135.png",
-    "image/Pasted image 20260327195921.png",
-    "image/Pasted image 20260327195852.png",
-    "image/Pasted image 20260327195843.png",
-    "AWS Cloud Practitioner.md",
-    "AWS Cloud Practitioner QUIZ & Video.md",
-    "image/Pasted image 20260327173455.png"
+    "Autoencoder and Variational Autoencoder.md"
   ]
 }

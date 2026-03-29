@@ -15,14 +15,16 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 
 _TODAY
 - [ ] [Register Research](https://www.facebook.com/groups/1094847652564195/permalink/1278245640891061/?rdid=ksqG9GyrcgNxMQ98) before 21/3 - Talk to Huan About This
-- [ ] [[Driving Test]] Quiz Prepartion (11 Days Left - Update Everyday)
-- [ ] Đặt lịch tập lái Sa Hình cho Chủ Nhật
-[AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
-
+- [ ] [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**
 - [ ] [good Deep Learning guide from real people](https://arikpoz.github.io/)
+
+**Desire IEM**
+- [ ] HIDIZS MS2 Pro
+
+
 
 ### [[Machine Learning & Data Science Main]] _storage for future learning resource
 [Deep Dive to Deep Learning](https://d2l.ai/)
