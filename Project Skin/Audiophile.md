@@ -11,9 +11,11 @@ Preference from [Jay's IEM Ranking List](https://docs.google.com/spreadsheets/d/
 ---
 
 ### IEM Contender 
-Hidizs MS2 Pro,
+**Hidizs MS2 Pro,**
 SimGot EG280,
 ARTTI T10 PRO,
 Letshuoer S08,
-Kefine Delci, 
-SimGot EM6L
+**Kefine Delci,** 
+**SimGot EM6L**
+
+
