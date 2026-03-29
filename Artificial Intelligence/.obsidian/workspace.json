@@ -51,7 +51,8 @@
               "title": "AWS Cloud Practitioner QUIZ & Video"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,12 +225,12 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "29ff1f31794dbfd9",
+  "active": "f7070f335dd95dda",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner.md",
+    "2 ACTIONS/_Focus.md",
     "AWS Cloud Practitioner QUIZ & Video.md",
     "Driving Test.md",
-    "2 ACTIONS/_Focus.md",
-    "AWS Cloud Practitioner.md",
     "image/Pasted image 20260327173455.png",
     "image/Pasted image 20260327165529.png",
     "image/Pasted image 20260327161945.png",
