@@ -911,3 +911,64 @@ Of course you need Multi-AZ and Multi-Region but how much ? what is the right Th
 
 **Multi-site Active/Active** - Runs full production workloads across two or more regions like nothing happened. 
 ![[Pasted image 20260324175911.png]]
+
+---
+## Lesson 5 - AWS Networking & Delivery
++ @ **Goals:** Set up the best network for your Enterprise
+[Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc8K0MHiVh5T5yz3v6-M5c-Ed6U60Qo-MPBTJbiCuORLSkLGA/viewform)
+![[Pasted image 20260326203651.png | 888]]
+VPC (Virtual Private Cloud) is a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network that you define.
++ *IP Address Range:* Define the boundary of our data center.
++ *The Internal Connection:* In our private space, we set the rule for server work. We don’t want they talking together.
++ *Gateway/Access:* Our server is 100% isolated from the public internet, we need open the door for customer access.
+	
++ Question: We’re moving company’s servers to the cloud. And we want it as our *own private data center*. What are exactly we want ?
+
+### Private Network in AWS
+What the point of **Addressing with CIDR – Bit counting** -> Foundational for designing a secure, scalable, and organized cloud network.
+![[Pasted image 20260326204324.png | 555]]
+Primary point of using CIDR and subnet masks in AWS:
+1. *Network Segmentation and Organization:* divide a large VPC network into smaller, manageable chunks called **subnets**
+2. *Efficient IP Address Management:* Because IPv4 addresses are limited, CIDR allows for variable-length subnet masking (VLSM), meaning you only allocate the number of IP addresses necessary, reducing waste.
+3. *Security and Traffic Control:* CIDR blocks are fundamental to securing your network.
+4. *Routing and Connectivity:* Subnet masks determine where a packet should go
+![[Pasted image 20260326205031.png]]
+Base Address: 176.16.XX
+	16 free bits.
+	XX -> freebits -> can change flexibly.
+
+8 số 1 là Broadcast address. 
+
+### Controlling Traffic Flow
+![[Pasted image 20260326210340.png]]
+
+Route Table - default route table
+
+Đi vào: Inbound -> Internet Gate way -> VPC -> Public Subnet
+Đi ra: Public Subnet -> Internet Gateway
+
+
+**Nat Instance** - Instance nên nó là 1 service. 
+Vì Private subnet ko đi vào từ bên ngoài dc nên nó cần kết nối với NAT instance (NAT có public IP, giúp kết nối đc ra bên ngoài). Làm *trung gian giữa Public và Private subnet.*
+![[Pasted image 20260326211204.png]]
+
+
+![[Pasted image 20260326211631.png]]
+Security Group at Instance level.
+![[Pasted image 20260326211529.png | 488]]
+
+*Inbound Rules* -> traffic from application level. 
+*Outbound Rules* -> 
+
+### Network Security
+**Stateful vs Stateless Firewall**
+![[Pasted image 20260326212203.png]]
+Stateful - allow the return traffic automatically
+
+Network ACL (security at subnet level - stateless) - control what goes in and out of the subnet.  
+![[Pasted image 20260326212359.png]]
+
+### Naming & Access: DNS 
+A record - route traffic to IPv4
+C name - route traffic from a domain to another domain (between 2 domain)
+Alias - turn on (maintain connection to IPv4)
