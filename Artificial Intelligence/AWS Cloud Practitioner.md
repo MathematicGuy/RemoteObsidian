@@ -972,3 +972,5 @@ Network ACL (security at subnet level - stateless) - control what goes in and ou
 A record - route traffic to IPv4
 C name - route traffic from a domain to another domain (between 2 domain)
 Alias - turn on (maintain connection to IPv4)
+
+

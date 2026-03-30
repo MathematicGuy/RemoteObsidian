@@ -37,7 +37,8 @@
               "title": "AWS Cloud Practitioner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +211,9 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "ae5a4f8a87b41085",
+  "active": "f0e9d52793f826c8",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260330035513.png",
     "image/Pasted image 20260330031923.png",
     "image/Pasted image 20260330031805.png",
@@ -222,9 +224,7 @@
     "image/Pasted image 20260330021055.png",
     "image/Pasted image 20260330012610.png",
     "image/Pasted image 20260330012046.png",
-    "image/Pasted image 20260330011036.png",
     "AWS Cloud Practitioner.md",
-    "2 ACTIONS/_Focus.md",
     "AIO2025 - NER.md",
     "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
     "Narrow and Interest Topic - Continual Relation Extraction.md",
