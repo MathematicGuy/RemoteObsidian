@@ -1,7 +1,8 @@
 *1st Priority:* FOCUS on Understand the current paper. 
 *2nd Priority:* Risk Assessment and Feasibility.
 *3rd Priority:* Turn information into Slides for Saturday Representation. 
-*X Priority:* [Planning](https://www.figma.com/board/Y495w3JiiYLw76Pe644L6s/Continual-Learning-Planning?node-id=0-1&t=4phzKx5JqLIDT5VR-1) with Work Break Down Structure (WBS) and Plant with Miles Stone and Gantt. 
+*X Priority:* [Planning](https://www.figma.com/board/Y495w3JiiYLw76Pe644L6s/Continual-Learning-Planning?node-id=0-1&t=4phzKx5JqLIDT5VR-1) with Work Break Down Structure (WBS) and Plant with Miles Stone and Gantt. [Author Gmail](https://www.facebook.com/linhnvbk?mibextid=wwXIfr&rdid=qV8Xf7ISJPv5G01d&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F14b7xKdBqRB%2F%3Fmibextid%3DwwXIfr), [Author Presentation](https://underline.io/lecture/111030-few-shot-no-problem-descriptive-continual-relation-extraction)
+
 
 ## Brief Overview - Introduction
 SoTA approaches to FCRE relied on memory-based methods - *frequently suffer from overfitting to the limited samples* stored in memory buffers -> prone to *Overfitting and Prevent positive BWT.* 
@@ -74,7 +75,7 @@ $e_{t}$ - tail entity: "Apple"
 + They aren't real words like "is" or "at."
 + They are "placeholders" (for BERT's `[UNUSED]` tokens) that the model trains to act as "connective tissue" to better extract the relation token for relation extraction. *Learnable parameters* added to give model more information. 
 	During fine-tuning, the weights of BERT are frozen, and only the values of $[\text{Soft Token}_{1}]$ and $[\text{Soft Token}_{2}]$ are updated via backpropagation to optimize the task performance.
-
++ ? `[MASK]` is the `is_founded` relationship between $e_{h}: \text{SteveJob}$  and $e_{t}: \text{Apple}$.
 
 ### Extracting the "Latent Representation" (z)
 Once the template $T(x)$ are fed into the backbone model (like BERT) the model produces a vector for every single token. But the paper only care about the vector at the `[MASK]` position. 
@@ -103,7 +104,8 @@ $z_{x}$ represent the hidden vector for Raw *Description.* While show promising,
 
 
 **Hard Soft Margin Triplet Loss ($L_{ST}$)**
--> Enhance **discrimination and boundaries**. Looks for the hardest cases to get right. 
+-> Enhance **discrimination and boundaries**. Looks for the hardest Positive and Negative sample (e.g. sequence with similar token) to get right. 
+
 
 Learn from $(a, p, n)$ where $dist(a, p)$ is Minimized and $dist(a, n)$ is maximized. 
 ![[Pasted image 20260327225142.png | 666]]
@@ -118,20 +120,6 @@ Learn from $(a, p, n)$ where $dist(a, p)$ is Minimized and $dist(a, n)$ is maxim
 + ? Most word are the Same -> Help *Distinguishing Boundaries* Ensures "Steve Jobs **founded** Apple" isn't confused with "Steve Jobs **visited** Apple". 
 
 ![[Pasted image 20260327225033.png | 555]]
-
-
-
-## Methodology - Proposed Method (1h30 Ideas & Method Overview - 3h Connect Ideas and Deep Dive)
-Reference:  [Constractive Representative Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/), [The Beginner’s Guide to Contrastive Learning](https://www.v7labs.com/blog/contrastive-learning-guide)
-
-### Label Descriptions
-
-
-### Description-pivot Learning
-
-
-### Descriptive Retrieval Inference
-
 
 
 ## Data sources
@@ -159,10 +147,109 @@ Relation have multiple Usecase. Most challenging characteristic of the dataset i
 ![[Pasted image 20260325194414.png | 555]]
 [Tacred Error Rates Analysis](https://arxiv.org/pdf/2004.14855)
 
-### Data Transformation
+
+## Methodology - Proposed Method (1h30 Ideas & Method Overview - 3h Connect Ideas and Deep Dive)
+Reference:  [Constractive Representative Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/), [The Beginner’s Guide to Contrastive Learning](https://www.v7labs.com/blog/contrastive-learning-guide)
+
+### Label Descriptions - Stable knowledge Anchor
++ ! Traditional models forget old relations because they only remember a few random examples (samples) of them. Some of them may not always be representative of the entire class.
++ ? To solve this, the authors use **Label Descriptions** as "stable knowledge anchors" by employ Gemini 1.5 to generate K diverse, detailed, and illustrative descriptions for each relation.
+
+*Class Detail Description Example*
+Input for Gemini 1.5:
+```js
+You are a professional data scientist, working in a relation extraction project.
+
+Given a relation and its description, you are asked to write a more detailed description of the relation and provide 3 sentence examples of the relation.
+
+The relation is: `org:founded_by`
+The description is: _The person, people, or organization that established or started the company or group.
+
+Please generate 3 diverse samples of (relation description, examples).
+
+Your response:
+```
+
+Generated LLM Output for `org:founded_by` with $K=3$  examples.
+```js
+Detailed Description: This relation identifies the creator or co-creator of an entity. It focuses on the inception phase of an organization, linking a specific individual or parent organization to the act of establishing the legal or functional existence of the subject company.
+
+3 Sentence Examples:
+1. "Bill Gates and Paul Allen started Microsoft in Albuquerque, New Mexico."
+2. "The French government established Electricité de France in 1946."
+3. "SpaceX was founded by entrepreneur Elon Musk with the goal of reducing space transportation costs."
+```
 
 
+### Description-pivot Learning
+Descriptions are "literal definitions," making them more accurate representations of a class than a handful of random sentences.
 
+*Hard Margin Loss $L_{MH}$:* This loss aligns the `[MASK]` vector z from the sentence (e.g., Steve Jobs `[MASK]` Apple) directly with the *Description Vector* d.  ![[Pasted image 20260330173343.png | 500]] 
+
+*Mutual Information Loss $L_{MI}$:* "Does this sentence contain the same core meaning as the dictionary definition ?" ![[Pasted image 20260330173006.png | 500]]
+
+
+### Descriptive Retrieval Inference
+Traditional methods such as Nearest Class Mean (NCM) predict relations by selecting the class whose prototype has the smallest distance to the test sample, they relies solely on distance metrics. 
++ ! May not not fully capture the nuanced relationships between a sample and the broader context provided by class descriptions.
++ $ The Author aim to retrieve the class description that best aligns with the input, thereby leveraging the inherent semantic meaning of the label by introducing "Descriptive Retrieval Inference (DRI)"
+
+Note: "prototype proximity" is a spatial measurement of how "close" a new, unseen sentence is to the average of the examples the model has already learned for a specific relation.
+
+#### 1. Prototype Proximity (Spatial Score)
+The model calculates the **Negative Euclidean distance** between the hidden representation $z$ of a test sample and each relation prototype $p_r$.
+**Formula for Prototype:** $$p_r = \frac{1}{L} \sum_{i=1}^{L} z_i$$A **prototype** is simply the "mathematical average" of a category. If you have $L$ examples of a "founder" relationship, the model adds their vectors together and divides by L to find the "center" of that group
+
+**Distance Score:** $$E(x,r) = -\|z - p_r\|_2**$$Euclidean Distance - the **negative sign** is a math trick: in ranking, higher numbers are better. By making the distance negative, a "small distance" (e.g., −1) becomes a higher score than a "large distance" (e.g., −10).
+
+#### 2. Description Similarity (Semantic Score)
+Simultaneously, the model calculates the **cosine similarity** between the test representation $z$ and the averaged relation description prototype $d_r$.
+**Formula for Description Prototype:** $$d_r = \frac{1}{K} \sum_{i=1}^{K} d_r^i$$Similar to the prototype above, this is the average of the K different detailed descriptions that Gemini generated for the relation. It represents the "ideal meaning" of the class.
+
+
+**Similarity Score:** $\gamma(z, d_r)$ - Cosine Similarity -> Measures the **angle** between two vectors. It checks if the "direction" of the test sentence’s meaning points toward the "direction" of the dictionary definition.
+
+#### 3. The Fusion Score (RRF)
+To make the final prediction, DRI uses **Reciprocal Rank Fusion (RRF)** to combine both scores. This ensures the final answer is informed by both "where the samples are" and "what the relation means".
+$$DRI(x,r) = \frac{\alpha}{\epsilon + rank(E(x,r))} + \frac{1 - \alpha}{\epsilon + rank(\gamma(z,d_r))}$$
++ @ Instead of just adding the raw scores together (which is hard because they use different units), the model looks at their **rank**. If a relation is the #1 closest in distance AND the #1 closest in definition, it gets a massive boost in the final score. 
+
+**$rank(\cdot)$**: The rank position of the score among all possible relations.
+**$\alpha$**: A hyperparameter balancing the influence of distance vs. similarity. 
+	This is a **weighting hyperparameter**. If α is high, the model trusts the "Prototypes" (examples) more. If α is low, it trusts the "Descriptions" (definitions) more.
+**$\epsilon$**: prevent dividing by zero -> make sure that a relation ranked #100 doesn't totally ruin the math.
+
+
+**Final Prediction:** The model predicts the relation $y^*$ with the highest DRI score (ie. Best Relation)
+$$y^* = \text{argmax}_{r=1,...,n} DRI(x,r)$$
+
+
+### Training Procedure
+
+| **Symbol**             | **Name**                  | **Scenario Definition (AI Relation Extraction)**                                                         |
+| ---------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **$\Phi_{j-1}$**       | **Previous Model**        | The BERT model as it exists _before_ learning about the "BERT/Transformer" relationship.                 |
+| **$D_{j}$**            | **New Dataset**           | The specific set of few-shot sentences about the current task (e.g., sentences about BERT architecture). |
+| **$R_{j}$**            | **New Relations**         | The label for the new relationship being learned: `is_based_on`.                                         |
+| **$\tilde{E}_{j}$**    | **Original Descriptions** | Relation Description Set                                                                                 |
+| **$E_{j}$** (or $K_j$) | **New Descriptions**      | The $K$ detailed descriptions Gemini generated for the `is_based_on` relation.                           |
+| **$\tilde{M}_{j-1}$**  | **Old Memory**            | A small "buffer" containing old sentences like "GPT is made by OpenAI".                                  |
+| **$\tilde{R}_{j-1}$**  | **Old Relations**         | The set of all labels the model has already learned (e.g., `made_by`).                                   |
+| **$\tilde{E}_{j-1}$**  | **Old Descriptions**      | The stable Gemini definitions for all previous relations.                                                |
+| **$\tilde{P}_{j}$**    | **Prototypes**            | The "average" mathematical vectors representing the center of each relation's cluster.                   |
+![[Pasted image 20260330174034.png | 500]]
+#### Phase 1: Initialization (Lines 1-2)
+- The model **$\Phi_{j}$** starts as a copy of the old model **$\Phi_{j-1}$** so it doesn't start from scratch.
+- The description set is updated to include the new Gemini definitions for `is_based_on`.
+#### Phase 2: Learning the New Task (Line 3)
+- The model trains on **$D_{j}$** (the BERT sentences) using the joint loss L we discussed earlier (Sample + Description-pivot).
+#### Phase 3: Memory Update (Lines 4-8)
+- The model selects **$L$** representative samples from the new BERT data.
+- **The Selection Rule:** It picks the L sentences that are closest to the "average" (centroid) of the `is_based_on` cluster.
+- These are added to the old memory ​$\tilde{M}_{j-1}$ to create a new, combined memory buffer **$\tilde{M}_{j}$**.
+#### Phase 4: Final Refinement (Lines 9-10)
+- **Update Prototypes $\tilde{P_j}$​:** The model recalculates the "center" of every relation cluster using the updated memory.
+- **Memory Training:** The model does a final round of training on the _entire_ memory buffer (both GPT and BERT samples) to ensure the boundaries between the old `made_by` and new `is_based_on` relations are clear.
 
 ## Primary Findings and Experiment Results
 Highlight the primary findings or results of the research. Use *clear and straightforward language* to communicate these findings. If the paper includes figures, tables, or graphs, refer to them as needed.
