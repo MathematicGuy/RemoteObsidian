@@ -500,3 +500,5 @@
 
 "event_logs:sources:modified": {"key":"sources:modified","ct":39843,"first_at":1774004697576,"last_at":1774876262275,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":35256,"obsidian:vault.modify":4587}},
 "event_logs:sources:created": {"key":"sources:created","ct":545,"first_at":1768186652444,"last_at":1774876262660,"class_name":"EventLog","event_sources":{"obsidian:vault.create":545}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":466819,"first_at":1768089396189,"last_at":1774876276248,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":30047,"first_at":1768089404372,"last_at":1774876278722,"class_name":"EventLog"},
