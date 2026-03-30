@@ -25,7 +25,9 @@
     }
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "new_version_available": true
+    }
   },
   "smart_view_filter": {
     "expanded_view": false,

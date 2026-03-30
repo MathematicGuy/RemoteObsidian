@@ -272,7 +272,7 @@ EC2 instance Naming Convention: `d` is for dev, `p` is for production.
 + Zip your script and libraries then upload them via AWS Console
 + Or Dockerize your code and push it into Amazon Elastic Container Registry (ECR) where you could store, deploy and manage your code -> more neat.
 To run, simply call your Scripts API function.
-+ ! *Lambda Limits:* 15' runtime, 10GB RAM. 
++ ! *Lambda Limits:* 15' runtime, 10GB RAM.
 + @ Help to *test your code instantly* without the need of EC2 instance.
 + $ Could *Integrate other AWS serverless service.*
 
@@ -287,21 +287,21 @@ AWS Lambda upon triggering:
 + Example: AWS Lambda *run your API defined Function within a Docker Container Image or Zip Code Package when a Input Event is Trigger.* - Kind of like Docker to be honest but their Cloud Server is your Desktop.
 
 **DynamoDB** - High-performance *NoSQL* that support massive scale (*Multi-AZ*). Auto-Scale, Low Operational Cost. ![[Pasted image 20260323173024.png]]
-*Read/Write Capacity Mode* 
+*Read/Write Capacity Mode*
 + Provisioned Capacity Mode (Default) - Pay for predefine resource (RCU - Read Capacity Units, WCU - Write Capacity Units).
-+ One-Demand Capacity Mode - Auto-scaling, Pay for what you used but more Expensive. 
++ One-Demand Capacity Mode - Auto-scaling, Pay for what you used but more Expensive.
 ![[Pasted image 20260323173148.png]]
 
 DynamoDB DAX - improve *READ* and *reduce load on tables.*
 ![[Pasted image 20260323173422.png]]
-Data Steam Processing (act as the Main Processor Database) - DynamoDB only have 24hr data retention so *to save data you have to move data to Kinesis Data Streams.* 
+Data Steam Processing (act as the Main Processor Database) - DynamoDB only have 24hr data retention so *to save data you have to move data to Kinesis Data Streams.*
 ![[Pasted image 20260323173436.png]]
 
 *DynamoDB Streams*
-Kinesis act as the main storage manage continuous stream of data. 
+Kinesis act as the main storage manage continuous stream of data.
 ![[Pasted image 20260323173627.png]]
 
-*Global Tables* - replicated DynamoDB tables across multiple AWS Region. 
+*Global Tables* - replicated DynamoDB tables across multiple AWS Region.
 ![[Pasted image 20260323174110.png]]
 
 *API Gateway* - use to *call Lambda Function* to call REST API
@@ -405,7 +405,7 @@ You store, manage and deploy your Docker Container Image on ECR -> then you pull
 + ECS is the compute engine that run containers.
 
 
-*AWS ECR (Elastic Container Registry)* - Container setup and management. 
+*AWS ECR (Elastic Container Registry)* - Container setup and management.
 ![[Pasted image 20260323181059.png]]
 
 *AWS ECS (Elastic Container Service)* full managed container orchestration service that simplifed deploying, managing and *scaling Docker-based application.*
@@ -420,7 +420,7 @@ Have 2 types:
 
 *ESC Cluster*
 ![[Pasted image 20260323180230.png]]
-+ $ If Auto-Scaling enable, ECS could deploy Container within each EC2 instance.  
++ $ If Auto-Scaling enable, ECS could deploy Container within each EC2 instance.
 	+ ? Cần cài ECS Agent để autoscale docker bên trong EC2 instance.
 
 
@@ -432,9 +432,9 @@ Have 2 types:
 + ! Number of partition per AZ limited to 7.
 + ? Use in Distributed System like HDFS, Hadoop, Cassandra and Kafka.
 
-**AMI** - Template for EC2 instance with pre-configuration env, OS and EBS snapshots. 
+**AMI** - Template for EC2 instance with pre-configuration env, OS and EBS snapshots.
 
-#### Elastic Block Store (EBS) 
+#### Elastic Block Store (EBS)
 *Elastic Block Store (EBS)* - *network-attached disk* that can be attached to a running EC2. AWS automatically attaches an EBS volume called the Root EBS Volume to EC2 instance at launch.
 ![[Pasted image 20260321005839.png]]
 + $ Data remains even if the EC2 instance stops or terminate bc they're network attached.
@@ -444,11 +444,11 @@ Have 2 types:
 Optional: turn on Delete on termination to delete EBS along with EC2 instance.
 ![[Pasted image 20260321005915.png]]
 
-*Snapshots -* *point-of-time* backup of an Amazon *EBS volume (Snapshot for data within the Disk itself - independent from the EC2)* 
+*Snapshots -* *point-of-time* backup of an Amazon *EBS volume (Snapshot for data within the Disk itself - independent from the EC2)*
 -> Can be Copied across regions or shared across AWS accounts  ![[Pasted image 20260322141845.png]]
 *Could be attached to a newly created AMI*
 ![[Pasted image 20260323154030.png]]
-Note that Snapshot is still storage so u basically could SAVE MONEY by moving snapshot to archive although it took 24-72hrs. 
+Note that Snapshot is still storage so u basically could SAVE MONEY by moving snapshot to archive although it took 24-72hrs.
 ![[Pasted image 20260323154151.png]]
 
 
@@ -468,10 +468,10 @@ Note that Snapshot is still storage so u basically could SAVE MONEY by moving sn
 
 
 *Hard Disk Drive (HDD)* design for storage. Have large, sequential throughput workloads with rather than high IOPS performance. There're 2 types: Cold HDD for slow tranfer speed and Throughput Optimized HDD for sequential workloads with decen throughput (~500MiB/s) both have large Storage. ![[Pasted image 20260323155815.png]]
-*-> Trade Data tranfer speed for Storage. Much cheaper for storage.* Mostly for storage and save for later types of data. Like data to retrain later. 
+*-> Trade Data tranfer speed for Storage. Much cheaper for storage.* Mostly for storage and save for later types of data. Like data to retrain later.
 
 
-*EC2 Instance Store* - *TEMPORARY* block storage located on cache of the physical host machine attached to the EC2 instance. 
+*EC2 Instance Store* - *TEMPORARY* block storage located on cache of the physical host machine attached to the EC2 instance.
 ![[Pasted image 20260323153529.png]]
 
 
@@ -483,46 +483,46 @@ Note that Snapshot is still storage so u basically could SAVE MONEY by moving sn
 *EBS Encryption* - mã hóa ổ cứng. *The Catch* is you coudn't Encrypted a already running EBS Volumn. So simply, you could:
 1) Create a Replica of the current EBS volumn then Apply Encryption
 2) Detach the Old Volumn then Attach the New Volumn. (EC2 could be dettach/attach EBS volumn while running)
-3) Start the Instance Again. 
+3) Start the Instance Again.
 
-Note that *Serverless mean you don't need to setup anything. Just Plug-n-Play.* Anything related to workloads AWS takecare of them for you at the cost of MONEY (Auto-Scaling, Multi-AZ, etc...) 
+Note that *Serverless mean you don't need to setup anything. Just Plug-n-Play.* Anything related to workloads AWS takecare of them for you at the cost of MONEY (Auto-Scaling, Multi-AZ, etc...)
 ![[Pasted image 20260323160421.png]]
-While *EBS (like S3) is single AZ & Manual-Scaling*, *EFS is multi-AZ & HA & Auto-Scaling*. Allowing *great used as the Central Data/Content Management System* -> Simplified Shared Content across Region. *Where EFS act as the main DB* where EBS across Region retrieval just the right data from it.  
+While *EBS (like S3) is single AZ & Manual-Scaling*, *EFS is multi-AZ & HA & Auto-Scaling*. Allowing *great used as the Central Data/Content Management System* -> Simplified Shared Content across Region. *Where EFS act as the main DB* where EBS across Region retrieval just the right data from it.
 ![[Pasted image 20260323161146.png]]
 
 
-*EBS vs EFS vs Instance store vs S3* as a whole. 
-EBS act as the Long-Term storage within 1 AZ having their volumn's snap-shot stored in A3. 
--> S3 coud be use for Backup. And EBS act as the Harddrive of the server. 
-EC2 Instance act as the Cache so High Performance. 
+*EBS vs EFS vs Instance store vs S3* as a whole.
+EBS act as the Long-Term storage within 1 AZ having their volumn's snap-shot stored in A3.
+-> S3 coud be use for Backup. And EBS act as the Harddrive of the server.
+EC2 Instance act as the Cache so High Performance.
 + act as the Cache Buffer (temp) between the Main EBS Storage and EFS.
-+ only available when EC2 is running. 
++ only available when EC2 is running.
 -> Like Copy and Paste, but on Globle Server Scale
 ![[Pasted image 20260323161313.png]]
 Ref: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html
 So
-+ EFS act is a multi-AZ shared network folder that hundreds of servers across region can access. 
-+ EBS act is a single-AZ attachable databases for server. Like a Harddrive 
-+ S3 is a Object storage (files + metadata), can be access gloably. 
++ EFS act is a multi-AZ shared network folder that hundreds of servers across region can access.
++ EBS act is a single-AZ attachable databases for server. Like a Harddrive
++ S3 is a Object storage (files + metadata), can be access gloably.
 
 *Scalability & HA*
 Vertical Scalability -> Upgrade a Instance (more CPU, GPU, RAM, etc..)
 Horizontal Scalability -> Copy & Paste More Instance/Template.
 	often for Distributed System Architecture. Workload distributed across Instances (virtual server) or Servers (1 Server could have multiple virtual instance/server).
--> Improve Fault Tolerant (FT), Performance and Scability. 
+-> Improve Fault Tolerant (FT), Performance and Scability.
 ![[Pasted image 20260323161957.png | 888]]
 
 *Types of HA*
-+ Passive HA:  run only the 1st EC2 (running mode) while sync data to the 2nd EC2 (standby mode) -> Disaster Recovery 
-+ Active HA: Use EBL to distirbuted workloads across EC2s. 
++ Passive HA:  run only the 1st EC2 (running mode) while sync data to the 2nd EC2 (standby mode) -> Disaster Recovery
++ Active HA: Use EBL to distirbuted workloads across EC2s.
 
-*Use ASG and ELB for Scalability* 
+*Use ASG and ELB for Scalability*
 ![[Pasted image 20260323162706.png]]
 
 *Security Group use-case*
 *Isolate your backend servers* (EC2) so they **only** accept traffic from your Load Balancer (ELB), rather than the entire internet. ![[Pasted image 20260323163606.png]] -> EC2 instance will **only** accept traffic if it comes from a resource associated with that specific Load Balancer SG -> Help direct cyber-attack on the an EC2 Instance.
 
-Types of Load Balancer (Left is Newer, Older to the Right): 
+Types of Load Balancer (Left is Newer, Older to the Right):
 ![[Pasted image 20260323163822.png]]
 
 **Application Load Balancer** - located in *Layer 7*
@@ -543,30 +543,30 @@ ELB could *route Traffic in 3 different Path:*
 
 **Network Load Balancer** - locate at *Layer 4* becore ALB -> *Point directly at TCP/UIP Instance*
 ![[Pasted image 20260323164619.png]]
-NLB Target Group - Think this as *Group Balancer for Application Load Balancer* 
+NLB Target Group - Think this as *Group Balancer for Application Load Balancer*
 ![[Pasted image 20260323164814.png]]
-This mean, Like ALB Target Group but *could also Target of ALP* (Target types: *IP, instance, and ALB*)  
+This mean, Like ALB Target Group but *could also Target of ALP* (Target types: *IP, instance, and ALB*)
 ![[Pasted image 20260323164911.png]]
 
 
-*Cross-Zone Load Balancing* - Regional Load Balancer.  
--> This features is *Turn On automatically* when ALB is used. 
+*Cross-Zone Load Balancing* - Regional Load Balancer.
+-> This features is *Turn On automatically* when ALB is used.
 ![[Pasted image 20260323165738.png]]
 
-*Auto Scaling Group* -> *Create* new Instance *if the Condition is met.* 
+*Auto Scaling Group* -> *Create* new Instance *if the Condition is met.*
 ![[Pasted image 20260323170030.png]]
-*Max Size -* max size to prevent cost explosion. Highest mode. 
-*Desired Capacity -* AWS will target for the Desired Capacity. If traffic Hit, increase to this desirer capacity or Launch new istance to maintain this capacity if some instance fail. 
+*Max Size -* max size to prevent cost explosion. Highest mode.
+*Desired Capacity -* AWS will target for the Desired Capacity. If traffic Hit, increase to this desirer capacity or Launch new istance to maintain this capacity if some instance fail.
 *Min Size -* Size to keep when there are Low Traffic and No Traffic.Think of this as Maintainance mode.
 
 *Launch Template* - Auto-Created a pre-configuration EC2 Instance (Optional: add scaling policy for Auto-Scaling)
 ![[Pasted image 20260323171004.png]]
 
-Cloud Watch - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling. 
+Cloud Watch - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling.
 
-*Scaling Policies* - Auto-Scaling *Strategies* 
+*Scaling Policies* - Auto-Scaling *Strategies*
 ![[Pasted image 20260323171400.png]]
-Dynamic Scaling - Only Scale within a range of value (e.. > 70% -> scale-up or < 30% -> scale-down) -> Fixed. 
+Dynamic Scaling - Only Scale within a range of value (e.. > 70% -> scale-up or < 30% -> scale-down) -> Fixed.
 Scheduled Scaling - scale within a time-period (like 8AM - 12AM) -> Fixed
 Predictive Scaling - use ML algorithm to predict when to forcast scaling demand -> Automatic
 Scaling Cooldowns - *sometime resource could not distributed data fast enough* to the new EC2, so we need cooldown to prevent inefficient scaling. e.g. *FE loaded while BE isn't.*
@@ -581,7 +581,7 @@ Scaling Cooldowns - *sometime resource could not distributed data fast enough* t
 ---
 
 ### 3.3 Storage System in AI & in Data Platform
-*Important Note:* make usecase for each concepts that how business work. Like with this new function, what can I do with it -> Help gorup concepts with usecase and context.  
+*Important Note:* make usecase for each concepts that how business work. Like with this new function, what can I do with it -> Help gorup concepts with usecase and context.
 [quiz](https://forms.gle/xuyqzAUaZqDjnVHS8)
 
 **Key S3 Glacier Storage Class Types:**
@@ -615,34 +615,34 @@ AWS EFS for Linux-base workload
 S3 Intelligent Tiering is genuenly the best for it automatic lifecycle management.
 -> Its move data from Frequent -> Infrequent -> Archive -> Deep Archive based on access frequency.
 
-*AWS Storage Gateway* - Bridge/connecting *On-premise Infrastructure to AWS Cloud Service* for for backup, disaster recovery, and tiered storage.  
-	Usecase: move on-premised data storage on an NFS file system to AWS Cloud Storage. 
-Compare to EBS and EFS -> they are on Cloud service.  
+*AWS Storage Gateway* - Bridge/connecting *On-premise Infrastructure to AWS Cloud Service* for for backup, disaster recovery, and tiered storage.
+	Usecase: move on-premised data storage on an NFS file system to AWS Cloud Storage.
+Compare to EBS and EFS -> they are on Cloud service.
 	Note: EBS (Elastic Block Service) and EFS (- File Service -) and S3 is both block, file and tape (??)
 
-Note to deploy static website on S3 you have to allow **Bucket policy**. 
-+ $ **GOAL:** Identify what I want to focus on the most. THESE Concepts took too much time. 
+Note to deploy static website on S3 you have to allow **Bucket policy**.
++ $ **GOAL:** Identify what I want to focus on the most. THESE Concepts took too much time.
 
 ---
-## Lesson 5 - AWS Database and Integration 
+## Lesson 5 - AWS Database and Integration
 Amazon Neptune vs Amazon Simple Storage Service (Amazon S3) vs Amazon Relational Database Service (Amazon RDS vs Amazon DynamoDB
 
 SQL: Aurora, RDS, RedShift
 NoSQL: DynamoDB, Neptune (Graph), ElastiCache, .
-Db Migration service: 
+Db Migration service:
 + AWS DMS: explain, example, usecase
 + Transit Gateway: ...
 
 AWS SQS - allow user to decouple and expand microservice. Distributed system and serverless application.  Use Queue.
-AWS Kinesis Data Streams design to process large amount of realtime data. 
-AWS *Redshift* - serverless cloud storage, *analyze large data* in TERA to PETABYTE for BI. 
+AWS Kinesis Data Streams design to process large amount of realtime data.
+AWS *Redshift* - serverless cloud storage, *analyze large data* in TERA to PETABYTE for BI.
 AWS Snowball - service that move data from on-premise to Cloud in Terabyte and Petabyte scale (hence snowball (rolling))
 
 AWS Glue is for ETL (extract, transform, load)
-AWS Storage Gateway is a hybrid-cloud storage service *for connecting on-premise with AWS Cloud.* 
+AWS Storage Gateway is a hybrid-cloud storage service *for connecting on-premise with AWS Cloud.*
 Read Replica help with Read Scability bc it reduce load on a single database.
-*Redit in ElastiCache* support advance Data structure, persistant storage via AOF and HA through multi-AZ and read replicas. 
-	Note that DAX is build for DynamoDB not other DB engine. 
+*Redit in ElastiCache* support advance Data structure, persistant storage via AOF and HA through multi-AZ and read replicas.
+	Note that DAX is build for DynamoDB not other DB engine.
 
 
 *[Parquet Format](https://data-mozart.com/parquet-file-format-everything-you-need-to-know/):* It is self-describing, containing metadata, and supports schema evolution
@@ -652,27 +652,27 @@ Read Replica help with Read Scability bc it reduce load on a single database.
 
 ### AWS RDS
 + ? RDS (Relational Db Service) is a *managed database service* for differnt Database Engines. Manage Database Provisioning and Scaling, Backups and Recovery, Failure detection along with Monitoring and Insight Analysis. Support many database application like PostgreSQL, AWS Aurora, MariaDB, MySQL, etc...
-	Note that S3 is a Storage service like Harddisk and SSD, not the Database itself. 
+	Note that S3 is a Storage service like Harddisk and SSD, not the Database itself.
 
-**Read Replica** sp up to 15 Read Rpk (Replika) 
-*Use Case -> Read Rpk promote to DB in failover, reduce workload on primay DB.* 
+**Read Replica** sp up to 15 Read Rpk (Replika)
+*Use Case -> Read Rpk promote to DB in failover, reduce workload on primay DB.*
 During Failover, the *Read Replica can be promoted to a standablone database within current AZ* Useful for HA & Disaster Recovery.  ![[Pasted image 20260323224307.png]]
 
 When there're too much workload in a Database. You could create a Read replica db to only run BI/reporting for appplication server or Run the addition read-heavy workload on the replica -> *RDS Read replica is Scalable* (read only)
 ![[Pasted image 20260323224425.png]]
 
-*RDS Multi AZ (Disaster Recovery)* sync replica - Data is immediately replicated to the standby instance. Help with HA bc this auto failover to standby in case of: AZ, Network and Instance or Storage failure. 
+*RDS Multi AZ (Disaster Recovery)* sync replica - Data is immediately replicated to the standby instance. Help with HA bc this auto failover to standby in case of: AZ, Network and Instance or Storage failure.
 ![[Pasted image 20260323224648.png | 555]]
 
-Red mean Take Cost. ie. Send Data Across Region DB and DB between EC2. 
+Red mean Take Cost. ie. Send Data Across Region DB and DB between EC2.
 -> Database Replica is free within Region. Take cost across region.
 ![[Pasted image 20260323202541.png]]
 
 Amazon RDS can upgrade *From Single-AZ to Multi-AZ with No Downtime*
 ![[Pasted image 20260323202911.png]]
 *RDS Backups type:*
-	Auto-Backup: every N minutes, Daily, Point In Time Recovery (PITR) 
-	Or Manually create Snap-Shot. 
+	Auto-Backup: every N minutes, Daily, Point In Time Recovery (PITR)
+	Or Manually create Snap-Shot.
 	Note: Retention period mean retention to recover at instanetly at Point-In-Time.
 
 
@@ -681,20 +681,20 @@ Amazon RDS can upgrade *From Single-AZ to Multi-AZ with No Downtime*
 ![[Pasted image 20260323204036.png]]
 Compatible with MySQL and PostgreSQL.
 Cost: *~20% More than RDS*
-Each Aurora (Arr) instance have 6 copies across 3 AZ. Storage is distributed across hundreds of volumns. 
--> Built in HA. Fast / Near-instant Failover. 
+Each Aurora (Arr) instance have 6 copies across 3 AZ. Storage is distributed across hundreds of volumns.
+-> Built in HA. Fast / Near-instant Failover.
 ![[Pasted image 20260323204134.png]]
-*Only the Master storage responsible for Write*. Every other DB for read, replication, self-healing and auto-expanding. 
+*Only the Master storage responsible for Write*. Every other DB for read, replication, self-healing and auto-expanding.
 -> *Fault-tolerant storage* system that replicates data across 3 Availability Zones.
 
 
-Auto-Scale 
+Auto-Scale
 Shared Storage Volumn
 Is Serverless
 ![[Pasted image 20260323204242.png]]
--> Cost effective for Low/Intermittent workloads. 
-Aurora Global architecture - 1 Primary Region (read/write) and 5 secondary region (read-only). Each 2ndary supports up to 16 read replica. 
-	is low latency. 
+-> Cost effective for Low/Intermittent workloads.
+Aurora Global architecture - 1 Primary Region (read/write) and 5 secondary region (read-only). Each 2ndary supports up to 16 read replica.
+	is low latency.
 AuroraDB built for Disaster Recovery (having Replica across regions) with Simple setup. *RTO (Recovery Time Object) < 1 minutes.*
 
 *Aurora Backups* always enable. retention period 1 to 35 days (Within this retention windows support PITR (Point In Time Recovery)). Compare to RDS:
@@ -704,7 +704,7 @@ Aurora Snapshot always create new DB Snapshot.
 *Copy-on-Write* prototal allow to *clone Database instantly.* This work bc there no additional Data is being copied but rather *clone points to the same pages as the source.*
 -> This strategy only save new data as the Cloned data, the original data still being accessed through A database.
 	Aurora shares the same underlying storage volume between the source and the new clone, *only copying individual data blocks (pages) when they are updated.*
-	+ Cost only inccur for new data after the copy Point-Of-Time.  
+	+ Cost only inccur for new data after the copy Point-Of-Time.
 ![[Pasted image 20260323205958.png]]
 
 
@@ -723,13 +723,13 @@ A **queue** is a data structure that holds messages waiting to be processed
 This is the Standard Queue where *Receiver/Consumer Messages* can run on EC2 instances, Servers or Lambda (as long as its a REQUEST) - Yes, SQS run on API
 ![[Pasted image 20260323235115.png]]
 *Message Lifecycle*
-- retention time from 4 to 14 days. *Remains in the queue until a consumer deletes it.* Hold message up to 256kb.  
+- retention time from 4 to 14 days. *Remains in the queue until a consumer deletes it.* Hold message up to 256kb.
 + if a *mess fail* to process then SQS can move them to *Dead Letter Queue (DLQ)* for later inspection rather than letting it block the entire system.
 
-*SQS flow example:* 
+*SQS flow example:*
 1. *Poll SQS for messages:* Poll receive up to 10 mess per request
-2. *Process the messages:* Example: store data in RDS, trigger workflows, etc. 
-	If there are multiple Consumer, after a consumer pull the message, the message will temporary become invisible (about 30s, can be edit) to prevents multiple consumers from processing the same task simultaneously.  
+2. *Process the messages:* Example: store data in RDS, trigger workflows, etc.
+	If there are multiple Consumer, after a consumer pull the message, the message will temporary become invisible (about 30s, can be edit) to prevents multiple consumers from processing the same task simultaneously.
 3. *Delete the messages:* Use DeleteMessage API after successful processing to prevent *processing duplication.*
 ![[Pasted image 20260323235436.png]]
 
@@ -738,17 +738,17 @@ This is the Standard Queue where *Receiver/Consumer Messages* can run on EC2 ins
 ![[Pasted image 20260323233736.png]]
 SQS Keys Benefit are:
 + Elasticity with Auto-Scaling (add more worker instances based on the number of message in the queue)
-+ Fault Tolerant 
++ Fault Tolerant
 	- if a *mess fail* to process then SQS can move them to *Dead Letter Queue (DLQ)* for later inspection rather than letting it block the entire system.
 	- if the servers go down, the message sit safely in queue.
-+ You Pay for what you Used. 
++ You Pay for what you Used.
 
-*Dynamic SQS Queue with Auto Scaling Group* - You set a observer (Cloud Watch - CW) to detect a threshold (CW Alarm - CWA), if number of Queues exceed that threshold then scale-up else in-reverse scale-down.  
+*Dynamic SQS Queue with Auto Scaling Group* - You set a observer (Cloud Watch - CW) to detect a threshold (CW Alarm - CWA), if number of Queues exceed that threshold then scale-up else in-reverse scale-down.
 ![[Pasted image 20260324000345.png]]
 1. *Amazon CloudWatch* tracks the `ApproximateNumberOfMessagesVisible` metric from the **SQS Queue**. This represents the "backlog" or queue length.
 2. *Alarm Trigger* trigger if pass a threshold (e.g. >= 100 message in queue) Then active 'ALARM' state.
-3. *Auto Scaling Group (ASG) Action* if the alarm get send to the ASG, the ASG will executes a scaling policy to 'add' or 'remove' EC2 Instances -> So that how Auto-Scaling work behind the hood. 
-4. *Processing*, the current and new EC2 instances immediately begin to *Poll for messages* from the SQS queue.   
+3. *Auto Scaling Group (ASG) Action* if the alarm get send to the ASG, the ASG will executes a scaling policy to 'add' or 'remove' EC2 Instances -> So that how Auto-Scaling work behind the hood.
+4. *Processing*, the current and new EC2 instances immediately begin to *Poll for messages* from the SQS queue.
 
 **Key Metric: Backlog Per Instance**
 ![[Pasted image 20260324001041.png]]
@@ -759,10 +759,10 @@ SQS Keys Benefit are:
 Example for **Amazon SQS** acts as a "buffer" to decouple a **Front-end web app** from a **Back-end processing application**. So how Decoupling Architecture (kiến trúc tách rời) work here:
 + *Asynchronous Comminitation:* FE receive and immediately send user request without knowing if the backend is busy or not.
 + *Independent Scaling:* FE and BE scale independetly because their input request stack up differently (FE process immediately while BE take more time to process -> mostly only BE need to be scale bc of the message in SQS queue).
-+ *Spike Traffic Handling* because the FE dump all the request immediately into the SQS. Even if the BE coudn't follow up, the message still stay safe in queue and will be processes after a T period of time 
-	-> that why some user have to wait for the page to load 
-	-> save the website from crashing even when there're too much traffic. 
-	-> Could be use to create fast website illusion (e.g the FE send the user an instant "Order Receive" without worrying the BE from missing the order msg request)  
++ *Spike Traffic Handling* because the FE dump all the request immediately into the SQS. Even if the BE coudn't follow up, the message still stay safe in queue and will be processes after a T period of time
+	-> that why some user have to wait for the page to load
+	-> save the website from crashing even when there're too much traffic.
+	-> Could be use to create fast website illusion (e.g the FE send the user an instant "Order Receive" without worrying the BE from missing the order msg request)
 ![[Pasted image 20260324001405.png | 777]]
 
 *SQS Security* - use IAM (use NotebookLM to differentiate each service Security, also ask why is this matter)
@@ -771,43 +771,43 @@ Example for **Amazon SQS** acts as a "buffer" to decouple a **Front-end web app*
 *Message Visibility Timeout Cycle* - if a message not deleted within the timeout. If becomes visible again in the queue so another Comsumer can process it again.
 ![[Pasted image 20260324003708.png]]
 
-*Long Pooling* - *wait message to arrived, if too long timeout.* 
-The Consumer wait for a period of time for "Message to arrive or Timeout end" instead of returning an Empty Respond right always -> That how timeout work. 
+*Long Pooling* - *wait message to arrived, if too long timeout.*
+The Consumer wait for a period of time for "Message to arrive or Timeout end" instead of returning an Empty Respond right always -> That how timeout work.
 	*Empty Respond example:* user press 'Check Connection on EC2 server, wait for 20s, if there are no return respond (ie. end of timeout) then return empty
 ![[Pasted image 20260324003740.png]]
--> *Dynamic SQS Queue* + Long Pooling -> Improve Resilience for multiple EC2/services. 
+-> *Dynamic SQS Queue* + Long Pooling -> Improve Resilience for multiple EC2/services.
 
 ### AWS SNS (Pub/Sub model) - Send a message to “many” receivers
-Used to send one message to multiple receivers (fan-out pattern), like a Paper Publisher. 
-	Note: 1 Model have multiple pattern (like design core philopsophy), *Fan-out pattern is an implementation of Pub/Sub model.* 
+Used to send one message to multiple receivers (fan-out pattern), like a Paper Publisher.
+	Note: 1 Model have multiple pattern (like design core philopsophy), *Fan-out pattern is an implementation of Pub/Sub model.*
 ![[Pasted image 20260324004246.png]]
 *Pub/Sub Message* - Basically calling Multiple Function at once. Or the Authors sending News to all Subcribers at once.
 ![[Pasted image 20260324004458.png]]
 
 ![[Pasted image 20260324004727.png]]
 
-*Security* - integrate with IAM for secure access. 
+*Security* - integrate with IAM for secure access.
 ![[Pasted image 20260324004756.png]]
 
 *Use Case:*
 + For alert teams of new tasks.
 + **Event-Driven Architecture:** Triggering subsequent actions (e.g., triggering a Lambda function when a new file is uploaded to S3).
 + **Media Processing:** A single "Image Uploaded" event triggers parallel tasks for generating thumbnails, performing image recognition, and storing metadata.
-+ In Continual Learning AI inference, "data send" task trigger the model to learn right alway, and get send back to the dataset for replay, and also trigger analytic function to update the Dashboard. 
++ In Continual Learning AI inference, "data send" task trigger the model to learn right alway, and get send back to the dataset for replay, and also trigger analytic function to update the Dashboard.
 
 ### SNS + SQS Fan Out Architecture -> Resilience & Scalable
 + $ Allow you to *Scale AWS SQS* model
-+ ? Imagine you have Multiple Service (BI, ML, Monitoring, etc..) and want to *scale each service differently* while being resilience.  
-*SNS + SQS Fan Out Architecture* send 1 message fom SNS to multiple SQS queues (subcribers) 
++ ? Imagine you have Multiple Service (BI, ML, Monitoring, etc..) and want to *scale each service differently* while being resilience.
+*SNS + SQS Fan Out Architecture* send 1 message fom SNS to multiple SQS queues (subcribers)
 -> Fully Decoupling architecture where each SQS queue receive a copy of the main message.
--> Very Scalable bc this is One-to-Many. 
+-> Very Scalable bc this is One-to-Many.
 ![[Pasted image 20260324005013.png]]
 1) **Publisher:** A producer service (like an Order API) sends one message to an **SNS Topic**.
-	
+
 2)  **SNS (The Broadcaster):** SNS acts as the central hub. It immediately "fans out" or copies that message to every SQS queue subscribed to it.
-	
+
 3) **SQS (The Buffers):** Each downstream service has its own dedicated SQS queue. These queues store the message until the service is ready to process it.
-	
+
 4) **Consumers:** Independent workers (like AWS Lambda or EC2 instances) pull messages from their respective queues and perform specific tasks
 
 ![[Pasted image 20260324005338.png]]
@@ -816,43 +816,43 @@ Used to send one message to multiple receivers (fan-out pattern), like a Paper P
 ### SNS FIFO - Ensure strict Event's Order & Executed Exactly One -> Consistency
 **SNS FIFO** - a messaging service designed for applications where the **order of events is critical** and **duplicates cannot be tolerated**.
 + **Exactly-Once Processing:** It prevents a message from being delivered or processed more than once and In the *Exact Order.*
-+ ! Limite Throughput due to sequential in order. 
++ ! Limite Throughput due to sequential in order.
 ![[Pasted image 20260324005811.png]]
-*Use Case:* 
-+ *Bank Transaction* where everything have to be in order. No more No less. 
-+ *Inventory Update* making sure item update correctly. 
-+ *Log* - make sure log are save only 1 at a specific point of time. 
+*Use Case:*
++ *Bank Transaction* where everything have to be in order. No more No less.
++ *Inventory Update* making sure item update correctly.
++ *Log* - make sure log are save only 1 at a specific point of time.
 
 ### SNS FIFO + SQS FIFO Fan Out -> Strict Order, Distributed, Decoupling, Resilient
-*SNS FIFO & SQS FIFO Fan Out* like above but now with FIFO ordering. Where 1 *Message get send and distributed exactly 1* from SNS FIFO Topic -> This making sure *Big Request don't get repeated and waste resource.* 
--> Very Intuitive, because you want the Main Order to be Distributed to other service exactly One (strict order), while multiple services receive the order and execute idenpendetly to accomplish different task like BI, Training ML/DL model, Archiving, etc..   
+*SNS FIFO & SQS FIFO Fan Out* like above but now with FIFO ordering. Where 1 *Message get send and distributed exactly 1* from SNS FIFO Topic -> This making sure *Big Request don't get repeated and waste resource.*
+-> Very Intuitive, because you want the Main Order to be Distributed to other service exactly One (strict order), while multiple services receive the order and execute idenpendetly to accomplish different task like BI, Training ML/DL model, Archiving, etc..
 ![[Pasted image 20260324010643.png]]
 
 ### Kinesis Data Streams - Real-time Streaming & Analytics
 ![[Pasted image 20260324011222.png]]
-+ Data Retention last 1 to 365 days. 
++ Data Retention last 1 to 365 days.
 + Support Data Replay (reprocessing)
 + Data cannot be delete manually (Expired after retention period )
 + *Immutability:* Once data is inserted into Kinesis Data Streams, it cannot be deleted, ensuring data integrity.
 + *Partition Keys:* *Same partition key's msg are directed to the same shard*, providing key-based ordering for data.
-+ *Shard* is a throughput unit and *uniquely identified* (through partition key) sequence of data within a data stream. Where each shards (throughput unit) provideds a fixed amount of read and write capacity. 
++ *Shard* is a throughput unit and *uniquely identified* (through partition key) sequence of data within a data stream. Where each shards (throughput unit) provideds a fixed amount of read and write capacity.
 	*AWS allow you to scale shard flexibly*: To increase throughput, you can increase the number of shards (split a shard); to decrease capacity and cost, you can reduce the number of shards (merge shards).
 
-*Core Architecture* Kinesis Data Streams is built on a distributed architecture that ensures high availability and durability by replicating data across three Availability Zones (AZs) 
+*Core Architecture* Kinesis Data Streams is built on a distributed architecture that ensures high availability and durability by replicating data across three Availability Zones (AZs)
 
 *Each Shards hold up to 1 MB/s (or 1,000 records/s)* for writes and 2 MB/s for reads. Shard can be scale manually (Provisioned) or automatically (On-Demand).
 ![[Pasted image 20260324011912.png]]
 
-**Enhanced Fan-Out** - distribute workload to multiple EC2 instances. 
+**Enhanced Fan-Out** - distribute workload to multiple EC2 instances.
 + Each consumer receives two megabytes per second of data per shard.
-+ Low latency (70 milisecond) & Scalability. 
++ Low latency (70 milisecond) & Scalability.
 + Support KCL 2.0 and AWS Lambda making it versatile solution for various use cases.
 ![[Pasted image 20260324011606.png]]
 **Use Case:** High-throughput, *real-time data* that needs to be *"replayed" or analyzed by multiple apps simultaneously.*
 ![[Pasted image 20260324020731.png]]
 
 ### Amazon Data Firehose - Zero-Administration Data Loading (ETL).
-Scenario: receive data from AWS Kinesis and automatically loads it into **Amazon S3** or **Redshift**. It "pours" the stream into a storage bucket for *Data Replay and Analytics* with *almost no configuration.*  
+Scenario: receive data from AWS Kinesis and automatically loads it into **Amazon S3** or **Redshift**. It "pours" the stream into a storage bucket for *Data Replay and Analytics* with *almost no configuration.*
 	Note: Could Preprocess data using Lambda to transform raw data before delivering it to the destination.
 ![[Pasted image 20260324021853.png]]
 
@@ -882,26 +882,26 @@ Scenario: receive data from AWS Kinesis and automatically loads it into **Amazon
 	On-premise → AWS Cloud -> Hybrid recovery approach AWS
 	Region A → AWS Region B -> Cloud-native disaster recover
 
-*Recovery Metrics* - Tradeoff between *Amount Recover Data and Downtime.* Low Metrics (Better) mean more Complexity and Cost.  
+*Recovery Metrics* - Tradeoff between *Amount Recover Data and Downtime.* Low Metrics (Better) mean more Complexity and Cost.
 - **[Recovery time objective (RTO)](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/disaster-recovery-dr-objectives.html):** The *maximum acceptable delay* between the interruption of service and restoration of service -> This determines an acceptable length of time for service downtime.
-	Fast Back-Online mean less data Recovery. 
+	Fast Back-Online mean less data Recovery.
 - **[Recovery point objective (RPO)](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/disaster-recovery-dr-objectives.html):** The *maximum acceptable amount of time* since the last data recovery point (ie. checkpoint) -> This determines what is considered an acceptable loss of data.
 ![[Pasted image 20260324174421.png]]
 
 
 **DR strategies - Tradeoff between Cost and "Data & Recovery Speed" (RTO/RPO)**
-Of course you need Multi-AZ and Multi-Region but how much ? what is the right Threshold for your company. 
+Of course you need Multi-AZ and Multi-Region but how much ? what is the right Threshold for your company.
 ![[Pasted image 20260324174636.png]]
 
 #### Database Migrations
 -> Migrate Data between Database
 
 #### [Amazone Backup](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud/)
-**Backup and Restore** - Mult-AZ and Multi-Region backup -> High RPO but *least Efficient RTO.* 
+**Backup and Restore** - Mult-AZ and Multi-Region backup -> High RPO but *least Efficient RTO.*
 ![[Pasted image 20260324175945.png]]
 
 
-**Pilot light -** Only keep Active and *save the most Important Services (Primary Database, EC2, etc..)* (imagine what you save if your house on fire). Least Budget for for Full Recovery (but might having the most downtime) 
+**Pilot light -** Only keep Active and *save the most Important Services (Primary Database, EC2, etc..)* (imagine what you save if your house on fire). Least Budget for for Full Recovery (but might having the most downtime)
 ![[Pasted image 20260324175353.png]]
 
 
@@ -909,7 +909,7 @@ Of course you need Multi-AZ and Multi-Region but how much ? what is the right Th
 ![[Pasted image 20260324175530.png]]
 
 
-**Multi-site Active/Active** - Runs full production workloads across two or more regions like nothing happened. 
+**Multi-site Active/Active** - Runs full production workloads across two or more regions like nothing happened.
 ![[Pasted image 20260324175911.png]]
 
 ---
@@ -921,7 +921,7 @@ VPC (Virtual Private Cloud) is a logically isolated section of the AWS cloud whe
 + *IP Address Range:* Define the boundary of our data center.
 + *The Internal Connection:* In our private space, we set the rule for server work. We don’t want they talking together.
 + *Gateway/Access:* Our server is 100% isolated from the public internet, we need open the door for customer access.
-	
+
 + Question: We’re moving company’s servers to the cloud. And we want it as our *own private data center*. What are exactly we want ?
 
 ### Private Network in AWS
@@ -937,7 +937,7 @@ Base Address: 176.16.XX
 	16 free bits.
 	XX -> freebits -> can change flexibly.
 
-8 số 1 là Broadcast address. 
+8 số 1 là Broadcast address.
 
 ### Controlling Traffic Flow
 ![[Pasted image 20260326210340.png]]
@@ -948,7 +948,7 @@ Route Table - default route table
 Đi ra: Public Subnet -> Internet Gateway
 
 
-**Nat Instance** - Instance nên nó là 1 service. 
+**Nat Instance** - Instance nên nó là 1 service.
 Vì Private subnet ko đi vào từ bên ngoài dc nên nó cần kết nối với NAT instance (NAT có public IP, giúp kết nối đc ra bên ngoài). Làm *trung gian giữa Public và Private subnet.*
 ![[Pasted image 20260326211204.png]]
 
@@ -957,18 +957,18 @@ Vì Private subnet ko đi vào từ bên ngoài dc nên nó cần kết nối v�
 Security Group at Instance level.
 ![[Pasted image 20260326211529.png | 488]]
 
-*Inbound Rules* -> traffic from application level. 
-*Outbound Rules* -> 
+*Inbound Rules* -> traffic from application level.
+*Outbound Rules* ->
 
 ### Network Security
 **Stateful vs Stateless Firewall**
 ![[Pasted image 20260326212203.png]]
 Stateful - allow the return traffic automatically
 
-Network ACL (security at subnet level - stateless) - control what goes in and out of the subnet.  
+Network ACL (security at subnet level - stateless) - control what goes in and out of the subnet.
 ![[Pasted image 20260326212359.png]]
 
-### Naming & Access: DNS 
+### Naming & Access: DNS
 A record - route traffic to IPv4
 C name - route traffic from a domain to another domain (between 2 domain)
 Alias - turn on (maintain connection to IPv4)

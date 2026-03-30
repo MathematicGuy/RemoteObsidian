@@ -56,8 +56,6 @@ Modern heuristic techniques—like Gradient Projection and even Linear Attention
 ![[Pasted image 20260324210957.png | 233]]
 
 
--
-
 
 ### 3. Current State-of-the-Art (SOTA) - Identify what is currently working best.
 *What are the standard datasets used for benchmarking?*
@@ -133,6 +131,6 @@ Generally *Hard to Very Hard for a Begineer:*
 	+ General Understanding about each Continual Learning approaches Method, How ML/DL learn, Modify the Base model (CNN, Transformer, BERT, ViT).  ![[Pasted image 20260312180513.png]] For example, connect a specific problem from NLP/CV with CL.
 	
 + Often, you have to *combine multiple approach in a CL paper*.
-
-
 + Security Speaking - Continual Learning is very Prone to Prompt Injection ([What so hard about continual learning](https://www.seangoedecke.com/continuous-learning/))
+
+
