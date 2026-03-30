@@ -77,12 +77,14 @@ if speed =
 + 60 < X <= 80 -> 55
 + >= 60 -> 35m
 
+Niên hạn lái xe của Xe chở *Hàng* -> *25* NĂM. 
+Niên hạn lái xe của Xe *Người* trên 8  -> *20* NĂM. 
+
 người lái xe *ko lái liên tục* quá 4 tiếng (có thể nghỉ xong lái tiếp). *Tối đa là 10 tiếng* 1 ngày.
 xe siêu trọng -> báo hiệu kích thước và trọng lg của hàng
 xe cứu hộ pải có dấu hiệu nhận diện và tuân thủ pháp luật. 
 
 Xe ưu tiên có đặc quyền gì: vượt đèn, đi ngược chiều, đi vào làn đg nghỉ
-
 Cấm dừng $\neq$ Cấm Đỗ
 1 Phương tiện Ko Ám chỉ Mọi phương tiện
 
@@ -130,7 +132,8 @@ Tuyến đg cầu vượt vắt qua *(middle)* - có đg nhỏ đi lên cầu �
 giao nhau vs đg ưu tiên -> mọi xe phía tr'c mặt đi tr'c
 ![[Pasted image 20260330001244.png | 100]]
 
-Priority Road: xe ưu tiên - đg ưu tiên - rẽ phải - đi thẳng - rẽ trái;
+Priority Road: xe ưu tiên - đg ưu tiên - rẽ phải - đi thẳng - rẽ trái; 
+	Nếu 2 xe đi qua ngã 4 cùng 1 lúc, thì xe nào Bên phải Trống thì đc đi tr'c. Vì bên phải Trống nghĩa là xe đó đang ở phía tr'c. 
 
 Ô tô ko đến 3.5 tons, chở khách 28 chỗ đc phép đi 90kmh (đg 1 chiều (2 làn 1ch)) đến 80km/h (đg 2 chiều, chỉ có 1 làn 1ch).
 Ngược lại Xe Buýt (trở người thường xuyên), xe tải lớn hơn 3.5 tấn đc chỉ đc đi tối đa 70km/h làn đg 1 chiều và 60km/h đg 2 chiều. 
