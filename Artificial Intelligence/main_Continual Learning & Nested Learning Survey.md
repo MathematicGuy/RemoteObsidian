@@ -10,7 +10,7 @@
 [[Continous Learning vs RAG in solving Catastrophic Forgeting]] 
 + ? Why they are not substitutes.
 + $ **Want the model remember new infors directly (ie. update its params)**. *RAG* is just a tool for retrieving new infors, *retrieving too much then we started to have A PROBLEM called hallucination.* Yes, **RAG can be use as a 2nd Brain but there're limitation**.
-### [[Class Incremental Learning Survey]]
+### [[3 Types of Incremental Learning Survey]]
 
 ### [[Continual Learning Code]]
 
@@ -41,11 +41,11 @@
 
 | Method Categories (Rank by Popularity) | Paper Count | Source |
 | -------------------------------------- | ----------- | ------ |
-| Replay                                 | 74          | 1      |
+| Replay                                 | **74**      | 1      |
 | Regularization                         | 28          | 1      |
-| Representation                         | 31          | 1      |
+| Representation                         | **31**      | 1      |
 | Optimization                           | 28          | 1      |
-| Architecture                           | 36          | 1      |
+| Architecture                           | **36**      | 1      |
 
 
 ----

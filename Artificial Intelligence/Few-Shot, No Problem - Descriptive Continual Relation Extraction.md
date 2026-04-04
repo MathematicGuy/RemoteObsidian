@@ -50,13 +50,11 @@ Detailed Description: This relation identifies the creator or co-creator of an e
 ## Concise Overview
 Provide a concise overview of the methodology or approach used in the study, including the data sources, data collection and analysis methods, and any statistical techniques
 ### Problems Fomulation
-
 **Main Problem:** in FCRE, *Replay sample have Under Representative sample* that worsen model continual learning capability in data scarcity scenario. 
 
 **N-way-K-shot Problem** *simulate* training model in *Data Scarcity scenario.*  
 - *1-Shot Learning (N-way 1-shot):* The model is given only one example per class (e.g., *5-way 1-shot* means *classifying 5 new classes with 1 example each class*).
 - *Zero-Shot Learning:* The model *classifies new data without any training examples*, relying on auxiliary information (like text descriptions).
-
 
 **N-way-K-shot in Few-shot Continual Relation Extraction (FCRE)**   
 + For $t$-task, model training on the dataset $$D^t=\{(x^t_{i},y^t_{i})\}^{N\times K}_{i=1}$$ where N is *number of relations* in task $R^t$ and $K$ is number of *samples per relation.*
@@ -102,10 +100,8 @@ $z_{x}$ represent the hidden vector for Raw *Description.* While show promising,
 
 ![[Pasted image 20260327225012.png | 444]]
 
-
 **Hard Soft Margin Triplet Loss ($L_{ST}$)**
 -> Enhance **discrimination and boundaries**. Looks for the hardest Positive and Negative sample (e.g. sequence with similar token) to get right. 
-
 
 Learn from $(a, p, n)$ where $dist(a, p)$ is Minimized and $dist(a, n)$ is maximized. 
 ![[Pasted image 20260327225142.png | 666]]
@@ -130,6 +126,8 @@ Experiment with BERT on 2 widely used benchmark for Relation Extraction:
 #### N-way-K-shot Evalution Dataset
 [FewRel](https://github.com/thunlp/FewRel) - [FewRel 1.0](https://aclanthology.org/D18-1514.pdf), FewRel 2.0 ([FewRel 2.0 domain adaptation](https://thunlp.github.io/2/fewrel2_da.html) / [FewRel 2.0 none-of-the-above detection](https://thunlp.github.io/2/fewrel2_nota.html))
 In 3-way-2-shot (N=3, K=2) where *each Class/Relation contain 2 Example as labeled* training data, model need to distinguish between three new, previously unseen, relation types in the current task.  
+![[Pasted image 20260403202646.png | 888]]
+
 
 FewRel 1.0 have **64 relations** for training, **16 relations** for validation, **20 relations** for testing with Training Example potentially being Under-Representative.  
 ![[Pasted image 20260325184333.png | 555]]
@@ -142,13 +140,12 @@ Relation have multiple Usecase. Most challenging characteristic of the dataset i
 
 
 [TACRED](https://nlp.stanford.edu/projects/tacred/#examples) - Relation Extraction (RE) dataset with *79.5% of its examples* are labeled as _no_relation_. 
-+ ? **TODO:** WHat it mean for "Few-Shot, No Problem - Descriptive Continual Relation Extraction" paper to achive high Accuracy in FCRE on TACRED dataset. 
 ![[Pasted image 20260325184352.png | 777]]
 ![[Pasted image 20260325194414.png | 555]]
 [Tacred Error Rates Analysis](https://arxiv.org/pdf/2004.14855)
 
 
-## Methodology - Proposed Method (1h30 Ideas & Method Overview - 3h Connect Ideas and Deep Dive)
+## Methodology - Proposed Method 
 Reference:  [Constractive Representative Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/), [The Beginner’s Guide to Contrastive Learning](https://www.v7labs.com/blog/contrastive-learning-guide)
 
 ### Label Descriptions - Stable knowledge Anchor
@@ -196,16 +193,17 @@ Traditional methods such as Nearest Class Mean (NCM) predict relations by select
 
 Note: "prototype proximity" is a spatial measurement of how "close" a new, unseen sentence is to the average of the examples the model has already learned for a specific relation.
 
-#### 1. Prototype Proximity (Spatial Score)
+#### Measurement 1: Prototype Proximity (Spatial Score)
 The model calculates the **Negative Euclidean distance** between the hidden representation $z$ of a test sample and each relation prototype $p_r$.
-**Formula for Prototype:** $$p_r = \frac{1}{L} \sum_{i=1}^{L} z_i$$A **prototype** is simply the "mathematical average" of a category. If you have $L$ examples of a "founder" relationship, the model adds their vectors together and divides by L to find the "center" of that group
+**Formula for RELATION Prototype:** $$p_r = \frac{1}{L} \sum_{i=1}^{L} z_i$$A **Relation Prototype $p_{r}$** is simply the "mathematical average" of a category. If you have $L$ examples of a "founder" relationship, the model adds their vectors $z_{i}$ together and divides by $L$ to find the "center" of that group. 
 
-**Distance Score:** $$E(x,r) = -\|z - p_r\|_2**$$Euclidean Distance - the **negative sign** is a math trick: in ranking, higher numbers are better. By making the distance negative, a "small distance" (e.g., −1) becomes a higher score than a "large distance" (e.g., −10).
 
-#### 2. Description Similarity (Semantic Score)
+**Distance Score:** $$E(x,r) = -\|z - p_r\|_2**$$Euclidean Distance - the **negative sign** is a math trick: in ranking, higher numbers are better. By making the distance *negative, a "small distance" (e.g., −1) becomes a higher score* than a "large distance" (e.g., −10). 
+
+#### Measurement 2: Description Similarity (Semantic Score)
 Simultaneously, the model calculates the **cosine similarity** between the test representation $z$ and the averaged relation description prototype $d_r$.
-**Formula for Description Prototype:** $$d_r = \frac{1}{K} \sum_{i=1}^{K} d_r^i$$Similar to the prototype above, this is the average of the K different detailed descriptions that Gemini generated for the relation. It represents the "ideal meaning" of the class.
-
+ 
+**Formula for DESCRIPTION Prototype:** $$d_r = \frac{1}{K} \sum_{i=1}^{K} d_r^i$$*Similar to the prototype above*, this is the average of the *$K$ different detailed descriptions* that Gemini generated for the relation. It represents the "ideal meaning" of the class.
 
 **Similarity Score:** $\gamma(z, d_r)$ - Cosine Similarity -> Measures the **angle** between two vectors. It checks if the "direction" of the test sentence’s meaning points toward the "direction" of the dictionary definition.
 
@@ -218,7 +216,6 @@ $$DRI(x,r) = \frac{\alpha}{\epsilon + rank(E(x,r))} + \frac{1 - \alpha}{\epsilon
 **$\alpha$**: A hyperparameter balancing the influence of distance vs. similarity. 
 	This is a **weighting hyperparameter**. If α is high, the model trusts the "Prototypes" (examples) more. If α is low, it trusts the "Descriptions" (definitions) more.
 **$\epsilon$**: prevent dividing by zero -> make sure that a relation ranked #100 doesn't totally ruin the math.
-
 
 **Final Prediction:** The model predicts the relation $y^*$ with the highest DRI score (ie. Best Relation)
 $$y^* = \text{argmax}_{r=1,...,n} DRI(x,r)$$

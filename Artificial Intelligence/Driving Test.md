@@ -5,7 +5,19 @@ cấm đỗ xe - ngày lẻ (1 gạch trắng), ngày chẵn 2 gạch trắng
 	Biểm *Cấm Đỗ ko Cấm Dừng Xe*
 ![[Pasted image 20260330021732.png | 444]]
 
+**Hiệu lệnh cảnh sát giao thông**
+- gẩy cảnh tay lên tr'c về sau -> đi nhanh hơn. 
+- Giơ 1 tay Thẳng Lên trên -> mọi hướng dừng lại trừ những xe đã đi giữa đg rồi. 
+- Giơ tay ngang theo hướng nào thì hướng đó đc đi. Ngược lại, những hướng còn lại dừng lại.
 
+**Quy tắc vượt** - vượt trái by default, nhưng nếu bị xe chuyên dùng bên phải chặn thì dc phép vượt trái. 
+
+**Quy tắc đg cao tốc** - nếu đang đi mà vô tình đi quá lối rẽ thì pải đi tiếp (ko đc quay đầu) để rẽ vô lối rẽ tiếp theo.  
+
+Xe máy chuyên dùng (xe máy công nghiệp, lâm nghiệp, quốc phòng) > Xe máy $(>50m^3)$ > Xe gắn máy $(>50m^3)$  
+Đi vô vòng xuyến
++ có biển - nhường đg bên trái
++ ko biển - nhường đg bên 
 
 viền xanh gạch đen - HẾT CẤM
 xe ô tô khác xe ô tô con
@@ -16,6 +28,8 @@ tên đỏ trắng - ưu tiên cho xe con trong đường hẹp.
 kẻ Trắng - đg 1 chiều
 kẻ đứt mạch - đg phép lấn làn, qua làn, chuyển làn
 kẻ thẳng (ko đứt mạch) - ko đc lấn làn, chuyển làn
+
+xe ô tô đầu kéo ko dc kéo nhiều khác nhau. 
 
 kẻ Vàng - đg 2 chiều
 2 kẻ vàng song song (bên nào nét đứt là bên đấy đc phép lấn làn nếu cần thiết kể cả trong đg 2 chiều
@@ -101,12 +115,23 @@ Vạch vàng -> ngược chiều. Trắng -> cùng chiều.
 Nét đứt -> đc phép đè lên vạch và qua vạch. Nét liền là tuyệt đối ko đc qua. 
 Khi lái xe pải luô  n luôn quan sát. 
 
+(Thứ hạng theo thứ tự tăng dần e.g. 1,2,3,4 và A,B,C,D,E,DE)
+Hạng có thêm E như DE nghĩa là bằng lái xe Semi-ruck
+Lái xe mô tô Hạng A1 -> ko quá m3
 Hạng B -> 8 chỗ (3500kg)
-Lái xe bus 29 chỗ or 750kg yêu cầu 27 tuổi trở lên. (Hạng D)
+Lái xe bus 29 chỗ or *750kg* yêu cầu *27* tuổi trở lên. (Hạng *D*)
 Hạng BE - xe rơ mooc, tổng khối lg 750kg.
 Hạng C > C1:
 + C1: 3500-7500kg
 + C là > 7500kg (bao gồm cả Quyền hạn trong C1 vì C > C1)
+
+Xe semi-truck khác với Máy Kéo (xe công nông kéo hàng)
+Biển xe tải cấm luon cả Máy Kéo. ![[Pasted image 20260331095922.png | 222]]
+Biển báo tam giác vàng (Warning) - cảnh báo đg người đi bộ cắt qua đg đi xe.
+Biển xanh nước biển - đg dành cho ng đi bộ, các loại xe ko đc phép đi vô. 
+Biển *Vuông* (là biển *chỉ dẫn*) còn biển *Tròn* là biển *hiệu lệnh.*
+
+Tuổi tối đa cho ng lái xe buýt > 29 chỗ - 57 tuổi đối vs Nam và 55 đối vs Nữ vì Nữ bớt liều hơn. 
 
 Cửa Chui khác Đg Hầm (có hình ảnh minh họa màu đen bên trong )
 
@@ -132,7 +157,7 @@ Tuyến đg cầu vượt vắt qua *(middle)* - có đg nhỏ đi lên cầu �
 giao nhau vs đg ưu tiên -> mọi xe phía tr'c mặt đi tr'c
 ![[Pasted image 20260330001244.png | 100]]
 
-Priority Road: xe ưu tiên - đg ưu tiên - rẽ phải - đi thẳng - rẽ trái; 
+Priority Road: xe đã đi giữa đg - xe ưu tiên - đg ưu tiên - rẽ phải - đi thẳng - rẽ trái; 
 	Nếu 2 xe đi qua ngã 4 cùng 1 lúc, thì xe nào Bên phải Trống thì đc đi tr'c. Vì bên phải Trống nghĩa là xe đó đang ở phía tr'c. 
 
 Ô tô ko đến 3.5 tons, chở khách 28 chỗ đc phép đi 90kmh (đg 1 chiều (2 làn 1ch)) đến 80km/h (đg 2 chiều, chỉ có 1 làn 1ch).
