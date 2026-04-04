@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "46b627e884f114a5",
+    "id": "9da5c57fc1951c54",
     "type": "split",
     "children": [
       {
-        "id": "78ae1cad63985a84",
+        "id": "da34224273a91f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "29ff1f31794dbfd9",
+            "id": "ae5a4f8a87b41085",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,16 +24,21 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "b8ea5ba60bb552b1",
+=======
+            "id": "f0e9d52793f826c8",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+                "file": "AWS Cloud Practitioner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Few-Shot, No Problem - Descriptive Continual Relation Extraction"
             }
           },
@@ -49,6 +54,9 @@
               },
               "icon": "lucide-file",
               "title": "How to Research"
+=======
+              "title": "AWS Cloud Practitioner"
+>>>>>>> origin/main
             }
           }
         ],
@@ -58,15 +66,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "512a8d70ef63d5ef",
+    "id": "6f91cab337894438",
     "type": "split",
     "children": [
       {
-        "id": "2d6499fed2e80057",
+        "id": "c9141d83324b4b85",
         "type": "tabs",
         "children": [
           {
-            "id": "b7a92fa9069df362",
+            "id": "cc614227d84360b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +87,7 @@
             }
           },
           {
-            "id": "64c4905edd21fbe6",
+            "id": "fb53e6cc806487f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +104,7 @@
             }
           },
           {
-            "id": "f707968327b11bce",
+            "id": "21977363b7eacce4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,20 +121,24 @@
     "collapsed": true
   },
   "right": {
-    "id": "ac70790015114a68",
+    "id": "b8685e963a2044e9",
     "type": "split",
     "children": [
       {
-        "id": "cf1998851b798b74",
+        "id": "b40236c73dcd21db",
         "type": "tabs",
         "children": [
           {
-            "id": "a572372a07b0397e",
+            "id": "f051d76cb9809efc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "2 ACTIONS/_Focus.md",
+=======
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +148,15 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for _Focus"
+=======
+              "title": "Backlinks for AWS Cloud Practitioner QUIZ & Video"
+>>>>>>> origin/main
             }
           },
           {
-            "id": "48a2427883f1c37b",
+            "id": "0dc46a548e02e944",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -154,7 +170,7 @@
             }
           },
           {
-            "id": "ede286471e9ef4b4",
+            "id": "82cd7296759cab79",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,7 +185,7 @@
             }
           },
           {
-            "id": "a20ca70d05e1b503",
+            "id": "c32ff7a85b143625",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,7 +199,7 @@
             }
           },
           {
-            "id": "d552c5f233e8b881",
+            "id": "fce7d8b8db775a3c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -236,6 +252,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
+<<<<<<< HEAD
   "active": "d028fbbfafa0bb13",
   "lastOpenFiles": [
     "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
@@ -270,5 +287,32 @@
     "Incremental class learning (survey).md",
     "Driving Test.md",
     "AWS Cloud Practitioner QUIZ & Video.md"
+=======
+  "active": "f0e9d52793f826c8",
+  "lastOpenFiles": [
+    "image/Pasted image 20260330174034.png",
+    "image/Pasted image 20260330173343.png",
+    "image/Pasted image 20260330173006.png",
+    "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20260330035513.png",
+    "image/Pasted image 20260330031923.png",
+    "image/Pasted image 20260330031805.png",
+    "image/Pasted image 20260330031727.png",
+    "image/Pasted image 20260330021732.png",
+    "image/Pasted image 20260330021320.png",
+    "image/Pasted image 20260330021127.png",
+    "image/Pasted image 20260330021055.png",
+    "AWS Cloud Practitioner.md",
+    "AIO2025 - NER.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "Narrow and Interest Topic - Continual Relation Extraction.md",
+    "Continual Learning and Catastrophic Forgetting.md",
+    "Continual Learning a Big Topic Survey.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "25M9W2 - NLP Problems & Applications.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
+    "AIO 2025.md"
+>>>>>>> origin/main
   ]
 }

@@ -971,6 +971,7 @@ A record - route traffic to IPv4
 C name - route traffic from a domain to another domain (between 2 domain)
 Alias - turn on (maintain connection to IPv4)
 
+<<<<<<< HEAD
 ---
 ## [[AWS Security and Compliance]]
 
@@ -1203,4 +1204,6 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 
 
 
+=======
+>>>>>>> origin/main
 
