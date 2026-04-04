@@ -1512,3 +1512,5 @@
 >>>>>>> origin/main
 
 "event_logs:sources:modified": {"key":"sources:modified","ct":69513,"first_at":1774004697576,"last_at":1775316199531,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":61349,"obsidian:vault.modify":8164}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":507851,"first_at":1768089396189,"last_at":1775316212687,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":33688,"first_at":1768089404372,"last_at":1775316215959,"class_name":"EventLog"},
