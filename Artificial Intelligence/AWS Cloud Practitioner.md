@@ -973,4 +973,30 @@ A record - route traffic to IPv4
 C name - route traffic from a domain to another domain (between 2 domain)
 Alias - turn on (maintain connection to IPv4)
 
+----
+## AWS Security and Compliance
+[AWS Consolidated Billing](https://www.google.com/search?client=firefox-b-d&q=AWS+Consolidated+Billing&ved=2ahUKEwjtwtvh2seTAxX4ja8BHYZyAjMQgK4QegQIARAD) - combines multiple AWS accounts under one master "management" account for a single, unified monthly invoice.
 
+### Shared Responsibility
+![[Pasted image 20260330204320.png | 777]]
+Customer phải mã hóa Data tr'c khi gửi.
+
+
+
+
+### Identity and Access Management (IAM)
+
+
+
+### Key Management Service (KMS), SSM
+
+
+### AWS Certificate Manager (ACM)
+
+
+
+### AWS WAF, Shield, Firewall Manage
+
+
+
+### AWS GuardDuty, Inspector, Macie
