@@ -3,7 +3,6 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] Set Goal at Night before Tomorrow Moning 
 - [ ] Use **AI with Mastery Mindset** - AI for visualize concepts, compare, challanges my Understandig and give examples. NOT the THINKING WORK (this includes how to use AI itself - Answer come from identifying the problem, not the act of receiving the Answer itself)
 
 - Setup Study Cycle *1 Big, 3 Medium* and 5 Small/Preserve task -> counter Study Paralysis & Axiety. 
@@ -11,6 +10,9 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - *Useless & Small task > Slack off.* The trick is to preverse "beneficial" thing to do rather doing rotting.
 	-> Rotting is exactly what break the cycles.  
 
+**Think in the Architecture/Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
+
++ AI Agent Prompt to find Research Gap
 
 
 _TODAY

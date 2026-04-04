@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Todo.md",
     "Pasted image 20260329085207.png.md",
     "conflict-files-obsidian-git.md"
+=======
+    "conflict-files-obsidian-git.md",
+    "Todo.md",
+    "Pasted image 20260329085207.png.md"
+>>>>>>> 6de16c040186d66a884b4a307950f20bcc6ba32a
   ]
 }

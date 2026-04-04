@@ -3,11 +3,8 @@
 
 ### Autoencoders main components
 **Encoder** compress data into a latent space (a low dimensional space) which capture the essential features of the data. 
-
 **Bottleneck** hold laten space date (i.e. features).
-
 **Decoder** reconstruct the image from the low dimensional feature.
-
 **Goals:** Training model such that the Decoder are better at reconstructing while the Encoder are better at compress those critical data.  
 ![[Pasted image 20250305092136.png]]
 
@@ -25,8 +22,7 @@ The Encoder convert the image into latens space vectors (i.e. latent representat
 In low dimension, although the laten representation is not perfect, this organisation allow us to use other classification algorithm such as nearest neighbours might give a decent result on this representation.  
 ![[Pasted image 20250305093559.png]]
 
-+ ? The **dimension of the latent space is determind by the number of neurons** in the bottleneck layer. In other word, its the Encoder outputs.
- ![[Pasted image 20250305092822.png]]
++ ? The **dimension of the latent space is determind by the number of neurons** in the bottleneck layer. In other word, its the Encoder outputs. ![[Pasted image 20250305092822.png]]
 
 + ! If the latent space is too small, the Latent space may fail to encapture all of the data important features leading to poor construction quality.  ![[Pasted image 20250305093222.png]]
 + $ This essentially translate to: **Poor latent space organization == Poor Reconstruction quality**. Since **low dimension simply cannot comprehence the datapoint's real position**, leading to overlapped data, like 2D and 3D, 2D and 5D. 

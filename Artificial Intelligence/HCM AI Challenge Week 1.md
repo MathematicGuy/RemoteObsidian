@@ -55,7 +55,6 @@ How to optimal
 ![[Pasted image 20250804210408.png]]
 
 VLM + Temporal Search -> Reduce memory Usage. 
-
 ![[Pasted image 20250804211218.png]]
 
 **Textual KIS query**
@@ -114,7 +113,6 @@ Thay vì tích hợp Google Search Engine -> tích hợp luon ChatGPT API. hoặ
 ![[Pasted image 20250806110242.png]]
 
 Filter Video theo vị trí và thời gian dựa trên context trong hình ảnh. -> chỉ Tra cứu video có thông tin tại địa điểm Hy Lạp. 
-
 Tìm Frame nào có cả ví và người phụ nữ.
 Kết hợp Weight -> 
 

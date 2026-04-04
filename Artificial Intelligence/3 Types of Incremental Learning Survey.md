@@ -8,7 +8,8 @@ Note: _Preliminary: The process of finding out what there is to find out_.
 <-> IL is not i.i.d (independent and Identically Distribution - Độc lập và phân phối đồng nhất). *violation of the IID assumption is what leads* to "Catastrophic Forgetting (CF)".
 -> Solve CF allow model to continously learn new data no matter their distribution is. 
 
-To understand Class-Incremental Learning better, let go through 3 types of Incremental learning. 
+## Class-Incremental Learning
+To understand **Class-Incremental Learning** better, let go through 3 types of Incremental learning. 
 ![[Pasted image 20260112142639.png]]
 **Class-Incremental Learning**
 In [[class-incremental learning]], an algorithm must incrementally learn a set of clearly distinguishable tasks. **After training on each Task, it'll be tested on all of the class it have learned before.** 
@@ -23,8 +24,7 @@ Detail Explaination:
 **Real-world Example:** Google Photos, it learn to recognize your face at 15 years old, few years later you add a lot animal & people to your Photos gallary, but google photos still need to recognize the 15 years old you instead of other people or animal.   
 
 
-
-**Task-Incremental Learning**
+## Task-Incremental Learning
 Training Task come in sequence like Class-Incremental Learning, **tested classes define only within a specific task.** 
 	For example, task 1 have "Bird and Dog" class -> only test for "Bird and Dog" class. task 2 have Tiger and Fish class -> only test on task 2's Tiger and Fish class.  
 	
@@ -40,7 +40,7 @@ This method often apply *TIL in Multi-Head architecture*, so *each Head classifi
 **Real-world Example:** Like how human minimize the problem scope, an Object Detection App with TIL will only search the Plant Domain when you open Plant_Detection feature, so that inference is faster and never accidentally a Plant as a Person (bc no Person include the Plant searching domain). 
 
 
-**Domain-incremental learning**
+## Domain-incremental learning
 Training come in sequence like CIL and all Tasks have the *same class/label (Dog)* but they're come from *different domain (e.g. Real Life Dog and Cartoon Dog).* 
 	For example:
 	**Step 1 (Task 1):** You teach the model to recognize **Dogs** vs. **Cats** using **Photographs**.

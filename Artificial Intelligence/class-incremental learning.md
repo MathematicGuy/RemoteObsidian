@@ -1,7 +1,3 @@
-### Online CIL
-Online mean One Pass CIL, where each batch can be processed once and then drop. 
-
-
 ## Math Notations
 ![[Pasted image 20260112145837.png | 355]]
 
