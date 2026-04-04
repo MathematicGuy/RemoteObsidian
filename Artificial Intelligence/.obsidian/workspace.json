@@ -10,6 +10,7 @@
           {
             "id": "ae5a4f8a87b41085",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "_Focus"
             }
@@ -25,10 +27,14 @@
             "id": "5c32e6b47cb91ad2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "How to Research.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How to Research"
             }
           }
         ],
@@ -207,6 +213,7 @@
   },
   "active": "5c32e6b47cb91ad2",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260403202646.png",
     "image/Pasted image 20260403161553.png",
     "image/Pasted image 20260403160525.png",
@@ -217,7 +224,6 @@
     "image/Pasted image 20260402175846.png",
     "image/Pasted image 20260402175034.png",
     "image/Pasted image 20260402173936.png",
-    "image/Pasted image 20260402173412.png",
     "Latent Representation.md",
     "How to Research.md",
     "AWS Service Taxonomy.md",
@@ -225,7 +231,6 @@
     "AI Conference Deadline.md",
     "3 Types of Incremental Learning Survey.md",
     "Driving Test.md",
-    "2 ACTIONS/_Focus.md",
     "AWS Cloud Practitioner.md",
     "AWS Cloud Practitioner QUIZ & Video.md",
     "Quizz - Optimizer.md",
