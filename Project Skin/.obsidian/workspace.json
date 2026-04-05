@@ -23,22 +23,33 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "52998d95a81fe1a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ae15f7ee1edf3a9d",
+    "id": "5592fc96150d4f1c",
     "type": "split",
     "children": [
       {
-        "id": "b02f143f5b81f703",
+        "id": "bcd707c865d090dc",
         "type": "tabs",
         "children": [
           {
-            "id": "db0d07529ad50528",
+            "id": "b73cc826603036f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +62,7 @@
             }
           },
           {
-            "id": "543fa50d78b3b094",
+            "id": "9271184e608cced5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +79,7 @@
             }
           },
           {
-            "id": "ed1f80cc8a37c22b",
+            "id": "f41d5b9eb1317ba1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,15 +96,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "41042934563b4aaa",
+    "id": "a11cc24055e86aba",
     "type": "split",
     "children": [
       {
-        "id": "b22414e4475a9621",
+        "id": "50a00e568f1b715c",
         "type": "tabs",
         "children": [
           {
-            "id": "d928014fa50a9453",
+            "id": "f231d7f51990d668",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -112,7 +122,7 @@
             }
           },
           {
-            "id": "8660afd93c71fc37",
+            "id": "4b5e2c230c19243c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -125,7 +135,7 @@
             }
           },
           {
-            "id": "35981597864083cd",
+            "id": "066156f7fbca3f8a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +150,7 @@
             }
           },
           {
-            "id": "ee64d5616097137c",
+            "id": "2763ae88162a01d5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,7 +164,7 @@
             }
           },
           {
-            "id": "80ca0ab70788460f",
+            "id": "6ada9332636a80e8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -181,23 +191,4 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
-    }
-  },
-  "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Todo.md",
-    "Pasted image 20260329085207.png.md",
-    "conflict-files-obsidian-git.md"
-=======
-    "conflict-files-obsidian-git.md",
-    "Todo.md",
-    "Pasted image 20260329085207.png.md"
->>>>>>> 6de16c040186d66a884b4a307950f20bcc6ba32a
-  ]
-}
+     
