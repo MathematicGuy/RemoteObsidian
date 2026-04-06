@@ -57,6 +57,7 @@ Biển trắng - hướng tác dụng của biên
 -> Pass Condition - At least 5 Test with FULL SCORE.
 
 
+
 **Quy tắc chung và quy tắc GTĐB - 44Q**
 Có 5 nhóm biển báo - báo cấm, nguy hiểm, hiệu lệnh (đc phép đi hay ko or như thế nào), chỉ dẫn (hướng đi) và phụ. 
 	e.g hiệu lệnh -  chỉ xe thô sơ đc đi vô. Chỉ dẫn - 500m phía sau ko đc đi quá 30km/h.

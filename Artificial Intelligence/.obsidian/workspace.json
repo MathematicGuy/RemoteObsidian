@@ -1,0 +1,236 @@
+<<<<<<< HEAD
+=======
+{
+  "main": {
+    "id": "9da5c57fc1951c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "da34224273a91f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae5a4f8a87b41085",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ACTIONS/_Focus.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Focus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f91cab337894438",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9141d83324b4b85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc614227d84360b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb53e6cc806487f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21977363b7eacce4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b8685e963a2044e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40236c73dcd21db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f051d76cb9809efc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AWS Cloud Practitioner QUIZ & Video"
+            }
+          },
+          {
+            "id": "0dc46a548e02e944",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AWS Cloud Practitioner QUIZ & Video"
+            }
+          },
+          {
+            "id": "82cd7296759cab79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c32ff7a85b143625",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fce7d8b8db775a3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AWS Cloud Practitioner QUIZ & Video"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "ae5a4f8a87b41085",
+  "lastOpenFiles": [
+    "AIO2025 - NER.md",
+    "AIO 2025.md",
+    "AIO CNN.md",
+    "2 ACTIONS/_Focus.md",
+    "How to Research.md",
+    "image/Pasted image 20260403202646.png",
+    "image/Pasted image 20260403161553.png",
+    "image/Pasted image 20260403160525.png",
+    "image/Pasted image 20260402191338.png",
+    "image/Pasted image 20260402191324.png",
+    "image/Pasted image 20260402184728.png",
+    "image/Pasted image 20260402180128.png",
+    "image/Pasted image 20260402175846.png",
+    "image/Pasted image 20260402175034.png",
+    "image/Pasted image 20260402173936.png",
+    "Latent Representation.md",
+    "AWS Service Taxonomy.md",
+    "AWS Security and Compliance.md",
+    "AI Conference Deadline.md",
+    "3 Types of Incremental Learning Survey.md",
+    "Driving Test.md",
+    "AWS Cloud Practitioner.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "Quizz - Optimizer.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "Narrow and Interest Topic - Continual Relation Extraction.md",
+    "Continual Learning and Catastrophic Forgetting.md",
+    "Continual Learning a Big Topic Survey.md",
+    "25M9W2 - NLP Problems & Applications.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md"
+  ]
+}
+>>>>>>> bffe8a2495f3027edba200715247539f968eafb8
