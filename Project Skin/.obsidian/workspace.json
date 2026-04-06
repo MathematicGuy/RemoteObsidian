@@ -23,33 +23,22 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "568d679f68138bc4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5592fc96150d4f1c",
+    "id": "6ba07b011bd04def",
     "type": "split",
     "children": [
       {
-        "id": "bcd707c865d090dc",
+        "id": "3afbdc3a4e05a547",
         "type": "tabs",
         "children": [
           {
-            "id": "b73cc826603036f1",
+            "id": "8ecdd15cb96f36fe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +51,7 @@
             }
           },
           {
-            "id": "9271184e608cced5",
+            "id": "e12e0446247179c0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +68,7 @@
             }
           },
           {
-            "id": "f41d5b9eb1317ba1",
+            "id": "bd9b42d120647d12",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,19 +81,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "a11cc24055e86aba",
+    "id": "d8dd04353f655614",
     "type": "split",
     "children": [
       {
-        "id": "50a00e568f1b715c",
+        "id": "8415bfc7ac734a25",
         "type": "tabs",
         "children": [
           {
-            "id": "f231d7f51990d668",
+            "id": "fb8a1a914979045f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +110,7 @@
             }
           },
           {
-            "id": "4b5e2c230c19243c",
+            "id": "ad203080f6a6feb4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +123,7 @@
             }
           },
           {
-            "id": "066156f7fbca3f8a",
+            "id": "14680b807a2b002a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +138,7 @@
             }
           },
           {
-            "id": "2763ae88162a01d5",
+            "id": "5886a36545373817",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,7 +152,7 @@
             }
           },
           {
-            "id": "6ada9332636a80e8",
+            "id": "40dd544b3fa51203",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -181,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,20 +186,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "568d679f68138bc4",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Todo.md",
-    "Audiophile.md"
-=======
-<<<<<<< HEAD
-    "Todo.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20260329085207.png.md"
-=======
-    "Audiophile.md",
-    "Todo.md"
->>>>>>> bffe8a2495f3027edba200715247539f968eafb8
->>>>>>> 1cacbc01c75326dbcfccd304854af592d9ccd7d6
-  ]
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": []
 }
