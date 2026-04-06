@@ -138,7 +138,6 @@ After training, the model must classified if the Test Instance is (A) or (B) or 
 Relation have multiple Usecase. Most challenging characteristic of the dataset is the *diversity in expressing the same relation.* 
 ![[Pasted image 20260325184538.png | 555]]
 
-
 [TACRED](https://nlp.stanford.edu/projects/tacred/#examples) - Relation Extraction (RE) dataset with *79.5% of its examples* are labeled as _no_relation_. 
 ![[Pasted image 20260325184352.png | 777]]
 ![[Pasted image 20260325194414.png | 555]]
@@ -180,11 +179,9 @@ Detailed Description: This relation identifies the creator or co-creator of an e
 
 ### Description-pivot Learning
 Descriptions are "literal definitions," making them more accurate representations of a class than a handful of random sentences.
-
 *Hard Margin Loss $L_{MH}$:* This loss aligns the `[MASK]` vector z from the sentence (e.g., Steve Jobs `[MASK]` Apple) directly with the *Description Vector* d.  ![[Pasted image 20260330173343.png | 500]] 
 
 *Mutual Information Loss $L_{MI}$:* "Does this sentence contain the same core meaning as the dictionary definition ?" ![[Pasted image 20260330173006.png | 500]]
-
 
 ### Descriptive Retrieval Inference
 Traditional methods such as Nearest Class Mean (NCM) predict relations by selecting the class whose prototype has the smallest distance to the test sample, they relies solely on distance metrics. 
