@@ -561,7 +561,8 @@ This mean, Like ALB Target Group but *could also Target of ALP* (Target types: *
 *Launch Template* - Auto-Created a pre-configuration EC2 Instance (Optional: add scaling policy for Auto-Scaling)
 ![[Pasted image 20260323171004.png]]
 
-Cloud Watch - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling.
+Cloud Watch - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling -> Monitor CPU and hardware
+Note: firmware is low-level software. 
 
 *Scaling Policies* - Auto-Scaling *Strategies*
 ![[Pasted image 20260323171400.png]]

@@ -102,3 +102,5 @@ Within a VPC, Company want initnitate connection between Private and Public Neto
 + $ Allow Private subnet to communicate with outside Internet but prevent Request from entering private subnet. 
 	Note: traffic is the amount of data within each Request. e.g. data for image, text message, etc..
 
+----
+

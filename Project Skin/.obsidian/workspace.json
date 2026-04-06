@@ -23,8 +23,19 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "568d679f68138bc4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +197,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "568d679f68138bc4",
   "lastOpenFiles": [
-    "Audiophile.md",
-    "Todo.md"
+    "Todo.md",
+    "Audiophile.md"
   ]
 }
