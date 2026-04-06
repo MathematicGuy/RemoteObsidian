@@ -1199,11 +1199,25 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 **AWS Inspector vs GuardDuty** in short while:
 + Inspector is resource-focused by *scan for vulnerability from inside.*
 + GuardDuty is activity-focused by *detecting threat from outside.*
-
+	
 	**AWS Macie is serverless** use *ML and Pattern Matching to auto Discover, Classify and Protect Sensitive data* (like PII e.g. name, email, IDs financial data and credentials) stored in *AWS S3 buckets.* S3 Protection focus. *Regional Level* ![[Pasted image 20260402180128.png]]
 
+---
+## AWS Pricing & Billing
+AWS Budget (Proactive Control) -  Đặt ngưỡng ngân sách và t*ự động dừng dịch vụ (e.g. EC2)*, cảnh báo *khi vượt ngưỡng*. 
++ ? *Action-Enable budget* (a budget that automatically takes predefined actions to control costs or usage when a threshold is exceeded)
 
+**How Action-Enable Budget it work**
+1. Select a type of Service (e.g. EC2, RDS) as your action type.
+2. Execution - set the action to run automatically or manually (in CLI) as soon as the threshold is reached. 
+	Note that the First 2 Action-Enable Budget (ie. service auto-stop) are free, after that you have to pay $0.10 per day.
+3. [Practice Budget Alert](https://kubex.ai/finops/aws-budgets-vs-cost-explorer/#:~:text=Both%20tools%20are%20free%20for%20basic%20use,reports%2C%20while%20Cost%20Explorer%20charges%20for%20API)
 
-=======
->>>>>>> origin/main
+**Exceed Budget Auto-Stop Use Case**
+Cost Explorer (Analysis) - phân tích chi phí theo dịch vụ, tài khoản, thẻ/tag và khoảng thgian (ngày/tháng/custom range) + Visualization các chi phis dịch vụ trong Lịch sử (xu hướng chi phí vào services nào, filter/group by, time range) 
+
+AWS Pricing Calculator - Setup EC2/Storage/Network then calculate the expected cost.
+Migration Evaluator - retrieve on-premises workload from hardwares (CPU, RAM, IO, utilization) -> right-size workload when migrate to AWS. 
+	Compare on-prem vs AWS cost - evaluate migration cost. 
+
 
