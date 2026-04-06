@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5592fc96150d4f1c",
+    "id": "4fc7841e0b11b024",
     "type": "split",
     "children": [
       {
-        "id": "bcd707c865d090dc",
+        "id": "e435df75dd0ca8ea",
         "type": "tabs",
         "children": [
           {
-            "id": "b73cc826603036f1",
+            "id": "b38da3ade0f6eb67",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "9271184e608cced5",
+            "id": "73f7c7d42150bf7f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "f41d5b9eb1317ba1",
+            "id": "7b419b410de86e1d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "a11cc24055e86aba",
+    "id": "3a56018f64c9f5ff",
     "type": "split",
     "children": [
       {
-        "id": "50a00e568f1b715c",
+        "id": "525e2bba80e3eced",
         "type": "tabs",
         "children": [
           {
-            "id": "f231d7f51990d668",
+            "id": "03ff889a689517cb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,7 +110,7 @@
             }
           },
           {
-            "id": "4b5e2c230c19243c",
+            "id": "4ed68052294dde42",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -124,7 +123,7 @@
             }
           },
           {
-            "id": "066156f7fbca3f8a",
+            "id": "2f66f8da61d0414c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +138,7 @@
             }
           },
           {
-            "id": "2763ae88162a01d5",
+            "id": "8305b1aaf04c8525",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,7 +152,7 @@
             }
           },
           {
-            "id": "6ada9332636a80e8",
+            "id": "8f24684aef60eedc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -188,14 +187,5 @@
     }
   },
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Todo.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20260329085207.png.md"
-=======
-    "Audiophile.md",
-    "Todo.md"
->>>>>>> bffe8a2495f3027edba200715247539f968eafb8
-  ]
+  "lastOpenFiles": []
 }

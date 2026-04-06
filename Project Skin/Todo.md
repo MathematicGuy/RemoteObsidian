@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-![[Pasted image 20240929225308.png]]
+ q![[Pasted image 20240929225308.png]]
 ## [Calendar]
 #Todo/Priority
 
