@@ -1,13 +1,12 @@
 [
   "homepage",
-  "obsidian-list-callouts",
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
-  "obsidian-linter",
   "quick-latex",
   "obsidian-latex-suite",
   "obsidian-excalidraw-plugin",
   "tldraw",
-  "pseudocode-in-obs"
+  "pseudocode-in-obs",
+  "obsidian-list-callouts"
 ]
