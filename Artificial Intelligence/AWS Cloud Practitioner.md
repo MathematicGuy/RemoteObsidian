@@ -62,6 +62,11 @@ But good if you are a big company with privacy concern and need long term benefi
 ![[Pasted image 20260310162756.png]]
 
 Overall, in COST.
+*CapEX (physical hardware setup, buying hardware stuff)* include purchasing physical assets (server, data centers, neworking and hardware). 
+-> AWS pay-as-you-go remove this Upfront burden. also eliminate over-provision.
+*OpEX (operational cost)* - cost of running the hardware you bough in CapEX. This include cost like maintainant cost, physical security, etc...
+-> AWS remove this burden, instead of operating you just used their infrastructures. 
+
 ```ad-summary
 *OPEX (Operating Expenditure):* is more eco in the **long-term invesment** and offer ultimate controlled. In DevOps, use when u have a strong DevOps team, fast prod experient cycle or don't need expand Data Center over time or Globaly.
 
@@ -656,7 +661,21 @@ Read Replica help with Read Scability bc it reduce load on a single database.
 *[Parquet Format](https://data-mozart.com/parquet-file-format-everything-you-need-to-know/):* It is self-describing, containing metadata, and supports schema evolution
 ![[Pasted image 20260324013131.png | 777]]
 
+### AWS ElastiCache - Manage Caching Engines
+![[Pasted image 20260407173344.png]]
 
+![[Pasted image 20260407174154.png]]
+Application first queries ElastiCache
+	If data is not found (cache miss):
+		Fetch from RDS
+		Store result in ElastiCache
+		Subsequent requests are served from cache (cache hit)
+
+*ElastiCache for Redis vs ElastiCache for Memcached*
+![[Pasted image 20260407174719.png | 888]]
++ *Redis* -> for *Complex Application with Advanced feature* (set, lists, Pub/Sub)
++ *Memcached* -> simple, *multi-threaded, high-performance caching system.* 
+	[so sánh Redis vs Memcaches](https://viblo.asia/p/memcached-vs-redis-ORNZqb93l0n)
 
 ### AWS RDS
 + ? RDS (Relational Db Service) is a *managed database service* for differnt Database Engines. Manage Database Provisioning and Scaling, Backups and Recovery, Failure detection along with Monitoring and Insight Analysis. Support many database application like PostgreSQL, AWS Aurora, MariaDB, MySQL, etc...
@@ -1182,6 +1201,8 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 	1. Configure your workloads to *use Regional AWS STS endpoints for better performance and reduced latency.*
 	2. *For automation, use IAM roles* to automatically obtain temporary credentials without manual intervention.
 	3. *Enable AWS CloudTrail to log and monitor AWS STS* API calls for auditing and troubleshooting.
+	
++ ? Note: AWS CloudWatch used for *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules.*  
 
 
 **Access Control Lists (ACLs)** - *manage access to resources (buckets and object/file)* at different levels, such as Amazon S3 buckets or Virtual Private Cloud (VPC) subnets. Offer fine-grained control - [what is AWS ACL - Search](https://www.bing.com/search?pglt=417&q=what+is+AWS+ACL&cvid=901bf0cd948343409ca93b6b219a83f9&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEIMzc3MGowajGoAgiwAgE&FORM=ANNTA1&PC=U531)
@@ -1212,8 +1233,48 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 	
 	**AWS Macie is serverless** use *ML and Pattern Matching to auto Discover, Classify and Protect Sensitive data* (like PII e.g. name, email, IDs financial data and credentials) stored in *AWS S3 buckets.* S3 Protection focus. *Regional Level* ![[Pasted image 20260402180128.png]]
 
----
-## AWS Pricing & Billing
+### AWS Trusted Advisor vs Inspector vs Cloud Watch vs CloudTrail
+AWS Trusted Advisor - give advises base on action records. 
++ ? identifies ways to improve your AWS infrastructure across 5 unique pillars: *Security, Performance, Cost Optimization, Fault Tolerance, and AWS Service Quotas.*
+
+**AWS CloudTrail vs CloudWatch**
++ Cloud Watch - *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules*.
+	Example: Monitor bandwidth utilization, performance, and the traffic parameters of your app. ![[Pasted image 20260407181212.png]]
+	
++ CloudTrail - are *records of API activity and management events* hence the word *Trail/Evidence*, providing detailed information about who, what, and when actions were performed.  ![[Pasted image 20260407184327.png]]
+	+ ? *Monitor account activity* include user actions in the AWS Management Console, AWS SDKs, command-line tools, and other AWS services
+	Example: identify the hacker/attacker with the help of historical CloudTrail data Logs.
+	
++ [Practice CloudTrail & CloudWatch Integration](https://www.opsramp.com/guides/aws-monitoring-tool/cloudtrail-vs-cloudwatch/) ![[Pasted image 20260407181315.png]]
+
+## AWS Pricing & Billing (of Network + Storage + Compute)
+**Common Cost Breakdown:**
+1. Compute 
+2. Manage Services
+3. Storage
+4. Network Traffic & Data Transfer 
+5. Mics (other cost)
+
+**Compute Cost:** Instance Type $\times$ Instance Amount $\times$ Runtime
++ ? Cost Scale Up Linearly so be extra careful if renting multiple Hardware. ![[Pasted image 20260407151053.png]]
+
+**Storage Cost:** Data Amount $\times$ Frequency of Access $\times$ Performance
+	Frequency of Access: 	![[Pasted image 20260407151132.png]]
+**4 Cost Drivers:** 
++ *Storage Volumn -* the more data you stored the higher the cost - [more on S3 Overall Storage Cost](https://zesty.co/blog/the-ultimate-guide-to-s3-costs/) 
+	-> Use S3 Storage Tiers/Types to reduces Storage cost like S3 Glacier Deep Archive for rarely used data, S3 Standard for frequent used data, Intelligent-Tiering (auto move data between tier), Standard-IA (infrequent) and One Zone-IA for low-cost infrequent. 
+	
++ *Request Volumn (PUT/GET) -*  Every API calls taken to manage or access data in S3 incurs a small "micro-charge".
+	+ ? `PUT`, `COPY`, `POST`, or `LIST` requests (uploading/managing) are more expensive than `GET` requests (retrieving data) 
+	
++ *Transfer OUT (Outbound Data) -* charge for moving data in AWS env to the Internet. While Inbound data is free in AWS and data transfer within 1 Region (e.g. from S3 to EC2 in the same AZ) is generally Free, moving data across-region cost a lot. 
+	
++ *Transitions (Lifecycle) -*  Data Storage Tier based on data Access Frequency to SAVE COST. ![[Pasted image 20260407151804.png]] Lower-cost tier like Glacier offer super low storage cost for infrequent access data.
+
+Example of AWS Cloud Billing across layers. 
+![[Pasted image 20260407150302.png]]
++ ! **Invisible cost** are what made Bills so high: *storage nobody cleaned up, data transfer nobody modeled, DynamoDB tables nobody turned off.*
+
 AWS Budget (Proactive Control) -  Đặt ngưỡng ngân sách và t*ự động dừng dịch vụ (e.g. EC2)*, cảnh báo *khi vượt ngưỡng*. 
 + ? *Action-Enable budget* (a budget that automatically takes predefined actions to control costs or usage when a threshold is exceeded)
 
@@ -1230,6 +1291,52 @@ AWS Pricing Calculator - Setup EC2/Storage/Network then calculate the expected c
 Migration Evaluator - retrieve on-premises workload from hardwares (CPU, RAM, IO, utilization) -> right-size workload when migrate to AWS. 
 	Compare on-prem vs AWS cost - evaluate migration cost. 
 
+First AWS Principle is Pay-as-you-go -> This model gather customers but Revenue is Unpredictable and volatile.  
++ ? To Retain long-term customer, AWS offer higher discount the longer you used their services.    ![[Pasted image 20260407153435.png | 666]]
+
+
+### AWS Pricing Model
+
+**VPC Peering** (network connection between 2 VPC,  simple setup with *VPC < 5 connection setup*) -> Allow *No-COST Data Transfer between Region* by routing traffic to eachother using private IP address.
+	Meshed network topology (vpcp) 
+![[Pasted image 20260407160336.png | 888]]
+
+ **AWS Transit Gateway:**  Distribute data flow between VPC (Complex setup with *Multiple VPC > 5*)
+ + ? It eliminates the need for complex VPC peering, *routing traffic between thousands* of VPCs, VPNs, and Direct Connect connections using *centralized* route tables. *Not Free*
+	 Star topology 
+![[Pasted image 20260407160754.png]]
+
+**AWS Direct Connect gateway** (globally available) - *connect on-premises networks to multiple Amazon VPCs across different AWS regions* using private virtual interfaces (VIFs). Data Transfer across Region take up a lot of cost.
+![[Pasted image 20260407162859.png | 888]]
+*Tips for planning architecture:*
++ Use VPC endpoints to avoid internet transfer
++ Gateway endpoints: free S3/DynamoDB same
++ Region Interface endpoints cost hourly and data transfer
++ Minimize cross-AZ and cross-Region traffic
++ Use tools: Free Tier, Calculator, dashboards
+
+### Billing System & Cost Monitoring
+Cost Allocation Tags -> Tag which service used for Billing. So admin can see where "this" cost come from.
+![[Pasted image 20260407163248.png]]
++ $ Allow tracking cost across Teams (e.g. dev team, test team), Label, identifying and categorizing cost in different areas -> Help Tracking costs and managing resources. ![[Pasted image 20260407163632.png | 455]]
+
+
+**How AWS Budget work ?**
+![[Pasted image 20260407164756.png]]
+*AWS Athena -* act like a Filter for Dashboard in AWS QuickSight.
+*Data Collection Account -* 
++ ? Read cost specified organized by Tag in AWS Budget  then save it to AWS S3 Bucket for Centralize Monitor and Inspection.
++ $ Used the Read Role Permission from AWS Organization. 
+
+**AWS Budget Usage Example**
+![[Pasted image 20260407164228.png]]
+
+AWS Anomaly Detection -> run script on Lambda, help to detect anomaly like DDOS.
+![[Pasted image 20260407164313.png]]
+
+Rate Limiting AWS step func -> limit IP that access too much to prevent DDOS.
+
+### [Lab Session](https://zoom.us/rec/play/6hYqLGNN7Pin90ccDHdzwYKW7X6bSDZoDolPHBEwsQBGd7nY1dcv7DCJIEKHl19cvLdG7w-nif5NOKZ-.7D_lWernqB-I9miS?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https://zoom.us/rec/share/VI7U1wf1S5om16eIFLdlrbyOGWLJOyYppeEd4INKns9h8OMP50ClWnKsauB9enZk.0QhjY029W_0aTcmo) 
 
 Pillars of the AWS Well-Architected  -> Security & Performance. 
 AWS Trusted *Advisor* -> AWS service to identifies security groups that allow unrestricted access to a user's AWS resources.

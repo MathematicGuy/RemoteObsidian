@@ -30,6 +30,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "6ba07b011bd04def",
     "type": "split",
     "children": [
@@ -39,6 +40,17 @@
         "children": [
           {
             "id": "8ecdd15cb96f36fe",
+=======
+    "id": "4fc7841e0b11b024",
+    "type": "split",
+    "children": [
+      {
+        "id": "e435df75dd0ca8ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38da3ade0f6eb67",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +63,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "e12e0446247179c0",
+=======
+            "id": "73f7c7d42150bf7f",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +84,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "bd9b42d120647d12",
+=======
+            "id": "7b419b410de86e1d",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,6 +105,7 @@
     "collapsed": true
   },
   "right": {
+<<<<<<< HEAD
     "id": "d8dd04353f655614",
     "type": "split",
     "children": [
@@ -94,6 +115,17 @@
         "children": [
           {
             "id": "fb8a1a914979045f",
+=======
+    "id": "3a56018f64c9f5ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "525e2bba80e3eced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03ff889a689517cb",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,7 +143,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "ad203080f6a6feb4",
+=======
+            "id": "4ed68052294dde42",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -124,7 +160,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "14680b807a2b002a",
+=======
+            "id": "2f66f8da61d0414c",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +179,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "5886a36545373817",
+=======
+            "id": "8305b1aaf04c8525",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,7 +197,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "40dd544b3fa51203",
+=======
+            "id": "8f24684aef60eedc",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -188,5 +236,11 @@
     }
   },
   "active": "e7a7b303c61786dc",
+<<<<<<< HEAD
   "lastOpenFiles": []
+=======
+  "lastOpenFiles": [
+    "Todo.md"
+  ]
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
 }

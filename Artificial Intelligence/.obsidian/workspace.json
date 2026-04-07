@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9da5c57fc1951c54",
+    "id": "f1046225b4ffba0e",
     "type": "split",
     "children": [
       {
-        "id": "da34224273a91f4d",
+        "id": "6495fbd59339e440",
         "type": "tabs",
         "children": [
           {
-            "id": "ae5a4f8a87b41085",
+            "id": "33e24e2bc3330ef0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,29 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "c81aa27a3b89e32e",
+=======
+            "id": "a11ac80492facaf4",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "AIO2025 - Tokenizers.md",
+=======
+                "file": "AWS Cloud Practitioner.md",
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "AIO2025 - Tokenizers"
+=======
+              "title": "AWS Cloud Practitioner"
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             }
           }
         ],
@@ -44,15 +56,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6f91cab337894438",
+    "id": "9f3ef988e675e63e",
     "type": "split",
     "children": [
       {
-        "id": "c9141d83324b4b85",
+        "id": "fe26967350a75a13",
         "type": "tabs",
         "children": [
           {
-            "id": "cc614227d84360b9",
+            "id": "307752e5c7863a5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +77,7 @@
             }
           },
           {
-            "id": "fb53e6cc806487f2",
+            "id": "081addf1decf31c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +94,7 @@
             }
           },
           {
-            "id": "21977363b7eacce4",
+            "id": "cbeccbeba910d0cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,20 +111,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "b8685e963a2044e9",
+    "id": "6266166a470dfbb9",
     "type": "split",
     "children": [
       {
-        "id": "b40236c73dcd21db",
+        "id": "646a62a07c7f2f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "f051d76cb9809efc",
+            "id": "57a103b748033643",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +134,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Cloud Practitioner QUIZ & Video"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "0dc46a548e02e944",
+            "id": "2c8a8be3faaa701b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS Cloud Practitioner QUIZ & Video"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "82cd7296759cab79",
+            "id": "ed1595c7c7af07d7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,7 +167,7 @@
             }
           },
           {
-            "id": "c32ff7a85b143625",
+            "id": "b4c6d4e91a67d975",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,18 +181,18 @@
             }
           },
           {
-            "id": "fce7d8b8db775a3c",
+            "id": "151aeb5d76f06a7e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner QUIZ & Video.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS Cloud Practitioner QUIZ & Video"
+              "title": "Outline of _Focus"
             }
           }
         ]
@@ -201,6 +213,7 @@
       "bases:Create new base": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+<<<<<<< HEAD
       "obsidian-kanban:Create new board": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -244,5 +257,25 @@
     "25M9W2 - NLP Problems & Applications.md",
     "main_Continual Learning & Nested Learning Survey.md",
     "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md"
+=======
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a11ac80492facaf4",
+  "lastOpenFiles": [
+    "image/Pasted image 20260407184327.png",
+    "image/Pasted image 20260407181315.png",
+    "image/Pasted image 20260407181212.png",
+    "image/Pasted image 20260407174719.png",
+    "image/Pasted image 20260407174154.png",
+    "image/Pasted image 20260407173344.png",
+    "2 ACTIONS/_Focus.md",
+    "AWS Cloud Practitioner.md",
+    "image/Pasted image 20260407164756.png",
+    "image/Pasted image 20260407164210.png",
+    "image/Pasted image 20260407164313.png",
+    "image/Pasted image 20260407164228.png",
+    "image/Pasted image 20260407163632.png"
+>>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
   ]
 }
