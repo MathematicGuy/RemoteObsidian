@@ -561,8 +561,16 @@ This mean, Like ALB Target Group but *could also Target of ALP* (Target types: *
 *Launch Template* - Auto-Created a pre-configuration EC2 Instance (Optional: add scaling policy for Auto-Scaling)
 ![[Pasted image 20260323171004.png]]
 
-Cloud Watch - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling -> Monitor CPU and hardware
+**AWS Cloud Watch** - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling -> Monitor CPU and hardware. *Monitor Metrics*
 Note: firmware is low-level software. 
+
+**AWS CloudTrail** - captures actions taken through the Management Console, SDKs, and CLI, providing visibility into "who did what, where, and when" across AWS. *Monitor log in SDK and Code*
++ *Security Monitoring:* Detects unauthorized access or unusual activity patterns by recording every individual API call.
+
+AWS *Artifact* -> *download AWS Compliance Report/Docs* and Certification.
+AWS Certificate Manager (ACM) - creating, storing, and *renewing public and private SSL/TLS*
+![[Pasted image 20260406214026.png]]
+
 
 *Scaling Policies* - Auto-Scaling *Strategies*
 ![[Pasted image 20260323171400.png]]
@@ -964,8 +972,9 @@ Security Group at Instance level.
 ![[Pasted image 20260326212203.png]]
 Stateful - allow the return traffic automatically
 
-Network ACL (security at subnet level - stateless) - control what goes in and out of the subnet.
+*Network ACL* (security at subnet level - *stateless Firewall*) - *control what goes in and out of the Subnet/VPC* or used for S3 Object access control.
 ![[Pasted image 20260326212359.png]]
+
 
 ### Naming & Access: DNS
 A record - route traffic to IPv4
@@ -1220,5 +1229,23 @@ Cost Explorer (Analysis) - phân tích chi phí theo dịch vụ, tài khoản, 
 AWS Pricing Calculator - Setup EC2/Storage/Network then calculate the expected cost.
 Migration Evaluator - retrieve on-premises workload from hardwares (CPU, RAM, IO, utilization) -> right-size workload when migrate to AWS. 
 	Compare on-prem vs AWS cost - evaluate migration cost. 
+
+
+Pillars of the AWS Well-Architected  -> Security & Performance. 
+AWS Trusted *Advisor* -> AWS service to identifies security groups that allow unrestricted access to a user's AWS resources.
++ ? Inspects your AWS environment and provides actionable recommendations to follow best practices.
+
+When design Cloud Architecture -> Elasticity (adaptibility) is the principle architecture
+-> Allow pay-as-you-go and HA.
+
+Extend Local to Cloud -> Storage Gateway and Direct Connect.
+AWS system Manager -> Allow auto security version patching 
+Mechanism allow dev to *access AWS service from Application Code* -> SDK (Library that connect through API)
+S3 - store Object 
+
+AWS Partner Network - community of over 100,000 technology and consulting firms that leverage AWS to build, market, and sell customer solutions. AWS Support & Distributioner.
+AWS Professional Services - Service from AWS.
+
+
 
 
