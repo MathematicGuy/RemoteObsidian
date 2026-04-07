@@ -1237,9 +1237,6 @@ AWS Trusted Advisor - give advises base on action records.
 	
 + [Practice CloudTrail & CloudWatch Integration](https://www.opsramp.com/guides/aws-monitoring-tool/cloudtrail-vs-cloudwatch/) ![[Pasted image 20260407181315.png]]
 
-
-
----
 ## AWS Pricing & Billing (of Network + Storage + Compute)
 **Common Cost Breakdown:**
 1. Compute 
