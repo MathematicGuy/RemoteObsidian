@@ -647,6 +647,8 @@ Read Replica help with Read Scability bc it reduce load on a single database.
 *[Parquet Format](https://data-mozart.com/parquet-file-format-everything-you-need-to-know/):* It is self-describing, containing metadata, and supports schema evolution
 ![[Pasted image 20260324013131.png | 777]]
 
+### AWS ElastiCache - Caching Engines Management
+![[Pasted image 20260407173344.png]]
 
 
 ### AWS RDS
