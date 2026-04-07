@@ -62,6 +62,11 @@ But good if you are a big company with privacy concern and need long term benefi
 ![[Pasted image 20260310162756.png]]
 
 Overall, in COST.
+*CapEX (physical hardware setup, buying hardware stuff)* include purchasing physical assets (server, data centers, neworking and hardware). 
+-> AWS pay-as-you-go remove this Upfront burden. also eliminate over-provision.
+*OpEX (operational cost)* - cost of running the hardware you bough in CapEX. This include cost like maintainant cost, physical security, etc...
+-> AWS remove this burden, instead of operating you just used their infrastructures. 
+
 ```ad-summary
 *OPEX (Operating Expenditure):* is more eco in the **long-term invesment** and offer ultimate controlled. In DevOps, use when u have a strong DevOps team, fast prod experient cycle or don't need expand Data Center over time or Globaly.
 
@@ -647,9 +652,21 @@ Read Replica help with Read Scability bc it reduce load on a single database.
 *[Parquet Format](https://data-mozart.com/parquet-file-format-everything-you-need-to-know/):* It is self-describing, containing metadata, and supports schema evolution
 ![[Pasted image 20260324013131.png | 777]]
 
-### AWS ElastiCache - Caching Engines Management
+### AWS ElastiCache - Manage Caching Engines
 ![[Pasted image 20260407173344.png]]
 
+![[Pasted image 20260407174154.png]]
+Application first queries ElastiCache
+	If data is not found (cache miss):
+		Fetch from RDS
+		Store result in ElastiCache
+		Subsequent requests are served from cache (cache hit)
+
+*ElastiCache for Redis vs ElastiCache for Memcached*
+![[Pasted image 20260407174719.png | 888]]
++ *Redis* -> for *Complex Application with Advanced feature* (set, lists, Pub/Sub)
++ *Memcached* -> simple, *multi-threaded, high-performance caching system.* 
+	[so sánh Redis vs Memcaches](https://viblo.asia/p/memcached-vs-redis-ORNZqb93l0n)
 
 ### AWS RDS
 + ? RDS (Relational Db Service) is a *managed database service* for differnt Database Engines. Manage Database Provisioning and Scaling, Backups and Recovery, Failure detection along with Monitoring and Insight Analysis. Support many database application like PostgreSQL, AWS Aurora, MariaDB, MySQL, etc...
@@ -1174,6 +1191,8 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 	1. Configure your workloads to *use Regional AWS STS endpoints for better performance and reduced latency.*
 	2. *For automation, use IAM roles* to automatically obtain temporary credentials without manual intervention.
 	3. *Enable AWS CloudTrail to log and monitor AWS STS* API calls for auditing and troubleshooting.
+	
++ ? Note: AWS CloudWatch used for *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules.*  
 
 
 **Access Control Lists (ACLs)** - *manage access to resources (buckets and object/file)* at different levels, such as Amazon S3 buckets or Virtual Private Cloud (VPC) subnets. Offer fine-grained control - [what is AWS ACL - Search](https://www.bing.com/search?pglt=417&q=what+is+AWS+ACL&cvid=901bf0cd948343409ca93b6b219a83f9&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEIMzc3MGowajGoAgiwAgE&FORM=ANNTA1&PC=U531)
@@ -1203,6 +1222,22 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 + GuardDuty is activity-focused by *detecting threat from outside.*
 	
 	**AWS Macie is serverless** use *ML and Pattern Matching to auto Discover, Classify and Protect Sensitive data* (like PII e.g. name, email, IDs financial data and credentials) stored in *AWS S3 buckets.* S3 Protection focus. *Regional Level* ![[Pasted image 20260402180128.png]]
+
+### AWS Trusted Advisor vs Inspector vs Cloud Watch vs CloudTrail
+AWS Trusted Advisor - give advises base on action records. 
++ ? identifies ways to improve your AWS infrastructure across 5 unique pillars: *Security, Performance, Cost Optimization, Fault Tolerance, and AWS Service Quotas.*
+
+**AWS CloudTrail vs CloudWatch**
++ Cloud Watch - *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules*.
+	Example: Monitor bandwidth utilization, performance, and the traffic parameters of your app. ![[Pasted image 20260407181212.png]]
+	
++ CloudTrail - are *records of API activity and management events* hence the word *Trail/Evidence*, providing detailed information about who, what, and when actions were performed.  ![[Pasted image 20260407184327.png]]
+	+ ? *Monitor account activity* include user actions in the AWS Management Console, AWS SDKs, command-line tools, and other AWS services
+	Example: identify the hacker/attacker with the help of historical CloudTrail data Logs.
+	
++ [Practice CloudTrail & CloudWatch Integration](https://www.opsramp.com/guides/aws-monitoring-tool/cloudtrail-vs-cloudwatch/) ![[Pasted image 20260407181315.png]]
+
+
 
 ---
 ## AWS Pricing & Billing (of Network + Storage + Compute)
