@@ -1,16 +1,15 @@
 {
   "main": {
-    "id": "f1046225b4ffba0e",
+    "id": "2998578d7cce0dd9",
     "type": "split",
     "children": [
       {
-        "id": "6495fbd59339e440",
+        "id": "4caec1bf87a89ad0",
         "type": "tabs",
         "children": [
           {
-            "id": "33e24e2bc3330ef0",
+            "id": "94490618f61a03fd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,35 +17,22 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "_Focus"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c81aa27a3b89e32e",
-=======
-            "id": "a11ac80492facaf4",
->>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
+            "id": "5c7f2f4cf14038f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "AIO2025 - Tokenizers.md",
-=======
-                "file": "AWS Cloud Practitioner.md",
->>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "AIO2025 - Tokenizers"
-=======
-              "title": "AWS Cloud Practitioner"
->>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
             }
           }
         ],
@@ -56,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9f3ef988e675e63e",
+    "id": "cad2c8021d8eba3e",
     "type": "split",
     "children": [
       {
-        "id": "fe26967350a75a13",
+        "id": "5ab7beffe105f4e1",
         "type": "tabs",
         "children": [
           {
-            "id": "307752e5c7863a5e",
+            "id": "9176b4d6e112d7ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +63,7 @@
             }
           },
           {
-            "id": "081addf1decf31c8",
+            "id": "061d6b30d690a554",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +80,7 @@
             }
           },
           {
-            "id": "cbeccbeba910d0cf",
+            "id": "df2ce7e28001c8b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,20 +97,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "6266166a470dfbb9",
+    "id": "663bc2ab77d868dd",
     "type": "split",
     "children": [
       {
-        "id": "646a62a07c7f2f5d",
+        "id": "285846a9900f8139",
         "type": "tabs",
         "children": [
           {
-            "id": "57a103b748033643",
+            "id": "a898eacb12d00383",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "AIO2025 - Tokenizers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for AIO2025 - Tokenizers"
             }
           },
           {
-            "id": "2c8a8be3faaa701b",
+            "id": "0130acbe7bfa0513",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "AIO2025 - Tokenizers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links from AIO2025 - Tokenizers"
             }
           },
           {
-            "id": "ed1595c7c7af07d7",
+            "id": "c625ec8d6fce2ed0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +153,7 @@
             }
           },
           {
-            "id": "b4c6d4e91a67d975",
+            "id": "5e8349e102a8a34d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,18 +167,18 @@
             }
           },
           {
-            "id": "151aeb5d76f06a7e",
+            "id": "2e1672cb2b1aae9f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "AIO2025 - Tokenizers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Focus"
+              "title": "Outline of AIO2025 - Tokenizers"
             }
           }
         ]
@@ -210,72 +196,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-<<<<<<< HEAD
-      "obsidian-kanban:Create new board": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "c81aa27a3b89e32e",
+  "active": "5c7f2f4cf14038f4",
   "lastOpenFiles": [
-    "AIO 2025.md",
-    "AIO2025 - Tokenizers.md",
-    "2 ACTIONS/_Focus.md",
-    "AWS Cloud Practitioner.md",
-    "image/Pasted image 20260406214026.png",
-    "AWS Cloud Practitioner QUIZ & Video.md",
-    "image/Pasted image 20260405095546.png",
-    "Research Prompt.md",
-    "AIO2025 - Machine Translation.md",
-    "AIO2025 - NER.md",
-    "AIO CNN.md",
-    "How to Research.md",
-    "image/Pasted image 20260403202646.png",
-    "image/Pasted image 20260403161553.png",
-    "image/Pasted image 20260403160525.png",
-    "image/Pasted image 20260402191338.png",
-    "image/Pasted image 20260402191324.png",
-    "image/Pasted image 20260402184728.png",
-    "image/Pasted image 20260402180128.png",
-    "image/Pasted image 20260402175846.png",
-    "Latent Representation.md",
-    "AWS Service Taxonomy.md",
-    "AWS Security and Compliance.md",
-    "AI Conference Deadline.md",
-    "3 Types of Incremental Learning Survey.md",
-    "Driving Test.md",
-    "Quizz - Optimizer.md",
-    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
-    "Narrow and Interest Topic - Continual Relation Extraction.md",
-    "Continual Learning and Catastrophic Forgetting.md",
-    "Continual Learning a Big Topic Survey.md",
-    "25M9W2 - NLP Problems & Applications.md",
-    "main_Continual Learning & Nested Learning Survey.md",
-    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md"
-=======
-      "obsidian-excalidraw-plugin:New drawing": false
-    }
-  },
-  "active": "a11ac80492facaf4",
-  "lastOpenFiles": [
-    "image/Pasted image 20260407184327.png",
-    "image/Pasted image 20260407181315.png",
-    "image/Pasted image 20260407181212.png",
-    "image/Pasted image 20260407174719.png",
-    "image/Pasted image 20260407174154.png",
-    "image/Pasted image 20260407173344.png",
-    "2 ACTIONS/_Focus.md",
-    "AWS Cloud Practitioner.md",
-    "image/Pasted image 20260407164756.png",
-    "image/Pasted image 20260407164210.png",
-    "image/Pasted image 20260407164313.png",
-    "image/Pasted image 20260407164228.png",
-    "image/Pasted image 20260407163632.png"
->>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
+    "2 ACTIONS/_Focus.md"
   ]
 }

@@ -1,16 +1,1 @@
-[
-  "homepage",
-  "obsidian-admonition",
-  "cm-editor-syntax-highlight-obsidian",
-  "table-editor-obsidian",
-  "quick-latex",
-  "obsidian-latex-suite",
-  "obsidian-excalidraw-plugin",
-  "tldraw",
-<<<<<<< HEAD
-  "pseudocode-in-obs"
-=======
-  "pseudocode-in-obs",
-  "obsidian-list-callouts"
->>>>>>> e23c47ed4fc4c772d4ddc41b87fbcbca19198dd7
-]
+[]
