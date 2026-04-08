@@ -3,16 +3,10 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] **AWS Review Rule - Do not SPAM MCQ**. Review exact AWS domains/chapter that I faild to correct. Review what I haven't understand correctly.
 - [ ] Revise Calendar Schedule base on my Real Routine - Don't just be Passive and Follow them. 
-- [ ] Beside 1 BIG -> Define the other 3 Medium Task.
 
 - [ ] Use **AI with Mastery Mindset** - AI for visualize concepts, compare, challanges my Understandig and give examples. NOT the THINKING WORK (this includes how to use AI itself - Answer come from identifying the problem, not the act of receiving the Answer itself)
 
-- Setup Study Cycle *1 Big, 3 Medium* and 5 Small/Preserve task -> counter Study Paralysis & Axiety. 
-- *Read throughly paper before going to sleep*. Take nap occasionaly to digest complex concepts. 
-- *Useless & Small task > Slack off.* The trick is to preverse "beneficial" thing to do rather doing rotting.
-	-> Rotting is exactly what break the cycles.  
 
 **About Planning & Critical-less/Repetitive work: Think in the Architecture/Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
 

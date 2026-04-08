@@ -1,4 +1,4 @@
-
+**AWS Review Rule - Do not SPAM MCQ**. Review exact AWS domains/chapter that I faild to correct. Review what I haven't understand correctly.
 ![[Pasted image 20260314233913.png]]
 -> A is correct before AWS global infrastructure help reduce data transfer cost and data latency.(through Proximity/Cache).
 

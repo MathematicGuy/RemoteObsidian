@@ -1,4 +1,3 @@
-
 ![[Pasted image 20260403160525.png]]
 To better understand the importance of latent space in deep learning, we should think of the following question: **Why do we have to encode the raw data in a low-dimensional latent space before classification, regression, or reconstruction?**
 
@@ -19,6 +18,7 @@ For example:
     
 3. A new object in the input space can be generated from an existing object by moving from the vector corresponding to the original object to a nearby vector in the latent space, and then somehow decompress/reconstruct that new vector into an object in the input space.
 
-
+----
+Connect Ideas from Latent Representation with Tokenization
 
 
