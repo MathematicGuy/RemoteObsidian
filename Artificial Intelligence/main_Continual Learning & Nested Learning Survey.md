@@ -27,7 +27,7 @@
 	**All NN are associative memory system** that compress their own context flow. 
 	**Gradient Descent with momemtum** is indeed a **low-level optimization process**, where the memory is optimized by simple gradient descent algorithm. 
 
-## [[Continual Learning a Big Topic Survey]]
+### [[Continual Learning a Big Topic Survey]]
 
 
 ## Reading Survey of Narrow Topic
@@ -35,7 +35,7 @@
 #### [[Few-Shot, No Problem - Descriptive Continual Relation Extraction]]
 #### [[Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective]]
 
-
+[[Latent Representation]]
 
 ### A Comprehensive Survey of Continual Learning Theory Method Application
 

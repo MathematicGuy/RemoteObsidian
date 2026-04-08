@@ -1,15 +1,16 @@
 {
   "main": {
-    "id": "2998578d7cce0dd9",
+    "id": "f1046225b4ffba0e",
     "type": "split",
     "children": [
       {
-        "id": "4caec1bf87a89ad0",
+        "id": "6495fbd59339e440",
         "type": "tabs",
         "children": [
           {
-            "id": "94490618f61a03fd",
+            "id": "33e24e2bc3330ef0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,22 +18,23 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "_Focus"
             }
           },
           {
-            "id": "5c7f2f4cf14038f4",
+            "id": "f386daeab3ed2a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO2025 - Tokenizers.md",
+                "file": "Latent Representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO2025 - Tokenizers"
+              "title": "Latent Representation"
             }
           }
         ],
@@ -42,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cad2c8021d8eba3e",
+    "id": "9f3ef988e675e63e",
     "type": "split",
     "children": [
       {
-        "id": "5ab7beffe105f4e1",
+        "id": "fe26967350a75a13",
         "type": "tabs",
         "children": [
           {
-            "id": "9176b4d6e112d7ba",
+            "id": "307752e5c7863a5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "061d6b30d690a554",
+            "id": "081addf1decf31c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +82,7 @@
             }
           },
           {
-            "id": "df2ce7e28001c8b6",
+            "id": "cbeccbeba910d0cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +99,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "663bc2ab77d868dd",
+    "id": "6266166a470dfbb9",
     "type": "split",
     "children": [
       {
-        "id": "285846a9900f8139",
+        "id": "646a62a07c7f2f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "a898eacb12d00383",
+            "id": "57a103b748033643",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO2025 - Tokenizers.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +122,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AIO2025 - Tokenizers"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "0130acbe7bfa0513",
+            "id": "2c8a8be3faaa701b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO2025 - Tokenizers.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AIO2025 - Tokenizers"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "c625ec8d6fce2ed0",
+            "id": "ed1595c7c7af07d7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +155,7 @@
             }
           },
           {
-            "id": "5e8349e102a8a34d",
+            "id": "b4c6d4e91a67d975",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,18 +169,18 @@
             }
           },
           {
-            "id": "2e1672cb2b1aae9f",
+            "id": "151aeb5d76f06a7e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO2025 - Tokenizers.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AIO2025 - Tokenizers"
+              "title": "Outline of _Focus"
             }
           }
         ]
@@ -199,8 +201,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c7f2f4cf14038f4",
+  "active": "f386daeab3ed2a7c",
   "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md"
+    "2 ACTIONS/_Focus.md",
+    "Latent Representation.md",
+    "image/Pasted image 20260408150521.png",
+    "image/Pasted image 20260408150519.png",
+    "AIO2025 - Tokenizers.md",
+    "AIO 2025.md",
+    "Tokenizer.md",
+    "image/Pasted image 20260406214026.png",
+    "AIO2025 - Machine Translation.md",
+    "25M9W2 - NLP Problems & Applications.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "AWS Cloud Practitioner.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "image/Pasted image 20260407184327.png",
+    "image/Pasted image 20260407181315.png",
+    "image/Pasted image 20260407181212.png",
+    "image/Pasted image 20260407174719.png",
+    "image/Pasted image 20260407174154.png",
+    "image/Pasted image 20260407173344.png",
+    "image/Pasted image 20260407164756.png"
   ]
 }
