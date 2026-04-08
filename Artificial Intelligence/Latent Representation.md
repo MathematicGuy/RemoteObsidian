@@ -130,3 +130,5 @@ Approaches used to solve Few-Shot Continual Relation Extraction problem - [web](
 
 [AI Model](https://www.google.com/search?client=firefox-b-d&q=Which+approaches+used+to+solve+Few-Shot+Continual+Relation+Extraction+problem&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwspSJmW4ELJ_q6C3Z7ydZ0wIwPTN5bri5tFx3GWosf9sz1pFvdPmUq3bwfNsZThexeIrAzVN-aPbCFfLHnUubZPlfVUhvE8hTQsrIHhafMiDChg2_e6ZG8ZVZ_ib11l-pm6dbtoLPacUND9aN0r6yKeT9jWg2_AR5g6fUSMa0MoqlW9txQ&ved=2ahUKEwj3q6SFhd6TAxX5nK8BHUboJMMQ0NsOegQIAxAB&aep=10&ntc=1&mstk=AUtExfAvtplFk7THsvT-X44dgj-s0x9Hbehnj81OwKQEGXO7irC72HC1eg0mWgxmXyMrI2Att-NJvZCfGYhLYLi5jiGBdLYD1Ub8GvkvkWALehs5PxWOK3oyRDlkSs4RgKQalpW0Jd1gYeRZebayr_iQ2iuSZqGR0ZJSGepHm6U7JPiYFLNVf7hrWm-n3VKVUOevBEzBxdcCm2i3deMUm6WGaUTWtDbnpFlHvz9VwkZwJZNJK4A3Z_7msz8rMZ39CjFQ4499lyg_85vuG84NV9zamT2bfwQN4rwAKbPV5r32KEa2BNmQ6Gsn6A5ZqcEFsQGec0snBpxJrdW7Ug&csuir=1&mtid=hC3WadaGEq65vr0P99S5kQU&udm=50)
 List out papers that cites "Few-Shot, No Problem: Descriptive Continual Relation Extraction" and check if they solved ""Few-Shot, No Problem: Descriptive Continual Relation Extraction" paper existing limitation
+
+
