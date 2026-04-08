@@ -566,7 +566,16 @@ This mean, Like ALB Target Group but *could also Target of ALP* (Target types: *
 *Launch Template* - Auto-Created a pre-configuration EC2 Instance (Optional: add scaling policy for Auto-Scaling)
 ![[Pasted image 20260323171004.png]]
 
-Cloud Watch - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling.
+**AWS Cloud Watch** - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling -> Monitor CPU and hardware. *Monitor Metrics*
+Note: firmware is low-level software. 
+
+**AWS CloudTrail** - captures actions taken through the Management Console, SDKs, and CLI, providing visibility into "who did what, where, and when" across AWS. *Monitor log in SDK and Code*
++ *Security Monitoring:* Detects unauthorized access or unusual activity patterns by recording every individual API call.
+
+AWS *Artifact* -> *download AWS Compliance Report/Docs* and Certification.
+AWS Certificate Manager (ACM) - creating, storing, and *renewing public and private SSL/TLS*
+![[Pasted image 20260406214026.png]]
+
 
 *Scaling Policies* - Auto-Scaling *Strategies*
 ![[Pasted image 20260323171400.png]]
@@ -982,8 +991,9 @@ Security Group at Instance level.
 ![[Pasted image 20260326212203.png]]
 Stateful - allow the return traffic automatically
 
-Network ACL (security at subnet level - stateless) - control what goes in and out of the subnet.
+*Network ACL* (security at subnet level - *stateless Firewall*) - *control what goes in and out of the Subnet/VPC* or used for S3 Object access control.
 ![[Pasted image 20260326212359.png]]
+
 
 ### Naming & Access: DNS
 A record - route traffic to IPv4
@@ -1327,4 +1337,22 @@ AWS Anomaly Detection -> run script on Lambda, help to detect anomaly like DDOS.
 Rate Limiting AWS step func -> limit IP that access too much to prevent DDOS.
 
 ### [Lab Session](https://zoom.us/rec/play/6hYqLGNN7Pin90ccDHdzwYKW7X6bSDZoDolPHBEwsQBGd7nY1dcv7DCJIEKHl19cvLdG7w-nif5NOKZ-.7D_lWernqB-I9miS?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https://zoom.us/rec/share/VI7U1wf1S5om16eIFLdlrbyOGWLJOyYppeEd4INKns9h8OMP50ClWnKsauB9enZk.0QhjY029W_0aTcmo) 
+
+Pillars of the AWS Well-Architected  -> Security & Performance. 
+AWS Trusted *Advisor* -> AWS service to identifies security groups that allow unrestricted access to a user's AWS resources.
++ ? Inspects your AWS environment and provides actionable recommendations to follow best practices.
+
+When design Cloud Architecture -> Elasticity (adaptibility) is the principle architecture
+-> Allow pay-as-you-go and HA.
+
+Extend Local to Cloud -> Storage Gateway and Direct Connect.
+AWS system Manager -> Allow auto security version patching 
+Mechanism allow dev to *access AWS service from Application Code* -> SDK (Library that connect through API)
+S3 - store Object 
+
+AWS Partner Network - community of over 100,000 technology and consulting firms that leverage AWS to build, market, and sell customer solutions. AWS Support & Distributioner.
+AWS Professional Services - Service from AWS.
+
+
+
 
