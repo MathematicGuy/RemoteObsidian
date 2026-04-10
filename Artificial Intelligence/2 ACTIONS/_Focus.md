@@ -4,19 +4,15 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
 - [ ] Revise Calendar Schedule base on my Real Routine - Don't just be Passive and Follow them. 
-
 - [ ] Use **AI with Mastery Mindset** - AI for visualize concepts, compare, challanges my Understandig and give examples. NOT the THINKING WORK (this includes how to use AI itself - Answer come from identifying the problem, not the act of receiving the Answer itself)
+- [ ] **About Planning & Critical-less/Repetitive work: Think in the Architecture/Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
 
 
-**About Planning & Critical-less/Repetitive work: Think in the Architecture/Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
-
-
-
-
-_TODAY
+_Project
+- [ ] [AWS Official Cloud Partitioner Exam Prep Plan](https://skillbuilder.aws/learning-plan/8UUCEZGNX4/exam-prep-plan-aws-certified-cloud-practitioner-clfc02--english/1J2VTQSGU2) - [Youtube Cloud Partitioner](https://www.youtube.com/watch?v=NhDYbskXRgc)
 - [ ] [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
-- [ ] Research 2
 - [ ] [Mother of all RAG Project](https://github.com/jamwithai/production-agentic-rag-course)
+
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**
 - [ ] [good Deep Learning guide from real people](https://arikpoz.github.io/)
@@ -32,7 +28,6 @@ _TODAY
 [ViT Blog](https://tutorial.aivietnam.edu.vn/pdf/24)
 [FocusMate](https://www.focusmate.com/science/)
 [Latex Math Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-
 
 
 ### [[ML CheatSheet]]

@@ -105,15 +105,11 @@ possesses multiple key functional capabilities that distinguish it from the expl
 	Enable *direct calculations* such as concatenation, linear combination, etc.
 	Enable *Advance Operation* - like *controllable semantic steering,* active intervention, iterative interleaving, and visual latent thinking.
 
-
 Scalability - Follows naturally from the compactness and parallelizability of vectorized representations -> Fit for continuos reasoning. 
 
 Generalization -  capture abstract semantic structures rather than superficial linguistic patterns. 
 
-
-
 #### Connect to `DCRE` (Descriptive Continual Relation Extraction) paper
-
 uses a Transformer-based model (BERT or LLM2Vec) to translate human sentences into a **latent representation**.
 using "Cloze-style" template for masking token
 the relation encoded into a vector z as the **latent representation**. 
@@ -127,6 +123,37 @@ Approaches used to solve Few-Shot Continual Relation Extraction problem - [web](
 	Regularization-based 
 	Architecture-based 
 	Data/Gradient Augmentation
+
+
+![[Pasted image 20260409153700.png]]
+
+*Auxiliary Model* (like Vision Model used to read diagram for the host) - separate, independent model used _with_ the host.
+*Functional Component* (Projection Head) - component added into or onto the host.
+
+| **Mechanism Category**             | **Sub-Category**                      | **Simple Explanation**                                                                                             |
+| ---------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Architecture** (The Structure)   | **Backbone $\phi^\text{back}$**       | The main model's "skeleton" is built to think in latent space natively using loops or repeating layers.            |
+|                                    | **Component $\phi^\text{comp}$**      | Plug-in "tools" (like memory banks or projection heads) are added to a standard model to give it latent abilities. |
+|                                    | **Auxiliary Model $\phi^\text{aux}$** | A separate "consultant" model provides guidance or expert features to the main host model.                         |
+| **Representation** (The Data Form) | **Internal**                          | Uses the model's own natural mathematical byproducts, like hidden states or KV caches.                             |
+|                                    | **External**                          | Injects high-quality information from a separate, frozen expert model (like a Vision encoder).                     |
+|                                    | **Learnable**                         | Uses dedicated "virtual tokens" or adapters that are specifically trained to hold certain meanings.                |
+|                                    | **Hybrid**                            | Combines learnable training with external injection for specialized tasks.                                         |
+| **Computation** (The Logic)        | **Compressed**                        | Shrinks long, wordy "thinking" paths into dense, math-only shortcuts to save time.                                 |
+|                                    | **Expanded**                          | Increases the model's "brainpower" by repeating logic steps or exploring many paths at once.                       |
+|                                    | **Adaptive**                          | Changes how hard the model "thinks" based on how difficult the specific question is.                               |
+|                                    | **Interleaved**                       | Mixes human words and machine math in a single thinking chain.                                                     |
+| **Optimization** (The Training)    | **Pre-training**                      | The model learns to use latent space from day one during its initial massive training.                             |
+|                                    | **Post-training**                     | A pre-trained model is "fine-tuned" to become better at thinking in the latent space.                              |
+|                                    | **Inference**                         | The model's "thoughts" are adjusted and corrected in real-time while it is answering you.                          |
+
+*Which Architecture are ultilized to learn the latent space ?*
+Distinguish these *methods by the location where latent space $\mathcal{H}$ is integrated* into $\phi$, with a focus on the structure of the latent system within model space $\phi=\{\phi^\text{back},\phi^\text{compt},\phi^\text{aux} \}$
+
+
+
+
+---
 
 [AI Model](https://www.google.com/search?client=firefox-b-d&q=Which+approaches+used+to+solve+Few-Shot+Continual+Relation+Extraction+problem&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwspSJmW4ELJ_q6C3Z7ydZ0wIwPTN5bri5tFx3GWosf9sz1pFvdPmUq3bwfNsZThexeIrAzVN-aPbCFfLHnUubZPlfVUhvE8hTQsrIHhafMiDChg2_e6ZG8ZVZ_ib11l-pm6dbtoLPacUND9aN0r6yKeT9jWg2_AR5g6fUSMa0MoqlW9txQ&ved=2ahUKEwj3q6SFhd6TAxX5nK8BHUboJMMQ0NsOegQIAxAB&aep=10&ntc=1&mstk=AUtExfAvtplFk7THsvT-X44dgj-s0x9Hbehnj81OwKQEGXO7irC72HC1eg0mWgxmXyMrI2Att-NJvZCfGYhLYLi5jiGBdLYD1Ub8GvkvkWALehs5PxWOK3oyRDlkSs4RgKQalpW0Jd1gYeRZebayr_iQ2iuSZqGR0ZJSGepHm6U7JPiYFLNVf7hrWm-n3VKVUOevBEzBxdcCm2i3deMUm6WGaUTWtDbnpFlHvz9VwkZwJZNJK4A3Z_7msz8rMZ39CjFQ4499lyg_85vuG84NV9zamT2bfwQN4rwAKbPV5r32KEa2BNmQ6Gsn6A5ZqcEFsQGec0snBpxJrdW7Ug&csuir=1&mtid=hC3WadaGEq65vr0P99S5kQU&udm=50)
 List out papers that cites "Few-Shot, No Problem: Descriptive Continual Relation Extraction" and check if they solved ""Few-Shot, No Problem: Descriptive Continual Relation Extraction" paper existing limitation

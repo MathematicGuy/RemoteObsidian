@@ -358,9 +358,12 @@ Common AWS Instance Suffix Meanings:
 
 + *Savings Plans (flexible):* *Don't need Upfront Money*. *Dollar / hour Discount type*. e.g. `10$/hour` -> Use if you need to changes instance size or types frequenly like Fargate/Lambda.
 
-- *Dedicated Instances (No commitment):* Physically isolated at the host hardware level from other AWS account, often used for compliance.  *AWS choose a random dedicated instance for you* -> not share with anyone else.
++ ! The **a Server $\neq$ a Instances** -> A Server could be partition into multiple Instance, so renting a dedicated instance is like renting a 1 parts out of all Instance within a Server. 
 
-- [Dedicated Hosts](https://aws.amazon.com/ec2/dedicated-hosts/) (1–3 year commitment): *Rent the entire Physical servers* dedicated to your use, offering visibility of cores/sockets for BYOL (Bring Your Own License) scenarios and strict compliance.
+- *Dedicated Instances (No commitment):* Physically isolated at the host hardware level from other AWS account, often used for compliance.  AWS choose *a random dedicated instance* for you -> not share with anyone else.
+	*License Limit: No visibility* into physical sockets or cores. -> **cannot** bring licenses that require core-based or socket-based tracking.
+
+- [Dedicated Hosts](https://aws.amazon.com/ec2/dedicated-hosts/) (1–3 year commitment): *Rent the entire Physical Servers (contain multiple instances)* dedicated to your use, offering visibility of cores/sockets for BYOL (Bring Your Own License) scenarios and strict compliance.
 	-> You could use a **Host ID** to *force my EC2 instance to run on one specific piece of hardware I have already rented*, rather than letting AWS pick a random empty one for me. Because of *strict compliance* that *require licenses per-socket, per-core and per-VM.*
 + ? A *dedicated host runs multiple dedicated instance* bc you rent the whole Machine. Often cost more and you pay for them even when they are not used.
 
@@ -646,6 +649,7 @@ Db Migration service:
 + AWS DMS: explain, example, usecase
 + Transit Gateway: ...
 
+AWS Neptune - graph database service for highly connected datasets, such as recommendation engines, fraud detection, and knowledge graphs. 
 AWS SQS - allow user to decouple and expand microservice. Distributed system and serverless application.  Use Queue.
 AWS Kinesis Data Streams design to process large amount of realtime data.
 AWS *Redshift* - serverless cloud storage, *analyze large data* in TERA to PETABYTE for BI.
@@ -1080,13 +1084,15 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 ![[Pasted image 20260402143036.png | 777]]
 
 
-### Key Management Service (KMS), SSM
+### Key Management Service (AWS KMS), SSM
 For Security and compliance
 AWS KMS - can be integrated with **Amazon S3, EBS, RDS, Lambda, and SSM** to handle data encryption and decryption.
 	Because *data is encrypted by key*, key enryption also mean data encryption. ![[Pasted image 20260402170917.png]]
 
+*AWS KMS and Secret Manager are complementary* security service
++ ? Secrets Manager stores, manages, and rotates sensitive data (API keys, passwords), using KMS to encrypt this data at rest.
 
-**Rotate AWS KMS keys** - 3 types - Manage key have 1yr expire date, Imported key don't.
+**AWS Secret Manager Rotate AWS KMS keys** - 3 types - Manage key have 1yr expire date, Imported key don't.
 AWS *Managed Keys*
 - Automatic rotation *every 1 year*
 Customer *Managed Keys*
@@ -1098,7 +1104,6 @@ Customer *Managed Keys*
 + *No automatic rotation*
 + Must rotate manually (typically using aliases)
 ![[Pasted image 20260402191324.png]]
-
 
 
 
@@ -1158,7 +1163,8 @@ Integrations with (load TLS certificates on)
 + APIs on API Gateway
 + ! Cannot use ACM with EC2 (can’t be extracted)
 ![[Pasted image 20260402164526.png | 677]]
-
+cerificate ~ token ~  encryption keys
++ ? Allow generate encryption keys that can be used to encrypt data
 
 To Certified, you need to requesting Public Certificates:
 ![[Pasted image 20260402171455.png | 666]]
@@ -1202,14 +1208,13 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 	2. *For automation, use IAM roles* to automatically obtain temporary credentials without manual intervention.
 	3. *Enable AWS CloudTrail to log and monitor AWS STS* API calls for auditing and troubleshooting.
 	
-+ ? Note: AWS CloudWatch used for *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules.*  
++ ? Note: AWS CloudWatch used for *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules.*  Monitor Cost and Billing as well.
 
 
-**Access Control Lists (ACLs)** - *manage access to resources (buckets and object/file)* at different levels, such as Amazon S3 buckets or Virtual Private Cloud (VPC) subnets. Offer fine-grained control - [what is AWS ACL - Search](https://www.bing.com/search?pglt=417&q=what+is+AWS+ACL&cvid=901bf0cd948343409ca93b6b219a83f9&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEIMzc3MGowajGoAgiwAgE&FORM=ANNTA1&PC=U531)
+**Access Control Lists (ACLs)** - *manage access to resources (buckets and object/file)* at different levels, such as Amazon *S3 buckets* or *Virtual Private Cloud (VPC) subnets*. Offer fine-grained control - [what is AWS ACL - Search](https://www.bing.com/search?pglt=417&q=what+is+AWS+ACL&cvid=901bf0cd948343409ca93b6b219a83f9&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEIMzc3MGowajGoAgiwAgE&FORM=ANNTA1&PC=U531)
 + $ Often *use to protect private File.*
 + ? You don't have to use ACLs unless Object-level (Object are File) permission are required, just use bucket policies for access control.
 	Note that a S3 object represent a file (5TB max size) - [what is a Object in S3 - Search](https://www.bing.com/search?pglt=417&q=what+is+a+Object+in+S3&cvid=5e1bf02ecd3a4e65adc7d2b305ad26ba&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEIMjg5MGowajGoAgiwAgE&FORM=ANNTA1&PC=U531)
-
 
 ### AWS GuardDuty, Inspector, Macie
 -> Analyzing security vulnerability on EC2 instance
@@ -1222,6 +1227,12 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 	Alerts on network reconnaissance, such as scanning for open ports..
 + ? Monitor real-time *AWS accounts, logs, and network traffic* (like VPC Flow Logs, CloudTrail events, DNS logs, and EKS audit logs).
 
+*VPC Flow Logs* - captures information about *IP traffic going to and from network interfaces in a VPC* (Virtual Private Cloud)
+-> for monitoring, Logs output to CloudWatch, S3 or Data Firehose. ![[Pasted image 20260409130554.png | 777]]
++ ? Logs from *Flow Logs* reached *CloudWatch* which can be used to trigger "alarm -> action" for EC2 auto scaling
+
+
+
 **AWS Inspector (identifying risks/vulnability scanner):** *scans EC2/ECR instances*, containers, and Lambda functions for software flaws -> *Scanning resource for vulnability and misconfiguration* like Outdated software, misconfiguration, missing patches or exposed network ports (also support DevOps pipeline).
 + ? Monitor real-time Vulnability in *Software* and unintended network setup *(network exposure)*.
 ![[Pasted image 20260402175846.png]]
@@ -1233,12 +1244,17 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 	
 	**AWS Macie is serverless** use *ML and Pattern Matching to auto Discover, Classify and Protect Sensitive data* (like PII e.g. name, email, IDs financial data and credentials) stored in *AWS S3 buckets.* S3 Protection focus. *Regional Level* ![[Pasted image 20260402180128.png]]
 
+### AWS Well-Architected Framework (6 pillars)
+==Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability==,
+
+
 ### AWS Trusted Advisor vs Inspector vs Cloud Watch vs CloudTrail
 AWS Trusted Advisor - give advises base on action records. 
 + ? identifies ways to improve your AWS infrastructure across 5 unique pillars: *Security, Performance, Cost Optimization, Fault Tolerance, and AWS Service Quotas.*
 
 **AWS CloudTrail vs CloudWatch**
-+ Cloud Watch - *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules*.
++ Cloud Watch - *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules*. - [source](https://cloudchipr.com/blog/aws-cloudwatch)
+	![[Pasted image 20260409122933.png]]
 	Example: Monitor bandwidth utilization, performance, and the traffic parameters of your app. ![[Pasted image 20260407181212.png]]
 	
 + CloudTrail - are *records of API activity and management events* hence the word *Trail/Evidence*, providing detailed information about who, what, and when actions were performed.  ![[Pasted image 20260407184327.png]]
@@ -1285,18 +1301,22 @@ AWS Budget (Proactive Control) -  Đặt ngưỡng ngân sách và t*ự động
 3. [Practice Budget Alert](https://kubex.ai/finops/aws-budgets-vs-cost-explorer/#:~:text=Both%20tools%20are%20free%20for%20basic%20use,reports%2C%20while%20Cost%20Explorer%20charges%20for%20API)
 
 **Exceed Budget Auto-Stop Use Case**
-Cost Explorer (Analysis) - phân tích chi phí theo dịch vụ, tài khoản, thẻ/tag và khoảng thgian (ngày/tháng/custom range) + Visualization các chi phis dịch vụ trong Lịch sử (xu hướng chi phí vào services nào, filter/group by, time range) 
+*Cost Explorer (Analysis)* - phân tích chi phí theo dịch vụ, tài khoản, thẻ/tag và khoảng thgian (ngày/tháng/custom range) + Visualization các chi phis dịch vụ trong Lịch sử (xu hướng chi phí vào services nào, filter/group by, time range) -> **analyzing historical usage**
 
-AWS Pricing Calculator - Setup EC2/Storage/Network then calculate the expected cost.
+*AWS Pricing Calculator* - Setup EC2/Storage/Network then calculate the **expected cost (hypothesis/predicted cost).**
 Migration Evaluator - retrieve on-premises workload from hardwares (CPU, RAM, IO, utilization) -> right-size workload when migrate to AWS. 
 	Compare on-prem vs AWS cost - evaluate migration cost. 
+
+*AWS Global accelerator* - Improve performance by up to 60% by *routing user traffic through the AWS global network backbone* rather than the public internet - [source](https://cloudonaut.io/review-aws-global-accelerator-latency-multi-region-disaster-recovery/) ![[Pasted image 20260409124441.png | 777]]
+**AWS Migration Hub**
+*AWS Total Cost of Ownership (TCO)* Calculator ==allows organizations to estimate cost savings by comparing on-premises infrastructure to AWS services==.
+Note: value proposition mean your advantage againt your competitor. 
 
 First AWS Principle is Pay-as-you-go -> This model gather customers but Revenue is Unpredictable and volatile.  
 + ? To Retain long-term customer, AWS offer higher discount the longer you used their services.    ![[Pasted image 20260407153435.png | 666]]
 
 
 ### AWS Pricing Model
-
 **VPC Peering** (network connection between 2 VPC,  simple setup with *VPC < 5 connection setup*) -> Allow *No-COST Data Transfer between Region* by routing traffic to eachother using private IP address.
 	Meshed network topology (vpcp) 
 ![[Pasted image 20260407160336.png | 888]]
@@ -1333,14 +1353,21 @@ Cost Allocation Tags -> Tag which service used for Billing. So admin can see whe
 
 AWS Anomaly Detection -> run script on Lambda, help to detect anomaly like DDOS.
 ![[Pasted image 20260407164313.png]]
-
 Rate Limiting AWS step func -> limit IP that access too much to prevent DDOS.
 
 ### [Lab Session](https://zoom.us/rec/play/6hYqLGNN7Pin90ccDHdzwYKW7X6bSDZoDolPHBEwsQBGd7nY1dcv7DCJIEKHl19cvLdG7w-nif5NOKZ-.7D_lWernqB-I9miS?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https://zoom.us/rec/share/VI7U1wf1S5om16eIFLdlrbyOGWLJOyYppeEd4INKns9h8OMP50ClWnKsauB9enZk.0QhjY029W_0aTcmo) 
-
 Pillars of the AWS Well-Architected  -> Security & Performance. 
-AWS Trusted *Advisor* -> AWS service to identifies security groups that allow unrestricted access to a user's AWS resources.
+*AWS Trusted Advisor* -> AWS service to identifies security groups that allow unrestricted access to a user's AWS resources.
 + ? Inspects your AWS environment and provides actionable recommendations to follow best practices.
++ $ Advisor Help checks and optimize the these categories: 
+	*Cost Optimization (Identitfy under-ultilize resource)* - unsed assesst (like rent but not use S3)
+	*Security (Evaluate)* - security gaps
+	*Performance (Monitor resource usage)* - scan for performance Bottleneck  
+	*Fault Tolerant (Detects gaps in configuration to ensure resillient)*
+	*Service Quota (Monitors)* - Monitors your usage of AWS services against regional limits. e.g. Flags usage over 80% EC2 usage
+-> like a Scan and Recommended system. 
+
+Fault Tolerant - ability for the system to keep running in case of 1 or more components fail e.g. EC2. 
 
 When design Cloud Architecture -> Elasticity (adaptibility) is the principle architecture
 -> Allow pay-as-you-go and HA.
@@ -1350,9 +1377,9 @@ AWS system Manager -> Allow auto security version patching
 Mechanism allow dev to *access AWS service from Application Code* -> SDK (Library that connect through API)
 S3 - store Object 
 
-AWS Partner Network - community of over 100,000 technology and consulting firms that leverage AWS to build, market, and sell customer solutions. AWS Support & Distributioner.
+*AWS Partner Network* - community of over 100,000 technology and *consulting firms* that leverage AWS to build, market, and sell customer solutions. *AWS Services Distributioner*. 
 AWS Professional Services - Service from AWS.
 
-
-
+AWS Connect - offer *custom-built AI customer service for Company* at a lower cost on Cloud.
+AWS Enterprise Support - have a exclucise Concierge team (lễ tân)
 
