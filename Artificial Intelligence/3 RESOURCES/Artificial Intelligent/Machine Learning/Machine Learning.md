@@ -43,7 +43,6 @@
 ### 3) [[Machine Learning Tools]]
 	 What should you use to build your solution?
 + ### Machine Learning Tools (tools you can use to get the job done)
-+ 
 + ### Machine Learning Mathematics (whats running under the hood when you write machine learning code)
 
 ### 4) [[Machine Learning Mathematics]]
