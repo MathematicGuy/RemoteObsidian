@@ -10,6 +10,7 @@
           {
             "id": "94490618f61a03fd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,22 +18,19 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "_Focus"
             }
           },
           {
-            "id": "288f418044e02d13",
+            "id": "79050912a7aaf77d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO 2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AIO 2025"
+              "title": "New tab"
             }
           }
         ],
@@ -190,6 +188,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,13 +199,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "288f418044e02d13",
+  "active": "79050912a7aaf77d",
   "lastOpenFiles": [
-    "AIO2025 - GAN.md",
     "2 ACTIONS/_Focus.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Learning Note.md",
+    "image/Pasted image 20260412114141.png",
+    "image/Pasted image 20260412114102.png",
+    "image/Pasted image 20260412114041.png",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Machine Learning.md",
+    "Latent Representation.md",
     "AIO 2025.md",
     "AIO2025 - Tokenizers.md",
-    "Latent Representation.md",
+    "AIO2025 - GAN.md",
+    "image/Pasted image 20260409153700.png",
+    "image/Pasted image 20260409130554.png",
+    "image/Pasted image 20260409124441.png",
+    "image/Pasted image 20260409122933.png",
     "image/Pasted image 20260408150521.png",
     "image/Pasted image 20260408150519.png"
   ]
