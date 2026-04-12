@@ -24,7 +24,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "79050912a7aaf77d",
+=======
+            "id": "16311e69d812d9de",
+>>>>>>> ef34c988ad596d4a57f865a6d9fb446596d63622
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -199,6 +203,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "79050912a7aaf77d",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
@@ -217,5 +222,30 @@
     "image/Pasted image 20260409122933.png",
     "image/Pasted image 20260408150521.png",
     "image/Pasted image 20260408150519.png"
+=======
+  "active": "16311e69d812d9de",
+  "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "Latent Representation.md",
+    "image/Pasted image 20260409153700.png",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "AWS Cloud Practitioner.md",
+    "image/Pasted image 20260409130554.png",
+    "image/Pasted image 20260409124441.png",
+    "image/Pasted image 20260409122933.png",
+    "AIO2025 - GAN.md",
+    "image/Pasted image 20260408150521.png",
+    "image/Pasted image 20260408150519.png",
+    "AIO2025 - Tokenizers.md",
+    "AIO 2025.md",
+    "Tokenizer.md",
+    "image/Pasted image 20260406214026.png",
+    "AIO2025 - Machine Translation.md",
+    "25M9W2 - NLP Problems & Applications.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "image/Pasted image 20260407184327.png",
+    "image/Pasted image 20260407181315.png",
+    "image/Pasted image 20260407181212.png"
+>>>>>>> ef34c988ad596d4a57f865a6d9fb446596d63622
   ]
 }
