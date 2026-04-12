@@ -27,14 +27,17 @@
             "id": "a518672183223d34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math Behind Generative Adversarial Networks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Math Behind Generative Adversarial Networks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +199,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a518672183223d34",
+  "active": "6459e47547f27c34",
   "lastOpenFiles": [
+    "Math Behind Generative Adversarial Networks.md",
+    "image/Pasted image 20260412182534.png",
+    "image/Pasted image 20260412182353.png",
+    "image/Pasted image 20260412182200.png",
+    "image/Pasted image 20260412182120.png",
+    "image/Pasted image 20260412182100.png",
+    "GAN.md",
+    "KL Divergence.md",
+    "image/Pasted image 20260412173315.png",
+    "image/Pasted image 20260412173215.png",
+    "image/Pasted image 20260412173036.png",
+    "image/Pasted image 20260412173014.png",
+    "image/Pasted image 20260412172827.png",
+    "Shannon Entropy.md",
+    "Logarithm and Log-Likelihood Function.md",
     "2 ACTIONS/_Focus.md"
   ]
 }
