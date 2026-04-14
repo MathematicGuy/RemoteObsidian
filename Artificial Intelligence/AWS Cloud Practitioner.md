@@ -631,7 +631,7 @@ AWS EFS for Linux-base workload
 S3 Intelligent Tiering is genuenly the best for it automatic lifecycle management.
 -> Its move data from Frequent -> Infrequent -> Archive -> Deep Archive based on access frequency.
 
-*AWS Storage Gateway* - Bridge/connecting *On-premise Infrastructure to AWS Cloud Service* for for backup, disaster recovery, and tiered storage.
+*AWS Storage Gateway **(Specifically for Hybrid Cloud Storage)*** - Bridge/connecting *On-premise Infrastructure to AWS Cloud Service* for for backup, disaster recovery, and tiered storage -> *sync data between on-prem and cloud*
 	Usecase: move on-premised data storage on an NFS file system to AWS Cloud Storage.
 Compare to EBS and EFS -> they are on Cloud service.
 	Note: EBS (Elastic Block Service) and EFS (- File Service -) and S3 is both block, file and tape (??)
