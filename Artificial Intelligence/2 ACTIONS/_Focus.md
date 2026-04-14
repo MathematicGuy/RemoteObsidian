@@ -12,6 +12,8 @@ _Project
 - [ ] [AWS Official Cloud Partitioner Exam Prep Plan](https://skillbuilder.aws/learning-plan/8UUCEZGNX4/exam-prep-plan-aws-certified-cloud-practitioner-clfc02--english/1J2VTQSGU2) - [Youtube Cloud Partitioner](https://www.youtube.com/watch?v=NhDYbskXRgc)
 - [ ] [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
 - [ ] [Mother of all RAG Project](https://github.com/jamwithai/production-agentic-rag-course)
+- [ ] [Evaluate RAG using RAGAS](https://viblo.asia/p/llm-su-dung-ragas-va-llamaindex-de-danh-gia-chat-luong-rag-5OXLAv8YVGr)
+
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**
