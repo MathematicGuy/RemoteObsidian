@@ -8,28 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b6d88b38a364bdd",
+            "id": "ee8addaf855ac177",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Focus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_Focus"
             }
           },
           {
             "id": "33b63268cc69b16e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "THOUGH.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/Life as a System.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "THOUGH"
+              "icon": "excalidraw-icon",
+              "title": "Life as a System.excalidraw"
             }
           }
         ],
@@ -65,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(ADHD)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,8 +163,19 @@
               "icon": "lucide-list",
               "title": "Outline of THOUGH"
             }
+          },
+          {
+            "id": "ba6ac9cc61c59027",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,5 +197,11 @@
     }
   },
   "active": "33b63268cc69b16e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "THOUGH.md",
+    "Excalidraw/Life as a System.excalidraw.md",
+    "_Focus.md",
+    "CHANGES.md",
+    "2 ACTIONS/_My Life/_My Life.md"
+  ]
 }
