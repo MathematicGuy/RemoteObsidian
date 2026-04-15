@@ -1,11 +1,19 @@
 [[KL Divergence]]
 [[Math Behind Generative Adversarial Networks]] - [fomula proof](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+[Medium - GAN Detail Explain from Paper and Code](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f) 
+Understanding Latent Space in Machine Learning 
+[Reference GAN Code](https://ubc-mds.github.io/DSCI_572_sup-learn-2/lectures/08_advanced-deep-learning.html)
+[Wasserstein Loss Detail](https://machinelearningmastery.com/how-to-implement-wasserstein-loss-for-generative-adversarial-networks/)
 
----
+GAN HW + GAN Code Interchangbly
+	FreeTime Visualize All GAN Generation Image
+
 ## Why GAN ? 
 ![[Pasted image 20260413150343.png | 555]]
 + ! Training data is limited for the model to understand and replicate the Original image. 
 -> with limited data, we could at least *leverage data mean and std.* 
++ $ So when we talking about GAN, we talking about matching data distribution. To achieve that we use GAN architecture and its MiniMax Objective function. 
+
 
 *Discriminator Objective Function Explain*
 ![[Pasted image 20260413154026.png]]
@@ -15,7 +23,6 @@ $$L_{D}(z,x)=-y\log(D(x))-(1-y)\log(1-D(G(z)))$$
 + *1st term - Real Loss:* $\log(D(x))$ có $D(x)$ càng *tăng* thì $log(D(x))$ càng *nhỏ* -> *Better Real Image  classification the Lower the Loss.*  
 + *2nd term - Generated Loss:* $(1-y)\log(1-D(G(z)))$ with $D(G(z))$ consider as Generated Accuracy -> *higher generation acc mean lower Generated Loss*. 
 Note: divided by 2 to take the average of the Loss.
-
 
 
 ### Re-Explain GAN
@@ -53,7 +60,15 @@ GAN is a Binary Classification problem. So no label required -> Unsupervised lea
 
 2. *Vanishing Gradients -* Generator quire feedback to update its gradient like MLP, but if the *discriminator becomes too strong* too quickly, *this mean generated image look so fake, the discriminator confidence is always $D(x) = 1$ $\leftrightarrow$  $log(1) = 0$* (ie. loss always 0) making backprop useless causing learning to stop. 
 
-## Structurize GAN
+## Decompose GAN Architecture 
+This is what G and D see during Training. 
+![[Pasted image 20260414114436.png]]
+GAN as a Whole. 
+![[Pasted image 20260414114508.png]]
+
+
+
+## Practice GAN
 Xét một Generator với kiến trúc như hình dưới đây. Giả sử đầu vào của Generator là noise vector `z` có kích thước 100 × 1 × 1, vector này qua bước project and reshape, `z` được biến đổi thành feature map ban đầu kích thước 4 × 4 × 256. Feature map này tiếp tục đi qua 3 lớp `ConvTranspose2d` để tăng kích thước không gian như sơ đồ dưới đây.
 ![[Pasted image 20260413164559.png]]
 Featue Map (`H x W x C`) sau khi đi qua Generator.

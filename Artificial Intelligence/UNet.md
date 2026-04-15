@@ -25,6 +25,14 @@ But we need a method to preserve the Dimensionality of the image when Down/Up Sa
 How ? like conv but you mult the "Input/ downsample featuremap" to the whole kernel pixel by pixel (left -> right, top -> bottom). 
 e.g. the first calc is $2 * [[1,1], [1,1]]$ with input value as 2 and kernel size of 2 value 1. This mean value 2 will be kommen 2x2 matrix within the 3x3 matrix (ie. 2x2 matrix + padding).
 ![[Pasted image 20260226172020.png]]
+**Tranpose Conv Fomula:**
+$$H_{out}=(H_{in}-1)\times stride-2\times padding +(\text{kernel\_{size}-1})+1$$
+Example:
+	kernel=4
+	stride=2
+	padding=1
+	-> H_out $=$ (H_in -1)x2 - 2x1+(4-1)+1 $=$ 2H_in - 2 - 2 + 3 + 1 $=$ 2H_in 
+
 
 The code is quite simple, `in/out_channel` determine how many channel you have incase you want to up/down_sampling (e.g 512 -> 256), `kernel_size` is the kernel each of the input pixels will be multiply to and bias is just bias.
 ![[Pasted image 20260226172529.png]]

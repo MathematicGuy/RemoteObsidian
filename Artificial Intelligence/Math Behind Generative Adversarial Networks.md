@@ -6,7 +6,6 @@ Prove
 Need a method to measure diff between 2 distribution
 -> JS Divergence (Jeson Shannon DIvergence)
 
-
 ![[Pasted image 20260412182353.png]]
 
 
