@@ -24,13 +24,31 @@
             }
           },
           {
-            "id": "d1e76d415d2db829",
+            "id": "f111879af0f8f552",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AIO2025 - LLM Alignment.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AIO2025 - LLM Alignment"
+            }
+          },
+          {
+            "id": "fc29d4d6bc4a029e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KL Divergence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KL Divergence"
             }
           }
         ],
@@ -92,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f435f1e818e3ffea",
@@ -197,9 +216,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3e475a77c43be323",
+  "active": "f111879af0f8f552",
   "lastOpenFiles": [
+    "image/Pasted image 20260418225108.png",
+    "image/Pasted image 20260418221109.png",
+    "image/Pasted image 20260418213654.png",
+    "image/Pasted image 20260418213413.png",
+    "image/Pasted image 20260418212330.png",
+    "image/Pasted image 20260418212250.png",
     "2 ACTIONS/_Focus.md",
+    "KL Divergence.md",
+    "AIO2025 - LLM Alignment.md",
+    "image/Pasted image 20260418211213.png",
+    "image/Pasted image 20260418210930.png",
+    "image/Pasted image 20260418205716.png",
+    "image/Pasted image 20260418205245.png",
+    "image/Pasted image 20260418204932.png",
+    "AIO 2025.md",
+    "Regex.md",
+    "GPT-2.md",
+    "AIO2025 - Reasoning LLM.md",
+    "AIO2025 - GAN.md",
+    "Pytorch.md",
     "Excalidraw/Continous Learning Research Plan Board.md",
     "Excalidraw/Scaling Vision Transformers with Sparse Mixture of Experts.excalidraw.md",
     "Excalidraw/Nested Learning Board.md"
