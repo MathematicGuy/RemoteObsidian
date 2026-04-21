@@ -1,4 +1,5 @@
 ![[Pasted image 20260224143748.png]]
+
 ---
 ## Leson 1: Cloud Concepts
 **How to build a server ?**
@@ -272,13 +273,19 @@ EC2 instance Naming Convention: `d` is for dev, `p` is for production.
 + CloudFront (Cache) - 1st 1TB tranfer is free
 + BeanStalk & Cloud Watch is Free - [aws free web](https://aws.amazon.com/free/?ams%23interactive-card-vertical%23pattern-data-339318104.search=CloudWatch)
 
-*AWS Lambda (Faas - Function as a Service)* - serverless *auto-scale compute service* which contain runtime ev like Python, Java, etc... This is *THE SAME as Python Lambda Function*, you could upload your scripts by:
+*AWS Lambda (Faas - Function as a Service)* - serverless *auto-scale compute service* which *contain runtime ev like Python*, Java, etc... This is *THE SAME as Python Lambda Function*, you could upload your scripts by:
 + Zip your script and libraries then upload them via AWS Console
 + Or Dockerize your code and push it into Amazon Elastic Container Registry (ECR) where you could store, deploy and manage your code -> more neat.
-To run, simply call your Scripts API function.
+To run, simply call your Scripts API function ([Python Lambda Practice](https://docs.aws.amazon.com/lambda/latest/dg/file-processing-app.html)). 
 + ! *Lambda Limits:* 15' runtime, 10GB RAM.
 + @ Help to *test your code instantly* without the need of EC2 instance.
-+ $ Could *Integrate other AWS serverless service.*
++ $ Could *Integrate other AWS serverless service.* 
+Other benefits:
+1. *Run code without provision* (run instantly on a AWS HA Instance). *Simply write or upload* code as a `.zip` file or container image.
+2. *Automatically respond to code execution requests at any scale*, from hundreds to thousands per second..
+3. Pay only for the compute you use (*Pay-as-you-go*)
+
+
 
 AWS Lambda upon triggering:
 + Defined API Call in your Code
@@ -1382,4 +1389,9 @@ AWS Professional Services - Service from AWS.
 
 AWS Connect - offer *custom-built AI customer service for Company* at a lower cost on Cloud.
 AWS Enterprise Support - have a exclucise Concierge team (lễ tân)
+
+---
+## What Next
+![[Pasted image 20260420132113.png]]
+ 
 

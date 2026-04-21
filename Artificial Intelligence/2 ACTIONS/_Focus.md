@@ -14,7 +14,7 @@ _Project
 - [ ] [Evaluate RAG using RAGAS](https://viblo.asia/p/llm-su-dung-ragas-va-llamaindex-de-danh-gia-chat-luong-rag-5OXLAv8YVGr)
 - [ ] [AI Engineer Study Group github](https://github.com/ArturoNereu/AI-Study-Group)
 - [ ] [Finish the video](https://www.youtube.com/watch?v=7xTGNNLPyMI)
-
+- [Research](https://www.facebook.com/groups/1094847652564195)
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**

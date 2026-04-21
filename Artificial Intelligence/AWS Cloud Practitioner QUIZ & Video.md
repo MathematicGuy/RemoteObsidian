@@ -106,3 +106,7 @@ Within a VPC, Company want initnitate connection between Private and Public Neto
 
 Implement encryption in transit - which security service (understand what "in transit" mean and its relation to SSL/TLS certificates)
 AWS Support Plan
+
++ ? AWS service or feature allows users to connect with and deploy AWS services programmatically ? 
+	-> AWS SDK (AWS Software Dev Kits)
+
