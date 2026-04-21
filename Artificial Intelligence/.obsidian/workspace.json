@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c0bd1722c0f5c3ff",
+    "id": "ba88432ed42464f4",
     "type": "split",
     "children": [
       {
-        "id": "918911bda0148d72",
+        "id": "76e084aa34382b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "efebf8bbc3eb8210",
+            "id": "920a433129b26253",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,31 +24,17 @@
             }
           },
           {
-            "id": "f111879af0f8f552",
+            "id": "9f353a0a9225a31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO2025 - LLM Alignment.md",
+                "file": "AWS Cloud Practitioner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIO2025 - LLM Alignment"
-            }
-          },
-          {
-            "id": "fc29d4d6bc4a029e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KL Divergence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KL Divergence"
+              "title": "AWS Cloud Practitioner"
             }
           }
         ],
@@ -58,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eecd51d550aae68a",
+    "id": "bf1eaca71e260685",
     "type": "split",
     "children": [
       {
-        "id": "83d3dc371fc454da",
+        "id": "fa33f800a9ab9bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4ea5c5f883485c",
+            "id": "7652cc4e3051a5af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,12 +65,12 @@
             }
           },
           {
-            "id": "3e475a77c43be323",
+            "id": "924adf84ae8bc591",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(ADHD)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +82,7 @@
             }
           },
           {
-            "id": "34515cb75f9cb1d8",
+            "id": "a043f79a211aad73",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,19 +99,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "f435f1e818e3ffea",
+    "id": "ed8c647a66a5733f",
     "type": "split",
     "children": [
       {
-        "id": "8c6c440890a0c0ef",
+        "id": "c03224176ede724d",
         "type": "tabs",
         "children": [
           {
-            "id": "c6688f8fad104d91",
+            "id": "19925245aa5a3227",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS Cloud Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,24 +122,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for AWS Cloud Practitioner"
             }
           },
           {
-            "id": "f1efd0cfe44c6576",
+            "id": "c635691487c17f08",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS Cloud Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from AWS Cloud Practitioner"
             }
           },
           {
-            "id": "95ef038b20038ef9",
+            "id": "a81314f2830bf0e1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,7 +155,7 @@
             }
           },
           {
-            "id": "d53439bd26b2f51c",
+            "id": "06a601660b8c27dd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -182,17 +169,18 @@
             }
           },
           {
-            "id": "d14eedb5286f482a",
+            "id": "4c790b8345085566",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "AWS Cloud Practitioner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of AWS Cloud Practitioner"
             }
           }
         ]
@@ -216,30 +204,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f111879af0f8f552",
+  "active": "9f353a0a9225a31e",
   "lastOpenFiles": [
-    "image/Pasted image 20260418225108.png",
-    "image/Pasted image 20260418221109.png",
-    "image/Pasted image 20260418213654.png",
-    "image/Pasted image 20260418213413.png",
-    "image/Pasted image 20260418212330.png",
-    "image/Pasted image 20260418212250.png",
     "2 ACTIONS/_Focus.md",
-    "KL Divergence.md",
-    "AIO2025 - LLM Alignment.md",
-    "image/Pasted image 20260418211213.png",
-    "image/Pasted image 20260418210930.png",
-    "image/Pasted image 20260418205716.png",
-    "image/Pasted image 20260418205245.png",
-    "image/Pasted image 20260418204932.png",
-    "AIO 2025.md",
-    "Regex.md",
-    "GPT-2.md",
-    "AIO2025 - Reasoning LLM.md",
-    "AIO2025 - GAN.md",
-    "Pytorch.md",
-    "Excalidraw/Continous Learning Research Plan Board.md",
-    "Excalidraw/Scaling Vision Transformers with Sparse Mixture of Experts.excalidraw.md",
-    "Excalidraw/Nested Learning Board.md"
+    "AWS Cloud Practitioner.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "image/Pasted image 20260420132113.png"
   ]
 }
