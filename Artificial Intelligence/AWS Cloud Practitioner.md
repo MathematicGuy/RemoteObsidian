@@ -1,4 +1,6 @@
 ![[Pasted image 20260224143748.png]]
+[[AWS Cloud Partitioner - Final Project]]
+
 ---
 ## Leson 1: Cloud Concepts
 **How to build a server ?**
