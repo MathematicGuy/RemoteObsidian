@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "10fae2f4a822c3eb",
+    "id": "ba88432ed42464f4",
     "type": "split",
     "children": [
       {
-        "id": "f7a2a0f4a13936cd",
+        "id": "76e084aa34382b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "d32c7851f175e93c",
+            "id": "920a433129b26253",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,6 +22,23 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "9f353a0a9225a31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Practitioner"
+            }
+>>>>>>> f858fc2d86a670ce582b1f4531c4866f6de3f6f9
           }
         ]
       }
@@ -29,15 +46,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d7510079e4a852f",
+    "id": "bf1eaca71e260685",
     "type": "split",
     "children": [
       {
-        "id": "759b272fee47ecf4",
+        "id": "fa33f800a9ab9bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "25b4b2318599b470",
+            "id": "7652cc4e3051a5af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +67,7 @@
             }
           },
           {
-            "id": "7b19aa74c13bc550",
+            "id": "924adf84ae8bc591",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +84,7 @@
             }
           },
           {
-            "id": "5754e38c869dff3e",
+            "id": "a043f79a211aad73",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +101,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "f8f9a6a6c425994e",
+    "id": "ed8c647a66a5733f",
     "type": "split",
     "children": [
       {
-        "id": "a7dc52caf8ca8690",
+        "id": "c03224176ede724d",
         "type": "tabs",
         "children": [
           {
-            "id": "47706e3f39bbadea",
+            "id": "19925245aa5a3227",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Agent.md",
+                "file": "AWS Cloud Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +124,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Agent"
+              "title": "Backlinks for AWS Cloud Practitioner"
             }
           },
           {
-            "id": "30b9a85b95425380",
+            "id": "c635691487c17f08",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Agent.md",
+                "file": "AWS Cloud Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Agent"
+              "title": "Outgoing links from AWS Cloud Practitioner"
             }
           },
           {
-            "id": "eb2642747180e47c",
+            "id": "a81314f2830bf0e1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +157,7 @@
             }
           },
           {
-            "id": "f9b3e15df5807d05",
+            "id": "06a601660b8c27dd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,18 +171,18 @@
             }
           },
           {
-            "id": "c9fc448cf3e4b33e",
+            "id": "4c790b8345085566",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Agent.md",
+                "file": "AWS Cloud Practitioner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Agent"
+              "title": "Outline of AWS Cloud Practitioner"
             }
           },
           {
@@ -207,9 +224,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "d32c7851f175e93c",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
@@ -231,5 +250,13 @@
     "Math Behind Generative Adversarial Networks.md",
     "KL Divergence.md",
     "AI Agent.md"
+=======
+  "active": "9f353a0a9225a31e",
+  "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "AWS Cloud Practitioner.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "image/Pasted image 20260420132113.png"
+>>>>>>> f858fc2d86a670ce582b1f4531c4866f6de3f6f9
   ]
 }

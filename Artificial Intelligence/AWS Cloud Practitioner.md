@@ -1,6 +1,4 @@
 ![[Pasted image 20260224143748.png]]
-[[AWS Cloud Partitioner - Final Project]]
-
 ---
 ## Leson 1: Cloud Concepts
 **How to build a server ?**
@@ -64,10 +62,10 @@ But good if you are a big company with privacy concern and need long term benefi
 ![[Pasted image 20260310162756.png]]
 
 Overall, in COST.
-*CapEX (physical hardware setup, buying hardware stuff)* include purchasing physical assets (server, data centers, neworking and hardware). 
+*CapEX (physical hardware setup, buying hardware stuff)* include purchasing physical assets (server, data centers, neworking and hardware).
 -> AWS pay-as-you-go remove this Upfront burden. also eliminate over-provision.
 *OpEX (operational cost)* - cost of running the hardware you bough in CapEX. This include cost like maintainant cost, physical security, etc...
--> AWS remove this burden, instead of operating you just used their infrastructures. 
+-> AWS remove this burden, instead of operating you just used their infrastructures.
 
 ```ad-summary
 *OPEX (Operating Expenditure):* is more eco in the **long-term invesment** and offer ultimate controlled. In DevOps, use when u have a strong DevOps team, fast prod experient cycle or don't need expand Data Center over time or Globaly.
@@ -274,13 +272,19 @@ EC2 instance Naming Convention: `d` is for dev, `p` is for production.
 + CloudFront (Cache) - 1st 1TB tranfer is free
 + BeanStalk & Cloud Watch is Free - [aws free web](https://aws.amazon.com/free/?ams%23interactive-card-vertical%23pattern-data-339318104.search=CloudWatch)
 
-*AWS Lambda (Faas - Function as a Service)* - serverless *auto-scale compute service* which contain runtime ev like Python, Java, etc... This is *THE SAME as Python Lambda Function*, you could upload your scripts by:
+*AWS Lambda (Faas - Function as a Service)* - serverless *auto-scale compute service* which *contain runtime ev like Python*, Java, etc... This is *THE SAME as Python Lambda Function*, you could upload your scripts by:
 + Zip your script and libraries then upload them via AWS Console
 + Or Dockerize your code and push it into Amazon Elastic Container Registry (ECR) where you could store, deploy and manage your code -> more neat.
-To run, simply call your Scripts API function.
+To run, simply call your Scripts API function ([Python Lambda Practice](https://docs.aws.amazon.com/lambda/latest/dg/file-processing-app.html)).
 + ! *Lambda Limits:* 15' runtime, 10GB RAM.
 + @ Help to *test your code instantly* without the need of EC2 instance.
 + $ Could *Integrate other AWS serverless service.*
+Other benefits:
+1. *Run code without provision* (run instantly on a AWS HA Instance). *Simply write or upload* code as a `.zip` file or container image.
+2. *Automatically respond to code execution requests at any scale*, from hundreds to thousands per second..
+3. Pay only for the compute you use (*Pay-as-you-go*)
+
+
 
 AWS Lambda upon triggering:
 + Defined API Call in your Code
@@ -360,7 +364,7 @@ Common AWS Instance Suffix Meanings:
 
 + *Savings Plans (flexible):* *Don't need Upfront Money*. *Dollar / hour Discount type*. e.g. `10$/hour` -> Use if you need to changes instance size or types frequenly like Fargate/Lambda.
 
-+ ! The **a Server $\neq$ a Instances** -> A Server could be partition into multiple Instance, so renting a dedicated instance is like renting a 1 parts out of all Instance within a Server. 
++ ! The **a Server $\neq$ a Instances** -> A Server could be partition into multiple Instance, so renting a dedicated instance is like renting a 1 parts out of all Instance within a Server.
 
 - *Dedicated Instances (No commitment):* Physically isolated at the host hardware level from other AWS account, often used for compliance.  AWS choose *a random dedicated instance* for you -> not share with anyone else.
 	*License Limit: No visibility* into physical sockets or cores. -> **cannot** bring licenses that require core-based or socket-based tracking.
@@ -572,7 +576,7 @@ This mean, Like ALB Target Group but *could also Target of ALP* (Target types: *
 ![[Pasted image 20260323171004.png]]
 
 **AWS Cloud Watch** - *Monitor EC2 instance* performance (if reach a threshold) to notify when to Auto-Scaling -> Monitor CPU and hardware. *Monitor Metrics*
-Note: firmware is low-level software. 
+Note: firmware is low-level software.
 
 **AWS CloudTrail** - captures actions taken through the Management Console, SDKs, and CLI, providing visibility into "who did what, where, and when" across AWS. *Monitor log in SDK and Code*
 + *Security Monitoring:* Detects unauthorized access or unusual activity patterns by recording every individual API call.
@@ -651,7 +655,7 @@ Db Migration service:
 + AWS DMS: explain, example, usecase
 + Transit Gateway: ...
 
-AWS Neptune - graph database service for highly connected datasets, such as recommendation engines, fraud detection, and knowledge graphs. 
+AWS Neptune - graph database service for highly connected datasets, such as recommendation engines, fraud detection, and knowledge graphs.
 AWS SQS - allow user to decouple and expand microservice. Distributed system and serverless application.  Use Queue.
 AWS Kinesis Data Streams design to process large amount of realtime data.
 AWS *Redshift* - serverless cloud storage, *analyze large data* in TERA to PETABYTE for BI.
@@ -680,7 +684,7 @@ Application first queries ElastiCache
 *ElastiCache for Redis vs ElastiCache for Memcached*
 ![[Pasted image 20260407174719.png | 888]]
 + *Redis* -> for *Complex Application with Advanced feature* (set, lists, Pub/Sub)
-+ *Memcached* -> simple, *multi-threaded, high-performance caching system.* 
++ *Memcached* -> simple, *multi-threaded, high-performance caching system.*
 	[so sánh Redis vs Memcaches](https://viblo.asia/p/memcached-vs-redis-ORNZqb93l0n)
 
 ### AWS RDS
@@ -1209,7 +1213,7 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 	1. Configure your workloads to *use Regional AWS STS endpoints for better performance and reduced latency.*
 	2. *For automation, use IAM roles* to automatically obtain temporary credentials without manual intervention.
 	3. *Enable AWS CloudTrail to log and monitor AWS STS* API calls for auditing and troubleshooting.
-	
+
 + ? Note: AWS CloudWatch used for *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules.*  Monitor Cost and Billing as well.
 
 
@@ -1243,7 +1247,7 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 **AWS Inspector vs GuardDuty** in short while:
 + Inspector is resource-focused by *scan for vulnerability from inside.*
 + GuardDuty is activity-focused by *detecting threat from outside.*
-	
+
 	**AWS Macie is serverless** use *ML and Pattern Matching to auto Discover, Classify and Protect Sensitive data* (like PII e.g. name, email, IDs financial data and credentials) stored in *AWS S3 buckets.* S3 Protection focus. *Regional Level* ![[Pasted image 20260402180128.png]]
 
 ### AWS Well-Architected Framework (6 pillars)
@@ -1251,26 +1255,26 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 
 
 ### AWS Trusted Advisor vs Inspector vs Cloud Watch vs CloudTrail
-AWS Trusted Advisor - give advises base on action records. 
+AWS Trusted Advisor - give advises base on action records.
 + ? identifies ways to improve your AWS infrastructure across 5 unique pillars: *Security, Performance, Cost Optimization, Fault Tolerance, and AWS Service Quotas.*
 
 **AWS CloudTrail vs CloudWatch**
 + Cloud Watch - *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules*. - [source](https://cloudchipr.com/blog/aws-cloudwatch)
 	![[Pasted image 20260409122933.png]]
 	Example: Monitor bandwidth utilization, performance, and the traffic parameters of your app. ![[Pasted image 20260407181212.png]]
-	
+
 + CloudTrail - are *records of API activity and management events* hence the word *Trail/Evidence*, providing detailed information about who, what, and when actions were performed.  ![[Pasted image 20260407184327.png]]
 	+ ? *Monitor account activity* include user actions in the AWS Management Console, AWS SDKs, command-line tools, and other AWS services
 	Example: identify the hacker/attacker with the help of historical CloudTrail data Logs.
-	
+
 + [Practice CloudTrail & CloudWatch Integration](https://www.opsramp.com/guides/aws-monitoring-tool/cloudtrail-vs-cloudwatch/) ![[Pasted image 20260407181315.png]]
 
 ## AWS Pricing & Billing (of Network + Storage + Compute)
 **Common Cost Breakdown:**
-1. Compute 
+1. Compute
 2. Manage Services
 3. Storage
-4. Network Traffic & Data Transfer 
+4. Network Traffic & Data Transfer
 5. Mics (other cost)
 
 **Compute Cost:** Instance Type $\times$ Instance Amount $\times$ Runtime
@@ -1278,27 +1282,27 @@ AWS Trusted Advisor - give advises base on action records.
 
 **Storage Cost:** Data Amount $\times$ Frequency of Access $\times$ Performance
 	Frequency of Access: 	![[Pasted image 20260407151132.png]]
-**4 Cost Drivers:** 
-+ *Storage Volumn -* the more data you stored the higher the cost - [more on S3 Overall Storage Cost](https://zesty.co/blog/the-ultimate-guide-to-s3-costs/) 
-	-> Use S3 Storage Tiers/Types to reduces Storage cost like S3 Glacier Deep Archive for rarely used data, S3 Standard for frequent used data, Intelligent-Tiering (auto move data between tier), Standard-IA (infrequent) and One Zone-IA for low-cost infrequent. 
-	
+**4 Cost Drivers:**
++ *Storage Volumn -* the more data you stored the higher the cost - [more on S3 Overall Storage Cost](https://zesty.co/blog/the-ultimate-guide-to-s3-costs/)
+	-> Use S3 Storage Tiers/Types to reduces Storage cost like S3 Glacier Deep Archive for rarely used data, S3 Standard for frequent used data, Intelligent-Tiering (auto move data between tier), Standard-IA (infrequent) and One Zone-IA for low-cost infrequent.
+
 + *Request Volumn (PUT/GET) -*  Every API calls taken to manage or access data in S3 incurs a small "micro-charge".
-	+ ? `PUT`, `COPY`, `POST`, or `LIST` requests (uploading/managing) are more expensive than `GET` requests (retrieving data) 
-	
-+ *Transfer OUT (Outbound Data) -* charge for moving data in AWS env to the Internet. While Inbound data is free in AWS and data transfer within 1 Region (e.g. from S3 to EC2 in the same AZ) is generally Free, moving data across-region cost a lot. 
-	
+	+ ? `PUT`, `COPY`, `POST`, or `LIST` requests (uploading/managing) are more expensive than `GET` requests (retrieving data)
+
++ *Transfer OUT (Outbound Data) -* charge for moving data in AWS env to the Internet. While Inbound data is free in AWS and data transfer within 1 Region (e.g. from S3 to EC2 in the same AZ) is generally Free, moving data across-region cost a lot.
+
 + *Transitions (Lifecycle) -*  Data Storage Tier based on data Access Frequency to SAVE COST. ![[Pasted image 20260407151804.png]] Lower-cost tier like Glacier offer super low storage cost for infrequent access data.
 
-Example of AWS Cloud Billing across layers. 
+Example of AWS Cloud Billing across layers.
 ![[Pasted image 20260407150302.png]]
 + ! **Invisible cost** are what made Bills so high: *storage nobody cleaned up, data transfer nobody modeled, DynamoDB tables nobody turned off.*
 
-AWS Budget (Proactive Control) -  Đặt ngưỡng ngân sách và t*ự động dừng dịch vụ (e.g. EC2)*, cảnh báo *khi vượt ngưỡng*. 
+AWS Budget (Proactive Control) -  Đặt ngưỡng ngân sách và t*ự động dừng dịch vụ (e.g. EC2)*, cảnh báo *khi vượt ngưỡng*.
 + ? *Action-Enable budget* (a budget that automatically takes predefined actions to control costs or usage when a threshold is exceeded)
 
 **How Action-Enable Budget it work**
 1. Select a type of Service (e.g. EC2, RDS) as your action type.
-2. Execution - set the action to run automatically or manually (in CLI) as soon as the threshold is reached. 
+2. Execution - set the action to run automatically or manually (in CLI) as soon as the threshold is reached.
 	Note that the First 2 Action-Enable Budget (ie. service auto-stop) are free, after that you have to pay $0.10 per day.
 3. [Practice Budget Alert](https://kubex.ai/finops/aws-budgets-vs-cost-explorer/#:~:text=Both%20tools%20are%20free%20for%20basic%20use,reports%2C%20while%20Cost%20Explorer%20charges%20for%20API)
 
@@ -1306,26 +1310,26 @@ AWS Budget (Proactive Control) -  Đặt ngưỡng ngân sách và t*ự động
 *Cost Explorer (Analysis)* - phân tích chi phí theo dịch vụ, tài khoản, thẻ/tag và khoảng thgian (ngày/tháng/custom range) + Visualization các chi phis dịch vụ trong Lịch sử (xu hướng chi phí vào services nào, filter/group by, time range) -> **analyzing historical usage**
 
 *AWS Pricing Calculator* - Setup EC2/Storage/Network then calculate the **expected cost (hypothesis/predicted cost).**
-Migration Evaluator - retrieve on-premises workload from hardwares (CPU, RAM, IO, utilization) -> right-size workload when migrate to AWS. 
-	Compare on-prem vs AWS cost - evaluate migration cost. 
+Migration Evaluator - retrieve on-premises workload from hardwares (CPU, RAM, IO, utilization) -> right-size workload when migrate to AWS.
+	Compare on-prem vs AWS cost - evaluate migration cost.
 
 *AWS Global accelerator* - Improve performance by up to 60% by *routing user traffic through the AWS global network backbone* rather than the public internet - [source](https://cloudonaut.io/review-aws-global-accelerator-latency-multi-region-disaster-recovery/) ![[Pasted image 20260409124441.png | 777]]
 **AWS Migration Hub**
 *AWS Total Cost of Ownership (TCO)* Calculator ==allows organizations to estimate cost savings by comparing on-premises infrastructure to AWS services==.
-Note: value proposition mean your advantage againt your competitor. 
+Note: value proposition mean your advantage againt your competitor.
 
-First AWS Principle is Pay-as-you-go -> This model gather customers but Revenue is Unpredictable and volatile.  
+First AWS Principle is Pay-as-you-go -> This model gather customers but Revenue is Unpredictable and volatile.
 + ? To Retain long-term customer, AWS offer higher discount the longer you used their services.    ![[Pasted image 20260407153435.png | 666]]
 
 
 ### AWS Pricing Model
 **VPC Peering** (network connection between 2 VPC,  simple setup with *VPC < 5 connection setup*) -> Allow *No-COST Data Transfer between Region* by routing traffic to eachother using private IP address.
-	Meshed network topology (vpcp) 
+	Meshed network topology (vpcp)
 ![[Pasted image 20260407160336.png | 888]]
 
  **AWS Transit Gateway:**  Distribute data flow between VPC (Complex setup with *Multiple VPC > 5*)
  + ? It eliminates the need for complex VPC peering, *routing traffic between thousands* of VPCs, VPNs, and Direct Connect connections using *centralized* route tables. *Not Free*
-	 Star topology 
+	 Star topology
 ![[Pasted image 20260407160754.png]]
 
 **AWS Direct Connect gateway** (globally available) - *connect on-premises networks to multiple Amazon VPCs across different AWS regions* using private virtual interfaces (VIFs). Data Transfer across Region take up a lot of cost.
@@ -1346,9 +1350,9 @@ Cost Allocation Tags -> Tag which service used for Billing. So admin can see whe
 **How AWS Budget work ?**
 ![[Pasted image 20260407164756.png]]
 *AWS Athena -* act like a Filter for Dashboard in AWS QuickSight.
-*Data Collection Account -* 
+*Data Collection Account -*
 + ? Read cost specified organized by Tag in AWS Budget  then save it to AWS S3 Bucket for Centralize Monitor and Inspection.
-+ $ Used the Read Role Permission from AWS Organization. 
++ $ Used the Read Role Permission from AWS Organization.
 
 **AWS Budget Usage Example**
 ![[Pasted image 20260407164228.png]]
@@ -1357,31 +1361,34 @@ AWS Anomaly Detection -> run script on Lambda, help to detect anomaly like DDOS.
 ![[Pasted image 20260407164313.png]]
 Rate Limiting AWS step func -> limit IP that access too much to prevent DDOS.
 
-### [Lab Session](https://zoom.us/rec/play/6hYqLGNN7Pin90ccDHdzwYKW7X6bSDZoDolPHBEwsQBGd7nY1dcv7DCJIEKHl19cvLdG7w-nif5NOKZ-.7D_lWernqB-I9miS?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https://zoom.us/rec/share/VI7U1wf1S5om16eIFLdlrbyOGWLJOyYppeEd4INKns9h8OMP50ClWnKsauB9enZk.0QhjY029W_0aTcmo) 
-Pillars of the AWS Well-Architected  -> Security & Performance. 
+### [Lab Session](https://zoom.us/rec/play/6hYqLGNN7Pin90ccDHdzwYKW7X6bSDZoDolPHBEwsQBGd7nY1dcv7DCJIEKHl19cvLdG7w-nif5NOKZ-.7D_lWernqB-I9miS?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https://zoom.us/rec/share/VI7U1wf1S5om16eIFLdlrbyOGWLJOyYppeEd4INKns9h8OMP50ClWnKsauB9enZk.0QhjY029W_0aTcmo)
+Pillars of the AWS Well-Architected  -> Security & Performance.
 *AWS Trusted Advisor* -> AWS service to identifies security groups that allow unrestricted access to a user's AWS resources.
 + ? Inspects your AWS environment and provides actionable recommendations to follow best practices.
-+ $ Advisor Help checks and optimize the these categories: 
++ $ Advisor Help checks and optimize the these categories:
 	*Cost Optimization (Identitfy under-ultilize resource)* - unsed assesst (like rent but not use S3)
 	*Security (Evaluate)* - security gaps
-	*Performance (Monitor resource usage)* - scan for performance Bottleneck  
+	*Performance (Monitor resource usage)* - scan for performance Bottleneck
 	*Fault Tolerant (Detects gaps in configuration to ensure resillient)*
 	*Service Quota (Monitors)* - Monitors your usage of AWS services against regional limits. e.g. Flags usage over 80% EC2 usage
--> like a Scan and Recommended system. 
+-> like a Scan and Recommended system.
 
-Fault Tolerant - ability for the system to keep running in case of 1 or more components fail e.g. EC2. 
+Fault Tolerant - ability for the system to keep running in case of 1 or more components fail e.g. EC2.
 
 When design Cloud Architecture -> Elasticity (adaptibility) is the principle architecture
 -> Allow pay-as-you-go and HA.
 
 Extend Local to Cloud -> Storage Gateway and Direct Connect.
-AWS system Manager -> Allow auto security version patching 
+AWS system Manager -> Allow auto security version patching
 Mechanism allow dev to *access AWS service from Application Code* -> SDK (Library that connect through API)
-S3 - store Object 
+S3 - store Object
 
-*AWS Partner Network* - community of over 100,000 technology and *consulting firms* that leverage AWS to build, market, and sell customer solutions. *AWS Services Distributioner*. 
+*AWS Partner Network* - community of over 100,000 technology and *consulting firms* that leverage AWS to build, market, and sell customer solutions. *AWS Services Distributioner*.
 AWS Professional Services - Service from AWS.
 
 AWS Connect - offer *custom-built AI customer service for Company* at a lower cost on Cloud.
 AWS Enterprise Support - have a exclucise Concierge team (lễ tân)
 
+---
+## What Next
+![[Pasted image 20260420132113.png]]

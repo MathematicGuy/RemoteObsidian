@@ -3,9 +3,8 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] Revise Calendar Schedule base on my Real Routine - Don't just be Passive and Follow them. 
-- [ ] Use **AI with Mastery Mindset** - AI for visualize concepts, compare, challanges my Understandig and give examples. NOT the THINKING WORK (this includes how to use AI itself - Answer come from identifying the problem, not the act of receiving the Answer itself)
 - [ ] **About Planning & Critical-less/Repetitive work: Think in the Architecture/Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
+- [ ] Be Decisive - If I want to play, play. If I want to study then study. Don't think must, just execute. And set App Block Timer
 
 
 _Project
@@ -13,7 +12,9 @@ _Project
 - [ ] [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
 - [ ] [Mother of all RAG Project](https://github.com/jamwithai/production-agentic-rag-course)
 - [ ] [Evaluate RAG using RAGAS](https://viblo.asia/p/llm-su-dung-ragas-va-llamaindex-de-danh-gia-chat-luong-rag-5OXLAv8YVGr)
-
+- [ ] [AI Engineer Study Group github](https://github.com/ArturoNereu/AI-Study-Group)
+- [ ] [Finish the video](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [Research](https://www.facebook.com/groups/1094847652564195)
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**

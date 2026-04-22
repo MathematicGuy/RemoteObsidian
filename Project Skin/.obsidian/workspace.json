@@ -205,8 +205,13 @@
   },
   "active": "eae5f0f1f48ca27a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "CrackNitendoGames.md",
     "Todo.md",
     "conflict-files-obsidian-git.md"
+=======
+    "conflict-files-obsidian-git.md",
+    "Todo.md"
+>>>>>>> f858fc2d86a670ce582b1f4531c4866f6de3f6f9
   ]
 }

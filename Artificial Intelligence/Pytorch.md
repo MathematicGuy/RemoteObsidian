@@ -222,3 +222,8 @@ q.shape
 	`torch.Size([2, 3, 8, 4])
 	`torch.Size([2, 96])`
 
+
+### Reshape using `Unsqueeze()` vs `View()` in pytorch
+`x.unsqueeze(0)` - add a additional layer to the current tensor. Like a Wrapper. `Unsqueeze(0)` mean add a additional dim at index 0.
+`x.view(x.size(0), *(100, 1, 1))` - keep the first dimension while re-organize other dimension to `(100, 1, 1)` 
+Note: apply Reshape or Activation first doesn't matter.  
