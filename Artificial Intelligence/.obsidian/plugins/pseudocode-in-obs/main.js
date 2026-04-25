@@ -13997,8 +13997,8 @@ var require_Renderer = __commonJS({
       if (this._blockLevel > 0) {
         this._numLOC++;
         this._html.beginP("ps-line ps-code", this._globalTextStyle.toCSS());
-        var extraIndentSize = this._options.lineNumber ? indentSize * 1.25 : 0;
-        extraIndentSize += this._options.scopeLines ? indentSize * 0.1 : 0;
+        var baseIndent = this._options.scopeLines ? indentSize / 2 + 0.7 : indentSize;
+        var extraIndentSize = this._options.lineNumber ? baseIndent * 1.25 : 0;
         if (this._options.lineNumber) {
           this._html.beginSpan("ps-linenum", {
             "left": `${-((this._blockLevel - 1) * extraIndentSize)}em`

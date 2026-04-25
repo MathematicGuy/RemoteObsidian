@@ -22,6 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+<<<<<<< HEAD
+=======
           },
           {
             "id": "39abdefe2d676d40",
@@ -50,9 +52,9 @@
               "icon": "lucide-file",
               "title": "Marginal Probability (why it call Marginal)"
             }
+>>>>>>> f858fc2d86a670ce582b1f4531c4866f6de3f6f9
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +198,29 @@
               "icon": "lucide-list",
               "title": "Outline of AWS Cloud Practitioner"
             }
+          },
+          {
+            "id": "336be69fe5d30057",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c1ca7119a789f94c",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,7 +242,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "39abdefe2d676d40",
+=======
+<<<<<<< HEAD
+  "active": "d32c7851f175e93c",
+  "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
+    "AWS Cloud Partitioner - Final Project.md",
+    "image/Pasted image 20260420222459.png",
+    "image/Pasted image 20260420220429.png",
+    "image/Pasted image 20260420220108.png",
+    "image/Pasted image 20260420215853.png",
+    "image/Pasted image 20260420212305.png",
+    "image/Pasted image 20260420211554.png",
+    "image/Pasted image 20260420211539.png",
+    "image/Pasted image 20260420211526.png",
+    "image/Pasted image 20260420211322.png",
+    "image/Pasted image 20260420210932.png",
+    "AWS Cloud Practitioner.md",
+    "AIO2025 - Reinforcement Learning.md",
+    "AIO 2025.md",
+    "AIO2025 - Finetunning LLM.md",
+    "Math Behind Generative Adversarial Networks.md",
+    "KL Divergence.md",
+    "AI Agent.md"
+=======
+  "active": "9f353a0a9225a31e",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "image/Pasted image 20260425180401.png",
     "image/Pasted image 20260425180134.png",
@@ -253,6 +304,12 @@
     "main_Continual Learning & Nested Learning Survey.md",
     "AIO2025 - LLM Alignment.md",
     "AWS Cloud Practitioner.md",
+<<<<<<< HEAD
     "AWS Cloud Practitioner QUIZ & Video.md"
+=======
+    "AWS Cloud Practitioner QUIZ & Video.md",
+    "image/Pasted image 20260420132113.png"
+>>>>>>> f858fc2d86a670ce582b1f4531c4866f6de3f6f9
+>>>>>>> origin/main
   ]
 }
