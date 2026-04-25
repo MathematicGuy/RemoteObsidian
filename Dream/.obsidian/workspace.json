@@ -25,15 +25,18 @@
             }
           },
           {
-            "id": "33b63268cc69b16e",
+            "id": "24a79fea1e48456a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Life as a System.excalidraw.md"
+                "file": "THOUGH.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Life as a System.excalidraw"
+              "icon": "lucide-file",
+              "title": "THOUGH"
             }
           }
         ],
@@ -163,19 +166,9 @@
               "icon": "lucide-list",
               "title": "Outline of THOUGH"
             }
-          },
-          {
-            "id": "ba6ac9cc61c59027",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,11 +189,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33b63268cc69b16e",
+  "active": "24a79fea1e48456a",
   "lastOpenFiles": [
-    "THOUGH.md",
-    "Excalidraw/Life as a System.excalidraw.md",
     "_Focus.md",
+    "Excalidraw/Life as a System.excalidraw.md",
+    "THOUGH.md",
     "CHANGES.md",
     "2 ACTIONS/_My Life/_My Life.md"
   ]

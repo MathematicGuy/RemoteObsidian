@@ -8,13 +8,15 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 
 
 _Project
-- [ ] [AWS Official Cloud Partitioner Exam Prep Plan](https://skillbuilder.aws/learning-plan/8UUCEZGNX4/exam-prep-plan-aws-certified-cloud-practitioner-clfc02--english/1J2VTQSGU2) - [Youtube Cloud Partitioner](https://www.youtube.com/watch?v=NhDYbskXRgc)
-- [ ] [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
+- [ ] Cloud Partitioner Mock Exam - [Youtube Cloud Partitioner](https://www.youtube.com/watch?v=NhDYbskXRgc)
+	[Practice Exam CLF-C02 website](https://kananinirav.com/practice-exam/exams.html) - [github](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master)
+
 - [ ] [Mother of all RAG Project](https://github.com/jamwithai/production-agentic-rag-course)
-- [ ] [Evaluate RAG using RAGAS](https://viblo.asia/p/llm-su-dung-ragas-va-llamaindex-de-danh-gia-chat-luong-rag-5OXLAv8YVGr)
-- [ ] [AI Engineer Study Group github](https://github.com/ArturoNereu/AI-Study-Group)
-- [ ] [Finish the video](https://www.youtube.com/watch?v=7xTGNNLPyMI)
-- [Research](https://www.facebook.com/groups/1094847652564195)
+	- [ ] [Evaluate RAG using RAGAS](https://viblo.asia/p/llm-su-dung-ragas-va-llamaindex-de-danh-gia-chat-luong-rag-5OXLAv8YVGr)
+	- [ ] [AI Engineer Study Group github](https://github.com/ArturoNereu/AI-Study-Group)
+	- [ ] [AI Engineer Experience Reddit](https://www.reddit.com/r/LLMDevs/comments/1nl9oxo/i_built_rag_systems_for_enterprises_20k_docs/)
+	
+- [[main_Continual Learning & Nested Learning Survey]]
 
 ### [[Fun Research Direction Analysis]]
 **Interest _set of thing I want to learn/do but thinking I don't have time for_**

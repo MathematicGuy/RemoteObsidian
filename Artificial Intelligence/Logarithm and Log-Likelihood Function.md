@@ -21,17 +21,11 @@ Understanding the properties of logarithms is crucial because they simplify comp
    $$
    *The log of a quotient is the difference of the logs.*
 
-3. **Power Rule**:
-   $$
-   \log_b(M^k) = k \cdot \log_b(M)
-   $$
-   *The log of a number raised to a power is the power times the log of the number.*
+3. **Power Rule**: $$ \log_b(M^k) = k \cdot \log_b(M)$$*The log of a number raised to a power is the power times the log of the number.*
 
-4. **Change of Base Formula**:
-   $$
+4. **Change of Base Formula**:   $$
    \log_b(a) = \frac{\log_c(a)}{\log_c(b)}
-   $$
-   *Allows conversion of logarithms from one base to another.*
+   $$   *Allows conversion of logarithms from one base to another.*
 
 **Conversion using Logarithm Example** 
 $\log_b(MN) = \log_b(M) + \log_b(N)$

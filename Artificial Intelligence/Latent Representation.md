@@ -158,3 +158,4 @@ Think as a Engineer and Connect Information. *DON'T just Read Latent Representat
 List out Goals and TODO -> let the Machine do the work and Learn the HOW TO. 
 
 
+## Latent Representation in VAE

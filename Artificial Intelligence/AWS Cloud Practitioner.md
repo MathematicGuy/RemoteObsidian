@@ -1,5 +1,6 @@
 ![[Pasted image 20260224143748.png]]
 
+[[AWS Final Project Review]]
 ---
 ## Leson 1: Cloud Concepts
 **How to build a server ?**

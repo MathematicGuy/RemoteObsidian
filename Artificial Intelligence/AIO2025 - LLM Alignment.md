@@ -136,3 +136,38 @@ Key Idea: word/sentence are mapped to high-dim spaces where vector math (e.g. Ki
 **Latent Space Reasoning (LaST):** how LLMs can perform reasoning steps directly in latent space, achieving *better performance by using more compute* without generating unnecessary language tokens.
 
 **Latent RL Optimization:** Developing reinforcement learning methods (e.g., Latent RL or HRPO) tailored for continuous latent reasoning rather than discrete output generation.
+
+## Building Vietnamese Chatbot using LLMs and RLHF
+![[Pasted image 20260421172840.png]]
+1. Introduction to Chatbot? What is Chatbot using LLMs ?
+2. How to fine-tuning LLMs for a Chatbot applications (conversation data).
+3. How to improve response from a Chatbot (using LLMs) with RLHF ?
+4. How to implement a Chat Interface for a complete Chatbot application ?
+
+**RLHF workflow**
+![[Pasted image 20260421172959.png]]
+
+train LLM on vietnamese conversation data + improve model response to human preference using RLHF
+![[Pasted image 20260421173041.png | 666]]
+
+## Labs Practice (Focus Here)
+**Basic Setup:** setup hugging -> ini model (using FastLanguageModel) -> apply QLoRA -> Load Dataset -> Preview Data -> Process Data -> SFT (Supervised Fine-tunning) -> Save Model -> Inference  (Practice Along - *Understand base code and workflow*)
+
+**RLHF (Self-Study):** 
+![[Pasted image 20260421173539.png]]
+Ask Gemini to explain
+![[Pasted image 20260421173711.png | 888]]
+
+**OpenRLHF** - setup for Reward Model
+![[Pasted image 20260421173808.png | 455]]
+
+**RAY - Architecture**
+![[Pasted image 20260421173931.png]]
+
+**Building Chat Interface** - gradio + llamac++ and open-webui
+1. vLLM with Gradio
+2. Ollama with OpenWebui - [huggingface](https://huggingface.co/docs/hub/en/gguf)
+![[Pasted image 20260421174102.png | 555]]
+3. HF to GGUF (slide) 
+	-> push to huggingface or github 
+	-> run GGUF model -> run multi-model

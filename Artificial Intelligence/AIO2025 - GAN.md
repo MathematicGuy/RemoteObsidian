@@ -1,14 +1,16 @@
 *records*: https://drive.google.com/drive/folders/1o6CIozDIbswXx3KpGaNi-a2I2C8PtoxD
 
+### Estimate K,S,P for Conv2d
+![[Pasted image 20260422165537.png]]
+
 ### How to estimate K, S, P for ConvTranpose2d (Kernel, Stride, Padding)
 **Goal:** calc $H_{out}$ from $H_{in}$
 **Default Formula** $$H_{out}=(H_{in}-1) \times stride-2\times padding+\text{kernel\_size}+\text{output\_padding}$$(assume dilation  = 1)
 
 **Estimation Process**
-1. Stride $s$ is the upsampling factor, for *2 times increase* use $stride=2$ (e.g. 32x32 to 64x64) -> *double image size*
-2. Kernel Size $k$ usually set $kernel=2\times stride$ to fills up the missing squares and avoid checkerboard artifacts (ie. squares) ![[Pasted image 20260415155840.png | 444]] If you *add 1 kernel_size, then image upscale 1 pixel*
-3. Padding $p$ adjust $p$ to reach the exaxt target size. you *add/remove 1 padding, image size add/reduce by 2 pixels (bc width, height combine a padding).* 
-
+1. *Stride* $s$ is the upsampling factor, for *2 times increase* use $stride=2$ (e.g. 32x32 to 64x64) -> *double image size*
+2. *Kernel Size* $k$ usually set $kernel=2\times stride$ to fills up the missing squares and avoid checkerboard artifacts (ie. squares) ![[Pasted image 20260415155840.png | 444]] If you *add 1 kernel_size, then image upscale 1 pixel*
+3. *Padding* $p$ adjust $p$ to reach the exaxt target size. you *add/remove 1 padding, image size add/reduce by 2 pixels (bc width, height combine a padding).* 
 
 ### Choosing the right activation function
 Have you ever question, **why Sigmoid() and Tanh() in the last layer ?** let go through a example in GAN
