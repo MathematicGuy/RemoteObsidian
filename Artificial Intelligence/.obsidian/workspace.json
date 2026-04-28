@@ -49,8 +49,7 @@
               "title": "RAG System Design"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,6 +198,16 @@
             "id": "8db44792e538233b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "30ea0ea6a0139050",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -206,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -227,7 +236,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aba752c7cd311476",
+  "active": "30ea0ea6a0139050",
   "lastOpenFiles": [
     "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
     "image/Pasted image 20260428182816.png",
