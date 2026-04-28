@@ -3,7 +3,7 @@
 2. Plan your work in advance.
 3. Eliminate distractions.
 4. When struggling, take a break, perhaps including physical activity.
-5. Tackle hard tasks first.
+5. Tackle hard tasks first.,
 
 # AKTION
 > My [[Deepthought]] is what define who I want to be

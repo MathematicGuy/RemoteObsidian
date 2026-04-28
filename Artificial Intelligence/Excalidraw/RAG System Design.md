@@ -1,0 +1,57 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+How to Design an AI Agent System for 
+E-Commerce DTC Brands to Manage Customer Support
+
+- Goals: >=70% Automation, CSAT >4.5/5, p50<1s, p95<2.5s
+- Scope: Returns, Exchanges, WISMO
+- Rules:
+    - Return window (<30d only), must return in good conditions
+    - Refund Policy (<50$ auto, >=$50 manager)
+    - Exchange Policy: good conditions, categories of product
+    - Route to human: asked by user, emotion detection
+- Backend/DB:
+    - Peak RPS & Seasonality
+    - Data Storage to Relational DB or Vector DB
+
+
+ ^7Vb4HHsk
+
+%%
+## Drawing
+```compressed-json
+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=
+```
+%%

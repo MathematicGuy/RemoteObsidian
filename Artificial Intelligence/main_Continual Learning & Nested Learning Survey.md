@@ -23,21 +23,30 @@
 ### [[Nested Learning - The Illusion of Deep Learning Architecture]]
 **Nested Learning -** new ML paradigm (eg. Google HOPE architecture) by structuring models as **nested optimization problems with different update speeds**, *mimicking brain memory* to prevent catestrophic forgetting and build **"living memory" for AI** (*good at Needle in a Haystack* problem). 
 	Inspired from the brain's layered memory consolidation (*fast for short-term*, *slow for long-term*)
-![[Pasted image 20251223091039.png]]
-	**All NN are associative memory system** that compress their own context flow. 
-	**Gradient Descent with momemtum** is indeed a **low-level optimization process**, where the memory is optimized by simple gradient descent algorithm. 
-
 ### [[Continual Learning a Big Topic Survey]]
 
 
-## Reading Survey of Narrow Topic
+## Continual Relation Extraction 
 ### [[Narrow and Interest Topic - Continual Relation Extraction]]
 #### [[Few-Shot, No Problem - Descriptive Continual Relation Extraction]]
 #### [[Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective]]
+### [[Latent Representation]]
 
-[[Latent Representation]]
 
-### A Comprehensive Survey of Continual Learning Theory Method Application
+next: https://www.facebook.com/groups/1094847652564195
+*Dựa trên các research gaps đã tìm ra* ở tuần trước, nhóm cần:
+- *Đề xuất giải pháp/mô hình cụ thể* cho nhánh nghiên cứu của mình.
+- *Xây dựng cấu trúc chi tiết* cho phương pháp thực hiện.
+- *Hoàn thiện bản Proposal cuối cùng* và thiết kế Slide thuyết trình.
+
+**Research Plan 4: Brainstorming Idea and Implementation.**
+![[Pasted image 20260421174720.png | 666]]
+- [Link slide:](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1vv_SQgavmyqVkoqnybkdagr-0vufi1dC%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR53vZNz4d41d5B1bISc7jN1v8-66eSwpe-1tkxREdYl4cV_EUCy8k47No0fgw_aem_g1o-dIByu1dZijvyqDg6eQ&h=AT7smzCXlo6rfS7fs9bV9-HmoOD7uyi3WvgFuG5GxtbuhjYl6QzRNtIHxdmTa-yeqItmOmJ1_cVlW2BRCnK5p360ASg9QVREF-uUcWh3IWOYEmWfbSGTcrU-o2xoMUPjEX2r&__tn__=-UK-R&c[0]=AT4FCgVbYZSp_-76AG_1Q3d2m7N3w65i_Kspi-HNrhVJVDfhiDwhaYw_DFqQeHchWEQ7EhO4oS4xsRBantUpONV7qclm8BrMQr6WELFsEtljXJ98O8JT9R7qR6tywmLG1qwT2RxbnIZT4tIyTkVkfiR1x-N1BR9Z1tQfDXEWjrTRqY6o0d7jEkyLROne7crMqoEBiw_RbqNvsZeKghIu8y6AgZHNRnq_dEo)[https://drive.google.com/.../1vv.../view...](https://drive.google.com/file/d/1vv_SQgavmyqVkoqnybkdagr-0vufi1dC/view?usp=sharing&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7Lw5GqSON6gGOVEQX7kZOYmrsI4WUiJxKqLzJq_1yS5eD6yX1AE8psshlvsQ_aem_se0VgT60JHymJbJPejwTxQ)  
+- [Link record:](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1M4VlDwwe1qsBHMBs802jQ86uIELeMEgY%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6SsJixMDoADImPkf2Ko9rHnmjz6DEqaX0q8nI7WELfsx_4Ds6Jz_87vBeV-w_aem_BREFZs5PPQBsLSMxET8AXg&h=AT5FDLuhHJt5EpBIQ7qGjHp-SCjjcurcyJSjxa0Cj3TkYiKQsSRH3fvCw_B2YZTPyRC4Or5YH09dGTw1cEPSX2rql2Ga9YWkWjOVAALg90dWwZtkK6sm8Lq-GmotoDhoYS7j&__tn__=-UK-R&c[0]=AT4FCgVbYZSp_-76AG_1Q3d2m7N3w65i_Kspi-HNrhVJVDfhiDwhaYw_DFqQeHchWEQ7EhO4oS4xsRBantUpONV7qclm8BrMQr6WELFsEtljXJ98O8JT9R7qR6tywmLG1qwT2RxbnIZT4tIyTkVkfiR1x-N1BR9Z1tQfDXEWjrTRqY6o0d7jEkyLROne7crMqoEBiw_RbqNvsZeKghIu8y6AgZHNRnq_dEo)[https://drive.google.com/.../1M4VlDwwe1qsBHMBs802.../view...](https://drive.google.com/file/d/1M4VlDwwe1qsBHMBs802jQ86uIELeMEgY/view?usp=sharing&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5IUrYIqiY9k-6_etPYPs4JUgm1ZDJ9zgSJ4uja5JmMCllYiUKouNg3mTm-Hg_aem_jJcaIgrMYkrnOdiLoAF9fQ)
+
+**Research Plan 5: How to write the Proposed Method section.**
+- [Link slide:](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Q0vvRy2LLUyejwhmLuV4XVx4qU3h1_n6%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5JFjPYM3gq-4y_Jzl0yfhFaoezN-gi14cmznbE2KSL53zie4n7OECWtOxelg_aem_wQFvWMMkl0sbaFvylTTJbw&h=AT6cpR_o6SnMxvcn8bPAh5x3S3i3o-diGtHiVKdjEfeHkCNd4z8wR95IOX3mFOTHS1qizjpeBmE65JhWgPXWIvc01ZkgErtVvCjjJHTBKvTBvIpkRgIj33GjJ7Vw-Y6Li9V0&__tn__=-UK-R&c[0]=AT4FCgVbYZSp_-76AG_1Q3d2m7N3w65i_Kspi-HNrhVJVDfhiDwhaYw_DFqQeHchWEQ7EhO4oS4xsRBantUpONV7qclm8BrMQr6WELFsEtljXJ98O8JT9R7qR6tywmLG1qwT2RxbnIZT4tIyTkVkfiR1x-N1BR9Z1tQfDXEWjrTRqY6o0d7jEkyLROne7crMqoEBiw_RbqNvsZeKghIu8y6AgZHNRnq_dEo)[https://drive.google.com/.../1Q0vvRy2LLUyejwhmLuV.../view...](https://drive.google.com/file/d/1Q0vvRy2LLUyejwhmLuV4XVx4qU3h1_n6/view?usp=sharing&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR535IIDCFNR0UTM17-pMEO1LykjYMVi_IZD80G8rLy0qpZiUeYdbOtkKe-zlQ_aem_w8AUueXTBrZYpunY8drHbg)  
+- [Link record:](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1KdZ3LYA7i-qO3OkTLF82-pPodzQQZ42f%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5IUrYIqiY9k-6_etPYPs4JUgm1ZDJ9zgSJ4uja5JmMCllYiUKouNg3mTm-Hg_aem_jJcaIgrMYkrnOdiLoAF9fQ&h=AT6bK-8Pv4rTvSoVJMI5XD8BYuIqO_67_sVOQ2ORp_FNz8vioaHXgXrzDHyJ-jeB9UrUReZAquWkWttJNdt-KfmxSzSpVsYvU08lfPBwhmJZHyJ8yhh9n2GS5cK1dL2HyfNM&__tn__=-UK-R&c[0]=AT4FCgVbYZSp_-76AG_1Q3d2m7N3w65i_Kspi-HNrhVJVDfhiDwhaYw_DFqQeHchWEQ7EhO4oS4xsRBantUpONV7qclm8BrMQr6WELFsEtljXJ98O8JT9R7qR6tywmLG1qwT2RxbnIZT4tIyTkVkfiR1x-N1BR9Z1tQfDXEWjrTRqY6o0d7jEkyLROne7crMqoEBiw_RbqNvsZeKghIu8y6AgZHNRnq_dEo)[https://drive.google.com/.../1KdZ3LYA7i.../view...](https://drive.google.com/file/d/1KdZ3LYA7i-qO3OkTLF82-pPodzQQZ42f/view?usp=sharing&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExVXlMSGVsVkM5WlN3bG5pY3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR535IIDCFNR0UTM17-pMEO1LykjYMVi_IZD80G8rLy0qpZiUeYdbOtkKe-zlQ_aem_w8AUueXTBrZYpunY8drHbg)
 
 | Method Categories (Rank by Popularity) | Paper Count | Source |
 | -------------------------------------- | ----------- | ------ |
@@ -46,17 +55,9 @@
 | Representation                         | **31**      | 1      |
 | Optimization                           | 28          | 1      |
 | Architecture                           | **36**      | 1      |
-
+|                                        |             |        |
 
 ----
-**Note:** 
-+ **Continual Learning Library:** Avalance vs LibContinual, when to use which.
-+ Research Direction Survey proposal  
-+ Team work proposal
-+ Top Researcher on Continual Learning and Future Research direction for LLM
-+  [Kullback-Leibler (KL) divergence](https://www.geeksforgeeks.org/machine-learning/kullback-leibler-divergence/) can be used to test Distribution shift, 
-+ Why LoRA is so efficient for CL
-
 ### [[Introduction and Motivation for Continual Learning]]
 
 **Why Continual Learning in Facial Recognition Model ?**

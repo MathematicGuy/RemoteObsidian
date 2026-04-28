@@ -6,13 +6,11 @@ $$I(x)=\log\left( \frac{1}{P(x)} \right)$$
 $$H(P)=\sum_{i}P(x_{i})\log\left( \frac{1}{P(x_{i})} \right)$$
 -> Expected/Average number of Bits need to encode outcomes using a Optimal code [[Shannon Entropy]].  The more unexpected a event is the more Bits required to encode. 
 ![[Pasted image 20260412164034.png | 777]]
-
-
+	
 **Cross-Entropy (Average surprise under wrong belief $Q(x_{i})$)**
 What if **the code is optimized for another distribution** ? In this case, we would need 1.75 bits of information. 
 $$H(P,Q)=\sum_{i}P(x_{i})\log \frac{1}{Q(x_{i})}$$
 ![[Pasted image 20260412164111.png | 777]]
-
 
 **KL Divergence (extra cost for wrong belief)** = Extra bits we waste when **measures the Extra cost of using the wrong distribution cue to encode the data** when the data **follow a True Distribution $P(x)$**.  
 ![[Pasted image 20260412162906.png | 777]]
@@ -50,3 +48,32 @@ So, the 1st func is KL's value Variance and 2nd KL's value is bias. Let combine 
 ![[Pasted image 20260412173215.png]]
 Achieve Convergencce without Negative side effect.
 ![[Pasted image 20260412173315.png]]
+
+---
+
+## A Visual and Intuitive Guide to KL-Divergence
+**VAE in a Nut Shell** - compress data into latent representation $z$, use $z$ to reconstruct original data. 
+![[Pasted image 20260424165235.png | 344]]
+
+
+**Joint-Distribution**
+
+**KL-Divergence** - measure the different between 2 joint distributions $P(x,y)$ and $Q(x,y)$ by calc the expected log-likelihood ratio -> often used to determine the distance between complex model. 
+
+**Applicaiton in high-dims:** the divergence can be broken down using chain-rule of KL divergence, allowing hierarchical analysis of where the distributions differ.
+
+**KL-Divergence function explain:**
+![[Pasted image 20260421204633.png]]
+$$L(x)= \mathbb{E}_{q(z|x)}[\log p(x|z)]-KL(q(z|x) \space| \space p(z))$$
++ The 1st term $\mathbb{E}_{q(z|x)}[\log p(x|z)]-KL(q(z|x)$ measure the data consistency -> How well the model can construct the Image $X$ from it Encoded Version $Z$. ![[Pasted image 20260421204831.png]]
++ The 2nd term KL-Divergence act like a Latent space Regularization.
+
++ ! How to backpropagate through the sampling process ? ![[Pasted image 20260421205129.png]]
+Well, *you can, but only* with the *Reparameterization Trick.* Instead of sampling the Random/Gaussian Distribution, we create a random variable $\epsilon$ to handle the randomness outside of the network.  ![[Pasted image 20260421205310.png]]
+First, you sample a random point from a standard normal distribution. Then scale it up by the Variane of our approximated posterior distribution and shift by its mean 
+![[Pasted image 20260421205349.png | 344]]
+-> Just like you just sample a value from the Posterior Distribution, except that by using te reparameterization trick.
+
+The VAE also output the parameters $\mu$ and $\sigma$ of the APD (approximate posterior distribution) 
+-> allow we to calc the KL divergence between this posterior distribution and the prior distribution (ie. just 2 normal distribution).  
+

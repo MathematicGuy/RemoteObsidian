@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "ba88432ed42464f4",
+    "id": "e3fa0b7ee749c056",
     "type": "split",
     "children": [
       {
-        "id": "76e084aa34382b4f",
+        "id": "4b090d3d99417805",
         "type": "tabs",
         "children": [
           {
-            "id": "920a433129b26253",
+            "id": "d5e5bb122ef55c3a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,39 +22,49 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-<<<<<<< HEAD
-=======
           },
           {
-            "id": "9f353a0a9225a31e",
+            "id": "16c0b26bdd16c41f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Cloud Practitioner"
+              "title": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
             }
->>>>>>> f858fc2d86a670ce582b1f4531c4866f6de3f6f9
+          },
+          {
+            "id": "aba752c7cd311476",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RAG System Design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RAG System Design"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bf1eaca71e260685",
+    "id": "58eddfd90eff4278",
     "type": "split",
     "children": [
       {
-        "id": "fa33f800a9ab9bb8",
+        "id": "021a5401727433ff",
         "type": "tabs",
         "children": [
           {
-            "id": "7652cc4e3051a5af",
+            "id": "32a8b4cc2b5af7aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,7 +77,7 @@
             }
           },
           {
-            "id": "924adf84ae8bc591",
+            "id": "3ddc0a5bc6fb4c45",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,7 +94,7 @@
             }
           },
           {
-            "id": "a043f79a211aad73",
+            "id": "38f8bac372d4b54a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,20 +111,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "ed8c647a66a5733f",
+    "id": "06a7e43b8d03ad45",
     "type": "split",
     "children": [
       {
-        "id": "c03224176ede724d",
+        "id": "93b9d2ae44cd0f51",
         "type": "tabs",
         "children": [
           {
-            "id": "19925245aa5a3227",
+            "id": "a3fe0f7b50bb998b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "Excalidraw/RAG System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,25 +134,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Cloud Practitioner"
+              "title": "Backlinks for RAG System Design"
             }
           },
           {
-            "id": "c635691487c17f08",
+            "id": "3da4e1f1cb4d3f47",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "Excalidraw/RAG System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS Cloud Practitioner"
+              "title": "Outgoing links from RAG System Design"
             }
           },
           {
-            "id": "a81314f2830bf0e1",
+            "id": "bae2bf99c7256f12",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,7 +167,7 @@
             }
           },
           {
-            "id": "06a601660b8c27dd",
+            "id": "b9e41552296b5149",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -171,32 +181,22 @@
             }
           },
           {
-            "id": "4c790b8345085566",
+            "id": "dcad0b317e53e084",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "Excalidraw/RAG System Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS Cloud Practitioner"
+              "title": "Outline of RAG System Design"
             }
           },
           {
-            "id": "336be69fe5d30057",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c1ca7119a789f94c",
+            "id": "8db44792e538233b",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -215,7 +215,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -228,35 +227,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "d32c7851f175e93c",
+  "active": "aba752c7cd311476",
   "lastOpenFiles": [
+    "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+    "image/Pasted image 20260428182816.png",
+    "image/Pasted image 20260428182718.png",
+    "image/Pasted image 20260428182541.png",
+    "image/Pasted image 20260428182519.png",
+    "image/Pasted image 20260428182424.png",
+    "image/Pasted image 20260428182315.png",
+    "Excalidraw/RAG System Design.md",
+    "AI Engineer.md",
     "2 ACTIONS/_Focus.md",
-    "AWS Cloud Partitioner - Final Project.md",
-    "image/Pasted image 20260420222459.png",
-    "image/Pasted image 20260420220429.png",
-    "image/Pasted image 20260420220108.png",
-    "image/Pasted image 20260420215853.png",
-    "image/Pasted image 20260420212305.png",
-    "image/Pasted image 20260420211554.png",
-    "image/Pasted image 20260420211539.png",
-    "image/Pasted image 20260420211526.png",
-    "image/Pasted image 20260420211322.png",
-    "image/Pasted image 20260420210932.png",
-    "AWS Cloud Practitioner.md",
-    "AIO2025 - Reinforcement Learning.md",
-    "AIO 2025.md",
-    "AIO2025 - Finetunning LLM.md",
-    "Math Behind Generative Adversarial Networks.md",
-    "KL Divergence.md",
-    "AI Agent.md"
-=======
-  "active": "9f353a0a9225a31e",
-  "lastOpenFiles": [
-    "2 ACTIONS/_Focus.md",
-    "AWS Cloud Practitioner.md",
-    "AWS Cloud Practitioner QUIZ & Video.md",
-    "image/Pasted image 20260420132113.png"
->>>>>>> f858fc2d86a670ce582b1f4531c4866f6de3f6f9
+    "image/Pasted image 20260428175518.png",
+    "image/Pasted image 20260428173636.png",
+    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+    "AI Coding.md",
+    "AI Engineer by Chip Huyen.md",
+    "AI Agent System.md",
+    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+    "image/Pasted image 20260428164932.png",
+    "image/Pasted image 20260428164857.png",
+    "Building in a World of Slop.md",
+    "How To Build A Company With AI From The Ground Up.md",
+    "Workflow for AI Coding (Essential).md"
   ]
 }
