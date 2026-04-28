@@ -2,6 +2,6 @@
 2) Download Keys and Firmware: https://prodkeys.net/updated/
 	extract Keys folder, keep firmware folder as .zip file.
 3) *Open Ryujinx.exe*, on the top bar
-	-> open Ryujinx folder -> system folder -> paste Prod keys there 
-	-> 
-4) 
+	-> File -> Open Ryujinx folder -> System folder -> Copy & Paste Prod keys there 
+	-> Action -> Install Firmware -> select Open Folder -> choose the Firmware .zip file you install earlier
+4) Play Tomodachi Life
