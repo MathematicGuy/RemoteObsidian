@@ -1,6 +1,8 @@
-Start Abstract and Simple -> then go into detail for each component gradually.
-
----
+When a AI Engineer doing multiple AI project, and each project have similar code -> Langchain create Interface specialize for LLMs system so you won't have to recode are the basic function again and again evey project. TO be accurate Langchain solve 4 problems:
++ Prompt Template - resuable prompt that inject context at runtime
++ Chains - function that wired other function together. 
++ Tools - external API that LLM could invoke on command.
++ RAG - retrieve private/internal context that is safe.
 
 **Terms & Definitions**
 + protocol is set of rules that ensures how data transmitted within the network or system.
@@ -43,7 +45,7 @@ print(result)  # Output: LANGCHAIN IS AWESOME
 2. **RunnableMap:** like python `map()` its execute multiple Runnables inside RunnableMap in parallel and aggeragate (tổng hợp) their result. *(Áp dụng nhiều hàm độc lập cho input string, mỗi hàm có 1 output)*
 	Output explicit/different result for 1 input string.  
 ```python
-from langchain.schema.runnable import RunnableMap  
+from langchain.schema.runnable import RunnableMap  ~~~~
   
 runnable_map = RunnableMap({  
     "uppercase": lambda x: x.upper(),  

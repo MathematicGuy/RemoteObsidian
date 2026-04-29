@@ -19,3 +19,6 @@ Letshuoer S08,
 **SimGot EM6L**
 
 
+Bass Test Song
+[Another Love](https://music.youtube.com/watch?v=SDEMyF4HPSI&list=QPcs6qqPsfAsCRpogZdIXUze7FjpOnKVoM1)
+

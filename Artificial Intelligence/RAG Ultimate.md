@@ -15,12 +15,6 @@
 + [Doc2MarkDown - MarkItDown library from microsoft](https://github.com/microsoft/markitdown)
 + [Agentic Deep Thinking RAG](https://levelup.gitconnected.com/building-an-agentic-deep-thinking-rag-pipeline-to-solve-complex-queries-af69c5e044db)
 
-| Tiêu chí                                                             | Phương pháp đánh giá của hệ thống và giảng viên                                                                                                                                                                | Tỉ lệ đạt theo validation hệ thống RAG | Tỉ lệ đạt theo đánh giá của giảng viên | Nhận xét                                                                                                                                           |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Truy hồi đúng dữ liệu của môn học từ vector DB                       | Hệ thống: Đo độ tương đồng trung bình giữa văn bản được truy hồi và câu hỏi được sinh ra của mỗi câu trắc nghiệm. <br><br>Giảng viên: kiểm tra nếu văn bản được truy hồi thực sự có trong văn bản.             | 89 %                                   | 100%                                   | Hệ thống có khả năng truy vấn nội dung tốt tuy nhiên khi truy vấn nhiều văn bản có chứa 1 số văn bản nhiễu không quá tương đồng với seed sentence. |
-| Độ chính xác của cặp câu hỏi và câu trả lời được hệ thống cho đúng . | Tính tổng số đáp án đúng trên toàn bộ đáp án. <br><br>Hệ thống: 1 câu hỏi được cho là đúng khi quality_score > 50. <br><br>Đối với giảng viên: Đối chiếu đáp án của RAG và đáp án thực sự đúng trong tài liệu. | 73% <br><br>(81/110)                   | 100%                                   | Mô hình gpt-oss-120b hoàn thành nhiệm vụ tốt trong tác vụ tạo sinh câu trắc nghiệm tuy nhiên                                                       |
-
-
 ### [[LangChain]]
 ### [[RAG Implementation Documentation]]
 ### [[Context Engineering]] (NEW)
@@ -41,11 +35,18 @@
 [short-guide to prompt-engineering](https://maliknaik.medium.com/prompt-engineering-for-small-llms-llama-3b-qwen-4b-and-phi-3-mini-de711d38a002) 
 
 
-**Langchain:** provide basic components for a AI application. (e.g. API connection between model, Prompting, human to model Responses).  
+**Langchain (chain component together):** provide basic components for a AI application. Interface function for LLMs (e.g. API connection between model, Prompting, human to model Responses, Dataloader) -> best for Linear Chain from task A to task B.
 ![[Pasted image 20250618070959.png| 600]]
-**LangGraph:** Allow dev to make prototype for AI application.
-**LangFlow:** Workflow for Multi-Agent.
-**LangSmith:** provide testing environment at all stages of development. Very detail and coherent debug enviroment. Allow you to track and trace every step.
+
+**LangGraph (The Agent Engine):** extension of LangChain specifically designed for **stateful, multi-agent systems** that require **loops/cycles**.
++ ? Standard Langchain is a DAG (Directed Acyclic Graph) with no Loop for thinking, error & retry. LangGraph allow you to build and manage that loop and save the state of the conversation.   ![[Pasted image 20260429171321.png]]
++ ! Only use Agent for Complex Task. 
+
+**LangFlow (Visual IDE):** a low-code, drag and drop GUI for building LangGraph/Langchain flows. 
++ ? For rapid prototyping so you can "see" your agent flow before you write the final code.
+
+**LangSmith (Testing AI Prompt):** provide *testing environment at all stages of development.* Very detail and coherent debug enviroment. Allow you to track and trace every step - *Observability and Evaluation* platform 
++ ? like Chip Huyen mention building the Ops/Eval route is the key for AI Engineer to *checkfor hallucination, run automated* tests to *trace errors and token at any steps.*    
 
 ---
 **AIO RAG Goals:**
