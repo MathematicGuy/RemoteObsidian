@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/RAG System Design.md",
+                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RAG System Design"
+              "title": "Backlinks for How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/RAG System Design.md",
+                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RAG System Design"
+              "title": "Outgoing links from How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/RAG System Design.md",
+                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RAG System Design"
+              "title": "Outline of How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
             }
           },
           {
@@ -227,8 +227,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aba752c7cd311476",
+  "active": "16c0b26bdd16c41f",
   "lastOpenFiles": [
+    "Excalidraw/RAG System Design.md",
     "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
     "image/Pasted image 20260428182816.png",
     "image/Pasted image 20260428182718.png",
@@ -236,7 +237,6 @@
     "image/Pasted image 20260428182519.png",
     "image/Pasted image 20260428182424.png",
     "image/Pasted image 20260428182315.png",
-    "Excalidraw/RAG System Design.md",
     "AI Engineer.md",
     "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260428175518.png",

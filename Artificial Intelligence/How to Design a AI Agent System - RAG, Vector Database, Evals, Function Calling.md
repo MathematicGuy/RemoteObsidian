@@ -29,7 +29,8 @@ Agent Function Calling
 *Tools and APIs Asernal*
 ![[Pasted image 20260428182816.png | 400]]
 
-
+Planner Agent or Deterministic workflow ? Make a Decision Tree, Planner Agent for Complex Task and Deterministic for Simple Problem.
+	e.g. Human Verify Product -> if New then Allow Return, Else Planner Agent to answer Q&A. If Purchaces -> deterministic flow to Stride payment.	
 
 **Final Overview**
 ![[Pasted image 20260428182315.png]]
