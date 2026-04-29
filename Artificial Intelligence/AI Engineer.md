@@ -30,6 +30,9 @@ Goal - Design a MVP AI System
 + [LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)
 + [RAG Interview Question](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub)
 
+*Docs*
++ [[Understand Company needs and Perspective]]
+
 ### 3-Part of RAG Interview Framework
 **What is RAG ?**  Retrieval Augment System from Internal Data sources 
 **RAG System Types of Questions**
@@ -39,8 +42,9 @@ Goal - Design a MVP AI System
 ![[Pasted image 20260428175518.png | 777]]
 	[Example RAG project by Ba Ria Vung Tau University](http://thuvienso.bvu.edu.vn/bitstream/TVDHBRVT/21097/1/Le-Quoc-Khanh-20LT.pdf)
 
+
 #### 1st. Knowledge Layers 
-	For storing Internal docs and privates sources
+For storing Internal docs and privates sources
 Vector database for semantic search
 Metadata-based filtering
 #### 2nd. Retrieval Layer
