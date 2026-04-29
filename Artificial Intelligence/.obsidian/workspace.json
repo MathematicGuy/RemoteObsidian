@@ -208,6 +208,16 @@
             "id": "30ea0ea6a0139050",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f61dd4e41f41fb19",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -215,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -236,18 +246,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "30ea0ea6a0139050",
+  "active": "f61dd4e41f41fb19",
   "lastOpenFiles": [
+    "Excalidraw/RAG System Design.md",
     "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260428182816.png",
     "image/Pasted image 20260428182718.png",
     "image/Pasted image 20260428182541.png",
     "image/Pasted image 20260428182519.png",
     "image/Pasted image 20260428182424.png",
     "image/Pasted image 20260428182315.png",
-    "Excalidraw/RAG System Design.md",
     "AI Engineer.md",
-    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260428175518.png",
     "image/Pasted image 20260428173636.png",
     "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
