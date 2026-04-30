@@ -24,21 +24,32 @@
             }
           },
           {
-            "id": "7f77b64d59357a5d",
+            "id": "16c0b26bdd16c41f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineer by Chip Huyen"
+              "title": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
+            }
+          },
+          {
+            "id": "aba752c7cd311476",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RAG System Design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RAG System Design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+                "file": "Excalidraw/RAG System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
+              "title": "Backlinks for RAG System Design"
             }
           },
           {
@@ -131,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+                "file": "Excalidraw/RAG System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
+              "title": "Outgoing links from RAG System Design"
             }
           },
           {
@@ -174,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+                "file": "Excalidraw/RAG System Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
+              "title": "Outline of RAG System Design"
             }
           },
           {
@@ -194,7 +205,17 @@
             }
           },
           {
-            "id": "e77f4442e19467b7",
+            "id": "30ea0ea6a0139050",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f61dd4e41f41fb19",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -204,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -225,37 +246,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7f77b64d59357a5d",
+  "active": "d5e5bb122ef55c3a",
   "lastOpenFiles": [
-    "AI Engineer Book Overview.md",
-    "AI Engineer by Chip Huyen.md",
-    "2 ACTIONS/_Focus.md",
-    "Pretraining LLMs vs Finetunning LLMs.md",
-    "AIO2025 - LLM Alignment.md",
-    "AIO 2025.md",
-    "AIO2025 - Finetunning LLM.md",
-    "fine-tuning.md",
-    "Excalidraw/RAG System Design.md",
-    "LangChain.md",
-    "Viettel.md",
-    "RAG Ultimate.md",
     "image/Pasted image 20260429171321.png",
-    "RAG Implementation Documentation.md",
-    "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
-    "image/Pasted image 20260428182315.png",
     "image/Pasted image 20260429151616.png",
     "image/Pasted image 20260429151157.png",
     "image/Pasted image 20260429150943.png",
     "image/Pasted image 20260429150747.png",
-    "AI Engineer.md",
     "Understand Company desirers/Understand Company needs and Perspective.md",
     "Understand Company desirers",
+    "AI Engineer Book Overview.md",
+    "Excalidraw/RAG System Design.md",
+    "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260428182816.png",
     "image/Pasted image 20260428182718.png",
     "image/Pasted image 20260428182541.png",
     "image/Pasted image 20260428182519.png",
+    "image/Pasted image 20260428182424.png",
+    "image/Pasted image 20260428182315.png",
+    "AI Engineer.md",
     "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
     "AI Coding.md",
+    "AI Engineer by Chip Huyen.md",
     "AI Agent System.md",
     "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
     "Building in a World of Slop.md",
