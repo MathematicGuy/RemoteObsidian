@@ -21,7 +21,6 @@ Impact: AUC tăng từ 0.72 lên 0.79 chỉ vì cách handle missing đúng.
 Kỹ thuật là dễ. Google là ra fillna(), SimpleImputer, MICE. Khó là biết KHI NÀO dùng cái gì và TẠI SAO.
 Bạn handle missing data như thế nào trong dự án gần nhất? Có bao giờ quyết định KHÔNG fill missing mà để nguyên không?
 
-
 ----
 
 
