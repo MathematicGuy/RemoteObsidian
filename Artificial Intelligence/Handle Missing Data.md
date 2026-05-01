@@ -20,3 +20,42 @@ Impact: AUC tăng từ 0.72 lên 0.79 chỉ vì cách handle missing đúng.
 - Cost của false positive vs false negative trong business context này là bao nhiêu?
 Kỹ thuật là dễ. Google là ra fillna(), SimpleImputer, MICE. Khó là biết KHI NÀO dùng cái gì và TẠI SAO.
 Bạn handle missing data như thế nào trong dự án gần nhất? Có bao giờ quyết định KHÔNG fill missing mà để nguyên không?
+
+
+----
+
+
+Sự khác biệt giữa Junior và Senior đúng như bạn nói: **Kỹ thuật là dễ, tư duy bối cảnh mới khó**.
+
+Để trả lời câu hỏi của bạn về dự án gần nhất và tình huống không fill missing:
+
+1. Dự án gần nhất: Phân tích tỷ lệ huỷ dịch vụ (Churn Prediction)
+
+- **Bối cảnh:** Dữ liệu hành vi người dùng trên App.
+- **Vấn đề:** Cột `last_login_date` bị missing khoảng 5%.
+- **Tư duy:** Không phải cứ thấy missing là `fillna()`.
+- **Xử lý:**
+    - **Phân tích (Root Cause):** Nhóm missing này _thực chất_ là nhóm chưa bao giờ login kể từ khi đăng ký tài khoản (User mới hoàn toàn, hệ thống ghi nhận lỗi logic).
+    - **Quyết định:** Tạo ra một giá trị mặc định là `1970-01-01` hoặc biến thành biến nhị phân `is_first_time_user` thay vì dùng median/mean (làm sai lệch thời gian login trung bình).
+- **Kết quả:** Mô hình hiểu được đây là nhóm "New user" và có hành vi đặc thù.
+
+2. Tình huống: QUYẾT ĐỊNH KHÔNG FILL MISSING (Để nguyên)
+
+Trong một dự án xây dựng hệ thống **Credit Scoring (Chấm điểm tín dụng)**:
+
+- **Dữ liệu:** Cột `credit_limit_at_other_banks` (Hạn mức tín dụng ở ngân hàng khác) bị missing 40%.
+- **Tại sao không fill?**
+    - Missing ở đây là **MNAR (Missing Not At Random)**: Khách hàng không có nợ xấu hoặc không dùng thẻ ngân hàng khác, hoặc họ cố tình không khai báo.
+    - Nếu dùng `mean/median`, mình sẽ tạo ra một giá trị ảo, làm sai lệch rủi ro.
+    - Nếu drop 40% data, mô hình mất đi thông tin quý giá của một nhóm lớn.
+- **Giải pháp:** **Giữ nguyên NULL** và sử dụng thuật toán **XGBoost/LightGBM**. Các thuật toán này có khả năng tự học được "hướng đi" của giá trị thiếu (tự phân loại nhóm NULL vào nhánh tối ưu).
+- **Impact:** AUC của mô hình cao hơn hẳn so với việc cố tình điền 0 hoặc điền trung bình.
+
+---
+
+Tóm lại
+
+Với mình, **Missing Data = Information**.  
+Trước khi `fillna()`, câu hỏi mình tự đặt ra là: _"Liệu việc thiếu dữ liệu này có mang lại insight gì về hành vi không?"_
+
+Cảm ơn bạn đã chia sẻ một case study thực tế và đúng trọng tâm! Câu chuyện AUC tăng từ 0.72 lên 0.79 là minh chứng đắt giá nhất cho việc tư duy đúng quan trọng hơn kỹ thuật cao siêu.
