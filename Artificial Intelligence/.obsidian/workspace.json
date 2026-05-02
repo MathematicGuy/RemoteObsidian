@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "Best Practices in Retrieval-Augmented Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineer by Chip Huyen"
+              "title": "Best Practices in Retrieval-Augmented Generation"
             }
           }
         ],
@@ -238,6 +238,16 @@
             "id": "b65fa80ff4fa4a18",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e01e96721d392f82",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -245,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -268,24 +278,24 @@
   },
   "active": "c918d6911fafa8d9",
   "lastOpenFiles": [
+    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+    "AI Engineer.md",
+    "Best Practices in Retrieval-Augmented Generation.md",
+    "image/Pasted image 20260502151317.png",
+    "image/Pasted image 20260502145938.png",
+    "image/Pasted image 20260502145918.png",
+    "image/Pasted image 20260502144923.png",
+    "Excalidraw/RAG System Design.md",
+    "AI Engineer by Chip Huyen.md",
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260501194704.png",
     "image/Pasted image 20260501191836.png",
     "image/Pasted image 20260501191507.png",
     "image/Pasted image 20260501175323.png",
     "image/Pasted image 20260501174633.png",
     "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
-    "AI Engineer.md",
-    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
-    "AI Engineer by Chip Huyen.md",
     "image/Pasted image 20260501160202.png",
-    "image/Pasted image 20260501160134.png",
-    "2 ACTIONS/_Focus.md",
     "Handle Missing Data.md",
-    "Excalidraw/RAG System Design.md",
-    "image/Pasted image 20260430182005.png",
-    "image/Pasted image 20260430181339.png",
-    "image/Pasted image 20260430180030.png",
-    "image/Pasted image 20260430174053.png",
     "1 PROJECTS/CMC 2025/BigData HW/BDA - Lab 3.md",
     "Calculus_Derivative.md",
     "CNN from Scratch.md",
@@ -303,7 +313,6 @@
     "AIO2025 - LLM Alignment.md",
     "Affine Transformation.md",
     "AIO2025 - GAN.md",
-    "GAN.md",
     "Understand Company desirers"
   ]
 }

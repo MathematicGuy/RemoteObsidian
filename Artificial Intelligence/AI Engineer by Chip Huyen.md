@@ -1,6 +1,7 @@
 Overview - [[AI Engineer Book Overview]]
 + @ *Each chapter have a SUMMARY,* instead of using AI before reading each Chapter, read the summary first.
 
+## 0. [[Best Practices in Retrieval-Augmented Generation]]
 ## 1. Intro to Building A Applications with Foundation Models 
 *Market Demand (USA alone)* ![[Pasted image 20260430103426.png]]
 **Workflow Automation**
@@ -204,9 +205,11 @@ two open-ended texts:
 	
 4. **Semantic similarity** - how similar by semantic meaning (actual meaning, *slower but accurate*)
 	Identifies  (buy $\approx$ purchase)
-	`Usecases:` when *Synonyms and Paraphrasing matter*, Handling short or Vague queries, Cross-lingual tasks (multi-language), *recommendation system* (where finding "Similar items" based on user behaviour rather than just metadata) ![[Pasted image 20260430172824.png | 355]]
+	`Usecases:` when *Synonyms and Paraphrasing matter.* Handling short or Vague queries, Cross-lingual tasks (multi-language), *recommendation system* (where finding "Similar items" based on user behaviour rather than just metadata) ![[Pasted image 20260430172824.png | 355]]
 Another way is Hybrid Search by combining both methods to gain high precision with high recall.
--> **RRF (Reciprocal Rank Fusion):** Use this to merge results from both BM25 and vector searches
+**-> RRF (Reciprocal Rank Fusion):** Use this to merge results from both BM25 and vector searches.
+
+
 
 ### AI as a Judge (human but AI Evaluation for Open-Ended question)
 **Why ?** fast, easy and cheaper than human. And Studies have shown that certain AI judges are strongly correlated to human evaluators.
@@ -282,6 +285,7 @@ Self-critic might sound cheating, but it a great way to check your sanity. Becau
 	`Usecase:` Ranking model checkpoints, A/B testing user experience, and ranking scenarios. 
 -> use *when Quality is subjective* like rate which Song is better by giving it a score and to *Identify minor differences* between models But *more susceptible to bias.*
 
+
 ## 4. Evaluate AI Systems
 ### Evaluation Criteria - Test Driven Development (TDD)
 + ? Which is worse - an application that has never been deployed or an application that is deployed but no one knows whether it’s working ? 
@@ -289,15 +293,14 @@ Self-critic might sound cheating, but it a great way to check your sanity. Becau
 	or
 	*TDD* - writing tests before writing code. Same in AI Engineer, it mean *defining evaluation criteria before building.* 
 
+
 #### EVALUATION-DRIVEN DEVELOPMENT
 In general, you can think of criteria in the following buckets: 
-+ domain-specific capability
-+ generation capability, 
-+ instruction-following capability, 
-+ cost and latency.
-+ @ Imagine you ask a model to summarize a legal contract. At a high level, *domain-specific capability metrics* tell you how good the model is at understanding legal contracts. *Generation capability metrics* measure how coherent or faithful the summary is. *Instruction-following capability* determines whether the summary is in the requested format, such as meeting your length constraints. *Cost and latency metrics* tell you how much this summary will cost you and how long you will have to wait for it. 
-
-![[Pasted image 20260501174633.png | 666]]
+	+ domain-specific capability
+	+ generation capability, 
+	+ instruction-following capability, 
+	+ cost and latency.
++ @ Imagine you ask a model to summarize a legal contract. At a high level, *domain-specific capability metrics* tell you how good the model is at understanding legal contracts. *Generation capability metrics* measure how coherent or faithful the summary is. *Instruction-following capability* determines whether the summary is in the requested format, such as meeting your length constraints. *Cost and latency metrics* tell you how much this summary will cost you and how long you will have to wait for it. ![[Pasted image 20260501174633.png | 666]]
 
 #### Domain-Specific Capability (use online benchmark)
 + @ how well model understands and reasons about that specific domain e.g. medical, law, finance, coding, teaching, etc.. Usually **achieved through Specialized Training (continued pretraining or fine-tuning on domain data)**  
@@ -306,6 +309,7 @@ In general, you can think of criteria in the following buckets:
 	**Key indicator**: Performance on domain-specific benchmarks (e.g., MedQA, LegalBench, GPQA).
 
 Like *Coding-related* capabilities are typically evaluated using *functional correctness* evaluation method. 
+
 *For MCQ:*
 Math MCQ - easy -> use mathmodel to check if answer correct or not.
 Text MCQ (one and multiple correct answer) - just use *Accuracy* for number of correct.
@@ -316,18 +320,21 @@ Text MCQ (one and multiple correct answer) - just use *Accuracy* for number of c
 + @ **Quality of the Generated content (more AI or more Human)**. Model's ability to produce high-quality, coherent, and useful outputs.
 
 **Example**: Two models might both follow an instruction to "write a marketing email," but one generates generic, repetitive text while the other produces persuasive, well-structured, and on-brand copy.
+
 No obsivous way to *measure readability*, so u likely need to use subjective evaluation, such as using *AI judges.*
 
-Metrics used to evaluate the **quality of generated texts** back then included *fluency and coherence* using AI Judge.
-+ *Fluency* measures whether the text is grammatically correct and natural-sounding (does this sound like something written by a fluent speaker ?)
-+ *Coherence* measures how well-structured the whole text is (does it follow a logical structure ?)
+Metrics used to evaluate the **quality of generated texts** back then included *fluency and coherence* using AI Judge. 
++ *Fluency* measures whether the *text is grammatically correct and natural-sounding* (does this sound like something written by a fluent speaker ?)
++ *Coherence* measures *how well-structured* the whole text is (does it follow a logical structure ?)
 + ? Although, this is might less necessary for Strong Model, this still be useful for weaker models or application involving creattive writing and low-resource languages. 
 
 **Translation Task** metric might use is *faithfulness:* how faithful is the generated translation to the original sentence ?
-**Summarization task** might use *relevance*: does the summary focus on the most important aspects of the source document?
+
+**Summarization task** might use *relevance*: does the summary focus on the most important aspects of the source document ?
 
 #### Factual Consistency
 Hallucinations are desirable for creative tasks, not for tasks that depend on factuality.
+
 A metric that many application developers want to measure is *factual consistency (Tính xác thực).* Another metric is *Safety:* *can the generated outputs cause harm to users and society ?* Safety is an umbrella term for all types of toxicity and biases.
 
 **Local factual consistency** - check within a scope of information like a sentence
@@ -356,29 +363,28 @@ Textual Entailment check the direction (*agree/disagree/neutral*) between 2 stat
 	+ **Neutral** mean there not enough information to determine if the hypothesis $H$ is Truth base on $T$. 
 + @ **Application:** improve Question Answering (QA by identifying supporting text, Multi-Document Summarization (MDS) to reduce redundancy and Information Extraction -> basically **finding Evidence $T$ for statement $H$**
 + $ Textual Entailment achieved by training a specialized model that take in a pair of (premise, hypothesis) as input and output one of the predefined classes such as entailment, contradiction, or neutral. 
-+ ? **Benchmarks for factual consistency include TruthfulQA.** These questions span 38 categories, including health, law, finance, and politics. This benchmark comes with a specialized AI judge, GPT-judge, that was **finetuned to automatically evaluate whether a response is factually consistent with the reference response.** ![[Pasted image 20260501194704.png | 444]]
++ ? **Benchmarks for factual consistency include TruthfulQA.** These questions span 38 categories, including health, law, finance, and politics. This benchmark comes with a specialized AI judge, GPT-judge, that was **finetuned to automatically evaluate whether a response is factually consistent with the reference response.** ![[Pasted image 20260501194704.png | 400]]
 
-
-
-**Example:**
-	Premise: "A soccer game is happening."
-	Hypothesis: "People are playing sports."
-	Relationship: Entailment
-
-
-
-
+**For example, given the Premise Context “Mary likes all fruits”:**
+	*Entailment $H$:* “Mary likes apples”.
+	*Contradiction $H$:* “Mary hates oranges”.
+	*Neutral $H$:* “Mary likes chickens”.
 
 
 #### Instruction-Following Capability
-+ @ How *Obey* the model is to user instructions, constraints and formatting requirements. *eg. Gemini-3.5-Instruct.*
++ @ Model's Capability to *follow Exactly what you Demand.* eg. Gemini-3.5-Instruct.
 	Measures how well the model **understands and executes complex or multi-part instructions.**
-	Includes *handling constraints* (e.g., "only use bullet points," "keep it under 200 words," "respond in JSON").
-	This is often a result of *instruction tuning* (RLHF, DPO, etc.).
+	+ Includes *handling constraints* (e.g., "only use bullet points," "keep it under 200 words," "respond in JSON").
+Instruction-Following is often a result of *instruction tuning* (RLHF, DPO, etc.).
 
 **Example**:
-- *Weak:* User asks for a step-by-step plan with exactly 5 steps → Model gives 7 steps or ignores the format.
-- *Strong:* Model precisely follows the requested structure, tone, length, and constraints even in complex prompts.
+*Weak:*
+- User asks for a step-by-step plan with exactly 5 steps → Model gives 7 steps or ignores the format.
++ Unable for Follow Structured JSON format you give out.
+
+*Strong:*
++ Model precisely follows the requested structure, tone, length, and constraints even in complex prompts.
++ Able to follow your JSON format consistently.
 
 #### Cost and Latency -> Real World Efficiency
 ![[Pasted image 20260501175323.png | 666]]
@@ -389,7 +395,6 @@ Math MCQ - easy -> use Domain-Specific LLM for evaluate.
 Text MCQ (one and multiple correct answer) - just use Accuracy for number of correct.
 	If you use Scoring System (1-10) -> Correct Answer plus X score, harder question get more score. 
 Classification like Tweet Emotion Classification - has output like NEGATIVE, POSITIVE, and NEUTRAL -> use F1 scores, precision and recall. 
-
 
 ### Designing your Evaluation Pipeline (Critital Important)
 
