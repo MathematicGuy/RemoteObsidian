@@ -107,17 +107,19 @@ Objective function for Variational Inference is KL divergence (always $\geq{0}$)
 Note:
 + Expected Value *$E[X]=\sum_{i}x_{i}p_{i}$ is the Sum of $[$ each outcome $\times$ its probability $]$* -> that why it could be used to simplified integral.
 
-move terms around, we see loglikelihood is the sum of KL-Divergence so $E_{q \space \phi}$ alone must be smaller or equal to $\log p_{\theta}(x)$
+Move terms around, we see loglikelihood is the sum of KL-Divergence so $E_{q \space \phi}$ alone must be smaller or equal to $\log p_{\theta}(x)$
 ![[Pasted image 20260425164418.png]]
-You could *alternatively derive* the ELBO using mathematical result called Jensen's inequality
++ ! Remove $D_{KL}$ because we need to minimize it, but it cannot be calculate. 
+
+You could *Alternatively Derive* the ELBO using mathematical result called Jensen's inequality
 ![[Pasted image 20260425172957.png]]
 
 Lower KL Divergence increase the tighness/closenes of this bound
 ![[Pasted image 20260425173053.png]]
 we can think of the **K Divergence from P to Q as essentially the gap between the Elbow $q$ and the Actual Log Likelihood (target $p$)** so in other words a **lower K Divergence increases the tightness of this bound** now we can see from this picture that maximizing the elbow by *optimizing $\phi$ and $\theta$ will simultaneously do two things* one it will *maximize the log P of X* and two it will *minimize the the K Divergence from the true posterior P to the approximation Q.* 
 	in other words both the generative model and the inference model are simultaneously *optimized all this without having to explicitly calculate P of X ($P_{\theta}(x)$) itself*
+SO how do we optimized the ELBO of a large dataset itself -> OPTMIZATION FUNCTION -> Kernel Reperameterization Trick. 
 
-SO how do we optimized the ELBO of a large dataset itself -> OPTMIZATION FUNCTIOn -> Kernel Reperameterization Trick. 
 
 Natural Approch: Stochastic GD.
 ![[Pasted image 20260425173545.png | 455]]
@@ -130,15 +132,16 @@ In constract **Find the Gradient w.r.t $\phi$ is more tricky** -> Expand the Exp
 ![[Pasted image 20260425174453.png | 666]]
 The solution is to replace Q with an equivalent distribution that is nto parameterize by $\phi$ using the reparameterization trick: 
 1) Express $z$ by some function $g$. 
-2) $\epsilon$ - sample from $p(\epsilon)$, remain constant during training ->$\phi$ influence $g$ deterministically. Externalized the randomness by transferring it from $z$ to $\epsilon$ 
+2) $\epsilon$ - sample from $p(\epsilon)$, remain constant during training -> $\phi$ influence $g$ deterministically. Externalized the randomness by transferring it from $z$ to $\epsilon$ 
 ![[Pasted image 20260425175237.png | 666]]
+Đưa từ $E$ về xấp xỉ để đạo hàm đc.
 
 ![[Pasted image 20260425175251.png | 666]]
 
 ![[Pasted image 20260425175334.png | 444]]
-
+Ghép số vào để biến đổi công thức. N(0, 1) ghép vô Gausian 
 ![[Pasted image 20260425175401.png | 666]]
-
+ 
 ![[Pasted image 20260425175416.png | 777]]
 
 ![[Pasted image 20260425175602.png | 666]]

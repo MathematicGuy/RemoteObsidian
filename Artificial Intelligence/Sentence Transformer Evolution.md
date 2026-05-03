@@ -92,7 +92,7 @@ BERT is good at Word Representation, but we want a model that good at Sentence R
 
 ---
 # Sampling
-## Temperature
+## [[LLM Temperature]]
 Basically **Softmax** but logit $z_{i}$ divided by $T$:  $$\frac{z_{i}}{T}$$ where $T$ is the **Temperature**. Softmax fomula with temperature:
 $$P_{i} = \frac{e^{z_{j} / T}}{\sum^{K}_{j=1}e^{z_{j} / T}}$$
 With logits computed from the last layer are `[1, 3]`
