@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "c918d6911fafa8d9",
+            "id": "9fcbc6ec3396cfb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best Practices in Retrieval-Augmented Generation.md",
+                "file": "AI Engineer by Chip Huyen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best Practices in Retrieval-Augmented Generation"
+              "title": "AI Engineer by Chip Huyen"
             }
           }
         ],
@@ -248,6 +248,56 @@
             "id": "e01e96721d392f82",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3ec4ca6521fe8986",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "05a1550b1e07f049",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f406e0be0ee50db8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4c4d1b7bf20bd972",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0086aec7d5a40162",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -255,7 +305,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -276,18 +326,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c918d6911fafa8d9",
+  "active": "9fcbc6ec3396cfb5",
   "lastOpenFiles": [
-    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
-    "AI Engineer.md",
+    "2 ACTIONS/_Focus.md",
+    "Template.md",
     "Best Practices in Retrieval-Augmented Generation.md",
-    "image/Pasted image 20260502151317.png",
+    "AI Engineer by Chip Huyen.md",
+    "AI Engineer.md",
     "image/Pasted image 20260502145938.png",
+    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+    "image/Pasted image 20260502151317.png",
     "image/Pasted image 20260502145918.png",
     "image/Pasted image 20260502144923.png",
     "Excalidraw/RAG System Design.md",
-    "AI Engineer by Chip Huyen.md",
-    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260501194704.png",
     "image/Pasted image 20260501191836.png",
     "image/Pasted image 20260501191507.png",

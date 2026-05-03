@@ -33,15 +33,9 @@ The stronger the model, the less work to do (of course, duh) e.g. Good off-the-s
 
 Most likely your goals will change after evaluation. 
 ```ad-info
-In the paper UltraChat, Ding et al. (2023) shared that “the journey from 0 to
-60 is easy, whereas progressing from 60 to 100 becomes exceedingly
-challenging.” LinkedIn (2024) shared the same sentiment. It took them one
-month to achieve 80% of the experience they wanted. This initial success
-made them grossly underestimate how much time it’d take them to improve
-the product. They found it took them four more months to finally surpass
-95%. A lot of time was spent working on the product kinks and dealing with
-hallucinations. The slow speed of achieving each subsequent 1% gain was
-discouragin
+In the paper UltraChat, Ding et al. (2023) shared that “the journey from 0 to 60 is easy, whereas progressing from 60 to 100 becomes exceedingly challenging.” LinkedIn (2024) shared the same sentiment. It took them one month to achieve 80% of the experience they wanted. This initial success
+made them grossly underestimate how much time it’d take them to improve the product. They found it took them four more months to finally surpass 95%. A lot of time was spent working on the product kinks and dealing with hallucinations. The slow speed of achieving each subsequent 1% gain was
+discouraging.
 ```
 In AI Agent System:
 -> Small models for routing/retrieval, bigger models for generation
@@ -56,9 +50,7 @@ In AI Agent System:
 
 **3 Layers of the AI Stack** - Application dev, Model dev and infrastructure (start from Top then Move Down) ![[Pasted image 20260430105239.png]]
 1. *Application dev -* use baseline LLM, provide good prompt and context -> Require Rigorous Evaluation. App require good interfaces.
-
 2. *Model dev* - tool for developing models (Langchain) and framework (Unsloth) for modeling, training, finetuning and inference optimization. This layer also include data engineering and rigorous evaluation bc u're finetunning model.
-
 3. *Infrastructure* - includes tooling for model serving, managing data and compute and monitoring. 
 
 ### How AI Engineering differ from ML Engineering ?
@@ -185,9 +177,7 @@ If the *task you care about can’t be automatically evaluated using functional 
 An *Input can have multiple reference responses* (multi-possible Engish translation of a French sentence) -> *Reference responses are called ground-truth* or canonical responses, metrics that don't are reference-free. 
 + ? Reference data is generated typically by humans and increasingly by AIs.
 
-Generated responses that are more similar to the reference responses are
-considered better. There are four ways to measure the similarity between
-two open-ended texts:
+Generated responses that are more similar to the reference responses are considered better. There are four ways to measure the similarity between two open-ended texts:
 1. **Asking the Evaluator** AI/Human directly which response are better out of the 2.
 	`Usecases:` rate poem by Shakespear standard
 	
@@ -206,9 +196,8 @@ two open-ended texts:
 4. **Semantic similarity** - how similar by semantic meaning (actual meaning, *slower but accurate*)
 	Identifies  (buy $\approx$ purchase)
 	`Usecases:` when *Synonyms and Paraphrasing matter.* Handling short or Vague queries, Cross-lingual tasks (multi-language), *recommendation system* (where finding "Similar items" based on user behaviour rather than just metadata) ![[Pasted image 20260430172824.png | 355]]
-Another way is Hybrid Search by combining both methods to gain high precision with high recall.
+Another way is **Hybrid Search** by combining both methods to gain high precision with high recall.
 **-> RRF (Reciprocal Rank Fusion):** Use this to merge results from both BM25 and vector searches.
-
 
 
 ### AI as a Judge (human but AI Evaluation for Open-Ended question)
@@ -371,7 +360,7 @@ Textual Entailment check the direction (*agree/disagree/neutral*) between 2 stat
 	*Neutral $H$:* “Mary likes chickens”.
 
 
-#### Instruction-Following Capability
+#### Instruction-Following Capability ()
 + @ Model's Capability to *follow Exactly what you Demand.* eg. Gemini-3.5-Instruct.
 	Measures how well the model **understands and executes complex or multi-part instructions.**
 	+ Includes *handling constraints* (e.g., "only use bullet points," "keep it under 200 words," "respond in JSON").

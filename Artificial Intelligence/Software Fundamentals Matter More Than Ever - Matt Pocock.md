@@ -2,7 +2,7 @@
 
 + ! Failure Mode #1 - AI doesn't do what I want.
 1. For a MCQ generation system, what are the improvement to align generation preference to the User ? 
-	Create a conversation feature where the *LLM askes relentlessly about every aspect of the question deck* until we reach a reach a shared understanding. 
+	Create a conversation feature where the *LLM askes relentlessly about every aspect of the question deck* until we reach a shared understanding. 
 		Deep Fix and Quick Fix Features
 	Compare to prompting, this feature guide the user first step, inspire them to make meaningful requirements for the MCQ.
 -> Understanding through Adversarial (yeah like GAN)
@@ -15,8 +15,7 @@ AI using too many word when it communicating.
 -> Language Gap problem - *Use term both understand* or Dev would code the wrong features. (communicate with AI like they human) 
 -> Have a .md file include a list of terms that you and the AI have in common. Make sure both shared the same understanding of the terms.
 + $ **Sol1:** Domain-Driven Design `UBIQUITOUS_LANGUAGE.md`, LLM scan the documents for terminologies and create the .md file -> for human verify if the AI understand the right thing.
-
-+ $ **Sol2:** Create a Shared Language with the AI
++ $ **Sol2:** Create a Shared Language with the AI.
 
 
 + ! Failure Mode #3 - Code/Question that doesn't work/good 
