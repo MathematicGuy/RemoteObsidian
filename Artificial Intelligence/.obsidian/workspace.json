@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
+        "id": "d9b83f5ee536e07c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f7abce486b3c9e",
+=======
         "id": "8aed9fc4c6bfa029",
         "type": "tabs",
         "children": [
           {
             "id": "a60a6986b751376f",
+>>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,6 +30,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
+<<<<<<< HEAD
+=======
           },
           {
             "id": "9fcbc6ec3396cfb5",
@@ -36,6 +46,7 @@
               "icon": "lucide-file",
               "title": "AI Engineer by Chip Huyen"
             }
+>>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
           }
         ],
         "currentTab": 1
@@ -215,7 +226,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "8fea91251837659c",
+=======
             "id": "04193ee52ad29e67",
+>>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -225,7 +240,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "455cb24a4ad3d105",
+=======
             "id": "3d1d2f61d98af4b1",
+>>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -235,6 +254,9 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "78ced891b992b1a3",
+=======
             "id": "b65fa80ff4fa4a18",
             "type": "leaf",
             "state": {
@@ -246,6 +268,7 @@
           },
           {
             "id": "e01e96721d392f82",
+>>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -304,8 +327,16 @@
               "title": "Saved Queries"
             }
           }
+<<<<<<< HEAD
+        ]
+=======
         ],
+<<<<<<< HEAD
         "currentTab": 16
+=======
+        "currentTab": 11
+>>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
+>>>>>>> origin/main
       }
     ],
     "direction": "horizontal",
@@ -326,10 +357,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "9fcbc6ec3396cfb5",
   "lastOpenFiles": [
     "2 ACTIONS/_Focus.md",
     "Template.md",
+=======
+<<<<<<< HEAD
+  "active": "48f7abce486b3c9e",
+  "lastOpenFiles": [
+    "Startup AI.md",
+    "image/Pasted image 20260430212607.png",
+    "image/Pasted image 20260430211840.png",
+    "image/Pasted image 20260430211315.png",
+    "2 ACTIONS/_Focus.md",
+    "image/Pasted image 20260430210559.png",
+    "image/Pasted image 20260430205010.png",
+    "image/Pasted image 20260430204502.png",
+    "image/Pasted image 20260430203854.png",
+    "image/Pasted image 20260430202703.png",
+    "image/Pasted image 20260430201922.png",
+    "Study Efficiently - High-Performance Learning.md",
+    "image/Pasted image 20260429211456.png",
+    "Studying Better.md",
+    "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+    "AWS Cloud Practitioner.md",
+    "Excalidraw/RAG System Design.md",
+    "Understand Company desirers/Understand Company needs and Perspective.md",
+    "Understand Company desirers",
+    "AI Engineer Book Overview.md",
+    "AI Engineer.md",
+=======
+  "active": "c918d6911fafa8d9",
+  "lastOpenFiles": [
+>>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
+    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+    "AI Engineer.md",
+>>>>>>> origin/main
     "Best Practices in Retrieval-Augmented Generation.md",
     "AI Engineer by Chip Huyen.md",
     "AI Engineer.md",
