@@ -4,11 +4,12 @@
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
 - [ ] **About Planning & Critical-less/Repetitive work: Think in the Architecture/Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
-- [ ] Be Decisive - If I want to play, play. If I want to study then study. Don't think must, just execute. And set App Block Timer
+- [ ] Be Decisive - If I want to play, play. If I want to study then study. Don't think too much, just execute. And set App Block Timer
 
 
 _System Design Learning Path
-- [ ] Today + Tomorrow - Broad Understanding about *AI System Design and RAG* (*AI Engineering* by Chip Huyen) 
+- [ ] Hand On Live Practice - [NeXTWORK](https://learn.nextwork.org/projects/ai-prompt-engineering-research?track=low)
+- [ ] Today - Broad Understanding about *AI System Design and RAG* (*AI Engineering* by Chip Huyen) 
 	- [ ] Understand and Evaluate Constraint before picking the tools (avoid common pitfall) - Use Logic instead of chasing after HypE -> Know that which tools is good understand X condition. 
 	- [ ] Understand Evaluation Pipeline + Handon Project
 	- [ ] Vertical vs Horizontal Scaling (compare benefit & when)
@@ -27,8 +28,6 @@ _System Design Learning Path
 _Project
 - [ ] Cloud Partitioner Mock Exam - [Youtube Cloud Partitioner](https://www.youtube.com/watch?v=NhDYbskXRgc)
 	[Practice Exam CLF-C02 website](https://kananinirav.com/practice-exam/exams.html) - [github](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master)
-
-
 
 - [ ] [Mother of all RAG Project](https://github.com/jamwithai/production-agentic-rag-course)
 	- [ ] [Evaluate RAG using RAGAS](https://viblo.asia/p/llm-su-dung-ragas-va-llamaindex-de-danh-gia-chat-luong-rag-5OXLAv8YVGr)
