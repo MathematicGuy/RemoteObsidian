@@ -1,22 +1,14 @@
 {
   "main": {
-    "id": "e3fa0b7ee749c056",
+    "id": "874eeb04e63e9258",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "d9b83f5ee536e07c",
+        "id": "57315c3d1828567e",
         "type": "tabs",
         "children": [
           {
-            "id": "48f7abce486b3c9e",
-=======
-        "id": "8aed9fc4c6bfa029",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a60a6986b751376f",
->>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
+            "id": "acd45676b11d0bb8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -30,40 +22,22 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "c918d6911fafa8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best Practices in Retrieval-Augmented Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best Practices in Retrieval-Augmented Generation"
-            }
->>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "58eddfd90eff4278",
+    "id": "5f612cb61cde9a1b",
     "type": "split",
     "children": [
       {
-        "id": "021a5401727433ff",
+        "id": "a36fd99f923a8642",
         "type": "tabs",
         "children": [
           {
-            "id": "32a8b4cc2b5af7aa",
+            "id": "40273234b83b4a3c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +50,7 @@
             }
           },
           {
-            "id": "3ddc0a5bc6fb4c45",
+            "id": "710e3c6f72cf5a45",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +67,7 @@
             }
           },
           {
-            "id": "38f8bac372d4b54a",
+            "id": "03baf7b0da7ffcaf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,29 +76,27 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "06a7e43b8d03ad45",
+    "id": "158266ec0f65ef84",
     "type": "split",
     "children": [
       {
-        "id": "93b9d2ae44cd0f51",
+        "id": "e9457e581e34d722",
         "type": "tabs",
         "children": [
           {
-            "id": "a3fe0f7b50bb998b",
+            "id": "6e559080b3728bae",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/RAG System Design.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +106,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RAG System Design"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "3da4e1f1cb4d3f47",
+            "id": "dc2a5e4294235035",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/RAG System Design.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RAG System Design"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "bae2bf99c7256f12",
+            "id": "4a9cba70a0b43068",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +139,7 @@
             }
           },
           {
-            "id": "b9e41552296b5149",
+            "id": "cf3bac4eccdc2220",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,94 +153,22 @@
             }
           },
           {
-            "id": "dcad0b317e53e084",
+            "id": "dca7d48cb49e5670",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/RAG System Design.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RAG System Design"
+              "title": "Outline of _Focus"
             }
           },
           {
-            "id": "8db44792e538233b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "30ea0ea6a0139050",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f61dd4e41f41fb19",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "8fea91251837659c",
-=======
-            "id": "04193ee52ad29e67",
->>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "455cb24a4ad3d105",
-=======
-            "id": "3d1d2f61d98af4b1",
->>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "78ced891b992b1a3",
-=======
-            "id": "b65fa80ff4fa4a18",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e01e96721d392f82",
->>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
+            "id": "2753b7d86a6cf9af",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -277,12 +177,8 @@
               "title": "Saved Queries"
             }
           }
-<<<<<<< HEAD
-        ]
-=======
         ],
-        "currentTab": 11
->>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -303,69 +199,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "48f7abce486b3c9e",
-  "lastOpenFiles": [
-    "Startup AI.md",
-    "image/Pasted image 20260430212607.png",
-    "image/Pasted image 20260430211840.png",
-    "image/Pasted image 20260430211315.png",
-    "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20260430210559.png",
-    "image/Pasted image 20260430205010.png",
-    "image/Pasted image 20260430204502.png",
-    "image/Pasted image 20260430203854.png",
-    "image/Pasted image 20260430202703.png",
-    "image/Pasted image 20260430201922.png",
-    "Study Efficiently - High-Performance Learning.md",
-    "image/Pasted image 20260429211456.png",
-    "Studying Better.md",
-    "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
-    "AWS Cloud Practitioner.md",
-    "Excalidraw/RAG System Design.md",
-    "Understand Company desirers/Understand Company needs and Perspective.md",
-    "Understand Company desirers",
-    "AI Engineer Book Overview.md",
-    "AI Engineer.md",
-=======
-  "active": "c918d6911fafa8d9",
-  "lastOpenFiles": [
->>>>>>> c40199d14379ed10d3a5fb0494daadc9ea7bcf27
-    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
-    "AI Engineer.md",
-    "Best Practices in Retrieval-Augmented Generation.md",
-    "image/Pasted image 20260502151317.png",
-    "image/Pasted image 20260502145938.png",
-    "image/Pasted image 20260502145918.png",
-    "image/Pasted image 20260502144923.png",
-    "Excalidraw/RAG System Design.md",
-    "AI Engineer by Chip Huyen.md",
-    "2 ACTIONS/_Focus.md",
-    "image/Pasted image 20260501194704.png",
-    "image/Pasted image 20260501191836.png",
-    "image/Pasted image 20260501191507.png",
-    "image/Pasted image 20260501175323.png",
-    "image/Pasted image 20260501174633.png",
-    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
-    "image/Pasted image 20260501160202.png",
-    "Handle Missing Data.md",
-    "1 PROJECTS/CMC 2025/BigData HW/BDA - Lab 3.md",
-    "Calculus_Derivative.md",
-    "CNN from Scratch.md",
-    "Data.md",
-    "4 ARCHIVES/ID Card Detection/How YOLO Object Detection Works.md",
-    "Marginal Probability (why it call Marginal).md",
-    "Sentence Transformer Evolution.md",
-    "LLM Temperature.md",
-    "BERT.md",
-    "KL Divergence.md",
-    "AIO2025 - VAE.md",
-    "Autoencoder and Variational Autoencoder.md",
-    "Continual Learning Code.md",
-    "Application of AI in Medical Imaging Overview and Image Registration - A Survey.md",
-    "AIO2025 - LLM Alignment.md",
-    "Affine Transformation.md",
-    "AIO2025 - GAN.md",
-    "Understand Company desirers"
-  ]
+  "active": "2753b7d86a6cf9af",
+  "lastOpenFiles": []
 }
