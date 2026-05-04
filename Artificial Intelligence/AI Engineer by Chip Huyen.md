@@ -275,15 +275,15 @@ Self-critic might sound cheating, but it a great way to check your sanity. Becau
 -> use *when Quality is subjective* like rate which Song is better by giving it a score and to *Identify minor differences* between models But *more susceptible to bias.*
 
 
-## 4. Evaluate AI Systems
-### Evaluation Criteria - Test Driven Development (TDD)
+# 4. Evaluate AI Systems
+## Evaluation Criteria - Test Driven Development (TDD)
 + ? Which is worse - an application that has never been deployed or an application that is deployed but no one knows whether it’s working ? 
 	Before investing time, money, and resources into building an application, it’s important to understand how this application will be evaluated. Huyen call this approach evaluation-driven development.
 	or
 	*TDD* - writing tests before writing code. Same in AI Engineer, it mean *defining evaluation criteria before building.* 
 
 
-#### EVALUATION-DRIVEN DEVELOPMENT
+### EVALUATION-DRIVEN DEVELOPMENT
 In general, you can think of criteria in the following buckets: 
 	+ domain-specific capability
 	+ generation capability, 
@@ -291,7 +291,7 @@ In general, you can think of criteria in the following buckets:
 	+ cost and latency.
 + @ Imagine you ask a model to summarize a legal contract. At a high level, *domain-specific capability metrics* tell you how good the model is at understanding legal contracts. *Generation capability metrics* measure how coherent or faithful the summary is. *Instruction-following capability* determines whether the summary is in the requested format, such as meeting your length constraints. *Cost and latency metrics* tell you how much this summary will cost you and how long you will have to wait for it. ![[Pasted image 20260501174633.png | 666]]
 
-#### Domain-Specific Capability (use online benchmark)
+### Domain-Specific Capability (use online benchmark)
 + @ how well model understands and reasons about that specific domain e.g. medical, law, finance, coding, teaching, etc.. Usually **achieved through Specialized Training (continued pretraining or fine-tuning on domain data)**  
 	**Example**: A model with strong domain-specific capability in medicine can correctly interpret medical literature, understand clinical reasoning, and handle domain terminology, whereas a general model might struggle or hallucinate.
 	
@@ -305,7 +305,7 @@ Text MCQ (one and multiple correct answer) - just use *Accuracy* for number of c
 	If you use Scoring System (1-10) -> Correct Answer plus X score, harder question get more score. 
 *Classification* like Tweet Emotion Classification - has output like NEGATIVE, POSITIVE, and NEUTRAL -> use *F1 scores, precision and recall.* 
 
-#### Generation Capability
+### Generation Capability
 + @ **Quality of the Generated content (more AI or more Human)**. Model's ability to produce high-quality, coherent, and useful outputs.
 
 **Example**: Two models might both follow an instruction to "write a marketing email," but one generates generic, repetitive text while the other produces persuasive, well-structured, and on-brand copy.
@@ -321,7 +321,7 @@ Metrics used to evaluate the **quality of generated texts** back then included *
 
 **Summarization task** might use *relevance*: does the summary focus on the most important aspects of the source document ?
 
-#### Factual Consistency
+### Factual Consistency
 Hallucinations are desirable for creative tasks, not for tasks that depend on factuality.
 
 A metric that many application developers want to measure is *factual consistency (Tính xác thực).* Another metric is *Safety:* *can the generated outputs cause harm to users and society ?* Safety is an umbrella term for all types of toxicity and biases.
@@ -360,7 +360,7 @@ Textual Entailment check the direction (*agree/disagree/neutral*) between 2 stat
 	*Neutral $H$:* “Mary likes chickens”.
 
 
-#### Instruction-Following Capability ()
+### Instruction-Following Capability 
 + @ Model's Capability to *follow Exactly what you Demand.* eg. Gemini-3.5-Instruct.
 	Measures how well the model **understands and executes complex or multi-part instructions.**
 	+ Includes *handling constraints* (e.g., "only use bullet points," "keep it under 200 words," "respond in JSON").
@@ -375,19 +375,163 @@ Instruction-Following is often a result of *instruction tuning* (RLHF, DPO, etc.
 + Model precisely follows the requested structure, tone, length, and constraints even in complex prompts.
 + Able to follow your JSON format consistently.
 
-#### Cost and Latency -> Real World Efficiency
+### Cost and Latency -> Real World Efficiency
 ![[Pasted image 20260501175323.png | 666]]
 Consideration: quantization to reduce latency, tradeoff between capable models with higher cost and latency, Input and Output optimization because output cost > input cost. 
 
-#### Usecase - different type of MCQ
+### Usecase - different type of MCQ
 Math MCQ - easy -> use Domain-Specific LLM for evaluate.
 Text MCQ (one and multiple correct answer) - just use Accuracy for number of correct.
 	If you use Scoring System (1-10) -> Correct Answer plus X score, harder question get more score. 
 Classification like Tweet Emotion Classification - has output like NEGATIVE, POSITIVE, and NEUTRAL -> use F1 scores, precision and recall. 
 
-### Designing your Evaluation Pipeline (Critital Important)
+## Designing your Evaluation Pipeline (Critital Important)
+TruthfulQA only **moderately correlated** to other benchmarks -> *Improving model's resoning and math capability doesn't always improve it truthfulness.* 
+
+**Benchmark Explain** (ask Which benchmark help me better Understand my problem)
+*GSM8K (Math Reasoning)* - Grade school word problems requireing **multi-step reasoning.**  
+*MMLU (General Knowledge)* - Multitask accuracy across 57 subjects (science, humanities, etc..)
+*HumanEval (Code generation)* - write code from  prompt
+*MTEB* - Text Embeddings 
+*TruthfulQA (Factuality)* - Tendency of a model to repreduce common misconceptions.  
+*HellaSwag* - ability to predict the completion of a sentence or a scene in a story or video -> Test *commonsense* and understanding of *everydays activities* through video. 
+
+Huggingface Open LLM Leaderboard with 8 new benchmark (2024) to *evaluate reasoning and general knowledge* across wide variety of fields.
+![[Pasted image 20260504144410.png | 444]]
++ @ **Important aspect of benchmark selection:** you DON'T WANT highly Correlation Benchmark.
++ ? Old benchmark is slowely get Saturated, but even outdated benchmark still can be usefil as example to evaluate and interpret benchmark. 
+
+**Data contamination with public benchmarks** (Benchmarks shared the *same question set*) - Include:
++ Data Leakage (training on testset) or simply cheating.
+
+**Detect Data Contamination** Strategies (detect Anomaly)
+1. **N-gram overlapping** - check for *token sequence duplicated ie. Token sequence in training also in testing.*  
+	+ ? more *accurate by more time consuming* bc u have to comapre each benchmark example with entire training data. 
+2. **Perplexity** - if Score *UNUSUALLY LOW* => model can easily predict the text, maybe the model has seen this data during training.  
+	+ ? Less Accurate but **less resource-intensive.**
+
+### Step 1. Evaluate All Components in a System
+Even if we have control over training data, we might not want to remove all benchmark data from the training data, because high-quality benchmark data can help improve the overall model performance. Besides, there will always be benchmarks created after models are trained, so there will always be contaminated evaluation samples.
+
+**This part we'll focus on evaluating open-ended tasks Evaluation**. Evaluating Close-ended task is easier and its pipeline can be refer from this process.
+
+Real world AI app are complex. Each application might consist of multiple components, and a task might be completed after many turns. 
+**-> Evaluation** can happen at *different levels: **per task, per turn and per intermediate output.** 
+1. Extract all the text from the PDF.
+2. Extract the current employer from the extracted text.
+
+The problem start from here, if the model fails to extract the right current employer, it can be bc of either step
++ if u don't *evalauate each component independentlky* -> don't know exactly where ur system fails. 
+
+**Evaluation at Per Step (run 1 time like forward pass)** - evaluate a Step within the System.
+*1st step:* PDF-to-text step can be evaluated *using similarity* between the extracted text and the ground truth text.
+	This is the simplist form of evaluation, start with the Text.
+*2nd step:* Evaluated using *Accuracy*, given the correctly extracted text, how *often does the application correctly extract the current employer.* 
+	Application evaluation per step, you evaluating the **Actual Affect of the text** in step 1 **to the system.** -> how the output response to the changed per step. 
+
+**Evaluation at Per Turn (1 Turn = Many Step)** - evaluate multiple-step within a System.
+Useful in chatbot-like app, allow back-n-forth between the user and the application (conversation evaluation) to finish a task. 
+e.g. Python code fail -> the Coding AI ask you about your system spec , library and python version -> you provided infor -> Model help u debug.
+
+**Turn-based Evaluation** - evaluate the quality of each output to see whether a system completes a task. 
+e.g. Did the application help you fix the bug? How many turns did it take to complete the task ? 
+-> Check the *Overall Accuracy of your system.*
+
+### Step 2: Create an Evaluation Guideline
++ ? The hardest part is determine what Good mean.
++ @  Ambiguous guideline is the most important step of the evaluation pipeline. An ambiguous guiline will leads to ambiguous scores. 
+-> **Don't be Ambiguous**. Be Specific. **Understand what a bad Response look like.** 
+
+**Define evaluation criteria:** what MADE A GOOD RESPONSE ? 
+	**Example Bad Response:** AI Job Assessment application response "You are terrible fit" but What and How Terrible ? 
+	**Example Good Response:** Explain the gap between this Job's requirements and the candidate's background -> show how the candidate could improve to close the gap between "good" & "bad". 
+
+A **good response defined by 3 criteria:**
+1. Relevance - the response is *relevant to the user's query.* 
+2. Factual consistency - the response is *factually consistent with the context.*
+3. Safety - the response *isn't toxic.* Is safe,
+-> a good response *also need a Ideal User Query.* So you might need to **play around** with test queries, generate multiple response for each queries to determine if they good or bad. 
+
+**How do you score a response ?**  -> create a rubric with examples. 
+Ask question like:
++ What does a response with a score of 1 look like and why does it deserve a 1? 
++ Validate your rubric with humans: yourself, coworkers, friends, etc.
++ ?  *If humans find it hard to follow* the rubric, you need to refine it to make *it unambiguous.*
+-> might require a lot of back-n-forth, a **reliable evaluation pipeline demand a clear guideline.** 
+![[Pasted image 20260504161341.png | 666]]
+-> If your test set **score High on multiple Evaliation Benchmark -> It Reliable.**
+
+#### Tie eval metrics to business metrics (Product)
+An **app must server a busienss goal.** The app's metric must be considered in the context of the business problem it's built to solve. 
+![[Pasted image 20260504163743.png | 455]]
+In the context of Customer Service Chatbot, factual consistency allow the chatbot to give product recommendation or general customer feedback so Ideally you want to **map evaluation metrics to business metrics like this:**  
++ *Factual consistency of 80%*: we can *automate 30%* of customer support requests. 
++ Factual consistency of *90%:* we can *automate 50%.*
++ Factual consistency of *98%:* we can *automate 90%*
+-> Understand the impact of evaluation metrics on busienss metrics is helpful for planning. If you **know how much you gain** from that Metric, you can have **more confidence to invest** resources into improving that metric.  
+Note: also define the threshold must the application achieve for it to be useful ? e.g. > 50% is usable.  
+
+Its crucial to **understand Business metric before developing AI evaluation metrics.** So you know which & how much Business Metric affected by the AI Metrics. Because *business metric relate to engagement metric,* choosing the right metric help to *balance between profits and social responsibility.*
+	e.g. Good Metrics -> Good AI -> Increase Social Engagement Metrics but making the app *adictive or extreme content like Character AI*  -> Detrimental to the user. 
 
 
++ @ To summarize, base satisfied a Eval Criteria we need to define a good Evaluation Metrics, Good *Evaluation Metrics let us know HOW GOOD is ours RESPONSE ?* that inherently *improve BUSINESS METRIC* it tied to. That in the end *Increase Profit, more confidence in Investing* to increase that metric *while not harming user.*   
+
+### Step 3: Design your Evaluation pipeline (Data)
++ ? This is where you Match/Insert your criteria defined above. 
++ $ Let's define what methods and data we could use to evaluate the metrics above to improve the Application. ![[Pasted image 20260504163743.png | 455]]
+
+#### Select your Evaluation method
+You *could Mix and Match evaluation method* for the same criteria. 
+e.g. match a expensive AI judge to give high-quality signal on 1% of your data with the cheap classifier that only gives low-quality signals on 100% of your data. 
+
+Use *logprobs to measure model's confidence about a generated token* if available. 
+
+Make sure your *evaluation method also used in production* so you could iterately improve your product. Think about: 
++ what kinds of feedback you want from users ?
++ how user feedback correlates to other evaluation metrics ? 
++ how to use user feedback to improve your application ? (Chapter 10 talk more about How to collect user feedback)
+
+#### Annotate evaluation data
+*Curate a set of annotated examples* to evaluate your application. You *need*
+*annotated data to evaluate each of your system’s components and each
+criterion*, for both turn-based and task-based evaluation.
++ ? The SUCCESS of this phrase *depends on the CLARITY of the Scoring Rubric.* Because the data you collecting at this phrase **could be reuse to create Instruction data for Finetunning later.**   
+
+Slide your data to gain a detail/explicit understanding of your system. Slicing means seperating ur data into subsets and looking at your system's perforamnce on each subset seperately. A fine-grained understanding of ur system could give many benefits:
+
+*Debug* - check the part of data (subset) that causing your app to underperform, could it be some attributes of this subset such as its length, topic and format. 
+
+*Find areas for app improvement:* Check if your app is bad on long inputs or overwhelming/detail context in the subset. Maybe you can try a different processing technique or use new model with better Instruction-Following capability or better embedding/chunking. 
+	-> Find-Grained Understanding -> Fine-Grained Debugging & Improvement.
+
+*Avoid* [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson's_paradox) ![[Pasted image 20260504174446.png | 333]]*Literal Mean:* when choosing features where both features provide Correct/True feedback independetly, but give out Misinformation/False when combined - [[simpson's paradox explain]]
+*AI Context Mean:* model A outperforms model B on each subgroup but underperforms model B overall.  ![[Pasted image 20260504180955.png | 444]]
+
+Evaluation results can **also be used to Compare system.**
+-> say a new Prompt achieves a 10% higher score than the old prompt -> 
++ ? HOW BIG does the evaluation set have to be for us to be certain that the new prompt is indeed better ? 
+	Well, u could use theory like **Statistical Significance (compute a lot)** test to compute sample size needed for a certaint level of confidence (e.g. 95% confidence) if you know the score distribution.  ![[Pasted image 20260504162328.png | 333]]
+
+#### Evaluate your evaluation pipeline (evaluate the evaluation)
+In a company, real business outcomes is the most important. So Ask:
+**Is your evaluation pipeline getting the right signals ?**
+	Do better Evaluation Metrics mean better business outcome ? 
+	Do better responses actually get higher score ?
+
+**How reliable/consistent is your evaluation pipeline (pl)**
++ **Take Notice of the Variance** in your Evaliation result -> Aim for increase reproducibility and reduce variance in eval pl. 
+	e.g. set AI Judget temperature to 0 for consistensy. 
++ **Is your Eval Metrics correleated ?** make sure *each eval metrics give a different Insight* -> save compute and time. 
++ **Be aware of Cost and Latency for each New Evaluation,** some eval integrated within the system -> so be aware of **Accuracy and Latency Tradeoff when Eval** 
+
+#### Iterate (User-Behaviour base Improvement)
+*User behaviour change* -> Evaluation Criteria will also evolve -> Need to re-Iterate on your eval pl and *update eval criteria.* But **make sure to keep a certaint level of consistency** from ur evaluation pipeline -> If eval process changes constantly you obviously can't use eval result to guide your app's development.
+-> Update your eval criteria as your User bahaviour change while keep a certain level of consistency in your eval pipeline so it won't be Unstable and Useless. 
+
+**LOG/SAVE/TRACK all variables during your Experiments,** including but not limited to the evaluation data, the rubric and the prompt and sampling configuration (ie. LLM output configuration) used for the AI Judges. 
+
++ @ In Summary, this is one of the hardest but most important part of AI Engineering (application dev). This part explain how to evaluate LLM Domain-Specific capabilities and Generation capabilities, so as LLM factual consistency and safety. How to eval foundation LLM fluency, coherence and faithfulness. Develop a evaluation pipeline starting from define the right Criteria by asking "What Good Mean ?" and how to score them. Base on the Criteria, we learn that Eval Metric must be tied to Business Metric that solve real business problems and return reliable signals to improve the business itself (is my AI Eval Metrics improve my Business Eval Metrics ?) thus creating a business feedback & improvement cycle. Next, we learn how to evaluate each of the system components and criterion using Sliced Curated Data (cured data slided into subset) to have finer-graned understanding of our system to avoid bias, pitfalls and paradox as well as identify bugs and areas for app improvement. Then Evaluate the evaluation pipeline itself as User Behaviour changes by considering "eval metrics to business outcome", reliability, un-correlated metrics, cost and latency. 
 
 
 ## 5. Prompt Engineering
@@ -404,7 +548,7 @@ internal data retrieval system for LLM.
 ### A bit of Agent (because RAG is more beneficial for now)
 ### Memory (give my take on this)
 
-## Fine-Tunning  (read throughly)
+## 7. Fine-Tunning  (read throughly)
 ### When to finetune
 
 ### Memory bottle-neck
@@ -414,19 +558,21 @@ internal data retrieval system for LLM.
 MCQ generation **AI System**, I could use RAG for looking/search/retrieved the right verified information with source and Fine-tunning model to use those retrieved information as input for fine-tunned model
 + ? They solve two distinct problems. If you compare them, that means you have the wrong mental model. e.g. Fine-tuning for consistent MCQ genertion formatting and RAG for retrieval. 
 + ! Complex. Often used in **AI Agent System $\approx$ MCQ + Router + Fine-tunning model for specific task.** 
-
 + ? Valuable question to ask because some people say, "in a problem if already use RAG, don't use fine-tune and reverse".
 
-## Data Engineering (Read throughly)
+
+
+## 8. Data Engineering (Read throughly)
 ### Data Curation
 ### Data Augmentation and Synthesis
 ### Data Processing 
 
-## Inference Optimization 
+## 9. Inference Optimization 
 quick read bc this part i guess take 1 line in the quiz
 ### Understanding Inference Optimization
 ### Inference Optimization
 
-## AI Engineering Architecture and User Feedback
+## 10. AI Engineering Architecture and User Feedback
+> Answer the Question: call API or Host Model.
 ### AI Engineering Architecture
 ### User Feedback
