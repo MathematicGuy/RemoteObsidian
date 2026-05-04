@@ -4,7 +4,7 @@
   "baseFontSizeAction": true,
   "cssTheme": "Everforest Enchanted",
   "theme": "obsidian",
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "nativeMenus": true,
   "enabledCssSnippets": [
     "custom-bg"
