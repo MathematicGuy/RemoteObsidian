@@ -36,17 +36,28 @@ Goal - Design a MVP AI System
 ### 3-Part of RAG Interview Framework
 **What is RAG ?**  Retrieval Augment System from Internal Data sources 
 **RAG System Types of Questions**
-	`[problem]` + `[constrain]` + `[current resource]`. Đưa ra giải pháp, cho biết lý do và giải thích vì sao lại chọn thiết kế đó (so sánh với các thiết kế khác) ? 
+	`[problem]` + `[constrain]` + `[current resource]`.
+	Đưa ra giải pháp, cho biết lý do và giải thích vì sao lại chọn thiết kế đó ? 
+	Giải thích RAG Framework 
+	Giải thích RAG Modules (các Method trong mỗi RAG Modules)
+	Nêu ra các bước để cài đặt giải pháp 
+[Types of RAG Framework](https://github.com/ApexIQ/RAG-types-of-RAGs/tree/main)
+
 
 **RAG Workflow Guideline** - [VN AI Blog](https://aichatbot.com.vn/di-tim-cach-trien-khai-tot-nhat-cho-rag/#:~:text=C%C3%A1c%20k%E1%BB%B9%20thu%E1%BA%ADt%20RAG%20(Retrieval%2DAugmented%20Generation)%20%C4%91%C3%A3,%E1%BA%A3o%20gi%C3%A1c%20v%C3%A0%20n%C3%A2ng%20cao%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng) - [Arxiv Source](https://arxiv.org/html/2407.01219v1)
 ![[Pasted image 20260428175518.png | 777]]
 	[Example RAG project by Ba Ria Vung Tau University](http://thuvienso.bvu.edu.vn/bitstream/TVDHBRVT/21097/1/Le-Quoc-Khanh-20LT.pdf)
 
+#### 0st. Data Assessment (data quality inspection)
+**Data Quality:** Checking for completeness, accuracy, and consistency.
+**Data Preprocessing Needs:** Identifying steps for *cleaning, transforming, and normalizing data* to be suitable for AI models. e.g. into a JSON/HTML format.
+**Data Storage Solutions:** Determining the best storage solutions, such as cloud databases or data lakes, to manage large datasets efficiently. I dunnu. 
 
 #### 1st. Knowledge Layers 
 For storing Internal docs and privates sources
 Vector database for semantic search
 Metadata-based filtering
+
 #### 2nd. Retrieval Layer
 Query embedding
 Retrieval method
@@ -69,4 +80,6 @@ Human approval for high-risk tasks
 #### Architecture Flow Explaination
 User request
 LLM plans retrieval steps
+
+---
 

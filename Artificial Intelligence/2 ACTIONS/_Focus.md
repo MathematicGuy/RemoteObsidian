@@ -3,26 +3,12 @@
 
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 **HEAVENLY PRINCIPLE _the divine guidelines for morality and virtue**z
-- [ ] **About Planning & Critical-less/Repetitive work: Think in the Architecture/Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
-- [ ] Be Decisive - If I want to play, play. If I want to study then study. Don't think too much, just execute. And set App Block Timer
+- [ ] **Always think in the Architecture & Engineer POV** - your mission is not to do repetitive work like Re-write text from the screen. But to Connect Ideas, Concepts and Information.
+- [ ] **Be Decisive - If I want to play, play.** If I want to study then study. Don't think too much, just execute. And set App Block Timer
 
 
 _System Design Learning Path
 - [ ] Hand On Live Practice - [NeXTWORK](https://learn.nextwork.org/projects/ai-prompt-engineering-research?track=low)
-- [ ] Today - Broad Understanding about *AI System Design and RAG* (*AI Engineering* by Chip Huyen) 
-	- [ ] Understand and Evaluate Constraint before picking the tools (avoid common pitfall) - Use Logic instead of chasing after HypE -> Know that which tools is good understand X condition. 
-	- [ ] Understand Evaluation Pipeline + Handon Project
-	- [ ] Vertical vs Horizontal Scaling (compare benefit & when)
-	- [ ] Model Adaptation - When to Prompt Engineering vs Fine-tunning 
-	- [ ] AI Engineering vs ML Engineering -> Understand that ur role is less about training model and Adapting pre-trained models and focusing on user experience.
-	
-- [ ] Tomorrow & After Tomorrow - *Explicit Understanding about RAG* by reading "Best Practices for building RAG" Paper  
-	- [ ] Understand the purpose of stages pipeline in RAG: Query Classification → Retrieval → Reranking → Repacking → Summarization → Generation
-	- [ ] Learn about Tradeoff to *pick the Right Tools in Each Stages:* it always about Performance vs Efifciency. 
-		- [ ] Optimize for Performance and/or Efficiency
-		- [ ] Compare approaches and Strategy (e.g. compare chunking strategies, choose the right VectorDB base on criteria)
-		- [ ] "Balance Efficiency" Recipe - **Query Classification**, **Hybrid Retrieval**, **TILDEv2** for reranking, and **Recomp** for summarization to balance speed and accuracy.
-	- [ ] Practice 1 `[problem] + [constraint] + [resource]` format scenario quiz. Note include which infor need to be retrieved from the PDF like Table, math fomular, text, section summerization.  
 
 
 _Project

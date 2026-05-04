@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158266ec0f65ef84",
@@ -199,6 +200,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2753b7d86a6cf9af",
-  "lastOpenFiles": []
+  "active": "acd45676b11d0bb8",
+  "lastOpenFiles": [
+    "simpson's paradox explain.md",
+    "image/Pasted image 20260504180955.png",
+    "image/Pasted image 20260504174446.png",
+    "image/Pasted image 20260504163743.png",
+    "image/Pasted image 20260504162328.png",
+    "image/Pasted image 20260504161341.png",
+    "image/Pasted image 20260504144410.png",
+    "Template.md"
+  ]
 }
