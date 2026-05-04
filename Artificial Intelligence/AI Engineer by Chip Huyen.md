@@ -413,6 +413,8 @@ Huggingface Open LLM Leaderboard with 8 new benchmark (2024) to *evaluate reason
 ### Step 1. Evaluate All Components in a System
 Even if we have control over training data, we might not want to remove all benchmark data from the training data, because high-quality benchmark data can help improve the overall model performance. Besides, there will always be benchmarks created after models are trained, so there will always be contaminated evaluation samples.
 
+**Evaluation Criteria vs Metrics:** Eval Criterias is the goals we want to achieve, we use Eval Metrics is the Scoring system we use to track how succesful we are in reaching those Criteria. 
+
 **This part we'll focus on evaluating open-ended tasks Evaluation**. Evaluating Close-ended task is easier and its pipeline can be refer from this process.
 
 Real world AI app are complex. Each application might consist of multiple components, and a task might be completed after many turns. 
