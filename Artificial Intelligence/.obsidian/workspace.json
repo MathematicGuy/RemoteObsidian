@@ -187,6 +187,16 @@
             "id": "ca703a7e5fcf5f75",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0e091d3d13fd01b9",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -194,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -217,6 +227,8 @@
   },
   "active": "261ae69f7bcb32a9",
   "lastOpenFiles": [
+    "image/Pasted image 20260505124450.png",
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260504180955.png",
     "simpson's paradox explain.md",
     "AI Engineer by Chip Huyen.md",
@@ -224,7 +236,6 @@
     "image/Pasted image 20260504163743.png",
     "image/Pasted image 20260504162328.png",
     "image/Pasted image 20260504161341.png",
-    "image/Pasted image 20260504144410.png",
-    "2 ACTIONS/_Focus.md"
+    "image/Pasted image 20260504144410.png"
   ]
 }

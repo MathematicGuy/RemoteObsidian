@@ -532,12 +532,29 @@ In a company, real business outcomes is the most important. So Ask:
 -> Update your eval criteria as your User bahaviour change while keep a certain level of consistency in your eval pipeline so it won't be Unstable and Useless. 
 
 **LOG/SAVE/TRACK all variables during your Experiments,** including but not limited to the evaluation data, the rubric and the prompt and sampling configuration (ie. LLM output configuration) used for the AI Judges. 
-
 + @ In Summary, this is one of the hardest but most important part of AI Engineering (application dev). This part explain how to evaluate LLM Domain-Specific capabilities and Generation capabilities, so as LLM factual consistency and safety. How to eval foundation LLM fluency, coherence and faithfulness. Develop a evaluation pipeline starting from define the right Criteria by asking "What Good Mean ?" and how to score them. Base on the Criteria, we learn that Eval Metric must be tied to Business Metric that solve real business problems and return reliable signals to improve the business itself (is my AI Eval Metrics improve my Business Eval Metrics ?) thus creating a business feedback & improvement cycle. Next, we learn how to evaluate each of the system components and criterion using Sliced Curated Data (cured data slided into subset) to have finer-graned understanding of our system to avoid bias, pitfalls and paradox as well as identify bugs and areas for app improvement. Then Evaluate the evaluation pipeline itself as User Behaviour changes by considering "eval metrics to business outcome", reliability, un-correlated metrics, cost and latency. 
+
++ ? Example of what a **Good MCQs Distractors** look like in AutoConverter Distractors.
+![[Pasted image 20260505124450.png]]
+Note: If an AI System like RAG MCQs generation don't have Benchmark, you would need first:
+Basic AI System (without Internet)
+1. Create a Basic RAG pipeline for QAs. 
+2. AI Judge to verify the QAs and create Distractor with explaination for each QAs.
+Self-Verifying RAG (leverage this to create a Q&A Benchmark)
+3. Give AI Judge google search API to extract from reliable source only -> verification and create reliable Benchmark. 
+	Identify Reliable Source (limited by the User and Dev) - like NotebookLM
+	Curate Data into LLM Readable format -> add Curated data into the Search Space. 
+4. Test AI System without the internet access to see how it perform
+5. Iterative Improvement
 
 
 ## 5. Prompt Engineering
-Give a short take on this as well. Take what I need only
+System Prompt - Task Description/Context
+User Prompt - the task u want them to to
+Diff model use Diff chat template.
+*Ask model to ADAPT a Persona to improve model capabilities in specific task*. e.g. grading highschool essay score as a highschool teacher.
+Preserve model output format 
+
 
 **Defensive Prompting:** Instruction Hierarchy + System Message
 ![[Pasted image 20260501160202.png | 555]]
@@ -550,7 +567,7 @@ internal data retrieval system for LLM.
 ### A bit of Agent (because RAG is more beneficial for now)
 ### Memory (give my take on this)
 
-## 7. Fine-Tunning  (read throughly)
+## 7. Fine-Tunning  (Read throughly)
 ### When to finetune
 
 ### Memory bottle-neck
@@ -569,12 +586,12 @@ MCQ generation **AI System**, I could use RAG for looking/search/retrieved the r
 ### Data Augmentation and Synthesis
 ### Data Processing 
 
-## 9. Inference Optimization 
+## 9. Inference Optimization (Read throughly)
 quick read bc this part i guess take 1 line in the quiz
 ### Understanding Inference Optimization
 ### Inference Optimization
 
-## 10. AI Engineering Architecture and User Feedback
+## 10. AI Engineering Architecture and User Feedback 
 > Answer the Question: call API or Host Model.
 ### AI Engineering Architecture
 ### User Feedback
