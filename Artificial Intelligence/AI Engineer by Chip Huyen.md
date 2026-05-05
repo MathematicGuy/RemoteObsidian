@@ -547,18 +547,69 @@ Self-Verifying RAG (leverage this to create a Q&A Benchmark)
 4. Test AI System without the internet access to see how it perform
 5. Iterative Improvement
 
-
-## 5. Prompt Engineering
+## 5. Prompt Engineering (Quickly Note - this is too boring)
++ @ The goal of Prompt Engineering is to **Reduce the Problem Scope** so the Model could understand your Problem better. Each prompt scope-down the problem by a bit. 
+[External Preference - Prompt Engineering Best Practices for Structured AI Outputs](https://levelup.gitconnected.com/prompt-engineering-best-practices-for-structured-ai-outputs-ee44b7a9c293)
 System Prompt - Task Description/Context
 User Prompt - the task u want them to to
 Diff model use Diff chat template.
-*Ask model to ADAPT a Persona to improve model capabilities in specific task*. e.g. grading highschool essay score as a highschool teacher.
-Preserve model output format 
+#### Instruction Clarity and Output Constraints 
+-> Write **clear and explicit** instruction
+*Ask model to ADAPT a Persona to improve model capabilities in specific task* like grading highschool essay score as a highschool teacher.
+*Prompt Position:* by Default *Query at the End > Start*: query at the end of the prompt has more power than query at the front.
+*Task Decomposition:* Follow clear and explocit rule. Break complex task into simpler subtasks so model know exactly what it need to do. Don't be ambiguous.
+**Specify Output Format:** `.json` or `html` ask it to be concise. Use tools to enforece model output format like [instructor](https://github.com/567-labs/instructor) - [Medium PE best practices](https://levelup.gitconnected.com/prompt-engineering-best-practices-for-structured-ai-outputs-ee44b7a9c293) this tool allow:
+	+ Formats the prompt to include JSON schema hints
+	+ Parses and validates the model output
+	+ Retries auto if the output if malformed or incomplete.
+
+For Example:
++ Define a clear output contract in JSON using pandatic like title, confidence_score and using instructor lib to make sure your LLM follow the extract structure. 
++ Use delimiters like `(```)`  or XML-style tags to clearly *seperate instruction from user input data.*
+
+#### Context and Anchoring 
+-> Constrain model Degrees of Freedom -> Increase Consistency.  
+**Provide example** with few-shot learning to reduce ambiguity and effective scope-down/anchoring perspective and tone for your model -> better output, less hallucination..
+**Provide Sufficient Context (Food for LLM, trash in trash out)** with necessary external information to help the model accuracy and restricts it behaviour to prevent hallucination. 
+
+#### Reasoning and Task Decomposition
+-> Improve model reasoning capability ->  *(increase) Accuracy & (increase) Latency Tradeoff*
+**Prompt/Task Decomposition:** Apart from improve clarity *breaking down task* also help to chained subtasks to *improve accuracy in multi-step reasoning* workflows.
+**Give model time to think,** use *CoT* if the task require problem solving skill. 
+**Self-critique** (asking the model to check it own outputs) ensure reliability, accuracy and reduce hallucination.
+CoT Variations: ![[Pasted image 20260505164049.png | 555]]
+#### Prompt Lifecycle and Operation (PromptOps)
+-> Testing and Improvement
+**Iterate your Prompts:** test your prompt until u satisfied with the result
+	*Organize and Version prompts* with versioning, tags or prompt catelogs to improve readability, testing and collaboration.
+	*Evaluate Prompt Engineering Tools* (e.g. LangSmith) compare Prompt Evaluation tools. 
++ ? Tips: Pair Prompt Engineering with code-based validation like `json.loads` to catch errors as a post-processing step.
+**Parallelization** if possible, generate multiple answers for multiple scenerio to save time. For example, "generate 5 different MCQs each with 3 levels of difficulty" 
+
+#### Security and Guardfails
+-> Protect your Output by protect your prompt.
+**Defensive Prompting to prevent Prompt Injection**  - Using Instruction Hierarchy to *prioritize System Prompt than User Prompt*
+![[Pasted image 20260505170735.png | 666]]
+
+-> prevent prompt extraction, jailbreaking, and indirect prompt injections.
+![[Pasted image 20260501160202.png | 666]]
+![[Pasted image 20260501160134.png | 666]]
+
+#### Case study: systematic approach to AI-powered attacks "Prompt Automatic Iterative Refinement (PAIR)" uses an AI model to act as an attacker.
+1. Generate a prompt. 
+2. Send the prompt to the target AI. 
+3. Based on the response from the target, revise the prompt until the objective is achieved.
+![[Pasted image 20260505170136.png | 666]]
+
+### Risks in Information Extraction
+**Data theft -** your competitor steal your data 
+**Privacy violation -** Extracting private and sensitive information in both the training data and the context used for the model.
++ ? Example "This suggests the existence of prompt strategies that allow training data extraction without knowing anything about the training data."  ![[Pasted image 20260505170452.png | 555]]
+This strategy work the same for image generation model like Stable Diffusion ![[Pasted image 20260505170611.png | 555]]
++ $ When finetuning a model for safety, it’s *important to train the model not only to recognize malicious prompts but also to generate safe responses for borderline requests.*
 
 
-**Defensive Prompting:** Instruction Hierarchy + System Message
-![[Pasted image 20260501160202.png | 555]]
-![[Pasted image 20260501160134.png | 444]]
++ @ To Summary, by learning Prompt engineering best practice you could help model to narrow down the requirements to your problem where each prompt help align your criteria to the modal a little bit. These practice include write "Clear and Explicit instruction prompt" to give model a clear context of your problem, then you use give model Example using Few-Shot Learning and Custom Context to reduce the problem scope even more. After context is sufficient, you want the model to perform well using their resoning capability, while Task-Composition improve Clarity and context for sub-task in multi-step reasoning, combined it with CoT improve reasoning and Self-Critic improve reliability, they all increase Latency, making you to consider the Cost and Latency Tradeoff bc if cost Compute Reduce for that same accuracy, latency will rise. To balance that trade off, you understand that Prompt Lifecycle is crucial to improve prompt and quality check. Finally, a good system need a good security, you realize Prompt Engineering is all for nothing if you get malicious content as input bc Context is King after all, these contents include Prompt Extraction which extract the LLM's system prompt to explot your app, Jailbreaking and prompt injection to make you model to do bad things and Information extraction to get the model to reveal its training data or sensitive information. To encounter these risks you learn about Defensive Prompting from Instruction Hierarchy method to train the LLM to prioritize privileged instruction like system instruction than user instruction. 
 
 ## 6. RAG and AI Agent (Focus on this too)
 ### RAG 
@@ -566,6 +617,7 @@ internal data retrieval system for LLM.
 
 ### A bit of Agent (because RAG is more beneficial for now)
 ### Memory (give my take on this)
+Caching - Redis
 
 ## 7. Fine-Tunning  (Read throughly)
 ### When to finetune
