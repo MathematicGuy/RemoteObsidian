@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "3eb97433f29b7db5",
+    "id": "874eeb04e63e9258",
     "type": "split",
     "children": [
       {
-        "id": "cba8863eb0f89d49",
+        "id": "57315c3d1828567e",
         "type": "tabs",
         "children": [
           {
-            "id": "5e78248804b2b085",
+            "id": "acd45676b11d0bb8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,37 +22,22 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "261ae69f7bcb32a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Engineer by Chip Huyen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Engineer by Chip Huyen"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "54f025c938d124af",
+    "id": "5f612cb61cde9a1b",
     "type": "split",
     "children": [
       {
-        "id": "54c22fdc31135758",
+        "id": "a36fd99f923a8642",
         "type": "tabs",
         "children": [
           {
-            "id": "3346687edeb81a8b",
+            "id": "40273234b83b4a3c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +50,7 @@
             }
           },
           {
-            "id": "23601859bc71643e",
+            "id": "710e3c6f72cf5a45",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +67,7 @@
             }
           },
           {
-            "id": "6d8a1526816de6c8",
+            "id": "03baf7b0da7ffcaf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,20 +84,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "85009a1db0805d8a",
+    "id": "158266ec0f65ef84",
     "type": "split",
     "children": [
       {
-        "id": "7ed8a94461a726de",
+        "id": "e9457e581e34d722",
         "type": "tabs",
         "children": [
           {
-            "id": "4820760ebbadf168",
+            "id": "6e559080b3728bae",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Engineer by Chip Huyen"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "b270eb5d90aab38f",
+            "id": "dc2a5e4294235035",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Engineer by Chip Huyen"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "78b1178442f5fed0",
+            "id": "4a9cba70a0b43068",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,7 +140,7 @@
             }
           },
           {
-            "id": "870d3a40466b3438",
+            "id": "cf3bac4eccdc2220",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,22 +154,22 @@
             }
           },
           {
-            "id": "8f78497ef7e8129e",
+            "id": "dca7d48cb49e5670",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Engineer by Chip Huyen"
+              "title": "Outline of _Focus"
             }
           },
           {
-            "id": "ca703a7e5fcf5f75",
+            "id": "2753b7d86a6cf9af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -225,17 +210,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "261ae69f7bcb32a9",
+  "active": "acd45676b11d0bb8",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "image/Pasted image 20260505124450.png",
     "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260504180955.png",
+=======
+>>>>>>> 6e397ecb39f7ef90bc851e318520fb7f4379e0ab
     "simpson's paradox explain.md",
-    "AI Engineer by Chip Huyen.md",
+    "image/Pasted image 20260504180955.png",
     "image/Pasted image 20260504174446.png",
     "image/Pasted image 20260504163743.png",
     "image/Pasted image 20260504162328.png",
     "image/Pasted image 20260504161341.png",
+<<<<<<< HEAD
     "image/Pasted image 20260504144410.png"
+=======
+    "image/Pasted image 20260504144410.png",
+    "Template.md"
+>>>>>>> 6e397ecb39f7ef90bc851e318520fb7f4379e0ab
   ]
 }
