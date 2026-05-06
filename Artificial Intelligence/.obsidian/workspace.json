@@ -197,6 +197,16 @@
             "id": "0e091d3d13fd01b9",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "16f11a1d2dcc7e04",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -204,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -227,20 +237,19 @@
   },
   "active": "261ae69f7bcb32a9",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260505170735.png",
     "image/Pasted image 20260505170611.png",
     "image/Pasted image 20260505170452.png",
     "image/Pasted image 20260505170136.png",
     "image/Pasted image 20260505164049.png",
     "Excalidraw/RAG System Design.md",
-    "2 ACTIONS/_Focus.md",
     "AI Engineer by Chip Huyen.md",
     "image/Pasted image 20260505124450.png",
     "image/Pasted image 20260504180955.png",
     "simpson's paradox explain.md",
     "image/Pasted image 20260504174446.png",
     "image/Pasted image 20260504163743.png",
-    "image/Pasted image 20260504162328.png",
-    "image/Pasted image 20260504161341.png"
+    "image/Pasted image 20260504162328.png"
   ]
 }
