@@ -578,6 +578,23 @@ For Example:
 **Give model time to think,** use *CoT* if the task require problem solving skill. 
 **Self-critique** (asking the model to check it own outputs) ensure reliability, accuracy and reduce hallucination.
 CoT Variations: ![[Pasted image 20260505164049.png | 555]]
+
+#### Prompt's Optimization Tools
+Deepmind's *Promptbreeder* select "breed" of prompts using a mutation process guided by a set of mutator prompts to generate mutations for most promising mutation to sastisfied your criteria. Example how it work at high level: ![[Pasted image 20260506145251.png | 555]]
+![[Pasted image 20260506145301.png | 555]]
+
+Many *tools aim to assist parts of prompt engineering.* For example: 
++ Guidance
++ Outlines
++ Instructor guide models toward structured outputs.
+Some tools perturb your prompts, such as replacing a word with its
+synonym or rewriting a prompt, to see which prompt variation works best
+
+If used correclty, PE tools can *greatly improve your system's* performance **but beware of their downside** like cost and latency to avoid unnessary headache. If 1 API call per prompt variation, 30 evaluation examples and 10 prompt variantions mean 300 API calls.
++ ? if the model is smart, large context windows and could do multiple-task, you could compress multiple generation into 1 otherwise giving tool free rein to devising (auto-plan by themself) prompt chains could result in excessivelky long and expensive chains. 
++ ! Every PE tool can change their format without warning like switch to diff prompt templates or rewrite their default prompts -> *more tools more complexity and maintainance.*  
++ $ Following the **Keep-it-simple** principle, you might want to start by writing your own prompts without any tool to understand of the underlying model and your requirements first. 
+
 #### Prompt Lifecycle and Operation (PromptOps)
 -> Testing and Improvement
 **Iterate your Prompts:** test your prompt until u satisfied with the result
@@ -615,10 +632,76 @@ This strategy work the same for image generation model like Stable Diffusion ![[
 ### RAG 
 internal data retrieval system for LLM. 
 
-### A bit of Agent (because RAG is more beneficial for now)
-### Memory (give my take on this)
-Caching - Redis
+**Chunk Vagueness**
++ ! Customer/User query often vague and lack key detail
++ ? "The revenue grew by 3%") lack the necessary information (e.g., "for Acme Corp in Q2 2023") to be retrieved accurately.
+-> The same thing happened with Chunk, some often them might be cutoff from their context in order to preverse chunk consistency e.g. `max_chunk_length`
 
+**Proposed Solution:**
++ *For Customer Input Query:* Re-Writing Query base on the article or user question context -> evaluate query vagueness -> if vaguesness below a threshold -> ask user for more detail. 
++ *For Chunking in RAG:* Anthropic used AI models to generate a short context 50-100 tokens that explains the chunk and its relationship to the original documents ([Anthropic Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval)) to solve the "lost in the middle" or lost context problem. ![[Pasted image 20260506135706.png | 444]]
+-> Ensure semantic searchs and keyword matching (BM25) maintain the original meaning. 
+![[Pasted image 20260506140338.png]]
+
+#### Evaluating Retrieval Solutions (a RAG component)
++ What *Retrieval Mechanisms* does it support ? Does it *support hybrid search ?* 
++ If it's a vectorDB, what embedding models and vector search algo does it sp ? 
++ *How scalable is it, both in terms of data storage and query traffic* (latency and storage) ? Does it work for your Traffic pattern ? 
++ *How long does it take to index* your data ? How much data can you process (such as delete/add) in bulk at once ? 
++ What's its *query latency for different retrieval algo ?* 
++ *SaaS Retrieval Sol ?*  If it's a managed sol (sol for solution), what's its pricing structure ? Is it based on the docs/vector volumne or the query volume ? 
+
+**External data source:** multimodal and tabular data 
++ ? Multimodal example - search supporting evidence from image base on search query ![[Pasted image 20260506142008.png | 444]]
+	If the image have metadata such as titles, tags and captions they can be retrieved using the metadata. e.g. it caption is relevant to the query. And if you want to query images based on their content, you need to have a embed both text and image into a embeddings space, like CLIP as the multimodal embedding model. The retrieval works as follows: 
+	1. Generate CLIP embeddings for all your data, both texts and images, and store them in a vector database.
+	2. Given a query, generate its CLIP embedding.
+	3. Query in the vector database for all images and texts whose embeddings are close to the query embedding.
+
+*Text-to-SQL is the same as Text-to-Image search:*
+1. Text-to-SQL: based on the user query and the provided table schemas, determine what SQL query is needed. Text-to-SQL is an example of semantic parsing, as discussed in Chapter 2.
+2. SQL execution: execute the SQL query.
+3. Generation: generate a response based on the SQL result and the original user query.
+![[Pasted image 20260506142801.png | 666]]
+
+### A bit of Agent (because RAG is more beneficial for now)
++ ! **Compound Errors effect:** the more steps the AI Agent take, it only need 1 errors to occur for the compound effect to accumulate.e.. 1 steps 95% acc, 10 steps 60% acc and 1 step acc will be only 0.6%. 
++ $ Like human, AI need tools to perform well on given tasks like use Calculator to calc for higher speed and accuracy rather than tell the model to calc 199,999 divided by 292 raw. Be resourceful.
+
+#### Planning in AI Agent
+There multiple way to decompose a task, but not all of them will lead to a successful outcome. So the question is, how to tell the model which choice is better overall bc AI have no intuition only data. A simple approach is to list out all the option first then evaluate them by doing it. Consider the query, “How many companies
+without revenue have raised at least $1 billion?”, there are 2 options:
+1. Find all companies without revenue, then filter them by the amount raised -> a lot fo company without revenue that have not raise 1B dollar -> Enormous search space. 
+2. Find all companies that have raised at least $1 billion, then filter them by revenue -> more Efficient bc the search space is smaller. 
+
+Okay, but what if the model comes up with 1000-steps plan that doesn't even accomplish the goal, you cound't just test or evaluate all of them for compute sake.
++ $ This is where *HUMAN STEP IN, YOU'RE THE VALIDATOR*, every plan must be validated before its executed. 
+However we still some kind of automation, so you and the AI working together efficiently/
++ simple apprch ? **Heuristic** is model need google search but doesn't have access to gg search API -> Plan is invalid. 
++ bc planning can be subjective, you could use **AI Judge** to validate planning option by asking the model to *evaluate whether the plam seems reasonable or how to improve it.* 
+![[Pasted image 20260506144346.png | 666]]
+Now you got 1 LLM to gen plan, 1 to validate the plan and another to choose the most promising plan and execute that plan -> you consider each component  an agent because the *Agent communicate to eachother in a loop* -> you got urself a Multi-Agent system. 
+
+*To Speed up the process,* generate several plans in parallel and ask the evaluator to pick the most promising one -> *tradeoff:*add latency/cost.
+
+**Planning** requires understanding the intention behind a task like what's the user trying to do with this query ? In other word, it **require an Intent classifiers** is often used to help agent plan. 
++ ? Like a Orchestrator delegate task to his/her subodinates. ie. a managers
++ $ Help agent pick the right tools, e.g. should the agent access payment tool or docs retrieval tool through RAG. 
+Note: some queries might be IRRELEVANT (out of agent scope), a good *intent classifier should be able to classify IRRELEVANT queries* too so the Agent could reject politely instead of wasting FLOPs to comming up with a impossible solution or hallucination. 
+
+However, *there still risks* when AI Agent do sensive task like update database or merging a code change. For possible automation, you need to **clearly define the level of automation** an agent can have *for each action.* 
+Note that refection in ai agent (e.g. ai agent  verify its output) can significantly boost the agent's performance but aren't madatory cause latency and cost.
+
++ @ To summerize, an AI Agent system is a LLM with access to tools to accomplish a task. A default Multi-AI Agent system have 3 basic AI Agent, 1 for Planning base on user requirements, 1 for Evaluate those Plans and 1 to execute that most promosing plan and inform the plan's result to the Planner Agent. The workflow is typically involves the following process:
+	1. *Plan Generation -* Planner come up with a plan for accomplishing the task in a manageble sequence actions -> Basically **Task Decomposition** by AI. The plan often include Goal for each Main-Task, Sub-Task and prefer Tools for each task.  
+	2. *Refletion and Error correction* (Evaluator/AI Judge) - AI Judge evaluate/reason the generated plan if it's a *bad plan then generate a new one.* 
+	3. *Execution (e.g. Coding Agent)* - Take actions outlined in the generated plan -> use function calling to *executed outlined tasks*. Upon completion or error Execution Agent will give feedback to the Planner Agent at the next step.
+	4. *Reflection and Error correction* - upon receiving the action outcome (success or failure), it evaluate these outcome and determine whether the goal has been accomplished. Basically, *if goal not complate -> identify the problems -> if goal not fullfilled, generate a new plan*. Repeat.
+
+
+# FOCUS on RAG -> AI Agent (that use RAG) first. Everything below this doesn't matter until these 2 complete at MVP level. 
+
+----
 ## 7. Fine-Tunning  (Read throughly)
 ### When to finetune
 
