@@ -1,8 +1,8 @@
 Overview - [[AI Engineer Book Overview]]
 + @ *Each chapter have a SUMMARY,* instead of using AI before reading each Chapter, read the summary first.
 
-## 0. [[Best Practices in Retrieval-Augmented Generation]]
-## 1. Intro to Building A Applications with Foundation Models 
+# 0. [[Best Practices in Retrieval-Augmented Generation]]
+# 1. Intro to Building A Applications with Foundation Models 
 *Market Demand (USA alone)* ![[Pasted image 20260430103426.png]]
 **Workflow Automation**
 *For End User:* booking restaurants, requesting refunds, planning trips, and filling out forms.
@@ -92,8 +92,7 @@ Like Web Engineering, *AI Engineering is Product Centric.*
 ![[Pasted image 20260430112452.png]]
  
 
-## 2. Understanding Foundation Models 
-Learn how to build foundation model 
+# 2. Understanding Foundation Models 
 ### Training 
 ### Modeling
 **Spare LLM** (7B) has a large `%` of 0 params. 7B parameter model that is `90%` spare *only has 700 million non-zero params* -> Allow more efficient data storage and computation & **Less compute than SMALL but DENSE model.**
@@ -118,7 +117,7 @@ You can guide a model to generate structured outputs at different layers of the 
 ![[Pasted image 20260430151500.png | 444]]
 
 
-## 3. Evaluation Methodology
+# 3. Evaluation Methodology
 Learn how to evaluate LLM. Explain how Evaluation for foundation model is harder than ML models. 
 ### Understand some of their metrics (used for fine-tunning)
 Because some of the AI System require both RAG and Fine-tunning to explaining which metric to used is important too. 
@@ -547,7 +546,7 @@ Self-Verifying RAG (leverage this to create a Q&A Benchmark)
 4. Test AI System without the internet access to see how it perform
 5. Iterative Improvement
 
-## 5. Prompt Engineering (Quickly Note - this is too boring)
+# 5. Prompt Engineering (Quickly Note - this is too boring)
 + @ The goal of Prompt Engineering is to **Reduce the Problem Scope** so the Model could understand your Problem better. Each prompt scope-down the problem by a bit. 
 [External Preference - Prompt Engineering Best Practices for Structured AI Outputs](https://levelup.gitconnected.com/prompt-engineering-best-practices-for-structured-ai-outputs-ee44b7a9c293)
 System Prompt - Task Description/Context
@@ -628,9 +627,9 @@ This strategy work the same for image generation model like Stable Diffusion ![[
 
 + @ To Summary, by learning Prompt engineering best practice you could help model to narrow down the requirements to your problem where each prompt help align your criteria to the modal a little bit. These practice include write "Clear and Explicit instruction prompt" to give model a clear context of your problem, then you use give model Example using Few-Shot Learning and Custom Context to reduce the problem scope even more. After context is sufficient, you want the model to perform well using their resoning capability, while Task-Composition improve Clarity and context for sub-task in multi-step reasoning, combined it with CoT improve reasoning and Self-Critic improve reliability, they all increase Latency, making you to consider the Cost and Latency Tradeoff bc if cost Compute Reduce for that same accuracy, latency will rise. To balance that trade off, you understand that Prompt Lifecycle is crucial to improve prompt and quality check. Finally, a good system need a good security, you realize Prompt Engineering is all for nothing if you get malicious content as input bc Context is King after all, these contents include Prompt Extraction which extract the LLM's system prompt to explot your app, Jailbreaking and prompt injection to make you model to do bad things and Information extraction to get the model to reveal its training data or sensitive information. To encounter these risks you learn about Defensive Prompting from Instruction Hierarchy method to train the LLM to prioritize privileged instruction like system instruction than user instruction. 
 
-## 6. RAG and AI Agent (Focus on this too)
-### RAG 
-internal data retrieval system for LLM. 
+# 6. RAG and AI Agent (Focus on this too)
+## RAG
+### Chunking 
 
 **Chunk Vagueness**
 + ! Customer/User query often vague and lack key detail
@@ -664,7 +663,9 @@ internal data retrieval system for LLM.
 3. Generation: generate a response based on the SQL result and the original user query.
 ![[Pasted image 20260506142801.png | 666]]
 
-### A bit of Agent (because RAG is more beneficial for now)
+
+
+### AI Agent
 + ! **Compound Errors effect:** the more steps the AI Agent take, it only need 1 errors to occur for the compound effect to accumulate.e.. 1 steps 95% acc, 10 steps 60% acc and 1 step acc will be only 0.6%. 
 + $ Like human, AI need tools to perform well on given tasks like use Calculator to calc for higher speed and accuracy rather than tell the model to calc 199,999 divided by 292 raw. Be resourceful.
 
@@ -682,7 +683,7 @@ However we still some kind of automation, so you and the AI working together eff
 ![[Pasted image 20260506144346.png | 666]]
 Now you got 1 LLM to gen plan, 1 to validate the plan and another to choose the most promising plan and execute that plan -> you consider each component  an agent because the *Agent communicate to eachother in a loop* -> you got urself a Multi-Agent system. 
 
-*To Speed up the process,* generate several plans in parallel and ask the evaluator to pick the most promising one -> *tradeoff:*add latency/cost.
+*To Speed up the process,* generate several plans in parallel and ask the evaluator to pick the most promising one -> but *add latency/cost tradeoff *
 
 **Planning** requires understanding the intention behind a task like what's the user trying to do with this query ? In other word, it **require an Intent classifiers** is often used to help agent plan. 
 + ? Like a Orchestrator delegate task to his/her subodinates. ie. a managers
@@ -699,10 +700,14 @@ Note that refection in ai agent (e.g. ai agent  verify its output) can significa
 	4. *Reflection and Error correction* - upon receiving the action outcome (success or failure), it evaluate these outcome and determine whether the goal has been accomplished. Basically, *if goal not complate -> identify the problems -> if goal not fullfilled, generate a new plan*. Repeat.
 
 
+
+[[AI System Design Rulebook]] 
+[[Example AI System Answers]]
+
 # FOCUS on RAG -> AI Agent (that use RAG) first. Everything below this doesn't matter until these 2 complete at MVP level. 
 
 ----
-## 7. Fine-Tunning  (Read throughly)
+# 7. Fine-Tunning  (Read throughly)
 ### When to finetune
 
 ### Memory bottle-neck
@@ -716,17 +721,17 @@ MCQ generation **AI System**, I could use RAG for looking/search/retrieved the r
 
 
 
-## 8. Data Engineering (Read throughly)
-### Data Curation
-### Data Augmentation and Synthesis
-### Data Processing 
+# 8. Data Engineering (Read throughly)
+## Data Curation
+## Data Augmentation and Synthesis
+## Data Processing 
 
-## 9. Inference Optimization (Read throughly)
+# 9. Inference Optimization (Read throughly)
 quick read bc this part i guess take 1 line in the quiz
-### Understanding Inference Optimization
-### Inference Optimization
+## Understanding Inference Optimization
+## Inference Optimization
 
-## 10. AI Engineering Architecture and User Feedback 
+# 10. AI Engineering Architecture and User Feedback 
 > Answer the Question: call API or Host Model.
-### AI Engineering Architecture
-### User Feedback
+## AI Engineering Architecture
+## User Feedback
