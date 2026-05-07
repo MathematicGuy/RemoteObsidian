@@ -1,8 +1,8 @@
 Overview - [[AI Engineer Book Overview]]
 + @ *Each chapter have a SUMMARY,* instead of using AI before reading each Chapter, read the summary first.
 
-## 0. [[Best Practices in Retrieval-Augmented Generation]]
-## 1. Intro to Building A Applications with Foundation Models 
+# 0. [[Best Practices in Retrieval-Augmented Generation]]
+# 1. Intro to Building A Applications with Foundation Models 
 *Market Demand (USA alone)* ![[Pasted image 20260430103426.png]]
 **Workflow Automation**
 *For End User:* booking restaurants, requesting refunds, planning trips, and filling out forms.
@@ -92,8 +92,7 @@ Like Web Engineering, *AI Engineering is Product Centric.*
 ![[Pasted image 20260430112452.png]]
  
 
-## 2. Understanding Foundation Models 
-Learn how to build foundation model 
+# 2. Understanding Foundation Models 
 ### Training 
 ### Modeling
 **Spare LLM** (7B) has a large `%` of 0 params. 7B parameter model that is `90%` spare *only has 700 million non-zero params* -> Allow more efficient data storage and computation & **Less compute than SMALL but DENSE model.**
@@ -118,7 +117,7 @@ You can guide a model to generate structured outputs at different layers of the 
 ![[Pasted image 20260430151500.png | 444]]
 
 
-## 3. Evaluation Methodology
+# 3. Evaluation Methodology
 Learn how to evaluate LLM. Explain how Evaluation for foundation model is harder than ML models. 
 ### Understand some of their metrics (used for fine-tunning)
 Because some of the AI System require both RAG and Fine-tunning to explaining which metric to used is important too. 
@@ -532,25 +531,183 @@ In a company, real business outcomes is the most important. So Ask:
 -> Update your eval criteria as your User bahaviour change while keep a certain level of consistency in your eval pipeline so it won't be Unstable and Useless. 
 
 **LOG/SAVE/TRACK all variables during your Experiments,** including but not limited to the evaluation data, the rubric and the prompt and sampling configuration (ie. LLM output configuration) used for the AI Judges. 
-
 + @ In Summary, this is one of the hardest but most important part of AI Engineering (application dev). This part explain how to evaluate LLM Domain-Specific capabilities and Generation capabilities, so as LLM factual consistency and safety. How to eval foundation LLM fluency, coherence and faithfulness. Develop a evaluation pipeline starting from define the right Criteria by asking "What Good Mean ?" and how to score them. Base on the Criteria, we learn that Eval Metric must be tied to Business Metric that solve real business problems and return reliable signals to improve the business itself (is my AI Eval Metrics improve my Business Eval Metrics ?) thus creating a business feedback & improvement cycle. Next, we learn how to evaluate each of the system components and criterion using Sliced Curated Data (cured data slided into subset) to have finer-graned understanding of our system to avoid bias, pitfalls and paradox as well as identify bugs and areas for app improvement. Then Evaluate the evaluation pipeline itself as User Behaviour changes by considering "eval metrics to business outcome", reliability, un-correlated metrics, cost and latency. 
 
++ ? Example of what a **Good MCQs Distractors** look like in AutoConverter Distractors.
+![[Pasted image 20260505124450.png]]
+Note: If an AI System like RAG MCQs generation don't have Benchmark, you would need first:
+Basic AI System (without Internet)
+1. Create a Basic RAG pipeline for QAs. 
+2. AI Judge to verify the QAs and create Distractor with explaination for each QAs.
+Self-Verifying RAG (leverage this to create a Q&A Benchmark)
+3. Give AI Judge google search API to extract from reliable source only -> verification and create reliable Benchmark. 
+	Identify Reliable Source (limited by the User and Dev) - like NotebookLM
+	Curate Data into LLM Readable format -> add Curated data into the Search Space. 
+4. Test AI System without the internet access to see how it perform
+5. Iterative Improvement
 
-## 5. Prompt Engineering
-Give a short take on this as well. Take what I need only
+# 5. Prompt Engineering (Quickly Note - this is too boring)
++ @ The goal of Prompt Engineering is to **Reduce the Problem Scope** so the Model could understand your Problem better. Each prompt scope-down the problem by a bit. 
+[External Preference - Prompt Engineering Best Practices for Structured AI Outputs](https://levelup.gitconnected.com/prompt-engineering-best-practices-for-structured-ai-outputs-ee44b7a9c293)
+System Prompt - Task Description/Context
+User Prompt - the task u want them to to
+Diff model use Diff chat template.
+#### Instruction Clarity and Output Constraints 
+-> Write **clear and explicit** instruction
+*Ask model to ADAPT a Persona to improve model capabilities in specific task* like grading highschool essay score as a highschool teacher.
+*Prompt Position:* by Default *Query at the End > Start*: query at the end of the prompt has more power than query at the front.
+*Task Decomposition:* Follow clear and explocit rule. Break complex task into simpler subtasks so model know exactly what it need to do. Don't be ambiguous.
+**Specify Output Format:** `.json` or `html` ask it to be concise. Use tools to enforece model output format like [instructor](https://github.com/567-labs/instructor) - [Medium PE best practices](https://levelup.gitconnected.com/prompt-engineering-best-practices-for-structured-ai-outputs-ee44b7a9c293) this tool allow:
+	+ Formats the prompt to include JSON schema hints
+	+ Parses and validates the model output
+	+ Retries auto if the output if malformed or incomplete.
 
-**Defensive Prompting:** Instruction Hierarchy + System Message
-![[Pasted image 20260501160202.png | 555]]
-![[Pasted image 20260501160134.png | 444]]
+For Example:
++ Define a clear output contract in JSON using pandatic like title, confidence_score and using instructor lib to make sure your LLM follow the extract structure. 
++ Use delimiters like `(```)`  or XML-style tags to clearly *seperate instruction from user input data.*
 
-## 6. RAG and AI Agent (Focus on this too)
-### RAG 
-internal data retrieval system for LLM. 
+#### Context and Anchoring 
+-> Constrain model Degrees of Freedom -> Increase Consistency.  
+**Provide example** with few-shot learning to reduce ambiguity and effective scope-down/anchoring perspective and tone for your model -> better output, less hallucination..
+**Provide Sufficient Context (Food for LLM, trash in trash out)** with necessary external information to help the model accuracy and restricts it behaviour to prevent hallucination. 
 
-### A bit of Agent (because RAG is more beneficial for now)
-### Memory (give my take on this)
+#### Reasoning and Task Decomposition
+-> Improve model reasoning capability ->  *(increase) Accuracy & (increase) Latency Tradeoff*
+**Prompt/Task Decomposition:** Apart from improve clarity *breaking down task* also help to chained subtasks to *improve accuracy in multi-step reasoning* workflows.
+**Give model time to think,** use *CoT* if the task require problem solving skill. 
+**Self-critique** (asking the model to check it own outputs) ensure reliability, accuracy and reduce hallucination.
+CoT Variations: ![[Pasted image 20260505164049.png | 555]]
 
-## 7. Fine-Tunning  (read throughly)
+#### Prompt's Optimization Tools
+Deepmind's *Promptbreeder* select "breed" of prompts using a mutation process guided by a set of mutator prompts to generate mutations for most promising mutation to sastisfied your criteria. Example how it work at high level: ![[Pasted image 20260506145251.png | 555]]
+![[Pasted image 20260506145301.png | 555]]
+
+Many *tools aim to assist parts of prompt engineering.* For example: 
++ Guidance
++ Outlines
++ Instructor guide models toward structured outputs.
+Some tools perturb your prompts, such as replacing a word with its
+synonym or rewriting a prompt, to see which prompt variation works best
+
+If used correclty, PE tools can *greatly improve your system's* performance **but beware of their downside** like cost and latency to avoid unnessary headache. If 1 API call per prompt variation, 30 evaluation examples and 10 prompt variantions mean 300 API calls.
++ ? if the model is smart, large context windows and could do multiple-task, you could compress multiple generation into 1 otherwise giving tool free rein to devising (auto-plan by themself) prompt chains could result in excessivelky long and expensive chains. 
++ ! Every PE tool can change their format without warning like switch to diff prompt templates or rewrite their default prompts -> *more tools more complexity and maintainance.*  
++ $ Following the **Keep-it-simple** principle, you might want to start by writing your own prompts without any tool to understand of the underlying model and your requirements first. 
+
+#### Prompt Lifecycle and Operation (PromptOps)
+-> Testing and Improvement
+**Iterate your Prompts:** test your prompt until u satisfied with the result
+	*Organize and Version prompts* with versioning, tags or prompt catelogs to improve readability, testing and collaboration.
+	*Evaluate Prompt Engineering Tools* (e.g. LangSmith) compare Prompt Evaluation tools. 
++ ? Tips: Pair Prompt Engineering with code-based validation like `json.loads` to catch errors as a post-processing step.
+**Parallelization** if possible, generate multiple answers for multiple scenerio to save time. For example, "generate 5 different MCQs each with 3 levels of difficulty" 
+
+#### Security and Guardfails
+-> Protect your Output by protect your prompt.
+**Defensive Prompting to prevent Prompt Injection**  - Using Instruction Hierarchy to *prioritize System Prompt than User Prompt*
+![[Pasted image 20260505170735.png | 666]]
+
+-> prevent prompt extraction, jailbreaking, and indirect prompt injections.
+![[Pasted image 20260501160202.png | 666]]
+![[Pasted image 20260501160134.png | 666]]
+
+#### Case study: systematic approach to AI-powered attacks "Prompt Automatic Iterative Refinement (PAIR)" uses an AI model to act as an attacker.
+1. Generate a prompt. 
+2. Send the prompt to the target AI. 
+3. Based on the response from the target, revise the prompt until the objective is achieved.
+![[Pasted image 20260505170136.png | 666]]
+
+### Risks in Information Extraction
+**Data theft -** your competitor steal your data 
+**Privacy violation -** Extracting private and sensitive information in both the training data and the context used for the model.
++ ? Example "This suggests the existence of prompt strategies that allow training data extraction without knowing anything about the training data."  ![[Pasted image 20260505170452.png | 555]]
+This strategy work the same for image generation model like Stable Diffusion ![[Pasted image 20260505170611.png | 555]]
++ $ When finetuning a model for safety, it’s *important to train the model not only to recognize malicious prompts but also to generate safe responses for borderline requests.*
+
+
++ @ To Summary, by learning Prompt engineering best practice you could help model to narrow down the requirements to your problem where each prompt help align your criteria to the modal a little bit. These practice include write "Clear and Explicit instruction prompt" to give model a clear context of your problem, then you use give model Example using Few-Shot Learning and Custom Context to reduce the problem scope even more. After context is sufficient, you want the model to perform well using their resoning capability, while Task-Composition improve Clarity and context for sub-task in multi-step reasoning, combined it with CoT improve reasoning and Self-Critic improve reliability, they all increase Latency, making you to consider the Cost and Latency Tradeoff bc if cost Compute Reduce for that same accuracy, latency will rise. To balance that trade off, you understand that Prompt Lifecycle is crucial to improve prompt and quality check. Finally, a good system need a good security, you realize Prompt Engineering is all for nothing if you get malicious content as input bc Context is King after all, these contents include Prompt Extraction which extract the LLM's system prompt to explot your app, Jailbreaking and prompt injection to make you model to do bad things and Information extraction to get the model to reveal its training data or sensitive information. To encounter these risks you learn about Defensive Prompting from Instruction Hierarchy method to train the LLM to prioritize privileged instruction like system instruction than user instruction. 
+
+# 6. RAG and AI Agent (Focus on this too)
+## RAG
+### Chunking 
+
+**Chunk Vagueness**
++ ! Customer/User query often vague and lack key detail
++ ? "The revenue grew by 3%") lack the necessary information (e.g., "for Acme Corp in Q2 2023") to be retrieved accurately.
+-> The same thing happened with Chunk, some often them might be cutoff from their context in order to preverse chunk consistency e.g. `max_chunk_length`
+
+**Proposed Solution:**
++ *For Customer Input Query:* Re-Writing Query base on the article or user question context -> evaluate query vagueness -> if vaguesness below a threshold -> ask user for more detail. 
++ *For Chunking in RAG:* Anthropic used AI models to generate a short context 50-100 tokens that explains the chunk and its relationship to the original documents ([Anthropic Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval)) to solve the "lost in the middle" or lost context problem. ![[Pasted image 20260506135706.png | 444]]
+-> Ensure semantic searchs and keyword matching (BM25) maintain the original meaning. 
+![[Pasted image 20260506140338.png]]
+
+#### Evaluating Retrieval Solutions (a RAG component)
++ What *Retrieval Mechanisms* does it support ? Does it *support hybrid search ?* 
++ If it's a vectorDB, what embedding models and vector search algo does it sp ? 
++ *How scalable is it, both in terms of data storage and query traffic* (latency and storage) ? Does it work for your Traffic pattern ? 
++ *How long does it take to index* your data ? How much data can you process (such as delete/add) in bulk at once ? 
++ What's its *query latency for different retrieval algo ?* 
++ *SaaS Retrieval Sol ?*  If it's a managed sol (sol for solution), what's its pricing structure ? Is it based on the docs/vector volumne or the query volume ? 
+
+**External data source:** multimodal and tabular data 
++ ? Multimodal example - search supporting evidence from image base on search query ![[Pasted image 20260506142008.png | 444]]
+	If the image have metadata such as titles, tags and captions they can be retrieved using the metadata. e.g. it caption is relevant to the query. And if you want to query images based on their content, you need to have a embed both text and image into a embeddings space, like CLIP as the multimodal embedding model. The retrieval works as follows: 
+	1. Generate CLIP embeddings for all your data, both texts and images, and store them in a vector database.
+	2. Given a query, generate its CLIP embedding.
+	3. Query in the vector database for all images and texts whose embeddings are close to the query embedding.
+
+*Text-to-SQL is the same as Text-to-Image search:*
+1. Text-to-SQL: based on the user query and the provided table schemas, determine what SQL query is needed. Text-to-SQL is an example of semantic parsing, as discussed in Chapter 2.
+2. SQL execution: execute the SQL query.
+3. Generation: generate a response based on the SQL result and the original user query.
+![[Pasted image 20260506142801.png | 666]]
+
+
+
+### AI Agent
++ ! **Compound Errors effect:** the more steps the AI Agent take, it only need 1 errors to occur for the compound effect to accumulate.e.. 1 steps 95% acc, 10 steps 60% acc and 1 step acc will be only 0.6%. 
++ $ Like human, AI need tools to perform well on given tasks like use Calculator to calc for higher speed and accuracy rather than tell the model to calc 199,999 divided by 292 raw. Be resourceful.
+
+#### Planning in AI Agent
+There multiple way to decompose a task, but not all of them will lead to a successful outcome. So the question is, how to tell the model which choice is better overall bc AI have no intuition only data. A simple approach is to list out all the option first then evaluate them by doing it. Consider the query, “How many companies
+without revenue have raised at least $1 billion?”, there are 2 options:
+1. Find all companies without revenue, then filter them by the amount raised -> a lot fo company without revenue that have not raise 1B dollar -> Enormous search space. 
+2. Find all companies that have raised at least $1 billion, then filter them by revenue -> more Efficient bc the search space is smaller. 
+
+Okay, but what if the model comes up with 1000-steps plan that doesn't even accomplish the goal, you cound't just test or evaluate all of them for compute sake.
++ $ This is where *HUMAN STEP IN, YOU'RE THE VALIDATOR*, every plan must be validated before its executed. 
+However we still some kind of automation, so you and the AI working together efficiently/
++ simple apprch ? **Heuristic** is model need google search but doesn't have access to gg search API -> Plan is invalid. 
++ bc planning can be subjective, you could use **AI Judge** to validate planning option by asking the model to *evaluate whether the plam seems reasonable or how to improve it.* 
+![[Pasted image 20260506144346.png | 666]]
+Now you got 1 LLM to gen plan, 1 to validate the plan and another to choose the most promising plan and execute that plan -> you consider each component  an agent because the *Agent communicate to eachother in a loop* -> you got urself a Multi-Agent system. 
+
+*To Speed up the process,* generate several plans in parallel and ask the evaluator to pick the most promising one -> but *add latency/cost tradeoff *
+
+**Planning** requires understanding the intention behind a task like what's the user trying to do with this query ? In other word, it **require an Intent classifiers** is often used to help agent plan. 
++ ? Like a Orchestrator delegate task to his/her subodinates. ie. a managers
++ $ Help agent pick the right tools, e.g. should the agent access payment tool or docs retrieval tool through RAG. 
+Note: some queries might be IRRELEVANT (out of agent scope), a good *intent classifier should be able to classify IRRELEVANT queries* too so the Agent could reject politely instead of wasting FLOPs to comming up with a impossible solution or hallucination. 
+
+However, *there still risks* when AI Agent do sensive task like update database or merging a code change. For possible automation, you need to **clearly define the level of automation** an agent can have *for each action.* 
+Note that refection in ai agent (e.g. ai agent  verify its output) can significantly boost the agent's performance but aren't madatory cause latency and cost.
+
++ @ To summerize, an AI Agent system is a LLM with access to tools to accomplish a task. A default Multi-AI Agent system have 3 basic AI Agent, 1 for Planning base on user requirements, 1 for Evaluate those Plans and 1 to execute that most promosing plan and inform the plan's result to the Planner Agent. The workflow is typically involves the following process:
+	1. *Plan Generation -* Planner come up with a plan for accomplishing the task in a manageble sequence actions -> Basically **Task Decomposition** by AI. The plan often include Goal for each Main-Task, Sub-Task and prefer Tools for each task.  
+	2. *Refletion and Error correction* (Evaluator/AI Judge) - AI Judge evaluate/reason the generated plan if it's a *bad plan then generate a new one.* 
+	3. *Execution (e.g. Coding Agent)* - Take actions outlined in the generated plan -> use function calling to *executed outlined tasks*. Upon completion or error Execution Agent will give feedback to the Planner Agent at the next step.
+	4. *Reflection and Error correction* - upon receiving the action outcome (success or failure), it evaluate these outcome and determine whether the goal has been accomplished. Basically, *if goal not complate -> identify the problems -> if goal not fullfilled, generate a new plan*. Repeat.
+
+
+
+[[AI System Design Rulebook]] 
+[[Example AI System Answers]]
+
+# FOCUS on RAG -> AI Agent (that use RAG) first. Everything below this doesn't matter until these 2 complete at MVP level. 
+
+----
+# 7. Fine-Tunning  (Read throughly)
 ### When to finetune
 
 ### Memory bottle-neck
@@ -564,17 +721,17 @@ MCQ generation **AI System**, I could use RAG for looking/search/retrieved the r
 
 
 
-## 8. Data Engineering (Read throughly)
-### Data Curation
-### Data Augmentation and Synthesis
-### Data Processing 
+# 8. Data Engineering (Read throughly)
+## Data Curation
+## Data Augmentation and Synthesis
+## Data Processing 
 
-## 9. Inference Optimization 
+# 9. Inference Optimization (Read throughly)
 quick read bc this part i guess take 1 line in the quiz
-### Understanding Inference Optimization
-### Inference Optimization
+## Understanding Inference Optimization
+## Inference Optimization
 
-## 10. AI Engineering Architecture and User Feedback
+# 10. AI Engineering Architecture and User Feedback 
 > Answer the Question: call API or Host Model.
-### AI Engineering Architecture
-### User Feedback
+## AI Engineering Architecture
+## User Feedback
