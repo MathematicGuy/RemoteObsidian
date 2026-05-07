@@ -24,87 +24,34 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "21fe8692d84ecf0e",
-=======
-<<<<<<< HEAD
-            "id": "4392fbcd545eca10",
-=======
-            "id": "ee80ce2335e21989",
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
->>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "RAG System Design Blog.md",
-=======
-<<<<<<< HEAD
-                "file": "25M12W1 - Software Testing.md",
-=======
-                "file": "AI System Design Rulebook.md",
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
->>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "RAG System Design Blog"
             }
           },
           {
             "id": "ed65baf7185c58df",
-=======
-<<<<<<< HEAD
-              "title": "25M12W1 - Software Testing"
-            }
-          },
-          {
-            "id": "c21602f37af6bf12",
-=======
-              "title": "AI System Design Rulebook"
-            }
-          },
-          {
-            "id": "d0585d5772599114",
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
->>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Late Chunking.md",
-=======
-<<<<<<< HEAD
-                "file": "25M12W1 - Software Testing.md",
-=======
-                "file": "AI Engineer by Chip Huyen.md",
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
->>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "Late Chunking"
-=======
-<<<<<<< HEAD
-              "title": "25M12W1 - Software Testing"
             }
           }
-        ],
-        "currentTab": 2
-=======
-              "title": "AI Engineer by Chip Huyen"
->>>>>>> origin/main
-            }
-          }
-        ],
-        "currentTab": 1
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "25M12W1 - Software Testing.md",
-=======
                 "file": "AI Engineer by Chip Huyen.md",
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,11 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for 25M12W1 - Software Testing"
-=======
               "title": "Backlinks for AI Engineer by Chip Huyen"
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
             }
           },
           {
@@ -205,20 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "25M12W1 - Software Testing.md",
-=======
                 "file": "AI Engineer by Chip Huyen.md",
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from 25M12W1 - Software Testing"
-=======
               "title": "Outgoing links from AI Engineer by Chip Huyen"
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
             }
           },
           {
@@ -256,21 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "25M12W1 - Software Testing.md",
-=======
                 "file": "AI System Design Rulebook.md",
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of 25M12W1 - Software Testing"
-=======
               "title": "Outline of AI System Design Rulebook"
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
             }
           },
           {
@@ -314,11 +237,17 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "30f8c246bbddda89",
-=======
-            "id": "d7d8f5fbb0fb72ab",
->>>>>>> origin/main
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "229277a19fe35bd1",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -328,15 +257,7 @@
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 9
-=======
-<<<<<<< HEAD
-        "currentTab": 1
-=======
-        "currentTab": 8
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
->>>>>>> origin/main
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -357,14 +278,8 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "21fe8692d84ecf0e",
-=======
-<<<<<<< HEAD
-  "active": "c21602f37af6bf12",
+  "active": "229277a19fe35bd1",
   "lastOpenFiles": [
-    "AIO 2025.md",
-    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260504212621.png",
     "image/Pasted image 20260504204935.png",
     "image/Pasted image 20260504204604.png",
@@ -374,25 +289,9 @@
     "image/Pasted image 20260504203138.png",
     "image/Pasted image 20260504202229.png",
     "25M12W1 - Software Testing.md",
-    "simpson's paradox explain.md",
-    "image/Pasted image 20260504180955.png",
-    "image/Pasted image 20260504174446.png",
-    "Template.md"
-=======
-  "active": "ee80ce2335e21989",
->>>>>>> origin/main
-  "lastOpenFiles": [
     "image/Pasted image 20260507192325.png",
     "image/Pasted image 20260507191946.png",
     "image/Pasted image 20260507191935.png",
-    "image/Pasted image 20260507191925.png",
-    "image/Pasted image 20260507191809.png",
-    "image/Pasted image 20260507191549.png",
-    "image/Pasted image 20260507190950.png",
-    "image/Pasted image 20260507190925.png",
-    "image/Pasted image 20260507184024.png",
-    "image/Pasted image 20260507183450.png",
-    "image/Pasted image 20260507183135.png",
     "2 ACTIONS/_Focus.md",
     "Late Chunking.md",
     "RAG System Design Blog.md",
@@ -408,6 +307,5 @@
     "AI System Answer Format Example.md",
     "Excalidraw/RAG System Design.md",
     "simpson's paradox explain.md"
->>>>>>> e2dcefd516ec22f595b97290429458b2df947e4f
   ]
 }
