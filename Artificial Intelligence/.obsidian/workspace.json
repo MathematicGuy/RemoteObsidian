@@ -51,7 +51,8 @@
               "title": "Late Chunking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,8 +279,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "229277a19fe35bd1",
+  "active": "21fe8692d84ecf0e",
   "lastOpenFiles": [
+    "Late Chunking.md",
+    "RAG System Design Blog.md",
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260504212621.png",
     "image/Pasted image 20260504204935.png",
     "image/Pasted image 20260504204604.png",
@@ -291,10 +295,6 @@
     "25M12W1 - Software Testing.md",
     "image/Pasted image 20260507192325.png",
     "image/Pasted image 20260507191946.png",
-    "image/Pasted image 20260507191935.png",
-    "2 ACTIONS/_Focus.md",
-    "Late Chunking.md",
-    "RAG System Design Blog.md",
     "RAG Road Map.md",
     "Best Practice for RAG Indexing.md",
     "RAG Improvement Note.md",
