@@ -24,31 +24,31 @@
             }
           },
           {
-            "id": "ee80ce2335e21989",
+            "id": "21fe8692d84ecf0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI System Design Rulebook.md",
+                "file": "RAG System Design Blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI System Design Rulebook"
+              "title": "RAG System Design Blog"
             }
           },
           {
-            "id": "d0585d5772599114",
+            "id": "ed65baf7185c58df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "Late Chunking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineer by Chip Huyen"
+              "title": "Late Chunking"
             }
           }
         ],
@@ -231,6 +231,16 @@
             "id": "41257e9325482dcf",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "30f8c246bbddda89",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -238,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -259,24 +269,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee80ce2335e21989",
+  "active": "21fe8692d84ecf0e",
   "lastOpenFiles": [
+    "image/Pasted image 20260507192325.png",
+    "image/Pasted image 20260507191946.png",
+    "image/Pasted image 20260507191935.png",
+    "image/Pasted image 20260507191925.png",
+    "image/Pasted image 20260507191809.png",
+    "image/Pasted image 20260507191549.png",
+    "image/Pasted image 20260507190950.png",
+    "image/Pasted image 20260507190925.png",
+    "image/Pasted image 20260507184024.png",
+    "image/Pasted image 20260507183450.png",
+    "image/Pasted image 20260507183135.png",
     "2 ACTIONS/_Focus.md",
+    "Late Chunking.md",
+    "RAG System Design Blog.md",
+    "RAG Road Map.md",
+    "Best Practice for RAG Indexing.md",
+    "RAG Improvement Note.md",
+    "image/Pasted image 20260507160647.png.~tmp",
+    "RAG system in Production.md",
+    "AI System Design Rulebook.md",
     "AI Engineer by Chip Huyen.md",
     "MOCK Answer.md",
-    "AI System Design Rulebook.md",
     "Example AI System Answers.md",
     "AI System Answer Format Example.md",
-    "image/Pasted image 20260506145301.png",
-    "image/Pasted image 20260506145251.png",
-    "image/Pasted image 20260506144346.png",
-    "image/Pasted image 20260506142801.png",
-    "image/Pasted image 20260506142008.png",
-    "image/Pasted image 20260506140338.png",
-    "image/Pasted image 20260506135706.png",
-    "image/Pasted image 20260505170735.png",
-    "image/Pasted image 20260505170611.png",
-    "image/Pasted image 20260505170452.png",
     "Excalidraw/RAG System Design.md",
     "simpson's paradox explain.md"
   ]
