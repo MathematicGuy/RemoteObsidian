@@ -147,3 +147,12 @@ Scenario 4: Remove Embedding model -> what is the Consequences)
 	always use metadata (good tags make datafiltering more powerful) try to use tags such as document source, type, date, section or access level -> help narrow down result quickly and stay grounded.  
 
 Note: finally, design a RAG pipeline by yourself.
+
+---
+# Evaluation RAG System Design
+
+
+
+
+
+
