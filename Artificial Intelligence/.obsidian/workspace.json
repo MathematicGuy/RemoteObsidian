@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HyDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,14 +248,53 @@
             "id": "288fbbca4248e0bb",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3af23ef842ab4df7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f9c7935fbfc14da3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9f917f34ce9acb14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d907d3d452ac35fc",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,9 +317,22 @@
   },
   "active": "21fe8692d84ecf0e",
   "lastOpenFiles": [
-    "Late Chunking.md",
+    "image/Pasted image 20260509133402.png",
+    "Best Practices in Retrieval-Augmented Generation.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
     "RAG System Design Blog.md",
+    "AI Engineer by Chip Huyen.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
     "2 ACTIONS/_Focus.md",
+    "AI Engineer.md",
+    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+    "1_6dR3DJVFu0hXVqWO6cJONA.png",
+    "image/Pasted image 20260330173343.png",
+    "image/Pasted image 20260325194414.png",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
+    "Late Chunking.md",
     "image/Pasted image 20260504212621.png",
     "image/Pasted image 20260504204935.png",
     "image/Pasted image 20260504204604.png",
@@ -287,17 +340,13 @@
     "image/Pasted image 20260504204030.png",
     "image/Pasted image 20260504203837.png",
     "image/Pasted image 20260504203138.png",
-    "image/Pasted image 20260504202229.png",
     "25M12W1 - Software Testing.md",
-    "image/Pasted image 20260507192325.png",
-    "image/Pasted image 20260507191946.png",
     "RAG Road Map.md",
     "Best Practice for RAG Indexing.md",
     "RAG Improvement Note.md",
     "image/Pasted image 20260507160647.png.~tmp",
     "RAG system in Production.md",
     "AI System Design Rulebook.md",
-    "AI Engineer by Chip Huyen.md",
     "MOCK Answer.md",
     "Example AI System Answers.md",
     "AI System Answer Format Example.md",
