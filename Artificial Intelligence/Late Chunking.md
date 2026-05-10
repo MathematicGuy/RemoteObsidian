@@ -1,7 +1,7 @@
 [source](https://weaviate.io/blog/late-chunking) - [datacamp Implement turtorial](https://www.datacamp.com/tutorial/late-chunking)
 ![[Pasted image 20260507182021.png]]
 
-**Late Interaction** (embedd the entire document by token)
+**Late Interaction** - embed the whole doc (using long-context embedding model) then Retrieved by compare every doc's tokens embedding to the query embedding.
 ![[Pasted image 20260507180413.png | 666]]
 Computation comparison between Naive Chunking vs Late Interation.
 ![[Pasted image 20260507180213.png | 888]]
@@ -15,10 +15,9 @@ To answer the query `what do customers need to prioritise ?`.
 
 ![[Pasted image 20260507181132.png | 888]]
 
-
 ## What this means for users building RAG applications ?
 + lessens the requirement for very tailored chunking strategies
 + **cost-effective** path forward for users doing *long context retrieval.*
 + **Simple/Testable Implementation:** can be implemented in under 30 lines of code and require no modification to the retrieval pipeline
 + *Can result in a reduction of the total number of documents required to be returned* at query time.
-+ enable *more efficient calls to LLMs by passing less context that is more relevant.*
++ Enable *more efficient calls to LLMs by passing less context that is more relevant.*
