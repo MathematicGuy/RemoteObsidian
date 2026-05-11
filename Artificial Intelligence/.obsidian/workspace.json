@@ -37,8 +37,7 @@
               "title": "RAG System Design Blog"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,13 +287,24 @@
             "id": "d907d3d452ac35fc",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cb5659baab19bc6e",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -315,7 +325,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21fe8692d84ecf0e",
+  "active": "cb5659baab19bc6e",
   "lastOpenFiles": [
     "image/Pasted image 20260509133402.png",
     "Best Practices in Retrieval-Augmented Generation.md",
