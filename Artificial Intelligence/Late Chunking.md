@@ -1,4 +1,4 @@
-[source](https://weaviate.io/blog/late-chunking) - [datacamp Implement turtorial](https://www.datacamp.com/tutorial/late-chunking)
+- [x] Late[source](https://weaviate.io/blog/late-chunking) - [datacamp Implement turtorial](https://www.datacamp.com/tutorial/late-chunking)
 ![[Pasted image 20260507182021.png]]
 
 **Late Interaction** - embed the whole doc (using long-context embedding model) then Retrieved by compare every doc's tokens embedding to the query embedding.

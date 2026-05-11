@@ -81,8 +81,7 @@ reward hacking - model optimize reward rather than reality. e.g. too ethical, ov
 ưu tiên chosen (current training) hơn reference (base model). 
 Ko cần reward model -> DPO
 
-Paper
-*-> tìm ra vấn đề trước.* 
+Paper *-> tìm ra vấn đề trước.* 
 hướng nghiên cứu hiện tai còn tồn tại vấn đề gì.
 các vấn đề liên quan đã giải quyết vấn đề tồn tại chưa ?
 -> Khi đọc paper chỉ cần biết Paper này giải quyết vấn đề gì chưa.
@@ -97,8 +96,10 @@ embedding of DINO is manifold. JEPA add a head for fine-tune.
 ## Learning Roadmap Latent Space
 **1. Understand Dimensionality Reduction (Foundation) - PCA**
 -> understand how data can be compressed. 
-	learned concept: PCA and Manifold Hypothesis.
-	key idea: high-dim data often lies on a lower-dimension "manifold"
+	learned concept: PCA and *Manifold Hypothesis,* this mean although data seems to live in very high-dimensional spaces, it actually lies on much lower-dimensional structures called Manifold embedded within those spaces. *ie. see data from high-dimensional space through the lense of low-dimensional space.* ![[Pasted image 20260511115753.png | 777]] 
++ ? For example, images might contain millions of pixel values, but the set of meaningful images occupies only a tiny subset of all possible pixel combinations. 
++ $ By *mapping raw data into representations that better capture "manifold" structure*, NN can *seperate classes, compress informtion and generate realistic smaples.*  ![[Pasted image 20260511112105.png | 555]]
+
 
 **2. Learn Autoencoders (basic model)**
 Understand the Architecture - Encoder (compresses input to latent vector) -> latent space -> decoder (reconstruct input)

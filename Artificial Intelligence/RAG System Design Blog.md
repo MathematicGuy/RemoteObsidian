@@ -91,11 +91,12 @@ This part similar to ETL in Data Science (Extract-Transform-Load) -> the goal of
 #### Phase 2: Retrieval
 1. **Query Procesing**
 	*Multi-Query* use LLM to decompose the Main Query into Multiple variance Sub-Query (like *asking Question for 1 Problem in multiple Perspective)*  ![[Pasted image 20260507183135.png]]  
-	*HyDE (Hypothesis Document Enhancement)* request the LLM to give a Hypothetical Answer for the question first, then use Vector Embedding of this Hypothetical Answer for searching -> Help lessen the distance between "Question" and "Document that contain the Answer." ![[Pasted image 20260507183450.png]]
-	1. **Similarity Search** use Hybrid Search then RRF (Reciprocal Rank Fusion) which is a post-processing algo that combine score from Vector/Key-word Search (BM25, TF-IDF) and Semantic Search (HNSW structure + Cosine Similarity search) ![[Pasted image 20260507184024.png]]
+	*HyDE (Hypothesis Document Enhancement)* request the LLM to give a Hypothetical Answer for the question first, then use Vector Embedding of this Hypothetical Answer for searching -> Help lessen the distance between "Question" and "Document that contain the Answer." ![[Pasted image 20260507183450.png | 666]]
+	[Intuitive HyDE Blogs](https://www.rohan-paul.com/p/better-rag-with-hyde-hypothetical): ![[Pasted image 20260509133402.png]]
+	1. **Similarity Search** use Hybrid Search then RRF (Reciprocal Rank Fusion) which is a post-processing algo that combine score from Vector/Key-word Search (BM25, TF-IDF) and Semantic Search (HNSW structure + Cosine Similarity search) ![[Pasted image 20260507184024.png | 888]]
 	
 2. **Re-Ranking** 
-	+ ! Problem: *top-k* retrieved docs we get above is not entire accurate bc they just *compressed information.* ![[Pasted image 20260507190925.png]]
+	+ ! Problem: *top-k* retrieved docs we get above is not entire accurate bc they just *compressed information.* ![[Pasted image 20260507190925.png | 666]]
 	-> To ensure relavency we use a a DL model (Cross-Encoder) to score *Relavency Score between the Question and the Top-K Retrieved Docs.*  
 	**Why ?**
 	+ Bi-Encoder (in Indexing/Retrieval step) encode Question and Docs into 2 INDEPENDENT vector 
@@ -143,3 +144,12 @@ Scenario 4: Remove Embedding model -> what is the Consequences)
 	always use metadata (good tags make datafiltering more powerful) try to use tags such as document source, type, date, section or access level -> help narrow down result quickly and stay grounded.  
 
 Note: finally, design a RAG pipeline by yourself.
+
+---
+# Evaluation RAG System Design
+
+
+
+
+
+
