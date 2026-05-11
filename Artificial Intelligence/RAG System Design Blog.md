@@ -8,11 +8,7 @@ SoTA small embedding model:
 + [jina-embeddings-v5-text](https://huggingface.co/jinaai/jina-embeddings-v5-text-small) (VI: 80.4%)
 
 
-
 [[RAG Improvement Note]]
-
-
-
 ### FOCUS on Re-Explaining the whole RAG workflow in DETAIL
 ### Abstract workflow:
 #### Phase 1: Indexing (similar to ETL) 
