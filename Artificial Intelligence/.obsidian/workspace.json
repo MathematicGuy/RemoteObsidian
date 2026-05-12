@@ -24,16 +24,25 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "aaad7490ed37903a",
+=======
+            "id": "494a9f9a0e1f2a13",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "AWS Final Exam Revision.md",
+=======
+                "file": "AIO 2025.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "AWS Final Exam Revision"
             }
           },
@@ -49,6 +58,9 @@
               },
               "icon": "lucide-file",
               "title": "AWS Cloud Practitioner"
+=======
+              "title": "AIO 2025"
+>>>>>>> origin/main
             }
           }
         ]
@@ -83,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manifold",
+                "query": "HyDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,7 +270,7 @@
             }
           },
           {
-            "id": "70fc6a5e22233371",
+            "id": "288fbbca4248e0bb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -268,7 +280,7 @@
             }
           },
           {
-            "id": "708122779d8bff2c",
+            "id": "3af23ef842ab4df7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -278,7 +290,37 @@
             }
           },
           {
-            "id": "40acc34e3d4e6fd0",
+            "id": "f9c7935fbfc14da3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9f917f34ce9acb14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d907d3d452ac35fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cb5659baab19bc6e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -298,7 +340,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 14
+=======
+        "currentTab": 16
+>>>>>>> origin/main
       }
     ],
     "direction": "horizontal",
@@ -319,7 +365,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "5e78248804b2b085",
+=======
+  "active": "494a9f9a0e1f2a13",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "AWS Cloud Practitioner.md",
     "AWS Final Exam Revision.md",
@@ -337,14 +387,36 @@
     "image/Pasted image 20260511155055.png",
     "image/Pasted image 20260511154304.png",
     "image/Pasted image 20260511154116.png",
+<<<<<<< HEAD
     "AIO2025 - LLM Alignment.md",
     "DeepSeek Manifold-Constrained Hyper-Connections (mHC).md",
     "AIO 2025.md",
+=======
+    "image/Pasted image 20260511154008.png",
+    "image/Pasted image 20260511153803.png",
+    "image/Pasted image 20260511151114.png",
+    "image/Pasted image 20260511145949.png",
+    "image/Pasted image 20260511144619.png",
+    "2512W2 - Graph Neural Network (GNN).md",
+    "2 ACTIONS/_Focus.md",
+>>>>>>> origin/main
     "RAG System Design Blog.md",
+    "Best Practices in Retrieval-Augmented Generation.md",
+    "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
+    "AI Engineer by Chip Huyen.md",
+    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+    "AI Engineer.md",
+    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+    "main_Continual Learning & Nested Learning Survey.md",
+    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
     "Late Chunking.md",
+<<<<<<< HEAD
     "Excalidraw/RAG System Design.md",
     "4 ARCHIVES/Thought & Ideas/Game Observation.md",
     "4 ARCHIVES/Thought & Ideas/Game AI.md",
+=======
+>>>>>>> origin/main
     "25M12W1 - Software Testing.md",
     "RAG Road Map.md",
     "Best Practice for RAG Indexing.md",
@@ -352,10 +424,10 @@
     "image/Pasted image 20260507160647.png.~tmp",
     "RAG system in Production.md",
     "AI System Design Rulebook.md",
-    "AI Engineer by Chip Huyen.md",
     "MOCK Answer.md",
     "Example AI System Answers.md",
     "AI System Answer Format Example.md",
+    "Excalidraw/RAG System Design.md",
     "simpson's paradox explain.md"
   ]
 }
