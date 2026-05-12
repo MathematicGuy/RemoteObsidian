@@ -1,5 +1,7 @@
 ![[Pasted image 20260224143748.png]]
 [[AWS Final Project Review]]
+[[AWS Final Exam Revision]]
+
 ---
 ## Leson 1: Cloud Concepts
 **How to build a server ?**
@@ -59,7 +61,7 @@ Main Limitation:
 	and doesn't not always have a lot of customer - userbase migh spike a day then flatten for a week.
 But good if you are a big company with privacy concern and need long term benefit.
 ![[Pasted image 20260310162747.png]]
-*Cloud is just better short-term*, period.
+*Cloud is just better short-term* - period.
 ![[Pasted image 20260310162756.png]]
 
 Overall, in COST.

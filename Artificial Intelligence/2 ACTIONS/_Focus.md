@@ -9,8 +9,10 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 
 _System Design Learning Path
 - [ ] Hand On Live Practice - [NeXTWORK](https://learn.nextwork.org/projects/ai-prompt-engineering-research?track=low)
-- [ ] RAG Usecase: 
-	- [Build a Psychology GraphNetwork](https://medium.com/@jenlindadsouza/psychkg-how-to-build-a-minimal-knowledge-graph-for-psychology-fac0c76800ac#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjE5Y2FhZWNkZThmNDg1ZThmNTkzOGY0OGFiYTBjZTdhMzU4MWYwMjciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDY4NzQ3OTQ5MDM3NzM1NDU3NjkiLCJlbWFpbCI6ImRpbmhuaGF0dGhhbmgyNDhAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5vbmNlIjoibm90X3Byb3ZpZGVkIiwibmJmIjoxNzc3OTY1MTA5LCJuYW1lIjoiRGloIE5o4bqtdCBUaMOgbmgiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGhoUzFfUXVkMHpraHNJT2dFSXJlMmIzemZNZkY0cE13aEhMYlBzUzRrc2RtdVFGTT1zOTYtYyIsImdpdmVuX25hbWUiOiJEaWgiLCJmYW1pbHlfbmFtZSI6Ik5o4bqtdCBUaMOgbmgiLCJpYXQiOjE3Nzc5NjU0MDksImV4cCI6MTc3Nzk2OTAwOSwianRpIjoiMDQwNjM5YjUzODhmZjYxMWQ0MWNmNDI0MmIzZGJmMzkxN2NkYWVhMiJ9.lwmr5KjtJWTpWeqbtiP6Py8tYVBIDguIHg5beHkAou0MAI-wR-xsxGfeUSZavlt_7e2XsjiEpyzunWqa7sisIqznY1HUXaW_E8iDKDWNbSq-37SuydlsOFsnx0xDgcw0rVQ6ghUishfd2onaFhhpiGUp72kzwVBp_Ju5UgdtV_p6CT_u_Elbxw5nygW45ron_-BLA8r6QrULpd6qgqfPomBCQLYCNVDdIgDygt7HJMA14hCgpba-hzvBg-5HUoq3vDhVWXxOWYFDYhFhmBHG-fKToweqSnenvE6guTAYQWtMOyaKE5jZjP5YsoucTZtGaJ1hZ89ok-FlzXTPU_UL4A)
+- [ ] [Open Source Model (CHEAP) Inference Provider](https://cloud.siliconflow.com/me/models)  - help you to host and run Open Source AI model  
++ [ ] [Building and deploying task-specific AI Model](https://inference.net/dashboard/dnts-team/p/8ec129ed-0ca4-4416-aeac-8f3a571e81a5/home/) - [inference_ai docs](https://docs.inference.net/introduction)
+
+
 
 _Project
 - [ ] Cloud Partitioner Mock Exam - [Youtube Cloud Partitioner](https://www.youtube.com/watch?v=NhDYbskXRgc)
