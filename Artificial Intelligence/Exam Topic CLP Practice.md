@@ -189,5 +189,28 @@ B) AWS CodeCommit
 D) AWS Service Catalog
 	used by organizations to create and manage catalogs of IT services -> designed for governance within a company, not for distributing commercial software to external customers.
 
-
 Which AWS resource provides detailed documentation on AWS services, including API references, developer guides, and tutorials? -> Document not Blog. This is hard to Classified.
+
+## Full Test 2
+**Improvement:**
++ **AWS S3 Storage Tiering.** 
++ AWS Security service Comparison with Usecase - AWS CloudTrail, CloudWatch, Trusted Advisor and SecurityHub. Note SecHub provide comprehensive view for ur AWS Team across multiple account, service (GuardDuty, Inspectir and Macie).
++ **AWS Cloud Adoption Framework (CAF) - 6 perspective**
++ Cloud Characteristic. 
++ Data Soveignties -> AWS Region in multiple contries in the world. 
++ AWS IAM Identity Center also know as AWS Single Sign-On or SSO) -> allow central management of access to mutl aws acc and application. 
++ AWS Security
++ AWS Code service - AWS Code Build -> compiles source code, runs tests, and produces software packages that are ready to deploy.
++ How to use TCO calculator -> for example, you have to input on-prem facilities cost like power (electricity) and colling to accurately calc the total cost of ownershup comapre to aws. 
++ AWS AI service:
+	transcribe - aws speech recognition (ASR) convert speech into text -> transcribe audio and video files. 
+	translate - duh 
+	polly - TTS or text to speech service that convert text into human like speech. 
+	comprehend - use nlp service that use ml to find insight understand relationship within text basically understand or comprehense human itention in text -> for recommendation engine. 
++ AWS Amplified -> amplified BE engineer power by provide a set of tools and services for build, ship and host a fullstack application and mobile application. Like a framework and CLI to easily provision and integrate BE feature lika auth, data storage and serverless APIs. 
++ Service that help Analyze, Debug and provide a Visual map of its component in a Microservice -> AWS X-Ray.   
+
+
+Note: Resource Pooling mean multiple user shared and used the same Resource like AWS Compute and Storage Resource. 
+Share control between customer and AWS -> Patch Management bc this cinclude patching underlying infras, hypervisor and physical hardware. While the customer patch their own gues OS and application. To conclue, they patch different component but still shared control. 
+

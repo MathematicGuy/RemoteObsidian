@@ -95,6 +95,16 @@ However, *why use 1 when you could use Both*. In LLMOps, we could run Small Mode
 *Elasticity* talk about *Optimize Resource usage with Auto-Scaling*, how *efficiency your system expand and shrink to handle fluctuated traffic* without over-provision.
 -> Question ask the user compare Agility and Elasticity.
 
+### AWS CAF - Cloud Adoption Framework
+CAF -> a blueprint for Cloud Adoption to ensures not just the IT but the Entire Company ready for this transition. This include the *Business, People, Governance, Platform, Security, and Operations.*
+**Business -** Align Cloud (investment 2 profit) with business strategy ensure adoption drives measurable business outcomes. First it must benefit the business
+**People -** Prepares the workforce by mentoring, training employees to adopt cloud skills, roles and managing org changes. Next we must direct Cloud knowledge and skills to people so ppl are aware of it. 
+**Governance -** Manages and measures cloud invesments to minimize risks and maximize business value. Then there come governance, which allow us to take control of the tools, ppl at hand, put the right ppl to the right work. 
+**Platform -** Designing, building and optimizing scalable, cloud-native architecture. Now, we focus on designing the cloud platform to finally adopt the cloud to the company. 
+**Security -** Established compliance, data protection and identity controls to secure cloud workloads. When MVP is complish, integrate security is a must.
+**Operations -** ensure software and services are delivered at high quality with minimal downtime => this is after the Business goal is set, people are informed, Governance strategies is set, Platform been build, Security integrate, the 1 thing left is to Operate the Cloud.
+
+
 ---
 ## Lesson 2: AWS Global Architecture
 + @ *Goal:* Chọn Region phù hợp cho workload
@@ -415,6 +425,8 @@ Note that AWS Auto-Scale doesn't responsible for Cyber Attack bc its not Physica
 
 *EC2 - Private & Public IP (IPv4)*
 ![[Pasted image 20260320211144.png]]
+EC2 Instant Store - store data temporary in the Instance, but auto-delete it the instance it STOP. 
+
 
 *Elastic IPs* - If 1 EC2 instance fail, its IP address will be move to another EC2 instance replica to make sure the instance is always available. -> 2 diff instanec but the same IP -> that how website keep running even if 1 EC2 fail.
 
@@ -572,7 +584,6 @@ ELB could *route Traffic in 3 different Path:*
 
 2. Query Strings/Parameters Routing
 ![[Pasted image 20260323164418.png | 777]]
-
 
 **Network Load Balancer** - locate at *Layer 4* becore ALB -> *Point directly at TCP/UIP Instance*
 ![[Pasted image 20260323164619.png]]
@@ -1021,7 +1032,6 @@ VPC (Virtual Private Cloud) is a logically isolated section of the AWS cloud whe
 + *IP Address Range:* Define the boundary of our data center.
 + *The Internal Connection:* In our private space, we set the rule for server work. We don’t want they talking together.
 + *Gateway/Access:* Our server is 100% isolated from the public internet, we need open the door for customer access.
-
 + Question: We’re moving company’s servers to the cloud. And we want it as our *own private data center*. What are exactly we want ?
 
 ### Private Network in AWS
@@ -1036,7 +1046,6 @@ Primary point of using CIDR and subnet masks in AWS:
 Base Address: 176.16.XX
 	16 free bits.
 	XX -> freebits -> can change flexibly.
-
 8 số 1 là Broadcast address.
 
 ### Controlling Traffic Flow
@@ -1045,7 +1054,6 @@ Base Address: 176.16.XX
 Route Table - default route table
 Đi vào: Inbound -> Internet Gate way -> VPC -> Public Subnet
 Đi ra: Public Subnet -> Internet Gateway
-
 
 **Nat Instance** - Instance nên nó là 1 service.
 Vì Private subnet ko đi vào từ bên ngoài dc nên nó cần kết nối với NAT instance (NAT có public IP, giúp kết nối đc ra bên ngoài). Làm *trung gian giữa Public và Private subnet.*
@@ -1067,8 +1075,20 @@ Stateful - allow the return traffic automatically
 *Network ACL (NACL)* (security at subnet level - *stateless Firewall*) - *control what goes in and out of the Subnet/VPC* or used for S3 Object access control.
 ![[Pasted image 20260326212359.png]]
 
+*NAT Gateway vs NACL*
+	NAT Gateway - **Scope:** Acts as a gateway inside a public subnet to route private traffic -> Translates *private IP to public IP for internet access.*
+	NACL (Network *Access Control* List) - **Scope:** Applies to all instances in associated subnets -> *Allows/Denies* (Permit/Drop) traffic.
+
+NAT Gateways ($0.045/hr + $0.045/GB data processed in US East-1) are generally more expensive for high-volume internet traffic, while V*PC Gateway Endpoints for S3/DynamoDB are free*
+-> Outbound Cost for VPC are FREE while NAT Gateways cost money because NAT process data before letting it pass through and VPC is just the endpoint that public internet can't see, while outbound connection is allow and connection within the VPC allow as well without the processing step which cost money btw. 
+![[Pasted image 20260515165121.png]]
+![[Pasted image 20260515165134.png]]
+
+
+
 **Network Access Control List (NACL) vs Route Table vs Security Group**
 ![[Pasted image 20260513180016.png]]
++ ! Even if NACL setup correctly for what go in and out, Security allow all outbound traffic, but the EC2 will not have connection to the Internet if the RouteTable isn't setup Correctly -> This mean Route Table must point to the NAT gateway,
 
 NACLs mange *what Traffic Go In and Out of the subnet (VPC) like a firewall.* (subnet level)
 -> act like a **firewall for controlling traffic in and out of one or more subnets**.
@@ -1092,7 +1112,6 @@ Alias - turn on (maintain connection to IPv4)
 
 ![[Pasted image 20260402162951.png]]
 
-
 ### Shared Responsibility (Physical and Software)
 **AWS Responsibility (Infrastructure)** - Security "OF" the Cloud
 + @ Infrastructure include its Physical, Hardware, Software and Networking
@@ -1115,7 +1134,6 @@ Alias - turn on (maintain connection to IPv4)
 **EC2 App Deployment (IaaS):**
 + *AWS:* Protect their HardDrive, Maintaint their server rack, protect internet connection not like Cloud Flare.
 + *User:* Make sure the Data & Software is save without misconfiguration, setup S*ecurity Group and VPC to make sure your app doesn't expose to the public.* Granting only the *minimum permissions using IAM Principle of Least Provilege* necessary for users, roles, or services to perform specific tasks.
-
 
 **Platform as a Service (PaaS) - Amazon RDS**
 You don't have enough money to extend your Database for the Upcoming high Traffic day. TO reduce the operation overhead and cost you move the RAG's system database out of EC2 and into AWS RDS (relational database system) -> *Don't worry about Scaling, Setup DBMS* (Data Base Management System like Microsoft SQL Server, MySQL, MongoDB, Oracle Database, etc..) *for your Database.*
@@ -1142,8 +1160,6 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 **AWS Organization:** *centrally manage* and govern *multiple AWS account.* Simplifying multiple account creation, *policy enforcement, resource sharing* and *consolidataed Billing.* OU mean Organization Unit (a Group of User with the same Range of Permission) - [The AWS Security Reference Architecture - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/architecture.html) (AWS Organization include all of this):
 ![[Pasted image 20260402163850.png]]
 ![[Pasted image 20260402163915.png]]
-
-
 
 *Root* is the highest level of (policies) Container, use to apply basic policies for all Account (usually use to *Define Basic Rules and Policies* for all account). *Like Discord Admin.*
 	Each managed *account* can be *invited from outside or created within the org.*
@@ -1255,12 +1271,10 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 
 ### 7 Layers of Application in OSI Model used by AWS - [medium blog](https://aws.plainenglish.io/the-internet-has-7-hidden-layers-and-understanding-them-will-make-you-a-better-engineer-aeb108f71e8b) - [visual explaination](https://www.instagram.com/reels/DQEoAuLj8Xq/)
 ![[Pasted image 20260513171554.png]]
-
 Layer 4 (Network Load Balancing) - only see the TCP package while Layer 7 see the actual application data. So
 + $ Use an **Application Load Balancer (ALB)** Dynamic routing. For HTTP/HTTPS traffic requiring intelligent routing (path-based, containerized apps). ![[Pasted image 20260513171843.png]]
 
 + $ **Network Load Balancer (NLB)** is Static in 1 AZ. Provide extreme performance, low latency, TCP/UDP traffic, or static IP needs, such as gaming, streaming, or IoT applications. ![[Pasted image 20260513171954.png]]
-
 
 
 ### AWS WAF (Web Application Firewall), Shield, Firewall Manager
@@ -1299,7 +1313,6 @@ Layer 4 (Network Load Balancing) - only see the TCP package while Layer 7 see th
 
 + ? Note: AWS CloudWatch used for *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules.*  Monitor Cost and Billing as well.
 
-
 **Access Control Lists (ACLs)** - *manage access to resources (buckets and object/file)* at different levels, such as Amazon *S3 buckets* or *Virtual Private Cloud (VPC) subnets*. Offer fine-grained control - [what is AWS ACL - Search](https://www.bing.com/search?pglt=417&q=what+is+AWS+ACL&cvid=901bf0cd948343409ca93b6b219a83f9&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEIMzc3MGowajGoAgiwAgE&FORM=ANNTA1&PC=U531)
 + $ Often *use to protect private File.*
 + ? You don't have to use ACLs unless Object-level (Object are File) permission are required, just use bucket policies for access control.
@@ -1308,13 +1321,16 @@ Layer 4 (Network Load Balancing) - only see the TCP package while Layer 7 see th
 ### AWS GuardDuty, Inspector, Macie
 -> Analyzing security vulnerability on EC2 instance
 
-**AWS GuardDuty** - continuously *analyzes security-related **AWS logs (VPC flow logs, DNS query logs, Cloudtrail logs).***
+**AWS GuardDuty** - continuously *analyzes security-related **AWS logs (VPC flow logs, DNS query logs, Cloudtrail logs).*** ![[Pasted image 20260514142904.png]]
 + @ Runtime Threat detection. Using **machine learning, anomaly detection, and threat intelligence**,
 Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=LT&pq=AWS+Guard+duty+vs+&sk=CSYN1&sc=10-18&pglt=417&q=aws+guard+duty+vs+inspector&cvid=cfc6bfc399bd4db4acab27279aa027b8&gs_lcrp=EgRlZGdlKgcIABAAGPkHMgcIABAAGPkHMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBwgIEOsHGEDSAQg1NjkwajBqMagCCLACAQ&FORM=ANNTA1&PC=U531):
 	Detects compromised EC2 instances, IAM credential misuse, and unauthorized access.
 	Identifies anomalous API activity, such as high-volume IAM actions.
 	Alerts on network reconnaissance, such as scanning for open ports..
 + ? Monitor real-time *AWS accounts, logs, and network traffic* (like VPC Flow Logs, CloudTrail events, DNS logs, and EKS audit logs).
+
+
+
 
 *VPC Flow Logs* - captures information about *IP traffic going to and from network interfaces in a VPC* (Virtual Private Cloud)
 -> for monitoring, Logs output to CloudWatch, S3 or Data Firehose. ![[Pasted image 20260409130554.png | 777]]
@@ -1362,6 +1378,8 @@ AWS Trusted Advisor - give advises base on action records.
 3. Storage
 4. Network Traffic & Data Transfer
 5. Mics (other cost)
++ ? Priving Model in VPC -> NAT take money. 
+
 
 **Compute Cost:** Instance Type $\times$ Instance Amount $\times$ Runtime
 + ? Cost Scale Up Linearly so be extra careful if renting multiple Hardware. ![[Pasted image 20260407151053.png]]
@@ -1383,9 +1401,7 @@ AWS Trusted Advisor - give advises base on action records.
 [Reference - AWS data transfer cost](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/) 
 + *Transfer OUT (Outbound Data) -* charge for moving data in AWS env to the Internet. While **Inbound data is free in AWS and data transfer within 1 Region** (e.g. from S3 to EC2 in the same AZ) is generally Free, moving data across-region cost a lot) ![[Pasted image 20260513192157.png]]
 + Outbound (across region) - the charge is depend on the distance (source and destination Region) ![[Pasted image 20260513192238.png]]
-
 + *Transitions (Lifecycle) -*  Data Storage Tier based on data Access Frequency to SAVE COST. ![[Pasted image 20260407151804.png]] Lower-cost tier like Glacier offer super low storage cost for infrequent access data.
-
 
 Example of AWS Cloud Billing across layers.
 ![[Pasted image 20260407150302.png]]
@@ -1485,8 +1501,6 @@ Billing governance hierarchy - more explicit the deeper you go.
 **Developer** - 
 **Business** - 
 **Enterprise** - 
-
-
 
 ### [Lab Session](https://zoom.us/rec/play/6hYqLGNN7Pin90ccDHdzwYKW7X6bSDZoDolPHBEwsQBGd7nY1dcv7DCJIEKHl19cvLdG7w-nif5NOKZ-.7D_lWernqB-I9miS?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https://zoom.us/rec/share/VI7U1wf1S5om16eIFLdlrbyOGWLJOyYppeEd4INKns9h8OMP50ClWnKsauB9enZk.0QhjY029W_0aTcmo)
 Pillars of the AWS Well-Architected  -> Security & Performance.

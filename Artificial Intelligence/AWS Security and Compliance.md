@@ -54,8 +54,6 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 -> Access by Root User: a centralize tools to assign workforce identity and manage them across the entire org.  
 ![[Pasted image 20260513113207.png]]
 
-
-
 ### Identity and Access Management (IAM) 
 ![[Pasted image 20260402164326.png]]
 
@@ -106,7 +104,6 @@ AWS KMS offer encryption AT REST for S3- "At rest" in refers to ==securing data 
 
 KMS can have **Multi-Region Keys** -> You just have to create the Primary keys the replica across region. 
 ![[Pasted image 20260402173936.png | 666]]
-
 
 ### AWS Certificate Manager (ACM) 
 Integrations with (load TLS certificates on)
@@ -170,7 +167,7 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 -> Analyzing security vulnerability on EC2 instance
 
 **AWS GuardDuty** - continuously *analyzes security-related **AWS logs (VPC flow logs, DNS query logs, Cloudtrail logs).*** 
-+ @ Runtime Threat detection. Using **machine learning, anomaly detection, and threat intelligence**,
++ @ Runtime Threat detection. Using **machine learning, anomaly detection, and threat intelligence** e.g. detect if ur EC2 instance is communicating with a know malicies IP address,
 Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=LT&pq=AWS+Guard+duty+vs+&sk=CSYN1&sc=10-18&pglt=417&q=aws+guard+duty+vs+inspector&cvid=cfc6bfc399bd4db4acab27279aa027b8&gs_lcrp=EgRlZGdlKgcIABAAGPkHMgcIABAAGPkHMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBwgIEOsHGEDSAQg1NjkwajBqMagCCLACAQ&FORM=ANNTA1&PC=U531): 
 	Detects compromised EC2 instances, IAM credential misuse, and unauthorized access.
 	Identifies anomalous API activity, such as high-volume IAM actions.
@@ -178,8 +175,7 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 + ? Monitor real-time *AWS accounts, logs, and network traffic* (like VPC Flow Logs, CloudTrail events, DNS logs, and EKS audit logs).
 
 **AWS Inspector (identifying risks/vulnability scanner):** *scans EC2/ECR instances*, containers, and Lambda functions for software flaws -> *Scanning resource for vulnability and misconfiguration* like Outdated software, misconfiguration, missing patches or exposed network ports (also support DevOps pipeline). 
-+ ? Monitor real-time Vulnability in *Software* and unintended network setup *(network exposure)*. 
-![[Pasted image 20260402175846.png]]
++ ? Monitor real-time Vulnability in *Software* and unintended network setup *(network exposure)*.  ![[Pasted image 20260402175846.png]]
 
 
 **AWS Inspector vs GuardDuty** in short while:
