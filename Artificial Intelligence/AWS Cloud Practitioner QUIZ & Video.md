@@ -98,7 +98,7 @@ Note:
 	-> Use in Automated Service or Backend Instance. Send order from inside, receive none.  
 Visibility: Invisible. Cannot be scan. 
 
-Within a VPC, Company want initnitate connection between Private and Public Netowork -> NAT gateway bc its allow resource transit from Private subnet to the outside Internet but Prevent outside traffic/request. 
+Within a VPC, Company want initnitate connection between Private and Public Network -> NAT gateway bc its allow resource transit from Private subnet to the outside Internet but Prevent outside traffic/request. 
 + $ Allow Private subnet to communicate with outside Internet but prevent Request from entering private subnet. 
 	Note: traffic is the amount of data within each Request. e.g. data for image, text message, etc..
 
@@ -110,3 +110,19 @@ AWS Support Plan
 + ? AWS service or feature allows users to connect with and deploy AWS services programmatically ? 
 	-> AWS SDK (AWS Software Dev Kits)
 
+---
+TCP (Transmission Control Protocol 
+UDL (User Datagram Protocol)
+Transport Layer Security (TLC) traffic
+Gateway/Application/Network Load Balancer in VPC ? 
+OLTP database?
+AWS Cloud Adoption Frameword (CAF)
+DAX (DynamoDB Accelerator)
+ElastiCache
+AWS services that combine 5G network with AWS compute and storage services for high-performance mobile application.
+CAPEX vs OPEX
+
+- CCP – Billing, Pricing and Support 80%
+- CCP – Cloud Concepts 40%
+- CCP – Cloud Technology and Services 22.22%
+- CCP – Security and Compliance 83.33%
