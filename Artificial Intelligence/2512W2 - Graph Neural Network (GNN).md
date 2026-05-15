@@ -128,16 +128,22 @@ Other Problems:
 
 # Advanced Graph Neural Network (GCN, Graph Relational, Attention & Level-Prediction)
 [Quiz part 2](https://docs.google.com/forms/d/e/1FAIpQLSe0JYSHmpLGE-CiVeOiONSc3GDK9MKkz_IGtHjJpPpAykSe3g/viewform)
+
 ## Edge Feature in GNN
+
 
 
 ## GNN Review: Edge Weight in GNN
 + ? How a NN can process a graph directly. 
 + ! Diminishing or exploding problem in a NN
 
+
 ### Edge Weight in GNN
 
+
+
 ### From CNN to GNN
+
 
 
 ## Relational GNN
