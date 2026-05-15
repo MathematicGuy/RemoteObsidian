@@ -165,19 +165,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "bf9bcf5e4ef0bf98",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,8 +189,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Todo.md",
     "conflict-files-obsidian-git.md",
+    "Todo.md",
     "4 ARCHIVES/2023/Unity/Basic of Unity.md",
     "4 ARCHIVES/2023/Unity/Unity.md",
     "Dev anime Story.md",

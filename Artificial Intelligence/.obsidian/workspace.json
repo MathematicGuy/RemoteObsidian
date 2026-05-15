@@ -37,7 +37,8 @@
               "title": "AI Agent"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,8 +275,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "60450e806d38b5d0",
+  "active": "0d5be0bb39a3c92c",
   "lastOpenFiles": [
+    "2 ACTIONS/_Focus.md",
     "image/Pasted image 20260515235647.png",
     "image/Pasted image 20260515235555.png",
     "image/Pasted image 20260515235543.png",
@@ -286,8 +288,6 @@
     "image/Pasted image 20260515233347.png",
     "image/Pasted image 20260515233303.png",
     "image/Pasted image 20260515233109.png",
-    "image/Pasted image 20260515232250.png",
-    "2 ACTIONS/_Focus.md",
     "Exam Topic CLP Practice.md",
     "AWS Cloud Practitioner.md",
     "AWS Final Exam Revision.md",
