@@ -15,9 +15,6 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 	Mô phỏng cách học của Vin. 9h Sáng -> 1h Trưa học lý thuyết
 	Chiều -> Tối Thực Hành
 
-
-
-
 _System Design Learning Path
 - [ ] [Open Source Model (CHEAP) Inference Provider](https://cloud.siliconflow.com/me/models)  - help you to host and run Open Source AI model  
 + [ ] [Building and deploying task-specific AI Model](https://inference.net/dashboard/dnts-team/p/8ec129ed-0ca4-4416-aeac-8f3a571e81a5/home/) - [inference_ai docs](https://docs.inference.net/introduction)

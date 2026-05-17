@@ -26,9 +26,6 @@
 ![[Pasted image 20240815210906.png]]
 
 
-
-
-
 # Embeddings and Vector Databases
 **Embedding:** turn data like word converted into an array of numbers 
 ![[Pasted image 20240815212148.png]]
@@ -37,16 +34,6 @@ Word with close meaning, stay close to eachother.
 
 Google search engine for image work the same way. Each image section get converted into an array of number allow you to find pattern for similarity for those closely embedding vector.  
 ![[Pasted image 20240815212346.png]]
-
-
-
-
-
-
-
-
-
-# Language Model
 
 
 
