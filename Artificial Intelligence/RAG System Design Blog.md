@@ -135,8 +135,6 @@ Scenario 4: Remove Embedding model -> what is the Consequences)
 ## Code Documentation
 
 
-
-
 **Trick** - reference: [best practice for RAG indexing](https://www.meilisearch.com/blog/rag-indexing)
 	*Alway start with clean and meaningful data:* Never dump everything into the index. Remove duplicates and filter out low-value text, such as headers, navigation menus, or disclaimers. Cleaner input means cleaner retrieval and fewer irrelevant matches later.  
 	Chunk by meaning not fixed lenght
