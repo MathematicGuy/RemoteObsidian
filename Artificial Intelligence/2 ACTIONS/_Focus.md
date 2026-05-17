@@ -9,14 +9,16 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 
 *Todo this Week*
 - [ ] Xác nhận xe cho bảo vệ -> Lấy xe ra khỏi hầm -> [Làm lại giấy đăng kí xe Trực Tiếp vì ko làm đc online.](https://www.google.com/search?q=l%C3%A0m+l%E1%BA%A1i+gi%E1%BA%A5y+%C4%91%C4%83ng+k%C3%BD+xe+qu%E1%BA%ADn+C%E1%BA%A7u+Gi%E1%BA%A5y+v%C3%A0o+cu%E1%BB%91i+tu%E1%BA%A7n+c%C3%B3+%C4%91c+kh%C3%B4ng+%3F&client=firefox-b-d&hs=Easp&sca_esv=3879cc3584fdf07d&sxsrf=ANbL-n4P-Z0k5BfDBDRaXmidwClmt4DSUA%3A1778638148248&ei=RN0DapHkDqPi2roP3K-q4Qk&biw=1285&bih=1038&ved=0ahUKEwiRloq4l7WUAxUjsVYBHdyXKpwQ4dUDCBE&uact=5&oq=l%C3%A0m+l%E1%BA%A1i+gi%E1%BA%A5y+%C4%91%C4%83ng+k%C3%BD+xe+qu%E1%BA%ADn+C%E1%BA%A7u+Gi%E1%BA%A5y+v%C3%A0o+cu%E1%BB%91i+tu%E1%BA%A7n+c%C3%B3+%C4%91c+kh%C3%B4ng+%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiV2zDoG0gbOG6oWkgZ2nhuqV5IMSRxINuZyBrw70geGUgcXXhuq1uIEPhuqd1IEdp4bqleSB2w6BvIGN14buRaSB0deG6p24gY8OzIMSRYyBraMO0bmcgP0jlElAAWMgRcAB4AJABAJgBf6ABiBCqAQQ4LjEyuAEDyAEA-AEBmAIKoAKxCMICBxAjGLACGCfCAgUQABjvBcICCBAAGKIEGIAEwgIEECEYCpgDAOIDBRIBMSBAkgcDNC42oAeWYbIHAzQuNrgHsQjCBwUwLjYuNMgHGYAIAQ&sclient=gws-wiz-serp)
-- [ ] [Finished AIO AWS Quiz](https://notebooklm.google.com/notebook/b5e10c60-b18e-4a7e-8a76-98d1c25dbd04)
+- [ ] 
 - [ ] Học song song AI Agent (Thực Hành) và cách Evaluate RAG
 	Flexible với thiết kế hệ thống. 
 	Mô phỏng cách học của Vin. 9h Sáng -> 1h Trưa học lý thuyết
 	Chiều -> Tối Thực Hành
 
+
+
+
 _System Design Learning Path
-- [ ] Hand On Live Practice - [NeXTWORK](https://learn.nextwork.org/projects/ai-prompt-engineering-research?track=low)
 - [ ] [Open Source Model (CHEAP) Inference Provider](https://cloud.siliconflow.com/me/models)  - help you to host and run Open Source AI model  
 + [ ] [Building and deploying task-specific AI Model](https://inference.net/dashboard/dnts-team/p/8ec129ed-0ca4-4416-aeac-8f3a571e81a5/home/) - [inference_ai docs](https://docs.inference.net/introduction)
 

@@ -186,7 +186,7 @@ Note: CloudFront is the network that provide Cache.
 
 *Common DR Approaches:*
 + Backup and Restore - backup in another region after failure
-+ Pilot Light -
++ Pilot Light or Warn Standby - keep minimal part of the system running.
 
 + ! Regional Server is a Huge Open Network that you have minimal control over.
 + $ _A VPC seperates the giant network_ of the AWS data centers _into smaller isolated virtual network_ and let you build out rules about what networked resources you want to be able to talk to what other networked resources.
@@ -201,10 +201,19 @@ Note: CloudFront is the network that provide Cache.
 ![[Pasted image 20260313005706.png]]
 + *Backup & Restore* - backup data in another Region and restore data after the incident.
 + *Pilot Light* - keep env always Running at LOW. ie. *server run at minimal condition.*
-+ *Warm Standby* - keep a *scaled-down but functional env running.*
+	-> Only keep the essential source required to keep the system UP and RUNNING, hence pilot light. 
+	-> Why ? System scale-up to full capacity after disaster faster compare to complate shutdown. 
+	+ ? keep system running in *MINIMAL state,* this mean *only the Database kept running* while shutting down the Compute Capacity, EC2 setup are kept as AMIs or CloudFormation templates for later recovery 
+	
++ *Warm Standby* - keep a *scaled-down but functional env running.* What the different compare to Pilot Light ???
+	-> Like Pilot Light, but more portion of the system keep running instead of minimal. 
+	+ ?  maintaining infrastructure in a *READY state* include the entire environment in reduced capacity.   
+	
 + *Multi-Site (Active-Active)* - achieve zero-downtime by running prod workloads across Multi-Region at the same time.
 + @ **Exam Tips:** remember Multi-AZ HA help HA and Multi-Region HA help Regional DR.
 + ? Contries compliance and regional latency are often more important than cost in scenario question bc cheap region could not be ultilize it a useless server.
+![[Pasted image 20260517154516.png]]
+
 
 
 *Multi-AZ (in 1 Region) ko thay thế đc Multi-Region Disaster Recovery* if the Disaster is over a Region.
@@ -634,8 +643,11 @@ Scaling Cooldowns - *sometime resource could not distributed data fast enough* t
 ---
 
 ### 3.3 Storage Tiering System
-*Important Note:* make usecase for each concepts that how business work. Like with this new function, what can I do with it -> Help gorup concepts with usecase and context.
-[quiz](https://forms.gle/xuyqzAUaZqDjnVHS8)
+*Important Note:* make usecase for each concepts that how business work. Like with this new function, what can I do with it -> Help gorup concepts with usecase and context. - [quiz](https://forms.gle/xuyqzAUaZqDjnVHS8)
+
+S3 minimal Object size is 128kb -> if object smaller than 128, S3 still save the Obj as 128kb.  
+You could move data to any tier instantly as the image below show. No Minimum time required. 
+*Bulk Retrieval* is Free.
 
 **Key S3 Glacier Storage Class Types:**
 ![[Pasted image 20260323183009.png]]
@@ -644,7 +656,9 @@ Scaling Cooldowns - *sometime resource could not distributed data fast enough* t
 *Requests:* Costs per 1,000 PUT, COPY, POST, or GET requests (varies by tier).
 *Data Transfer:* Data transferred _into_ S3 is free; data transferred _out_ to the internet or other regions incurs costs.
 
-*S3 Glacier Instant Retrieval*
+*S3 Standard IA* - 30 days. Want to save but retrieved immediately when needed -> suitable to archive message in ZALO. 
+
+*S3 Glacier Instant Retrieval (most Expensive for Retrieval*
 + Use Case: Medical images, news media assets, or infrequently accessed data needing immediate access.
 + Retrieval Time: Milliseconds
 + Min Duration - 90 days
@@ -1380,7 +1394,6 @@ AWS Trusted Advisor - give advises base on action records.
 5. Mics (other cost)
 + ? Priving Model in VPC -> NAT take money. 
 
-
 **Compute Cost:** Instance Type $\times$ Instance Amount $\times$ Runtime
 + ? Cost Scale Up Linearly so be extra careful if renting multiple Hardware. ![[Pasted image 20260407151053.png]]
 **EC2 Instance Cost Optimizer strategies**
@@ -1397,6 +1410,12 @@ AWS Trusted Advisor - give advises base on action records.
 
 + *Request Volumn (PUT/GET) -*  Every API calls taken to manage or access data in S3 incurs a small "micro-charge".
 	+ ? `PUT`, `COPY`, `POST`, or `LIST` requests (uploading/managing) are more expensive than `GET` requests (retrieving data)
+
+
+
+**AWS "Compute Saving Plans" vs "EC2 Instance Saving Plans"**
++ "Compute Saving Plans" -  saving/discount apply to multiple AWS service like EC2, Lambda and Fargate but cap at `66%` discount. 
++ "EC2 Instance Saving Plans" -  have higher discount % up to `72%` discount. 
 
 [Reference - AWS data transfer cost](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/) 
 + *Transfer OUT (Outbound Data) -* charge for moving data in AWS env to the Internet. While **Inbound data is free in AWS and data transfer within 1 Region** (e.g. from S3 to EC2 in the same AZ) is generally Free, moving data across-region cost a lot) ![[Pasted image 20260513192157.png]]
