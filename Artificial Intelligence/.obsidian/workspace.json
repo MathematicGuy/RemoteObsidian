@@ -37,8 +37,7 @@
               "title": "RAG System Design Blog"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,6 +317,26 @@
             "id": "33a9d2c523e29915",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5a5e6bd4d4b01463",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b85f86c454aba546",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -325,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -346,7 +365,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b41764e192506200",
+  "active": "b85f86c454aba546",
   "lastOpenFiles": [
     "image/Pasted image 20260512161706.png",
     "image/Pasted image 20260512155337.png",

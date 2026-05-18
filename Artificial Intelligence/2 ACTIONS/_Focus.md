@@ -8,10 +8,9 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 
 
 _System Design Learning Path
-- [ ] Hand On Live Practice - [NeXTWORK](https://learn.nextwork.org/projects/ai-prompt-engineering-research?track=low)
 - [ ] [Open Source Model (CHEAP) Inference Provider](https://cloud.siliconflow.com/me/models)  - help you to host and run Open Source AI model  
 + [ ] [Building and deploying task-specific AI Model](https://inference.net/dashboard/dnts-team/p/8ec129ed-0ca4-4416-aeac-8f3a571e81a5/home/) - [inference_ai docs](https://docs.inference.net/introduction)
-
+- [ ] [AI Engineering from Scratch for Free](https://aiengineeringfromscratch.com/)
 
 
 _Project
