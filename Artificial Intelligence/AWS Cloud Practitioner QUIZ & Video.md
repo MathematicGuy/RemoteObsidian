@@ -121,8 +121,3 @@ DAX (DynamoDB Accelerator)
 ElastiCache
 AWS services that combine 5G network with AWS compute and storage services for high-performance mobile application.
 CAPEX vs OPEX
-
-- CCP – Billing, Pricing and Support 80%
-- CCP – Cloud Concepts 40%
-- CCP – Cloud Technology and Services 22.22%
-- CCP – Security and Compliance 83.33%

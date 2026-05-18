@@ -95,6 +95,16 @@ However, *why use 1 when you could use Both*. In LLMOps, we could run Small Mode
 *Elasticity* talk about *Optimize Resource usage with Auto-Scaling*, how *efficiency your system expand and shrink to handle fluctuated traffic* without over-provision.
 -> Question ask the user compare Agility and Elasticity.
 
+### AWS CAF - Cloud Adoption Framework
+CAF -> a blueprint for Cloud Adoption to ensures not just the IT but the Entire Company ready for this transition. This include the *Business, People, Governance, Platform, Security, and Operations.*
+**Business -** Align Cloud (investment 2 profit) with business strategy ensure adoption drives measurable business outcomes. First it must benefit the business
+**People -** Prepares the workforce by mentoring, training employees to adopt cloud skills, roles and managing org changes. Next we must direct Cloud knowledge and skills to people so ppl are aware of it. 
+**Governance -** Manages and measures cloud invesments to minimize risks and maximize business value. Then there come governance, which allow us to take control of the tools, ppl at hand, put the right ppl to the right work. 
+**Platform -** Designing, building and optimizing scalable, cloud-native architecture. Now, we focus on designing the cloud platform to finally adopt the cloud to the company. 
+**Security -** Established compliance, data protection and identity controls to secure cloud workloads. When MVP is complish, integrate security is a must.
+**Operations -** ensure software and services are delivered at high quality with minimal downtime => this is after the Business goal is set, people are informed, Governance strategies is set, Platform been build, Security integrate, the 1 thing left is to Operate the Cloud.
+
+
 ---
 ## Lesson 2: AWS Global Architecture
 + @ *Goal:* Chọn Region phù hợp cho workload
@@ -176,8 +186,7 @@ Note: CloudFront is the network that provide Cache.
 
 *Common DR Approaches:*
 + Backup and Restore - backup in another region after failure
-+ Pilot Light -
-
++ Pilot Light or Warn Standby - keep minimal part of the system running.
 
 + ! Regional Server is a Huge Open Network that you have minimal control over.
 + $ _A VPC seperates the giant network_ of the AWS data centers _into smaller isolated virtual network_ and let you build out rules about what networked resources you want to be able to talk to what other networked resources.
@@ -192,10 +201,19 @@ Note: CloudFront is the network that provide Cache.
 ![[Pasted image 20260313005706.png]]
 + *Backup & Restore* - backup data in another Region and restore data after the incident.
 + *Pilot Light* - keep env always Running at LOW. ie. *server run at minimal condition.*
-+ *Warm Standby* - keep a *scaled-down but functional env running.*
+	-> Only keep the essential source required to keep the system UP and RUNNING, hence pilot light. 
+	-> Why ? System scale-up to full capacity after disaster faster compare to complate shutdown. 
+	+ ? keep system running in *MINIMAL state,* this mean *only the Database kept running* while shutting down the Compute Capacity, EC2 setup are kept as AMIs or CloudFormation templates for later recovery 
+	
++ *Warm Standby* - keep a *scaled-down but functional env running.* What the different compare to Pilot Light ???
+	-> Like Pilot Light, but more portion of the system keep running instead of minimal. 
+	+ ?  maintaining infrastructure in a *READY state* include the entire environment in reduced capacity.   
+	
 + *Multi-Site (Active-Active)* - achieve zero-downtime by running prod workloads across Multi-Region at the same time.
 + @ **Exam Tips:** remember Multi-AZ HA help HA and Multi-Region HA help Regional DR.
 + ? Contries compliance and regional latency are often more important than cost in scenario question bc cheap region could not be ultilize it a useless server.
+![[Pasted image 20260517154516.png]]
+
 
 
 *Multi-AZ (in 1 Region) ko thay thế đc Multi-Region Disaster Recovery* if the Disaster is over a Region.
@@ -223,14 +241,31 @@ Multi-AZ for normal usage (protect data center failure) - low lantency - don't n
 + @ Goals: Draw the entire AWS infrastructure and explain the design.
 + ? Visualize traffict direction and AWS infrastructure as we explain.
 
-*AWS Shared Responsibility Model* -  AWS manages security **"of"** the cloud *(physical infrastructure, hardware, software, networking)*, while customers manage security **"in"** the cloud *(data, applications, OS patching, configurations)*
-
 *Synchronous* = Multi-AZ (same region, high speed, zero data loss)
 	send and receive at the same time.
 *Asynchronous* = Multi-Region (different region, lower speed, disaster recovery)
 	both size send data with latency gaps in between, allowing the receiver to process each byte as it arrives.
-
 [Good Disaster Recovery Video](https://youtu.be/s_K-ntsb-cM?si=tpGSni0wVO01fGbl)
+
+### *AWS Shared Responsibility Model* - note in Security section
+AWS manages security **"of"** the cloud *(physical infrastructure, hardware, software, networking)*, while customers manage security **"in"** the cloud *(data, applications, OS patching, configurations).* 
+
+*Divider line between Customer and AWS*
+![[Pasted image 20260513135037.png | 777]]
+
+
+### AWS Resource Name
+![[Pasted image 20260513103453.png]]
+![[Pasted image 20260513103512.png | 666]]
+
+## Infrastructure as Code (IaC)
+Write configuration script to **AUTOMATE AWS Configuration** (Creating, Updating or Destroying service) to 1 single file 
+-> *IaC is a blueprint of ur AWS infrastructure* -> SUPER USEFUL. 
+-> IaC allows you to share, version or inventory your cloud infrastructure.
+![[Pasted image 20260513104543.png]]
+### Cloud Formation -> basically AWS Configuration file written in YAML by default
+![[Pasted image 20260513104705.png]]
+
 
 ----
 ## Lesson 3: AWS Infrastructure + Compute Cloud and Serverless
@@ -299,10 +334,16 @@ AWS Lambda upon triggering:
 
 + Example: AWS Lambda *run your API defined Function within a Docker Container Image or Zip Code Package when a Input Event is Trigger.* - Kind of like Docker to be honest but their Cloud Server is your Desktop.
 
+
 **DynamoDB** - High-performance *NoSQL* that support massive scale (*Multi-AZ*). Auto-Scale, Low Operational Cost. ![[Pasted image 20260323173024.png]]
+![[Pasted image 20260513110340.png]]
+
+![[Pasted image 20260513110650.png]]
+ 
+
 *Read/Write Capacity Mode*
 + Provisioned Capacity Mode (Default) - Pay for predefine resource (RCU - Read Capacity Units, WCU - Write Capacity Units).
-+ One-Demand Capacity Mode - Auto-scaling, Pay for what you used but more Expensive.
++ On-Demand Capacity Mode - Auto-scaling, Pay for what you used but more Expensive.
 ![[Pasted image 20260323173148.png]]
 
 DynamoDB DAX - improve *READ* and *reduce load on tables.*
@@ -320,11 +361,9 @@ Kinesis act as the main storage manage continuous stream of data.
 *API Gateway* - use to *call Lambda Function* to call REST API
 ![[Pasted image 20260323174215.png]]
 
-
-
-
-
-*EC2 Instance Family* ![[Pasted image 20260320171947.png]]
+### EC2 Instance Family
+![[Pasted image 20260513111242.png]]
+![[Pasted image 20260320171947.png]]
 **Use Case Note:**
 + General -> mid tier (good for general use in mid web/app)
 + Memory Optimized for in-memory cache optimize scenario (ie. in RAM)
@@ -395,6 +434,8 @@ Note that AWS Auto-Scale doesn't responsible for Cyber Attack bc its not Physica
 
 *EC2 - Private & Public IP (IPv4)*
 ![[Pasted image 20260320211144.png]]
+EC2 Instant Store - store data temporary in the Instance, but auto-delete it the instance it STOP. 
+
 
 *Elastic IPs* - If 1 EC2 instance fail, its IP address will be move to another EC2 instance replica to make sure the instance is always available. -> 2 diff instanec but the same IP -> that how website keep running even if 1 EC2 fail.
 
@@ -438,8 +479,6 @@ Have 2 types:
 ![[Pasted image 20260323180230.png]]
 + $ If Auto-Scaling enable, ECS could deploy Container within each EC2 instance.
 	+ ? Cần cài ECS Agent để autoscale docker bên trong EC2 instance.
-
-
 
 #### Placement Groups
 *Cluster Placement Groups* - group of EC2 that close together in a single AZ -> Help reduce Latency between Instance.  ![[Pasted image 20260321004956.png]]
@@ -506,7 +545,6 @@ Note that *Serverless mean you don't need to setup anything. Just Plug-n-Play.* 
 While *EBS (like S3) is single AZ & Manual-Scaling*, *EFS is multi-AZ & HA & Auto-Scaling*. Allowing *great used as the Central Data/Content Management System* -> Simplified Shared Content across Region. *Where EFS act as the main DB* where EBS across Region retrieval just the right data from it.
 ![[Pasted image 20260323161146.png]]
 
-
 *EBS vs EFS vs Instance store vs S3* as a whole.
 EBS act as the Long-Term storage within 1 AZ having their volumn's snap-shot stored in A3.
 -> S3 coud be use for Backup. And EBS act as the Harddrive of the server.
@@ -517,9 +555,9 @@ EC2 Instance act as the Cache so High Performance.
 ![[Pasted image 20260323161313.png]]
 Ref: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html
 So
-+ EFS act is a multi-AZ shared network folder that hundreds of servers across region can access.
-+ EBS act is a single-AZ attachable databases for server. Like a Harddrive
-+ S3 is a Object storage (files + metadata), can be access gloably.
++ **EFS** act is a **multi-AZ** *shared network folder* that hundreds of servers across region can access.
++ **EBS** act is a **single-AZ** *attachable databases* for server. Like a Harddrive
+	+ **S3** is a **Object storage** (files + metadata), can be **access gloably.**
 
 *Scalability & HA*
 Vertical Scalability -> Upgrade a Instance (more CPU, GPU, RAM, etc..)
@@ -555,7 +593,6 @@ ELB could *route Traffic in 3 different Path:*
 
 2. Query Strings/Parameters Routing
 ![[Pasted image 20260323164418.png | 777]]
-
 
 **Network Load Balancer** - locate at *Layer 4* becore ALB -> *Point directly at TCP/UIP Instance*
 ![[Pasted image 20260323164619.png]]
@@ -605,9 +642,12 @@ Scaling Cooldowns - *sometime resource could not distributed data fast enough* t
 
 ---
 
-### 3.3 Storage System in AI & in Data Platform
-*Important Note:* make usecase for each concepts that how business work. Like with this new function, what can I do with it -> Help gorup concepts with usecase and context.
-[quiz](https://forms.gle/xuyqzAUaZqDjnVHS8)
+### 3.3 Storage Tiering System
+*Important Note:* make usecase for each concepts that how business work. Like with this new function, what can I do with it -> Help gorup concepts with usecase and context. - [quiz](https://forms.gle/xuyqzAUaZqDjnVHS8)
+
+S3 minimal Object size is 128kb -> if object smaller than 128, S3 still save the Obj as 128kb.  
+You could move data to any tier instantly as the image below show. No Minimum time required. 
+*Bulk Retrieval* is Free.
 
 **Key S3 Glacier Storage Class Types:**
 ![[Pasted image 20260323183009.png]]
@@ -616,7 +656,9 @@ Scaling Cooldowns - *sometime resource could not distributed data fast enough* t
 *Requests:* Costs per 1,000 PUT, COPY, POST, or GET requests (varies by tier).
 *Data Transfer:* Data transferred _into_ S3 is free; data transferred _out_ to the internet or other regions incurs costs.
 
-*S3 Glacier Instant Retrieval*
+*S3 Standard IA* - 30 days. Want to save but retrieved immediately when needed -> suitable to archive message in ZALO. 
+
+*S3 Glacier Instant Retrieval (most Expensive for Retrieval*
 + Use Case: Medical images, news media assets, or infrequently accessed data needing immediate access.
 + Retrieval Time: Milliseconds
 + Min Duration - 90 days
@@ -661,20 +703,58 @@ Db Migration service:
 AWS Neptune - graph database service for highly connected datasets, such as recommendation engines, fraud detection, and knowledge graphs.
 AWS SQS - allow user to decouple and expand microservice. Distributed system and serverless application.  Use Queue.
 AWS Kinesis Data Streams design to process large amount of realtime data.
-AWS *Redshift* - serverless cloud storage, *analyze large data* in TERA to PETABYTE for BI.
+AWS *Redshift * - serverless cloud storage, *analyze large data* in TERA to PETABYTE for BI.
 AWS Snowball - service that move data from on-premise to Cloud in Terabyte and Petabyte scale (hence snowball (rolling))
-
 AWS Glue is for ETL (extract, transform, load)
 AWS Storage Gateway is a hybrid-cloud storage service *for connecting on-premise with AWS Cloud.*
 Read Replica help with Read Scability bc it reduce load on a single database.
 *Redit in ElastiCache* support advance Data structure, persistant storage via AOF and HA through multi-AZ and read replicas.
 	Note that DAX is build for DynamoDB not other DB engine.
 
-
 *[Parquet Format](https://data-mozart.com/parquet-file-format-everything-you-need-to-know/):* It is self-describing, containing metadata, and supports schema evolution
 ![[Pasted image 20260324013131.png | 777]]
 
-### AWS ElastiCache - Manage Caching Engines
+### Large Data Migration (Snow Family have EXPIRED)
+storage and compute device used to **Physically move data** in or out of the cloud.
++ ! Snowmobile and AWS Snowball Edge service has **Expired**.  ![[Pasted image 20260513105407.png]]
+
+AWS Snowball Edge is no longer available to new customers. **New customers should** explore [AWS DataSync](https://aws.amazon.com/datasync/) for online transfers, [AWS Data Transfer Terminal](https://aws.amazon.com/data-transfer-terminal/) for secure physical transfers, or AWS Partner solutions. For edge computing, explore [AWS Outposts](https://aws.amazon.com/outposts/). Learn more about your [options](https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html).
+![[Pasted image 20260513212013.png]]
+**DataSync (online)** - Simplify and accelerate secure data migrations and transfers
+	AWS DataSync give high performance of its transfers directly into [Amazon S3](https://aws.amazon.com/s3/). Although you could use AWS Direct Connect as well. 
+-> It handles complex tasks like scheduling, monitoring, and data integrity validation automatically.
+
+Compare to Direct Connect - **literally involves plugging a physical fiber-optic cable** to establish a private network connection. They plug your physical router to aws router port.
+Note: 
++ For database migrations, use AWS DMS rather than DataSync.
++ you could Combine Direct Connect with DataSync. 
+	Direct Connect provides the **physical highway**. Tools like AWS DataSync are still required to run on top of that highway to actually look at your data storage, copy the files, and transfer them into AWS
+![[Pasted image 20260513213056.png]]
+
+
+**AWS Data Transfer Terminal (physical)** - allow physical location for on-demand data uploads.
+-> move Physically like Snow Familly. But AWS provide a physical location where you bring your own storage devices (like NAS or hard drives) to upload data directly into the AWS network 
+
+**AWS Outputs (Hybrid)** use AWS infrastructure directly at your company
+-> Hybrid migration service to support latency-sensitive applications. *To Only migrate your Latency-Sensitive service, NOT ALL of them.*
+
+### AWS RedShift - Managed datawarehouse for data analysist
++ @ **Analyze all your data using standard SQL** and existing BI tools.
+
+### AWS ElastiCache -> Adding cache to your Database/Webserver
+-> help **CACHE from MULTIPLE SOURCE OF TRUTH (e.g. Database, Storage)** -> Reduce read replica footprint and save costs with ElastiCache - [reference](https://aws.amazon.com/blogs/database/optimize-cost-and-boost-performance-of-rds-for-mysql-using-amazon-elasticache-for-redis/)
+	Note that only the Result Queries are cache, not the entire database. duh.
+![[Pasted image 20260513183049.png]]
+
++ ? How it work: If frequent data not in Cache then:
+	1. Your application intercepts a user request.
+	2. It queries **ElastiCache** first.
+	3. If the data is missing (a _cache miss_), the application queries **RDS/Aurora**.
+	4. The application saves that fresh database data back into **ElastiCache** for the next request
+
++ ? **UseCase:** replaced RDS for MySQL read replicas and provided the read capacity from the ElastiCache cluster. Adding a fully distributed ElastiCache cluster is less expensive than adding read replicas, which provides comparable levels of read capacity at a lower cost with better performance ![[Pasted image 20260513183357.png]]
+
+
 ![[Pasted image 20260407173344.png]]
 
 ![[Pasted image 20260407174154.png]]
@@ -717,7 +797,10 @@ Amazon RDS can upgrade *From Single-AZ to Multi-AZ with No Downtime*
 
 
 ### Amazon Aurora (Relational Database) & RDS
-+ $ Serverless Relational Database built for Disaster Recovery (cost ~20% more than RDS)
++ $ *Serverless HIGH PERFORMANCE Relational Database* built for Disaster Recovery (cost ~20% more than RDS) faster than standard MySQL/PostgreSQL. 
+	Aurora run in sub-milisecond (0.01 - 0.9ms)
+	DynamoDB (NoSQL) run in single-digit milisecond (e.g. 1-10ms)
+	RDS run in Milisecond (e.g. 10-200ms)
 ![[Pasted image 20260323204036.png]]
 Compatible with MySQL and PostgreSQL.
 Cost: *~20% More than RDS*
@@ -726,11 +809,7 @@ Each Aurora (Arr) instance have 6 copies across 3 AZ. Storage is distributed acr
 ![[Pasted image 20260323204134.png]]
 *Only the Master storage responsible for Write*. Every other DB for read, replication, self-healing and auto-expanding.
 -> *Fault-tolerant storage* system that replicates data across 3 Availability Zones.
-
-
-Auto-Scale
-Shared Storage Volumn
-Is Serverless
+-> Auto-Scale, Shared Storage Volumn, Is Serverless
 ![[Pasted image 20260323204242.png]]
 -> Cost effective for Low/Intermittent workloads.
 Aurora Global architecture - 1 Primary Region (read/write) and 5 secondary region (read-only). Each 2ndary supports up to 16 read replica.
@@ -747,10 +826,18 @@ Aurora Snapshot always create new DB Snapshot.
 	+ Cost only inccur for new data after the copy Point-Of-Time.
 ![[Pasted image 20260323205958.png]]
 
+### So how to choose the Right Service 
+between RDS, Neptune, DynamoDB, AWS Timestream for InfluxDB (not Kinesis), ElastiCache or MemoryDB.
+	Need Fast NoSQL service -> DynamoDB
+	Standard RelationalDB (SQL) -> RDS
+	Need Cache queries for your DB for fast frequent queries -> ElastiCache 
+	Time Series -> AWS Timestream
+	Store Graph -> Neptune
+	Need more Memory -> ElastiCache or MemoryDB.
 
-*AWS Solutions for Decoupling (1 break, other keep working)* - all 3 methods can be combine base on your needs.
+### AWS Solutions for Decoupling (1 break, other keep working)
+-> all 3 methods can be combine base on your needs.
 ![[Pasted image 20260323232942.png | 777]]
-
 
 ### AWS SQS - Allow you to *Preserve Message* within a Queue *until it is processed and explicitly deleted (timeout)* -> Resilience
 Help decouple application layer (distribute), so if 1 components fail then the messages is still safely save within the Queue.
@@ -951,8 +1038,7 @@ Of course you need Multi-AZ and Multi-Region but how much ? what is the right Th
 **Multi-site Active/Active** - Runs full production workloads across two or more regions like nothing happened.
 ![[Pasted image 20260324175911.png]]
 
----
-## Lesson 5 - AWS Networking & Delivery
+## Lesson 6 - AWS Networking & Delivery
 + @ **Goals:** Set up the best network for your Enterprise
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc8K0MHiVh5T5yz3v6-M5c-Ed6U60Qo-MPBTJbiCuORLSkLGA/viewform)
 ![[Pasted image 20260326203651.png | 888]]
@@ -960,7 +1046,6 @@ VPC (Virtual Private Cloud) is a logically isolated section of the AWS cloud whe
 + *IP Address Range:* Define the boundary of our data center.
 + *The Internal Connection:* In our private space, we set the rule for server work. We don’t want they talking together.
 + *Gateway/Access:* Our server is 100% isolated from the public internet, we need open the door for customer access.
-
 + Question: We’re moving company’s servers to the cloud. And we want it as our *own private data center*. What are exactly we want ?
 
 ### Private Network in AWS
@@ -975,17 +1060,14 @@ Primary point of using CIDR and subnet masks in AWS:
 Base Address: 176.16.XX
 	16 free bits.
 	XX -> freebits -> can change flexibly.
-
 8 số 1 là Broadcast address.
 
 ### Controlling Traffic Flow
 ![[Pasted image 20260326210340.png]]
 
 Route Table - default route table
-
 Đi vào: Inbound -> Internet Gate way -> VPC -> Public Subnet
 Đi ra: Public Subnet -> Internet Gateway
-
 
 **Nat Instance** - Instance nên nó là 1 service.
 Vì Private subnet ko đi vào từ bên ngoài dc nên nó cần kết nối với NAT instance (NAT có public IP, giúp kết nối đc ra bên ngoài). Làm *trung gian giữa Public và Private subnet.*
@@ -1004,23 +1086,45 @@ Security Group at Instance level.
 ![[Pasted image 20260326212203.png]]
 Stateful - allow the return traffic automatically
 
-*Network ACL* (security at subnet level - *stateless Firewall*) - *control what goes in and out of the Subnet/VPC* or used for S3 Object access control.
+*Network ACL (NACL)* (security at subnet level - *stateless Firewall*) - *control what goes in and out of the Subnet/VPC* or used for S3 Object access control.
 ![[Pasted image 20260326212359.png]]
 
+*NAT Gateway vs NACL*
+	NAT Gateway - **Scope:** Acts as a gateway inside a public subnet to route private traffic -> Translates *private IP to public IP for internet access.*
+	NACL (Network *Access Control* List) - **Scope:** Applies to all instances in associated subnets -> *Allows/Denies* (Permit/Drop) traffic.
+
+NAT Gateways ($0.045/hr + $0.045/GB data processed in US East-1) are generally more expensive for high-volume internet traffic, while V*PC Gateway Endpoints for S3/DynamoDB are free*
+-> Outbound Cost for VPC are FREE while NAT Gateways cost money because NAT process data before letting it pass through and VPC is just the endpoint that public internet can't see, while outbound connection is allow and connection within the VPC allow as well without the processing step which cost money btw. 
+![[Pasted image 20260515165121.png]]
+![[Pasted image 20260515165134.png]]
+
+
+
+**Network Access Control List (NACL) vs Route Table vs Security Group**
+![[Pasted image 20260513180016.png]]
++ ! Even if NACL setup correctly for what go in and out, Security allow all outbound traffic, but the EC2 will not have connection to the Internet if the RouteTable isn't setup Correctly -> This mean Route Table must point to the NAT gateway,
+
+NACLs mange *what Traffic Go In and Out of the subnet (VPC) like a firewall.* (subnet level)
+-> act like a **firewall for controlling traffic in and out of one or more subnets**.
+-> *A Subnet can be assigned only 1 NACL* and if not associated explicitly would be associated implicitly with the default NACL (1-M relationship with Subnet)
+-> are **Stateless**; responses to allowed inbound traffic are subject to the rules for outbound traffic (and vice versa). This mean Inbound rule require Outbound rule as well.   
+
+Route Table *direct traffic (routing)* (subnet level)
+
+Security Groups allows *separate rules for inbound and outbound* traffic at *Instance level.*
+-> Acts at an Instance level and *not at the subnet level.*
+-> Each instance within a subnet can be assigned a different set of Security groups
 
 ### Naming & Access: DNS
 A record - route traffic to IPv4
 C name - route traffic from a domain to another domain (between 2 domain)
 Alias - turn on (maintain connection to IPv4)
 
-<<<<<<< HEAD
----
-## [[AWS Security and Compliance]]
+## Lesson 7 - [[AWS Security and Compliance]]
 
-![[Pasted image 20260402163224.png]]
+**AWS Security Infrastructure** ![[Pasted image 20260402163224.png]]
 
 ![[Pasted image 20260402162951.png]]
-
 
 ### Shared Responsibility (Physical and Software)
 **AWS Responsibility (Infrastructure)** - Security "OF" the Cloud
@@ -1044,7 +1148,6 @@ Alias - turn on (maintain connection to IPv4)
 **EC2 App Deployment (IaaS):**
 + *AWS:* Protect their HardDrive, Maintaint their server rack, protect internet connection not like Cloud Flare.
 + *User:* Make sure the Data & Software is save without misconfiguration, setup S*ecurity Group and VPC to make sure your app doesn't expose to the public.* Granting only the *minimum permissions using IAM Principle of Least Provilege* necessary for users, roles, or services to perform specific tasks.
-
 
 **Platform as a Service (PaaS) - Amazon RDS**
 You don't have enough money to extend your Database for the Upcoming high Traffic day. TO reduce the operation overhead and cost you move the RAG's system database out of EC2 and into AWS RDS (relational database system) -> *Don't worry about Scaling, Setup DBMS* (Data Base Management System like Microsoft SQL Server, MySQL, MongoDB, Oracle Database, etc..) *for your Database.*
@@ -1072,8 +1175,6 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 ![[Pasted image 20260402163850.png]]
 ![[Pasted image 20260402163915.png]]
 
-
-
 *Root* is the highest level of (policies) Container, use to apply basic policies for all Account (usually use to *Define Basic Rules and Policies* for all account). *Like Discord Admin.*
 	Each managed *account* can be *invited from outside or created within the org.*
 + *Organization Units (OU):* group of Account that have the same policies.
@@ -1099,7 +1200,11 @@ AWS KMS - can be integrated with **Amazon S3, EBS, RDS, Lambda, and SSM** to han
 	Because *data is encrypted by key*, key enryption also mean data encryption. ![[Pasted image 20260402170917.png]]
 
 *AWS KMS and Secret Manager are complementary* security service
-+ ? Secrets Manager stores, manages, and rotates sensitive data (API keys, passwords), using KMS to encrypt this data at rest.
++ ? Secrets Manager stores, manages, and *rotates sensitive data (Secret Value like password string or API keytext and the Secret's Version)*, using KMS to encrypt this data at rest.
+	What stay the same:
+		*Encryption Keys* -> AWS KMS key used to encrypt the secret remains exactly the same.
+		*ARN* -> AWS ARN must stay the same to connect service-to-service. 
+		The *Metadata* -> secret name, description, and permission policies remain unaltered. 
 
 **AWS Secret Manager Rotate AWS KMS keys** - 3 types - Manage key have 1yr expire date, Imported key don't.
 AWS *Managed Keys*
@@ -1113,7 +1218,6 @@ Customer *Managed Keys*
 + *No automatic rotation*
 + Must rotate manually (typically using aliases)
 ![[Pasted image 20260402191324.png]]
-
 
 
 **Server-side Encryption at Rest**
@@ -1160,9 +1264,6 @@ It provides free public TLS/SSL certificates for your applications.
 It is the only service that integrates with AWS KMS for encryption at rest.
 
 Explain: SSM only store credentials in folder hiarchy (free) while AWS Secrets Manager supports automatic secret rotation via Lambda function (0.4$/month)
-
-
-
 ```
 
 ### AWS Certificate Manager (ACM)
@@ -1182,6 +1283,13 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 ![[Pasted image 20260402171645.png | 444]]
 
 
+### 7 Layers of Application in OSI Model used by AWS - [medium blog](https://aws.plainenglish.io/the-internet-has-7-hidden-layers-and-understanding-them-will-make-you-a-better-engineer-aeb108f71e8b) - [visual explaination](https://www.instagram.com/reels/DQEoAuLj8Xq/)
+![[Pasted image 20260513171554.png]]
+Layer 4 (Network Load Balancing) - only see the TCP package while Layer 7 see the actual application data. So
++ $ Use an **Application Load Balancer (ALB)** Dynamic routing. For HTTP/HTTPS traffic requiring intelligent routing (path-based, containerized apps). ![[Pasted image 20260513171843.png]]
+
++ $ **Network Load Balancer (NLB)** is Static in 1 AZ. Provide extreme performance, low latency, TCP/UDP traffic, or static IP needs, such as gaming, streaming, or IoT applications. ![[Pasted image 20260513171954.png]]
+
 
 ### AWS WAF (Web Application Firewall), Shield, Firewall Manager
 **AWS WAF (Layer 7 FOCUS (Application), inspect HTTP/HTTPS)** - protect from web exploits and malicious traffic *from cookies, headers, payloads*. *CREATE security RULES to filter and manage web requests* based on conditions such as IP addresses, HTTP headers, query strings, and more.
@@ -1193,7 +1301,7 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 	+ Real-Time Monitoring
 	+ DDOS *protection against Layer 7 DDOS* attack.
 	+ Auto-Scaling to handle increased traffic.
-+ ! Rule Setup can be complex if unfamilier with Web Security. Layer 7 FOCUS, does not address lower network layer attacks. ![[7 Layers of AWS Security.png]]
++ ! Rule Setup can be complex if unfamilier with Web Security. Layer 7 of Application Layer FOCUS, does not address lower network layer attacks. ![[7 Layers of AWS Security.png]]
 + ? Practice [DDoS Protection on AWS with AWS Shield and AWS WAF]([Advanced DDoS Mitigation (Layer 7) - AWS Shield :: AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/3.-efficient/shield-advanced/))
 
 **Fixed IP with Load Balancer** for WAF.
@@ -1201,7 +1309,7 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 + $ The trick is use *Global Accelerator with Fixed IPv4* for static IP address with All incomming traffic being route to the ALB -> work like a Network Load Balancer.
 
 
-**AWS Shield Standard** - free, auto service *protecting DDOS attack.* Protect Layer 3/4 DDOS attack.
+**AWS Shield Standard** - free, auto service *protecting DDOS attack.* Protect **Layer 3/4 DDOS attack.**
 -> Ensure website/app stay HA during network attack.
 
 **AWS Shield Advanced (3000$/month per org)** - cost Money. Protect 7 Layers. Custom Detection based on traffic pattern, *24/7 Support from AWS DDoS Response Team (DRT)*, include *DDOS Insurance* for *Cost Protection*, offer *near real-time attack diagnostics* via CloudWatch, AWS WAF integrated (no additional cost), *SRT proactively contact you during DDOS event*.
@@ -1219,7 +1327,6 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 
 + ? Note: AWS CloudWatch used for *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules.*  Monitor Cost and Billing as well.
 
-
 **Access Control Lists (ACLs)** - *manage access to resources (buckets and object/file)* at different levels, such as Amazon *S3 buckets* or *Virtual Private Cloud (VPC) subnets*. Offer fine-grained control - [what is AWS ACL - Search](https://www.bing.com/search?pglt=417&q=what+is+AWS+ACL&cvid=901bf0cd948343409ca93b6b219a83f9&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEIMzc3MGowajGoAgiwAgE&FORM=ANNTA1&PC=U531)
 + $ Often *use to protect private File.*
 + ? You don't have to use ACLs unless Object-level (Object are File) permission are required, just use bucket policies for access control.
@@ -1228,13 +1335,16 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 ### AWS GuardDuty, Inspector, Macie
 -> Analyzing security vulnerability on EC2 instance
 
-**AWS GuardDuty** - continuously *analyzes security-related **AWS logs (VPC flow logs, DNS query logs, Cloudtrail logs).***
+**AWS GuardDuty** - continuously *analyzes security-related **AWS logs (VPC flow logs, DNS query logs, Cloudtrail logs).*** ![[Pasted image 20260514142904.png]]
 + @ Runtime Threat detection. Using **machine learning, anomaly detection, and threat intelligence**,
 Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=LT&pq=AWS+Guard+duty+vs+&sk=CSYN1&sc=10-18&pglt=417&q=aws+guard+duty+vs+inspector&cvid=cfc6bfc399bd4db4acab27279aa027b8&gs_lcrp=EgRlZGdlKgcIABAAGPkHMgcIABAAGPkHMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBwgIEOsHGEDSAQg1NjkwajBqMagCCLACAQ&FORM=ANNTA1&PC=U531):
 	Detects compromised EC2 instances, IAM credential misuse, and unauthorized access.
 	Identifies anomalous API activity, such as high-volume IAM actions.
 	Alerts on network reconnaissance, such as scanning for open ports..
 + ? Monitor real-time *AWS accounts, logs, and network traffic* (like VPC Flow Logs, CloudTrail events, DNS logs, and EKS audit logs).
+
+
+
 
 *VPC Flow Logs* - captures information about *IP traffic going to and from network interfaces in a VPC* (Virtual Private Cloud)
 -> for monitoring, Logs output to CloudWatch, S3 or Data Firehose. ![[Pasted image 20260409130554.png | 777]]
@@ -1255,16 +1365,19 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 
 ### AWS Well-Architected Framework (6 pillars)
 ==Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability==,
+**Tradeoff Pillars based on Business Context**
+![[Pasted image 20260513121343.png]]
+Operational Exelancy, Security, Performance Efficiency, Reliability, Cost Optimization and Sustanability,
 
 
-### AWS Trusted Advisor vs Inspector vs Cloud Watch vs CloudTrail
 AWS Trusted Advisor - give advises base on action records.
 + ? identifies ways to improve your AWS infrastructure across 5 unique pillars: *Security, Performance, Cost Optimization, Fault Tolerance, and AWS Service Quotas.*
 
 **AWS CloudTrail vs CloudWatch**
-+ Cloud Watch - *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and *automated actions based on predefined rules*. - [source](https://cloudchipr.com/blog/aws-cloudwatch)
++ Cloud Watch - *monitoring resources like AWS infrastructure hardware usage (CPU, GPU, Disk, etc..)* and Application by *automated actions based on predefined rules*. - [source](https://cloudchipr.com/blog/aws-cloudwatch) 
 	![[Pasted image 20260409122933.png]]
 	Example: Monitor bandwidth utilization, performance, and the traffic parameters of your app. ![[Pasted image 20260407181212.png]]
+
 
 + CloudTrail - are *records of API activity and management events* hence the word *Trail/Evidence*, providing detailed information about who, what, and when actions were performed.  ![[Pasted image 20260407184327.png]]
 	+ ? *Monitor account activity* include user actions in the AWS Management Console, AWS SDKs, command-line tools, and other AWS services
@@ -1272,16 +1385,22 @@ AWS Trusted Advisor - give advises base on action records.
 
 + [Practice CloudTrail & CloudWatch Integration](https://www.opsramp.com/guides/aws-monitoring-tool/cloudtrail-vs-cloudwatch/) ![[Pasted image 20260407181315.png]]
 
-## AWS Pricing & Billing (of Network + Storage + Compute)
+## AWS Pricing Model & Billing (of Network + Storage + Compute) 
 **Common Cost Breakdown:**
 1. Compute
 2. Manage Services
 3. Storage
 4. Network Traffic & Data Transfer
 5. Mics (other cost)
++ ? Priving Model in VPC -> NAT take money. 
 
 **Compute Cost:** Instance Type $\times$ Instance Amount $\times$ Runtime
 + ? Cost Scale Up Linearly so be extra careful if renting multiple Hardware. ![[Pasted image 20260407151053.png]]
+**EC2 Instance Cost Optimizer strategies**
+1. Can this work be interrupted -> If not Spot Instance, else DOWN
+2. Is your workload consitent and predictable (1-3 years) -> Reserve Instance, else DOWN
+3. Is Strict Regulartory or BYOL required -> Dedicated host, else DOWN 
+4. On-Demand Instances (short-term, unpredictable, per hours cost, no discount)
 
 **Storage Cost:** Data Amount $\times$ Frequency of Access $\times$ Performance
 	Frequency of Access: 	![[Pasted image 20260407151132.png]]
@@ -1292,8 +1411,15 @@ AWS Trusted Advisor - give advises base on action records.
 + *Request Volumn (PUT/GET) -*  Every API calls taken to manage or access data in S3 incurs a small "micro-charge".
 	+ ? `PUT`, `COPY`, `POST`, or `LIST` requests (uploading/managing) are more expensive than `GET` requests (retrieving data)
 
-+ *Transfer OUT (Outbound Data) -* charge for moving data in AWS env to the Internet. While Inbound data is free in AWS and data transfer within 1 Region (e.g. from S3 to EC2 in the same AZ) is generally Free, moving data across-region cost a lot.
 
+
+**AWS "Compute Saving Plans" vs "EC2 Instance Saving Plans"**
++ "Compute Saving Plans" -  saving/discount apply to multiple AWS service like EC2, Lambda and Fargate but cap at `66%` discount. 
++ "EC2 Instance Saving Plans" -  have higher discount % up to `72%` discount. 
+
+[Reference - AWS data transfer cost](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/) 
++ *Transfer OUT (Outbound Data) -* charge for moving data in AWS env to the Internet. While **Inbound data is free in AWS and data transfer within 1 Region** (e.g. from S3 to EC2 in the same AZ) is generally Free, moving data across-region cost a lot) ![[Pasted image 20260513192157.png]]
++ Outbound (across region) - the charge is depend on the distance (source and destination Region) ![[Pasted image 20260513192238.png]]
 + *Transitions (Lifecycle) -*  Data Storage Tier based on data Access Frequency to SAVE COST. ![[Pasted image 20260407151804.png]] Lower-cost tier like Glacier offer super low storage cost for infrequent access data.
 
 Example of AWS Cloud Billing across layers.
@@ -1316,7 +1442,19 @@ AWS Budget (Proactive Control) -  Đặt ngưỡng ngân sách và t*ự động
 Migration Evaluator - retrieve on-premises workload from hardwares (CPU, RAM, IO, utilization) -> right-size workload when migrate to AWS.
 	Compare on-prem vs AWS cost - evaluate migration cost.
 
+**AWS S3 Files** - normally your S3 bucket mount onto EFS Volumn which basically allow you to access S3 bucket from anywhere in the world but the Problem is your data is SAVE on both device -> Paying for Both while using only 1 and slow you down. 
+![[Pasted image 20260513172551.png]]
+Solution: S3 file system -> allow you to create a S3 file on top of S3 Object -> keep write/read like normal while S3 (1 or many) remain the storage source and *infrequently used S3 Object leave the File System.* 
+![[Pasted image 20260513172530.png]]
+
+
 *AWS Global accelerator* - Improve performance by up to 60% by *routing user traffic through the AWS global network backbone* rather than the public internet - [source](https://cloudonaut.io/review-aws-global-accelerator-latency-multi-region-disaster-recovery/) ![[Pasted image 20260409124441.png | 777]]
+**AWS Global Accelerator vs Edge Location vs Outpost**
++ *AWS Global Accelerator -* improve HA by *DIRECT TRAFFIC to Optimal Endpoint* (based on health, geography, and routing policies, ensuring low latency and high availability) **by providing static IP addresses that act as a fixed entry point.**
++ AWS *Edge Locations - cache content* near the user to reduce latency. 
++ AWS *Outposts* - *help extend AWS infrastructure & service from cloud to on-prem* -> allow Hybrid workload. Use AWS infrastructure locally in your company. 
+
+
 **AWS Migration Hub**
 *AWS Total Cost of Ownership (TCO)* Calculator ==allows organizations to estimate cost savings by comparing on-premises infrastructure to AWS services==.
 Note: value proposition mean your advantage againt your competitor.
@@ -1324,8 +1462,6 @@ Note: value proposition mean your advantage againt your competitor.
 First AWS Principle is Pay-as-you-go -> This model gather customers but Revenue is Unpredictable and volatile.
 + ? To Retain long-term customer, AWS offer higher discount the longer you used their services.    ![[Pasted image 20260407153435.png | 666]]
 
-
-### AWS Pricing Model
 **VPC Peering** (network connection between 2 VPC,  simple setup with *VPC < 5 connection setup*) -> Allow *No-COST Data Transfer between Region* by routing traffic to eachother using private IP address.
 	Meshed network topology (vpcp)
 ![[Pasted image 20260407160336.png | 888]]
@@ -1348,11 +1484,10 @@ First AWS Principle is Pay-as-you-go -> This model gather customers but Revenue 
 Cost Allocation Tags -> Tag which service used for Billing. So admin can see where "this" cost come from.
 ![[Pasted image 20260407163248.png]]
 + $ Allow tracking cost across Teams (e.g. dev team, test team), Label, identifying and categorizing cost in different areas -> Help Tracking costs and managing resources. ![[Pasted image 20260407163632.png | 455]]
-
-
-**How AWS Budget work ?**
+#### AWS Core Management Tools
+**How AWS Budget work ?** -> allows you to *set custom cost and usage limits, enabling proactive monitoring* and **automatic alerts** via email or Amazon SNS when spending exceeds. (e.g., 80% or 100%) of the budget. Also autoate command to stop serice like RFS or EC2 or stop provisioning using by apply rule if cost exceed the condition.
 ![[Pasted image 20260407164756.png]]
-*AWS Athena -* act like a Filter for Dashboard in AWS QuickSight.
+*AWS Athena -* a place for you to Test and Run SQL commands and Inspect the data.
 *Data Collection Account -*
 + ? Read cost specified organized by Tag in AWS Budget  then save it to AWS S3 Bucket for Centralize Monitor and Inspection.
 + $ Used the Read Role Permission from AWS Organization.
@@ -1363,6 +1498,28 @@ Cost Allocation Tags -> Tag which service used for Billing. So admin can see whe
 AWS Anomaly Detection -> run script on Lambda, help to detect anomaly like DDOS.
 ![[Pasted image 20260407164313.png]]
 Rate Limiting AWS step func -> limit IP that access too much to prevent DDOS.
+
+**AWS Pricing Calculator:** *Estimates costs for 1 specific AWS services* and configurations.
+TCO Calculator -> calc cost from on-prem to aws cloud by comparing service cost.
+**Cost Explorer:** Visualizes, tracks, and forecasts AWS spending. Like month, daily cost and potential cost using AI prediction. 
+
+**AWS Pricing Calculator vs TCO (Total cost of Ownership)**
+Comare to TCO, Pricing Calc is less detail and not take account of Hidden Costs like real estate, power, cooling, physical hardware and IT labour.
++ *TCO* can **Automated scanning** or importing of your existing servers and VMs.
++ while you have to **Manual inputs** of specific AWS resources (e.g., vCPUs, RAM, TBs of S3) for Pricing Calc. 
+For usecase, 
+-> use Pricing Calc if you comparing prices between AWS Region, On-Demand vs Saving Plans in EC2 or S3. Use this is you a **normal user.**
+-> TCO if you take account of hidden cost and existing physical/on-prem cost vs AWS cost. Use this only if you **migrate company infras to cloud.** 
+
+Billing governance hierarchy - more explicit the deeper you go. 
+![[Pasted image 20260513181540.png]]
+
+### AWS Support Plan (Uncheck)
+![[Pasted image 20260513181629.png]]
+**Basic** - 
+**Developer** - 
+**Business** - 
+**Enterprise** - 
 
 ### [Lab Session](https://zoom.us/rec/play/6hYqLGNN7Pin90ccDHdzwYKW7X6bSDZoDolPHBEwsQBGd7nY1dcv7DCJIEKHl19cvLdG7w-nif5NOKZ-.7D_lWernqB-I9miS?eagerLoadZvaPages=&accessLevel=meeting&hasValidToken=false&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https://zoom.us/rec/share/VI7U1wf1S5om16eIFLdlrbyOGWLJOyYppeEd4INKns9h8OMP50ClWnKsauB9enZk.0QhjY029W_0aTcmo)
 Pillars of the AWS Well-Architected  -> Security & Performance.
@@ -1377,7 +1534,6 @@ Pillars of the AWS Well-Architected  -> Security & Performance.
 -> like a Scan and Recommended system.
 
 Fault Tolerant - ability for the system to keep running in case of 1 or more components fail e.g. EC2.
-
 When design Cloud Architecture -> Elasticity (adaptibility) is the principle architecture
 -> Allow pay-as-you-go and HA.
 
@@ -1385,10 +1541,8 @@ Extend Local to Cloud -> Storage Gateway and Direct Connect.
 AWS system Manager -> Allow auto security version patching
 Mechanism allow dev to *access AWS service from Application Code* -> SDK (Library that connect through API)
 S3 - store Object
-
 *AWS Partner Network* - community of over 100,000 technology and *consulting firms* that leverage AWS to build, market, and sell customer solutions. *AWS Services Distributioner*.
 AWS Professional Services - Service from AWS.
-
 AWS Connect - offer *custom-built AI customer service for Company* at a lower cost on Cloud.
 AWS Enterprise Support - have a exclucise Concierge team (lễ tân)
 

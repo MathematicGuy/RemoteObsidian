@@ -317,7 +317,6 @@ Metrics used to evaluate the **quality of generated texts** back then included *
 + ? Although, this is might less necessary for Strong Model, this still be useful for weaker models or application involving creattive writing and low-resource languages. 
 
 **Translation Task** metric might use is *faithfulness:* how faithful is the generated translation to the original sentence ?
-
 **Summarization task** might use *relevance*: does the summary focus on the most important aspects of the source document ?
 
 ### Factual Consistency
@@ -552,7 +551,7 @@ Self-Verifying RAG (leverage this to create a Q&A Benchmark)
 System Prompt - Task Description/Context
 User Prompt - the task u want them to to
 Diff model use Diff chat template.
-#### Instruction Clarity and Output Constraints 
+## Instruction Clarity and Output Constraints 
 -> Write **clear and explicit** instruction
 *Ask model to ADAPT a Persona to improve model capabilities in specific task* like grading highschool essay score as a highschool teacher.
 *Prompt Position:* by Default *Query at the End > Start*: query at the end of the prompt has more power than query at the front.
@@ -566,19 +565,119 @@ For Example:
 + Define a clear output contract in JSON using pandatic like title, confidence_score and using instructor lib to make sure your LLM follow the extract structure. 
 + Use delimiters like `(```)`  or XML-style tags to clearly *seperate instruction from user input data.*
 
-#### Context and Anchoring 
+### Structured Output 
+*4 levels of structuring output*, the last one more reliable than the first:
+1. Prompt-based 'Return JSON' ~ 90% valid.
+	usually depend on the model, Instruction LLM follow the prompt better. 
+	
+2. JSON Mode -> Guaranteed valid JSON, No schema guarantee.
+	API takes a JSON schema and guarantes the output matches it. In 2026, every major provider like OpenAI `response_format: { type: "json_schema", json_schema: {...} }` (also as `tool_choice="required"`), Claude `input_schema`, Gemini `response_schema` + `response_mime_type: "application/json"` have this mode to output the exact keys, types and constraints you specified. 
+	
+3. Schema Mode -> JSON + matches schema. Guaranteed compliance.
+4. Constrained Decoding -> Token-level enforcement 100% compliance.
+
+**JSON Schema: The Contract Language**
+```json
+{
+  "type": "object",
+  "properties": {
+    "product": { "type": "string" },
+    "price": { "type": "number", "minimum": 0 },
+    "in_stock": { "type": "boolean" },
+    "categories": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["product", "price", "in_stock"]
+}
+```
+
+**The Pydantic Pattern** - use Pydantic pattren, do not write JSON schema by hand. Use [outline](https://github.com/dottxt-ai/outlines)lib to apply pydantic format for LLM.
+```python
+from pydantic import BaseModel
+
+class Product(BaseModel):
+    product: str
+    price: float
+    in_stock: bool
+    categories: list[str] = []
+```
+Example: 
+```python
+import json
+import outlines
+import torch
+from typing import List, Optional
+from pydantic import BaseModel, Field
+from transformers import AutoTokenizer, AutoModelForCausalLM
+from enum import Enum
+
+MODEL_NAME = "microsoft/Phi-3-mini-4k-instruct"
+model = outlines.from_transformers(
+    AutoModelForCausalLM.from_pretrained(MODEL_NAME, device_map="auto"),
+    AutoTokenizer.from_pretrained(MODEL_NAME)
+)
+
+input_list =[
+    "My happy cat, Whiskers, enjoys a variety of toys: feather wands, laser pointers, and those little crinkly balls",
+    "Spot, our energetic but sad dog, loves his snacks: peanut butter biscuits, chewy ropes, and the occasional carrot stick.",
+    ]
+
+# Pydantic format
+class AnimalSentiment(str, Enum):
+    happy = "happy"
+    sad = "sad"
+
+class PetInfo(BaseModel):
+    pet_name: str = Field(..., description="The name of the pet.")
+    pet_sentiment: AnimalSentiment
+    pet_type: Optional[str] = Field(None, description="The type of the pet (e.g., cat, dog).")
+    items: List[str] = Field(..., description="List of items the pet enjoys.")
+
+prompt_requirements = """
+Subject: extract pet name, type and items that the pet enjoy.
+"""
+pet_dict = {}
+for i in range(len(input_list)):
+    prompt = f"""
+    <|im_start|>Extract the animal information in {input_list[i]}
+
+    {prompt_requirements}
+    <|im_end|>
+    <|im_start|>assistant
+    """
+    pet_info = model(
+        prompt,
+        PetInfo,
+        max_new_tokens=500,
+    )
+
+    output = PetInfo.model_validate_json(pet_info)
+   
+    pet_output = {'pet_sentiment': output.pet_sentiment.value, 'pet_type': output.pet_type, 'items': output.items}
+    pet_dict[output.pet_name]=pet_output
+    
+print(pet_dict) 
+```
+```output
+{'Whiskers': {'pet_sentiment': 'happy', 'pet_type': 'cat', 'items': ['feather wands', 'laser pointers', 'crinkly balls']}, 'Spot': {'pet_sentiment': 'sad', 'pet_type': 'dog', 'items': ['peanut butter biscuits', 'chewy ropes', 'carrot stick']}}
+```
+
+
+## Context and Anchoring 
 -> Constrain model Degrees of Freedom -> Increase Consistency.  
 **Provide example** with few-shot learning to reduce ambiguity and effective scope-down/anchoring perspective and tone for your model -> better output, less hallucination..
 **Provide Sufficient Context (Food for LLM, trash in trash out)** with necessary external information to help the model accuracy and restricts it behaviour to prevent hallucination. 
 
-#### Reasoning and Task Decomposition
+## Reasoning and Task Decomposition
 -> Improve model reasoning capability ->  *(increase) Accuracy & (increase) Latency Tradeoff*
 **Prompt/Task Decomposition:** Apart from improve clarity *breaking down task* also help to chained subtasks to *improve accuracy in multi-step reasoning* workflows.
 **Give model time to think,** use *CoT* if the task require problem solving skill. 
 **Self-critique** (asking the model to check it own outputs) ensure reliability, accuracy and reduce hallucination.
 CoT Variations: ![[Pasted image 20260505164049.png | 555]]
 
-#### Prompt's Optimization Tools
+## Prompt's Optimization Tools
 Deepmind's *Promptbreeder* select "breed" of prompts using a mutation process guided by a set of mutator prompts to generate mutations for most promising mutation to sastisfied your criteria. Example how it work at high level: ![[Pasted image 20260506145251.png | 555]]
 ![[Pasted image 20260506145301.png | 555]]
 
@@ -594,7 +693,7 @@ If used correclty, PE tools can *greatly improve your system's* performance **bu
 + ! Every PE tool can change their format without warning like switch to diff prompt templates or rewrite their default prompts -> *more tools more complexity and maintainance.*  
 + $ Following the **Keep-it-simple** principle, you might want to start by writing your own prompts without any tool to understand of the underlying model and your requirements first. 
 
-#### Prompt Lifecycle and Operation (PromptOps)
+## Prompt Lifecycle and Operation (PromptOps)
 -> Testing and Improvement
 **Iterate your Prompts:** test your prompt until u satisfied with the result
 	*Organize and Version prompts* with versioning, tags or prompt catelogs to improve readability, testing and collaboration.
@@ -602,7 +701,7 @@ If used correclty, PE tools can *greatly improve your system's* performance **bu
 + ? Tips: Pair Prompt Engineering with code-based validation like `json.loads` to catch errors as a post-processing step.
 **Parallelization** if possible, generate multiple answers for multiple scenerio to save time. For example, "generate 5 different MCQs each with 3 levels of difficulty" 
 
-#### Security and Guardfails
+## Security and Guardfails
 -> Protect your Output by protect your prompt.
 **Defensive Prompting to prevent Prompt Injection**  - Using Instruction Hierarchy to *prioritize System Prompt than User Prompt*
 ![[Pasted image 20260505170735.png | 666]]

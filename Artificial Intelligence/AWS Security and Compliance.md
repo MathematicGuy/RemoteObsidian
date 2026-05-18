@@ -1,3 +1,6 @@
+![[Pasted image 20260513112424.png]]
+AWS GuardDuty is the retrieval & store layer that retrieve logs from Cloudtrail and log from other service.
+AWS Detective then use the Knowledge/Logs saved in GuardDuty to perform analysist to identify the Core Issues.
 ### Shared Responsibility (Physical and Software)
 **AWS Responsibility (Infrastructure)** - Security "OF" the Cloud 
 + @ Infrastructure include its Physical, Hardware, Software and Networking
@@ -5,9 +8,23 @@
 
 **User Responsibility (Their Software & Setup)** - Security "IN" the Cloud
 	Everything that the user uploaded to AWS is the User responsibility to taken care of. I mean the code wouldn't run itself if it on AWS's Cloud.
-
 + @ Their Software & Setup include Data, Application, Identity Management and Configuration.
 + ? The "Data" come from outside of AWS and may not in the user control so its could be hack most easily, The software if not handle carefully, could also be breaches and create vulnerabality. Identity Mangement and Configuration can be breach through Social Engineering where Employees is the suspects, 
+
+#### BUT it depend on the Infrastructure you CHOOSE
+![[Pasted image 20260513145421.png]]
+1. **The Patching Trap (IaaS and PaaS)** - *AWS doesn't patch everything* bc Responsibility heavily depend on the servicec deployment model (IaaS vs PaaS vs SaaS).
+	+ *For EC2 (IaaS)* - AWS responsible for setting up the hardware virtualization for your OS (e.g. HDD/SSD Memory, number of RAM, Thread and core) while the user responsible for setting, patching the OS, security and runtime env they used.
+	+ *For RDS (Paas)* - AWS handle most of the infrastructure include the runtime and security but limited to the data you upload from your device and application. This is serverless service where you only responsble for the stuff you upload. Just like upload your file then run instantly without setting up CUDA env.
+	e.g.  _"Who is responsible for patching the guest operating system?"_ If the question specifies Amazon EC2, the answer is the customer
+
+2. **The Security Trap (Data Encryption)** bc aws cannot control your data, they can only provide you the sec tools and ability. 
+	e.g. Q that ask wo respon for "client-side encryption," "server-side encryption," or "encrypting data in transit and at rest" -> always the customer. 
+	-> Customer config the security through traffic routing and firewall. 
+
+3. **Physical Hardware and Data Disposal** -> hardware related so AWS bc the customer never manages physical resources.
+
+
 
 **The "Shared" Nature shift between Service Type (IaaS, PaaS, SaaS)**
 *IaaS (EC2) -* the user have more Control of their systems (OS, apps, data) but also required more responsibility. 
@@ -33,6 +50,10 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 + *User:* only responsible for the Core *"your data and who access it (IAM)"*, making sure only specific ppl have access to S3 bucket and your services in VPC to each of them (Lambda, EC2) are connected to eachother have the rights to read data from S3. Also *Customer data is Encrypted.*    
 
 
+**AWS SSO** - Single Sign On
+-> Access by Root User: a centralize tools to assign workforce identity and manage them across the entire org.  
+![[Pasted image 20260513113207.png]]
+
 ### Identity and Access Management (IAM) 
 ![[Pasted image 20260402164326.png]]
 
@@ -48,7 +69,6 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 **AWS Organization:** *centrally manage* and govern *multiple AWS account.* Simplifying multiple account creation, *policy enforcement, resource sharing* and *consolidataed Billing.* OU mean Organization Unit (a Group of User with the same Range of Permission) - [The AWS Security Reference Architecture - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/architecture.html) (AWS Organization include all of this):
 ![[Pasted image 20260402163850.png]]
 ![[Pasted image 20260402163915.png]]
-
 
 
 *Root* is the highest level of (policies) Container, use to apply basic policies for all Account (usually use to *Define Basic Rules and Policies* for all account). *Like Discord Admin.* 
@@ -84,7 +104,6 @@ AWS KMS offer encryption AT REST for S3- "At rest" in refers to ==securing data 
 
 KMS can have **Multi-Region Keys** -> You just have to create the Primary keys the replica across region. 
 ![[Pasted image 20260402173936.png | 666]]
-
 
 ### AWS Certificate Manager (ACM) 
 Integrations with (load TLS certificates on)
@@ -148,7 +167,7 @@ ACM sends daily expiration events starting 45 days prior to expiration.
 -> Analyzing security vulnerability on EC2 instance
 
 **AWS GuardDuty** - continuously *analyzes security-related **AWS logs (VPC flow logs, DNS query logs, Cloudtrail logs).*** 
-+ @ Runtime Threat detection. Using **machine learning, anomaly detection, and threat intelligence**,
++ @ Runtime Threat detection. Using **machine learning, anomaly detection, and threat intelligence** e.g. detect if ur EC2 instance is communicating with a know malicies IP address,
 Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=LT&pq=AWS+Guard+duty+vs+&sk=CSYN1&sc=10-18&pglt=417&q=aws+guard+duty+vs+inspector&cvid=cfc6bfc399bd4db4acab27279aa027b8&gs_lcrp=EgRlZGdlKgcIABAAGPkHMgcIABAAGPkHMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBwgIEOsHGEDSAQg1NjkwajBqMagCCLACAQ&FORM=ANNTA1&PC=U531): 
 	Detects compromised EC2 instances, IAM credential misuse, and unauthorized access.
 	Identifies anomalous API activity, such as high-volume IAM actions.
@@ -156,8 +175,7 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 + ? Monitor real-time *AWS accounts, logs, and network traffic* (like VPC Flow Logs, CloudTrail events, DNS logs, and EKS audit logs).
 
 **AWS Inspector (identifying risks/vulnability scanner):** *scans EC2/ECR instances*, containers, and Lambda functions for software flaws -> *Scanning resource for vulnability and misconfiguration* like Outdated software, misconfiguration, missing patches or exposed network ports (also support DevOps pipeline). 
-+ ? Monitor real-time Vulnability in *Software* and unintended network setup *(network exposure)*. 
-![[Pasted image 20260402175846.png]]
++ ? Monitor real-time Vulnability in *Software* and unintended network setup *(network exposure)*.  ![[Pasted image 20260402175846.png]]
 
 
 **AWS Inspector vs GuardDuty** in short while:

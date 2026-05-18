@@ -1,14 +1,4 @@
 {
-  "accentColor": "#f2f55c",
-  "translucency": false,
-  "baseFontSizeAction": true,
   "cssTheme": "Everforest Enchanted",
-  "theme": "obsidian",
-  "baseFontSize": 15,
-  "nativeMenus": true,
-  "enabledCssSnippets": [
-    "custom-bg"
-  ],
-  "showViewHeader": true,
-  "showRibbon": false
+  "enabledCssSnippets": []
 }

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "3eb97433f29b7db5",
+    "id": "882611ef0c947a9b",
     "type": "split",
     "children": [
       {
-        "id": "cba8863eb0f89d49",
+        "id": "6873d32eeebc77d2",
         "type": "tabs",
         "children": [
           {
-            "id": "5e78248804b2b085",
+            "id": "d61ad68c71f1b3ec",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "b41764e192506200",
+            "id": "de838140426f6833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG System Design Blog.md",
+                "file": "AI Engineer by Chip Huyen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG System Design Blog"
+              "title": "AI Engineer by Chip Huyen"
             }
           }
         ]
@@ -43,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "54f025c938d124af",
+    "id": "274703f697b31108",
     "type": "split",
     "children": [
       {
-        "id": "54c22fdc31135758",
+        "id": "0cac1a0640e4a65e",
         "type": "tabs",
         "children": [
           {
-            "id": "3346687edeb81a8b",
+            "id": "c925a350ef7168b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +64,12 @@
             }
           },
           {
-            "id": "23601859bc71643e",
+            "id": "8a13816028e4fbfe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "HyDE",
+                "query": "inbound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "6d8a1526816de6c8",
+            "id": "29534f658afb2ed9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,20 +98,34 @@
     "collapsed": true
   },
   "right": {
-    "id": "85009a1db0805d8a",
+    "id": "3ca039a6dff52945",
     "type": "split",
     "children": [
       {
-        "id": "7ed8a94461a726de",
+        "id": "413f50ff0685c2c4",
         "type": "tabs",
         "children": [
           {
-            "id": "4820760ebbadf168",
+            "id": "2a54bf0747991121",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b23357d38748376d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +135,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Engineer by Chip Huyen"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "b270eb5d90aab38f",
+            "id": "fd6c06e7e3135592",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "2 ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Engineer by Chip Huyen"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "78b1178442f5fed0",
+            "id": "6a38aa7d47909312",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,36 +168,22 @@
             }
           },
           {
-            "id": "870d3a40466b3438",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "8f78497ef7e8129e",
+            "id": "53ac8bca4ec56193",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI System Design Rulebook.md",
+                "file": "25M12W3 - AI Agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI System Design Rulebook"
+              "title": "Outline of 25M12W3 - AI Agent"
             }
           },
           {
-            "id": "ca703a7e5fcf5f75",
+            "id": "d854e93a0fb71065",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,7 +193,7 @@
             }
           },
           {
-            "id": "0e091d3d13fd01b9",
+            "id": "5c58083c264e14df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -204,7 +203,7 @@
             }
           },
           {
-            "id": "16f11a1d2dcc7e04",
+            "id": "5bace565a1dbd06b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -214,7 +213,7 @@
             }
           },
           {
-            "id": "41257e9325482dcf",
+            "id": "f5dfb7de0a7ed1db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -224,7 +223,7 @@
             }
           },
           {
-            "id": "30f8c246bbddda89",
+            "id": "2cf1b06bba1d7c60",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -234,7 +233,7 @@
             }
           },
           {
-            "id": "229277a19fe35bd1",
+            "id": "db42e49ce5fbeec5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -244,7 +243,7 @@
             }
           },
           {
-            "id": "288fbbca4248e0bb",
+            "id": "60450e806d38b5d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -254,7 +253,7 @@
             }
           },
           {
-            "id": "3af23ef842ab4df7",
+            "id": "d9e9decab1325c14",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -264,57 +263,7 @@
             }
           },
           {
-            "id": "f9c7935fbfc14da3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9f917f34ce9acb14",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d907d3d452ac35fc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "cb5659baab19bc6e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3e86ebb25973fc1e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "33a9d2c523e29915",
+            "id": "d8f056678588aaf5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -344,7 +293,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 20
+=======
+        "currentTab": 13
+>>>>>>> origin/main
       }
     ],
     "direction": "horizontal",
@@ -365,44 +318,49 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "b85f86c454aba546",
+=======
+  "active": "de838140426f6833",
+>>>>>>> origin/main
   "lastOpenFiles": [
-    "image/Pasted image 20260512161706.png",
-    "image/Pasted image 20260512155337.png",
-    "image/Pasted image 20260512135718.png",
-    "image/Pasted image 20260512134607.png",
-    "AWS Final Exam Revision.md",
+    "LLM Quantization.md",
+    "image/Pasted image 20260517203553.png",
+    "image/Pasted image 20260517203321.png",
+    "image/Pasted image 20260517203259.png",
     "AI Engineer by Chip Huyen.md",
-    "RAG System Design Blog.md",
-    "2 ACTIONS/_Focus.md",
     "AI Engineer.md",
-    "AI Coding.md",
-    "AI Agent System.md",
+    "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
+    "2 ACTIONS/_Focus.md",
+    "AWS Cloud Practitioner.md",
+    "image/Pasted image 20260517154516.png",
+    "AI Agent.md",
+    "image/Pasted image 20260515235647.png",
+    "image/Pasted image 20260515235555.png",
+    "image/Pasted image 20260515235543.png",
+    "image/Pasted image 20260515235448.png",
+    "image/Pasted image 20260515235429.png",
+    "image/Pasted image 20260515234344.png",
+    "Exam Topic CLP Practice.md",
+    "AWS Final Exam Revision.md",
+    "AWS CLP Practice 1.md",
+    "25M12W3 - AI Agent.md",
+    "AWS Cloud Partitioner - Final Project.md",
+    "AWS Cloud Practitioner QUIZ & Video.md",
     "AIO 2025.md",
-    "2512W2 - Graph Neural Network (GNN).md",
-    "Excalidraw/RAG System Design.md",
-    "image/Pasted image 20260511163203.png",
-    "image/Pasted image 20260511161114.png",
-    "image/Pasted image 20260511155458.png",
-    "image/Pasted image 20260511155055.png",
-    "image/Pasted image 20260511154304.png",
-    "image/Pasted image 20260511154116.png",
-    "image/Pasted image 20260511154008.png",
-    "Best Practices in Retrieval-Augmented Generation.md",
-    "3 RESOURCES/Artificial Intelligent/General AI/AI RoadMap.md",
-    "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
-    "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
-    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
-    "main_Continual Learning & Nested Learning Survey.md",
-    "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
-    "Late Chunking.md",
-    "25M12W1 - Software Testing.md",
-    "RAG Road Map.md",
-    "Best Practice for RAG Indexing.md",
-    "RAG Improvement Note.md",
-    "image/Pasted image 20260507160647.png.~tmp",
-    "RAG system in Production.md",
-    "AI System Design Rulebook.md",
-    "MOCK Answer.md"
+    "AWS Security and Compliance.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam1.md",
+    "AWS Final Project Review.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam6.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam5.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam4.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam3.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam2.md",
+    "1 PROJECTS/AWS Cloud Partitioner/filter.py",
+    "1 PROJECTS/AWS Cloud Partitioner/ExamList.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam23.md",
+    "1 PROJECTS/AWS Cloud Partitioner/exam22.md",
+    "1 PROJECTS/AWS Cloud Partitioner",
+    "image/Pasted image 20260323175825.png.~tmp"
   ]
 }

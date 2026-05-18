@@ -1,9 +1,8 @@
 **Resources:**
-+ [turtorialdojo - Cloud Practitioner Guide](https://tutorialsdojo.com/aws-cloud-practitioner-clf-c02-exam-guide/)
 + [turtorialdojo - cheatsheat](https://tutorialsdojo.com/aws-cheat-sheets/)
-+ [turtorialdojo - Sample Questions](https://tutorialsdojo.com/aws-certified-cloud-practitioner-clf-c02-sample-exam-questions/)
 + [github - simulate real exam aws](https://github.com/untddanny/AWS-Certificed-Cloud-Practitioner-Mock/blob/main/Practice%20mock/exam1.md)  
 + [Examtopic - CL Practitioner Exam with Human Verification](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner-clf-c02/view/2/)
++ [exam guide](https://tutorialsdojo.com/aws-cloud-practitioner-clf-c02-exam-guide/)
 
 *kananinirav practice exam* 
 	[Cloud Practitioner mindmap outline](https://kananinirav.com/mind-map-aws-ccp.html)
@@ -15,6 +14,11 @@
 **Exam Descriptions** - [preference](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide_C02.pdf)
 	50 questions / 90 minutes - 15 test question that hold 0 score.
 	$\geq$ 700/1000 to pass ![[Pasted image 20260512134607.png]]
+
+Cloud Concept - 24%
+Security & Compliance - 30% 
+Cloud Technology - 34% 
+Billing, Pricing & Support - 12% 
 
 *The exam validates a candidate’s ability to complete the following tasks:*
 + Explain the value of the AWS Cloud.
@@ -140,7 +144,7 @@ Cheapest plan that allow unlimited num of technical support cases -> Dev Support
 Want to combine usage volumn discount across multiple AWS accounts -> Consolidated Billing.
 Sell custom AMIs in AWS -> AWS marketplace.
 
-**Support**
+**Support Channels**
 Channels that shares a collection of offerings to *help you ACHIEVE specific business outcomes related to enterprise cloud adoption* through paid engagements in several practice areas -> AWS Professional Services. ![[Pasted image 20260512155337.png | 666]]
 + ? *AWS Professional Service* offering delivers a set of activity, best practice and docs, they help org design and accelerate path to successful cloud adoption. AWS Procfessional Services create the AWS Cloud Adoption Framework (AWS CAF) this help user realize measurable business benefits from clou adoption faster and with less risk.  
 
@@ -168,4 +172,7 @@ A company is planning to launch a new system on AWS, but it does not have an emp
 + *Technology Partners* - this *Provide Software solutions that are either hosted on or integrated* with AWS platform.
 + *Technical Account Management* - just a part of AWS Enterprise Support
 
-### Watch YT video for revision after, this is too boring
+## Weak Points
+### [[AWS CLP Practice 1]]
+[[Exam Topic CLP Practice]]
+
