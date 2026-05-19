@@ -37,8 +37,7 @@
               "title": "AWS Project Practices"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +273,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "02b6a8085ddf90e6",
+=======
+            "id": "5a5e6bd4d4b01463",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -284,6 +287,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "dd139f7b14aecfaa",
             "type": "leaf",
             "state": {
@@ -355,6 +359,9 @@
           },
           {
             "id": "c9f30f4c92f76b2d",
+=======
+            "id": "b85f86c454aba546",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -364,7 +371,15 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 22
+=======
+<<<<<<< HEAD
+        "currentTab": 20
+=======
+        "currentTab": 13
+>>>>>>> origin/main
+>>>>>>> origin/main
       }
     ],
     "direction": "horizontal",
@@ -385,7 +400,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "d242e2839f5888ee",
+=======
+<<<<<<< HEAD
+  "active": "b85f86c454aba546",
+=======
+  "active": "de838140426f6833",
+>>>>>>> origin/main
+>>>>>>> origin/main
   "lastOpenFiles": [
     "image/Pasted image 20260519184340.png",
     "image/Pasted image 20260519183305.png",
