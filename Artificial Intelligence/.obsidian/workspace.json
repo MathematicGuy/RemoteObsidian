@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "de838140426f6833",
+            "id": "d242e2839f5888ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "AWS Project Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineer by Chip Huyen"
+              "title": "AWS Project Practices"
             }
           }
         ],
@@ -267,6 +267,96 @@
             "id": "d8f056678588aaf5",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "02b6a8085ddf90e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dd139f7b14aecfaa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7989a2bd31badb7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2b4c07034cd05add",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b4b75f23dc2a09f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "638a5653d4f8eb1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "774e7ff004661531",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ddfd13392da1312f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c9f30f4c92f76b2d",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -274,7 +364,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -295,25 +385,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de838140426f6833",
+  "active": "d242e2839f5888ee",
   "lastOpenFiles": [
-    "LLM Quantization.md",
-    "image/Pasted image 20260517203553.png",
-    "image/Pasted image 20260517203321.png",
-    "image/Pasted image 20260517203259.png",
+    "image/Pasted image 20260519184340.png",
+    "image/Pasted image 20260519183305.png",
+    "image/Pasted image 20260519163954.png",
+    "image/Pasted image 20260519160443.png",
+    "2 ACTIONS/_Focus.md",
+    "AWS Project Practices.md",
+    "image/Pasted image 20260519151333.png",
+    "image/Pasted image 20260519151258.png",
+    "image/Pasted image 20260519151222.png",
+    "image/Pasted image 20260519151159.png",
+    "image/Pasted image 20260519145235.png",
+    "image/Pasted image 20260519142804.png",
+    "Research Tools.md",
+    "image/Pasted image 20260519131842.png",
+    "How to Research.md",
+    "AWS Cloud Practitioner.md",
     "AI Engineer by Chip Huyen.md",
+    "AWS Final Project Review.md",
+    "LLM Quantization.md",
     "AI Engineer.md",
     "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
-    "2 ACTIONS/_Focus.md",
-    "AWS Cloud Practitioner.md",
-    "image/Pasted image 20260517154516.png",
     "AI Agent.md",
-    "image/Pasted image 20260515235647.png",
-    "image/Pasted image 20260515235555.png",
-    "image/Pasted image 20260515235543.png",
-    "image/Pasted image 20260515235448.png",
-    "image/Pasted image 20260515235429.png",
-    "image/Pasted image 20260515234344.png",
     "Exam Topic CLP Practice.md",
     "AWS Final Exam Revision.md",
     "AWS CLP Practice 1.md",
@@ -323,16 +418,12 @@
     "AIO 2025.md",
     "AWS Security and Compliance.md",
     "1 PROJECTS/AWS Cloud Partitioner/exam1.md",
-    "AWS Final Project Review.md",
     "1 PROJECTS/AWS Cloud Partitioner/exam6.md",
     "1 PROJECTS/AWS Cloud Partitioner/exam5.md",
     "1 PROJECTS/AWS Cloud Partitioner/exam4.md",
     "1 PROJECTS/AWS Cloud Partitioner/exam3.md",
     "1 PROJECTS/AWS Cloud Partitioner/exam2.md",
     "1 PROJECTS/AWS Cloud Partitioner/filter.py",
-    "1 PROJECTS/AWS Cloud Partitioner/ExamList.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam23.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam22.md",
     "1 PROJECTS/AWS Cloud Partitioner",
     "image/Pasted image 20260323175825.png.~tmp"
   ]

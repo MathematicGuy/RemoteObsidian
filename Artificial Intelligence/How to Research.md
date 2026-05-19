@@ -19,9 +19,7 @@
 5. Advise from Mentor and the Author - Finding the Research Gap
 
 **Social & Reference**
-3. Xem qua mấy AIO-er khóa tr'c ra paper như thế nào. 
-4. [[AI Conference Deadline]]
-5. Check out [CL Overview Slide](https://www.canva.com/design/DAHFJh8Ul8U/dOPqGWndvEOgKs9lpOARMQ/edit)
+1. [[AI Conference Deadline]]
 
 ---
 ### General Concepts

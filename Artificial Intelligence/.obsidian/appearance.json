@@ -1,4 +1,6 @@
 {
   "cssTheme": "Everforest Enchanted",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "custom-bg"
+  ]
 }

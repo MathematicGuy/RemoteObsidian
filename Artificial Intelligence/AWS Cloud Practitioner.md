@@ -1,6 +1,8 @@
 ![[Pasted image 20260224143748.png]]
 [[AWS Final Project Review]]
+[[AWS Project Practices]]
 [[AWS Final Exam Revision]]
+
 
 ---
 ## Leson 1: Cloud Concepts
@@ -201,7 +203,7 @@ Note: CloudFront is the network that provide Cache.
 ![[Pasted image 20260313005706.png]]
 + *Backup & Restore* - backup data in another Region and restore data after the incident.
 + *Pilot Light* - keep env always Running at LOW. ie. *server run at minimal condition.*
-	-> Only keep the essential source required to keep the system UP and RUNNING, hence pilot light. 
+	-> Only keep the essential source required to keep the system UP and RUNNING, hence *pilot* light. 
 	-> Why ? System scale-up to full capacity after disaster faster compare to complate shutdown. 
 	+ ? keep system running in *MINIMAL state,* this mean *only the Database kept running* while shutting down the Compute Capacity, EC2 setup are kept as AMIs or CloudFormation templates for later recovery 
 	
@@ -774,7 +776,8 @@ Application first queries ElastiCache
 + ? RDS (Relational Db Service) is a *managed database service* for differnt Database Engines. Manage Database Provisioning and Scaling, Backups and Recovery, Failure detection along with Monitoring and Insight Analysis. Support many database application like PostgreSQL, AWS Aurora, MariaDB, MySQL, etc...
 	Note that S3 is a Storage service like Harddisk and SSD, not the Database itself.
 
-**Read Replica** sp up to 15 Read Rpk (Replika)
+**Read Replica** sp up to 15 Read Rpk (Replika) - standby instance is READ ONLY 
+![[Pasted image 20260518201049.png]]
 *Use Case -> Read Rpk promote to DB in failover, reduce workload on primay DB.*
 During Failover, the *Read Replica can be promoted to a standablone database within current AZ* Useful for HA & Disaster Recovery.  ![[Pasted image 20260323224307.png]]
 
@@ -1195,6 +1198,8 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 
 
 ### Key Management Service (AWS KMS), SSM
+![[Pasted image 20260518180250.png | 1000]]
+
 For Security and compliance
 AWS KMS - can be integrated with **Amazon S3, EBS, RDS, Lambda, and SSM** to handle data encryption and decryption.
 	Because *data is encrypted by key*, key enryption also mean data encryption. ![[Pasted image 20260402170917.png]]
@@ -1334,6 +1339,7 @@ Layer 4 (Network Load Balancing) - only see the TCP package while Layer 7 see th
 
 ### AWS GuardDuty, Inspector, Macie
 -> Analyzing security vulnerability on EC2 instance
+![[Pasted image 20260518175951.png]]
 
 **AWS GuardDuty** - continuously *analyzes security-related **AWS logs (VPC flow logs, DNS query logs, Cloudtrail logs).*** ![[Pasted image 20260514142904.png]]
 + @ Runtime Threat detection. Using **machine learning, anomaly detection, and threat intelligence**,
