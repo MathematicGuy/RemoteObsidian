@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "882611ef0c947a9b",
+    "id": "f11975197989d228",
     "type": "split",
     "children": [
       {
-        "id": "6873d32eeebc77d2",
+        "id": "d403d110c461d7fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d61ad68c71f1b3ec",
+            "id": "b8ef1d7e65e9d7ef",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,34 +24,35 @@
             }
           },
           {
-            "id": "de838140426f6833",
+            "id": "6020572ed94d6abf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineer by Chip Huyen.md",
+                "file": "AWS Cloud Practitioner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineer by Chip Huyen"
+              "title": "AWS Cloud Practitioner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "274703f697b31108",
+    "id": "bffb08cf8224c56a",
     "type": "split",
     "children": [
       {
-        "id": "0cac1a0640e4a65e",
+        "id": "b214af593246ad07",
         "type": "tabs",
         "children": [
           {
-            "id": "c925a350ef7168b2",
+            "id": "28320be63720036a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +65,12 @@
             }
           },
           {
-            "id": "8a13816028e4fbfe",
+            "id": "df054233ff2990ae",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "inbound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +82,7 @@
             }
           },
           {
-            "id": "29534f658afb2ed9",
+            "id": "eff019a990eca4b1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,34 +99,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "3ca039a6dff52945",
+    "id": "4f86c781217369f0",
     "type": "split",
     "children": [
       {
-        "id": "413f50ff0685c2c4",
+        "id": "a58d72c6525f3cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "2a54bf0747991121",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "b23357d38748376d",
+            "id": "7bccf6f5edf67afd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "AWS Cloud Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,25 +122,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Focus"
+              "title": "Backlinks for AWS Cloud Practitioner"
             }
           },
           {
-            "id": "fd6c06e7e3135592",
+            "id": "962074656144a7e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "AWS Cloud Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Focus"
+              "title": "Outgoing links from AWS Cloud Practitioner"
             }
           },
           {
-            "id": "6a38aa7d47909312",
+            "id": "c58f860643ceb0d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,122 +155,36 @@
             }
           },
           {
-            "id": "53ac8bca4ec56193",
+            "id": "c10c817dc68dc021",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4c9d9a590ce798cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "25M12W3 - AI Agent.md",
+                "file": "AWS Cloud Practitioner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 25M12W3 - AI Agent"
+              "title": "Outline of AWS Cloud Practitioner"
             }
           },
           {
-            "id": "d854e93a0fb71065",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5c58083c264e14df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5bace565a1dbd06b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f5dfb7de0a7ed1db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2cf1b06bba1d7c60",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "db42e49ce5fbeec5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "60450e806d38b5d0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d9e9decab1325c14",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d8f056678588aaf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5a5e6bd4d4b01463",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b85f86c454aba546",
+            "id": "0d9f2c9bca9ab7c5",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -293,11 +194,7 @@
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 20
-=======
-        "currentTab": 13
->>>>>>> origin/main
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -318,49 +215,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "b85f86c454aba546",
-=======
-  "active": "de838140426f6833",
->>>>>>> origin/main
+  "active": "6020572ed94d6abf",
   "lastOpenFiles": [
-    "LLM Quantization.md",
-    "image/Pasted image 20260517203553.png",
-    "image/Pasted image 20260517203321.png",
-    "image/Pasted image 20260517203259.png",
-    "AI Engineer by Chip Huyen.md",
-    "AI Engineer.md",
-    "3 RESOURCES/Artificial Intelligent/Machine Learning/Natural Language Processing.md",
-    "2 ACTIONS/_Focus.md",
-    "AWS Cloud Practitioner.md",
-    "image/Pasted image 20260517154516.png",
-    "AI Agent.md",
-    "image/Pasted image 20260515235647.png",
-    "image/Pasted image 20260515235555.png",
-    "image/Pasted image 20260515235543.png",
-    "image/Pasted image 20260515235448.png",
-    "image/Pasted image 20260515235429.png",
-    "image/Pasted image 20260515234344.png",
-    "Exam Topic CLP Practice.md",
-    "AWS Final Exam Revision.md",
-    "AWS CLP Practice 1.md",
-    "25M12W3 - AI Agent.md",
-    "AWS Cloud Partitioner - Final Project.md",
-    "AWS Cloud Practitioner QUIZ & Video.md",
-    "AIO 2025.md",
-    "AWS Security and Compliance.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam1.md",
     "AWS Final Project Review.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam6.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam5.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam4.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam3.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam2.md",
-    "1 PROJECTS/AWS Cloud Partitioner/filter.py",
-    "1 PROJECTS/AWS Cloud Partitioner/ExamList.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam23.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam22.md",
-    "1 PROJECTS/AWS Cloud Partitioner",
-    "image/Pasted image 20260323175825.png.~tmp"
+    "AWS Cloud Practitioner.md",
+    "2 ACTIONS/_Focus.md",
+    "AWS Final Exam Revision.md"
   ]
 }
