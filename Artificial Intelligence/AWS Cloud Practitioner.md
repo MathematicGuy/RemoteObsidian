@@ -1056,7 +1056,7 @@ What the point of **Addressing with CIDR – Bit counting** -> Foundational for 
 ![[Pasted image 20260326204324.png | 555]]
 Primary point of using CIDR and subnet masks in AWS:
 1. *Network Segmentation and Organization:* divide a large VPC network into smaller, manageable chunks called **subnets**
-2. *Efficient IP Address Management:* Because IPv4 addresses are limited, CIDR allows for variable-length subnet masking (VLSM), meaning you only allocate the number of IP addresses necessary, reducing waste.
+2. *Efficient IP Address Managemen![[Pasted image 20260326204324.png]]t:* Because IPv4 addresses are limited, CIDR allows for variable-length subnet masking (VLSM), meaning you only allocate the number of IP addresses necessary, reducing waste.
 3. *Security and Traffic Control:* CIDR blocks are fundamental to securing your network.
 4. *Routing and Connectivity:* Subnet masks determine where a packet should go
 ![[Pasted image 20260326205031.png]]
@@ -1076,14 +1076,6 @@ Route Table - default route table
 Vì Private subnet ko đi vào từ bên ngoài dc nên nó cần kết nối với NAT instance (NAT có public IP, giúp kết nối đc ra bên ngoài). Làm *trung gian giữa Public và Private subnet.*
 ![[Pasted image 20260326211204.png]]
 
-
-![[Pasted image 20260326211631.png]]
-Security Group at Instance level.
-![[Pasted image 20260326211529.png | 488]]
-
-*Inbound Rules* -> traffic from application level.
-*Outbound Rules* ->
-
 ### Network Security
 **Stateful vs Stateless Firewall**
 ![[Pasted image 20260326212203.png]]
@@ -1091,12 +1083,28 @@ Stateful - allow the return traffic automatically
 
 *Network ACL (NACL)* (security at subnet level - *stateless Firewall*) - *control what goes in and out of the Subnet/VPC* or used for S3 Object access control.
 ![[Pasted image 20260326212359.png]]
+Use Case [Block Malicous IP automatically using GuardDuty and NACL](https://aws.amazon.com/blogs/security/automatically-block-suspicious-traffic-with-aws-network-firewall-and-amazon-guardduty/): Use GuardDuty to detect malicious IP -> Connect Lambda Function to EventBridege to activate NACL `DENY` for the offending IP address.
+
 
 *NAT Gateway vs NACL*
-	NAT Gateway - **Scope:** Acts as a gateway inside a public subnet to route private traffic -> Translates *private IP to public IP for internet access.*
+	NAT Gateway - **Scope:** Acts as a *gateway inside a public subnet within a VPC* to route private traffic *to Outside/Public Internet* -> Translates *private IP to public IP for internet access.* - [source](https://www.cloudoptimo.com/blog/comprehensive-guide-to-nat-gateway-configuration-use-cases-and-best-practices/) 
 	NACL (Network *Access Control* List) - **Scope:** Applies to all instances in associated subnets -> *Allows/Denies* (Permit/Drop) traffic.
+![[Pasted image 20260520171152.png]]
 
-NAT Gateways ($0.045/hr + $0.045/GB data processed in US East-1) are generally more expensive for high-volume internet traffic, while V*PC Gateway Endpoints for S3/DynamoDB are free*
+**Security Group vs Network ACL (NCAL)** - Both Allow/Deny but Security Group is Stateful while NACL is Stateless
++ *Security Group* is Stateful and *attach to EC2*, mean what happend to Inbound Rule also changed for Outbound Rule. For example, inbound rule allow port 80 mean Outbound rule open for port 80.  ![[Pasted image 20260326211529.png | 455]]
++ *Network ACL* is stateless and *attach to Subnet*, reverse of security group, what open for Inbound doesn't open for outbound, Allow or Deny rule in NACL is explicitely config.
+	+ ? Security Group cannot block a Specific IP.
+	+ $ NACL with deny rule, could block 1 specific IP or any explicit IP access to your EC2. 
+	Rules in NACL have Hierchy, some have more permission than other. 
+
+So why use both of them. By order:
+	*For Inbound (NACL -> SG),* NACLs will be the first block for inbound traffic, then Security Group.
+	*For outbound (SG -> NACL),* it will go through security group first then NACLs. 
+![[Pasted image 20260520170036.png]]
+
+
+*NAT Gateways* ($0.045/hr + $0.045/GB data processed in US East-1) are generally more expensive for high-volume internet traffic, while *VPC Gateway Endpoints for S3/DynamoDB are free*
 -> Outbound Cost for VPC are FREE while NAT Gateways cost money because NAT process data before letting it pass through and VPC is just the endpoint that public internet can't see, while outbound connection is allow and connection within the VPC allow as well without the processing step which cost money btw. 
 ![[Pasted image 20260515165121.png]]
 ![[Pasted image 20260515165134.png]]
@@ -1123,8 +1131,85 @@ A record - route traffic to IPv4
 C name - route traffic from a domain to another domain (between 2 domain)
 Alias - turn on (maintain connection to IPv4)
 
-## Lesson 7 - [[AWS Security and Compliance]]
+**CIDR notation (e.g. 10.0.0.0/16)** - address
++ 10.0.0.0 - is like the street address of your Apartment complex. Technically, its the **Base Address,** the possible IP address in your range. 
++ `/16` is the  capacity in Classless Inter-Domain Routing notation (CIDR), its define the size of your network. Like how many "apartments" (IP Address can fit inside your compex). If an IPv4 have 32bits, the number of bits behind the slash `/` tell you how many address are "free" for your devices. `2^16 = 65,535 (bits)` for 64,535 unique IP addresses for your EC2 instances, Load Balancers and Gateways (basically IP for your AWS service) 
 
+
+**Subnet** - private & public
+![[Pasted image 20260327155658.png]]
+Note:
++ Bastion host is a EC2 placed i a public subnet as a secure gateway for accessing private instances (Single point of ingress from the internet). 
+	Wait this kind of like NAT gateway. Well, *NAT is outbound from your instance. Bastion is inbound to your instance for user login.*
+
+*Inbound connection* mean Public to Private. *Everything going out but nothing coming in.*
+*Outbound connection* mean Private to Public. *Can only be Access Into, cannot connect from the Inside to Outside*
+
+### NAT Gateway (Outbound) vs Bastion Host (Inbound) - (Presentation - Example Quiz Use Case - Interacting with Viewer)
+![[Pasted image 20260327173003.png | 777]]
+**Theme:** Private Subnet Instances with *Bastion Host and NAT Gateway to enable internet access from inside*.
+
+When we're talking about NAT and Bastion, we're talking about access between Public and Private subnet. 
+![[Pasted image 20260327164738.png | 666]]
+*Bastion (Pháo Đài - Jump Boxes authentication - Inbound only)* - connect your application to your Private subnet. But control inbound entry point for administrators to SSH/RHP into private instances. *Jump Box* mean securely "jump" *via SSH or RDP into private,*
+-> For Management/Administration through 1 Entry Point to Multiple Subnet. (self-healing host *min 1 max 1 desire 1 in Auto-Scaling Group* to make sure at least Bastion Host are always up if it go down)
+
+
+*Why Bastion ?*
+**Not every server can sit on the public internet - especially sensitive resources like production databases, app servers, or dashboards.** But engineers still need access. That’s where *bastion hosts* come in.
++ Instead of protecting 50 servers from the internet, you only need to harden and protect ONE server (the Bastion).
++ Network Isolation - maintain critical workload in private subnets (unchanging workload) and meeting compliance requirements (HIPAA, PCI-DSS).
++ Central Point for Logging access - easy to monitor. 
+![[Pasted image 20260327161504.png]]
+Bastion SSH Jump or Proxy Jump - allow you to Jump through multiple Authentication step
+![[Pasted image 20260327162326.png | 777]]
+If your Company have multiple Security layer (Bastion 1 for Company access, Bastion 2 for AI Engineer service, Bastion 3 for accountant service). Without Proxy Jump, you have to go through 3 SSH login step. Instead Proxy Jump SHH go through them in 1 command. 
+![[Pasted image 20260327161722.png | 666]]
+In Netflix, Bastion work with "AWS Access Control service" to direct user with specific Identity to Specific Application through SSH. Access Log will be save within AWS Logging service below. 1 Bastion
+![[Pasted image 20260327161945.png]]
+Note: Netflix use an Hardened Bastion Host Layer integrated with their Identity Management platform 
+0.  Login with MFA - to start the Bastion Host section -> Ensure stolen SSH keys alone aren't enough go gain access. 
+1. Engineer may have SSH access to the application servers but not the Payment Database -> Enforce by AWS Security Group and IAM policies -> Engineer Only see what they suppose to see.
+2. Every SSH command run through the bastion is logged -> easy to monitor activity and respond quickly if any thing suspisus happend (AWS Athena to analyze data in S3).
+3. Access to the Bastion is Time Bound. Session Auto-Expire -> reducing the risk if an engineer's machine is compromised (hỏng hóc).
+-> However Bastion access can be revoke if want to allow freely access in case of need. And be locked again. 
++ ! If you only have one bastion host in a single AZ, and that AZ experiences an outage, you will lose access to all your private instances -> Need Multiple Bastion Host for HA and Fault Tolerance (Multi-AZ). Bastion Host is an EC2 Instance. 
+
+*Visibility:* Public address and could be Scan, but can limited Public Access in Security Group.  
+![[Pasted image 20260327165529.png]]
+*Components Explain:*
+*VPC (10.0.0.0/16)* 
++ 10.0.0.0/16 -> your possible IP address. 
++ VPC - Virtual Private Cloud
++ Internet Gateway (IGW) - allow VPC to connect to the outside Internet. *(Each VPC have a Unique Internet gateway, 1-1)*
+
+*Public Subnet (10.0.1.0/24)* - buffer zone (often call DMZ) contain:
++ *Bastion Host (EC2)* - a proxy for administrators to access private servers.
++ *NAT gateway (Outbound)* - managed service that  allow instances/application (EC2) to talk to outside internet without allowing them to talk back.
+
+*Private Subnet (invisible / no address)* - Where all of your Services lives (Database, Python Application, Web service, etc..)
+Could only *access through a single monitored SSH entry point from Bastion Host (Inbound).* 
+![[Pasted image 20260327173455.png | 666]]
+Note: 
++ Auto-Scaling Group for Bastio Host - Self-Healing host usually use 1-1-1 setup, *min 1 max 1 desire 1 in Auto-Scaling Group* to make sure at least Bastion Host are always up if it go down.
++ Wit
+*The Worklflow is as follow:* 
+1. the user access (SSH client) connects to the Public IP of the active Bastion Host. 
+2. IAM (identity check) - Bastion verify the admin's credential (SSH keys)
+3. Internal Jump - The traffic is then "tunneled" or "forwarded" from the Bastion (using its private IP) to the **Backend Server's** private IP (10.0.2.x).
+4. This way No One know the Private Subnet IP Address. Help it stay completely hidden from the Internet (you could find 1 public IP address without having access to the Private subnet, bc their IP address doens't exist)
+
+*NAT Gateway (Outbound traffic)* - used when your app is 1-Way-Access ie. *App have access to the Internet but the Internet doesn't have access to your application.* For example, your app was deployed on Private Subnet instances and those subnet don't have a route to Internet Gateway (no internet access) 
+	-> Use in Automated Service or Backend Instance. Send order from inside, receive none.  
+Visibility: Invisible. Cannot be scan. 
+
+Within a VPC, Company want initnitate connection between Private and Public Network -> NAT gateway bc its allow resource transit from Private subnet to the outside Internet but Prevent outside traffic/request. 
++ $ Allow Private subnet to communicate with outside Internet but prevent Request from entering private subnet. 
+	Note: traffic is the amount of data within each Request. e.g. data for image, text message, etc..
+
+
+
+## Lesson 7 - [[AWS Security and Compliance]]
 **AWS Security Infrastructure** ![[Pasted image 20260402163224.png]]
 
 ![[Pasted image 20260402162951.png]]
@@ -1200,6 +1285,7 @@ POV: you have money, fast deployment on a Decouple System. Your RAG docs now sto
 ### Key Management Service (AWS KMS), SSM
 ![[Pasted image 20260518180250.png | 1000]]
 
+
 For Security and compliance
 AWS KMS - can be integrated with **Amazon S3, EBS, RDS, Lambda, and SSM** to handle data encryption and decryption.
 	Because *data is encrypted by key*, key enryption also mean data encryption. ![[Pasted image 20260402170917.png]]
@@ -1225,6 +1311,7 @@ Customer *Managed Keys*
 ![[Pasted image 20260402191324.png]]
 
 
+**AWS Secrets Manager vs AWS Systems Manager (SSM) Parameter Store**
 **Server-side Encryption at Rest**
 AWS KMS offer encryption AT REST for S3- "At rest" in refers to ==securing data that is actively stored on persistent storage devices (like disks, SSDs, or S3 buckets) rather than data currently moving over a network==
 ![[Pasted image 20260402173350.png]]
@@ -1350,8 +1437,6 @@ Usecase - [aws guard duty vs inspector - Search](https://www.bing.com/search?qs=
 + ? Monitor real-time *AWS accounts, logs, and network traffic* (like VPC Flow Logs, CloudTrail events, DNS logs, and EKS audit logs).
 
 
-
-
 *VPC Flow Logs* - captures information about *IP traffic going to and from network interfaces in a VPC* (Virtual Private Cloud)
 -> for monitoring, Logs output to CloudWatch, S3 or Data Firehose. ![[Pasted image 20260409130554.png | 777]]
 + ? Logs from *Flow Logs* reached *CloudWatch* which can be used to trigger "alarm -> action" for EC2 auto scaling
@@ -1390,6 +1475,11 @@ AWS Trusted Advisor - give advises base on action records.
 	Example: identify the hacker/attacker with the help of historical CloudTrail data Logs.
 
 + [Practice CloudTrail & CloudWatch Integration](https://www.opsramp.com/guides/aws-monitoring-tool/cloudtrail-vs-cloudwatch/) ![[Pasted image 20260407181315.png]]
+### Comparison: CloudTrail vs Inspector vs CloudWatch Logs vs Config
+*Config - check for AWS resource* flaw configuration, violated policies and compliances. 
+Inspector (Vulnerability Scanner) - use for auto security scanner across AWS workloads. Scan for vulnerabilities and network exposure -> Check if your AWS resource secure and patched by checking for CVEs (Common Vulnerabilities Exposure)
+Cloud Trail (Auditing) - detect from API calls (Who/What - IP) - main service for log of API calls made by a user, role or AWS service. 
+Cloud Watch Logs - Centralize Logs of your Systems, app and AWS services -> logs from everywhere appeared here.  
 
 ## AWS Pricing Model & Billing (of Network + Storage + Compute) 
 **Common Cost Breakdown:**

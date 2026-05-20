@@ -76,7 +76,7 @@ Compliance Related Document - AWS Artifact
 
 It (ie. aws service) provides the event history of your AWS account activity, including actions taken through the AWS Management Console, AWS SDKs, command-line tools, and other AWS services -> AWS CloudTrail.
 
-company need to downlaod the compliance-related document in AWS -> AWS artifact (store docs and compliance)
+company need to download the compliance-related document in AWS -> AWS artifact (store docs and compliance)
 
 improve security of IAM user ->  Enable MFA (multi-factor auth) and Configure a strong password policy.
 
@@ -147,7 +147,6 @@ Sell custom AMIs in AWS -> AWS marketplace.
 **Support Channels**
 Channels that shares a collection of offerings to *help you ACHIEVE specific business outcomes related to enterprise cloud adoption* through paid engagements in several practice areas -> AWS Professional Services. ![[Pasted image 20260512155337.png | 666]]
 + ? *AWS Professional Service* offering delivers a set of activity, best practice and docs, they help org design and accelerate path to successful cloud adoption. AWS Procfessional Services create the AWS Cloud Adoption Framework (AWS CAF) this help user realize measurable business benefits from clou adoption faster and with less risk.  
-
 
 *AWS Enterprise Support ->* provides 24x7 technical support from high-quality engineers to managed the health of ur env, the consultative architectural guidance delivered in the context of your applications and use-cases And a designated Technical Account Manager (TAM) to coordinate access to proactive/preventative programs and AWS subject matter experts.
 

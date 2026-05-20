@@ -40,43 +40,61 @@ Compare RDS vs regular Database host on EC2
 -> handle OS maintainance, Multi-AZ deployment for HA, Storages and auto backup.
 -> Help Dev focus on writing optimization algo for DB instead of managing the DB itself.
 ![[Pasted image 20260518200810.png]]
+![[Pasted image 20260520145754.png]]
 
 **RDS vs Aurora**
 	Security about the same.
-
 *RDS (Traditional DB type)*
-+ Run on EC2 instance
-+ Compatible with 7 DBMS (database management server)
-+ failover take more time (ie. recovery after failing)
-+ Save data to S3. Manage delete or save replica manually.
-+ Scalability - Must be done Manually or setup a fixed config volumn first.
-+ Simple CloudWatch metrics
-+ Base on usage (IOPS/Storage)
-
+	Run on EC2 instance
+	Compatible with 7 DBMS (database management server)
+	Failover take more time (ie. recovery after failing)
+	Save data to S3. Manage delete or save replica manually.
+	Scalability - Must be done Manually or setup a fixed config volumn first.
+	Simple CloudWatch metrics
+	Base on usage (IOPS/Storage)
 *Aurora (Serverless)*
-+ ony compatible with MySQL and PostgreSQL
-+ Fast Auto failover and selfhealing 
-+ Cost: base on instance type, engine region and registrated storage. bc you set EC2, S3 manually 
+	only compatible with MySQL and PostgreSQL
+	Fast Auto failover and selfhealing 
+	Cost: base on instance type, engine region and registrated storage. bc you set EC2, S3 manually 
 
 **If MySQL is a DBMS then what is AWS Aurora do ?** 
 -> think MySQL as the "engine", Aurora is the car itself, the wrapper that amplified MySQL potential like RAG and LLM.
 
 ### Demo - [RDS Aurora setup](https://www.youtube.com/watch?v=SMgem5DJR0Y&t=23s) - [EC2 Security Group setup](https://www.youtube.com/watch?v=P-BVDUL9Dx0)
+**Setup Security Group for Aurora**
+![[Pasted image 20260519183305.png | 1200]]
+1. Create Security Group.
+2. Config EC2 for BastionHost. ![[Pasted image 20260520152850.png | 555]]
+```sh
+#!/bin/bash
+wget https://dev.mysql.com/get/mysql80-community-release-el9-5.noarch.rpm
+sudo dnf install mysql80-community-release-el9-5.noarch.rpm -y
+sudo dnf repolist enabled | grep "mysql.*-community.*"
+sudo dnf install mysql -y
+```
+3. Create AuroraDB cluster.
+4. Connect to 2 Aurora endpoint in Beekeeper Studio.
 ![[Pasted image 20260518202841.png]]
-1. Create Bastion host (Intermediate host to access internal system or VPC)
-2. Create AWS Aurora
-3. Connect Endpoint to Aurora Database (MySQL)
-4. Connect to Bastion Host
-5. Perform hand-on SQL queries through SSH
-6. Simulate Failover (change backup region) to test Multi-AZ
-7. Check activity after Failover
-8. Clean UP (everything u just setup)
+5. Create  EC2 Bastion Host (Intermediate host to access internal system or VPC) 
+6. Create AWS Aurora with MySQL
+7. Connect Aurora Database Cluster (MySQL) Endpoint to BastionHost EC2.
+8. Test Connection of Database within Aurora Cluster through it Endpoint (2 database mean 2 diff endpoints):
+	+ Perform hand-on SQL queries through SSH 
+	+ BeeKeeper Studio to check DB connection.
+9. Simulate Failover (change backup region) to test Multi-AZ.
+10. Check activity after Failover
+11. Clean UP (everything u just setup)
+```sh
+curl -o vpc-demo.pem https://truststore.pki.rds.amazonaws.com/global/vpc-demo.pem
 
+mysql -h mutlti-az-aurora.cluster-cvemcq4osyl6.ap-southeast-2.rds.amazonaws.com -P 3306 -u admin -p"$(aws rds generate-db-auth-token --hostname mutlti-az-aurora.cluster-cvemcq4osyl6.ap-southeast-2.rds.amazonaws.com --port 3306 --username admin --region ap-southeast-2)" --ssl-mode=VERIFY_IDENTITY --ssl-ca=./vpc-demo.pem
+```
 #### Setting up EC2 instances - [setup guide](https://github.com/stuart-lab/aws-setup) 
+![[Pasted image 20260520151940.png]]
 1. Log into AWS console
 2. EC2 > launch instance
 3. Choose a name
-4. Select Ubuntu 22.04 operating system
+4. Select an operating system
 5. Choose instance type that is the minimum required for the project
 6. Select key pair, or create one
 7. Allow SSH traffic from your computer IP address only
@@ -113,9 +131,6 @@ Set up 2 EC2 in the same Region difference AZ - **setup 1 Security Group** make 
 Setup another Security Group for ALB 
 ![[Pasted image 20260519151159.png]]
 ![[Pasted image 20260519151333.png | 344]]
-
-
-
 Setup EC2 and Security Group Inbound Rule (let Remote IP IN) and Outbound Rule (let Security Group IP out)
 When setting up Inbound Rule: 
 + Run the following command to get your local IP address (if you unsure about your IP address):   `curl https://checkip.amazonaws.com` [[1](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-sg.html)]
@@ -126,7 +141,7 @@ run Linux in Window git Bash: `wsl -d AlmaLinux-9`
 Activate root linux first user `sudo -i` 
 copy the `.pem` key file to `/root` from your linux folder directory in the terminal `sudo cp /home/heval111/vpc-demo.pem /root/`  
 cd to folder `cd '/mnt/d/Personlich/AIO/AIO2025 - Main/AWS Cloud Partitioner'`
-conncet to ec2: `ssh -i "vpc-demo.pem" ec2-user@ec2-32-236-85-61.ap-southeast-2.compute.amazonaws.com`
+conncet to ec2: `ssh -i "vpc-demo.pem" ec2-user@ec2-32-236-85-61.ap-southeast-2.compute.amazonaws.com` 
 ```bash
 curl https://checkip.amazonaws.com
 wsl -d AlmaLinux-9
@@ -150,7 +165,6 @@ echo "Hellow from AZ2" | sudo tee /var/www/html/index.html
 
 #### Setup LoadBalancer & AutoScaling 
 ![[Pasted image 20260519160443.png]]
-
 Create EC2 template for AC -> add UserData 
 ```sh
 #!/bin/bash
@@ -166,10 +180,6 @@ stress test
 sudo yum install stress -y
 sudo stress -c 4
 ```
-
-- [ ] Map out what I need to do - write down the constraints
-- [ ] Map aws aurora configuration into a CloudFormation file.  
-
 ```
 #!/bin/bash
 sudo yum update -y
@@ -177,15 +187,4 @@ sudo yum install -y httpd.x86_64
 sudo systemctl start httpd.service
 sudo systemctl enable httpd.service
 echo "Hello from New AZ: $(hostname -f)" > /var/www/html/index.html
-```
-
-### Setup Security Group for Aurora
-![[Pasted image 20260519183305.png]]
-userdata
-```sh
-#!/bin/bash
-wget https://dev.mysql.com/get/mysql80-community-release-el9-5.noarch.rpm
-sudo dnf install mysql80-community-release-el9-5.noarch.rpm -y
-sudo dnf repolist enabled | grep "mysql.*-community.*"
-sudo dnf install mysql -y
 ```

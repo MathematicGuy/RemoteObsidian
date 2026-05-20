@@ -14,20 +14,15 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 	Flexible với thiết kế hệ thống. 
 	Mô phỏng cách học của Vin. 9h Sáng -> 1h Trưa học lý thuyết
 	Chiều -> Tối Thực Hành
-
-- [ ] [aws project git](https://github.com/NotHarshhaa/AWS-Projects/tree/master/AWS-Project-01)
+- [ ] [aws project git](https://github.com/NotHarshhaa/AWS-Projects/tree/master/AWS-Project-01) - Goals: Understand how to convert configuration into CloudFormation. Next: let AI Agent understand my AWS Setup through CloufFormation.  
 - [ ] ONIX for faster LLM inference
-- [ ] [maybe fix powershell](https://www.reddit.com/r/PowerShell/comments/m6xoiq/powershell_closes_immediately/)
 
 
 _AI Resources & Tools_
 - [ ] [Open Source Model (CHEAP) Inference Provider](https://cloud.siliconflow.com/me/models)  - help you to host and run Open Source AI model  
 + [ ] [Building and deploying task-specific AI Model](https://inference.net/dashboard/dnts-team/p/8ec129ed-0ca4-4416-aeac-8f3a571e81a5/home/) - [inference_ai docs](https://docs.inference.net/introduction)
-<<<<<<< HEAD
 - [ ] [LLM Stats Comparison](https://llm-stats.com/) - Allow you to ship a side project for Free ??
-=======
 - [ ] [AI Engineering from Scratch for Free](https://aiengineeringfromscratch.com/)
->>>>>>> origin/main
 
 
 _Project
