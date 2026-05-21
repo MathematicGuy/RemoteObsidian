@@ -30,9 +30,6 @@ Goal - Design a MVP AI System
 + [LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)
 + [RAG Interview Question](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub)
 
-*Docs*
-+ [[Understand Company needs and Perspective]]
-
 ### 3-Part of RAG Interview Framework
 **What is RAG ?**  Retrieval Augment System from Internal Data sources 
 **RAG System Types of Questions**

@@ -2,7 +2,7 @@
 
 In mathematics, particularly in complex analysis, **arg** stands for **argument**. It is a function that **gives the angle (in radians or degrees) between the positive real axis and the line representing a complex number** in the 
 **complex plane** 
-	![[Untitled 4.png]]
+	![[Untitled 4 1.png]]
 (also known as the **Argand plane**).
 	![[argand-diagram.png]]
 

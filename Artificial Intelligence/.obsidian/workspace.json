@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "f11975197989d228",
+    "id": "882611ef0c947a9b",
     "type": "split",
     "children": [
       {
-        "id": "d403d110c461d7fe",
+        "id": "9a85d9ad2ed83922",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ef1d7e65e9d7ef",
+            "id": "adb9d827ff461c12",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ACTIONS/_Focus.md",
+                "file": "2_ACTIONS/_Focus.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,29 +24,17 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "42e147da3ad718db",
-=======
-            "id": "6020572ed94d6abf",
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
+            "id": "bf1e8a8947568d6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
-=======
-                "file": "AWS Cloud Practitioner.md",
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
+                "file": "AI Engineer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling"
-=======
-              "title": "AWS Cloud Practitioner"
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
+              "title": "AI Engineer"
             }
           }
         ],
@@ -56,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bffb08cf8224c56a",
+    "id": "274703f697b31108",
     "type": "split",
     "children": [
       {
-        "id": "b214af593246ad07",
+        "id": "0cac1a0640e4a65e",
         "type": "tabs",
         "children": [
           {
-            "id": "28320be63720036a",
+            "id": "c925a350ef7168b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,16 +65,12 @@
             }
           },
           {
-            "id": "df054233ff2990ae",
+            "id": "8a13816028e4fbfe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "Bastion Host",
-=======
                 "query": "",
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +82,7 @@
             }
           },
           {
-            "id": "eff019a990eca4b1",
+            "id": "29534f658afb2ed9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,29 +91,41 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5110321044922,
-    "collapsed": true
+    "width": 283.5124969482422
   },
   "right": {
-    "id": "4f86c781217369f0",
+    "id": "3ca039a6dff52945",
     "type": "split",
     "children": [
       {
-        "id": "a58d72c6525f3cc0",
+        "id": "413f50ff0685c2c4",
         "type": "tabs",
         "children": [
           {
-            "id": "7bccf6f5edf67afd",
+            "id": "2a54bf0747991121",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b23357d38748376d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AI Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,25 +135,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Cloud Practitioner"
+              "title": "Backlinks for AI Engineer"
             }
           },
           {
-            "id": "962074656144a7e0",
+            "id": "fd6c06e7e3135592",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AI Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS Cloud Practitioner"
+              "title": "Outgoing links from AI Engineer"
             }
           },
           {
-            "id": "c58f860643ceb0d0",
+            "id": "6a38aa7d47909312",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,317 +168,103 @@
             }
           },
           {
-            "id": "c10c817dc68dc021",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "4c9d9a590ce798cf",
+            "id": "53ac8bca4ec56193",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AI Engineer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS Cloud Practitioner"
+              "title": "Outline of AI Engineer"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "d854e93a0fb71065",
+            "id": "ca45773f02340a51",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "Saved Queries View",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5c58083c264e14df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5bace565a1dbd06b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f5dfb7de0a7ed1db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2cf1b06bba1d7c60",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "db42e49ce5fbeec5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "60450e806d38b5d0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d9e9decab1325c14",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d8f056678588aaf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "02b6a8085ddf90e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "dd139f7b14aecfaa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7989a2bd31badb7a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2b4c07034cd05add",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b4b75f23dc2a09f8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "638a5653d4f8eb1f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "774e7ff004661531",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ddfd13392da1312f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c9f30f4c92f76b2d",
-=======
-            "id": "0d9f2c9bca9ab7c5",
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a7c803146e65f189",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 23
-=======
         "currentTab": 5
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "homepage:Open homepage": true,
+      "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-<<<<<<< HEAD
-  "active": "42e147da3ad718db",
-=======
-  "active": "6020572ed94d6abf",
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
+  "active": "ca45773f02340a51",
   "lastOpenFiles": [
-    "AI Engineer.md",
-    "AI System Design Rulebook.md",
-    "1 PROJECTS/AWS Cloud Partitioner/quiz/AWS CLF - Ubiquitous Terms.md",
-    "AWS Cloud Practitioner.md",
-    "2 ACTIONS/_Focus.md",
-    "AWS Final Exam Revision.md",
-    "AWS Cloud Practitioner QUIZ & Video.md",
-    "AWS CLP Practice 1.md",
-    "AWS Security and Compliance.md",
-    "image/Pasted image 20260326211631.png",
-    "image/Pasted image 20260520171152.png",
-    "image/Pasted image 20260520170036.png",
-    "image/Pasted image 20260520165953.png",
-    "1 PROJECTS/AWS Cloud Partitioner/quiz/aws_mcq_extracted_1.md",
-    "AWS Project Practices.md",
-    "AWS Final Project Review.md",
-    "1 PROJECTS/AWS Cloud Partitioner/exam3.md",
-    "1 PROJECTS/AWS Cloud Partitioner/quiz/aws_mcq_extracted_4.md",
-    "1 PROJECTS/AWS Cloud Partitioner/quiz/aws_mcq_extracted_3.md",
-    "1 PROJECTS/AWS Cloud Partitioner/quiz/aws_mcq_extracted_2.md",
-    "1 PROJECTS/AWS Cloud Partitioner/quiz",
-    "1 PROJECTS/AWS Cloud Partitioner/answers/aws_mcq_extracted_4.md",
-    "1 PROJECTS/AWS Cloud Partitioner/answers/aws_mcq_extracted_3.md",
-    "1 PROJECTS/AWS Cloud Partitioner/answers/aws_mcq_extracted_2.md",
-    "1 PROJECTS/AWS Cloud Partitioner/answers/aws_mcq_extracted_1.md",
-    "1 PROJECTS/AWS Cloud Partitioner/answers",
-    "1 PROJECTS/AWS Cloud Partitioner/exam1.md",
-    "image/Pasted image 20260520152850.png",
-    "25M12W3 - AI Agent.md",
-    "image/Pasted image 20260520151940.png",
-    "image/Pasted image 20260520145754.png",
-    "AIO 2025.md",
-    "image/Pasted image 20260519184340.png",
-    "image/Pasted image 20260519183305.png",
-    "image/Pasted image 20260519163954.png",
-<<<<<<< HEAD
-    "Research Tools.md",
-    "How to Research.md",
-    "AI Engineer by Chip Huyen.md",
-    "1 PROJECTS/AWS Cloud Partitioner/filter.py",
-    "1 PROJECTS/AWS Cloud Partitioner",
-    "image/Pasted image 20260323175825.png.~tmp"
-=======
-    "image/Pasted image 20260519160443.png",
-    "image/Pasted image 20260519151333.png",
-    "image/Pasted image 20260519151258.png",
-    "image/Pasted image 20260519151222.png",
-    "image/Pasted image 20260519151159.png",
-    "image/Pasted image 20260519142804.png",
-    "image/Pasted image 20260519131842.png",
-    "image/Pasted image 20260518215039.png",
-    "Research Tools.md",
-    "AWS Project Practices.md",
-    "AWS Final Project Review.md",
-    "AWS Cloud Practitioner.md",
-    "2 ACTIONS/_Focus.md",
-    "AWS Final Exam Revision.md"
->>>>>>> 1f39ed0352eedc8be3d0d327839f3a5022e6cef0
+    "AI Agent.md",
+    "2_ACTIONS/_Focus.md",
+    "1_PROJECTS/AIO2025/Churn Prediction.md",
+    "1_PROJECTS/AIO2025/25M6 Project Module  - Customer Analysis/Churn Prediction.md",
+    "1_PROJECTS/AIO2025/25M6 Project Module  - Customer Analysis",
+    "1_PROJECTS/AIO2025/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "1_PROJECTS/AIO2025/VAE_skipconnection.drawio",
+    "1_PROJECTS/AIO2025/Nested_Learning.drawio",
+    "1_PROJECTS/AIO2025/GPT2_Poem_Generation.drawio",
+    "1_PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "1_PROJECTS/VAE_skipconnection.drawio",
+    "1_PROJECTS/Nested_Learning.drawio",
+    "1_PROJECTS/GPT2_Poem_Generation.drawio",
+    "1_PROJECTS/Coursera Mathematic for Machine Learning/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "1_PROJECTS/Coursera Mathematic for Machine Learning/VAE_skipconnection.drawio",
+    "1_PROJECTS/Coursera Mathematic for Machine Learning/Nested_Learning.drawio",
+    "1_PROJECTS/Coursera Mathematic for Machine Learning/GPT2_Poem_Generation.drawio",
+    "1_PROJECTS/AIO2025/AIO - Basic LSTM, GRU (Time-series and Text).md",
+    "1_PROJECTS/AIO2025/UnixLinux for Data Science - Core Concept Distill  from ChatGPT.md",
+    "1_PROJECTS/AIO2025/UNet.md",
+    "1_PROJECTS/AIO2025/Softmax Regression.md",
+    "1_PROJECTS/AIO2025/AIO2025 Project - README Rag Streamlit.md",
+    "1_PROJECTS/AIO2025/AIO2025 Module 9.md",
+    "1_PROJECTS/AIO2025/AIO2025 Module 2 Exam.md",
+    "1_PROJECTS/AIO2025/AIO2025 Exercise - Linear Algebra and Numpy.md",
+    "1_PROJECTS/AIO2025/AIO2025 - XGBoost.md",
+    "1_PROJECTS/AIO2025/AIO2025 - Week 2 Summary.md",
+    "1_PROJECTS/AIO2025/AIO2025 - VAE.md",
+    "1_PROJECTS/AIO2025/AIO2025 - UnixLinux for Data Science.md",
+    "1_PROJECTS/AIO2025/AIO2025 - Tokenizers.md",
+    "1_PROJECTS/AIO2025/AIO2025 - TimeSeries.md",
+    "1_PROJECTS/AIO2025/AIO2025 - Statistic Revision.md",
+    "1_PROJECTS/AIO2025/AIO2025 - Statistic and Its Applications.md",
+    "1_PROJECTS/AIO2025/AIO2025 - SQL2_vn.md",
+    "1_PROJECTS/AIO2025/AIO2025 - SQL2_en.md",
+    "1_PROJECTS/AIO2025/AIO2025 - SQL in Data Analysis.md",
+    "1_PROJECTS/AIO2025/AIO2025 - Spam Ham Module 2 Project Note.md",
+    "1_PROJECTS/AIO2025/AIO2025 - Spam Classification using Naive Bayes.md",
+    "1_PROJECTS/AIO2025/AIO2025 - Sines and Cosine.md",
+    "4_ARCHIVES/Image/Pasted image 20240822171050.png",
+    "4_ARCHIVES/Image/Pasted image 20240822170634.png",
+    "4_ARCHIVES/Image/Pasted image 20240822170547.png",
+    "4_ARCHIVES/Image/Pasted image 20240822165945.png",
+    "4_ARCHIVES/Image/Pasted image 20240822165901.png",
+    "4_ARCHIVES/Image/Pasted image 20240822165531.png",
+    "4_ARCHIVES/Image/Pasted image 20240822165205.png",
+    "4_ARCHIVES/Image/Pasted image 20240822165252.png",
+    "4_ARCHIVES/Image/Pasted image 20240822165109.png",
+    "4_ARCHIVES/Image/Pasted image 20240822164226.png",
+    "4_ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
+    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas"
   ]
 }

@@ -280,7 +280,7 @@ note: **Use RNN for short-term dependencies and LSTM for long-term dependencies*
 `RNN(128, 128, num_layers=2, batch_first=True, dropout=0.5)`
 Example:
 ![[Pasted image 20250226115243.png]]
-![[image/Untitled 3.png]]
+![[Untitled 3.png]]
 ![[RNN-Language-model1.png]]
 + RNN truyền thống gặp vấn đề vanishing gradient khi xử lý chuỗi dài
 + ? **vanishing gradient** (độ dốc biến mất) khi chuỗi đầu vào dài. Khi lan truyền ngược qua nhiều bước thời gian, các **đạo hàm của hàm kích hoạt (như hàm tanh) có giá trị nhỏ** hơn 1, làm cho các **gradient giảm theo cấp số nhân theo số bước thời gian.**

@@ -1,4 +1,6 @@
 Check Code for AI Agent ?  https://github.com/khanhnam-nathan/Pyneat
+
+## [[How to use AI Agent for Agentic Coding]]
 ## LLMs Tools Calling 
 ### Agentic Tools (like Functions)
 *@tool descrioption/context* (the text between `"""`). The agent uses this description to decide:

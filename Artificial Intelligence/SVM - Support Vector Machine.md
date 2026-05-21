@@ -34,7 +34,7 @@ Face (green) / Non-Face (red)
 ### Definition
 + **Subspace:** space inside another space
 + **Hyperplane:** is a flat subspace that divides a higher dimension into 2 parts. In 3D a hyperplane is a plane, in 2D a hyperplane is line both of them divide a space into 2 half-spaces.
-	![[image/images.jpg]]
+	![[images/images.jpg]]
 	
 + **[[Vector]] Components:** Each part of the vector is called a components. 2D vector have 2 components, 3D vector have 3 components. 
 	*e.g.* Vector with 2 Components

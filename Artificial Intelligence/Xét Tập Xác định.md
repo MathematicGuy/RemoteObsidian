@@ -1,4 +1,4 @@
-![[Untitled 2.png]]
+![[Untitled 2 1.png]]
 
 	
 1. **Biểu thức dưới dấu căn không âm:**

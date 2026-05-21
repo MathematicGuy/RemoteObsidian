@@ -22,7 +22,7 @@ Gradient Boosting Machine: cây sau đc xây (cải thiện) dựa vào cây tr'
 Decision Tree **classified things into categories** -> Classification Tree
 ![[image.webp]]
 Decision Tree **predict numerical value** -> Regression Tree  
-![[image/Untitled 5.png]]
+![[Untitled 5.png]]
 **Internal Nodes:** These **nodes** **represent questions** or tests applied to a **specific attribute of the data.**
 
 **Branches:** **Each branch represents the possible outcomes of the test** at an internal node.

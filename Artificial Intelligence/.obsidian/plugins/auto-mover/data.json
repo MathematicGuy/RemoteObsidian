@@ -1,0 +1,17 @@
+{
+  "moveOnOpen": true,
+  "movingRules": [],
+  "exclusionRules": [],
+  "tagRules": [],
+  "projectRules": [],
+  "automaticMoving": false,
+  "timer": null,
+  "debugLogging": false,
+  "collapseSections": {
+    "tutorial": true,
+    "movingRules": false,
+    "exclusionRules": false,
+    "tagRules": false,
+    "projectRules": false
+  }
+}
