@@ -37,8 +37,7 @@
               "title": "AI Engineer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Engineer.md",
+                "file": "2_ACTIONS/_Focus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Engineer"
+              "title": "Outline of _Focus"
             }
           },
           {
@@ -197,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +213,9 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "ca45773f02340a51",
+  "active": "adb9d827ff461c12",
   "lastOpenFiles": [
+    "AI Engineer.md",
     "AI Agent.md",
     "2_ACTIONS/_Focus.md",
     "1_PROJECTS/AIO2025/Churn Prediction.md",
@@ -253,7 +254,6 @@
     "1_PROJECTS/AIO2025/AIO2025 - SQL in Data Analysis.md",
     "1_PROJECTS/AIO2025/AIO2025 - Spam Ham Module 2 Project Note.md",
     "1_PROJECTS/AIO2025/AIO2025 - Spam Classification using Naive Bayes.md",
-    "1_PROJECTS/AIO2025/AIO2025 - Sines and Cosine.md",
     "4_ARCHIVES/Image/Pasted image 20240822171050.png",
     "4_ARCHIVES/Image/Pasted image 20240822170634.png",
     "4_ARCHIVES/Image/Pasted image 20240822170547.png",
