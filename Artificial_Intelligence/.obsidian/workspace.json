@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "94d972d891091251",
+            "id": "1b9f80ef55b3e3de",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -213,10 +213,10 @@
             "id": "4e8308bb46476097",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -228,9 +228,19 @@
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
+          },
+          {
+            "id": "8fcde4a30445d282",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -251,9 +261,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94d972d891091251",
+  "active": "1b9f80ef55b3e3de",
   "lastOpenFiles": [
     "2_ACTIONS/_Focus.md",
+    "Important AI Research Paper of the 21 century.md",
+    "Save4Later.md",
     "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
     "4_ARCHIVES/CMC 2025/UIUX/CMC UIUX.md",
     "AI Engineer.md",
@@ -290,8 +302,6 @@
     "1_PROJECTS/AIO2025/AIO2025 - Statistic Revision.md",
     "1_PROJECTS/AIO2025/AIO2025 - Statistic and Its Applications.md",
     "1_PROJECTS/AIO2025/AIO2025 - SQL2_vn.md",
-    "1_PROJECTS/AIO2025/AIO2025 - SQL2_en.md",
-    "1_PROJECTS/AIO2025/AIO2025 - SQL in Data Analysis.md",
     "4_ARCHIVES/Image/Pasted image 20240822171050.png",
     "4_ARCHIVES/Image/Pasted image 20240822170634.png",
     "4_ARCHIVES/Image/Pasted image 20240822170547.png",

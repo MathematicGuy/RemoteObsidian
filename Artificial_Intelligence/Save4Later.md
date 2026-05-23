@@ -9,6 +9,8 @@
 >MinerU is a tool that converts PDFs into machine-readable formats (e.g., markdown, JSON)
 >[Installation Guide Win11-CUDA]([MinerU/docs/README_Windows_CUDA_Acceleration_en_US.md at master · opendatalab/MinerU](https://github.com/opendatalab/MinerU/blob/master/docs/README_Windows_CUDA_Acceleration_en_US.md))
 
+Page that organize [LLM Optimizer Evoluation with pseudo code](https://tianshijing.github.io/ScalingOpt/pages/optimizers.html?sort=year) 
+
 [Fast LLM Inference using CUDA](https://andrewkchan.dev/posts/yalm.html)
 
 **Photography**
@@ -22,6 +24,4 @@ Zai Schwarzenegger
 
 [Keep in touch sus memes](https://www.facebook.com/share/r/197GckZVM7/) 
 [Meta's Superintelligence team](https://www.facebook.com/share/p/15gyd7HgX9/)
-
-
 ![[Pasted image 20240611193343.png|444]]
