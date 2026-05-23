@@ -23,7 +23,3 @@ Inspiration:
 + Professional self-intro -> Experience timeline.  
 + Describe my profession (using Project and Timeline) 
 	What I do page -> Describe what I do as explicit as possible (not just listing experieneces)![[Pasted image 20260523155522.png | 555]]
-
-Project Page example
-	![[Pasted image 20260523160906.png | 555]]
-
