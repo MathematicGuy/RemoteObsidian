@@ -24,35 +24,17 @@
             }
           },
           {
-            "id": "bf1e8a8947568d6d",
+            "id": "94d972d891091251",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "No Vibes Allowed - Solving Hard Problems in Complex Codebases"
-            }
-          },
-          {
-            "id": "16b031ee150301ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_ARCHIVES/CMC 2025/UIUX/CMC UIUX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMC UIUX"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,11 +251,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16b031ee150301ef",
+  "active": "94d972d891091251",
   "lastOpenFiles": [
-    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
-    "AI Engineer.md",
     "2_ACTIONS/_Focus.md",
+    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+    "4_ARCHIVES/CMC 2025/UIUX/CMC UIUX.md",
+    "AI Engineer.md",
     "AI Agent.md",
     "1_PROJECTS/AIO2025/Churn Prediction.md",
     "1_PROJECTS/AIO2025/25M6 Project Module  - Customer Analysis/Churn Prediction.md",
@@ -309,7 +292,6 @@
     "1_PROJECTS/AIO2025/AIO2025 - SQL2_vn.md",
     "1_PROJECTS/AIO2025/AIO2025 - SQL2_en.md",
     "1_PROJECTS/AIO2025/AIO2025 - SQL in Data Analysis.md",
-    "1_PROJECTS/AIO2025/AIO2025 - Spam Ham Module 2 Project Note.md",
     "4_ARCHIVES/Image/Pasted image 20240822171050.png",
     "4_ARCHIVES/Image/Pasted image 20240822170634.png",
     "4_ARCHIVES/Image/Pasted image 20240822170547.png",

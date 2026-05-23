@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/Frontend.md",
+                "file": "UI with Coding Agent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Frontend"
+              "title": "UI with Coding Agent"
             }
           }
         ],
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3c992fad18dca3e1",
@@ -204,6 +205,8 @@
   },
   "active": "a4d4765d4cf89169",
   "lastOpenFiles": [
+    "3 RESOURCES/Web/Learn Web Developement/WebDev_Learn/Frontend.md",
+    "UI with Coding Agent.md",
     "Todo.md",
     "300px-Network_Protocol_driver.png",
     "conflict-files-obsidian-git.md",
