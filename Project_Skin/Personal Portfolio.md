@@ -26,3 +26,4 @@ Inspiration:
 
 Project Page example
 	![[Pasted image 20260523160906.png | 555]]
+
