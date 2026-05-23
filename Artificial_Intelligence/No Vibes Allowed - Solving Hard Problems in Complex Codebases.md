@@ -1,6 +1,6 @@
 + @ **[12-Factor Agent:](https://github.com/humanlayer/12-factor-agents)** engineering techniques that make LLM-powered software more reliable, more scalable, and easier to maintain.
+	Context Engineer -> get the most out of today model.
 
-Context Engineer -> get the most out of today model.
 #### How to vibe code more efficiently ? 
 Naive Approach - prompt until it work
 Smarter Apprach - Intentional Compaction 
