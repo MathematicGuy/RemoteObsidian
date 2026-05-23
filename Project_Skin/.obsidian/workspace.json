@@ -25,37 +25,17 @@
             }
           },
           {
-            "id": "a4d4765d4cf89169",
+            "id": "ee4d6acfbdfd138a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI with Coding Agent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "UI with Coding Agent"
-            }
-          },
-          {
-            "id": "1412969c4f443825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Portfolio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Personal Portfolio"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1412969c4f443825",
+  "active": "ee4d6acfbdfd138a",
   "lastOpenFiles": [
-    "UI with Coding Agent.md",
     "Todo.md",
     "Personal Portfolio.md",
+    "UI with Coding Agent.md",
     "Images/Pasted image 20260523160906.png",
     "Images/Pasted image 20260523155522.png",
     "Images/Pasted image 20260523152221.png",
