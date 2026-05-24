@@ -1,0 +1,100 @@
+{
+  "summarized_files": [
+    "2_ACTIONS/Goals.md",
+    "2_ACTIONS/_Focus.md",
+    "2_ACTIONS/Mein Resume and CV.md",
+    "2_ACTIONS/Master Psudo Planche (GYM + CALISTHENICS).md",
+    "2_ACTIONS/_Focus_Palace.canvas"
+  ],
+  "details": {
+    "2_ACTIONS/Goals.md": {
+      "category": "2_ACTIONS",
+      "summary": "Outline of personal study methodology (single-pass video watching, explaining, and late noting) and formal requirements for joining a 3D Point Cloud computer vision research group.",
+      "keywords": [
+        "study methodology",
+        "3D Point Cloud",
+        "computer vision",
+        "research requirements",
+        "CNN",
+        "Transformer"
+      ],
+      "links": [],
+      "analyzed_at": "2026-05-24T16:06:59Z"
+    },
+    "2_ACTIONS/_Focus.md": {
+      "category": "2_ACTIONS",
+      "summary": "Personal focus dashboard compiling active tasks (late chunking, RAG from scratch, CloudFormation), curated repositories for RAG, and extensive study playlists for advanced mathematics.",
+      "keywords": [
+        "RAG",
+        "AI Agent",
+        "AWS",
+        "Machine Learning",
+        "Mathematics Course",
+        "Multivariable Calculus",
+        "Linear Algebra"
+      ],
+      "links": [
+        "Anstler Palace.canvas",
+        "main_Continual Learning & Nested Learning Survey",
+        "Fun Research Direction Analysis",
+        "Machine Learning & Data Science Main",
+        "ML CheatSheet",
+        "Critical Thinking & Mental System",
+        "Discrete Mathematics for Computer Science Specialization",
+        "how_my_thinking_work",
+        "Aha"
+      ],
+      "analyzed_at": "2026-05-24T16:07:01Z"
+    },
+    "2_ACTIONS/Mein Resume and CV.md": {
+      "category": "2_ACTIONS",
+      "summary": "Resume optimization guidelines focusing on ATS keyword integration and the WHAT/HOW/WHY structure in bullet points to effectively demonstrate technical expertise under jobs and projects.",
+      "keywords": [
+        "ATS Optimization",
+        "Resume Keywords",
+        "WHAT-HOW-WHY Format",
+        "AI CV Design",
+        "Software Engineering Resume"
+      ],
+      "links": [],
+      "analyzed_at": "2026-05-24T16:07:03Z"
+    },
+    "2_ACTIONS/Master Psudo Planche (GYM + CALISTHENICS).md": {
+      "category": "2_ACTIONS",
+      "summary": "Hypertrophy and calisthenics training manual outlining push/pull/legs splits for Pseudo Planche progression, progressive overload techniques, and the 18 Secrets to Perfect Workouts.",
+      "keywords": [
+        "Hypertrophy",
+        "Calisthenics Skills",
+        "Pseudo Planche",
+        "Weighted Dips",
+        "Progressive Overload",
+        "Workout Routine"
+      ],
+      "links": [
+        "Calisthenics Diet",
+        "Smartest Way to Use Protein To Build Muscle"
+      ],
+      "analyzed_at": "2026-05-24T16:07:06Z"
+    },
+    "2_ACTIONS/_Focus_Palace.canvas": {
+      "category": "2_ACTIONS",
+      "summary": "Visual planning canvas (Anstler Palace) mapping out morning study routines, mental health guidelines, dopamine-boosting tasks, and 4-month calisthenics, gaming, and academic milestones.",
+      "keywords": [
+        "Dopamine Boost",
+        "Anstler Palace",
+        "Hyper-Focus",
+        "Calisthenics Habits",
+        "Academic Milestones",
+        "Personal Growth"
+      ],
+      "links": [
+        "Study Music Playlist.md",
+        "Studying Better.md",
+        "Time Line AIO Team Report.md",
+        "Master in Wild Drift",
+        "Master Psudo Planche (GYM + CALISTHENICS)"
+      ],
+      "analyzed_at": "2026-05-24T16:07:09Z"
+    }
+  }
+}

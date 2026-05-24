@@ -148,6 +148,11 @@ Note: finally, design a RAG pipeline by yourself.
 
 
 
+# LLM Series: Agentic RAG for Vietnamese Legal Document QA
+![[Pasted image 20260524155833.png | 666]]
+Ingestion pipeline (raw data to usable index) -> RAG -> Agent/Tools Layer -> Deploy (Docker) & Serving (FastAPI)
+
+
 
 
 

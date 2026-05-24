@@ -16,9 +16,17 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 	Chiều -> Tối Thực Hành
 - [ ] [aws project git](https://github.com/NotHarshhaa/AWS-Projects/tree/master/AWS-Project-01) - Goals: Understand how to convert configuration into CloudFormation. Next: let AI Agent understand my AWS Setup through CloufFormation.  
 - [ ] ONIX for faster LLM inference
+- [ ] [Agentic RAG for dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies)
+- [ ] [Controllable RAG Agent (demo RAG steps with Graph)](https://github.com/NirDiamant/Controllable-RAG-Agent)
+- [ ] [Agentic Retrieval-Augmented Generation : A Survey On Agentic RAG](https://github.com/asinghcsu/AgenticRAG-Survey)
+- [ ] [simple rag app demo](https://github.com/ragapp/ragapp)
+- [ ] [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)
+- [ ] [A lot of Read-World AI Project with Demo](https://github.com/patchy631/ai-engineering-hub)
+- [ ] [Personal Portfolio template](https://github.com/cloudflare/astro-blog-starter-template-brayden)
 
 
 _AI Resources & Tools_
+- [ ] [SMS-POOL for GPT Verification](https://www.smspool.net/purchase/quick_sms)
 - [ ] [Open Source Model (CHEAP) Inference Provider](https://cloud.siliconflow.com/me/models)  - help you to host and run Open Source AI model  
 + [ ] [Building and deploying task-specific AI Model](https://inference.net/dashboard/dnts-team/p/8ec129ed-0ca4-4416-aeac-8f3a571e81a5/home/) - [inference_ai docs](https://docs.inference.net/introduction)
 - [ ] [LLM Stats Comparison](https://llm-stats.com/) - Allow you to ship a side project for Free ??
