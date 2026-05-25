@@ -32,7 +32,21 @@ def find_vault_root():
             return workspace_root
         vault_root = parent
 
+def is_in_scan_scope(rel_path, full_scan):
+    """Checks if a relative path lies within the active scan scope."""
+    parts = rel_path.replace("\\", "/").split("/")
+    if not parts or parts[0] not in SCAN_FOLDERS:
+        return False
+    if full_scan:
+        return True
+    # Default mode: only scan files directly in the SCAN_FOLDERS directories themselves (no subfolders)
+    return len(parts) == 2
+
+
 def main():
+    # 0. Parse arguments
+    full_scan = "--full" in sys.argv
+
     # 1. Resolve paths
     root_dir = find_vault_root()
     obsidian_dir = os.path.join(root_dir, ".obsidian")
@@ -65,7 +79,11 @@ def main():
             if not d.startswith('.') and d.lower() not in ignored_dir_names
         ]
         
-        # C. Approach A: Recursive skipping via marker files (.ignore / _ignore)
+        # C. Default mode restriction: Do not walk into subfolders of SCAN_FOLDERS
+        if not full_scan and rel_dir in SCAN_FOLDERS:
+            dirnames[:] = []
+            
+        # D. Recursive skipping via marker files (.ignore / _ignore)
         has_ignore_marker = any(
             fn.lower() in ('.ignore', '_ignore') for fn in filenames
         )
@@ -73,7 +91,7 @@ def main():
             dirnames[:] = []  # Stop walking down subdirectories
             continue          # Skip scanning files in this directory
             
-        # D. Record physical files
+        # E. Record physical files
         for filename in filenames:
             ext = os.path.splitext(filename)[1].lower()
             if ext not in ('.md', '.canvas'):
@@ -111,6 +129,13 @@ def main():
     already_accounted_for = set()
     
     for old_path in old_summarized_files:
+        # If the file is not in our current scan scope, we must preserve it untouched
+        if not is_in_scan_scope(old_path, full_scan):
+            new_summarized_files.append(old_path)
+            if old_path in summarized_data["details"]:
+                new_details[old_path] = summarized_data["details"][old_path]
+            continue
+
         # Case 1: File still physically exists exactly where it was
         if old_path in physical_paths:
             new_summarized_files.append(old_path)

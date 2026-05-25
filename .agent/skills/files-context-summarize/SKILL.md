@@ -50,12 +50,15 @@ Follow this schema exactly:
 
 ### Step 1: Scan and Identify Targets
 1. Locate all unsummarized files. You MUST run the `check_unsummerize.py` utility inside `.agent/skills/files-context-summarize/`.
-2. This utility:
-   - Restricts scanning strictly to the whitelisted directory: `Artificial_Intelligence` (which recursively contains all `1_PROJECTS`, `2_ACTIONS`, and `3_RESOURCES` notes).
+2. This utility supports two execution modes:
+   - **Default Mode:** Run without flags (`python check_unsummerize.py`). It scans only the root files directly within the `Artificial_Intelligence` folder itself (excluding files within subfolders like `3_RESOURCES/`, `1_PROJECTS/`, etc.). Self-healing will preserve existing details of out-of-scope files inside the index.
+   - **Full Scan Mode:** Run with the `--full` flag (`python check_unsummerize.py --full`). It scans the `Artificial_Intelligence` folder recursively, including all files and subfolders.
+3. This utility:
+   - Restricts scanning strictly to the whitelisted directory: `Artificial_Intelligence`.
    - Bypasses default Obsidian paths (`.obsidian`, `.makemd`, `.space`, `.trash`), administrative files (`.smart-env`), and asset/utility folders (`Excalidraw`, `images`, `ultilities`).
    - Automatically skips and prunes any subdirectories recursively containing a blank `.ignore` or `_ignore` marker file.
-   - **Self-Heals Moved Files:** Automatically updates the relative path keys in `summerized-context.json` if a note was moved/renamed, and purges deleted notes.
-3. Read the output JSON mapping from standard output or from `.obsidian/unsummerized_files.json`.
+   - **Self-Heals Moved Files:** Automatically updates the relative path keys in `summerized-context.json` if a note was moved/renamed, and purges deleted notes that are in-scope.
+4. Read the output JSON mapping from standard output or from `.obsidian/unsummerized_files.json`.
 
 ### Step 2: Content Analysis (For each target file)
 For each unsummarized file relative path, read its content (up to the first 2000 characters) and extract:
