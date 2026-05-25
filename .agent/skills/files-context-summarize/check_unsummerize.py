@@ -3,7 +3,9 @@ import json
 import sys
 
 # The top-level folders to scan (hardcoded for explicit safety and control)
-SCAN_FOLDERS = ['1_PROJECTS', '2_ACTIONS', '3_RESOURCES']
+# SCAN_FOLDERS = ['1_PROJECTS', '2_ACTIONS', '3_RESOURCES']
+SCAN_FOLDERS = ['Artificial_Intelligence']
+
 
 def find_vault_root():
     """Dynamically locates the Obsidian vault root by searching upwards and checking for subdirectories like 'Artificial_Intelligence'."""

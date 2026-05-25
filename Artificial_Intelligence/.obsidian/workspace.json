@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "1b9f80ef55b3e3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_PROJECTS/AIO2025/25M12W3 - AI Agent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25M12W3 - AI Agent"
-            }
-          },
-          {
-            "id": "39a52e492a034c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_RESOURCES/Artificial Intelligent/NLP & RAG/RAG System Design Blog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAG System Design Blog"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +231,10 @@
             "id": "51392dd080cdf667",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -275,9 +246,19 @@
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
+          },
+          {
+            "id": "ca2743298986f321",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -298,11 +279,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c925a350ef7168b2",
+  "active": "adb9d827ff461c12",
   "lastOpenFiles": [
+    "Excalidraw/Nested Learning Board.md",
     "1_PROJECTS/AIO2025/25M12W3 - AI Agent.md",
-    "2_ACTIONS/_Focus.md",
     "3_RESOURCES/Artificial Intelligent/NLP & RAG/RAG System Design Blog.md",
+    "2_ACTIONS/_Focus.md",
     "images/Pasted image 20260524155833.png",
     "image",
     "1_PROJECTS/AIO2025/AIO_2025.md",
@@ -339,7 +321,6 @@
     "1_PROJECTS/AIO2025/AIO2025 - VAE.md",
     "1_PROJECTS/AIO2025/AIO2025 - UnixLinux for Data Science.md",
     "1_PROJECTS/AIO2025/AIO2025 - Tokenizers.md",
-    "1_PROJECTS/AIO2025/AIO2025 - TimeSeries.md",
     "4_ARCHIVES/Image/Pasted image 20240822171050.png",
     "4_ARCHIVES/Image/Pasted image 20240822170634.png",
     "4_ARCHIVES/Image/Pasted image 20240822170547.png",
