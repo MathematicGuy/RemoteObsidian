@@ -251,6 +251,26 @@
             "id": "ca2743298986f321",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d6d388a641ab168d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8df4b8984e571fb5",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -258,7 +278,7 @@
             }
           },
           {
-            "id": "d6d388a641ab168d",
+            "id": "da588b1650c1fe55",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -268,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -291,11 +311,12 @@
   },
   "active": "adb9d827ff461c12",
   "lastOpenFiles": [
+    "AI Conference Deadline.md",
+    "2_ACTIONS/_Focus.md",
     "1_PROJECTS/AIO2025/Week 4 Summary.md",
     "1_PROJECTS/AIO2025/Week 1 Assignment - Housing Prices.md",
-    "2_ACTIONS/_Focus.md",
     "2_ACTIONS/MindPalace.canvas",
-    "image/0 2_qzcm2gSe9l67aI.png",
+    "images/0 2_qzcm2gSe9l67aI.png",
     "3_RESOURCES/Computer Vision/Week 1 - Foundations of Convolutional Neural Networks.md",
     "3_RESOURCES/Computer Vision/Course 4 - Convolutional Neural Network.md",
     "3_RESOURCES/Machine Learning/Machine Learning.md",
@@ -304,7 +325,7 @@
     "1_PROJECTS/AIO2025/25M12W3 - AI Agent.md",
     "3_RESOURCES/Artificial Intelligent/NLP & RAG/RAG System Design Blog.md",
     "images/Pasted image 20260524155833.png",
-    "image",
+    "images",
     "1_PROJECTS/AIO2025/AIO_2025.md",
     "Important AI Research Paper of the 21 century.md",
     "Save4Later.md",
@@ -332,15 +353,14 @@
     "1_PROJECTS/AIO2025/Softmax Regression.md",
     "1_PROJECTS/AIO2025/AIO2025 Project - README Rag Streamlit.md",
     "1_PROJECTS/AIO2025/AIO2025 Module 9.md",
-    "1_PROJECTS/AIO2025/AIO2025 Module 2 Exam.md",
-    "image/Pasted image 20240822171050.png",
-    "image/Pasted image 20240822170634.png",
-    "image/Pasted image 20240822170547.png",
-    "image/Pasted image 20240822165945.png",
-    "image/Pasted image 20240822165901.png",
-    "image/Pasted image 20240822165531.png",
-    "image/Pasted image 20240822165205.png",
-    "image/Pasted image 20240822165252.png",
+    "images/Pasted image 20240822171050.png",
+    "images/Pasted image 20240822170634.png",
+    "images/Pasted image 20240822170547.png",
+    "images/Pasted image 20240822165945.png",
+    "images/Pasted image 20240822165901.png",
+    "images/Pasted image 20240822165531.png",
+    "images/Pasted image 20240822165205.png",
+    "images/Pasted image 20240822165252.png",
     "4_ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas"
   ]

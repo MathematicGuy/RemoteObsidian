@@ -3,7 +3,7 @@
   "spellcheckLanguages": null,
   "spellcheck": false,
   "promptDelete": false,
-  "attachmentFolderPath": "image",
+  "attachmentFolderPath": "images",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Tabloid",
