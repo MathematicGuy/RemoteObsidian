@@ -241,10 +241,10 @@
             "id": "01727b0a0b3531d2",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -256,9 +256,19 @@
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
+          },
+          {
+            "id": "d6d388a641ab168d",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -281,10 +291,18 @@
   },
   "active": "adb9d827ff461c12",
   "lastOpenFiles": [
+    "1_PROJECTS/AIO2025/Week 4 Summary.md",
+    "1_PROJECTS/AIO2025/Week 1 Assignment - Housing Prices.md",
+    "2_ACTIONS/_Focus.md",
+    "2_ACTIONS/MindPalace.canvas",
+    "image/0 2_qzcm2gSe9l67aI.png",
+    "3_RESOURCES/Computer Vision/Week 1 - Foundations of Convolutional Neural Networks.md",
+    "3_RESOURCES/Computer Vision/Course 4 - Convolutional Neural Network.md",
+    "3_RESOURCES/Machine Learning/Machine Learning.md",
+    "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner.md",
     "Excalidraw/Nested Learning Board.md",
     "1_PROJECTS/AIO2025/25M12W3 - AI Agent.md",
     "3_RESOURCES/Artificial Intelligent/NLP & RAG/RAG System Design Blog.md",
-    "2_ACTIONS/_Focus.md",
     "images/Pasted image 20260524155833.png",
     "image",
     "1_PROJECTS/AIO2025/AIO_2025.md",
@@ -315,21 +333,14 @@
     "1_PROJECTS/AIO2025/AIO2025 Project - README Rag Streamlit.md",
     "1_PROJECTS/AIO2025/AIO2025 Module 9.md",
     "1_PROJECTS/AIO2025/AIO2025 Module 2 Exam.md",
-    "1_PROJECTS/AIO2025/AIO2025 Exercise - Linear Algebra and Numpy.md",
-    "1_PROJECTS/AIO2025/AIO2025 - XGBoost.md",
-    "1_PROJECTS/AIO2025/AIO2025 - Week 2 Summary.md",
-    "1_PROJECTS/AIO2025/AIO2025 - VAE.md",
-    "1_PROJECTS/AIO2025/AIO2025 - UnixLinux for Data Science.md",
-    "1_PROJECTS/AIO2025/AIO2025 - Tokenizers.md",
-    "4_ARCHIVES/Image/Pasted image 20240822171050.png",
-    "4_ARCHIVES/Image/Pasted image 20240822170634.png",
-    "4_ARCHIVES/Image/Pasted image 20240822170547.png",
-    "4_ARCHIVES/Image/Pasted image 20240822165945.png",
-    "4_ARCHIVES/Image/Pasted image 20240822165901.png",
-    "4_ARCHIVES/Image/Pasted image 20240822165531.png",
-    "4_ARCHIVES/Image/Pasted image 20240822165205.png",
-    "4_ARCHIVES/Image/Pasted image 20240822165252.png",
-    "4_ARCHIVES/Image/Pasted image 20240822165109.png",
+    "image/Pasted image 20240822171050.png",
+    "image/Pasted image 20240822170634.png",
+    "image/Pasted image 20240822170547.png",
+    "image/Pasted image 20240822165945.png",
+    "image/Pasted image 20240822165901.png",
+    "image/Pasted image 20240822165531.png",
+    "image/Pasted image 20240822165205.png",
+    "image/Pasted image 20240822165252.png",
     "4_ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
     "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas"
   ]
