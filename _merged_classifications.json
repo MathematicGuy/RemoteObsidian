@@ -1,7 +1,7 @@
 {
   "vault_root": "D:\\Personlich\\RemoteObsidian",
   "ai_root": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence",
-  "scan_timestamp": "2026-05-27T16:29:54.466982+00:00",
+  "scan_timestamp": "2026-05-27T16:30:47.576553+00:00",
   "total_unorganized": 4,
   "heuristic_matched": [
     {
@@ -11,7 +11,9 @@
       "size_bytes": 860,
       "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
       "method": "heuristic",
-      "confidence": "high"
+      "confidence": "high",
+      "summary": "Details the structure of biological neurons, chemical synapses, and synaptic cleft transmission. Analyzes long-term potentiation as the primary cellular mechanism behind memory consolidation.",
+      "keywords": ["biological neurons", "synapse", "neuroplasticity", "long-term potentiation"]
     },
     {
       "filename": "Gradient-Descent-Derivations.md",
@@ -20,7 +22,9 @@
       "size_bytes": 725,
       "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
       "method": "heuristic",
-      "confidence": "high"
+      "confidence": "high",
+      "summary": "Proves convergence bounds for gradient descent on L-smooth convex functions. Demonstrates maximum decrease bounds by setting learning rate to 1/L.",
+      "keywords": ["gradient descent", "convex optimization", "convergence analysis"]
     },
     {
       "filename": "Transformers-Optimization.md",
@@ -29,7 +33,9 @@
       "size_bytes": 645,
       "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
       "method": "heuristic",
-      "confidence": "high"
+      "confidence": "high",
+      "summary": "Explores Transformer model optimization strategies including weight quantization and dynamic pruning. Outlines mapping floating point weights to integer representations to reduce footprint 4x.",
+      "keywords": ["transformer", "quantization", "pruning", "model optimization"]
     }
   ],
   "ai_classified": [
@@ -37,8 +43,9 @@
       "filename": "Quantum-Computing-Foundations.md",
       "relative_path": "Artificial_Intelligence/Quantum-Computing-Foundations.md",
       "category": "3_RESOURCES/Quantum Computing",
+      "confidence": "high",
       "summary": "Covers mathematical foundations of qubits in superposition and quantum entanglement. Analyzes Shor's algorithm for prime factorization in polynomial time.",
-      "confidence": "high"
+      "keywords": ["quantum computing", "qubit", "shor's algorithm", "superposition"]
     }
   ]
 }
