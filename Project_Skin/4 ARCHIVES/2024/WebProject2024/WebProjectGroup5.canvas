@@ -35,13 +35,13 @@
 		{"id":"e1f9ac1b54c57edd","type":"text","text":"Register ","x":23,"y":-805,"width":156,"height":50},
 		{"id":"34d7096dc47b0b6a","type":"text","text":"Navbar","x":-297,"y":-324,"width":250,"height":60},
 		{"id":"b7697aa7ba0cef98","type":"text","text":"[Color Palette](https://www.realtimecolors.com/?colors=040406-ffffff-fc6b03-0f0f0f-30d576&fonts=Poppins-Poppins)\n","x":1740,"y":-1300,"width":480,"height":50},
-		{"id":"590a340a63e9a60b","type":"file","file":"4 ARCHIVES/Images/Pasted image 20231117131129.png","x":1740,"y":-1360,"width":480,"height":60},
+		{"id":"590a340a63e9a60b","type":"file","file":"images/Pasted image 20231117131129.png","x":1740,"y":-1360,"width":480,"height":60},
 		{"id":"860b0da2ae4c84ce","type":"text","text":"Drop Down Navbar","x":-720,"y":-355,"width":250,"height":60},
 		{"id":"bd0946be9dbfb47d","type":"text","text":"Register","x":-720,"y":-40,"width":250,"height":60},
 		{"id":"ea46213566eb1fa1","type":"text","text":"Login ","x":-720,"y":-194,"width":250,"height":60},
 		{"id":"8c018734587e7606","type":"text","text":" About ","x":-1100,"y":-375,"width":290,"height":50},
 		{"id":"96211baba3fe0e4c","type":"text","text":"Menu - Drop Down Nav Bar","x":-1100,"y":-470,"width":290,"height":65},
-		{"id":"47257fddddd62120","type":"file","file":"4 ARCHIVES/Images/Pasted image 20231115161110.png","x":-1860,"y":-289,"width":1050,"height":308}
+		{"id":"47257fddddd62120","type":"file","file":"images/Pasted image 20231115161110.png","x":-1860,"y":-289,"width":1050,"height":308}
 	],
 	"edges":[
 		{"id":"336dfc89aafc1d5f","fromNode":"96211baba3fe0e4c","fromSide":"left","toNode":"25d0b580cb9bfe64","toSide":"right"},

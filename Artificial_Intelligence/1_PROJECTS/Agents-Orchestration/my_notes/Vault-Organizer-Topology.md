@@ -52,4 +52,4 @@ Prevents generic "one-size-fits-all" categorization.
 Ensures absolute file-level portability combined with high-speed query indexing.
 
 - **Inline Storage (SSoT)**: All metadata (summaries, categories) is written directly inside note YAML frontmatter, escaping quotes to prevent parse errors.
-- **Centralized Cache**: Compiled into a single JSON index `summerized-context.json` within the `.obsidian/` folder during execution to allow high-speed search and retrieval.
+- **Centralized Cache**: Compiled into a single JSON index `summerized-contents.json` within the `.obsidian/` folder during execution to allow high-speed search and retrieval.

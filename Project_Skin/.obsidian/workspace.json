@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3c992fad18dca3e1",
@@ -189,6 +188,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "VIetnam General Law Revision.md",
+    "Untitled.base",
+    "images/1.jpg",
+    "images/300px-Network_Protocol_driver.png",
+    "3 RESOURCES/Project Management/Todo.md",
     "Todo.md",
     "Personal Portfolio.md",
     "Images/Pasted image 20260523160906.png",

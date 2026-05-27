@@ -42,7 +42,7 @@ Deadline: 1 week
 + Scope
 + WBS (Gantt)
 	+ work breakdown structure (WBS) 
-		![[Untitled.jpg]]
+		![[images/Untitled.jpg]]
 + work progress Milestone
 + [[PM Project Archive]] (Critical Path Method -> làm sau)
 + Gantt

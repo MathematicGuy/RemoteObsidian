@@ -404,7 +404,7 @@ Uns each other
 Treffen meet 
 	Wann müssen wir unds treffen - when do we have to meet each other 
 
-![[Images/Untitled.jpg]]
+![[4 ARCHIVES/Images/Untitled.jpg]]
 Wichtig - important
 Aufhören -   
 Höft Auf - stop
