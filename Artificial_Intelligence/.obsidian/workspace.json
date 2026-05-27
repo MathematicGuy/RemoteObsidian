@@ -273,12 +273,27 @@
             "state": {
               "type": "empty",
               "state": {},
+<<<<<<< HEAD
               "icon": "lucide-file",
               "title": "New tab"
+=======
+              "icon": "lucide-ghost",
+              "title": "Saved Queries View"
+>>>>>>> bdfa99e9db3fb9ea12544b8d405ef3372e74520b
             }
           },
           {
             "id": "da588b1650c1fe55",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Saved Queries View"
+            }
+          },
+          {
+            "id": "367b880bc66cfd13",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -319,7 +334,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "adb9d827ff461c12",
+  "active": "367b880bc66cfd13",
   "lastOpenFiles": [
     "1_PROJECTS/Orchestrate-Agent/my_notes/how-to-agent.md",
     "1_PROJECTS/Human-Agent-Collaboration/my_notes/_usage_guide.md",

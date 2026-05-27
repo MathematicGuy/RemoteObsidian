@@ -34,7 +34,7 @@ Finally, Clean up.
 ![[Pasted image 20260518174514.png]]
 
 
-## Deploying AWS Aurora Multi-AZ and Read Reploca Simulate Failover
+## Deploying AWS Aurora Multi-AZ and Read Replica Simulate Failover
 RDS - support most of popular databases type ![[Pasted image 20260518200745.png | 255]] 
 Compare RDS vs regular Database host on EC2
 -> handle OS maintainance, Multi-AZ deployment for HA, Storages and auto backup.
@@ -188,3 +188,20 @@ sudo systemctl start httpd.service
 sudo systemctl enable httpd.service
 echo "Hello from New AZ: $(hostname -f)" > /var/www/html/index.html
 ```
+<<<<<<< HEAD:Artificial Intelligence/AWS Project Practices.md
+
+### Setup Security Group for Aurora
+![[Pasted image 20260519183305.png]]
+userdata
+```sh
+#!/bin/bash
+wget https://dev.mysql.com/get/mysql80-community-release-el9-5.noarch.rpm
+sudo dnf install mysql80-community-release-el9-5.noarch.rpm -y
+sudo dnf repolist enabled | grep "mysql.*-community.*"
+sudo dnf install mysql -y
+```
+
+
+![[Pasted image 20260520020144.png]]
+=======
+>>>>>>> origin/main:Artificial_Intelligence/3_RESOURCES/AWS & Cloud/AWS Project Practices.md
