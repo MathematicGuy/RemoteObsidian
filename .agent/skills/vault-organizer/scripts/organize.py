@@ -15,6 +15,15 @@ import subprocess
 import sys
 import tempfile
 from datetime import datetime, timezone
+
+# Ensure UTF-8 encoding is used for standard output/error, especially on Windows
+if sys.platform.startswith('win'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except AttributeError:
+        pass
+
 from pathlib import Path
 from typing import Any
 
