@@ -34,7 +34,7 @@ Finally, Clean up.
 ![[Pasted image 20260518174514.png]]
 
 
-## Deploying AWS Aurora Multi-AZ and Read Reploca Simulate Failover
+## Deploying AWS Aurora Multi-AZ and Read Replica Simulate Failover
 RDS - support most of popular databases type ![[Pasted image 20260518200745.png | 255]] 
 Compare RDS vs regular Database host on EC2
 -> handle OS maintainance, Multi-AZ deployment for HA, Storages and auto backup.
@@ -189,3 +189,6 @@ sudo dnf install mysql80-community-release-el9-5.noarch.rpm -y
 sudo dnf repolist enabled | grep "mysql.*-community.*"
 sudo dnf install mysql -y
 ```
+
+
+![[Pasted image 20260520020144.png]]

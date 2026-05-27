@@ -29,16 +29,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AWS Project Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Cloud Practitioner"
+              "title": "AWS Project Practices"
+            }
+          },
+          {
+            "id": "ec4f2156f7c03ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Fundamentals Matter More Than Ever - Matt Pocock"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AWS Project Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Cloud Practitioner"
+              "title": "Backlinks for AWS Project Practices"
             }
           },
           {
@@ -131,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AWS Project Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS Cloud Practitioner"
+              "title": "Outgoing links from AWS Project Practices"
             }
           },
           {
@@ -174,17 +187,57 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner.md",
+                "file": "AWS Project Practices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS Cloud Practitioner"
+              "title": "Outline of AWS Project Practices"
             }
           },
           {
             "id": "0d9f2c9bca9ab7c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6e74059a3ad5399e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "14286af2f75e1344",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9f74b59d284085a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "319059b2a6a11839",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -194,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -215,8 +268,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6020572ed94d6abf",
+  "active": "319059b2a6a11839",
   "lastOpenFiles": [
+    "AI Engineer.md",
+    "AI Engineer by Chip Huyen.md",
+    "2 ACTIONS/_Focus.md",
+    "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+    "25M12W3 - AI Agent.md",
+    "AI Agent System.md",
+    "image/Pasted image 20260520020144.png",
+    "AWS Cloud Practitioner.md",
+    "AWS Final Project Review.md",
     "image/Pasted image 20260519184340.png",
     "image/Pasted image 20260519183305.png",
     "image/Pasted image 20260519163954.png",
@@ -226,13 +288,8 @@
     "image/Pasted image 20260519151222.png",
     "image/Pasted image 20260519151159.png",
     "image/Pasted image 20260519142804.png",
-    "image/Pasted image 20260519131842.png",
-    "image/Pasted image 20260518215039.png",
     "Research Tools.md",
     "AWS Project Practices.md",
-    "AWS Final Project Review.md",
-    "AWS Cloud Practitioner.md",
-    "2 ACTIONS/_Focus.md",
     "AWS Final Exam Revision.md"
   ]
 }
