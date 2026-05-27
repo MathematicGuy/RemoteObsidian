@@ -11,6 +11,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "promptDelete": false,
-  "attachmentFolderPath": "image",
+  "attachmentFolderPath": "images",
   "showInlineTitle": true
 }
