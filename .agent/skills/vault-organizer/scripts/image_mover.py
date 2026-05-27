@@ -2,7 +2,7 @@ import os
 import shutil
 from pathlib import Path
 
-def move_images(source_dir="../", target_dir_name="../image"):
+def move_images(source_dir="../", target_dir_name="../images"):
     # Common image file extensions (case-insensitive)
     IMAGE_EXTENSIONS = {
         '.png', '.jpg', '.jpeg', '.gif', '.bmp', 

@@ -28,7 +28,7 @@ _AI Resources & Tools_
 + [ ] [Building and deploying task-specific AI Model](https://inference.net/dashboard/dnts-team/p/8ec129ed-0ca4-4416-aeac-8f3a571e81a5/home/) - [inference_ai docs](https://docs.inference.net/introduction)
 - [ ] [LLM Stats Comparison](https://llm-stats.com/) - Allow you to ship a side project for Free ??
 - [ ] [AI Engineering from Scratch for Free](https://aiengineeringfromscratch.com/)
-
+- [ ] [How to manage a Team - Team Topology, understanding Team structure](https://teamtopologies.com/key-concepts)
 
 _Project
 - [ ] [Mother of all RAG Project](https://github.com/jamwithai/production-agentic-rag-course)

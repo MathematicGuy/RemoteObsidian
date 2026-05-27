@@ -1,5 +1,3 @@
-## [[Continous Learning Research Plan Board]]
-
 ## [[Continual Learning Survey]]
 **Continous Learning -** Learn new information continously without forgetting old information.
 **Memory Hiarchy:** Cache or Intermediate Memory (RAG) -> Long Term -> Pernament (Continous Learning).
@@ -16,7 +14,6 @@
 
 
 ## Idealization
-
 ### [[Orthogonal Projection Loss (2021)]]
 ### [[Tree LoRA]]
 
