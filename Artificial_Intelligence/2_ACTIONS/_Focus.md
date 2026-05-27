@@ -1,4 +1,4 @@
-`Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
+	`Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
 ### [[MindPalace.canvas]]
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_

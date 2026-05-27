@@ -53,3 +53,8 @@ Every seed I compress must pass four invariants. If it fails any one of them, it
 ---
 
 ## Wisdom
+- *"Piping is a rumor; the written file is the home."* (SSoT — Prevents shell-dependent encoding mismatches and newline duplications).
+- *"Share the floor when the worktrees are too long."* (Decoupling — Bypasses system path limits by executing subagents within inherited workspaces).
+- *"The git add key is a vacuum; do not stage your draft."* (Safety — Protects repository history from temporary scratch space pollution).
+- *"The worker knows the brick, the architect knows the blueprint."* (Encapsulation — Keep subagents unaware of the global meta-framework to optimize token usage).
+- *"Injected rules fuel the spark; hunted rules burn the time."* (Ingestion — The master agent should directly inject sub-skills instead of having subagents read files).

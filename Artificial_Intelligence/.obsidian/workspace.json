@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "882611ef0c947a9b",
+    "id": "855f6d860f08b8d9",
     "type": "split",
     "children": [
       {
-        "id": "9a85d9ad2ed83922",
+        "id": "6637d8c57fdf0175",
         "type": "tabs",
         "children": [
           {
-            "id": "adb9d827ff461c12",
+            "id": "d1e8b83d5c7b1bd2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -29,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "274703f697b31108",
+    "id": "8ade8e0d785360e0",
     "type": "split",
     "children": [
       {
-        "id": "0cac1a0640e4a65e",
+        "id": "30d6658802952a6d",
         "type": "tabs",
         "children": [
           {
-            "id": "c925a350ef7168b2",
+            "id": "2b74e6d6f21689ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "8a13816028e4fbfe",
+            "id": "ab32c8eb84c1ebd6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "29534f658afb2ed9",
+            "id": "7267510a5d66277d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,37 +80,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5124969482422
+    "width": 300
   },
   "right": {
-    "id": "3ca039a6dff52945",
+    "id": "b69c020501abbe79",
     "type": "split",
     "children": [
       {
-        "id": "413f50ff0685c2c4",
+        "id": "81f821bfe0fc9af4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a54bf0747991121",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "b23357d38748376d",
+            "id": "d3e5934eca11096a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Engineer.md",
+                "file": "2_ACTIONS/_Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +106,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Engineer"
+              "title": "Backlinks for _Focus"
             }
           },
           {
-            "id": "fd6c06e7e3135592",
+            "id": "647fd895a59dac21",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Engineer.md",
+                "file": "2_ACTIONS/_Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Engineer"
+              "title": "Outgoing links from _Focus"
             }
           },
           {
-            "id": "6a38aa7d47909312",
+            "id": "e29faf725239a51c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +139,21 @@
             }
           },
           {
-            "id": "53ac8bca4ec56193",
+            "id": "3b5e063074aa2a42",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b37d0ece42bf5d95",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -168,142 +168,7 @@
             }
           },
           {
-            "id": "ca45773f02340a51",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "17a59c94a385846b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2d757fb5b2f4f849",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4e8308bb46476097",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ec87ee02cb66cb92",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8fcde4a30445d282",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "51392dd080cdf667",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "01727b0a0b3531d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ca2743298986f321",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d6d388a641ab168d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8df4b8984e571fb5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-<<<<<<< HEAD
-              "icon": "lucide-file",
-              "title": "New tab"
-=======
-              "icon": "lucide-ghost",
-              "title": "Saved Queries View"
->>>>>>> bdfa99e9db3fb9ea12544b8d405ef3372e74520b
-            }
-          },
-          {
-            "id": "da588b1650c1fe55",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "Saved Queries View"
-            }
-          },
-          {
-            "id": "367b880bc66cfd13",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
-            }
-          },
-          {
-            "id": "d2a0b6d367be8687",
+            "id": "cb6500c8d5dbf247",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -313,80 +178,55 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "367b880bc66cfd13",
+  "active": "d1e8b83d5c7b1bd2",
   "lastOpenFiles": [
-    "1_PROJECTS/Orchestrate-Agent/my_notes/how-to-agent.md",
-    "1_PROJECTS/Human-Agent-Collaboration/my_notes/_usage_guide.md",
-    "1_PROJECTS/Human-Agent-Collaboration/my_notes/how-to-agent.md",
-    "1_PROJECTS/Human-Agent-Collaboration/mindseeds/mindseeds.md",
-    "1_PROJECTS/Human-Agent-Collaboration/mindseeds/linguaseeds.md",
-    "1_PROJECTS/Human-Agent-Collaboration/mindseeds/cogniseeds.md",
-    "1_PROJECTS/Human-Agent-Collaboration/mindseeds/archseeds.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/TOOLS.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/TERRITORY.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/HEART.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/EXECUTION-MOMENTUM.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/CODE-RECON.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/BRAIN.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/AUTO-AGENT.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/AGENTS.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/AGENT.md",
-    "1_PROJECTS/Human-Agent-Collaboration/TOPOLOGY.md",
-    "1_PROJECTS/Human-Agent-Collaboration/my_notes",
-    "1_PROJECTS/Human-Agent-Collaboration/mindseeds",
-    "1_PROJECTS/Human-Agent-Collaboration/agent_overview.md",
-    "1_PROJECTS/Human-Agent-Collaboration/human_overview.md",
-    "1_PROJECTS/Human-Agent-Collaboration/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching",
-    "1_PROJECTS/Human-Agent-Collaboration",
-    "1_PROJECTS/Orchestrate-Agent/my_notes/_usage_guide.md",
-    "1_PROJECTS/Orchestrate-Agent/my_notes/usage_guide.md",
-    "1_PROJECTS/Orchestrate-Agent/usage_guide.md",
-    "1_PROJECTS/Orchestrate-Agent/mindseeds/cogniseeds.md",
-    "1_PROJECTS/Orchestrate-Agent/mindseeds/archseeds.md",
-    "1_PROJECTS/Orchestrate-Agent/mindseeds/mindseeds.md",
-    "1_PROJECTS/Orchestrate-Agent/mindseeds/linguaseeds.md",
-    "1_PROJECTS/Orchestrate-Agent/mindseeds",
-    "1_PROJECTS/Orchestrate-Agent/New folder",
-    "1_PROJECTS/Orchestrate-Agent/7b92bd72579ed723e160d979eca5b369-074456049cf8361676b0de0e864a35fa199e8761",
-    "1_PROJECTS/Orchestrate-Agent/7b92bd72579ed723e160d979eca5b369-074456049cf8361676b0de0e864a35fa199e8761.zip",
-    "1_PROJECTS/Orchestrate-Agent/bba5f47edc2da7d744f5d31121c57fb3-fbd8ba9d639277a9b7dea3ac7d54edac3dd9b7a7",
-    "1_PROJECTS/Orchestrate-Agent/fa648905c6a0d723fe2061ad80084455-e260e2152d8e2de796a1952fc90fe96c11ce05c6",
+    "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner.md",
+    "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner QUIZ & Video.md",
+    "3_RESOURCES/AWS & Cloud/AWS Service Taxonomy.md",
+    "3_RESOURCES/AWS & Cloud/AWS Security and Compliance.md",
+    "3_RESOURCES/AWS & Cloud/AWS Project Practices.md",
+    "2_ACTIONS/VinUni AI Talent.md",
+    "2_ACTIONS/Study Efficiently - High-Performance Learning.md",
+    "2_ACTIONS/Startup AI.md",
+    "2_ACTIONS/Smartest Way to Use Protein To Build Muscle.md",
     "2_ACTIONS/MindPalace.canvas",
-    "images/0 2_qzcm2gSe9l67aI.png",
-    "images/Pasted image 20260524155833.png",
-    "1_PROJECTS/AIO2025/Violent Behaviour Detection in the School Enviroment Outline.canvas",
-    "1_PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
-    "1_PROJECTS/Coursera Mathematic for Machine Learning/Violent Behaviour Detection in the School Enviroment Outline.canvas",
-    "images/Pasted image 20240822171050.png",
-    "images/Pasted image 20240822170634.png",
-    "images/Pasted image 20240822170547.png",
-    "images/Pasted image 20240822165945.png",
-    "images/Pasted image 20240822165901.png",
-    "images/Pasted image 20240822165531.png",
-    "images/Pasted image 20240822165205.png",
-    "images/Pasted image 20240822165252.png",
-    "4_ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
-    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas"
+    "2_ACTIONS/How to Write a Cover Letter.md",
+    "2_ACTIONS/Mein Praktikum.md",
+    "2_ACTIONS/Mein Resume and CV.md",
+    "2_ACTIONS/Save4Later.md",
+    "3_RESOURCES/Deep Learning/TensorFlow Code.md",
+    "2_ACTIONS/Job Requirements.md",
+    "3_RESOURCES/Deep Learning/Week 3 Shallow Neural Network.md",
+    "3_RESOURCES/Deep Learning/When Continual Learning is useful.md",
+    "3_RESOURCES/Deep Learning/Pytorch.md",
+    "3_RESOURCES/Deep Learning/NL Slide 2.md",
+    "3_RESOURCES/Deep Learning/Deep Learning Week 1 and 2 Test Note.md",
+    "3_RESOURCES/Deep Learning/class-incremental learning.md",
+    "3_RESOURCES/Deep Learning/Back Propagation.md",
+    "3_RESOURCES/Deep Learning/Complete Mathematic for Neural Network.md",
+    "3_RESOURCES/Deep Learning/ALA Week 1 - Week Neural Networks.md",
+    "3_RESOURCES/Deep Learning/ALA Week 2 - Neural Network Training.md",
+    "3_RESOURCES/Reinforcement Learning/Deep Reinforcement Learning.md"
   ]
 }

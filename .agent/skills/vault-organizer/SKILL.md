@@ -233,8 +233,6 @@ Before spawning each subagent, analyze the composition of its assigned batch (fi
 
 Attach the batch's file JSON array to the `<assigned_files_json_array>` placeholder and invoke the subagent.
 
----
-
 ## Master Validation & Path Sanitization Gate
 
 Before feeding the merged classifications into `organize.py plan`, the primary IDE Agent **must** act as the Central Validation Gate (SSoT validation). Run the following checks on the merged JSON:
