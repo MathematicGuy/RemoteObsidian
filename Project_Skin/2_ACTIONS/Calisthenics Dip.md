@@ -1,3 +1,10 @@
+---
+category: "2_ACTIONS"
+summary: ""
+keywords: []
+confidence: "high"
+analyzed_at: "2026-05-27T17:32:07.248424+00:00"
+---
 ![[Pasted image 20250620084349.png|300]]
 In the **Early Day, a Simple Structure is a Better Structure.**
 

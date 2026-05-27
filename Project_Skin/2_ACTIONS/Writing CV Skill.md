@@ -1,3 +1,10 @@
+---
+category: "2_ACTIONS"
+summary: ""
+keywords: []
+confidence: "high"
+analyzed_at: "2026-05-27T17:32:07.252429+00:00"
+---
 CV - Curriculum vitae (or resume)
 Thời gian trung bình nhà tuyển dụng đọc CV (10 - 20s)
 
