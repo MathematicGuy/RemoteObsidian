@@ -1,3 +1,10 @@
+---
+category: "3_RESOURCES/Artificial Intelligent/Deep Learning/Gradient-Descent-Derivations.md"
+summary: "Proves convergence bounds for gradient descent on L-smooth convex functions. Demonstrates maximum decrease bounds by setting learning rate to 1/L."
+keywords: ["gradient descent", "convex optimization", "convergence analysis"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:31:06.209645+00:00"
+---
 # Gradient Descent Derivations
 
 Mathematical proof and derivations for gradient descent optimization algorithms, focusing on convex optimization limits and learning rate bounds.
