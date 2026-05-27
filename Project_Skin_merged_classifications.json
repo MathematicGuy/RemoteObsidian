@@ -1,0 +1,795 @@
+{
+  "vault_root": "D:\\Personlich\\RemoteObsidian",
+  "ai_root": "D:\\Personlich\\RemoteObsidian\\Project_Skin",
+  "scan_timestamp": "2026-05-27T17:30:01.103245+00:00",
+  "total_unorganized": 58,
+  "heuristic_matched": [
+    {
+      "filename": "Calisthenics Dip.md",
+      "relative_path": "Project_Skin/Calisthenics Dip.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Calisthenics Dip.md",
+      "size_bytes": 1261,
+      "category": "2_ACTIONS",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "german friend prompts.md",
+      "relative_path": "Project_Skin/german friend prompts.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\german friend prompts.md",
+      "size_bytes": 12061,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "GoalsThisMonth.md",
+      "relative_path": "Project_Skin/GoalsThisMonth.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\GoalsThisMonth.md",
+      "size_bytes": 70,
+      "category": "2_ACTIONS",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "GoalsThisWeek.md",
+      "relative_path": "Project_Skin/GoalsThisWeek.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\GoalsThisWeek.md",
+      "size_bytes": 542,
+      "category": "2_ACTIONS",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "ML & DM HW1.md",
+      "relative_path": "Project_Skin/ML & DM HW1.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\ML & DM HW1.md",
+      "size_bytes": 3654,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Prompt Engineering.md",
+      "relative_path": "Project_Skin/Prompt Engineering.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Prompt Engineering.md",
+      "size_bytes": 694,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Storing Files in a Database with Spring Boot.md",
+      "relative_path": "Project_Skin/Storing Files in a Database with Spring Boot.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Storing Files in a Database with Spring Boot.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Writing CV Skill.md",
+      "relative_path": "Project_Skin/Writing CV Skill.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Writing CV Skill.md",
+      "size_bytes": 1770,
+      "category": "2_ACTIONS",
+      "method": "heuristic",
+      "confidence": "high"
+    }
+  ],
+  "needs_ai": [
+    {
+      "filename": "AI Engineering Job.md",
+      "relative_path": "Project_Skin/AI Engineering Job.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\AI Engineering Job.md",
+      "size_bytes": 28009,
+      "content_preview": "### ML Engineer (Junior/ Fresher)\n\n| Vß╗ï tr├¡              | ML Engineer (Junior/ Fresher)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        "
+    },
+    {
+      "filename": "Array vs ArrayList vs List and ListIterator.md",
+      "relative_path": "Project_Skin/Array vs ArrayList vs List and ListIterator.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Array vs ArrayList vs List and ListIterator.md",
+      "size_bytes": 3947,
+      "content_preview": "```ad-abstract\n**Array:** Cannot change size once created (immutable length).\n\t\n**ArrayList:** Slower performance compared to arrays for random access due to potential resizing.\n\t\n**ListIterator:** Interface providing bidirectional traversal and modification capabilities over a `List`.\n```\n\nIn Java, Array, ArrayList, List, and ListIterator are related but distinct concepts used for handling collections of elements. Here's a detailed explanation of each:\n1. Array\n\nAn Array in Java is a fixed-size, indexed collection of elements of the same type. Once created, the size of an array cannot be changed. Arrays are efficient in terms of access time (constant time O(1) for accessing elements by index) but inflexible when it comes to dynamic resizing.\n\nKey Characteristics:\n    Fixed size (length).\n    Elements must be of the same type.\n    Direct access by index (array[index]).\n    Cannot change size once created (immutable length).\n\nExample:\n\njava\n```java\nint[] intArray = new int[5]; // Declaration of an integer array with length 5\nintArray[0] = 1; // Assigning value 1 to the first element\nintArray[1] = 2;\n```\n\n2. ArrayList\n\nArrayList in Java is part of the Java Collections Framework and provides a dynamic array implementation. It dynamically resizes itself as elements are added or removed. ArrayList is implemented as a resizable array and provides more flexibility compared to traditional arrays.\n\nKey Characteristics:\n    Resizable (dynamic size).\n    Elements can be of any type (since Java 5, with generics).\n    Allows adding, removing, and accessing elements.\n    Slower performance compared to arrays for random access due to potential resizing.\n\nExample:\n```java\nimport java.util.ArrayList;\n\nArrayList<Integer> arrayList = new ArrayList<>();\narrayList.add(1); // Adding elements to the ArrayList\narrayList.add(2);\n```\n\n\n3. List\nList in Java is an interface that extends Collection and represents an ordered collection (sequence) of elements. Lists allow duplicate elements and p"
+    },
+    {
+      "filename": "Audiophile.md",
+      "relative_path": "Project_Skin/Audiophile.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Audiophile.md",
+      "size_bytes": 995,
+      "content_preview": "Preference from [Jay's IEM Ranking List](https://docs.google.com/spreadsheets/d/1ZHVib50XFQW4up3SwOZUTbI-hZB6Ir5LX6XnZblIM6o/edit?gid=0#gid=0)\n\n[SIMGOT](https://www.linsoul.com/products/simgot-ea500-lm?_pos=1&_sid=f9a441ff0&_ss=r&sca_ref=3431839.SsadRUmJUJ): (Mid-Worth It Value) https://tainghe.com.vn/tai-nghe-simgot-ea500-lm.html (1tr850) \n[Mid Highend SIMGOT](https://tainghe.com.vn/tai-nghe-simgot-supermix-4.html):  around 4 mil, Better save up for 7 mil earbud.\n\n\n**Consideration:** \n[Audio Search RAG ?](https://www.ragie.ai/blog/how-we-built-multimodal-rag-for-audio-and-video)\n[Jaytiss IEM Review](https://docs.google.com/spreadsheets/d/1aBAj-f2iaNSzTCcN4yoPQyBhFiEFooM-7WM9CHUS-Cs/edit?gid=446361190#gid=446361190)\n\n---\n\n### IEM Contender \n**Hidizs MS2 Pro,**\nSimGot EG280,\nARTTI T10 PRO,\nLetshuoer S08,\n**Kefine Delci,** \n**SimGot EM6L**\n\n\nBass Test Song\n[Another Love](https://music.youtube.com/watch?v=SDEMyF4HPSI&list=QPcs6qqPsfAsCRpogZdIXUze7FjpOnKVoM1)\n\n"
+    },
+    {
+      "filename": "Building PC.md",
+      "relative_path": "Project_Skin/Building PC.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Building PC.md",
+      "size_bytes": 9532,
+      "content_preview": "https://nguyencongpc.vn/bo-pc-gaming-intel-core-i5-14600kf-ram-32gb-rtx-5060-ti-16gb - 29.970.000─æ\n![[Pasted image 20250917221548.png | 400]]\n\n\nGood Saler: https://mygear.com.vn/bao-gia-san-pham (Good Price for PC with low pc-case price)\n+ https://mygear.com.vn/pc-do-hoa-cyberpower-rtx-5060-ti-16g-i5-14600kf\n\tcase: https://tinhocngoisao.com/products/thung-may-case-magic-mix-tower-den-m-atx-khong-fan\nNote: phong v┼⌐ c├│ GPU (https://phongvu.vn/c/vga-rtx-5060-ti)\n\n\nBest Choice:\n+ https://ttgshop.vn/products/pc-ttg-gaming-luxury-i5-14400f-rtx-5060-ti-16gb-oc-white - 28,980,000Γé½\n+ RTX 5060 Ti 16GB\n+ monitor ~ 800k\n+ keyboard ~ 350k \nCost = 30,480,400─æ\nPrefer Price ~ 28tr for PC. Then the rest add up to 30tr.\n\n\n**Remember to ask myself:**\n+ Always **choose PSU last**.\n+ **avoid cost spiral** (1 stuff better require another stuff better) -> higher price \n+ **GPU & CPU performance tradeoff**. CPU requirements (6 nh├ón / 12 luß╗ông) ?  \n+ **Big Case to support GPU air flow** -> might lead to higher price. Is every case in the same price range is the same ? \n+ **No water cooling**.\n+ **Goal: optimize the GPU for 16VRAM** \n\tCPU for data loading, weak CPU can lead to bottle neck even if I have good GPU. But for now, what all matter is the GPU because I can only buy it once. \n+ Make sure to **take account for Additional Costs** (does thermal paste & windowns key free if I buy directly ?) - 350-550k for caple & thermal paste if buy independently maybe.\n\n**Prioritize**:\n- GPU: ~ **15.5M** (RTX 5060 Ti 16GB) - notice fan size (triple fan demand higher case cost)\n\thttps://phongvu.vn/search?router=productListing&query=RTX%205060%20Ti%2016GB\n- CPU: ~ **3M** -> resonable is okay. (Intel┬áCoreΓÇ»i5ΓÇæ12400F ΓÇæ PhongV┼⌐ ~3.29ΓÇ»M) \n- Mainboard: ~ **3M - 3.5M** (c├│ wifi ─æi )\n- PSU: ~ **1.5M - 2.0M** (650 - 750W) -> remain resonable for GPU to not broken. (th╞░ß╗¥ng ─æi k├¿m d├óy )\n\n**Cut Cost:**\n- RAM: ~ **1.8M** (16GB can be DDR4 for economic) - DDR4 & DDR5 can't work together. \n- SSD: ~ **1.5M** (512GB) -"
+    },
+    {
+      "filename": "Classification Bayes.md",
+      "relative_path": "Project_Skin/Classification Bayes.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Classification Bayes.md",
+      "size_bytes": 2275,
+      "content_preview": "# Naive Bayes\n![[Pasted image 20240618094216.png]]\n\n![[Pasted image 20240618094350.png]]\n> Probability of Y given X is the same as [(Prob of X given Y) * (Prop of Y)] / (Prop of X)\n\n\n![[Pasted image 20240618094809.png]]**Prior P(Y):** Prob of an event before considering *Evidence*\n**Posterior P(Y|X):** Prob of an event considering some *Evidence*  (the set of features)\n**Evidence  P(X):** Set of features \n**Likelihood P(X|Y):** The Probability of the opposite senario. (Prob of Failures) \n\n### Let Calc all the variable throught this Example\n![[Pasted image 20240618095231.png]]\n+ ? First, let compute each case of Y\nGiven the table with X = {0 ,1, 2} Y = {0, 1} (unique value of X and Y)\nWe can see Calc the prob of a case like P(Y =0) = Probability of Y = 0 by dividing that case to all case can be happend in the table.\n+ **P(Y=0) = 6/10** (bc there're 6 times Y = 0 out of 10 case it have)\n+ **P(Y=1) = 4/10** (the same for Y=1)\n\n+ ? Next, we compute the case of X given Y. This mean for every case Y = 1, we see if if (X1, X2) = (0, 2)\n ![[Pasted image 20240618100411.png]]\n![[Pasted image 20240618095803.png]]\n+ The same for **P(X = (0,2) | Y = 0)**, we have 0\n\nPutting it all together, we'll have:\n![[Pasted image 20240618100937.png]]\nHowever, **there a problem in this method. It hard to find that particular combination of X1 and X2** in our dataset. For instance, we **only find 1 case where X = (0, 2) and Y = 1** and we **don't find a single occurance where X = (0,2) and Y = 0**\n> if the table have hundreds of value, It very likely we will never encounter some particular combination of features. If we don't find a singal occurance of multiple search combinations then the prob value will always 0 -> can't compare with only 0\n\n+ $ Let's assume X1, X2 are independant (warning, only when features are independent. Hence the name Naive B├ñyes )\nWhen the **features are independence, we can calc P(X = (0,2) | Y = 0) by multply the product of P(X,Y) where X have multiple value and ea"
+    },
+    {
+      "filename": "Classification Ensemble.md",
+      "relative_path": "Project_Skin/Classification Ensemble.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Classification Ensemble.md",
+      "size_bytes": 823,
+      "content_preview": "Strong Predictive model based on the weeker learner\n\n**Voting Ensemble**\nHard: majority win, fewer lose\nSoft: \n\nExample:\nHard Voting\n\nalpha m - bias\n\nSVM in Face reg\n1 Miß║┐ng (nhiß╗üu pixel tß║ío th├ánh)\nMiß║┐ng v├í cß╗ºa ß║únh (1 phß║ºn cß╗ºa ß║únh) e.g. 20 miß║┐ng gh├⌐p th├ánh 1 ß║únh. \n\n\nKhi n├áo d├╣ng SVM v├á NN (kh├íc g├¼ vs neural )\n\n\n![[Pasted image 20240618174125.png]]\nBest w, \n\n\nMQH \nLargest distant between 2 SVector\n\nWhat is large margin\n\nHOG (Histogram of Oriented Gradient) - Biß╗âu ─æß╗ô cß╗ºa gradient ─æß╗ïnh h╞░ß╗¢ng\ntrong Face Detec -> Biß╗âu diß╗àn tß║ºn sß╗æ xuß║Ñt hiß╗çn grey scale \n\tVd: m├ú m├áu 1 xuß║Ñt hiß╗çn 5 lß║ºn, 3 xuß║Ñt hiß╗çn 10 lß║ºn, etc..  \nNguy├¬n 8 (2^8) <-> [0, 255]\nBao gß╗ôm c├íc sß╗æ tß╗½ 0 ─æß║┐n 255. \n\nbß║»t buß╗Öc phß║úi Hiß╗âu HOG trong "
+    },
+    {
+      "filename": "CrackNitendoGames.md",
+      "relative_path": "Project_Skin/CrackNitendoGames.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\CrackNitendoGames.md",
+      "size_bytes": 490,
+      "content_preview": "1) *Download Ryujinx* Nitendo Switch Emulator: https://drive.google.com/file/d/17fwbJqY4pjAe4Lbpio8BO_6W0Zgdu86N/view\n2) Download Keys and Firmware: https://prodkeys.net/updated/\n\textract Keys folder, keep firmware folder as .zip file.\n3) *Open Ryujinx.exe*, on the top bar\n\t-> File -> Open Ryujinx folder -> System folder -> Copy & Paste Prod keys there \n\t-> Action -> Install Firmware -> select Open Folder -> choose the Firmware .zip file you install earlier\n4) Play Tomodachi Life"
+    },
+    {
+      "filename": "Dev anime Story.md",
+      "relative_path": "Project_Skin/Dev anime Story.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Dev anime Story.md",
+      "size_bytes": 16978,
+      "content_preview": "Thß╗⌐ Hai Cß╗ºa Mß╗Öt Thß║▒ng Dev ─Éang Cß╗æ C╞░a N├áng HR.\n\nC├│ n├¬n c╞░a HR c├╣ng c├┤ng ty?\n\nBß╗ƒi v├¼ HR biß║┐t l╞░╞íng bß║ín bao nhi├¬u??\n\nT├┤i t├¬n Khoa. Dev. Backend. Java Spring Boot. 25 tuß╗òi. ─Éi l├ám ─æ╞░ß╗úc 2 n─âm. L╞░╞íng th├íng ─æß╗º sß╗æng, ch╞░a ─æß╗º y├¬u. Ngoß║íi h├¼nh trung b├¼nh kh├í - kiß╗âu ─æß║╣p trai nß║┐u nheo mß║»t, nghi├¬ng ─æß║ºu 45 ─æß╗Ö, trong ├ính ─æ├¿n v├áng, v├á ng╞░ß╗¥i nh├¼n vß╗½a uß╗æng 3 lon bia.\n\nN├áng t├¬n Ng├ón. HR. 24 tuß╗òi. Mß╗¢i v├áo c├┤ng ty ─æ╞░ß╗úc 3 th├íng. Ng├ón xinh kiß╗âu dß╗ïu d├áng, mß║»t tr├▓n, hay c╞░ß╗¥i, n├│i chuyß╗çn nhß╗Å nhß║╣, mß╗ùi lß║ºn ─æi ngang b├án dev m├á m├╣i n╞░ß╗¢c hoa Ng├ón bay qua l├á thß║▒ng n├áo c┼⌐ng qu├¬n m├¼nh ─æang debug g├¼.\n\nV├á kß║╗ th├╣ truyß╗ün kiß║┐p cß╗ºa t├┤i - Thuß╗╖. QA. Tester. Ngß╗ôi ngay b├án ─æß╗æi diß╗çn. 26 tuß╗òi. C├╣ng qu├¬. Biß║┐t nhau tß╗½ hß╗ôi ─æß║íi hß╗ìc. Thuß╗╖ c├│ 3 ─æß║╖c ─æiß╗âm: mß║»t tinh nh╞░ diß╗üu h├óu, mß╗ôm nhanh nh╞░ API trß║ú 200, v├á chuy├¬n m├┤n ph├í ─æ├ím t├┤i ß╗ƒ mß╗⌐c TH╞»ß╗óNG THß╗¬A.\n\nMß╗ùi lß║ºn t├┤i cß╗æ tiß║┐n ─æß║┐n Ng├ón th├¼ Thuß╗╖ xuß║Ñt hiß╗çn. Nh╞░ bug production. Kh├┤ng mß╗¥i m├á ─æß║┐n. Kh├┤ng muß╗æn m├á c├│. Kh├┤ng fix ─æ╞░ß╗úc.\n\n─É├óy l├á bi├¬n ni├¬n sß╗¡ ng├áy Thß╗⌐ Hai cß╗ºa t├┤i.\n\n7h45 - CHUß║¿N Bß╗è CHIß║╛N TR╞»ß╗£NG\n\nThß╗⌐ Hai. T├┤i dß║¡y sß╗¢m h╞ín b├¼nh th╞░ß╗¥ng 30 ph├║t. Kh├┤ng phß║úi v├¼ y├¬u c├┤ng viß╗çc. M├á v├¼ h├┤m nay t├┤i mß║╖c ├ío s╞í mi. C├ô ß╗ªI.\n\nD├ón dev b├¼nh th╞░ß╗¥ng mß║╖c ├ío thun, quß║ºn jeans, d├⌐p l├¬. H├┤m n├áo mß║╖c ├ío s╞í mi tß╗⌐c l├á: a) ─æi phß╗Ång vß║Ñn c├┤ng ty kh├íc, b) c├│ ─æ├ím c╞░ß╗¢i, hoß║╖c c) ─æang c╞░a ai ─æ├│. t├┤i thuß╗Öc loß║íi c.\n\nT├┤i soi g╞░╞íng. Xß╗ït th├¬m ch├║t n╞░ß╗¢c hoa m╞░ß╗ún cß╗ºa thß║▒ng bß║ín c├╣ng ph├▓ng. ─É├ính r─âng lß║ºn 2. Vuß╗æt t├│c 3 lß║ºn. Nh├¼n lß║íi g╞░╞íng.\n\nß╗¬m. Vß║½n l├á t├┤i. nh╞░ng l├á phi├¬n bß║ún c├│ ─æß║ºu t╞░.\n\nKß║┐ hoß║ích h├┤m nay rß║Ñt r├╡ r├áng: mua 2 ly c├á ph├¬, 1 ly cho m├¼nh, 1 ly \"tiß╗çn tay\" mua cho Ng├ón. Casual. Tß╗▒ nhi├¬n. Kh├┤ng c├│ g├¼ ─æ├íng ngß╗¥. Chß╗ë l├á ─æß╗ông nghiß╗çp quan t├óm ─æß╗ông nghiß╗çp. Pha c├á ph├¬ m├á nh╞░ deploy code - phß║úi smooth, kh├┤ng ─æ╞░ß╗úc c├│ error.\n\n8h15 - PHASE 1: LY C├Ç PH├è\n\nT├┤i gh├⌐ Highlands tr╞░ß╗¢c khi ─æß║┐n c├┤ng ty. Gß╗ìi 1 americano cho m├¼nh, 1 latte cho Ng├ón. T├┤i biß║┐t Ng├ón uß╗æng latte v├¼ tuß║ºn tr╞░ß╗¢c t├┤i \"v├┤ t├¼nh\" nh├¼n thß║Ñy Ng├ón order ß╗ƒ c─âng tin. Thß║¡t ra t├┤i quan s├ít cß║ú tuß║ºn mß╗¢i biß║┐t. mß╗⌐c ─æß╗Ö stalking chß╗ë ß╗ƒ mß╗⌐c nhß║╣ - t╞░╞íng ─æ╞░╞íng SELECT * FROM ngan_dail"
+    },
+    {
+      "filename": "DM.md",
+      "relative_path": "Project_Skin/DM.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\DM.md",
+      "size_bytes": 0,
+      "content_preview": ""
+    },
+    {
+      "filename": "Docker MSSQL.md",
+      "relative_path": "Project_Skin/Docker MSSQL.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Docker MSSQL.md",
+      "size_bytes": 1520,
+      "content_preview": "**Source:** https://hub.docker.com/r/microsoft/mssql-server\n\n**Template**\n>docker run -e \"ACCEPT_EULA=Y\" -e \"MSSQL_SA_PASSWORD=yourStrong(!)Password\" --name server_name -p 1433:1433 -d mcr.microsoft.com/mssql/server:2022-latest\n\n\n**Example**\n>docker run -e \"ACCEPT_EULA=Y\" -e \"MSSQL_SA_PASSWORD=cmcuni\" --name meinsql  -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest\n\n+ - e: environment flag\n+ EULA - End User License Agreement\n+ -p: port number \n\t-p: 1433:1433 (port use in container : port use outside the container)\n+ -d: detached mod (container use in the background)\n+  \"mcr.microsoft.com/mssql/server:2022-latest\" path to the image\n\tremember to change mssql server and ubuntu to your version  \n\n\n```\npackage com.example.ProjectOne.run;  \n  \nimport org.springframework.data.jdbc.repository.query.Query;  \nimport org.springframework.data.repository.ListCrudRepository;  \n  \nimport java.util.List;  \n  \npublic interface RunRepository extends ListCrudRepository<Run, Integer> {  \n    @Query(\"SELECT * FROM run WHERE location = :location\")  \n    List<Run> findAllByLocation(String location);  \n}\n```\n\\\n```\n# using docker we don't need to set up db in application.properties  \nservices:  \n  postgres:  \n    image: 'postgres:latest'  \n    environment:  \n      POSTGRES_DB: ProjectOne  \n      POSTGRES_USER: sa  \n      POSTGRES_PASSWORD: password  \n    ports:  \n      - '5432:5432' # docker host port : container port  \n#    volumes:  \n#      - postgres-data:/va\n```"
+    },
+    {
+      "filename": "Docker PostgresSQL.md",
+      "relative_path": "Project_Skin/Docker PostgresSQL.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Docker PostgresSQL.md",
+      "size_bytes": 534,
+      "content_preview": "src: https://youtu.be/RdPYA-wDhTA?si=pggXY2rz8PRTiU3C\nDocke .yml file is just like DbContext file. It help connect the API and the Database\n![[Pasted image 20240801162411.png]]\n\ndocker login\ndocker ps   \n\n\n## Postgres Server Timeout\n1) Window + S -> Click Service\n2) Find postgresql and click it\n\t![[Pasted image 20240802002143.png]]\n3) Start Postgres server if it not running yet. That it, now active your database again. \n\t![[Pasted image 20240802002218.png]]\n\n\n\nRemember to Create Table. Docker can't do it for you"
+    },
+    {
+      "filename": "Dynamic Memory Allocation.md",
+      "relative_path": "Project_Skin/Dynamic Memory Allocation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Dynamic Memory Allocation.md",
+      "size_bytes": 0,
+      "content_preview": ""
+    },
+    {
+      "filename": "English Club.md",
+      "relative_path": "Project_Skin/English Club.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\English Club.md",
+      "size_bytes": 70,
+      "content_preview": ""
+    },
+    {
+      "filename": "enum class.md",
+      "relative_path": "Project_Skin/enum class.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\enum class.md",
+      "size_bytes": 324,
+      "content_preview": "An `enum` is a special \"class\" that represents a group of **constants** (unchangeable variables, like `final` variables).\n\nExample:\nEnum Class Location\n```java\npublic enum Location {  \n    INDOOR, OUTDOOR  \n}\n```\nSo you can only use 2 option: INDOOR or OUTDOOR \n```java\ncurrent_location = Location.OUTDOOR \n```\n"
+    },
+    {
+      "filename": "Flutter.md",
+      "relative_path": "Project_Skin/Flutter.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Flutter.md",
+      "size_bytes": 974,
+      "content_preview": "### Prequisites (─Éiß╗üu kiß╗çn ti├¬n quyß║┐t)\nV├áo Command Line > Ghi  **Flutter Doctor** ─æß╗â kiß╗âm tra ─æiß╗üu kiß╗çn \nChß║íy 2 d├▓ng n├áy.\n```sh\npath/to/sdkmanager --install \"cmdline-tools;latest\nflutter doctor --android-licenses\n```\nNß║┐u kh├┤ng chß║íy ─æc th├¼ v├áo Android Studio tß║úi c├íi n├áy: \n+ SDK Manager > SDK Tools > k├⌐o xuß╗æng > Android SDK Command-line Tools (latest)\n\n### Download Guide: \n+ Flutter Extention (VSCode Extention)\n\t![[Pasted image 20240824225439.png]]\n\n\n### Set-up: \nD├╣ng **Ctr + Shift + P ─æß╗â t├¼m kiß║┐m**\n+ Flutter: New Project\n\t![[Pasted image 20240824225536.png]]\n+ ─Éß╗úi dß╗▒ ├ín tß║ío xong rß╗ôi...\n+ Launch Emulator\n\t![[Pasted image 20240824225626.png]]\n+ Devide: Pixel 7 API 29\n\t ![[Pasted image 20240824225753.png]]\n+ V├áo **main.dart** >  bß║Ñm **F5**\n\n---\n\n![[Pasted image 20240824231715.png]]\nStateless can be change in runtime\n\n\n**Scraffold** \n![[Pasted image 20240825000528.png]]\n\n\n"
+    },
+    {
+      "filename": "Full Stack Java.md",
+      "relative_path": "Project_Skin/Full Stack Java.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Full Stack Java.md",
+      "size_bytes": 6230,
+      "content_preview": "**Structure Overview**\n![[Pasted image 20240801130027.png]]\n\n## Create Project\nCreate a Spring Boot Project from [Spring Initializr](https://start.spring.io/)  with these dependencie\n![[Pasted image 20240801132239.png]]\n\n# Create Class and Run\n\n**StudentClass**\n```java\npackage com.example.fun2.student;\n\nimport java.time.LocalDate;\n\n\npublic class Student {\n\t// Object Attributes\n\tprivate Long id;\n    private String name;\n    private String email;\n\n    private LocalDate dob; // Data of Birth\n    private Integer age;\n```\n2) Add Object Component. So you can call it as a Function\n```java\n// Student Component. Simplelize Object into a function\n    public Student(Long id, String name, String email, LocalDate dob, Integer age) {\n        this.id = id;\n        this.name = name;\n        this.email = email;\n        this.dob = dob;\n        this.age = age;\n    }\n```\n3) Add Getter and Setter Class. Use to get and set Object's data \n```java\n\n\n\t// Getter and Setter. Use to get and set Object's data\n    public Long getId() {\n        return id;\n    }\n\n    public void setId(Long id) {\n        this.id = id;\n    }\n\n    public String getName() {\n        return name;\n    }\n\n    public void setName(String name) {\n        this.name = name;\n    }\n\n    public String getEmail() {\n        return email;\n    }\n\n    public void setEmail(String email) {\n        this.email = email;\n    }\n\n    public LocalDate getDob() {\n        return dob;\n    }\n\n    public void setDob(LocalDate dob) {\n        this.dob = dob;\n    }\n\n    public Integer getAge() {\n        return age;\n    }\n\n    public void setAge(Integer age) {\n        this.age = age;\n    }\n```\n4) View your Object in json \n```java\n\t// toString() Function. This use to view the Object\n    @Override\n    public String toString() {\n        return \"Student{\" +\n                \"id=\" + id +\n                \", name='\" + name + '\\'' +\n                \", email='\" + email + '\\'' +\n                \", dob=\" + dob +\n                \", age=\" + age +\n                '}'"
+    },
+    {
+      "filename": "German History.md",
+      "relative_path": "Project_Skin/German History.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\German History.md",
+      "size_bytes": 1465,
+      "content_preview": "Hitler Speech 28/7: https://www.youtube.com/watch?v=rxUGlj6ogqk\n### German after WW1\nMy grandparents were German and lived there until 2 years after WWII was under way. I know first hand what they suffered after WWI and the Treaty of Versailles did to the German people in their own country. Basically foreigners were given control of all banks, bakeries, and properties. Bread was 250 marks, but if you were a German citizen, they charged up to one trillion. They were starved, beaten and thrown out of their homes and farms. Factories, per the treaty, were given ownership to various surrounding countries. The factory my grandmother worked at as a young girl was given to the French. After about a year the French would take a train into the factory, take all they wanted, pull girls off the line and rape them in front of everyone. Because of the Treaty the government didn't dare even look into it. So yes, after a certain point, the German people have had enough. Propaganda will try to convince you to see someone or a situation in a way they want you to. In all things it's important to research both sides of the story. WWII didn't just happen over a whim of one man. To think that is preposterous.\n\n---\n### Do Germans Talk About World War II? What Do They Teach About the Holocaust?\n\n1) Vergangenheitsbew├ñltigung = coping with the past\n\t![[Pasted image 20240911230213.png]]\n\n2) Learning about WWII\n+ Das Gymnasium = type of secondary school\n "
+    },
+    {
+      "filename": "German Learning Core.md",
+      "relative_path": "Project_Skin/German Learning Core.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\German Learning Core.md",
+      "size_bytes": 1410,
+      "content_preview": "Schwerpunkte (Focus Area)\n1. Lesen (reading)\n2. H├╢ren (listening)\n3. Sprechen (speaking)\n4. Schreiben (writing)\n5. Grammatik (grammar)\n\n\nMethoden / Teniken\n\tSprachschulde (language school)\n\tOnlinekurse \n\tNachsprechen (videos/podcast)\n\tKI (ChatGPT, Bing, Bard)\n\tFilme / Musik\n\n**Anzahl W├╢rter** (numbers of word)\nA1 ~ 500\nA2 ~ 1100\nB1 ~ 1800\nB2 ~ 2600\nC1 ~ 3500\nC2 ~ 5000 (german mother tongue speaker)\nTotal: 14500 different german word\n\n**Grammatik**\nA1 - Essential grammar\nA2 - Essential grammar\nB1 - Most grammar for daily use\nB2 - Grammar for written\nC1 - Grammar for written\nC2 - Almost no new grammar\n\n![[Pasted image 20240625111747.png]]\nA1, A2 - important grammar foundation\n\n## Learning a Language According to Science\nLearning - accquire new knowledge\nAcquisition - make sth \n\nSpeaking\n>Speak slowly at first, dont rush sth zou don't understand\n\nGrammar (remember -> waste of time)\n![[Pasted image 20240625115735.png]]\n+ $ Studying the rule ?  Focus on Comprehensible input\n\t\n+ Don't try to Memorize words -> it only turn into knowledge you can't use since you just know it and can't use it.\n\t\n+ **Dont try to memorize word by word (using Anki)** bc you only learn 1 aspect of it \n\n+ $ try to **acquire it through reading and listening, you can learn vocabulary, syntax, morphology (meaning in diff situations, words interaction)** of language.\n\n"
+    },
+    {
+      "filename": "German Song.md",
+      "relative_path": "Project_Skin/German Song.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\German Song.md",
+      "size_bytes": 4486,
+      "content_preview": "**HENTAI (Selphius)**\nH├╢r Aus deinen Senpai, ey (listen to your senpai, ey)\nHeute Wird Es Endgeil (Today's gonna be hella nice)\nUnd Statt Super Sentai (so instead of super sentai)\nSchauen wir lieber Hentai, e- ey (we're rather watch some hentai)\nHetan Haven l├ñuft die ganze Nacht (Hentai Haven runs all night)\n\nH├╢r Aus deinen Senpai, ey (listen to your senpai, ey)\nHeute Wird Es Endgeil (Today's gonna be hella nice)\nUnd Statt Super Sentai (so instead of super sentai)\nSchauen wir lieber Hentai, e- ey (we're rather watch some hentai)\nHetan Haven l├ñuft die ganze Nacht (Hentai Haven runs all night)\n\nBam bam bam\n\nAh, ja ich weiss du magst Yuri Yuri (Ah, yes I know you like Yuri Yuri)\nSchaust den ganzen Tag nur (You just look all day)\nOne Piece and Furi Kuri (One Piece and Furi Furi)\nDenkst du bist mit der Materie vertraut (Denkst du bist mit der Materie vertraut)\n\nAber deine Pico Witze (But your Pico jokes)\nSind seid Jahren schon out (They've been out for years)\nEs ist ganz egal ob gro├ƒe Oppais oder Flat Chest (It doesn't matter whether it's big oppai or a flat chest)\nKein 3D Fag sagt, dass meine Waifu gar nicht echt ist (No 3D fag says my waifu isn't real)\n\nVerwerflich ist es nicht, egal wie bl├╢d es klingt (it's not reprehensible, no matter how stupid it sounds)\nWeil ja alle Loiis wie wir wissen ├╝ber 18 sind (Because as we know, all lolis are over 19)\nAi ai ai-san die Mahou Shoujo Queen (Ai ai ai-san the Mahou Shoujo Queen)\nUnd nicht mal Elena kann mit den Aliens nachzeih'n (And even Elena can't keep up with the alien) \n\nAlso weg von Sword Art Online du Weeb (So get away from Sword Art Online you weeb)\nWir gucken Dropout und Kyonyuu Fantasy (We watch Dropout and Kyonyuu Fantasy. onee-chan)\nH├╢r auf deinen Senpai, ey (Listen to your senpai, hey)\nHeute wird es sentai (Today it's going to be really hot)\nUnd statt super sentai (Listen to your senpai, hey)\n\nSchauen wir lieber Hentai, ey ey (Watch soe hentai with me tonight)\nHentai Haven l├ñuft die ganze Nacht (Genber Bender, Futa"
+    },
+    {
+      "filename": "Germanic Language.md",
+      "relative_path": "Project_Skin/Germanic Language.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Germanic Language.md",
+      "size_bytes": 433,
+      "content_preview": "![[Pasted image 20240910102653.png]]\n\n# Common Traits\n\n## English\n> No grammatical gender\n#### Definiteness\n**definite nouns**: Specific like \"the\"\n**indefinite nouns**: unspecific like \"a, an\"\n\n### V2 Word Order\n> a verb is always in the second position of the sentence or clause\n+ ? Ex: Ich lesse ein Buch (subject-verb-object)\n> a there already a verb in 2nd position then the next verb in place in last position. \n "
+    },
+    {
+      "filename": "House of Hypertrophy.md",
+      "relative_path": "Project_Skin/House of Hypertrophy.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\House of Hypertrophy.md",
+      "size_bytes": 12837,
+      "content_preview": "## House of Hypertrophy\n\n─É├óy l├á 2 ph╞░╞íng ph├íp tß║¡p hiß╗çu quß║ú v├á tß╗æi ╞░u nhß║Ñt hiß╗çn nay m├á t t├¼m ─æc trong thß╗¥i gian tß║¡p Calisthenics. D├╣ t thß║Ñt bß║íi thß╗¡ th├ích Plance nma :)) t vß║½n thß║»ng v├¼ hiß╗çu quß║ú tß║¡p t ─æß║ít ─æ╞░ß╗úc 1 th├íng tr'c c├▓n gi├í trß╗ï h╞ín cß║ú 2 th├íng tr'c tr'c ─æ├│ gß╗Öp lß║íi.\n\nPh╞░╞íng ph├íp ─æß║ºu: Lengthed Superset ─æ╞ín giß║ún sß║╜ gi├║p cß║¡u t─âng tr╞░ß╗ƒng c╞í bß║»p h╞ín trong thß╗¥i gian ngß║»n h╞ín so vs ph╞░╞íng ph├íp tß║¡p th├┤ng th╞░ß╗¥ng. Chß╗ë c├│ phß║ºn khß╗Åi ─æß╗Öng l├á giß╗æng nhau thoi\n\n─Éi thß║│ng v├áo vß║Ñn ─æß╗ü, Lengthed Superset l├á ntn:\n-> 1st Set: Tß║¡p b├ái tß║¡p gi├║p c╞í bß║»p cß╗ºa cß║¡u c─âng ra nhiß╗üu nhß║Ñt c├│ thß╗â ─æß║┐n khi sß║»p kiß╗çt sß╗⌐c (vd: chß╗æng ─æß║⌐y to├án phß║ºn - full range pushup) \n-> Nghß╗ë 15s - 20s\n-> 2nd Set: Tß║¡p b├ái tß║¡p gi├║p c╞í bß║»p cß╗ºa cß║¡u co lß║íi nhiß╗üu nhß║Ñt ─æß║┐n kiß╗çt sß╗⌐c (chß╗æng ─æß║⌐y 1 phß║ºn hoß║╖c nß╗¡a phß║ºn, partial pushup) \n-> Xong rß╗ôi. ─Éß║┐n l├║c nghß╗ë 5' rß╗ôi sang b├ái tß║¡p tiß║┐p theo thoi. \n-> L├╜ do c├ích tß║¡p n├áy hiß╗çu quß║ú v├¼ n├│ gi├║p x├⌐ r├ích nhiß╗üu c╞í bß║»p nhß║Ñt v├á cho c╞í thß╗â cß║¡u quen vs nhß╗ïp ─æß╗Ö tß║¡p nhanh, hß╗ôi phß╗Ñc nhanh.\n-> Tß║¡p Xong th├¼ nhß╗¢ ─æi ngß╗º v├¼ c╞í bß║»p ph├íp triß╗ân l├║c cß║¡u ngß╗º kh├┤ng phß║úi l├║c cß║¡u tß║¡p.\n\n**Pros:** C├│ ─æ╞░ß╗úc nhiß╗üu c╞í bß║»p trong khoß║úng thß╗¥i gian ngß║»n h╞ín, Thß╗¥i gian tß║¡p ngß║»n -> giß╗¥ tß║¡p c├│ thß╗â linh hoß║ít, T─âng sß╗⌐c mß║ính bß╗Öc ph├í v├á khß║ú n─âng hß╗ôi phß╗Ñc.\n**Cons:** Kh├│, Cß║ºn c├│ t├óm l├╜ tß╗æt (tß╗▒ thuyß║┐t phß╗Ñc bß║ún th├ón khi ─æß║┐n giß╗¢i hß║ín), G├óy c─âng c╞í, ch├│ng mß║╖t, t├¬ c╞í, c├│ thß╗â n├┤n ├│i, ─æau dß║í d├áy v├áo nhß╗»ng ng├áy ─æß║ºu. Nh╞░ng sß║╜ giß║úm bß╗¢t theo thß╗¥i gian. \n\n\n+ ! All Method is **Best When applying to Safe Excercise which focus on 1 Particular Muscle Group**.  Not for Weight Lifting, DeadLift, etc...Excercise that require Multiple Muscle Group. ([Evident](https://www.youtube.com/watch?v=xW79HPiyidk)) \n### [43.3% More Muscle Growth](https://www.youtube.com/watch?v=vEKLzXDPoeU)\n+ Review Basic Lengthe>ned Superset.\n\tWatch this before heading to the next\n  \n### [73.9% More Muscle Growth](https://youtu.be/sJxoF_uEuH0?si=7QdeUihqmuAjhr5S) \n**Total set for a Muscle Group**\n![[rep.png]]\n\n![[House of Hypertrophy - Faster Muscle Growth These NEW Studies A"
+    },
+    {
+      "filename": "How to build a web application in Java.md",
+      "relative_path": "Project_Skin/How to build a web application in Java.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\How to build a web application in Java.md",
+      "size_bytes": 7118,
+      "content_preview": "# File System\n![[Pasted image 20240620175706.png]]\n\nJava - main folder storing others importance folder where you working with.\n\tIn Web MVC (This where M, V and C be store)\n\n## Runnerz Folder (The Processing Section)\n**run folder** store \n+ Controller\n+ Repository\n+ run file (Main File)\n\n**user folder** (Models store here)\n\n## Resources Folder (The Memory Section)\n> Ours Database store. You can also create table, insert, edit, delete table manually in here\n\nIs there a CRUD Operation scraffold\n\n# Module 1: Create your Project\nLet try by making a simple, file structure\n![[Pasted image 20240715154341.png]]\n> In run, there are Record Class Run with attribute location as Location Class.\n\nIn Traditional way, to would create a class with get set. But with class record, it can provide all of those features with just a few line:\n```java\npackage com.example.ProjectOne.run;  \nimport java.time.LocalDateTime;  \n  \npublic record Run(  \n        // record class is the same as a class of attribute  \n        // with getters, setters, equals, hashcode, and toString        Integer id,  \n        String title,  \n        LocalDateTime startedOn,  \n        LocalDateTime completedOn,  \n        Integer kilometers,  \n        Location location  \n) {}\n```\nLocation [[enum class]]\n```java\npackage com.example.ProjectOne.run;  \n  \npublic enum Location {  \n    INDOOR, OUTDOOR  \n}\n```\n\n\nAfter that, we just call Run class (having get/set function integrated) in Application Class (our main class) \n```java\n\npublic class Application {  \n    CommandLineRunner runner(){  \n       return args -> {  \n          Run run = new Run(1, \"First Run\", LocalDateTime.now(),  \n                    LocalDateTime.now().plusHours(1),  \n                13, Location.OUTDOOR);  \n  \n          log.info(\"{}\", run);  \n       };    \n    }\n}\noutput >> Run[id=1, title=First run, startedOn=2024-07-15T15:39:33.076377100, completedOn=2024-07-15T16:39:33.076377100, kilometers=13, location=OUTDOOR]\n```\n\n\n# Module 2: REST API\n![[Pasted ima"
+    },
+    {
+      "filename": "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "relative_path": "Project_Skin/How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "size_bytes": 638,
+      "content_preview": "1) Add activation command to your notepad\n```txt\n@echo off\n\npushd \"%~dp0\"\n\ndir /b %SystemRoot%\\servicing\\Packages\\Microsoft-Windows-GroupPolicy-ClientExtensions-Package~3*.mum >List.txt\n\ndir /b %SystemRoot%\\servicing\\Packages\\Microsoft-Windows-GroupPolicy-ClientTools-Package~3*.mum >>List.txt\n\nfor /f %%i in ('findstr /i . List.txt 2^>nul') do dism /online /norestart /add-package:\"%SystemRoot%\\servicing\\Packages\\%%i\"\n\npause\n```\n\n2) Choose \"Save As\" and save your note as \"GroupPolicy.bat\" to a folder\n3) Run  \"GroupPolicy.bat\" as Administrators, wait for it to download \n4) \"Ctr + R\" > write \"gedit.msc\" then hit Enter"
+    },
+    {
+      "filename": "IELST LISTENING.md",
+      "relative_path": "Project_Skin/IELST LISTENING.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\IELST LISTENING.md",
+      "size_bytes": 0,
+      "content_preview": ""
+    },
+    {
+      "filename": "IELST Reading Note.md",
+      "relative_path": "Project_Skin/IELST Reading Note.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\IELST Reading Note.md",
+      "size_bytes": 106,
+      "content_preview": ""
+    },
+    {
+      "filename": "IELST Writing Task Guide.md",
+      "relative_path": "Project_Skin/IELST Writing Task Guide.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\IELST Writing Task Guide.md",
+      "size_bytes": 3952,
+      "content_preview": "### Writing Task 1: Criteria\n![[Pasted image 20250414105506.png]]\n+ **Lexical Resource:** word with percise meaning, is the word appropriate in the current context and is a uncommon word. \n+ **Collocation:** How word go together. Able to combine word in a natural and accurate way (meaningful *sentence*)   \n  \n\n### Writing Task 1: Structure \n1) Introduction + Overview\n\n\n### Do & Don't\n+ $ **DO:**\n\t+ start each paragraph with a linking phrase. Use linking phrase when changing ideas/sentence. \n\t+ use many verbs & tenses. \n\t+ use clause (when, where, why, how)\n\t+ Group similar elements together to describe. \n\n+ ! **DON'T**\n\t+ Limit your sentences. No more than 5 sentence in a paragraph. \n\t+ Only use 1 sentence for describe 1 characteristic. -> Group similar elements together to describe. \n\t+ Don't use too many simple sentence. \n\t+ Don't use the word \"it\" too much.\n\n### IELST Writing Tips\n#### General Structure for Part 1\nnote: sen ~ sentence\nIntroducton: 1-2 sen \nOverview: 2 sen\nParagraph 1: 4 sen\nParagraph 1: 3-4 sen\n\n[Constrast and Comparison Topic](https://ielts.idp.com/vietnam/prepare/article-compare-and-contrast-essay)\n\n#### Structure for Bar, Line graph, Table, Pie Chart\n\nIntro: 1 sen\n\t+ paraphrase using \"title prompt\" + \"visual summarization\"\n\t+ describe using \"where, when, who, what\"\n\t+ also use reporting verb (e.g. show, illustration, provide infor on, compare) don't use \"present\"\n\t+ don't use inversion sentence like \"It is shown in the graph\" instead of \"The graph shows...\" \n\t+ If there're multiple illustrates say \"the [graph] shows...while the [table] provides\" (replace table and graph)\n\t\n\t\nOverview: 1-2 sen\n+ Don't analyze in detail (i.e. using numbers), just give the overview insight as a introduction for paragraph 1 + 2. Try to mentions all subjects, if there're too many then group them by a similar attributes, for example 3 company from american -> mention them using american companies, **Highlight the most noticible trend**.\n+ ! Don't use abbreviation\n\t+"
+    },
+    {
+      "filename": "Learn Languages FAST.md",
+      "relative_path": "Project_Skin/Learn Languages FAST.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Learn Languages FAST.md",
+      "size_bytes": 1847,
+      "content_preview": "## How Professional Spies Learn Languages FAST\n**Why do spies need language skill**\n> Blend in and do their job\n\n\\\n**Why do I need language skill?**\n> Make new friends, Socialize. Greater Education and Job oppotunities. \n\n**Perfection Paradox Explain**\n> You don't need to speak or sound perfectly. But you must transfer the right infomation. \n+ ? Do you have what it need to completly learned a new language.\n+ $ Being a bad guy is hard, the best thing you could do is to think like them. \n+ $ Talking like a native is hard, the best thing I could do is to think like them.\n \n**The anti-routine trick**\n> In spies, being predictable is the one-way ticket to get caught.\n\n**anti-routine** -> remove un-goal oriented stups, what remain is the **work to be done.** You don't more stup to your routine, you removing it -> **force your mind to think actively**\n+ $ Practice on the basis. When ordering coffee, beside using vietnamese think how you would do it in german.\n+ $ Wanna learn fast, learn like your life depend on it. \n\n**The fluency trap**\n> You don't want to be too fluent, it too suspicious. (B2 level is fine)\n\n**Accents**\n> can spies friend or their worst enemy (match your accent with their cover stories) - Sleeper spies\n\n**Immersive trainning for spies**\n+ ? imersion in total hostile environment.\n\n\n**Memory techniques**\n> Recall by read them and write them down\n\n**Listening Skills for spies**\n\n\n**Keeping cool while speaking**\n> practice\n\n**Code switching**\n> practice switching language fast\n\n**Cultural Influency**\n> get to know the culture, reading their body languages\n+ ? Posture, Expression, Facial Expression, etc..\n\n\n---\n## How U.S. Military Linguists Learn Languages Fast\n![[Pasted image 20240911085427.png]]\nBeside this include listen to music and reading the news.\n\n"
+    },
+    {
+      "filename": "Learn ReactNative.md",
+      "relative_path": "Project_Skin/Learn ReactNative.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Learn ReactNative.md",
+      "size_bytes": 0,
+      "content_preview": ""
+    },
+    {
+      "filename": "Learning Thourgh Videos.md",
+      "relative_path": "Project_Skin/Learning Thourgh Videos.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Learning Thourgh Videos.md",
+      "size_bytes": 313,
+      "content_preview": "#### How Many Hours Do Germans Sleep\nGeschlafen - slept\nGetr├ñumt - dream\nKlar sure\n\n#### Why Germans Love Cycling \nAuf from\nHier Auf der Stra├ƒe - here from the street\nVerkehrsmittel - mode of transport\nGef├ñhrlich dangerous\n\tSie sind Gef├ñhrlich\n\nVor before\n\tRecht vor Links - right before left  \n"
+    },
+    {
+      "filename": "LOL.md",
+      "relative_path": "Project_Skin/LOL.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\LOL.md",
+      "size_bytes": 5138,
+      "content_preview": "**Kindered** - [Bio](https://universe.leagueoflegends.com/en_US/story/champion/kindred/)\n+ Hide and Show up during combat, giving you a significant advantage.\n+ Attack the weakest first, if possible, retreat and wait for oppotunities.\n+ Don't risk too much if you're carrying the team.\n+ Avoid taking risks in the late game. Delay Sacrified, if not trading life with their MVP.\n+ No matter how strong u r. Don't stand in a vulnerble position.\n \n+ Avoid Raven (Green girl with big sword), Master Ji (yellow guy with many eyes)\n+ Don't underestimate champions in the Baron Lane. \n+ If I don't have a lot of health, retreat .\n+ Know my team position to optimize team strength.\n\n**Killing Baron and Dragon**\n+ Don't stand inside Baron Pit, it way to risky. You can kill Baron by stading behind. \n\n# Know Who you Deal with\n**Early Morning before 7 or 8AM:** Often Teenage and Adult (Good Team Mate Mostly) \n**|**\n**Afternoon/Mid Day:** Mostly High/Secondary School avoiding naps, not much adult. I mean you gonna play game after working your ass out? Yes but Not Often. (Can trust them but make sure to join a Custom Game)\n**Night - Late Night:** SoloQ if you're lucky. Got good skill then find a good custom rank climbing team to climb with (Higher chance of winning with Support)\n\n\n# Bronze to Diamond\n## Knowledge Check 1\n1) Carry mentality (Focus on yourself)\n+ ? You don't have to save/help other player. As they can easily throw the game away and wasting your effort.\n\n2)  Focus on farming Gold.  Always goes for the guaranteed gold.\n> Low ELO player focus on Gank, Dragon and Baron so they drop minions and tower.\n+ $ You can take advantage by eating them all. \n+ ? Also: recognize lose Fight to turn back to farming fast.\n\n3) Dead Time -> recognize to get more gold\n> when you clear everything and have times to gank.\n+ ? Recognize un-profitable battle to optimize farming. a jungle worth more than a kill.\n\n4) Don't Assume\n> Don't assume your team mate gank you. Wait for them to really come.\n\n5)"
+    },
+    {
+      "filename": "Luß║¡t D├ón Sß╗▒ v├á Luß║¡t Tß╗æ Tß╗Ñng D├ón Sß╗▒.md",
+      "relative_path": "Project_Skin/Luß║¡t D├ón Sß╗▒ v├á Luß║¡t Tß╗æ Tß╗Ñng D├ón Sß╗▒.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Luß║¡t D├ón Sß╗▒ v├á Luß║¡t Tß╗æ Tß╗Ñng D├ón Sß╗▒.md",
+      "size_bytes": 0,
+      "content_preview": ""
+    },
+    {
+      "filename": "Pasted image 20260329085207.png.md",
+      "relative_path": "Project_Skin/Pasted image 20260329085207.png.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Pasted image 20260329085207.png.md",
+      "size_bytes": 0,
+      "content_preview": ""
+    },
+    {
+      "filename": "Personal Portfolio.md",
+      "relative_path": "Project_Skin/Personal Portfolio.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Personal Portfolio.md",
+      "size_bytes": 1371,
+      "content_preview": "Prompts: [[UI with Coding Agent]]\nTools and Framework: Gastby + Netlify for Web +  Hosting\nInspiration: \n+ [Minimal Options Landing Page](https://www.petramingneau.com/) ![[Pasted image 20260523151215.png | 555]]\n+ [Mesmerizing footer](https://www.wk.com/jobs/) (typing & deleting text animation or mechanics to show my philopsophy) , `z - 1` footer (footer as the `z - 1` background)![[Pasted image 20260523152221.png | 555]]\n+ [terminal style portfolio](https://wiscaksono.com/guest-book)\n\n----\n`minimalist portfolio` \n\t**Header (2 options)**\n\t- **p1** Who am I (personality, like, dislike, passion and purpose) \n\t- **p2** What I do - Project, CV, Experience Timeline.  \n\t. \n\t**Footer (Connect)** \n\t- **social media** icon (e.g. hover above the icon -> description appear like Hover over thread -> display what I do with it) \n\n**p1 who I am**\n\t*Landing Page* describe myself in 1 short sentence (effortless intro) - more detail about what I do below.  \n\t\tpurpose - captivate viewer, make sure they don't leave. Use word that express multiple ideas & emotion.\n\n**p2 what I do**\n*Main Page straigh away* \n+ Professional self-intro -> Experience timeline.  \n+ Describe my profession (using Project and Timeline) \n\tWhat I do page -> Describe what I do as explicit as possible (not just listing experieneces)![[Pasted image 20260523155522.png | 555]]"
+    },
+    {
+      "filename": "Ph├íp Luß║¡t.md",
+      "relative_path": "Project_Skin/Ph├íp Luß║¡t.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Ph├íp Luß║¡t.md",
+      "size_bytes": 898,
+      "content_preview": "# Quy Phß║ím Ph├íp Luß║¡t\n\nPh├íp luß║¡t\n+ Hß╗ç thß╗æng PL\n+ Ng├ánh L\n+ Chß║┐ ─æß╗ïnh PL\n+ Quy Phß║ím PL\n\nChß╗º thß╗â l├á ai?\nHo├án Cß║únh l├á g├¼?\nVD: Ng╞░ß╗¥i n├áo ─æß╗æi xß╗¡ t├án ├íc, th╞░ß╗¥ng xuy├¬n ng╞░ß╗úc ─æ├úi or l├ám nhß╗Ñc ng╞░ß╗¥i lß╗ç thuß╗Öc m├¼nh?\n\tChß╗º thß╗â: Ng╞░ß╗¥i Lß╗ç thuß╗Öc\n\tHo├án Cß║únh: Lß╗ç Thuß╗Öc\n\n\nPhß║úi l├ám g├¼? Kh├┤ng ─æ╞░ß╗úc l├ám g├¼? L├á\nl├ám nh╞░ thß║┐ n├áo?\n\n ─Éß║úng l├á lß╗▒c lg l├únh ─æß║ío Nh├á n╞░ß╗¢c v├á X├ú Hß╗Öi.\nV─ân kiß╗çn (ex: v─ân kiß╗çn ─æß║íi hß╗Öi ─æß║úng)\nNghß╗ï Quyß║┐t (ex: Nghi quyß║┐t thß╗⌐ 12)\n\n\\Quan hß╗ç ph├íp luß║¡t\n\n# Ch╞░╞íng 3: Vi phß║ím ph├íp luß║¡t, tr├ích nhiß╗çm ph├íp l├╜, ph├íp chß║┐ x├ú hß╗Öi chß╗º ngh─⌐a\n\n\nVi Phß║ím Ph├íp Luß║¡t \n1) H├ánh vi x├íc ─æß╗ïnh con ng╞░ß╗¥i \n\tLß╗ùi l├á trß║íng th├íi t├óm l├╜, phß║ún ├ính th├íi ─æß╗Ö ti├¬u cß╗▒c cß╗ºa ng╞░ß╗¥i chß╗⌐ng kiß║┐n ng vi phß║ím????\n\n\n"
+    },
+    {
+      "filename": "Python Command.md",
+      "relative_path": "Project_Skin/Python Command.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Python Command.md",
+      "size_bytes": 594,
+      "content_preview": "get variable datatype\n```python\ntype(item1)\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n```python\n\n```\n\n"
+    },
+    {
+      "filename": "Python OOP.md",
+      "relative_path": "Project_Skin/Python OOP.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Python OOP.md",
+      "size_bytes": 21376,
+      "content_preview": "# OOP\n![[Pasted image 20240923101844.png]]\n\nthe `__init__` method allow class attribute to be modified directly without adding any function like `speak()` below\n```python\nclass Dog:\n\n    # class attribute\n    attr1 = \"mammal\"\n\n    # Instance attribute\n    def __init__(self, name):\n        self.name = name\n\n# Driver code\n# Object instantiation\nRodger = Dog(\"Rodger\")\n\n# Accessing class attributes\nprint(\"Rodger is a {}\".format(Rodger.__class__.attr1))\n\n# Accessing instance attributes\nprint(\"My name is {}\".format(Rodger.name))\n```\n>output: Rodger is a mammal\n+ ? Add speak function after `def __init__(self, name)`\n```python\ndef speak(self):\n\tprint(\"My name is {}\".format(self.name))\n\nTommy.speak() \n```\n>output: My name is Tommy\n\n# Getting Started\n## What is a Class in Python OOP\n+ ?  A Class is like a **template for creating an Object in OOP**. Its **can contain multiple attributes and functions** (called methods). In simple terms, **OOP Class is way to organize and encapsulate both data and functionality together**.      \n\n+ **instance: phi├¬n bß║ún/v├¡ dß╗Ñ** == **object: ─æß╗æi t╞░ß╗úng**\n\tWhen printing out datatype of any variable, you can see each of them are instances/object of a class. \n\t\t![[Pasted image 20240923103507.png]]\n\nInitialize a Class\n```python\nclass Item:\n    pass\n```\nCreate a Object\n```python\nitem1 = Item() # create instance of Item class\n```\nassign attributes for Object\n```python\nitem1.name = \"Phone\"\nitem1.price = 10000\nitem1.quantity = 4\n\n# Check attribute datatype\nprint(type(item1)) \nprint(type(item1.name))\nprint(type(item1.price))\nprint(type(item1.quantity))\n```\n> <class '__main__.Item'>\n> <class 'str'>\n> <class 'int'>\n> <class 'int'>\n\n### Method (Function inside Class)\n+ ? When function created inside a Class, it called Method.\n+ $ You **can access Methods through its Class**. Help distinguish methods with identical name from different classes.\n\te.g. **price attribute from item1** class: **item1.price**, **total_price function from item1** class: **item1.total"
+    },
+    {
+      "filename": "Quß║ún L├╜ H├ánh Ch├¡nh Nh├á N╞░ß╗¢c.md",
+      "relative_path": "Project_Skin/Quß║ún L├╜ H├ánh Ch├¡nh Nh├á N╞░ß╗¢c.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Quß║ún L├╜ H├ánh Ch├¡nh Nh├á N╞░ß╗¢c.md",
+      "size_bytes": 69,
+      "content_preview": ""
+    },
+    {
+      "filename": "React.md",
+      "relative_path": "Project_Skin/React.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\React.md",
+      "size_bytes": 10,
+      "content_preview": ""
+    },
+    {
+      "filename": "Requirement to understand this sentence.md",
+      "relative_path": "Project_Skin/Requirement to understand this sentence.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Requirement to understand this sentence.md",
+      "size_bytes": 2682,
+      "content_preview": "To understand the sentence structure of the German sentences \"Zum Fr├╝hst├╝ck esse ich gern Joghurt mit Banane. Es ist einfach und lecker,\" you should focus on the following grammar parts:\n\n1. **Prepositions and Cases**:\n    \n    - \"Zum Fr├╝hst├╝ck\" uses the preposition \"zu\" with the dative case to mean \"for breakfast.\"\n    - Learn the common prepositions and the cases they require.\n2. **Sentence Structure (Word Order)**:\n    \n    - German has a flexible word order but typically follows the Subject-Verb-Object (SVO) structure in main clauses.\n    - \"Esse ich gern Joghurt\" follows the SVO structure: \"Ich\" (subject) \"esse\" (verb) \"Joghurt\" (object).\n    - Inverted word order for emphasis is also common: \"Zum Fr├╝hst├╝ck esse ich gern...\"\n3. **Adverbs and Adverbial Phrases**:\n    \n    - \"Gern\" is an adverb meaning \"gladly\" or \"with pleasure.\"\n    - Learn how adverbs modify verbs and where they are placed in a sentence.\n4. **Nouns and Articles**:\n    \n    - \"Joghurt\" (yogurt) and \"Banane\" (banana) are nouns with no articles in this context.\n    - Understand the use of definite and indefinite articles.\n5. **Conjunctions and Compound Sentences**:\n    \n    - \"Und\" is a conjunction meaning \"and.\"\n    - Learn how to join sentences with conjunctions.\n6. **Adjectives**:\n    \n    - \"Einfach\" (simple) and \"lecker\" (delicious) are adjectives.\n    - Understand how adjectives are used to describe nouns.\n7. **Pronouns**:\n    \n    - \"Es\" is a pronoun referring to a previously mentioned noun or concept (\"Joghurt mit Banane\").\n    - Understand the different pronouns and their uses.\n8. **Present Tense Conjugation**:\n    \n    - \"Esse\" is the first-person singular form of \"essen\" (to eat).\n    - Learn the conjugation of regular and irregular verbs in the present tense.\n\n### Example Breakdown\n\n- **Zum Fr├╝hst├╝ck (Prepositional Phrase)**:\n    \n    - \"Zum\" is a contraction of \"zu dem,\" meaning \"to the,\" indicating purpose or time.\n    - \"Fr├╝hst├╝ck\" (breakfast) is a noun in the dative case.\n- **Esse"
+    },
+    {
+      "filename": "SD HW2.md",
+      "relative_path": "Project_Skin/SD HW2.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\SD HW2.md",
+      "size_bytes": 5872,
+      "content_preview": "**B├ái tß║¡p 14. Tß║íi sao trong t├ái liß╗çu SRS lß║íi c├│ ph├íc thß║úo vß╗ü UI?**\n> Giao diß╗çn ng╞░ß╗¥i d├╣ng trong SRS n├áy, hay ─Éß║╖c tß║ú y├¬u cß║ºu phß║ºn mß╗üm, l├á bß║ún ph├íc thß║úo vß╗ü Giao diß╗çn ng╞░ß╗¥i d├╣ng, l├á mß╗Öt phß║ºn cß╗ºa t├ái liß╗çu. N├│ gi├║p ─æ╞░a ra c├íi nh├¼n trß╗▒c quan vß╗ü c├ích hß╗ç thß╗æng t╞░╞íng t├íc vß╗¢i ng╞░ß╗¥i d├╣ng. Giao diß╗çn ng╞░ß╗¥i d├╣ng ─æ╞░ß╗úc ph├íc thß║úo c├│ tß║ºm quan trß╗ìng nh╞░ d╞░ß╗¢i ─æ├óy:\n\n+ **Giao tiß║┐p r├╡ r├áng:** Bß║ún ph├íc thß║úo giao diß╗çn ng╞░ß╗¥i d├╣ng gi├║p viß╗çc truyß╗ün ─æß║ít ├╜ t╞░ß╗ƒng thiß║┐t kß║┐ v├á chß╗⌐c n─âng hß╗ç thß╗æng giß╗»a c├íc b├¬n li├¬n quan, bao gß╗ôm kh├ích h├áng, nh├á ph├ít triß╗ân v├á nh├á thiß║┐t kß║┐ trß╗ƒ n├¬n dß╗à d├áng h╞ín.\n\n+ **X├íc ─æß╗ïnh c├íc y├¬u cß║ºu:** N├│ gi├║p x├íc ─æß╗ïnh v├á l├ám r├╡ c├íc y├¬u cß║ºu chß╗⌐c n─âng v├á phi chß╗⌐c n─âng cß╗ºa hß╗ç thß╗æng.\n\n+ **Ng─ân chß║╖n sß╗▒ hiß╗âu lß║ºm:** Gi├║p ng─ân chß║╖n sß╗▒ hiß╗âu lß║ºm vß╗ü c├íc y├¬u cß║ºu giß╗»a c├íc b├¬n li├¬n quan v├¼ bß╗⌐c tranh cß╗Ñ thß╗â m├á n├│ cung cß║Ñp vß╗ü sß║ún phß║⌐m cuß╗æi c├╣ng.\n\n+ ? **V├¡ dß╗Ñ:** trong qu├í tr├¼nh ph├ít triß╗ân ß╗⌐ng dß╗Ñng ─æß║╖t v├⌐ m├íy bay, bß║ún ph├íc thß║úo giao diß╗çn ng╞░ß╗¥i d├╣ng c├│ thß╗â chß╗⌐a c├íc m├án h├¼nh ─æ─âng nhß║¡p, t├¼m kiß║┐m chuyß║┐n bay v├á thanh to├ín ─æß╗â gi├║p c├íc b├¬n li├¬n quan hiß╗âu r├╡ hß╗ç thß╗æng sß║╜ hoß║ít ─æß╗Öng linh hoß║ít nh╞░ thß║┐ n├áo.\n\n\n**B├ái tß║¡p 15. Trong t├ái liß╗çu SRS, user story ─æ╞░ß╗úc BA sß╗¡ dß╗Ñng ß╗ƒ chß╗ù n├áo khi l├ám t├ái liß╗çu?**\n> User Story trong t├ái liß╗çu SRS ─æ╞░ß╗úc sß╗¡ dß╗Ñng phß╗ò biß║┐n nhß║Ñt ─æß╗â cung cß║Ñp c├íc m├┤ tß║ú chi tiß║┐t li├¬n quan ─æß║┐n c├íc y├¬u cß║ºu tß╗½ g├│c ─æß╗Ö ng╞░ß╗¥i d├╣ng cuß╗æi. BA (Nh├á ph├ón t├¡ch kinh doanh) sß╗¡ dß╗Ñng c├óu chuyß╗çn cß╗ºa ng╞░ß╗¥i d├╣ng cho:\n\n+ **Truyß╗ün ─æß║ít y├¬u cß║ºu:** Y├¬u cß║ºu cß╗ºa ng╞░ß╗¥i d├╣ng cuß╗æi ─æ╞░ß╗úc truyß╗ün ─æß║ít tß╗¢i nh├│m ph├ít triß╗ân.\n\n+ **Th├┤ng b├ío mß╗⌐c ─æß╗Ö ╞░u ti├¬n c├┤ng viß╗çc:** Gi├║p x├íc ─æß╗ïnh v├á ╞░u ti├¬n c├íc t├¡nh n─âng dß╗▒a tr├¬n gi├í trß╗ï cß╗ºa ch├║ng ─æß╗æi vß╗¢i ng╞░ß╗¥i d├╣ng.\n\n+ **Bß╗æi cß║únh h├│a:** Cung cß║Ñp bß╗æi cß║únh cho nhu cß║ºu v├á ─æß║úm bß║úo rß║▒ng hß╗ç thß╗æng ─æ╞░ß╗úc ph├ít triß╗ân d├ánh cho ─æ├║ng ng╞░ß╗¥i d├╣ng.\n\n+ ? **V├¡ dß╗Ñ:** c├óu chuyß╗çn cß╗ºa ng╞░ß╗¥i d├╣ng trong ß╗⌐ng dß╗Ñng ─æß║╖t v├⌐ m├íy bay c├│ thß╗â l├á: \"L├á ng╞░ß╗¥i d├╣ng, t├┤i muß╗æn t├¼m kiß║┐m c├íc chuyß║┐n bay theo ng├áy cß╗Ñ thß╗â ─æß╗â t├┤i c├│ thß╗â l├¬n kß║┐ hoß║ích cho chuyß║┐n ─æi cß╗ºa m├¼nh\".\n\n\n**B├ái tß║¡p 16. Trong t├ái liß╗çu SRS, tß║íi sao c├íc UC(use case) lß║íi th╞░ß╗¥ng ─æ╞░ß╗úc "
+    },
+    {
+      "filename": "Software Deployment Project.md",
+      "relative_path": "Project_Skin/Software Deployment Project.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Software Deployment Project.md",
+      "size_bytes": 285,
+      "content_preview": "User Story Template\n```ad-check\nUser Story 1.2: Ng╞░ß╗¥i d├╣ng qu├¬n mß║¡t khß║⌐u\nVß╗¢i t╞░ c├ích l├á: \nT├┤i muß╗æn: \nMß╗Ñc ─æ├¡ch: \nTi├¬u ch├¡ chß║Ñp nhß║¡n:\n1)\n2)\nn)\nC├íc b╞░ß╗¢c thao t├íc m├án h├¼nh:\nB╞░ß╗¢c 1: \nB╞░ß╗¢c 2: \nB╞░ß╗¢c 3: \nB╞░ß╗¢c 4: \nB╞░ß╗¢c n:\n```\n\n"
+    },
+    {
+      "filename": "Stress-Free Productivity.md",
+      "relative_path": "Project_Skin/Stress-Free Productivity.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Stress-Free Productivity.md",
+      "size_bytes": 2641,
+      "content_preview": "# Part 1: Self-Observation\n## CHAPTER 1: You Are the Solution, Not the Problem\n+ ? Who am I  to Give You This Advice\n\tThe Author draw points from many areas of psychological research to help me understand hwo my thoughts, behaviours and emotions interact. **Hint: your emotion is not your weekness**\n\n+ $ The Approach we take together\n\tOften come from my Original Thinking, not comming from copying other people productivity habit or structures. \n\tWe'll harness that self knowledge and creativity to create your  own personal model for productivity\n\t+ @ End Game Goal is to uncover how I can be my most:\n\t\tGrowth-Oriented\n\t\tEfficiency and Effective\n\t\tCreative and Visionary\n\t+ ? The reason for this triple focus is:\n\t\t1. Without grow-oriented, you'll be too likely to put off by hard thing\n\t\t\t\n\t\t2. You wont get anywhere close to freedom if I'am creative but don't find successful, efficient processes you can exploit through repetition.\n\t\t\t\n\t\t3. On the other hand, your achievements will be limited if you're good at executing and self-organized but stay on a narrow path. To perfor optimally, you need to focus deliberately on being creative and innovation.\n\n+ ? How I defind productivity\n\tAchieve more with doing less\n\n \n+ $ Success is Not Purely About Being More Focused\n\tTime-Management and habits are small part in productive, lemme explain:\n\t**Why consistant habit is overated ?**\n\t\t**The Benefits:** Habit keep thing persistant, reduce uneccessary decision fatige \n\t\t**The Cost:**\n\t\t+ It can make your life flow like a blur. And they're lack of Innovation\n\t\t+ Being too habit-bound can reduce how often have the novel experience essential to your productivity.\n\t-> If you have no desire to be a flowlessly self-desciplined robot, that healty. This book tell an enjoyable path to greater productivity is being more human, not more robotic or habit-bound.\n\n+ ? Why Wasting time is fine:\n\tReduced happiness is not an acceptable side effect of efficiency.\n\n\nDiscipline and Performance go down -> "
+    },
+    {
+      "filename": "Todo.md",
+      "relative_path": "Project_Skin/Todo.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Todo.md",
+      "size_bytes": 3996,
+      "content_preview": "---\naliases:\n---\n![[Pasted image 20240929225308.png]]\n## [Calendar]\n#Todo/Priority\n\n\n#Todo/[[GoalsThisWeek]]\n- [ ] Find [Decision Tree](https://www.youtube.com/watch?v=pR-Of1ua6Dc&t=752s) Paper to follow-allong for my AIO\n\n\n#Todo/[[GoalsThisMonth]]\n\n\n#MyRuleThat_I_SwearToLiveBy\n\n\n****\n\n\n**My Learning**\n[Basic Mathematics for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&si=5yZfL9HV8MwYqB8N)\n[Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)\n[[Calisthenics]]\n\n\n#Todo/Later\n- [ ] Discover [AI RoadMap](https://i.am.ai/roadmap/#note) and [AI article](https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/)\n- [ ] [The Experimental Generation of Interpersonal Closeness](https://youtu.be/RHhkd2B87Q8?si=231T3weZYQz0WGlH)\n\n\n> ┬áGi├ío s╞░ Andrew Huberman b├án luß║¡n vß╗¢i gi├ío s╞░ Adam Grant vß╗ü nhß╗»ng chß╗º ─æß╗ü rß║Ñt thiß║┐t thß╗▒c li├¬n quan ─æß║┐n t├óm l├╜ v├á thß║ºn kinh hß╗ìc nh╞░ l├á c├ích ─æß╗â khai ph├í khß║ú n─âng cß╗ºa con ng╞░ß╗¥i, mß║╖t tr├íi cß╗ºa ─æß╗Öng lß╗▒c nß╗Öi tß║íi, sß╗▒ thß║¡t vß╗ü t├¡nh ch├ón thß╗▒c (authenticity) c├╣ng rß║Ñt rß║Ñt nhiß╗üu nß╗Öi dung th├║ vß╗ï kh├íc\n> ┬á![[Pasted image 20240416233229.png]]\n\n\n> ┬áJustine Sung thß╗▒c sß╗▒ ph├ón t├¡ch nß╗ün tß║úng l├╜ thuyß║┐t v├á khoa hß╗ìc ─æß║▒ng sau c├íc ph╞░╞íng ph├íp cß╗ºa m├¼nh. Nhin chung, c├íc ph╞░╞íng ph├íp ß╗ƒ tr├¬n ─æß╗üu h╞░ß╗¢ng tß╗¢i viß╗çc ng╞░ß╗¥i hß╗ìc chß╗º ─æß╗Öng luyß╗çn tß║¡p t╞░ duy ─æß╗â n├óng cß║Ñp khß║ú n─âng xß╗¡ l├╜ th├┤ng tin cß╗ºa m├¼nh, thay v├¼ l├á c├íc kß╗╣ thuß║¡t tß║ím thß╗¥i nh╞░ l├á ghi ch├║ hay flashcard.\n> ![[Pasted image 20240416233245.png]]\n\n\n> Giao tiß║┐p thß╗▒c sß╗▒ l├á mß╗Öt kß╗╣ n─âng, m├á ─æ├ú l├á kß╗╣ n─âng th├¼ c├│ thß╗â ─æ╞░ß╗úc luyß╗çn tß║¡p. Bß║ún th├ón anh Charlie Houpert l├║c tr╞░ß╗¢c c┼⌐ng l├á mß╗Öt ng╞░ß╗¥i kh├┤ng nß╗òi bß║¡t v├á ├¡t bß║ín. V├¼ muß╗æn thay ─æß╗òi n├¬n anh ß║Ñy ─æ├ú ─æi├¬n cuß╗ông tß║¡p luyß╗çn, bß║▒ng c├ích hß╗ìc tß╗½ nhß╗»ng ng╞░ß╗¥i nß╗òi bß║¡t kh├íc, c┼⌐ng nh╞░ ra ngo├ái giao tiß║┐p nhiß╗üu h╞ín.\n![[Pasted image 20240416233906.png]]\n\n\n> Tß║ºm quan trß╗ìng cß╗ºa viß╗çc l├¬n kß║┐ hoß║ích cho thß╗¥i gian cß╗ºa m├¼nh c├│ lß║╜ kh├┤ng cß║ºn b├án nhiß╗üu. Nhiß╗üu ng╞░ß╗¥i cß╗⌐ ngh─⌐ l├¬n kß║┐ hoß║ích khiß║┐n ng├áy cß╗ºa ta trß╗ƒ n├¬n cß╗⌐ng nhß║»c v├á nh├ám ch├ín"
+    },
+    {
+      "filename": "Transaction with Authentication - JAVA.md",
+      "relative_path": "Project_Skin/Transaction with Authentication - JAVA.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Transaction with Authentication - JAVA.md",
+      "size_bytes": 11879,
+      "content_preview": "### **Updated Transaction Flow Diagram with Authentication**\n\n1. **Start**\n2. **Authenticate User**\n    - Verify the userΓÇÖs authentication token to ensure they are who they claim to be.\n    - If authentication fails ΓåÆ **Abort Transaction** ΓåÆ Return \"Unauthorized\" message.\n3. **Check GP Balance**\n    - If GP balance < 10 ΓåÆ **Abort Transaction** ΓåÆ Return \"Insufficient GP\" message.\n    - If GP balance ΓëÑ 10 ΓåÆ Proceed to the next step.\n4. **Deduct 10 GP from User Balance**\n5. **Update User's GP Balance in the Database**\n6. **Record GP Transaction**\n    - Store the deduction details in the **GPTransactions** table.\n7. **Record Main Transaction**\n    - Store the main transaction details in the **Transactions** table.\n8. **End**\n\n### **Diagram Representation with Authentication**\n```txt\n+---------------------------+\n|         Start              |\n+---------------------------+\n           |\n           v\n+---------------------------+\n|   Authenticate User        |\n+---------------------------+\n           |\n   +-------+-------+\n   |               |\n   v               v\n+-----------------------+    Authentication Fails\n|  Authentication OK?   |----------------------------------->+-------------------------+\n+-----------------------+                                     | Abort Transaction       |\n           |                                                  | Return \"Unauthorized\"   |\n           v                                                  +-------------------------+\n+---------------------------+\n|  Check User GP Balance     |\n+---------------------------+\n           |\n   +-------+-------+\n   |               |\n   v               v\n+-----------------------+    GP Balance < 10\n| GP Balance >= 10?     |----------------------------------->+-------------------------+\n+-----------------------+                                     | Abort Transaction       |\n           |                                                  | Return \"Insufficient GP\"|\n           v                        "
+    },
+    {
+      "filename": "Tß╗òng Hß╗úp LS ─Éß║úng.md",
+      "relative_path": "Project_Skin/Tß╗òng Hß╗úp LS ─Éß║úng.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Tß╗òng Hß╗úp LS ─Éß║úng.md",
+      "size_bytes": 36819,
+      "content_preview": "**Ch╞░╞íng 1:**\nKh├íng chiß║┐n kiß║┐n quß╗æc - qu├ón nhß║¡t\nnh├á y├¬u n╞░ß╗¢c tiß╗âu biß╗âu tk19-20 : phan ch├óu trinh\ntß╗òng b├¡ th╞░ - l├¬ hß╗ông phong \n\ngi╞í n╞í v╞í - 21\nnß╗òi dß║¡y m├╣a xu├ón 1975 - chiß║┐n dß╗ïch T├óy nguy├¬n\nCM th├íng 8 - t├¼nh thß║┐ ng├án c├ón treo sß╗úi t├│c \nThß╗▒c d├ón ph├íp x├óm l╞░ß╗úc vn tr'c ww1 - 1858\n─Éß║íi hß╗Öi 3 - tiß╗ün tuyß║┐n lß╗¢n l├á Miß╗ün Nam\n\n\n\nnß╗òi dß║¡y chß╗æng T╞░ß╗ƒng - \nCM th├íng 10 thß║»ng lß╗úi - quß╗æc tß║┐ Cß╗Öng Sß║ún ra ─æß╗¥i 3/19..\n1945 - b├íc hß╗ô l├ám chß╗º tß╗ïch\nnghß╗ï quyß║┐t giß║úi ph├│ng mi├¿n nam - nghß╗ï quyß║┐t \n\n**Th╞░ gß╗¡i ─æß╗ông b├áo to├án quß╗æc sau Hß╗Öi nghß╗ï TW lß║ºn 8**: \"...chß║│ng nhß╗»ng to├án thß╗â quß╗æc gia d├ón tß╗Öc c├▓n chju m├úi kiß║┐p ngß╗▒a tr├óu, m├á quyß╗ün lß╗úi cß╗ºa bß╗Ö phß║¡n giai cß║Ñp ─æß║┐n vß║ín n─âm sau c┼⌐ng kh├┤ng ─æ├▓i ─æ╞░ß╗úc\"\nHß╗Öi nghß╗ï BTWD x├íc ─æß╗ïnh giß║úi ph├│ng d├ón tß╗Öc - 1941 -> nhß║Ñn mß║ính giß║úi ph├│ng d├ón tß╗Öc l├á nv bß╗⌐c thiß║┐t nhß║Ñt. \n\nb├ái hß╗ìc kinh nghiß╗çm c├ích mß║íng th├íng 8 - ph╞░╞íng ph├íp c├ích mß║íng \nvß║Ñn ─æß╗ü n├áo ─æß║úng coi \"thß╗ò ─æß╗ïa...\" - luß║¡n c╞░╞íng th├íng 10/1930\nphong tr├áo Y├¬n Thß║┐ - phong kiß║┐n \n\n\n─Éß║íi hß╗Öi VII quß╗æc tß║┐ cß╗Öng sß║ún (Gi╞í n╞í va) - kß║╗ th├╣ l├á ph├ít x├¡t (Nhß║¡t) v├¼ k├╜ hiß╗çp ─æß╗ïnh vs thß╗▒c d├ón ph├íp rß╗ôi\n\nChinh s├ích thß╗æng trß╗ï cß╗ºa thß╗▒c d├ón ph├íp ß║únh h╞░ß╗ƒng ─æß║┐n ph├ón h├│a giai cß║Ñp ß╗ƒ nc ta l├á Cho ra ─æß╗¥i giai cß║Ñp ms C├┤ng Nh├ón v├á T╞░ Sß║ún. \n\nPhong tr├áo ─É├┤ng Kinh Ngh─⌐a Thß╗Ñc (Tonkin Free School) thuß╗Öc khuy├¬n h╞░ß╗¢ng ptrao y├¬u nc khuy├¬n h╞░ß╗¢ng d├ón chß╗º t╞░ sß║ún (d├ón chß╗º c├│ t├ái sß║ún)\n\tptrao nhß║▒m cß║úi c├ích gi├ío dß╗Ñc VN ─æß║ºu tk 20 thß╗¥i ph├íp thuß╗Öc. ─Éß╗â cß║úi c├ích cß║ºn c├│ t├ái sß║ún -> ptrao khuyen h╞░ß╗¢ng t╞░ sß║ún\n\n\nKinh nghiß╗çm quan trß╗ìng nhß║Ñt cß╗ºa ─Éß║úng vß╗ü l├únh ─æß║ío kh├íng chiß║┐n chß╗æng ph├íp, Mß╗╣ - ─æß╗ü ra ─æ╞░ß╗¥ng lß╗æi ─æ├║ng ─æß║»n tß╗½ nhß╗»ng ng├áy ─æß║ºu\n\nGiß║úi ph├│ng miß╗ün nam tr'c m├╣a m╞░a ─æc n├¬u trong Nghß╗ï Quyß║┐t cß╗ºa bß╗Ö ng├áy 25/3/1975\n\nGiß║ú ph├│ng d├ón tß╗Öc 1941 - v├¼ k├╜ hiß╗çp ─æß╗ïnh gi╞í ne va\n\nchß╗º ch╞░╞íng k├¬u gß╗ìi to├án quß╗æc kh├íng chiß║┐n - 13/12/1946\n\nSß╗▒ kh├íc biß╗çt giß╗»a C╞░╞íng L─⌐nh ch├¡nh trß╗ï ─æß║ºu ti├¬n cß╗ºa ─Éß║úng v├á Luß║¡n C╞░╞íng ch├¡nh trß╗ï th├íng 10.1930 l├á *Chß╗º ch╞░╞íng tß║¡p hß╗úp lß╗▒c l╞░ß╗úng c├ích mß║íng* \n\n---\n\n\n─Éß║úng Cß╗Öng Sß║ún l├á ─æß║úng ch├¡nh cß╗ºa gc c├┤ng nh├ón, l├á ─æß╗Öi ti├¬n phong  cß╗ºa gc c├┤ng nh├ón.\n\n─Éß║úng Cs vn l├á ─æß╗Öi ti├¬n phong cß╗ºa gia cß║Ñpm c├┤ng"
+    },
+    {
+      "filename": "UI with Coding Agent.md",
+      "relative_path": "Project_Skin/UI with Coding Agent.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\UI with Coding Agent.md",
+      "size_bytes": 3870,
+      "content_preview": "## Prompts\nImage to Landingpage Background \n```txt\nGenerate a ONE-PAGE LANDING PAGE creation prompt using a RANDOMLY SELECTED design style from the following list, or choose your own style if you identify something more suitable that's not listed. IMPORTANT: Use a random selection method - any method that ensures variety. DO NOT default to Neobrutalist or any particular favorite. Actually randomize your selection.\n\n**Available Design Styles (not limited to these - feel free to identify and use other professional styles):**\n\n- Neobrutalist (raw, bold, confrontational with structured impact)\n\n- Swiss/International (grid-based, systematic, ultra-clean typography)\n\n- Glassmorphism (translucent layers, blurred backgrounds, depth)\n\n- Retro-futuristic (80s vision of the future, refined nostalgia)\n\n- Bauhaus (geometric simplicity, primary shapes, form follows function)\n\n- Art Deco (elegant patterns, luxury, vintage sophistication)\n\n- Minimal (extreme reduction, maximum whitespace, essential only)\n\n- Flat (no depth, solid colors, simple icons, clean)\n\n- Material (Google-inspired, cards, subtle shadows, motion)\n\n- Neumorphic (soft shadows, extruded elements, tactile)\n\n- Scandinavian (hygge, natural materials, warm minimalism)\n\n- Japandi (Japanese-Scandinavian fusion, zen meets hygge)\n\n- Dark Mode First (designed for dark interfaces, high contrast elegance)\n\n- Modernist (clean lines, functional beauty, timeless)\n\n- Organic/Fluid (flowing shapes, natural curves, sophisticated blob forms)\n\n- Corporate Professional (trust-building, established, refined)\n\n- Tech Forward (innovative, clean, future-focused)\n\n- Neo-Geo (refined geometric patterns, mathematical beauty)\n\n- Kinetic (motion-driven, dynamic but controlled)\n\n**Instructions:**\nAfter selecting a design style (either from the list or your own professional choice), create a ONE-PAGE LANDING PAGE prompt that is EXACTLY THREE PARAGRAPHS. Focus intensely on conveying the FEELING and ATMOSPHERE of the chosen style:\n\nParagraph 1: S"
+    },
+    {
+      "filename": "Untitled.md",
+      "relative_path": "Project_Skin/Untitled.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Untitled.md",
+      "size_bytes": 0,
+      "content_preview": ""
+    },
+    {
+      "filename": "Venture Capital.md",
+      "relative_path": "Project_Skin/Venture Capital.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Venture Capital.md",
+      "size_bytes": 595,
+      "content_preview": ""
+    },
+    {
+      "filename": "VIetnam General Law Revision.md",
+      "relative_path": "Project_Skin/VIetnam General Law Revision.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\VIetnam General Law Revision.md",
+      "size_bytes": 16793,
+      "content_preview": "## Ch╞░╞íng 1: Nhß╗»ng vß║Ñn ─æß╗ü c╞í bß║ún vß╗ü nh├á n╞░ß╗¢c v├á ph├íp luß║¡t\n\n**Thuyß║┐t khß║┐ ╞░ß╗¢c x├ú hß╗Öi** - cho rß║▒ng nh├á n╞░ß╗¢c v├á ph├íp luß║¡t ra ─æß╗¥i kh├┤ng phß║úi bß║»t nguß╗ôn tß╗½ th╞░ß╗úng ─æß║┐ m├á l├á kß║┐t quß║ú cß╗ºa mß╗Öt sß╗▒ thoß║ú thuß║¡n thß╗æng nhß║Ñt giß╗»a nhß╗»ng con ng╞░ß╗¥i vß╗¢i nhau nh╞░ mß╗Öt thß╗⌐ **khß║┐ ╞░ß╗¢c**\n\nPh├íp lu├ótj ─æ╞░ß╗úc tß║ío ra v├¼ bß║ún chß║Ñt giai cß║Ñp (l├á sß║ún phß║⌐m cß╗ºa x├ú hß╗Öi qua ─æß║Ñu tranh giai cß║Ñp)\n\nTh├íi lan theo ch├¡nh thß╗â **nh├á n╞░ß╗¢c qu├ón chß╗º lß║¡p hiß║┐n** \nViß╗çt Nam, Trung Quß╗æc l├á **quß╗æc gia ─æ╞ín ─æß║úng**  (cß╗Öng h├▓a)\n\n\n**Hß╗ç thß╗æng t╞░ ph├íp:** c╞í quan t╞░ ph├íp hay hß╗ç thß╗æng t╞░ ph├íp l├á _mß╗Öt hß╗ç thß╗æng t├▓a ├ín nh├ón danh quyß╗ün tß╗æi cao hoß║╖c nh├á n╞░ß╗¢c ─æß╗â thß╗▒c thi c├┤ng l├╜_, mß╗Öt c╞í chß║┐ ─æß╗â giß║úi quyß║┐t.\n+ **T╞░ ph├íp** ─æ╞░ß╗úc **T├▓a ├ín nh├ón d├ón thß╗▒c hiß╗çn** \n+ **T├▓a ├ín** nh├ón d├ón **thuß╗Öc bß╗Ö t╞░ ph├íp**\n\n\nHß╗ç thß╗æng nh├ón d├ón ─æß╗ü cß╗¡: Quß╗æc hß╗Öi nh├ón d├ón c├íc cß║Ñp\nBß║ºu cß╗¡ -> Hß╗Öi ─æß╗ông \n+ ! note: Nh├á n╞░ß╗¢c kh├┤ng ─æß╗⌐ng tr├¬n ph├íp luß║¡t v├¼ nh├á n╞░ß╗¢c ban h├ánh ra ph├íp luß║¡t. Nh├á n╞░ß╗¢c vß║¡n h├ánh d╞░ß╗¢i ph├íp luß║¡t.\n\t-> kh├┤ng bß╗ï ß║únh h╞░ß╗ƒng bß╗ƒ lß╗úi ├¡ch nh├│m cß╗ºa nh├á cß║ºm quyß╗ün\nNh├á n╞░ß╗¢c ─æ╞░ß╗úc sß╗ënh ra tß╗½ m├óu thuß║½n giai cß║Ñp -> ko thß╗â n├│i l├á ko c├│ li├¬n quan tß╗¢i giai cß║Ñp.\n\nH├ánh ph├íp: thß╗▒c h├ánh ph├íp luß║¡t -> do bß╗Ö t╞░ ph├íp thß╗▒c hiß╗çn\nThß╗▒c hiß╗çn nv ─æß║╖t ra tr'c cß╗ºa nh├á n╞░ß╗¢c -> chß╗⌐c n─âng.\n\nNh├á n╞░ß╗¢c Viß╗çt Nam l├á nh├á n╞░ß╗¢c ─æ╞ín nhß║Ñt - not cß╗Öng h├▓a\n\n---\n\n## Kh├íi Niß╗çm Chung\n\n0. **Quß╗æc Hß╗Öi**\n\tc╞í quan quyß╗ün lß╗▒c nh├á n╞░ß╗¢c cao nhß║Ñt tß║íi Viß╗çt Nam, ─æß║íi diß╗çn cho ├╜ ch├¡ v├á nguyß╗çn vß╗ìng cß╗ºa nh├ón d├ón.\n+ Monitor (Gi├ím s├ít) Ch├¡nh Phß╗º, Quß╗æc hß╗Öi **th├┤ng qua c├íc nghß╗ï quyß║┐t, chß╗ë ─æß║ío Ch├¡nh phß╗º thß╗▒c hiß╗çn c├íc ch├¡nh s├ích lß╗¢n** cß╗ºa ─æß║Ñt n╞░ß╗¢c (ch├¡nh phß╗º c├┤ng bß╗æ, quß╗æc hß╗Öi ban h├ánh (Like a CEO and a bunch of sub-CEO))\n\n\n\n\n2. **Nh├á n╞░ß╗¢c ph├íp quyß╗ün**\n- m├┤ h├¼nh nh├á n╞░ß╗¢c trong ─æ├│ mß╗ìi hoß║ít ─æß╗Öng nh├á nc ─æß╗üu phß║úi tu├ón thß╗º theo ph├íp luß║¡t.\n\n3. **Hiß║┐n ph├íp**\n+ **v─ân bß║ún ph├íp l├╜ cao nhß║Ñt cß╗ºa 1 quß╗æc gia**, quy ─æß╗ïnh vß╗ü nhß╗»ng quy tß║»c c╞í bß║ún vß╗ü tß╗ò chß╗⌐c nh├á n╞░ß╗¢c, quyß╗ün, ngh─⌐a vß╗Ñ c╞í bß║ún cß╗ºa c├┤ng d├ón, v├á c├íc mqh bß║ún trong x├ú hß╗Öi\n+ $ Lß║¡p hiß║┐n v├á Hiß║┐n ph├íp ─æ╞░ß╗úc **ban h├ánh** bß╗ƒi **Quß╗æc Hß╗Öi**, nh╞░ng ─æ╞░╞íc **C├┤ng Bß╗æ** bß╗ƒi **Chß╗º Tß╗ïch N╞░ß╗¢c**.\n\n\n4. **Luß║¡t**\n"
+    },
+    {
+      "filename": "Vietnam party history.md",
+      "relative_path": "Project_Skin/Vietnam party history.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Project_Skin\\Vietnam party history.md",
+      "size_bytes": 686,
+      "content_preview": "**Phong tr├áo y├¬u n╞░ß╗¢c**\n![[Pasted image 20241110205309.png]]\n\n**Luß║¡n C╞░╞íng**  \n![[Pasted image 20241110211412.png]]\n\n**L├¬ Hß╗ông Phong**\n![[Pasted image 20241110211521.png]]\n\n**Chß╗º tr╞░╞íng tß║¡p hß╗úp lß╗▒c l╞░ß╗úng c├ích mß║íng**\n![[Pasted image 20241110211851.png]]\n\n**Tß║Ñt cß║ú c├íc ph╞░╞íng ├ín**\n![[Pasted image 20241110212506.png]]\n\n\n# Ch╞░╞íng 7\n**Ph├ít X├¡t**\nsth question\n\n**A, B, C, D**\n![[Pasted image 20241110220803.png]]\n\n# Ch╞░╞íng 8\n![[Pasted image 20241110224337.png]]\n\n![[Pasted image 20241110224427.png]]\n\n![[Pasted image 20241110224511.png]]\n\n![[Pasted image 20241110224555.png]]\n\n![[Pasted image 20241110224631.png]]\n\n"
+    }
+  ],
+  "existing_categories": [
+    "2_ACTIONS",
+    "4_ARCHIVES",
+    "3_RESOURCES/Artificial Intelligent/AWS & Cloud",
+    "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+    "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+    "3_RESOURCES/Artificial Intelligent/Computer Vision",
+    "3_RESOURCES/Artificial Intelligent/Mathematics",
+    "3_RESOURCES/Artificial Intelligent/Deep Learning",
+    "3_RESOURCES/Artificial Intelligent/Machine Learning"
+  ],
+  "ai_classified": [
+    {
+      "filename": "AI Engineering Job.md",
+      "relative_path": "Project_Skin/AI Engineering Job.md",
+      "category": "3 RESOURCES/Software Engineer",
+      "summary": "This document outlines career requirements and skillsets for junior and fresher machine learning engineer roles. It details technical expectations and job profiles within the artificial intelligence sector.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Array vs ArrayList vs List and ListIterator.md",
+      "relative_path": "Project_Skin/Array vs ArrayList vs List and ListIterator.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This reference guide explains the distinctions, performance tradeoffs, and characteristics of Java collections including Array, ArrayList, List, and ListIterator. Code snippets demonstrate instantiation and usage of these data structures in Java applications.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Audiophile.md",
+      "relative_path": "Project_Skin/Audiophile.md",
+      "category": "3 RESOURCES/Save for later",
+      "summary": "This document compiles earbud rankings, prices, and purchasing options for high-fidelity in-ear monitors. It lists audio tracks and contenders such as Simgot and Kefine Delci for sound testing.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Building PC.md",
+      "relative_path": "Project_Skin/Building PC.md",
+      "category": "3 RESOURCES/Save for later",
+      "summary": "This budget planner lists computer components, costs, and hardware specifications for assembling a personal computer with an RTX 5060 Ti graphics card. It details trade-offs between central processing units and power supply selections to avoid cost inflation.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Classification Bayes.md",
+      "relative_path": "Project_Skin/Classification Bayes.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This educational note details the mathematical formulations and probability variables of the Naive Bayes classification algorithm. It uses conditional probability equations and feature dataset examples to explain the assumption of independence between attributes.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Classification Ensemble.md",
+      "relative_path": "Project_Skin/Classification Ensemble.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This study sheet summarizes ensemble learning methodologies including hard and soft voting classifiers. It describes support vector machines, image gradients, and histogram of oriented gradients used in face recognition algorithms.",
+      "confidence": "high"
+    },
+    {
+      "filename": "CrackNitendoGames.md",
+      "relative_path": "Project_Skin/CrackNitendoGames.md",
+      "category": "3 RESOURCES/How to",
+      "summary": "This guide outlines the download and installation steps for the Ryujinx Nintendo Switch emulator. It provides instructions for importing product keys and installing system firmware to run games.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Dev anime Story.md",
+      "relative_path": "Project_Skin/Dev anime Story.md",
+      "category": "3 RESOURCES/Happiness",
+      "summary": "This humorous narrative describes the daily workspace experiences and personal pursuits of a backend Java developer. It portrays interactions with human resources personnel and quality assurance colleagues in a corporate setting.",
+      "confidence": "high"
+    },
+    {
+      "filename": "DM.md",
+      "relative_path": "Project_Skin/DM.md",
+      "category": "3 RESOURCES/Question Mark",
+      "summary": "This blank markdown document does not contain any text content or structural elements. It serves as an empty placeholder file in the active repository.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Docker MSSQL.md",
+      "relative_path": "Project_Skin/Docker MSSQL.md",
+      "category": "3 RESOURCES/DataBase",
+      "summary": "This reference guide provides configuration commands and templates for deploying Microsoft SQL Server inside Docker containers. It includes Java Spring Boot repository code and docker-compose database service setups.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Docker PostgresSQL.md",
+      "relative_path": "Project_Skin/Docker PostgresSQL.md",
+      "category": "3 RESOURCES/DataBase",
+      "summary": "This deployment note explains how to manage PostgreSQL database servers using Docker containers and the Windows Services utility. It details commands for checking container status and addresses connection timeout resolutions.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Dynamic Memory Allocation.md",
+      "relative_path": "Project_Skin/Dynamic Memory Allocation.md",
+      "category": "3 RESOURCES/Question Mark",
+      "summary": "This blank markdown document does not contain any text content or structural elements. It serves as an empty placeholder file in the active repository.",
+      "confidence": "high"
+    },
+    {
+      "filename": "English Club.md",
+      "relative_path": "Project_Skin/English Club.md",
+      "category": "3 RESOURCES/Question Mark",
+      "summary": "This placeholder document is intended for tracking language learning sessions or English club activities. It currently contains no descriptive text or schedules.",
+      "confidence": "high"
+    },
+    {
+      "filename": "enum class.md",
+      "relative_path": "Project_Skin/enum class.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This programming reference defines the concept of Java enumerations used to represent groups of constant variables. It provides code examples demonstrating enum declaration and usage in software applications.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Flutter.md",
+      "relative_path": "Project_Skin/Flutter.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This technical guide outlines the setup and initialization steps for Flutter mobile and web applications. It details configurations for the Android SDK manager, emulator execution, and standard UI widgets.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Full Stack Java.md",
+      "relative_path": "Project_Skin/Full Stack Java.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This reference document outlines the steps for creating a full-stack web application using the Java Spring Boot framework. It provides sample code for model classes, including attributes, constructors, and encapsulation methods.",
+      "confidence": "high"
+    },
+    {
+      "filename": "German History.md",
+      "relative_path": "Project_Skin/German History.md",
+      "category": "3 RESOURCES/History & Politic",
+      "summary": "This historical note describes the socio-economic impact of the Treaty of Versailles on the German population after World War I. It also examines post-war educational practices and cultural mechanisms for coping with historical events.",
+      "confidence": "high"
+    },
+    {
+      "filename": "German Learning Core.md",
+      "relative_path": "Project_Skin/German Learning Core.md",
+      "category": "3 RESOURCES/Productivity & Improvement",
+      "summary": "This study guide outlines scientific strategies and core methodologies for acquiring German language proficiency from levels A1 to C2. It highlights skills in reading, listening, and speaking while emphasizing vocabulary acquisition over word-by-word memorization.",
+      "confidence": "high"
+    },
+    {
+      "filename": "German Song.md",
+      "relative_path": "Project_Skin/German Song.md",
+      "category": "3 RESOURCES/Save for later",
+      "summary": "This document records the German lyrics and English translations of an anime-themed pop song by artist Selphius. It provides literal translations for language practice and appreciation.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Germanic Language.md",
+      "relative_path": "Project_Skin/Germanic Language.md",
+      "category": "3 RESOURCES/Productivity & Improvement",
+      "summary": "This linguistic note analyzes common structural characteristics of Germanic languages, highlighting English definite nouns and word order constraints. It specifically explains the V2 verb placement rule in sentence constructions.",
+      "confidence": "high"
+    },
+    {
+      "filename": "House of Hypertrophy.md",
+      "relative_path": "Project_Skin/House of Hypertrophy.md",
+      "category": "3 RESOURCES/Productivity & Improvement",
+      "summary": "This athletic guide outlines training techniques and scientific studies focused on calisthenics and muscle hypertrophy. It details the execution of lengthened supersets, full-range pushups, and partial movements for optimized muscle growth.",
+      "confidence": "high"
+    },
+    {
+      "filename": "How to build a web application in Java.md",
+      "relative_path": "Project_Skin/How to build a web application in Java.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This technical walkthrough details the structural architecture of a Java Web Model-View-Controller application. It provides code models using record classes, enums, and command-line runners to build REST API endpoints.",
+      "confidence": "high"
+    },
+    {
+      "filename": "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "relative_path": "Project_Skin/How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "category": "3 RESOURCES/How to",
+      "summary": "This system administration guide explains how to activate the Group Policy Editor utility on Windows 11 Home Edition. It provides a batch script utilizing deployment image servicing commands to install missing policy packages.",
+      "confidence": "high"
+    },
+    {
+      "filename": "IELST LISTENING.md",
+      "relative_path": "Project_Skin/IELST LISTENING.md",
+      "category": "3 RESOURCES/Question Mark",
+      "summary": "This blank markdown document does not contain any text content or structural elements. It serves as an empty placeholder file in the active repository.",
+      "confidence": "high"
+    },
+    {
+      "filename": "IELST Reading Note.md",
+      "relative_path": "Project_Skin/IELST Reading Note.md",
+      "category": "3 RESOURCES/Question Mark",
+      "summary": "This brief document is a placeholder designed for recording academic reading notes and vocabulary. It currently contains no substantive educational materials or study plans.",
+      "confidence": "high"
+    },
+    {
+      "filename": "IELST Writing Task Guide.md",
+      "relative_path": "Project_Skin/IELST Writing Task Guide.md",
+      "category": "3 RESOURCES/How to",
+      "summary": "This guide contains scoring criteria, structures, and stylistic rules for the writing portion of the IELTS exam. Specific guidelines outline body paragraph composition, bar graph descriptions, and linking phrases.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Learn Languages FAST.md",
+      "relative_path": "Project_Skin/Learn Languages FAST.md",
+      "category": "3 RESOURCES/How to",
+      "summary": "This document details mnemonic methodologies, accent training routines, and military language acquisition structures. Textual segments analyze code-switching exercises and spy immersion techniques.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Learn ReactNative.md",
+      "relative_path": "Project_Skin/Learn ReactNative.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This empty file serves as a dedicated placeholder for React Native application development and code snippet documentation. No programming data is currently active.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Learning Thourgh Videos.md",
+      "relative_path": "Project_Skin/Learning Thourgh Videos.md",
+      "category": "3 RESOURCES/How to",
+      "summary": "This notebook lists German vocabulary translations, focusing on nouns, adjectives, and prepositions from street interview videos. Example entries analyze terms for sleep quality, cycling infrastructure, and traffic safety.",
+      "confidence": "high"
+    },
+    {
+      "filename": "LOL.md",
+      "relative_path": "Project_Skin/LOL.md",
+      "category": "3 RESOURCES/Save for later",
+      "summary": "This guide details combat strategies, lane behaviors, and match scheduling tactics for League of Legends gameplay. It provides decision frameworks for gold farming and champion positioning.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
+      "relative_path": "Project_Skin/Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
+      "category": "3 RESOURCES/History & Politic",
+      "summary": "This empty file acts as a structural placeholder for legal notes regarding civil code systems and civil procedure regulations. No statutory references or legal annotations are currently written.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Pasted image 20260329085207.png.md",
+      "relative_path": "Project_Skin/Pasted image 20260329085207.png.md",
+      "category": "4 ARCHIVES",
+      "summary": "This file serves as a blank wrapper for a pasted image attachment within the vault. The document contains no descriptive annotations or text blocks.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Personal Portfolio.md",
+      "relative_path": "Project_Skin/Personal Portfolio.md",
+      "category": "1 PROJECTS",
+      "summary": "This template compiles framework options, layout guides, and coding prompts for building a portfolio website using Gatsby and Netlify. Specific inspirations detail minimalist footers and terminal visual themes.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Pháp Luật.md",
+      "relative_path": "Project_Skin/Pháp Luật.md",
+      "category": "3 RESOURCES/History & Politic",
+      "summary": "This study guide outlines system hierarchies, constitutional laws, and legal liability definitions within the Vietnamese legal framework. Specific sections differentiate administrative violations and subjective culpability.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Python Command.md",
+      "relative_path": "Project_Skin/Python Command.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This sheet lists basic Python code blocks and an item class syntax for testing variable datatypes. It provides a simple syntax reference template.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Python OOP.md",
+      "relative_path": "Project_Skin/Python OOP.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This guide explains classes, constructors, methods, and instantiation procedures in Python Object-Oriented Programming. Sample scripts illustrate member attributes, memory addresses, and return functions.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Quản Lý Hành Chính Nhà Nước.md",
+      "relative_path": "Project_Skin/Quản Lý Hành Chính Nhà Nước.md",
+      "category": "3 RESOURCES/History & Politic",
+      "summary": "This file is a placeholder designated for study notes on administrative state management systems. The document contains no active text or outlines.",
+      "confidence": "high"
+    },
+    {
+      "filename": "React.md",
+      "relative_path": "Project_Skin/React.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This document functions as an empty repository for React library code blocks and component structures. No program scripts are currently registered.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Requirement to understand this sentence.md",
+      "relative_path": "Project_Skin/Requirement to understand this sentence.md",
+      "category": "3 RESOURCES/How to",
+      "summary": "This grammar resource breaks down German case systems, word orders, and verb conjugations through a sample breakfast sentence. It details preposition contractions, adverbs, and pronoun structures.",
+      "confidence": "high"
+    },
+    {
+      "filename": "SD HW2.md",
+      "relative_path": "Project_Skin/SD HW2.md",
+      "category": "3 RESOURCES/Software Engineer",
+      "summary": "This assignment analyzes user story guidelines and wireframe specifications within Software Requirements Specifications (SRS). It evaluates use case models and system development methodologies.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Software Deployment Project.md",
+      "relative_path": "Project_Skin/Software Deployment Project.md",
+      "category": "3 RESOURCES/Software Engineer",
+      "summary": "This development sheet provides a user story template and acceptance criteria for a forgot-password screen. It details sequential interface steps and verification flows.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Stress-Free Productivity.md",
+      "relative_path": "Project_Skin/Stress-Free Productivity.md",
+      "category": "3 RESOURCES/How to",
+      "summary": "This book review details psychological frameworks for balancing habit efficiency, creative growth, and subjective well-being. It critiques rigid daily routines and analyzes cognitive performance mechanics.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Todo.md",
+      "relative_path": "Project_Skin/Todo.md",
+      "category": "2 ACTIONS",
+      "summary": "This personal organizer tracks task priorities, fitness goals, and learning curricula across machine learning and communications. It catalogs educational bookmarks and behavioral habits.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Transaction with Authentication - JAVA.md",
+      "relative_path": "Project_Skin/Transaction with Authentication - JAVA.md",
+      "category": "3 RESOURCES/Programming",
+      "summary": "This technical specification outlines Java authentication steps and database transactions for user balance deductions. A text flow diagram illustrates validation checkpoints and abort sequences.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Tòng Hợp LS Đảng.md",
+      "relative_path": "Project_Skin/Tòng Hợp LS Đảng.md",
+      "category": "3 RESOURCES/History & Politic",
+      "summary": "This comprehensive compilation registers historical milestones, party conferences, and strategic guidelines of the Vietnamese Communist Party. It catalogs revolutionary timelines, military actions, and leadership changes.",
+      "confidence": "high"
+    },
+    {
+      "filename": "UI with Coding Agent.md",
+      "relative_path": "Project_Skin/UI with Coding Agent.md",
+      "category": "3 RESOURCES/Save for later",
+      "summary": "This catalog outlines prompts and design aesthetics for landing pages generated via automated coding tools. It lists parameters for Swiss minimalism, glassmorphism, and Neobrutalism.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Untitled.md",
+      "relative_path": "Project_Skin/Untitled.md",
+      "category": "4 ARCHIVES",
+      "summary": "This file is a blank document containing no system text, tags, or headers. It acts as an uninitialized placeholder.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Venture Capital.md",
+      "relative_path": "Project_Skin/Venture Capital.md",
+      "category": "3 RESOURCES/Save for later",
+      "summary": "This file serves as a placeholder for notes on funding strategies, investment rounds, and portfolio valuations. No financial content is currently recorded.",
+      "confidence": "high"
+    },
+    {
+      "filename": "VIetnam General Law Revision.md",
+      "relative_path": "Project_Skin/VIetnam General Law Revision.md",
+      "category": "3 RESOURCES/History & Politic",
+      "summary": "This revision guide outlines constitutional laws, state agencies, and parliamentary structures in Vietnam. It analyzes court jurisdictions, election rules, and administrative roles.",
+      "confidence": "high"
+    },
+    {
+      "filename": "Vietnam party history.md",
+      "relative_path": "Project_Skin/Vietnam party history.md",
+      "category": "3 RESOURCES/History & Politic",
+      "summary": "This document archives diagrams, leadership notes, and chapter summaries regarding the political history of the Vietnamese revolutionary party. Specific topics outline party leaders and historical timelines.",
+      "confidence": "high"
+    }
+  ]
+}

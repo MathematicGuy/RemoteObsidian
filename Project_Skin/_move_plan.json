@@ -1,0 +1,587 @@
+{
+  "generated_at": "2026-05-27T17:31:57.033021+00:00",
+  "vault_root": "D:\\Personlich\\RemoteObsidian",
+  "total_moves": 58,
+  "moves": [
+    {
+      "filename": "Calisthenics Dip.md",
+      "source": "Project_Skin/Calisthenics Dip.md",
+      "destination": "Project_Skin/2_ACTIONS/Calisthenics Dip.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": true
+    },
+    {
+      "filename": "german friend prompts.md",
+      "source": "Project_Skin/german friend prompts.md",
+      "destination": "Project_Skin/3_RESOURCES/Artificial Intelligent/NLP & RAG/german friend prompts.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": true
+    },
+    {
+      "filename": "GoalsThisMonth.md",
+      "source": "Project_Skin/GoalsThisMonth.md",
+      "destination": "Project_Skin/2_ACTIONS/GoalsThisMonth.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "GoalsThisWeek.md",
+      "source": "Project_Skin/GoalsThisWeek.md",
+      "destination": "Project_Skin/2_ACTIONS/GoalsThisWeek.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": true
+    },
+    {
+      "filename": "ML & DM HW1.md",
+      "source": "Project_Skin/ML & DM HW1.md",
+      "destination": "Project_Skin/3_RESOURCES/Artificial Intelligent/Machine Learning/ML & DM HW1.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": true
+    },
+    {
+      "filename": "Prompt Engineering.md",
+      "source": "Project_Skin/Prompt Engineering.md",
+      "destination": "Project_Skin/3_RESOURCES/Artificial Intelligent/NLP & RAG/Prompt Engineering.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": true
+    },
+    {
+      "filename": "Storing Files in a Database with Spring Boot.md",
+      "source": "Project_Skin/Storing Files in a Database with Spring Boot.md",
+      "destination": "Project_Skin/3_RESOURCES/Artificial Intelligent/Big Data & Databases/Storing Files in a Database with Spring Boot.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Writing CV Skill.md",
+      "source": "Project_Skin/Writing CV Skill.md",
+      "destination": "Project_Skin/2_ACTIONS/Writing CV Skill.md",
+      "method": "heuristic",
+      "confidence": "high",
+      "summary": "",
+      "keywords": [],
+      "collision": true
+    },
+    {
+      "filename": "AI Engineering Job.md",
+      "source": "Project_Skin/AI Engineering Job.md",
+      "destination": "Project_Skin/3 RESOURCES/Software Engineer/AI Engineering Job.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This document outlines career requirements and skillsets for junior and fresher machine learning engineer roles. It details technical expectations and job profiles within the artificial intelligence sector.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Array vs ArrayList vs List and ListIterator.md",
+      "source": "Project_Skin/Array vs ArrayList vs List and ListIterator.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Array vs ArrayList vs List and ListIterator.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This reference guide explains the distinctions, performance tradeoffs, and characteristics of Java collections including Array, ArrayList, List, and ListIterator. Code snippets demonstrate instantiation and usage of these data structures in Java applications.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Audiophile.md",
+      "source": "Project_Skin/Audiophile.md",
+      "destination": "Project_Skin/3 RESOURCES/Save for later/Audiophile.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This document compiles earbud rankings, prices, and purchasing options for high-fidelity in-ear monitors. It lists audio tracks and contenders such as Simgot and Kefine Delci for sound testing.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Building PC.md",
+      "source": "Project_Skin/Building PC.md",
+      "destination": "Project_Skin/3 RESOURCES/Save for later/Building PC.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This budget planner lists computer components, costs, and hardware specifications for assembling a personal computer with an RTX 5060 Ti graphics card. It details trade-offs between central processing units and power supply selections to avoid cost inflation.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Classification Bayes.md",
+      "source": "Project_Skin/Classification Bayes.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Classification Bayes.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This educational note details the mathematical formulations and probability variables of the Naive Bayes classification algorithm. It uses conditional probability equations and feature dataset examples to explain the assumption of independence between attributes.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Classification Ensemble.md",
+      "source": "Project_Skin/Classification Ensemble.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Classification Ensemble.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This study sheet summarizes ensemble learning methodologies including hard and soft voting classifiers. It describes support vector machines, image gradients, and histogram of oriented gradients used in face recognition algorithms.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "CrackNitendoGames.md",
+      "source": "Project_Skin/CrackNitendoGames.md",
+      "destination": "Project_Skin/3 RESOURCES/How to/CrackNitendoGames.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This guide outlines the download and installation steps for the Ryujinx Nintendo Switch emulator. It provides instructions for importing product keys and installing system firmware to run games.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Dev anime Story.md",
+      "source": "Project_Skin/Dev anime Story.md",
+      "destination": "Project_Skin/3 RESOURCES/Happiness/Dev anime Story.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This humorous narrative describes the daily workspace experiences and personal pursuits of a backend Java developer. It portrays interactions with human resources personnel and quality assurance colleagues in a corporate setting.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "DM.md",
+      "source": "Project_Skin/DM.md",
+      "destination": "Project_Skin/3 RESOURCES/Question Mark/DM.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This blank markdown document does not contain any text content or structural elements. It serves as an empty placeholder file in the active repository.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Docker MSSQL.md",
+      "source": "Project_Skin/Docker MSSQL.md",
+      "destination": "Project_Skin/3 RESOURCES/DataBase/Docker MSSQL.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This reference guide provides configuration commands and templates for deploying Microsoft SQL Server inside Docker containers. It includes Java Spring Boot repository code and docker-compose database service setups.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Docker PostgresSQL.md",
+      "source": "Project_Skin/Docker PostgresSQL.md",
+      "destination": "Project_Skin/3 RESOURCES/DataBase/Docker PostgresSQL.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This deployment note explains how to manage PostgreSQL database servers using Docker containers and the Windows Services utility. It details commands for checking container status and addresses connection timeout resolutions.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Dynamic Memory Allocation.md",
+      "source": "Project_Skin/Dynamic Memory Allocation.md",
+      "destination": "Project_Skin/3 RESOURCES/Question Mark/Dynamic Memory Allocation.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This blank markdown document does not contain any text content or structural elements. It serves as an empty placeholder file in the active repository.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "English Club.md",
+      "source": "Project_Skin/English Club.md",
+      "destination": "Project_Skin/3 RESOURCES/Question Mark/English Club.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This placeholder document is intended for tracking language learning sessions or English club activities. It currently contains no descriptive text or schedules.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "enum class.md",
+      "source": "Project_Skin/enum class.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/enum class.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This programming reference defines the concept of Java enumerations used to represent groups of constant variables. It provides code examples demonstrating enum declaration and usage in software applications.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Flutter.md",
+      "source": "Project_Skin/Flutter.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Flutter.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This technical guide outlines the setup and initialization steps for Flutter mobile and web applications. It details configurations for the Android SDK manager, emulator execution, and standard UI widgets.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Full Stack Java.md",
+      "source": "Project_Skin/Full Stack Java.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Full Stack Java.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This reference document outlines the steps for creating a full-stack web application using the Java Spring Boot framework. It provides sample code for model classes, including attributes, constructors, and encapsulation methods.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "German History.md",
+      "source": "Project_Skin/German History.md",
+      "destination": "Project_Skin/3 RESOURCES/History & Politic/German History.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This historical note describes the socio-economic impact of the Treaty of Versailles on the German population after World War I. It also examines post-war educational practices and cultural mechanisms for coping with historical events.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "German Learning Core.md",
+      "source": "Project_Skin/German Learning Core.md",
+      "destination": "Project_Skin/3 RESOURCES/Productivity & Improvement/German Learning Core.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This study guide outlines scientific strategies and core methodologies for acquiring German language proficiency from levels A1 to C2. It highlights skills in reading, listening, and speaking while emphasizing vocabulary acquisition over word-by-word memorization.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "German Song.md",
+      "source": "Project_Skin/German Song.md",
+      "destination": "Project_Skin/3 RESOURCES/Save for later/German Song.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This document records the German lyrics and English translations of an anime-themed pop song by artist Selphius. It provides literal translations for language practice and appreciation.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Germanic Language.md",
+      "source": "Project_Skin/Germanic Language.md",
+      "destination": "Project_Skin/3 RESOURCES/Productivity & Improvement/Germanic Language.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This linguistic note analyzes common structural characteristics of Germanic languages, highlighting English definite nouns and word order constraints. It specifically explains the V2 verb placement rule in sentence constructions.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "House of Hypertrophy.md",
+      "source": "Project_Skin/House of Hypertrophy.md",
+      "destination": "Project_Skin/3 RESOURCES/Productivity & Improvement/House of Hypertrophy.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This athletic guide outlines training techniques and scientific studies focused on calisthenics and muscle hypertrophy. It details the execution of lengthened supersets, full-range pushups, and partial movements for optimized muscle growth.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "How to build a web application in Java.md",
+      "source": "Project_Skin/How to build a web application in Java.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/How to build a web application in Java.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This technical walkthrough details the structural architecture of a Java Web Model-View-Controller application. It provides code models using record classes, enums, and command-line runners to build REST API endpoints.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "source": "Project_Skin/How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "destination": "Project_Skin/3 RESOURCES/How to/How to Enable Group Policy Editor in Windows 11 Home Edition.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This system administration guide explains how to activate the Group Policy Editor utility on Windows 11 Home Edition. It provides a batch script utilizing deployment image servicing commands to install missing policy packages.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "IELST LISTENING.md",
+      "source": "Project_Skin/IELST LISTENING.md",
+      "destination": "Project_Skin/3 RESOURCES/Question Mark/IELST LISTENING.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This blank markdown document does not contain any text content or structural elements. It serves as an empty placeholder file in the active repository.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "IELST Reading Note.md",
+      "source": "Project_Skin/IELST Reading Note.md",
+      "destination": "Project_Skin/3 RESOURCES/Question Mark/IELST Reading Note.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This brief document is a placeholder designed for recording academic reading notes and vocabulary. It currently contains no substantive educational materials or study plans.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "IELST Writing Task Guide.md",
+      "source": "Project_Skin/IELST Writing Task Guide.md",
+      "destination": "Project_Skin/3 RESOURCES/How to/IELST Writing Task Guide.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This guide contains scoring criteria, structures, and stylistic rules for the writing portion of the IELTS exam. Specific guidelines outline body paragraph composition, bar graph descriptions, and linking phrases.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Learn Languages FAST.md",
+      "source": "Project_Skin/Learn Languages FAST.md",
+      "destination": "Project_Skin/3 RESOURCES/How to/Learn Languages FAST.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This document details mnemonic methodologies, accent training routines, and military language acquisition structures. Textual segments analyze code-switching exercises and spy immersion techniques.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Learn ReactNative.md",
+      "source": "Project_Skin/Learn ReactNative.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Learn ReactNative.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This empty file serves as a dedicated placeholder for React Native application development and code snippet documentation. No programming data is currently active.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Learning Thourgh Videos.md",
+      "source": "Project_Skin/Learning Thourgh Videos.md",
+      "destination": "Project_Skin/3 RESOURCES/How to/Learning Thourgh Videos.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This notebook lists German vocabulary translations, focusing on nouns, adjectives, and prepositions from street interview videos. Example entries analyze terms for sleep quality, cycling infrastructure, and traffic safety.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "LOL.md",
+      "source": "Project_Skin/LOL.md",
+      "destination": "Project_Skin/3 RESOURCES/Save for later/LOL.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This guide details combat strategies, lane behaviors, and match scheduling tactics for League of Legends gameplay. It provides decision frameworks for gold farming and champion positioning.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
+      "source": "Project_Skin/Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
+      "destination": "Project_Skin/3 RESOURCES/History & Politic/Luật Dân Sự và Luật Tố Tụng Dân Sự.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This empty file acts as a structural placeholder for legal notes regarding civil code systems and civil procedure regulations. No statutory references or legal annotations are currently written.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Pasted image 20260329085207.png.md",
+      "source": "Project_Skin/Pasted image 20260329085207.png.md",
+      "destination": "Project_Skin/4 ARCHIVES/Pasted image 20260329085207.png.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This file serves as a blank wrapper for a pasted image attachment within the vault. The document contains no descriptive annotations or text blocks.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Personal Portfolio.md",
+      "source": "Project_Skin/Personal Portfolio.md",
+      "destination": "Project_Skin/1 PROJECTS/Personal Portfolio.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This template compiles framework options, layout guides, and coding prompts for building a portfolio website using Gatsby and Netlify. Specific inspirations detail minimalist footers and terminal visual themes.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Pháp Luật.md",
+      "source": "Project_Skin/Pháp Luật.md",
+      "destination": "Project_Skin/3 RESOURCES/History & Politic/Pháp Luật.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This study guide outlines system hierarchies, constitutional laws, and legal liability definitions within the Vietnamese legal framework. Specific sections differentiate administrative violations and subjective culpability.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Python Command.md",
+      "source": "Project_Skin/Python Command.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Python Command.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This sheet lists basic Python code blocks and an item class syntax for testing variable datatypes. It provides a simple syntax reference template.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Python OOP.md",
+      "source": "Project_Skin/Python OOP.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Python OOP.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This guide explains classes, constructors, methods, and instantiation procedures in Python Object-Oriented Programming. Sample scripts illustrate member attributes, memory addresses, and return functions.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Quản Lý Hành Chính Nhà Nước.md",
+      "source": "Project_Skin/Quản Lý Hành Chính Nhà Nước.md",
+      "destination": "Project_Skin/3 RESOURCES/History & Politic/Quản Lý Hành Chính Nhà Nước.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This file is a placeholder designated for study notes on administrative state management systems. The document contains no active text or outlines.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "React.md",
+      "source": "Project_Skin/React.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/React.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This document functions as an empty repository for React library code blocks and component structures. No program scripts are currently registered.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Requirement to understand this sentence.md",
+      "source": "Project_Skin/Requirement to understand this sentence.md",
+      "destination": "Project_Skin/3 RESOURCES/How to/Requirement to understand this sentence.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This grammar resource breaks down German case systems, word orders, and verb conjugations through a sample breakfast sentence. It details preposition contractions, adverbs, and pronoun structures.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "SD HW2.md",
+      "source": "Project_Skin/SD HW2.md",
+      "destination": "Project_Skin/3 RESOURCES/Software Engineer/SD HW2.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This assignment analyzes user story guidelines and wireframe specifications within Software Requirements Specifications (SRS). It evaluates use case models and system development methodologies.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Software Deployment Project.md",
+      "source": "Project_Skin/Software Deployment Project.md",
+      "destination": "Project_Skin/3 RESOURCES/Software Engineer/Software Deployment Project.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This development sheet provides a user story template and acceptance criteria for a forgot-password screen. It details sequential interface steps and verification flows.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Stress-Free Productivity.md",
+      "source": "Project_Skin/Stress-Free Productivity.md",
+      "destination": "Project_Skin/3 RESOURCES/How to/Stress-Free Productivity.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This book review details psychological frameworks for balancing habit efficiency, creative growth, and subjective well-being. It critiques rigid daily routines and analyzes cognitive performance mechanics.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Todo.md",
+      "source": "Project_Skin/Todo.md",
+      "destination": "Project_Skin/2 ACTIONS/Todo.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This personal organizer tracks task priorities, fitness goals, and learning curricula across machine learning and communications. It catalogs educational bookmarks and behavioral habits.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Transaction with Authentication - JAVA.md",
+      "source": "Project_Skin/Transaction with Authentication - JAVA.md",
+      "destination": "Project_Skin/3 RESOURCES/Programming/Transaction with Authentication - JAVA.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This technical specification outlines Java authentication steps and database transactions for user balance deductions. A text flow diagram illustrates validation checkpoints and abort sequences.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Tòng Hợp LS Đảng.md",
+      "source": "Project_Skin/Tòng Hợp LS Đảng.md",
+      "destination": "Project_Skin/3 RESOURCES/History & Politic/Tòng Hợp LS Đảng.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This comprehensive compilation registers historical milestones, party conferences, and strategic guidelines of the Vietnamese Communist Party. It catalogs revolutionary timelines, military actions, and leadership changes.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "UI with Coding Agent.md",
+      "source": "Project_Skin/UI with Coding Agent.md",
+      "destination": "Project_Skin/3 RESOURCES/Save for later/UI with Coding Agent.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This catalog outlines prompts and design aesthetics for landing pages generated via automated coding tools. It lists parameters for Swiss minimalism, glassmorphism, and Neobrutalism.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Untitled.md",
+      "source": "Project_Skin/Untitled.md",
+      "destination": "Project_Skin/4 ARCHIVES/Untitled.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This file is a blank document containing no system text, tags, or headers. It acts as an uninitialized placeholder.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Venture Capital.md",
+      "source": "Project_Skin/Venture Capital.md",
+      "destination": "Project_Skin/3 RESOURCES/Save for later/Venture Capital.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This file serves as a placeholder for notes on funding strategies, investment rounds, and portfolio valuations. No financial content is currently recorded.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "VIetnam General Law Revision.md",
+      "source": "Project_Skin/VIetnam General Law Revision.md",
+      "destination": "Project_Skin/3 RESOURCES/History & Politic/VIetnam General Law Revision.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This revision guide outlines constitutional laws, state agencies, and parliamentary structures in Vietnam. It analyzes court jurisdictions, election rules, and administrative roles.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Vietnam party history.md",
+      "source": "Project_Skin/Vietnam party history.md",
+      "destination": "Project_Skin/3 RESOURCES/History & Politic/Vietnam party history.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "This document archives diagrams, leadership notes, and chapter summaries regarding the political history of the Vietnamese revolutionary party. Specific topics outline party leaders and historical timelines.",
+      "keywords": [],
+      "collision": false
+    }
+  ]
+}
