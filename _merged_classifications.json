@@ -1,0 +1,44 @@
+{
+  "vault_root": "D:\\Personlich\\RemoteObsidian",
+  "ai_root": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence",
+  "scan_timestamp": "2026-05-27T16:29:54.466982+00:00",
+  "total_unorganized": 4,
+  "heuristic_matched": [
+    {
+      "filename": "Biological-Neural-Networks.md",
+      "relative_path": "Artificial_Intelligence/Biological-Neural-Networks.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Biological-Neural-Networks.md",
+      "size_bytes": 860,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Gradient-Descent-Derivations.md",
+      "relative_path": "Artificial_Intelligence/Gradient-Descent-Derivations.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Gradient-Descent-Derivations.md",
+      "size_bytes": 725,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Transformers-Optimization.md",
+      "relative_path": "Artificial_Intelligence/Transformers-Optimization.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Transformers-Optimization.md",
+      "size_bytes": 645,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    }
+  ],
+  "ai_classified": [
+    {
+      "filename": "Quantum-Computing-Foundations.md",
+      "relative_path": "Artificial_Intelligence/Quantum-Computing-Foundations.md",
+      "category": "3_RESOURCES/Quantum Computing",
+      "summary": "Covers mathematical foundations of qubits in superposition and quantum entanglement. Analyzes Shor's algorithm for prime factorization in polynomial time.",
+      "confidence": "high"
+    }
+  ]
+}
