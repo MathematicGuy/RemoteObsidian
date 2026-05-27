@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/Flow.md"
+summary: "Breaks down the psychological cycle of entering flow through struggle, release, and active recovery. Suggests using active recovery like sauna, ice baths, and sleep to lower static load."
+keywords: ["flow state", "struggle", "active recovery", "resilience"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.794557+00:00"
+---
 ![[Pasted image 20241017164510.png]]
 Pushing through struggle is the key to flow. 
 

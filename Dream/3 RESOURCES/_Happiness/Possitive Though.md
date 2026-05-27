@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Happiness/Possitive Though.md"
+summary: "Compiles Vietnamese notes on daily study hacks, positive habits, and productivity rules. Recommends library studying, sleep prioritization, and setting singular focused goals."
+keywords: ["daily habits", "vietnamese note", "learning efficiency", "focus"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.806566+00:00"
+---
 Đột nhiên phát hiện ra những người học giỏi thực chất là những người...
 
 1. Ngủ thật ngon, hạn chế thức khuya

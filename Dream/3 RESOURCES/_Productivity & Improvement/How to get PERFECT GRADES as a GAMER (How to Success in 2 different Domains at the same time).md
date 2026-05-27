@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md"
+summary: "Details strategies for balancing academic excellence with gaming. Emphasizes prioritizing sleep, avoiding late-night gaming, and Cal Newport's concept of high-compound single-focus days."
+keywords: ["cal newport", "deep work", "sleep quality", "gaming balance"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.795557+00:00"
+---
 
 ## 1) Sleep
 > **Prioritize Sleep above everything else**. The best medicine for enhance your focus and creativity. (If you have time to play, you have time to sleep)

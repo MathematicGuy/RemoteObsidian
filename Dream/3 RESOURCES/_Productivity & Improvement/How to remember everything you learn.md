@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/How to remember everything you learn.md"
+summary: "Critiques the illusions of competence and offers active memory retrieval strategies. Recommends active recall, spaced repetition, the Feynman technique, and selective deep learning."
+keywords: ["illusions of competence", "feynman technique", "active recall", "learning efficiency"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.796558+00:00"
+---
 Competent: capable (có năng lực)
 Incompetent: incapable (ko có năng lực)
 

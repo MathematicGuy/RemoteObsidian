@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Happiness/Secret History Work.md"
+summary: "Analyzes the historical power relationships between central banks, wealth accumulation, and the creation of artificial scarcity. Contrasts stoic eudaimonia with modern scientific world views."
+keywords: ["financial history", "artificial scarcity", "central banking", "eudaimonia"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.813567+00:00"
+---
 Money is Power
 ppl give bank $ -> bank loan money to invest bc bank need money to pay back -> infinite money if the bank can just loan like that.
 

@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Question Mark/Riddle.md"
+summary: "Presents a classic ethical and moral bus stop dilemma used in job recruitment. Challenges the driver to choose between saving a dying old lady, returning a favor to a life-saving friend, or picking up their dream partner."
+keywords: ["riddle", "ethical dilemma", "decision making", "moral dilemma"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.811567+00:00"
+---
 
 You are driving along in your car on a wild,
 stormy night. You pass by a bus stop,and you

@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Happiness/22 lessons in 22 years.md"
+summary: "Compiles personal life lessons and psychological advice focusing on parenting, identity, and personal relationships. Highlights the importance of striving to be better rather than seeking perfection."
+keywords: ["life lessons", "philosophy", "journaling", "relationships"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.784558+00:00"
+---
 _Người viết viết bằng tiếng anh vì người viết ko muốn bạn đọc_
 
 1) It's your parents' first life too, be kind

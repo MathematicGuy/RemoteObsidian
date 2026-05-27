@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/Career Advices.md"
+summary: "Offers career advice centered on first-principles thinking, surrounding oneself with smart people, and high urgency iterations. Advocates for working in established successful companies before founding startups."
+keywords: ["first principles", "career advice", "urgency", "iteration"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.789559+00:00"
+---
 >Don't start your company and learn by doing, Find a company with some kind of success and learn from them first. Since most likely everyone in that company is smarter than you. Surrounded by great people, learn what is smart and start a business.
 
 **Prestige** (goes back to a **French word for Illusion and Latin word for playing trick)**, go to the place that have good result, not good places where you can't see good with your own eyes.

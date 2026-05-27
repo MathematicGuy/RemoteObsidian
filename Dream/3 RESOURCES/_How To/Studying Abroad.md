@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_How To/Studying Abroad.md"
+summary: "Offers a preparation guide for studying abroad in Germany, highlighting KIT University. Covers DAAD scholarships, financial proof requirements, and preparatory Studienkolleg details."
+keywords: ["studying abroad", "germany", "kit university", "scholarships"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.816564+00:00"
+---
 Studying Abroad:
 + Give brighter access to future company.
 + Not make you a better person (kind hearted kind) but a person who accepts opinion of others  and that there are different ways to get the same goal.

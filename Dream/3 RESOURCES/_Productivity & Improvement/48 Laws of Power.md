@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/48 Laws of Power.md"
+summary: "Summarizes Robert Greene's 48 laws of power and social influence. Covers strategies for reputation management, strategic silence, and appeal to self-interest."
+keywords: ["robert greene", "power dynamics", "reputation", "influence"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.786561+00:00"
+---
 
 A Book written by Robert Greene that offers a Series of Strategies for Obtaining and Maintaining Power in various situations. Here I leave you a summary of the 48 Laws:
 

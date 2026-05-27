@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Happiness/Shadow work.md"
+summary: "Introduces C.G. Jung's conceptual model of the psyche, detailing the Persona, Shadow, Anima/Animus, and Hero. Offers practical exercises for embracing the shadow and vulnerability."
+keywords: ["jungian psychology", "shadow work", "persona", "vulnerability"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.814560+00:00"
+---
 **Persona:** the mask u show the world
 **Anima/Animus:** your feminine/masculine energy
 **The Shadow:** the part of you that holds your untapped potential 

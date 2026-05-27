@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/CHANGES.md"
+summary: "Proposes a morning routine of waking up at 4:30 AM to build early momentum. Outlines coping mechanisms for managing ADHD through dopamine loops and interest-driven focus."
+keywords: ["morning routine", "adhd", "dopamine management", "productivity"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.790558+00:00"
+---
 # Wake up early everyday at 4h30 without feeling tired
 ## Have a Clear and Specific Reason to Wake Up
 Write down 3 most important task I want to do

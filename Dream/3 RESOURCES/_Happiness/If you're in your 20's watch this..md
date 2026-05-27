@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Happiness/If you're in your 20's watch this..md"
+summary: "Lists 25 developmental rules and mental pillars for young adults in their 20s. Recommends cold showers, calisthenics, credit card discipline, mentorship, and relationship tracking."
+keywords: ["young adult", "life rules", "personal growth", "relationships"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.799563+00:00"
+---
 1) Create 4 mental pillars around you by doing un-average thing like taking cold shower, do calisthenics, etc.. (protect your mental mind)
 2) You can be a victim but don't stay a victim
 3) Say you want a drink, don't wait for people to pour it on you - [Remember This by NF](https://www.youtube.com/watch?v=SNhOgS3BHjw)

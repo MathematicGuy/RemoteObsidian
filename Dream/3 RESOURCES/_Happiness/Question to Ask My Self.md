@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Happiness/Question to Ask My Self.md"
+summary: "Lists deep reflective questions analyzing childhood experiences, life purpose, and future self expectations. Encourages Stoic resilience and conscious, intentional living."
+keywords: ["self-reflection", "purpose", "identity", "stoicism"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.810566+00:00"
+---
 **If somebody gave me the box of everything I have ever lost what is the first thing I would look for ?**
 > My believe when my mother turn down to afford a programming course for me. I could have just ignore it and learn programming on youtube instead of being upset, blamming faults and forget that I'm the only one could set me free and sail the sea.
 

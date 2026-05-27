@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/_Focus.md"
+summary: "Details Igor Stravinsky's daily rules for young composers alongside a personal productivity checklist. Emphasizes daily consistent work, planning, and elimination of distractions."
+keywords: ["composition rules", "stravinsky", "focus", "daily routine"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.787556+00:00"
+---
 **Igor Stravinsky: Rules for young composers**
 1. Work daily, regardless of your mood.
 2. Plan your work in advance.

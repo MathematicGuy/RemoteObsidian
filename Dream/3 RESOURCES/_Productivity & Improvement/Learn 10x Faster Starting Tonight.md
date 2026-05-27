@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/Learn 10x Faster Starting Tonight.md"
+summary: "Presents scientific methods for boosting short-term and long-term memory. Highlights a Harvard study proving testing oneself significantly outperforms passive re-reading."
+keywords: ["memory retention", "active learning", "harvard study", "speed learning"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.802560+00:00"
+---
 ![[Pasted image 20250404175615.png]]
 This include 5 Major Methods
 

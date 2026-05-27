@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_How To/Make Any Conversation More Fun and Fulfilling.md"
+summary: "Details tactical communication skills for improving daily social interaction. Explains open-ended questions, reflective responses, paraphrasing, emotion labeling, and non-accusatory labeling."
+keywords: ["conversation skills", "social interaction", "reflective response", "empathy"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.804562+00:00"
+---
 ## Why Question Matter ? 
 [It doesn't hurt to ask: Question-asking increases liking](https://www.hbs.edu/ris/Publication%20Files/Huang%20et%20al%202017_6945bc5e-3b3e-4c0a-addd-254c9e603c60.pdf)
 

@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Productivity & Improvement/Cheat Code.md"
+summary: "Lists cognitive 'cheat codes' for memory, stress relief, and exam preparation. Covers box breathing, active recall, space repetition, and initial question skimming."
+keywords: ["cramming", "recall", "box breathing", "stress reduction"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.791559+00:00"
+---
 **Memory Clarity (clear brainfog)** -> Drinking water right after waking up. 
 
 **Memory Auto** -> Take a nap after studying help retrain hard earned information better. 

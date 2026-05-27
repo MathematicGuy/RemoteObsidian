@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_How To/Violin.md"
+summary: "Details rules and physical mechanics for practicing the violin. Recommends straight perpendicular bowing, Warm-ups with slow long notes, cyclic learning, and diverse practice selections."
+keywords: ["violin practice", "bowing technique", "learning cycle", "musical technique"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.821561+00:00"
+---
 WWStanding when play the violin
 Check if your violin bow have too much rosin on it, if yes then flick the bows string, else put rosin on it. 
 

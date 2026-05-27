@@ -1,3 +1,10 @@
+---
+category: "3 RESOURCES/_Happiness/Delusion.md"
+summary: "Analyzes C.G. Jung's psychological definition of delusion as an expression of internal unconscious factors. Links delusions to dreams as natural phenomena revealing the vigor of the inner world."
+keywords: ["jungian psychology", "delusion", "unconscious", "psychic reality"]
+confidence: "high"
+analyzed_at: "2026-05-27T16:37:17.793558+00:00"
+---
 source: https://www.facebook.com/share/p/1AcHpVpfA5/
 
 
