@@ -135,7 +135,7 @@ This performs a local local transaction executing the **Storage/Cache Hybrid Spl
     ```
 3.  **File Move**: Moves note files cleanly to their PARA directories.
 4.  **Wikilink Repair**: Updates all internal links and alias hooks using standard short paths.
-5.  **Index Compilation (Query Cache)**: Parses note frontmatters and compiles `D:\Personlich\RemoteObsidian\Artificial_Intelligence\.obsidian\summerized-context.json` as a read-only fast cache.
+5.  **Index Compilation (Query Cache)**: Parses note frontmatters and compiles `Obsidian-Vault-Name/.obsidian/summerized_contents.json` as a read-only fast cache.
 6.  **Clean up**: Deletes temporary JSON plans.
 7.  **Git post-flight commit**: Commits final organized vault.
 
@@ -171,7 +171,7 @@ The `execute` command automatically calls `link_repair.py` which:
 
 ## Index Schema
 
-The organizer maintains `RemoteObsidian/.obsidian/summerized-context.json`:
+The organizer maintains `Obsidian-Vault-Name/.obsidian/summerized_contents.json`:
 
 ```json
 {

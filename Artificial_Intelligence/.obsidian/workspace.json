@@ -171,6 +171,16 @@
             "id": "cb6500c8d5dbf247",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bada83b97f8b4d05",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -178,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,7 +209,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1e8b83d5c7b1bd2",
+  "active": "bada83b97f8b4d05",
   "lastOpenFiles": [
     "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner.md",
     "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner QUIZ & Video.md",

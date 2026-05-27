@@ -3,7 +3,7 @@ name: files-context-summarize
 description: >
   Specialized skill to incrementally analyze, summarize, and categorize markdown
   and canvas vault files. Maintains a unified metadata tracking index inside
-  the .obsidian/ directory as summerized-context.json.
+  the .obsidian/ directory as summerized_contents.json.
 ---
 
 This skill guides a subagent to read, analyze, and build a high-performance semantic index of all notes inside the `RemoteObsidian` vault. It uses an incremental approach to process new or updated files while recording status in a structured JSON index to keep vault organization clean, fast, and completely portable.
@@ -13,7 +13,7 @@ This skill guides a subagent to read, analyze, and build a high-performance sema
 ## Output Target Location & Format
 
 You MUST read and write to this exact path:
-`RemoteObsidian/.obsidian/summerized-context.json`
+`Obsidian-Vault-Name/.obsidian/summerized_contents.json`
 
 To support name clashes, easy SQLite migration, and Vector DB (ChromaDB) RAG matching, the index utilizes the note's **relative path from the vault root** (e.g., `Artificial_Intelligence/3_RESOURCES/Artificial Intelligent/Note_A.md`) as the unique key.
 
@@ -57,7 +57,7 @@ Follow this schema exactly:
    - Restricts scanning strictly to the whitelisted directory: `Artificial_Intelligence`.
    - Bypasses default Obsidian paths (`.obsidian`, `.makemd`, `.space`, `.trash`), administrative files (`.smart-env`), and asset/utility folders (`Excalidraw`, `images`, `ultilities`).
    - Automatically skips and prunes any subdirectories recursively containing a blank `.ignore` or `_ignore` marker file.
-   - **Self-Heals Moved Files:** Automatically updates the relative path keys in `summerized-context.json` if a note was moved/renamed, and purges deleted notes that are in-scope.
+   - **Self-Heals Moved Files:** Automatically updates the relative path keys in `summerized_contents.json` if a note was moved/renamed, and purges deleted notes that are in-scope.
 4. Read the output JSON mapping from standard output or from `.obsidian/unsummerized_files.json`.
 
 ### Step 2: Content Analysis (For each target file)
@@ -79,5 +79,5 @@ For each unsummarized file relative path, read its content (up to the first 2000
 ### Step 3: Write the Updated Index
 1. Append the new metadata dictionary to `"details"` under the file's **unique relative path** as the key.
 2. Add the file's **relative path** to the `"summarized_files"` list.
-3. Write the fully merged JSON structure back to `RemoteObsidian/.obsidian/summerized-context.json`.
+3. Write the fully merged JSON structure back to `Obsidian-Vault-Name/.obsidian/summerized_contents.json`.
 4. Return a summary report to the main Orchestrator showing the number of files analyzed, skipped, or updated.

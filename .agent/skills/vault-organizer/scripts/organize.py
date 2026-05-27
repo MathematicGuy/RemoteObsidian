@@ -408,7 +408,7 @@ def cmd_execute(args: argparse.Namespace) -> None:
         except Exception as e:
             print(f"[WARNING] Link repair failed: {e}", file=sys.stderr)
 
-    # --- Phase 7: Update summerized-context.json ---
+    # --- Phase 7: Update summerized_contents.json ---
     print("[EXECUTE] Phase 7: Updating index...", file=sys.stderr)
     update_index(vault_root, moved_files)
 
@@ -438,11 +438,11 @@ def cmd_execute(args: argparse.Namespace) -> None:
 
 
 def update_index(vault_root: Path, moved_files: dict[str, str]) -> None:
-    """Update summerized-context.json with new file paths."""
-    # Try both possible index locations
+    """Update summerized_contents.json with new file paths."""
+    # Try both possible index locations, prioritizing the specific vault folder
     index_candidates = [
-        vault_root / ".obsidian" / "summerized-context.json",
-        vault_root / AI_FOLDER / ".obsidian" / "summerized-context.json",
+        vault_root / AI_FOLDER / ".obsidian" / "summerized_contents.json",
+        vault_root / ".obsidian" / "summerized_contents.json",
     ]
 
     index_path = None

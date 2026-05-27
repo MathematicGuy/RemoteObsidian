@@ -37,15 +37,17 @@ AI_SUBFOLDER = "Artificial_Intelligence"
 RESOURCES_DIR = "3_RESOURCES"
 NESTED_DIR = "Artificial Intelligent"
 
-# The old segment that appears in summerized-context.json path keys.
+# The old segment that appears in summerized_contents.json path keys.
 OLD_PATH_SEGMENT = f"{RESOURCES_DIR}/{NESTED_DIR}/"
 # After migration, paths should just use RESOURCES_DIR directly.
 NEW_PATH_SEGMENT = f"{RESOURCES_DIR}/"
 
-# Candidate locations for summerized-context.json (relative to vault root).
+# Candidate locations for summerized_contents.json (relative to vault root).
 CONTEXT_JSON_CANDIDATES: list[str] = [
-    f".obsidian/summerized-context.json",
-    f"{AI_SUBFOLDER}/.obsidian/summerized-context.json",
+    f"{AI_SUBFOLDER}/.obsidian/summerized_contents.json",
+    f"Dream/.obsidian/summerized_contents.json",
+    f"Project_Skin/.obsidian/summerized_contents.json",
+    f".obsidian/summerized_contents.json",
 ]
 
 logger = logging.getLogger("migrate_taxonomy")
@@ -168,10 +170,10 @@ def _remove_empty_tree(directory: Path, *, execute: bool) -> None:
 
 
 # ---------------------------------------------------------------------------
-# summerized-context.json updater
+# summerized_contents.json updater
 # ---------------------------------------------------------------------------
 def _find_context_json(vault_root: Path) -> Path | None:
-    """Return the first existing ``summerized-context.json`` candidate path."""
+    """Return the first existing ``summerized_contents.json`` candidate path."""
     for candidate in CONTEXT_JSON_CANDIDATES:
         path = vault_root / candidate
         if path.is_file():
@@ -332,7 +334,7 @@ def migrate(vault_root: Path, *, execute: bool) -> None:
     _remove_empty_tree(nested_dir, execute=execute)
 
     # ------------------------------------------------------------------
-    # Step 4: Update summerized-context.json
+    # Step 4: Update summerized_contents.json
     # ------------------------------------------------------------------
     json_path = _find_context_json(vault_root)
     keys_updated = 0
@@ -340,7 +342,7 @@ def migrate(vault_root: Path, *, execute: bool) -> None:
         logger.info("Found context JSON: %s", json_path)
         keys_updated = _update_context_json(json_path, execute=execute)
     else:
-        logger.info("No summerized-context.json found; skipping JSON update.")
+        logger.info("No summerized_contents.json found; skipping JSON update.")
 
     # ------------------------------------------------------------------
     # Summary

@@ -50,7 +50,7 @@ def main():
     # 1. Resolve paths
     root_dir = find_vault_root()
     obsidian_dir = os.path.join(root_dir, ".obsidian")
-    summarized_json_path = os.path.join(obsidian_dir, "summerized-context.json")
+    summarized_json_path = os.path.join(obsidian_dir, "summerized_contents.json")
     unsummarized_json_path = os.path.join(obsidian_dir, "unsummerized_files.json")
     
     # Ensure .obsidian directory exists
@@ -118,7 +118,7 @@ def main():
                     summarized_data["summarized_files"] = loaded_data.get("summarized_files", [])
                     summarized_data["details"] = loaded_data.get("details", {})
         except Exception as e:
-            print(f"[WARNING] Failed to parse summarized-context.json: {e}", file=sys.stderr)
+            print(f"[WARNING] Failed to parse summerized_contents.json: {e}", file=sys.stderr)
 
     # Reconstruct summarized set and details dictionary with self-healing
     old_summarized_files = summarized_data["summarized_files"]
@@ -177,7 +177,7 @@ def main():
             with open(summarized_json_path, 'w', encoding='utf-8') as f:
                 json.dump(summarized_data, f, indent=2, ensure_ascii=False)
         except Exception as e:
-            print(f"[ERROR] Failed to save healed summarized-context.json: {e}", file=sys.stderr)
+            print(f"[ERROR] Failed to save healed summerized_contents.json: {e}", file=sys.stderr)
             
     # 5. Determine which physical files are unsummarized
     # We use a set for O(1) membership checks
