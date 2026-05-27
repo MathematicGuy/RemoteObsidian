@@ -65,54 +65,30 @@ This outputs a JSON object to **stdout** with two arrays:
 
 ### Step 2 — AI Classification
 
-For each file in the `needs_ai` array, you (the agent) must classify it.
+For each file in the `needs_ai` array, you must dynamically classify and summarize it. Follow the **Sub-Skill Citation** protocol:
 
-Read the `content_preview` and decide the best category from the existing
-folder taxonomy.  The target folders under `Artificial_Intelligence/` are:
+1.  **Ingest Persona**: Load the contents of [**`SUB-SKILLS.md`**](file:///D:/Personlich/RemoteObsidian/.agent/skills/vault-organizer/SUB-SKILLS.md) to serve as the subagent's base system prompt.
+2.  **Determine Dynamic Topic Focus**: Analyze the batch file composition and dynamically interpolate the `[DYNAMIC_TOPIC_FOCUS]` parameter inside the subagent prompt:
+    *   Inject Code-specific instructions for code notes.
+    *   Inject Math-specific instructions for math notes.
+    *   Inject General conceptual mapping for other topics.
+3.  **Partition & Spawn**:
+    *   If `needs_ai` is under 15 files, process in-context.
+    *   If 15 or more files, slice into batches of 15–25 files. Spawn a **maximum of 4 concurrent subagents** in **`Workspace: inherit`** mode.
+4.  **JSON Collection**: Subagents must return a clean, unescaped JSON array. Collect and merge the JSON blocks.
 
-| Folder | Use for |
-|--------|---------|
-| `1_PROJECTS/<ProjectName>/` | Active projects with deliverables (only use existing project folders) |
-| `2_ACTIONS/` | Personal action items: gym, career, planning |
-| `3_RESOURCES/AWS & Cloud/` | AWS, cloud architecture, certifications |
-| `3_RESOURCES/Big Data & Databases/` | MongoDB, Hadoop, databases |
-| `3_RESOURCES/Computer Vision/` | YOLO, CNN, image processing, face/pose detection |
-| `3_RESOURCES/Deep Learning/` | Neural networks, autoencoders, optimization |
-| `3_RESOURCES/Machine Learning/` | Classical ML: regression, SVM, decision trees |
-| `3_RESOURCES/Mathematics/` | Linear algebra, calculus, probability, statistics |
-| `3_RESOURCES/NLP & RAG/` | RAG, LLM, prompt engineering, transformers |
-| `3_RESOURCES/Reinforcement Learning/` | Q-learning, policy gradient, MDPs |
-| `3_RESOURCES/AI Agents & Systems/` | AI agents, LLMOps, system design |
-| `3_RESOURCES/Software Engineering/` | Docker, Python, git, dev tools |
-| `3_RESOURCES/General AI/` | AI news, ethics, research papers, catch-all |
-| `4_ARCHIVES/` | Completed/inactive coursework, old exams, past projects |
-| `_unsorted/` | Cannot confidently classify (use sparingly) |
-
-**Rules:**
-- You MAY create new sub-folders under `3_RESOURCES/` if no existing
-  category fits (e.g., `3_RESOURCES/Data Engineering/`).
-- You MUST NOT create sub-folders under `1_PROJECTS/`, `2_ACTIONS/`, or
-  `4_ARCHIVES/`.
-- Assign a confidence level: `high`, `medium`, or `low`.
-- Files with `low` confidence are automatically routed to `_unsorted/`.
-
-**Output format:** Add an `ai_classified` array to the scan JSON with
-entries like:
-
+**Output format for classifications:** The subagents return the data containing the dynamic 2-sentence summary:
 ```json
 {
-  "filename": "Aha.md",
-  "relative_path": "Artificial_Intelligence/Aha.md",
-  "category": "3_RESOURCES/General AI",
+  "filename": "LoRA.md",
+  "relative_path": "Artificial_Intelligence/LoRA.md",
+  "category": "3_RESOURCES/Deep Learning",
+  "summary": "Explains Low-Rank Adaptation (LoRA) for parameter-efficient fine-tuning of large models. Details linear rank factorization of weight updates.",
   "method": "ai",
-  "confidence": "medium"
+  "confidence": "high"
 }
 ```
 
-**Parallelism:** You may spawn subagents to classify files in parallel
-batches of 15-25 files each.  Each subagent receives a slice of the
-`needs_ai` array and returns `ai_classified` entries.  Merge results
-before proceeding.
 
 ### Step 3 — Generate Move Plan
 
@@ -145,15 +121,26 @@ Run:
 python .agent/skills/vault-organizer/scripts/organize.py execute
 ```
 
-This will:
-1. Git commit a pre-organize snapshot
-2. Move all files to their destinations
-3. Repair `[[wikilinks]]` across the entire vault
-4. Update `summerized-context.json`
-5. Delete the plan files
-6. Git commit the result
+This performs a local local transaction executing the **Storage/Cache Hybrid Split**:
+1.  **Git pre-flight snapshot**: Commits all active files.
+2.  **YAML SSoT Writing**: Writes double-quoted properly escaped YAML blocks to the head of each note file containing:
+    ```yaml
+    ---
+    category: "3_RESOURCES/NLP RAG"
+    summary: "Strict 2-sentence maximum. Specific concrete nouns only."
+    keywords: ["rag", "llm", "context"]
+    confidence: "high"
+    analyzed_at: "2026-05-27T16:02:00Z"
+    ---
+    ```
+3.  **File Move**: Moves note files cleanly to their PARA directories.
+4.  **Wikilink Repair**: Updates all internal links and alias hooks using standard short paths.
+5.  **Index Compilation (Query Cache)**: Parses note frontmatters and compiles `D:\Personlich\RemoteObsidian\Artificial_Intelligence\.obsidian\summerized-context.json` as a read-only fast cache.
+6.  **Clean up**: Deletes temporary JSON plans.
+7.  **Git post-flight commit**: Commits final organized vault.
 
 Report the summary to the user.
+
 
 ---
 
@@ -230,34 +217,21 @@ To scale file classification across large vaults, the primary IDE Agent must orc
 
 ### Spawning Configuration
 - **Tool Call**: `invoke_subagent`
-- **Workspace Mode**: `inherit` or `share` (to access the target files without copy overhead)
+- **Workspace Mode**: **`inherit`** (Mandatory on Windows platforms to bypass file-length limits and Git worktree failures).
 - **Role**: `Vault Classifier Subagent`
-- **Prompt**: Inject the exact **Subagent System Prompt Template** below, attaching their assigned slice of the `needs_ai` array.
+- **System Prompt Citation (Ingestion Invariant)**: 
+  You **must not** use a hardcoded prompt. Instead, read the contents of [**`SUB-SKILLS.md`**](file:///D:/Personlich/RemoteObsidian/.agent/skills/vault-organizer/SUB-SKILLS.md) at the beginning of Step 2, and use it as the base prompt for the subagents, interpolating the dynamic slots at spawn time.
 
----
+### Auto-adaptive Ingestion Protocol
+Before spawning each subagent, analyze the composition of its assigned batch (file extensions, filename keywords) and dynamically interpolate the `[DYNAMIC_TOPIC_FOCUS]` slot inside the prompt:
+- **Code Batches** (e.g., >50% files are `.py` or have code keywords): Inject:
+  `"Focus strictly on programming language syntax, libraries used, object-oriented class structures, and algorithm complexity."`
+- **Mathematics / Physics Batches** (e.g., files have LaTeX formulas, statistics, equations): Inject:
+  `"Focus strictly on mathematical definitions, equations, probability event spaces, variable definitions, and statistical theorems."`
+- **General Technical Batches** (default): Inject:
+  `"Focus strictly on the core conceptual thesis, systems relationships, and actionable deliverables."`
 
-### Subagent System Prompt Template
-
-```markdown
-Role: Vault Classifier Subagent
-Goal: Classify the assigned list of Obsidian vault files into the allowed PARA taxonomy.
-
-Target Taxonomy Folders:
-- 1_PROJECTS/<ProjectName>/ (Use existing folders only, NEVER create new folders under 1_PROJECTS)
-- 2_ACTIONS/ (gym, diet, personal, career planning)
-- 3_RESOURCES/<Category>/ (DYNAMIC CATEGORIES ALLOWED. Choose from: AWS & Cloud, Big Data & Databases, Computer Vision, Deep Learning, Machine Learning, Mathematics, NLP & RAG, Reinforcement Learning, AI Agents & Systems, Software Engineering, General AI. If none fit, you may propose a single-level Title Case name like 'Data Engineering')
-- 4_ARCHIVES/ (Completed coursework, inactive exams, past projects)
-- _unsorted/ (Fallback for low confidence)
-
-Rules:
-1. RESTRICT dynamic category creation to a single nested level under 3_RESOURCES/ (e.g., '3_RESOURCES/Topic', NOT '3_RESOURCES/Topic/Subtopic').
-2. Categorize strictly based on the file content preview.
-3. Assign confidence: 'high', 'medium', or 'low'. If confidence is 'low', assign 'category' to '_unsorted'.
-4. Output MUST be a clean JSON array of objects and NOTHING ELSE. No prose, no markdown fences inside the final return string.
-
-Assigned Files to Classify:
-<assigned_files_json_array>
-```
+Attach the batch's file JSON array to the `<assigned_files_json_array>` placeholder and invoke the subagent.
 
 ---
 
@@ -277,4 +251,5 @@ Before feeding the merged classifications into `organize.py plan`, the primary I
    If a proposed file path conflicts with an existing file of the same name in the target directory, mark the collision status in the JSON to let `organize.py` safely skip it and report it to the user.
 4. **Low Confidence Fallback**:
    Any file classified with `confidence: "low"` must have its category rewritten to `_unsorted/`.
+
 
