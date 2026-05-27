@@ -9,7 +9,7 @@
 ## 1. Directory Structure
 
 ```
-Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/
+Artificial_Intelligence/1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/
 ├── TOPOLOGY.md             # This File (Active architectural map)
 ├── human_overview.md       # Read-Only Anchor (Human Intent & Goals)
 ├── agent_overview.md       # Read-Write Recommended Plan (Agent's response plan)
@@ -20,11 +20,8 @@ Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/
 │   ├── cogniseeds.md       # Reasoning / Decision-making epistemic constraints
 │   └── linguaseeds.md      # Voice authenticity / Linguistic friction rules
 │
-├── my_notes/               # Workspace notes & study guides
-│   ├── how-to-agent.md     # Initial thoughts on agent workflows
-│   └── usage_guide.md      # Usage Guide (ArchSeeds in MCQ RAG)
 │
-└── Noosphere Steward - AGENT Framework For Semantically Grounded Pattern Matching/  [GIT SUBMODULE]
+└── AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/  [GIT SUBMODULE]
     ├── AGENTS.md           # The Constitution (System-wide rules, version gates)
     ├── AGENT.md            # Behavioral Layer (Active persona, verification protocol)
     ├── BRAIN.md            # Knowledge Memory Layer (Metaphorical wisdom & patterns)
@@ -34,6 +31,7 @@ Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/
     ├── CODE-RECON.md       # Codebase Reconnaissance Analyst protocol
     ├── EXECUTION-MOMENTUM.md # Velocity constraints & subagent guidelines
     └── TOOLS.md            # Core five tools usage contract definition
+
 ```
 
 ---

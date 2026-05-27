@@ -3,6 +3,14 @@ import re
 import shutil
 import sys
 
+# Ensure UTF-8 encoding is used for standard output/error, especially on Windows
+if sys.platform.startswith('win'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except AttributeError:
+        pass
+
 # Define target mappings relative to the root directory
 # Keys are target directories, values are lists of lowercase keyword triggers
 MAPPINGS = {

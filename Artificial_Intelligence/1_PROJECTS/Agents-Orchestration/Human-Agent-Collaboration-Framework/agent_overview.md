@@ -7,11 +7,12 @@
 ## 1. The Collaborative Framework (Answers & Mapping)
 
 ### 1.1 Role of Each File in an MCQ RAG Project
-*   **[AGENTS.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/Noosphere%20Steward%20-%20AGENT%20Framework%20For%20Semantically%20Grounded%20Pattern%20Matching/AGENTS.md) (The Constitution):** Enforces strict RAG constraints (e.g., token consumption limits, rate-limiting, package version pinning for vector DB drivers, security gates).
-*   **[AGENT.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/Noosphere%20Steward%20-%20AGENT%20Framework%20For%20Semantically%20Grounded%20Pattern%20Matching/AGENT.md) (The Persona):** Guides active reasoning (e.g., how the agent evaluates chunk size tradeoffs, validates generated distractors, and handles uncertainty in LLM evaluations).
-*   **[BRAIN.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/Noosphere%20Steward%20-%20AGENT%20Framework%20For%20Semantically%20Grounded%20Pattern%20Matching/BRAIN.md) (Long-Term Memory):** Stores compressed, metaphorical wisdom patterns learned during RAG development (e.g., distractor generation heuristics).
-*   **[HEART.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/Noosphere%20Steward%20-%20AGENT%20Framework%20For%20Semantically%20Grounded%20Pattern%20Matching/HEART.md) (The Attractor):** Anchors the core purpose of the project (e.g., building a pedagogically robust MCQ generation system).
-*   **[TERRITORY.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Orchestrate-Agent/Noosphere%20Steward%20-%20AGENT%20Framework%20For%20Semantically%20Grounded%20Pattern%20Matching/TERRITORY.md) (The Action Protocol):** Prevents drift by enforcing gates (e.g., mandatory distractor verification before saving an MCQ).
+*   **[AGENTS.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/AGENTS.md) (The Constitution):** Enforces strict RAG constraints (e.g., token consumption limits, rate-limiting, package version pinning for vector DB drivers, security gates).
+*   **[AGENT.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/AGENT.md) (The Persona):** Guides active reasoning (e.g., how the agent evaluates chunk size tradeoffs, validates generated distractors, and handles uncertainty in LLM evaluations).
+*   **[BRAIN.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/BRAIN.md) (Long-Term Memory):** Stores compressed, metaphorical wisdom patterns learned during RAG development (e.g., distractor generation heuristics).
+*   **[HEART.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/HEART.md) (The Attractor):** Anchors the core purpose of the project (e.g., building a pedagogically robust MCQ generation system).
+*   **[TERRITORY.md](d:/Personlich/RemoteObsidian/Artificial_Intelligence/1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/TERRITORY.md) (The Action Protocol):** Prevents drift by enforcing gates (e.g., mandatory distractor verification before saving an MCQ).
+
 
 ### 1.2 Life Cycles: Constant vs. Dynamic Elements
 *   **Constant (Invariant Rulebook):** `AGENTS.md`, `HEART.md`, and `TERRITORY.md` remain stable. They define the boundaries of the collaboration.
@@ -39,6 +40,6 @@
 ## 3. Active Roadmap
 
 - [x] **Step 1:** Establish shared understanding through `/grill-me` interactive alignment.
-- [ ] **Step 2:** Deploy the **HACollab Usage Guide** (`my_notes/usage_guide.md`) capturing framework mechanics and ArchSeeds deployment.
-- [ ] **Step 3:** Document the **HACollab System Topology** (`TOPOLOGY.md`) detailing state ownership and the Git Submodule sync architecture.
+- [x] **Step 2:** Deploy the **HACollab Usage Guide** (`my_notes/usage_guide.md`) capturing framework mechanics and ArchSeeds deployment.
+- [x] **Step 3:** Document the **HACollab System Topology** (`TOPOLOGY.md`) detailing state ownership and the Git Submodule sync architecture.
 - [ ] **Step 4:** Practice the loop using the Auto-Obsidian-Vault-Organizer or a simulated MCQ RAG workflow.

@@ -213,3 +213,68 @@ The organizer maintains `RemoteObsidian/.obsidian/summerized-context.json`:
 - **Scope guard:** Only files at the `Artificial_Intelligence/` root
   level are touched.  Files already inside `1_PROJECTS/`, `2_ACTIONS/`,
   `3_RESOURCES/`, or `4_ARCHIVES/` are never moved.
+
+---
+
+## AI & Subagent Orchestration Protocol
+
+To scale file classification across large vaults, the primary IDE Agent must orchestrate a tier of parallel subagents. Follow these rules:
+
+### Concurrency & Batch Rules
+1. **Dynamic Partitioning**:
+   - If the `needs_ai` list contains **fewer than 15 files**, process them directly within the primary agent's context.
+   - If the list contains **15 or more files**, partition the list into concurrent batches of **15 to 25 files** each.
+2. **Concurrency Cap**:
+   - Spawn a **maximum of 4 parallel subagents** concurrently using the `invoke_subagent` tool.
+   - If there are more than 100 files, process them in sequential waves of 4 concurrent subagents.
+
+### Spawning Configuration
+- **Tool Call**: `invoke_subagent`
+- **Workspace Mode**: `inherit` or `share` (to access the target files without copy overhead)
+- **Role**: `Vault Classifier Subagent`
+- **Prompt**: Inject the exact **Subagent System Prompt Template** below, attaching their assigned slice of the `needs_ai` array.
+
+---
+
+### Subagent System Prompt Template
+
+```markdown
+Role: Vault Classifier Subagent
+Goal: Classify the assigned list of Obsidian vault files into the allowed PARA taxonomy.
+
+Target Taxonomy Folders:
+- 1_PROJECTS/<ProjectName>/ (Use existing folders only, NEVER create new folders under 1_PROJECTS)
+- 2_ACTIONS/ (gym, diet, personal, career planning)
+- 3_RESOURCES/<Category>/ (DYNAMIC CATEGORIES ALLOWED. Choose from: AWS & Cloud, Big Data & Databases, Computer Vision, Deep Learning, Machine Learning, Mathematics, NLP & RAG, Reinforcement Learning, AI Agents & Systems, Software Engineering, General AI. If none fit, you may propose a single-level Title Case name like 'Data Engineering')
+- 4_ARCHIVES/ (Completed coursework, inactive exams, past projects)
+- _unsorted/ (Fallback for low confidence)
+
+Rules:
+1. RESTRICT dynamic category creation to a single nested level under 3_RESOURCES/ (e.g., '3_RESOURCES/Topic', NOT '3_RESOURCES/Topic/Subtopic').
+2. Categorize strictly based on the file content preview.
+3. Assign confidence: 'high', 'medium', or 'low'. If confidence is 'low', assign 'category' to '_unsorted'.
+4. Output MUST be a clean JSON array of objects and NOTHING ELSE. No prose, no markdown fences inside the final return string.
+
+Assigned Files to Classify:
+<assigned_files_json_array>
+```
+
+---
+
+## Master Validation & Path Sanitization Gate
+
+Before feeding the merged classifications into `organize.py plan`, the primary IDE Agent **must** act as the Central Validation Gate (SSoT validation). Run the following checks on the merged JSON:
+
+1. **Path Safety Regex Gate**:
+   Ensure all category strings contain only safe alphanumeric characters, spaces, and hyphens.
+   - **Reject** any category containing special characters, backslashes (outside path separators), or non-ASCII characters that might trigger system encoding failures (e.g. `Xét Tập Xác định` should be classified cleanly without path corruption).
+   - If a proposed category fails this check, automatically sanitize it (e.g. replace special characters with spaces/dashes) or route the file to `_unsorted/`.
+2. **Category Depth Limit Check**:
+   Confirm that no category path has more than one level of nesting under `3_RESOURCES/`.
+   - Correct: `3_RESOURCES/Data Science`
+   - Incorrect: `3_RESOURCES/Data Science/Deep Learning` (Automatically flatten to `3_RESOURCES/Deep Learning`).
+3. **Collision Auditing**:
+   If a proposed file path conflicts with an existing file of the same name in the target directory, mark the collision status in the JSON to let `organize.py` safely skip it and report it to the user.
+4. **Low Confidence Fallback**:
+   Any file classified with `confidence: "low"` must have its category rewritten to `_unsorted/`.
+

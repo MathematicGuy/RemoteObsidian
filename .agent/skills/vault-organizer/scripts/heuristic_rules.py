@@ -76,3 +76,6 @@ def get_existing_categories() -> list[str]:
     """Returns the categories recognized by heuristic_organizer.py."""
     run_pipeline()
     return list(heuristic_organizer.MAPPINGS.keys())
+
+if __name__ == '__main__':
+    get_existing_categories()
