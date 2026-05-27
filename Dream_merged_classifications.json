@@ -1,0 +1,386 @@
+{
+  "vault_root": "D:\\Personlich\\RemoteObsidian",
+  "ai_root": "D:\\Personlich\\RemoteObsidian\\Dream",
+  "scan_timestamp": "2026-05-27T16:35:50.321815+00:00",
+  "total_unorganized": 29,
+  "heuristic_matched": [],
+  "ai_classified": [
+    {
+      "filename": "12-Weeks Year Framework.md",
+      "relative_path": "Dream/12-Weeks Year Framework.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Outlines the 12-Week Year framework for setting sub-milestones and validating action plans. Emphasizes establishing a three-month deadline to maximize urgency.",
+      "keywords": [
+        "12-week year",
+        "productivity",
+        "goals",
+        "milestones"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "22 lessons in 22 years.md",
+      "relative_path": "Dream/22 lessons in 22 years.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Compiles personal life lessons and psychological advice focusing on parenting, identity, and personal relationships. Highlights the importance of striving to be better rather than seeking perfection.",
+      "keywords": [
+        "life lessons",
+        "philosophy",
+        "journaling",
+        "relationships"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "48 Laws of Power.md",
+      "relative_path": "Dream/48 Laws of Power.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Summarizes Robert Greene's 48 laws of power and social influence. Covers strategies for reputation management, strategic silence, and appeal to self-interest.",
+      "keywords": [
+        "robert greene",
+        "power dynamics",
+        "reputation",
+        "influence"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "_Focus.md",
+      "relative_path": "Dream/_Focus.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Details Igor Stravinsky's daily rules for young composers alongside a personal productivity checklist. Emphasizes daily consistent work, planning, and elimination of distractions.",
+      "keywords": [
+        "composition rules",
+        "stravinsky",
+        "focus",
+        "daily routine"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Career Advices.md",
+      "relative_path": "Dream/Career Advices.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Offers career advice centered on first-principles thinking, surrounding oneself with smart people, and high urgency iterations. Advocates for working in established successful companies before founding startups.",
+      "keywords": [
+        "first principles",
+        "career advice",
+        "urgency",
+        "iteration"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "CHANGES.md",
+      "relative_path": "Dream/CHANGES.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Proposes a morning routine of waking up at 4:30 AM to build early momentum. Outlines coping mechanisms for managing ADHD through dopamine loops and interest-driven focus.",
+      "keywords": [
+        "morning routine",
+        "adhd",
+        "dopamine management",
+        "productivity"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Cheat Code.md",
+      "relative_path": "Dream/Cheat Code.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Lists cognitive 'cheat codes' for memory, stress relief, and exam preparation. Covers box breathing, active recall, space repetition, and initial question skimming.",
+      "keywords": [
+        "cramming",
+        "recall",
+        "box breathing",
+        "stress reduction"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Delusion.md",
+      "relative_path": "Dream/Delusion.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Analyzes C.G. Jung's psychological definition of delusion as an expression of internal unconscious factors. Links delusions to dreams as natural phenomena revealing the vigor of the inner world.",
+      "keywords": [
+        "jungian psychology",
+        "delusion",
+        "unconscious",
+        "psychic reality"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Flow.md",
+      "relative_path": "Dream/Flow.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Breaks down the psychological cycle of entering flow through struggle, release, and active recovery. Suggests using active recovery like sauna, ice baths, and sleep to lower static load.",
+      "keywords": [
+        "flow state",
+        "struggle",
+        "active recovery",
+        "resilience"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
+      "relative_path": "Dream/How to get PERFECT GRADES as a GAMER (How to Success in 2 different Domains at the same time).md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Details strategies for balancing academic excellence with gaming. Emphasizes prioritizing sleep, avoiding late-night gaming, and Cal Newport's concept of high-compound single-focus days.",
+      "keywords": [
+        "cal newport",
+        "deep work",
+        "sleep quality",
+        "gaming balance"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "How to remember everything you learn.md",
+      "relative_path": "Dream/How to remember everything you learn.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Critiques the illusions of competence and offers active memory retrieval strategies. Recommends active recall, spaced repetition, the Feynman technique, and selective deep learning.",
+      "keywords": [
+        "illusions of competence",
+        "feynman technique",
+        "active recall",
+        "learning efficiency"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "How to Study Programming Effectively.md",
+      "relative_path": "Dream/How to Study Programming Effectively.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Outlines effective strategies for learning programming, emphasizing fundamental concepts over framework dependencies. Recommends project-based learning in a single field before seeking job referrals.",
+      "keywords": [
+        "programming study",
+        "fundamentals",
+        "project-based learning",
+        "job search"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "How to Study.md",
+      "relative_path": "Dream/How to Study.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Analyzes cognitive processing limits, advocating for preserving 25-40% of unoccupied memory during learning. Suggests a stress-free morning routine and prioritizing high-quality sleep for memory consolidation.",
+      "keywords": [
+        "cognitive limit",
+        "study methods",
+        "sleep",
+        "learning efficiency"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "If you're in your 20's watch this..md",
+      "relative_path": "Dream/If you're in your 20's watch this..md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Lists 25 developmental rules and mental pillars for young adults in their 20s. Recommends cold showers, calisthenics, credit card discipline, mentorship, and relationship tracking.",
+      "keywords": [
+        "young adult",
+        "life rules",
+        "personal growth",
+        "relationships"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Improve your critical inquiry skills.md",
+      "relative_path": "Dream/Improve your critical inquiry skills.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Identifies common cognitive fallacies, focusing on black-and-white thinking and selection bias. Advises checking for hidden third elements before making final causal conclusions.",
+      "keywords": [
+        "critical thinking",
+        "cognitive bias",
+        "black and white thinking",
+        "scientific method"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Learn 10x Faster Starting Tonight.md",
+      "relative_path": "Dream/Learn 10x Faster Starting Tonight.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Presents scientific methods for boosting short-term and long-term memory. Highlights a Harvard study proving testing oneself significantly outperforms passive re-reading.",
+      "keywords": [
+        "memory retention",
+        "active learning",
+        "harvard study",
+        "speed learning"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Make Any Conversation More Fun and Fulfilling.md",
+      "relative_path": "Dream/Make Any Conversation More Fun and Fulfilling.md",
+      "category": "3 RESOURCES/_How To",
+      "summary": "Details tactical communication skills for improving daily social interaction. Explains open-ended questions, reflective responses, paraphrasing, emotion labeling, and non-accusatory labeling.",
+      "keywords": [
+        "conversation skills",
+        "social interaction",
+        "reflective response",
+        "empathy"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Philopsophy that brought me back to life.md",
+      "relative_path": "Dream/Philopsophy that brought me back to life.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Reflects on the behavioral definitions of identity and personality. Explains the scientific description of character as patterns of behaviors.",
+      "keywords": [
+        "identity",
+        "behavior",
+        "psychology",
+        "self reflection"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Possitive Though.md",
+      "relative_path": "Dream/Possitive Though.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Compiles Vietnamese notes on daily study hacks, positive habits, and productivity rules. Recommends library studying, sleep prioritization, and setting singular focused goals.",
+      "keywords": [
+        "daily habits",
+        "vietnamese note",
+        "learning efficiency",
+        "focus"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Productivity Note.md",
+      "relative_path": "Dream/Productivity Note.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Highlights the 90-minute ultradian cycles of focus and peak energy. Outlines DSRP (Distinctions, Systems, Relationships, Perspectives) rules for cognitive structuring.",
+      "keywords": [
+        "ultradian cycle",
+        "dsrp",
+        "productivity",
+        "systems thinking"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "PROKLEM.md",
+      "relative_path": "Dream/PROKLEM.md",
+      "category": "3 RESOURCES/_Productivity & Improvement",
+      "summary": "Tracks solved behavioral obstacles such as doom scrolling, poor eating habits, and morning procrastination. Integrates positive reinforcement and automated exercise prompts.",
+      "keywords": [
+        "habit loops",
+        "behavior correction",
+        "solved problems",
+        "mindset"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Question to Ask My Self.md",
+      "relative_path": "Dream/Question to Ask My Self.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Lists deep reflective questions analyzing childhood experiences, life purpose, and future self expectations. Encourages Stoic resilience and conscious, intentional living.",
+      "keywords": [
+        "self-reflection",
+        "purpose",
+        "identity",
+        "stoicism"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Riddle.md",
+      "relative_path": "Dream/Riddle.md",
+      "category": "3 RESOURCES/_Question Mark",
+      "summary": "Presents a classic ethical and moral bus stop dilemma used in job recruitment. Challenges the driver to choose between saving a dying old lady, returning a favor to a life-saving friend, or picking up their dream partner.",
+      "keywords": [
+        "riddle",
+        "ethical dilemma",
+        "decision making",
+        "moral dilemma"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Secret History Work.md",
+      "relative_path": "Dream/Secret History Work.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Analyzes the historical power relationships between central banks, wealth accumulation, and the creation of artificial scarcity. Contrasts stoic eudaimonia with modern scientific world views.",
+      "keywords": [
+        "financial history",
+        "artificial scarcity",
+        "central banking",
+        "eudaimonia"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Shadow work.md",
+      "relative_path": "Dream/Shadow work.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Introduces C.G. Jung's conceptual model of the psyche, detailing the Persona, Shadow, Anima/Animus, and Hero. Offers practical exercises for embracing the shadow and vulnerability.",
+      "keywords": [
+        "jungian psychology",
+        "shadow work",
+        "persona",
+        "vulnerability"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Studying Abroad.md",
+      "relative_path": "Dream/Studying Abroad.md",
+      "category": "3 RESOURCES/_How To",
+      "summary": "Offers a preparation guide for studying abroad in Germany, highlighting KIT University. Covers DAAD scholarships, financial proof requirements, and preparatory Studienkolleg details.",
+      "keywords": [
+        "studying abroad",
+        "germany",
+        "kit university",
+        "scholarships"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Themes Note.md",
+      "relative_path": "Dream/Themes Note.md",
+      "category": "3 RESOURCES/_Question Mark",
+      "summary": "A brief structural utility note displaying checkbox images and basic python code block syntax formatting.",
+      "keywords": [
+        "checkboxes",
+        "markdown",
+        "formatting",
+        "reference"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "THOUGH.md",
+      "relative_path": "Dream/THOUGH.md",
+      "category": "3 RESOURCES/_Happiness",
+      "summary": "Tracks personal daily journal entries spanning May and June. Reflects on learning rate bounds in SVD, stress management, relationships, and fitness tracking.",
+      "keywords": [
+        "journal",
+        "self-reflection",
+        "relationship notes",
+        "svd"
+      ],
+      "confidence": "high"
+    },
+    {
+      "filename": "Violin.md",
+      "relative_path": "Dream/Violin.md",
+      "category": "3 RESOURCES/_How To",
+      "summary": "Details rules and physical mechanics for practicing the violin. Recommends straight perpendicular bowing, Warm-ups with slow long notes, cyclic learning, and diverse practice selections.",
+      "keywords": [
+        "violin practice",
+        "bowing technique",
+        "learning cycle",
+        "musical technique"
+      ],
+      "confidence": "high"
+    }
+  ]
+}
