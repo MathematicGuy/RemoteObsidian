@@ -1,0 +1,367 @@
+{
+  "main": {
+    "id": "882611ef0c947a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a85d9ad2ed83922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb9d827ff461c12",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_ACTIONS/_Focus.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Focus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "274703f697b31108",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cac1a0640e4a65e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c925a350ef7168b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a13816028e4fbfe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29534f658afb2ed9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5124969482422
+  },
+  "right": {
+    "id": "3ca039a6dff52945",
+    "type": "split",
+    "children": [
+      {
+        "id": "413f50ff0685c2c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a54bf0747991121",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b23357d38748376d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI Engineer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AI Engineer"
+            }
+          },
+          {
+            "id": "fd6c06e7e3135592",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI Engineer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AI Engineer"
+            }
+          },
+          {
+            "id": "6a38aa7d47909312",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53ac8bca4ec56193",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_ACTIONS/_Focus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _Focus"
+            }
+          },
+          {
+            "id": "ca45773f02340a51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "17a59c94a385846b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2d757fb5b2f4f849",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4e8308bb46476097",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ec87ee02cb66cb92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8fcde4a30445d282",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "51392dd080cdf667",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "01727b0a0b3531d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ca2743298986f321",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d6d388a641ab168d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8df4b8984e571fb5",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          },
+          {
+            "id": "da588b1650c1fe55",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 16
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "adb9d827ff461c12",
+  "lastOpenFiles": [
+    "AI Conference Deadline.md",
+    "2_ACTIONS/_Focus.md",
+    "1_PROJECTS/AIO2025/Week 4 Summary.md",
+    "1_PROJECTS/AIO2025/Week 1 Assignment - Housing Prices.md",
+    "2_ACTIONS/MindPalace.canvas",
+    "images/0 2_qzcm2gSe9l67aI.png",
+    "3_RESOURCES/Computer Vision/Week 1 - Foundations of Convolutional Neural Networks.md",
+    "3_RESOURCES/Computer Vision/Course 4 - Convolutional Neural Network.md",
+    "3_RESOURCES/Machine Learning/Machine Learning.md",
+    "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner.md",
+    "Excalidraw/Nested Learning Board.md",
+    "1_PROJECTS/AIO2025/25M12W3 - AI Agent.md",
+    "3_RESOURCES/Artificial Intelligent/NLP & RAG/RAG System Design Blog.md",
+    "images/Pasted image 20260524155833.png",
+    "images",
+    "1_PROJECTS/AIO2025/AIO_2025.md",
+    "Important AI Research Paper of the 21 century.md",
+    "Save4Later.md",
+    "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+    "4_ARCHIVES/CMC 2025/UIUX/CMC UIUX.md",
+    "AI Engineer.md",
+    "AI Agent.md",
+    "1_PROJECTS/AIO2025/Churn Prediction.md",
+    "1_PROJECTS/AIO2025/25M6 Project Module  - Customer Analysis/Churn Prediction.md",
+    "1_PROJECTS/AIO2025/25M6 Project Module  - Customer Analysis",
+    "1_PROJECTS/AIO2025/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "1_PROJECTS/AIO2025/VAE_skipconnection.drawio",
+    "1_PROJECTS/AIO2025/Nested_Learning.drawio",
+    "1_PROJECTS/AIO2025/GPT2_Poem_Generation.drawio",
+    "1_PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "1_PROJECTS/VAE_skipconnection.drawio",
+    "1_PROJECTS/Nested_Learning.drawio",
+    "1_PROJECTS/GPT2_Poem_Generation.drawio",
+    "1_PROJECTS/Coursera Mathematic for Machine Learning/Violent Behaviour Detection in the School Enviroment Outline.canvas",
+    "1_PROJECTS/Coursera Mathematic for Machine Learning/VAE_skipconnection.drawio",
+    "1_PROJECTS/Coursera Mathematic for Machine Learning/Nested_Learning.drawio",
+    "1_PROJECTS/AIO2025/AIO - Basic LSTM, GRU (Time-series and Text).md",
+    "1_PROJECTS/AIO2025/UnixLinux for Data Science - Core Concept Distill  from ChatGPT.md",
+    "1_PROJECTS/AIO2025/UNet.md",
+    "1_PROJECTS/AIO2025/Softmax Regression.md",
+    "1_PROJECTS/AIO2025/AIO2025 Project - README Rag Streamlit.md",
+    "1_PROJECTS/AIO2025/AIO2025 Module 9.md",
+    "images/Pasted image 20240822171050.png",
+    "images/Pasted image 20240822170634.png",
+    "images/Pasted image 20240822170547.png",
+    "images/Pasted image 20240822165945.png",
+    "images/Pasted image 20240822165901.png",
+    "images/Pasted image 20240822165531.png",
+    "images/Pasted image 20240822165205.png",
+    "images/Pasted image 20240822165252.png",
+    "4_ARCHIVES/ID Card Detection/Computer Vision Projects.canvas",
+    "1 PROJECTS/Violent Behaviour Detection in the School Enviroment Outline.canvas"
+  ]
+}

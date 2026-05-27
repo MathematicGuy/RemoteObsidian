@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": null,
+  "spellcheck": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "images",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "strictLineBreaks": false
+}
