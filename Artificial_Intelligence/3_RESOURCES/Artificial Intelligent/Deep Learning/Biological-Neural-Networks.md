@@ -1,9 +1,9 @@
 ---
-category: "3_RESOURCES/Artificial Intelligent/Deep Learning/Biological-Neural-Networks.md"
+category: "3_RESOURCES/Artificial Intelligent/Deep Learning"
 summary: "Details the structure of biological neurons, chemical synapses, and synaptic cleft transmission. Analyzes long-term potentiation as the primary cellular mechanism behind memory consolidation."
 keywords: ["biological neurons", "synapse", "neuroplasticity", "long-term potentiation"]
 confidence: "high"
-analyzed_at: "2026-05-27T16:31:06.209105+00:00"
+analyzed_at: "2026-05-27T16:31:29.010423+00:00"
 ---
 # Biological Neural Networks
 

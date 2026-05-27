@@ -1,9 +1,9 @@
 ---
-category: "3_RESOURCES/Quantum Computing/Quantum-Computing-Foundations.md"
+category: "3_RESOURCES/Quantum Computing"
 summary: "Covers mathematical foundations of qubits in superposition and quantum entanglement. Analyzes Shor's algorithm for prime factorization in polynomial time."
 keywords: ["quantum computing", "qubit", "shor's algorithm", "superposition"]
 confidence: "high"
-analyzed_at: "2026-05-27T16:31:06.211289+00:00"
+analyzed_at: "2026-05-27T16:31:29.012551+00:00"
 ---
 # Quantum Computing Foundations
 

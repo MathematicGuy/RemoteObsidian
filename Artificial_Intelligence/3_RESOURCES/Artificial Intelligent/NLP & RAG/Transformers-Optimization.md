@@ -1,9 +1,9 @@
 ---
-category: "3_RESOURCES/Artificial Intelligent/NLP & RAG/Transformers-Optimization.md"
+category: "3_RESOURCES/Artificial Intelligent/NLP & RAG"
 summary: "Explores Transformer model optimization strategies including weight quantization and dynamic pruning. Outlines mapping floating point weights to integer representations to reduce footprint 4x."
 keywords: ["transformer", "quantization", "pruning", "model optimization"]
 confidence: "high"
-analyzed_at: "2026-05-27T16:31:06.210199+00:00"
+analyzed_at: "2026-05-27T16:31:29.012016+00:00"
 ---
 # Transformers Optimization Notes
 
