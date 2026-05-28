@@ -1,4 +1,0 @@
-Turing Test
-
-AI definition
-
