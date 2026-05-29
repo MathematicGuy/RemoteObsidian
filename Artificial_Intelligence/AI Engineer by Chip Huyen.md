@@ -833,4 +833,7 @@ quick read bc this part i guess take 1 line in the quiz
 # 10. AI Engineering Architecture and User Feedback 
 > Answer the Question: call API or Host Model.
 ## AI Engineering Architecture
+### 1. Enhance Context
+Use Fine-Tune Model or a SLM as Intent classifier. Use-Case: when the user ask the system, intent-classifier act as a 
+Model Gateway - for fallback when 1 model reach Token Limit, prevent abuse (use API for multiple model)
 ## User Feedback

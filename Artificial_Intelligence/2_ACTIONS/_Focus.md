@@ -1,4 +1,4 @@
-	`Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
+~~~~	`Be honest, 7hrs sleep, deep work (learn), calisthenics -> happy`
 
 ### [[MindPalace.canvas]]
 _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
@@ -21,7 +21,7 @@ _LIFE IS SIMPLE, HUMAN MAKE IT COMPLICATED_
 - [ ] [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [ ] [A lot of Read-World AI Project with Demo](https://github.com/patchy631/ai-engineering-hub)
 - [ ] [Personal Portfolio template](https://github.com/cloudflare/astro-blog-starter-template-brayden)
-
+- [ ] OCR Nội dung trong Slides => Sắp xếp lại Nội Dung làm Context => Cho Agent quét DỰ án
 
 _AI Resources & Tools_
 - [ ] [Open Source Model (CHEAP) Inference Provider](https://cloud.siliconflow.com/me/models)  - help you to host and run Open Source AI model  
