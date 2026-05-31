@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "60d95be9e09c1b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc54aa686c90e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc3961df697e1529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human_Read_Only/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd3368d43f52be08",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5e35a9cfcab73d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c802683ae20c06c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ab72292314e99bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "604908d6f074e2cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51d45821d4f6d879",
+    "type": "split",
+    "children": [
+      {
+        "id": "790cf93b4572816a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dfc5c51d8bd5380",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "778daeecf0e8694b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "62959534d046029e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70f52ed26e66c18a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "71c570d7ef21c827",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c802683ae20c06c1",
+  "lastOpenFiles": [
+    "Human_Read_Only/The Design of Everyday Things - Don Norman.pdf",
+    "raw/Personal_Note_AI_Engineering_Building_Applications_Chip_Huyen.pdf",
+    "raw/AI_Engineering_Building_Applications_Chip_Huyen.pdf",
+    "Human_Read_Only/README.md",
+    "Human_Read_Only/INSPIRED How to Create Tech Products Customers Love.pdf",
+    "Human_Read_Only/Business_Analyst/NousResearch-hermes-agent TOPOLOGY.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/01-individual-problem-scan.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/02-deliverable-example.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/01-worksheet.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/02_group_problem_statement_example.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/_AI-Product-Main.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/README.md",
+    "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/Image Rule Book.md",
+    "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/AI-Product-Analyst-Seeds.md",
+    "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/AI-Product-Analyst-Rule-Book.md",
+    "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/AI-Product-Analyst-Guide-4GPT.md",
+    "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/AI Product Management.md",
+    "Welcome.md",
+    "raw/~$AI20K Build Phase Exams - Cohort 2 Official.xlsx",
+    "Human_Read_Only/Business_Analyst",
+    "Business_Analyst/Day02-lab-assignment/02_group_problem_statement)example.md",
+    "Business_Analyst/Day02-lab-assignment/02_group_problem_statement-example.md",
+    "Business_Analyst/Day02-lab-assignment/02_group_problem_statement.md",
+    "Business_Analyst/Business-Analyst-Rule-Book/02_group_problem_statement.md",
+    "Business_Analyst/Business-Analyst-Rule-Book/Untitled",
+    "images/Pasted image 20260530184041.png",
+    "images/Pasted image 20260530184115.png",
+    "images/Pasted image 20260530184108.png",
+    "images/Pasted image 20260530184034.png",
+    "images/Pasted image 20260530184030.png",
+    "images/Pasted image 20260530184023.png",
+    "images/Pasted image 20260530184016.png",
+    "images/Pasted image 20260530184010.png",
+    "images/Pasted image 20260530184002.png",
+    "images/Pasted image 20260530183956.png",
+    "images",
+    "Business_Analyst/Business-Analyst-Rule-Book/AI-Product-Analyst-Rule-Book2.md",
+    "Business_Analyst/Business-Analyst-Rule-Book/AI-Product-Analyst-Rule-Book.pdf",
+    "Business_Analyst/Day02-lab-assignment/01-individual-problem-scan-format-example.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/03-individual-reflection.md",
+    "Human_Read_Only/Business_Analyst/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh",
+    "Business_Analyst/human-read-only",
+    "Business_Analysist/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/03-individual-reflection.md",
+    "Business_Analysist/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/01-individual-problem-scan.md",
+    "Business_Analysist/human-read-only/NousResearch-hermes-agent TOPOLOGY.md",
+    "Business_Analysist/Day02-lab-assignment/README.md"
+  ]
+}
