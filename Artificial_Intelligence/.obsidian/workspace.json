@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "855f6d860f08b8d9",
+    "id": "0a79bf27b6585fda",
     "type": "split",
     "children": [
       {
-        "id": "6637d8c57fdf0175",
+        "id": "295844c469ffa4de",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e8b83d5c7b1bd2",
+            "id": "7771255d629e1c47",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,37 +22,22 @@
               "icon": "lucide-file",
               "title": "_Focus"
             }
-          },
-          {
-            "id": "4deec2343ef66363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_PROJECTS/Agents-Orchestration/my_notes/Vault-Organizer-Topology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vault-Organizer-Topology"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8ade8e0d785360e0",
+    "id": "434d3da924570e23",
     "type": "split",
     "children": [
       {
-        "id": "30d6658802952a6d",
+        "id": "dd08523b4e97f6ef",
         "type": "tabs",
         "children": [
           {
-            "id": "2b74e6d6f21689ba",
+            "id": "635ade71afdb3c39",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +50,7 @@
             }
           },
           {
-            "id": "ab32c8eb84c1ebd6",
+            "id": "33951ae171154521",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +67,7 @@
             }
           },
           {
-            "id": "7267510a5d66277d",
+            "id": "706b793578afe6c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,19 +80,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "b69c020501abbe79",
+    "id": "b920448565968164",
     "type": "split",
     "children": [
       {
-        "id": "81f821bfe0fc9af4",
+        "id": "b249181fb2ab7e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e5934eca11096a",
+            "id": "74cd582357c1ade0",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -126,7 +110,7 @@
             }
           },
           {
-            "id": "647fd895a59dac21",
+            "id": "b4e4bc21fddd6a50",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -140,7 +124,7 @@
             }
           },
           {
-            "id": "e29faf725239a51c",
+            "id": "5381a735c1793aed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,7 +139,7 @@
             }
           },
           {
-            "id": "3b5e063074aa2a42",
+            "id": "25ff86e2dbe3b48c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,7 +153,7 @@
             }
           },
           {
-            "id": "b37d0ece42bf5d95",
+            "id": "05585283ca993a62",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -184,191 +168,7 @@
             }
           },
           {
-            "id": "cb6500c8d5dbf247",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bada83b97f8b4d05",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "1c8fe330ea1b3b97",
-=======
-            "id": "86db2b31525139de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c90d4a7d296fda36",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "753bc0e5f3318295",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ce5fc04f9302b222",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b54a3e07bf1be1ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3b6bfcdda231c169",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6d3668ab5e699e57",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5d74d8e4cfe4c14f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d41e95831d6a6886",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7ed884f251b2e19c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f0a9fc4923b41486",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3d762238b932afec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "99baf1a48c0a9505",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "cd78abc36fa8447e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f38e91823a672c72",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d1c38c01f7bca7db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c53716ac78103c97",
->>>>>>> vault-organize/sandbox-2026-05-28-AI
+            "id": "13e0474735841228",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -378,11 +178,7 @@
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 7
-=======
-        "currentTab": 23
->>>>>>> vault-organize/sandbox-2026-05-28-AI
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -403,79 +199,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "4deec2343ef66363",
+  "active": "7771255d629e1c47",
   "lastOpenFiles": [
-    "1_PROJECTS/Agents-Orchestration/my_notes/_HACollab_usage_guide.md",
-    "2_ACTIONS/_Focus.md",
-    "1_PROJECTS/Agents-Orchestration/my_notes/git_guide.md",
-    "1_PROJECTS/Agents-Orchestration/my_notes/how-to-agent.md",
-    "1_PROJECTS/Agents-Orchestration/my_notes/Vault-Organizer-Topology.md",
-    "2_ACTIONS/VinUni AI Talent.md",
-    "Identity Mapping Violation.md",
-    "Affine Transformation.md",
-    "1_PROJECTS/VIN Practitioner/Day02-AI-Product-Labs/README.md",
-=======
-  "active": "c53716ac78103c97",
-  "lastOpenFiles": [
-    "AI Practitioner.md",
-    "images/Pasted image 20260531212156.png",
-    "images/Pasted image 20260531212033.png",
-    "images/Pasted image 20260531210059.png",
-    "images/Pasted image 20260531204733.png",
-    "images/Pasted image 20260531203616.png",
-    "images/Pasted image 20260531203542.png",
-    "images/Pasted image 20260531203504.png",
-    "images/Pasted image 20260531203441.png",
-    "2_ACTIONS/_Focus.md",
-    "images/Pasted image 20260531195343.png",
-    "AI Engineer by Chip Huyen.md",
-    "3_RESOURCES/Artificial Intelligent/NLP & RAG/Best Practices in Retrieval-Augmented Generation.md",
-    "AI Engineer Book Overview.md",
-    "images/Pasted image 20260530115221.png",
-    "images/Pasted image 20260530115221.png.~tmp",
-    "images/Pasted image 20260530115207.png.~tmp",
-    "images/Pasted image 20260530152634.png.~tmp",
-    "images/Pasted image 20260530115153.png.~tmp",
-    "1_PROJECTS/Agents-Orchestration/my_notes/Business_Analyst4AI_Product_Rule_Book.md",
-    "1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/ROLES/Software_Engineer.md",
-    "1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/ROLES",
-    "1_PROJECTS/Agents-Orchestration/Human-Agent-Collaboration-Framework/Roles",
-    "Business Analyst for AI Product Rule Book.md",
-    "1_PROJECTS/Agents-Orchestration/my_notes/Business Analyst for AI Product Rule Book.md",
-    "2_ACTIONS/Startup AI.md",
-    "1_PROJECTS/VIN Practitioner/Day02-AI-Product-Labs/02-deliverable-example.md",
-    "1_PROJECTS/VIN Practitioner/Day02-AI-Product-Labs/README.md",
-    "1_PROJECTS/VIN Practitioner/Day02-AI-Product-Labs/01-worksheet.md",
-    "1_PROJECTS/VIN Practitioner/Day02-AI-Product-Labs",
-    "1_PROJECTS/VIN Practitioner/Day01-lab-assignment/__pycache__/template.cpython-312.pyc",
-    "1_PROJECTS/VIN Practitioner/Day01-lab-assignment/__pycache__",
-    "1_PROJECTS/VIN Practitioner/Day01-lab-assignment/__init__.py",
-    "1_PROJECTS/VIN Practitioner/Day01-lab-assignment/solution/exercises.md",
-    "1_PROJECTS/VIN Practitioner/Day01-lab-assignment/README.md",
-    "1_PROJECTS/VIN Practitioner/Day01-lab-assignment/exercises.md",
-    "1_PROJECTS/Agents-Orchestration/my_notes/how-to-agent.md",
->>>>>>> vault-organize/sandbox-2026-05-28-AI
-    "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner.md",
-    "3_RESOURCES/AWS & Cloud/AWS Cloud Practitioner QUIZ & Video.md",
-    "3_RESOURCES/AWS & Cloud/AWS Service Taxonomy.md",
-    "3_RESOURCES/AWS & Cloud/AWS Security and Compliance.md",
-    "3_RESOURCES/AWS & Cloud/AWS Project Practices.md",
-    "2_ACTIONS/Study Efficiently - High-Performance Learning.md",
-    "2_ACTIONS/Smartest Way to Use Protein To Build Muscle.md",
-<<<<<<< HEAD
-    "2_ACTIONS/MindPalace.canvas",
-    "2_ACTIONS/How to Write a Cover Letter.md",
-    "2_ACTIONS/Mein Praktikum.md",
-    "2_ACTIONS/Mein Resume and CV.md",
-    "2_ACTIONS/Save4Later.md",
-    "3_RESOURCES/Deep Learning/TensorFlow Code.md",
-    "2_ACTIONS/Job Requirements.md",
-    "3_RESOURCES/Deep Learning/Week 3 Shallow Neural Network.md",
-    "3_RESOURCES/Deep Learning/When Continual Learning is useful.md",
-    "3_RESOURCES/Deep Learning/Pytorch.md"
-=======
-    "2_ACTIONS/MindPalace.canvas"
->>>>>>> vault-organize/sandbox-2026-05-28-AI
+    "3_RESOURCES/AI_Books/Convolution_NeuralNetworkPaper.pdf",
+    "1st Derivative vs 2nd Derivative 1.md",
+    "ALA Week 3 - Advice for Applying Machine Learning 1.md",
+    "Background Subtraction 1.md",
+    "BDA - HW1 1.md",
+    "AWS Cloud Practitioner 1.md",
+    "3_RESOURCES/AI_Books/Exercise 12 Decision Trees, Nearest Neighbor Classifier, Regression Trees.pdf",
+    "3_RESOURCES/AI_Books/Lecture_07_on_Decision_Trees.pdf",
+    "3_RESOURCES/AI_Books/PCA_BachKhoa.pdf",
+    "3_RESOURCES/AI_Books/MachineLearningExercise.pdf",
+    "3_RESOURCES/AI_Books/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
+    "3_RESOURCES/AI_Books/Seeing Theory A visual introduction to the most useful.pdf",
+    "3_RESOURCES/AI_Books/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf",
+    "2_ACTIONS/_Focus.md"
   ]
 }
