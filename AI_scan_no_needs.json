@@ -1,0 +1,2314 @@
+{
+  "vault_root": "D:\\Personlich\\RemoteObsidian",
+  "ai_root": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence",
+  "scan_timestamp": "2026-05-27T17:40:51.809768+00:00",
+  "total_unorganized": 426,
+  "heuristic_matched": [
+    {
+      "filename": "1st Derivative vs 2nd Derivative.md",
+      "relative_path": "Artificial_Intelligence/1st Derivative vs 2nd Derivative.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\1st Derivative vs 2nd Derivative.md",
+      "size_bytes": 4786,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "3 Types of Incremental Learning Survey.md",
+      "relative_path": "Artificial_Intelligence/3 Types of Incremental Learning Survey.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\3 Types of Incremental Learning Survey.md",
+      "size_bytes": 23830,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "9-hour crash course curriculum for learning to build LLM applications. All resources are free.md",
+      "relative_path": "Artificial_Intelligence/9-hour crash course curriculum for learning to build LLM applications. All resources are free.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\9-hour crash course curriculum for learning to build LLM applications. All resources are free.md",
+      "size_bytes": 3109,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
+      "relative_path": "Artificial_Intelligence/Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective.md",
+      "size_bytes": 236,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Affine Transformation.md",
+      "relative_path": "Artificial_Intelligence/Affine Transformation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Affine Transformation.md",
+      "size_bytes": 7583,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "ALA Week 1 - Week Neural Networks.md",
+      "relative_path": "Artificial_Intelligence/ALA Week 1 - Week Neural Networks.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\ALA Week 1 - Week Neural Networks.md",
+      "size_bytes": 3955,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "ALA Week 2 - Neural Network Training.md",
+      "relative_path": "Artificial_Intelligence/ALA Week 2 - Neural Network Training.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\ALA Week 2 - Neural Network Training.md",
+      "size_bytes": 4971,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "ALA Week 3 - Advice for Applying Machine Learning.md",
+      "relative_path": "Artificial_Intelligence/ALA Week 3 - Advice for Applying Machine Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\ALA Week 3 - Advice for Applying Machine Learning.md",
+      "size_bytes": 10637,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Analyse Layer Effect for Deep Learning Network.md",
+      "relative_path": "Artificial_Intelligence/Analyse Layer Effect for Deep Learning Network.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Analyse Layer Effect for Deep Learning Network.md",
+      "size_bytes": 4028,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Anomaly Detection in Machine Learning.md",
+      "relative_path": "Artificial_Intelligence/Anomaly Detection in Machine Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Anomaly Detection in Machine Learning.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Anomaly detection in ML.md",
+      "relative_path": "Artificial_Intelligence/Anomaly detection in ML.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Anomaly detection in ML.md",
+      "size_bytes": 379,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Anomaly Detection.md",
+      "relative_path": "Artificial_Intelligence/Anomaly Detection.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Anomaly Detection.md",
+      "size_bytes": 503,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Attention is All You Need.md",
+      "relative_path": "Artificial_Intelligence/Attention is All You Need.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Attention is All You Need.md",
+      "size_bytes": 17266,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Augmented Matrix.md",
+      "relative_path": "Artificial_Intelligence/Augmented Matrix.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Augmented Matrix.md",
+      "size_bytes": 2360,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Autoencoder and Variational Autoencoder.md",
+      "relative_path": "Artificial_Intelligence/Autoencoder and Variational Autoencoder.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Autoencoder and Variational Autoencoder.md",
+      "size_bytes": 4369,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "AWS Cloud Practitioner QUIZ & Video.md",
+      "relative_path": "Artificial_Intelligence/AWS Cloud Practitioner QUIZ & Video.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\AWS Cloud Practitioner QUIZ & Video.md",
+      "size_bytes": 8964,
+      "category": "3_RESOURCES/Artificial Intelligent/AWS & Cloud",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "AWS Cloud Practitioner.md",
+      "relative_path": "Artificial_Intelligence/AWS Cloud Practitioner.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\AWS Cloud Practitioner.md",
+      "size_bytes": 115786,
+      "category": "3_RESOURCES/Artificial Intelligent/AWS & Cloud",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "AWS Project Practices.md",
+      "relative_path": "Artificial_Intelligence/AWS Project Practices.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\AWS Project Practices.md",
+      "size_bytes": 9210,
+      "category": "3_RESOURCES/Artificial Intelligent/AWS & Cloud",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "AWS Security and Compliance.md",
+      "relative_path": "Artificial_Intelligence/AWS Security and Compliance.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\AWS Security and Compliance.md",
+      "size_bytes": 16028,
+      "category": "3_RESOURCES/Artificial Intelligent/AWS & Cloud",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "AWS Service Taxonomy.md",
+      "relative_path": "Artificial_Intelligence/AWS Service Taxonomy.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\AWS Service Taxonomy.md",
+      "size_bytes": 6074,
+      "category": "3_RESOURCES/Artificial Intelligent/AWS & Cloud",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Background Subtraction.md",
+      "relative_path": "Artificial_Intelligence/Background Subtraction.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Background Subtraction.md",
+      "size_bytes": 198,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "BDA - HW1.md",
+      "relative_path": "Artificial_Intelligence/BDA - HW1.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\BDA - HW1.md",
+      "size_bytes": 1023,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "BDA Cleaned dataset info.md",
+      "relative_path": "Artificial_Intelligence/BDA Cleaned dataset info.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\BDA Cleaned dataset info.md",
+      "size_bytes": 5907,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "BDA Final Term Steps.md",
+      "relative_path": "Artificial_Intelligence/BDA Final Term Steps.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\BDA Final Term Steps.md",
+      "size_bytes": 5483,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "BDA Final Term.md",
+      "relative_path": "Artificial_Intelligence/BDA Final Term.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\BDA Final Term.md",
+      "size_bytes": 11740,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "BERT.md",
+      "relative_path": "Artificial_Intelligence/BERT.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\BERT.md",
+      "size_bytes": 14972,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Best Practice for RAG Indexing.md",
+      "relative_path": "Artificial_Intelligence/Best Practice for RAG Indexing.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Best Practice for RAG Indexing.md",
+      "size_bytes": 810,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Best Practices in Retrieval-Augmented Generation.md",
+      "relative_path": "Artificial_Intelligence/Best Practices in Retrieval-Augmented Generation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Best Practices in Retrieval-Augmented Generation.md",
+      "size_bytes": 1543,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Bias-Variance Tradeoff and Model Performance.md",
+      "relative_path": "Artificial_Intelligence/Bias-Variance Tradeoff and Model Performance.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Bias-Variance Tradeoff and Model Performance.md",
+      "size_bytes": 8929,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Binomial Theorem.md",
+      "relative_path": "Artificial_Intelligence/Binomial Theorem.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Binomial Theorem.md",
+      "size_bytes": 6033,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Biological-Neural-Networks.md",
+      "relative_path": "Artificial_Intelligence/Biological-Neural-Networks.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Biological-Neural-Networks.md",
+      "size_bytes": 1295,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Bisecting K-Means Clustering.md",
+      "relative_path": "Artificial_Intelligence/Bisecting K-Means Clustering.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Bisecting K-Means Clustering.md",
+      "size_bytes": 1658,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Building a neural network FROM SCRATCH.md",
+      "relative_path": "Artificial_Intelligence/Building a neural network FROM SCRATCH.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Building a neural network FROM SCRATCH.md",
+      "size_bytes": 327,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Calculus_Derivative.md",
+      "relative_path": "Artificial_Intelligence/Calculus_Derivative.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Calculus_Derivative.md",
+      "size_bytes": 14255,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Calculus_Optimization.md",
+      "relative_path": "Artificial_Intelligence/Calculus_Optimization.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Calculus_Optimization.md",
+      "size_bytes": 2884,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "class-incremental learning.md",
+      "relative_path": "Artificial_Intelligence/class-incremental learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\class-incremental learning.md",
+      "size_bytes": 1909,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "CNN from Scratch.md",
+      "relative_path": "Artificial_Intelligence/CNN from Scratch.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\CNN from Scratch.md",
+      "size_bytes": 7299,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Common Problems in RAG Systems and Their Solutions.md",
+      "relative_path": "Artificial_Intelligence/Common Problems in RAG Systems and Their Solutions.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Common Problems in RAG Systems and Their Solutions.md",
+      "size_bytes": 2692,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Compare ML Model.md",
+      "relative_path": "Artificial_Intelligence/Compare ML Model.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Compare ML Model.md",
+      "size_bytes": 3976,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Complete Mathematic for Neural Network.md",
+      "relative_path": "Artificial_Intelligence/Complete Mathematic for Neural Network.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Complete Mathematic for Neural Network.md",
+      "size_bytes": 2535,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Computer Vision Revision.md",
+      "relative_path": "Artificial_Intelligence/Computer Vision Revision.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Computer Vision Revision.md",
+      "size_bytes": 2550,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Computer Vision Roadmap.md",
+      "relative_path": "Artificial_Intelligence/Computer Vision Roadmap.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Computer Vision Roadmap.md",
+      "size_bytes": 539,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Computer Vision.md",
+      "relative_path": "Artificial_Intelligence/Computer Vision.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Computer Vision.md",
+      "size_bytes": 570,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Continous Learning vs RAG in solving Catastrophic Forgeting.md",
+      "relative_path": "Artificial_Intelligence/Continous Learning vs RAG in solving Catastrophic Forgeting.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Continous Learning vs RAG in solving Catastrophic Forgeting.md",
+      "size_bytes": 3085,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Continual Learning a Big Topic Survey.md",
+      "relative_path": "Artificial_Intelligence/Continual Learning a Big Topic Survey.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Continual Learning a Big Topic Survey.md",
+      "size_bytes": 11116,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Continual Learning and Catastrophic Forgetting.md",
+      "relative_path": "Artificial_Intelligence/Continual Learning and Catastrophic Forgetting.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Continual Learning and Catastrophic Forgetting.md",
+      "size_bytes": 10516,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Continual Learning Code.md",
+      "relative_path": "Artificial_Intelligence/Continual Learning Code.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Continual Learning Code.md",
+      "size_bytes": 10223,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Continual Learning Survey.md",
+      "relative_path": "Artificial_Intelligence/Continual Learning Survey.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Continual Learning Survey.md",
+      "size_bytes": 8368,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Continual Learning Terms & Definitions.md",
+      "relative_path": "Artificial_Intelligence/Continual Learning Terms & Definitions.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Continual Learning Terms & Definitions.md",
+      "size_bytes": 1891,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "convert softmax log likelihood into sum of probability.md",
+      "relative_path": "Artificial_Intelligence/convert softmax log likelihood into sum of probability.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\convert softmax log likelihood into sum of probability.md",
+      "size_bytes": 5481,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Convolutional Neural Network Main.md",
+      "relative_path": "Artificial_Intelligence/Convolutional Neural Network Main.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Convolutional Neural Network Main.md",
+      "size_bytes": 203,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Correlation Coeficient.md",
+      "relative_path": "Artificial_Intelligence/Correlation Coeficient.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Correlation Coeficient.md",
+      "size_bytes": 874,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Cosine Similarity.md",
+      "relative_path": "Artificial_Intelligence/Cosine Similarity.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Cosine Similarity.md",
+      "size_bytes": 1221,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Course 1 Deep Learning.md",
+      "relative_path": "Artificial_Intelligence/Course 1 Deep Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Course 1 Deep Learning.md",
+      "size_bytes": 128,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Course 4 - Convolutional Neural Network.md",
+      "relative_path": "Artificial_Intelligence/Course 4 - Convolutional Neural Network.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Course 4 - Convolutional Neural Network.md",
+      "size_bytes": 62,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Cross Validation.md",
+      "relative_path": "Artificial_Intelligence/Cross Validation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Cross Validation.md",
+      "size_bytes": 1371,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Decision Tree Archive.md",
+      "relative_path": "Artificial_Intelligence/Decision Tree Archive.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Decision Tree Archive.md",
+      "size_bytes": 1750,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Decision Tree DIY.md",
+      "relative_path": "Artificial_Intelligence/Decision Tree DIY.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Decision Tree DIY.md",
+      "size_bytes": 8480,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Deep Learning Basic.md",
+      "relative_path": "Artificial_Intelligence/Deep Learning Basic.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Deep Learning Basic.md",
+      "size_bytes": 2801,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Deep Learning Week 1 and 2 Test Note.md",
+      "relative_path": "Artificial_Intelligence/Deep Learning Week 1 and 2 Test Note.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Deep Learning Week 1 and 2 Test Note.md",
+      "size_bytes": 1555,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Deep Learning.md",
+      "relative_path": "Artificial_Intelligence/Deep Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Deep Learning.md",
+      "size_bytes": 2004,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "DeepSeek Manifold-Constrained Hyper-Connections (mHC).md",
+      "relative_path": "Artificial_Intelligence/DeepSeek Manifold-Constrained Hyper-Connections (mHC).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\DeepSeek Manifold-Constrained Hyper-Connections (mHC).md",
+      "size_bytes": 10103,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Derivative and Optimization Test.md",
+      "relative_path": "Artificial_Intelligence/Derivative and Optimization Test.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Derivative and Optimization Test.md",
+      "size_bytes": 988,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Derivative Fomula.md",
+      "relative_path": "Artificial_Intelligence/Derivative Fomula.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Derivative Fomula.md",
+      "size_bytes": 3651,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Derivative Week1- Practice Quiz.md",
+      "relative_path": "Artificial_Intelligence/Derivative Week1- Practice Quiz.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Derivative Week1- Practice Quiz.md",
+      "size_bytes": 718,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Determinant.md",
+      "relative_path": "Artificial_Intelligence/Determinant.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Determinant.md",
+      "size_bytes": 1080,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Dropout - A Simple Way to Prevent Neural Networks from Overfitting.md",
+      "relative_path": "Artificial_Intelligence/Dropout - A Simple Way to Prevent Neural Networks from Overfitting.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Dropout - A Simple Way to Prevent Neural Networks from Overfitting.md",
+      "size_bytes": 2209,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Edge Detection.md",
+      "relative_path": "Artificial_Intelligence/Edge Detection.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Edge Detection.md",
+      "size_bytes": 4593,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Eigenvalues and Eigenvectors.md",
+      "relative_path": "Artificial_Intelligence/Eigenvalues and Eigenvectors.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Eigenvalues and Eigenvectors.md",
+      "size_bytes": 6757,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Elastic Weight Consolitation (EWC).md",
+      "relative_path": "Artificial_Intelligence/Elastic Weight Consolitation (EWC).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Elastic Weight Consolitation (EWC).md",
+      "size_bytes": 1052,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Euler's Number and The Natural Logarithm.md",
+      "relative_path": "Artificial_Intelligence/Euler's Number and The Natural Logarithm.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Euler's Number and The Natural Logarithm.md",
+      "size_bytes": 2154,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Example of Finding Eigenvectors and Eigenvalues.md",
+      "relative_path": "Artificial_Intelligence/Example of Finding Eigenvectors and Eigenvalues.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Example of Finding Eigenvectors and Eigenvalues.md",
+      "size_bytes": 203,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Example Prompts.md",
+      "relative_path": "Artificial_Intelligence/Example Prompts.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Example Prompts.md",
+      "size_bytes": 7680,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Face Detection Application.md",
+      "relative_path": "Artificial_Intelligence/Face Detection Application.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Face Detection Application.md",
+      "size_bytes": 2544,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Feature Engineering and Polynomial Regression.md",
+      "relative_path": "Artificial_Intelligence/Feature Engineering and Polynomial Regression.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Feature Engineering and Polynomial Regression.md",
+      "size_bytes": 4848,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Feature Engineering.md",
+      "relative_path": "Artificial_Intelligence/Feature Engineering.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Feature Engineering.md",
+      "size_bytes": 1642,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Feature Scaling.md",
+      "relative_path": "Artificial_Intelligence/Feature Scaling.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Feature Scaling.md",
+      "size_bytes": 495,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+      "relative_path": "Artificial_Intelligence/Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Few-Shot, No Problem - Descriptive Continual Relation Extraction.md",
+      "size_bytes": 23423,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Fine-Tuning BERT to SBERT Documentation.md",
+      "relative_path": "Artificial_Intelligence/Fine-Tuning BERT to SBERT Documentation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Fine-Tuning BERT to SBERT Documentation.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "First Principles of Computer Vision.md",
+      "relative_path": "Artificial_Intelligence/First Principles of Computer Vision.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\First Principles of Computer Vision.md",
+      "size_bytes": 554,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Foundation of Mixture of Expert in Statistical Learning in ML.md",
+      "relative_path": "Artificial_Intelligence/Foundation of Mixture of Expert in Statistical Learning in ML.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Foundation of Mixture of Expert in Statistical Learning in ML.md",
+      "size_bytes": 3873,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Gini Index vs Entropy.md",
+      "relative_path": "Artificial_Intelligence/Gini Index vs Entropy.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Gini Index vs Entropy.md",
+      "size_bytes": 6778,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Gini Index.md",
+      "relative_path": "Artificial_Intelligence/Gini Index.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Gini Index.md",
+      "size_bytes": 2176,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "GPT-2.md",
+      "relative_path": "Artificial_Intelligence/GPT-2.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\GPT-2.md",
+      "size_bytes": 7371,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Gradient and Gradient Descent.md",
+      "relative_path": "Artificial_Intelligence/Gradient and Gradient Descent.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Gradient and Gradient Descent.md",
+      "size_bytes": 15421,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Gradient Descent Example.md",
+      "relative_path": "Artificial_Intelligence/Gradient Descent Example.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Gradient Descent Example.md",
+      "size_bytes": 816,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Gradient Descent, how neural network learn.md",
+      "relative_path": "Artificial_Intelligence/Gradient Descent, how neural network learn.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Gradient Descent, how neural network learn.md",
+      "size_bytes": 2,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Gradient-Descent-Derivations.md",
+      "relative_path": "Artificial_Intelligence/Gradient-Descent-Derivations.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Gradient-Descent-Derivations.md",
+      "size_bytes": 1104,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Hadoop Code.md",
+      "relative_path": "Artificial_Intelligence/Hadoop Code.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Hadoop Code.md",
+      "size_bytes": 188,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Heatmap Pooling for Action Recognition.md",
+      "relative_path": "Artificial_Intelligence/Heatmap Pooling for Action Recognition.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Heatmap Pooling for Action Recognition.md",
+      "size_bytes": 3282,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Histogram Equalization.md",
+      "relative_path": "Artificial_Intelligence/Histogram Equalization.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Histogram Equalization.md",
+      "size_bytes": 5010,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "HoG.md",
+      "relative_path": "Artificial_Intelligence/HoG.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\HoG.md",
+      "size_bytes": 309,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "how the derivatives of the function with respect to the x and y coordinates help approximates.md",
+      "relative_path": "Artificial_Intelligence/how the derivatives of the function with respect to the x and y coordinates help approximates.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\how the derivatives of the function with respect to the x and y coordinates help approximates.md",
+      "size_bytes": 4767,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+      "relative_path": "Artificial_Intelligence/How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\How to Design a AI Agent System - RAG, Vector Database, Evals, Function Calling.md",
+      "size_bytes": 2711,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+      "relative_path": "Artificial_Intelligence/How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\How to Find Eigenvectors if Matrix have Repeated Eigenvalue .md",
+      "size_bytes": 192,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "How to learn Machine Learning.md",
+      "relative_path": "Artificial_Intelligence/How to learn Machine Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\How to learn Machine Learning.md",
+      "size_bytes": 5191,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Human Pose Detection Planning (Behaviour Detection).md",
+      "relative_path": "Artificial_Intelligence/Human Pose Detection Planning (Behaviour Detection).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Human Pose Detection Planning (Behaviour Detection).md",
+      "size_bytes": 5062,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Imbalanced Data in Classification.md",
+      "relative_path": "Artificial_Intelligence/Imbalanced Data in Classification.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Imbalanced Data in Classification.md",
+      "size_bytes": 12592,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Introduction and Motivation for Continual Learning.md",
+      "relative_path": "Artificial_Intelligence/Introduction and Motivation for Continual Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Introduction and Motivation for Continual Learning.md",
+      "size_bytes": 6691,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Introduction to Computer Vision - CNN Focus.md",
+      "relative_path": "Artificial_Intelligence/Introduction to Computer Vision - CNN Focus.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Introduction to Computer Vision - CNN Focus.md",
+      "size_bytes": 9403,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Introduction to TensorFlow.md",
+      "relative_path": "Artificial_Intelligence/Introduction to TensorFlow.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Introduction to TensorFlow.md",
+      "size_bytes": 329,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Investigate Normalization Method in Action Recognition problem.md",
+      "relative_path": "Artificial_Intelligence/Investigate Normalization Method in Action Recognition problem.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Investigate Normalization Method in Action Recognition problem.md",
+      "size_bytes": 6849,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Jacobian Matrix.md",
+      "relative_path": "Artificial_Intelligence/Jacobian Matrix.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Jacobian Matrix.md",
+      "size_bytes": 12959,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "K-Means Clustering.md",
+      "relative_path": "Artificial_Intelligence/K-Means Clustering.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\K-Means Clustering.md",
+      "size_bytes": 4348,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "K-Means from Scratch.md",
+      "relative_path": "Artificial_Intelligence/K-Means from Scratch.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\K-Means from Scratch.md",
+      "size_bytes": 866,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "K-Nearest Neighbor (KNN).md",
+      "relative_path": "Artificial_Intelligence/K-Nearest Neighbor (KNN).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\K-Nearest Neighbor (KNN).md",
+      "size_bytes": 1647,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "K-SVD.md",
+      "relative_path": "Artificial_Intelligence/K-SVD.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\K-SVD.md",
+      "size_bytes": 3578,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Key Equation Behind Probability.md",
+      "relative_path": "Artificial_Intelligence/Key Equation Behind Probability.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Key Equation Behind Probability.md",
+      "size_bytes": 194,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "KL Divergence.md",
+      "relative_path": "Artificial_Intelligence/KL Divergence.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\KL Divergence.md",
+      "size_bytes": 5156,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "L1 vs L2 Regression and Loss Revision.md",
+      "relative_path": "Artificial_Intelligence/L1 vs L2 Regression and Loss Revision.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\L1 vs L2 Regression and Loss Revision.md",
+      "size_bytes": 3542,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "LangChain.md",
+      "relative_path": "Artificial_Intelligence/LangChain.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\LangChain.md",
+      "size_bytes": 6599,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "LangGraph for AI Agents.md",
+      "relative_path": "Artificial_Intelligence/LangGraph for AI Agents.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\LangGraph for AI Agents.md",
+      "size_bytes": 1525,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Least Squares Method.md",
+      "relative_path": "Artificial_Intelligence/Least Squares Method.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Least Squares Method.md",
+      "size_bytes": 664,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Lesson 1 - Introduction to Probability.md",
+      "relative_path": "Artificial_Intelligence/Lesson 1 - Introduction to Probability.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Lesson 1 - Introduction to Probability.md",
+      "size_bytes": 11204,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Lesson 1 - Optimization in Neural Network.md",
+      "relative_path": "Artificial_Intelligence/Lesson 1 - Optimization in Neural Network.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Lesson 1 - Optimization in Neural Network.md",
+      "size_bytes": 7855,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Lesson 2 - Probability Distributions.md",
+      "relative_path": "Artificial_Intelligence/Lesson 2 - Probability Distributions.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Lesson 2 - Probability Distributions.md",
+      "size_bytes": 18055,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Linear Approximation.md",
+      "relative_path": "Artificial_Intelligence/Linear Approximation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Linear Approximation.md",
+      "size_bytes": 1391,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Linear Regression Using Gradient Descent Exercise.md",
+      "relative_path": "Artificial_Intelligence/Linear Regression Using Gradient Descent Exercise.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Linear Regression Using Gradient Descent Exercise.md",
+      "size_bytes": 10319,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Linear Regression.md",
+      "relative_path": "Artificial_Intelligence/Linear Regression.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Linear Regression.md",
+      "size_bytes": 757,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "LLM (Large Language Model).md",
+      "relative_path": "Artificial_Intelligence/LLM (Large Language Model).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\LLM (Large Language Model).md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "LLM Quantization.md",
+      "relative_path": "Artificial_Intelligence/LLM Quantization.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\LLM Quantization.md",
+      "size_bytes": 732,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "LLM Temperature.md",
+      "relative_path": "Artificial_Intelligence/LLM Temperature.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\LLM Temperature.md",
+      "size_bytes": 1420,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Logarithm and Log-Likelihood Function.md",
+      "relative_path": "Artificial_Intelligence/Logarithm and Log-Likelihood Function.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Logarithm and Log-Likelihood Function.md",
+      "size_bytes": 18836,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Logistic Growth (to Sigmoid).md",
+      "relative_path": "Artificial_Intelligence/Logistic Growth (to Sigmoid).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Logistic Growth (to Sigmoid).md",
+      "size_bytes": 1288,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Logistic Regression Lab - Predict whether a student gets admitted into a university.md",
+      "relative_path": "Artificial_Intelligence/Logistic Regression Lab - Predict whether a student gets admitted into a university.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Logistic Regression Lab - Predict whether a student gets admitted into a university.md",
+      "size_bytes": 4484,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Logistic Regression.md",
+      "relative_path": "Artificial_Intelligence/Logistic Regression.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Logistic Regression.md",
+      "size_bytes": 7847,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning & Data Science Intuition.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning & Data Science Intuition.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning & Data Science Intuition.md",
+      "size_bytes": 1412,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning & Data Science Main.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning & Data Science Main.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning & Data Science Main.md",
+      "size_bytes": 1560,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning Algorithm.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning Algorithm.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning Algorithm.md",
+      "size_bytes": 744,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning and Data Science Revision.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning and Data Science Revision.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning and Data Science Revision.md",
+      "size_bytes": 114,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning Interview.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning Interview.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning Interview.md",
+      "size_bytes": 4846,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning Mathematics.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning Mathematics.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning Mathematics.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning Model Time Complexity.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning Model Time Complexity.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning Model Time Complexity.md",
+      "size_bytes": 2609,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning Problems.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning Problems.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning Problems.md",
+      "size_bytes": 1463,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning Process.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning Process.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning Process.md",
+      "size_bytes": 1392,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MACHINE LEARNING RESOURCE.md",
+      "relative_path": "Artificial_Intelligence/MACHINE LEARNING RESOURCE.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MACHINE LEARNING RESOURCE.md",
+      "size_bytes": 244,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning Tools.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning Tools.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning Tools.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Machine Learning.md",
+      "relative_path": "Artificial_Intelligence/Machine Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Machine Learning.md",
+      "size_bytes": 2823,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Magnitude of 2 Vectors.md",
+      "relative_path": "Artificial_Intelligence/Magnitude of 2 Vectors.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Magnitude of 2 Vectors.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "main_Continual Learning & Nested Learning Survey.md",
+      "relative_path": "Artificial_Intelligence/main_Continual Learning & Nested Learning Survey.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\main_Continual Learning & Nested Learning Survey.md",
+      "size_bytes": 10894,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Make Probability Click.md",
+      "relative_path": "Artificial_Intelligence/Make Probability Click.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Make Probability Click.md",
+      "size_bytes": 4051,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "mAP (mean average precision).md",
+      "relative_path": "Artificial_Intelligence/mAP (mean average precision).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\mAP (mean average precision).md",
+      "size_bytes": 1024,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Marginal Probability (why it call Marginal).md",
+      "relative_path": "Artificial_Intelligence/Marginal Probability (why it call Marginal).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Marginal Probability (why it call Marginal).md",
+      "size_bytes": 4493,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Mathematical of Continual Learning.md",
+      "relative_path": "Artificial_Intelligence/Mathematical of Continual Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Mathematical of Continual Learning.md",
+      "size_bytes": 2597,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Mathematics for Machine Learning and Data Science Specialization Check List.md",
+      "relative_path": "Artificial_Intelligence/Mathematics for Machine Learning and Data Science Specialization Check List.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Mathematics for Machine Learning and Data Science Specialization Check List.md",
+      "size_bytes": 118,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Mathematics for Machine Learning.md",
+      "relative_path": "Artificial_Intelligence/Mathematics for Machine Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Mathematics for Machine Learning.md",
+      "size_bytes": 405,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Matrix Multiplication.md",
+      "relative_path": "Artificial_Intelligence/Matrix Multiplication.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Matrix Multiplication.md",
+      "size_bytes": 209,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "matrix pivot.md",
+      "relative_path": "Artificial_Intelligence/matrix pivot.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\matrix pivot.md",
+      "size_bytes": 64,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MIT Deep Learning Course.md",
+      "relative_path": "Artificial_Intelligence/MIT Deep Learning Course.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MIT Deep Learning Course.md",
+      "size_bytes": 5864,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "ML CheatSheet.md",
+      "relative_path": "Artificial_Intelligence/ML CheatSheet.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\ML CheatSheet.md",
+      "size_bytes": 2993,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "ML Coding Interview.md",
+      "relative_path": "Artificial_Intelligence/ML Coding Interview.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\ML Coding Interview.md",
+      "size_bytes": 920,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+      "relative_path": "Artificial_Intelligence/MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MLS Week 1 - Supervised Machine Learning Regression and Classification.md",
+      "size_bytes": 4743,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MLS Week 2 Lab - Feature Scaling and Leaarning Rate (Multi-Variable).md",
+      "relative_path": "Artificial_Intelligence/MLS Week 2 Lab - Feature Scaling and Leaarning Rate (Multi-Variable).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MLS Week 2 Lab - Feature Scaling and Leaarning Rate (Multi-Variable).md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MLS Week 2 Lab - Feature Scaling and Learning Rate (Multi-Variable).md",
+      "relative_path": "Artificial_Intelligence/MLS Week 2 Lab - Feature Scaling and Learning Rate (Multi-Variable).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MLS Week 2 Lab - Feature Scaling and Learning Rate (Multi-Variable).md",
+      "size_bytes": 58,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MLS Week 3 - Classification with logistic regression.md",
+      "relative_path": "Artificial_Intelligence/MLS Week 3 - Classification with logistic regression.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MLS Week 3 - Classification with logistic regression.md",
+      "size_bytes": 10572,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MLT - Machine Learning Terms.md",
+      "relative_path": "Artificial_Intelligence/MLT - Machine Learning Terms.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MLT - Machine Learning Terms.md",
+      "size_bytes": 2447,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Model in RAG (NLP and DL).md",
+      "relative_path": "Artificial_Intelligence/Model in RAG (NLP and DL).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Model in RAG (NLP and DL).md",
+      "size_bytes": 3442,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MoE - Mixture of Expert.md",
+      "relative_path": "Artificial_Intelligence/MoE - Mixture of Expert.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MoE - Mixture of Expert.md",
+      "size_bytes": 7215,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "MongoDB.md",
+      "relative_path": "Artificial_Intelligence/MongoDB.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\MongoDB.md",
+      "size_bytes": 12533,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Morphological Operation.md",
+      "relative_path": "Artificial_Intelligence/Morphological Operation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Morphological Operation.md",
+      "size_bytes": 2985,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Multimodel RAG.md",
+      "relative_path": "Artificial_Intelligence/Multimodel RAG.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Multimodel RAG.md",
+      "size_bytes": 2388,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Multiple Images and Classes in Object Detection.md",
+      "relative_path": "Artificial_Intelligence/Multiple Images and Classes in Object Detection.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Multiple Images and Classes in Object Detection.md",
+      "size_bytes": 10039,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Natural Logarithm.md",
+      "relative_path": "Artificial_Intelligence/Natural Logarithm.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Natural Logarithm.md",
+      "size_bytes": 3185,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Nested Learning - The Illusion of Deep Learning Architecture.md",
+      "relative_path": "Artificial_Intelligence/Nested Learning - The Illusion of Deep Learning Architecture.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Nested Learning - The Illusion of Deep Learning Architecture.md",
+      "size_bytes": 11328,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Nested Learning Overview Note.md",
+      "relative_path": "Artificial_Intelligence/Nested Learning Overview Note.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Nested Learning Overview Note.md",
+      "size_bytes": 20636,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Nested Learning Preliminaries Annotation.md",
+      "relative_path": "Artificial_Intelligence/Nested Learning Preliminaries Annotation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Nested Learning Preliminaries Annotation.md",
+      "size_bytes": 7513,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Neural Network Summary.md",
+      "relative_path": "Artificial_Intelligence/Neural Network Summary.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Neural Network Summary.md",
+      "size_bytes": 2544,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Neural Networks.md",
+      "relative_path": "Artificial_Intelligence/Neural Networks.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Neural Networks.md",
+      "size_bytes": 449,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "NLP Note.md",
+      "relative_path": "Artificial_Intelligence/NLP Note.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\NLP Note.md",
+      "size_bytes": 8515,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "NLTK_&_Spacy_practice.md",
+      "relative_path": "Artificial_Intelligence/NLTK_&_Spacy_practice.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\NLTK_&_Spacy_practice.md",
+      "size_bytes": 12826,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Numpy Vector Array.md",
+      "relative_path": "Artificial_Intelligence/Numpy Vector Array.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Numpy Vector Array.md",
+      "size_bytes": 6394,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "OpenCV Bugs and Errors.md",
+      "relative_path": "Artificial_Intelligence/OpenCV Bugs and Errors.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\OpenCV Bugs and Errors.md",
+      "size_bytes": 272,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "OpenCV Code.md",
+      "relative_path": "Artificial_Intelligence/OpenCV Code.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\OpenCV Code.md",
+      "size_bytes": 10937,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "OpenCV.md",
+      "relative_path": "Artificial_Intelligence/OpenCV.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\OpenCV.md",
+      "size_bytes": 53,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
+      "relative_path": "Artificial_Intelligence/OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\OpenPose vs MediaPipe vs Yolo-Pose - How They Work and Key Differences.md",
+      "size_bytes": 6860,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Optimization in Neural Network and Newton's Method Final Test.md",
+      "relative_path": "Artificial_Intelligence/Optimization in Neural Network and Newton's Method Final Test.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Optimization in Neural Network and Newton's Method Final Test.md",
+      "size_bytes": 9829,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Optimization in Neural Networks and Newton's Method.md",
+      "relative_path": "Artificial_Intelligence/Optimization in Neural Networks and Newton's Method.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Optimization in Neural Networks and Newton's Method.md",
+      "size_bytes": 2513,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Optimization.md",
+      "relative_path": "Artificial_Intelligence/Optimization.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Optimization.md",
+      "size_bytes": 3071,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Optimizers.md",
+      "relative_path": "Artificial_Intelligence/Optimizers.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Optimizers.md",
+      "size_bytes": 1095,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Overfitting and Underfitting.md",
+      "relative_path": "Artificial_Intelligence/Overfitting and Underfitting.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Overfitting and Underfitting.md",
+      "size_bytes": 2670,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Paper Reading - Understanding Naturalistic Facial Expressions with Deep Learning and Multimodal Large Language Models.md",
+      "relative_path": "Artificial_Intelligence/Paper Reading - Understanding Naturalistic Facial Expressions with Deep Learning and Multimodal Large Language Models.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Paper Reading - Understanding Naturalistic Facial Expressions with Deep Learning and Multimodal Large Language Models.md",
+      "size_bytes": 11168,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Partial Derivative and Gradient HW.md",
+      "relative_path": "Artificial_Intelligence/Partial Derivative and Gradient HW.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Partial Derivative and Gradient HW.md",
+      "size_bytes": 236,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "PCB Anomaly Detection Mapping.md",
+      "relative_path": "Artificial_Intelligence/PCB Anomaly Detection Mapping.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\PCB Anomaly Detection Mapping.md",
+      "size_bytes": 3431,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "PCB Anomaly Detection Note & Resources.md",
+      "relative_path": "Artificial_Intelligence/PCB Anomaly Detection Note & Resources.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\PCB Anomaly Detection Note & Resources.md",
+      "size_bytes": 2443,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "PCB Anomaly Detection RoadMap.md",
+      "relative_path": "Artificial_Intelligence/PCB Anomaly Detection RoadMap.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\PCB Anomaly Detection RoadMap.md",
+      "size_bytes": 4184,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "PCB defects detection using YOLOv5.md",
+      "relative_path": "Artificial_Intelligence/PCB defects detection using YOLOv5.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\PCB defects detection using YOLOv5.md",
+      "size_bytes": 13048,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "PDF Chatbot - Simple RAG from Scratch.md",
+      "relative_path": "Artificial_Intelligence/PDF Chatbot - Simple RAG from Scratch.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\PDF Chatbot - Simple RAG from Scratch.md",
+      "size_bytes": 7788,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Person Correlation.md",
+      "relative_path": "Artificial_Intelligence/Person Correlation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Person Correlation.md",
+      "size_bytes": 2790,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "POS (Part-Of-Speech) Tagging.md",
+      "relative_path": "Artificial_Intelligence/POS (Part-Of-Speech) Tagging.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\POS (Part-Of-Speech) Tagging.md",
+      "size_bytes": 35,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Practice Lab Linear Regression - predict best place to open restaurant.md",
+      "relative_path": "Artificial_Intelligence/Practice Lab Linear Regression - predict best place to open restaurant.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Practice Lab Linear Regression - predict best place to open restaurant.md",
+      "size_bytes": 3565,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Precision and Recall.md",
+      "relative_path": "Artificial_Intelligence/Precision and Recall.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Precision and Recall.md",
+      "size_bytes": 420,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Prompt Engineering.md",
+      "relative_path": "Artificial_Intelligence/Prompt Engineering.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Prompt Engineering.md",
+      "size_bytes": 11162,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Prompt Optimization.md",
+      "relative_path": "Artificial_Intelligence/Prompt Optimization.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Prompt Optimization.md",
+      "size_bytes": 6999,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Pytorch.md",
+      "relative_path": "Artificial_Intelligence/Pytorch.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Pytorch.md",
+      "size_bytes": 8352,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Quizz - Optimizer.md",
+      "relative_path": "Artificial_Intelligence/Quizz - Optimizer.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Quizz - Optimizer.md",
+      "size_bytes": 561,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Qwen-VL.md",
+      "relative_path": "Artificial_Intelligence/Qwen-VL.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Qwen-VL.md",
+      "size_bytes": 988,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG Crash Course.md",
+      "relative_path": "Artificial_Intelligence/RAG Crash Course.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG Crash Course.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG Implementation Documentation.md",
+      "relative_path": "Artificial_Intelligence/RAG Implementation Documentation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG Implementation Documentation.md",
+      "size_bytes": 1675,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG Improvement Note.md",
+      "relative_path": "Artificial_Intelligence/RAG Improvement Note.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG Improvement Note.md",
+      "size_bytes": 975,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG Road Map.md",
+      "relative_path": "Artificial_Intelligence/RAG Road Map.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG Road Map.md",
+      "size_bytes": 6653,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG Summarize.md",
+      "relative_path": "Artificial_Intelligence/RAG Summarize.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG Summarize.md",
+      "size_bytes": 3440,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG System Design Blog.md",
+      "relative_path": "Artificial_Intelligence/RAG System Design Blog.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG System Design Blog.md",
+      "size_bytes": 15766,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG system in Production.md",
+      "relative_path": "Artificial_Intelligence/RAG system in Production.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG system in Production.md",
+      "size_bytes": 307,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "RAG Ultimate.md",
+      "relative_path": "Artificial_Intelligence/RAG Ultimate.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\RAG Ultimate.md",
+      "size_bytes": 7107,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Research Prompt.md",
+      "relative_path": "Artificial_Intelligence/Research Prompt.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Research Prompt.md",
+      "size_bytes": 1667,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Residual Connections.md",
+      "relative_path": "Artificial_Intelligence/Residual Connections.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Residual Connections.md",
+      "size_bytes": 1453,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
+      "relative_path": "Artificial_Intelligence/Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Retrieval Augmented Generation RAG - Embedding, Sentence BERT, Vector Database.md",
+      "size_bytes": 11295,
+      "category": "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+      "relative_path": "Artificial_Intelligence/SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\SaP Week 1 - Introduction to Probability and Probability Distributions.md",
+      "size_bytes": 150,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
+      "relative_path": "Artificial_Intelligence/SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\SaP Week 2 - Describing probability distributions and probability distributions with multiple variables.md",
+      "size_bytes": 14347,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "SBERT.md",
+      "relative_path": "Artificial_Intelligence/SBERT.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\SBERT.md",
+      "size_bytes": 12335,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Sentence Transformer Evolution.md",
+      "relative_path": "Artificial_Intelligence/Sentence Transformer Evolution.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Sentence Transformer Evolution.md",
+      "size_bytes": 8986,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Sentiment Analysis using LSTM.md",
+      "relative_path": "Artificial_Intelligence/Sentiment Analysis using LSTM.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Sentiment Analysis using LSTM.md",
+      "size_bytes": 25209,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Shannon Entropy.md",
+      "relative_path": "Artificial_Intelligence/Shannon Entropy.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Shannon Entropy.md",
+      "size_bytes": 14429,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Singular Matrix.md",
+      "relative_path": "Artificial_Intelligence/Singular Matrix.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Singular Matrix.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Statistic and Probability for Machine Learning.md",
+      "relative_path": "Artificial_Intelligence/Statistic and Probability for Machine Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Statistic and Probability for Machine Learning.md",
+      "size_bytes": 403,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Statistical Regression.md",
+      "relative_path": "Artificial_Intelligence/Statistical Regression.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Statistical Regression.md",
+      "size_bytes": 447,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Step by Step CNN.md",
+      "relative_path": "Artificial_Intelligence/Step by Step CNN.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Step by Step CNN.md",
+      "size_bytes": 11119,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Supervised Machine Learning - Regression and Classification.md",
+      "relative_path": "Artificial_Intelligence/Supervised Machine Learning - Regression and Classification.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Supervised Machine Learning - Regression and Classification.md",
+      "size_bytes": 203,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "SVD Singular Value Decomposition in Dimensionality Reduction.md",
+      "relative_path": "Artificial_Intelligence/SVD Singular Value Decomposition in Dimensionality Reduction.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\SVD Singular Value Decomposition in Dimensionality Reduction.md",
+      "size_bytes": 886,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "SVD.md",
+      "relative_path": "Artificial_Intelligence/SVD.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\SVD.md",
+      "size_bytes": 1432,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "SVM - Support Vector Machine.md",
+      "relative_path": "Artificial_Intelligence/SVM - Support Vector Machine.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\SVM - Support Vector Machine.md",
+      "size_bytes": 2897,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "SVM HW.md",
+      "relative_path": "Artificial_Intelligence/SVM HW.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\SVM HW.md",
+      "size_bytes": 7769,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "TensorFlow CNN.md",
+      "relative_path": "Artificial_Intelligence/TensorFlow CNN.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\TensorFlow CNN.md",
+      "size_bytes": 1337,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "TensorFlow Code.md",
+      "relative_path": "Artificial_Intelligence/TensorFlow Code.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\TensorFlow Code.md",
+      "size_bytes": 2344,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Tensorflow Object Detection with Python.md",
+      "relative_path": "Artificial_Intelligence/Tensorflow Object Detection with Python.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Tensorflow Object Detection with Python.md",
+      "size_bytes": 573,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "The Jacobian Matrix Subtitle.md",
+      "relative_path": "Artificial_Intelligence/The Jacobian Matrix Subtitle.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\The Jacobian Matrix Subtitle.md",
+      "size_bytes": 40007,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Traditional Action Detection using LSTM with Convolutional Network.md",
+      "relative_path": "Artificial_Intelligence/Traditional Action Detection using LSTM with Convolutional Network.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Traditional Action Detection using LSTM with Convolutional Network.md",
+      "size_bytes": 7923,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Transformer Model Introduction (Attention Is All You Need).md",
+      "relative_path": "Artificial_Intelligence/Transformer Model Introduction (Attention Is All You Need).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Transformer Model Introduction (Attention Is All You Need).md",
+      "size_bytes": 16207,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Transformers-Optimization.md",
+      "relative_path": "Artificial_Intelligence/Transformers-Optimization.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Transformers-Optimization.md",
+      "size_bytes": 1063,
+      "category": "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "understand pythagorian in matrix.md",
+      "relative_path": "Artificial_Intelligence/understand pythagorian in matrix.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\understand pythagorian in matrix.md",
+      "size_bytes": 141,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Vector Dot Product.md",
+      "relative_path": "Artificial_Intelligence/Vector Dot Product.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Vector Dot Product.md",
+      "size_bytes": 1899,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Vector Manipulation.md",
+      "relative_path": "Artificial_Intelligence/Vector Manipulation.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Vector Manipulation.md",
+      "size_bytes": 5754,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Vector norm, Projection.md",
+      "relative_path": "Artificial_Intelligence/Vector norm, Projection.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Vector norm, Projection.md",
+      "size_bytes": 1143,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Vector.md",
+      "relative_path": "Artificial_Intelligence/Vector.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Vector.md",
+      "size_bytes": 75,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "VIsualize Catastrophic Forgetting.md",
+      "relative_path": "Artificial_Intelligence/VIsualize Catastrophic Forgetting.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\VIsualize Catastrophic Forgetting.md",
+      "size_bytes": 1115,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Week 1 - Foundations of Convolutional Neural Networks.md",
+      "relative_path": "Artificial_Intelligence/Week 1 - Foundations of Convolutional Neural Networks.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Week 1 - Foundations of Convolutional Neural Networks.md",
+      "size_bytes": 2145,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Week 1 Matrix System.md",
+      "relative_path": "Artificial_Intelligence/Week 1 Matrix System.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Week 1 Matrix System.md",
+      "size_bytes": 20509,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Week 3 - Optimization in Neural Network and Newton's Method.md",
+      "relative_path": "Artificial_Intelligence/Week 3 - Optimization in Neural Network and Newton's Method.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Week 3 - Optimization in Neural Network and Newton's Method.md",
+      "size_bytes": 31576,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Week 3 Shallow Neural Network.md",
+      "relative_path": "Artificial_Intelligence/Week 3 Shallow Neural Network.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Week 3 Shallow Neural Network.md",
+      "size_bytes": 969,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "What do Neural Network Learn.md",
+      "relative_path": "Artificial_Intelligence/What do Neural Network Learn.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\What do Neural Network Learn.md",
+      "size_bytes": 2,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "What is Jacobian - The right way of thinking derivatives and integrals.md",
+      "relative_path": "Artificial_Intelligence/What is Jacobian - The right way of thinking derivatives and integrals.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\What is Jacobian - The right way of thinking derivatives and integrals.md",
+      "size_bytes": 25163,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "What is Neural Network.md",
+      "relative_path": "Artificial_Intelligence/What is Neural Network.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\What is Neural Network.md",
+      "size_bytes": 5547,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "When Continual Learning is useful.md",
+      "relative_path": "Artificial_Intelligence/When Continual Learning is useful.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\When Continual Learning is useful.md",
+      "size_bytes": 2651,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Where Neural Networks come from.md",
+      "relative_path": "Artificial_Intelligence/Where Neural Networks come from.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Where Neural Networks come from.md",
+      "size_bytes": 359,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Why Attention Score don't use Cosine Similarity.md",
+      "relative_path": "Artificial_Intelligence/Why Attention Score don't use Cosine Similarity.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Why Attention Score don't use Cosine Similarity.md",
+      "size_bytes": 3842,
+      "category": "3_RESOURCES/Artificial Intelligent/Mathematics",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Why Do Neural Network love Softmax.md",
+      "relative_path": "Artificial_Intelligence/Why Do Neural Network love Softmax.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Why Do Neural Network love Softmax.md",
+      "size_bytes": 1859,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Why Machine Learning.md",
+      "relative_path": "Artificial_Intelligence/Why Machine Learning.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Why Machine Learning.md",
+      "size_bytes": 761,
+      "category": "3_RESOURCES/Artificial Intelligent/Machine Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Why Neural Networks can learn (almost) anything.md",
+      "relative_path": "Artificial_Intelligence/Why Neural Networks can learn (almost) anything.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Why Neural Networks can learn (almost) anything.md",
+      "size_bytes": 1030,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "YOlO (You Only Look Once).md",
+      "relative_path": "Artificial_Intelligence/YOlO (You Only Look Once).md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\YOlO (You Only Look Once).md",
+      "size_bytes": 98,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "YOLO Family.md",
+      "relative_path": "Artificial_Intelligence/YOLO Family.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\YOLO Family.md",
+      "size_bytes": 16459,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "YOLO Models performance comparison.md",
+      "relative_path": "Artificial_Intelligence/YOLO Models performance comparison.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\YOLO Models performance comparison.md",
+      "size_bytes": 1123,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "YOLO Performance Metrics.md",
+      "relative_path": "Artificial_Intelligence/YOLO Performance Metrics.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\YOLO Performance Metrics.md",
+      "size_bytes": 0,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "YOLOv1.md",
+      "relative_path": "Artificial_Intelligence/YOLOv1.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\YOLOv1.md",
+      "size_bytes": 15012,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "Yolov5 bugs.md",
+      "relative_path": "Artificial_Intelligence/Yolov5 bugs.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\Yolov5 bugs.md",
+      "size_bytes": 1264,
+      "category": "3_RESOURCES/Artificial Intelligent/Computer Vision",
+      "method": "heuristic",
+      "confidence": "high"
+    },
+    {
+      "filename": "zero_grad.md",
+      "relative_path": "Artificial_Intelligence/zero_grad.md",
+      "absolute_path": "D:\\Personlich\\RemoteObsidian\\Artificial_Intelligence\\zero_grad.md",
+      "size_bytes": 4489,
+      "category": "3_RESOURCES/Artificial Intelligent/Deep Learning",
+      "method": "heuristic",
+      "confidence": "high"
+    }
+  ],
+  "existing_categories": [
+    "2_ACTIONS",
+    "4_ARCHIVES",
+    "3_RESOURCES/Artificial Intelligent/AWS & Cloud",
+    "3_RESOURCES/Artificial Intelligent/Big Data & Databases",
+    "3_RESOURCES/Artificial Intelligent/NLP & RAG",
+    "3_RESOURCES/Artificial Intelligent/Computer Vision",
+    "3_RESOURCES/Artificial Intelligent/Mathematics",
+    "3_RESOURCES/Artificial Intelligent/Deep Learning",
+    "3_RESOURCES/Artificial Intelligent/Machine Learning"
+  ]
+}

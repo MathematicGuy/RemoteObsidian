@@ -1,0 +1,54 @@
+[Learn how to Design and Build RAG](https://www.youtube.com/watch?v=ZREt9MAozho)
+[AI System Design](https://www.youtube.com/watch?v=CyLYY_xb5bQ)
+[How to choose an LLM](https://www.aihero.dev/how-to-choose-an-llm)
+[RAG System Variant](https://medium.com/@kyle.zarif/designing-rag-systems-patterns-tradeoffs-and-code-examples-95c33a8b2df7)
+[How agentic search helps AI understand long documents](https://www.outerport.com/blog/agentic-search)
+[Saas Template to launch your app faster (Supabase, NextJS)](https://youtu.be/ad1BxZufer8?si=WAU2astuipWpwt63)
+**RAG System Types of Questions**
+	`[problem]` + `[constrain]` + `[current resource]`. Đưa ra giải pháp, cho biết lý do và giải thích vì sao lại chọn thiết kế đó (so sánh với các thiết kế khác) ? 
+	Câu hỏi khá đa dạng -> dựa vào nền tảng rồi tự đưa ra đánh giá và thiết kế 
+
+---
+### Detail Example - [source](https://youtu.be/CyLYY_xb5bQ?si=rgpf2lalHxxPBQqH)
+![[Pasted image 20260428173636.png]]
+	CSAT - customer satisfaction score
+	p50, p95 < 1s - response rate for `X%` customer below `t` second. 
+	have a DB for frequently asked question  
+	.
+	Define list of tools and API in somewhere else.
+	Policy and Guardrails -> Check if the requirements fit with the policy.
+	How to track CSAT, p50 metrics across the systems.
+
+
+**CRUD with Relational DB**
+![[Pasted image 20260428182519.png]]
+**Looping to Human:** Delegate most task to LLM. But Emotional Support for HUMAN. 
+![[Pasted image 20260428182541.png | 400]]
+Agent Function Calling
+![[Pasted image 20260428182718.png | 400]]
+
+*Tools and APIs Asernal*
+![[Pasted image 20260428182816.png | 400]]
+
+Planner Agent or Deterministic workflow ? Make a Decision Tree, Planner Agent for Complex Task and Deterministic for Simple Problem.
+	e.g. Human Verify Product -> if New then Allow Return, Else Planner Agent to answer Q&A. If Purchaces -> deterministic flow to Stride payment.	
+
+*RAG - Retrieveal Augmented Generation* 
+- receive query request from AI Agent -> Retrieve structured information for (FAQ, Policies) from a Private VectorDB -> use Guardrails to make sure return information is SAFE and Align with the request (prevent Prompt Injection)  ![[Pasted image 20260429150747.png | 555]]
+
+*After RAG* - execute user Request e.g. Payment through Stripe API 
+![[Pasted image 20260429150943.png | 555]]
+
+After *Request finished, return the Current Status to the Q&A agent for response.* 
+![[Pasted image 20260429151157.png | 444]]
+
+Finally save Log into CRM (_customer relationship management_) for tracking CSAT, p50 and p95.
+![[Pasted image 20260429151616.png]]
+
+**Final Overview**
+![[Pasted image 20260428182315.png]]
+
+
+
+![[RAG System Design]]
+

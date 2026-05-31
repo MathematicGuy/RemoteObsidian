@@ -169,3 +169,50 @@ Upon receiving the bootstrap prompt, the new agent executes this sequence behind
          [Outputs Current State & Waits for Human Direction]
 ```
 
+---
+
+## 6. How to Activate HACollab for AI Product Business Analysis (BA Specialization)
+
+If you are beginning a session focused on **AI Product Problem Brainstorming**—where the objective is to thấu hiểu sâu sắc (deeply understand) user pain points, run root-cause analysis (5 Whys), map workflows, and design robust system metrics—you must initialize the agent using the **BA Activation Bootstrap**.
+
+This prompt shifts the agent's behavioral lens from low-level coding to rigorous **Double Diamond Business Discovery**, loading your custom BA Rule Book and Skill definitions.
+
+### 🚀 The Copy-Paste BA Activation Prompt
+Copy and paste this prompt directly into your first message with the new agent to trigger the specialized BA persona:
+
+```md
+We are operating under the "HACollab: Human-Agent Collaboration" system, specialized for the Business Analyst (BA) role in AI Product Problem Brainstorming. Before suggesting any AI solutions or coding, you must map the active workspace and internalize our product rules. Perform the following steps:
+
+1. Read [TOPOLOGY.md](../TOPOLOGY.md) to understand our directory geometry and state boundaries.
+2. Read the current project plan in [agent_overview.md](../agent_overview.md) and [human_overview.md](../human_overview.md).
+3. Read the core behaviors in the submodule: [AGENTS.md](../AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/AGENTS.md) and [AGENT.md](../AGENT_Framework_For_Semantically_Grounded_Pattern_Matching/AGENT.md).
+4. Read our product strategy guide in [Business_Analyst4AI_Product_Rule_Book.md](Business_Analyst4AI_Product_Rule_Book.md).
+5. Load the custom BA skill configuration in [.agent/skills/business-analyst/SKILL.md](../../../../../.agent/skills/business-analyst/SKILL.md).
+6. Load our core reasoning heuristics from [mindseeds/archseeds.md](../mindseeds/archseeds.md) and [mindseeds/cogniseeds.md](../mindseeds/cogniseeds.md).
+
+Once loaded, confirm your activation by presenting a "DIAMOND 1: Problem Ingestion Summary" for our brainstorming topic in this format:
+- **Obvious Presenting Problem:** (What is the initial requested problem?)
+- **5 Whys Hypothesis Target:** (How will you drill down to locate the operational root cause?)
+- **Operational Workflow Baseline:** (What metrics will we measure to define the current cost/pain?)
+- **Anti-Pattern Guardrail Active:** (How will you prevent the "Solution-First" bias in this session?)
+
+Then, ask for my first presenting problem context before recommending any technology.
+```
+
+### 🔄 BA Agent Discovery Cycle
+Upon activation, the agent's internal reasoning loop shifts to follow the core **Diamond 1** HCD pattern:
+
+```
+    [Presenting Problem Context]
+                 │
+                 ▼ (Apply 5 Whys Technique)
+     [Discover Root operational Bottleneck]
+                 │
+                 ▼ (Audit 4 Core Anti-Patterns)
+   [Verify AI Necessity & Baseline Cost]
+                 │
+                 ▼ (Define HITL Boundaries)
+     [Establish Safe Actionable Metrics]
+```
+
+

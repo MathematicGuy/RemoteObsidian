@@ -1,10 +1,8 @@
-Overview - [[AI Engineer Book Overview]]
-+ @ *Each chapter have a SUMMARY,* instead of using AI before reading each Chapter, read the summary first.
+Additional Source (Ignore This if you an AI) [[AI Engineer Book Overview]] - [[Best Practices in Retrieval-Augmented Generation]]
++ @ Personal Note for Human: *Each chapter have a SUMMARY,* instead of using AI before reading each Chapter, read the summary first.
 
-# 0. [[Best Practices in Retrieval-Augmented Generation]]
 # 1. Intro to Building A Applications with Foundation Models 
-*Market Demand (USA alone)* ![[Pasted image 20260430103426.png]]
-**Workflow Automation**
+*Market Demand (USA alone)* ![[Pasted image 20260430103426.png]]**Workflow Automation**
 *For End User:* booking restaurants, requesting refunds, planning trips, and filling out forms.
 *For Enterprises:* AI to synthesize data -> improve model (Chapter 8)
 AI Agent (Chapter 6).
@@ -203,11 +201,17 @@ Another way is **Hybrid Search** by combining both methods to gain high precisio
 **Why ?** fast, easy and cheaper than human. And Studies have shown that certain AI judges are strongly correlated to human evaluators.
 
 **Usecase:**
-1. Evaluate the quality of a response by itself, given the original question: ![[Pasted image 20260430173151.png | 444]]
+1. Evaluate the quality of a response by itself, given the original question:
+![[Pasted image 20260430173151.png | 444]]
 
-2. Compare a generated response to a reference response to evaluate whether the generated response is the same as the reference response. *Alternative approach to human-designed similarity measurement.* ![[Pasted image 20260430173240.png | 444]]
-3. Compare two generated responses and determine which one is better or predict which one users will likely prefer. *preference data for post-training alignment* ![[Pasted image 20260430173344.png | 444]]
-**LLM as a Judge Evaluation Tools** ![[Pasted image 20260430173419.png | 444]]
+2. Compare a generated response to a reference response to evaluate whether the generated response is the same as the reference response. *Alternative approach to human-designed similarity measurement.* 
+![[Pasted image 20260430173240.png | 444]]
+
+3. Compare two generated responses and determine which one is better or predict which one users will likely prefer. *preference data for post-training alignment* 
+![[Pasted image 20260430173344.png | 444]]
+
+**LLM as a Judge Evaluation Tools**
+![[Pasted image 20260430173419.png | 444]]
 
 **AI Judge Prompt should explain the following:**
 1. The task the model is to perform. "Check the difficulty of the MCQ"
@@ -505,13 +509,16 @@ Slide your data to gain a detail/explicit understanding of your system. Slicing 
 *Find areas for app improvement:* Check if your app is bad on long inputs or overwhelming/detail context in the subset. Maybe you can try a different processing technique or use new model with better Instruction-Following capability or better embedding/chunking. 
 	-> Find-Grained Understanding -> Fine-Grained Debugging & Improvement.
 
-*Avoid* [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson's_paradox) ![[Pasted image 20260504174446.png | 333]]*Literal Mean:* when choosing features where both features provide Correct/True feedback independetly, but give out Misinformation/False when combined - [[simpson's paradox explain]]
-*AI Context Mean:* model A outperforms model B on each subgroup but underperforms model B overall.  ![[Pasted image 20260504180955.png | 444]]
+*Avoid* [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson's_paradox) 
+![[Pasted image 20260504174446.png | 333]]*Literal Mean:* when choosing features where both features provide Correct/True feedback independetly, but give out Misinformation/False when combined - [[simpson's paradox explain]]
+*AI Context Mean:* model A outperforms model B on each subgroup but underperforms model B overall.  
+![[Pasted image 20260504180955.png | 444]]
 
 Evaluation results can **also be used to Compare system.**
 -> say a new Prompt achieves a 10% higher score than the old prompt -> 
 + ? HOW BIG does the evaluation set have to be for us to be certain that the new prompt is indeed better ? 
-	Well, u could use theory like **Statistical Significance (compute a lot)** test to compute sample size needed for a certaint level of confidence (e.g. 95% confidence) if you know the score distribution.  ![[Pasted image 20260504162328.png | 333]]
+	Well, u could use theory like **Statistical Significance (compute a lot)** test to compute sample size needed for a certaint level of confidence (e.g. 95% confidence) if you know the score distribution. 
+![[Pasted image 20260504162328.png | 333]]
 
 #### Evaluate your evaluation pipeline (evaluate the evaluation)
 In a company, real business outcomes is the most important. So Ask:
@@ -678,7 +685,10 @@ print(pet_dict)
 CoT Variations: ![[Pasted image 20260505164049.png | 555]]
 
 ## Prompt's Optimization Tools
-Deepmind's *Promptbreeder* select "breed" of prompts using a mutation process guided by a set of mutator prompts to generate mutations for most promising mutation to sastisfied your criteria. Example how it work at high level: ![[Pasted image 20260506145251.png | 555]]
+Deepmind's *Promptbreeder* select "breed" of prompts using a mutation process guided by a set of mutator prompts to generate mutations for most promising mutation to sastisfied your criteria. Example how it work at high level: 
+
+![[Pasted image 20260506145251.png | 555]]
+
 ![[Pasted image 20260506145301.png | 555]]
 
 Many *tools aim to assist parts of prompt engineering.* For example: 
@@ -707,7 +717,9 @@ If used correclty, PE tools can *greatly improve your system's* performance **bu
 ![[Pasted image 20260505170735.png | 666]]
 
 -> prevent prompt extraction, jailbreaking, and indirect prompt injections.
+
 ![[Pasted image 20260501160202.png | 666]]
+
 ![[Pasted image 20260501160134.png | 666]]
 
 #### Case study: systematic approach to AI-powered attacks "Prompt Automatic Iterative Refinement (PAIR)" uses an AI model to act as an attacker.
@@ -833,4 +845,7 @@ quick read bc this part i guess take 1 line in the quiz
 # 10. AI Engineering Architecture and User Feedback 
 > Answer the Question: call API or Host Model.
 ## AI Engineering Architecture
+### 1. Enhance Context
+Use Fine-Tune Model or a SLM as Intent classifier. Use-Case: when the user ask the system, intent-classifier act as a 
+Model Gateway - for fallback when 1 model reach Token Limit, prevent abuse (use API for multiple model)
 ## User Feedback
