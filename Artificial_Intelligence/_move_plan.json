@@ -1,0 +1,1567 @@
+{
+  "generated_at": "2026-06-01T02:22:30.635997+00:00",
+  "vault_root": "D:\\Personlich\\RemoteObsidian",
+  "total_moves": 156,
+  "moves": [
+    {
+      "filename": "5G Basics - What it all about.md",
+      "source": "Artificial_Intelligence/5G Basics - What it all about.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/5G Basics - What it all about.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### History of 5G\nEach Generation last about 10 years. Between 3 and 4, 4 and 5 there a .5 version (i.e.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "adversarial attacks.md",
+      "source": "Artificial_Intelligence/adversarial attacks.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/adversarial attacks.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**\"a type of cyber attack that manipulate machine learning models to produce incorrect results\"**\n\n**2 types:**\n+ **evasion attacks** (modifying an image so an AI fails to recognize it correctly) \n...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Agent System.md",
+      "source": "Artificial_Intelligence/AI Agent System.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Agents & Systems/AI Agent System.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Blueprint: Agent-Subagent System for Intelligent Vault Organization\n\nThis document provides a complete conceptual framework and a ready-to-run **Agent-Subagent** implementation. It uses a **Hub-a...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Agent.md",
+      "source": "Artificial_Intelligence/AI Agent.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Agents & Systems/AI Agent.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Check Code for AI Agent ? https://github.com/khanhnam-nathan/Pyneat\n\n## [[How to use AI Agent for Agentic Coding]]\n## LLMs Tools Calling \n### Agentic Tools (like Functions)\n*@tool descrioption/cont...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Conference Deadline.md",
+      "source": "Artificial_Intelligence/AI Conference Deadline.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Machine Learning/AI Conference Deadline.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Top Artificial Intelligence Conferences** \n- **[NeurIPS](https://www.google.com/search?client=firefox-b-d&q=NeurIPS&mstk=AUtExfAJ5Pj_r9hthP8xBnlEpuaIMAPdBXHRyjriVMhPBBoT79iMbucak0Swl8LVnK_Pa_Y889...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Engineer Book Overview.md",
+      "source": "Artificial_Intelligence/AI Engineer Book Overview.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Engineering & Practices/AI Engineer Book Overview.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "_AI Engineering_ book offers a *framework for selecting tools.* Includes trade-offs between diff solutions and the question u should ask when evaluating a solution. How to Consume a Long Book Metho...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Engineer by Chip Huyen.md",
+      "source": "Artificial_Intelligence/AI Engineer by Chip Huyen.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Engineering & Practices/AI Engineer by Chip Huyen.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Additional Source (Ignore This if you an AI) [[AI Engineer Book Overview]] - [[Best Practices in Retrieval-Augmented Generation]]\n+ @ Personal Note for Human: *Each chapter have a SUMMARY,* instead...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Engineer.md",
+      "source": "Artificial_Intelligence/AI Engineer.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Engineering & Practices/AI Engineer.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Goal - Design a MVP AI System\n\tRAG must be production-ready - what are a Production Ready System. Decision and safety layers are critical\n\n*Video Turtorials & Guides:* \n+ [[AI Agent System]] - [AI ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Ethics.md",
+      "source": "Artificial_Intelligence/AI Ethics.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Ethics & News/AI Ethics.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Bias - Avoid Discrimination\nWho responsible - software dev, hospital, docter, company ? Build Trust - long term benefit\n\nPrinciple of Transparency:\n+ Decision by AI should be explainable and compre...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI For Everyone.md",
+      "source": "Artificial_Intelligence/AI For Everyone.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/AI For Everyone.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Market Values**\n![[Pasted image 20231123090322.png]]\n\n# [[What Is AI]] \n\n+ ## What makes an AI company\n\n+ ## What machine learning can and cannot do\n\n+ ## Intuitive explanation of Deep Learning\n\n...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Intro and Definition.md",
+      "source": "Artificial_Intelligence/AI Intro and Definition.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/AI Intro and Definition.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Artificial intelligence (AI) refers to the ability of computers or machines to exhibit behaviors that mimic human intelligence. This broadly includes capabilities like:\n\n- **Learning:** Acquiring k...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Movie.md",
+      "source": "Artificial_Intelligence/AI Movie.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/AI Movie.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Ex Machina\nBlade Runner 2049\n\nMovie about Math:\n+ The Man Who Knew Infinity \n+ The Theory of Everything\n+ Travelling Salesman (=)) that the math)",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI NEWS.md",
+      "source": "Artificial_Intelligence/AI NEWS.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Ethics & News/AI NEWS.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**[META TUNG KIẾN TRÚC MỚI THAY THẾ TOKENIZATION](https://www.facebook.com/share/p/16WBGDh5D6/)**\n```ad-note\nTháng 12/24, Bước cùng AI review paper mang tính đột phá của Meta. Công ty này vừa open ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI Practitioner.md",
+      "source": "Artificial_Intelligence/AI Practitioner.md",
+      "destination": "Artificial_Intelligence/2_ACTIONS/AI Practitioner.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Day02-AI-Product-Labs\n01/ top 3 Problem Cards, draft workflow trước/sau. 02/ Nhóm 3-4 người làm một bản nhật ký, kiểm chứng/research, Problem Statement, Rule / Workflow / Agent, quyết định cuối...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI RoadMap.md",
+      "source": "Artificial_Intelligence/AI RoadMap.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/AI RoadMap.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "AI engineers need to have a good *understanding of deep learning concepts and algorithms.*\n\n- **Programming languages:** AI engineers need to be **proficient in programming language**s such as *Pyt...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI System Design Rulebook.md",
+      "source": "Artificial_Intelligence/AI System Design Rulebook.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Engineering & Practices/AI System Design Rulebook.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Dưới đây là **outline + header cho Guide Book** theo đúng mục tiêu của bạn: luyện tư duy nhanh để thiết kế 5 hệ thống RAG trong exam context. # Guide Book: Thiết Kế MVP AI System Với RAG Trong Exam...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AI.md",
+      "source": "Artificial_Intelligence/AI.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/AI.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# [[Generative AI (AI Sáng Tạo)]]\n\n\n# [[AI RoadMap]]\n\n\n# [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)\n\n\n# [How I'd Learn AI in 2023 (if I could start over)](https://youtu.b...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "AIO - Softmax.md",
+      "source": "Artificial_Intelligence/AIO - Softmax.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Deep Learning/AIO - Softmax.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "link: [Software 2.0. I sometimes see people refer to neural… | by Andrej Karpathy | Medium](https://karpathy.medium.com/software-2-0-a64152b37c35)\n==Software 2.0==\n\tprogramming that uses machine le...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Algorithm Problem.md",
+      "source": "Artificial_Intelligence/Algorithm Problem.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Algorithm Problem.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Tower of Hanoi\n[[Recursion]]\n![[Pasted image 20240302095842.png]]\n\n![[Pasted image 20240302101632.png]]\n**from_rod**\n![[Pasted image 20240302101929.png]]\n**to_rod**\n![[Pasted image 2024030210203...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Anaconda Command.md",
+      "source": "Artificial_Intelligence/Anaconda Command.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Development & Tools/Anaconda Command.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "```ad-note\n**Important Notes:**\n\n- You'll typically execute these commands in your command prompt or terminal (like Windows PowerShell or cmd.exe)\n- Replace `<environment_name>` and `<package_name>...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Anaconda.md",
+      "source": "Artificial_Intelligence/Anaconda.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Development & Tools/Anaconda.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Install with **pip vs conda**\n```ad-info\n**pip:**\n- **If you're working strictly in a Python environment and don't need packages beyond what's primarily found on PyPI**. - When you need the absolut...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Artificial Network Using Linear Algebra.md",
+      "source": "Artificial_Intelligence/Artificial Network Using Linear Algebra.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Artificial Network Using Linear Algebra.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "wA as Matrix A \n(don't pay attention to the value, focus on how it work)\n A.T -> Matrix transpose\n ![[Pasted image 20240413092221.png]]\n\nA.T.shape -> shape the matrix\n(4, 2) -> 4 columns and 2 rows...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Autonomous.md",
+      "source": "Artificial_Intelligence/Autonomous.md",
+      "destination": "Artificial_Intelligence/_unsorted/Autonomous.md",
+      "method": "ai",
+      "confidence": "low",
+      "summary": "- **Cấp độ 0 (No Automation) - Không tự động**:\n    \n    - Xe hoàn toàn do con người điều khiển. - Tất cả các quyết định lái xe như tăng tốc, phanh, và điều khiển hướng đều do người lái thực hiện.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Books.md",
+      "source": "Artificial_Intelligence/Books.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Books.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Python\n\n\n# Data Science\n\n\n# Machine Learning practices & code \n\n+ ## [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)\n\n\n---\n# Statistics and Probability\n\n+...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Box Plot.md",
+      "source": "Artificial_Intelligence/Box Plot.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Box Plot.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Lower Part - Q1** mean 25% of data < than this value \n**Outlier** - mean they're less than 3/2 value of the upper-lower quartile \n\nFor example given `[5, 7, 8, 12, 14, 18, 21, 23, 24, 26, 30]`, \n...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Building in a World of Slop.md",
+      "source": "Artificial_Intelligence/Building in a World of Slop.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Building in a World of Slop.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "SAVE TOKENS)\n+ @ core’s quality over a flood of unnecessary “features”\n\tWhat if Coding Agent change your Context every new features. + $ Pi.Agent - adapt coding agent to ur workflow, not the other ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "CLIP.md",
+      "source": "Artificial_Intelligence/CLIP.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/CLIP.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Keypoints - [source](https://www.youtube.com/watch?v=dh8Rxhf7cLU&t=532s)**\n+ Train on Constractive Learning. Simply helping the model learn what is True by also learning what is False.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Cloud Services.md",
+      "source": "Artificial_Intelligence/Cloud Services.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Cloud Services.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## A Cloud Guru\n\n\n## Google Cloud Tranning Resource\n\n\n## AWS Tranning Resource\n\n\n## Microsoft Azure Trainning Resource \n+ **Some amazing path here**",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "cmd command.md",
+      "source": "Artificial_Intelligence/cmd command.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Development & Tools/cmd command.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Connect local terminal to VM by ip\n`ssh root@<sandbox-ip> -p 2222`\n\nGo to root file\n`cd ~`\n\nRemove file \n`rm <file_path>`\nRemov file using super admin role\n`sudo rm <file_path>`\nForce delete\n`sudo ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Concept and Process.md",
+      "source": "Artificial_Intelligence/Concept and Process.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Concept and Process.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Elements of AI\n+ ### [A free online introduction to artificial intelligence for non-experts (elementsofai.com)](https://www.elementsofai.com/)\n\n## Google's Machine Learning Crash Course\n+ ### [M...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "ConNeXt.md",
+      "source": "Artificial_Intelligence/ConNeXt.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/ConNeXt.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## ConNeXt: A ConvNet for the 2020s - Paper Explain\n**From ConvNets to ConvNeXts**\nIn ConvNeXt paper, ViT wa s mis-interpret by not training on augmentations -> This show with enough data, even a o...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Context Engineering.md",
+      "source": "Artificial_Intelligence/Context Engineering.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Engineering & Practices/Context Engineering.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "reference source: https://mirror-feeling-d80.notion.site/Context-Engineering-for-Agents-21f808527b17802db4b1c84a068a0976\n\n\n+ ? LLM is like the CPU and its Context Windown is RAM.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Cost function.md",
+      "source": "Artificial_Intelligence/Cost function.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Cost function.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### **1. Primitive Explanation of Cost Function**\n\n#### **What is a Cost Function?**\n\n**Cost Function** provided a quantitative measure of how well the model's predictions align with the actual dat...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Data.md",
+      "source": "Artificial_Intelligence/Data.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Data.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "| Counting (Frequency), Mode         | Gender, Color, Country        |\n| **Ordinal**     | Categorical data with a clear, logical order or rank. | Comparison ($>$ or $<$), Median    | Education lev...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Datasets.md",
+      "source": "Artificial_Intelligence/Datasets.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Datasets.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Google Dataset Search: use the power of Google search to find different datasets. ## Curated list of free datasets by Dataquest\n\n## Open Images: massive repository of open source images and labels.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Decision Analysis.md",
+      "source": "Artificial_Intelligence/Decision Analysis.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Decision Analysis.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Classification and Regression Trees (CART)\n![[1665584415139.jpg]]\n\n\n---\n\n[Decision Tree Read More](https://towardsdatascience.com/decision-trees-explained-entropy-information-gain-gini-index-ccp...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Deep Reinforcement Learning.md",
+      "source": "Artificial_Intelligence/Deep Reinforcement Learning.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Deep Reinforcement Learning.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Motivation** = Learn through Reinforcement by making mistakes and collecting data on those mistakes to learn how to improve. **Data:** state-action pair\n**Goal:** Minimize future rewards over man...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Deepfake Survey.md",
+      "source": "Artificial_Intelligence/Deepfake Survey.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Deepfake Survey.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Hướng nghiên cứu tóm tắt: \n**Vision encoder “thông thường” học gì?**\n\nVision encoder dùng cho phân loại/nhận diện/VQA kiểu phổ biến chủ yếu học ngữ nghĩa:\nĐây là ai / cái gì (khuôn mặt, xe, biể...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Discrete Mathematics for Computer Science Specialization.md",
+      "source": "Artificial_Intelligence/Discrete Mathematics for Computer Science Specialization.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Discrete Mathematics for Computer Science Specialization.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Proof:** \n+ a long formal convincing explaination \n+ a by-product and a sign of understading\n+ fun concept to understand, the fruit of knowledges. **Objective:**\n+ Learns by examples how to under...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Division by 2 is taken just for scaling purposes.md",
+      "source": "Artificial_Intelligence/Division by 2 is taken just for scaling purposes.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Division by 2 is taken just for scaling purposes.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "In the context of linear regression and gradient descent optimization, the cost function is defined as:\n$$E\\left(m, b\\right) = \\frac{1}{2n}\\sum_{i=1}^{n} \\left(\\hat{y}^{(i)} - y^{(i)}\\right)^2 =\n\\f...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Docker.md",
+      "source": "Artificial_Intelligence/Docker.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Development & Tools/Docker.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "- It uses Python version **3.11**, with the **slim** tag (a minimal version of the Python image that is smaller in size). - Slim versions are faster to download and run but might miss some system t...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "EHRs.md",
+      "source": "Artificial_Intelligence/EHRs.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/EHRs.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### EHRs typically include:\n\n1. **Patient demographics** (name, age, gender, etc.)\n2.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "elbow method.md",
+      "source": "Artificial_Intelligence/elbow method.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/elbow method.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Technical notes and definitions relating to the domain.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Energy-Based Model.md",
+      "source": "Artificial_Intelligence/Energy-Based Model.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Energy-Based Model.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Instead of finding the Minimum point in the gradient, Energy-based model transform the Gradient Flow itself to benefit the Correct answer. Intuition: Instead use 1 universal thinking pattern to ans...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "ESL contents.md",
+      "source": "Artificial_Intelligence/ESL contents.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/ESL contents.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ ? AI replacing humans doesn't seem so far away from now.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Exam Topic CLP Practice.md",
+      "source": "Artificial_Intelligence/Exam Topic CLP Practice.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Exam Topic CLP Practice.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "AWS resource for verify information\ne.g. Which AWS resource is a searchable database of troubleshooting articles and answers to frequently asked technical questions?",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Example AI System Answers.md",
+      "source": "Artificial_Intelligence/Example AI System Answers.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Example AI System Answers.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Dựa trên câu hỏi thiết kế 1 hệ thống AI để trả lời câu hỏi dưới đây theo format sau:\n### Question\nHệ thống hỗ trợ biên soạn học liệu (Giáo dục)\nMột trường trung học phổ thông đang tìm cách triển kh...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Example Code.md",
+      "source": "Artificial_Intelligence/Example Code.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Example Code.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "```python\n# Example: Joint locations before and after normalization\n# Assume two persons are detected in an image of size 1920x1080 (width x height)\nimage_width = 1920\nimage_height = 1080\n\n# Joint ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "expected predicted value.md",
+      "source": "Artificial_Intelligence/expected predicted value.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/expected predicted value.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Expected Value: Discrete Case\n**Mean**: **average value of the whole sets (number)**. Rewrite the equation into probability out of 10 for age 0, 1, 2, 3 we got the fomular for Expected Value.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Explain -delta(cos x).md",
+      "source": "Artificial_Intelligence/Explain -delta(cos x).md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Explain -delta(cos x).md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Directionality and Representation**:\n- To represent this change on the unit circle, we need to show the direction of the change. - When $Δ(cos⁡x)$ is negative, it means the x-coordinate (cosine v...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "FFT - Fast Fourier Transform.md",
+      "source": "Artificial_Intelligence/FFT - Fast Fourier Transform.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/FFT - Fast Fourier Transform.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**What is Fourier Transform ?** Like RGB color mixer where adding 1 color created a new color. Fourier Transform are exactly like that but for Wave and in reverse.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Flamigo - 32 images are enough.md",
+      "source": "Artificial_Intelligence/Flamigo - 32 images are enough.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Flamigo - 32 images are enough.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Keypoints:**\n+ Flammingo focus on fine-tuning the Gated Attention layer where it act as a Translation layer between Text and Image Token \n+ Flammingo Vision Encoder layer is like CLIP but better....",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "GAN.md",
+      "source": "Artificial_Intelligence/GAN.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/GAN.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Training data is limited for the model to understand and replicate the Original image. -> with limited data, we could at least *leverage data mean and std.* \n+ $ So when we talking about GAN, we ta...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Gaussian Elimination from Scratch Documentation 2.md",
+      "source": "Artificial_Intelligence/Gaussian Elimination from Scratch Documentation 2.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Gaussian Elimination from Scratch Documentation 2.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Thing to understand first\n\n\n### 0) Eigenvalue and Eigenvector\n\n\n\n### 1) [Augumented Matrix](https://tutorial.math.lamar.edu/classes/alg/augmentedmatrix.aspx): \n> An **augmented matrix** for a sys...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Generative AI (AI Sáng Tạo).md",
+      "source": "Artificial_Intelligence/Generative AI (AI Sáng Tạo).md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Deep Learning/Generative AI (AI Sáng Tạo).md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "> AI model that generate new content from an original model\n+ They **learn the underlying patterns** (mô hình cơ bản) **of the data** & use that knowledge **to create new contents.**\n\nGAN (**Genera...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "gitignore.md",
+      "source": "Artificial_Intelligence/gitignore.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Development & Tools/gitignore.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### What is .gitignore\n> Git ignore is a way to ignore files and folders that you don't want to push on git. (e.g.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Google Collab.md",
+      "source": "Artificial_Intelligence/Google Collab.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Google Collab.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## **Hardware Accelerator Options:**\n\nThese options allow you to select the type of hardware accelerator you want to use to speed up computations:\n\n- **CPU**:\n    \n    - This option does not use an...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Grammar.md",
+      "source": "Artificial_Intelligence/Grammar.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Grammar.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+  jargon (biệt ngữ),\n+ empirical distribution: phân phối thực nghiệm\n+ devise: thiết kế, sắp đặt\n+ cartesian (in math): represent plan of Dimension (e.g. 1D, 2D, 3D)\n+ factors: yếu tố\n+ inferred c...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Graph Theory.md",
+      "source": "Artificial_Intelligence/Graph Theory.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Graph Theory.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Degree** - total nodes connected to it. **Path Length** - number of nodes in path\n![[Pasted image 20240809102517.png]]\n\n**Cycle** - path that **starts and ends at the same vertex**\n> All Cycle ar...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Handle Missing Data.md",
+      "source": "Artificial_Intelligence/Handle Missing Data.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Handle Missing Data.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Mình vừa phỏng vấn 8 ứng viên Data Analyst tuần này. 7 người fail cùng 1 câu hỏi: \"Em xử lý missing data như thế nào?\" Câu trả lời tiêu chuẩn (và sai):\n- \"Em fillna() bằng mean/median\"\n- \"Em drop h...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Harvard CS50’s Artificial Intelligence with Python.md",
+      "source": "Artificial_Intelligence/Harvard CS50’s Artificial Intelligence with Python.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Harvard CS50’s Artificial Intelligence with Python.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# [[Search Problems]]\n**Conclusion:** Path Finding Algorithm can apply to every Algorithm that want to **search/find the Best Outcomes/Values by calculate steps ahead**  . (Like in Graph, Tree Stru...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Hierarchical Navigable Small Worlds (HNSW).md",
+      "source": "Artificial_Intelligence/Hierarchical Navigable Small Worlds (HNSW).md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Hierarchical Navigable Small Worlds (HNSW).md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ ? **Trade Precision for Speed**.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "History of Reinforcement Learning.md",
+      "source": "Artificial_Intelligence/History of Reinforcement Learning.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/History of Reinforcement Learning.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Discrete value: Giá Trị Rời Rạc\n\tChia giá trị ra thành các phần. State of the word: Perception of the world.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "How To Build A Company With AI From The Ground Up.md",
+      "source": "Artificial_Intelligence/How To Build A Company With AI From The Ground Up.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/How To Build A Company With AI From The Ground Up.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "The AI should be the operating system your company run every layer. RL Goals.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "How to Download Linux.md",
+      "source": "Artificial_Intelligence/How to Download Linux.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Development & Tools/How to Download Linux.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Arch Linux\n**Turtorial**: https://youtu.be/lfUWwZqzHmA?si=CTBTmZpM8Rmf8jfr\n**Arch Linux:** https://mirrors.huongnguyen.dev/arch/iso/2024.08.01/\n\n**Unlock Command**\n```sh\ncertutil -hashfile  .\\arc...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "How to Review a Paper.md",
+      "source": "Artificial_Intelligence/How to Review a Paper.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/How to Review a Paper.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "---\nDùng Extention ExCITATION để lọc research paper (né Frontier, NVDI vì nó phức tạp). vì ít citation nghĩa là tính áp dụng thấp.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "How to Take Notes for Technical Things (Really).md",
+      "source": "Artificial_Intelligence/How to Take Notes for Technical Things (Really).md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/How to Take Notes for Technical Things (Really).md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "> **You truly learn those those thing only when you  Implement them.**\n> -> Therefor studying by memorizing is a waste of time. ## **Tools**\n![[Pasted image 20230903090451.png]]\n\nwatch intro\ntake n...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "How to Use Generative AI.md",
+      "source": "Artificial_Intelligence/How to Use Generative AI.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/How to Use Generative AI.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## AI-Powered Creativity\n+ ? To not become dependent to AI, we need to treat them as a friend rather than a AI.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Human Activity Recognition.md",
+      "source": "Artificial_Intelligence/Human Activity Recognition.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Human Activity Recognition.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# A Survey\nsouce: https://medium.com/@zlodeibaal/action-recognition-in-the-wild-9eb7f12b4d12\n\n+ ? There are 2 way to detect human action.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "hàm biến đổi cục bộ.md",
+      "source": "Artificial_Intelligence/hàm biến đổi cục bộ.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/hàm biến đổi cục bộ.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Hàm biến đổi cục bộ** mô tả cách một hàm số thay đổi trong **một vùng nhỏ xung quanh một điểm cụ thể**. Trong toán học, đặc biệt là trong giải tích đa biến, khi chúng ta nói về \"biến đổi cục bộ,\"...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "ID Card OCR Note.md",
+      "source": "Artificial_Intelligence/ID Card OCR Note.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/ID Card OCR Note.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ ! remember to filter NULL\n**references:**\n+ [invoice information extraction](https://medium.com/analytics-vidhya/invoice-information-extraction-using-ocr-and-deep-learning-b79464f54d69)\n+ [id car...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "ID Card OCR.md",
+      "source": "Artificial_Intelligence/ID Card OCR.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/ID Card OCR.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ ! Let ChatBot do the work, focus on what need to be learned.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Identity Mapping Violation.md",
+      "source": "Artificial_Intelligence/Identity Mapping Violation.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Identity Mapping Violation.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Concise example of **Identity Mapping Violation** specifically in the context of mixing your **SMIF** (Short-term) and **LMI** (Long-term) streams with your pre-trained **Spatial** stream. ### The ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Image Processing.md",
+      "source": "Artificial_Intelligence/Image Processing.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Image Processing.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "`[0, 255] <-> [Black, White]`\n**Import Library and Display image by NxN pixel**\n![[Pasted image 20241205101143.png]]\n\n\n**Display Images using Matplotlib**\nColor Map by Default\n![[Pasted image 20241...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Important AI Research Paper of the 21 century.md",
+      "source": "Artificial_Intelligence/Important AI Research Paper of the 21 century.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Important AI Research Paper of the 21 century.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Random Forest** - using multiple tree to prevent overfitting. **Auto-Encoder** \nEncode data into lower latent dimension to discourver data's hidden features.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Irreducible Error.md",
+      "source": "Artificial_Intelligence/Irreducible Error.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Irreducible Error.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### What is Irreducible Error in Machine Learning ? (Lỗi không thể tránh)\nThe **irreducible error** is the error that **cannot be reduced or eliminated**, even with the best possible model.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Knowledge.md",
+      "source": "Artificial_Intelligence/Knowledge.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Knowledge.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Link: https://youtu.be/5NgNicANyqM?t=6715&si=FZP1pD8wEy0MMJcP\n> How AI know the Infomation, Reason about the infomation, Draw Conclusion and the Principle behind it. **Sentence** -> assertion about...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "L2 (Ridge Regression) Terms.md",
+      "source": "Artificial_Intelligence/L2 (Ridge Regression) Terms.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Machine Learning/L2 (Ridge Regression) Terms.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "1) **1st term:** $$\\frac{1}{m}\\sum^{m}_{i=1}(f_{\\vec{w}, b}(\\vec{x}^{(i)}) - y^{(i)})$$\n- **Represents the training data**: This is the mean squared error (MSE) between the predicted values $f_{\\ve...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Language_Modeling_with_Trigrams_explain.md",
+      "source": "Artificial_Intelligence/Language_Modeling_with_Trigrams_explain.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Language_Modeling_with_Trigrams_explain.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Preprocess\n#### Mục đích và ý nghĩa\n+ @ Đoạn code này nhằm mục đích tiền xử lý dữ liệu văn bản thô bằng cách tách văn bản thành các câu và sau đó tách từng câu thành các token (từ). Việc tokeniz...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Late Chunking.md",
+      "source": "Artificial_Intelligence/Late Chunking.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Late Chunking.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "- [x] Late[source](https://weaviate.io/blog/late-chunking) - [datacamp Implement turtorial](https://www.datacamp.com/tutorial/late-chunking)\n![[Pasted image 20260507182021.png]]\n\n**Late Interaction...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Latent Representation.md",
+      "source": "Artificial_Intelligence/Latent Representation.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Latent Representation.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## What is latent space ? For example:\n+ *in an image classification task*, the input dimensions could be $512 \\times 512 \\times 3$ that correspond to $512\\times512\\times3=786,432$ input pixels.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Latex.md",
+      "source": "Artificial_Intelligence/Latex.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Latex.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Mathematic Logic Sign: https://tanphong.wordpress.com/latex/mot-so-lenh-latex-thuong-su-dung/\n\n![[13161.jpeg]]\n\n##### `\\Left` and `\\Right`\n> **Left and Right make the parenthesis look bigger and sc...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Learning Note.md",
+      "source": "Artificial_Intelligence/Learning Note.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Learning Note.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Building Machine Learning model by Quantifying Uncertainty model\nTry to prove: $$[f^{-1}]'(x)=\\frac{1}{f'(f^{-1}(x))}$$\n\nStart with the definition of the inverse\n$$f(f^{-1}(x))=x$$\nTake the der...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Lesson 2 - Newton's Method.md",
+      "source": "Artificial_Intelligence/Lesson 2 - Newton's Method.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Lesson 2 - Newton's Method.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "> Newton's Method is used to find the 0 of a function. Let's take the tangent at this point X0, so let's take the derivative and draw the tangent and see where it hits the horizontal X axis.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Linearly Dependent and Independent.md",
+      "source": "Artificial_Intelligence/Linearly Dependent and Independent.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Linearly Dependent and Independent.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "A group of vectors is said to be **linearly independent if none of the vectors in the group can be obtained as a linear combination of the others.** or in other word\nExample:\n$v_{1}=(1, 0), v_{2}=(...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "LLMOps.md",
+      "source": "Artificial_Intelligence/LLMOps.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/LLMOps.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Make sure to choose the right Evaluation Metrics like Text comparison when there no exact True/False answer, use human feedback score metrics if human feedback is available. Must have a metrics for...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Log Loss Function in NN Model for Multiple Traning Example.md",
+      "source": "Artificial_Intelligence/Log Loss Function in NN Model for Multiple Traning Example.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Deep Learning/Log Loss Function in NN Model for Multiple Traning Example.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Logarithmic Loss, commonly known as Log Loss or Cross-Entropy Loss, i**s a crucial metric** in machine learning, particularly **in classification problems:**\n\nIt **quantifies the performance of a c...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Log Symmetric Property.md",
+      "source": "Artificial_Intelligence/Log Symmetric Property.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Log Symmetric Property.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "---\nsticker: \"\"\n---\nThe logarithm function makes $f(x)$ symmetric for $x = a$ and $x = \\frac{1}{a}$ because of a key property of logarithms:\n\n\n$$\\log(a) = -\\log\\left(\\frac{1}{a}\\right). $$\n\n### Exp...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "LoRA.md",
+      "source": "Artificial_Intelligence/LoRA.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/LoRA.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ @ LLM have a lot of params, researcher found LLM can learn a new task efficient by just update a small set of weight. LoRA create a new set of weight and update them efficiently while the *origin...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
+      "source": "Artificial_Intelligence/M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/M3 Multi-scale Momentum Muon - What to FOCUS ON.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "To understand **Section 7.2** effectively as a new researcher, you should approach it by breaking down the **motivation** (why they built it), the **theoretical lens** (how they view optimizers), a...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Math Behind Generative Adversarial Networks.md",
+      "source": "Artificial_Intelligence/Math Behind Generative Adversarial Networks.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Math Behind Generative Adversarial Networks.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Technical notes and definitions relating to the domain.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Maximum Marginal Relevance.md",
+      "source": "Artificial_Intelligence/Maximum Marginal Relevance.md",
+      "destination": "Artificial_Intelligence/_unsorted/Maximum Marginal Relevance.md",
+      "method": "ai",
+      "confidence": "low",
+      "summary": "+ ? Retrieved similar documents which are also diverse from each other.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Missing value.md",
+      "source": "Artificial_Intelligence/Missing value.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Missing value.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Missing values in a dataset can occur for a variety of reasons, and they pose significant challenges in data processing and analysis. Understanding how and why these values might be missing is cruc...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "MLS Week 2 - Regression with multiple input variables.md",
+      "source": "Artificial_Intelligence/MLS Week 2 - Regression with multiple input variables.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Machine Learning/MLS Week 2 - Regression with multiple input variables.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Multiple Linear Regression\n\n![[Pasted image 20241014141110.png]]\n+  arrow above parameter (e.g. x) notate that it a vector of number array.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Model Training.md",
+      "source": "Artificial_Intelligence/Model Training.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Model Training.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Tips for better model**\n1. Average pixel size of each bounding box > 40x40 pixels\n    \n2.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Monty Hall Problem.md",
+      "source": "Artificial_Intelligence/Monty Hall Problem.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Monty Hall Problem.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "1 door is a car meaning the prob of each door is. A: 1st door: 0.3333333333\nHowever hypothetically the 1st door is a goat (i.e.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Motivating PCA.md",
+      "source": "Artificial_Intelligence/Motivating PCA.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Motivating PCA.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "note: \nWe represent Dimension using x, y, z axis (e.g. with x, y form a 2D matrix we calc the Means of x and y)\n![[Pasted image 20240704130726.png]]\nGiven a dataset\n+ ?",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Multi-Agent-Architecture.md",
+      "source": "Artificial_Intelligence/Multi-Agent-Architecture.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Agents & Systems/Multi-Agent-Architecture.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Multi-Agent System (MAS)** là kiến trúc nơi nhiều agent hoạt động độc lập nhưng cùng hướng đến một mục tiêu chung, thường là thông qua giao tiếp, phối hợp và chia sẻ tri thức. Trong AI, đặc biệt ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Multi-label guided graph attention network for education image retrieval.md",
+      "source": "Artificial_Intelligence/Multi-label guided graph attention network for education image retrieval.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Multi-label guided graph attention network for education image retrieval.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "note:\nRetrieval doesn't mean Searching\nMulti-label\n+ ? Abstract: add relationship between label/class in the Image.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "My AI Skills.md",
+      "source": "Artificial_Intelligence/My AI Skills.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/My AI Skills.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Mô tả công việc Lab IoT/Smart-Devices**\n+ Thị giác máy tính\n+ Xử lý dữ liệu\n+ Nghiên cứ và áp dụng các công nghệ mới nhất trong Chuyên Môn. **Requirement** \n+ !",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Narrow and Interest Topic - Continual Relation Extraction.md",
+      "source": "Artificial_Intelligence/Narrow and Interest Topic - Continual Relation Extraction.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Narrow and Interest Topic - Continual Relation Extraction.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "#### [[Few-Shot, No Problem - Descriptive Continual Relation Extraction]]\n#### [[Adaptive Prompting for Continual Relation Extraction - A Within-Task Variance Perspective]]\n\n---\n\nFocus on Introduct...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Natural Language Processing.md",
+      "source": "Artificial_Intelligence/Natural Language Processing.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Natural Language Processing.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Text processing\n\n### Pre-processing\n+ Tokenization: raw text into words or sentences. Different tokenizer tokenize text differently\n\t![[Pasted image 20240815204656.png]]\n\t \n+ Cleaning\n\t+ Remove u...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Neural ODEs.md",
+      "source": "Artificial_Intelligence/Neural ODEs.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Neural ODEs.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Resnet inspired upon a Euler Fomula to learn continuous data but the method itself update in discrete-time like a camera snap-shot, not continous. And the Euler Fomula prove to be unstable, a quick...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "NL Slide 1.md",
+      "source": "Artificial_Intelligence/NL Slide 1.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/NL Slide 1.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "then update $\\theta(f_{l})_{i+1}$\n\tbecause we update by chunk size, with one chunk pass for each step, we could check if the step is divisible then update each memory block.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "NL Slide 2.md",
+      "source": "Artificial_Intelligence/NL Slide 2.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/NL Slide 2.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Note: Scout and check the slides first and organize ideas. Don't just learn in Linear, overview the material first.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+      "source": "Artificial_Intelligence/No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/No Vibes Allowed - Solving Hard Problems in Complex Codebases.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ @ **[12-Factor Agent:](https://github.com/humanlayer/12-factor-agents)** engineering techniques that make LLM-powered software more reliable, more scalable, and easier to maintain. Context Engine...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Normalization & Standardization.md",
+      "source": "Artificial_Intelligence/Normalization & Standardization.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Normalization & Standardization.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Note: \n+ *Standardization basically \"Centering and Scaling\"* where $\\mu$ is the *mean of the feature that help center* the data and $\\sigma$ is the *standard deviation of the feature that help scal...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Numpy.md",
+      "source": "Artificial_Intelligence/Numpy.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Numpy.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Python List Limitations\nList - slow and Numpy fast \nWhy -> numpy is Fixed type \n+ ? This is because computer see number as binary but numpy and list see number in 2 diff ways\n\t![[Pasted image 20...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "One-Hot Encoding and Label Encoding.md",
+      "source": "Artificial_Intelligence/One-Hot Encoding and Label Encoding.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/One-Hot Encoding and Label Encoding.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Note: Both are Subset of Categorical Encoding\n## One Hot Encode \nFor the \"color\" variable, one-hot encoding would create **\"color_red\", \"color_green\", and \"color_blue\" columns, with 1 or 0 in each ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "one-hot encoding.md",
+      "source": "Artificial_Intelligence/one-hot encoding.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/one-hot encoding.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "The **softmax log-likelihood** formulation leverages **one-hot encoding** primarily to **simplify the computation of the loss function**, especially when **dealing with matrix or vector operations*...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Orthogonal Projection Loss (2021).md",
+      "source": "Artificial_Intelligence/Orthogonal Projection Loss (2021).md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Deep Learning/Orthogonal Projection Loss (2021).md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Preliminaries:**\n+ [[Vector Dot Product]]\n\tsame direction - positive\n\tperpendicular direction - zero\n\topposite direction - negative\n\nThay vì làm Loss khó hơn thì tập trung vài build model dễ kiểm...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Pandas Code.md",
+      "source": "Artificial_Intelligence/Pandas Code.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Big Data & Databases/Pandas Code.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Data Frame**\n>How .csv data are represent using pandas\n```python\n{\n  'name': ['Alice', 'Bob', 'Charlie'],\n  'score': [95, 85, 78]\n}\n```\n>To turn dictionary to dataframe, simply use `pd.DataFrame(...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Point Estimation.md",
+      "source": "Artificial_Intelligence/Point Estimation.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Point Estimation.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Find the one Event in the Event Space that is most likely lead to an Desired Event.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Pose Estimation Note.md",
+      "source": "Artificial_Intelligence/Pose Estimation Note.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Pose Estimation Note.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ **Bottom Up:** Find the Object's Keypoints (i.e. Skeletons of a Person, Bee, etc...) and use them predict Object.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "predict online course engagement summarize.md",
+      "source": "Artificial_Intelligence/predict online course engagement summarize.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/predict online course engagement summarize.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Data Understanding\n**Load data**, encode catetorical fields. **Evaluate datase (examine datas)**\n\tby checking number of missing value and their missing percentage.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Pretraining LLMs vs Finetunning LLMs.md",
+      "source": "Artificial_Intelligence/Pretraining LLMs vs Finetunning LLMs.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Pretraining LLMs vs Finetunning LLMs.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Pre-training** - already train on a certain type of dataset. -> Pre-training understand the general knowledge, Fine-tunning for in-depth understanding of a field.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Principal Component Analysis Algorithm.md",
+      "source": "Artificial_Intelligence/Principal Component Analysis Algorithm.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Principal Component Analysis Algorithm.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ ? Why: Identify relevance features and remove noise.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Product of Multiple Independent Events.md",
+      "source": "Artificial_Intelligence/Product of Multiple Independent Events.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Product of Multiple Independent Events.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "The **product of all probabilities** refers to multiplying a series of probabilities, often used when dealing with the joint probability of multiple independent events. When we talk about the **\"pr...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Python Bugs.md",
+      "source": "Artificial_Intelligence/Python Bugs.md",
+      "destination": "Artificial_Intelligence/_unsorted/Python Bugs.md",
+      "method": "ai",
+      "confidence": "low",
+      "summary": "#### TypeError when accessing sublist from a list\n```python\npairs = [[[0, 1, 1, 0, 1], [1, 0, 1, 0, 0]], [[0, 0, 1, 0, 1], [1, 0, 1, 1, 1]], [0, 0, 0, 1, 0]]\n\ndef swap_gene_value_at_index(pairs, th...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Python Note.md",
+      "source": "Artificial_Intelligence/Python Note.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Python Note.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Python Good Habit\n> This will improve your coding readbility and performance. + !",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Python OOP.md",
+      "source": "Artificial_Intelligence/Python OOP.md",
+      "destination": "Artificial_Intelligence/_unsorted/Python OOP.md",
+      "method": "ai",
+      "confidence": "low",
+      "summary": "# OOP\n#### `__init__`\n+ ? The `__init__()` function is called automatically every time the class is being used by a Object, it just empty when you don't initialize it.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Q-Learning Update.md",
+      "source": "Artificial_Intelligence/Q-Learning Update.md",
+      "destination": "Artificial_Intelligence/_unsorted/Q-Learning Update.md",
+      "method": "ai",
+      "confidence": "low",
+      "summary": "### Understanding the Update Term\nThe term you're referring to:\n$\\alpha \\left[r + \\gamma \\cdot \\max_{a'} Q(s', a') - Q(s, a)\\right]$\n\nis the amount by which the Q-value $Q(s, a)$ is adjusted during...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "QLearning & DeepQLearning.md",
+      "source": "Artificial_Intelligence/QLearning & DeepQLearning.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/QLearning & DeepQLearning.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Agent: algorithm take a action, the enviroment give the agent a reward for set action and produces the next state. Ex:\nSnake eat apple +20\nSnake die in any way -10\n\n![[Pasted image 20240808151913.p...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "QLearning Solve Example.md",
+      "source": "Artificial_Intelligence/QLearning Solve Example.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/QLearning Solve Example.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "For S2, it 1.5. **Target Policy:** the policy the agent is trying to learn.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Quantum-Computing-Foundations.md",
+      "source": "Artificial_Intelligence/Quantum-Computing-Foundations.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Quantum-Computing-Foundations.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "---\ncategory: \"3_RESOURCES/Quantum Computing\"\nsummary: \"Covers mathematical foundations of qubits in superposition and quantum entanglement. Analyzes Shor's algorithm for prime factorization in pol...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Regex.md",
+      "source": "Artificial_Intelligence/Regex.md",
+      "destination": "Artificial_Intelligence/_unsorted/Regex.md",
+      "method": "ai",
+      "confidence": "low",
+      "summary": "`\".\"` mean it match any characters -> match all chars but *only scan for 1 char*\n`*` matches zero or more occurences -> `.*` -> *match all chars and scan for all chars*\n`?` makes the match non-grad...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Regression Trees and Regression Tree Prunning.md",
+      "source": "Artificial_Intelligence/Regression Trees and Regression Tree Prunning.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Machine Learning/Regression Trees and Regression Tree Prunning.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Note: \n+ ? Central to the language of regression are the notions of one designated **dependent variable and one or more predictor variables.** In the **height-vs.-weight example**, we can **think o...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Reinforcement Learning Algorithm.md",
+      "source": "Artificial_Intelligence/Reinforcement Learning Algorithm.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Reinforcement Learning Algorithm.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Q-Learning\nQ-Learning is a model-free reinforcement learning algorithm used to learn the value of an action in a particular state. It aims to find the optimal action-selection policy for a given ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Reinforcement Learning for Agents.md",
+      "source": "Artificial_Intelligence/Reinforcement Learning for Agents.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AI Agents & Systems/Reinforcement Learning for Agents.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "source: https://www.youtube.com/watch?v=JIsgyk0Paic\n\n---\n\n![[Pasted image 20250309100117.png]]\n\n![[Pasted image 20250309100558.png]]\n\n![[Pasted image 20250309100734.png]]\nDo more what good, do less...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Relationship Symbol.md",
+      "source": "Artificial_Intelligence/Relationship Symbol.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/Relationship Symbol.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Summary Table of Probability Symbols\n\n| Symbol               | Meaning                                  |\n| -------------------- | ---------------------------------------- |\n| $\\cup$           ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Research Tools.md",
+      "source": "Artificial_Intelligence/Research Tools.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Research Tools.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Arxanon - Cross-domain ML research engine\nProblems: most SoTA paper refer ideas cross-domain. search for relavent paper base on \"User Prompt\", \n1.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Search Problems.md",
+      "source": "Artificial_Intelligence/Search Problems.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Search Problems.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Link: https://youtu.be/5NgNicANyqM?t=146&si=dt6DHZ_-ndohAFA3\n**AGENT** \n\tentity that perceives its environment and acts upon that environment\n\t+ can be a car, person, Obj in general\n\n**STATE**\n\ta c...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Seminar Deep Seek - How ChatBot Impact Ours World.md",
+      "source": "Artificial_Intelligence/Seminar Deep Seek - How ChatBot Impact Ours World.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Seminar Deep Seek - How ChatBot Impact Ours World.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "AIME - logic and prob solving\nCodeforce - code\nGQPA - teaching, multi-task\n\n\nSparse Model - seperate (specialize) model for each task \n\nChatgpt: FP16 or 32. DeepSeek: FP8 -> more efficient.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Setup Anaconda Guide.md",
+      "source": "Artificial_Intelligence/Setup Anaconda Guide.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Development & Tools/Setup Anaconda Guide.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Choose an conda env\n![[Pasted image 20240314110643.png]]\n\nActivate the env\n![[Pasted image 20240314110702.png]]\n\n\nFor PyCharm \n\tCheck for python path inside the env \n\t![[Pasted image 20240314110730...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Slope.md",
+      "source": "Artificial_Intelligence/Slope.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Slope.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "y = mx + b\n+ m as slope (slope = rise / run) \n+ b as y-intercept (because it cut/cross y-axis off)\n+ x & y as the coordiante\n\t\n+ ? Example if $y = \\frac{1}{2}x + 3$ then b will intercept 3 in y-axis.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Snake AI.md",
+      "source": "Artificial_Intelligence/Snake AI.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Snake AI.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Part 1: Theory\n> Teach and make agent to take actions in an env in order to maximize the notion of cumulative reward. + **Algorithm**: Deep Q Learning.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+      "source": "Artificial_Intelligence/Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Software Fundamentals Matter More Than Ever - Matt Pocock.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Bad Generation is expensive more than ever because No-one know exactly what they want.**\n\n+ ! Failure Mode #1 - AI doesn't do what I want.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "standard deviation.md",
+      "source": "Artificial_Intelligence/standard deviation.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Machine Learning/standard deviation.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**People height Deviate from the mean value**\n![[Pasted image 20240926103640.png]]\nHow much a standard person deviate from the means value -> Standard devisation\n![[Pasted image 20240926103814.png]...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Student Engagement Metrics Survey.md",
+      "source": "Artificial_Intelligence/Student Engagement Metrics Survey.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Student Engagement Metrics Survey.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "+ ? **key (int)** \n\t**index**: Unique row index of the dataset (autogenerated).",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Symbolic with Numpy.md",
+      "source": "Artificial_Intelligence/Symbolic with Numpy.md",
+      "destination": "Artificial_Intelligence/_unsorted/Symbolic with Numpy.md",
+      "method": "ai",
+      "confidence": "low",
+      "summary": "It is possible to evaluate the symbolic functions for each element of the array, but you need to make a function `NumPy`-friendly first:\n```python\nfrom sympy.utilities.lambdify import lambdify\n\nf_s...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Template.md",
+      "source": "Artificial_Intelligence/Template.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Template.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Hướng tiếp cận: Phân tích bài toán => Evaluation Metric => Tạo RAG Framework (Các bước cơ bản của RAG -> ghép Method vô sau) \nGhép method ntn:\nDựa vào Input (Text, image, bảng hay cả 3) -> Vấn đề. ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "text.md",
+      "source": "Artificial_Intelligence/text.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/text.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Trực giác về hàm Softmax Loss\n**Mục tiêu:** phân loại nhiều lớp bằng Cross-Entropy loss. $\\arg \\max_{\\theta}(L(\\theta))$ $\\to \\arg \\max_{\\theta}$ có nghĩa là tìm $\\theta$ sao cho $L(\\theta)$ đạ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "The Argument of a Complex Number.md",
+      "source": "Artificial_Intelligence/The Argument of a Complex Number.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/The Argument of a Complex Number.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Understanding the **Arg** Function in Mathematics\n\nIn mathematics, particularly in complex analysis, **arg** stands for **argument**. It is a function that **gives the angle (in radians or degree...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "trace.md",
+      "source": "Artificial_Intelligence/trace.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/trace.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Let’s visualize a simple $3 \\times 3$ matrix $A$ and illustrate what the trace would look like:\n\nConsider the matrix:\n$$\nA = \\begin{bmatrix} \na_{11} & a_{12} & a_{13} \\\\ \na_{21} & a_{22} & a_{23} \\...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Transfer Learning.md",
+      "source": "Artificial_Intelligence/Transfer Learning.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Transfer Learning.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## Transfer Learning\n+ ? Instead of starting/training from scratch, model starting from some where (i.e.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Trigram_model.md",
+      "source": "Artificial_Intelligence/Trigram_model.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/NLP & RAG/Trigram_model.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "# Import Libary\n```python\nimport os\nimport pickle\nfrom nltk.lm import KneserNeyInterpolated\nfrom nltk.lm.preprocessing import padded_everygram_pipeline\nfrom nltk.tokenize import word_tokenize\n```\n-...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Triplet Loss.md",
+      "source": "Artificial_Intelligence/Triplet Loss.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Deep Learning/Triplet Loss.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Below is your note converted into an Obsidian-friendly Markdown note with LaTeX formatting:\n\n---\n\n# Triplet Loss in SBERT Fine-Tuning\n\nLet’s break down the triplet loss formula used in fine-tuning ...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Uncertainty.md",
+      "source": "Artificial_Intelligence/Uncertainty.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Uncertainty.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "Link:  https://youtu.be/5NgNicANyqM?t=13179&si=xzydrSjRPNs8BEY_\n#### Probability: It might be right, it might be not. **Axiom:** Tiên đề\n**Intuitively:** trực quan\n\n![[Pasted image 20230916082750.p...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Using Real World Images.md",
+      "source": "Artificial_Intelligence/Using Real World Images.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Using Real World Images.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "then the buffer filled again by adding 1001st image and moving another random image to shuffle dataset\n\t`.prefetch(tf.data.AUTOTUNE):` allow parallel execution \n\n2) Defining ConvNet\n ![[Pasted imag...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Virtual Assistant Model.md",
+      "source": "Artificial_Intelligence/Virtual Assistant Model.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/AWS & Cloud/Virtual Assistant Model.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "10. Nghiên cứu, xây dựng trợ lý ảo cho tạp chí khoa học có tích hợp học máy\nhttps://github.com/DAIKOOH12/bot_rasa\nhttps://sites.google.com/a/ctu.edu.vn/luu-tien-dhao/chatbot\nhttps://ww...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "What exactly is e, Exploring e in 5 Levels of Complexity.md",
+      "source": "Artificial_Intelligence/What exactly is e, Exploring e in 5 Levels of Complexity.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/What exactly is e, Exploring e in 5 Levels of Complexity.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### Level 1: Compound Interest\n![[Pasted image 20241031153957.png]]\n\n### Level 2: Probability\n![[Pasted image 20241031154029.png]]\nBut What's the probability the player loses all n times? The fomul...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "What Is AI.md",
+      "source": "Artificial_Intelligence/What Is AI.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/What Is AI.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "## AI\n+ **ANI** (artificial narrow intelligence)\n\t\t(1 trick pony, valuable when applied the right way)\n\t+ E.g., smart speaker, self-driving\n\t\tCar, web search, AI in farming\n\t\tand factories\n+ **AGI*...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "What is X.md",
+      "source": "Artificial_Intelligence/What is X.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Mathematics/What is X.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "In this context, $X$ represents the **matrix of input features** for all $m$ training examples. Here’s a detailed explanation of $X$:\n\n### What is $X$?",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "XML_vs_TXT.md",
+      "source": "Artificial_Intelligence/XML_vs_TXT.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Machine Learning/XML_vs_TXT.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "### 1. **XML Format (Pascal VOC)**\n\n- **Structure**: XML is a structured, hierarchical format commonly used in object detection, especially for Pascal VOC datasets.",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Xplainable AI (xAI).md",
+      "source": "Artificial_Intelligence/Xplainable AI (xAI).md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Xplainable AI (xAI).md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "By compare the model performance before and after that part have been permuted. By randomly validate the pot using different color filter, we can identify if the plant classification model actually...",
+      "keywords": [],
+      "collision": false
+    },
+    {
+      "filename": "Xét Tập Xác định.md",
+      "source": "Artificial_Intelligence/Xét Tập Xác định.md",
+      "destination": "Artificial_Intelligence/3_RESOURCES/Computer Vision/Xét Tập Xác định.md",
+      "method": "ai",
+      "confidence": "high",
+      "summary": "**Biểu thức dưới dấu căn không âm:**\n![[Pasted image 20240623110655.png]]\n\n2. **Mẫu số khác không:**\n![[Pasted image 20240623110707.png]]\n \nKết hợp hai điều kiện trên, ta có tập xác định của hàm số...",
+      "keywords": [],
+      "collision": false
+    }
+  ]
+}
