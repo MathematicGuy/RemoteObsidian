@@ -226,6 +226,7 @@
   },
   "active": "6bbbdd4f7fdb8935",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "move_plan.md",
     "_move_plan.json",
     "classifications.json",
@@ -262,5 +263,21 @@
     "scan_temp.json",
     "3_RESOURCES/AI_Books/Convolution_NeuralNetworkPaper.pdf",
     "3_RESOURCES/AI_Books/Exercise 12 Decision Trees, Nearest Neighbor Classifier, Regression Trees.pdf"
+=======
+    "2_ACTIONS/_Focus.md",
+    "3_RESOURCES/AI_Books/Convolution_NeuralNetworkPaper.pdf",
+    "1st Derivative vs 2nd Derivative 1.md",
+    "ALA Week 3 - Advice for Applying Machine Learning 1.md",
+    "Background Subtraction 1.md",
+    "BDA - HW1 1.md",
+    "AWS Cloud Practitioner 1.md",
+    "3_RESOURCES/AI_Books/Exercise 12 Decision Trees, Nearest Neighbor Classifier, Regression Trees.pdf",
+    "3_RESOURCES/AI_Books/Lecture_07_on_Decision_Trees.pdf",
+    "3_RESOURCES/AI_Books/PCA_BachKhoa.pdf",
+    "3_RESOURCES/AI_Books/MachineLearningExercise.pdf",
+    "3_RESOURCES/AI_Books/The Matrix Calculus You Need For Deep Learning by Terrence Parr and Jeremy Howard.pdf",
+    "3_RESOURCES/AI_Books/Seeing Theory A visual introduction to the most useful.pdf",
+    "3_RESOURCES/AI_Books/Math for Machine Learning Book by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.pdf"
+>>>>>>> Stashed changes
   ]
 }

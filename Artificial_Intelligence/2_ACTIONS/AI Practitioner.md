@@ -119,7 +119,6 @@ reference:
 	**Zone C:** The output should vary based on the business goal the map supports, but it could describe the insights and pain points discovered, and the **(7)** opportunities to focus on going forward, as well as **(8)** internal ownership.
 
 giải pháp hiện có là gì, problem statement của nó là gì. 
-
 + @ Vấn đề không phải triệt chứng
 ![[Pasted image 20260531203542.png | 555]]
 

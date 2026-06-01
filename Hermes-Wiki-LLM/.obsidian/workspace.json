@@ -183,8 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c802683ae20c06c1",
+  "active": "cc3961df697e1529",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Human_Read_Only/README.md",
+    "Human_Read_Only/Docs",
+    "Human_Read_Only/~$AI20K Build Phase Exams - Cohort 2 Official.xlsx",
     "schema/SCHEMA.md",
     "schema",
     "raw/Personal_Note_AI_Engineering_Building_Applications_Chip_Huyen.pdf",
@@ -201,10 +205,9 @@
     "images/Pasted image 20260530183956.png",
     "images/Pasted image 20260530183950.png",
     "images",
-    "Human_Read_Only/AI20K Build Phase Exams - Cohort 2 Official.xlsx",
-    "Human_Read_Only/The Design of Everyday Things - Don Norman.pdf",
-    "Human_Read_Only/README.md",
-    "Human_Read_Only/INSPIRED How to Create Tech Products Customers Love.pdf",
+    "Human_Read_Only/Docs/AI20K Build Phase Exams - Cohort 2 Official.xlsx",
+    "Human_Read_Only/Docs/The Design of Everyday Things - Don Norman.pdf",
+    "Human_Read_Only/Docs/INSPIRED How to Create Tech Products Customers Love.pdf",
     "Human_Read_Only/Business_Analyst/NousResearch-hermes-agent TOPOLOGY.md",
     "Human_Read_Only/Business_Analyst/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/01-individual-problem-scan.md",
     "Human_Read_Only/Business_Analyst/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/02-deliverable-example.md",
@@ -217,9 +220,6 @@
     "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/AI-Product-Analyst-Rule-Book.md",
     "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/AI-Product-Analyst-Guide-4GPT.md",
     "Human_Read_Only/Business_Analyst/Business-Analyst-Rule-Book/AI Product Management.md",
-    "Welcome.md",
-    "raw/~$AI20K Build Phase Exams - Cohort 2 Official.xlsx",
-    "Human_Read_Only/Business_Analyst",
     "Business_Analyst/Day02-lab-assignment/02_group_problem_statement)example.md",
     "Business_Analyst/Day02-lab-assignment/02_group_problem_statement-example.md",
     "Business_Analyst/Day02-lab-assignment/02_group_problem_statement.md",
@@ -229,7 +229,6 @@
     "Human_Read_Only/Business_Analyst/Day02-lab-assignment/03-individual-reflection.md",
     "Business_Analysist/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/03-individual-reflection.md",
     "Business_Analysist/Day02-lab-assignment/Day02-2A202600572-DinhNhatThanh/01-individual-problem-scan.md",
-    "Business_Analysist/human-read-only/NousResearch-hermes-agent TOPOLOGY.md",
-    "Business_Analysist/Day02-lab-assignment/README.md"
+    "Business_Analysist/human-read-only/NousResearch-hermes-agent TOPOLOGY.md"
   ]
 }
